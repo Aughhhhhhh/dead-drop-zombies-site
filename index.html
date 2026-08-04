@@ -6,83 +6,26 @@
   <meta name="theme-color" content="#070707">
   <meta name="color-scheme" content="dark">
   <title>Dead Drop — Call of Duty Zombies Guides</title>
-  <meta name="description" content="A game-first Call of Duty Zombies guide archive with complete Easter egg routes, side quests, puzzle references, progress tracking, and source links.">
-  <meta property="og:title" content="Dead Drop — Call of Duty Zombies Guides">
-  <meta property="og:description" content="Choose a game, choose a map, and run every Easter egg with exact steps and useful references.">
-  <meta property="og:type" content="website">
-  <meta property="og:url" content="https://dead-drop-zombies.vercel.app">
-  <meta property="og:image" content="https://dead-drop-zombies.vercel.app/assets/og-card.svg">
-  <meta name="twitter:card" content="summary_large_image">
+  <meta name="description" content="A game-first Call of Duty Zombies archive with separated main quests, required preparation, optional Easter eggs, inline references, and trackable steps.">
   <link rel="icon" href="/favicon.svg" type="image/svg+xml">
   <link rel="manifest" href="/manifest.webmanifest">
-  <link rel="stylesheet" href="/styles.css">
-  <script type="application/ld+json">
-    {"@context":"https://schema.org","@type":"WebSite","name":"Dead Drop","description":"Call of Duty Zombies Easter egg guide archive","url":"https://dead-drop-zombies.vercel.app"}
-  </script>
+  <link rel="stylesheet" href="/styles-v2.css">
 </head>
 <body>
   <a class="skip-link" href="#view">Skip to content</a>
-
   <header class="site-header" id="top">
-    <a class="brand" href="#/" aria-label="Dead Drop home">
-      <span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i></span>
-      <span class="brand-copy"><strong>DEAD DROP</strong><small>ZOMBIES FIELD ARCHIVE</small></span>
-    </a>
-
-    <div class="header-search">
-      <svg aria-hidden="true" viewBox="0 0 24 24"><path d="m21 21-4.35-4.35m2.1-5.4a7.5 7.5 0 1 1-15 0 7.5 7.5 0 0 1 15 0Z"/></svg>
-      <input id="global-search" autocomplete="off" spellcheck="false" aria-label="Search games, maps, quests, codes, and steps" placeholder="Search maps, quests, codes…">
-      <kbd>/</kbd>
-      <div id="search-popover" class="search-popover" hidden></div>
-    </div>
-
-    <nav class="header-nav" aria-label="Primary">
-      <a href="#/">Games</a>
-      <a href="#/tools">Tools</a>
-      <a href="#/accuracy">Accuracy</a>
-    </nav>
-
-    <button class="mobile-menu-button" id="mobile-menu-button" aria-expanded="false" aria-controls="mobile-nav" aria-label="Open navigation">
-      <span></span><span></span><span></span>
-    </button>
+    <a class="brand" href="#/" aria-label="Dead Drop home"><span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i></span><span class="brand-copy"><strong>DEAD DROP</strong><small>ZOMBIES FIELD ARCHIVE</small></span></a>
+    <div class="header-search"><input id="global-search" autocomplete="off" spellcheck="false" aria-label="Search games, maps, quests, codes, and steps" placeholder="Search maps, quests, codes…"><kbd>/</kbd><div id="search-popover" class="search-popover" hidden></div></div>
+    <nav class="header-nav" aria-label="Primary"><a href="#/">Games</a><a href="#/tools">Tools</a><a href="#/accuracy">Accuracy</a></nav>
+    <button class="mobile-menu-button" id="mobile-menu-button" aria-expanded="false" aria-controls="mobile-nav" aria-label="Open navigation"><span></span><span></span><span></span></button>
   </header>
-
-  <nav class="mobile-nav" id="mobile-nav" hidden aria-label="Mobile navigation">
-    <a href="#/">Games</a>
-    <a href="#/tools">Tools</a>
-    <a href="#/accuracy">Accuracy</a>
-  </nav>
-
-  <div id="route-progress" class="route-progress" aria-hidden="true"></div>
-
-  <main id="view" tabindex="-1">
-    <section class="loading-screen" aria-live="polite">
-      <div class="loading-mark"><span></span><span></span><span></span></div>
-      <p>Opening archive…</p>
-    </section>
-  </main>
-
-  <footer class="site-footer">
-    <div>
-      <a class="brand footer-brand" href="#/"><span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i></span><strong>DEAD DROP</strong></a>
-      <p>Independent field guides for Call of Duty Zombies, Exo Zombies, Extinction, and MWZ.</p>
-    </div>
-    <div class="footer-links">
-      <a href="#/accuracy">Verification policy</a>
-      <a href="#/tools">Puzzle tools</a>
-      <button id="copy-correction">Copy correction template</button>
-    </div>
-    <p class="legal">Not affiliated with Activision, Treyarch, Infinity Ward, Sledgehammer Games, or Microsoft. Call of Duty names and imagery belong to their respective owners. Guide text is original and source links are provided for verification.</p>
-  </footer>
-
+  <nav class="mobile-nav" id="mobile-nav" hidden aria-label="Mobile navigation"><a href="#/">Games</a><a href="#/tools">Tools</a><a href="#/accuracy">Accuracy</a></nav>
+  <main id="view" tabindex="-1"><section class="empty-state"><p>Opening archive…</p></section></main>
+  <footer class="site-footer"><div><a class="brand footer-brand" href="#/"><span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i></span><strong>DEAD DROP</strong></a><p>Independent field guides for Call of Duty Zombies, Exo Zombies, Extinction, and MWZ.</p></div><div class="footer-links"><a href="#/accuracy">Verification policy</a><a href="#/tools">Puzzle tools</a></div><p class="legal">Not affiliated with Activision, Treyarch, Infinity Ward, Sledgehammer Games, or Microsoft. Call of Duty names and imagery belong to their respective owners.</p></footer>
   <div id="toast" class="toast" role="status" aria-live="polite"></div>
-  <div id="image-modal" class="image-modal" hidden role="dialog" aria-modal="true" aria-label="Image viewer">
-    <button class="modal-close" aria-label="Close image viewer">×</button>
-    <img alt="">
-    <p></p>
-  </div>
-
   <script src="/data.js"></script>
-  <script src="/app.js"></script>
+  <script src="/data-overrides.js"></script>
+  <script src="/app-v2.js"></script>
+  <script src="/nav-fix.js"></script>
 </body>
 </html>
