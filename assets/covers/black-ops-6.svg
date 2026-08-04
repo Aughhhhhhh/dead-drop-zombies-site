@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="900" viewBox="0 0 600 900" role="img" aria-labelledby="title desc">
+<title id="title">Black Ops 6 cover</title><desc id="desc">Stylized Dead Drop archive cover for Black Ops 6</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111"/><stop offset=".52" stop-color="#080808"/><stop offset="1" stop-color="#020202"/></linearGradient>
+  <radialGradient id="glow" cx="78%" cy="18%" r="68%"><stop stop-color="#ee7038" stop-opacity=".9"/><stop offset=".34" stop-color="#ee7038" stop-opacity=".24"/><stop offset="1" stop-color="#ee7038" stop-opacity="0"/></radialGradient>
+  <filter id="blur"><feGaussianBlur stdDeviation="18"/></filter>
+  <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#fff" stroke-opacity=".035"/></pattern>
+</defs>
+<rect width="600" height="900" fill="url(#bg)"/><rect width="600" height="900" fill="url(#glow)"/><rect width="600" height="900" fill="url(#grid)"/>
+<circle cx="476" cy="164" r="205" fill="none" stroke="#fff" stroke-opacity=".12"/><circle cx="476" cy="164" r="158" fill="none" stroke="#fff" stroke-opacity=".075"/><circle cx="476" cy="164" r="111" fill="none" stroke="#fff" stroke-opacity=".05"/>
+<path d="M-80 430 660 140M-30 625 630 365" stroke="#fff" stroke-opacity=".045" stroke-width="72"/>
+<!-- abstract undead silhouettes -->
+<g opacity=".82" fill="#020202">
+ <path d="M54 492c18-83 64-130 113-132 35-2 55 28 54 62-1 27-17 46-35 60l22 132H42z"/>
+ <path d="M350 498c7-103 42-169 97-177 48-7 82 24 79 68-2 30-18 55-41 71l36 158H318z"/>
+ <path d="M208 520c6-74 34-123 77-128 36-4 62 22 60 57-1 22-13 42-31 54l25 121H183z"/>
+</g>
+<g opacity=".75"><rect x="52" y="52" width="8" height="45" fill="#f4f4f2"/><rect x="65" y="52" width="8" height="45" fill="#f4f4f2"/><rect x="78" y="52" width="8" height="45" fill="#ee7038"/></g>
+<text x="102" y="76" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="4" fill="#f4f4f2">DEAD DROP ARCHIVE</text>
+<text x="52" y="126" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="3" fill="#d0cec9">CALL OF DUTY ZOMBIES</text>
+<text x="550" y="458" transform="rotate(-90 550 458)" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="4" fill="#fff" fill-opacity=".45">Treyarch</text>
+<text x="52" y="490" font-family="Impact, Arial Narrow, sans-serif" font-size="160" font-weight="900" letter-spacing="-5" fill="#fff" fill-opacity=".055">BO</text>
+<text x="52" y="560" font-family="Arial Narrow, Impact, sans-serif" font-size="95" font-weight="900" letter-spacing="2" fill="#f5f2eb">BLACK OPS</text><text x="52" y="648" font-family="Arial Narrow, Impact, sans-serif" font-size="95" font-weight="900" letter-spacing="2" fill="#f5f2eb">VI</text>
+<line x1="52" y1="820" x2="548" y2="820" stroke="#fff" stroke-opacity=".2"/>
+<text x="52" y="854" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="4" fill="#ee7038">2024 • 6 MAP ENTRIES</text>
+</svg>
