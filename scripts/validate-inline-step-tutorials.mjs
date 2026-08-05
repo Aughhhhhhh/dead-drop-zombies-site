@@ -7,13 +7,15 @@ const root = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const errors = [];
 const jsPath = resolve(root, 'bo2-inline-fix.js');
 const cssPath = resolve(root, 'bo2-inline-fix.css');
+const fallbackPath = resolve(root, 'inline-tutorial-branch-neutral.js');
 const indexPath = resolve(root, 'index.html');
 
-for (const path of [jsPath, cssPath, indexPath]) {
+for (const path of [jsPath, cssPath, fallbackPath, indexPath]) {
   if (!existsSync(path)) errors.push(`Missing required file: ${path}`);
 }
 
 const js = readFileSync(jsPath, 'utf8');
+const fallback = readFileSync(fallbackPath, 'utf8');
 const css = readFileSync(cssPath, 'utf8');
 const index = readFileSync(indexPath, 'utf8');
 
@@ -35,6 +37,9 @@ if (!/integrateRequiredTutorials\(map\);\s*if \(BO2_IDS\.has\(map\.id\)\)/s.test
 if (js.includes("guideNode.open = false") || js.includes("wrapper.appendChild(guideNode)")) {
   errors.push('Old collapsed/moved accordion implementation is still present');
 }
+if (!fallback.includes('/maxis drone/i') || !fallback.includes('data-guide-key')) {
+  errors.push('Branch-neutral named-item fallback is missing');
+}
 
 for (const selector of [
   '.step-tutorial-zone',
@@ -47,6 +52,9 @@ for (const selector of [
 }
 if (!index.includes('/bo2-inline-fix.js') || !index.includes('/bo2-inline-fix.css')) {
   errors.push('The global inline tutorial assets are not loaded by index.html');
+}
+if (!index.includes('/inline-tutorial-branch-neutral.js') || index.indexOf('/inline-tutorial-branch-neutral.js') < index.indexOf('/bo2-inline-fix.js')) {
+  errors.push('The branch-neutral fallback is missing or loads before the main integration');
 }
 
 const scripts = [
@@ -98,21 +106,28 @@ if (eligible.length < 10) errors.push(`Only ${eligible.length} maps have testabl
 
 let guides = 0;
 let quests = 0;
+let branchNeutralGuides = 0;
 for (const map of eligible) {
   quests += map.mainQuests.length;
   for (const guide of map.requiredGuides) {
     guides += 1;
     const name = String(guide.name || '').toLowerCase();
+    const branchNeutral = name.includes('maxis drone');
+    if (branchNeutral) branchNeutralGuides += 1;
     const applicable = map.mainQuests.some((quest) => {
       const questName = String(quest.name || '').toLowerCase();
-      for (const branch of ['richtofen', 'maxis']) {
-        if (name.includes(branch) && !questName.includes(branch)) return false;
+      if (!branchNeutral) {
+        for (const branch of ['richtofen', 'maxis']) {
+          if (name.includes(branch) && !questName.includes(branch)) return false;
+        }
       }
       return (quest.steps || []).length > 0;
     });
     if (!applicable) errors.push(`${map.name}: ${guide.name} cannot be attached to any main quest`);
   }
 }
+
+if (branchNeutralGuides < 2) errors.push(`Expected both Origins Maxis Drone guides, found ${branchNeutralGuides}`);
 
 if (errors.length) {
   console.error(errors.map((error) => `- ${error}`).join('\n'));
@@ -123,6 +138,7 @@ console.log(JSON.stringify({
   mapsWithInlineTutorials: eligible.length,
   mainQuestRoutesCovered: quests,
   requiredGuidesCovered: guides,
+  branchNeutralGuides,
   standaloneRequiredSectionHidden: true,
   tutorialsExpandedByDefault: true
 }, null, 2));
