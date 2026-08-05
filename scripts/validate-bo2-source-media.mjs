@@ -11,7 +11,7 @@ const scripts = [
   'bo2-depth-common.js', 'bo2-depth-tranzit.js', 'bo2-depth-tranzit-main.js',
   'bo2-depth-dierise.js', 'bo2-depth-mob.js', 'bo2-depth-buried.js',
   'bo2-depth-origins-staffs.js', 'bo2-depth-origins-map.js', 'bo2-depth-polish.js',
-  'bo2-depth-postfix.js', 'bo2-source-media-overhaul.js'
+  'bo2-depth-postfix.js', 'bo2-source-media-overhaul.js', 'bo2-source-media-cleanup.js'
 ];
 
 for (const file of scripts) {
@@ -19,9 +19,12 @@ for (const file of scripts) {
 }
 
 const index = readFileSync(resolve(root, 'index.html'), 'utf8');
-if (!index.includes('/bo2-source-media-overhaul.js')) errors.push('index.html does not load bo2-source-media-overhaul.js');
+for (const file of ['bo2-source-media-overhaul.js', 'bo2-source-media-cleanup.js']) {
+  if (!index.includes(`/${file}`)) errors.push(`index.html does not load ${file}`);
+}
 if (index.indexOf('/bo2-source-media-overhaul.js') < index.indexOf('/bo2-depth-postfix.js')) errors.push('Source-media overhaul loads before the BO2 depth data is complete');
-if (index.indexOf('/bo2-source-media-overhaul.js') > index.indexOf('/app-v2.js')) errors.push('Source-media overhaul loads after the renderer');
+if (index.indexOf('/bo2-source-media-cleanup.js') < index.indexOf('/bo2-source-media-overhaul.js')) errors.push('Buried media cleanup loads before the source-media overhaul');
+if (index.indexOf('/bo2-source-media-cleanup.js') > index.indexOf('/app-v2.js')) errors.push('Source-media cleanup loads after the renderer');
 
 const decodeEntities = (value = '') => String(value)
   .replaceAll('&amp;', '&')
