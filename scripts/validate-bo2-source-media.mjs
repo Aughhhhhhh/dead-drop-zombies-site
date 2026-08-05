@@ -74,6 +74,7 @@ const stepsFor = (map) => [
   ...(map.requiredGuides ?? []).flatMap((guide) => guide.steps ?? []),
   ...(map.optionalSideQuests ?? []).flatMap((guide) => guide.steps ?? [])
 ];
+const imagesFor = (map) => stepsFor(map).flatMap((step) => step.images ?? []);
 const isGenerated = (src = '') => src.startsWith('data:image/svg+xml') || src.startsWith('/assets/bo2/') || src.startsWith('/assets/origins/');
 
 let sourceMedia = 0;
@@ -98,11 +99,12 @@ for (const map of maps) {
 
 const buried = maps.find((map) => map.id === 'black-ops-2-buried');
 const buriedText = JSON.stringify(buried);
+const buriedImageSources = imagesFor(buried).map((image) => image.src ?? '');
 for (const phrase of ['DRY GULCHER SHAFT', 'LUNGER UNDERMINES', 'CONSUMPTION CROSS', 'GROUND BITER PITS', 'BONE ORCHARD VEIN']) {
   if (!buriedText.includes(phrase)) errors.push(`Buried is missing solved phrase ${phrase}`);
 }
-if (!buriedText.includes('images.saymedia-content.com')) errors.push('Buried is not using the solved five-pattern reference image');
-if (buriedText.includes('bur1.png')) errors.push('Buried still uses the alphabet cipher-key image instead of only the solved reference');
+if (!buriedImageSources.some((src) => src.includes('images.saymedia-content.com'))) errors.push('Buried is not using the solved five-pattern reference image');
+if (buriedImageSources.some((src) => src.includes('bur1.png'))) errors.push('Buried still renders the alphabet cipher-key image instead of the solved reference');
 
 const origins = maps.find((map) => map.id === 'black-ops-2-origins');
 const originsText = JSON.stringify(origins);
