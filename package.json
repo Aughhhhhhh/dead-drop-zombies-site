@@ -1,7 +1,7 @@
 {
   "name": "dead-drop-zombies",
   "private": true,
-  "version": "7.3.1",
+  "version": "7.3.2",
   "scripts": {
     "test": "node scripts/validate.mjs && node scripts/validate-bo123.mjs && node scripts/validate-bo2-depth.mjs && node scripts/validate-bo2-source-media.mjs && node scripts/validate-inline-step-tutorials.mjs && node scripts/validate-origins-order-mod.mjs && node scripts/validate-any-player-download.mjs"
   }
