@@ -70,9 +70,63 @@
     }
   }
 
+  function forceTutorialsOpen() {
+    const requiredSection = document.getElementById('required');
+    if (requiredSection) requiredSection.hidden = true;
+    document.querySelectorAll('.guide-sidebar a[href="#required"]').forEach((link) => link.remove());
+
+    document.querySelectorAll('.step-tutorial-zone').forEach((zone) => {
+      zone.hidden = false;
+      zone.removeAttribute('aria-hidden');
+
+      zone.querySelectorAll('details').forEach((details) => {
+        details.open = true;
+        details.hidden = false;
+      });
+
+      zone.querySelectorAll('.subguide').forEach((guide) => {
+        guide.hidden = false;
+        guide.classList.add('inline-expanded-subguide');
+        const toggle = guide.querySelector('.subguide-toggle');
+        const body = guide.querySelector('.subguide-body');
+        if (toggle) {
+          toggle.setAttribute('aria-expanded', 'true');
+          toggle.hidden = true;
+        }
+        if (body) body.hidden = false;
+      });
+
+      zone.querySelectorAll('[hidden]').forEach((element) => {
+        if (element.matches('.subguide-body, .inline-required-guide, .inline-tutorial-steps, .inline-tutorial-step')) {
+          element.hidden = false;
+        }
+      });
+    });
+
+    document.querySelectorAll('.inline-required-guide, .inline-tutorial-steps, .inline-tutorial-step').forEach((element) => {
+      element.hidden = false;
+      element.removeAttribute('aria-hidden');
+    });
+  }
+
+  function enhance() {
+    ensureBranchNeutralGuides();
+    forceTutorialsOpen();
+  }
+
   const view = document.getElementById('view');
-  const observer = new MutationObserver(() => requestAnimationFrame(ensureBranchNeutralGuides));
-  if (view) observer.observe(view, { childList: true, subtree: true });
-  window.addEventListener('hashchange', () => requestAnimationFrame(ensureBranchNeutralGuides));
-  requestAnimationFrame(ensureBranchNeutralGuides);
+  let queued = false;
+  const queueEnhance = () => {
+    if (queued) return;
+    queued = true;
+    requestAnimationFrame(() => {
+      queued = false;
+      enhance();
+    });
+  };
+
+  const observer = new MutationObserver(queueEnhance);
+  if (view) observer.observe(view, { childList: true, subtree: true, attributes: true, attributeFilter: ['hidden', 'aria-expanded'] });
+  window.addEventListener('hashchange', queueEnhance);
+  queueEnhance();
 })();
