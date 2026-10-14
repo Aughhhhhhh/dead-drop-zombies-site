@@ -1762,6 +1762,47 @@ input[type="search"]::-webkit-search-cancel-button {
 .community-quote li {
   overflow-wrap: anywhere;
 }
+.map-guide-tools {
+  margin: 25px 0 16px;
+}
+.map-guide-tools .search-box {
+  max-width: 640px;
+  margin-bottom: 16px;
+}
+.map-guide-tools .pills {
+  flex-wrap: wrap;
+}
+.map-guide-tools .pill span {
+  margin-left: 6px;
+  color: var(--muted);
+}
+.guide-card[hidden] {
+  display: none;
+}
+.coverage-note summary {
+  cursor: pointer;
+  font-family: var(--heading);
+  font-size: 25px;
+  color: var(--text);
+}
+.coverage-scroll {
+  overflow-x: auto;
+}
+.coverage-scroll .coverage-table {
+  min-width: 640px;
+}
+.coverage-table small {
+  display: block;
+  color: var(--muted);
+  margin-top: 5px;
+}
+.related-guides {
+  margin-top: 18px;
+}
+.related-guides summary {
+  cursor: pointer;
+  color: var(--green);
+}
 .art-label {
   position: absolute;
   bottom: 12px;

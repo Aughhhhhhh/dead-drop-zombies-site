@@ -6,6 +6,7 @@ import {
   readProgress,
   parseRoute,
   externalUrl,
+  expandCommunityGuides,
 } from "./core.js";
 
 const main = document.querySelector("main");
@@ -24,7 +25,9 @@ let games = [],
   guides = [],
   maps = [],
   media = {},
-  references = [];
+  references = [],
+  sourceGaps = [],
+  coverageGaps = [];
 let progress = {};
 let storageAvailable = true;
 let toastTimer;
@@ -95,7 +98,7 @@ function mapCard(map, index) {
 
 function guideCard(guide) {
   const completed = completedFor(guide).length;
-  return `<article class="guide-card"><div class="guide-tags"><span class="tag">${e(categories[guide.category])}</span><span class="difficulty">${e(guide.difficulty)}</span></div><h3><a class="map-card-link" href="#guide/${guide.id}">${e(guide.title)}</a></h3><p>${e(guide.summary)}</p><div class="guide-card-foot"><span>${e(guide.players)} · ${guide.steps.length} steps</span><span aria-hidden="true">↗</span></div>${completed ? `<div class="progress-track" aria-label="${completed} of ${guide.steps.length} steps complete"><div style="width:${(completed / guide.steps.length) * 100}%"></div></div>` : ""}</article>`;
+  return `<article class="guide-card" data-guide-category="${guide.category}" data-search="${e(normalize([guide.title, guide.summary, ...guide.steps.map((step) => step.title + " " + step.body)].join(" ")))}"><div class="guide-tags"><span class="tag">${e(categories[guide.category])}</span><span class="difficulty">${e(guide.difficulty)}</span></div><h3><a class="map-card-link" href="#guide/${guide.id}">${e(guide.title)}</a></h3><p>${e(guide.summary)}</p><div class="guide-card-foot"><span>${guide.sourceQuote ? "Quoted community instructions" : e(guide.players)} · ${guide.steps.length} ${guide.sourceQuote ? "section" : "step"}${guide.steps.length === 1 ? "" : "s"}</span><span aria-hidden="true">↗</span></div>${completed ? `<div class="progress-track" aria-label="${completed} of ${guide.steps.length} steps complete"><div style="width:${(completed / guide.steps.length) * 100}%"></div></div>` : ""}</article>`;
 }
 
 function breadcrumb(map, title = "") {
@@ -104,7 +107,7 @@ function breadcrumb(map, title = "") {
 
 function library(home = false) {
   const saved = Object.keys(progress).length;
-  main.innerHTML = `${home ? `<section class="hero"><img class="hero-art" src="./assets/terminus-recon.jpg" alt="Zombies overrun the Terminus island prison in Black Ops 6" fetchpriority="high" width="1920" height="1080"><div class="wrap"><div class="eyebrow">YOUR NEXT ROUND STARTS HERE</div><h1>Every map.<br>One <em>field manual.</em></h1><p class="hero-copy">Find your map. Follow the steps. Finish the quest.<br>A place for the big endings and the little secrets<br>that make Zombies, Zombies.</p><div class="hero-actions"><a class="button" href="#library">Explore the archive <span aria-hidden="true">→</span></a><a class="text-link" href="#progress">${saved ? "Pick up where you left off" : "Your progress, saved locally"} ${arrow}</a></div><div class="hero-caption">FIELD RECON / TERMINUS<span>BLACK OPS 6 · 2024</span></div></div></section><div class="wrap stat-strip"><div class="stat"><strong>${games.length}</strong><span>Games &<br>spin-offs</span></div><div class="stat"><strong>${maps.length}</strong><span>Maps &<br>modes indexed</span></div><div class="stat"><strong>${guides.length}</strong><span>Step-by-step<br>walkthroughs</span></div><div class="stat-note">Source-linked. Ready for your next run.</div></div>` : ""}<section class="wrap library-section" id="archive"><div class="section-heading"><div><div class="eyebrow">PICK YOUR BATTLEGROUND</div><h2>The archive</h2></div><p>Main quests, hidden songs, wonder weapons, and side quests.<br>Choose a game to find your next rabbit hole.</p></div>${storageNotice()}<div class="library-layout"><aside class="game-panel" aria-label="Filter by game"><div class="sidebar-label">CALL OF DUTY TITLES</div><div class="game-list"><button class="game-filter" data-game="all" aria-pressed="${state.game === "all"}">All games <span>${maps.length}</span></button>${games.map((game) => `<button class="game-filter" data-game="${game.id}" aria-pressed="${state.game === game.id}">${e(game.short)}<span>${game.maps.length}</span></button>`).join("")}</div><div class="sidebar-note">A map in the archive isn’t a promise that every secret is documented.<a href="#coverage">See actual coverage ${arrow}</a></div></aside><div class="library-results"><div class="library-tools">${searchBox("map-search", "Search maps, quests, weapons…", state.query)}<label class="select-wrap"><span class="sr-only">Guide availability</span><select id="availability"><option value="all" ${state.availability === "all" ? "selected" : ""}>All coverage</option><option value="walkthroughs" ${state.availability === "walkthroughs" ? "selected" : ""}>With walkthroughs</option><option value="reference" ${state.availability === "reference" ? "selected" : ""}>With field notes</option></select></label></div><div class="filter-row"><div class="pills" aria-label="Filter guide category"><button class="pill" data-category="all" aria-pressed="${state.category === "all"}">All guides</button>${Object.entries(
+  main.innerHTML = `${home ? `<section class="hero"><img class="hero-art" src="./assets/terminus-recon.jpg" alt="Zombies overrun the Terminus island prison in Black Ops 6" fetchpriority="high" width="1920" height="1080"><div class="wrap"><div class="eyebrow">YOUR NEXT ROUND STARTS HERE</div><h1>Every map.<br>One <em>field manual.</em></h1><p class="hero-copy">Find your map. Follow the steps. Finish the quest.<br>A place for the big endings and the little secrets<br>that make Zombies, Zombies.</p><div class="hero-actions"><a class="button" href="#library">Explore the archive <span aria-hidden="true">→</span></a><a class="text-link" href="#progress">${saved ? "Pick up where you left off" : "Your progress, saved locally"} ${arrow}</a></div><div class="hero-caption">FIELD RECON / TERMINUS<span>BLACK OPS 6 · 2024</span></div></div></section><div class="wrap stat-strip"><div class="stat"><strong>${games.length}</strong><span>Games &<br>spin-offs</span></div><div class="stat"><strong>${maps.length}</strong><span>Maps &<br>modes indexed</span></div><div class="stat"><strong>${guides.length}</strong><span>Guides &<br>checklists</span></div><div class="stat-note">Source-linked. Ready for your next run.</div></div>` : ""}<section class="wrap library-section" id="archive"><div class="section-heading"><div><div class="eyebrow">PICK YOUR BATTLEGROUND</div><h2>The archive</h2></div><p>Main quests, hidden songs, wonder weapons, and side quests.<br>Choose a game to find your next rabbit hole.</p></div>${storageNotice()}<div class="library-layout"><aside class="game-panel" aria-label="Filter by game"><div class="sidebar-label">CALL OF DUTY TITLES</div><div class="game-list"><button class="game-filter" data-game="all" aria-pressed="${state.game === "all"}">All games <span>${maps.length}</span></button>${games.map((game) => `<button class="game-filter" data-game="${game.id}" aria-pressed="${state.game === game.id}">${e(game.short)}<span>${game.maps.length}</span></button>`).join("")}</div><div class="sidebar-note">A map in the archive isn’t a promise that every secret is documented.<a href="#coverage">See actual coverage ${arrow}</a></div></aside><div class="library-results"><div class="library-tools">${searchBox("map-search", "Search maps, quests, weapons…", state.query)}<label class="select-wrap"><span class="sr-only">Guide availability</span><select id="availability"><option value="all" ${state.availability === "all" ? "selected" : ""}>All coverage</option><option value="walkthroughs" ${state.availability === "walkthroughs" ? "selected" : ""}>With guides & checklists</option><option value="reference" ${state.availability === "reference" ? "selected" : ""}>With field notes</option></select></label></div><div class="filter-row"><div class="pills" aria-label="Filter guide category"><button class="pill" data-category="all" aria-pressed="${state.category === "all"}">All guides</button>${Object.entries(
     categories,
   )
     .map(
@@ -168,28 +171,30 @@ function mapPage(map) {
       Object.keys(categories).indexOf(a.category) -
       Object.keys(categories).indexOf(b.category),
   );
-  main.innerHTML = `<section class="wrap page-top">${breadcrumb(map)}<div class="map-banner"><div class="map-banner-copy"><div class="eyebrow">${e(map.game.title)} / ${e(map.release || map.game.year)}</div><h1>${e(map.name)}</h1><p>${e(map.summary)}</p><div class="map-facts"><span>${e(map.mode)}</span><span>${map.guides.length} walkthroughs</span><span>${map.reference ? "Community reference available" : "Source links available"}</span></div></div><img src="${e(image.src)}" alt="${e(image.alt)}" width="960" height="540"></div></section><section class="wrap map-guide-section">${storageNotice()}<div class="section-heading"><div><div class="eyebrow">KNOW BEFORE YOU DROP</div><h2>Choose your mission</h2></div><p>${e(map.questNote || "Player requirements and setup are listed inside each walkthrough.")}</p></div>${sorted.length ? `<div class="guide-list">${sorted.map(guideCard).join("")}</div>` : '<div class="empty"><h3>Walkthroughs are still being researched</h3><p>Read the attributed community reference or linked sources below. This map’s coverage has not been audited.</p></div>'}${map.reference ? `<article class="sources-panel"><div class="eyebrow">COMMUNITY FIELD NOTES</div><h3>Go beyond the walkthroughs</h3><p>${map.reference.sections.length} chapters of attributed source text: map setup, weapons, quests, secrets, and reference notes where the community has documented them. The source can include unfinished sections or multiple game versions.</p><div class="sources-list"><a href="#reference/${map.id}">Read the community reference ${arrow}</a></div></article>` : ""}<div class="sources-panel"><h3>Sources & map notes</h3><p>${e(map.questNote || "No claim of exhaustive coverage. Use these sources to cross-check your game version and any steps awaiting research.")}<br>Image: <a href="${e(image.source)}" target="_blank" rel="noopener noreferrer">${e(image.credit || "Call of Duty / Activision")}</a>${image.mapSpecific === false ? " · Game artwork; not a screenshot of this map." : ""}</p><div class="sources-list">${sourceLinks(map.sources)}</div></div></section>`;
+  main.innerHTML = `<section class="wrap page-top">${breadcrumb(map)}<div class="map-banner"><div class="map-banner-copy"><div class="eyebrow">${e(map.game.title)} / ${e(map.release || map.game.year)}</div><h1>${e(map.name)}</h1><p>${e(map.summary)}</p><div class="map-facts"><span>${e(map.mode)}</span><span>${map.guides.length} guides & checklists</span><span>${map.reference ? "Community reference available" : "Source links available"}</span></div></div><img src="${e(image.src)}" alt="${e(image.alt)}" width="960" height="540"></div></section><section class="wrap map-guide-section">${storageNotice()}<div class="section-heading"><div><div class="eyebrow">KNOW BEFORE YOU DROP</div><h2>Choose your mission</h2></div><p>${e(map.questNote || "Player requirements and setup are listed inside each walkthrough.")}</p></div>${map.gaps.length ? `<details class="coverage-note"><summary>Known research gaps for this map (${map.gaps.length})</summary><ul>${map.gaps.map((gap) => `<li>${e(gap.note)}</li>`).join("")}</ul></details>` : ""}${sorted.length ? `<div class="map-guide-tools">${searchBox("guide-search", "Find a quest, upgrade, song or step…")}<div class="pills" aria-label="Filter map guides"><button class="pill" data-map-category="all" aria-pressed="true">All guides <span>${sorted.length}</span></button>${Object.entries(categories).map(([id, label]) => `<button class="pill" data-map-category="${id}" aria-pressed="false">${e(label)} <span>${sorted.filter((guide) => guide.category === id).length}</span></button>`).join("")}</div></div><p id="guide-results" class="result-count" aria-live="polite">${sorted.length} guides</p><div class="guide-list" id="map-guides">${sorted.map(guideCard).join("")}</div><div id="guide-empty" class="empty" hidden>No guides match these filters.</div>` : '<div class="empty"><h3>Walkthroughs are still being researched</h3><p>Read the attributed community reference or linked sources below. This map’s coverage has not been audited.</p></div>'}${map.reference ? `<article class="sources-panel"><div class="eyebrow">COMMUNITY FIELD NOTES</div><h3>Go beyond the walkthroughs</h3><p>${map.reference.sections.length} chapters of attributed source text: map setup, weapons, quests, secrets, and reference notes where the community has documented them. The source can include unfinished sections or multiple game versions.</p><div class="sources-list"><a href="#reference/${map.id}">Read the community reference ${arrow}</a></div></article>` : ""}<div class="sources-panel"><h3>Sources & map notes</h3><p>${e(map.questNote || "No claim of exhaustive coverage. Use these sources to cross-check your game version and any steps awaiting research.")}<br>Image: <a href="${e(image.source)}" target="_blank" rel="noopener noreferrer">${e(image.credit || "Call of Duty / Activision")}</a>${image.mapSpecific === false ? " · Game artwork; not a screenshot of this map." : ""}</p><div class="sources-list">${sourceLinks(map.sources)}</div></div></section>`;
 }
 
 function reader(guide) {
   const map = maps.find((map) => map.id === guide.mapId);
   const completed = completedFor(guide);
   const images = media.guides?.[guide.id] || [];
-  const recon = media.maps[map.id];
-  const related = map.guides.filter(
-    (other) => other.id !== guide.id && other.category === "weapon",
+  const recon = imageFor(map);
+  const related = guides.filter(
+    (other) => other.id !== guide.id &&
+      ((other.mapId === map.id && other.category === "weapon") || guide.relatedGuideIds?.includes(other.id) ||
+        other.relatedGuideIds?.includes(guide.id)),
   );
-  main.innerHTML = `<section class="wrap page-top">${breadcrumb(map, guide.title)}<div class="guide-header"><div class="guide-tags"><span class="tag">${e(categories[guide.category])}</span><span class="difficulty">${e(guide.players)} · ${e(guide.difficulty)}</span></div><h1>${e(guide.title)}</h1><p>${e(guide.summary)}</p></div></section><div class="wrap reader-layout"><aside class="reader-sidebar" aria-label="Guide chapters"><div class="reader-controls"><p>Your quest progress</p><strong id="step-progress">${completed.length} / ${guide.steps.length} steps</strong><div class="progress-track"><div id="step-progress-bar" style="width:${(completed.length / guide.steps.length) * 100}%"></div></div><div class="reader-buttons"><button data-action="reset-guide" data-guide="${guide.id}">Reset steps</button><button data-action="copy-link">Copy link</button><button data-action="print">Print guide</button></div></div><h2>In this guide</h2><a href="#before-you-start" data-scroll="before-you-start">Before you start</a>${guide.steps.map((step, index) => `<a href="#step-${index + 1}" data-scroll="step-${index + 1}"><span>${String(index + 1).padStart(2, "0")}</span>${e(step.title)}</a>`).join("")}<a href="#guide-sources" data-scroll="guide-sources">Sources & reference</a></aside><article class="reader">${storageNotice()}<section class="prerequisites" id="before-you-start"><h2>Before you start</h2><ul>${guide.requirements.map((requirement) => `<li>${e(requirement)}</li>`).join("")}</ul><p><strong>Reward:</strong> ${e(guide.reward)}</p>${related.length ? `<div class="sources-list">${related.map((other) => `<a href="#guide/${other.id}">${e(other.title)} →</a>`).join("")}</div>` : ""}</section>${recon ? guideImage(recon) : ""}${guide.steps
+  main.innerHTML = `<section class="wrap page-top">${breadcrumb(map, guide.title)}<div class="guide-header"><div class="guide-tags"><span class="tag">${e(categories[guide.category])}</span><span class="difficulty">${e(guide.players)} · ${e(guide.difficulty)}</span></div><h1>${e(guide.title)}</h1><p>${e(guide.summary)}</p></div></section><div class="wrap reader-layout"><aside class="reader-sidebar" aria-label="Guide chapters"><div class="reader-controls"><p>Your quest progress</p><strong id="step-progress">${completed.length} / ${guide.steps.length} steps</strong><div class="progress-track"><div id="step-progress-bar" style="width:${(completed.length / guide.steps.length) * 100}%"></div></div><div class="reader-buttons"><button data-action="reset-guide" data-guide="${guide.id}">Reset steps</button><button data-action="copy-link">Copy link</button><button data-action="print">Print guide</button></div></div><h2>In this guide</h2><a href="#before-you-start" data-scroll="before-you-start">Before you start</a>${guide.steps.map((step, index) => `<a href="#step-${index + 1}" data-scroll="step-${index + 1}"><span>${String(index + 1).padStart(2, "0")}</span>${e(step.title)}</a>`).join("")}<a href="#guide-sources" data-scroll="guide-sources">Sources & reference</a></aside><article class="reader">${storageNotice()}<section class="prerequisites" id="before-you-start"><h2>Before you start</h2><ul>${guide.requirements.map((requirement) => `<li>${e(requirement)}</li>`).join("")}</ul><p><strong>Reward:</strong> ${e(guide.reward)}</p>${related.length ? `<details class="related-guides"><summary>Related setup, upgrades & routes (${related.length})</summary><div class="sources-list">${related.map((other) => `<a href="#guide/${other.id}">${other.mapId !== map.id ? e(maps.find((entry) => entry.id === other.mapId).name) + ": " : ""}${e(other.title)} →</a>`).join("")}</div></details>` : ""}</section>${guide.sourceQuote ? `<div class="community-notice"><strong>Quoted community walkthrough</strong>Source excerpts are quoted from <a href="${e(guide.sourceQuote)}" target="_blank" rel="noopener noreferrer">the credited community source</a>.${guide.sharedSource ? ` The source compares more than one version. <strong>${e(map.game.title)}: ${e(map.questNote)}</strong>` : ""} ${guide.sourceOmissions?.length ? `<p>Source gaps and corrections:</p><ul>${guide.sourceOmissions.map((note) => `<li>${e(note)}</li>`).join("")}</ul>` : ""} ${guide.supplementNote ? `<p>${e(guide.supplementNote)}</p>` : ""}Use the source image links alongside the photos and diagrams here.</div>` : ""}${recon ? guideImage({...recon, caption: recon.caption || (recon.mapSpecific === false ? "Game artwork / reference image" : "Map reconnaissance")}) : ""}${(guide.images || []).map(guideImage).join("")}${guide.steps
     .map(
       (step, index) =>
-        `<section id="step-${index + 1}" class="step ${completed.includes(step.title) ? "checked" : ""}"><div class="step-heading"><label class="step-check"><input type="checkbox" data-guide="${guide.id}" data-step="${e(step.title)}" ${completed.includes(step.title) ? "checked" : ""}><span class="step-index">${String(index + 1).padStart(2, "0")}</span><h2>${e(step.title)}</h2></label></div><p class="step-body">${e(step.body)}</p>${step.tip ? `<div class="step-tip"><strong>Field note</strong>${e(step.tip)}</div>` : ""}${images
-          .filter((image) => image.step === index + 1)
+        `<section id="step-${index + 1}" class="step ${completed.includes(step.title) ? "checked" : ""}"><div class="step-heading"><label class="step-check"><input type="checkbox" data-guide="${guide.id}" data-step="${e(step.title)}" ${completed.includes(step.title) ? "checked" : ""}><span class="step-index">${String(index + 1).padStart(2, "0")}</span><h2>${e(step.title)}</h2></label></div>${guide.sourceQuote && step.html ? `<blockquote class="community-quote" cite="${e(guide.sourceQuote)}">${step.html}</blockquote>` : `<p class="step-body">${e(step.body)}</p>`}${step.tip ? `<div class="step-tip"><strong>Field note</strong>${e(step.tip)}</div>` : ""}${[...images.filter((image) => image.step === index + 1), ...(step.images || [])]
+          .filter((image) => image.src)
           .map(guideImage)
           .join("")}</section>`,
     )
     .join(
       "",
-    )}<section class="sources-panel" id="guide-sources"><h3>Check the source</h3><p>Written from the sources below. Researched ${e(guide.checked)}; not independently playtested. Patch changes and game versions can affect a step.</p><div class="sources-list">${sourceLinks(guide.sources)}${map.reference ? `<a href="#reference/${map.id}">Full community reference ${arrow}</a>` : ""}<a href="${reportLink(map, guide)}" target="_blank" rel="noopener noreferrer">Report a missing or incorrect step ${arrow}</a></div></section></article></div>`;
+    )}<section class="sources-panel" id="guide-sources"><h3>Check the source</h3><p>${guide.sourceQuote ? "Quoted from the community source below" : "Written from the sources below"}. Researched ${e(guide.checked)}; not independently playtested. Patch changes and game versions can affect a step.</p><div class="sources-list">${sourceLinks(guide.sources)}${map.reference ? `<a href="#reference/${map.id}">Full community reference ${arrow}</a>` : ""}<a href="${reportLink(map, guide)}" target="_blank" rel="noopener noreferrer">Report a missing or incorrect step ${arrow}</a></div></section></article></div>`;
 }
 
 function reportLink(map, guide) {
@@ -217,16 +222,18 @@ function progressPage() {
 }
 
 function coveragePage() {
-  const originalMaps = maps.filter((map) => map.guides.length).length;
+  const coveredMaps = maps.filter((map) => map.guides.length).length;
   const referenceMaps = maps.filter((map) => map.reference).length;
-  main.innerHTML = `<section class="wrap page-top"><div class="eyebrow">NO MYSTERY ABOUT THE COVERAGE</div><h1 style="margin-top:15px">Know what’s in the archive.</h1><p class="coverage-intro">The goal is to document every Zombies Easter egg. We haven’t finished that audit. A catalog entry means a map is indexed; it does not mean every main quest, side quest, song, cipher, or secret has been verified.</p><div class="coverage-stats"><div class="coverage-stat"><strong>${guides.length}</strong><span>Original step-by-step walkthroughs across ${originalMaps} maps</span></div><div class="coverage-stat"><strong>${referenceMaps}</strong><span>Map entries with attributed community reference chapters</span></div><div class="coverage-stat"><strong>${maps.length}</strong><span>Maps and modes indexed, each with source links</span></div></div><div class="coverage-note"><h2>How to read the labels</h2><ul><li><strong>Walkthroughs:</strong> written instructions with prerequisites, ordered steps, and a saved checklist. Researched from credited sources; not independently playtested.</li><li><strong>Community reference:</strong> quoted source chapters you can read here. Chapters can be unfinished and can cover more than one map version.</li><li><strong>Source library:</strong> linked references while an in-site guide is still being researched.</li></ul><p>Original releases, remasters, survival variants, and arcade modes have separate catalog entries. Unreleased maps, community custom maps, and mod-only steps are outside this catalog. Secrets with no confirmed solution remain unsolved.</p></div><table class="coverage-table"><caption class="sr-only">Guide coverage by game</caption><thead><tr><th>GAME / MODE</th><th>INDEXED</th><th>WALKTHROUGHS</th><th>FIELD NOTES</th></tr></thead><tbody>${games
+  const originalGuides = guides.filter((guide) => !guide.sourceQuote).length;
+  const missing = maps.filter((map) => !map.guides.length);
+  main.innerHTML = `<section class="wrap page-top"><div class="eyebrow">NO MYSTERY ABOUT THE COVERAGE</div><h1 style="margin-top:15px">Know what’s in the archive.</h1><p class="coverage-intro">Main quests, side quests, weapons, upgrades and songs are organized into individual guides. The inventory below shows exactly which categories are documented on each map. A zero means no in-site guide in that category; it does not establish that the map has no secrets. Unsolved or unverified steps are kept visible as gaps.</p><div class="coverage-stats"><div class="coverage-stat"><strong>${guides.length}</strong><span>Guide cards and checklists across ${coveredMaps} maps and modes</span></div><div class="coverage-stat"><strong>${originalGuides}</strong><span>Original researched guides & checklists; ${guides.length - originalGuides} attributed community topics</span></div><div class="coverage-stat"><strong>${maps.length}</strong><span>Maps and modes indexed, each with source links</span></div></div><div class="coverage-note"><h2>How to read the labels</h2><ul><li><strong>Walkthroughs:</strong> original written instructions with prerequisites, ordered steps and a saved checklist.</li><li><strong>Community guide:</strong> a complete captured source topic with its lists, locations, tables and upgrade sections, quoted and credited inside a saved checklist.</li><li><strong>Community reference:</strong> the broader source book, including map features, lore and any unfinished source sections. Available for ${referenceMaps} map entries.</li><li><strong>Source library:</strong> direct references for entries awaiting an in-site walkthrough.</li></ul><p>Guides are researched from credited sources and have not been independently playtested. Original releases, remasters, survival variants and arcade modes have separate entries. Read version notes before following a route; player requirements and available equipment can differ.</p></div><table class="coverage-table"><caption class="sr-only">Guide coverage by game</caption><thead><tr><th>GAME / MODE</th><th>INDEXED</th><th>GUIDES</th><th>FIELD NOTES</th></tr></thead><tbody>${games
     .map((game) => {
       const entries = maps.filter((map) => map.game.id === game.id);
       return `<tr><td><a href="#library?game=${game.id}">${e(game.title)} ${arrow}</a></td><td>${entries.length}</td><td>${entries.reduce((total, map) => total + map.guides.length, 0)}</td><td>${entries.filter((map) => map.reference).length}</td></tr>`;
     })
     .join(
       "",
-    )}</tbody></table><div class="coverage-note"><h2>Sources, images, and corrections</h2><p>Each map links to its references. Original walkthroughs credit their source material; community quotations credit r/CODZombies. Official artwork is credited to Call of Duty / Activision. Some cards use clearly identified game artwork where a map-specific image is unavailable.</p><p>Use “Report a missing or incorrect step” inside a guide to submit a correction on GitHub with your game version and supporting source. Read the game requirements before starting; solo support and completion requirements vary.</p></div></section>`;
+    )}</tbody></table><details class="coverage-note"><summary>Map-by-map category inventory</summary><div class="coverage-scroll"><table class="coverage-table"><thead><tr><th>MAP / VERSION</th>${Object.values(categories).map((category) => `<th>${e(category)}</th>`).join("")}</tr></thead><tbody>${maps.map((map) => `<tr><td><a href="#map/${map.id}">${e(map.name)}<small>${e(map.game.short)}</small></a></td>${Object.keys(categories).map((category) => `<td>${map.guides.filter((guide) => guide.category === category).length}</td>`).join("")}</tr>`).join("")}</tbody></table></div></details>${missing.length ? `<details class="coverage-note" open><summary>Entries still needing in-site instructions (${missing.length})</summary><p>These entries retain direct sources. Their secrets have not been certified absent.</p><ul>${missing.map((map) => `<li><a href="#map/${map.id}">${e(map.game.short)} / ${e(map.name)}</a></li>`).join("")}</ul></details>` : ""}<details class="coverage-note" open><summary>Known research gaps (${coverageGaps.length} topic groups)</summary><p>These are identified limits of the in-site guides. Having a guide card does not mean every secret on that map has been verified.</p><ul>${coverageGaps.map((gap) => `<li><strong>${gap.mapIds.map((id) => `<a href="#map/${id}">${e(maps.find((map) => map.id === id)?.name || id)}</a>`).join(" / ")}</strong>: ${e(gap.note)}</li>`).join("")}</ul></details><details class="coverage-note"><summary>Unfinished topics in the original community sources (${sourceGaps.length})</summary><p>These source omissions are excluded from community checklist counts. An original walkthrough may cover the same topic; check that map’s guide list.</p><ul>${sourceGaps.map((gap) => `<li>${e(maps.find((map) => map.id === gap.mapIds[0])?.name || gap.mapIds[0])}: <a href="${e(gap.source)}" target="_blank" rel="noopener noreferrer">${e(gap.title)} ↗</a></li>`).join("")}</ul></details><div class="coverage-note"><h2>Sources, images, and corrections</h2><p>Source quotations credit their community authors. Official images credit Call of Duty / Activision; community location photos and original puzzle diagrams name their sources. Game artwork is identified when a map photo is unavailable.</p><p>Use “Report a missing or incorrect step” inside a guide to submit a correction on GitHub with your game version and supporting source. Unknown secrets and unresolved ciphers are not labelled solved.</p></div></section>`;
 }
 
 function render() {
@@ -294,6 +301,14 @@ main.addEventListener("click", async (event) => {
     return;
   }
   const game = event.target.closest("[data-game]");
+  const mapCategory = event.target.closest("[data-map-category]");
+  if (mapCategory) {
+    main.querySelectorAll("[data-map-category]").forEach((button) =>
+      button.setAttribute("aria-pressed", String(button === mapCategory)),
+    );
+    updateMapGuides();
+    return;
+  }
   const category = event.target.closest("[data-category]");
   if (game || category) {
     if (game) state.game = game.dataset.game;
@@ -347,6 +362,7 @@ main.addEventListener("click", async (event) => {
 });
 
 main.addEventListener("input", (event) => {
+  if (event.target.id === "guide-search") updateMapGuides();
   if (event.target.id === "map-search") {
     state.query = event.target.value;
     state.limit = 12;
@@ -399,9 +415,24 @@ main.addEventListener("change", (event) => {
   }
 });
 
+function updateMapGuides() {
+  const input = document.getElementById("guide-search");
+  const category = main.querySelector('[data-map-category][aria-pressed="true"]').dataset.mapCategory;
+  const words = normalize(input.value).trim().split(/\s+/).filter(Boolean);
+  let visible = 0;
+  main.querySelectorAll("#map-guides .guide-card").forEach((card) => {
+    card.hidden = (category !== "all" && card.dataset.guideCategory !== category) ||
+      !words.every((word) => card.dataset.search.includes(word));
+    if (!card.hidden) visible++;
+  });
+  document.getElementById("guide-results").textContent = `${visible} guide${visible === 1 ? "" : "s"}`;
+  document.getElementById("guide-empty").hidden = visible > 0;
+  input.nextElementSibling.hidden = !input.value;
+}
+
 async function load() {
   try {
-    const [catalog, classic, modern, extra, aw, images, fieldNotes] =
+    const [catalog, classic, modern, extra, aw, community, completionClassic, completionModern, completionModes, superQuests, images, fieldNotes, gaps, knownGaps] =
       await Promise.all(
         [
           "catalog.json",
@@ -409,8 +440,15 @@ async function load() {
           "guides-modern.json",
           "guides-extra.json",
           "guides-aw.json",
+          "guides-community.json",
+          "guides-completion-classic.json",
+          "guides-completion-modern.json",
+          "guides-completion-modes.json",
+          "guides-super-ee-doa4.json",
           "media.json",
           "references.json",
+          "source-gaps.json",
+          "coverage-gaps.json",
         ].map(async (file) => {
           const response = await fetch(`./data/${file}`);
           if (!response.ok) throw new Error(`Could not load ${file}`);
@@ -418,9 +456,11 @@ async function load() {
         }),
       );
     games = catalog.games;
-    guides = [...classic, ...modern, ...extra, ...aw];
+    guides = [...classic, ...modern, ...extra, ...aw, ...completionClassic, ...completionModern, ...completionModes, ...superQuests, ...expandCommunityGuides(community)];
     media = images;
     references = fieldNotes;
+    sourceGaps = gaps;
+    coverageGaps = knownGaps;
     maps = games.flatMap((game) =>
       game.maps.map((map, order) => {
         const entries = guides.filter((guide) => guide.mapId === map.id);
@@ -432,6 +472,7 @@ async function load() {
           order,
           game,
           guides: entries,
+          gaps: coverageGaps.filter((gap) => gap.mapIds.includes(map.id)),
           reference,
           search: normalize(
             [

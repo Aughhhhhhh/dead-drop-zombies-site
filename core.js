@@ -5,6 +5,16 @@ export const categories = {
   music: "Music",
 };
 
+export function expandCommunityGuides(topics) {
+  return topics.flatMap((topic) =>
+    topic.mapIds.map((mapId) => ({
+      ...topic,
+      mapId,
+      id: `${mapId}-community-${topic.id}`,
+    })),
+  );
+}
+
 export function escapeHtml(value) {
   return String(value ?? "").replace(
     /[&<>"']/g,

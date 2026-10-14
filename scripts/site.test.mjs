@@ -1,5 +1,5 @@
 import assert from "node:assert/strict";
-import { readFile, access } from "node:fs/promises";
+import { readFile, access, readdir } from "node:fs/promises";
 import { test } from "node:test";
 import {
   categories,
@@ -9,13 +9,14 @@ import {
   readProgress,
   parseRoute,
   externalUrl,
+  expandCommunityGuides,
 } from "../core.js";
 
 const readJson = async (file) =>
   JSON.parse(
     await readFile(new URL(`../data/${file}`, import.meta.url), "utf8"),
   );
-const [catalog, classic, modern, extra, aw, references, media] =
+const [catalog, classic, modern, extra, aw, community, completionClassic, completionModern, completionModes, superQuests, references, media, sourceGaps, coverageGaps] =
   await Promise.all(
     [
       "catalog.json",
@@ -23,12 +24,19 @@ const [catalog, classic, modern, extra, aw, references, media] =
       "guides-modern.json",
       "guides-extra.json",
       "guides-aw.json",
+      "guides-community.json",
+      "guides-completion-classic.json",
+      "guides-completion-modern.json",
+      "guides-completion-modes.json",
+      "guides-super-ee-doa4.json",
       "references.json",
       "media.json",
+      "source-gaps.json",
+      "coverage-gaps.json",
     ].map(readJson),
   );
 const maps = catalog.games.flatMap((game) => game.maps);
-const guides = [...classic, ...modern, ...extra, ...aw];
+const guides = [...classic, ...modern, ...extra, ...aw, ...completionClassic, ...completionModern, ...completionModes, ...superQuests, ...expandCommunityGuides(community)];
 
 test("catalog and walkthrough IDs stay linked and unique", () => {
   assert.equal(
@@ -37,6 +45,7 @@ test("catalog and walkthrough IDs stay linked and unique", () => {
   );
   assert.equal(new Set(maps.map((map) => map.id)).size, maps.length);
   assert.equal(new Set(guides.map((guide) => guide.id)).size, guides.length);
+  assert.ok(maps.every((map) => guides.some((guide) => guide.mapId === map.id)), "Every catalog entry needs in-site instructions");
   for (const map of maps) {
     assert.match(map.id, /^[a-z0-9-]+$/);
     assert.ok(map.name && map.summary && map.mode && map.questNote);
@@ -65,11 +74,43 @@ test("catalog and walkthrough IDs stay linked and unique", () => {
       guide.steps.length,
       `Repeated step title: ${guide.id}`,
     );
-    for (const step of guide.steps)
-      assert.ok(step.title && step.body && step.body.length > 30, guide.id);
+    for (const step of guide.steps) {
+      assert.ok(step.title && step.body && step.body.length >= (guide.sourceQuote ? 3 : 30), guide.id);
+      if (guide.sourceQuote && !step.original) {
+        assert.ok(externalUrl(guide.sourceQuote) && step.html, guide.id);
+        assert.doesNotMatch(step.html, /<script|<iframe|<style|\son\w+\s*=|javascript:|data:|cite|CHANGE ME|\bTBD\b|\bTODO\b/i, guide.id);
+        for (const [, href] of step.html.matchAll(/href="([^"]+)"/g))
+          assert.ok(!href || href.startsWith("https://"), href);
+      }
+    }
     for (const source of guide.sources)
       assert.ok(externalUrl(source.url), source.url);
+    for (const id of guide.relatedGuideIds || [])
+      assert.ok(id !== guide.id && guides.some((other) => other.id === id), id);
   }
+});
+
+test("community routes keep complete upgrade details, tables and version scopes", () => {
+  const balmung = community.find((guide) => guide.title === "Balmung (Shadow)");
+  assert.ok(balmung.steps.some((step) => step.html.includes("<table>") && step.body.includes("Scorpion")));
+  for (const title of ["Void Bow", "Fire Bow", "Lightning/Storm Bow", "Wolf Bow"])
+    assert.ok(community.find((guide) => guide.title === title)?.steps.length >= 6, title);
+  const fireStaff = community.find((guide) => guide.title === "Staff of Fire");
+  assert.ok(fireStaff.steps.some((step) => step.body.includes("red") && step.body.includes("20 Zombie")));
+  const samantha = community.filter((guide) => /Samantha's Lullaby/.test(guide.title));
+  assert.ok(samantha.length >= 5);
+  assert.ok(samantha.every((guide) => guide.mapIds.every((id) => id.startsWith("bo3-"))));
+  for (const id of ["wwii-into-the-storm", "wwii-across-the-depths", "wwii-beneath-the-ice"])
+    assert.ok(guides.some((guide) => guide.mapId === id && guide.category === "main"), id);
+  const kowakujo = community.find((guide) => guide.id === "kowakujo-main-quest-main-quest");
+  assert.ok(kowakujo.steps.some((step) => step.original && step.title.includes("Phase three")));
+  assert.equal(kowakujo.sourceOmissions.length, 0);
+  assert.ok(!references.some((reference) => reference.url.endsWith("/shangri-la/")), "Disabled source must not import subreddit rules");
+  assert.ok(sourceGaps.every((gap) => externalUrl(gap.source) && gap.title && gap.mapIds.every((id) => maps.some((map) => map.id === id))));
+  assert.ok(coverageGaps.every((gap) => gap.note.length > 30 && gap.mapIds.length && gap.mapIds.every((id) => maps.some((map) => map.id === id))));
+  assert.ok(community.find((guide) => guide.id === "shaolin-shuffle-easter-eggs-main-easter-egg").steps.length > 15);
+  const superQuest = superQuests.find((guide) => guide.id === "bo7-super-easter-egg-mister-peeks-mayhem");
+  assert.equal(superQuest.relatedGuideIds.filter((id) => id.endsWith("-toy")).length, 6);
 });
 
 test("quoted references keep attribution and only safe markup", () => {
@@ -207,11 +248,17 @@ test("all delivered images exist and have usable attribution", async () => {
     ...Object.values(media.maps),
     ...Object.values(media.games),
     ...Object.values(media.guides || {}).flat(),
+    ...guides.flatMap((guide) => [
+      ...(guide.images || []),
+      ...guide.steps.flatMap((step) => step.images || []),
+    ]),
   ];
+  const assetNames = new Set(await readdir(new URL("../assets/", import.meta.url)));
   for (const image of images) {
     assert.ok(image.alt && image.source && image.credit);
     assert.ok(externalUrl(image.source));
     assert.ok(image.src.startsWith("./assets/"));
+    assert.ok(assetNames.has(image.src.slice("./assets/".length)), `Image filename case: ${image.src}`);
     await access(new URL(`../${image.src}`, import.meta.url));
   }
 });
