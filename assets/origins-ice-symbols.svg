@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 650" role="img" aria-labelledby="title desc">
+  <title id="title">Origins Ice Staff circle and rune number reference</title>
+  <desc id="desc">Hollow circle means zero, filled circle means one, two vertically stacked circles mean two. Rune values are triangle zero, triangle with line one, L shape two, and F shape three. The example 102 in base three equals 23 in base four, both eleven.</desc>
+  <rect width="1040" height="650" fill="#171d20"/>
+  <g font-family="Arial,sans-serif" fill="#e2edf0">
+    <text x="42" y="52" font-size="27" font-weight="bold">ORIGINS / ICE STAFF SYMBOLS</text>
+    <text x="42" y="83" font-size="15" fill="#a2b7bd">Schematic reference · read the groups from left to right</text>
+    <path d="M42 108h956M514 132v268M42 425h956" stroke="#3c5057"/>
+    <text x="42" y="151" font-size="17" fill="#8fcddc">CIRCLE DIGITS (BASE 3)</text>
+    <text x="554" y="151" font-size="17" fill="#8fcddc">RUNE DIGITS (BASE 4)</text>
+    <circle cx="95" cy="210" r="15" fill="none" stroke="#e2edf0" stroke-width="3"/>
+    <circle cx="95" cy="275" r="15"/>
+    <circle cx="95" cy="333" r="10"/><circle cx="95" cy="358" r="10"/>
+    <text x="141" y="216" font-size="20">0 — hollow circle</text>
+    <text x="141" y="281" font-size="20">1 — filled circle</text>
+    <text x="141" y="351" font-size="20">2 — two stacked circles</text>
+    <g fill="none" stroke="#e2edf0" stroke-width="3">
+      <path d="m571 199 24-13v26z"/>
+      <path d="m571 251 24-13v26zM595 236v32"/>
+      <path d="M576 286v30h24"/>
+      <path d="M576 369v-30h25M576 352h20"/>
+    </g>
+    <text x="626" y="205" font-size="19">0 — triangle</text>
+    <text x="626" y="257" font-size="19">1 — triangle with one line</text>
+    <text x="626" y="309" font-size="19">2 — L-shaped rune</text>
+    <text x="626" y="361" font-size="19">3 — F-shaped rune</text>
+    <text x="42" y="465" font-size="18" fill="#8fcddc">EXAMPLE: BOTH SIDES MEAN ELEVEN</text>
+    <circle cx="84" cy="510" r="12"/><circle cx="140" cy="510" r="12" fill="none" stroke="#e2edf0" stroke-width="3"/>
+    <circle cx="198" cy="499" r="8"/><circle cx="198" cy="521" r="8"/>
+    <text x="257" y="518" font-size="24">→ 1 × 9 + 0 × 3 + 2 = 11</text>
+    <text x="631" y="518" font-size="24">→ 2 × 4 + 3 → L then F</text>
+    <text x="42" y="579" font-size="16">Three circle groups: weights 9, 3, 1. Two groups: weights 3, 1.</text>
+    <text x="42" y="610" font-size="15" fill="#a2b7bd">Two horizontal dots are separate digits. Two vertical dots are one digit with value 2.</text>
+  </g>
+</svg>

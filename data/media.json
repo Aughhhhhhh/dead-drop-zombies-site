@@ -1,0 +1,330 @@
+{
+  "fallback": {
+    "src": "./assets/archive-cover.svg",
+    "alt": "Archive placeholder: map screenshot still to be added",
+    "source": "https://github.com/Aughhhhhhh/dead-drop-zombies-site",
+    "credit": "Dead Drop original placeholder",
+    "mapSpecific": false
+  },
+  "maps": {
+    "bo1-moon": {
+      "src": "./assets/bo1-moon.jpg",
+      "alt": "Zombies outside the Moon base in the original Black Ops.",
+      "source": "https://store.steampowered.com/app/42719/",
+      "credit": "Call of Duty / Activision",
+      "mapSpecific": true
+    },
+    "bo2-origins": {
+      "src": "./assets/bo2-origins.jpg",
+      "alt": "A giant robot above the battlefield in Black Ops II Origins.",
+      "source": "https://store.steampowered.com/app/219103/",
+      "credit": "Call of Duty / Activision",
+      "mapSpecific": true
+    },
+    "bo3-der-eisendrache": {
+      "src": "./assets/bo3-der-eisendrache.jpg",
+      "alt": "A fight inside Der Eisendrache in official Black Ops III promotional imagery.",
+      "source": "https://blog.activision.com/uk/en/call-of-duty/archives/watch-the-new-trailer-for-call-of-duty-black-ops-3-awakenings-der-eisendrache",
+      "credit": "Call of Duty / Activision",
+      "mapSpecific": true
+    },
+    "bo3-shadows-of-evil": {
+      "src": "./assets/bo3-shadows-of-evil.jpg",
+      "alt": "An undead resident in Morg City on Shadows of Evil.",
+      "source": "https://blog.activision.com/call-of-duty/archives/call-of-duty-black-ops-3-zombies-shadows-of-evil-revealed",
+      "credit": "Call of Duty / Activision",
+      "mapSpecific": true
+    },
+    "bo4-ix": {
+      "src": "./assets/bo4-ix.jpg",
+      "alt": "Official Black Ops 4 IX promotional artwork.",
+      "source": "https://www.callofduty.com/ja/blog/2018-10/zombies-go-to-ancient-egypt-in-ix",
+      "credit": "Call of Duty / Activision",
+      "mapSpecific": true
+    },
+    "coldwar-die-maschine": {
+      "src": "./assets/coldwar-die-maschine.jpg",
+      "alt": "Zombies and Requiem operators in Die Maschine's Dark Aether.",
+      "source": "https://news.blizzard.com/en-us/article/23529007/call-of-duty-black-ops-cold-war-zombies-a-new-beginning",
+      "credit": "Call of Duty / Activision",
+      "mapSpecific": true
+    },
+    "iw-zombies-in-spaceland": {
+      "src": "./assets/iw-zombies-in-spaceland.jpg",
+      "alt": "Zombies attack beneath the neon attractions in Zombies in Spaceland.",
+      "source": "https://blog.activision.com/au/en/call-of-duty/archives/zombies-in-spaceland-is-here-and-its-totally-tubular",
+      "credit": "Call of Duty / Activision",
+      "mapSpecific": true
+    },
+    "bo6-citadelle-des-morts": {
+      "src": "./assets/bo6-citadelle-des-morts.webp",
+      "alt": "Citadelle des Morts village square with the castle in the distance.",
+      "source": "https://www.callofduty.com/guides/blackops6/zombies/call-of-duty-guides-black-ops-6-round-based-zombies-citadelle-des-morts",
+      "credit": "Call of Duty / Activision",
+      "mapSpecific": true
+    },
+    "bo6-the-tomb": {
+      "src": "./assets/bo6-the-tomb.webp",
+      "alt": "The Tomb's Dig Site ruins in Black Ops 6.",
+      "source": "https://www.callofduty.com/guides/blackops6/zombies/call-of-duty-guides-black-ops-6-round-based-zombies-the-tomb",
+      "credit": "Call of Duty / Activision",
+      "mapSpecific": true
+    },
+    "bo6-shattered-veil": {
+      "src": "./assets/bo6-shattered-veil.webp",
+      "alt": "Sam Colton Hall and its courtyard on Shattered Veil.",
+      "source": "https://www.callofduty.com/guides/blackops6/zombies/call-of-duty-guides-black-ops-6-round-based-zombies-directed-mode-shattered-veil",
+      "credit": "Call of Duty / Activision",
+      "mapSpecific": true
+    },
+    "bo6-reckoning": {
+      "src": "./assets/bo6-reckoning.jpg",
+      "alt": "The Janus Towers reception lobby on Reckoning.",
+      "source": "https://www.callofduty.com/guides/blackops6/zombies/call-of-duty-guides-black-ops-6-round-based-zombies-directed-mode-reckoning",
+      "credit": "Call of Duty / Activision",
+      "mapSpecific": true
+    },
+    "bo7-ashes-of-the-damned": {
+      "src": "./assets/bo7-ashes-of-the-damned.webp",
+      "alt": "Ol' Tessie beside the neon sign on Ashes of the Damned.",
+      "source": "https://www.callofduty.com/guides/blackops7/zombies/ashes-of-the-damned",
+      "credit": "Call of Duty / Activision",
+      "mapSpecific": true
+    },
+    "bo7-astra-malorum": {
+      "src": "./assets/bo7-astra-malorum.webp",
+      "alt": "Official Astra Malorum collage showing the observatory and map artwork.",
+      "source": "https://www.callofduty.com/guides/blackops7/zombies/astra-malorum",
+      "credit": "Call of Duty / Activision",
+      "mapSpecific": true
+    },
+    "vanguard-shi-no-numa": {
+      "src": "./assets/vanguard-shi-no-numa.jpg",
+      "alt": "Official Vanguard Shi No Numa promotional image.",
+      "source": "https://www.callofduty.com/au/en/blog/2022/06/call-of-duty-vanguard-zombies-shi-no-numa-survival-guide-map",
+      "credit": "Call of Duty / Activision",
+      "mapSpecific": true
+    },
+    "mw3-urzikstan": {
+      "src": "./assets/mw3-zombies.jpg",
+      "alt": "Official Modern Warfare III Zombies promotional image.",
+      "source": "https://www.callofduty.com/guides/zombies/call-of-duty-guide-modern-warfare-zombies-tactics",
+      "credit": "Call of Duty / Activision",
+      "mapSpecific": true
+    },
+    "cod-mobile-shi-no-numa": {
+      "src": "./assets/cod-mobile-shi-no-numa.jpg",
+      "alt": "Shi No Numa in the Call of Duty: Mobile Zombies mode.",
+      "source": "https://blog.activision.com/call-of-duty/2019-11/Call-of-Duty-Mobile-Zombies-Map-Snapshot-Shi-No-Numa",
+      "credit": "Call of Duty / Activision",
+      "mapSpecific": true
+    },
+    "bo6-terminus": {
+      "src": "./assets/terminus-recon.jpg",
+      "alt": "Zombies invade the Terminus island prison",
+      "source": "https://www.callofduty.com/blog/2024/10/call-of-duty-black-ops-6-launch-comms-zombies-mode-prep-intel",
+      "credit": "Call of Duty / Activision",
+      "mapSpecific": true
+    },
+    "bo6-liberty-falls": {
+      "src": "./assets/liberty-falls.jpg",
+      "alt": "The Jet Gun blasts zombies in Liberty Falls",
+      "source": "https://www.callofduty.com/blog/2024/10/call-of-duty-black-ops-6-launch-comms-zombies-mode-prep-intel",
+      "credit": "Call of Duty / Activision",
+      "mapSpecific": true
+    }
+  },
+  "games": {
+    "bo1": {
+      "src": "./assets/bo1-moon.jpg",
+      "alt": "Zombies outside the Moon base in the original Black Ops.",
+      "source": "https://store.steampowered.com/app/42719/",
+      "credit": "Call of Duty / Activision",
+      "mapSpecific": false
+    },
+    "bo2": {
+      "src": "./assets/bo2-origins.jpg",
+      "alt": "A giant robot above the battlefield in Black Ops II Origins.",
+      "source": "https://store.steampowered.com/app/219103/",
+      "credit": "Call of Duty / Activision",
+      "mapSpecific": false
+    },
+    "bo3": {
+      "src": "./assets/bo3-der-eisendrache.jpg",
+      "alt": "A fight inside Der Eisendrache in official Black Ops III promotional imagery.",
+      "source": "https://blog.activision.com/uk/en/call-of-duty/archives/watch-the-new-trailer-for-call-of-duty-black-ops-3-awakenings-der-eisendrache",
+      "credit": "Call of Duty / Activision",
+      "mapSpecific": false
+    },
+    "bo4": {
+      "src": "./assets/bo4-ix.jpg",
+      "alt": "Official Black Ops 4 IX promotional artwork.",
+      "source": "https://www.callofduty.com/ja/blog/2018-10/zombies-go-to-ancient-egypt-in-ix",
+      "credit": "Call of Duty / Activision",
+      "mapSpecific": false
+    },
+    "coldwar": {
+      "src": "./assets/coldwar-die-maschine.jpg",
+      "alt": "Zombies and Requiem operators in Die Maschine's Dark Aether.",
+      "source": "https://news.blizzard.com/en-us/article/23529007/call-of-duty-black-ops-cold-war-zombies-a-new-beginning",
+      "credit": "Call of Duty / Activision",
+      "mapSpecific": false
+    },
+    "iw": {
+      "src": "./assets/iw-zombies-in-spaceland.jpg",
+      "alt": "Zombies attack beneath the neon attractions in Zombies in Spaceland.",
+      "source": "https://blog.activision.com/au/en/call-of-duty/archives/zombies-in-spaceland-is-here-and-its-totally-tubular",
+      "credit": "Call of Duty / Activision",
+      "mapSpecific": false
+    },
+    "bo6": {
+      "src": "./assets/terminus-recon.jpg",
+      "alt": "Terminus island facilities from Black Ops 6.",
+      "source": "https://www.callofduty.com/guides/blackops6/zombies/call-of-duty-guides-black-ops-6-round-based-zombies-terminus",
+      "credit": "Call of Duty / Activision",
+      "mapSpecific": false
+    },
+    "bo7": {
+      "src": "./assets/bo7-ashes-of-the-damned.webp",
+      "alt": "Ol' Tessie beside the neon sign on Ashes of the Damned.",
+      "source": "https://www.callofduty.com/guides/blackops7/zombies/ashes-of-the-damned",
+      "credit": "Call of Duty / Activision",
+      "mapSpecific": false
+    },
+    "vanguard": {
+      "src": "./assets/vanguard-shi-no-numa.jpg",
+      "alt": "Official Vanguard Shi No Numa promotional image.",
+      "source": "https://www.callofduty.com/au/en/blog/2022/06/call-of-duty-vanguard-zombies-shi-no-numa-survival-guide-map",
+      "credit": "Call of Duty / Activision",
+      "mapSpecific": false
+    },
+    "mw3": {
+      "src": "./assets/mw3-zombies.jpg",
+      "alt": "Official Modern Warfare III Zombies promotional image.",
+      "source": "https://www.callofduty.com/guides/zombies/call-of-duty-guide-modern-warfare-zombies-tactics",
+      "credit": "Call of Duty / Activision",
+      "mapSpecific": false
+    },
+    "cod-mobile": {
+      "src": "./assets/cod-mobile-shi-no-numa.jpg",
+      "alt": "Shi No Numa in the Call of Duty: Mobile Zombies mode.",
+      "source": "https://blog.activision.com/call-of-duty/2019-11/Call-of-Duty-Mobile-Zombies-Map-Snapshot-Shi-No-Numa",
+      "credit": "Call of Duty / Activision",
+      "mapSpecific": false
+    },
+    "waw": {
+      "src": "./assets/waw-official-art.jpg",
+      "alt": "Official World at War game artwork.",
+      "source": "https://www.callofduty.com/blog/2023/10/call-of-duty-20th-anniversary-celebration-franchise-recap-community",
+      "credit": "Call of Duty / Activision",
+      "mapSpecific": false
+    },
+    "ghosts": {
+      "src": "./assets/ghosts-official-art.jpg",
+      "alt": "Official Ghosts game artwork.",
+      "source": "https://www.callofduty.com/blog/2023/10/call-of-duty-20th-anniversary-celebration-franchise-recap-community",
+      "credit": "Call of Duty / Activision",
+      "mapSpecific": false
+    },
+    "aw": {
+      "src": "./assets/aw-official-art.jpg",
+      "alt": "Official Advanced Warfare game artwork.",
+      "source": "https://www.callofduty.com/blog/2023/10/call-of-duty-20th-anniversary-celebration-franchise-recap-community",
+      "credit": "Call of Duty / Activision",
+      "mapSpecific": false
+    },
+    "wwii": {
+      "src": "./assets/wwii-official-art.jpg",
+      "alt": "Official WWII game artwork.",
+      "source": "https://www.callofduty.com/blog/2023/10/call-of-duty-20th-anniversary-celebration-franchise-recap-community",
+      "credit": "Call of Duty / Activision",
+      "mapSpecific": false
+    }
+  },
+  "guides": {
+    "bo6-liberty-falls-main": [
+      {
+        "src": "./assets/holy-falls-church.jpg",
+        "alt": "Holy Falls Church exterior and Dark Aether interior",
+        "step": 1,
+        "caption": "Holy Falls Church. Panos and the Pack-a-Punch machine are inside.",
+        "source": "https://www.callofduty.com/blog/2024/10/call-of-duty-black-ops-6-launch-comms-zombies-mode-prep-intel",
+        "credit": "Call of Duty / Activision"
+      },
+      {
+        "src": "./assets/ollys-comics.jpg",
+        "alt": "Olly's Comics exterior, interior, and Aetherella statue",
+        "step": 2,
+        "caption": "Olly's Comics. This recon image shows the shop, not an exact LTG part marker.",
+        "source": "https://www.callofduty.com/blog/2024/10/call-of-duty-black-ops-6-launch-comms-zombies-mode-prep-intel",
+        "credit": "Call of Duty / Activision"
+      },
+      {
+        "src": "./assets/alamo-rooftop.jpg",
+        "alt": "The bank rooftop known as The Alamo",
+        "step": 3,
+        "caption": "The Alamo bank rooftop, where you assemble the LTG.",
+        "source": "https://www.callofduty.com/blog/2024/10/call-of-duty-black-ops-6-launch-comms-zombies-mode-prep-intel",
+        "credit": "Call of Duty / Activision"
+      }
+    ],
+    "bo6-liberty-falls-aetherella": [
+      {
+        "src": "./assets/ollys-comics.jpg",
+        "alt": "Aetherella statue inside the comics shop",
+        "step": 1,
+        "caption": "Olly's Comics and the life-sized Aetherella statue.",
+        "source": "https://www.callofduty.com/blog/2024/10/call-of-duty-black-ops-6-launch-comms-zombies-mode-prep-intel",
+        "credit": "Call of Duty / Activision"
+      }
+    ],
+    "bo6-liberty-falls-bank-vault": [
+      {
+        "src": "./assets/bank.jpg",
+        "alt": "Savings and Loan bank exterior and interior",
+        "step": 1,
+        "caption": "Savings & Loan. Read your own match's code notes; this image is a location reference.",
+        "source": "https://www.callofduty.com/blog/2024/10/call-of-duty-black-ops-6-launch-comms-zombies-mode-prep-intel",
+        "credit": "Call of Duty / Activision"
+      }
+    ],
+    "bo6-liberty-falls-raining-zombies": [
+      {
+        "src": "./assets/holy-falls-church.jpg",
+        "alt": "Holy Falls Church and its spires",
+        "step": 1,
+        "caption": "The church exterior. The specific hidden head is described in the step.",
+        "source": "https://www.callofduty.com/blog/2024/10/call-of-duty-black-ops-6-launch-comms-zombies-mode-prep-intel",
+        "credit": "Call of Duty / Activision"
+      }
+    ],
+    "bo6-terminus-main": [
+      {
+        "src": "./assets/terminus-cells.jpg",
+        "alt": "Terminus Cells and Guard Station",
+        "step": 1,
+        "caption": "The starting Cells and Guard Station area.",
+        "source": "https://www.callofduty.com/blog/2024/10/call-of-duty-black-ops-6-launch-comms-zombies-mode-prep-intel",
+        "credit": "Call of Duty / Activision"
+      },
+      {
+        "src": "./assets/bio-lab.jpg",
+        "alt": "Terminus Bio Lab and its central experimentation chamber",
+        "step": 3,
+        "caption": "The underground Bio Lab and its central experimentation chamber. Follow the step text to release Nathan.",
+        "source": "https://www.callofduty.com/blog/2024/10/call-of-duty-black-ops-6-launch-comms-zombies-mode-prep-intel",
+        "credit": "Call of Duty / Activision"
+      }
+    ],
+    "bo2-origins-ice-staff": [
+      {
+        "src": "./assets/origins-ice-symbols.svg",
+        "alt": "Origins Ice Staff circle and rune digit values, with a worked example for eleven",
+        "step": 4,
+        "caption": "Symbol-reading schematic based on the community explanation. Use each symbol's in-game orientation.",
+        "source": "https://www.reddit.com/r/CODZombies/comments/hmmv3u/how_the_ice_staff_code_works_and_an_easy_way_to/",
+        "credit": "Dead Drop schematic / r/CODZombies research"
+      }
+    ]
+  }
+}

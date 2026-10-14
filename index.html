@@ -2,58 +2,31 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-  <meta name="theme-color" content="#070707">
-  <meta name="color-scheme" content="dark">
-  <title>Dead Drop — Call of Duty Zombies Guides</title>
-  <meta name="description" content="A game-first Call of Duty Zombies archive with separated main quests, required preparation, optional Easter eggs, inline references, and trackable steps.">
-  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
-  <link rel="manifest" href="/manifest.webmanifest">
-  <link rel="stylesheet" href="/styles-v2.css">
-  <link rel="stylesheet" href="/bo2-depth-ui.css">
-  <link rel="stylesheet" href="/bo2-inline-fix.css">
-  <link rel="stylesheet" href="/any-player-ee-mod.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#131412">
+  <meta name="description" content="Find your Call of Duty Zombies map, follow sourced Easter egg guides, and save your step progress. Main quests, side quests, weapons and music in one field manual.">
+  <title>Dead Drop — The Zombies Field Manual</title>
+  <link rel="icon" href="./favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700;800&family=DM+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./styles.css">
+  <script type="module" src="./app.js"></script>
 </head>
 <body>
-  <a class="skip-link" href="#view">Skip to content</a>
-  <header class="site-header" id="top">
-    <a class="brand" href="#/" aria-label="Dead Drop home"><span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i></span><span class="brand-copy"><strong>DEAD DROP</strong><small>ZOMBIES FIELD ARCHIVE</small></span></a>
-    <div class="header-search"><input id="global-search" autocomplete="off" spellcheck="false" aria-label="Search games, quests, codes, and steps" placeholder="Search maps, quests, codes…"><kbd>/</kbd><div id="search-popover" class="search-popover" hidden></div></div>
-    <nav class="header-nav" aria-label="Primary"><a href="#/">Games</a><a href="#/tools">Tools</a><a href="#/accuracy">Accuracy</a></nav>
-    <button class="mobile-menu-button" id="mobile-menu-button" aria-expanded="false" aria-controls="mobile-nav" aria-label="Open navigation"><span></span><span></span><span></span></button>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <a href="#home" class="brand" aria-label="Dead Drop home"><img src="./favicon.svg" width="36" height="36" alt=""><span>DEAD DROP<span class="brand-sub">ZOMBIES FIELD MANUAL</span></span></a>
+    <nav aria-label="Main navigation">
+      <a href="#library" data-nav="library">The archive</a>
+      <a href="#progress" data-nav="progress">My progress <span id="progress-badge" class="nav-count">0</span></a>
+      <a href="#coverage" data-nav="coverage">Coverage</a>
+    </nav>
+    <a class="github-link" href="https://github.com/Aughhhhhhh/dead-drop-zombies-site" target="_blank" rel="noopener noreferrer" aria-label="View the source on GitHub"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path fill="currentColor" d="M12 .8a11.2 11.2 0 0 0-3.54 21.83c.56.1.76-.24.76-.54v-2.1c-3.11.67-3.77-1.32-3.77-1.32-.51-1.29-1.24-1.63-1.24-1.63-1.02-.7.08-.68.08-.68 1.13.08 1.72 1.16 1.72 1.16 1 1.71 2.62 1.22 3.26.93.1-.73.39-1.23.71-1.51-2.48-.28-5.1-1.24-5.1-5.53 0-1.22.43-2.22 1.15-3-.12-.28-.5-1.42.11-2.97 0 0 .94-.3 3.08 1.15a10.75 10.75 0 0 1 5.6 0c2.14-1.45 3.08-1.15 3.08-1.15.61 1.55.23 2.69.11 2.98.72.77 1.15 1.77 1.15 2.99 0 4.3-2.62 5.25-5.11 5.52.4.35.76 1.03.76 2.08v3.08c0 .3.2.65.77.54A11.2 11.2 0 0 0 12 .8Z"/></svg><span>GitHub</span><span aria-hidden="true">↗</span></a>
   </header>
-  <nav class="mobile-nav" id="mobile-nav" hidden aria-label="Mobile navigation"><a href="#/">Games</a><a href="#/tools">Tools</a><a href="#/accuracy">Accuracy</a></nav>
-  <main id="view" tabindex="-1"><section class="empty-state"><p>Opening archive…</p></section></main>
-  <footer class="site-footer"><div><a class="brand footer-brand" href="#/"><span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i></span><strong>DEAD DROP</strong></a><p>Independent field guides for Call of Duty Zombies, Exo Zombies, Extinction, and MWZ.</p></div><div class="footer-links"><a href="#/accuracy">Verification policy</a><a href="#/tools">Puzzle tools</a></div><p class="legal">Not affiliated with Activision, Treyarch, Infinity Ward, Sledgehammer Games, or Microsoft. Call of Duty names and imagery belong to their respective owners.</p></footer>
-  <div id="toast" class="toast" role="status" aria-live="polite"></div>
-  <script src="/data.js"></script>
-  <script src="/data-overrides.js"></script>
-  <script src="/data-postfix.js"></script>
-  <script src="/editorial-status.js"></script>
-  <script src="/bo1-audit.js"></script>
-  <script src="/bo2-audit.js"></script>
-  <script src="/bo3-audit.js"></script>
-  <script src="/bo123-postfix.js"></script>
-  <script src="/bo2-depth-common.js"></script>
-  <script src="/bo2-depth-tranzit.js"></script>
-  <script src="/bo2-depth-tranzit-main.js"></script>
-  <script src="/bo2-depth-dierise.js"></script>
-  <script src="/bo2-depth-mob.js"></script>
-  <script src="/bo2-depth-buried.js"></script>
-  <script src="/bo2-depth-origins-staffs.js"></script>
-  <script src="/bo2-depth-origins-map.js"></script>
-  <script src="/bo2-depth-polish.js"></script>
-  <script src="/bo2-depth-postfix.js"></script>
-  <script src="/origins-quest-order-fix.js"></script>
-  <script src="/bo2-source-media-overhaul.js"></script>
-  <script src="/bo2-source-media-cleanup.js"></script>
-  <script src="/app-v2.js"></script>
-  <script src="/nav-fix.js"></script>
-  <script src="/editorial-ui.js"></script>
-  <script src="/bo2-depth-ui.js"></script>
-  <script src="/bo2-inline-fix.js"></script>
-  <script src="/inline-tutorial-branch-neutral.js"></script>
-  <script src="/any-player-ee-mod.js"></script>
-  <script src="/any-player-ee-mod-finalize.js"></script>
+  <main id="main" tabindex="-1"><div class="loading"><span class="eyebrow">OPENING THE ARCHIVE</span><p>Loading maps and field notes…</p></div></main>
+  <footer class="site-footer"><a class="footer-brand" href="#home">DEAD DROP<span>LEAVE NO STEP BEHIND.</span></a><p>Independent fan guide. Call of Duty and its imagery belong to Activision.<br>Community sources are credited in each guide. Coverage is still being audited.</p><a href="#coverage">Sources & coverage <span aria-hidden="true">↗</span></a></footer>
+  <div id="toast" role="status" aria-live="polite"></div>
+  <noscript><p class="noscript">Enable JavaScript to browse the guide library. You can also visit the <a href="https://www.reddit.com/r/CODZombies/wiki/index/">r/CODZombies guide archive</a>.</p></noscript>
 </body>
 </html>

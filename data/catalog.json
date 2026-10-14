@@ -1,0 +1,2470 @@
+{
+  "updated": "2026-10-13",
+  "games": [
+    {
+      "id": "waw",
+      "title": "Call of Duty: World at War",
+      "short": "World at War",
+      "year": 2008,
+      "description": "The original four Zombies maps. Small secrets, songs and radios predate the later story quests.",
+      "maps": [
+        {
+          "id": "waw-nacht-der-untoten",
+          "name": "Nacht der Untoten",
+          "release": "Launch · 2008",
+          "mode": "Round-based",
+          "summary": "The abandoned bunker that introduced Zombies.",
+          "questNote": "No full main quest. Explore the original map’s small secrets.",
+          "sources": [
+            {
+              "title": "r/CODZombies: Nacht der Untoten map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/nacht-der-untoten/"
+            }
+          ]
+        },
+        {
+          "id": "waw-verruckt",
+          "name": "Verrückt",
+          "release": "Map Pack 1 · 2009",
+          "mode": "Round-based",
+          "summary": "A divided asylum with the first perk machines and electric traps.",
+          "questNote": "No full main quest. Music and environmental secrets.",
+          "sources": [
+            {
+              "title": "r/CODZombies: Verrückt map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/verruckt/"
+            }
+          ]
+        },
+        {
+          "id": "waw-shi-no-numa",
+          "name": "Shi No Numa",
+          "release": "Map Pack 2 · 2009",
+          "mode": "Round-based",
+          "summary": "A swamp outpost with four huts, Hellhounds and the Wunderwaffe DG-2.",
+          "questNote": "No full main quest in this version. Song, radios and map secrets.",
+          "sources": [
+            {
+              "title": "r/CODZombies: Shi No Numa map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/shi-no-numa/"
+            }
+          ]
+        },
+        {
+          "id": "waw-der-riese",
+          "name": "Der Riese",
+          "release": "Map Pack 3 · 2009",
+          "mode": "Round-based",
+          "summary": "A Group 935 factory with teleporters and the first Pack-a-Punch.",
+          "questNote": "The Fly Trap is a short Easter egg, alongside songs and radios.",
+          "sources": [
+            {
+              "title": "r/CODZombies: Der Riese map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/der-riese/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "waw-mobile",
+      "title": "Call of Duty: Zombies — mobile",
+      "short": "World at War: Mobile",
+      "year": 2009,
+      "description": "The standalone iPhone/iPod Touch adaptation, cataloged separately from console World at War. This is an archived edition.",
+      "maps": [
+        {
+          "id": "waw-mobile-tutorial",
+          "name": "Tutorial",
+          "release": "Launch · 2009",
+          "mode": "Mobile tutorial",
+          "summary": "Richtofen introduces controls and basic zombie survival.",
+          "questNote": "Tutorial sequence rather than a full story quest.",
+          "sources": [
+            {
+              "title": "Tutorial: version reference",
+              "url": "https://callofduty.fandom.com/wiki/Tutorial_(Zombies)"
+            }
+          ]
+        },
+        {
+          "id": "waw-mobile-nacht-der-untoten",
+          "name": "Nacht der Untoten (mobile)",
+          "release": "Launch · 2009",
+          "mode": "Mobile survival",
+          "summary": "A mobile adaptation of the original bunker.",
+          "questNote": "Use mobile-specific mechanics; console instructions are not automatically compatible.",
+          "sources": [
+            {
+              "title": "Activision: all four mobile Zombies maps",
+              "url": "https://investor.activisionblizzard.com/static-files/15ae1640-5bad-4d55-bd90-bf741794401c"
+            },
+            {
+              "title": "Nacht der Untoten: version reference",
+              "url": "https://callofduty.fandom.com/wiki/Nacht_der_Untoten"
+            }
+          ]
+        },
+        {
+          "id": "waw-mobile-verruckt",
+          "name": "Verrückt (mobile)",
+          "release": "Mobile update · 2010",
+          "mode": "Mobile survival",
+          "summary": "The asylum adapted to the standalone mobile game.",
+          "questNote": "Use the mobile version notes. No full main story quest is documented.",
+          "sources": [
+            {
+              "title": "Activision: all four mobile Zombies maps",
+              "url": "https://investor.activisionblizzard.com/static-files/15ae1640-5bad-4d55-bd90-bf741794401c"
+            },
+            {
+              "title": "Verrückt: version reference",
+              "url": "https://callofduty.fandom.com/wiki/Verr%C3%BCckt"
+            }
+          ]
+        },
+        {
+          "id": "waw-mobile-shi-no-numa",
+          "name": "Shi No Numa (mobile)",
+          "release": "Mobile update · 2010",
+          "mode": "Mobile survival",
+          "summary": "The swamp outpost adapted to mobile controls.",
+          "questNote": "Use the mobile version notes. This is separate from Vanguard’s Shi No Numa quest.",
+          "sources": [
+            {
+              "title": "Activision: all four mobile Zombies maps",
+              "url": "https://investor.activisionblizzard.com/static-files/15ae1640-5bad-4d55-bd90-bf741794401c"
+            },
+            {
+              "title": "Shi No Numa: version reference",
+              "url": "https://callofduty.fandom.com/wiki/Shi_No_Numa"
+            }
+          ]
+        },
+        {
+          "id": "waw-mobile-der-riese",
+          "name": "Der Riese (mobile)",
+          "release": "Mobile update · 2010",
+          "mode": "Mobile survival",
+          "summary": "The teleporter factory adapted to the standalone app.",
+          "questNote": "Check the mobile implementation before following console Easter egg instructions.",
+          "sources": [
+            {
+              "title": "Activision: all four mobile Zombies maps",
+              "url": "https://investor.activisionblizzard.com/static-files/15ae1640-5bad-4d55-bd90-bf741794401c"
+            },
+            {
+              "title": "Der Riese: version reference",
+              "url": "https://callofduty.fandom.com/wiki/Der_Riese"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo1",
+      "title": "Call of Duty: Black Ops",
+      "short": "Black Ops",
+      "year": 2010,
+      "description": "The first long story quests, the four World at War remasters and the original Dead Ops Arcade.",
+      "maps": [
+        {
+          "id": "bo1-kino-der-toten",
+          "name": "Kino der Toten",
+          "release": "Launch · 2010",
+          "mode": "Round-based",
+          "summary": "An abandoned German theater connected by a teleporter.",
+          "questNote": "No full main quest. Music, film reels and other small secrets.",
+          "sources": [
+            {
+              "title": "r/CODZombies: Kino der Toten map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/"
+            }
+          ]
+        },
+        {
+          "id": "bo1-five",
+          "name": "“Five”",
+          "release": "Launch · 2010",
+          "mode": "Round-based",
+          "summary": "Defend the Pentagon across offices, the war room and underground labs.",
+          "questNote": "No full main quest. The Pentagon Thief, song and related secrets.",
+          "sources": [
+            {
+              "title": "r/CODZombies: “Five” map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/five/"
+            }
+          ]
+        },
+        {
+          "id": "bo1-dead-ops-arcade",
+          "name": "Dead Ops Arcade",
+          "release": "Launch · 2010",
+          "mode": "Arcade",
+          "summary": "A top-down arcade adventure unlocked through the menu terminal.",
+          "questNote": "Arcade progression and secrets rather than a round-based story quest.",
+          "sources": [
+            {
+              "title": "r/CODZombies: Dead Ops Arcade map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/dead-ops-arcade/"
+            },
+            {
+              "title": "Dead Ops Arcade: full community guide",
+              "url": "https://gamefaqs.gamespot.com/ps3/960188-call-of-duty-black-ops/faqs/62778"
+            }
+          ]
+        },
+        {
+          "id": "bo1-ascension",
+          "name": "Ascension",
+          "release": "First Strike · 2011",
+          "mode": "Round-based",
+          "summary": "A Soviet launch facility with lunar landers and Space Monkeys.",
+          "questNote": "The original Casimir Mechanism quest needs a coordinated four-player team.",
+          "sources": [
+            {
+              "title": "r/CODZombies: Ascension map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+            }
+          ]
+        },
+        {
+          "id": "bo1-call-of-the-dead",
+          "name": "Call of the Dead",
+          "release": "Escalation · 2011",
+          "mode": "Round-based",
+          "summary": "A frozen film set, shipwreck and lighthouse with George Romero.",
+          "questNote": "Separate solo and co-op versions of the main quest.",
+          "sources": [
+            {
+              "title": "r/CODZombies: Call of the Dead map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/call-of-the-dead/"
+            }
+          ]
+        },
+        {
+          "id": "bo1-shangri-la",
+          "name": "Shangri-La",
+          "release": "Annihilation · 2011",
+          "mode": "Round-based",
+          "summary": "A jungle temple with time travel, traps and the 31-79 JGb215.",
+          "questNote": "The Time Travel Will Tell quest needs four players.",
+          "sources": [
+            {
+              "title": "r/CODZombies: Shangri-La map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/shangri-la/"
+            }
+          ]
+        },
+        {
+          "id": "bo1-moon",
+          "name": "Moon",
+          "release": "Rezurrection · 2011",
+          "mode": "Round-based",
+          "summary": "Area 51 leads to a lunar base with gravity and oxygen hazards.",
+          "questNote": "Check the original game’s player and earlier-quest requirements; they differ from Chronicles.",
+          "sources": [
+            {
+              "title": "r/CODZombies: Moon map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/moon/"
+            }
+          ]
+        },
+        {
+          "id": "bo1-nacht-der-untoten",
+          "name": "Nacht der Untoten (Rezurrection)",
+          "release": "Bonus maps / Rezurrection · 2010–2011",
+          "mode": "Remaster",
+          "summary": "The original bunker remastered for Black Ops.",
+          "questNote": "No full main quest. Use the Black Ops version notes in the guide.",
+          "sources": [
+            {
+              "title": "r/CODZombies: Nacht der Untoten (Rezurrection) map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/nacht-der-untoten/"
+            }
+          ]
+        },
+        {
+          "id": "bo1-verruckt",
+          "name": "Verrückt (Rezurrection)",
+          "release": "Bonus maps / Rezurrection · 2010–2011",
+          "mode": "Remaster",
+          "summary": "The asylum remastered with Black Ops weapons and mechanics.",
+          "questNote": "No full main quest. Use the Black Ops version notes in the guide.",
+          "sources": [
+            {
+              "title": "r/CODZombies: Verrückt (Rezurrection) map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/verruckt/"
+            }
+          ]
+        },
+        {
+          "id": "bo1-shi-no-numa",
+          "name": "Shi No Numa (Rezurrection)",
+          "release": "Bonus maps / Rezurrection · 2010–2011",
+          "mode": "Remaster",
+          "summary": "The swamp outpost remastered for Black Ops.",
+          "questNote": "No full main quest. This is separate from the later Vanguard story quest.",
+          "sources": [
+            {
+              "title": "r/CODZombies: Shi No Numa (Rezurrection) map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/shi-no-numa/"
+            }
+          ]
+        },
+        {
+          "id": "bo1-der-riese",
+          "name": "Der Riese (Rezurrection)",
+          "release": "Bonus maps / Rezurrection · 2010–2011",
+          "mode": "Remaster",
+          "summary": "The teleporter factory returns with Black Ops weapons.",
+          "questNote": "Fly Trap, music and radios; use the Black Ops version notes.",
+          "sources": [
+            {
+              "title": "r/CODZombies: Der Riese (Rezurrection) map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/der-riese/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo-ds",
+      "title": "Call of Duty: Black Ops — Nintendo DS",
+      "short": "Black Ops: DS",
+      "year": 2010,
+      "description": "Four DS-exclusive Zombies maps with their own controls and survival rules. These are separate from the console maps.",
+      "maps": [
+        {
+          "id": "bo-ds-house",
+          "name": "House",
+          "release": "Launch · 2010",
+          "mode": "DS survival",
+          "summary": "The first DS-exclusive map, set around a house.",
+          "questNote": "Use the DS-specific guide; no console story quest is shared with this map.",
+          "sources": [
+            {
+              "title": "Black Ops DS: survival strategies for all four maps",
+              "url": "https://gamefaqs.gamespot.com/ds/603735-call-of-duty-black-ops/faqs/63643"
+            },
+            {
+              "title": "Black Ops DS: game and map reference",
+              "url": "https://callofduty.fandom.com/wiki/Call_of_Duty%3A_Black_Ops_%28Nintendo_DS%29"
+            }
+          ]
+        },
+        {
+          "id": "bo-ds-facility",
+          "name": "Facility",
+          "release": "Launch · 2010",
+          "mode": "DS survival",
+          "summary": "The second DS-exclusive map, set in a research facility.",
+          "questNote": "Use the DS-specific survival mechanics and layout.",
+          "sources": [
+            {
+              "title": "Black Ops DS: survival strategies for all four maps",
+              "url": "https://gamefaqs.gamespot.com/ds/603735-call-of-duty-black-ops/faqs/63643"
+            },
+            {
+              "title": "Facility: version reference",
+              "url": "https://callofduty.fandom.com/wiki/Facility_%28Black_Ops_DS%29"
+            }
+          ]
+        },
+        {
+          "id": "bo-ds-temple",
+          "name": "Temple",
+          "release": "Launch · 2010",
+          "mode": "DS survival",
+          "summary": "The third DS-exclusive map, in a ruined temple.",
+          "questNote": "Use the DS-specific map guide rather than Shangri-La instructions.",
+          "sources": [
+            {
+              "title": "Black Ops DS: survival strategies for all four maps",
+              "url": "https://gamefaqs.gamespot.com/ds/603735-call-of-duty-black-ops/faqs/63643"
+            },
+            {
+              "title": "Temple: version reference",
+              "url": "https://callofduty.fandom.com/wiki/Temple"
+            }
+          ]
+        },
+        {
+          "id": "bo-ds-overlook",
+          "name": "Overlook",
+          "release": "Launch · 2010",
+          "mode": "DS survival",
+          "summary": "The fourth DS-exclusive map, set in a winter cabin.",
+          "questNote": "Use the DS-specific survival guide and room layout.",
+          "sources": [
+            {
+              "title": "Black Ops DS: survival strategies for all four maps",
+              "url": "https://gamefaqs.gamespot.com/ds/603735-call-of-duty-black-ops/faqs/63643"
+            },
+            {
+              "title": "Overlook: version reference",
+              "url": "https://callofduty.fandom.com/wiki/Overlook"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo-mobile",
+      "title": "Call of Duty: Black Ops Zombies — mobile",
+      "short": "Black Ops Zombies: Mobile",
+      "year": 2011,
+      "description": "The standalone iOS/Android adaptation, with three maps and Dead Ops Arcade. Cataloged separately from Black Ops on console and PC.",
+      "maps": [
+        {
+          "id": "bo-mobile-kino-der-toten",
+          "name": "Kino der Toten (mobile)",
+          "release": "iOS · 2011; Android · 2012",
+          "mode": "Mobile survival",
+          "summary": "The theater adapted to the standalone mobile app.",
+          "questNote": "Mobile controls and content differ; console guides need version checks.",
+          "sources": [
+            {
+              "title": "Activision: Black Ops Zombies mobile map list",
+              "url": "https://investor.activision.com/news-releases/news-release-details/call-dutyr-black-ops-zombies-app-now-available-android"
+            },
+            {
+              "title": "Kino der Toten: version reference",
+              "url": "https://callofduty.fandom.com/wiki/Kino_der_Toten"
+            }
+          ]
+        },
+        {
+          "id": "bo-mobile-ascension",
+          "name": "Ascension (mobile)",
+          "release": "Mobile content update · 2012",
+          "mode": "Mobile survival",
+          "summary": "The cosmodrome adapted to the mobile app.",
+          "questNote": "Check mobile quest availability and mechanics before using the console quest.",
+          "sources": [
+            {
+              "title": "Activision: Black Ops Zombies mobile map list",
+              "url": "https://investor.activision.com/news-releases/news-release-details/call-dutyr-black-ops-zombies-app-now-available-android"
+            },
+            {
+              "title": "Ascension: version reference",
+              "url": "https://callofduty.fandom.com/wiki/Ascension"
+            }
+          ]
+        },
+        {
+          "id": "bo-mobile-call-of-the-dead",
+          "name": "Call of the Dead: Director’s Cut",
+          "release": "Mobile content update · 2012",
+          "mode": "Mobile survival",
+          "summary": "A mobile-specific adaptation of Call of the Dead.",
+          "questNote": "Director’s Cut differs from the console cast and encounter; use version notes.",
+          "sources": [
+            {
+              "title": "Activision: Black Ops Zombies mobile map list",
+              "url": "https://investor.activision.com/news-releases/news-release-details/call-dutyr-black-ops-zombies-app-now-available-android"
+            },
+            {
+              "title": "Call of the Dead: version reference",
+              "url": "https://callofduty.fandom.com/wiki/Call_of_the_Dead"
+            }
+          ]
+        },
+        {
+          "id": "bo-mobile-dead-ops-arcade",
+          "name": "Dead Ops Arcade (mobile)",
+          "release": "iOS · 2011; Android · 2012",
+          "mode": "Mobile arcade",
+          "summary": "The mobile app’s 50-level arcade challenge.",
+          "questNote": "Arcade progression and touch controls rather than a round-based main quest.",
+          "sources": [
+            {
+              "title": "Activision: Black Ops Zombies mobile map list",
+              "url": "https://investor.activision.com/news-releases/news-release-details/call-dutyr-black-ops-zombies-app-now-available-android"
+            },
+            {
+              "title": "Mobile arcade walkthrough",
+              "url": "https://www.videogamesblogger.com/2011/12/01/call-of-duty-black-ops-zombies-walkthrough-video-guide-iphone-ipad-ipod-touch.htm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo2",
+      "title": "Call of Duty: Black Ops II",
+      "short": "Black Ops II",
+      "year": 2012,
+      "description": "Victis and Origins story quests, with Survival, Grief and Turned areas listed separately.",
+      "maps": [
+        {
+          "id": "bo2-tranzit",
+          "name": "TranZit",
+          "release": "Launch · 2012",
+          "mode": "Round-based",
+          "summary": "Travel Green Run by bus, linking the depot, diner, farm, power station and town.",
+          "questNote": "Choose the Maxis or Richtofen branch of Tower of Babble.",
+          "sources": [
+            {
+              "title": "r/CODZombies: TranZit map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/tranzit/"
+            }
+          ]
+        },
+        {
+          "id": "bo2-bus-depot-survival",
+          "name": "Bus Depot (Survival)",
+          "release": "Launch · 2012",
+          "mode": "Survival",
+          "summary": "The compact Green Run bus station.",
+          "questNote": "No main quest in the standalone Survival area.",
+          "sources": [
+            {
+              "title": "Community map and mode reference",
+              "url": "https://callofduty.fandom.com/wiki/Bus_Depot"
+            }
+          ]
+        },
+        {
+          "id": "bo2-farm-survival",
+          "name": "Farm (Survival)",
+          "release": "Launch · 2012",
+          "mode": "Survival",
+          "summary": "The farmhouse, barn and yard as a standalone survival map.",
+          "questNote": "No main quest in this variant.",
+          "sources": [
+            {
+              "title": "Community map and mode reference",
+              "url": "https://callofduty.fandom.com/wiki/Farm"
+            }
+          ]
+        },
+        {
+          "id": "bo2-town-survival",
+          "name": "Town (Survival)",
+          "release": "Launch · 2012",
+          "mode": "Survival",
+          "summary": "The Green Run town with perks and Pack-a-Punch.",
+          "questNote": "No main quest in this variant.",
+          "sources": [
+            {
+              "title": "Community map and mode reference",
+              "url": "https://callofduty.fandom.com/wiki/Town"
+            }
+          ]
+        },
+        {
+          "id": "bo2-farm-grief",
+          "name": "Farm (Grief)",
+          "release": "Launch · 2012",
+          "mode": "Grief",
+          "summary": "Two teams compete to outlast each other on the Farm.",
+          "questNote": "Competitive survival rather than a story quest.",
+          "sources": [
+            {
+              "title": "Community map and mode reference",
+              "url": "https://callofduty.fandom.com/wiki/Farm"
+            }
+          ]
+        },
+        {
+          "id": "bo2-town-grief",
+          "name": "Town (Grief)",
+          "release": "Launch · 2012",
+          "mode": "Grief",
+          "summary": "Two teams share the town and compete for survival.",
+          "questNote": "Competitive survival rather than a story quest.",
+          "sources": [
+            {
+              "title": "Community map and mode reference",
+              "url": "https://callofduty.fandom.com/wiki/Town"
+            }
+          ]
+        },
+        {
+          "id": "bo2-nuketown-zombies",
+          "name": "Nuketown Zombies",
+          "release": "Bonus map · 2012",
+          "mode": "Survival",
+          "summary": "Survive the ruined nuclear test site as perks arrive during the match.",
+          "questNote": "No full main quest. Small music and environmental secrets.",
+          "sources": [
+            {
+              "title": "r/CODZombies: Nuketown Zombies map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/nuketown/"
+            }
+          ]
+        },
+        {
+          "id": "bo2-die-rise",
+          "name": "Die Rise",
+          "release": "Revolution · 2013",
+          "mode": "Round-based",
+          "summary": "Two ruined skyscrapers with elevators, buildables and the Sliquifier.",
+          "questNote": "High Maintenance has Maxis and Richtofen paths and needs four players.",
+          "sources": [
+            {
+              "title": "r/CODZombies: Die Rise map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/die-rise/"
+            }
+          ]
+        },
+        {
+          "id": "bo2-diner-turned",
+          "name": "Diner (Turned)",
+          "release": "Revolution · 2013",
+          "mode": "Turned",
+          "summary": "The Green Run diner hosts the human-versus-zombies mode.",
+          "questNote": "No main quest; this is the Turned ruleset.",
+          "sources": [
+            {
+              "title": "Community map and mode reference",
+              "url": "https://callofduty.fandom.com/wiki/Diner"
+            }
+          ]
+        },
+        {
+          "id": "bo2-mob-of-the-dead",
+          "name": "Mob of the Dead",
+          "release": "Uprising · 2013",
+          "mode": "Round-based",
+          "summary": "Alcatraz prisoners use Afterlife and a homemade plane to escape.",
+          "questNote": "Pop Goes the Weasel breaks the cycle; the final confrontation needs co-op.",
+          "sources": [
+            {
+              "title": "r/CODZombies: Mob of the Dead map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/mob-of-the-dead/"
+            }
+          ]
+        },
+        {
+          "id": "bo2-cell-block-grief",
+          "name": "Cell Block (Grief)",
+          "release": "Uprising · 2013",
+          "mode": "Grief",
+          "summary": "A competitive Alcatraz area based on Mob of the Dead.",
+          "questNote": "No main quest; the story quest belongs to Mob of the Dead.",
+          "sources": [
+            {
+              "title": "Community map and mode reference",
+              "url": "https://callofduty.fandom.com/wiki/Cell_Block"
+            }
+          ]
+        },
+        {
+          "id": "bo2-buried",
+          "name": "Buried",
+          "release": "Vengeance · 2013",
+          "mode": "Round-based",
+          "summary": "An underground frontier town with Arthur, the mansion and the maze.",
+          "questNote": "Mined Games has Maxis and Richtofen paths; the Victis super Easter egg links earlier maps.",
+          "sources": [
+            {
+              "title": "r/CODZombies: Buried map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/buried/"
+            }
+          ]
+        },
+        {
+          "id": "bo2-borough-grief",
+          "name": "Borough (Grief)",
+          "release": "Vengeance · 2013",
+          "mode": "Grief",
+          "summary": "A smaller Buried area used for competitive survival.",
+          "questNote": "No main quest in this variant.",
+          "sources": [
+            {
+              "title": "Community map and mode reference",
+              "url": "https://callofduty.fandom.com/wiki/Borough"
+            }
+          ]
+        },
+        {
+          "id": "bo2-borough-turned",
+          "name": "Borough (Turned)",
+          "release": "Vengeance · 2013",
+          "mode": "Turned",
+          "summary": "Buried’s Borough area with the Turned ruleset.",
+          "questNote": "No main quest in this variant.",
+          "sources": [
+            {
+              "title": "Community map and mode reference",
+              "url": "https://callofduty.fandom.com/wiki/Borough"
+            }
+          ]
+        },
+        {
+          "id": "bo2-origins",
+          "name": "Origins",
+          "release": "Apocalypse · 2013",
+          "mode": "Round-based",
+          "summary": "Northern France in 1918: generators, giant robots and four elemental staffs.",
+          "questNote": "Little Lost Girl can be completed solo; all four staff upgrades are part of the quest.",
+          "sources": [
+            {
+              "title": "r/CODZombies: Origins map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/origins/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ghosts",
+      "title": "Call of Duty: Ghosts — Extinction",
+      "short": "Ghosts: Extinction",
+      "year": 2013,
+      "description": "Related co-op mode with alien Cryptids. Included separately from Zombies; its objectives and secrets use different rules.",
+      "maps": [
+        {
+          "id": "ghosts-point-of-contact",
+          "name": "Point of Contact",
+          "release": "Launch · 2013",
+          "mode": "Extinction",
+          "summary": "Destroy hives through a Colorado town and escape the outbreak.",
+          "questNote": "Mission completion, intel and the LOL alien-teddy secret.",
+          "sources": [
+            {
+              "title": "r/ExtinctionMode: walkthrough, secrets and intel",
+              "url": "https://www.reddit.com/r/ExtinctionMode/comments/fm1yrt/extinction_mode_guide_walkthrough_and_tips_and/"
+            },
+            {
+              "title": "Point of Contact: full community guide",
+              "url": "https://gamefaqs.gamespot.com/ps3/703505-call-of-duty-ghosts/faqs/69238"
+            }
+          ]
+        },
+        {
+          "id": "ghosts-nightfall",
+          "name": "Nightfall",
+          "release": "Onslaught · 2014",
+          "mode": "Extinction",
+          "summary": "A snowbound research facility with the Breeder.",
+          "questNote": "Mission progression, intel and the ZAP snowman secret.",
+          "sources": [
+            {
+              "title": "r/ExtinctionMode: walkthrough, secrets and intel",
+              "url": "https://www.reddit.com/r/ExtinctionMode/comments/fm1yrt/extinction_mode_guide_walkthrough_and_tips_and/"
+            }
+          ]
+        },
+        {
+          "id": "ghosts-mayday",
+          "name": "Mayday",
+          "release": "Devastation · 2014",
+          "mode": "Extinction",
+          "summary": "A research ship with crafting and a Kraken encounter.",
+          "questNote": "Mission progression, buildables, intel and hidden secrets.",
+          "sources": [
+            {
+              "title": "r/ExtinctionMode: walkthrough, secrets and intel",
+              "url": "https://www.reddit.com/r/ExtinctionMode/comments/fm1yrt/extinction_mode_guide_walkthrough_and_tips_and/"
+            }
+          ]
+        },
+        {
+          "id": "ghosts-awakening",
+          "name": "Awakening",
+          "release": "Invasion · 2014",
+          "mode": "Extinction",
+          "summary": "Descend into the Cryptids’ underground world.",
+          "questNote": "Mission progression, intel and mushroom-related secrets.",
+          "sources": [
+            {
+              "title": "r/ExtinctionMode: walkthrough, secrets and intel",
+              "url": "https://www.reddit.com/r/ExtinctionMode/comments/fm1yrt/extinction_mode_guide_walkthrough_and_tips_and/"
+            }
+          ]
+        },
+        {
+          "id": "ghosts-exodus",
+          "name": "Exodus",
+          "release": "Nemesis · 2014",
+          "mode": "Extinction",
+          "summary": "The finale adds Ancestors and flexible routes to the escape objective.",
+          "questNote": "Mission progression, intel and the Neversoft eyeball secret.",
+          "sources": [
+            {
+              "title": "r/ExtinctionMode: walkthrough, secrets and intel",
+              "url": "https://www.reddit.com/r/ExtinctionMode/comments/fm1yrt/extinction_mode_guide_walkthrough_and_tips_and/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aw",
+      "title": "Call of Duty: Advanced Warfare — Exo Zombies",
+      "short": "Advanced Warfare",
+      "year": 2014,
+      "description": "Atlas outbreak quests with exo movement. The Exo Survival zombie bonus is listed separately.",
+      "maps": [
+        {
+          "id": "aw-outbreak",
+          "name": "Outbreak",
+          "release": "Havoc · 2015",
+          "mode": "Exo Zombies",
+          "summary": "An Atlas facility where exo-equipped undead trap the survivors.",
+          "questNote": "The Game Over quest uses security clearance cards and the extraction signal.",
+          "sources": [
+            {
+              "title": "r/CODZombies: Outbreak map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/outbreak/"
+            },
+            {
+              "title": "Outbreak: Easter egg guide",
+              "url": "https://www.codzombieguides.com/outbreak-exo-zombies"
+            }
+          ]
+        },
+        {
+          "id": "aw-infection",
+          "name": "Infection",
+          "release": "Ascendance · 2015",
+          "mode": "Exo Zombies",
+          "summary": "Burgertown and its sewers bring infection zones and survivor rescues.",
+          "questNote": "Meat Is Murder centers on Bubby; use the complete guide rather than the incomplete wiki.",
+          "sources": [
+            {
+              "title": "r/CODZombies: Infection map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/infection/"
+            },
+            {
+              "title": "Infection: main quest and side quests",
+              "url": "https://mmmrkennedy.com/games/AW/infection/infection_guide"
+            }
+          ]
+        },
+        {
+          "id": "aw-carrier",
+          "name": "Carrier",
+          "release": "Supremacy · 2015",
+          "mode": "Exo Zombies",
+          "summary": "A damaged Atlas aircraft carrier with bomb threats and the new crew.",
+          "questNote": "Flotsam & Jetsam is the main quest. The Reddit page is incomplete.",
+          "sources": [
+            {
+              "title": "r/CODZombies: Carrier map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/carrier/"
+            },
+            {
+              "title": "Carrier: main quest guide",
+              "url": "https://mmmrkennedy.com/games/AW/carrier/carrier_guide"
+            }
+          ]
+        },
+        {
+          "id": "aw-descent",
+          "name": "Descent",
+          "release": "Reckoning · 2015",
+          "mode": "Exo Zombies",
+          "summary": "An underwater Atlas complex and the final confrontation with Oz.",
+          "questNote": "Reunion is the main quest; Double Feature changes the challenge. The wiki page is incomplete.",
+          "sources": [
+            {
+              "title": "r/CODZombies: Descent map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/descent/"
+            },
+            {
+              "title": "Descent: main quest guide",
+              "url": "https://mmmrkennedy.com/games/AW/descent/descent_guide"
+            }
+          ]
+        },
+        {
+          "id": "aw-riot-zombie-bonus",
+          "name": "Riot — zombie bonus round",
+          "release": "Launch · 2014",
+          "mode": "Exo Survival",
+          "summary": "Exo Survival’s Riot map contains the zombie escape sequence.",
+          "questNote": "A bonus wave and escape challenge rather than a full Exo Zombies map.",
+          "sources": [
+            {
+              "title": "Riot: zombie bonus reference",
+              "url": "https://callofduty.fandom.com/wiki/Riot"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cod-online",
+      "title": "Call of Duty Online — Cyborg Rising",
+      "short": "Call of Duty Online",
+      "year": 2015,
+      "description": "Archived Chinese spinoff with cyborg enemies. The official service closed in 2021; documentation is more limited than for mainline Zombies.",
+      "maps": [
+        {
+          "id": "cod-online-training-stage",
+          "name": "Training Stage",
+          "release": "Cyborg Rising content",
+          "mode": "Archived cyborg tutorial",
+          "summary": "The tutorial area for Cyborg Rising.",
+          "questNote": "Documentation reference only; a complete verified quest walkthrough is unavailable here.",
+          "sources": [
+            {
+              "title": "Cyborg Rising: archived mode and map reference",
+              "url": "https://callofduty.fandom.com/wiki/Cyborg_Rising"
+            },
+            {
+              "title": "Training Stage: reference",
+              "url": "https://callofduty.fandom.com/wiki/Training"
+            }
+          ]
+        },
+        {
+          "id": "cod-online-outpost",
+          "name": "Outpost",
+          "release": "Cyborg Rising content",
+          "mode": "Archived cyborg survival",
+          "summary": "A Cyborg Rising map based on Nacht der Untoten.",
+          "questNote": "Map and intel documentation only; do not substitute a console Zombies quest.",
+          "sources": [
+            {
+              "title": "Outpost: version reference",
+              "url": "https://callofduty.fandom.com/wiki/Outpost_%28Cyborg_Rising%29"
+            },
+            {
+              "title": "Outpost: intel reference",
+              "url": "https://callofduty.fandom.com/wiki/Outpost_%28Cyborg_Rising%29/Intel"
+            },
+            {
+              "title": "Call of Duty Online: service and content reference",
+              "url": "https://callofduty.fandom.com/wiki/Call_of_Duty_Online"
+            }
+          ]
+        },
+        {
+          "id": "cod-online-cyborg-lab",
+          "name": "Cyborg Lab",
+          "release": "Cyborg Rising content",
+          "mode": "Archived cyborg survival",
+          "summary": "The Mechanical Zombie Research Lab, based on Verrückt.",
+          "questNote": "Archived map documentation; full quest coverage remains unverified.",
+          "sources": [
+            {
+              "title": "Cyborg Lab: version reference",
+              "url": "https://callofduty.fandom.com/wiki/Cyborg_Lab"
+            },
+            {
+              "title": "Call of Duty Online: service and content reference",
+              "url": "https://callofduty.fandom.com/wiki/Call_of_Duty_Online"
+            }
+          ]
+        },
+        {
+          "id": "cod-online-ghost-swamp",
+          "name": "Ghost Swamp",
+          "release": "Cyborg Rising content",
+          "mode": "Archived cyborg survival",
+          "summary": "Also called Evil Spirit Swamp, based on Shi No Numa.",
+          "questNote": "Archived map documentation; full quest coverage remains unverified.",
+          "sources": [
+            {
+              "title": "Ghost Swamp: version reference",
+              "url": "https://callofduty.fandom.com/wiki/Ghost_Swamp"
+            },
+            {
+              "title": "Call of Duty Online: service and content reference",
+              "url": "https://callofduty.fandom.com/wiki/Call_of_Duty_Online"
+            }
+          ]
+        },
+        {
+          "id": "cod-online-machine-manufacturing-plant",
+          "name": "Machine Manufacturing Plant",
+          "release": "Cyborg Rising content",
+          "mode": "Archived cyborg survival",
+          "summary": "A later Cyborg Rising map documented in the game’s map roster.",
+          "questNote": "Roster reference only; a complete verified quest walkthrough is unavailable here.",
+          "sources": [
+            {
+              "title": "Cyborg Rising: archived mode and map reference",
+              "url": "https://callofduty.fandom.com/wiki/Cyborg_Rising"
+            },
+            {
+              "title": "Call of Duty Online: service and content reference",
+              "url": "https://callofduty.fandom.com/wiki/Call_of_Duty_Online"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3",
+      "title": "Call of Duty: Black Ops III",
+      "short": "Black Ops III",
+      "year": 2015,
+      "description": "Six main maps, Dead Ops Arcade 2 and eight separate Zombies Chronicles remasters.",
+      "maps": [
+        {
+          "id": "bo3-shadows-of-evil",
+          "name": "Shadows of Evil",
+          "release": "Launch · 2015",
+          "mode": "Round-based",
+          "summary": "Morg City rituals, Beast Mode and the Apothicon Servant.",
+          "questNote": "The full ending requires four players; the solo ritual progression stops earlier.",
+          "sources": [
+            {
+              "title": "r/CODZombies: Shadows of Evil map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/shadows-of-evil/"
+            }
+          ]
+        },
+        {
+          "id": "bo3-the-giant",
+          "name": "The Giant",
+          "release": "Bonus map · 2015",
+          "mode": "Round-based",
+          "summary": "A reworked Der Riese with Primis and Black Ops III systems.",
+          "questNote": "The short Fly Trap quest rewards the Annihilator; music and radios are separate secrets.",
+          "sources": [
+            {
+              "title": "r/CODZombies: The Giant map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+            }
+          ]
+        },
+        {
+          "id": "bo3-dead-ops-arcade-2",
+          "name": "Dead Ops Arcade 2: Cyber’s Avengening",
+          "release": "Launch · 2015",
+          "mode": "Arcade",
+          "summary": "The arcade sequel adds first-person sections and Cyber Silverback.",
+          "questNote": "Arcade progression and secrets; the Reddit page is incomplete.",
+          "sources": [
+            {
+              "title": "r/CODZombies: Dead Ops Arcade 2: Cyber’s Avengening map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/dead-ops-arcade-2/"
+            },
+            {
+              "title": "Dead Ops Arcade 2: full community guide",
+              "url": "https://gamefaqs.gamespot.com/pc/145063-call-of-duty-black-ops-iii/faqs/72570"
+            }
+          ]
+        },
+        {
+          "id": "bo3-der-eisendrache",
+          "name": "Der Eisendrache",
+          "release": "Awakening · 2016",
+          "mode": "Round-based",
+          "summary": "An Austrian castle with elemental bow upgrades and a rocket platform.",
+          "questNote": "My Brother’s Keeper includes bow upgrades, time travel and the Keeper fight.",
+          "sources": [
+            {
+              "title": "r/CODZombies: Der Eisendrache map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
+            }
+          ]
+        },
+        {
+          "id": "bo3-zetsubou-no-shima",
+          "name": "Zetsubou No Shima",
+          "release": "Eclipse · 2016",
+          "mode": "Round-based",
+          "summary": "A tropical research island with spores, plants and underwater routes.",
+          "questNote": "Seeds, the Skull of Nan Sapwe, KT-4 upgrades and the elevator lead to the main quest.",
+          "sources": [
+            {
+              "title": "r/CODZombies: Zetsubou No Shima map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/zetsubou-no-shima/"
+            }
+          ]
+        },
+        {
+          "id": "bo3-gorod-krovi",
+          "name": "Gorod Krovi",
+          "release": "Descent · 2016",
+          "mode": "Round-based",
+          "summary": "A ruined Stalingrad with dragons and the Guard of Fafnir.",
+          "questNote": "Complete the dragon and challenge progression for Love and War.",
+          "sources": [
+            {
+              "title": "r/CODZombies: Gorod Krovi map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/gorod-krovi/"
+            }
+          ]
+        },
+        {
+          "id": "bo3-revelations",
+          "name": "Revelations",
+          "release": "Salvation · 2016",
+          "mode": "Round-based",
+          "summary": "Fragments of older maps form the Aether story’s finale.",
+          "questNote": "The main quest and the cross-map super Easter egg have different rewards.",
+          "sources": [
+            {
+              "title": "r/CODZombies: Revelations map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/revelations/"
+            }
+          ]
+        },
+        {
+          "id": "bo3-nacht-der-untoten",
+          "name": "Nacht der Untoten (Zombies Chronicles)",
+          "release": "Zombies Chronicles · 2017",
+          "mode": "Remaster",
+          "summary": "The original bunker rebuilt with Black Ops III systems.",
+          "questNote": "No full main quest. Chronicles secrets differ from earlier releases.",
+          "sources": [
+            {
+              "title": "r/CODZombies: Nacht der Untoten (Zombies Chronicles) map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/nacht-der-untoten/"
+            },
+            {
+              "title": "Official Zombies Chronicles announcement",
+              "url": "https://investor.activisionblizzard.com/static-files/40fbb1bb-3e80-44b0-9de6-3f763123c834"
+            }
+          ]
+        },
+        {
+          "id": "bo3-verruckt",
+          "name": "Verrückt (Zombies Chronicles)",
+          "release": "Zombies Chronicles · 2017",
+          "mode": "Remaster",
+          "summary": "The split asylum rebuilt for Black Ops III.",
+          "questNote": "No full main quest. Music and remaster-specific small secrets.",
+          "sources": [
+            {
+              "title": "r/CODZombies: Verrückt (Zombies Chronicles) map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/verruckt/"
+            },
+            {
+              "title": "Official Zombies Chronicles announcement",
+              "url": "https://investor.activisionblizzard.com/static-files/40fbb1bb-3e80-44b0-9de6-3f763123c834"
+            }
+          ]
+        },
+        {
+          "id": "bo3-shi-no-numa",
+          "name": "Shi No Numa (Zombies Chronicles)",
+          "release": "Zombies Chronicles · 2017",
+          "mode": "Remaster",
+          "summary": "The swamp and four huts return with updated systems.",
+          "questNote": "No full main quest in this remaster; it is separate from Vanguard’s version.",
+          "sources": [
+            {
+              "title": "r/CODZombies: Shi No Numa (Zombies Chronicles) map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/shi-no-numa/"
+            },
+            {
+              "title": "Official Zombies Chronicles announcement",
+              "url": "https://investor.activisionblizzard.com/static-files/40fbb1bb-3e80-44b0-9de6-3f763123c834"
+            }
+          ]
+        },
+        {
+          "id": "bo3-kino-der-toten",
+          "name": "Kino der Toten (Zombies Chronicles)",
+          "release": "Zombies Chronicles · 2017",
+          "mode": "Remaster",
+          "summary": "The theater returns with GobbleGums and the remastered weapon pool.",
+          "questNote": "No full main quest. Music, film reels and remaster secrets.",
+          "sources": [
+            {
+              "title": "r/CODZombies: Kino der Toten (Zombies Chronicles) map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/"
+            },
+            {
+              "title": "Official Zombies Chronicles announcement",
+              "url": "https://investor.activisionblizzard.com/static-files/40fbb1bb-3e80-44b0-9de6-3f763123c834"
+            }
+          ]
+        },
+        {
+          "id": "bo3-ascension",
+          "name": "Ascension (Zombies Chronicles)",
+          "release": "Zombies Chronicles · 2017",
+          "mode": "Remaster",
+          "summary": "The Soviet cosmodrome with landers and Space Monkeys.",
+          "questNote": "The Casimir Mechanism remains a four-player quest.",
+          "sources": [
+            {
+              "title": "r/CODZombies: Ascension (Zombies Chronicles) map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+            },
+            {
+              "title": "Official Zombies Chronicles announcement",
+              "url": "https://investor.activisionblizzard.com/static-files/40fbb1bb-3e80-44b0-9de6-3f763123c834"
+            }
+          ]
+        },
+        {
+          "id": "bo3-shangri-la",
+          "name": "Shangri-La (Zombies Chronicles)",
+          "release": "Zombies Chronicles · 2017",
+          "mode": "Remaster",
+          "summary": "The jungle temple returns with remastered time-travel puzzles.",
+          "questNote": "The main quest still requires four players.",
+          "sources": [
+            {
+              "title": "r/CODZombies: Shangri-La (Zombies Chronicles) map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/shangri-la/"
+            },
+            {
+              "title": "Official Zombies Chronicles announcement",
+              "url": "https://investor.activisionblizzard.com/static-files/40fbb1bb-3e80-44b0-9de6-3f763123c834"
+            }
+          ]
+        },
+        {
+          "id": "bo3-moon",
+          "name": "Moon (Zombies Chronicles)",
+          "release": "Zombies Chronicles · 2017",
+          "mode": "Remaster",
+          "summary": "The lunar base returns with Black Ops III equipment.",
+          "questNote": "The main quest is solo-capable in Chronicles; do not use BO1’s prerequisites.",
+          "sources": [
+            {
+              "title": "r/CODZombies: Moon (Zombies Chronicles) map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/moon/"
+            },
+            {
+              "title": "Official Zombies Chronicles announcement",
+              "url": "https://investor.activisionblizzard.com/static-files/40fbb1bb-3e80-44b0-9de6-3f763123c834"
+            }
+          ]
+        },
+        {
+          "id": "bo3-origins",
+          "name": "Origins (Zombies Chronicles)",
+          "release": "Zombies Chronicles · 2017",
+          "mode": "Remaster",
+          "summary": "The four-staff quest remastered for Black Ops III.",
+          "questNote": "Little Lost Girl is solo-capable. Check the remaster notes for changed mechanics.",
+          "sources": [
+            {
+              "title": "r/CODZombies: Origins (Zombies Chronicles) map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/origins/"
+            },
+            {
+              "title": "Official Zombies Chronicles announcement",
+              "url": "https://investor.activisionblizzard.com/static-files/40fbb1bb-3e80-44b0-9de6-3f763123c834"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "iw",
+      "title": "Call of Duty: Infinite Warfare — Zombies",
+      "short": "Infinite Warfare",
+      "year": 2016,
+      "description": "Five film-themed maps. Completing their quests unlocks Director’s Cut and the later super Easter egg.",
+      "maps": [
+        {
+          "id": "iw-zombies-in-spaceland",
+          "name": "Zombies in Spaceland",
+          "release": "Launch · 2016",
+          "mode": "Round-based",
+          "summary": "An alien-themed 1980s amusement park with four wonder weapons.",
+          "questNote": "The alien encounter, Soul Key and David Hasselhoff unlock are distinct objectives.",
+          "sources": [
+            {
+              "title": "r/CODZombies: Zombies in Spaceland map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/zombies-in-spaceland/"
+            }
+          ]
+        },
+        {
+          "id": "iw-rave-in-the-redwoods",
+          "name": "Rave in the Redwoods",
+          "release": "Sabotage · 2017",
+          "mode": "Round-based",
+          "summary": "A 1990s camp with Rave Mode, charms and crossbows.",
+          "questNote": "Follow the photograph rituals to the Super Slasher encounter.",
+          "sources": [
+            {
+              "title": "r/CODZombies: Rave in the Redwoods map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/rave-in-the-redwoods/"
+            }
+          ]
+        },
+        {
+          "id": "iw-shaolin-shuffle",
+          "name": "Shaolin Shuffle",
+          "release": "Continuum · 2017",
+          "mode": "Round-based",
+          "summary": "1970s New York with martial arts powers and the Rat King.",
+          "questNote": "Chi progression, symbols and the Rat King lead to the Soul Key.",
+          "sources": [
+            {
+              "title": "r/CODZombies: Shaolin Shuffle map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/shaolin-shuffle/"
+            }
+          ]
+        },
+        {
+          "id": "iw-attack-of-the-radioactive-thing",
+          "name": "Attack of the Radioactive Thing",
+          "release": "Absolution · 2017",
+          "mode": "Round-based",
+          "summary": "A 1950s monster-movie town with Elvira and a chemistry puzzle.",
+          "questNote": "The chemical recipe depends on the match’s clues; do not assume a fixed mixture.",
+          "sources": [
+            {
+              "title": "r/CODZombies: Attack of the Radioactive Thing map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+            }
+          ]
+        },
+        {
+          "id": "iw-the-beast-from-beyond",
+          "name": "The Beast from Beyond",
+          "release": "Retribution · 2017",
+          "mode": "Round-based",
+          "summary": "An abandoned research station introduces Extinction Cryptids.",
+          "questNote": "The standard quest and Mephistopheles super Easter egg have different prerequisites.",
+          "sources": [
+            {
+              "title": "r/CODZombies: The Beast from Beyond map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wwii",
+      "title": "Call of Duty: WWII — Nazi Zombies",
+      "short": "WWII",
+      "year": 2017,
+      "description": "Main quests, Prologue and the three Tortured Path chapters, with their standalone Survival versions kept separate.",
+      "maps": [
+        {
+          "id": "wwii-prologue",
+          "name": "Prologue",
+          "release": "Launch · 2017",
+          "mode": "Tutorial",
+          "summary": "The introductory escape and cabin tutorial.",
+          "questNote": "Tutorial objectives and cabin secrets rather than a full map quest.",
+          "sources": [
+            {
+              "title": "Prologue: map reference",
+              "url": "https://callofduty.fandom.com/wiki/Prologue_%28map%29"
+            },
+            {
+              "title": "Cabin secrets guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/groesten-haus/"
+            }
+          ]
+        },
+        {
+          "id": "wwii-groesten-haus",
+          "name": "Gröesten Haus",
+          "release": "Launch · 2017",
+          "mode": "Survival",
+          "summary": "The small cabin from the tutorial as a standalone survival map.",
+          "questNote": "Mystery Box and upgraded-weapons secrets; no full story quest.",
+          "sources": [
+            {
+              "title": "r/CODZombies: Gröesten Haus map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/groesten-haus/"
+            }
+          ]
+        },
+        {
+          "id": "wwii-the-final-reich",
+          "name": "The Final Reich",
+          "release": "Launch · 2017",
+          "mode": "Round-based",
+          "summary": "Mittelburg’s village, mines and laboratory beneath the town.",
+          "questNote": "Separate Casual and Hardcore quest routes lead to different completion objectives.",
+          "sources": [
+            {
+              "title": "r/CODZombies: The Final Reich map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+            }
+          ]
+        },
+        {
+          "id": "wwii-the-darkest-shore",
+          "name": "The Darkest Shore",
+          "release": "The Resistance · 2018",
+          "mode": "Round-based",
+          "summary": "A fog-covered island with mines, a saw weapon and the Meuchler.",
+          "questNote": "Build and upgrade the Ripsaw, follow the ritual quest and face the island’s final fight.",
+          "sources": [
+            {
+              "title": "r/CODZombies: The Darkest Shore map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/the-darkest-shore/"
+            }
+          ]
+        },
+        {
+          "id": "wwii-the-shadowed-throne",
+          "name": "The Shadowed Throne",
+          "release": "The War Machine · 2018",
+          "mode": "Round-based",
+          "summary": "A ruined Berlin with the Wunderbuss and a hidden underground route.",
+          "questNote": "The main quest combines weapon-building, signals and a final boss.",
+          "sources": [
+            {
+              "title": "r/CODZombies: The Shadowed Throne map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/"
+            }
+          ]
+        },
+        {
+          "id": "wwii-the-tortured-path",
+          "name": "The Tortured Path",
+          "release": "United Front · 2018",
+          "mode": "Objective mode",
+          "summary": "A three-chapter journey: Into the Storm, Across the Depths and Beneath the Ice.",
+          "questNote": "Each chapter has its own ten-round objectives and quest; see the separate chapter rows.",
+          "sources": [
+            {
+              "title": "r/CODZombies: The Tortured Path map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/the-tortured-path/"
+            }
+          ]
+        },
+        {
+          "id": "wwii-into-the-storm",
+          "name": "Into the Storm (The Tortured Path)",
+          "release": "United Front · 2018",
+          "mode": "Objective chapter",
+          "summary": "Chapter 1 takes place around Bodega Cervantes.",
+          "questNote": "Chapter-specific main quest and survival objectives.",
+          "sources": [
+            {
+              "title": "r/CODZombies: The Tortured Path quest guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/the-tortured-path/"
+            }
+          ]
+        },
+        {
+          "id": "wwii-across-the-depths",
+          "name": "Across the Depths (The Tortured Path)",
+          "release": "United Front · 2018",
+          "mode": "Objective chapter",
+          "summary": "Chapter 2 takes place aboard U.S.S. Mount Olympus.",
+          "questNote": "Chapter-specific main quest and survival objectives.",
+          "sources": [
+            {
+              "title": "r/CODZombies: The Tortured Path quest guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/the-tortured-path/"
+            }
+          ]
+        },
+        {
+          "id": "wwii-beneath-the-ice",
+          "name": "Beneath the Ice (The Tortured Path)",
+          "release": "United Front · 2018",
+          "mode": "Objective chapter",
+          "summary": "Chapter 3 reaches the Altar of Blood.",
+          "questNote": "Chapter-specific quest, boss and the linked Tortured Path completion.",
+          "sources": [
+            {
+              "title": "r/CODZombies: The Tortured Path quest guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/the-tortured-path/"
+            }
+          ]
+        },
+        {
+          "id": "wwii-bodega-cervantes",
+          "name": "Bodega Cervantes (Survival)",
+          "release": "United Front · 2018",
+          "mode": "Survival",
+          "summary": "The standalone survival version of Into the Storm.",
+          "questNote": "Use the Survival guide; the full chapter quest belongs to The Tortured Path.",
+          "sources": [
+            {
+              "title": "r/CODZombies: Bodega Cervantes (Survival) map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/bodega-cervantes/"
+            }
+          ]
+        },
+        {
+          "id": "wwii-uss-mount-olympus",
+          "name": "U.S.S. Mount Olympus (Survival)",
+          "release": "United Front · 2018",
+          "mode": "Survival",
+          "summary": "The standalone survival version of Across the Depths.",
+          "questNote": "Use the Survival guide; the full chapter quest belongs to The Tortured Path.",
+          "sources": [
+            {
+              "title": "r/CODZombies: U.S.S. Mount Olympus (Survival) map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/uss-mount-olympus/"
+            }
+          ]
+        },
+        {
+          "id": "wwii-altar-of-blood",
+          "name": "Altar of Blood (Survival)",
+          "release": "United Front · 2018",
+          "mode": "Survival",
+          "summary": "The standalone survival version of Beneath the Ice.",
+          "questNote": "Survival secrets are separate from the full chapter quest.",
+          "sources": [
+            {
+              "title": "r/CODZombies: Altar of Blood (Survival) map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/altar-of-blood/"
+            }
+          ]
+        },
+        {
+          "id": "wwii-the-frozen-dawn",
+          "name": "The Frozen Dawn",
+          "release": "Shadow War · 2018",
+          "mode": "Round-based",
+          "summary": "A subterranean Thule city with four ancient weapons.",
+          "questNote": "Build and upgrade the four weapons, then complete the finale quest.",
+          "sources": [
+            {
+              "title": "r/CODZombies: The Frozen Dawn map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo4",
+      "title": "Call of Duty: Black Ops 4",
+      "short": "Black Ops 4",
+      "year": 2018,
+      "description": "Chaos and Aether maps. Check the game mode before starting: quest availability differs in Casual and Custom Mutations.",
+      "maps": [
+        {
+          "id": "bo4-voyage-of-despair",
+          "name": "Voyage of Despair",
+          "release": "Launch · 2018",
+          "mode": "Round-based",
+          "summary": "The Titanic, the Sentinel Artifact and the Kraken.",
+          "questNote": "Planet puzzles and elemental challenges lead to the Eye of Odin fight.",
+          "sources": [
+            {
+              "title": "r/CODZombies: Voyage of Despair map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/voyage-of-despair/"
+            }
+          ]
+        },
+        {
+          "id": "bo4-ix",
+          "name": "IX",
+          "release": "Launch · 2018",
+          "mode": "Round-based",
+          "summary": "A gladiatorial arena with four god towers and the Death of Orion.",
+          "questNote": "Trials and the Danu, Ra, Zeus and Odin stages lead to the elephant encounter.",
+          "sources": [
+            {
+              "title": "r/CODZombies: IX map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/ix/"
+            }
+          ]
+        },
+        {
+          "id": "bo4-blood-of-the-dead",
+          "name": "Blood of the Dead",
+          "release": "Launch · 2018",
+          "mode": "Round-based",
+          "summary": "An expanded Alcatraz with the Spectral Shield and soul-based mechanics.",
+          "questNote": "The main quest’s challenges are separate from weapon upgrades and other secrets.",
+          "sources": [
+            {
+              "title": "r/CODZombies: Blood of the Dead map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/blood-of-the-dead/"
+            }
+          ]
+        },
+        {
+          "id": "bo4-classified",
+          "name": "Classified",
+          "release": "Bonus map · 2018",
+          "mode": "Round-based",
+          "summary": "A reworked Pentagon and Area 51 based on “Five.”",
+          "questNote": "The ending is tied to reaching round 150; Project Skadi and the Winter’s Howl are separate.",
+          "sources": [
+            {
+              "title": "r/CODZombies: Classified map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/classified/"
+            }
+          ]
+        },
+        {
+          "id": "bo4-dead-of-the-night",
+          "name": "Dead of the Night",
+          "release": "Black Ops Pass · 2018",
+          "mode": "Round-based",
+          "summary": "A mansion outbreak with vampires, werewolves and Alistair’s Folly.",
+          "questNote": "Three quest branches and the upgraded wonder weapon lead to the forest fight.",
+          "sources": [
+            {
+              "title": "r/CODZombies: Dead of the Night map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/"
+            }
+          ]
+        },
+        {
+          "id": "bo4-ancient-evil",
+          "name": "Ancient Evil",
+          "release": "Black Ops Pass · 2019",
+          "mode": "Round-based",
+          "summary": "Delphi and the underworld with four elemental gauntlets.",
+          "questNote": "Gauntlet upgrades and the main quest lead to the Pegasus and Perseus encounter.",
+          "sources": [
+            {
+              "title": "r/CODZombies: Ancient Evil map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/"
+            }
+          ]
+        },
+        {
+          "id": "bo4-alpha-omega",
+          "name": "Alpha Omega",
+          "release": "Black Ops Pass · 2019",
+          "mode": "Round-based",
+          "summary": "Nuketown and its underground Broken Arrow facility.",
+          "questNote": "RUSHMORE tasks and the APD lead to the Avogadro quest.",
+          "sources": [
+            {
+              "title": "r/CODZombies: Alpha Omega map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+            }
+          ]
+        },
+        {
+          "id": "bo4-tag-der-toten",
+          "name": "Tag der Toten",
+          "release": "Black Ops Pass · 2019",
+          "mode": "Round-based",
+          "summary": "Victis returns to a frozen shipwreck and research outpost.",
+          "questNote": "The main quest closes the Aether story; music and weapon upgrades are separate.",
+          "sources": [
+            {
+              "title": "r/CODZombies: Tag der Toten map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/tag-der-toten/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cod-mobile",
+      "title": "Call of Duty: Mobile — Zombies",
+      "short": "Call of Duty: Mobile",
+      "year": 2019,
+      "description": "Zombies Classic and Undead Siege are different mobile modes. Archived variants are labeled; live availability depends on the region and season.",
+      "maps": [
+        {
+          "id": "cod-mobile-shi-no-numa",
+          "name": "Shi No Numa — Zombies Classic",
+          "release": "2019; return · 2022",
+          "mode": "Mobile round-based / Raid",
+          "summary": "The mobile swamp map with Survival and boss-based Raid variants.",
+          "questNote": "Jubokko is a secret Hardcore Raid boss, separate from console and Vanguard quests.",
+          "sources": [
+            {
+              "title": "Shi No Numa: secret boss walkthrough",
+              "url": "https://www.gamespot.com/articles/call-of-duty-mobile-zombies-shi-no-numa-secret-boss-fight-guide/1100-6508300/"
+            },
+            {
+              "title": "Official mobile Shi No Numa map snapshot",
+              "url": "https://blog.activision.com/call-of-duty/2019-11/Call-of-Duty-Mobile-Zombies-Map-Snapshot-Shi-No-Numa"
+            }
+          ]
+        },
+        {
+          "id": "cod-mobile-undead-siege-isolated",
+          "name": "Undead Siege — Isolated",
+          "release": "Season 6 · 2021",
+          "mode": "Mobile defense mode",
+          "summary": "Scavenge by day and protect the mobile base at night on Isolated.",
+          "questNote": "Defense objectives, upgrades and mode rewards rather than the Classic Raid quest. Availability varies.",
+          "sources": [
+            {
+              "title": "Undead Siege: map and mode reference",
+              "url": "https://callofduty.fandom.com/wiki/Undead_Siege"
+            },
+            {
+              "title": "Official Undead Siege announcement",
+              "url": "https://www.callofduty.com/uk/en/blog/2021/07/Turn-Up-the-Heat-in-Season-Six-of-Call-of-Duty-Mobile"
+            },
+            {
+              "title": "Official Undead Siege strategies",
+              "url": "https://www.callofduty.com/blog/2021/08/call-of-duty-mobile-aether-hunt-event-season-six"
+            }
+          ]
+        },
+        {
+          "id": "cod-mobile-undead-siege-blackout",
+          "name": "Undead Siege — Blackout",
+          "release": "Season 11 · 2021",
+          "mode": "Archived mobile mode variant",
+          "summary": "A later Undead Siege variant using part of Blackout.",
+          "questNote": "Listed as an archived variant. Current access depends on the game’s region and playlist.",
+          "sources": [
+            {
+              "title": "Undead Siege: map and mode reference",
+              "url": "https://callofduty.fandom.com/wiki/Undead_Siege"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "coldwar",
+      "title": "Call of Duty: Black Ops Cold War",
+      "short": "Black Ops Cold War",
+      "year": 2020,
+      "description": "Four round-based story maps, Outbreak, Onslaught and Dead Ops Arcade 3. Large modes are cataloged as modes rather than duplicate map copies.",
+      "maps": [
+        {
+          "id": "coldwar-die-maschine",
+          "name": "Die Maschine",
+          "release": "Launch · 2020",
+          "mode": "Round-based",
+          "summary": "The Nacht bunker and an underground particle-accelerator facility.",
+          "questNote": "The main quest, four D.I.E. upgrades, coffin dance and other side quests are separate.",
+          "sources": [
+            {
+              "title": "Cold War Tracker: complete Die Maschine guide",
+              "url": "https://tracker.gg/cold-war/articles/black-ops-cold-war-zombies-die-maschine-guide"
+            }
+          ]
+        },
+        {
+          "id": "coldwar-dead-ops-arcade-3",
+          "name": "Dead Ops Arcade 3: Rise of the Mamaback",
+          "release": "Launch · 2020",
+          "mode": "Arcade",
+          "summary": "An arcade adventure with the Wild and Mamaback.",
+          "questNote": "Arcade progression, Room of Fate and secrets; use the full guide rather than the wiki stub.",
+          "sources": [
+            {
+              "title": "r/CODZombies: Dead Ops Arcade 3: Rise of the Mamaback map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/dead-ops-arcade-3/"
+            },
+            {
+              "title": "Dead Ops Arcade 3: full community guide",
+              "url": "https://gamefaqs.gamespot.com/ps4/298467-call-of-duty-black-ops-cold-war/faqs/78743"
+            },
+            {
+              "title": "Dead Ops Arcade 3: The Elements of DOA guide",
+              "url": "https://gamefaqs.gamespot.com/ps5/298464-call-of-duty-black-ops-cold-war/faqs/81477"
+            }
+          ]
+        },
+        {
+          "id": "coldwar-onslaught",
+          "name": "Onslaught",
+          "release": "Launch · 2020; all platforms · 2021",
+          "mode": "Co-op mode",
+          "summary": "Follow the Dark Aether orb through Multiplayer maps. Includes the smaller-map Containment variant.",
+          "questNote": "Surge survival, rewards and intel rather than a full story quest.",
+          "sources": [
+            {
+              "title": "Onslaught: mode, maps and strategies",
+              "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2961401237"
+            },
+            {
+              "title": "Treyarch: Onslaught on all platforms",
+              "url": "https://www.treyarch.com/game-intel/2021/11/November_2nd_Update"
+            }
+          ]
+        },
+        {
+          "id": "coldwar-firebase-z",
+          "name": "Firebase Z",
+          "release": "Season 1 · 2021",
+          "mode": "Round-based",
+          "summary": "A Vietnamese village and Omega outpost with the RAI K-84.",
+          "questNote": "The main quest includes the Mimic memory step; trials and weapon building are separate.",
+          "sources": [
+            {
+              "title": "Cold War Tracker: complete Firebase Z guide",
+              "url": "https://tracker.gg/cold-war/articles/black-ops-cold-war-zombies-firebase-z-guide"
+            }
+          ]
+        },
+        {
+          "id": "coldwar-outbreak",
+          "name": "Outbreak",
+          "release": "Season 2 · 2021",
+          "mode": "Open-world mode",
+          "summary": "Explore Alpine, Ruka, Golova, Sanatorium, Duga, Collateral, Armada and Zoo.",
+          "questNote": "Two main quests plus side objectives. The later Pact reward checks quests across Cold War.",
+          "sources": [
+            {
+              "title": "Cold War Tracker: complete Outbreak guide",
+              "url": "https://tracker.gg/cold-war/articles/black-ops-cold-war-zombies-outbreak-guide"
+            }
+          ]
+        },
+        {
+          "id": "coldwar-mauer-der-toten",
+          "name": "Mauer der Toten",
+          "release": "Season 4 Reloaded · 2021",
+          "mode": "Round-based",
+          "summary": "A divided Berlin with Klaus, the CRBR-S and underground trains.",
+          "questNote": "Restore Klaus and follow the main quest to the Valentina fight.",
+          "sources": [
+            {
+              "title": "Cold War Tracker: complete Mauer Der Toten guide",
+              "url": "https://tracker.gg/cold-war/articles/black-ops-cold-war-zombies-mauer-der-toten-guide"
+            }
+          ]
+        },
+        {
+          "id": "coldwar-forsaken",
+          "name": "Forsaken",
+          "release": "Season 6 · 2021",
+          "mode": "Round-based",
+          "summary": "Anytown’s Soviet test facility and the Chrysalax.",
+          "questNote": "Main quest, Chrysalax building, arcade machines and other side eggs are distinct.",
+          "sources": [
+            {
+              "title": "Cold War Tracker: complete Forsaken guide",
+              "url": "https://tracker.gg/cold-war/articles/black-ops-cold-war-zombies-forsaken-guide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vanguard",
+      "title": "Call of Duty: Vanguard — Zombies",
+      "short": "Vanguard",
+      "year": 2021,
+      "description": "Objective hubs followed by two round-based maps. Shi No Numa has a new quest specific to this game.",
+      "maps": [
+        {
+          "id": "vanguard-der-anfang",
+          "name": "Der Anfang",
+          "release": "Launch · 2021",
+          "mode": "Objective hub",
+          "summary": "A Stalingrad hub connected to objective arenas through portals.",
+          "questNote": "Story-prologue content and small secrets; no full map-ending quest like the later maps.",
+          "sources": [
+            {
+              "title": "Der Anfang: map and side quests",
+              "url": "https://www.codzombieguides.com/der-anfang"
+            },
+            {
+              "title": "Official Der Anfang survival guide",
+              "url": "https://www.callofduty.com/ca/en/blog/2021/11/call-of-duty-vanguard-zombies-der-anfang-20-tips"
+            }
+          ]
+        },
+        {
+          "id": "vanguard-terra-maledicta",
+          "name": "Terra Maledicta",
+          "release": "Season 2 · 2022",
+          "mode": "Objective hub",
+          "summary": "An Egyptian desert hub and Dark Aether destinations.",
+          "questNote": "The main quest and side rituals are specific to the objective-based map.",
+          "sources": [
+            {
+              "title": "Terra Maledicta: Easter egg guide",
+              "url": "https://mmmrkennedy.com/games/VG/terra_maledicta/terra_maledicta_guide"
+            },
+            {
+              "title": "Terra Maledicta: map and side quests",
+              "url": "https://www.codzombieguides.com/terra-maledicta"
+            }
+          ]
+        },
+        {
+          "id": "vanguard-shi-no-numa",
+          "name": "Shi No Numa",
+          "release": "Season 4 · 2022",
+          "mode": "Round-based remaster",
+          "summary": "The swamp returns with a new Dig Site and Vanguard systems.",
+          "questNote": "A full new main quest with the Wunderwaffe; do not use the WaW or Chronicles instructions.",
+          "sources": [
+            {
+              "title": "Shi No Numa: Vanguard main quest",
+              "url": "https://www.codzombieguides.com/shi-no-numa"
+            },
+            {
+              "title": "Official Shi No Numa survival guide",
+              "url": "https://www.callofduty.com/au/en/blog/2022/06/call-of-duty-vanguard-zombies-shi-no-numa-survival-guide-map"
+            }
+          ]
+        },
+        {
+          "id": "vanguard-the-archon",
+          "name": "The Archon",
+          "release": "Season 5 · 2022",
+          "mode": "Round-based",
+          "summary": "A transformed Terra Maledicta setting for the confrontation with Kortifex.",
+          "questNote": "The main quest leads to Vanguard’s final boss.",
+          "sources": [
+            {
+              "title": "The Archon: Easter egg guide",
+              "url": "https://mmmrkennedy.com/games/VG/the_archon/the_archon_guide"
+            },
+            {
+              "title": "Official Season 5 map announcement",
+              "url": "https://www.callofduty.com/en/blog/2022/08/call-of-duty-vanguard-warzone-season-five-last-stand-maps-zombies-update/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mw3",
+      "title": "Call of Duty: Modern Warfare III — Zombies",
+      "short": "Modern Warfare III",
+      "year": 2023,
+      "description": "Operation Deadbolt in Urzikstan, four Dark Aether rift destinations and the Unstable Rift. These are extraction experiences, not traditional round-based maps.",
+      "maps": [
+        {
+          "id": "mw3-urzikstan",
+          "name": "Urzikstan — Operation Deadbolt",
+          "release": "Launch · 2023",
+          "mode": "Open-world extraction",
+          "summary": "A shared map with three threat zones, contracts, bosses and story acts.",
+          "questNote": "Story missions, Greylorm, Warlords and local secrets are separate objectives.",
+          "sources": [
+            {
+              "title": "Modern Warfare Zombies: missions, secrets and all four rifts",
+              "url": "https://www.codzombieguides.com/modern-warfare-zombies"
+            },
+            {
+              "title": "Official Modern Warfare Zombies tactics",
+              "url": "https://www.callofduty.com/guides/zombies/call-of-duty-guide-modern-warfare-zombies-tactics"
+            }
+          ]
+        },
+        {
+          "id": "mw3-dark-aether-season-1",
+          "name": "Dark Aether Rift — Season 1",
+          "release": "Season 1 · 2023",
+          "mode": "Rift destination",
+          "summary": "The Al Bagra Fortress destination and the first sigil portal.",
+          "questNote": "Bad Signal is the story mission; the repeatable Normal and Elder rifts require their own unlocks.",
+          "sources": [
+            {
+              "title": "Modern Warfare Zombies: missions, secrets and all four rifts",
+              "url": "https://www.codzombieguides.com/modern-warfare-zombies"
+            }
+          ]
+        },
+        {
+          "id": "mw3-dark-aether-season-2",
+          "name": "Dark Aether Rift — Season 2",
+          "release": "Season 2 Reloaded · 2024",
+          "mode": "Rift destination",
+          "summary": "The Sa’id City destination with a new portal and schematic rewards.",
+          "questNote": "Countermeasures is the story mission; relic upgrades unlock the repeatable rift.",
+          "sources": [
+            {
+              "title": "Modern Warfare Zombies: missions, secrets and all four rifts",
+              "url": "https://www.codzombieguides.com/modern-warfare-zombies"
+            },
+            {
+              "title": "Season 2 Dark Aether: contracts and music",
+              "url": "https://www.reddit.com/r/MWZombies/comments/1btflqa/"
+            }
+          ]
+        },
+        {
+          "id": "mw3-dark-aether-season-3",
+          "name": "Dark Aether Rift — Season 3",
+          "release": "Season 3 Reloaded · 2024",
+          "mode": "Rift destination",
+          "summary": "The third Dark Aether destination and its linked relic quest.",
+          "questNote": "Union is the story mission; relics and their upgrades unlock the repeatable rift.",
+          "sources": [
+            {
+              "title": "Modern Warfare Zombies: missions, secrets and all four rifts",
+              "url": "https://www.codzombieguides.com/modern-warfare-zombies"
+            },
+            {
+              "title": "Season 3 Dark Aether: portal unlock walkthrough",
+              "url": "https://gameranx.com/features/id/497546/article/modern-warfare-zombies-how-to-open-the-season-3-reloaded-dark-aether-rift/"
+            }
+          ]
+        },
+        {
+          "id": "mw3-unstable-rift",
+          "name": "Unstable Rift",
+          "release": "Season 4 Reloaded · 2024",
+          "mode": "Wave challenge",
+          "summary": "A timed high-difficulty encounter with five enemy phases.",
+          "questNote": "Obelisk requirements open the encounter. Completion awards the Mark of the Survivor camo.",
+          "sources": [
+            {
+              "title": "Unstable Rift: access and completion guide",
+              "url": "https://primagames.com/tips/how-to-find-and-complete-unstable-rifts-in-mw3-zombies"
+            },
+            {
+              "title": "Official Unstable Rift patch notes",
+              "url": "https://www.callofduty.com/patchnotes/2024/05/call-of-duty-modern-warfare-iii-season-4-patch-notes"
+            }
+          ]
+        },
+        {
+          "id": "mw3-dark-aether-season-5",
+          "name": "Dark Aether Rift — Season 5",
+          "release": "Season 5 Reloaded · 2024",
+          "mode": "Rift destination",
+          "summary": "The final destination uses an altered Al Mazrah skyline and launch pads.",
+          "questNote": "Ascension is the final story mission; Echo relics unlock the repeatable Normal and Elder rifts.",
+          "sources": [
+            {
+              "title": "Modern Warfare Zombies: missions, secrets and all four rifts",
+              "url": "https://www.codzombieguides.com/modern-warfare-zombies"
+            },
+            {
+              "title": "Final Dark Aether: all four relics walkthrough",
+              "url": "https://gameranx.com/features/id/506654/article/modern-warfare-zombies-how-to-get-all-4-relics-and-enter-the-final-dark-aether-rift/"
+            },
+            {
+              "title": "Official Season 5 Reloaded Zombies announcement",
+              "url": "https://www.callofduty.com/blog/2024/08/call-of-duty-modern-warfare-iii-warzone-wzm-season-5-reloaded-maps-modes-zombies-announcement"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo6",
+      "title": "Call of Duty: Black Ops 6",
+      "short": "Black Ops 6",
+      "year": 2024,
+      "description": "All six round-based maps, plus Grief and Starting Room variants. Directed Mode guides cover supported main-quest progression.",
+      "maps": [
+        {
+          "id": "bo6-liberty-falls",
+          "name": "Liberty Falls",
+          "release": "Launch · 2024",
+          "mode": "Round-based",
+          "summary": "A West Virginia town with the Jet Gun and Dark Aether church.",
+          "questNote": "Main quest, Jet Gun, Aetherella, bowling and other side secrets are separate.",
+          "sources": [
+            {
+              "title": "r/CODZombies: Liberty Falls map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/liberty-falls/"
+            },
+            {
+              "title": "Official map guide",
+              "url": "https://www.callofduty.com/guides/blackops6/zombies/call-of-duty-guides-black-ops-6-round-based-zombies-liberty-falls"
+            }
+          ]
+        },
+        {
+          "id": "bo6-terminus",
+          "name": "Terminus",
+          "release": "Launch · 2024",
+          "mode": "Round-based",
+          "summary": "An island prison, underground labs, sea routes and the Beamsmasher.",
+          "questNote": "Main quest and Patient 13 encounter; weapon, boat and island secrets are separate.",
+          "sources": [
+            {
+              "title": "r/CODZombies: Terminus map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/terminus/"
+            },
+            {
+              "title": "Official map guide",
+              "url": "https://www.callofduty.com/guides/blackops6/zombies/call-of-duty-guides-black-ops-6-round-based-zombies-terminus"
+            }
+          ]
+        },
+        {
+          "id": "bo6-citadelle-des-morts",
+          "name": "Citadelle des Morts",
+          "release": "Season 1 Reloaded · 2024",
+          "mode": "Round-based",
+          "summary": "A French village and castle with four elemental swords.",
+          "questNote": "Sword and incantation progression leads to the main quest’s Guardian fight.",
+          "sources": [
+            {
+              "title": "r/CODZombies: Citadelle des Morts map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/citadelle-des-morts/"
+            },
+            {
+              "title": "Official map guide",
+              "url": "https://www.callofduty.com/guides/blackops6/zombies/call-of-duty-guides-black-ops-6-round-based-zombies-citadelle-des-morts"
+            }
+          ]
+        },
+        {
+          "id": "bo6-the-tomb",
+          "name": "The Tomb",
+          "release": "Season 2 · 2025",
+          "mode": "Round-based",
+          "summary": "A dig site and underground tombs connected to the Dark Aether.",
+          "questNote": "Build and upgrade the Staff of Ice, then follow the Sentinel Artifact quest.",
+          "sources": [
+            {
+              "title": "r/CODZombies: The Tomb map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/the-tomb/"
+            },
+            {
+              "title": "Official map guide",
+              "url": "https://www.callofduty.com/guides/blackops6/zombies/call-of-duty-guides-black-ops-6-round-based-zombies-the-tomb"
+            }
+          ]
+        },
+        {
+          "id": "bo6-shattered-veil",
+          "name": "Shattered Veil",
+          "release": "Season 3 · 2025",
+          "mode": "Round-based",
+          "summary": "An Appalachian mansion with Ray Gun Mark II upgrades.",
+          "questNote": "The main quest uses three Mark II variants and leads to the Z-Rex encounter.",
+          "sources": [
+            {
+              "title": "r/CODZombies: Shattered Veil map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/shattered-veil/"
+            },
+            {
+              "title": "Official Directed Mode guide",
+              "url": "https://www.callofduty.com/guides/blackops6/zombies/call-of-duty-guides-black-ops-6-round-based-zombies-directed-mode-shattered-veil"
+            }
+          ]
+        },
+        {
+          "id": "bo6-reckoning",
+          "name": "Reckoning",
+          "release": "Season 5 · 2025",
+          "mode": "Round-based",
+          "summary": "The Janus Towers facility and the finale of the Black Ops 6 story.",
+          "questNote": "Follow the main quest and its ending choices. The Directed guide is linked separately.",
+          "sources": [
+            {
+              "title": "r/CODZombies: Reckoning map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/reckoning/"
+            },
+            {
+              "title": "Official Directed Mode guide",
+              "url": "https://www.callofduty.com/guides/blackops6/zombies/call-of-duty-guides-black-ops-6-round-based-zombies-directed-mode-reckoning"
+            }
+          ]
+        },
+        {
+          "id": "bo6-grief",
+          "name": "Grief — map arenas",
+          "release": "Season 4 · 2025",
+          "mode": "Competitive mode",
+          "summary": "Four-versus-four survival in arenas cut from the round-based maps.",
+          "questNote": "No main quest in Grief. Capture zones and penalties determine the match.",
+          "sources": [
+            {
+              "title": "Official Grief rules and arenas",
+              "url": "https://www.callofduty.com/guides/blackops6/zombies/call-of-duty-guides-black-ops-6-zombies-mode-guide-grief"
+            }
+          ]
+        },
+        {
+          "id": "bo6-starting-room",
+          "name": "Starting Room — map variants",
+          "release": "Season 4 Reloaded · 2025",
+          "mode": "Playlist variant",
+          "summary": "Survive inside the opening area of a round-based map.",
+          "questNote": "A restricted survival ruleset; it does not offer the map’s full main quest. Playlist availability can vary.",
+          "sources": [
+            {
+              "title": "Official Starting Room rules",
+              "url": "https://www.callofduty.com/au/en/patchnotes/2025/05/call-of-duty-black-ops-6-season-04-patch-notes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo7",
+      "title": "Call of Duty: Black Ops 7",
+      "short": "Black Ops 7",
+      "year": 2025,
+      "description": "Six story maps and eight Survival areas verified through Season 6. Dead Ops Arcade 4 and permanent or playlist modes are labeled separately.",
+      "maps": [
+        {
+          "id": "bo7-ashes-of-the-damned",
+          "name": "Ashes of the Damned",
+          "release": "Launch · 2025",
+          "mode": "Round-based",
+          "summary": "A large Dark Aether road network linking six major locations, explored with Ol’ Tessie.",
+          "questNote": "Main quest, vehicle upgrades, wonder weapon and Cursed relic quests have separate progression.",
+          "sources": [
+            {
+              "title": "r/CODZombies: Ashes of the Damned map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/ashes-of-the-damned/"
+            },
+            {
+              "title": "Official interactive map",
+              "url": "https://www.callofduty.com/guides/blackops7/zombies/ashes-of-the-damned"
+            }
+          ]
+        },
+        {
+          "id": "bo7-vandorn-farm-survival",
+          "name": "Vandorn Farm (Survival)",
+          "release": "Launch · 2025",
+          "mode": "Survival",
+          "summary": "The farm area from Ashes of the Damned as a compact survival map.",
+          "questNote": "Survival milestones rather than the full Ashes main quest. Cursed Survival has separate modifiers.",
+          "sources": [
+            {
+              "title": "Official Vandorn Farm survival guide",
+              "url": "https://www.callofduty.com/guides/blackops7/zombies/survival-vandorn-farm"
+            }
+          ]
+        },
+        {
+          "id": "bo7-dead-ops-arcade-4",
+          "name": "Dead Ops Arcade 4",
+          "release": "Launch · 2025",
+          "mode": "Arcade",
+          "summary": "An 80-level arcade adventure against Papaback and the Silverback clan.",
+          "questNote": "Arcade progression and secrets rather than a round-based main quest.",
+          "sources": [
+            {
+              "title": "Official Dead Ops Arcade 4 overview",
+              "url": "https://www.callofduty.com/uk/en/blackops7/zombies"
+            }
+          ]
+        },
+        {
+          "id": "bo7-astra-malorum",
+          "name": "Astra Malorum",
+          "release": "Season 1 · 2025",
+          "mode": "Round-based",
+          "summary": "A Dark Aether observatory linked to an ancient Martian temple.",
+          "questNote": "LGM-1 progression and the Caltheris main quest; Cursed relics and side secrets are separate.",
+          "sources": [
+            {
+              "title": "r/CODZombies: Astra Malorum map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/astra-malorum/"
+            },
+            {
+              "title": "Official interactive map",
+              "url": "https://www.callofduty.com/guides/blackops7/zombies/astra-malorum"
+            }
+          ]
+        },
+        {
+          "id": "bo7-exit-115-survival",
+          "name": "Exit 115 (Survival)",
+          "release": "Season 1 · 2025",
+          "mode": "Survival",
+          "summary": "The rest stop from Ashes of the Damned as a compact survival area.",
+          "questNote": "Survival milestones; the Ashes main quest is unavailable in this variant.",
+          "sources": [
+            {
+              "title": "Official Season 2 Zombies content",
+              "url": "https://www.callofduty.com/blog/2026/01/call-of-duty-black-ops-7-warzone-zombies-season-02-announcement"
+            }
+          ]
+        },
+        {
+          "id": "bo7-zarya-cosmodrome-survival",
+          "name": "Zarya Cosmodrome (Survival)",
+          "release": "Season 1 Reloaded · 2026",
+          "mode": "Survival",
+          "summary": "The cosmodrome from Ashes of the Damned as a survival area.",
+          "questNote": "Survival milestones rather than the full Ashes quest.",
+          "sources": [
+            {
+              "title": "Official Season 1 Reloaded Zombies content",
+              "url": "https://www.callofduty.com/ar/blog/2026/01/call-of-duty-black-ops-7-warzone-season-01-reloaded"
+            }
+          ]
+        },
+        {
+          "id": "bo7-mars-survival",
+          "name": "Mars (Survival)",
+          "release": "Season 2 · 2026",
+          "mode": "Survival",
+          "summary": "The Martian boss arena from Astra Malorum.",
+          "questNote": "Survival milestones rather than the Astra Malorum main quest.",
+          "sources": [
+            {
+              "title": "Official Season 2 Zombies content",
+              "url": "https://www.callofduty.com/blog/2026/01/call-of-duty-black-ops-7-warzone-zombies-season-02-announcement"
+            }
+          ]
+        },
+        {
+          "id": "bo7-paradox-junction",
+          "name": "Paradox Junction",
+          "release": "Season 2 Reloaded · 2026",
+          "mode": "Round-based",
+          "summary": "A time-loop prison with intact and destroyed versions of Nuketown.",
+          "questNote": "The main quest, Blundergat upgrades, Cursed relics and side secrets are separate.",
+          "sources": [
+            {
+              "title": "r/CODZombies: Paradox Junction map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/paradox-junction/"
+            },
+            {
+              "title": "Official interactive map",
+              "url": "https://www.callofduty.com/guides/blackops7/zombies/paradox-junction"
+            }
+          ]
+        },
+        {
+          "id": "bo7-ashwood-survival",
+          "name": "Ashwood (Survival)",
+          "release": "Season 3 · 2026",
+          "mode": "Survival",
+          "summary": "The frontier town from Ashes of the Damned.",
+          "questNote": "Survival milestones rather than the full Ashes quest.",
+          "sources": [
+            {
+              "title": "Official Season 3 patch notes",
+              "url": "https://www.callofduty.com/patchnotes/2026/04/call-of-duty-black-ops-7-season-03-patch-notes"
+            }
+          ]
+        },
+        {
+          "id": "bo7-totenreich",
+          "name": "Totenreich",
+          "release": "Season 3 Reloaded · 2026",
+          "mode": "Round-based",
+          "summary": "A Norse fishing village and Group 935 facility caught in the Dark Aether.",
+          "questNote": "The Jötunn Star, main quest, Cursed relics and side secrets have separate progression.",
+          "sources": [
+            {
+              "title": "r/CODZombies: Totenreich map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/totenreich/"
+            },
+            {
+              "title": "Official Totenreich launch details",
+              "url": "https://www.callofduty.com/blog/2026/04/call-of-duty-black-ops-7-warzone-season-03-reloaded-announcement"
+            }
+          ]
+        },
+        {
+          "id": "bo7-nuked-survival",
+          "name": "Nuked (Survival)",
+          "release": "Season 4 · 2026",
+          "mode": "Survival",
+          "summary": "The destroyed future version of Paradox Junction.",
+          "questNote": "Survival milestones rather than the full Paradox Junction quest.",
+          "sources": [
+            {
+              "title": "Official Season 4 Zombies content",
+              "url": "https://www.callofduty.com/blog/2026/06/call-of-duty-black-ops-7-warzone-season-04-announcement"
+            }
+          ]
+        },
+        {
+          "id": "bo7-kowakujo",
+          "name": "Kowakujō",
+          "release": "Season 4 Reloaded · 2026",
+          "mode": "Round-based",
+          "summary": "A feudal Japanese castle surrounded by volcanoes in the Dark Aether.",
+          "questNote": "The main quest and supernatural weapon progression are separate from Cursed relics.",
+          "sources": [
+            {
+              "title": "r/CODZombies: Kowakujō map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/kowakujo/"
+            },
+            {
+              "title": "Official interactive map",
+              "url": "https://www.callofduty.com/guides/blackops7/zombies/kowakujo"
+            }
+          ]
+        },
+        {
+          "id": "bo7-eidskallen-lighthouse-survival",
+          "name": "Eidskallen Lighthouse (Survival)",
+          "release": "Season 5 · 2026",
+          "mode": "Survival",
+          "summary": "Beacon Island and the lighthouse from Totenreich.",
+          "questNote": "Survival milestones rather than the Totenreich main quest.",
+          "sources": [
+            {
+              "title": "Official Season 5 patch notes",
+              "url": "https://www.callofduty.com/patchnotes/2026/07/call-of-duty-black-ops-7-season-05-patch-notes"
+            }
+          ]
+        },
+        {
+          "id": "bo7-rex-infernus",
+          "name": "Rex Infernus",
+          "release": "Season 5 Reloaded · 2026",
+          "mode": "Round-based",
+          "summary": "The Warden’s stronghold and Black Ops 7’s final story map.",
+          "questNote": "The main quest completes the map storyline; the Season 6 super Easter egg has earlier-map requirements.",
+          "sources": [
+            {
+              "title": "r/CODZombies: Rex Infernus map guide",
+              "url": "https://www.reddit.com/r/CODZombies/wiki/rex-infernus/"
+            },
+            {
+              "title": "Official Rex Infernus launch details",
+              "url": "https://www.callofduty.com/uk/en/blog/2026/08/call-of-duty-black-ops-7-warzone-season-05-reloaded-announcement"
+            },
+            {
+              "title": "Official Season 6: Tenshu, Rogue Run and the super Easter egg",
+              "url": "https://www.callofduty.com/blog/2026/09/call-of-duty-black-ops-7-warzone-season-6-the-haunting-announcement"
+            }
+          ]
+        },
+        {
+          "id": "bo7-tenshu-survival",
+          "name": "Tenshu (Survival)",
+          "release": "Season 6 · 2026",
+          "mode": "Survival",
+          "summary": "Kowakujō’s central keep, baths, storage rooms and workshop.",
+          "questNote": "Survival milestones rather than the full Kowakujō main quest.",
+          "sources": [
+            {
+              "title": "Official Season 6: Tenshu, Rogue Run and the super Easter egg",
+              "url": "https://www.callofduty.com/blog/2026/09/call-of-duty-black-ops-7-warzone-season-6-the-haunting-announcement"
+            }
+          ]
+        },
+        {
+          "id": "bo7-rogue-run",
+          "name": "Rogue Run",
+          "release": "Season 4 · 2026",
+          "mode": "Co-op mode",
+          "summary": "Survive arena rounds, select pedestal rewards and earn mode upgrades.",
+          "questNote": "Separate mode progression. Season 6 added Paradox Junction and Kowakujō playlists.",
+          "sources": [
+            {
+              "title": "Official Season 4 Zombies content",
+              "url": "https://www.callofduty.com/blog/2026/06/call-of-duty-black-ops-7-warzone-season-04-announcement"
+            },
+            {
+              "title": "Official Season 6: Tenshu, Rogue Run and the super Easter egg",
+              "url": "https://www.callofduty.com/blog/2026/09/call-of-duty-black-ops-7-warzone-season-6-the-haunting-announcement"
+            }
+          ]
+        },
+        {
+          "id": "bo7-starting-room",
+          "name": "Starting Room — map variants",
+          "release": "2026 seasons",
+          "mode": "Playlist variant",
+          "summary": "Restricted survival inside the opening area of a story map.",
+          "questNote": "No full map quest. Check the current playlist for available maps.",
+          "sources": [
+            {
+              "title": "Official Totenreich Starting Room map",
+              "url": "https://www.callofduty.com/guides/blackops7/zombies/totenreich-starting-room"
+            },
+            {
+              "title": "Official Season 6: Tenshu, Rogue Run and the super Easter egg",
+              "url": "https://www.callofduty.com/blog/2026/09/call-of-duty-black-ops-7-warzone-season-6-the-haunting-announcement"
+            }
+          ]
+        },
+        {
+          "id": "bo7-cursed-relics",
+          "name": "Cursed — Relic quests",
+          "release": "Launch · 2025; Survival support · 2026",
+          "mode": "Mode / side quests",
+          "summary": "A limited-HUD ruleset with discoverable Relics and escalating difficulty.",
+          "questNote": "Use each map’s guide for its Relic quest. Map completion and Relic collection are distinct.",
+          "sources": [
+            {
+              "title": "Official Cursed mode overview",
+              "url": "https://www.callofduty.com/uk/en/blackops7/zombies"
+            },
+            {
+              "title": "Official Cursed Survival announcement",
+              "url": "https://www.callofduty.com/uk/en/blog/2026/01/call-of-duty-black-ops-7-zombies-115-day"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,405 @@
+[
+  {
+    "id": "aw-outbreak-game-over-man",
+    "mapId": "aw-outbreak",
+    "title": "Game Over, Man! — normal story ending",
+    "category": "main",
+    "difficulty": "Medium",
+    "players": "1–4 players; solo supported",
+    "summary": "Collect all four survivors' cards, raise every player's security clearance, and call the Warbird. This is the Advanced Warfare Outbreak quest; the successful-rescue gold trophy uses additional restrictions.",
+    "requirements": [
+      "Advanced Warfare: Havoc / Outbreak",
+      "Exo Suit; Exo Slam for every player",
+      "EM1 from the 3D Printer",
+      "An infected round and credits for the trash chutes and decontamination"
+    ],
+    "reward": "Game Over, Man! achievement / trophy and access to the Mk 25 experimental upgrade station in this match.",
+    "steps": [
+      {
+        "title": "Open the facility and equip the team",
+        "body": "Buy through Main Hub or Administration to reach Morgue, Holding, and Exo Testing. Turn on the local power generators and collect an Exo Suit from Exo Testing. Buy Exo Slam in Main Hub for everyone; Exo Health is useful for the infected round. Save a zombie while performing non-combat tasks. Even solo, you must retrieve all four named keycards.",
+        "tip": "If a card's named character is in the lobby, that character must collect it. If that character is absent, another player can collect it."
+      },
+      {
+        "title": "Recover and install the Black Box",
+        "body": "Search the ground by the crashed Warbird in spawn, on the left side of its wreckage, and interact with the small Black Box. Carry it to the Morgue terminal opposite the stairs toward Exo Reload. Interact to install it and listen for Angie's response. The four card puzzles can now be completed in any order."
+      },
+      {
+        "title": "Lilith's card — shoot the 3D Printer",
+        "body": "Roll the 3D Printer until you obtain the EM1. Aim its continuous beam into the Printer while buying another roll. The access card appears in place of the weapon; have Lilith collect it if she is present. Keep the EM1 for the incinerator search, where its sustained beam avoids repeated reloads."
+      },
+      {
+        "title": "Decker's card — enter the incinerator",
+        "body": "Solo: buy a trash chute, immediately back away without entering, wait for it to close, then buy it again and enter straight away. Co-op: split the entire team between the Administration and Exo Testing chutes, with at least one player at each. Buy and enter together on a countdown.\nInside the incinerator, shoot the floor across the room until a card springs upward from the correct spot, then interact to pick it up. Decker must collect his card if he is playing. The moving wall limits your search time; use the exit chutes before it crushes you. If you miss the pickup, repeat the entry and search another portion of the floor.",
+        "tip": "Fire the EM1 while repeatedly pressing interact as you sweep the floor. Do not waste the short visit searching shelves."
+      },
+      {
+        "title": "Oz's card — collapse the holding cell",
+        "body": "In Holding, shoot the metal obstruction beneath the middle cell until it disappears. With Exo Slam equipped, all players climb onto the outermost cell and slam its roof at the same time. That cell drops and a neighboring cell rises, exposing the card. Oz, if present, must grab it before the cell lowers. Repeat the coordinated slam if you miss the pickup."
+      },
+      {
+        "title": "Kahn's card — use four infected keypads",
+        "body": "During an infected round, let an infected zombie infect you, then activate the four Administration keypads:\n• Kahn: security checkpoint door opposite Exo Medic.\n• Oz: beside the decontamination shower, across from the entrance door.\n• Decker: end of the red hallway around its right-hand corner, near the trash chute.\n• Lilith: upstairs balcony left of the MP11 wallbuy; Exo jump to it.\nSolo: use all four while your same infection is active. Co-op: each present character uses their assigned keypad while infected; also activate the absent characters' keypads when playing with fewer than four. Complete all four before anyone cleanses. A used keypad turns green; order is free. Once all are green, collect Kahn's card from the opened checkpoint window, then decontaminate before your infection countdown runs out.",
+        "tip": "Decontaminating between keypads resets this puzzle. Learn the four positions before becoming infected; the danger is your infection timer."
+      },
+      {
+        "title": "Raise every player's clearance to 49",
+        "body": "After the four survivor cards are collected, kill zombies and walk over the small access-card drops they leave. Each pickup raises the collecting player's HUD clearance number. Every current player must reach 49; one player's 49 does not cover the team. Keep collecting and distributing the drops until everyone's displayed number is ready."
+      },
+      {
+        "title": "Register each survivor's fingerprints",
+        "body": "Interact with the Black Box terminal in the Morgue once everyone has clearance 49. Each player then uses the fingerprint reader assigned to their own character:\n• Lilith: upstairs Morgue, in the room between Exo Reload and Exo Testing.\n• Decker: halfway up the Exo Testing stairwell.\n• Oz: Holding, left of Exo Health.\n• Kahn: Administration, left of the door to Morgue, opposite the MP11 wallbuy.\nYour reader lights green and your clearance becomes 50. In solo, use only your own character's reader."
+      },
+      {
+        "title": "Authorize the rescue and activate the Exo station",
+        "body": "Return to the Morgue terminal and interact again for the successful-authorization response. Bring every player to the Exo Suit station and interact with it simultaneously. Return to spawn and watch the Warbird ending to finish the normal quest. The match continues after this ending, and the experimental Exo Testing station can upgrade a Mk 20 weapon to Mk 25.",
+        "tip": "The normal ending does not grant the successful-rescue gold trophy. That alternate route has separate melee-card and no-down conditions."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Community solo Outbreak walkthrough",
+        "url": "https://www.reddit.com/r/CODZombies/comments/2u0yhn/text_guide_solo_outbreak_easter_eggachievement/"
+      },
+      {
+        "title": "r/CODZombies Outbreak map guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/outbreak/"
+      },
+      {
+        "title": "MMMRKennedy: Outbreak card locations and co-op rules",
+        "url": "https://mmmrkennedy.com/games/AW/outbreak_AW/outbreak_AW_guide"
+      },
+      {
+        "title": "TrueAchievements: Game Over, Man!",
+        "url": "https://www.trueachievements.com/a197583/game-over-man-achievement"
+      }
+    ],
+    "checked": "2026-10-13"
+  },
+  {
+    "id": "aw-infection-meat-is-murder",
+    "mapId": "aw-infection",
+    "title": "MEAT IS MURDER — restore Bubby",
+    "category": "main",
+    "difficulty": "Medium",
+    "players": "1–4 players; solo supported",
+    "summary": "Open the sewer shrine, make and disinfect a burger, recharge Bubby, and use the biometric tablet to launch the Burger Town rocket. Random valve and meat locations are listed by area below.",
+    "requirements": [
+      "Advanced Warfare: Ascendance / Infection",
+      "Exo Suit from the Sewers",
+      "Magnetron from the 3D Printer",
+      "Credits for doors, the Insta-Gator trap, and decontamination"
+    ],
+    "reward": "MEAT IS MURDER achievement / trophy. Bubby fights zombies for a round and then leaves four power-ups.",
+    "steps": [
+      {
+        "title": "Get the Exo Suit and golden frying pan",
+        "body": "Open the Sewers, activate the local power, and collect an Exo Suit. Return to Hoard More / spawn. Look up through the damaged roof for the golden frying pan on the rafter. Exo boost from the highest crate and hold interact as you reach the pan. Open the sewer connections toward Burger Town, Value Voltage, and Atlas Command so you can search the whole pipe network."
+      },
+      {
+        "title": "Find and turn four active sewer valves",
+        "body": "Look for orange handles attached to the pale sewer pipes; only four handles are active in a run. Hold interact at each until it turns and releases steam. Recheck the network after a successful turn if the next handle is not obvious. Search walls, ceilings, and partly submerged pipe ends. Four successful turns open the passage behind the waterfall near the ramp to Atlas Command.",
+        "tip": "A plain pipe end without an active handle is not a puzzle input. There is no universal four-location solution."
+      },
+      {
+        "title": "Valve search route — all 32 candidate pipe ends",
+        "body": "Check these groups of pipe ends:\n• Burger Town corridor: 2.\n• Exo Reload power room: 3 overhead, 1 below those overhead pipes, and 2 in the water; Exo Reload room itself: 2; right of its 2,000-credit door: 1.\n• Value Voltage corridor: 4.\n• Stairs down to Insta-Gator: 2; Insta-Gator room: 2; either side of the other generator: 2.\n• Decontamination room: 3; high left wall on its approach: 1; immediately before its entrance: 1; above the power box right of the entrance: 1; right of that box: 1.\n• Right of the gator's home: 1; either side of the ramp toward Atlas Command: 2; right of the waterfall: 1."
+      },
+      {
+        "title": "Fill the pan with blood",
+        "body": "Enter the opened waterfall passage and place the pan on the shrine altar. Kill zombies in the lower altar chamber, around its grates, so their blood fills the basin. Kills elsewhere do not advance this step. When the altar rises, retrieve the pan. Carry it to the kitchen stove in Burger Town and place it there."
+      },
+      {
+        "title": "Collect four meat pieces, one per zone",
+        "body": "Search Atlas Command, Value Voltage, Sewers, and Burger Town for one piece of meat in each area. You can carry only one piece at a time: pick it up, return it to the pan, and then search for the next. Check elevated ledges as well as ground-level corners. The following four search lists cover the documented spawn positions."
+      },
+      {
+        "title": "Meat search — Atlas Command",
+        "body": "Check the Command Center roof and interior; the pillar behind the fence by the spawn exit; the garage beside Exo Soldier; the right side of the porta-potty; beside the power generator; the far-right corner when leaving spawn; and atop the container near Exo Slam. Collect the one piece in this area and put it in the pan."
+      },
+      {
+        "title": "Meat search — Value Voltage",
+        "body": "Check the ambulance roof and nearby trash can; the car's rear beside the generator; the gas-station counter, right vending machine, drink fountain, and boxes near the Printer; boxes on the roof; the corner garage beside Exo Soldier; and the charging-area trash can. Return its piece to the pan."
+      },
+      {
+        "title": "Meat search — Sewers",
+        "body": "Check beside Tac-19; the mesh outside decontamination; the shopping cart near Insta-Gator; both tarps beside the Exo station; the opening before the Exo Reload drop; the mattress corner in the Burger Town corridor; and the wall opposite Explosive Drones on the Value Voltage route. Deposit the sewer piece."
+      },
+      {
+        "title": "Meat search — Burger Town",
+        "body": "Check the corner above the sewer entry and its fence; garage in front of Bubby; restaurant roof; fridge left of the grill; drive-thru counter; carousel near Exo Health; table right of the grill; main counter; and table across the carousel wall. Deposit the fourth piece."
+      },
+      {
+        "title": "Cook the meat and add a bun",
+        "body": "Get the Magnetron from the 3D Printer. Fire its beam into the four meat pieces in the pan until you hear the cooking ding. Kill zombies wearing Burger Town uniforms until one drops a bun; walk over the bun to collect it, then interact with the cooked meat. If employees are scarce, watch for them during the next infected round. The completed burger is now ready to pick up."
+      },
+      {
+        "title": "Cleanse the burger and feed Bubby",
+        "body": "Picking up the burger immediately infects its carrier. Go straight to the decontamination pad in the sewer Pit and cleanse before the infection timer expires. This cleans both you and the burger. Return to Bubby, the mascot robot outside Burger Town, and interact to feed him. His dialogue now requests a battery."
+      },
+      {
+        "title": "Release and collect the battery",
+        "body": "In Atlas Command, interact with the Bubby schematic screen inside the mobile Command Center where the Printer initially sits. Immediately sprint to the other mobile building containing the power generator and take the battery from its briefly opened compartment. If it closes before you arrive, reactivate the schematic and repeat. In co-op, station one player by the battery compartment while another uses the screen."
+      },
+      {
+        "title": "Charge the battery and obtain the key",
+        "body": "Place the battery in the charging station at Value Voltage's gas pumps. Keep zombies away while it charges. If they knock it out, pick it up and insert it again to resume. Once it is fully charged and red, retrieve it and give it to Bubby. Pick up the key he offers.",
+        "tip": "A surviving last zombie is easier to control than a full wave while you defend the charger."
+      },
+      {
+        "title": "Open the giant burger and harvest a fingerprint",
+        "body": "Climb the ladder into the giant burger above the restaurant, unlock its hatch with Bubby's key, and interact with the internal schematic screen to receive Access Denied. Return to the sewer Insta-Gator trap. Activate it and let it rise to snatch a zombie. While it is above water, shoot the alligator until it bursts; grab the floating, rotating zombie arm promptly. Killing the gator produces the arm without waiting for a lucky normal trap kill."
+      },
+      {
+        "title": "Use the arm to recover the red tablet",
+        "body": "Carry the arm to the biometric scanner upstairs in Hoard More / spawn. Interact with the scanner to open the small safe and take the red tablet. Go back inside the giant burger and use the tablet at its schematic screen. You are ejected as explosive burgers deploy and the rocket launches. Move away from the bombs; their explosions damage players."
+      },
+      {
+        "title": "Return the final tablet to Bubby",
+        "body": "After the launch, climb back inside the giant burger. Retrieve the now-blue tablet below its schematic screen and give it to Bubby. This interaction completes the quest and grants the achievement / trophy. The match continues; Bubby temporarily roams and attacks zombies, then explodes after a full round and drops four power-ups."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Community solved Infection Easter egg thread",
+        "url": "https://www.reddit.com/r/CODZombies/comments/30wwdi/infection_easter_egg_thread_spoilers/"
+      },
+      {
+        "title": "Recent Exo Zombies corrections: alligator, battery, and meat rules",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1x166z8/exo_zombies_easter_egg_help/"
+      },
+      {
+        "title": "MMMRKennedy: Infection item locations",
+        "url": "https://mmmrkennedy.com/games/AW/infection/infection_guide"
+      },
+      {
+        "title": "Steam community: Infection EE and meat-location checklist",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3695545966"
+      },
+      {
+        "title": "CoDZ: jaysta5792's 32-valve location post",
+        "url": "https://www.callofdutyzombies.com/profile/135777-jaysta5792/content/?change_section=1&type=forums_topic_post"
+      },
+      {
+        "title": "r/CODZombies Infection setup and perk locations",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/infection/"
+      }
+    ],
+    "checked": "2026-10-13"
+  },
+  {
+    "id": "aw-carrier-flotsam-jetsam",
+    "mapId": "aw-carrier",
+    "title": "Flotsam & Jetsam — sink the carrier",
+    "category": "main",
+    "difficulty": "Hard",
+    "players": "1–4 players; solo supported",
+    "summary": "Power the disposal machines, collect four vault tablets through the grenade puzzle, laser maze, island dig, and Captain DJ's locker, then use C4 to finish. A fish is not required for this normal quest.",
+    "requirements": [
+      "Advanced Warfare: Supremacy / Carrier",
+      "Exo Suit and open routes through Cargo Deck, Lift, Moon Pool, Hangar, Bio Lab, Armory, and Gun Deck",
+      "Teleport Grenades and Contact Grenades",
+      "Several different disposable guns and credits for fishing / the shark cage"
+    ],
+    "reward": "Flotsam & Jetsam achievement / trophy, the final cutscene, and a match-ending completion. The third tablet unlocks the Mk 25 station.",
+    "steps": [
+      {
+        "title": "Reach the hidden Chompy generator",
+        "body": "Buy Teleport Grenades from the Armory wall. Activate the Chompy lawnmower trap on Cargo Deck. Its storage door opens as the machine enters or leaves; throw a Teleport Grenade through that opening before it closes. Once inside, interact with the hidden power generator. You are returned to the map shortly afterward. The Weapon Disposal Machine and the special grenade puzzle machine in Armory are now powered."
+      },
+      {
+        "title": "Build the fishing rod without losing parts",
+        "body": "Give guns to the Weapon Disposal Machine beside the Armory HBRa3 wallbuy. Use different weapon types: a previously donated type does not advance the next reward. Every second qualifying gun produces an item, in order: bottle, reel, line, hook. Leave the bottle available for the maze.\nAs soon as you receive a rod part, attach it to the fishing rod tied to the Gun Deck railing near the spawn / Medbay route. Do this before earning the next part, which can replace an unplaced part. Once reel, line, and hook are installed, the rod works.",
+        "tip": "Donate cheap wall weapons before expensive or upgraded guns. Preserve a reliable weapon for the later special rounds."
+      },
+      {
+        "title": "Prepare tablet 1 — change the grenade dispenser",
+        "body": "Use a Teleport Grenade in the powered grenade machine. Its dispenser moves left and begins cycling between four icons. Buy Contact Grenades for the actual throws. The names in the next step describe the icon displayed when your Contact Grenade enters the machine, rather than a requirement to acquire each of those tactical items."
+      },
+      {
+        "title": "Tablet 1 — complete the three grenade rows",
+        "body": "Time your Contact Grenades to the following displayed icons, completing one row at a time:\nRow 1: Distraction Drone → Frag.\nRow 2: Explosive Drone → Distraction Drone → Explosive Drone → Frag.\nRow 3: Explosive Drone → Nano Swarm → Explosive Drone → Distraction Drone → Explosive Drone → Frag.\nEach finished row changes its red lights to green. A mistimed input means retrying that row. After all three rows are green, collect the tablet from the machine's right-hand slot. Deposit it at the Gun Deck vault: upstairs, immediately before the Armory doorway.",
+        "tip": "If the vault does not accept a tablet, wait until Oz finishes his current dialogue and interact again."
+      },
+      {
+        "title": "Tablet 2 — start the drunk laser maze",
+        "body": "Open the full path Cargo Deck → Lift → Moon Pool → Hangar before starting. Pick up the disposal machine's bottle to become drunk, then interact with the keypad at the Cargo Deck doorway near the outdoor Exo Suit area. A timer starts and lasers appear. Every player must follow the safe gaps through those four areas and arrive at the Hangar teleporter."
+      },
+      {
+        "title": "Finish the maze and deposit tablet 2",
+        "body": "Keep clear of the laser lines and reach the teleporter. Wait close to its pad until the challenge completes and the lasers disappear. Take the tablet from the floor in front of the teleporter and return it to the Gun Deck vault. Touching a laser cancels the attempt; use the starting keypad to retry immediately rather than waiting for another round.",
+        "tip": "The optional gold trophy adds a red fish and a maze time under one minute. Those conditions are separate from obtaining this tablet."
+      },
+      {
+        "title": "Tablet 3 — repair the Bio Lab teleporter",
+        "body": "Kill teleporting zombies and dogs and quickly walk over their small telefrag-piece drops. Carry one piece at a time to the inactive Bio Lab teleporter and interact to install it. Repeat until 20 pieces have been added and the pad works. Pieces left on the floor disappear quickly, so deposit one before hunting another. Teleporting enemies become more common as the rounds advance."
+      },
+      {
+        "title": "Fish a shovel and dig up tablet 3",
+        "body": "Use the completed Gun Deck rod; each fishing attempt costs 100 credits and the item is random. Keep fishing until you receive a shovel. Use the repaired Bio Lab teleporter to reach the small sandy island. Interact with the ground repeatedly, moving between dig spots, until a buried box appears. Take its tablet before the visit's timer returns you. If you run out of time, wait for the teleporter cooldown and try another visit. Deposit tablet 3 at the vault; the Gun Deck Mk 25 station unlocks."
+      },
+      {
+        "title": "Tablet 4 — trigger Captain DJ's drone",
+        "body": "Find Captain DJ's locker among the Hangar crew lockers beside Exo Medic and interact with its eye scanner. This starts the relevant loot-drone spawns. Watch for the pair of flying treasure drones: destroy the empty one and collect the lever it drops. The drone carrying a power-up does not supply the lever. If you miss the pair, another appears after several rounds."
+      },
+      {
+        "title": "Attract the shark and lower the cage",
+        "body": "Put the lever in the Moon Pool electrical box near the 3D Printer and POOL 07 marking. Kill zombies above the three square floor grates so their blood attracts the shark below. When it swims under the central cage opening, activate the box and jump onto the cage to enter as it lowers into the water. Keep credits ready for the activation."
+      },
+      {
+        "title": "Take the eyeball and unlock Captain DJ's locker",
+        "body": "Wait inside the lowered cage for the shark to attack, then interact with it to retrieve Captain DJ's eyeball. Return to the Hangar eye scanner with the eyeball, open the locker, and take the final tablet. Deposit it at the Gun Deck vault so all four lights are green.",
+        "tip": "Do not spend time fishing for a fish before this step. The eyeball can be collected without one."
+      },
+      {
+        "title": "Use C4 to finish the story",
+        "body": "Continue handing qualifying guns to the Weapon Disposal Machine until it supplies a C4 packet. With all four tablets installed and the C4 carried, interact with the Gun Deck vault door. This detonates the final charge, grants the achievement / trophy, ends the match, and plays the outro. Finish any other in-match tasks before using the C4."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Community solved Carrier Easter egg thread and grenade sequence",
+        "url": "https://www.reddit.com/r/CODZombies/comments/3878ck/carrier_easter_egg_thread_spoilers/"
+      },
+      {
+        "title": "MMMRKennedy: Carrier machine, drone, and tablet mechanics",
+        "url": "https://mmmrkennedy.com/games/AW/carrier/carrier_guide"
+      },
+      {
+        "title": "Recent Exo Zombies corrections: Carrier fish is optional",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1x166z8/exo_zombies_easter_egg_help/"
+      }
+    ],
+    "checked": "2026-10-13"
+  },
+  {
+    "id": "aw-descent-reunion",
+    "mapId": "aw-descent",
+    "title": "Reunion — complete Oz's challenges",
+    "category": "main",
+    "difficulty": "Hard",
+    "players": "1–4 players; solo supported",
+    "summary": "Reroute the resort's power, finish Oz's alternating puzzles and challenge rounds, and survive his memory sequence. The automatic Oz arena fights are explained below because they can interrupt the quest.",
+    "requirements": [
+      "Advanced Warfare: Reckoning / Descent",
+      "Exo Suit from Galleria; Exo Slam for the number board",
+      "A Goliath scorestreak from a random supply drop",
+      "An upgraded weapon for flying drones and Oz; Exo Health and Exo Reload are strongly recommended"
+    ],
+    "reward": "Reunion achievement / trophy and permanent access to Double Feature mode. Completion ends the match and restarts the map in Double Feature.",
+    "steps": [
+      {
+        "title": "Equip yourself and plan for the arena interruptions",
+        "body": "Open the resort routes, activate local generators, and collect the Exo Suit in Galleria. Obtain Exo Health, a useful upgraded weapon, and eventually Exo Slam. Keep a Goliath drop for the underwater switch. Save a zombie before puzzles so you can work without prematurely ending the round.\nOz automatically teleports you to an arena on round 5, around round 12, and on round 20 if you reach it. The round-5 visit is only dialogue; wait for the return teleport. The two later fights are described near the end of this guide. After an arena interruption, resume the quest step you were doing."
+      },
+      {
+        "title": "Open the secret Tidal Generator room",
+        "body": "Find the three valves on the wall beside Tidal Generator's spiral staircase: left of the power generator, above the right yellow door, and right of the AMR9 wallbuy. Shoot each valve until its indicator turns blue. A side-room door opens halfway up the stairs. Interact with its terminal, wait through Angie's dialogue, then interact again to receive Access Denied. This is the required starting response, not a failed attempt."
+      },
+      {
+        "title": "Depressurize the Lounge airlock and reroute power",
+        "body": "Hold interact at the Floodable Airlock in Lounge, near the Printer, for roughly 45 seconds. You can stop to defend yourself and resume without losing the depressurization progress. Equip a Goliath suit from a supply drop, open the prepared airlock, and walk along the seafloor route toward its red switch. Punch the floating zombie blocking the path. Interact with the switch to change it to blue, then return along the same path before the suit expires. Oz announces a challenge for the next round.",
+        "tip": "A Goliath drop is random. Keep opening routes and improving your weapon while you wait for one."
+      },
+      {
+        "title": "Drone challenge — destroy five empty drones",
+        "body": "At the start of the next round, hunt the empty Treasure Drone. Shooting it spawns the next empty drone elsewhere; destroy five in total. A normal drone carrying loot may also appear and does not count. Once approached or damaged, a challenge drone heads for a map exit, so chase and shoot it immediately. Keep the round's last zombie alive until all five are destroyed.\nIf a drone escapes, or you end the round before destroying all five, the challenge fails and restarts next round. Wait for the green Challenge Success message and Oz's confirmation before moving on.",
+        "tip": "An upgraded shotgun such as the S12 or Blunderbuss deals strong close-range drone damage. Have your weapon ready before triggering the next round."
+      },
+      {
+        "title": "Charge the Galleria capacitor",
+        "body": "At the capacitor on the lower Galleria wall near the fountain, lure electric EMZ enemies close and allow their shock attack to hit you beside the device. The charge transfers to its meter. Electric dogs and the armored or teleporting electric variants also work. Repeat until the display reaches 100% and Angie confirms the power diversion. Remove ordinary zombies first, take only a manageable electric enemy at a time, and recover between hits so the disabled Exo Suit does not leave you trapped."
+      },
+      {
+        "title": "Contact Grenade challenge — clear a full round",
+        "body": "On the following challenge round, you receive unlimited Contact Grenades, even if you did not buy them. Guns, tactical grenades, and offensive scorestreaks cannot be used for this challenge. Kill the entire wave with Contact Grenades. Throw ahead of moving zombie groups and keep enough distance that the blast does not catch you. The round's completion advances the quest."
+      },
+      {
+        "title": "Complete the Landing jumping platforms",
+        "body": "Return to Landing / spawn. Use Exo jumps and boosts to land on the floating blue platforms and reach each layout's final marker. A completed layout bounces you back and produces another. Work through all nine layouts until the success response.\nPlatforms disappear shortly after you stand on them, so decide the next jump before landing. Missing a jump returns you to Landing for another try; it does not erase already completed layouts. Wait for vanished platforms to reappear rather than jumping into an empty spot."
+      },
+      {
+        "title": "Move challenge — keep a positive credit balance",
+        "body": "The next challenge round spends your credits whenever you move. Choose an open position with escape space and reduce unnecessary walking; turning to aim does not require moving across the map. Use your normal weapons to clear the wave and earn credits. Move when needed to avoid a down, but keep your balance above zero: reaching zero can leave you unable to move. Bank credits before starting this round instead of spending everything on upgrades immediately beforehand."
+      },
+      {
+        "title": "Reception Simon Says — repeat the actual flashes",
+        "body": "Go to the four monitors at the Reception desk and interact with the glowing right-hand screen. Watch the displayed sequence, then interact with the monitors in the same order. Repeat the sequence as the game extends it until the cheerful completion sound and power-diversion dialogue play. Record positions or colors as they flash. The monitor colors and sequence vary by run; a fixed internet code will not solve every game.",
+        "tip": "Have one player call and enter the sequence while another controls the remaining zombie."
+      },
+      {
+        "title": "Friendly Fire challenge — finish without a friendly casualty",
+        "body": "Friendly Fire turns on for the next challenge round. Complete the wave without downing a teammate with your weapons. Spread out, communicate your lanes, and avoid explosives or ricocheting shots near other players. In solo or an incomplete lobby, AI survivors can appear and shoot you; keep clear of their lines of fire and focus on ordinary zombies. A Friendly Fire casualty fails the challenge, requiring another challenge round. Wait for the success confirmation before proceeding."
+      },
+      {
+        "title": "Match the four number-board columns",
+        "body": "Return to the Tidal Generator side room. The top row is the target; make the four lower digits match it. Read the columns left to right:\n1. Zombies hit by Exo Slam; buy Exo Slam first.\n2. Player jumps.\n3. Wall purchases; buying grenades works, buying ammunition for an already-owned gun does not.\n4. Zombie deaths.\nThe digits cycle back after 9 if you overshoot. Team actions affect the board, so pause unnecessary kills, jumps, and shopping. Set the slam column first, then fix the kill count it also changes; adjust jumps and purchases last. All four matches trigger completion automatically and unlock the side room's Mk 25 station.",
+        "tip": "Slam a single separated zombie when you need a small adjustment. Hitting a whole group can advance the first column several times."
+      },
+      {
+        "title": "MAHEM challenge — clear the rocket-only round",
+        "body": "The next challenge gives you a Mk 25 MAHEM with unlimited rockets. Use it to kill the entire wave. Your movement is restricted and close explosions can damage you, so fire into groups at a distance and avoid shooting the ground at your feet or a wall beside you. Once the round is cleared, listen for Oz's completion response."
+      },
+      {
+        "title": "If interrupted around round 12 — defeat Oz at four windows",
+        "body": "The first real arena fight begins around round 12, or 13 when the preceding round is a dog round. Listen for the opening-window cue, find Oz behind one of four windows, and shoot him until that console explodes. If the window shuts too soon, survive until it reopens. Repeat at the other windows.\nBetween damage opportunities, destroy ceiling turrets and sentries and dodge the traps: stay out of the overhead laser grid, leave sparking floor sections, and use the central decontamination pad if gas infects you. Pillars and upper walkways help avoid the electric floor when safe to jump. The later phases combine more traps. After four destroyed consoles, collect the reload / DNA Bomb drops and any nearby credit crates before the countdown returns you to the resort."
+      },
+      {
+        "title": "If interrupted on round 20 — defeat mutated Oz",
+        "body": "Run around the arena activating the four corner generators to power the central decontamination pad. Lure mutated Oz onto that pad, then activate it. Only while his shield is down can you damage him. Fire your upgraded weapon until the blue shield returns; roughly a quarter of his health is the most one activation can remove.\nAfter every pad use, activate all four generators again, even if you missed Oz. Repeat the lure, cleanse, and damage cycle until his health is gone. Avoid his infecting melee attacks, gas, and lasers while clearing interfering zombies. Take the reward drops and wait for the return teleport. This fight alone does not complete Reunion; continue the unfinished challenge chain."
+      },
+      {
+        "title": "Enter Oz's memory and finish the quest",
+        "body": "After the rocket challenge, gather the team at the Tidal Generator side-room terminal. Interact for the completed power diversion; the machine beside it turns red. Interact once more to turn it blue and transport the lobby into Oz's memory, a small area resembling Outbreak's spawn with the bus.\nSurvive two zombie waves, remaining inside the playable area and listening to the dialogue between them. Missing survivors appear as friendly AI. After the second wave and final dialogue, the game returns you, awards Reunion, ends the match, and restarts Descent in Double Feature mode.",
+        "tip": "Double Feature is now available from the keypad behind your Landing spawn in later matches. Its separate round-20 Oz completion is the Double Tap trophy, not an extra requirement for Reunion."
+      }
+    ],
+    "sources": [
+      {
+        "title": "MMMRKennedy: Descent current drone, arena, and challenge details",
+        "url": "https://mmmrkennedy.com/games/AW/descent/descent_guide"
+      },
+      {
+        "title": "Call of Duty Wiki: Reunion challenge rules and nine platform layouts",
+        "url": "https://callofduty.fandom.com/wiki/Reunion"
+      },
+      {
+        "title": "COD Zombified: Descent walkthrough, part 1",
+        "url": "https://codzombified.blogspot.com/2015/08/descent-full-easter-egg-walkthrough.html"
+      },
+      {
+        "title": "COD Zombified: capacitor, grenades, platforms, and movement",
+        "url": "https://codzombified.blogspot.com/2015/08/descent-full-easter-egg-walkthrough_8.html"
+      },
+      {
+        "title": "COD Zombified: Simon Says, Friendly Fire, number board, and rockets",
+        "url": "https://codzombified.blogspot.com/2015/08/descent-full-easter-egg-walkthrough_70.html"
+      },
+      {
+        "title": "COD Zombified: Oz's memory and Double Feature",
+        "url": "https://codzombified.blogspot.com/2015/08/descent-full-easter-egg-walkthrough_50.html"
+      },
+      {
+        "title": "The Escapist: Descent drone and challenge route",
+        "url": "https://www.escapistmagazine.com/solve-the-descent-easter-egg-in-the-last-advanced-warfare-exo-zombies-dlc/"
+      },
+      {
+        "title": "PlayStationTrophies: Reckoning arena walkthrough",
+        "url": "https://www.playstationtrophies.org/forum/topic/265647-call-of-duty-advanced-warfare-reckoning-dlc-~-trophy-guide-amp-road-map/"
+      },
+      {
+        "title": "TrueAchievements: Reunion arena and quest walkthrough",
+        "url": "https://www.trueachievements.com/viewcomment.aspx?commentid=904882"
+      },
+      {
+        "title": "Community Descent completion and drone weapon tips",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1vomjv2/just_beat_the_descent_ee_for_the_first_time/"
+      },
+      {
+        "title": "Community explanation: Oz fights versus quest completion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/uwa65u/"
+      }
+    ],
+    "checked": "2026-10-13"
+  }
+]

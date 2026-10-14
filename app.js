@@ -1,804 +1,506 @@
-(() => {
-  'use strict';
+import {
+  categories,
+  escapeHtml as e,
+  normalize,
+  filterMaps,
+  readProgress,
+  parseRoute,
+  externalUrl,
+} from "./core.js";
 
-  const data = window.DEAD_DROP_DATA;
-  const view = document.getElementById('view');
-  const searchInput = document.getElementById('global-search');
-  const searchPopover = document.getElementById('search-popover');
-  const routeProgress = document.getElementById('route-progress');
-  const mobileMenuButton = document.getElementById('mobile-menu-button');
-  const mobileNav = document.getElementById('mobile-nav');
-  const toast = document.getElementById('toast');
-  const imageModal = document.getElementById('image-modal');
-  const imageModalImage = imageModal.querySelector('img');
-  const imageModalCaption = imageModal.querySelector('p');
-  const correctionButton = document.getElementById('copy-correction');
+const main = document.querySelector("main");
+const storageKey = "dead-drop-progress-v1";
+const searchIcon =
+  '<svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg>';
+const arrow = '<span aria-hidden="true">↗</span>';
+const state = {
+  game: "all",
+  query: "",
+  category: "all",
+  availability: "all",
+  limit: 12,
+};
+let games = [],
+  guides = [],
+  maps = [],
+  media = {},
+  references = [];
+let progress = {};
+let storageAvailable = true;
+let toastTimer;
 
-  if (!data || !Array.isArray(data.games)) {
-    view.innerHTML = '<section class="page-shell not-found"><strong>!</strong><h1>Archive unavailable</h1><p>The guide database did not load. Refresh the page to retry.</p></section>';
+function message(text) {
+  const toast = document.getElementById("toast");
+  toast.textContent = text;
+  toast.classList.add("show");
+  clearTimeout(toastTimer);
+  toastTimer = setTimeout(() => toast.classList.remove("show"), 3500);
+}
+
+function persist() {
+  try {
+    localStorage.setItem(storageKey, JSON.stringify(progress));
+  } catch {
+    storageAvailable = false;
+    message(
+      "Progress is available this visit, but this browser cannot save it.",
+    );
+  }
+  updateBadge();
+}
+
+function updateBadge() {
+  document.getElementById("progress-badge").textContent = Object.values(
+    progress,
+  ).filter((entry) => entry.completed.length).length;
+}
+
+function sourceLinks(sources) {
+  return sources
+    .map((source) =>
+      externalUrl(source.url)
+        ? `<a href="${e(source.url)}" target="_blank" rel="noopener noreferrer">${e(source.title)} ${arrow}</a>`
+        : "",
+    )
+    .join("");
+}
+
+function imageFor(map) {
+  return media.maps[map.id] || media.games[map.game.id] || media.fallback;
+}
+
+function guideImage(image) {
+  return `<figure class="reader-figure"><a href="${e(image.src)}" target="_blank" rel="noopener noreferrer" aria-label="Open full-size image: ${e(image.alt)}"><img src="${e(image.src)}" alt="${e(image.alt)}" loading="lazy" width="960" height="540"></a><figcaption>${e(image.caption || "Map reconnaissance")} · <a href="${e(image.source)}" target="_blank" rel="noopener noreferrer">${e(image.credit)} ${arrow}</a> · Open image for full size</figcaption></figure>`;
+}
+
+function completedFor(guide) {
+  return progress[guide.id]?.completed || [];
+}
+
+function searchBox(id, placeholder, value = "") {
+  return `<label class="search-box">${searchIcon}<span class="sr-only">${e(placeholder)}</span><input id="${id}" type="search" placeholder="${e(placeholder)}" value="${e(value)}" autocomplete="off"><button type="button" class="search-clear" aria-label="Clear search" ${value ? "" : "hidden"}>×</button></label>`;
+}
+
+function storageNotice() {
+  return storageAvailable
+    ? ""
+    : '<p class="storage-warning">Browser storage is unavailable. Checked steps will last for this visit only.</p>';
+}
+
+function mapCard(map, index) {
+  const count = map.guides.length;
+  const image = imageFor(map);
+  return `<article class="map-card ${count ? "" : "reference"}"><div class="map-cover"><img src="${e(image.src)}" alt="${e(image.alt)}" loading="lazy" width="600" height="338"><span class="map-stamp">${count ? "WALKTHROUGHS" : map.reference ? "COMMUNITY REFERENCE" : "SOURCE LIBRARY"}</span>${image.mapSpecific === false ? '<span class="art-label">GAME ART / REFERENCE</span>' : ""}<span class="map-number">FILE ${String(index + 1).padStart(3, "0")}</span></div><div class="map-card-body"><div class="map-game">${e(map.game.title)}</div><h3><a class="map-card-link" href="#map/${map.id}">${e(map.name)}</a></h3><p>${e(map.summary)}</p><div class="card-meta"><span class="${count ? "ready" : ""}">${count ? `${count} guide${count === 1 ? "" : "s"}` : map.reference ? `${map.reference.sections.length} reference chapters` : "Guides to research"}</span><span>·</span><span>${e(map.mode || "Round-based")}</span></div><span class="card-arrow" aria-hidden="true">↗</span></div></article>`;
+}
+
+function guideCard(guide) {
+  const completed = completedFor(guide).length;
+  return `<article class="guide-card"><div class="guide-tags"><span class="tag">${e(categories[guide.category])}</span><span class="difficulty">${e(guide.difficulty)}</span></div><h3><a class="map-card-link" href="#guide/${guide.id}">${e(guide.title)}</a></h3><p>${e(guide.summary)}</p><div class="guide-card-foot"><span>${e(guide.players)} · ${guide.steps.length} steps</span><span aria-hidden="true">↗</span></div>${completed ? `<div class="progress-track" aria-label="${completed} of ${guide.steps.length} steps complete"><div style="width:${(completed / guide.steps.length) * 100}%"></div></div>` : ""}</article>`;
+}
+
+function breadcrumb(map, title = "") {
+  return `<div class="breadcrumbs"><a href="#library">THE ARCHIVE</a><span>/</span><a href="#library?game=${map.game.id}">${e(map.game.short)}</a><span>/</span>${title ? `<a href="#map/${map.id}">${e(map.name)}</a><span>/</span>${e(title)}` : e(map.name)}</div>`;
+}
+
+function library(home = false) {
+  const saved = Object.keys(progress).length;
+  main.innerHTML = `${home ? `<section class="hero"><img class="hero-art" src="./assets/terminus-recon.jpg" alt="Zombies overrun the Terminus island prison in Black Ops 6" fetchpriority="high" width="1920" height="1080"><div class="wrap"><div class="eyebrow">YOUR NEXT ROUND STARTS HERE</div><h1>Every map.<br>One <em>field manual.</em></h1><p class="hero-copy">Find your map. Follow the steps. Finish the quest.<br>A place for the big endings and the little secrets<br>that make Zombies, Zombies.</p><div class="hero-actions"><a class="button" href="#library">Explore the archive <span aria-hidden="true">→</span></a><a class="text-link" href="#progress">${saved ? "Pick up where you left off" : "Your progress, saved locally"} ${arrow}</a></div><div class="hero-caption">FIELD RECON / TERMINUS<span>BLACK OPS 6 · 2024</span></div></div></section><div class="wrap stat-strip"><div class="stat"><strong>${games.length}</strong><span>Games &<br>spin-offs</span></div><div class="stat"><strong>${maps.length}</strong><span>Maps &<br>modes indexed</span></div><div class="stat"><strong>${guides.length}</strong><span>Step-by-step<br>walkthroughs</span></div><div class="stat-note">Source-linked. Ready for your next run.</div></div>` : ""}<section class="wrap library-section" id="archive"><div class="section-heading"><div><div class="eyebrow">PICK YOUR BATTLEGROUND</div><h2>The archive</h2></div><p>Main quests, hidden songs, wonder weapons, and side quests.<br>Choose a game to find your next rabbit hole.</p></div>${storageNotice()}<div class="library-layout"><aside class="game-panel" aria-label="Filter by game"><div class="sidebar-label">CALL OF DUTY TITLES</div><div class="game-list"><button class="game-filter" data-game="all" aria-pressed="${state.game === "all"}">All games <span>${maps.length}</span></button>${games.map((game) => `<button class="game-filter" data-game="${game.id}" aria-pressed="${state.game === game.id}">${e(game.short)}<span>${game.maps.length}</span></button>`).join("")}</div><div class="sidebar-note">A map in the archive isn’t a promise that every secret is documented.<a href="#coverage">See actual coverage ${arrow}</a></div></aside><div class="library-results"><div class="library-tools">${searchBox("map-search", "Search maps, quests, weapons…", state.query)}<label class="select-wrap"><span class="sr-only">Guide availability</span><select id="availability"><option value="all" ${state.availability === "all" ? "selected" : ""}>All coverage</option><option value="walkthroughs" ${state.availability === "walkthroughs" ? "selected" : ""}>With walkthroughs</option><option value="reference" ${state.availability === "reference" ? "selected" : ""}>With field notes</option></select></label></div><div class="filter-row"><div class="pills" aria-label="Filter guide category"><button class="pill" data-category="all" aria-pressed="${state.category === "all"}">All guides</button>${Object.entries(
+    categories,
+  )
+    .map(
+      ([key, label]) =>
+        `<button class="pill" data-category="${key}" aria-pressed="${state.category === key}">${label}</button>`,
+    )
+    .join(
+      "",
+    )}</div><span id="result-count" class="result-count" role="status" aria-live="polite"></span></div><div id="map-grid" class="map-grid"></div><button id="load-more" class="load-more" type="button">Load more maps <span aria-hidden="true">↓</span></button></div></div><div class="field-note"><span class="field-note-mark" aria-hidden="true">01 /</span><div><h3>Less tab-switching. More zombie-slaying.</h3><p>Check off each step as you play. Your progress stays on this device, even when you leave.</p></div><a class="text-link" href="#progress">Open my progress ${arrow}</a></div></section>`;
+  updateResults();
+}
+
+function updateLibraryUrl() {
+  const params = new URLSearchParams();
+  if (state.game !== "all") params.set("game", state.game);
+  if (state.query) params.set("q", state.query);
+  if (state.category !== "all") params.set("category", state.category);
+  if (state.availability !== "all")
+    params.set("availability", state.availability);
+  const page = parseRoute(location.hash).page === "home" ? "home" : "library";
+  history.replaceState(null, "", `#${page}${params.size ? `?${params}` : ""}`);
+}
+
+function updateResults() {
+  const filtered = filterMaps(maps, state);
+  if (state.game !== "all") filtered.sort((a, b) => a.order - b.order);
+  document.getElementById("map-grid").innerHTML = filtered.length
+    ? filtered
+        .slice(0, state.limit)
+        .map((map) => mapCard(map, maps.indexOf(map)))
+        .join("")
+    : '<div class="empty"><h3>No files found</h3><p>Try a map name, a different game, or clear your filters.</p><button class="button secondary" data-action="clear-filters">Clear filters</button></div>';
+  document.getElementById("result-count").textContent =
+    `${filtered.length} ${filtered.length === 1 ? "map" : "maps"} found`;
+  document.getElementById("load-more").hidden = filtered.length <= state.limit;
+  document
+    .querySelectorAll("[data-game]")
+    .forEach((button) =>
+      button.setAttribute(
+        "aria-pressed",
+        String(button.dataset.game === state.game),
+      ),
+    );
+  document
+    .querySelectorAll("[data-category]")
+    .forEach((button) =>
+      button.setAttribute(
+        "aria-pressed",
+        String(button.dataset.category === state.category),
+      ),
+    );
+  document.getElementById("map-search").nextElementSibling.hidden =
+    !state.query;
+  updateLibraryUrl();
+}
+
+function mapPage(map) {
+  const image = imageFor(map);
+  const sorted = [...map.guides].sort(
+    (a, b) =>
+      Object.keys(categories).indexOf(a.category) -
+      Object.keys(categories).indexOf(b.category),
+  );
+  main.innerHTML = `<section class="wrap page-top">${breadcrumb(map)}<div class="map-banner"><div class="map-banner-copy"><div class="eyebrow">${e(map.game.title)} / ${e(map.release || map.game.year)}</div><h1>${e(map.name)}</h1><p>${e(map.summary)}</p><div class="map-facts"><span>${e(map.mode)}</span><span>${map.guides.length} walkthroughs</span><span>${map.reference ? "Community reference available" : "Source links available"}</span></div></div><img src="${e(image.src)}" alt="${e(image.alt)}" width="960" height="540"></div></section><section class="wrap map-guide-section">${storageNotice()}<div class="section-heading"><div><div class="eyebrow">KNOW BEFORE YOU DROP</div><h2>Choose your mission</h2></div><p>${e(map.questNote || "Player requirements and setup are listed inside each walkthrough.")}</p></div>${sorted.length ? `<div class="guide-list">${sorted.map(guideCard).join("")}</div>` : '<div class="empty"><h3>Walkthroughs are still being researched</h3><p>Read the attributed community reference or linked sources below. This map’s coverage has not been audited.</p></div>'}${map.reference ? `<article class="sources-panel"><div class="eyebrow">COMMUNITY FIELD NOTES</div><h3>Go beyond the walkthroughs</h3><p>${map.reference.sections.length} chapters of attributed source text: map setup, weapons, quests, secrets, and reference notes where the community has documented them. The source can include unfinished sections or multiple game versions.</p><div class="sources-list"><a href="#reference/${map.id}">Read the community reference ${arrow}</a></div></article>` : ""}<div class="sources-panel"><h3>Sources & map notes</h3><p>${e(map.questNote || "No claim of exhaustive coverage. Use these sources to cross-check your game version and any steps awaiting research.")}<br>Image: <a href="${e(image.source)}" target="_blank" rel="noopener noreferrer">${e(image.credit || "Call of Duty / Activision")}</a>${image.mapSpecific === false ? " · Game artwork; not a screenshot of this map." : ""}</p><div class="sources-list">${sourceLinks(map.sources)}</div></div></section>`;
+}
+
+function reader(guide) {
+  const map = maps.find((map) => map.id === guide.mapId);
+  const completed = completedFor(guide);
+  const images = media.guides?.[guide.id] || [];
+  const recon = media.maps[map.id];
+  const related = map.guides.filter(
+    (other) => other.id !== guide.id && other.category === "weapon",
+  );
+  main.innerHTML = `<section class="wrap page-top">${breadcrumb(map, guide.title)}<div class="guide-header"><div class="guide-tags"><span class="tag">${e(categories[guide.category])}</span><span class="difficulty">${e(guide.players)} · ${e(guide.difficulty)}</span></div><h1>${e(guide.title)}</h1><p>${e(guide.summary)}</p></div></section><div class="wrap reader-layout"><aside class="reader-sidebar" aria-label="Guide chapters"><div class="reader-controls"><p>Your quest progress</p><strong id="step-progress">${completed.length} / ${guide.steps.length} steps</strong><div class="progress-track"><div id="step-progress-bar" style="width:${(completed.length / guide.steps.length) * 100}%"></div></div><div class="reader-buttons"><button data-action="reset-guide" data-guide="${guide.id}">Reset steps</button><button data-action="copy-link">Copy link</button><button data-action="print">Print guide</button></div></div><h2>In this guide</h2><a href="#before-you-start" data-scroll="before-you-start">Before you start</a>${guide.steps.map((step, index) => `<a href="#step-${index + 1}" data-scroll="step-${index + 1}"><span>${String(index + 1).padStart(2, "0")}</span>${e(step.title)}</a>`).join("")}<a href="#guide-sources" data-scroll="guide-sources">Sources & reference</a></aside><article class="reader">${storageNotice()}<section class="prerequisites" id="before-you-start"><h2>Before you start</h2><ul>${guide.requirements.map((requirement) => `<li>${e(requirement)}</li>`).join("")}</ul><p><strong>Reward:</strong> ${e(guide.reward)}</p>${related.length ? `<div class="sources-list">${related.map((other) => `<a href="#guide/${other.id}">${e(other.title)} →</a>`).join("")}</div>` : ""}</section>${recon ? guideImage(recon) : ""}${guide.steps
+    .map(
+      (step, index) =>
+        `<section id="step-${index + 1}" class="step ${completed.includes(step.title) ? "checked" : ""}"><div class="step-heading"><label class="step-check"><input type="checkbox" data-guide="${guide.id}" data-step="${e(step.title)}" ${completed.includes(step.title) ? "checked" : ""}><span class="step-index">${String(index + 1).padStart(2, "0")}</span><h2>${e(step.title)}</h2></label></div><p class="step-body">${e(step.body)}</p>${step.tip ? `<div class="step-tip"><strong>Field note</strong>${e(step.tip)}</div>` : ""}${images
+          .filter((image) => image.step === index + 1)
+          .map(guideImage)
+          .join("")}</section>`,
+    )
+    .join(
+      "",
+    )}<section class="sources-panel" id="guide-sources"><h3>Check the source</h3><p>Written from the sources below. Researched ${e(guide.checked)}; not independently playtested. Patch changes and game versions can affect a step.</p><div class="sources-list">${sourceLinks(guide.sources)}${map.reference ? `<a href="#reference/${map.id}">Full community reference ${arrow}</a>` : ""}<a href="${reportLink(map, guide)}" target="_blank" rel="noopener noreferrer">Report a missing or incorrect step ${arrow}</a></div></section></article></div>`;
+}
+
+function reportLink(map, guide) {
+  const subject = guide ? `${map.name}: ${guide.title}` : map.name;
+  return `https://github.com/Aughhhhhhh/dead-drop-zombies-site/issues/new?${new URLSearchParams({ title: `Guide correction: ${subject}`, body: `Game: ${map.game.title}\nMap: ${map.name}\nGuide: ${guide?.title || "Community reference"}\n\nMissing or incorrect step:\n\nSource or screenshot:\n\nGame version / platform:` })}`;
+}
+
+function referencePage(map) {
+  const reference = map.reference;
+  main.innerHTML = `<section class="wrap page-top">${breadcrumb(map, "Community reference")}<div class="guide-header"><div class="eyebrow">ATTRIBUTED COMMUNITY FIELD NOTES</div><h1>${e(map.name)} reference</h1><p>Read the documented map features and Easter eggs in one place. This reference preserves community text and may include multiple versions of the map.</p></div></section><div class="wrap reader-layout"><aside class="reader-sidebar"><div class="reader-controls"><p>${reference.sections.length} reference chapters</p><div class="reader-buttons"><button data-action="copy-link">Copy link</button><button data-action="print">Print notes</button></div></div><h2>Reference chapters</h2>${reference.sections.map((section, index) => `<a href="#reference-${index}" data-scroll="reference-${index}"><span>${String(index + 1).padStart(2, "0")}</span>${e(section.title)}</a>`).join("")}</aside><article class="reader"><div class="community-notice"><strong>Read this as a source reference</strong>The excerpts below are quoted from <a href="${e(reference.url)}" target="_blank" rel="noopener noreferrer">the r/CODZombies community guide ${arrow}</a>, retrieved ${e(reference.fetched)}. They have not been independently audited or playtested. Some source chapters are unfinished. For image links and any version-specific uncertainty, open the original guide.${reference.note ? `<p>${e(reference.note)}</p>` : ""}</div><div class="community-search">${searchBox("chapter-search", "Find a chapter or detail…")}</div>${reference.sections.map((section, index) => `<section class="community-section" id="reference-${index}" data-search="${e(normalize(`${section.title} ${section.text || ""}`))}"><h2>${e(section.title)}</h2>${section.sourceOnly ? `<p class="community-notice">This chapter's full transcription remains in <a href="${e(reference.url)}" target="_blank" rel="noopener noreferrer">the original source ↗</a>.</p>` : `<blockquote class="community-quote" cite="${e(reference.url)}">${section.html}</blockquote>`}</section>`).join("")}<div id="chapter-empty" class="empty" hidden>No chapters match your search.</div><div class="sources-panel"><h3>Keep the field notes accurate</h3><p>Reference text remains credited to its community authors. A transcription is not a verification that every Easter egg has been found or documented.</p><div class="sources-list"><a href="${e(reference.url)}" target="_blank" rel="noopener noreferrer">Open the original guide ${arrow}</a><a href="${reportLink(map)}" target="_blank" rel="noopener noreferrer">Report a gap ${arrow}</a><a href="#map/${map.id}">Back to walkthroughs</a></div></div></article></div>`;
+}
+
+function progressPage() {
+  const started = guides
+    .filter((guide) => completedFor(guide).length)
+    .sort((a, b) =>
+      (progress[b.id].updated || "").localeCompare(
+        progress[a.id].updated || "",
+      ),
+    );
+  const finished = started.filter(
+    (guide) => completedFor(guide).length === guide.steps.length,
+  ).length;
+  main.innerHTML = `<section class="wrap page-top"><div class="eyebrow">YOUR PERSONAL FIELD NOTES</div><h1 style="margin-top:15px">Pick up where you left off.</h1><p class="saved-summary"><strong>${started.length}</strong> quest${started.length === 1 ? "" : "s"} started · <strong>${finished}</strong> completed. Saved on this browser and device. Community references do not use checklists.</p>${storageNotice()}${started.length ? `<div class="guide-list saved-grid">${started.map((guide) => `<div><div class="map-game">${e(maps.find((map) => map.id === guide.mapId).name)} · ${completedFor(guide).length}/${guide.steps.length} checked</div>${guideCard(guide)}</div>`).join("")}</div>` : '<div class="empty"><h3>Your next quest is waiting</h3><p>Open a walkthrough and check a step. It will show up here automatically.</p><a class="button" href="#library?availability=walkthroughs">Find a walkthrough <span aria-hidden="true">→</span></a></div>'}</section>`;
+}
+
+function coveragePage() {
+  const originalMaps = maps.filter((map) => map.guides.length).length;
+  const referenceMaps = maps.filter((map) => map.reference).length;
+  main.innerHTML = `<section class="wrap page-top"><div class="eyebrow">NO MYSTERY ABOUT THE COVERAGE</div><h1 style="margin-top:15px">Know what’s in the archive.</h1><p class="coverage-intro">The goal is to document every Zombies Easter egg. We haven’t finished that audit. A catalog entry means a map is indexed; it does not mean every main quest, side quest, song, cipher, or secret has been verified.</p><div class="coverage-stats"><div class="coverage-stat"><strong>${guides.length}</strong><span>Original step-by-step walkthroughs across ${originalMaps} maps</span></div><div class="coverage-stat"><strong>${referenceMaps}</strong><span>Map entries with attributed community reference chapters</span></div><div class="coverage-stat"><strong>${maps.length}</strong><span>Maps and modes indexed, each with source links</span></div></div><div class="coverage-note"><h2>How to read the labels</h2><ul><li><strong>Walkthroughs:</strong> written instructions with prerequisites, ordered steps, and a saved checklist. Researched from credited sources; not independently playtested.</li><li><strong>Community reference:</strong> quoted source chapters you can read here. Chapters can be unfinished and can cover more than one map version.</li><li><strong>Source library:</strong> linked references while an in-site guide is still being researched.</li></ul><p>Original releases, remasters, survival variants, and arcade modes have separate catalog entries. Unreleased maps, community custom maps, and mod-only steps are outside this catalog. Secrets with no confirmed solution remain unsolved.</p></div><table class="coverage-table"><caption class="sr-only">Guide coverage by game</caption><thead><tr><th>GAME / MODE</th><th>INDEXED</th><th>WALKTHROUGHS</th><th>FIELD NOTES</th></tr></thead><tbody>${games
+    .map((game) => {
+      const entries = maps.filter((map) => map.game.id === game.id);
+      return `<tr><td><a href="#library?game=${game.id}">${e(game.title)} ${arrow}</a></td><td>${entries.length}</td><td>${entries.reduce((total, map) => total + map.guides.length, 0)}</td><td>${entries.filter((map) => map.reference).length}</td></tr>`;
+    })
+    .join(
+      "",
+    )}</tbody></table><div class="coverage-note"><h2>Sources, images, and corrections</h2><p>Each map links to its references. Original walkthroughs credit their source material; community quotations credit r/CODZombies. Official artwork is credited to Call of Duty / Activision. Some cards use clearly identified game artwork where a map-specific image is unavailable.</p><p>Use “Report a missing or incorrect step” inside a guide to submit a correction on GitHub with your game version and supporting source. Read the game requirements before starting; solo support and completion requirements vary.</p></div></section>`;
+}
+
+function render() {
+  const route = parseRoute(location.hash);
+  for (const link of document.querySelectorAll("[data-nav]")) {
+    const current =
+      route.page === link.dataset.nav ||
+      (["home", "map", "guide", "reference"].includes(route.page) &&
+        link.dataset.nav === "library");
+    if (current) link.setAttribute("aria-current", "page");
+    else link.removeAttribute("aria-current");
+  }
+  let title = "The Zombies Field Manual";
+  if (route.page === "home" || route.page === "library") {
+    state.game = games.some((game) => game.id === route.params.get("game"))
+      ? route.params.get("game")
+      : "all";
+    state.query = route.params.get("q") || "";
+    state.category = Object.hasOwn(categories, route.params.get("category"))
+      ? route.params.get("category")
+      : "all";
+    state.availability = ["walkthroughs", "reference"].includes(
+      route.params.get("availability"),
+    )
+      ? route.params.get("availability")
+      : "all";
+    state.limit = 12;
+    library(route.page === "home");
+  } else if (route.page === "map" || route.page === "reference") {
+    const map = maps.find((map) => map.id === route.id);
+    if (map && (route.page === "map" || map.reference)) {
+      title = map.name;
+      route.page === "map" ? mapPage(map) : referencePage(map);
+    } else missing();
+  } else if (route.page === "guide") {
+    const guide = guides.find((guide) => guide.id === route.id);
+    if (guide) {
+      title = guide.title;
+      reader(guide);
+    } else missing();
+  } else if (route.page === "progress") {
+    title = "My progress";
+    progressPage();
+  } else if (route.page === "coverage") {
+    title = "Coverage";
+    coveragePage();
+  } else missing();
+  document.title = `${title} — Dead Drop`;
+  main.focus({ preventScroll: true });
+  window.scrollTo(0, 0);
+}
+
+function missing() {
+  main.innerHTML =
+    '<section class="wrap page-top"><div class="empty"><h1>File not found.</h1><p>This map or guide isn’t in the archive yet.</p><a class="button" href="#library">Return to the archive</a></div></section>';
+}
+
+main.addEventListener("click", async (event) => {
+  const scrollLink = event.target.closest("[data-scroll]");
+  if (scrollLink) {
+    event.preventDefault();
+    document
+      .getElementById(scrollLink.dataset.scroll)
+      ?.scrollIntoView({ behavior: "auto", block: "start" });
     return;
   }
-
-  const gameById = new Map();
-  const mapById = new Map();
-  const searchIndex = [];
-  const progressKey = 'dead-drop-progress-v1';
-  let homeFilter = 'all';
-  let searchSelection = -1;
-  let toastTimer = 0;
-
-  data.games.forEach((game) => {
-    gameById.set(game.id, game);
-    searchIndex.push({ type: 'Game', title: game.title, subtitle: `${game.year} · ${game.maps.length} map entries`, hash: `#/game/${game.id}`, haystack: `${game.title} ${game.studio} ${game.mode} ${game.description}`.toLowerCase() });
-    game.maps.forEach((map) => {
-      mapById.set(map.id, { game, map });
-      searchIndex.push({ type: 'Map', title: map.name, subtitle: `${game.title} · ${map.type}`, hash: `#/map/${map.id}`, haystack: `${map.name} ${game.title} ${map.type} ${map.description} ${map.requirements.join(' ')}`.toLowerCase() });
-      map.mainQuests.forEach((quest) => {
-        searchIndex.push({ type: 'Main quest', title: quest.name, subtitle: `${map.name} · ${game.title}`, hash: `#/map/${map.id}#quest-${quest.id}`, haystack: `${quest.name} ${quest.summary || ''} ${quest.reward || ''} ${quest.steps.map((step) => `${step.title} ${step.body} ${step.code || ''}`).join(' ')}`.toLowerCase() });
-      });
-      map.sideQuests.forEach((quest, index) => {
-        searchIndex.push({ type: 'Side quest', title: quest.name, subtitle: `${map.name} · ${game.title}`, hash: `#/map/${map.id}#side-${index + 1}`, haystack: `${quest.name} ${quest.summary || ''} ${quest.reward || ''} ${quest.steps.map((step) => `${step.title} ${step.body} ${step.code || ''}`).join(' ')}`.toLowerCase() });
-      });
+  const game = event.target.closest("[data-game]");
+  const category = event.target.closest("[data-category]");
+  if (game || category) {
+    if (game) state.game = game.dataset.game;
+    if (category) state.category = category.dataset.category;
+    state.limit = 12;
+    updateResults();
+    return;
+  }
+  if (event.target.closest("#load-more")) {
+    state.limit += 24;
+    updateResults();
+    return;
+  }
+  const clear = event.target.closest(".search-clear");
+  if (clear) {
+    const input = clear.previousElementSibling;
+    input.value = "";
+    input.dispatchEvent(new Event("input", { bubbles: true }));
+    input.focus();
+    return;
+  }
+  const action = event.target.closest("[data-action]");
+  if (!action) return;
+  if (action.dataset.action === "clear-filters") {
+    Object.assign(state, {
+      game: "all",
+      query: "",
+      category: "all",
+      availability: "all",
+      limit: 12,
     });
-  });
-
-  const escapeHtml = (value = '') => String(value)
-    .replaceAll('&', '&amp;')
-    .replaceAll('<', '&lt;')
-    .replaceAll('>', '&gt;')
-    .replaceAll('"', '&quot;')
-    .replaceAll("'", '&#039;');
-
-  const clamp = (number, min, max) => Math.min(Math.max(number, min), max);
-
-  function titleCaseStatus(status = 'verified') {
-    return status === 'current' ? 'Current' : status === 'upcoming' ? 'Upcoming' : 'Source checked';
+    document.getElementById("map-search").value = "";
+    document.getElementById("availability").value = "all";
+    updateResults();
   }
-
-  function showToast(message) {
-    window.clearTimeout(toastTimer);
-    toast.textContent = message;
-    toast.classList.add('show');
-    toastTimer = window.setTimeout(() => toast.classList.remove('show'), 2300);
+  if (action.dataset.action === "reset-guide") {
+    if (!confirm("Reset the checked steps for this guide?")) return;
+    delete progress[action.dataset.guide];
+    persist();
+    reader(guides.find((guide) => guide.id === action.dataset.guide));
   }
-
-  async function copyText(text, successMessage = 'Copied') {
+  if (action.dataset.action === "print") window.print();
+  if (action.dataset.action === "copy-link") {
     try {
-      await navigator.clipboard.writeText(text);
-      showToast(successMessage);
+      await navigator.clipboard.writeText(location.href);
+      message("Guide link copied.");
     } catch {
-      const area = document.createElement('textarea');
-      area.value = text;
-      area.style.position = 'fixed';
-      area.style.opacity = '0';
-      document.body.appendChild(area);
-      area.select();
-      document.execCommand('copy');
-      area.remove();
-      showToast(successMessage);
+      message("Copy the guide link from your browser’s address bar.");
     }
   }
+});
 
-  function readProgress() {
-    try {
-      return JSON.parse(localStorage.getItem(progressKey) || '{}');
-    } catch {
-      return {};
-    }
+main.addEventListener("input", (event) => {
+  if (event.target.id === "map-search") {
+    state.query = event.target.value;
+    state.limit = 12;
+    updateResults();
   }
-
-  function writeProgress(progress) {
-    localStorage.setItem(progressKey, JSON.stringify(progress));
+  if (event.target.id === "chapter-search") {
+    const words = normalize(event.target.value)
+      .trim()
+      .split(/\s+/)
+      .filter(Boolean);
+    let count = 0;
+    main.querySelectorAll(".community-section").forEach((section) => {
+      section.hidden = !words.every((word) =>
+        section.dataset.search.includes(word),
+      );
+      if (!section.hidden) count++;
+    });
+    document.getElementById("chapter-empty").hidden = count > 0;
+    event.target.nextElementSibling.hidden = !event.target.value;
   }
+});
 
-  function getStepKey(mapId, questId, index) {
-    return `${mapId}:${questId}:${index}`;
+main.addEventListener("change", (event) => {
+  if (event.target.id === "availability") {
+    state.availability = event.target.value;
+    state.limit = 12;
+    updateResults();
   }
-
-  function getMapProgress(map) {
-    const stored = readProgress();
-    const keys = [];
-    map.mainQuests.forEach((quest) => quest.steps.forEach((_, index) => keys.push(getStepKey(map.id, quest.id, index))));
-    const complete = keys.filter((key) => stored[key]).length;
-    return { complete, total: keys.length, percent: keys.length ? Math.round((complete / keys.length) * 100) : 0 };
-  }
-
-  function imageMarkup(game, className = 'game-cover', eager = false) {
-    const primary = escapeHtml(game.cover || game.coverFallback);
-    const fallback = escapeHtml(game.coverFallback || game.cover);
-    return `<img class="${className}" src="${primary}" data-fallback="${fallback}" alt="${escapeHtml(game.title)} cover artwork" ${eager ? 'fetchpriority="high"' : 'loading="lazy"'}>`;
-  }
-
-  function activateImageFallbacks(root = document) {
-    root.querySelectorAll('img[data-fallback]').forEach((image) => {
-      const fallback = image.dataset.fallback;
-      const handleError = () => {
-        if (fallback && image.src !== new URL(fallback, location.href).href) {
-          image.src = fallback;
-        } else {
-          image.hidden = true;
-        }
+  if (event.target.matches("input[data-step]")) {
+    const guide = guides.find(
+      (guide) => guide.id === event.target.dataset.guide,
+    );
+    const completed = new Set(completedFor(guide));
+    if (event.target.checked) completed.add(event.target.dataset.step);
+    else completed.delete(event.target.dataset.step);
+    if (completed.size)
+      progress[guide.id] = {
+        completed: [...completed],
+        updated: new Date().toISOString(),
       };
-      image.addEventListener('error', handleError, { once: true });
-      if (image.complete && image.naturalWidth === 0) handleError();
-    });
+    else delete progress[guide.id];
+    event.target
+      .closest(".step")
+      .classList.toggle("checked", event.target.checked);
+    document.getElementById("step-progress").textContent =
+      `${completed.size} / ${guide.steps.length} steps`;
+    document.getElementById("step-progress-bar").style.width =
+      `${(completed.size / guide.steps.length) * 100}%`;
+    persist();
   }
+});
 
-  function setDocumentTitle(title) {
-    document.title = title ? `${title} — Dead Drop` : 'Dead Drop — Call of Duty Zombies Guides';
-  }
-
-  function setAccent(accent = '#d65336') {
-    document.documentElement.style.setProperty('--accent', accent);
-  }
-
-  function scrollToTopOrAnchor(anchor) {
-    requestAnimationFrame(() => {
-      if (anchor) {
-        const target = document.getElementById(anchor);
-        if (target) {
-          target.scrollIntoView({ block: 'start' });
-          target.focus?.({ preventScroll: true });
-          return;
-        }
-      }
-      window.scrollTo({ top: 0, behavior: 'auto' });
-      view.focus({ preventScroll: true });
-    });
-  }
-
-  function startRouteTransition() {
-    routeProgress.style.transition = 'none';
-    routeProgress.style.width = '16%';
-    requestAnimationFrame(() => {
-      routeProgress.style.transition = 'width .22s ease';
-      routeProgress.style.width = '72%';
-    });
-  }
-
-  function finishRouteTransition() {
-    routeProgress.style.width = '100%';
-    window.setTimeout(() => {
-      routeProgress.style.transition = 'opacity .18s ease';
-      routeProgress.style.opacity = '0';
-      window.setTimeout(() => {
-        routeProgress.style.width = '0';
-        routeProgress.style.opacity = '1';
-        routeProgress.style.transition = 'width .15s ease';
-      }, 200);
-    }, 100);
-  }
-
-  function renderHome() {
-    setDocumentTitle('Call of Duty Zombies Guide Archive');
-    setAccent('#d65336');
-
-    view.innerHTML = `
-      <div class="page-shell">
-        <section class="home-hero">
-          <div class="hero-grid">
-            <div class="hero-intro">
-              <p class="eyebrow">GAME-FIRST ZOMBIES FIELD ARCHIVE</p>
-              <h1 class="display-title">CHOOSE A GAME.<br><span>RUN THE QUEST.</span></h1>
-              <p class="section-copy">Select a Call of Duty title, open its map list, then follow the main Easter egg, alternate branches, side quests, puzzle codes, boss preparation, completion cues, and useful visual references.</p>
-              <div class="hero-actions">
-                <a class="button primary" href="#games">Browse all games</a>
-                <a class="button" href="#/tools">Open puzzle tools</a>
-              </div>
-            </div>
-            <div class="hero-stats" aria-label="Archive statistics">
-              <div class="hero-stat"><strong>${data.stats.games}</strong><span>Games and modes</span></div>
-              <div class="hero-stat"><strong>${data.stats.maps}</strong><span>Map entries</span></div>
-              <div class="hero-stat"><strong>${data.stats.mainQuests}</strong><span>Main routes</span></div>
-              <div class="hero-stat"><strong>${data.stats.sideQuests}</strong><span>Side quests</span></div>
-            </div>
-          </div>
-        </section>
-
-        <section class="archive-section" id="games">
-          <div class="section-header">
-            <div><p class="eyebrow">THE ARCHIVE</p><h2 class="section-title">ALL GAMES</h2></div>
-            <p class="section-copy">The landing page contains games only. Open a title to see its maps, then open a map to enter the full guide.</p>
-          </div>
-          <div class="filter-row" role="group" aria-label="Filter games">
-            ${[
-              ['all', 'All'],
-              ['treyarch', 'Treyarch'],
-              ['other', 'Other studios'],
-              ['classic', 'Classic era'],
-              ['modern', 'Modern era'],
-              ['alternate', 'Alternate modes']
-            ].map(([id, label]) => `<button class="filter-chip ${homeFilter === id ? 'active' : ''}" data-filter="${id}">${label}</button>`).join('')}
-          </div>
-          <div class="game-grid" id="game-grid">${renderGameCards(filteredGames(homeFilter))}</div>
-        </section>
-      </div>`;
-
-    view.querySelectorAll('[data-filter]').forEach((button) => {
-      button.addEventListener('click', () => {
-        homeFilter = button.dataset.filter;
-        view.querySelectorAll('[data-filter]').forEach((item) => item.classList.toggle('active', item === button));
-        view.querySelector('#game-grid').innerHTML = renderGameCards(filteredGames(homeFilter));
-        activateImageFallbacks(view.querySelector('#game-grid'));
-      });
-    });
-    activateImageFallbacks(view);
-  }
-
-  function filteredGames(filter) {
-    if (filter === 'treyarch') return data.games.filter((game) => /treyarch/i.test(game.studio));
-    if (filter === 'other') return data.games.filter((game) => !/treyarch/i.test(game.studio));
-    if (filter === 'classic') return data.games.filter((game) => Number(game.year) <= 2015);
-    if (filter === 'modern') return data.games.filter((game) => Number(game.year) >= 2018);
-    if (filter === 'alternate') return data.games.filter((game) => game.mode !== 'Zombies' || /Extinction|MWZ|Exo/i.test(`${game.title} ${game.mode}`));
-    return data.games;
-  }
-
-  function renderGameCards(games) {
-    if (!games.length) return '<div class="not-found"><h1>No games matched</h1><p>Choose another archive filter.</p></div>';
-    return games.map((game) => {
-      const mainCount = game.maps.reduce((sum, map) => sum + map.mainQuests.length, 0);
-      const sideCount = game.maps.reduce((sum, map) => sum + map.sideQuests.length, 0);
-      return `
-        <a class="game-card" href="#/game/${game.id}" style="--game-accent:${escapeHtml(game.accent)}">
-          <div class="game-cover-fallback" aria-hidden="true"></div>
-          ${imageMarkup(game)}
-          <div class="game-card-content">
-            <div class="game-year"><span>${escapeHtml(game.year)}</span><span>${escapeHtml(game.mode)}</span></div>
-            <h3 class="game-title">${escapeHtml(game.title)}</h3>
-            <div class="game-meta"><span>${game.maps.length} map${game.maps.length === 1 ? '' : 's'}</span><span>${mainCount} main route${mainCount === 1 ? '' : 's'}</span><span>${sideCount} side quests</span></div>
-            <span class="game-arrow">Open game</span>
-          </div>
-        </a>`;
-    }).join('');
-  }
-
-  function renderGame(game) {
-    setDocumentTitle(game.title);
-    setAccent(game.accent);
-    const mainCount = game.maps.reduce((sum, map) => sum + map.mainQuests.length, 0);
-    const sideCount = game.maps.reduce((sum, map) => sum + map.sideQuests.length, 0);
-    const verified = game.maps.filter((map) => map.status === 'verified').length;
-
-    view.innerHTML = `
-      <div class="page-shell">
-        <nav class="breadcrumbs" aria-label="Breadcrumb"><a href="#/">Games</a><i>›</i><span>${escapeHtml(game.title)}</span></nav>
-        <section class="game-hero" style="--game-accent:${escapeHtml(game.accent)}">
-          <div class="game-cover-fallback" aria-hidden="true"></div>
-          ${imageMarkup(game, 'game-hero-image', true)}
-          <div class="game-hero-content">
-            <p class="eyebrow">${escapeHtml(game.studio)} · ${escapeHtml(game.year)}</p>
-            <h1>${escapeHtml(game.title)}</h1>
-            <p>${escapeHtml(game.description)}</p>
-          </div>
-        </section>
-        <div class="game-summary-bar">
-          <div class="summary-cell"><small>Map entries</small><strong>${game.maps.length}</strong></div>
-          <div class="summary-cell"><small>Main routes</small><strong>${mainCount}</strong></div>
-          <div class="summary-cell"><small>Side quests</small><strong>${sideCount}</strong></div>
-          <div class="summary-cell"><small>Archive status</small><strong>${verified === game.maps.length ? 'Checked' : 'Current'}</strong></div>
-        </div>
-        <section>
-          <div class="section-header">
-            <div><p class="eyebrow">${escapeHtml(game.mode)}</p><h2 class="section-title">MAPS & MODES</h2></div>
-            <p class="section-copy">Open a card for full main-quest steps, alternate paths, side Easter eggs, requirements, visual references, and source links.</p>
-          </div>
-          <div class="map-grid">
-            ${game.maps.map((map) => renderMapCard(game, map)).join('')}
-          </div>
-        </section>
-      </div>`;
-    activateImageFallbacks(view);
-  }
-
-  function renderMapCard(game, map) {
-    const status = map.status || 'verified';
-    const mainLabel = map.mainQuests.length ? `${map.mainQuests.length} main` : 'No story main';
-    return `
-      <a class="map-card" href="#/map/${map.id}" style="--map-tone:${escapeHtml(map.tone)};--map-accent:${escapeHtml(map.accent)}">
-        <div class="map-card-top">
-          <div class="map-card-badges"><span class="badge ${escapeHtml(status)}">${titleCaseStatus(status)}</span><span class="badge">${escapeHtml(map.type)}</span></div>
-          <h3>${escapeHtml(map.name)}</h3>
-          <p>${escapeHtml(map.description)}</p>
-        </div>
-        <div class="map-card-bottom">
-          <div class="map-card-stat"><small>Guide coverage</small><strong>${mainLabel} · ${map.sideQuests.length} side</strong></div>
-          <span class="map-card-open" aria-hidden="true">↗</span>
-        </div>
-      </a>`;
-  }
-
-  function renderMap(game, map) {
-    setDocumentTitle(`${map.name} Guide`);
-    setAccent(game.accent);
-    const firstQuest = map.mainQuests[0];
-    const questLabel = firstQuest ? firstQuest.name : map.status === 'upcoming' ? 'Guide opens after verified public release' : 'Side quests, secrets, and survival reference';
-    const progress = getMapProgress(map);
-    const mainSteps = map.mainQuests.reduce((sum, quest) => sum + quest.steps.length, 0);
-
-    const navLinks = [
-      ['briefing', 'Briefing', '00'],
-      ...map.mainQuests.map((quest, index) => [`quest-${quest.id}`, quest.name, String(index + 1).padStart(2, '0')]),
-      ...(map.sideQuests.length ? [['side-quests', 'Side quests', 'S']] : []),
-      ...(map.visuals.length ? [['references', 'Puzzle references', 'R']] : []),
-      ['sources', 'Sources', '✓']
+async function load() {
+  try {
+    const [catalog, classic, modern, extra, aw, images, fieldNotes] =
+      await Promise.all(
+        [
+          "catalog.json",
+          "guides-classic.json",
+          "guides-modern.json",
+          "guides-extra.json",
+          "guides-aw.json",
+          "media.json",
+          "references.json",
+        ].map(async (file) => {
+          const response = await fetch(`./data/${file}`);
+          if (!response.ok) throw new Error(`Could not load ${file}`);
+          return response.json();
+        }),
+      );
+    games = catalog.games;
+    guides = [...classic, ...modern, ...extra, ...aw];
+    media = images;
+    references = fieldNotes;
+    maps = games.flatMap((game) =>
+      game.maps.map((map, order) => {
+        const entries = guides.filter((guide) => guide.mapId === map.id);
+        const reference = references.find((reference) =>
+          reference.mapIds.includes(map.id),
+        );
+        return {
+          ...map,
+          order,
+          game,
+          guides: entries,
+          reference,
+          search: normalize(
+            [
+              map.name,
+              game.title,
+              game.short,
+              map.summary,
+              game.id,
+              ...entries.map((guide) => `${guide.title} ${guide.summary}`),
+              ...(reference?.sections.map(
+                (section) =>
+                  `${section.title} ${(section.text?.match(/^#{1,4} (.+)$/gm) || []).join(" ")}`,
+              ) || []),
+            ].join(" "),
+          ),
+        };
+      }),
+    );
+    const featured = [
+      "bo6-liberty-falls",
+      "bo6-terminus",
+      "bo3-der-eisendrache",
+      "bo3-shadows-of-evil",
+      "bo2-origins",
+      "bo1-moon",
+      "bo7-ashes-of-the-damned",
+      "bo7-astra-malorum",
+      "bo4-ix",
+      "coldwar-die-maschine",
+      "iw-zombies-in-spaceland",
+      "waw-der-riese",
     ];
-
-    view.innerHTML = `
-      <div class="page-shell">
-        <nav class="breadcrumbs" aria-label="Breadcrumb"><a href="#/">Games</a><i>›</i><a href="#/game/${game.id}">${escapeHtml(game.title)}</a><i>›</i><span>${escapeHtml(map.name)}</span></nav>
-        <section class="map-hero" style="--map-tone:${escapeHtml(map.tone)};--map-accent:${escapeHtml(map.accent)}">
-          <div class="map-hero-content">
-            <p class="eyebrow">${escapeHtml(game.title)} · ${escapeHtml(map.type)}</p>
-            <h1>${escapeHtml(map.name)}</h1>
-            <p class="quest-name">${escapeHtml(questLabel)}</p>
-            <p class="map-description">${escapeHtml(map.description)}</p>
-            <div class="map-meta-row">
-              <div class="map-meta-pill"><small>Players</small><strong>${escapeHtml(map.players)}</strong></div>
-              <div class="map-meta-pill"><small>Difficulty</small><strong>${escapeHtml(map.difficulty)}</strong></div>
-              <div class="map-meta-pill"><small>Expected time</small><strong>${escapeHtml(map.time)}</strong></div>
-              <div class="map-meta-pill"><small>Released</small><strong>${escapeHtml(map.release || game.year)}</strong></div>
-              <div class="map-meta-pill"><small>Coverage</small><strong>${mainSteps} main steps</strong></div>
-            </div>
-            <div class="map-action-row">
-              <button class="button primary" id="copy-guide-link">Copy guide link</button>
-              <button class="button" id="print-guide">Print / save PDF</button>
-              ${map.mainQuests.length ? `<a class="button accent" href="#/map/${map.id}#briefing">Start guide</a>` : ''}
-            </div>
-          </div>
-        </section>
-
-        <div class="guide-layout">
-          <aside class="guide-sidebar" aria-label="Guide navigation">
-            <nav class="guide-nav"><div class="guide-nav-title">Guide index</div>${navLinks.map(([id, label, marker]) => `<a href="#/map/${map.id}#${id}"><span>${escapeHtml(marker)}</span>${escapeHtml(label)}</a>`).join('')}</nav>
-            ${map.mainQuests.length ? `<div class="progress-card"><div class="progress-head"><strong>Run progress</strong><span id="progress-label">${progress.complete}/${progress.total}</span></div><div class="progress-track"><i id="progress-fill" style="width:${progress.percent}%"></i></div><button id="reset-progress">Reset this map</button></div>` : ''}
-          </aside>
-
-          <div class="guide-content">
-            ${renderBriefing(game, map)}
-            ${map.mainQuests.length ? map.mainQuests.map((quest, questIndex) => renderMainQuest(map, quest, questIndex)).join('') : renderNoMainQuest(map)}
-            ${map.sideQuests.length ? renderSideQuests(map) : ''}
-            ${map.visuals.length ? renderReferences(map) : ''}
-            ${renderSources(map)}
-          </div>
-        </div>
-      </div>`;
-
-    bindMapInteractions(game, map);
-  }
-
-  function renderBriefing(game, map) {
-    const firstQuest = map.mainQuests[0];
-    const setup = Array.isArray(map.setup) ? map.setup : [];
-    const atAGlance = firstQuest ? firstQuest.steps.slice(0, 6).map((step, index) => `<div class="info-card"><small>Checkpoint ${index + 1}</small><strong>${escapeHtml(step.title)}</strong><p>${escapeHtml(step.body.slice(0, 130))}${step.body.length > 130 ? '…' : ''}</p></div>`).join('') : '';
-    return `
-      <section class="guide-section" id="briefing" tabindex="-1">
-        <div class="guide-section-heading"><h2>Run briefing</h2><p>${escapeHtml(game.title)} · ${escapeHtml(map.name)}</p></div>
-        <div class="info-grid">
-          <div class="info-card"><small>Main routes</small><strong>${map.mainQuests.length || 'None'}</strong><p>${map.mainQuests.length ? map.mainQuests.map((quest) => escapeHtml(quest.name)).join(' · ') : 'This map does not use a conventional story main quest.'}</p></div>
-          <div class="info-card"><small>Side content</small><strong>${map.sideQuests.length} quest${map.sideQuests.length === 1 ? '' : 's'}</strong><p>Wonder weapons, songs, upgrades, shortcuts, free perks, and map-specific secrets where documented.</p></div>
-          <div class="info-card"><small>Verification</small><strong>${titleCaseStatus(map.status)}</strong><p>${map.status === 'upcoming' ? 'No unreleased steps are fabricated.' : 'Guide order is paired with map references and external source links.'}</p></div>
-        </div>
-        ${map.requirements.length ? `<p class="eyebrow">REQUIRED BEFORE THE FINAL ROUTE</p><div class="requirements">${map.requirements.map((item) => `<span class="requirement">${escapeHtml(item)}</span>`).join('')}</div>` : ''}
-        ${setup.length ? `<div class="quest-block"><div class="quest-block-header"><div><h3>Recommended setup</h3><p>Preparation that prevents common run failures.</p></div></div><ol class="step-list">${setup.map((step, index) => renderSetupStep(step, index)).join('')}</ol></div>` : ''}
-        ${atAGlance ? `<p class="eyebrow">FIRST SIX CHECKPOINTS AT A GLANCE</p><div class="info-grid">${atAGlance}</div>` : ''}
-      </section>`;
-  }
-
-  function renderSetupStep(step, index) {
-    const normalized = typeof step === 'string' ? { title: `Setup ${index + 1}`, body: step } : step;
-    return `<li class="step-item"><div class="step-number-wrap"><span class="step-check" aria-hidden="true" style="cursor:default"></span></div><div class="step-body"><div class="step-kicker"><b>SETUP</b> ${String(index + 1).padStart(2, '0')}</div><h4>${escapeHtml(normalized.title)}</h4><p>${escapeHtml(normalized.body)}</p></div></li>`;
-  }
-
-  function renderMainQuest(map, quest, questIndex) {
-    const progress = readProgress();
-    return `
-      <section class="guide-section" id="quest-${escapeHtml(quest.id)}" tabindex="-1">
-        <div class="guide-section-heading"><h2>${escapeHtml(quest.name)}</h2><p>Main route ${questIndex + 1} of ${map.mainQuests.length}</p></div>
-        <article class="quest-block">
-          <header class="quest-block-header">
-            <div><h3>${escapeHtml(quest.name)}</h3><p>${escapeHtml(quest.summary || `${quest.players} · Follow every checkpoint in order.`)}</p></div>
-            <div class="quest-reward"><small>Completion</small><strong>${escapeHtml(quest.reward || 'Story quest complete')}</strong></div>
-          </header>
-          <ol class="step-list">
-            ${quest.steps.map((step, index) => {
-              const key = getStepKey(map.id, quest.id, index);
-              return renderStep(step, index, key, Boolean(progress[key]), quest.name);
-            }).join('')}
-          </ol>
-        </article>
-      </section>`;
-  }
-
-  function renderStep(step, index, key, complete, questName) {
-    const callouts = [
-      step.cue ? `<div class="callout cue"><strong>Success cue:</strong> ${escapeHtml(step.cue)}</div>` : '',
-      step.tip ? `<div class="callout tip"><strong>Shortcut:</strong> ${escapeHtml(step.tip)}</div>` : '',
-      step.warning ? `<div class="callout warning"><strong>Do not miss:</strong> ${escapeHtml(step.warning)}</div>` : '',
-      step.code ? `<div class="callout code"><strong>Code:</strong> ${escapeHtml(step.code)}</div>` : ''
-    ].join('');
-    return `
-      <li class="step-item ${complete ? 'done' : ''}" data-step-key="${escapeHtml(key)}">
-        <div class="step-number-wrap"><button class="step-check" type="button" aria-label="Mark ${escapeHtml(step.title)} complete" aria-pressed="${complete}"></button></div>
-        <div class="step-body">
-          <div class="step-kicker"><b>STEP ${String(index + 1).padStart(2, '0')}</b> ${escapeHtml(questName)}</div>
-          <h4>${escapeHtml(step.title)}</h4>
-          <p>${escapeHtml(step.body)}</p>
-          ${callouts ? `<div class="step-callouts">${callouts}</div>` : ''}
-        </div>
-      </li>`;
-  }
-
-  function renderNoMainQuest(map) {
-    const message = map.status === 'upcoming'
-      ? 'This map is announced but not publicly released. The archive intentionally contains no speculative or invented quest steps. The guide will only be populated after release and source verification.'
-      : 'This entry has no conventional story main quest. Use the side-quest section for every documented song, weapon, shortcut, challenge, or survival secret included in the archive.';
-    return `
-      <section class="guide-section" id="main-quest" tabindex="-1">
-        <div class="guide-section-heading"><h2>${map.status === 'upcoming' ? 'Upcoming guide' : 'No story main quest'}</h2><p>${escapeHtml(map.type)}</p></div>
-        <div class="quest-block"><div class="quest-block-header"><div><h3>${escapeHtml(map.name)}</h3><p>${escapeHtml(message)}</p></div></div></div>
-      </section>`;
-  }
-
-  function renderSideQuests(map) {
-    return `
-      <section class="guide-section" id="side-quests" tabindex="-1">
-        <div class="guide-section-heading"><h2>Side Easter eggs</h2><p>${map.sideQuests.length} documented route${map.sideQuests.length === 1 ? '' : 's'}</p></div>
-        <div class="side-quest-grid">
-          ${map.sideQuests.map((quest, index) => `
-            <article class="side-quest-card" id="side-${index + 1}">
-              <button class="side-quest-summary" type="button" aria-expanded="false">
-                <div><h3>${escapeHtml(quest.name)}</h3><p>${escapeHtml(quest.summary || `${quest.steps.length} step${quest.steps.length === 1 ? '' : 's'}`)}</p></div><span aria-hidden="true">+</span>
-              </button>
-              <div class="side-quest-detail">
-                <ol>${quest.steps.map((step) => `<li><strong>${escapeHtml(step.title)}.</strong> ${escapeHtml(step.body)}${step.cue ? ` <em>Success cue: ${escapeHtml(step.cue)}</em>` : ''}${step.warning ? ` <em>Warning: ${escapeHtml(step.warning)}</em>` : ''}</li>`).join('')}</ol>
-                ${quest.reward ? `<div class="reward-line"><strong>Reward:</strong> ${escapeHtml(quest.reward)}</div>` : ''}
-              </div>
-            </article>`).join('')}
-        </div>
-      </section>`;
-  }
-
-  function renderReferences(map) {
-    return `
-      <section class="guide-section" id="references" tabindex="-1">
-        <div class="guide-section-heading"><h2>Puzzle references</h2><p>Only visuals or diagrams that directly help solve a step</p></div>
-        <div class="reference-grid">
-          ${map.visuals.map((visual) => {
-            if (visual.type === 'image') {
-              return `<figure class="reference-visual" data-image-src="${escapeHtml(visual.src)}" data-image-caption="${escapeHtml(`${visual.title}. ${visual.caption || ''}`)}"><img src="${escapeHtml(visual.src)}" alt="${escapeHtml(visual.title)}" loading="lazy"><figcaption class="reference-caption"><strong>${escapeHtml(visual.title)}</strong><p>${escapeHtml(visual.caption || '')}</p></figcaption></figure>`;
-            }
-            return `<div class="reference-diagram"><h3>${escapeHtml(visual.title || 'Puzzle code')}</h3><div class="code-strip">${(visual.cells || []).map((cell) => `<div class="code-cell">${escapeHtml(cell)}</div>`).join('')}</div>${visual.note ? `<p class="diagram-note">${escapeHtml(visual.note)}</p>` : ''}</div>`;
-          }).join('')}
-        </div>
-      </section>`;
-  }
-
-  function renderSources(map) {
-    return `
-      <section class="guide-section" id="sources" tabindex="-1">
-        <div class="guide-section-heading"><h2>Sources & verification</h2><p>Use these links to cross-check route order and version differences</p></div>
-        <div class="source-list">
-          ${map.sources.map((source) => `<a class="source-link" href="${escapeHtml(source.url)}" target="_blank" rel="noopener noreferrer"><div><strong>${escapeHtml(source.title)}</strong><small>${escapeHtml(source.note || 'External guide reference')}</small></div><span aria-hidden="true">↗</span></a>`).join('')}
-        </div>
-      </section>`;
-  }
-
-  function bindMapInteractions(game, map) {
-    activateImageFallbacks(view);
-
-    document.getElementById('copy-guide-link')?.addEventListener('click', () => copyText(location.href, 'Guide link copied'));
-    document.getElementById('print-guide')?.addEventListener('click', () => window.print());
-    document.getElementById('reset-progress')?.addEventListener('click', () => {
-      const progress = readProgress();
-      Object.keys(progress).forEach((key) => {
-        if (key.startsWith(`${map.id}:`)) delete progress[key];
-      });
-      writeProgress(progress);
-      view.querySelectorAll('[data-step-key]').forEach((item) => {
-        item.classList.remove('done');
-        item.querySelector('.step-check')?.setAttribute('aria-pressed', 'false');
-      });
-      updateMapProgress(map);
-      showToast('Map progress reset');
+    maps.sort((a, b) => {
+      const first = featured.indexOf(a.id),
+        second = featured.indexOf(b.id);
+      if (first !== -1 || second !== -1)
+        return (
+          (first === -1 ? featured.length : first) -
+          (second === -1 ? featured.length : second)
+        );
+      return b.game.year - a.game.year || a.order - b.order;
     });
-
-    view.querySelectorAll('[data-step-key] .step-check').forEach((button) => {
-      button.addEventListener('click', () => {
-        const item = button.closest('[data-step-key]');
-        const progress = readProgress();
-        const key = item.dataset.stepKey;
-        progress[key] = !progress[key];
-        if (!progress[key]) delete progress[key];
-        writeProgress(progress);
-        item.classList.toggle('done', Boolean(progress[key]));
-        button.setAttribute('aria-pressed', String(Boolean(progress[key])));
-        updateMapProgress(map);
-      });
-    });
-
-    view.querySelectorAll(`a[href^="#/map/${map.id}#"]`).forEach((link) => {
-      link.addEventListener('click', (event) => {
-        event.preventDefault();
-        const href = link.getAttribute('href');
-        const anchor = href.split('#').pop();
-        history.replaceState(null, '', href);
-        const target = document.getElementById(anchor);
-        if (target) target.scrollIntoView({ behavior: 'smooth', block: 'start' });
-      });
-    });
-
-    view.querySelectorAll('.side-quest-summary').forEach((button) => {
-      button.addEventListener('click', () => {
-        const card = button.closest('.side-quest-card');
-        const open = card.classList.toggle('open');
-        button.setAttribute('aria-expanded', String(open));
-      });
-    });
-
-    view.querySelectorAll('.reference-visual').forEach((visual) => {
-      visual.addEventListener('click', () => openImageModal(visual.dataset.imageSrc, visual.dataset.imageCaption));
-      visual.addEventListener('keydown', (event) => {
-        if (event.key === 'Enter' || event.key === ' ') openImageModal(visual.dataset.imageSrc, visual.dataset.imageCaption);
-      });
-      visual.tabIndex = 0;
-      visual.setAttribute('role', 'button');
-    });
-
-    const guideLinks = [...view.querySelectorAll('.guide-nav a')];
-    const sections = guideLinks.map((link) => {
-      const href = link.getAttribute('href') || '';
-      const sectionId = href.split('#').pop();
-      return sectionId ? document.getElementById(sectionId) : null;
-    }).filter(Boolean);
-    if ('IntersectionObserver' in window && sections.length) {
-      const observer = new IntersectionObserver((entries) => {
-        const active = entries.filter((entry) => entry.isIntersecting).sort((a, b) => b.intersectionRatio - a.intersectionRatio)[0];
-        if (!active) return;
-        guideLinks.forEach((link) => link.classList.toggle('active', link.getAttribute('href').endsWith(`#${active.target.id}`)));
-      }, { rootMargin: '-20% 0px -65% 0px', threshold: [0, .2, .6] });
-      sections.forEach((section) => observer.observe(section));
-    }
-
-    updateMapProgress(map);
-  }
-
-  function updateMapProgress(map) {
-    const progress = getMapProgress(map);
-    const label = document.getElementById('progress-label');
-    const fill = document.getElementById('progress-fill');
-    if (label) label.textContent = `${progress.complete}/${progress.total}`;
-    if (fill) fill.style.width = `${progress.percent}%`;
-  }
-
-  function openImageModal(src, caption) {
-    imageModalImage.src = src;
-    imageModalImage.alt = caption || 'Guide reference';
-    imageModalCaption.textContent = caption || '';
-    imageModal.hidden = false;
-    document.body.style.overflow = 'hidden';
-    imageModal.querySelector('.modal-close').focus();
-  }
-
-  function closeImageModal() {
-    imageModal.hidden = true;
-    imageModalImage.src = '';
-    document.body.style.overflow = '';
-  }
-
-  function renderTools() {
-    setDocumentTitle('Puzzle Tools');
-    setAccent('#d65336');
-    view.innerHTML = `
-      <div class="page-shell">
-        <nav class="breadcrumbs" aria-label="Breadcrumb"><a href="#/">Games</a><i>›</i><span>Tools</span></nav>
-        <section class="map-hero"><div class="map-hero-content"><p class="eyebrow">FAST REFERENCES</p><h1>Puzzle tools</h1><p class="map-description">Small helpers for the puzzle steps that are easiest to misread during a live run. Every result can be copied.</p></div></section>
-        <section class="guide-section" style="margin-top:42px">
-          <div class="guide-section-heading"><h2>Origins solvers</h2><p>Fixed codes and conversion references</p></div>
-          <div class="tools-grid">
-            <article class="tool-card"><h3>Lightning piano</h3><p>Number the seven lower keys from left to right. Enter the chord you are on.</p><div class="tool-input-row"><select id="lightning-chord"><option value="1 → 3 → 6">Chord 1</option><option value="3 → 5 → 7">Chord 2</option><option value="2 → 4 → 6">Chord 3</option></select><button class="button" data-tool-copy="lightning-output">Copy</button></div><div class="tool-output" id="lightning-output">1 → 3 → 6</div></article>
-            <article class="tool-card"><h3>Fire church chart</h3><p>Read the seven upper symbols left to right. Shoot each lit value downstairs plus the bloodstain torch, 4.</p><div class="tool-output" id="fire-output">11 · 5 · 9 · 7 · 6 · 3 · 4\nAlways include torch 4</div><button class="button ghost" data-tool-copy="fire-output">Copy chart</button></article>
-            <article class="tool-card"><h3>Lightning dials</h3><p>All seven sparking panels. Directions are shown from the player’s view.</p><div class="tool-output" id="dial-output">Gen 5 ↓\nChurch basement →\nChurch upstairs ↑\nGen 4 ↑\nSpawn ←\nTank Station ↓\nExcavation mound ↑</div><button class="button ghost" data-tool-copy="dial-output">Copy positions</button></article>
-          </div>
-        </section>
-        <section class="guide-section">
-          <div class="guide-section-heading"><h2>Quick converters</h2><p>Live-run scratch tools</p></div>
-          <div class="tools-grid">
-            <article class="tool-card"><h3>Astra planets</h3><p>Convert the three planets named in O.S.C.A.R.’s recording to their digits.</p><div class="tool-input-row"><input id="planet-input" placeholder="Mars, Neptune, Earth"><button class="button" id="planet-convert">Convert</button></div><div class="tool-output" id="planet-output">Mercury 1 · Venus 2 · Earth 3 · Mars 4 · Jupiter 5 · Saturn 6 · Uranus 7 · Neptune 8</div></article>
-            <article class="tool-card"><h3>Run note</h3><p>Build a short route note and copy it to Discord or your phone before starting.</p><div class="tool-input-row"><input id="run-note" placeholder="Example: save zombie after round 8"><button class="button" id="copy-note">Copy</button></div><div class="tool-output">Your text stays in this browser and is never uploaded.</div></article>
-            <article class="tool-card"><h3>Guide search</h3><p>Press <strong>/</strong> anywhere outside a text box, then search a map, quest, code, or step title.</p><div class="tool-output">Examples:\nBuried Maxis\nLightning piano\nBoss fight\nGolden spork</div></article>
-          </div>
-        </section>
-      </div>`;
-
-    const chord = document.getElementById('lightning-chord');
-    chord.addEventListener('change', () => { document.getElementById('lightning-output').textContent = chord.value; });
-    document.getElementById('planet-convert').addEventListener('click', () => {
-      const values = { mercury: 1, venus: 2, earth: 3, mars: 4, jupiter: 5, saturn: 6, uranus: 7, neptune: 8 };
-      const words = document.getElementById('planet-input').value.toLowerCase().split(/[^a-z]+/).filter(Boolean);
-      const digits = words.map((word) => values[word]).filter(Boolean);
-      document.getElementById('planet-output').textContent = digits.length ? digits.join(' → ') : 'Enter planet names such as Mars, Neptune, Earth.';
-    });
-    document.getElementById('copy-note').addEventListener('click', () => {
-      const text = document.getElementById('run-note').value.trim();
-      if (!text) return showToast('Enter a run note first');
-      copyText(text, 'Run note copied');
-    });
-    view.querySelectorAll('[data-tool-copy]').forEach((button) => button.addEventListener('click', () => copyText(document.getElementById(button.dataset.toolCopy).textContent, 'Reference copied')));
-  }
-
-  function renderAccuracy() {
-    setDocumentTitle('Accuracy & Coverage');
-    setAccent('#d65336');
-    view.innerHTML = `
-      <div class="page-shell">
-        <nav class="breadcrumbs" aria-label="Breadcrumb"><a href="#/">Games</a><i>›</i><span>Accuracy</span></nav>
-        <section class="map-hero"><div class="map-hero-content"><p class="eyebrow">VERIFICATION POLICY</p><h1>Accuracy over filler</h1><p class="map-description">The archive separates verified released routes, current live-game routes, maps without conventional main quests, and announced content. It does not invent unreleased steps.</p><div class="map-meta-row"><div class="map-meta-pill"><small>Database version</small><strong>${escapeHtml(data.version)}</strong></div><div class="map-meta-pill"><small>Last audited</small><strong>${escapeHtml(data.updated)}</strong></div><div class="map-meta-pill"><small>Guide steps</small><strong>${data.stats.steps}</strong></div></div></div></section>
-        <section class="guide-section" style="margin-top:42px">
-          <div class="accuracy-grid">
-            <div>
-              <div class="guide-section-heading"><h2>Policy</h2><p>How entries are handled</p></div>
-              <div class="policy-list">
-                <div class="policy-item"><strong>Released content only</strong><p>Unreleased maps are labeled upcoming and contain no speculative quest instructions.</p></div>
-                <div class="policy-item"><strong>Version differences are preserved</strong><p>Black Ops II, Zombies Chronicles, solo, co-op, branch, and mode differences are called out inside the applicable route.</p></div>
-                <div class="policy-item"><strong>Success cues matter</strong><p>When kills, timings, or registrations vary, the guide prioritizes the in-game visual or audio completion cue instead of pretending an estimate is exact.</p></div>
-                <div class="policy-item"><strong>Useful visuals only</strong><p>Images and code diagrams are included where they solve a puzzle or prevent a route mistake. Decorative screenshots do not replace written instructions.</p></div>
-                <div class="policy-item"><strong>Corrections stay easy</strong><p>Every map includes external references, and the correction template records game, map, platform, route, and the exact disputed step.</p></div>
-              </div>
-            </div>
-            <div>
-              <div class="guide-section-heading"><h2>Coverage</h2><p>${data.stats.maps} entries across ${data.stats.games} titles and modes</p></div>
-              <table class="coverage-table"><thead><tr><th>Game</th><th>Maps</th><th>Main</th><th>Side</th><th>Status</th></tr></thead><tbody>${data.games.map((game) => {
-                const main = game.maps.reduce((sum, map) => sum + map.mainQuests.length, 0);
-                const side = game.maps.reduce((sum, map) => sum + map.sideQuests.length, 0);
-                const current = game.maps.some((map) => map.status === 'current');
-                const upcoming = game.maps.some((map) => map.status === 'upcoming');
-                const status = upcoming ? 'Current + upcoming' : current ? 'Current live archive' : 'Source checked';
-                const cls = upcoming ? 'upcoming' : current ? 'current' : '';
-                return `<tr><td>${escapeHtml(game.title)}</td><td>${game.maps.length}</td><td>${main}</td><td>${side}</td><td><span class="status-dot ${cls}"></span>${status}</td></tr>`;
-              }).join('')}</tbody></table>
-            </div>
-          </div>
-        </section>
-      </div>`;
-  }
-
-  function renderNotFound() {
-    setDocumentTitle('Guide Not Found');
-    setAccent('#d65336');
-    view.innerHTML = '<section class="page-shell not-found"><strong>404</strong><h1>Guide not found</h1><p>The requested game or map is not in this archive route.</p><a class="button primary" href="#/">Return to games</a></section>';
-  }
-
-  function parseRoute() {
-    const raw = location.hash || '#/';
-    const withoutHash = raw.slice(1);
-    const [routePart, anchorPart] = withoutHash.split('#');
-    const parts = routePart.replace(/^\//, '').split('/').filter(Boolean).map(decodeURIComponent);
-    return { parts, anchor: anchorPart || '' };
-  }
-
-  function renderRoute() {
-    startRouteTransition();
-    closeSearch();
-    const { parts, anchor } = parseRoute();
     try {
-      if (!parts.length) renderHome();
-      else if (parts[0] === 'game' && gameById.has(parts[1])) renderGame(gameById.get(parts[1]));
-      else if (parts[0] === 'map' && mapById.has(parts[1])) {
-        const entry = mapById.get(parts[1]);
-        renderMap(entry.game, entry.map);
-      } else if (parts[0] === 'tools') renderTools();
-      else if (parts[0] === 'accuracy') renderAccuracy();
-      else renderNotFound();
-      scrollToTopOrAnchor(anchor);
-    } catch (error) {
-      console.error(error);
-      renderNotFound();
-      showToast('A guide rendering error was caught');
-    } finally {
-      finishRouteTransition();
-      mobileNav.hidden = true;
-      mobileMenuButton.setAttribute('aria-expanded', 'false');
+      progress = readProgress(localStorage.getItem(storageKey), guides);
+    } catch {
+      storageAvailable = false;
     }
+    updateBadge();
+    render();
+    window.addEventListener("hashchange", render);
+    window.addEventListener("storage", (event) => {
+      if (event.key === storageKey) {
+        progress = readProgress(event.newValue, guides);
+        updateBadge();
+        render();
+      }
+    });
+  } catch (error) {
+    main.innerHTML = `<section class="wrap page-top"><div class="empty"><h1>The archive couldn’t load.</h1><p>Reload the page to retry. If you opened index.html directly, use the local server described in the README.</p><p>${e(error.message)}</p><button class="button" id="reload">Try again</button></div></section>`;
+    document
+      .getElementById("reload")
+      .addEventListener("click", () => location.reload());
   }
+}
 
-  function performSearch(query) {
-    const terms = query.trim().toLowerCase().split(/\s+/).filter(Boolean);
-    if (!terms.length) return [];
-    return searchIndex
-      .map((item) => {
-        let score = 0;
-        const title = item.title.toLowerCase();
-        terms.forEach((term) => {
-          if (title === term) score += 20;
-          else if (title.startsWith(term)) score += 12;
-          else if (title.includes(term)) score += 8;
-          if (item.haystack.includes(term)) score += 2;
-        });
-        return { ...item, score };
-      })
-      .filter((item) => item.score >= terms.length * 2)
-      .sort((a, b) => b.score - a.score || a.title.localeCompare(b.title))
-      .slice(0, 12);
-  }
+document.querySelector(".skip-link").addEventListener("click", (event) => {
+  event.preventDefault();
+  main.focus();
+  main.scrollIntoView();
+});
 
-  function updateSearch() {
-    const query = searchInput.value;
-    const results = performSearch(query);
-    searchSelection = -1;
-    if (!query.trim()) {
-      searchPopover.hidden = true;
-      searchPopover.innerHTML = '';
-      return;
-    }
-    searchPopover.hidden = false;
-    searchPopover.innerHTML = results.length ? results.map((item, index) => `
-      <a class="search-result" href="${escapeHtml(item.hash)}" data-search-index="${index}">
-        <span class="search-result-icon">${escapeHtml(item.type.split(' ').map((word) => word[0]).join('').slice(0, 2))}</span>
-        <span><strong>${escapeHtml(item.title)}</strong><small>${escapeHtml(item.subtitle)}</small></span>
-        <em>${escapeHtml(item.type)}</em>
-      </a>`).join('') : '<div class="search-empty">No matching game, map, quest, code, or step.</div>';
-  }
-
-  function closeSearch() {
-    searchPopover.hidden = true;
-    searchSelection = -1;
-  }
-
-  searchInput.addEventListener('input', updateSearch);
-  searchInput.addEventListener('focus', updateSearch);
-  searchInput.addEventListener('keydown', (event) => {
-    const results = [...searchPopover.querySelectorAll('.search-result')];
-    if (event.key === 'ArrowDown' && results.length) {
-      event.preventDefault();
-      searchSelection = clamp(searchSelection + 1, 0, results.length - 1);
-    } else if (event.key === 'ArrowUp' && results.length) {
-      event.preventDefault();
-      searchSelection = clamp(searchSelection - 1, 0, results.length - 1);
-    } else if (event.key === 'Enter' && searchSelection >= 0 && results[searchSelection]) {
-      event.preventDefault();
-      results[searchSelection].click();
-    } else if (event.key === 'Escape') {
-      closeSearch();
-      searchInput.blur();
-    }
-    results.forEach((item, index) => item.classList.toggle('active', index === searchSelection));
-    results[searchSelection]?.scrollIntoView({ block: 'nearest' });
-  });
-
-  document.addEventListener('click', (event) => {
-    if (!event.target.closest('.header-search')) closeSearch();
-  });
-
-  document.addEventListener('keydown', (event) => {
-    const tag = document.activeElement?.tagName;
-    const typing = ['INPUT', 'TEXTAREA', 'SELECT'].includes(tag) || document.activeElement?.isContentEditable;
-    if (event.key === '/' && !typing) {
-      event.preventDefault();
-      searchInput.focus();
-      searchInput.select();
-    }
-    if (event.key === 'Escape' && !imageModal.hidden) closeImageModal();
-  });
-
-  mobileMenuButton.addEventListener('click', () => {
-    const open = mobileNav.hidden;
-    mobileNav.hidden = !open;
-    mobileMenuButton.setAttribute('aria-expanded', String(open));
-  });
-  mobileNav.addEventListener('click', () => {
-    mobileNav.hidden = true;
-    mobileMenuButton.setAttribute('aria-expanded', 'false');
-  });
-
-  imageModal.querySelector('.modal-close').addEventListener('click', closeImageModal);
-  imageModal.addEventListener('click', (event) => { if (event.target === imageModal) closeImageModal(); });
-
-  correctionButton.addEventListener('click', () => {
-    const template = `Dead Drop correction\nGame:\nMap:\nPlatform/version:\nQuest or side Easter egg:\nStep number/title:\nWhat the guide currently says:\nWhat is incorrect or missing:\nEvidence/source link:\nIn-game success cue:`;
-    copyText(template, 'Correction template copied');
-  });
-
-  window.addEventListener('hashchange', renderRoute);
-  renderRoute();
-})();
+load();
