@@ -4,6 +4,8 @@ A static Call of Duty Zombies field manual, hosted on GitHub Pages.
 
 Choose a game, choose a map, and open a quest. Each map has search and category filters for main quests, side quests, weapons/buildables and music. Original walkthroughs and attributed community topics have saved checklists. Community topics preserve nested upgrade instructions, locations, tables and source caveats. Progress stays on the current browser and device.
 
+Guide headers link directly to setup, steps, sources and the full map reference when available. Phone layouts include collapsible step/chapter navigation. Jumps move keyboard focus to the selected section; selecting a source chapter also clears a search that hid it. Guide data is revalidated on load so published corrections can replace cached instructions.
+
 ## Content and coverage
 
 The catalog indexes 19 games and spin-offs and 145 map/mode entries as of October 16, 2026. Original releases, remasters, survival variants, and arcade modes have separate entries. Custom maps, mods, campaign reskins, and temporary Warzone events are outside the catalog.

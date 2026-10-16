@@ -857,6 +857,15 @@ nav a[aria-current]:after {
   color: var(--accent);
   padding-top: 2px;
 }
+.mobile-chapters {
+  display: none;
+}
+.guide-quick-links a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  font-size: 12px;
+}
 .reader-controls {
   border: 1px solid var(--line);
   padding: 17px;
@@ -1513,6 +1522,36 @@ nav a[aria-current]:after {
   .reader-sidebar h2 {
     display: none;
   }
+  .mobile-chapters {
+    display: block;
+    border: 1px solid var(--line);
+    margin-bottom: 20px;
+    background: var(--panel);
+  }
+  .mobile-chapters summary {
+    padding: 13px 17px;
+    cursor: pointer;
+    color: var(--green);
+    font-size: 13px;
+  }
+  .mobile-chapters nav {
+    max-height: 55vh;
+    overflow-y: auto;
+    padding: 0 17px 10px;
+  }
+  .mobile-chapters a {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    min-height: 44px;
+    padding: 9px 0;
+    border-top: 1px solid var(--line);
+    font-size: 12px;
+  }
+  .mobile-chapters a span {
+    color: var(--accent);
+    font: 10px var(--mono);
+  }
   .reader-controls {
     padding: 17px;
     margin-bottom: 20px;
@@ -1639,6 +1678,8 @@ nav a[aria-current]:after {
   .reader-sidebar,
   .breadcrumbs,
   .guide-header .guide-tags,
+  .guide-quick-links,
+  .sources-list [data-scroll],
   .reader-buttons,
   #toast,
   .community-search {
