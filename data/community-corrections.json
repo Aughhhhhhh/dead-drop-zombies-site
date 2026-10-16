@@ -470,7 +470,57 @@
     ],
     "supplementNote": "An original practical instruction replaces the source’s incorrect 30-second statistic. Independent original Black Ops player guides describe about eight seconds; the shared card avoids imposing one exact timer on every edition.",
     "checked": "2026-10-16",
-    "sourceQuote": null
+    "sourceQuote": null,
+    "mapOverrides": {
+      "bo1-five": {
+        "title": "Monkey Bombs — Box distraction",
+        "summary": "Get them from the Box and throw early enough for the wind-up.",
+        "difficulty": "Easy",
+        "players": "1–4",
+        "requirements": [
+          "Version: original BO1 on PC, PS3 or Xbox 360.",
+          "Mystery Box access",
+          "A safe throwing position"
+        ],
+        "reward": "A brief zombie distraction followed by an explosion.",
+        "steps": [
+          {
+            "title": "Get and replenish them",
+            "body": "Claim Monkey Bombs from the Mystery Box. You can carry 3; Max Ammo replenishes them. Use the special-grenade control to throw one.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/five/"
+          },
+          {
+            "title": "Throw onto playable floor",
+            "body": "Throw before zombies surround you; the arming animation takes time. Once it lands and activates, use the distraction to revive or move. Throws outside the playable area can fail. The Pentagon Thief ignores them.",
+            "original": true,
+            "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=1133914856"
+          }
+        ],
+        "checked": "2026-10-16",
+        "sources": [
+          {
+            "title": "r/CODZombies — Five community guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/five/"
+          },
+          {
+            "title": "Nosfrat — firsthand BO1 weapon guide",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=121313832"
+          },
+          {
+            "title": "toxi — firsthand BO1 Five strategy",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1133914856"
+          }
+        ],
+        "relatedGuideIds": [
+          "bo1-five-community-five-map-walkthrough-pack-a-punch",
+          "bo1-five-community-five-map-walkthrough-pentagon-thief"
+        ],
+        "sharedSource": false,
+        "sourceQuote": null,
+        "supplementNote": "Original BO1 instructions replace the affected community passage. Other editions keep their own instructions."
+      }
+    }
   },
   "the-giant-special-weapons-monkey-bombs": {
     "steps": [
@@ -8827,5 +8877,1376 @@
         "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-tomb/"
       }
     ]
+  },
+  "ix-map-features-gauntlet-challenges": {
+    "title": "Veni, Vidi, Zombie! (Normal): source conditions",
+    "category": "main",
+    "players": "Solo or co-op",
+    "difficulty": "Normal Gauntlet",
+    "summary": "An IX checklist with setup links and a creator video chapter for every round.",
+    "requirements": [
+      "Choose IX > Gauntlet > Veni, Vidi, Zombie! (Normal). These are fixed Gauntlet objectives, separate from the story quest.",
+      "Build the shield for round 5; prepare the MOG 12 for 4, 17 and 27, two fully-packed guns for 22, and four base perks for 28.",
+      "Failed objectives give strikes; three strikes end the run. The mode is timed.",
+      "Related setup guides show part and machine locations; the Gauntlet HUD determines allowed actions. Death of Orion is optional."
+    ],
+    "reward": "Medals and tiered rewards at rounds 10, 20 and 30; an extra cosmetic for completing round 30 without a strike.",
+    "sourceOmissions": [
+      "Final PC parity, co-op ownership checks and exceptional weapon interactions remain pending."
+    ],
+    "relatedGuideIds": [
+      "bo4-ix-veni-vidi-zombie-normal-30-rounds",
+      "bo4-ix-community-ix-map-features-brazen-bull",
+      "bo4-ix-community-ix-map-features-pack-a-punch",
+      "bo4-ix-community-ix-map-features-traps",
+      "bo4-ix-community-ix-map-features-death-of-orion"
+    ],
+    "checked": "2026-10-16",
+    "sources": [
+      {
+        "title": "r/CODZombies: IX community guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/ix/"
+      },
+      {
+        "title": "u/iScabs: original IX challenge-menu capture",
+        "url": "https://www.reddit.com/r/Blackops4/comments/alsw92/all_ix_gauntlet_challenges/"
+      },
+      {
+        "title": "u/iScabs and u/Exetlery: Gauntlet Fury and automatic teleport",
+        "url": "https://www.reddit.com/r/CODZombies/comments/alsye1/all_ix_gauntlet_challenges/"
+      },
+      {
+        "title": "MysteryHQ: original solo no-strike IX walkthrough and creator chapters",
+        "url": "https://www.youtube.com/watch?v=Nvwi2_Ud_GU"
+      },
+      {
+        "title": "Fast Guides Glitch: independent IX solo completion walkthrough",
+        "url": "https://www.youtube.com/watch?v=ZptAaP6xPKU"
+      },
+      {
+        "title": "Treyarch: January 29 IX Gauntlet launch on PS4",
+        "url": "https://www.reddit.com/r/Blackops4/comments/al3hc3/jan_29_update_112_update_begins_rolling_out_today/"
+      },
+      {
+        "title": "Treyarch: February 5 IX Gauntlet on all platforms",
+        "url": "https://www.reddit.com/r/Blackops4/comments/anizbe/feb_5_update_mercenary_hardcore_nuketown_featured/"
+      },
+      {
+        "title": "Treyarch: February 19 IX perk and crouch corrections",
+        "url": "https://www.reddit.com/r/Blackops4/comments/asfl1k/feb_19_update_operation_grand_heist_begins_on_ps4/"
+      }
+    ]
+  },
+  "blood-of-the-dead-map-features-gauntlet-challenges": {
+    "title": "Hellcatraz (Normal, console): source conditions",
+    "category": "main",
+    "players": "Solo or co-op; console conditions",
+    "difficulty": "Normal Gauntlet",
+    "summary": "A console checklist with setup links, nearby video sections and the documented PC round-3 warning.",
+    "requirements": [
+      "Choose Blood of the Dead > Gauntlet > Hellcatraz (Normal). This checklist follows the console menu.",
+      "PC round 3 was documented as Tower Defense (movement causes damage) instead of console WTF (reversed controls). Follow the live rule on PC.",
+      "Plan the Shield, Pack-a-Punch, Retriever and Spoon early. Round 6 replaces guns; round 17 requires forging during that round.",
+      "Use the linked practical checklist for the equipment deadlines, individual counters and nearby video sections."
+    ],
+    "reward": "Medals and tiered rewards at rounds 10, 20 and 30; an extra cosmetic for completing round 30 without a strike.",
+    "sourceOmissions": [
+      "Console round 26 means M1927; the wiki's MI927 spelling is a typo.",
+      "PC round 3 was recorded as Tower Defense, where movement causes damage. The quoted table follows the console menu."
+    ],
+    "relatedGuideIds": [
+      "bo4-blood-hellcatraz-normal-console-30-rounds",
+      "bo4-blood-of-the-dead-community-blood-of-the-dead-map-features-spectral-shield",
+      "bo4-blood-of-the-dead-community-blood-of-the-dead-map-features-pack-a-punch",
+      "bo4-blood-of-the-dead-community-blood-of-the-dead-map-features-hell-s-retriever",
+      "bo4-blood-of-the-dead-community-blood-of-the-dead-map-features-spoon",
+      "bo4-blood-of-the-dead-community-blood-of-the-dead-map-features-magmagat",
+      "bo4-blood-of-the-dead-community-blood-of-the-dead-map-features-traps",
+      "bo4-blood-of-the-dead-community-blood-of-the-dead-map-features-fast-travel"
+    ],
+    "checked": "2026-10-16",
+    "sources": [
+      {
+        "title": "r/CODZombies: Blood of the Dead community guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/blood-of-the-dead/"
+      },
+      {
+        "title": "Original player-posted Hellcatraz console challenge menu",
+        "url": "https://www.reddit.com/r/CODZombies/comments/b0dbgq/spoiler_all_30_hellcatraz_gauntlet_challenges/"
+      },
+      {
+        "title": "dkdynamite: original co-op Hellcatraz walkthrough",
+        "url": "https://www.youtube.com/watch?v=3_xtvseII9w"
+      },
+      {
+        "title": "u/OfficialSeidon: played Hellcatraz mechanics and PC round-3 correction",
+        "url": "https://www.reddit.com/r/CODZombies/comments/b3ceko/some_nifty_stuff_i_figured_out_regarding/"
+      },
+      {
+        "title": "r/CODZombies: played Hellcatraz preparation tips",
+        "url": "https://www.reddit.com/r/CODZombies/comments/i290zg/hellcatraz_tips/"
+      },
+      {
+        "title": "Taco and dkdynamite: original Hellcatraz walkthrough notes",
+        "url": "https://theundeadzone.com/hellcatraz-blood-of-the-dead-gauntlet-guide/"
+      },
+      {
+        "title": "Activision: March 12 PS4 Hellcatraz release and rules",
+        "url": "https://blog.activision.com/ca/en/call-of-duty/2019-03/The-Black-Ops-Pass-Multiplayer-Maps-Free-Access-Weekend-Starts-Today-Plus-Spring-Forward-to-Check-out-the-Brand-New-Call-of-Duty-Black-Ops-4-Content"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Instructions & locations",
+        "body": "Round 1: Sacred Ground - Do not allow any Zombies to enter Richtofen's lab. * Round 2: Jump Shot - Player can only attack while jumping. * Round 3: WTF - Movement controls are reversed. * Round 4: Load of Nonsense - Weapons must be reloaded after every shot if ammo is available. * Round 5: Fish In A Barrel - Use the Swordfish only. * Round 6: Dead Eye - All weapons replaced - SDM ADS only. * Round 7: Shut Your Trap - Kill Zombies with Traps only. * Round 8: A.iming D.oes S.ting - ADS causes damage. * Round 9: Helluva Appetite - At least one player must possess Hell's Retriever at the end of the round. * Round 10: Rooftop Party - Defend the roof. * Round 11: Zombies Noir - It's black and white. * Round 12: Brain Soup - Get at least 20 Spoon kills by round end. Unrelated weapons are locked out. * Round 13: Snooze You Lose - Sprint to avoid point drain. Slower movement drains points faster. * Round 14: Total RePack - Possess a fully packed weapon at the end of the round. * Round 15: Power Through - Defend the Power House * Round 16: Shoot Mo'Zombies - Use the Mozu only. * Round 17: Oh My Gat! - Forge the Magmagat during the round. * Round 18: Sacrificial Packed - Sacrifice 2 weapons to the Pack-A-Punch Machine. * Round 19: Japanese Horror - Survive the Terror. * Round 20: Shower Showdown - Defend the Showers. * Round 21: Prone To Regeneration - Health regeneration only works while prone. * Round 22: Pointless - Points are reset to zero. * Round 23: Unattached - Only kills via weapons without attachments are allowed. * Round 24: Lockdown - All doors are sealed for the round. * Round 25: Stand Firm - Defend the Infirmary. * Round 26: Mobster - Use the MI927 only. * Round 27: I'm Out! - All ammo is reset to zero. * Round 28: Keep It Hot - Travel through Hell Holes before timer expires. * Round 29: Who Let The Hounds Out? - Survive a Hellhound onslaught. * Round 30: The Warden's Last Stand - Defend the Warden's House.",
+        "html": "<ul>\n<li>Round 1: Sacred Ground - Do not allow any Zombies to enter Richtofen&#x27;s lab.</li>\n<li>Round 2: Jump Shot - Player can only attack while jumping.</li>\n<li>Round 3: WTF - Movement controls are reversed.</li>\n<li>Round 4: Load of Nonsense - Weapons must be reloaded after every shot if ammo is available.</li>\n<li>Round 5: Fish In A Barrel - Use the Swordfish only.</li>\n<li>Round 6: Dead Eye - All weapons replaced - SDM ADS only.</li>\n<li>Round 7: Shut Your Trap - Kill Zombies with Traps only.</li>\n<li>Round 8: A.iming D.oes S.ting - ADS causes damage.</li>\n<li>Round 9: Helluva Appetite - At least one player must possess Hell&#x27;s Retriever at the end of the round.</li>\n<li>Round 10: Rooftop Party - Defend the roof.</li>\n<li>Round 11: Zombies Noir - It&#x27;s black and white.</li>\n<li>Round 12: Brain Soup - Get at least 20 Spoon kills by round end. Unrelated weapons are locked out.</li>\n<li>Round 13: Snooze You Lose - Sprint to avoid point drain. Slower movement drains points faster.</li>\n<li>Round 14: Total RePack - Possess a fully packed weapon at the end of the round.</li>\n<li>Round 15: Power Through - Defend the Power House</li>\n<li>Round 16: Shoot Mo&#x27;Zombies - Use the Mozu only.</li>\n<li>Round 17: Oh My Gat! - Forge the Magmagat during the round.</li>\n<li>Round 18: Sacrificial Packed - Sacrifice 2 weapons to the Pack-A-Punch Machine.</li>\n<li>Round 19: Japanese Horror - Survive the Terror.</li>\n<li>Round 20: Shower Showdown - Defend the Showers.</li>\n<li>Round 21: Prone To Regeneration - Health regeneration only works while prone.</li>\n<li>Round 22: Pointless - Points are reset to zero.</li>\n<li>Round 23: Unattached - Only kills via weapons without attachments are allowed.</li>\n<li>Round 24: Lockdown - All doors are sealed for the round.</li>\n<li>Round 25: Stand Firm - Defend the Infirmary.</li>\n<li>Round 26: Mobster - Use the MI927 only.</li>\n<li>Round 27: I&#x27;m Out! - All ammo is reset to zero.</li>\n<li>Round 28: Keep It Hot - Travel through Hell Holes before timer expires.</li>\n<li>Round 29: Who Let The Hounds Out? - Survive a Hellhound onslaught.</li>\n<li>Round 30: The Warden&#x27;s Last Stand - Defend the Warden&#x27;s House.</li>\n</ul>\n<hr>",
+        "tip": "Round 26 uses the M1927. On PC, read the live round-3 rule: a firsthand PC build used movement damage instead of reversed controls. The related Normal checklist separates setup deadlines and video sections."
+      }
+    ]
+  },
+  "kino-der-toten-easter-eggs-elena-siegman-115-song-music-easter-egg": {
+    "mapOverrides": {
+      "bo1-kino-der-toten": {
+        "title": "115 — three meteor fragments",
+        "summary": "The lobby jar, MP5K dressing-room stand and upstairs storage shelf.",
+        "difficulty": "Easy",
+        "players": "1–4",
+        "requirements": [
+          "Version: original BO1 on PC, PS3 or Xbox 360.",
+          "Open access to the dressing room and the storage room above the alley"
+        ],
+        "reward": "115 by Kevin Sherwood and Elena Siegman plays once per match.",
+        "steps": [
+          {
+            "title": "Lobby: glass jar",
+            "body": "Hold interact on the fragment inside the glass jar by the lower lobby window, beneath the balcony near Quick Revive. Listen for the character’s acknowledgment.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/",
+            "images": [
+              {
+                "src": "./assets/classic-batch4-kino-steam-02.webp",
+                "alt": "BO1 lobby meteor fragment inside its glass jar.",
+                "caption": "BO1 lobby meteor fragment inside its glass jar.",
+                "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3375011100",
+                "credit": "Monkey / Steam Community / Activision"
+              }
+            ]
+          },
+          {
+            "title": "Dressing room: stand behind mannequins",
+            "body": "Enter the MP5K dressing room between Speed Cola and the stage. Hold interact on the fragment on the black stand behind the mannequins.",
+            "original": true,
+            "researchSource": "https://mmmrkennedy.com/games/BO1/kino_der_toten/kino_der_toten_guide",
+            "images": [
+              {
+                "src": "./assets/classic-batch4-kino-steam-03.webp",
+                "alt": "Dressing-room fragment on the stand behind the mannequins.",
+                "caption": "Dressing-room fragment on the stand behind the mannequins.",
+                "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3375011100",
+                "credit": "Monkey / Steam Community / Activision"
+              },
+              {
+                "src": "./assets/classic-batch4-kino-der-toten-rock_dressing_room.webp",
+                "alt": "Wider BO1 view of the MP5K dressing-room fragment corner.",
+                "caption": "Wider BO1 view of the MP5K dressing-room fragment corner.",
+                "source": "https://mmmrkennedy.com/games/BO1/kino_der_toten/kino_der_toten_guide",
+                "credit": "mmmrkennedy / Activision"
+              }
+            ]
+          },
+          {
+            "title": "Upstairs storage: shelf with letters",
+            "body": "Take the stairs from the alley into the small storage room above it. Hold interact on the fragment on the lower shelf among the loose letters. Any order works; the third registered fragment starts 115 once that match.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/",
+            "images": [
+              {
+                "src": "./assets/classic-batch4-kino-steam-04.webp",
+                "alt": "Storage-room fragment on the shelf among scattered letters.",
+                "caption": "Storage-room fragment on the shelf among scattered letters.",
+                "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3375011100",
+                "credit": "Monkey / Steam Community / Activision"
+              }
+            ],
+            "tip": "Use interact while close. Shooting the rocks does not register them."
+          }
+        ],
+        "checked": "2026-10-16",
+        "sources": [
+          {
+            "title": "r/CODZombies — Kino community guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/"
+          },
+          {
+            "title": "mmmrkennedy — Kino BO1 locator screenshots and shared-version guide",
+            "url": "https://mmmrkennedy.com/games/BO1/kino_der_toten/kino_der_toten_guide"
+          },
+          {
+            "title": "Monkey — BO1 Kino secrets and original screenshots",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3375011100"
+          }
+        ],
+        "relatedGuideIds": [
+          "bo1-kino-der-toten-community-kino-der-toten-map-walkthrough-power"
+        ],
+        "sharedSource": false,
+        "sourceQuote": null,
+        "supplementNote": "Original BO1 instructions replace the affected community passage. Other editions keep their own instructions."
+      }
+    }
+  },
+  "kino-der-toten-map-walkthrough-power": {
+    "mapOverrides": {
+      "bo1-kino-der-toten": {
+        "title": "Power — theatre stage",
+        "summary": "Follow either outer route to the stage and use the lever beside the M16.",
+        "difficulty": "Easy",
+        "players": "1–4",
+        "requirements": [
+          "Version: original BO1 on PC, PS3 or Xbox 360.",
+          "Open a route from the lobby to the theatre stage"
+        ],
+        "reward": "Powers the teleporter, traps and perk machines; opens the stage curtain and lobby passage.",
+        "steps": [
+          {
+            "title": "Reach the M16 side of the stage",
+            "body": "A straightforward route is lobby upstairs → PM63 portrait room → Speed Cola foyer → MP5K dressing room → stage. Find the power lever beside the M16 wall buy and hold interact. The lever itself is free.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/",
+            "images": [
+              {
+                "src": "./assets/classic-batch4-kino-der-toten-power.webp",
+                "alt": "BO1 stage power lever beside the M16 side of the curtain.",
+                "caption": "BO1 stage power lever beside the M16 side of the curtain.",
+                "source": "https://mmmrkennedy.com/games/BO1/kino_der_toten/kino_der_toten_guide",
+                "credit": "mmmrkennedy / Activision"
+              }
+            ]
+          }
+        ],
+        "checked": "2026-10-16",
+        "sources": [
+          {
+            "title": "r/CODZombies — Kino community guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/"
+          },
+          {
+            "title": "hXcHector — firsthand BO1 Kino walkthrough",
+            "url": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/kino-der-toten/"
+          },
+          {
+            "title": "mmmrkennedy — Kino BO1 locator screenshots and shared-version guide",
+            "url": "https://mmmrkennedy.com/games/BO1/kino_der_toten/kino_der_toten_guide"
+          }
+        ],
+        "relatedGuideIds": [
+          "bo1-kino-der-toten-community-kino-der-toten-map-walkthrough-pack-a-punch"
+        ],
+        "sharedSource": false,
+        "sourceQuote": null,
+        "supplementNote": "Original BO1 instructions replace the affected community passage. Other editions keep their own instructions."
+      }
+    }
+  },
+  "kino-der-toten-map-walkthrough-pack-a-punch": {
+    "mapOverrides": {
+      "bo1-kino-der-toten": {
+        "title": "Pack-a-Punch — link both pads",
+        "summary": "Stage first, lobby second, then return to the stage. Take 5,000 points for each upgrade.",
+        "difficulty": "Easy",
+        "players": "1–4",
+        "requirements": [
+          "Version: original BO1 on PC, PS3 or Xbox 360.",
+          "Power on",
+          "5,000 points per weapon upgrade"
+        ],
+        "reward": "Access to the projector-room Pack-a-Punch.",
+        "steps": [
+          {
+            "title": "Start the link on the stage",
+            "body": "Stand inside the stage teleporter and hold interact to start linking.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/",
+            "images": [
+              {
+                "src": "./assets/classic-batch4-kino-der-toten-mainframe.webp",
+                "alt": "BO1 stage teleporter where the linking sequence starts.",
+                "caption": "BO1 stage teleporter where the linking sequence starts.",
+                "source": "https://mmmrkennedy.com/games/BO1/kino_der_toten/kino_der_toten_guide",
+                "credit": "mmmrkennedy / Activision"
+              }
+            ]
+          },
+          {
+            "title": "Confirm on the lobby pad",
+            "body": "Return through the opened theatre passage to the circular spawn pad. Hold interact to finish the link.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/",
+            "images": [
+              {
+                "src": "./assets/classic-batch4-kino-der-toten-teleporter_pad.webp",
+                "alt": "The linked circular pad in the BO1 lobby.",
+                "caption": "The linked circular pad in the BO1 lobby.",
+                "source": "https://mmmrkennedy.com/games/BO1/kino_der_toten/kino_der_toten_guide",
+                "credit": "mmmrkennedy / Activision"
+              }
+            ]
+          },
+          {
+            "title": "Teleport and upgrade promptly",
+            "body": "Return to the stage teleporter, gather the players who want to travel inside, then activate it. Pay Pack-a-Punch 5,000 and reclaim the weapon before the timed return; you have about 30 seconds. The clock above the machine shows the countdown.",
+            "original": true,
+            "researchSource": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/kino-der-toten/",
+            "images": [
+              {
+                "src": "./assets/classic-batch4-kino-steam-18.webp",
+                "alt": "BO1 projector room, Pack-a-Punch and countdown clock.",
+                "caption": "BO1 projector room, Pack-a-Punch and countdown clock.",
+                "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3375011100",
+                "credit": "Monkey / Steam Community / Activision"
+              }
+            ]
+          },
+          {
+            "title": "Wait, then link again",
+            "body": "After returning, wait until the teleporter offers the link prompt again. Repeat the stage → lobby link for another trip. A random return room may briefly appear; use those stops for the film-reel companion.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/"
+          }
+        ],
+        "checked": "2026-10-16",
+        "sources": [
+          {
+            "title": "r/CODZombies — Kino community guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/"
+          },
+          {
+            "title": "hXcHector — firsthand BO1 Kino walkthrough",
+            "url": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/kino-der-toten/"
+          },
+          {
+            "title": "mmmrkennedy — Kino BO1 locator screenshots and shared-version guide",
+            "url": "https://mmmrkennedy.com/games/BO1/kino_der_toten/kino_der_toten_guide"
+          }
+        ],
+        "relatedGuideIds": [
+          "bo1-kino-der-toten-community-kino-der-toten-map-walkthrough-power",
+          "bo1-kino-der-toten-film-reels"
+        ],
+        "sharedSource": false,
+        "sourceQuote": null,
+        "supplementNote": "Original BO1 instructions replace the affected community passage. Other editions keep their own instructions."
+      }
+    }
+  },
+  "kino-der-toten-map-walkthrough-traps": {
+    "mapOverrides": {
+      "bo1-kino-der-toten": {
+        "title": "Traps — electric, fire and turrets",
+        "summary": "Electric/fire traps cost 1,000; both automatic turrets cost 1,500 in BO1.",
+        "difficulty": "Easy",
+        "players": "1–4",
+        "requirements": [
+          "Version: original BO1 on PC, PS3 or Xbox 360.",
+          "Power on",
+          "Open the room containing the chosen trap",
+          "1,000 points for electric/fire; 1,500 for a turret"
+        ],
+        "reward": "A temporary defensive trap. Active traps and turret fire can also hurt players.",
+        "steps": [
+          {
+            "title": "Choose an electric doorway — 1,000",
+            "body": "Find switches at four positions: the PM63 upper hall; the lobby–theatre passage; the dressing-room entrance to the stage; and the storage room above the alley. Check the switch prompt before paying.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/",
+            "images": [
+              {
+                "src": "./assets/classic-batch4-kino-der-toten-mannequins.webp",
+                "alt": "BO1 dressing room looking toward the stage; its electric-trap control is on the right wall.",
+                "caption": "BO1 dressing room looking toward the stage; its electric-trap control is on the right wall.",
+                "source": "https://mmmrkennedy.com/games/BO1/kino_der_toten/kino_der_toten_guide",
+                "credit": "mmmrkennedy / Activision"
+              }
+            ]
+          },
+          {
+            "title": "Fire pit — 1,000",
+            "body": "In the downstairs MPL room between lobby and alley, activate the red trap control. Stay beside the pit and use the path around it; avoid running through the fire.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/"
+          },
+          {
+            "title": "Turrets — 1,500 each",
+            "body": "Use the automatic turret on the theatre floor near the teleporter, or the one in the Speed Cola foyer. Keep clear of its firing line. A turret is a different purchase from the 1,000-point electric/fire traps.",
+            "original": true,
+            "researchSource": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/kino-der-toten/"
+          },
+          {
+            "title": "Let the trap reset",
+            "body": "Lure zombies through the active trap while staying out of its damage area. Wait until its switch is ready before paying again; an inactive-looking control during cooldown is not a missing build part.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/"
+          }
+        ],
+        "checked": "2026-10-16",
+        "sources": [
+          {
+            "title": "r/CODZombies — Kino community guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/"
+          },
+          {
+            "title": "hXcHector — firsthand BO1 Kino walkthrough",
+            "url": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/kino-der-toten/"
+          },
+          {
+            "title": "2010 player weapon/mechanics guide, preserved from CallofDuty.com forums",
+            "url": "https://nextgenupdate.com/forums/call-duty-black-ops/264399-the-ultimate-black-ops-zombie-guide-depth.html"
+          },
+          {
+            "title": "CoD Wiki — four Kino electric-trap locations",
+            "url": "https://callofduty.fandom.com/wiki/Electro-Shock_Defenses"
+          }
+        ],
+        "relatedGuideIds": [
+          "bo1-kino-der-toten-community-kino-der-toten-map-walkthrough-power"
+        ],
+        "sharedSource": false,
+        "sourceQuote": null,
+        "supplementNote": "Original BO1 instructions replace the affected community passage. Other editions keep their own instructions."
+      }
+    }
+  },
+  "kino-der-toten-special-weapons-the-wonder-weapon": {
+    "mapOverrides": {
+      "bo1-kino-der-toten": {
+        "title": "Thundergun — Mystery Box",
+        "summary": "A random Box weapon for one holder at a time. The Ray Gun is also available on BO1 Kino.",
+        "difficulty": "Easy",
+        "players": "1–4",
+        "requirements": [
+          "Version: original BO1 on PC, PS3 or Xbox 360.",
+          "Mystery Box access",
+          "950 points per normal Box pull; the result is random"
+        ],
+        "reward": "Thundergun: two loaded shots and 12 in reserve.",
+        "steps": [
+          {
+            "title": "Claim it from the Mystery Box",
+            "body": "Use the active Box until it offers the Thundergun, then hold interact to take it. Only one player can hold it at a time. Check the lit Box-location board after power if the Box moves.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/",
+            "images": [
+              {
+                "src": "./assets/classic-batch4-kino-steam-19.webp",
+                "alt": "Thundergun offered by the BO1 Kino Mystery Box.",
+                "caption": "Thundergun offered by the BO1 Kino Mystery Box.",
+                "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3375011100",
+                "credit": "Monkey / Steam Community / Activision"
+              }
+            ]
+          },
+          {
+            "title": "Use it at close range",
+            "body": "The blast clears nearby zombies; distant targets can be knocked over instead of killed. It holds 2 shots with 12 in reserve. Fire both loaded shots before reloading.",
+            "original": true,
+            "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=167978998"
+          }
+        ],
+        "checked": "2026-10-16",
+        "sources": [
+          {
+            "title": "r/CODZombies — Kino community guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/"
+          },
+          {
+            "title": "hXcHector — firsthand BO1 Kino walkthrough",
+            "url": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/kino-der-toten/"
+          },
+          {
+            "title": "Joker — firsthand BO1 wonder-weapon guide",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=167978998"
+          }
+        ],
+        "relatedGuideIds": [
+          "bo1-kino-der-toten-community-kino-der-toten-special-weapons-upgraded-wonder-weapon",
+          "bo1-kino-der-toten-ray-gun-upgrade"
+        ],
+        "sharedSource": false,
+        "sourceQuote": null,
+        "supplementNote": "Original BO1 instructions replace the affected community passage. Other editions keep their own instructions."
+      }
+    }
+  },
+  "kino-der-toten-special-weapons-upgraded-wonder-weapon": {
+    "mapOverrides": {
+      "bo1-kino-der-toten": {
+        "title": "Thundergun → Zeus Cannon",
+        "summary": "Upgrade the Thundergun in the projector room for 5,000 points.",
+        "difficulty": "Easy",
+        "players": "1–4",
+        "requirements": [
+          "Version: original BO1 on PC, PS3 or Xbox 360.",
+          "Thundergun",
+          "Linked stage/lobby teleporter",
+          "5,000 points"
+        ],
+        "reward": "Zeus Cannon: 4 loaded shots and 24 in reserve.",
+        "steps": [
+          {
+            "title": "Upgrade during a projector-room visit",
+            "body": "Follow the Pack-a-Punch companion, equip the Thundergun and pay 5,000. Collect the Zeus Cannon before the return teleport.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/",
+            "images": [
+              {
+                "src": "./assets/classic-batch4-kino-steam-18.webp",
+                "alt": "BO1 projector-room Pack-a-Punch used for the Zeus Cannon upgrade.",
+                "caption": "BO1 projector-room Pack-a-Punch used for the Zeus Cannon upgrade.",
+                "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3375011100",
+                "credit": "Monkey / Steam Community / Activision"
+              }
+            ]
+          },
+          {
+            "title": "Empty the chamber before reloading",
+            "body": "The upgrade doubles capacity to 4 loaded shots and 24 in reserve. It still cannot reload partway through the chamber. Keep its close-range blast available for an escape.",
+            "original": true,
+            "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=167978998"
+          }
+        ],
+        "checked": "2026-10-16",
+        "sources": [
+          {
+            "title": "r/CODZombies — Kino community guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/"
+          },
+          {
+            "title": "Joker — firsthand BO1 wonder-weapon guide",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=167978998"
+          }
+        ],
+        "relatedGuideIds": [
+          "bo1-kino-der-toten-community-kino-der-toten-map-walkthrough-pack-a-punch"
+        ],
+        "sharedSource": false,
+        "sourceQuote": null,
+        "supplementNote": "Original BO1 instructions replace the affected community passage. Other editions keep their own instructions."
+      }
+    }
+  },
+  "kino-der-toten-special-weapons-monkey-bombs": {
+    "mapOverrides": {
+      "bo1-kino-der-toten": {
+        "title": "Monkey Bombs — Box distraction",
+        "summary": "Get them from the Box and throw early enough for the wind-up.",
+        "difficulty": "Easy",
+        "players": "1–4",
+        "requirements": [
+          "Version: original BO1 on PC, PS3 or Xbox 360.",
+          "Mystery Box access",
+          "A safe throwing position"
+        ],
+        "reward": "A brief zombie distraction followed by an explosion.",
+        "steps": [
+          {
+            "title": "Get and replenish them",
+            "body": "Claim Monkey Bombs from the Mystery Box. You can carry 3; Max Ammo replenishes them. Use the special-grenade control to throw one.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/"
+          },
+          {
+            "title": "Throw onto playable floor",
+            "body": "Throw before zombies surround you; the arming animation takes time. Once it lands and activates, use the distraction to revive or move. Throws outside the playable area can fail.",
+            "original": true,
+            "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=121313832"
+          }
+        ],
+        "checked": "2026-10-16",
+        "sources": [
+          {
+            "title": "r/CODZombies — Kino community guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/"
+          },
+          {
+            "title": "Nosfrat — firsthand BO1 weapon guide",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=121313832"
+          }
+        ],
+        "relatedGuideIds": [
+          "bo1-kino-der-toten-community-kino-der-toten-map-walkthrough-pack-a-punch"
+        ],
+        "sharedSource": false,
+        "sourceQuote": null,
+        "supplementNote": "Original BO1 instructions replace the affected community passage. Other editions keep their own instructions."
+      }
+    }
+  },
+  "kino-der-toten-easter-eggs-launching-the-pentagon-room-rocket": {
+    "mapOverrides": {
+      "bo1-kino-der-toten": {
+        "title": "Pentagon-room model rocket",
+        "summary": "Launch the tabletop model during a random return stop. BO1 prerequisite reports conflict.",
+        "difficulty": "Easy",
+        "players": "1–4",
+        "requirements": [
+          "Version: original BO1 on PC, PS3 or Xbox 360.",
+          "Power on and linked teleporter",
+          "Repeated Pack-a-Punch trips; the return room is random"
+        ],
+        "reward": "The small model rocket takes off; no weapon or powerup is documented.",
+        "steps": [
+          {
+            "title": "Reach the Pentagon-style return room",
+            "body": "Take the linked stage teleporter and wait through the projector-room visit. Repeat trips until the return stop is the Pentagon-style conference room.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/",
+            "images": [
+              {
+                "src": "./assets/classic-batch4-kino-der-toten-rocket.webp",
+                "alt": "BO1 Pentagon-style return room; the model rocket sits on the central table.",
+                "caption": "BO1 Pentagon-style return room; the model rocket sits on the central table.",
+                "source": "https://mmmrkennedy.com/games/BO1/kino_der_toten/kino_der_toten_guide",
+                "credit": "mmmrkennedy / Activision"
+              }
+            ]
+          },
+          {
+            "title": "Interact with the tabletop rocket",
+            "body": "Move close to the model rocket on the table and hold interact before the room fades. A successful activation makes it launch.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/zt6nhw/"
+          },
+          {
+            "title": "If it remains inert",
+            "body": "Collect and play all 3 film reels, then try another Pentagon-room stop. BO1 players disagree on whether the reels are required. Jumping 5 times at the dressing-room mannequin is not established as a BO1 prerequisite.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/18pz71x/"
+          }
+        ],
+        "checked": "2026-10-16",
+        "sources": [
+          {
+            "title": "r/CODZombies — Kino community guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/"
+          },
+          {
+            "title": "BO1 Kino players — radios, reels and model rocket",
+            "url": "https://www.reddit.com/r/CODZombies/comments/zt6nhw/"
+          },
+          {
+            "title": "Firsthand players compare the BO1 and BO3 rocket triggers",
+            "url": "https://www.reddit.com/r/CODZombies/comments/18pz71x/"
+          },
+          {
+            "title": "mmmrkennedy — Kino BO1 locator screenshots and shared-version guide",
+            "url": "https://mmmrkennedy.com/games/BO1/kino_der_toten/kino_der_toten_guide"
+          },
+          {
+            "title": "CoD Wiki — reported reel candidates and original radio recordings",
+            "url": "https://callofduty.fandom.com/wiki/Kino_der_Toten/Film_Reels_and_Radios"
+          }
+        ],
+        "relatedGuideIds": [
+          "bo1-kino-der-toten-community-kino-der-toten-map-walkthrough-pack-a-punch",
+          "bo1-kino-der-toten-film-reels"
+        ],
+        "sharedSource": false,
+        "sourceQuote": null,
+        "supplementNote": "Original BO1 instructions replace the affected community passage. Other editions keep their own instructions."
+      }
+    }
+  },
+  "five-map-walkthrough-power": {
+    "mapOverrides": {
+      "bo1-five": {
+        "title": "Power — laboratory room 3",
+        "summary": "Use both elevators to reach the Labs and find the switch in room 3.",
+        "difficulty": "Easy",
+        "players": "1–4",
+        "requirements": [
+          "Version: original BO1 on PC, PS3 or Xbox 360.",
+          "Open the Conference Room elevator and a route through the War Room to the cargo elevator"
+        ],
+        "reward": "Turns on teleporters and powered map utilities.",
+        "steps": [
+          {
+            "title": "Descend to the Labs",
+            "body": "Take the Conference Room elevator to the War Room catwalk. Clear a path to the lower floor, enter the large cargo elevator and ride down to the Labs.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/five/"
+          },
+          {
+            "title": "Use the switch in room 3",
+            "body": "From the cargo elevator, continue along the Labs corridor to the second room on the left, marked with a large 3. Hold interact on the wall lever inside. Activating the switch is free.",
+            "original": true,
+            "researchSource": "https://mmmrkennedy.com/games/BO1/five/five_guide",
+            "images": [
+              {
+                "src": "./assets/classic-batch4-five-power_room_outside.webp",
+                "alt": "Large 3 identifies the BO1 Five power-room entrance.",
+                "caption": "Large 3 identifies the BO1 Five power-room entrance.",
+                "source": "https://mmmrkennedy.com/games/BO1/five/five_guide",
+                "credit": "mmmrkennedy / Activision"
+              },
+              {
+                "src": "./assets/classic-batch4-five-power_switch.webp",
+                "alt": "Power lever inside laboratory room 3.",
+                "caption": "Power lever inside laboratory room 3.",
+                "source": "https://mmmrkennedy.com/games/BO1/five/five_guide",
+                "credit": "mmmrkennedy / Activision"
+              }
+            ]
+          }
+        ],
+        "checked": "2026-10-16",
+        "sources": [
+          {
+            "title": "r/CODZombies — Five community guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/five/"
+          },
+          {
+            "title": "mmmrkennedy — Five BO1 locator screenshots",
+            "url": "https://mmmrkennedy.com/games/BO1/five/five_guide"
+          },
+          {
+            "title": "hXcHector — firsthand BO1 Five walkthrough",
+            "url": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/five/"
+          }
+        ],
+        "relatedGuideIds": [
+          "bo1-five-community-five-map-walkthrough-elevators",
+          "bo1-five-community-five-map-walkthrough-pack-a-punch"
+        ],
+        "sharedSource": false,
+        "sourceQuote": null,
+        "supplementNote": "Original BO1 instructions replace the affected community passage. Other editions keep their own instructions."
+      }
+    }
+  },
+  "five-map-walkthrough-elevators": {
+    "mapOverrides": {
+      "bo1-five": {
+        "title": "Elevators — choose a floor",
+        "summary": "Two 250-point lifts connect Conference, War Room and Labs.",
+        "difficulty": "Easy",
+        "players": "1–4",
+        "requirements": [
+          "Version: original BO1 on PC, PS3 or Xbox 360.",
+          "Open access to the chosen elevator",
+          "250 points per ride"
+        ],
+        "reward": "Reliable travel between adjacent floors.",
+        "steps": [
+          {
+            "title": "Conference ↔ upper War Room",
+            "body": "Use the smaller elevator from the Conference Room hallways to the War Room catwalk, or back again. Operating it costs 250 points.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/five/"
+          },
+          {
+            "title": "Lower War Room ↔ Labs",
+            "body": "Use the larger cargo elevator beside the Stakeout on the lower War Room floor to reach the laboratory corridor. It also costs 250 per ride. Zombies can enter a lift with you.",
+            "original": true,
+            "researchSource": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/five/",
+            "images": [
+              {
+                "src": "./assets/classic-batch4-five-defcon_lower_elevator.webp",
+                "alt": "BO1 lower War Room and the cargo-elevator approach; this is not a trap installation point.",
+                "caption": "BO1 lower War Room and the cargo-elevator approach; this is not a trap installation point.",
+                "source": "https://mmmrkennedy.com/games/BO1/five/five_guide",
+                "credit": "mmmrkennedy / Activision"
+              }
+            ]
+          },
+          {
+            "title": "Prepare before a Thief wave",
+            "body": "Move to your intended fighting floor before a Pentagon Thief wave. The elevators are disabled during that wave; use the active teleporters to pursue him.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/five/"
+          }
+        ],
+        "checked": "2026-10-16",
+        "sources": [
+          {
+            "title": "r/CODZombies — Five community guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/five/"
+          },
+          {
+            "title": "hXcHector — firsthand BO1 Five walkthrough",
+            "url": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/five/"
+          },
+          {
+            "title": "toxi — firsthand BO1 Five strategy",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1133914856"
+          }
+        ],
+        "relatedGuideIds": [
+          "bo1-five-community-five-map-walkthrough-power",
+          "bo1-five-community-five-map-walkthrough-pentagon-thief"
+        ],
+        "sharedSource": false,
+        "sourceQuote": null,
+        "supplementNote": "Original BO1 instructions replace the affected community passage. Other editions keep their own instructions."
+      }
+    }
+  },
+  "five-map-walkthrough-teleporters": {
+    "mapOverrides": {
+      "bo1-five": {
+        "title": "Teleporters — normal versus DEFCON 5",
+        "summary": "Power activates eight orbs. DEFCON 5 and Bonfire Sale route them to Pack-a-Punch.",
+        "difficulty": "Easy",
+        "players": "1–4",
+        "requirements": [
+          "Version: original BO1 on PC, PS3 or Xbox 360.",
+          "Power on"
+        ],
+        "reward": "Free teleport travel; a guaranteed Panic Room route during DEFCON 5 or Bonfire Sale.",
+        "steps": [
+          {
+            "title": "Find an active orb",
+            "body": "There are 8 teleporters: Conference Room 1, Panic Room 1, lower War Room 1 and Labs 5. With power on, walk into an active orb. Normal destinations are random; do not depend on one for a particular floor.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/five/",
+            "images": [
+              {
+                "src": "./assets/classic-batch4-five-teleporter.webp",
+                "alt": "Active BO1 Five teleporter orb.",
+                "caption": "Active BO1 Five teleporter orb.",
+                "source": "https://mmmrkennedy.com/games/BO1/five/five_guide",
+                "credit": "mmmrkennedy / Activision"
+              }
+            ]
+          },
+          {
+            "title": "Use the Pack-a-Punch exceptions",
+            "body": "Activate all 4 DEFCON switches for DEFCON 5, or collect Bonfire Sale. During either access window, teleporters lead to the Panic Room. The central lower-War-Room orb is the easiest landmark to find.",
+            "original": true,
+            "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=1133914856"
+          },
+          {
+            "title": "Wait for reactivation",
+            "body": "An orb cannot be used immediately after arrival while it resets. Keep moving if it is unavailable; use an elevator when you need a predictable floor outside a Thief wave.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/five/"
+          }
+        ],
+        "checked": "2026-10-16",
+        "sources": [
+          {
+            "title": "r/CODZombies — Five community guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/five/"
+          },
+          {
+            "title": "toxi — firsthand BO1 Five strategy",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1133914856"
+          },
+          {
+            "title": "mmmrkennedy — Five BO1 locator screenshots",
+            "url": "https://mmmrkennedy.com/games/BO1/five/five_guide"
+          }
+        ],
+        "relatedGuideIds": [
+          "bo1-five-community-five-map-walkthrough-pack-a-punch",
+          "bo1-five-community-five-map-walkthrough-pentagon-thief"
+        ],
+        "sharedSource": false,
+        "sourceQuote": null,
+        "supplementNote": "Original BO1 instructions replace the affected community passage. Other editions keep their own instructions."
+      }
+    }
+  },
+  "five-map-walkthrough-pack-a-punch": {
+    "mapOverrides": {
+      "bo1-five": {
+        "title": "Pack-a-Punch — four DEFCON switches",
+        "summary": "Two switches upstairs, two downstairs, any order. All four bring DEFCON 1 to 5.",
+        "difficulty": "Easy",
+        "players": "1–4",
+        "requirements": [
+          "Version: original BO1 on PC, PS3 or Xbox 360.",
+          "Power on",
+          "Access to both War Room levels",
+          "5,000 points per normal upgrade"
+        ],
+        "reward": "Temporary access to the Panic Room Pack-a-Punch.",
+        "steps": [
+          {
+            "title": "Catwalk: switch by the first elevator",
+            "body": "Use the DEFCON switch on the left as you leave the small Conference Room elevator onto the War Room catwalk.",
+            "original": true,
+            "researchSource": "https://mmmrkennedy.com/games/BO1/five/five_guide",
+            "images": [
+              {
+                "src": "./assets/classic-batch4-five-defcon_catwalk_close.webp",
+                "alt": "First upper switch, beside the Conference Room elevator exit.",
+                "caption": "First upper switch, beside the Conference Room elevator exit.",
+                "source": "https://mmmrkennedy.com/games/BO1/five/five_guide",
+                "credit": "mmmrkennedy / Activision"
+              }
+            ]
+          },
+          {
+            "title": "Catwalk: switch across the room",
+            "body": "Follow the catwalk to the opposite side and use the second upper switch. There is no required switch order.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/five/",
+            "images": [
+              {
+                "src": "./assets/classic-batch4-five-defcon_catwalk_far.webp",
+                "alt": "Second upper DEFCON switch across the catwalk.",
+                "caption": "Second upper DEFCON switch across the catwalk.",
+                "source": "https://mmmrkennedy.com/games/BO1/five/five_guide",
+                "credit": "mmmrkennedy / Activision"
+              }
+            ]
+          },
+          {
+            "title": "Lower floor: cargo-elevator switch",
+            "body": "On the lower floor, use the switch left of the large elevator that descends to the Labs.",
+            "original": true,
+            "researchSource": "https://mmmrkennedy.com/games/BO1/five/five_guide",
+            "images": [
+              {
+                "src": "./assets/classic-batch4-five-defcon_lower_elevator.webp",
+                "alt": "Lower switch next to the Labs cargo elevator.",
+                "caption": "Lower switch next to the Labs cargo elevator.",
+                "source": "https://mmmrkennedy.com/games/BO1/five/five_guide",
+                "credit": "mmmrkennedy / Activision"
+              }
+            ]
+          },
+          {
+            "title": "Lower floor: Juggernog-side switch",
+            "body": "Use the remaining lower switch on the wall between Juggernog and the Mule Kick area. Once all 4 switches register, the alarm announces DEFCON 5.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/five/",
+            "images": [
+              {
+                "src": "./assets/classic-batch4-five-defcon_jug.webp",
+                "alt": "Lower DEFCON switch beside the Juggernog side of the room.",
+                "caption": "Lower DEFCON switch beside the Juggernog side of the room.",
+                "source": "https://mmmrkennedy.com/games/BO1/five/five_guide",
+                "credit": "mmmrkennedy / Activision"
+              }
+            ]
+          },
+          {
+            "title": "Teleport, upgrade, retrieve",
+            "body": "Enter the central War Room teleporter showing Pack-a-Punch. In the Panic Room, pay 5,000 and reclaim your upgraded weapon promptly. The machine hides again when the access window ends; do not leave a weapon inside.",
+            "original": true,
+            "researchSource": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/five/",
+            "images": [
+              {
+                "src": "./assets/classic-batch4-five-pap_machine.webp",
+                "alt": "BO1 Five Panic Room and exposed Pack-a-Punch machine.",
+                "caption": "BO1 Five Panic Room and exposed Pack-a-Punch machine.",
+                "source": "https://mmmrkennedy.com/games/BO1/five/five_guide",
+                "credit": "mmmrkennedy / Activision"
+              }
+            ]
+          },
+          {
+            "title": "Clear the room to reset",
+            "body": "After the doors open, zombies can enter and Pack-a-Punch is unavailable. Everyone must leave the Panic Room so it can close and reset. Flip the 4 switches again for another visit.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/five/"
+          }
+        ],
+        "checked": "2026-10-16",
+        "sources": [
+          {
+            "title": "r/CODZombies — Five community guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/five/"
+          },
+          {
+            "title": "mmmrkennedy — Five BO1 locator screenshots",
+            "url": "https://mmmrkennedy.com/games/BO1/five/five_guide"
+          },
+          {
+            "title": "hXcHector — firsthand BO1 Five walkthrough",
+            "url": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/five/"
+          },
+          {
+            "title": "toxi — firsthand BO1 Five strategy",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1133914856"
+          }
+        ],
+        "relatedGuideIds": [
+          "bo1-five-community-five-map-walkthrough-power",
+          "bo1-five-community-five-map-walkthrough-pentagon-thief"
+        ],
+        "sharedSource": false,
+        "sourceQuote": null,
+        "supplementNote": "Original BO1 instructions replace the affected community passage. Other editions keep their own instructions."
+      }
+    }
+  },
+  "five-map-walkthrough-traps": {
+    "mapOverrides": {
+      "bo1-five": {
+        "title": "Electric traps — find both red boxes",
+        "summary": "Carry one component at a time to the two metal-detector frames upstairs.",
+        "difficulty": "Easy",
+        "players": "1–4",
+        "requirements": [
+          "Version: original BO1 on PC, PS3 or Xbox 360.",
+          "Power on",
+          "Open access to lower War Room and the Bowie Knife laboratory",
+          "1,000 points per trap activation"
+        ],
+        "reward": "Two working electric metal-detector traps on the Conference floor.",
+        "steps": [
+          {
+            "title": "Pick up the War Room box",
+            "body": "On the lower War Room floor, search behind the computer terminal near the Labs cargo elevator. Hold interact on the red electrical box.",
+            "original": true,
+            "researchSource": "https://www.codzombieguides.com/five"
+          },
+          {
+            "title": "Install it upstairs",
+            "body": "Return to the Conference floor. Fit the component into one of the metal-detector trap frames in the hallways, near Quick Revive or Speed Cola. Carrying one component blocks picking up the other; install it first.",
+            "original": true,
+            "researchSource": "https://www.codzombieguides.com/five",
+            "images": [
+              {
+                "src": "./assets/classic-batch4-five-treyarch-logo-on-metal-detector-trap.webp",
+                "alt": "One of the Conference-floor metal-detector trap frames; the headpiece carries the Treyarch logo.",
+                "caption": "One of the Conference-floor metal-detector trap frames; the headpiece carries the Treyarch logo.",
+                "source": "https://www.codzombieguides.com/five",
+                "credit": "Cod Zombie Guides / JokerAlex 21 / Activision"
+              }
+            ]
+          },
+          {
+            "title": "Retrieve the Bowie-room box",
+            "body": "In the Labs, open the Weapons Testing room with the Bowie Knife wall buy. Find the second red box inside the weapons locker to the left of the Bowie Knife. Carry it upstairs and fit it into the remaining detector.",
+            "original": true,
+            "researchSource": "https://www.codzombieguides.com/five"
+          },
+          {
+            "title": "Activate from a safe side",
+            "body": "Pay the installed trap’s switch 1,000 points. Keep yourself and teammates out of its electric field while leading zombies through. The parts are collected downstairs; both completed traps are upstairs.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/five/"
+          }
+        ],
+        "checked": "2026-10-16",
+        "sources": [
+          {
+            "title": "r/CODZombies — Five community guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/five/"
+          },
+          {
+            "title": "JokerAlex 21 — Five firsthand guide and close-up gallery",
+            "url": "https://www.codzombieguides.com/five"
+          },
+          {
+            "title": "toxi — firsthand BO1 Five strategy",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1133914856"
+          },
+          {
+            "title": "Original Xbox 360 players — Five trap components",
+            "url": "https://gamefaqs.gamespot.com/xbox360/960189-call-of-duty-black-ops/answers/246397-zombies-quotfivequot-metal-detectors"
+          }
+        ],
+        "relatedGuideIds": [
+          "bo1-five-community-five-map-walkthrough-power"
+        ],
+        "sharedSource": false,
+        "sourceQuote": null,
+        "supplementNote": "Original BO1 instructions replace the affected community passage. Other editions keep their own instructions."
+      }
+    }
+  },
+  "five-map-walkthrough-pentagon-thief": {
+    "mapOverrides": {
+      "bo1-five": {
+        "title": "Pentagon Thief — recover guns or earn Bonfire",
+        "summary": "Kill him before any theft for Bonfire Sale. Killing him after a theft returns weapons and drops Fire Sale.",
+        "difficulty": "Medium",
+        "players": "1–4",
+        "requirements": [
+          "Version: original BO1 on PC, PS3 or Xbox 360.",
+          "Power on",
+          "A loaded damage weapon and room to run"
+        ],
+        "reward": "No theft: Max Ammo+Bonfire Sale. Theft then kill: returned guns+Max Ammo+Fire Sale. Escape: Max Ammo, stolen guns lost.",
+        "steps": [
+          {
+            "title": "Prepare when the special wave begins",
+            "body": "With power on, the Thief replaces normal zombies for a special wave. Reload before he arrives and move into a loop you can run. In co-op, his target sees him clearly; teammates can shoot the red trail.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/five/",
+            "images": [
+              {
+                "src": "./assets/classic-batch4-five-pentagon_thief.webp",
+                "alt": "BO1 Pentagon Thief approaching through the War Room.",
+                "caption": "BO1 Pentagon Thief approaching through the War Room.",
+                "source": "https://mmmrkennedy.com/games/BO1/five/five_guide",
+                "credit": "mmmrkennedy / Activision"
+              }
+            ]
+          },
+          {
+            "title": "Keep him away from every teammate",
+            "body": "The target keeps running while teammates fire into the pursuing figure or red trail. Use sustained weapon damage; Monkey Bombs do not distract him. If contact is unavoidable, switch to the weapon you can afford to lose.",
+            "original": true,
+            "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=1133914856"
+          },
+          {
+            "title": "If he steals a gun, keep pursuing",
+            "body": "Contact steals the held weapon. Follow him through teleporters and kill him before he escapes. A kill returns stolen weapons and awards Max Ammo plus a normal Fire Sale. If he escapes, the stolen guns stay lost, but Max Ammo still appears.",
+            "original": true,
+            "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=1133914856",
+            "tip": "If you buy a replacement gun while he has your weapon, the returned stolen gun can replace that new purchase."
+          },
+          {
+            "title": "No theft: collect Bonfire Sale",
+            "body": "Kill him before he takes anyone’s weapon to earn Max Ammo and Bonfire Sale. Pick up Bonfire, enter an active teleporter and immediately use the Panic Room Pack-a-Punch for 1,000 per weapon while the sale lasts.",
+            "original": true,
+            "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=1133914856",
+            "images": [
+              {
+                "src": "./assets/classic-batch4-five-bonfire_sale_powerup.webp",
+                "alt": "BO1 Bonfire Sale drop after a successful no-theft kill.",
+                "caption": "BO1 Bonfire Sale drop after a successful no-theft kill.",
+                "source": "https://mmmrkennedy.com/games/BO1/five/five_guide",
+                "credit": "mmmrkennedy / Activision"
+              }
+            ]
+          }
+        ],
+        "checked": "2026-10-16",
+        "sources": [
+          {
+            "title": "r/CODZombies — Five community guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/five/"
+          },
+          {
+            "title": "toxi — firsthand BO1 Five strategy",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1133914856"
+          },
+          {
+            "title": "mmmrkennedy — Five BO1 locator screenshots",
+            "url": "https://mmmrkennedy.com/games/BO1/five/five_guide"
+          },
+          {
+            "title": "hXcHector — firsthand BO1 Five walkthrough",
+            "url": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/five/"
+          }
+        ],
+        "relatedGuideIds": [
+          "bo1-five-community-five-map-walkthrough-pack-a-punch",
+          "bo1-five-community-five-map-walkthrough-teleporters",
+          "bo1-five-utility-upgrades"
+        ],
+        "sharedSource": false,
+        "sourceQuote": null,
+        "supplementNote": "Original BO1 instructions replace the affected community passage. Other editions keep their own instructions."
+      }
+    }
+  },
+  "five-special-weapons-winter-s-howl": {
+    "mapOverrides": {
+      "bo1-five": {
+        "title": "Winter’s Howl — Mystery Box",
+        "summary": "Five’s freezing gun is a random Box pull, separate from the decorative laboratory prototypes.",
+        "difficulty": "Easy",
+        "players": "1–4",
+        "requirements": [
+          "Version: original BO1 on PC, PS3 or Xbox 360.",
+          "Mystery Box access",
+          "950 points per normal pull; weapon is random"
+        ],
+        "reward": "Winter’s Howl: 6 loaded shots and 24 in reserve.",
+        "steps": [
+          {
+            "title": "Claim a Box roll",
+            "body": "Use the active Mystery Box and take Winter’s Howl if it appears. Only one teammate can hold it at a time. The laboratory display model is scenery, not a free pickup.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/five/"
+          },
+          {
+            "title": "Slow, then freeze",
+            "body": "Aim the ice blast at approaching zombies. Damaged survivors slow down; repeated hits can freeze them. It holds 6/24, but later rounds need more shots, so do not assume a fixed two-shot kill.",
+            "original": true,
+            "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=167978998"
+          }
+        ],
+        "checked": "2026-10-16",
+        "sources": [
+          {
+            "title": "r/CODZombies — Five community guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/five/"
+          },
+          {
+            "title": "Joker — firsthand BO1 wonder-weapon guide",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=167978998"
+          },
+          {
+            "title": "toxi — firsthand BO1 Five strategy",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1133914856"
+          },
+          {
+            "title": "JokerAlex 21 — Five firsthand guide and close-up gallery",
+            "url": "https://www.codzombieguides.com/five"
+          }
+        ],
+        "relatedGuideIds": [
+          "bo1-five-community-five-special-weapons-winter-s-howl-upgrade",
+          "bo1-five-ray-gun-upgrade"
+        ],
+        "sharedSource": false,
+        "sourceQuote": null,
+        "supplementNote": "Original BO1 instructions replace the affected community passage. Other editions keep their own instructions."
+      }
+    }
+  },
+  "five-special-weapons-winter-s-howl-upgrade": {
+    "mapOverrides": {
+      "bo1-five": {
+        "title": "Winter’s Howl → Winter’s Fury",
+        "summary": "Upgrade in the Panic Room for 5,000, or 1,000 during Bonfire Sale.",
+        "difficulty": "Easy",
+        "players": "1–4",
+        "requirements": [
+          "Version: original BO1 on PC, PS3 or Xbox 360.",
+          "Winter’s Howl",
+          "Open Panic Room Pack-a-Punch",
+          "5,000 normally; 1,000 during Bonfire Sale"
+        ],
+        "reward": "Winter’s Fury: 9 loaded shots and 36 in reserve.",
+        "steps": [
+          {
+            "title": "Upgrade the held Winter’s Howl",
+            "body": "Follow the four-DEFCON-switch companion or collect Bonfire Sale. Equip Winter’s Howl at Pack-a-Punch, pay the displayed price and reclaim Winter’s Fury before the machine hides.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/five/",
+            "images": [
+              {
+                "src": "./assets/classic-batch4-five-pap_machine.webp",
+                "alt": "BO1 Five Pack-a-Punch where Winter’s Howl becomes Winter’s Fury.",
+                "caption": "BO1 Five Pack-a-Punch where Winter’s Howl becomes Winter’s Fury.",
+                "source": "https://mmmrkennedy.com/games/BO1/five/five_guide",
+                "credit": "mmmrkennedy / Activision"
+              }
+            ]
+          },
+          {
+            "title": "Use the larger ammunition supply",
+            "body": "Winter’s Fury holds 9 shots with 36 in reserve and deals more damage. It still works as a slowing/freezing support gun; higher rounds can need repeated shots.",
+            "original": true,
+            "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=167978998"
+          }
+        ],
+        "checked": "2026-10-16",
+        "sources": [
+          {
+            "title": "r/CODZombies — Five community guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/five/"
+          },
+          {
+            "title": "Joker — firsthand BO1 wonder-weapon guide",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=167978998"
+          },
+          {
+            "title": "toxi — firsthand BO1 Five strategy",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1133914856"
+          }
+        ],
+        "relatedGuideIds": [
+          "bo1-five-community-five-map-walkthrough-pack-a-punch",
+          "bo1-five-community-five-map-walkthrough-pentagon-thief"
+        ],
+        "sharedSource": false,
+        "sourceQuote": null,
+        "supplementNote": "Original BO1 instructions replace the affected community passage. Other editions keep their own instructions."
+      }
+    }
+  },
+  "five-easter-eggs-eminem-won-t-back-down-song-music-easter-egg": {
+    "mapOverrides": {
+      "bo1-five": {
+        "title": "Won’t Back Down — three red phones",
+        "summary": "Hold interact on the Conference, power-room and Panic Room phones.",
+        "difficulty": "Easy",
+        "players": "1–4",
+        "requirements": [
+          "Version: original BO1 on PC, PS3 or Xbox 360.",
+          "Power on",
+          "Panic Room access through four DEFCON switches or Bonfire Sale"
+        ],
+        "reward": "Won’t Back Down by Eminem featuring P!nk plays once per match.",
+        "steps": [
+          {
+            "title": "Conference phone",
+            "body": "Hold interact on the red phone on the table left of Quick Revive in spawn.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/five/",
+            "images": [
+              {
+                "src": "./assets/classic-batch4-five-phone_quick_revive.webp",
+                "alt": "BO1 spawn phone on the small table left of Quick Revive.",
+                "caption": "BO1 spawn phone on the small table left of Quick Revive.",
+                "source": "https://mmmrkennedy.com/games/BO1/five/five_guide",
+                "credit": "mmmrkennedy / Activision"
+              }
+            ]
+          },
+          {
+            "title": "Power-room phone",
+            "body": "In laboratory room 3, hold interact on the red phone on the desk facing the power switch.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/five/",
+            "images": [
+              {
+                "src": "./assets/classic-batch4-five-phone_power.webp",
+                "alt": "BO1 red phone on the power-room desk.",
+                "caption": "BO1 red phone on the power-room desk.",
+                "source": "https://mmmrkennedy.com/games/BO1/five/five_guide",
+                "credit": "mmmrkennedy / Activision"
+              }
+            ]
+          },
+          {
+            "title": "Panic Room phone",
+            "body": "Enter the Panic Room with the Pack-a-Punch companion. Hold interact on the red phone on the small table beside the barrier, left as you enter. Any order works; the third registered phone starts the song once per match.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/five/",
+            "images": [
+              {
+                "src": "./assets/classic-batch4-five-phone_panic_room.webp",
+                "alt": "BO1 Panic Room phone on the barrier-side table.",
+                "caption": "BO1 Panic Room phone on the barrier-side table.",
+                "source": "https://mmmrkennedy.com/games/BO1/five/five_guide",
+                "credit": "mmmrkennedy / Activision"
+              }
+            ]
+          }
+        ],
+        "checked": "2026-10-16",
+        "sources": [
+          {
+            "title": "r/CODZombies — Five community guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/five/"
+          },
+          {
+            "title": "mmmrkennedy — Five BO1 locator screenshots",
+            "url": "https://mmmrkennedy.com/games/BO1/five/five_guide"
+          },
+          {
+            "title": "JokerAlex 21 — Five firsthand guide and close-up gallery",
+            "url": "https://www.codzombieguides.com/five"
+          }
+        ],
+        "relatedGuideIds": [
+          "bo1-five-community-five-map-walkthrough-pack-a-punch"
+        ],
+        "sharedSource": false,
+        "sourceQuote": null,
+        "supplementNote": "Original BO1 instructions replace the affected community passage. Other editions keep their own instructions."
+      }
+    }
   }
 }

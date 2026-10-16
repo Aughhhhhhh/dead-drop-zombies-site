@@ -256,37 +256,90 @@
   {
     "id": "bo1-kino-der-toten-115",
     "mapId": "bo1-kino-der-toten",
-    "title": "115",
+    "title": "115 — three meteor fragments",
     "category": "music",
     "difficulty": "Easy",
     "players": "1–4",
-    "summary": "All three meteor fragments, with their room landmarks, for Kino's music egg.",
+    "summary": "The lobby jar, MP5K dressing-room stand and upstairs storage shelf.",
     "requirements": [
-      "Open the dressing room and the room connecting the stage to the alley"
+      "Version: original BO1 on PC, PS3 or Xbox 360.",
+      "Open access to the dressing room and the storage room above the alley"
     ],
-    "reward": "115 plays once per match.",
+    "reward": "115 by Kevin Sherwood and Elena Siegman plays once per match.",
     "steps": [
       {
-        "title": "Lobby fragment",
-        "body": "On the lower floor of spawn, approach the small glass display case beneath the stairs. Hold interact on the glowing meteor fragment inside. Listen for the character's acknowledgment."
+        "title": "Lobby: glass jar",
+        "body": "Hold interact on the fragment inside the glass jar by the lower lobby window, beneath the balcony near Quick Revive. Listen for the character’s acknowledgment.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/",
+        "images": [
+          {
+            "src": "./assets/classic-batch4-kino-steam-02.webp",
+            "alt": "BO1 lobby meteor fragment inside its glass jar.",
+            "caption": "BO1 lobby meteor fragment inside its glass jar.",
+            "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3375011100",
+            "credit": "Monkey / Steam Community / Activision"
+          }
+        ]
       },
       {
-        "title": "Dressing-room fragment",
-        "body": "Follow the upstairs route through the Speed Cola room into the dressing room beside the stage. Find the glowing fragment on a shelf among the costumes/mannequins and hold interact."
+        "title": "Dressing room: stand behind mannequins",
+        "body": "Enter the MP5K dressing room between Speed Cola and the stage. Hold interact on the fragment on the black stand behind the mannequins.",
+        "original": true,
+        "researchSource": "https://mmmrkennedy.com/games/BO1/kino_der_toten/kino_der_toten_guide",
+        "images": [
+          {
+            "src": "./assets/classic-batch4-kino-steam-03.webp",
+            "alt": "Dressing-room fragment on the stand behind the mannequins.",
+            "caption": "Dressing-room fragment on the stand behind the mannequins.",
+            "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3375011100",
+            "credit": "Monkey / Steam Community / Activision"
+          },
+          {
+            "src": "./assets/classic-batch4-kino-der-toten-rock_dressing_room.webp",
+            "alt": "Wider BO1 view of the MP5K dressing-room fragment corner.",
+            "caption": "Wider BO1 view of the MP5K dressing-room fragment corner.",
+            "source": "https://mmmrkennedy.com/games/BO1/kino_der_toten/kino_der_toten_guide",
+            "credit": "mmmrkennedy / Activision"
+          }
+        ]
       },
       {
-        "title": "Backstage fragment",
-        "body": "Open the other room connecting the stage to the alley, identified by its MP5K wall buy. Interact with the fragment on the table next to the bust/statue. The order does not matter; the third registered fragment starts the song.",
-        "tip": "Shooting the fragments does not activate them. Use your reload/interact button while standing close."
+        "title": "Upstairs storage: shelf with letters",
+        "body": "Take the stairs from the alley into the small storage room above it. Hold interact on the fragment on the lower shelf among the loose letters. Any order works; the third registered fragment starts 115 once that match.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/",
+        "images": [
+          {
+            "src": "./assets/classic-batch4-kino-steam-04.webp",
+            "alt": "Storage-room fragment on the shelf among scattered letters.",
+            "caption": "Storage-room fragment on the shelf among scattered letters.",
+            "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=3375011100",
+            "credit": "Monkey / Steam Community / Activision"
+          }
+        ],
+        "tip": "Use interact while close. Shooting the rocks does not register them."
       }
     ],
     "sources": [
       {
-        "title": "r/CODZombies — Kino der Toten music egg",
+        "title": "r/CODZombies — Kino community guide",
         "url": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/"
+      },
+      {
+        "title": "mmmrkennedy — Kino BO1 locator screenshots and shared-version guide",
+        "url": "https://mmmrkennedy.com/games/BO1/kino_der_toten/kino_der_toten_guide"
+      },
+      {
+        "title": "Monkey — BO1 Kino secrets and original screenshots",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3375011100"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-16",
+    "relatedGuideIds": [
+      "bo1-kino-der-toten-community-kino-der-toten-map-walkthrough-power"
+    ],
+    "sourceQuote": null
   },
   {
     "id": "bo1-ascension-casimir-mechanism",

@@ -1059,6 +1059,12 @@ nav a[aria-current]:after {
   text-decoration: underline;
   overflow-wrap: anywhere;
 }
+.community-quote a[href*="youtube.com/watch"],
+.community-quote a[href*="youtu.be/"] {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+}
 .community-quote .reference-image {
   display: block;
   margin: 14px 0;
@@ -1746,7 +1752,9 @@ nav a[aria-current]:after {
   .step-check input {
     accent-color: black;
   }
-  .sources-list a {
+  .sources-list a,
+  .community-quote a[href*="youtube.com/watch"],
+  .community-quote a[href*="youtu.be/"] {
     display: inline;
     min-height: 0;
     border: 0;

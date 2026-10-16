@@ -1037,5 +1037,537 @@
       "bo6-shattered-veil-community-shattered-veil-main-quest-main-quest",
       "bo6-reckoning-community-reckoning-main-quest-main-quest"
     ]
+  },
+  {
+    "id": "bo4-ix-veni-vidi-zombie-normal-30-rounds",
+    "mapId": "bo4-ix-veni-vidi-zombie",
+    "title": "Veni, Vidi, Zombie! (Normal): all 30 conditions",
+    "category": "main",
+    "summary": "An IX checklist with setup links and a creator video chapter for every round.",
+    "requirements": [
+      "Choose IX > Gauntlet > Veni, Vidi, Zombie! (Normal). These are fixed Gauntlet objectives, separate from the story quest.",
+      "Build the shield for round 5; prepare the MOG 12 for 4, 17 and 27, two fully-packed guns for 22, and four base perks for 28.",
+      "Failed objectives give strikes; three strikes end the run. The mode is timed.",
+      "Related setup guides show part and machine locations; the Gauntlet HUD determines allowed actions. Death of Orion is optional."
+    ],
+    "reward": "Medals and tiered rewards at rounds 10, 20 and 30; an extra cosmetic for completing round 30 without a strike.",
+    "players": "Solo or co-op",
+    "difficulty": "Normal Gauntlet",
+    "checked": "2026-10-16",
+    "sources": [
+      {
+        "title": "r/CODZombies: IX community guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/ix/"
+      },
+      {
+        "title": "u/iScabs: original IX challenge-menu capture",
+        "url": "https://www.reddit.com/r/Blackops4/comments/alsw92/all_ix_gauntlet_challenges/"
+      },
+      {
+        "title": "u/iScabs and u/Exetlery: Gauntlet Fury and automatic teleport",
+        "url": "https://www.reddit.com/r/CODZombies/comments/alsye1/all_ix_gauntlet_challenges/"
+      },
+      {
+        "title": "MysteryHQ: original solo no-strike IX walkthrough and creator chapters",
+        "url": "https://www.youtube.com/watch?v=Nvwi2_Ud_GU"
+      },
+      {
+        "title": "Fast Guides Glitch: independent IX solo completion walkthrough",
+        "url": "https://www.youtube.com/watch?v=ZptAaP6xPKU"
+      },
+      {
+        "title": "Treyarch: January 29 IX Gauntlet launch on PS4",
+        "url": "https://www.reddit.com/r/Blackops4/comments/al3hc3/jan_29_update_112_update_begins_rolling_out_today/"
+      },
+      {
+        "title": "Treyarch: February 5 IX Gauntlet on all platforms",
+        "url": "https://www.reddit.com/r/Blackops4/comments/anizbe/feb_5_update_mercenary_hardcore_nuketown_featured/"
+      },
+      {
+        "title": "Treyarch: February 19 IX perk and crouch corrections",
+        "url": "https://www.reddit.com/r/Blackops4/comments/asfl1k/feb_19_update_operation_grand_heist_begins_on_ps4/"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Round 01: Avoid damage",
+        "body": "Taking any damage drains all of your points",
+        "html": "<p>Taking any damage drains all of your points</p><p><a href=\"https://www.youtube.com/watch?v=Nvwi2_Ud_GU&amp;t=26s\" target=\"_blank\" rel=\"noopener noreferrer\">Watch video</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ix/"
+      },
+      {
+        "title": "Round 02: Survive sprinters",
+        "body": "Survive an onslaught of sprinters",
+        "html": "<p>Survive an onslaught of sprinters</p><p><a href=\"https://www.youtube.com/watch?v=Nvwi2_Ud_GU&amp;t=41s\" target=\"_blank\" rel=\"noopener noreferrer\">Watch video</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ix/"
+      },
+      {
+        "title": "Round 03: Make every shot hit",
+        "body": "Missed shots hurt",
+        "html": "<p>Missed shots hurt</p><p><a href=\"https://www.youtube.com/watch?v=Nvwi2_Ud_GU&amp;t=52s\" target=\"_blank\" rel=\"noopener noreferrer\">Watch video</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ix/"
+      },
+      {
+        "title": "Round 04: MOG 12 only",
+        "body": "Use the MOG 12 shotgun only",
+        "html": "<p>Use the MOG 12 shotgun only</p><p><a href=\"https://www.youtube.com/watch?v=Nvwi2_Ud_GU&amp;t=63s\" target=\"_blank\" rel=\"noopener noreferrer\">Watch video</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ix/",
+        "tip": "Keep the MOG 12 ready: this restriction returns on rounds 17 and 27."
+      },
+      {
+        "title": "Round 05: Have the shield",
+        "body": "Possess the shield at the end of the round",
+        "html": "<p>Possess the shield at the end of the round</p><p><a href=\"https://www.youtube.com/watch?v=Nvwi2_Ud_GU&amp;t=73s\" target=\"_blank\" rel=\"noopener noreferrer\">Watch video</a></p><p><a href=\"https://www.reddit.com/r/CODZombies/wiki/ix/\" target=\"_blank\" rel=\"noopener noreferrer\">Rule detail: r/CODZombies: IX community guide</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ix/",
+        "tip": "Build and pick up the Brazen Bull before the last kill. The shield guide below has the part locations."
+      },
+      {
+        "title": "Round 06: Open every door",
+        "body": "Open all doors",
+        "html": "<p>Open all doors</p><p><a href=\"https://www.youtube.com/watch?v=Nvwi2_Ud_GU&amp;t=121s\" target=\"_blank\" rel=\"noopener noreferrer\">Watch video</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ix/",
+        "tip": "Leave a zombie alive while checking unopened doors. The video chapter shows the solo door route."
+      },
+      {
+        "title": "Round 07: Shield attacks only",
+        "body": "Shield attacks only",
+        "html": "<p>Shield attacks only</p><p><a href=\"https://www.youtube.com/watch?v=Nvwi2_Ud_GU&amp;t=140s\" target=\"_blank\" rel=\"noopener noreferrer\">Watch video</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ix/",
+        "tip": "Use the shield itself for attacks; plan its replacement before this round."
+      },
+      {
+        "title": "Round 08: Crouch to attack",
+        "body": "Weapons and elixirs are only usable when crouched",
+        "html": "<p>Weapons and elixirs are only usable when crouched</p><p><a href=\"https://www.youtube.com/watch?v=Nvwi2_Ud_GU&amp;t=165s\" target=\"_blank\" rel=\"noopener noreferrer\">Watch video</a></p><p><a href=\"https://www.reddit.com/r/Blackops4/comments/asfl1k/feb_19_update_operation_grand_heist_begins_on_ps4/\" target=\"_blank\" rel=\"noopener noreferrer\">Rule detail: Treyarch: February 19 IX perk and crouch corrections</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ix/",
+        "tip": "Crouch before using weapons or Elixirs. Treyarch also patched the standing Electric Burst bypass."
+      },
+      {
+        "title": "Round 09: Nine podium Gladiators",
+        "body": "Sacrifice 9 gladiators on the Challenge Podium",
+        "html": "<p>Sacrifice 9 gladiators on the Challenge Podium</p><p><a href=\"https://www.youtube.com/watch?v=Nvwi2_Ud_GU&amp;t=181s\" target=\"_blank\" rel=\"noopener noreferrer\">Watch video</a></p><p><a href=\"https://www.reddit.com/r/Blackops4/comments/alsw92/all_ix_gauntlet_challenges/\" target=\"_blank\" rel=\"noopener noreferrer\">Rule detail: u/iScabs: original IX challenge-menu capture</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ix/",
+        "tip": "Get the Gladiators onto the central Challenge Podium before killing them."
+      },
+      {
+        "title": "Round 10: Defend the Temple",
+        "body": "Defend the temple",
+        "html": "<p>Defend the temple</p><p><a href=\"https://www.youtube.com/watch?v=Nvwi2_Ud_GU&amp;t=198s\" target=\"_blank\" rel=\"noopener noreferrer\">Watch video</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ix/"
+      },
+      {
+        "title": "Round 11: Hip-fire only",
+        "body": "Hip fire only",
+        "html": "<p>Hip fire only</p><p><a href=\"https://www.youtube.com/watch?v=Nvwi2_Ud_GU&amp;t=216s\" target=\"_blank\" rel=\"noopener noreferrer\">Watch video</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ix/"
+      },
+      {
+        "title": "Round 12: No sprinting",
+        "body": "Sprinting is disabled",
+        "html": "<p>Sprinting is disabled</p><p><a href=\"https://www.youtube.com/watch?v=Nvwi2_Ud_GU&amp;t=223s\" target=\"_blank\" rel=\"noopener noreferrer\">Watch video</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ix/"
+      },
+      {
+        "title": "Round 13: Pack two different guns",
+        "body": "Pack-a-punch two different weapons during the round",
+        "html": "<p>Pack-a-punch two different weapons during the round</p><p><a href=\"https://www.youtube.com/watch?v=Nvwi2_Ud_GU&amp;t=234s\" target=\"_blank\" rel=\"noopener noreferrer\">Watch video</a></p><p><a href=\"https://www.reddit.com/r/Blackops4/comments/alsw92/all_ix_gauntlet_challenges/\" target=\"_blank\" rel=\"noopener noreferrer\">Rule detail: u/iScabs: original IX challenge-menu capture</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ix/",
+        "tip": "Use two different weapons. u/iScabs confirms that re-packing an already upgraded weapon counts."
+      },
+      {
+        "title": "Round 14: Earn 1,000 boarding points",
+        "body": "Earn 1,000 points from boarding openings",
+        "html": "<p>Earn 1,000 points from boarding openings</p><p><a href=\"https://www.youtube.com/watch?v=Nvwi2_Ud_GU&amp;t=251s\" target=\"_blank\" rel=\"noopener noreferrer\">Watch video</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ix/",
+        "tip": "Leave zombies alive while rebuilding openings and watch the boarding counter."
+      },
+      {
+        "title": "Round 15: Defend the Bath House",
+        "body": "Defend the bath house",
+        "html": "<p>Defend the bath house</p><p><a href=\"https://www.youtube.com/watch?v=Nvwi2_Ud_GU&amp;t=277s\" target=\"_blank\" rel=\"noopener noreferrer\">Watch video</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ix/"
+      },
+      {
+        "title": "Round 16: Finish with three perks",
+        "body": "Complete the round with 3 or more perks",
+        "html": "<p>Complete the round with 3 or more perks</p><p><a href=\"https://www.youtube.com/watch?v=Nvwi2_Ud_GU&amp;t=297s\" target=\"_blank\" rel=\"noopener noreferrer\">Watch video</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ix/",
+        "tip": "Check that three or more perks remain active before ending the round."
+      },
+      {
+        "title": "Round 17: MOG 12 only again",
+        "body": "Use the MOG 12 shotgun only",
+        "html": "<p>Use the MOG 12 shotgun only</p><p><a href=\"https://www.youtube.com/watch?v=Nvwi2_Ud_GU&amp;t=308s\" target=\"_blank\" rel=\"noopener noreferrer\">Watch video</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ix/",
+        "tip": "Prepare the MOG 12 and its ammo before this round."
+      },
+      {
+        "title": "Round 18: Headshots only",
+        "body": "Kill zombies with headshots only",
+        "html": "<p>Kill zombies with headshots only</p><p><a href=\"https://www.youtube.com/watch?v=Nvwi2_Ud_GU&amp;t=320s\" target=\"_blank\" rel=\"noopener noreferrer\">Watch video</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ix/"
+      },
+      {
+        "title": "Round 19: Survive nine minutes",
+        "body": "Survive for nine minutes",
+        "html": "<p>Survive for nine minutes</p><p><a href=\"https://www.youtube.com/watch?v=Nvwi2_Ud_GU&amp;t=331s\" target=\"_blank\" rel=\"noopener noreferrer\">Watch video</a></p><p><a href=\"https://www.reddit.com/r/Blackops4/comments/alsw92/all_ix_gauntlet_challenges/\" target=\"_blank\" rel=\"noopener noreferrer\">Rule detail: u/iScabs: original IX challenge-menu capture</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ix/",
+        "tip": "Zombies keep spawning during the nine-minute survival."
+      },
+      {
+        "title": "Round 20: Defend the Arena",
+        "body": "Defend the arena",
+        "html": "<p>Defend the arena</p><p><a href=\"https://www.youtube.com/watch?v=Nvwi2_Ud_GU&amp;t=345s\" target=\"_blank\" rel=\"noopener noreferrer\">Watch video</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ix/"
+      },
+      {
+        "title": "Round 21: Hits drain points",
+        "body": "Damage to you causes points drain",
+        "html": "<p>Damage to you causes points drain</p><p><a href=\"https://www.youtube.com/watch?v=Nvwi2_Ud_GU&amp;t=365s\" target=\"_blank\" rel=\"noopener noreferrer\">Watch video</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ix/"
+      },
+      {
+        "title": "Round 22: Two fully-packed weapons",
+        "body": "Possess two fully-packed weapons at the end of the round",
+        "html": "<p>Possess two fully-packed weapons at the end of the round</p><p><a href=\"https://www.youtube.com/watch?v=Nvwi2_Ud_GU&amp;t=372s\" target=\"_blank\" rel=\"noopener noreferrer\">Watch video</a></p><p><a href=\"https://www.reddit.com/r/Blackops4/comments/alsw92/all_ix_gauntlet_challenges/\" target=\"_blank\" rel=\"noopener noreferrer\">Rule detail: u/iScabs: original IX challenge-menu capture</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ix/",
+        "tip": "Solo: keep two fully-packed ordinary guns. u/iScabs checks each until its next re-pack costs 1,500. In co-op, check every player's objective HUD."
+      },
+      {
+        "title": "Round 23: Survive the tigers",
+        "body": "Survive the tiger offensive",
+        "html": "<p>Survive the tiger offensive</p><p><a href=\"https://www.youtube.com/watch?v=Nvwi2_Ud_GU&amp;t=380s\" target=\"_blank\" rel=\"noopener noreferrer\">Watch video</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ix/"
+      },
+      {
+        "title": "Round 24: Get trap kills",
+        "body": "Kill zombies with traps",
+        "html": "<p>Kill zombies with traps</p><p><a href=\"https://www.youtube.com/watch?v=Nvwi2_Ud_GU&amp;t=392s\" target=\"_blank\" rel=\"noopener noreferrer\">Watch video</a></p><p><a href=\"https://www.reddit.com/r/Blackops4/comments/alsw92/all_ix_gauntlet_challenges/\" target=\"_blank\" rel=\"noopener noreferrer\">Rule detail: u/iScabs: original IX challenge-menu capture</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ix/",
+        "tip": "Use trap kills and follow the live objective. The menu does not state a universal 25-kill quota."
+      },
+      {
+        "title": "Round 25: Defend the Pit",
+        "body": "Defend the pit",
+        "html": "<p>Defend the pit</p><p><a href=\"https://www.youtube.com/watch?v=Nvwi2_Ud_GU&amp;t=405s\" target=\"_blank\" rel=\"noopener noreferrer\">Watch video</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ix/"
+      },
+      {
+        "title": "Round 26: Weapon roulette",
+        "body": "Your guns randomly swap and all buys are disabled",
+        "html": "<p>Your guns randomly swap and all buys are disabled</p><p><a href=\"https://www.youtube.com/watch?v=Nvwi2_Ud_GU&amp;t=418s\" target=\"_blank\" rel=\"noopener noreferrer\">Watch video</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ix/",
+        "tip": "Prepare for a round without purchases; the MOG 12 restriction returns afterward."
+      },
+      {
+        "title": "Round 27: MOG 12 one more time",
+        "body": "Use the MOG 12 shotgun only",
+        "html": "<p>Use the MOG 12 shotgun only</p><p><a href=\"https://www.youtube.com/watch?v=Nvwi2_Ud_GU&amp;t=440s\" target=\"_blank\" rel=\"noopener noreferrer\">Watch video</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ix/"
+      },
+      {
+        "title": "Round 28: Keep four base perks",
+        "body": "End the round with all 4 perks",
+        "html": "<p>End the round with all 4 perks</p><p><a href=\"https://www.youtube.com/watch?v=Nvwi2_Ud_GU&amp;t=459s\" target=\"_blank\" rel=\"noopener noreferrer\">Watch video</a></p><p><a href=\"https://www.reddit.com/r/Blackops4/comments/asfl1k/feb_19_update_operation_grand_heist_begins_on_ps4/\" target=\"_blank\" rel=\"noopener noreferrer\">Rule detail: Treyarch: February 19 IX perk and crouch corrections</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ix/",
+        "tip": "Keep all four base perk slots active. Extra perks from Perk Up do not replace missing base perks after Treyarch's fix."
+      },
+      {
+        "title": "Round 29: Follow all nine markers",
+        "body": "Reach each of the destinations in time",
+        "html": "<p>Reach each of the destinations in time</p><p><a href=\"https://www.youtube.com/watch?v=Nvwi2_Ud_GU&amp;t=465s\" target=\"_blank\" rel=\"noopener noreferrer\">Watch video</a></p><p><a href=\"https://www.reddit.com/r/Blackops4/comments/alsw92/all_ix_gauntlet_challenges/\" target=\"_blank\" rel=\"noopener noreferrer\">Rule detail: u/iScabs: original IX challenge-menu capture</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ix/",
+        "tip": "Move promptly to each new marker and stay in its defense zone. Both bridges can be destinations; the video follows the solo route."
+      },
+      {
+        "title": "Round 30: Defeat Fury",
+        "body": "Defeat the elephant",
+        "html": "<p>Defeat the elephant</p><p><a href=\"https://www.youtube.com/watch?v=Nvwi2_Ud_GU&amp;t=562s\" target=\"_blank\" rel=\"noopener noreferrer\">Watch video</a></p><p><a href=\"https://www.reddit.com/r/CODZombies/comments/alsye1/all_ix_gauntlet_challenges/\" target=\"_blank\" rel=\"noopener noreferrer\">Rule detail: u/iScabs and u/Exetlery: Gauntlet Fury and automatic teleport</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ix/",
+        "tip": "The Gauntlet teleports you into the elephant arena. It uses Fury alone and does not require completing IX's story quest."
+      }
+    ],
+    "sourceQuote": "https://www.reddit.com/r/CODZombies/wiki/ix/",
+    "supplementNote": "Round conditions are quoted from the r/CODZombies IX guide and checked against u/iScabs's original menu capture. Planning tips, publisher corrections and MysteryHQ's creator-authored chapters are separately linked supplements.",
+    "sourceOmissions": [
+      "Round 29's exact nine-location inventory, order and zone boundaries were not independently enumerated; follow the live markers and linked solo route.",
+      "Final PC parity, round-22 co-op ownership checks, special-weapon exceptions and round-24 quota scaling remain pending.",
+      "This Normal checklist does not recover other Gauntlets or any Hard condition table."
+    ],
+    "relatedGuideIds": [
+      "bo4-ix-community-ix-map-features-brazen-bull",
+      "bo4-ix-community-ix-map-features-pack-a-punch",
+      "bo4-ix-community-ix-map-features-traps",
+      "bo4-ix-community-ix-map-features-death-of-orion"
+    ]
+  },
+  {
+    "id": "bo4-blood-hellcatraz-normal-console-30-rounds",
+    "mapId": "bo4-blood-hellcatraz",
+    "title": "Hellcatraz (Normal, console): all 30 conditions",
+    "category": "main",
+    "summary": "A console checklist with setup links, nearby video sections and the documented PC round-3 warning.",
+    "requirements": [
+      "Choose Blood of the Dead > Gauntlet > Hellcatraz (Normal). This checklist follows the console menu.",
+      "PC round 3 was documented as Tower Defense (movement causes damage) instead of console WTF (reversed controls). Follow the live rule on PC.",
+      "Plan the Shield, Pack-a-Punch, Retriever and Spoon early. Round 6 replaces guns; round 17 requires forging during that round.",
+      "In the recorded four-player lobby, each player needs twenty Spoon kills on round 12 and two sacrifices on round 18.",
+      "Failed objectives give strikes; three strikes end the run. Related setup guides show locations; follow the Gauntlet HUD for allowed actions."
+    ],
+    "reward": "Medals and tiered rewards at rounds 10, 20 and 30; an extra cosmetic for completing round 30 without a strike.",
+    "players": "Solo or co-op; console conditions",
+    "difficulty": "Normal Gauntlet",
+    "checked": "2026-10-16",
+    "sources": [
+      {
+        "title": "r/CODZombies: Blood of the Dead community guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/blood-of-the-dead/"
+      },
+      {
+        "title": "Original player-posted Hellcatraz console challenge menu",
+        "url": "https://www.reddit.com/r/CODZombies/comments/b0dbgq/spoiler_all_30_hellcatraz_gauntlet_challenges/"
+      },
+      {
+        "title": "dkdynamite: original co-op Hellcatraz walkthrough",
+        "url": "https://www.youtube.com/watch?v=3_xtvseII9w"
+      },
+      {
+        "title": "u/OfficialSeidon: played Hellcatraz mechanics and PC round-3 correction",
+        "url": "https://www.reddit.com/r/CODZombies/comments/b3ceko/some_nifty_stuff_i_figured_out_regarding/"
+      },
+      {
+        "title": "r/CODZombies: played Hellcatraz preparation tips",
+        "url": "https://www.reddit.com/r/CODZombies/comments/i290zg/hellcatraz_tips/"
+      },
+      {
+        "title": "Taco and dkdynamite: original Hellcatraz walkthrough notes",
+        "url": "https://theundeadzone.com/hellcatraz-blood-of-the-dead-gauntlet-guide/"
+      },
+      {
+        "title": "Activision: March 12 PS4 Hellcatraz release and rules",
+        "url": "https://blog.activision.com/ca/en/call-of-duty/2019-03/The-Black-Ops-Pass-Multiplayer-Maps-Free-Access-Weekend-Starts-Today-Plus-Spring-Forward-to-Check-out-the-Brand-New-Call-of-Duty-Black-Ops-4-Content"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Round 01: Protect Richtofen's Lab",
+        "body": "Do not allow any Zombies to enter Richtofen's lab.",
+        "html": "<p>Do not allow any Zombies to enter Richtofen&#x27;s lab.</p><p><a href=\"https://www.youtube.com/watch?v=3_xtvseII9w&amp;t=40s\" target=\"_blank\" rel=\"noopener noreferrer\">Watch video</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/blood-of-the-dead/",
+        "tip": "Keep zombies out of the protected lab rather than waiting for them inside it."
+      },
+      {
+        "title": "Round 02: Attack while jumping",
+        "body": "Player can only attack while jumping.",
+        "html": "<p>Player can only attack while jumping.</p><p><a href=\"https://www.youtube.com/watch?v=3_xtvseII9w&amp;t=40s\" target=\"_blank\" rel=\"noopener noreferrer\">Watch video</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/blood-of-the-dead/"
+      },
+      {
+        "title": "Round 03: Reversed controls",
+        "body": "Movement controls are reversed.",
+        "html": "<p>Movement controls are reversed.</p><p><a href=\"https://www.youtube.com/watch?v=3_xtvseII9w&amp;t=60s\" target=\"_blank\" rel=\"noopener noreferrer\">Watch video</a></p><p><a href=\"https://www.reddit.com/r/CODZombies/comments/b3ceko/some_nifty_stuff_i_figured_out_regarding/\" target=\"_blank\" rel=\"noopener noreferrer\">Rule detail: u/OfficialSeidon: played Hellcatraz mechanics and PC round-3 correction</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/blood-of-the-dead/",
+        "tip": "PC warning: u/OfficialSeidon recorded Tower Defense here, where movement causes damage. Read your live round-3 rule before moving."
+      },
+      {
+        "title": "Round 04: Reload every shot",
+        "body": "Weapons must be reloaded after every shot if ammo is available.",
+        "html": "<p>Weapons must be reloaded after every shot if ammo is available.</p><p><a href=\"https://www.youtube.com/watch?v=3_xtvseII9w&amp;t=87s\" target=\"_blank\" rel=\"noopener noreferrer\">Watch video</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/blood-of-the-dead/"
+      },
+      {
+        "title": "Round 05: Swordfish only",
+        "body": "Use the Swordfish only.",
+        "html": "<p>Use the Swordfish only.</p><p><a href=\"https://www.youtube.com/watch?v=3_xtvseII9w&amp;t=112s\" target=\"_blank\" rel=\"noopener noreferrer\">Watch video</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/blood-of-the-dead/"
+      },
+      {
+        "title": "Round 06: SDM, aiming only",
+        "body": "All weapons replaced - SDM ADS only.",
+        "html": "<p>All weapons replaced - SDM ADS only.</p><p><a href=\"https://www.youtube.com/watch?v=3_xtvseII9w&amp;t=112s\" target=\"_blank\" rel=\"noopener noreferrer\">Watch video</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/blood-of-the-dead/",
+        "tip": "This round replaces your weapons and only allows the SDM while aiming. Plan around the reset."
+      },
+      {
+        "title": "Round 07: Trap kills only",
+        "body": "Kill Zombies with Traps only.",
+        "html": "<p>Kill Zombies with Traps only.</p><p><a href=\"https://www.youtube.com/watch?v=3_xtvseII9w&amp;t=112s\" target=\"_blank\" rel=\"noopener noreferrer\">Watch video</a></p><p><a href=\"https://www.reddit.com/r/CODZombies/wiki/blood-of-the-dead/\" target=\"_blank\" rel=\"noopener noreferrer\">Rule detail: r/CODZombies: Blood of the Dead community guide</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/blood-of-the-dead/",
+        "tip": "The trap companion lists Cafeteria, New Industries and the Warden's Office."
+      },
+      {
+        "title": "Round 08: Avoid aiming down sights",
+        "body": "ADS causes damage.",
+        "html": "<p>ADS causes damage.</p><p><a href=\"https://www.youtube.com/watch?v=3_xtvseII9w&amp;t=112s\" target=\"_blank\" rel=\"noopener noreferrer\">Watch video</a></p><p><a href=\"https://www.reddit.com/r/CODZombies/comments/b0dbgq/spoiler_all_30_hellcatraz_gauntlet_challenges/\" target=\"_blank\" rel=\"noopener noreferrer\">Rule detail: Original player-posted Hellcatraz console challenge menu</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/blood-of-the-dead/",
+        "tip": "Use this opportunity for needed Shield interactions. Players report earlier weapon restrictions can block Spirit Blasts."
+      },
+      {
+        "title": "Round 09: Claim Hell's Retriever",
+        "body": "At least one player must possess Hell's Retriever at the end of the round.",
+        "html": "<p>At least one player must possess Hell&#x27;s Retriever at the end of the round.</p><p><a href=\"https://www.youtube.com/watch?v=3_xtvseII9w&amp;t=112s\" target=\"_blank\" rel=\"noopener noreferrer\">Watch video</a></p><p><a href=\"https://www.reddit.com/r/CODZombies/wiki/blood-of-the-dead/\" target=\"_blank\" rel=\"noopener noreferrer\">Rule detail: r/CODZombies: Blood of the Dead community guide</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/blood-of-the-dead/",
+        "tip": "At least one player needs the Retriever. Feed the three wall dogs and collect it during Warden's House/Showers fast travel; use the companion guide."
+      },
+      {
+        "title": "Round 10: Defend the Roof",
+        "body": "Defend the roof.",
+        "html": "<p>Defend the roof.</p><p><a href=\"https://www.youtube.com/watch?v=3_xtvseII9w&amp;t=230s\" target=\"_blank\" rel=\"noopener noreferrer\">Watch video</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/blood-of-the-dead/"
+      },
+      {
+        "title": "Round 11: Black and white",
+        "body": "It's black and white.",
+        "html": "<p>It&#x27;s black and white.</p><p><a href=\"https://www.youtube.com/watch?v=3_xtvseII9w&amp;t=281s\" target=\"_blank\" rel=\"noopener noreferrer\">Watch video</a></p><p><a href=\"https://www.reddit.com/r/CODZombies/comments/b0dbgq/spoiler_all_30_hellcatraz_gauntlet_challenges/\" target=\"_blank\" rel=\"noopener noreferrer\">Rule detail: Original player-posted Hellcatraz console challenge menu</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/blood-of-the-dead/",
+        "tip": "The recording also shows the HUD disappearing. Players describe faster game speed; prepare your route beforehand."
+      },
+      {
+        "title": "Round 12: Twenty Spoon kills",
+        "body": "Get at least 20 Spoon kills by round end. Unrelated weapons are locked out.",
+        "html": "<p>Get at least 20 Spoon kills by round end. Unrelated weapons are locked out.</p><p><a href=\"https://www.youtube.com/watch?v=3_xtvseII9w&amp;t=283s\" target=\"_blank\" rel=\"noopener noreferrer\">Watch video</a></p><p><a href=\"https://www.youtube.com/watch?v=3_xtvseII9w\" target=\"_blank\" rel=\"noopener noreferrer\">Rule detail: dkdynamite: original co-op Hellcatraz walkthrough</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/blood-of-the-dead/",
+        "tip": "Four-player video: each player needs twenty Spoon kills. The Shield can still gather souls for the Spoon setup during this round."
+      },
+      {
+        "title": "Round 13: Sprint to keep points",
+        "body": "Sprint to avoid point drain. Slower movement drains points faster.",
+        "html": "<p>Sprint to avoid point drain. Slower movement drains points faster.</p><p><a href=\"https://www.youtube.com/watch?v=3_xtvseII9w&amp;t=313s\" target=\"_blank\" rel=\"noopener noreferrer\">Watch video</a></p><p><a href=\"https://www.reddit.com/r/CODZombies/comments/b3ceko/some_nifty_stuff_i_figured_out_regarding/\" target=\"_blank\" rel=\"noopener noreferrer\">Rule detail: u/OfficialSeidon: played Hellcatraz mechanics and PC round-3 correction</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/blood-of-the-dead/",
+        "tip": "Keep sprinting when safe. u/OfficialSeidon reports that fast travel counts as standing still for point drain."
+      },
+      {
+        "title": "Round 14: Have a fully-packed gun",
+        "body": "Possess a fully packed weapon at the end of the round.",
+        "html": "<p>Possess a fully packed weapon at the end of the round.</p><p><a href=\"https://www.youtube.com/watch?v=3_xtvseII9w&amp;t=313s\" target=\"_blank\" rel=\"noopener noreferrer\">Watch video</a></p><p><a href=\"https://www.reddit.com/r/CODZombies/comments/b3ceko/some_nifty_stuff_i_figured_out_regarding/\" target=\"_blank\" rel=\"noopener noreferrer\">Rule detail: u/OfficialSeidon: played Hellcatraz mechanics and PC round-3 correction</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/blood-of-the-dead/",
+        "tip": "Have a fully-packed weapon before the last kill. u/OfficialSeidon confirms that an upgraded Blundergat-family weapon qualifies in the recorded build."
+      },
+      {
+        "title": "Round 15: Defend the Power House",
+        "body": "Defend the Power House",
+        "html": "<p>Defend the Power House</p><p><a href=\"https://www.youtube.com/watch?v=3_xtvseII9w&amp;t=375s\" target=\"_blank\" rel=\"noopener noreferrer\">Watch video</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/blood-of-the-dead/"
+      },
+      {
+        "title": "Round 16: Mozu only",
+        "body": "Use the Mozu only.",
+        "html": "<p>Use the Mozu only.</p><p><a href=\"https://www.youtube.com/watch?v=3_xtvseII9w&amp;t=375s\" target=\"_blank\" rel=\"noopener noreferrer\">Watch video</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/blood-of-the-dead/",
+        "tip": "Prepare the Mozu before this round; another gun cannot replace it."
+      },
+      {
+        "title": "Round 17: Forge the Magmagat now",
+        "body": "Forge the Magmagat during the round.",
+        "html": "<p>Forge the Magmagat during the round.</p><p><a href=\"https://www.youtube.com/watch?v=3_xtvseII9w&amp;t=375s\" target=\"_blank\" rel=\"noopener noreferrer\">Watch video</a></p><p><a href=\"https://www.reddit.com/r/CODZombies/comments/b3ceko/some_nifty_stuff_i_figured_out_regarding/\" target=\"_blank\" rel=\"noopener noreferrer\">Rule detail: u/OfficialSeidon: played Hellcatraz mechanics and PC round-3 correction</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/blood-of-the-dead/",
+        "tip": "Forge during round 17; simply holding an earlier Magmagat is insufficient. If forged early, u/OfficialSeidon confirms converting it with the Acidgat kit, then using the press again during 17."
+      },
+      {
+        "title": "Round 18: Two weapon sacrifices",
+        "body": "Sacrifice 2 weapons to the Pack-A-Punch Machine.",
+        "html": "<p>Sacrifice 2 weapons to the Pack-A-Punch Machine.</p><p><a href=\"https://www.youtube.com/watch?v=3_xtvseII9w&amp;t=457s\" target=\"_blank\" rel=\"noopener noreferrer\">Watch video</a></p><p><a href=\"https://www.youtube.com/watch?v=3_xtvseII9w\" target=\"_blank\" rel=\"noopener noreferrer\">Rule detail: dkdynamite: original co-op Hellcatraz walkthrough</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/blood-of-the-dead/",
+        "tip": "Four-player video: each player sacrifices two guns. Use expendable weapons and keep your important gun out of Pack-a-Punch."
+      },
+      {
+        "title": "Round 19: Survive the Terror",
+        "body": "Survive the Terror.",
+        "html": "<p>Survive the Terror.</p><p><a href=\"https://www.youtube.com/watch?v=3_xtvseII9w&amp;t=457s\" target=\"_blank\" rel=\"noopener noreferrer\">Watch video</a></p><p><a href=\"https://www.reddit.com/r/CODZombies/comments/b0dbgq/spoiler_all_30_hellcatraz_gauntlet_challenges/\" target=\"_blank\" rel=\"noopener noreferrer\">Rule detail: Original player-posted Hellcatraz console challenge menu</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/blood-of-the-dead/",
+        "tip": "Players describe slow movement followed by sudden rushes. Leave space instead of treating these as ordinary slow zombies."
+      },
+      {
+        "title": "Round 20: Defend the Showers",
+        "body": "Defend the Showers.",
+        "html": "<p>Defend the Showers.</p><p><a href=\"https://www.youtube.com/watch?v=3_xtvseII9w&amp;t=457s\" target=\"_blank\" rel=\"noopener noreferrer\">Watch video</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/blood-of-the-dead/"
+      },
+      {
+        "title": "Round 21: Prone to regenerate",
+        "body": "Health regeneration only works while prone.",
+        "html": "<p>Health regeneration only works while prone.</p><p><a href=\"https://www.youtube.com/watch?v=3_xtvseII9w&amp;t=546s\" target=\"_blank\" rel=\"noopener noreferrer\">Watch video</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/blood-of-the-dead/",
+        "tip": "Go prone when you need health regeneration, leaving room to stand and escape."
+      },
+      {
+        "title": "Round 22: Points reset to zero",
+        "body": "Points are reset to zero.",
+        "html": "<p>Points are reset to zero.</p><p><a href=\"https://www.youtube.com/watch?v=3_xtvseII9w&amp;t=546s\" target=\"_blank\" rel=\"noopener noreferrer\">Watch video</a></p><p><a href=\"https://theundeadzone.com/hellcatraz-blood-of-the-dead-gauntlet-guide/\" target=\"_blank\" rel=\"noopener noreferrer\">Rule detail: Taco and dkdynamite: original Hellcatraz walkthrough notes</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/blood-of-the-dead/",
+        "tip": "Buy the upgrades and perks you need before finishing round 21."
+      },
+      {
+        "title": "Round 23: Use an attachment-free gun",
+        "body": "Only kills via weapons without attachments are allowed.",
+        "html": "<p>Only kills via weapons without attachments are allowed.</p><p><a href=\"https://www.youtube.com/watch?v=3_xtvseII9w&amp;t=576s\" target=\"_blank\" rel=\"noopener noreferrer\">Watch video</a></p><p><a href=\"https://www.reddit.com/r/CODZombies/comments/b0dbgq/spoiler_all_30_hellcatraz_gauntlet_challenges/\" target=\"_blank\" rel=\"noopener noreferrer\">Rule detail: Original player-posted Hellcatraz console challenge menu</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/blood-of-the-dead/",
+        "tip": "The M1927 is a documented attachment-free option and returns on round 26. End this round in a spacious training area before the lockdown."
+      },
+      {
+        "title": "Round 24: Doors seal shut",
+        "body": "All doors are sealed for the round.",
+        "html": "<p>All doors are sealed for the round.</p><p><a href=\"https://www.youtube.com/watch?v=3_xtvseII9w&amp;t=618s\" target=\"_blank\" rel=\"noopener noreferrer\">Watch video</a></p><p><a href=\"https://theundeadzone.com/hellcatraz-blood-of-the-dead-gauntlet-guide/\" target=\"_blank\" rel=\"noopener noreferrer\">Rule detail: Taco and dkdynamite: original Hellcatraz walkthrough notes</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/blood-of-the-dead/",
+        "tip": "Doors seal for this round. Choose your position before ending round 23."
+      },
+      {
+        "title": "Round 25: Defend the Infirmary",
+        "body": "Defend the Infirmary.",
+        "html": "<p>Defend the Infirmary.</p><p><a href=\"https://www.youtube.com/watch?v=3_xtvseII9w&amp;t=665s\" target=\"_blank\" rel=\"noopener noreferrer\">Watch video</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/blood-of-the-dead/"
+      },
+      {
+        "title": "Round 26: M1927 only",
+        "body": "Use the M1927 only.",
+        "html": "<p>Use the M1927 only.</p><p><a href=\"https://www.youtube.com/watch?v=3_xtvseII9w&amp;t=665s\" target=\"_blank\" rel=\"noopener noreferrer\">Watch video</a></p><p><a href=\"https://www.reddit.com/r/CODZombies/comments/b0dbgq/spoiler_all_30_hellcatraz_gauntlet_challenges/\" target=\"_blank\" rel=\"noopener noreferrer\">Rule detail: Original player-posted Hellcatraz console challenge menu</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/b0dbgq/spoiler_all_30_hellcatraz_gauntlet_challenges/",
+        "tip": "Use the M1927 wall weapon. The wiki's MI927 spelling is a typo; the original menu shows M1927."
+      },
+      {
+        "title": "Round 27: Ammo reset to zero",
+        "body": "All ammo is reset to zero.",
+        "html": "<p>All ammo is reset to zero.</p><p><a href=\"https://www.youtube.com/watch?v=3_xtvseII9w&amp;t=665s\" target=\"_blank\" rel=\"noopener noreferrer\">Watch video</a></p><p><a href=\"https://www.reddit.com/r/CODZombies/comments/b0dbgq/spoiler_all_30_hellcatraz_gauntlet_challenges/\" target=\"_blank\" rel=\"noopener noreferrer\">Rule detail: Original player-posted Hellcatraz console challenge menu</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/blood-of-the-dead/",
+        "tip": "Plan a refill before your ammo disappears: players document a saved cell Max Ammo or Cache Back Elixir."
+      },
+      {
+        "title": "Round 28: Use Hell Holes in time",
+        "body": "Travel through Hell Holes before timer expires.",
+        "html": "<p>Travel through Hell Holes before timer expires.</p><p><a href=\"https://www.youtube.com/watch?v=3_xtvseII9w&amp;t=740s\" target=\"_blank\" rel=\"noopener noreferrer\">Watch video</a></p><p><a href=\"https://blog.activision.com/ca/en/call-of-duty/2019-03/The-Black-Ops-Pass-Multiplayer-Maps-Free-Access-Weekend-Starts-Today-Plus-Spring-Forward-to-Check-out-the-Brand-New-Call-of-Duty-Black-Ops-4-Content\" target=\"_blank\" rel=\"noopener noreferrer\">Rule detail: Activision: March 12 PS4 Hellcatraz release and rules</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/blood-of-the-dead/",
+        "tip": "Use a Hell Hole before every timer expires, leaving time to finish the trip. In co-op, coordinate separate endpoint pairs: Warden's House/Showers and Cafeteria/Transverse Tunnel."
+      },
+      {
+        "title": "Round 29: Survive the Hellhounds",
+        "body": "Survive a Hellhound onslaught.",
+        "html": "<p>Survive a Hellhound onslaught.</p><p><a href=\"https://www.youtube.com/watch?v=3_xtvseII9w&amp;t=740s\" target=\"_blank\" rel=\"noopener noreferrer\">Watch video</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/blood-of-the-dead/"
+      },
+      {
+        "title": "Round 30: Defend the Warden's House",
+        "body": "Defend the Warden's House.",
+        "html": "<p>Defend the Warden&#x27;s House.</p><p><a href=\"https://www.youtube.com/watch?v=3_xtvseII9w&amp;t=825s\" target=\"_blank\" rel=\"noopener noreferrer\">Watch video</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/blood-of-the-dead/",
+        "tip": "Defend the Warden's House to finish. This is a room defense, separate from the story quest's boss sequence."
+      }
+    ],
+    "sourceQuote": "https://www.reddit.com/r/CODZombies/wiki/blood-of-the-dead/",
+    "supplementNote": "Console conditions are quoted from r/CODZombies and checked against the original menu. Round 26 corrects the wiki's MI927 to M1927. Tips are separately linked supplements. Blood links use nearby auto-indexed sections, not exact creator chapters.",
+    "sourceOmissions": [
+      "A complete final-build PC table remains pending; the early firsthand PC round-3 difference must remain visible.",
+      "Exact timer scaling, all trigger exceptions and restriction bypasses were not tested.",
+      "Twenty Spoon kills and two sacrifices per player were observed in one four-player console recording; other lobby-size quotas were not independently captured.",
+      "Nearby Blood video sections can begin before the named round; the menu image directly supports all thirty condition wordings."
+    ],
+    "relatedGuideIds": [
+      "bo4-blood-of-the-dead-community-blood-of-the-dead-map-features-spectral-shield",
+      "bo4-blood-of-the-dead-community-blood-of-the-dead-map-features-pack-a-punch",
+      "bo4-blood-of-the-dead-community-blood-of-the-dead-map-features-hell-s-retriever",
+      "bo4-blood-of-the-dead-community-blood-of-the-dead-map-features-spoon",
+      "bo4-blood-of-the-dead-community-blood-of-the-dead-map-features-magmagat",
+      "bo4-blood-of-the-dead-community-blood-of-the-dead-map-features-traps",
+      "bo4-blood-of-the-dead-community-blood-of-the-dead-map-features-fast-travel"
+    ]
   }
 ]

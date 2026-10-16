@@ -79,7 +79,7 @@
     },
     "bo6-reckoning": {
       "src": "./assets/bo6-reckoning.jpg",
-      "alt": "The Janus Towers reception lobby on Reckoning.",
+      "alt": "T1 Executive Suite and the central Janus sculpture on Reckoning.",
       "source": "https://www.callofduty.com/guides/blackops6/zombies/call-of-duty-guides-black-ops-6-round-based-zombies-directed-mode-reckoning",
       "credit": "Call of Duty / Activision",
       "mapSpecific": true
@@ -493,6 +493,26 @@
       "modeSpecific": true,
       "caption": "Rush pickups — creator-edited gameplay thumbnail",
       "imageKind": "Creator-edited video thumbnail; not an unaltered HUD screenshot"
+    },
+    "bo4-ix-veni-vidi-zombie": {
+      "src": "./assets/ix-firsthand-conditions.jpg",
+      "alt": "Original IX Gauntlet menu capture listing thirty Normal challenge conditions",
+      "source": "https://www.reddit.com/r/Blackops4/comments/alsw92/all_ix_gauntlet_challenges/",
+      "credit": "u/iScabs; Call of Duty / Activision",
+      "caption": "IX Gauntlet challenge menu - player capture",
+      "mapSpecific": true,
+      "modeSpecific": true,
+      "imageKind": "Player-posted game condition-menu screenshot; not a gameplay location photo"
+    },
+    "bo4-blood-hellcatraz": {
+      "src": "./assets/hellcatraz-firsthand-conditions.jpg",
+      "alt": "Original console Hellcatraz menu listing all thirty challenge conditions, including M1927",
+      "source": "https://www.reddit.com/r/CODZombies/comments/b0dbgq/spoiler_all_30_hellcatraz_gauntlet_challenges/",
+      "credit": "r/CODZombies contributor (account deleted); Call of Duty / Activision",
+      "caption": "Hellcatraz console challenge menu - player capture",
+      "mapSpecific": true,
+      "modeSpecific": true,
+      "imageKind": "Player-posted game condition-menu screenshot; not a gameplay location photo"
     }
   },
   "games": {
@@ -906,6 +926,32 @@
         "credit": "Call of Duty / Activision; gameplay screenshot by u/BigBadMike8",
         "alt": "The Necrofluid Gauntlet held on Rex Infernus in the discovery screenshot.",
         "caption": "Firsthand evidence of the Gauntlet on Rex Infernus; this picture does not mark the Anvil interaction point."
+      }
+    ],
+    "bo4-ix-veni-vidi-zombie-normal-30-rounds": [
+      {
+        "src": "./assets/ix-firsthand-conditions.jpg",
+        "alt": "Original IX Gauntlet menu capture listing thirty Normal challenge conditions",
+        "source": "https://www.reddit.com/r/Blackops4/comments/alsw92/all_ix_gauntlet_challenges/",
+        "credit": "u/iScabs; Call of Duty / Activision",
+        "caption": "IX Gauntlet challenge menu - player capture",
+        "mapSpecific": true,
+        "modeSpecific": true,
+        "imageKind": "Player-posted game condition-menu screenshot; not a gameplay location photo",
+        "step": 1
+      }
+    ],
+    "bo4-blood-hellcatraz-normal-console-30-rounds": [
+      {
+        "src": "./assets/hellcatraz-firsthand-conditions.jpg",
+        "alt": "Original console Hellcatraz menu listing all thirty challenge conditions, including M1927",
+        "source": "https://www.reddit.com/r/CODZombies/comments/b0dbgq/spoiler_all_30_hellcatraz_gauntlet_challenges/",
+        "credit": "r/CODZombies contributor (account deleted); Call of Duty / Activision",
+        "caption": "Hellcatraz console challenge menu - player capture",
+        "mapSpecific": true,
+        "modeSpecific": true,
+        "imageKind": "Player-posted game condition-menu screenshot; not a gameplay location photo",
+        "step": 1
       }
     ]
   }

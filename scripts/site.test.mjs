@@ -138,6 +138,7 @@ test("community routes keep complete upgrade details, tables and version scopes"
   assert.equal(kowakujo.sourceOmissions.length, 0);
   assert.ok(!references.some((reference) => reference.url.endsWith("/shangri-la/")), "Disabled source must not import subreddit rules");
   assert.ok(!community.some((guide) => guide.id === "moon-game-features-black-ops-1-weapons-list"), "The copied Call of the Dead table is not a Moon walkthrough");
+  assert.ok(!community.some((guide) => guide.id === "five-easter-eggs-main-easter-egg"), "A scope-only statement is not a playable Five quest");
   assert.ok(!community.some((guide) => guide.title === "Map Easter Eggs" && /^For (?:a complete coverage|constant easter egg)/i.test(guide.steps[0]?.body)), "Promotional links are not playable walkthroughs");
   const chamber = guides.find((guide) => guide.id === "coldwar-die-maschine-main").steps.find((step) => step.title === "Raise all four chamber legs");
   assert.match(chamber.body, /NOVA-5 → green.*Electrobolt → yellow/);

@@ -285,6 +285,9 @@ for reference in references:
             if reference['url'].endswith('/moon/') and title == 'Black Ops 1 Weapons List':
                 gaps.append({'mapIds': ['bo1-moon'], 'title': title, 'source': reference['url'], 'note': 'The source table incorrectly lists Scavenger, V-R11 and Matryoshka Dolls from Call of the Dead. Dedicated Moon weapon guides remain available.'})
                 continue
+            if reference['url'].endswith('/five/') and title == 'Main Easter Egg':
+                gaps.append({'mapIds': ['bo1-five'], 'title': title, 'source': reference['url'], 'note': 'This paragraph only states that Five has no main quest. Its source text remains available; the map has separate playable secrets, music and equipment guides.'})
+                continue
             if len(plain(text).split()) < 12 or '[Section unfinished' in text or 'CHANGE ME' in text:
                 gaps.append({'mapIds': reference['mapIds'], 'title': title, 'source': reference['url']})
                 continue
