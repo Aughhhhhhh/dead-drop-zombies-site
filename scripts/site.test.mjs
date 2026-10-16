@@ -110,8 +110,8 @@ test("catalog and walkthrough IDs stay linked and unique", () => {
 });
 
 test("community routes keep complete upgrade details, tables and version scopes", () => {
-  const balmung = community.find((guide) => guide.title === "Balmung (Shadow)");
-  assert.ok(balmung.steps.some((step) => step.html.includes("<table>") && step.body.includes("Scorpion")));
+  const balmung = community.find((guide) => guide.id === "citadelle-des-morts-key-features-balmung-shadow");
+  assert.ok(balmung.steps.some((step) => step.html?.includes("<table>") && step.body.includes("Scorpion")));
   for (const title of ["Void Bow", "Fire Bow", "Lightning/Storm Bow", "Wolf Bow"])
     assert.ok(community.find((guide) => guide.title === title)?.steps.length >= 6, title);
   const fireStaff = community.find((guide) => guide.title === "Staff of Fire");
