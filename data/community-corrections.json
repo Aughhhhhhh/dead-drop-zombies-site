@@ -3228,5 +3228,242 @@
     ],
     "supplementNote": "Unquoted sections below are researched corrections or added directions. Any unresolved source claims are qualified in the field notes.",
     "sourceQuote": null
+  },
+  "voyage-of-despair-map-features-gauntlet-challenges": {
+    "title": "Unsinkable (Normal): source round list",
+    "relatedGuideIds": [
+      "bo4-voyage-unsinkable-normal-30-rounds"
+    ]
+  },
+  "nuketown-map-walkthrough-pack-a-punch-and-perks": {
+    "title": "Pack-a-Punch and the four perks",
+    "category": "weapon",
+    "players": "1–4 players",
+    "summary": "Find the machines as they fall, then buy perks and upgrade your held weapon.",
+    "requirements": [
+      "Play Nuketown Zombies Survival. The machine order and landing positions vary between matches.",
+      "Keep points for purchases after the machines arrive."
+    ],
+    "reward": "Access to Quick Revive, Jugger-Nog, Speed Cola, Double Tap II and Pack-a-Punch.",
+    "sources": [
+      {
+        "title": "r/CODZombies: captured Nuketown source",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/nuketown/"
+      },
+      {
+        "title": "CtrlAltSleep: firsthand bear route and door costs",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=121450710"
+      },
+      {
+        "title": "mmmrkennedy: photographed locations and trigger table",
+        "url": "https://mmmrkennedy.com/games/BO2/nuketown/nuketown_guide"
+      },
+      {
+        "title": "JokerAlex 21: illustrated Nuketown routes and original videos",
+        "url": "https://www.codzombieguides.com/nuketown-zombies"
+      },
+      {
+        "title": "Phoenix: 2017 weapons, perks and music guide",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1105643975"
+      },
+      {
+        "title": "Pack-a-Punch: BO2 upgrade and re-pack costs",
+        "url": "https://callofduty.fandom.com/wiki/Pack-a-Punch_Machine/Treyarch"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Survive until machines arrive",
+        "body": "Solo begins with Quick Revive landing near spawn. The other machines arrive as the match advances; in co-op, Quick Revive is part of the random order.",
+        "tip": "Pack-a-Punch may arrive late. Keep using available weapons while you wait; the population clock is not a switch you need to activate.",
+        "researchSource": "https://mmmrkennedy.com/games/BO2/nuketown/nuketown_guide"
+      },
+      {
+        "title": "Find each landing spot",
+        "body": "When the siren sounds, watch for the falling fireball and inspect the crate-and-teddy landing sites around the street and backyards. The dropped machine stays at its landing position.",
+        "tip": "Source guides disagree on the precise round windows. Use the siren and the machine itself to confirm availability.",
+        "researchSource": "https://mmmrkennedy.com/games/BO2/nuketown/nuketown_guide"
+      },
+      {
+        "title": "Buy the perks you want",
+        "body": "Jugger-Nog costs 2,500, Speed Cola 3,000 and Double Tap II 2,000 points. Quick Revive costs 500 solo or 1,500 in co-op. Buy from each landed machine.",
+        "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=1105643975"
+      },
+      {
+        "title": "Upgrade and retrieve the gun",
+        "body": "Once Pack-a-Punch lands, hold the gun you want to upgrade, pay 5,000 points, then retrieve the weapon after processing. Keep the area clear while it is in the machine.",
+        "tip": "Compatible BO2 guns can be re-packed for 2,000 to change attachments; this is not a second full damage tier for every weapon.",
+        "researchSource": "https://callofduty.fandom.com/wiki/Pack-a-Punch_Machine/Treyarch"
+      }
+    ],
+    "sourceQuote": null,
+    "checked": "2026-10-16"
+  },
+  "nuketown-easter-eggs-map-song-music-easter-egg": {
+    "title": "Samantha’s Lullaby: all three teddy bears",
+    "players": "1–4 players",
+    "summary": "Activate the bus, upstairs bedroom and garden bears in any order.",
+    "requirements": [
+      "Use Normal difficulty for the music and story secrets.",
+      "The two house routes below cost 3,500 points together from a closed map. A teammate can pay the doors."
+    ],
+    "reward": "Samantha’s Lullaby plays once per match.",
+    "sources": [
+      {
+        "title": "r/CODZombies: captured Nuketown source",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/nuketown/"
+      },
+      {
+        "title": "CtrlAltSleep: firsthand bear route and door costs",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=121450710"
+      },
+      {
+        "title": "mmmrkennedy: photographed locations and trigger table",
+        "url": "https://mmmrkennedy.com/games/BO2/nuketown/nuketown_guide"
+      },
+      {
+        "title": "JokerAlex 21: illustrated Nuketown routes and original videos",
+        "url": "https://www.codzombieguides.com/nuketown-zombies"
+      },
+      {
+        "title": "Phoenix: 2017 weapons, perks and music guide",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1105643975"
+      },
+      {
+        "title": "Firsthand report: Easy disables story/music interactions",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1dlah76/"
+      }
+    ],
+    "relatedGuideIds": [
+      "bo2-nuketown-zombies-eight-bit-mannequins",
+      "bo2-nuketown-zombies-re-damned"
+    ],
+    "steps": [
+      {
+        "title": "Bus window",
+        "body": "At spawn, look through the yellow bus windows on the side facing the red truck. Aim at the bear inside and hold Interact until you hear its confirmation sound.",
+        "images": [
+          {
+            "src": "./assets/nuketown-teddy-bus.webp",
+            "alt": "Bus bear: look through the window facing the truck.",
+            "caption": "Bus bear: look through the window facing the truck.",
+            "source": "https://mmmrkennedy.com/games/BO2/nuketown/nuketown_guide",
+            "credit": "Call of Duty / Activision gameplay; mmmrkennedy PC location reference"
+          }
+        ],
+        "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=121450710"
+      },
+      {
+        "title": "Yellow House top bunk",
+        "body": "From the street, open the Yellow House front door for 750 and the upstairs barrier for 1,000. Enter the bedroom and hold Interact at the bear on the top bunk. Jump closer if the interaction does not register.",
+        "images": [
+          {
+            "src": "./assets/nuketown-teddy-bed.webp",
+            "alt": "Bedroom bear: on the upper bunk in the Yellow House.",
+            "caption": "Bedroom bear: on the upper bunk in the Yellow House.",
+            "source": "https://mmmrkennedy.com/games/BO2/nuketown/nuketown_guide",
+            "credit": "Call of Duty / Activision gameplay; mmmrkennedy PC location reference"
+          }
+        ],
+        "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=121450710"
+      },
+      {
+        "title": "Green House garden fence",
+        "body": "Open the Green House front door for 750 and its rear route for 1,000. In the back garden, find the gap in the far fence beside the rock. Hold Interact toward the bear beyond it. The third activated bear starts the song.",
+        "images": [
+          {
+            "src": "./assets/nuketown-teddy-backyard.webp",
+            "alt": "Garden bear: beyond the gap in the Green House fence.",
+            "caption": "Garden bear: beyond the gap in the Green House fence.",
+            "source": "https://mmmrkennedy.com/games/BO2/nuketown/nuketown_guide",
+            "credit": "Call of Duty / Activision gameplay; mmmrkennedy PC location reference"
+          }
+        ],
+        "tip": "The bears can be activated in any order. Listen for a confirmation at each one.",
+        "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=121450710"
+      }
+    ],
+    "sourceQuote": null,
+    "checked": "2026-10-16"
+  },
+  "nuketown-easter-eggs-side-easter-eggs": {
+    "title": "Marlton, the TV transmissions and the bus horn",
+    "players": "1–4 players",
+    "summary": "Hear the bunker dialogue and Moon transmissions while surviving to the round-25 change.",
+    "requirements": [
+      "Select Normal difficulty.",
+      "Open the Green House and its backyard; turn up dialogue volume."
+    ],
+    "reward": "Story audio, the distant bus horn and the round-25 eye/announcer change.",
+    "sources": [
+      {
+        "title": "r/CODZombies: captured Nuketown source",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/nuketown/"
+      },
+      {
+        "title": "CtrlAltSleep: firsthand bear route and door costs",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=121450710"
+      },
+      {
+        "title": "mmmrkennedy: photographed locations and trigger table",
+        "url": "https://mmmrkennedy.com/games/BO2/nuketown/nuketown_guide"
+      },
+      {
+        "title": "JokerAlex 21: illustrated Nuketown routes and original videos",
+        "url": "https://www.codzombieguides.com/nuketown-zombies"
+      },
+      {
+        "title": "Phoenix: 2017 weapons, perks and music guide",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1105643975"
+      },
+      {
+        "title": "Firsthand report: Easy disables story/music interactions",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1dlah76/"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Knock on Marlton’s bunker",
+        "body": "In the Green House backyard, melee the metal fallout-bunker door. Pause to hear the quiet reply. Try again on later rounds to hear other lines; repeated hits in one round do not advance the whole recording set.",
+        "images": [
+          {
+            "src": "./assets/nuketown-bunker.webp",
+            "alt": "Marlton’s fallout-bunker door behind the Green House.",
+            "caption": "Marlton’s fallout-bunker door behind the Green House.",
+            "source": "https://mmmrkennedy.com/games/BO2/nuketown/nuketown_guide",
+            "credit": "Call of Duty / Activision gameplay; mmmrkennedy PC location reference"
+          }
+        ],
+        "tip": "This is a different door from the paid power-up shed behind the Yellow House.",
+        "researchSource": "https://www.codzombieguides.com/nuketown-zombies"
+      },
+      {
+        "title": "Listen by the Green House TV",
+        "body": "Stand near the living-room television at the start of round 3 and at later round transitions. Richtofen’s transmissions describe the Moon events; they play automatically rather than from a new TV-button puzzle.",
+        "images": [
+          {
+            "src": "./assets/nuketown-tv.webp",
+            "alt": "Living-room television in the Green House.",
+            "caption": "Living-room television in the Green House.",
+            "source": "https://mmmrkennedy.com/games/BO2/nuketown/nuketown_guide",
+            "credit": "Call of Duty / Activision gameplay; mmmrkennedy PC location reference"
+          }
+        ],
+        "tip": "Sources give different intermediate round schedules. Check round transitions instead of relying on a fixed 6/16/21 list.",
+        "researchSource": "https://www.codzombieguides.com/nuketown-zombies"
+      },
+      {
+        "title": "Hear the distant horn",
+        "body": "During the early rounds, listen for the bus horn associated with TranZit. Guides report round 5 or a round in the 5–10 range; there is no documented button to summon or board that bus.",
+        "researchSource": "https://www.codzombieguides.com/nuketown-zombies"
+      },
+      {
+        "title": "Reach round 25",
+        "body": "Survive to round 25 for the final Richtofen transmission. The zombies’ eyes turn blue and Richtofen replaces Samantha as the power-up announcer.",
+        "researchSource": "https://www.codzombieguides.com/nuketown-zombies"
+      }
+    ],
+    "sourceQuote": null,
+    "checked": "2026-10-16"
   }
 }

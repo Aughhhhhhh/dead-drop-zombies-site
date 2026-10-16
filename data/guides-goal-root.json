@@ -344,5 +344,287 @@
       }
     ],
     "checked": "2026-10-16"
+  },
+  {
+    "id": "bo2-nuketown-zombies-eight-bit-mannequins",
+    "mapId": "bo2-nuketown-zombies",
+    "title": "Coming Home (8-bit): the mannequin song",
+    "category": "music",
+    "difficulty": "Easy",
+    "players": "1–4 players",
+    "summary": "Search the random mannequin layout, including the three easy-to-miss locations pictured below.",
+    "requirements": [
+      "Normal difficulty; use a gun or melee.",
+      "Open both houses and the rear areas so you can inspect the whole map."
+    ],
+    "reward": "The 8-bit song begins after the final mannequin is decapitated.",
+    "sources": [
+      {
+        "title": "r/CODZombies: captured Nuketown source",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/nuketown/"
+      },
+      {
+        "title": "CtrlAltSleep: firsthand bear route and door costs",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=121450710"
+      },
+      {
+        "title": "mmmrkennedy: photographed locations and trigger table",
+        "url": "https://mmmrkennedy.com/games/BO2/nuketown/nuketown_guide"
+      },
+      {
+        "title": "JokerAlex 21: illustrated Nuketown routes and original videos",
+        "url": "https://www.codzombieguides.com/nuketown-zombies"
+      },
+      {
+        "title": "Phoenix: 2017 weapons, perks and music guide",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1105643975"
+      },
+      {
+        "title": "PINNAZ: Nuketown song triggers",
+        "url": "https://www.callofdutyzombies.com/zombie-library/zombies-library/black-ops_ii/nuketown/songs-r246/"
+      },
+      {
+        "title": "Early player guide: Coming Home / Pareidolia labels",
+        "url": "https://forum.gamer.com.tw/C.php?bsn=5371&snA=18270"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Remove every mannequin head",
+        "body": "Shoot or melee every mannequin’s head. Search the street, both floors of each house, garages and backyards, then look beyond fences and barricades. The documented layout uses 28 mannequins chosen from 54 possible positions.",
+        "researchSource": "https://mmmrkennedy.com/games/BO2/nuketown/nuketown_guide"
+      },
+      {
+        "title": "Check the hidden candidates",
+        "body": "Inspect the power-up shed behind the Yellow House, the sofa behind the red truck and the inaccessible house window to the left of the Green House. These are possible positions, so an empty spot does not mean the attempt failed.",
+        "images": [
+          {
+            "src": "./assets/nuketown-mannequin-shed.webp",
+            "alt": "Possible mannequin inside the Yellow House power-up shed.",
+            "caption": "Possible mannequin inside the Yellow House power-up shed.",
+            "source": "https://mmmrkennedy.com/games/BO2/nuketown/nuketown_guide",
+            "credit": "Call of Duty / Activision gameplay; mmmrkennedy PC location reference"
+          },
+          {
+            "src": "./assets/nuketown-mannequin-sofa.webp",
+            "alt": "Possible mannequin lying on the sofa behind the truck.",
+            "caption": "Possible mannequin lying on the sofa behind the truck.",
+            "source": "https://mmmrkennedy.com/games/BO2/nuketown/nuketown_guide",
+            "credit": "Call of Duty / Activision gameplay; mmmrkennedy PC location reference"
+          },
+          {
+            "src": "./assets/nuketown-mannequin-window.webp",
+            "alt": "Possible mannequin in an inaccessible house window.",
+            "caption": "Possible mannequin in an inaccessible house window.",
+            "source": "https://mmmrkennedy.com/games/BO2/nuketown/nuketown_guide",
+            "credit": "Call of Duty / Activision gameplay; mmmrkennedy PC location reference"
+          }
+        ],
+        "tip": "These three photos cover common misses; they are not a complete atlas of all 54 candidate positions.",
+        "researchSource": "https://mmmrkennedy.com/games/BO2/nuketown/nuketown_guide"
+      },
+      {
+        "title": "Listen after the last head",
+        "body": "The music starts when the last required head is removed. If it stays silent, sweep the distant windows and fence lines again.",
+        "tip": "Older sources also name Pareidolia (8-bit) for this trigger. The precise song/build split has not been independently confirmed here.",
+        "researchSource": "https://mmmrkennedy.com/games/BO2/nuketown/nuketown_guide"
+      }
+    ],
+    "checked": "2026-10-16"
+  },
+  {
+    "id": "bo2-nuketown-zombies-re-damned",
+    "mapId": "bo2-nuketown-zombies",
+    "title": "Re-Damned (8-bit): the 115 clock and shed",
+    "category": "music",
+    "difficulty": "Easy",
+    "players": "1–4 players",
+    "summary": "Set the sign and clock, then take the power-up from the Yellow House shed.",
+    "requirements": [
+      "Normal difficulty; open the Yellow House backyard.",
+      "Keep 3,000 points for the shed door if it is still closed. Ask teammates to stop killing when the sign reaches 15."
+    ],
+    "reward": "Re-Damned, the 8-bit menu-theme remix.",
+    "sources": [
+      {
+        "title": "CtrlAltSleep: original clock/sign trigger report",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=121450710"
+      },
+      {
+        "title": "PINNAZ: 115 route and Telixion video",
+        "url": "https://www.callofdutyzombies.com/zombie-library/zombies-library/black-ops_ii/nuketown/songs-r246/"
+      },
+      {
+        "title": "JokerAlex 21: counter, clock and shed route",
+        "url": "https://www.codzombieguides.com/nuketown-zombies"
+      },
+      {
+        "title": "Telixion: original Re-Damned demonstration linked by CoDZ",
+        "url": "https://www.youtube.com/watch?v=HY3eW_OviYg"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Read the central clock and sign",
+        "body": "Watch the Nuketown population sign as kills reduce its counter. Each wrap advances the clock. Use the clock/sign route described by the early guides: hand at 1 and population at 15, together reading 115.",
+        "images": [
+          {
+            "src": "./assets/nuketown-population.webp",
+            "alt": "The population sign beside the central clock.",
+            "caption": "The population sign beside the central clock.",
+            "source": "https://mmmrkennedy.com/games/BO2/nuketown/nuketown_guide",
+            "credit": "Call of Duty / Activision gameplay; mmmrkennedy PC location reference"
+          }
+        ],
+        "researchSource": "https://www.callofdutyzombies.com/zombie-library/zombies-library/black-ops_ii/nuketown/songs-r246/"
+      },
+      {
+        "title": "Hold the counter at 15",
+        "body": "Once the clock is at 1, stop killing when the population reads 15. Have the team hold the remaining zombies while someone reaches the Yellow House backyard.",
+        "researchSource": "https://www.callofdutyzombies.com/zombie-library/zombies-library/black-ops_ii/nuketown/songs-r246/"
+      },
+      {
+        "title": "Take the shed power-up",
+        "body": "Pay 3,000 points to open the small power-up shed if needed, then collect its pickup while the counter still reads 15. Listen for the song.",
+        "images": [
+          {
+            "src": "./assets/nuketown-mannequin-shed.webp",
+            "alt": "The small Yellow House power-up shed; the mannequin is a separate secret.",
+            "caption": "The small Yellow House power-up shed; the mannequin is a separate secret.",
+            "source": "https://mmmrkennedy.com/games/BO2/nuketown/nuketown_guide",
+            "credit": "Call of Duty / Activision gameplay; mmmrkennedy PC location reference"
+          }
+        ],
+        "tip": "Use the Yellow House shed, not Marlton’s bunker behind the other house. The exact necessity of the clock hand is disputed by newer guides; this follows the stricter documented 115 route.",
+        "researchSource": "https://www.callofdutyzombies.com/zombie-library/zombies-library/black-ops_ii/nuketown/songs-r246/"
+      }
+    ],
+    "checked": "2026-10-16"
+  },
+  {
+    "id": "bo2-nuketown-zombies-environmental-references",
+    "mapId": "bo2-nuketown-zombies",
+    "title": "Hidden books, mailboxes and loading-screen details",
+    "category": "side",
+    "difficulty": "Easy",
+    "players": "1–4 players",
+    "summary": "Find the map’s visual story references and recognize the game-over rocket.",
+    "requirements": [
+      "Open the Yellow House upstairs for the books. The loading-screen details can be inspected before the match."
+    ],
+    "reward": "Environmental story references; no documented weapon or perk reward.",
+    "sources": [
+      {
+        "title": "JokerAlex 21: photographed books, loading screen and map details",
+        "url": "https://www.codzombieguides.com/nuketown-zombies"
+      },
+      {
+        "title": "Phoenix: mailbox and loading-screen observations",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1105643975"
+      },
+      {
+        "title": "CtrlAltSleep: game-over rocket observation",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=121450710"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Inspect the upstairs books",
+        "body": "In the Yellow House upstairs, look on the bookshelf for two Richtofen project-book covers. They are visual references rather than an interaction sequence.",
+        "images": [
+          {
+            "src": "./assets/nuketown-books.png",
+            "alt": "Richtofen’s project books on the upstairs shelf.",
+            "caption": "Richtofen’s project books on the upstairs shelf.",
+            "source": "https://www.codzombieguides.com/nuketown-zombies",
+            "credit": "Call of Duty / Activision imagery; JokerAlex 21"
+          }
+        ],
+        "researchSource": "https://www.codzombieguides.com/nuketown-zombies"
+      },
+      {
+        "title": "Read the fallen mailboxes",
+        "body": "Near the Green House and population sign, inspect the fallen Mason mailbox. The fallen mailbox in front of the Yellow House names Woods, referencing the campaign characters.",
+        "researchSource": "https://www.codzombieguides.com/nuketown-zombies"
+      },
+      {
+        "title": "Look at the loading-screen candy",
+        "body": "The lower-left wrapper shows the partial name “uhtli.” Community guides connect it to Mictlantecuhtli; that interpretation is not an in-match code to enter.",
+        "images": [
+          {
+            "src": "./assets/nuketown-candy.jpg",
+            "alt": "Original source close-up of the partially visible candy name.",
+            "caption": "Original source close-up of the partially visible candy name.",
+            "source": "https://www.codzombieguides.com/nuketown-zombies",
+            "credit": "Call of Duty / Activision imagery; JokerAlex 21"
+          }
+        ],
+        "researchSource": "https://www.codzombieguides.com/nuketown-zombies"
+      },
+      {
+        "title": "Inspect the loading-screen machine",
+        "body": "The illustrated drill dominates the loading screen. It is a story detail connected by guides to Broken Arrow and Element 115; the picture itself does not unlock a secret.",
+        "images": [
+          {
+            "src": "./assets/nuketown-loading.jpg",
+            "alt": "Nuketown’s loading-screen artwork and drill.",
+            "caption": "Nuketown’s loading-screen artwork and drill.",
+            "source": "https://www.codzombieguides.com/nuketown-zombies",
+            "credit": "Call of Duty / Activision imagery; JokerAlex 21"
+          }
+        ],
+        "researchSource": "https://www.codzombieguides.com/nuketown-zombies"
+      },
+      {
+        "title": "Watch the game-over scene",
+        "body": "When the run ends, a rocket strikes Nuketown. Together with the TV audio and round-25 change, the scene connects this survival map to Moon’s story.",
+        "researchSource": "https://www.codzombieguides.com/nuketown-zombies"
+      }
+    ],
+    "checked": "2026-10-16"
+  },
+  {
+    "id": "bo2-nuketown-zombies-ray-guns",
+    "mapId": "bo2-nuketown-zombies",
+    "title": "Ray Gun, Mark II and Pack-a-Punch",
+    "category": "weapon",
+    "difficulty": "Easy",
+    "players": "1–4 players",
+    "summary": "Use the Mystery Box for the wonder weapons and the dropped machine for upgrades.",
+    "requirements": [
+      "Mystery Box access and points for attempts.",
+      "The Mark II requires Vengeance content; entitlement and installation matter."
+    ],
+    "reward": "A box wonder weapon and its Pack-a-Punch upgrade when available.",
+    "sources": [
+      {
+        "title": "Activision store description: Vengeance adds Mark II to every BO2 Zombies map",
+        "url": "https://www.xbox.com/en-US/games/store/vengeance/c0zb77dlxm6k"
+      },
+      {
+        "title": "Phoenix: Nuketown box weapons",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1105643975"
+      },
+      {
+        "title": "Pack-a-Punch: BO2 upgrade costs",
+        "url": "https://callofduty.fandom.com/wiki/Pack-a-Punch_Machine/Treyarch"
+      }
+    ],
+    "relatedGuideIds": [
+      "bo2-nuketown-zombies-community-nuketown-map-walkthrough-pack-a-punch-and-perks"
+    ],
+    "steps": [
+      {
+        "title": "Find and use the box",
+        "body": "Roll the Mystery Box until it offers a Ray Gun. With Vengeance installed and licensed, the Mark II can also appear in the BO2 Nuketown box. The weapon is a random box reward; accept it when it appears.",
+        "researchSource": "https://www.xbox.com/en-US/games/store/vengeance/c0zb77dlxm6k"
+      },
+      {
+        "title": "Use the landed upgrade machine",
+        "body": "Wait for Pack-a-Punch to fall, locate it and pay 5,000 points with the Ray Gun or Mark II equipped. Collect the processed gun. Use the related setup guide for machine arrivals and perk costs.",
+        "researchSource": "https://callofduty.fandom.com/wiki/Pack-a-Punch_Machine/Treyarch"
+      }
+    ],
+    "checked": "2026-10-16"
   }
 ]

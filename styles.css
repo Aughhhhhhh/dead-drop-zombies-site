@@ -795,6 +795,9 @@ nav a[aria-current]:after {
   margin-top: 18px;
 }
 .sources-list a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
   font-size: 11px;
   border: 1px solid var(--line);
   padding: 9px 12px;
@@ -861,9 +864,6 @@ nav a[aria-current]:after {
   display: none;
 }
 .guide-quick-links a {
-  display: inline-flex;
-  align-items: center;
-  min-height: 44px;
   font-size: 12px;
 }
 .reader-controls {

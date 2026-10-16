@@ -276,8 +276,11 @@ for reference in references:
         if section.get('sourceOnly'):
             continue
         for title, text in topics_for(section):
-            if reference['url'].endswith('/der-riese/') and title == 'Map Easter Eggs':
-                gaps.append({'mapIds': reference['mapIds'], 'title': title, 'source': reference['url'], 'note': 'This source chapter contains channel promotion and a storyline link, not playable Easter egg instructions. Dedicated quest, song and radio guides remain available.'})
+            if title == 'Map Easter Eggs' and reference['url'].rstrip('/').split('/')[-1] in {
+                'der-riese', 'five', 'call-of-the-dead', 'tranzit', 'nuketown', 'die-rise',
+                'buried', 'outbreak', 'infection', 'the-giant', 'gorod-krovi', 'revelations',
+            }:
+                gaps.append({'mapIds': reference['mapIds'], 'title': title, 'source': reference['url'], 'note': 'This chapter only promotes another guide, channel or storyline page. It has no playable steps and is excluded from walkthrough counts; the source book retains it.'})
                 continue
             if reference['url'].endswith('/moon/') and title == 'Black Ops 1 Weapons List':
                 gaps.append({'mapIds': ['bo1-moon'], 'title': title, 'source': reference['url'], 'note': 'The source table incorrectly lists Scavenger, V-R11 and Matryoshka Dolls from Call of the Dead. Dedicated Moon weapon guides remain available.'})
@@ -339,4 +342,4 @@ for guide in community:
     assert set(guide.get('mapOverrides', {})).issubset(guide['mapIds']), guide['id']
 (root / 'data/guides-community.json').write_text(json.dumps(community, ensure_ascii=False, separators=(',', ':')) + '\n', encoding='utf-8')
 (root / 'data/source-gaps.json').write_text(json.dumps(gaps, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
-print(f"Saved {len(community)} community topics, {sum(len(guide['steps']) for guide in community)} checklist sections; {len(gaps)} unfinished source topics kept out of walkthrough counts.")
+print(f"Saved {len(community)} community topics, {sum(len(guide['steps']) for guide in community)} checklist sections; {len(gaps)} source topics excluded from walkthrough counts.")
