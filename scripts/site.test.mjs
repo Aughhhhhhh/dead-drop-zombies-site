@@ -16,7 +16,7 @@ const readJson = async (file) =>
   JSON.parse(
     await readFile(new URL(`../data/${file}`, import.meta.url), "utf8"),
   );
-const [catalog, classic, modern, extra, aw, community, completionClassic, completionModern, completionModes, superQuests, references, media, sourceGaps, coverageGaps] =
+const [catalog, classic, modern, extra, aw, community, completionClassic, completionModern, completionModes, superQuests, researched, auditClassic, auditModern, auditModes, references, media, sourceGaps, coverageGaps] =
   await Promise.all(
     [
       "catalog.json",
@@ -29,6 +29,10 @@ const [catalog, classic, modern, extra, aw, community, completionClassic, comple
       "guides-completion-modern.json",
       "guides-completion-modes.json",
       "guides-super-ee-doa4.json",
+      "guides-goal-root.json",
+      "guides-goal-classic.json",
+      "guides-goal-modern.json",
+      "guides-goal-modes.json",
       "references.json",
       "media.json",
       "source-gaps.json",
@@ -36,7 +40,7 @@ const [catalog, classic, modern, extra, aw, community, completionClassic, comple
     ].map(readJson),
   );
 const maps = catalog.games.flatMap((game) => game.maps);
-const guides = [...classic, ...modern, ...extra, ...aw, ...completionClassic, ...completionModern, ...completionModes, ...superQuests, ...expandCommunityGuides(community)];
+const guides = [...classic, ...modern, ...extra, ...aw, ...completionClassic, ...completionModern, ...completionModes, ...superQuests, ...researched, ...auditClassic, ...auditModern, ...auditModes, ...expandCommunityGuides(community)];
 
 test("catalog and walkthrough IDs stay linked and unique", () => {
   assert.equal(
@@ -76,6 +80,7 @@ test("catalog and walkthrough IDs stay linked and unique", () => {
     );
     for (const step of guide.steps) {
       assert.ok(step.title && step.body && step.body.length >= (guide.sourceQuote ? 3 : 30), guide.id);
+      if (step.researchSource) assert.ok(externalUrl(step.researchSource), guide.id);
       if (guide.sourceQuote && !step.original) {
         assert.ok(externalUrl(guide.sourceQuote) && step.html, guide.id);
         assert.doesNotMatch(step.html, /<script|<iframe|<style|\son\w+\s*=|javascript:|data:|cite|CHANGE ME|\bTBD\b|\bTODO\b/i, guide.id);
@@ -100,12 +105,27 @@ test("community routes keep complete upgrade details, tables and version scopes"
   const samantha = community.filter((guide) => /Samantha's Lullaby/.test(guide.title));
   assert.ok(samantha.length >= 5);
   assert.ok(samantha.every((guide) => guide.mapIds.every((id) => id.startsWith("bo3-"))));
+  for (const guide of community) {
+    const edition = guide.title.match(/\b(?:BO([123])|Black Ops ([123]))\b/i);
+    if (edition)
+      assert.ok(guide.mapIds.every((id) => id.startsWith(`bo${edition[1] || edition[2]}-`)), guide.id);
+  }
+  assert.deepEqual(community.find((guide) => guide.id === "shi-no-numa-easter-eggs-free-wunderwaffe-dg-2-ios").mapIds, ["waw-mobile-shi-no-numa"]);
+  for (const id of ["nacht-der-untoten-special-weapons-monkey-bombs", "verruckt-special-weapons-monkey-bombs"])
+    assert.ok(community.find((guide) => guide.id === id).mapIds.every((mapId) => !mapId.startsWith("waw-")), id);
+  assert.deepEqual(community.find((guide) => guide.id === "verruckt-easter-eggs-the-female-statue-ee").mapIds, ["bo3-verruckt"]);
+  const nachtCabinet = guides.find((guide) => guide.mapId === "bo3-nacht-der-untoten" && guide.title === "Sniper Cabinet (Zombies Chronicles)");
+  assert.ok(nachtCabinet?.steps.some((step) => step.body.includes("5000") && step.body.includes("Locus")));
+  assert.ok(!guides.some((guide) => guide.mapId === "bo3-nacht-der-untoten" && guide.title === "Sniper Cabinet"));
   for (const id of ["wwii-into-the-storm", "wwii-across-the-depths", "wwii-beneath-the-ice"])
     assert.ok(guides.some((guide) => guide.mapId === id && guide.category === "main"), id);
   const kowakujo = community.find((guide) => guide.id === "kowakujo-main-quest-main-quest");
   assert.ok(kowakujo.steps.some((step) => step.original && step.title.includes("Phase three")));
   assert.equal(kowakujo.sourceOmissions.length, 0);
   assert.ok(!references.some((reference) => reference.url.endsWith("/shangri-la/")), "Disabled source must not import subreddit rules");
+  assert.ok(!community.some((guide) => guide.id === "moon-game-features-black-ops-1-weapons-list"), "The copied Call of the Dead table is not a Moon walkthrough");
+  const chamber = guides.find((guide) => guide.id === "coldwar-die-maschine-main").steps.find((step) => step.title === "Raise all four chamber legs");
+  assert.match(chamber.body, /NOVA-5 → green.*Electrobolt → yellow/);
   assert.ok(sourceGaps.every((gap) => externalUrl(gap.source) && gap.title && gap.mapIds.every((id) => maps.some((map) => map.id === id))));
   assert.ok(coverageGaps.every((gap) => gap.note.length > 30 && gap.mapIds.length && gap.mapIds.every((id) => maps.some((map) => map.id === id))));
   assert.ok(community.find((guide) => guide.id === "shaolin-shuffle-easter-eggs-main-easter-egg").steps.length > 15);

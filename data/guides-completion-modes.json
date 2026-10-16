@@ -591,7 +591,7 @@
       },
       {
         "title": "Choose a permanent Fate",
-        "body": "The Room of Fate appears around rounds 13–15. Approach a stone and wait for its Fate to be awarded. Firepower gives a permanent Death Machine, Furious Feet improves speed, Friendship supplies a chicken, and Fortitude extends pickup duration. This choice lasts for the run."
+        "body": "The Room of Fate follows round 13, 14 or 15. Watch the four yellow exit arrows appear: the first offers Fortitude, the second Firepower, the third Friendship and the fourth Furious Feet. Their positions vary. Take the arrow for your choice within the selection window. Firepower gives a permanent Death Machine, Furious Feet improves movement, Friendship adds a chicken and Fortitude extends item duration."
       },
       {
         "title": "Reach the first boss arena",
@@ -623,9 +623,13 @@
       {
         "title": "MKillBill's DOA guide and repeated boss rounds",
         "url": "https://gamefaqs.gamespot.com/ps3/960188-call-of-duty-black-ops/faqs/62778"
+      },
+      {
+        "title": "TheMoZProject: original DOA Room of Fate arrow order",
+        "url": "https://www.youtube.com/watch?v=AuiF1mgv8xY"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-16"
   },
   {
     "id": "bo3-dead-ops-arcade-2-cyber-silverback",
@@ -636,15 +640,15 @@
     "players": "1–4 players",
     "summary": "Reach the Temple Fortress, select a Fate and survive the round-64 Cyber Silverback fight.",
     "requirements": [
-      "Black Ops III version with Campaign Safehouse access",
-      "Complete Campaign Mission 2: New World to use the original unlock route",
+      "A Black Ops III edition that includes Dead Ops Arcade II",
+      "For the original Safehouse route only: finish Campaign Mission 2, New World",
       "Store boosts for late arenas and the boss"
     ],
     "reward": "Cyber Silverback victory, Fido rescue and continued arcade progression",
     "steps": [
       {
-        "title": "Open the Safehouse's hidden game",
-        "body": "Enter the Campaign Safehouse after New World. Interact with the Data Vault terminal in your room and select its small hidden button in the top-left corner. The opening animation starts Dead Ops Arcade II."
+        "title": "Open Dead Ops Arcade II",
+        "body": "On the patched PC version, choose Bonus from the main screen, then Dead Ops Arcade 2. The February 9, 2016 update added this direct route. For the original Safehouse unlock, finish New World, open the room's Data Vault and select the hidden button at its top left."
       },
       {
         "title": "Learn the added controls",
@@ -687,9 +691,13 @@
       {
         "title": "MKillBill: Margwa, hazards and the boss",
         "url": "https://gamefaqs.gamespot.com/ps4/145061-call-of-duty-black-ops-iii/faqs/72570?single=1"
+      },
+      {
+        "title": "Treyarch: February 9, 2016 PC Bonus menu update",
+        "url": "https://store.steampowered.com/news/posts/?appids=311210&enddate=1455041781&feed=steam_community_announcements"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-16"
   },
   {
     "id": "bo3-dead-ops-arcade-2-fates",
@@ -715,7 +723,7 @@
       },
       {
         "title": "Take the Room of Judgement opportunity",
-        "body": "Judgement appears later in the Donut / Colosseum arena set, around rounds 37–40. Its outcome can award armory or improve the Fate you already chose. Do not treat it as the six-Fate Room of Judgement from Cold War: that sequel uses a different system."
+        "body": "The Room of Judgement follows round 37. A player who missed the initial Fate may acquire one here, but cannot also upgrade that new Fate on the same visit. Upgrade eligibility and reward selection for an existing Fate need the sequel-specific Judgement rules; they are not the six-Fate system from Cold War."
       }
     ],
     "sources": [
@@ -726,9 +734,13 @@
       {
         "title": "Earlier firsthand manual: Judgement arena and reward types",
         "url": "https://www.cheatcodes.com/guide/dead-ops-arcade-ii-guide-call-of-duty-black-ops-iii-pc-102800/"
+      },
+      {
+        "title": "TheMoZProject: DOA2 Fate guide and Judgement timing",
+        "url": "https://www.youtube.com/watch?v=KsMmbhZDK3w"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-16"
   },
   {
     "id": "bo7-dead-ops-arcade-4-papaback",
@@ -860,7 +872,7 @@
     "steps": [
       {
         "title": "Protect one player's health through round 20",
-        "body": "One player must reach round 20 without zombie damage reaching their health. Use Aether Shroud, armor and GobbleGums to protect that player. Environmental damage is distinct from the stated zombie-damage condition.",
+        "body": "Protect one player from every zombie hit until round 20. The guide sources agree that keeping health untouched works, but disagree about armor-only hits. Use a completely untouched player for the documented route; do not rely on armor absorbing a hit or a save/reload shortcut.",
         "tip": "Community comments dispute whether one clean later round can work. The documented target used here is the no-health-damage run through round 20."
       },
       {
@@ -880,9 +892,13 @@
       {
         "title": "Firsthand portal location and disputed trigger comments",
         "url": "https://www.reddit.com/r/CODZombies/comments/1utrnep/complete_bo7_cursed_relics_guide_w_kuwakujo/"
+      },
+      {
+        "title": "druid codcentral",
+        "url": "https://codcentral.net/blog/bo7-kowakujo-druid-stone-relic/"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-16"
   },
   {
     "id": "bo7-kowakujo-valkyrie-helmet-relic-full",
@@ -1138,49 +1154,55 @@
       {
         "title": "Finish the Long Climb and identify the stones",
         "body": "The four classic Fates (Fortune, Firepower, Friendship, Furious Feet) are available in the Room of Fate, which appears after completing \"The Long Climb,\" which appears after Round 20 on Normal and Hardcore, and after Round 16 on Casual.\nThe player must kill the HVT Mangler near the first set of springboards in \"The Long Climb\" in order to reveal the fates, ensuring that each fate stone has unique attributes in the Room of Fate. The only stone with red gems is Firepower, the largest stone with blue gems is Fortune, the medium-sized, jagged stone with blue gems is Friendship, and the smallest stone with blue gems is Furious Feet.\nIn order to access the Room of Fate, the player must reach the top of the volcano and drop into the hole before the 10 minute timer elapses for \"The Long Climb.\" The player can only have one classic Fate, and each player in a Co-op match must choose a different Fate.\nFate Upgrades for the four classic fates are available in the SlayerMart on Normal and Casual. On Hardcore, the player will randomly encounter an Underboss Battle between Rounds 55-70, during which they can choose a fate upgrade (exclusions noted above) at the end of the round (cannot occur during Challenge Rounds). The second and final Fate upgrade on Hardcore will be available during an Underboss Battle that can randomly be encountered between Rounds 81-90.",
-        "html": "<p>The four classic Fates (Fortune, Firepower, Friendship, Furious Feet) are available in the Room of Fate, which appears after completing &quot;The Long Climb,&quot; which appears after Round 20 on Normal and Hardcore, and after Round 16 on Casual.<br>The player must kill the HVT Mangler near the first set of springboards in &quot;The Long Climb&quot; in order to reveal the fates, ensuring that each fate stone has unique attributes in the Room of Fate. The only stone with red gems is Firepower, the largest stone with blue gems is Fortune, the medium-sized, jagged stone with blue gems is Friendship, and the smallest stone with blue gems is Furious Feet.<br>In order to access the Room of Fate, the player must reach the top of the volcano and drop into the hole before the 10 minute timer elapses for &quot;The Long Climb.&quot; The player can only have one classic Fate, and each player in a Co-op match must choose a different Fate.<br>Fate Upgrades for the four classic fates are available in the SlayerMart on Normal and Casual. On Hardcore, the player will randomly encounter an Underboss Battle between Rounds 55-70, during which they can choose a fate upgrade (exclusions noted above) at the end of the round (cannot occur during Challenge Rounds). The second and final Fate upgrade on Hardcore will be available during an Underboss Battle that can randomly be encountered between Rounds 81-90.</p>"
+        "html": "<p>The four classic Fates (Fortune, Firepower, Friendship, Furious Feet) are available in the Room of Fate, which appears after completing &quot;The Long Climb,&quot; which appears after Round 20 on Normal and Hardcore, and after Round 16 on Casual.\nThe player must kill the HVT Mangler near the first set of springboards in &quot;The Long Climb&quot; in order to reveal the fates, ensuring that each fate stone has unique attributes in the Room of Fate. The only stone with red gems is Firepower, the largest stone with blue gems is Fortune, the medium-sized, jagged stone with blue gems is Friendship, and the smallest stone with blue gems is Furious Feet.\nIn order to access the Room of Fate, the player must reach the top of the volcano and drop into the hole before the 10 minute timer elapses for &quot;The Long Climb.&quot; The player can only have one classic Fate, and each player in a Co-op match must choose a different Fate.\nFate Upgrades for the four classic fates are available in the SlayerMart on Normal and Casual. On Hardcore, the player will randomly encounter an Underboss Battle between Rounds 55-70, during which they can choose a fate upgrade (exclusions noted above) at the end of the round (cannot occur during Challenge Rounds). The second and final Fate upgrade on Hardcore will be available during an Underboss Battle that can randomly be encountered between Rounds 81-90.</p>"
       },
       {
         "title": "Fortune and its upgrades",
         "body": "Fate of Fortune (\"Blessings onto you in all things\")\n\n* Upon respawning from a death, the player will have a minimum 2x score multiplier.\n\n* Items last 80% longer than normal when grabbed by the Fortune player.\n\nFortune Upgrades:\n* Conspira-See: Player will have a slightly increased chance of discovering a Bonus Room when taking an arena exit.\n\n* Not available on Casual or Normal.\n\n* Greedy: Player will increase the value of cash collected by 25%.\n\n* $18,000 on Normal, $15,000 on Casual. Not available on Hardcore.\n\n* Family Discount: Player gets a 30% off discount on everything in the SlayerMart.\n\n* $24,000 on Normal. $20,000 on Casual. Not available on Hardcore.\n* Durability: Increase Fortune's timeout modifier by 25% [Items last 125% longer, instead of 80% longer].\n\n* $24,000 on Normal, $20,000 on Casual.\n\n* Glitter Bomb: Each time you use a Nuke or Boost from your inventory, a random gem will spawn.\n\n* $24,000 on Normal, $20,000 on Casual.",
-        "html": "<p>Fate of Fortune (&quot;Blessings onto you in all things&quot;)</p>\n<p>* Upon respawning from a death, the player will have a minimum 2x score multiplier.</p>\n<p>* Items last 80% longer than normal when grabbed by the Fortune player.</p>\n<p>Fortune Upgrades:<br>* Conspira-See: Player will have a slightly increased chance of discovering a Bonus Room when taking an arena exit.</p>\n<p>* Not available on Casual or Normal.</p>\n<p>* Greedy: Player will increase the value of cash collected by 25%.</p>\n<p>* $18,000 on Normal, $15,000 on Casual. Not available on Hardcore.</p>\n<p>* Family Discount: Player gets a 30% off discount on everything in the SlayerMart.</p>\n<p>* $24,000 on Normal. $20,000 on Casual. Not available on Hardcore.<br>* Durability: Increase Fortune's timeout modifier by 25% [Items last 125% longer, instead of 80% longer].</p>\n<p>* $24,000 on Normal, $20,000 on Casual.</p>\n<p>* Glitter Bomb: Each time you use a Nuke or Boost from your inventory, a random gem will spawn.</p>\n<p>* $24,000 on Normal, $20,000 on Casual.</p>"
+        "html": "<p>Fate of Fortune (&quot;Blessings onto you in all things&quot;)</p>\n<ul>\n<li>\n<p>Upon respawning from a death, the player will have a minimum 2x score multiplier.</p>\n</li>\n<li>\n<p>Items last 80% longer than normal when grabbed by the Fortune player.</p>\n</li>\n</ul>\n<p>Fortune Upgrades:</p>\n<ul>\n<li>\n<p>Conspira-See: Player will have a slightly increased chance of discovering a Bonus Room when taking an arena exit.</p>\n</li>\n<li>\n<p>Not available on Casual or Normal.</p>\n</li>\n<li>\n<p>Greedy: Player will increase the value of cash collected by 25%.</p>\n</li>\n<li>\n<p>$18,000 on Normal, $15,000 on Casual. Not available on Hardcore.</p>\n</li>\n<li>\n<p>Family Discount: Player gets a 30% off discount on everything in the SlayerMart.</p>\n</li>\n<li>\n<p>$24,000 on Normal. $20,000 on Casual. Not available on Hardcore.</p>\n</li>\n<li>\n<p>Durability: Increase Fortune&#x27;s timeout modifier by 25% [Items last 125% longer, instead of 80% longer].</p>\n</li>\n<li>\n<p>$24,000 on Normal, $20,000 on Casual.</p>\n</li>\n<li>\n<p>Glitter Bomb: Each time you use a Nuke or Boost from your inventory, a random gem will spawn.</p>\n</li>\n<li>\n<p>$24,000 on Normal, $20,000 on Casual.</p>\n</li>\n</ul>"
       },
       {
         "title": "Firepower and its upgrades",
-        "body": "Fate of Firepower (“Much glorious destruction shall you bestow”)\n\n* The player is awarded a permanent death machine as their primary weapon.\n\n* Weapons that are picked up start at Red power level.\n* Weapons last longer than normal while shooting. [Approximate modifiers listed below).\n\n* Gray: 74% longer\n\n* Red: 58% longer\n\n* Purple: 49% longer\n\nFirepower Upgrades:\n\n* Nuke Monger: Player will now begin each new round with a minimum of 3 Nuke bombs.\n\n* $24,000 in Normal, $20,000 in Casual.\n\n* Fury Output: Fury weapon modification adds 30% damage to your death machine weapon [160 damage → 208 damage, assuming no other upgrades].\n\n* $36,000 on Normal, $30,000 on Hardcore.",
-        "html": "<p>Fate of Firepower (“Much glorious destruction shall you bestow”)</p>\n<p>* The player is awarded a permanent death machine as their primary weapon.</p>\n<p>* Weapons that are picked up start at Red power level.<br>* Weapons last longer than normal while shooting. [Approximate modifiers listed below).</p>\n<p>* Gray: 74% longer</p>\n<p>* Red: 58% longer</p>\n<p>* Purple: 49% longer</p>\n<p>Firepower Upgrades:</p>\n<p>* Nuke Monger: Player will now begin each new round with a minimum of 3 Nuke bombs.</p>\n<p>* $24,000 in Normal, $20,000 in Casual.</p>\n<p>* Fury Output: Fury weapon modification adds 30% damage to your death machine weapon [160 damage → 208 damage, assuming no other upgrades].</p>\n<p>* $36,000 on Normal, $30,000 on Hardcore.</p>"
+        "body": "Firepower supplies a permanent Death Machine, starts weapon pickups at red power and extends weapon firing time. The source estimates duration increases of 74% for gray, 58% for red and 49% for purple weapons. Nuke Monger starts each new round with at least three Nukes and costs 24,000 on Normal or 20,000 on Casual. Fury Output adds 30% Death Machine damage (160 to 208 before other upgrades) and costs 36,000 on Normal or 30,000 on Casual. Hardcore upgrades come from Underboss rewards instead of a priced shop purchase.",
+        "tip": "The Fate post mislabels the 30,000 Fury Output price as Hardcore. The same author’s SlayerMart table identifies it as Casual. The corrected prices above follow that table.",
+        "original": true
       },
       {
         "title": "Friendship and its upgrades",
         "body": "Fate of Friendship (“Eternal companionship is your just reward”)\n\n* Player is granted a permanent golden chicken companion which imitates their primary weapon.\n\n* Chickens that are picked up last 2x longer than normal.\n\n* The player's golden chicken will periodically lay Eggs (either White or Golden).\n\nFriendship Upgrades:\n\n* Red Feathers: Player will have their Fated Chicken companion fire minimum Red Power level weapon.\n\n* $12,000 on Normal, $10,000 on Casual. Not available on Hardcore.\n* Purple Feathers: Player will have their Fated Chicken companion fire minimum Purple Power level weapon.\n\n* $18,000 on Normal, $15,000 on Casual.\n\n* Golden Girl: Your Fated Chicken will have an increased rate of egg laying events and an improved chance of laying Golden Eggs.\n\n* $18,000 on Normal, $15,000 on Casual.\n* War Talons: Your Fated Chicken is upgraded with War Talons. This modification adds 35% damage on all fated chicken weapons applied to all enemies. (Not applied to regular chickens)\n\n* $27,000 on Normal, $22,500 on Casual.",
-        "html": "<p>Fate of Friendship (“Eternal companionship is your just reward”)</p>\n<p>* Player is granted a permanent golden chicken companion which imitates their primary weapon.</p>\n<p>* Chickens that are picked up last 2x longer than normal.</p>\n<p>* The player's golden chicken will periodically lay Eggs (either White or Golden).</p>\n<p>Friendship Upgrades:</p>\n<p>* Red Feathers: Player will have their Fated Chicken companion fire minimum Red Power level weapon.</p>\n<p>* $12,000 on Normal, $10,000 on Casual. Not available on Hardcore.<br>* Purple Feathers: Player will have their Fated Chicken companion fire minimum Purple Power level weapon.</p>\n<p>* $18,000 on Normal, $15,000 on Casual.</p>\n<p>* Golden Girl: Your Fated Chicken will have an increased rate of egg laying events and an improved chance of laying Golden Eggs.</p>\n<p>* $18,000 on Normal, $15,000 on Casual.<br>* War Talons: Your Fated Chicken is upgraded with War Talons. This modification adds 35% damage on all fated chicken weapons applied to all enemies. (Not applied to regular chickens)</p>\n<p>* $27,000 on Normal, $22,500 on Casual.</p>"
+        "html": "<p>Fate of Friendship (“Eternal companionship is your just reward”)</p>\n<ul>\n<li>\n<p>Player is granted a permanent golden chicken companion which imitates their primary weapon.</p>\n</li>\n<li>\n<p>Chickens that are picked up last 2x longer than normal.</p>\n</li>\n<li>\n<p>The player&#x27;s golden chicken will periodically lay Eggs (either White or Golden).</p>\n</li>\n</ul>\n<p>Friendship Upgrades:</p>\n<ul>\n<li>\n<p>Red Feathers: Player will have their Fated Chicken companion fire minimum Red Power level weapon.</p>\n</li>\n<li>\n<p>$12,000 on Normal, $10,000 on Casual. Not available on Hardcore.</p>\n</li>\n<li>\n<p>Purple Feathers: Player will have their Fated Chicken companion fire minimum Purple Power level weapon.</p>\n</li>\n<li>\n<p>$18,000 on Normal, $15,000 on Casual.</p>\n</li>\n<li>\n<p>Golden Girl: Your Fated Chicken will have an increased rate of egg laying events and an improved chance of laying Golden Eggs.</p>\n</li>\n<li>\n<p>$18,000 on Normal, $15,000 on Casual.</p>\n</li>\n<li>\n<p>War Talons: Your Fated Chicken is upgraded with War Talons. This modification adds 35% damage on all fated chicken weapons applied to all enemies. (Not applied to regular chickens)</p>\n</li>\n<li>\n<p>$27,000 on Normal, $22,500 on Casual.</p>\n</li>\n</ul>"
       },
       {
         "title": "Furious Feet and its upgrades",
         "body": "Fate of Furious Feet (“You are swift... swift like the wind!”)\n\n* Player movement speed is 50% faster.\n\n* Begin each new round with a minimum of 2 Speed Boosts.\n\n* Maximum of 10 Speed Boosts in player inventory.\n\nFurious Feet Upgrades:\n* Feet First: Player will now begin each new round with a minimum of 4 Speed Boosts.\n\n* $30,000 on Normal, $25,000 on Casual.\n\n* Cinder Toes: Player who uses a Speed Boost will leave behind a temporary fire trail that damages enemies [lasts for 8 seconds].\n\n* $30,000 on Normal, $25,000 on Casual.",
-        "html": "<p>Fate of Furious Feet (“You are swift... swift like the wind!”)</p>\n<p>* Player movement speed is 50% faster.</p>\n<p>* Begin each new round with a minimum of 2 Speed Boosts.</p>\n<p>* Maximum of 10 Speed Boosts in player inventory.</p>\n<p>Furious Feet Upgrades:<br>* Feet First: Player will now begin each new round with a minimum of 4 Speed Boosts.</p>\n<p>* $30,000 on Normal, $25,000 on Casual.</p>\n<p>* Cinder Toes: Player who uses a Speed Boost will leave behind a temporary fire trail that damages enemies [lasts for 8 seconds].</p>\n<p>* $30,000 on Normal, $25,000 on Casual.</p>"
+        "html": "<p>Fate of Furious Feet (“You are swift... swift like the wind!”)</p>\n<ul>\n<li>\n<p>Player movement speed is 50% faster.</p>\n</li>\n<li>\n<p>Begin each new round with a minimum of 2 Speed Boosts.</p>\n</li>\n<li>\n<p>Maximum of 10 Speed Boosts in player inventory.</p>\n</li>\n</ul>\n<p>Furious Feet Upgrades:</p>\n<ul>\n<li>\n<p>Feet First: Player will now begin each new round with a minimum of 4 Speed Boosts.</p>\n</li>\n<li>\n<p>$30,000 on Normal, $25,000 on Casual.</p>\n</li>\n<li>\n<p>Cinder Toes: Player who uses a Speed Boost will leave behind a temporary fire trail that damages enemies [lasts for 8 seconds].</p>\n</li>\n<li>\n<p>$30,000 on Normal, $25,000 on Casual.</p>\n</li>\n</ul>"
       },
       {
         "title": "Divine Chalice",
         "body": "Fate of Divine Chalice (“Drink deep, bountiful life is your reward!”)\n\n* The player's short respawn timer is reduced from 5 seconds to 3 seconds.\n\n* Upon respawning from a death, the player is awarded Fast Boots for 25 seconds.\n\n* When damaged, the player’s heal-rate is 2.5x faster than normal.\n\n* Player earns an Extra Life for every 150,000 points earned, rather than 200,000 points.\n\n* Maximum of 10 Lives in player inventory.\n* In Co-op, the player's long respawn timer is reduced from 60 seconds to 40 seconds.\n\n* In Co-op, the player is able to revive non-Chalice teammates 3x quicker than normal.\n\n* In Co-op, distance from which player can initiate a revive on downed teammates increased by 50%.\n\n* In Co-op, when manually donating a life to a downed teammate, the recipient of the donation also receives life donation rewards.\n\n* Ability not available on Hardcore due to no Life Donations.\n* Trained Medic: Fate upgrade! Being close to a downed player increases healing. If respawn time remaining is less than 10 seconds, instant revival.\n\n* $30,000 on Normal, $25,000 on Casual. Not available on Hardcore.",
-        "html": "<p>Fate of Divine Chalice (“Drink deep, bountiful life is your reward!”)</p>\n<p>* The player's short respawn timer is reduced from 5 seconds to 3 seconds.</p>\n<p>* Upon respawning from a death, the player is awarded Fast Boots for 25 seconds.</p>\n<p>* When damaged, the player’s heal-rate is 2.5x faster than normal.</p>\n<p>* Player earns an Extra Life for every 150,000 points earned, rather than 200,000 points.</p>\n<p>* Maximum of 10 Lives in player inventory.<br>* In Co-op, the player's long respawn timer is reduced from 60 seconds to 40 seconds.</p>\n<p>* In Co-op, the player is able to revive non-Chalice teammates 3x quicker than normal.</p>\n<p>* In Co-op, distance from which player can initiate a revive on downed teammates increased by 50%.</p>\n<p>* In Co-op, when manually donating a life to a downed teammate, the recipient of the donation also receives life donation rewards.</p>\n<p>* Ability not available on Hardcore due to no Life Donations.<br>* Trained Medic: Fate upgrade! Being close to a downed player increases healing. If respawn time remaining is less than 10 seconds, instant revival.</p>\n<p>* $30,000 on Normal, $25,000 on Casual. Not available on Hardcore.</p>"
+        "html": "<p>Fate of Divine Chalice (“Drink deep, bountiful life is your reward!”)</p>\n<ul>\n<li>\n<p>The player&#x27;s short respawn timer is reduced from 5 seconds to 3 seconds.</p>\n</li>\n<li>\n<p>Upon respawning from a death, the player is awarded Fast Boots for 25 seconds.</p>\n</li>\n<li>\n<p>When damaged, the player’s heal-rate is 2.5x faster than normal.</p>\n</li>\n<li>\n<p>Player earns an Extra Life for every 150,000 points earned, rather than 200,000 points.</p>\n</li>\n<li>\n<p>Maximum of 10 Lives in player inventory.</p>\n</li>\n<li>\n<p>In Co-op, the player&#x27;s long respawn timer is reduced from 60 seconds to 40 seconds.</p>\n</li>\n<li>\n<p>In Co-op, the player is able to revive non-Chalice teammates 3x quicker than normal.</p>\n</li>\n<li>\n<p>In Co-op, distance from which player can initiate a revive on downed teammates increased by 50%.</p>\n</li>\n<li>\n<p>In Co-op, when manually donating a life to a downed teammate, the recipient of the donation also receives life donation rewards.</p>\n</li>\n<li>\n<p>Ability not available on Hardcore due to no Life Donations.</p>\n</li>\n<li>\n<p>Trained Medic: Fate upgrade! Being close to a downed player increases healing. If respawn time remaining is less than 10 seconds, instant revival.</p>\n</li>\n<li>\n<p>$30,000 on Normal, $25,000 on Casual. Not available on Hardcore.</p>\n</li>\n</ul>"
       },
       {
         "title": "Divine Shield and acquiring Divine Fates",
         "body": "Fate of Divine Shield (“The fates protect you from your enemies' blows!”)\n\n* Shield items last 60% longer than normal (Barrels, Boxing Gloves, Saw Blade, Electric Orbs).\n\n* Start each new round or Bonus Room with either temporary Barrels, Boxing Gloves, or Saw Blade.\n* Begin each new round with a minimum of 2 Nukes.\n\n* Maximum of 10 Nukes in player inventory.\n\n* Shield Master: Fate upgrade! At the start of each round, refill your armor vest plates to maximum capacity (1-2 plates depending on player’s Armor Vest level)\n\n* $36,000 on Normal, $30,000 on Casual. Not available on Hardcore.\nThe two Divine Fates (Divine Chalice and Divine Shield) can be purchased in the SlayerMart ($48,000 on Normal, $40,000 on Casual). The player can only have one Divine Fate, although multiple players in Co-op can use the same Divine fate. On Hardcore, the player will randomly encounter an Underboss Battle between Rounds 40-50, during which they can choose a Divine fate at the end of the round (cannot occur during Challenge Rounds).",
-        "html": "<p>Fate of Divine Shield (“The fates protect you from your enemies' blows!”)</p>\n<p>* Shield items last 60% longer than normal (Barrels, Boxing Gloves, Saw Blade, Electric Orbs).</p>\n<p>* Start each new round or Bonus Room with either temporary Barrels, Boxing Gloves, or Saw Blade.<br>* Begin each new round with a minimum of 2 Nukes.</p>\n<p>* Maximum of 10 Nukes in player inventory.</p>\n<p>* Shield Master: Fate upgrade! At the start of each round, refill your armor vest plates to maximum capacity (1-2 plates depending on player’s Armor Vest level)</p>\n<p>* $36,000 on Normal, $30,000 on Casual. Not available on Hardcore.<br>The two Divine Fates (Divine Chalice and Divine Shield) can be purchased in the SlayerMart ($48,000 on Normal, $40,000 on Casual). The player can only have one Divine Fate, although multiple players in Co-op can use the same Divine fate. On Hardcore, the player will randomly encounter an Underboss Battle between Rounds 40-50, during which they can choose a Divine fate at the end of the round (cannot occur during Challenge Rounds).</p>"
+        "html": "<p>Fate of Divine Shield (“The fates protect you from your enemies&#x27; blows!”)</p>\n<ul>\n<li>\n<p>Shield items last 60% longer than normal (Barrels, Boxing Gloves, Saw Blade, Electric Orbs).</p>\n</li>\n<li>\n<p>Start each new round or Bonus Room with either temporary Barrels, Boxing Gloves, or Saw Blade.</p>\n</li>\n<li>\n<p>Begin each new round with a minimum of 2 Nukes.</p>\n</li>\n<li>\n<p>Maximum of 10 Nukes in player inventory.</p>\n</li>\n<li>\n<p>Shield Master: Fate upgrade! At the start of each round, refill your armor vest plates to maximum capacity (1-2 plates depending on player’s Armor Vest level)</p>\n</li>\n<li>\n<p>$36,000 on Normal, $30,000 on Casual. Not available on Hardcore.\nThe two Divine Fates (Divine Chalice and Divine Shield) can be purchased in the SlayerMart ($48,000 on Normal, $40,000 on Casual). The player can only have one Divine Fate, although multiple players in Co-op can use the same Divine fate. On Hardcore, the player will randomly encounter an Underboss Battle between Rounds 40-50, during which they can choose a Divine fate at the end of the round (cannot occur during Challenge Rounds).</p>\n</li>\n</ul>"
       }
     ],
     "sources": [
       {
         "title": "TheMoZProject: firsthand community walkthrough",
         "url": "https://www.reddit.com/r/DeadOpsArcade4/comments/1ri9ccb/doa4_fate_abilities_fate_upgrades/"
+      },
+      {
+        "title": "TheMoZProject: SlayerMart table confirms Fury Output modes/prices",
+        "url": "https://www.reddit.com/r/DeadOpsArcade4/comments/1ql5hjk/doa4_slayermart_upgrades_prices/"
       }
     ],
-    "checked": "2026-10-13",
+    "checked": "2026-10-16",
     "sourceQuote": "https://www.reddit.com/r/DeadOpsArcade4/comments/1ri9ccb/doa4_fate_abilities_fate_upgrades/",
     "sourceAuthor": "TheMoZProject",
-    "sourceOmissions": []
+    "sourceOmissions": [],
+    "supplementNote": "The Firepower section is researched prose correcting a mode-label error in the quoted Fate post; the additional SlayerMart source is credited below."
   },
   {
     "id": "bo7-dead-ops-arcade-4-slayermart-reference",

@@ -556,16 +556,16 @@
   {
     "id": "coldwar-outbreak-unknown-signal",
     "mapId": "coldwar-outbreak",
-    "title": "Unknown Signal: unlock the music-player tapes",
+    "title": "Unknown Signal: ordinary music-radio event",
     "category": "music",
     "difficulty": "Easy",
     "players": "1–4 players",
-    "summary": "Tune an ordinary Outbreak radio's three amplifiers and collect its random music reward.",
+    "summary": "Tune an ordinary radio's three amplifiers. This remains a side event, while its original permanent music unlock is no longer a required grind.",
     "requirements": [
       "Standard Outbreak; enable subtitles",
       "Use the orange radio-icon event, distinct from Maxis's unmarked main-quest radio"
     ],
-    "reward": "Essence and a random collectible music track; duplicate tracks can occur",
+    "reward": "Match essence and the event's cassette drop. Non-Battle-Pass menu tracks were unlocked globally in November 2021.",
     "steps": [
       {
         "title": "Find and activate an Unknown Signal radio",
@@ -636,8 +636,8 @@
       },
       {
         "title": "Return and take the music drop",
-        "body": "Once all three match, interact with the main radio again. Take the cassette / music-track reward it drops to add the track to the menu Music Player.",
-        "tip": "The pool contains older Zombies instrumentals and campaign music. There is no fixed sequence that guarantees a particular missing track."
+        "body": "Once all three amplifiers match, interact with the main radio again and collect its essence / cassette drop. This was the original route for Music Player unlocks. Since the November 2021 global track unlock, check Barracks → Music Player before repeating the event for a supposedly missing non-Battle-Pass song.",
+        "tip": "The random pool is not a way to obtain seasonal Battle Pass mixtapes. Different reports still describe cassette drops after the global unlock; the menu playlist is the useful check of account music access."
       }
     ],
     "sources": [
@@ -656,9 +656,20 @@
       {
         "title": "Guías COD Zombies: ordinary radio candidate maps for all eight regions",
         "url": "https://guiascodzombies.com/black-ops-cold-war/outbreak-cw/radio-de-musica/"
+      },
+      {
+        "title": "November 2021 unlock announcement screenshot and player reports",
+        "url": "https://www.reddit.com/r/blackopscoldwar/comments/qmawdn/"
+      },
+      {
+        "title": "Firsthand confirmation of non-Battle-Pass global music unlock",
+        "url": "https://www.reddit.com/r/blackopscoldwar/comments/u9cbxi/"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-16",
+    "relatedGuideIds": [
+      "coldwar-outbreak-music-player"
+    ]
   },
   {
     "id": "coldwar-die-maschine-alone-music",
@@ -796,7 +807,7 @@
       },
       {
         "title": "Equipment Storage cassette",
-        "body": "At the base, interact with the cassette in Equipment Storage.",
+        "body": "In the Village, interact with the cassette on the Equipment Storage bookshelf. This is the spawn-area Equipment Storage, before the rooftop teleporter to the outpost.",
         "images": [
           {
             "src": "./assets/modern-coldwar-firebase-z-song_ee-tape1.webp",
@@ -829,9 +840,13 @@
       {
         "title": "mmmrkennedy: cassette location screenshots",
         "url": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
+      },
+      {
+        "title": "Firsthand Firebase Z setup guide — Equipment Storage is in spawn",
+        "url": "https://www.reddit.com/r/CODZombies/comments/lepgsv/firebase_z_easter_egg_guide_made_simple/"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-16"
   },
   {
     "id": "coldwar-firebase-z-bunny-loot",
@@ -1270,16 +1285,16 @@
   {
     "id": "coldwar-mauer-amoeba",
     "mapId": "coldwar-mauer-der-toten",
-    "title": "Amoeba and the other Mauer music unlocks",
+    "title": "Amoeba and Mauer's encounter music",
     "category": "music",
     "difficulty": "Easy",
     "players": "1–4 players",
-    "summary": "Collect the three Amoeba tapes and trigger the map's other Music Player tracks.",
+    "summary": "Play the three-cassette song and identify Mauer's ambient, nightclub and boss tracks.",
     "requirements": [
       "Access to Garment Factory, Electronics Store and Blasted Suite",
       "Power for the ambient Hotel Lounge and Bar songs"
     ],
-    "reward": "Amoeba plays; ambient, nightclub and boss tracks unlock through their encounters",
+    "reward": "Amoeba plays in the match; the other named tracks play during their map encounters.",
     "steps": [
       {
         "title": "Collect the Garment Factory tape",
@@ -1315,9 +1330,9 @@
         ]
       },
       {
-        "title": "Unlock the other tracks through their encounters",
-        "body": "After power, listen in Hotel Lounge for Berlin 1985 and in the Bar for What Awaits. Complete the bunny nightclub encounter for Acid Bunny. Beat Valentina's main-quest fight to unlock Wrath.",
-        "tip": "These additional tracks are encounter rewards, not extra cassette puzzles."
+        "title": "Hear the other tracks during their encounters",
+        "body": "After power, listen in Hotel Lounge for Berlin 1985 and in the Bar for What Awaits. The bunny nightclub plays Acid Bunny; Valentina's main-quest fight plays Wrath. These describe their map encounters. Non-Battle-Pass Music Player tracks were unlocked globally in November 2021.",
+        "tip": "You can select available menu tracks through Barracks → Music Player without replaying their original encounter unlock."
       }
     ],
     "sources": [
@@ -1332,9 +1347,16 @@
       {
         "title": "mmmrkennedy: cassette screenshots",
         "url": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/mauer_der_toten_guide"
+      },
+      {
+        "title": "November 2021 Music Player unlock announcement",
+        "url": "https://www.reddit.com/r/blackopscoldwar/comments/qmawdn/"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-16",
+    "relatedGuideIds": [
+      "coldwar-outbreak-music-player"
+    ]
   },
   {
     "id": "coldwar-mauer-bunny-nightclub",
@@ -3901,8 +3923,8 @@
       },
       {
         "title": "Create the purple Echo of Locked Diary",
-        "body": "Bring an equipped Aether Blade to the G6 waterside rune triangle. Find its three glowing runes around the water, rocks and sunken boat, shoot them, then align the floating triangle from the dock to release a group of Mimics. Weaken the grouped specials and throw the blade so it rebounds from one special enemy into another and finishes that second enemy. Continue grouped blade kills until the reward rift appears, then collect the Echo of Locked Diary.",
-        "tip": "Sources disagree about a simple five-kill total. Later testing identifies a finishing hit after a blade rebound between two special enemies; five isolated kills may produce nothing. Keep the specials close, use the water for spacing and confirm the actual reward rift before moving on.",
+        "body": "Equip the Aether Blade and kill special zombies with it. A practical source-tested setup is the Tier 2 water triangle under the G6 railway bridge: shoot its three underwater runes, align the triangle from the dock, then use the resulting Mimic horde for blade kills. Stay in the water to keep the Mimics together and let the blade deliver finishing hits. Continue until the reward rift appears and take the purple Echo of Locked Diary.",
+        "tip": "The original community route reports five special-zombie kills. Later firsthand reports disagree about whether the blade's last rebound must deliver the kill and whether prior kills carry across matches. Five isolated kills are not a guaranteed unlock. Treat a rebound kill as a practical retry method, rather than a verified mandatory condition; only the actual Echo reward confirms success.",
         "images": [
           {
             "src": "./assets/modern-mwz-waterway-rune.jpg",
@@ -4053,9 +4075,17 @@
       {
         "title": "Gameranx: later blade-rebound testing and location screenshots",
         "url": "https://gameranx.com/features/id/506654/article/modern-warfare-zombies-how-to-get-all-4-relics-and-enter-the-final-dark-aether-rift/"
+      },
+      {
+        "title": "r/MWZombies — firsthand later Diary counter / enemy reports",
+        "url": "https://www.reddit.com/r/MWZombies/comments/1jbfhhz/"
+      },
+      {
+        "title": "r/MWZombies — October2026 Echo item / last-bounce report",
+        "url": "https://www.reddit.com/r/MWZombies/comments/1x6rglp/s5_rift_item_placement/"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-16"
   },
   {
     "id": "mw3-unstable-rift-completion",

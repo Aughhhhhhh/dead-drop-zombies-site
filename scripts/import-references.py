@@ -41,9 +41,13 @@ def source_markdown(text, url):
     def citation(match):
         title = match.group(1)
         target = title if title.startswith('https://') else url
+        if title.startswith('http://i.imgur.com/'):
+            target = title.replace('http://', 'https://', 1)
         title = title.replace('[', '').replace(']', '')
         if title == 'Image':
             title = 'Image in the original source'
+        elif target == url and title != url:
+            title += ' (in the original source)'
         return f'[{title}]({target})'
 
     text = re.sub(r'cite[^†]+†([^†]+)(?:†[^]+)?', citation, text)
@@ -61,7 +65,7 @@ def category(title):
         return 'main'
     if any(word in title for word in ['song', 'music', 'soundtrack', 'lullaby', 'archangel', 'shepard of fire', 'shepherd of fire', "'aether'"]):
         return 'music'
-    if any(word in title for word in ['buildable', 'weapon', 'staff', 'bow', 'sword', 'equipment', 'pack-a-punch', 'pack a punch', 'upgrade', 'shield', 'gauntlet', 'ripsaw', 'tesla', 'venom', 'incantation', 'kt-4', 'masamune', 'raygun', 'ray gun', 'wonder', 'hand of', 'ragnarok', 'thundergun', 'blundergat', 'acidgat', 'magmagat', 'spork', 'scalpel', 'apothicon servant', "hell's retriever", "hell's redeemer", 'maxis drone', 'wrath of the ancients', 'caliburn', 'durendal', 'balmung', 'solais', 'crafting', 'spoon', 'entangler', 'n31l', "lil' arnie", 'brm wallbuy', "ppsh-41", 'scavenger', 'vr-11', '31-79']):
+    if any(word in title for word in ['buildable', 'weapon', 'staff', 'bow', 'sword', 'equipment', 'pack-a-punch', 'pack a punch', 'upgrade', 'shield', 'gauntlet', 'ripsaw', 'tesla', 'venom', 'incantation', 'kt-4', 'masamune', 'raygun', 'ray gun', 'wonder', 'hand of', 'ragnarok', 'thundergun', 'blundergat', 'acidgat', 'magmagat', 'spork', 'scalpel', 'apothicon servant', "hell's retriever", "hell's redeemer", 'maxis drone', 'wrath of the ancients', 'caliburn', 'durendal', 'balmung', 'solais', 'crafting', 'spoon', 'entangler', 'n31l', "lil' arnie", 'brm wallbuy', "ppsh-41", 'scavenger', 'vr-11', '31-79', 'sniper cabinet']):
         return 'weapon'
     return 'side'
 
@@ -73,6 +77,7 @@ def plain(text):
 
 
 def rendered(text, url):
+    text = re.sub(r'(?m)^( {0,3}\d+\. [^\n]*:\n)((?: {1,3}\* [^\n]*(?:\n|$))+)', lambda match: match[1] + re.sub(r'(?m)^ +', '    ', match[2]), text)
     text = re.sub(r'(?m)^((?!\s*(?:\d+\. |[*#|>-])).+\S)\n( {0,3}\d+\. )', r'\1\n\n\2', text)
     text = re.sub(r'(?m)^( +\S[^\n]*)\n([^\s#*>\d|])', r'\1\n\n\2', text)
     text = re.sub(r'(?m)^([^\n]+\|[^\n]+)\n([ :|-]+\|[ :|-]+)\n', r'\n\1\n\2\n', text)
@@ -136,6 +141,11 @@ def steps_for(text, url, split_intro=False):
 
 def topics_for(section):
     title, text = section['title'], section['text']
+    if title == 'Nacht Der Untoten (Zombies Chronicles)':
+        cabinet = next((line for line in text.splitlines() if 'Locus' in line and 'Sniper cabinet' in line), '')
+        if cabinet:
+            yield 'Sniper Cabinet (Zombies Chronicles)', chunks(text)[0] + '\n' + cabinet
+        return
     if title == 'Relics':
         text = re.sub(r"(?m)^([A-Z][A-Z '\u2019-]{2,75})$", r'## \1', text)
         intro, relics = chunks(text)
@@ -171,6 +181,26 @@ def topics_for(section):
                 yield child, (context + '\n\n' + content).strip()
         else:
             yield name, body
+
+
+def topic_maps(title, text, map_ids):
+    if re.search(r'\biOS\b', title, re.I):
+        return [map_id.replace('waw-', 'waw-mobile-', 1) for map_id in map_ids if map_id.startswith('waw-')]
+    edition = re.search(r'\b(?:BO([123])|Black Ops ([123]))\b', title, re.I)
+    if edition:
+        prefix = 'bo' + (edition[1] or edition[2]) + '-'
+        return [map_id for map_id in map_ids if map_id.startswith(prefix)]
+    if re.search(r'zombies? chronicles|monty|samantha.s lullaby', title, re.I):
+        return [map_id for map_id in map_ids if map_id.startswith('bo3-')]
+    if 'world at war version only' in text.lower():
+        return [map_id for map_id in map_ids if map_id.startswith('waw-')]
+    if title == 'Monkey Bombs' and any(map_id in {'waw-nacht-der-untoten', 'waw-verruckt'} for map_id in map_ids):
+        return [map_id for map_id in map_ids if map_id.startswith(('bo1-', 'bo3-'))]
+    if title == 'The Female Statue EE':
+        return [map_id for map_id in map_ids if map_id.startswith('bo3-')]
+    if title == 'Sniper Cabinet':
+        return [map_id for map_id in map_ids if not map_id.startswith('bo3-')]
+    return map_ids
 
 
 root = Path(__file__).resolve().parents[1]
@@ -210,7 +240,10 @@ for snapshot in snapshots:
         sections.append({'title': plain(title), 'category': category(title), 'categories': topic_categories, 'text': content, 'html': rendered(content, snapshot['url'])})
     if not sections:
         continue
-    references.append({'url': snapshot['url'], 'mapIds': [source['mapId'] for source in sources if source['url'] == snapshot['url']], 'fetched': '2026-10-13', 'note': 'Some large cipher transcriptions remain in the original guide; those chapters link to the source.' if missing else '', 'sections': sections})
+    note = 'Some large cipher transcriptions remain in the original guide; those chapters link to the source.' if missing else ''
+    if snapshot['url'].endswith('/moon/'):
+        note += ' The historical BO1 weapon table below incorrectly includes Call of the Dead equipment. It is excluded from walkthrough cards; use the dedicated Moon weapon and tactical-equipment guides.'
+    references.append({'url': snapshot['url'], 'mapIds': [source['mapId'] for source in sources if source['url'] == snapshot['url']], 'fetched': '2026-10-13', 'note': note.strip(), 'sections': sections})
 
 assert all(reference['mapIds'] and reference['sections'] for reference in references)
 assert all(not re.search(r'<script|on\w+=|javascript:', section['html'], re.I) for reference in references for section in reference['sections'])
@@ -223,7 +256,14 @@ assert len(steps_for('## Build\n1. One\n2. Two\n### Upgrade\n3. Three', 'https:/
 assert len(steps_for('1. First action\n2. Second action\n## Boss\nDefeat the boss', 'https://www.reddit.com/', split_intro=True)) == 3
 assert rendered('Cup\n  1. Place it\n  2. Defend it\nBrush\n  1. Collect it\n  2. Return it', 'https://www.reddit.com/').count('<ol>') == 2
 assert '<ol start="2">' in rendered('2. Second action\n3. Third action', 'https://www.reddit.com/')
+assert '<ul>' in rendered('  1. Find the items:\n  * On the table\n  * Under the stairs\n  2. Return them', 'https://www.reddit.com/')
 assert without_lyrics('Instructions\ncite1†LYRICS\n> Verse\n>\n\n## Next quest\nKeep this') == 'Instructions\n## Next quest\nKeep this'
+assert '(https://i.imgur.com/example.png)' in source_markdown('cite1†http://i.imgur.com/example.png†i.imgur.com', 'https://www.reddit.com/')
+assert 'Video guide (in the original source)' in source_markdown('cite1†Video guide†www.youtube.com', 'https://www.reddit.com/')
+assert topic_maps("Winter's Howl (BO1)", '', ['waw-verruckt', 'bo1-verruckt', 'bo3-verruckt']) == ['bo1-verruckt']
+assert topic_maps('Space Dog - (Black Ops 3 - Zombie Chronicles)', '', ['bo1-moon', 'bo3-moon']) == ['bo3-moon']
+assert topic_maps('Free Wunderwaffe DG-2 (iOS)', '', ['waw-shi-no-numa', 'bo1-shi-no-numa', 'bo3-shi-no-numa']) == ['waw-mobile-shi-no-numa']
+assert topic_maps('Monkey Bombs', '', ['waw-verruckt', 'bo1-verruckt', 'bo3-verruckt']) == ['bo1-verruckt', 'bo3-verruckt']
 
 community = []
 gaps = []
@@ -232,14 +272,13 @@ for reference in references:
         if section.get('sourceOnly'):
             continue
         for title, text in topics_for(section):
+            if reference['url'].endswith('/moon/') and title == 'Black Ops 1 Weapons List':
+                gaps.append({'mapIds': ['bo1-moon'], 'title': title, 'source': reference['url'], 'note': 'The source table incorrectly lists Scavenger, V-R11 and Matryoshka Dolls from Call of the Dead. Dedicated Moon weapon guides remain available.'})
+                continue
             if len(plain(text).split()) < 12 or '[Section unfinished' in text or 'CHANGE ME' in text:
                 gaps.append({'mapIds': reference['mapIds'], 'title': title, 'source': reference['url']})
                 continue
-            map_ids = reference['mapIds']
-            if 'zombies chronicles' in title.lower() or 'monty' in title.lower() or 'samantha\'s lullaby' in title.lower():
-                map_ids = [map_id for map_id in map_ids if map_id.startswith('bo3-')]
-            if 'world at war version only' in text.lower():
-                map_ids = [map_id for map_id in map_ids if map_id.startswith('waw-')]
+            map_ids = topic_maps(title, text, reference['mapIds'])
             if not map_ids:
                 continue
             topic_id = slug(reference['url'].split('/wiki/')[-1] + '-' + section['title'] + '-' + title)
@@ -286,6 +325,10 @@ for guide in community:
             guide['sources'].extend(supplement['sources'])
             guide['sourceOmissions'] = []
             guide['supplementNote'] = 'The omitted final boss chapter is completed with researched instructions from the additional credited sources.'
+corrections = json.loads((root / 'data/community-corrections.json').read_text(encoding='utf-8'))
+assert set(corrections).issubset({guide['id'] for guide in community}), 'A community correction no longer matches an imported topic'
+for guide in community:
+    guide.update(corrections.get(guide['id'], {}))
 (root / 'data/guides-community.json').write_text(json.dumps(community, ensure_ascii=False, separators=(',', ':')) + '\n', encoding='utf-8')
 (root / 'data/source-gaps.json').write_text(json.dumps(gaps, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
 print(f"Saved {len(community)} community topics, {sum(len(guide['steps']) for guide in community)} checklist sections; {len(gaps)} unfinished source topics kept out of walkthrough counts.")

@@ -6,7 +6,7 @@ Choose a game, choose a map, and open a quest. Each map has search and category 
 
 ## Content and coverage
 
-The catalog indexes 19 games and spin-offs and 145 map/mode entries as of October 13, 2026. Original releases, remasters, survival variants, and arcade modes have separate entries. Custom maps, mods, campaign reskins, and temporary Warzone events are outside the catalog.
+The catalog indexes 19 games and spin-offs and 145 map/mode entries as of October 16, 2026. Original releases, remasters, survival variants, and arcade modes have separate entries. Custom maps, mods, campaign reskins, and temporary Warzone events are outside the catalog.
 
 Every indexed map or mode has in-site instructions, with main quests, secrets and equipment where documented. This is an expanding reference, not a verified exhaustive archive. The Coverage page reports the current guide counts and identified research gaps by map. Some archived triggers and bonus-room variants remain unverified; unsolved relics are not presented as solved. Guides have not been independently playtested.
 
@@ -43,13 +43,15 @@ The previous project was replaced at the user's request. Its files remain recove
 
 - `data/catalog.json`: game/map metadata and source links.
 - `data/guides-classic.json`, `data/guides-modern.json`, `data/guides-extra.json`, `data/guides-aw.json`, `data/guides-completion-*.json`, `data/guides-super-ee-doa4.json`: researched walkthroughs and attributed supplemental topics.
+- `data/guides-goal-*.json`: additional researched routes, seasonal intel checklists, equipment catalogs and source corrections from the current audit.
 - `data/guides-community.json`: complete captured community topics, with shared-version map IDs and sanitized step HTML. Runtime IDs combine the map ID and stable topic ID.
+- `data/community-corrections.json`: reviewed field overrides applied after the community import, so a refresh preserves corrected steps, version scopes and location galleries.
 - `data/references.json`: attributed community chapters, already rendered and sanitized for the static site.
 - `data/media.json`: local images, captions, and attribution.
 - `data/coverage-gaps.json`: identified gaps in the site's research, shown on affected maps and the Coverage page.
 
-Guide IDs are stable. Progress stores completed step titles, so moving a step does not mark a different step complete. Renaming a step makes that step unchecked. Every guide must name an existing map ID, have unique step titles, and include sources. A `sourceQuote` guide displays sanitized `step.html` inside an attributed blockquote; original prose uses escaped `step.body`. Optional `step.images` and `guide.images` use the media schema with local paths, captions and source links. Run `npm test` after changing content.
+Guide IDs are stable. Progress stores completed step titles, so moving a step does not mark a different step complete. Renaming a step makes that step unchecked. Every guide must name an existing map ID, have unique step titles, and include sources. A `sourceQuote` guide displays sanitized `step.html` inside an attributed blockquote; original prose uses escaped `step.body`. A quoted step may name its own `researchSource`; researched replacements use `original: true` and omit `html`. Optional `step.images` and `guide.images` use the media schema with local paths, captions and source links. Run `npm test` after changing content.
 
-`scripts/import-references.py` rebuilds quoted references, individual community topics and source-gap records from an ignored `output/reference-snapshots.json` research snapshot and `data/reddit-sources.json`. It requires the Python `markdown` package only when refreshing those references; neither Python nor Markdown is used by the deployed site. It preserves nested instructions, gives numbered main routes individual checklist steps and omits song lyrics. Do not substitute a partial source snapshot for a complete chapter.
+`scripts/import-references.py` rebuilds quoted references, individual community topics and source-gap records from an ignored `output/reference-snapshots.json` research snapshot and `data/reddit-sources.json`. It requires the Python `markdown` package only when refreshing those references; neither Python nor Markdown is used by the deployed site. It preserves nested instructions, gives numbered main routes individual checklist steps, applies `community-corrections.json` and omits song lyrics. Do not substitute a partial source snapshot for a complete chapter. Source comparison and passing site tests do not establish gameplay accuracy or exhaustive coverage.
 
 Use the correction link inside a guide to open a GitHub issue with the game version, incorrect or missing step, and a supporting source.

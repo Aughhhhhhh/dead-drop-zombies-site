@@ -100,22 +100,91 @@
     "difficulty": "Medium",
     "players": "1–4 players, online Solo or a private/public Zombies match",
     "summary": "Build the Aetherscope, stabilize the Medical Bay chamber, restore Orlov and escape the facility.",
-    "requirements": ["Power and Pack-a-Punch", "D.I.E. Shockwave and all four elemental upgrades; see the weapon guide on this map", "An explosive for the tank hatch", "A prepared boss loadout before taking Orlov's photograph"],
+    "requirements": [
+      "Power and Pack-a-Punch",
+      "D.I.E. Shockwave and all four elemental upgrades; see the weapon guide on this map",
+      "An explosive for the tank hatch",
+      "A prepared boss loadout before taking Orlov's photograph"
+    ],
     "reward": "Main-quest completion and ending cinematic after the final exfil",
     "steps": [
-      {"title": "Activate power and construct Pack-a-Punch", "body": "Open a route through Nacht to the underground Facility. Follow the power arrows to Main Power and press the power button. Activate both marked terminals in Particle Accelerator. Enter the central anomaly, use the waypoint-marked Aether Tunnel, collect the Machine Part at its exit and return to the central platform to assemble Pack-a-Punch."},
-      {"title": "Build the Aetherscope", "body": "Enter a Dark Aether portal and collect the three scope pieces: beneath Nacht's outside stairs in the Yard, on the crashed plane, and by the Aether Tunnel at the lower Particle Accelerator level. Only one piece is active at a time, so revisit the other locations after every pickup. Build the scope at the workbench below Pack-a-Punch.", "tip": "If the Dark Aether timer ends, continue on a later portal trip; collected pieces remain collected."},
-      {"title": "Give Vogel's diary to three ghosts", "body": "Enter through the Medical Bay anomaly. Pick up Vogel's diary beside the upstairs computer. Interact with the anomaly behind Speed Cola, then interact with the summoned ghost to hand over the diary. Repeat at Control Room and in front of the Aetherscope workbench in Particle Accelerator. Once their dialogue completes, return to the Medical Bay computer in the normal world and enter the recovered password."},
-      {"title": "Raise all four chamber legs", "body": "Unlock the four D.I.E. upgrades using the companion weapon guide. Shoot the colored modules on the Medical Bay containment tube with their matching variants: Cryo-Emitter for blue, Nova 5 for yellow, Thermophasic for red, Electrobolt for orange. Each correct shot raises that leg. You can exchange variants at their unlocked crates and complete this with one D.I.E."},
-      {"title": "Get the Dark Aether wrench", "body": "Use the new anomaly between Medical Bay and Particle Accelerator. Upstairs in Medical Bay, interact with the ghost anomaly outside the observation room and let the scene finish. After you return to the normal world, collect the wrench at the scene's location."},
-      {"title": "Fire the tank and retrieve its target", "body": "In the Yard, interact with the tank three times using the wrench. Kill the zombie that emerges from the hatch, then land a Semtex or frag explosive on the open hatch. The tank fires at the Crash Site tree. Pick up the Decontamination Agent on the ground there and carry it back to the wall unit at Medical Bay where you found the wrench.", "tip": "The carrier cannot use their normal loadout freely and Plaguehounds spawn. Clear the path or have teammates escort the carrier."},
-      {"title": "Capture both halves of a Megaton", "body": "Split a Megaton, then lure its Bomber and Blaster underneath the raised containment tube in Medical Bay. Do not kill the halves; the machine pulls them upward when they are underneath it. Once both are captured, gather every player in the upstairs computer room and activate the computer. Survive the enemies released after the transformation scene."},
-      {"title": "Prepare, then obtain Orlov's photograph", "body": "Refill armor, ammo, perks and useful support before this step. Enter the anomaly in Nacht's Living Room, then find and activate Orlov's ghost in the Omega Outpost room. After returning to the normal world, take the family photograph where the ghost appeared. Picking it up immediately transports everyone into the finale.", "tip": "The photograph can disappear if left too long. Finish your shopping before summoning the ghost."},
-      {"title": "Let Orlov dismantle three parts of the accelerator", "body": "Survive in Particle Accelerator while Orlov works at three locations. Kill enemies crowding him so his progress resumes, and prioritize Megaton threats while keeping an escape route around the room. You can still refill armor and use Pack-a-Punch during this fight.", "tip": "Orlov cannot be killed by the horde; attacks stall his work. Protect your own life first, then clear his attackers."},
-      {"title": "Reach the helicopter within 90 seconds", "body": "When the accelerator shuts down, follow the escape timer to the Pond. A practical route is Weapons Lab → Facility tunnel → Crash Site → Pond. Look ahead for the blue electrical barriers and mantle around them; touching a beam can end the run immediately. Interact with the helicopter to complete the exfil and quest."}
+      {
+        "title": "Activate power and construct Pack-a-Punch",
+        "body": "Open a route through Nacht to the underground Facility. Follow the power arrows to Main Power and press the power button. Activate both marked terminals in Particle Accelerator. Enter the central anomaly, use the waypoint-marked Aether Tunnel, collect the Machine Part at its exit and return to the central platform to assemble Pack-a-Punch."
+      },
+      {
+        "title": "Build the Aetherscope",
+        "body": "Enter a Dark Aether portal and collect the three scope pieces: beneath Nacht's outside stairs in the Yard, on the crashed plane, and by the Aether Tunnel at the lower Particle Accelerator level. Only one piece is active at a time, so revisit the other locations after every pickup. Build the scope at the workbench below Pack-a-Punch.",
+        "tip": "If the Dark Aether timer ends, continue on a later portal trip; collected pieces remain collected."
+      },
+      {
+        "title": "Give Vogel's diary to three ghosts",
+        "body": "Enter through the Medical Bay anomaly. Pick up Vogel's diary beside the upstairs computer. Interact with the anomaly behind Speed Cola, then interact with the summoned ghost to hand over the diary. Repeat at Control Room and in front of the Aetherscope workbench in Particle Accelerator. Once their dialogue completes, return to the Medical Bay computer in the normal world and enter the recovered password."
+      },
+      {
+        "title": "Raise all four chamber legs",
+        "body": "Unlock all four D.I.E. variants with the companion weapon guide. Shoot the colored rings on the Medical Bay chamber legs with the matching variants: Cryo-Emitter → blue, NOVA-5 → green, Thermophasic → red, Electrobolt → yellow. Each correct hit raises that leg. Exchange variants at their unlocked crates until all four legs are raised; one D.I.E. can complete the whole step.",
+        "images": [
+          {
+            "src": "./assets/audit-die-maschine-chamber-leg-colours.webp",
+            "alt": "Medical Bay chamber showing the four leg targets with colored circles",
+            "caption": "Match each ring: red fire, green NOVA-5, blue cryo, yellow electric.",
+            "credit": "Screenshot / annotation: COD:ZG (PlagueFPS); game © Activision / Treyarch",
+            "source": "https://www.codzombiesguides.com/main-quests/black-ops-cold-war/die-maschine/"
+          }
+        ]
+      },
+      {
+        "title": "Get the Dark Aether wrench",
+        "body": "Use the new anomaly between Medical Bay and Particle Accelerator. Upstairs in Medical Bay, interact with the ghost anomaly outside the observation room and let the scene finish. After you return to the normal world, collect the wrench at the scene's location."
+      },
+      {
+        "title": "Fire the tank and retrieve its target",
+        "body": "In the Yard, interact with the tank three times using the wrench. Kill the zombie that emerges from the hatch, then land a Semtex or frag explosive on the open hatch. The tank fires at the Crash Site tree. Pick up the Decontamination Agent on the ground there and carry it back to the wall unit at Medical Bay where you found the wrench.",
+        "tip": "The carrier cannot use their normal loadout freely and Plaguehounds spawn. Clear the path or have teammates escort the carrier."
+      },
+      {
+        "title": "Capture both halves of a Megaton",
+        "body": "Split a Megaton, then lure its Bomber and Blaster underneath the raised containment tube in Medical Bay. Do not kill the halves; the machine pulls them upward when they are underneath it. Once both are captured, gather every player in the upstairs computer room and activate the computer. Survive the enemies released after the transformation scene."
+      },
+      {
+        "title": "Prepare, then obtain Orlov's photograph",
+        "body": "Refill armor, ammo, perks and useful support before this step. Enter the anomaly in Nacht's Living Room, then find and activate Orlov's ghost in the Omega Outpost room. After returning to the normal world, take the family photograph where the ghost appeared. Picking it up immediately transports everyone into the finale.",
+        "tip": "The photograph can disappear if left too long. Finish your shopping before summoning the ghost."
+      },
+      {
+        "title": "Let Orlov dismantle three parts of the accelerator",
+        "body": "Survive in Particle Accelerator while Orlov works at three locations. Kill enemies crowding him so his progress resumes, and prioritize Megaton threats while keeping an escape route around the room. You can still refill armor and use Pack-a-Punch during this fight.",
+        "tip": "Orlov cannot be killed by the horde; attacks stall his work. Protect your own life first, then clear his attackers."
+      },
+      {
+        "title": "Reach the helicopter within 90 seconds",
+        "body": "When the accelerator shuts down, follow the escape timer to the Pond. A practical route is Weapons Lab → Facility tunnel → Crash Site → Pond. Look ahead for the blue electrical barriers and mantle around them; touching a beam can end the run immediately. Interact with the helicopter to complete the exfil and quest."
+      }
     ],
-    "sources": [{"title": "r/CODZombies community breakdown: Die Maschine", "url": "https://www.reddit.com/r/CODZombies/wiki/die-maschine/"}, {"title": "Community main-quest hub and Orlov correction", "url": "https://www.reddit.com/r/CODZombies/comments/jtfo4h/die_maschine_easter_egg_hunt_general_map_discussion/"}, {"title": "Community four-player route and escape instructions", "url": "https://www.reddit.com/r/CODZombies/comments/jyftsg/die_maschine_easter_egg_4_player_stepbystep/"}],
-    "checked": "2026-10-13"
+    "sources": [
+      {
+        "title": "r/CODZombies community breakdown: Die Maschine",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/die-maschine/"
+      },
+      {
+        "title": "Community main-quest hub and Orlov correction",
+        "url": "https://www.reddit.com/r/CODZombies/comments/jtfo4h/die_maschine_easter_egg_hunt_general_map_discussion/"
+      },
+      {
+        "title": "Community four-player route and escape instructions",
+        "url": "https://www.reddit.com/r/CODZombies/comments/jyftsg/die_maschine_easter_egg_4_player_stepbystep/"
+      },
+      {
+        "title": "r/CODZombies — firsthand illustrated main route, step6 color mapping",
+        "url": "https://www.reddit.com/r/CODZombies/comments/jy7dof/"
+      },
+      {
+        "title": "COD:ZG — chamber color mapping and annotated location screenshot",
+        "url": "https://www.codzombiesguides.com/main-quests/black-ops-cold-war/die-maschine/"
+      }
+    ],
+    "checked": "2026-10-16"
   },
   {
     "id": "coldwar-die-maschine-die-upgrades",
@@ -214,25 +283,95 @@
     "difficulty": "Hard",
     "players": "1–4 players, online",
     "summary": "Repair Klaus, fill three essence canisters, stop a train, cleanse uranium and stop Valentina.",
-    "requirements": ["Power and Pack-a-Punch", "Brain Rot ammo mod", "CRBR-S and its Blazer mod kit", "Klaus upgraded once", "A complete boss loadout before depositing the second cleansed uranium"],
+    "requirements": [
+      "Power and Pack-a-Punch",
+      "Brain Rot ammo mod",
+      "CRBR-S and its Blazer mod kit",
+      "Klaus upgraded once",
+      "A complete boss loadout before depositing the second cleansed uranium"
+    ],
     "reward": "Tin Man Heart completion and ending cinematic",
     "steps": [
-      {"title": "Restore power and unlock Pack-a-Punch", "body": "Follow the power arrows from the rooftops to the underground Power Room. Attempt the power switch, then kill the two waypoint-marked Tempests and collect their fuses. Install both fuses and pull the switch again. At Checkpoint Charlie, interact with Pack-a-Punch and kill the Disciple protecting it."},
-      {"title": "Repair Klaus", "body": "Buy Brain Rot at Pack-a-Punch and turn a zombie inside Hotel Room 305. It breaks the boarded bedroom door; take Klaus's hands from the corpse. Kill the first Krasny Soldat, which normally arrives on round 10, and collect its battery. Install the hands and battery on Klaus in the underground Safe House."},
-      {"title": "Get the free CRBR-S", "body": "Command Klaus to the locker in Switch Control Room; he opens it and exposes a blacklight. Collect it. Read three two-digit codes with the blacklight: Garment Factory first, Service Passage second, Grocery Store third. Check the walls, chalkboard and shelf ends until each hidden pair appears. Enter those pairs into the corresponding three dials on the safe in Room 305's hidden bedroom and collect the CRBR-S.", "tip": "The code varies each match. If you already obtained a CRBR-S from the box or Legendary Trials, you can skip this safe route."},
-      {"title": "Upgrade Klaus once", "body": "Dig the Death Strip piles beneath the guard towers until you find the Microwave Dish. Install it at the Garment Factory upgrade station. Let Klaus kill zombies until the station's light turns green, then command him in front of it. Defend him for the full one-minute upgrade. The later floppy-disk upgrades are optional."},
-      {"title": "Open the Secret Lab", "body": "Command Klaus at the suspicious wall at the back of Sewer Access so he punches it open. Kill enemies with the CRBR-S until they drop a Blazer mod kit, pick it up and use the laser mode to melt the revealed metal door. Enter the lab, clear its enemies and advance a round if the orange protective fields still cover the equipment."},
-      {"title": "Fill the three essence canisters", "body": "Take the three canisters from the lab's central device. Shoot the lure dispenser with the CRBR-S and pick up an Endstation Lure. Find a green-topped essence harvester; possible areas are Ghost Station, Destroyed Penthouse, beside Electronics Store, the West Berlin tank, the West Berlin alley and Korber Rooftop. Put a canister in a harvester, throw the lure nearby and kill its three Tempests. Carry the filled canister back to the lab's central device. Repeat with two more harvesters, collecting a fresh lure each time.", "tip": "The filled canister slows you and its pulse attack can clear your path. Refill armor and move carefully during each return."},
-      {"title": "Build Klaus's hacking headgear", "body": "Using the CRBR-S, shoot the antenna tower at rooftop spawn, the green electrical box on the Ghost Station platform opposite Mule Kick, and the radios in Electronics Store. Collect the part released at each location and interact with Klaus's head in the Safe House to install the hacking helm."},
-      {"title": "Stop the train and take both items", "body": "With an upgraded Klaus active, flip the train-track switch in Switch Control Room and command Klaus onto the track furthest from Mule Kick, near the ticket booth. His stopping stance confirms the placement. When he stops the train, quickly board it and take Rico's Keycard from the seated corpse and the Warhead from the central crate. Put the Warhead into the Secret Lab's central device.", "tip": "If the train passes or Klaus deactivates, wait for his next activation, switch the tracks again and repeat. You need both train items."},
-      {"title": "Prepare the uranium route, then activate the satellite", "body": "Use Rico's card at the Safe House computer and browse its files until Activate the Disruptor Satellite is available. Activate it, then go to the beam on the surface and kill the red Mimics and Megaton. Killing the split Megaton produces two uranium rocks and starts a five-minute failure timer. Each rock must be crafted into a Uranium Device at a nearby special workbench before being placed on the zipline.", "tip": "Know the workbench and both roof routes before killing the Megaton halves. Timer expiry ends the match."},
-      {"title": "Collide two Uranium Devices", "body": "Take one rock to the special workbench in a street tent and craft its device. Put it on one end of the zipline linking the Destroyed Penthouse rooftop above Grocery Store to Korber Rooftop. Craft the other rock and put it on the opposite end. The devices collide, stopping the timer and dropping Cleansed Uranium into the street. Pick it up and deposit it in the Secret Lab device."},
-      {"title": "Repeat uranium, then start Valentina", "body": "Advance as prompted, activate the satellite again and repeat the Megaton, crafting and zipline collision process. Obtain the second Cleansed Uranium. Finish buying armor, perks and ammunition before depositing it: that second deposit starts the boss encounter."},
-      {"title": "Fight through Valentina's locations", "body": "Shoot her blue shield down, then damage her exposed body. Kill the floating zombies she summons to heal herself. Move behind solid cover when a blue haze appears on your screen, because her charged blast can instantly down you. Follow her between Secret Lab, the streets and Destroyed Penthouse, repairing armor between phases. Keep repeating shield break and health damage until the final lab phase ends."},
-      {"title": "Protect Klaus during the portal delivery", "body": "After the scene, Klaus carries the Warhead toward the portal. Kill zombies, Tormentors and Mimics approaching him until he reaches it and says goodbye. This last escort completes the quest; losing it can end the run."}
+      {
+        "title": "Restore power and unlock Pack-a-Punch",
+        "body": "Follow the power arrows from the rooftops to the underground Power Room. Attempt the power switch, then kill the two waypoint-marked Tempests and collect their fuses. Install both fuses and pull the switch again. At Checkpoint Charlie, interact with Pack-a-Punch and kill the Disciple protecting it."
+      },
+      {
+        "title": "Repair Klaus",
+        "body": "Buy Brain Rot at Pack-a-Punch and turn a zombie inside Hotel Room 305. It breaks the boarded bedroom door; take Klaus's hands from the corpse. Kill the first Krasny Soldat, which normally arrives on round 10, and collect its battery. Install the hands and battery on Klaus in the underground Safe House."
+      },
+      {
+        "title": "Get the free CRBR-S",
+        "body": "Command Klaus to the locker in Switch Control Room; he opens it and exposes a blacklight. Collect it. Read three two-digit codes with the blacklight: Garment Factory first, Service Passage second, Grocery Store third. Check the walls, chalkboard and shelf ends until each hidden pair appears. Enter those pairs into the corresponding three dials on the safe in Room 305's hidden bedroom and collect the CRBR-S.",
+        "tip": "The code varies each match. If you already obtained a CRBR-S from the box or Legendary Trials, you can skip this safe route."
+      },
+      {
+        "title": "Upgrade Klaus once",
+        "body": "Dig the Death Strip piles beneath the guard towers until you find the Microwave Dish. Install it at the Garment Factory upgrade station. Let Klaus kill zombies until the station's light turns green, then command him in front of it. Defend him for the full one-minute upgrade. The later floppy-disk upgrades are optional."
+      },
+      {
+        "title": "Open the Secret Lab",
+        "body": "Command Klaus at the suspicious wall at the back of Sewer Access so he punches it open. Kill enemies with the CRBR-S until they drop a Blazer mod kit, pick it up and use the laser mode to melt the revealed metal door. Enter the lab, clear its enemies and advance a round if the orange protective fields still cover the equipment."
+      },
+      {
+        "title": "Fill the three essence canisters",
+        "body": "Take the three canisters from the Secret Lab's central device. Shoot the lure dispenser with the CRBR-S and take an Endstation Lure. Search the seven harvester candidates: Sewer Access, Ghost Station, Destroyed Penthouse, Korber Rooftop, the alley by the dumpster, East Berlin Streets between the bar and Electronics Store, and West Berlin Street beside the small metal shed. Three harvesters are active per match. Place a canister in one, throw its lure nearby and kill the spawned Tempests near it. Return the filled canister to the lab. Repeat for the other two, taking fresh lures.",
+        "tip": "The filled canister slows you and its pulse attack can clear your path. Refill armor and move carefully during each return."
+      },
+      {
+        "title": "Build Klaus's hacking headgear",
+        "body": "Using the CRBR-S, shoot the antenna tower at rooftop spawn, the green electrical box on the Ghost Station platform opposite Mule Kick, and the radios in Electronics Store. Collect the part released at each location and interact with Klaus's head in the Safe House to install the hacking helm."
+      },
+      {
+        "title": "Stop the train and take both items",
+        "body": "With an upgraded Klaus active, flip the train-track switch in Switch Control Room and command Klaus onto the track furthest from Mule Kick, near the ticket booth. His stopping stance confirms the placement. When he stops the train, quickly board it and take Rico's Keycard from the seated corpse and the Warhead from the central crate. Put the Warhead into the Secret Lab's central device.",
+        "tip": "If the train passes or Klaus deactivates, wait for his next activation, switch the tracks again and repeat. You need both train items."
+      },
+      {
+        "title": "Prepare the uranium route, then activate the satellite",
+        "body": "Insert Rico's card at the Safe House computer and browse its files until the disruptor-satellite sequence is unlocked. When its screen goes red, go to the computer in the West Berlin Street tent to the right of the Trials machine and activate the satellite. Kill the marked Megaton and its split halves, then collect the two uranium rocks. At a tent's special workbench, turn each rock into a Uranium Device before taking it to the roof zipline. Complete both deliveries within the on-screen five-minute window.",
+        "tip": "Finish perks, armor and route planning before activating the satellite. The failure timer ends the match. Published sources disagree about its exact trigger, so do not wait for the Megaton to die before treating this as timed."
+      },
+      {
+        "title": "Collide two Uranium Devices",
+        "body": "Take one rock to the special workbench in a street tent and craft its device. Put it on one end of the zipline linking the Destroyed Penthouse rooftop above Grocery Store to Korber Rooftop. Craft the other rock and put it on the opposite end. The devices collide, stopping the timer and dropping Cleansed Uranium into the street. Pick it up and deposit it in the Secret Lab device."
+      },
+      {
+        "title": "Repeat uranium, then start Valentina",
+        "body": "Advance as prompted, activate the satellite again and repeat the Megaton, crafting and zipline collision process. Obtain the second Cleansed Uranium. Finish buying armor, perks and ammunition before depositing it: that second deposit starts the boss encounter."
+      },
+      {
+        "title": "Fight through Valentina's locations",
+        "body": "Shoot her blue shield down, then damage her exposed body. Kill the floating zombies she summons to heal herself. Move behind solid cover when a blue haze appears on your screen, because her charged blast can instantly down you. Follow her between Secret Lab, the streets and Destroyed Penthouse, repairing armor between phases. Keep repeating shield break and health damage until the final lab phase ends."
+      },
+      {
+        "title": "Protect Klaus during the portal delivery",
+        "body": "After the scene, Klaus carries the Warhead toward the portal. Kill zombies, Tormentors and Mimics approaching him until he reaches it and says goodbye. This last escort completes the quest; losing it can end the run."
+      }
     ],
-    "sources": [{"title": "Community detailed guide: Mauer der Toten", "url": "https://www.reddit.com/r/CODZombies/comments/orzsnv/the_ultimate_ee_guides_mauer_der_toten/"}, {"title": "Community main-quest guide: train and uranium details", "url": "https://www.reddit.com/r/CODZombies/comments/ol0r28/mauer_der_toten_main_ee_guide/"}, {"title": "GameSpot: train-switch instructions", "url": "https://www.gamespot.com/articles/how-to-complete-mauer-der-toten-main-easter-egg-in-cod-black-ops-cold-wars-zombies/1100-6494140/"}],
-    "checked": "2026-10-13"
+    "sources": [
+      {
+        "title": "Community detailed guide: Mauer der Toten",
+        "url": "https://www.reddit.com/r/CODZombies/comments/orzsnv/the_ultimate_ee_guides_mauer_der_toten/"
+      },
+      {
+        "title": "Community main-quest guide: train and uranium details",
+        "url": "https://www.reddit.com/r/CODZombies/comments/ol0r28/mauer_der_toten_main_ee_guide/"
+      },
+      {
+        "title": "GameSpot: train-switch instructions",
+        "url": "https://www.gamespot.com/articles/how-to-complete-mauer-der-toten-main-easter-egg-in-cod-black-ops-cold-wars-zombies/1100-6494140/"
+      },
+      {
+        "title": "Bradley Yeager — firsthand Mauer route, seven harvester locations",
+        "url": "https://sites.google.com/view/bradleyyeager/cold-war/mauer-der-toten/mauer-der-toten-easter-egg"
+      },
+      {
+        "title": "GamesRadar creator walkthrough — red screen and tent computer",
+        "url": "https://www.gamesradar.com/cold-war-mauer-der-toten-easter-egg-guide/"
+      }
+    ],
+    "checked": "2026-10-16"
   },
   {
     "id": "coldwar-forsaken-chrysalax",
