@@ -567,169 +567,1053 @@
   {
     "id": "bo1-call-of-the-dead-stand-in-solo",
     "mapId": "bo1-call-of-the-dead",
-    "title": "Stand-in — solo",
+    "title": "Stand-in — complete Solo route",
     "category": "main",
     "difficulty": "Medium",
-    "players": "1; select Solo",
-    "summary": "The solo escape quest. Vodka, radios, foghorns and lighthouse dials are omitted by the game's solo version.",
+    "players": "1; start a Solo game",
+    "summary": "Fuse → four generators → ship controls → human sacrifice → Golden Rod → final fuse repair.",
     "requirements": [
-      "A genuine Solo match, rather than a co-op lobby with one remaining player",
-      "V-R11 from the Mystery Box",
-      "Explosives for the four generators and enough damage to kill the transformed human"
+      "Version: original BO1 on PC, PS3 or Xbox 360.",
+      "Start through the Solo menu; a co-op lobby with one survivor still uses the co-op quest.",
+      "A V-R11 from the Mystery Box; its base version is sufficient",
+      "Open the lighthouse’s ground entrance for the sacrifice",
+      "Explosives for the generators and a strong damage weapon for the rising human"
     ],
-    "reward": "Stand-in achievement and a temporary Wunderwaffe DG-2. Co-op's Ensemble Cast completion is the relevant Call of the Dead prerequisite for the full BO1 Moon quest.",
+    "reward": "Stand-in achievement/trophy and one Wunderwaffe DG-2 power-up. Use the co-op route for Ensemble Cast.",
     "steps": [
       {
-        "title": "Power and trapped crew",
-        "body": "Open the ship from spawn and climb to its bridge. Turn on the power switch at the top. Go to the building beneath PhD Flopper, find the locked metal vault door downstairs and knife it. Let the crew's conversation finish; Richtofen asks for a fuse."
+        "title": "Power: climb to the ship’s bridge",
+        "body": "From spawn, take the ship-side route. Buy the debris and doors up the ship’s stairs to the enclosed bridge at the top. Interact with the large wall switch beside the bridge doorway.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/call-of-the-dead/",
+        "images": [
+          {
+            "src": "./assets/classic-batch5-cotd-power_ship.webp",
+            "alt": "BO1 ship-side approach from spawn.",
+            "caption": "BO1 ship-side approach from spawn.",
+            "source": "https://mmmrkennedy.com/games/BO1/call_of_the_dead/call_of_the_dead_guide",
+            "credit": "mmmrkennedy / Activision"
+          },
+          {
+            "src": "./assets/classic-batch5-cotd-power_switch.webp",
+            "alt": "Power switch inside the ship’s top bridge.",
+            "caption": "Power switch inside the ship’s top bridge.",
+            "source": "https://mmmrkennedy.com/games/BO1/call_of_the_dead/call_of_the_dead_guide",
+            "credit": "mmmrkennedy / Activision"
+          }
+        ]
       },
       {
-        "title": "Install the fuse",
-        "body": "Search the PhD Flopper room directly above the vault: check both desks and the area beside/against the cabinet. Pick up the cylindrical fuse with interact. Insert it into the small fuse box to the right of the vault door, then knife the door and listen for the security-system dialogue."
+        "title": "Ask the crew for the fuse",
+        "body": "Go downstairs from PhD Flopper into the room with the large round metal door. Knife that door and let the crew finish speaking. Continue the conversation until Richtofen asks for a fuse.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/call-of-the-dead/",
+        "images": [
+          {
+            "src": "./assets/classic-batch5-cotd-metal_door.webp",
+            "alt": "Round vault door below PhD Flopper; knife the door to speak to Ultimis.",
+            "caption": "Round vault door below PhD Flopper; knife the door to speak to Ultimis.",
+            "source": "https://mmmrkennedy.com/games/BO1/call_of_the_dead/call_of_the_dead_guide",
+            "credit": "mmmrkennedy / Activision"
+          }
+        ]
       },
       {
-        "title": "Destroy all four security generators",
-        "body": "Use grenades or other explosives on the generators with red lights. Check these four areas:\nAcross from the locked vault door.\nIn the water outside the ship, over the railing near Double Tap.\nBetween the icy wreckage/ice shelves beside the middle section of the ship, visible from the AK-74u walkway toward the wreck.\nOutside a zombie window beside Stamin-Up.\nA generator is disabled when its red light goes out. After all four are off, return and knife the vault door.",
-        "tip": "Semtex is easier to land than a bouncing frag. Keep George away from your shooting line."
+        "title": "Find one fuse upstairs",
+        "body": "Search the PhD Flopper room: the desk left of the machine, the floor beside the tall locker, and the opposite table with the batteries. Hold interact on the small fuse. Only one of these three spawns is occupied.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/call-of-the-dead/",
+        "images": [
+          {
+            "src": "./assets/classic-batch5-cotd-fuse_desk.webp",
+            "alt": "Fuse candidate: desk beside PhD Flopper.",
+            "caption": "Fuse candidate: desk beside PhD Flopper.",
+            "source": "https://mmmrkennedy.com/games/BO1/call_of_the_dead/call_of_the_dead_guide",
+            "credit": "mmmrkennedy / Activision"
+          },
+          {
+            "src": "./assets/classic-batch5-cotd-fuse_locker.webp",
+            "alt": "Fuse candidate: floor beside the tall locker.",
+            "caption": "Fuse candidate: floor beside the tall locker.",
+            "source": "https://mmmrkennedy.com/games/BO1/call_of_the_dead/call_of_the_dead_guide",
+            "credit": "mmmrkennedy / Activision"
+          },
+          {
+            "src": "./assets/classic-batch5-cotd-fuse_table.webp",
+            "alt": "Fuse candidate: opposite table beside the batteries.",
+            "caption": "Fuse candidate: opposite table beside the batteries.",
+            "source": "https://mmmrkennedy.com/games/BO1/call_of_the_dead/call_of_the_dead_guide",
+            "credit": "mmmrkennedy / Activision"
+          }
+        ]
       },
       {
-        "title": "Set the ship controls",
-        "body": "Return to the power bridge. From the controls' starting positions, turn the steering wheel twice so its brown handle points down-right. Pull the leftmost of the three levers once and the rightmost lever three times; leave the middle lever alone. A submarine appears and a green beam should run through the lighthouse."
+        "title": "Install it to the right of the vault",
+        "body": "Hold interact on the electrical box to the right of the round door. Let the dialogue finish. If the conversation stops before the next request, knife the door again. The four generator lamps must be glowing red before you attack them.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/call-of-the-dead/",
+        "images": [
+          {
+            "src": "./assets/classic-batch5-cotd-electrical_box.webp",
+            "alt": "Fuse box is immediately right of the round vault door.",
+            "caption": "Fuse box is immediately right of the round vault door.",
+            "source": "https://mmmrkennedy.com/games/BO1/call_of_the_dead/call_of_the_dead_guide",
+            "credit": "mmmrkennedy / Activision"
+          }
+        ]
       },
       {
-        "title": "Prepare the sacrifice",
-        "body": "Get the V-R11 from the Mystery Box and bring an ordinary zombie to the bottom of the lighthouse's spiral staircase. Keep a second zombie alive if you can. Shoot the ordinary zombie once with the V-R11; the transformed human runs into the green beam and floats upward."
+        "title": "Prepare explosives",
+        "body": "Use explosive blasts to extinguish all four red generator lamps, in any order. Semtex is sold on the ship near the lighthouse zipline’s landing. Aim close to each glowing top and confirm that its red light goes out.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/call-of-the-dead/",
+        "images": [
+          {
+            "src": "./assets/classic-batch5-cotd-semtex.webp",
+            "alt": "Semtex wall supply on the ship near the lighthouse zipline landing.",
+            "caption": "Semtex wall supply on the ship near the lighthouse zipline landing.",
+            "source": "https://mmmrkennedy.com/games/BO1/call_of_the_dead/call_of_the_dead_guide",
+            "credit": "mmmrkennedy / Activision"
+          }
+        ]
       },
       {
-        "title": "Kill the floating human",
-        "body": "Immediately damage the ascending human until he slumps into a downed/last-stand pose, before he reaches the top. A Scavenger, Ray Gun, Matryoshka Dolls or a strong upgraded gun helps. Wait for the body to finish rising; a golden Vril Device descends to the base. Pick it up. If the human escapes alive, try another transformed zombie."
+        "title": "Generator: opposite the vault",
+        "body": "Turn around from the round vault door. Put an explosive blast on the generator directly across the room. Its red lamp must go dark.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/call-of-the-dead/",
+        "images": [
+          {
+            "src": "./assets/classic-batch5-cotd-gen_door.webp",
+            "alt": "Generator opposite the trapped crew’s vault door.",
+            "caption": "Generator opposite the trapped crew’s vault door.",
+            "source": "https://mmmrkennedy.com/games/BO1/call_of_the_dead/call_of_the_dead_guide",
+            "credit": "mmmrkennedy / Activision"
+          }
+        ]
       },
       {
-        "title": "Send the crew to Paradise",
-        "body": "Return to the vault and insert the Vril Device into the tube left of the door. Wait for the conversation and the fuse box to spark. Knife the fuse box on the right to restore it. Listen for the crew leaving and collect the Wunderwaffe reward.",
-        "tip": "The Wunderwaffe is a power-up with limited ammunition, not a permanent third gun."
+        "title": "Generator: over the ship’s outer rail",
+        "body": "On the ship’s MPL side, look over the outside railing into the sea. Hit the red-topped generator standing in the water beyond the playable deck.",
+        "original": true,
+        "researchSource": "https://www.callofdutyzombies.com/easteregg/guides/call_of_duty_black_ops_zombies/453_main-easter-eggs/call_of_the_dead/destroy-the-generators-r93/",
+        "images": [
+          {
+            "src": "./assets/classic-batch5-cotd-gen_mpl.webp",
+            "alt": "Water generator over the ship’s outer rail on the MPL side.",
+            "caption": "Water generator over the ship’s outer rail on the MPL side.",
+            "source": "https://mmmrkennedy.com/games/BO1/call_of_the_dead/call_of_the_dead_guide",
+            "credit": "mmmrkennedy / Activision"
+          }
+        ]
+      },
+      {
+        "title": "Generator: between the broken ship halves",
+        "body": "Enter the low icy shortcut between the ship and the lighthouse-side walkway. Look between the broken ship halves and ice shelves for the red lamp. Detonate an explosive beside it.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/call-of-the-dead/",
+        "images": [
+          {
+            "src": "./assets/classic-batch5-cotd-gen_shortcut.webp",
+            "alt": "Generator in the icy shortcut between the broken ship halves.",
+            "caption": "Generator in the icy shortcut between the broken ship halves.",
+            "source": "https://mmmrkennedy.com/games/BO1/call_of_the_dead/call_of_the_dead_guide",
+            "credit": "mmmrkennedy / Activision"
+          }
+        ]
+      },
+      {
+        "title": "Generator: Stamin-Up window",
+        "body": "In the Stamin-Up building behind the lighthouse, look through the zombie window to the left of the perk machine. Hit the generator beyond that window; its red light must switch off.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/call-of-the-dead/",
+        "images": [
+          {
+            "src": "./assets/classic-batch5-cotd-gen_stamin_up.webp",
+            "alt": "Stamin-Up generator beyond the left zombie window.",
+            "caption": "Stamin-Up generator beyond the left zombie window.",
+            "source": "https://mmmrkennedy.com/games/BO1/call_of_the_dead/call_of_the_dead_guide",
+            "credit": "mmmrkennedy / Activision"
+          }
+        ]
+      },
+      {
+        "title": "Report all four generators disabled",
+        "body": "Return to the round vault door and knife it. Wait for the crew’s next request. Recheck any generator still glowing red if they do not acknowledge completion.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/call-of-the-dead/"
+      },
+      {
+        "title": "Wheel: brown peg at the lower right",
+        "body": "Return to the ship’s bridge. From the untouched wheel, interact twice to turn it clockwise. The distinct brown peg should finish at the lower right, as shown in the photo.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/call-of-the-dead/",
+        "images": [
+          {
+            "src": "./assets/classic-batch5-cotd-wheel_pre.webp",
+            "alt": "Bridge wheel before adjustment.",
+            "caption": "Bridge wheel before adjustment.",
+            "source": "https://mmmrkennedy.com/games/BO1/call_of_the_dead/call_of_the_dead_guide",
+            "credit": "mmmrkennedy / Activision"
+          },
+          {
+            "src": "./assets/classic-batch5-cotd-wheel_post.webp",
+            "alt": "Completed wheel: the distinct brown peg points down and right.",
+            "caption": "Completed wheel: the distinct brown peg points down and right.",
+            "source": "https://mmmrkennedy.com/games/BO1/call_of_the_dead/call_of_the_dead_guide",
+            "credit": "mmmrkennedy / Activision"
+          }
+        ],
+        "tip": "If someone already moved the controls, match their final photographed positions instead of blindly adding the starting counts."
+      },
+      {
+        "title": "Levers: left once, right three times",
+        "body": "Face the three levers to the right of the wheel. From their starting positions, use the left lever once and the right lever three times. Leave the middle lever untouched. Wait for the submarine to surface.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/call-of-the-dead/",
+        "images": [
+          {
+            "src": "./assets/classic-batch5-cotd-levers_post.webp",
+            "alt": "Completed levers: left partway down, middle at its starting height, right fully down.",
+            "caption": "Completed levers: left partway down, middle at its starting height, right fully down.",
+            "source": "https://mmmrkennedy.com/games/BO1/call_of_the_dead/call_of_the_dead_guide",
+            "credit": "mmmrkennedy / Activision"
+          },
+          {
+            "src": "./assets/classic-batch5-cotd-sub.webp",
+            "alt": "Surfaced submarine and its beam off the coast.",
+            "caption": "Surfaced submarine and its beam off the coast.",
+            "source": "https://mmmrkennedy.com/games/BO1/call_of_the_dead/call_of_the_dead_guide",
+            "credit": "mmmrkennedy / Activision"
+          }
+        ]
+      },
+      {
+        "title": "Turn a normal zombie into a human",
+        "body": "Open the lighthouse’s ground entrance. Obtain the V-R11 from the Mystery Box; its ordinary version works. At the bottom floor, shoot a normal zombie near the green beam. The converted human must run into the beam and begin rising.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/call-of-the-dead/",
+        "images": [
+          {
+            "src": "./assets/classic-batch5-cotd-joker-vr11.webp",
+            "alt": "V-R11 appearing in the BO1 Mystery Box.",
+            "caption": "V-R11 appearing in the BO1 Mystery Box.",
+            "source": "https://www.codzombieguides.com/call-of-the-dead",
+            "credit": "JokerAlex21 / CoD Zombies Guides / Activision"
+          },
+          {
+            "src": "./assets/classic-batch5-cotd-beam_lighthouse_stairs.webp",
+            "alt": "Active green beam through the lighthouse’s spiral stairs.",
+            "caption": "Active green beam through the lighthouse’s spiral stairs.",
+            "source": "https://mmmrkennedy.com/games/BO1/call_of_the_dead/call_of_the_dead_guide",
+            "credit": "mmmrkennedy / Activision"
+          }
+        ]
+      },
+      {
+        "title": "Damage the human until it slumps",
+        "body": "Immediately attack the rising human with a strong damage weapon. Keep firing until its body folds into the downed pose, before it reaches the top. Ray Gun or Scavenger fire is useful. Repeat with another converted zombie if the attempt escapes.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/call-of-the-dead/",
+        "images": [
+          {
+            "src": "./assets/classic-batch5-cotd-downed_human.webp",
+            "alt": "The human must visibly slump while rising through the beam.",
+            "caption": "The human must visibly slump while rising through the beam.",
+            "source": "https://mmmrkennedy.com/games/BO1/call_of_the_dead/call_of_the_dead_guide",
+            "credit": "mmmrkennedy / Activision"
+          }
+        ]
+      },
+      {
+        "title": "Collect the Golden Rod",
+        "body": "After the limp body reaches the top, wait for the Golden Rod to descend through the green beam. Hold interact on it at the bottom of the lighthouse stairs.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/call-of-the-dead/",
+        "images": [
+          {
+            "src": "./assets/classic-batch5-cotd-golden_rod.webp",
+            "alt": "Golden Rod descending to the lighthouse’s bottom floor.",
+            "caption": "Golden Rod descending to the lighthouse’s bottom floor.",
+            "source": "https://mmmrkennedy.com/games/BO1/call_of_the_dead/call_of_the_dead_guide",
+            "credit": "mmmrkennedy / Activision"
+          }
+        ]
+      },
+      {
+        "title": "Send the rod through the left tube",
+        "body": "Return to the crew’s vault. Hold interact on the transfer tube to the left of the door to send the Golden Rod through. Wait for the crew’s conversation to finish.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/call-of-the-dead/",
+        "images": [
+          {
+            "src": "./assets/classic-batch5-cotd-tube.webp",
+            "alt": "Transfer tube immediately left of the round vault door.",
+            "caption": "Transfer tube immediately left of the round vault door.",
+            "source": "https://mmmrkennedy.com/games/BO1/call_of_the_dead/call_of_the_dead_guide",
+            "credit": "mmmrkennedy / Activision"
+          }
+        ]
+      },
+      {
+        "title": "Knife the sparking fuse box",
+        "body": "When the fuse box to the right of the door starts sparking, knife the box. Let the final dialogue finish. The achievement unlocks and a lightning-bolt power-up appears in front of the door; one player can collect that Wunderwaffe.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/call-of-the-dead/",
+        "images": [
+          {
+            "src": "./assets/classic-batch5-cotd-electrical_box.webp",
+            "alt": "Final repair uses the same fuse box on the right.",
+            "caption": "Final repair uses the same fuse box on the right.",
+            "source": "https://mmmrkennedy.com/games/BO1/call_of_the_dead/call_of_the_dead_guide",
+            "credit": "mmmrkennedy / Activision"
+          },
+          {
+            "src": "./assets/classic-batch5-cotd-joker-reward.webp",
+            "alt": "BO1 lightning-bolt reward outside the vault after completion.",
+            "caption": "BO1 lightning-bolt reward outside the vault after completion.",
+            "source": "https://www.codzombieguides.com/call-of-the-dead",
+            "credit": "JokerAlex21 / CoD Zombies Guides / Activision"
+          }
+        ]
       }
     ],
     "sources": [
       {
-        "title": "r/CODZombies — Call of the Dead solo quest",
+        "title": "r/CODZombies — original Call of the Dead",
         "url": "https://www.reddit.com/r/CODZombies/wiki/call-of-the-dead/"
       },
       {
-        "title": "r/CODZombies — solo steps and Moon distinction",
-        "url": "https://www.reddit.com/r/CODZombies/comments/106w00n/"
+        "title": "mmmrkennedy — BO1 photographed walkthrough",
+        "url": "https://mmmrkennedy.com/games/BO1/call_of_the_dead/call_of_the_dead_guide"
       },
       {
-        "title": "Steam Community — generator and control locations",
+        "title": "JokerAlex21 — original Call of the Dead",
+        "url": "https://www.codzombieguides.com/call-of-the-dead"
+      },
+      {
+        "title": "CoDZ — fuse locations",
+        "url": "https://www.callofdutyzombies.com/easteregg/guides/call_of_duty_black_ops_zombies/453_main-easter-eggs/call_of_the_dead/installing-the-fuse-r22/"
+      },
+      {
+        "title": "CoDZ — four generators",
+        "url": "https://www.callofdutyzombies.com/easteregg/guides/call_of_duty_black_ops_zombies/453_main-easter-eggs/call_of_the_dead/destroy-the-generators-r93/"
+      },
+      {
+        "title": "CoDZ — human sacrifice and Golden Rod",
+        "url": "https://www.callofdutyzombies.com/easteregg/guides/call_of_duty_black_ops_zombies/453_main-easter-eggs/call_of_the_dead/the-golden-rod-r100/"
+      },
+      {
+        "title": "Monkey — BO1 Easter Egg and achievements",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2910967826"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-16",
+    "relatedGuideIds": [
+      "bo1-call-of-the-dead-ensemble-cast",
+      "bo1-call-of-the-dead-roaming-pack-a-punch",
+      "bo1-call-of-the-dead-wunderwaffe-power-up"
+    ],
+    "sharedSource": false,
+    "sourceQuote": null,
+    "supplementNote": "Checked for original BO1. Mode restrictions and unresolved numerical claims are stated in the guide."
   },
   {
     "id": "bo1-call-of-the-dead-ensemble-cast",
     "mapId": "bo1-call-of-the-dead",
-    "title": "Ensemble Cast — co-op",
+    "title": "Ensemble Cast — complete co-op route",
     "category": "main",
     "difficulty": "Hard",
-    "players": "2–4",
-    "summary": "The full co-op escape quest, including catching vodka, all radio/foghorn locations and the linked lighthouse dials.",
+    "players": "2–4; a second player must catch the vodka",
+    "summary": "Catch vodka with a partner; set 2746, ordered quest radios and foghorns; finish the Golden Rod delivery.",
     "requirements": [
-      "Two or more players in a co-op match",
-      "V-R11 and a strong weapon for the human sacrifice",
-      "Explosives to disable generators",
-      "One player above and one below the vodka bottle"
+      "Version: original BO1 on PC, PS3 or Xbox 360.",
+      "Two or more players present for the bottle catch",
+      "A V-R11 from the Mystery Box; its base version is sufficient",
+      "Explosives for the generators and strong damage for the rising human"
     ],
-    "reward": "Ensemble Cast and Stand-in achievements, a Wunderwaffe reward, and the co-op Vril Device completion used by BO1 Moon.",
+    "reward": "Ensemble Cast and Stand-in achievement credit where not already earned, plus one Wunderwaffe DG-2 power-up. Co-op completion is the Call of the Dead prerequisite used by the original BO1 Moon quest.",
     "steps": [
       {
-        "title": "Power and the fuse",
-        "body": "Turn on power on the ship's upper bridge. Knife the vault door in the room beneath PhD Flopper and let the dialogue play. Search the room above for a fuse on either desk or beside the cabinet. Pick it up, insert it in the fuse box right of the vault, then knife the door again."
+        "title": "Power: climb to the ship’s bridge",
+        "body": "From spawn, take the ship-side route. Buy the debris and doors up the ship’s stairs to the enclosed bridge at the top. Interact with the large wall switch beside the bridge doorway.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/call-of-the-dead/",
+        "images": [
+          {
+            "src": "./assets/classic-batch5-cotd-power_ship.webp",
+            "alt": "BO1 ship-side approach from spawn.",
+            "caption": "BO1 ship-side approach from spawn.",
+            "source": "https://mmmrkennedy.com/games/BO1/call_of_the_dead/call_of_the_dead_guide",
+            "credit": "mmmrkennedy / Activision"
+          },
+          {
+            "src": "./assets/classic-batch5-cotd-power_switch.webp",
+            "alt": "Power switch inside the ship’s top bridge.",
+            "caption": "Power switch inside the ship’s top bridge.",
+            "source": "https://mmmrkennedy.com/games/BO1/call_of_the_dead/call_of_the_dead_guide",
+            "credit": "mmmrkennedy / Activision"
+          }
+        ]
       },
       {
-        "title": "Disable the security generators",
-        "body": "Destroy the four red-lit generators with explosives: opposite the vault door; over the ship's railing in the water near Double Tap; among the icy wreckage beside the middle of the ship on the route facing the AK-74u walkway; and outside Stamin-Up's zombie window. Check that every red light is off, then knife the vault and listen to Nikolai."
+        "title": "Ask the crew for the fuse",
+        "body": "Go downstairs from PhD Flopper into the room with the large round metal door. Knife that door and let the crew finish speaking. Continue the conversation until Richtofen asks for a fuse.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/call-of-the-dead/",
+        "images": [
+          {
+            "src": "./assets/classic-batch5-cotd-metal_door.webp",
+            "alt": "Round vault door below PhD Flopper; knife the door to speak to Ultimis.",
+            "caption": "Round vault door below PhD Flopper; knife the door to speak to Ultimis.",
+            "source": "https://mmmrkennedy.com/games/BO1/call_of_the_dead/call_of_the_dead_guide",
+            "credit": "mmmrkennedy / Activision"
+          }
+        ]
       },
       {
-        "title": "Catch Nikolai's vodka",
-        "body": "Find the bottle frozen on a ledge/railing. Search the stairs above PhD Flopper, the railing on the AK-74u/MPL-side stairs, the M16-side ship railing, and the raised ramp joining the ship's two halves. Put one player directly beneath the bottle. The upper player knifes its ice and the lower player catches the falling bottle by being underneath it. A missed bottle respawns at another location. Insert it in the tube left of the vault and knife the door."
+        "title": "Find one fuse upstairs",
+        "body": "Search the PhD Flopper room: the desk left of the machine, the floor beside the tall locker, and the opposite table with the batteries. Hold interact on the small fuse. Only one of these three spawns is occupied.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/call-of-the-dead/",
+        "images": [
+          {
+            "src": "./assets/classic-batch5-cotd-fuse_desk.webp",
+            "alt": "Fuse candidate: desk beside PhD Flopper.",
+            "caption": "Fuse candidate: desk beside PhD Flopper.",
+            "source": "https://mmmrkennedy.com/games/BO1/call_of_the_dead/call_of_the_dead_guide",
+            "credit": "mmmrkennedy / Activision"
+          },
+          {
+            "src": "./assets/classic-batch5-cotd-fuse_locker.webp",
+            "alt": "Fuse candidate: floor beside the tall locker.",
+            "caption": "Fuse candidate: floor beside the tall locker.",
+            "source": "https://mmmrkennedy.com/games/BO1/call_of_the_dead/call_of_the_dead_guide",
+            "credit": "mmmrkennedy / Activision"
+          },
+          {
+            "src": "./assets/classic-batch5-cotd-fuse_table.webp",
+            "alt": "Fuse candidate: opposite table beside the batteries.",
+            "caption": "Fuse candidate: opposite table beside the batteries.",
+            "source": "https://mmmrkennedy.com/games/BO1/call_of_the_dead/call_of_the_dead_guide",
+            "credit": "mmmrkennedy / Activision"
+          }
+        ]
       },
       {
-        "title": "Set the lighthouse code to 2746",
-        "body": "The four dials from top to bottom are yellow, orange, blue and purple. Their target digits are 2, 7, 4 and 6. They are linked, so use this sequence:\nTurn purple to 6.\nTurn orange until blue reads 4.\nTurn yellow until orange reads 7.\nTurn yellow to 2, counting how many uses that takes.\nTurn purple that same number of times.\nFinally turn blue until it reads 4.\nRead all four floors again; they must show 2746 from top to bottom. If they do not, repeat the sequence from the current state.",
-        "tip": "Set these before the submarine/foghorn stage so the beam can enter the lighthouse."
+        "title": "Install it to the right of the vault",
+        "body": "Hold interact on the electrical box to the right of the round door. Let the dialogue finish. If the conversation stops before the next request, knife the door again. The four generator lamps must be glowing red before you attack them.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/call-of-the-dead/",
+        "images": [
+          {
+            "src": "./assets/classic-batch5-cotd-electrical_box.webp",
+            "alt": "Fuse box is immediately right of the round vault door.",
+            "caption": "Fuse box is immediately right of the round vault door.",
+            "source": "https://mmmrkennedy.com/games/BO1/call_of_the_dead/call_of_the_dead_guide",
+            "credit": "mmmrkennedy / Activision"
+          }
+        ]
       },
       {
-        "title": "Activate four radios in order",
-        "body": "Press interact on these radios, in order, allowing each sound to register:\n1. On the cabinet in the room beneath the power bridge.\n2. On the barrel beside Stamin-Up.\n3. In the shipping container/train-car section at the back of the second ship, by the zipline exit/window.\n4. On the cabinet under the stairs beside the crew's vault room.\nThe distant light flashes Morse code after the correct sequence."
+        "title": "Prepare explosives",
+        "body": "Use explosive blasts to extinguish all four red generator lamps, in any order. Semtex is sold on the ship near the lighthouse zipline’s landing. Aim close to each glowing top and confirm that its red light goes out.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/call-of-the-dead/",
+        "images": [
+          {
+            "src": "./assets/classic-batch5-cotd-semtex.webp",
+            "alt": "Semtex wall supply on the ship near the lighthouse zipline landing.",
+            "caption": "Semtex wall supply on the ship near the lighthouse zipline landing.",
+            "source": "https://mmmrkennedy.com/games/BO1/call_of_the_dead/call_of_the_dead_guide",
+            "credit": "mmmrkennedy / Activision"
+          }
+        ]
       },
       {
-        "title": "Set the ship's wheel and levers",
-        "body": "At the bridge controls, turn the wheel twice from its initial position so its brown handle points down-right. Pull the left lever once and the right lever three times, leaving the middle alone. The submarine surfaces. Complete this before attempting the foghorn sequence."
+        "title": "Generator: opposite the vault",
+        "body": "Turn around from the round vault door. Put an explosive blast on the generator directly across the room. Its red lamp must go dark.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/call-of-the-dead/",
+        "images": [
+          {
+            "src": "./assets/classic-batch5-cotd-gen_door.webp",
+            "alt": "Generator opposite the trapped crew’s vault door.",
+            "caption": "Generator opposite the trapped crew’s vault door.",
+            "source": "https://mmmrkennedy.com/games/BO1/call_of_the_dead/call_of_the_dead_guide",
+            "credit": "mmmrkennedy / Activision"
+          }
+        ]
       },
       {
-        "title": "Answer with the foghorns",
-        "body": "Assign one teammate to the lighthouse pair and another to the Speed Cola pair. Use the four horns in this order:\n1. By the lighthouse's pool/water edge, right of the AK-74u wall buy.\n2. Right around the corner after landing from the ice slide at Speed Cola.\n3. At the base of the lighthouse, left of the AK-74u by the building.\n4. Behind the large rock straight ahead after the Speed Cola slide.\nPress each once in quick succession. A green beam from the submarine enters the lighthouse when the controls, code and horn order are all correct."
+        "title": "Generator: over the ship’s outer rail",
+        "body": "On the ship’s MPL side, look over the outside railing into the sea. Hit the red-topped generator standing in the water beyond the playable deck.",
+        "original": true,
+        "researchSource": "https://www.callofdutyzombies.com/easteregg/guides/call_of_duty_black_ops_zombies/453_main-easter-eggs/call_of_the_dead/destroy-the-generators-r93/",
+        "images": [
+          {
+            "src": "./assets/classic-batch5-cotd-gen_mpl.webp",
+            "alt": "Water generator over the ship’s outer rail on the MPL side.",
+            "caption": "Water generator over the ship’s outer rail on the MPL side.",
+            "source": "https://mmmrkennedy.com/games/BO1/call_of_the_dead/call_of_the_dead_guide",
+            "credit": "mmmrkennedy / Activision"
+          }
+        ]
       },
       {
-        "title": "Sacrifice a transformed zombie",
-        "body": "Bring a normal zombie to the lighthouse's bottom floor and shoot it once with the V-R11. It becomes a human, runs into the green beam and rises. Immediately shoot it with high-damage weapons or explosives until it is in the downed pose. It must die before reaching the top. When the golden Vril Device descends, pick it up."
+        "title": "Generator: between the broken ship halves",
+        "body": "Enter the low icy shortcut between the ship and the lighthouse-side walkway. Look between the broken ship halves and ice shelves for the red lamp. Detonate an explosive beside it.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/call-of-the-dead/",
+        "images": [
+          {
+            "src": "./assets/classic-batch5-cotd-gen_shortcut.webp",
+            "alt": "Generator in the icy shortcut between the broken ship halves.",
+            "caption": "Generator in the icy shortcut between the broken ship halves.",
+            "source": "https://mmmrkennedy.com/games/BO1/call_of_the_dead/call_of_the_dead_guide",
+            "credit": "mmmrkennedy / Activision"
+          }
+        ]
       },
       {
-        "title": "Repair the fuse and complete the escape",
-        "body": "Place the Vril Device into the tube left of the vault door. Wait through the crew's dialogue, then knife the sparking fuse box to the right of the door. The crew teleports away and a Wunderwaffe power-up appears. Collect it and confirm the achievement.",
-        "tip": "Do not end the match in the middle of the final dialogue when doing this as preparation for Moon."
+        "title": "Generator: Stamin-Up window",
+        "body": "In the Stamin-Up building behind the lighthouse, look through the zombie window to the left of the perk machine. Hit the generator beyond that window; its red light must switch off.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/call-of-the-dead/",
+        "images": [
+          {
+            "src": "./assets/classic-batch5-cotd-gen_stamin_up.webp",
+            "alt": "Stamin-Up generator beyond the left zombie window.",
+            "caption": "Stamin-Up generator beyond the left zombie window.",
+            "source": "https://mmmrkennedy.com/games/BO1/call_of_the_dead/call_of_the_dead_guide",
+            "credit": "mmmrkennedy / Activision"
+          }
+        ]
+      },
+      {
+        "title": "Report all four generators disabled",
+        "body": "Return to the round vault door and knife it. Wait for the crew’s next request. Recheck any generator still glowing red if they do not acknowledge completion.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/call-of-the-dead/"
+      },
+      {
+        "title": "Find the frozen vodka bottle",
+        "body": "Check the four photographed railings: outside the PhD room on its stairs; above those stairs by the Box site; above and right of the MPL; and the walkway joining the broken ship halves. One bottle is frozen into a railing.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/call-of-the-dead/",
+        "images": [
+          {
+            "src": "./assets/classic-batch5-cotd-bottle_below_the_box.webp",
+            "alt": "Vodka candidate: railing on the stairs outside PhD Flopper.",
+            "caption": "Vodka candidate: railing on the stairs outside PhD Flopper.",
+            "source": "https://mmmrkennedy.com/games/BO1/call_of_the_dead/call_of_the_dead_guide",
+            "credit": "mmmrkennedy / Activision"
+          },
+          {
+            "src": "./assets/classic-batch5-cotd-bottle_box.webp",
+            "alt": "Vodka candidate: upper railing beside the nearby Mystery Box site.",
+            "caption": "Vodka candidate: upper railing beside the nearby Mystery Box site.",
+            "source": "https://mmmrkennedy.com/games/BO1/call_of_the_dead/call_of_the_dead_guide",
+            "credit": "mmmrkennedy / Activision"
+          },
+          {
+            "src": "./assets/classic-batch5-cotd-bottle_mpl.webp",
+            "alt": "Vodka candidate: railing above and right of the MPL wallbuy.",
+            "caption": "Vodka candidate: railing above and right of the MPL wallbuy.",
+            "source": "https://mmmrkennedy.com/games/BO1/call_of_the_dead/call_of_the_dead_guide",
+            "credit": "mmmrkennedy / Activision"
+          },
+          {
+            "src": "./assets/classic-batch5-cotd-bottle_shortcut.webp",
+            "alt": "Vodka candidate: railing joining the broken ship sections.",
+            "caption": "Vodka candidate: railing joining the broken ship sections.",
+            "source": "https://mmmrkennedy.com/games/BO1/call_of_the_dead/call_of_the_dead_guide",
+            "credit": "mmmrkennedy / Activision"
+          }
+        ]
+      },
+      {
+        "title": "Catch it with a second player",
+        "body": "Put one player directly beneath the bottle. A second player knifes the ice from above. The catcher receives it automatically by standing underneath. If it shatters on the ground, search the other spawn railings and repeat.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/call-of-the-dead/",
+        "images": [
+          {
+            "src": "./assets/classic-batch5-cotd-bottle_example.webp",
+            "alt": "Frozen bottle above a catcher’s position.",
+            "caption": "Frozen bottle above a catcher’s position.",
+            "source": "https://mmmrkennedy.com/games/BO1/call_of_the_dead/call_of_the_dead_guide",
+            "credit": "mmmrkennedy / Activision"
+          }
+        ]
+      },
+      {
+        "title": "Deliver Nikolai’s vodka",
+        "body": "The catcher returns to the vault room and holds interact on the tube to the left of the round door. Knife the door after delivery and let the new conversation finish.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/call-of-the-dead/",
+        "images": [
+          {
+            "src": "./assets/classic-batch5-cotd-tube.webp",
+            "alt": "Use the left transfer tube for the vodka delivery.",
+            "caption": "Use the left transfer tube for the vodka delivery.",
+            "source": "https://mmmrkennedy.com/games/BO1/call_of_the_dead/call_of_the_dead_guide",
+            "credit": "mmmrkennedy / Activision"
+          }
+        ]
+      },
+      {
+        "title": "Dials: read top to bottom",
+        "body": "The lighthouse target is Yellow 2, Orange 7, Blue 4, Purple 6, from its top floor down to its bottom. Interact changes coupled dials, so use the following sequence and have one player direct the inputs.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/call-of-the-dead/",
+        "images": [
+          {
+            "src": "./assets/classic-batch5-cotd-yellow.webp",
+            "alt": "Yellow dial on the lighthouse’s top floor.",
+            "caption": "Yellow dial on the lighthouse’s top floor.",
+            "source": "https://mmmrkennedy.com/games/BO1/call_of_the_dead/call_of_the_dead_guide",
+            "credit": "mmmrkennedy / Activision"
+          },
+          {
+            "src": "./assets/classic-batch5-cotd-orange.webp",
+            "alt": "Orange dial on the next floor down.",
+            "caption": "Orange dial on the next floor down.",
+            "source": "https://mmmrkennedy.com/games/BO1/call_of_the_dead/call_of_the_dead_guide",
+            "credit": "mmmrkennedy / Activision"
+          },
+          {
+            "src": "./assets/classic-batch5-cotd-blue.webp",
+            "alt": "Blue dial on the next floor down.",
+            "caption": "Blue dial on the next floor down.",
+            "source": "https://mmmrkennedy.com/games/BO1/call_of_the_dead/call_of_the_dead_guide",
+            "credit": "mmmrkennedy / Activision"
+          },
+          {
+            "src": "./assets/classic-batch5-cotd-purple.webp",
+            "alt": "Purple dial on the bottom floor.",
+            "caption": "Purple dial on the bottom floor.",
+            "source": "https://mmmrkennedy.com/games/BO1/call_of_the_dead/call_of_the_dead_guide",
+            "credit": "mmmrkennedy / Activision"
+          }
+        ]
+      },
+      {
+        "title": "Dials: set Purple, then Blue, then Orange",
+        "body": "Turn Purple until Purple reads 6. Turn Orange until Blue reads 4. Turn Yellow until Orange reads 7. Read each named target as you adjust it; earlier interactions may already have changed the starting values.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/call-of-the-dead/"
+      },
+      {
+        "title": "Dials: finish Yellow and compensate",
+        "body": "Turn Yellow until Yellow reads 2, counting only these turns. Turn Purple exactly that many times. Finally, turn Blue until Blue reads 4. Verify the final top-to-bottom reading is 2–7–4–6.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/call-of-the-dead/"
+      },
+      {
+        "title": "Quest radio 1: below power",
+        "body": "Interact once with the radio on the electrical cabinets in the ship room directly below the bridge, near its Mystery Box site. Start here; these four devices are separate from the five spoken story recordings.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/call-of-the-dead/",
+        "images": [
+          {
+            "src": "./assets/classic-batch5-cotd-radio_power.webp",
+            "alt": "Quest radio 1 on cabinets below the bridge/power room.",
+            "caption": "Quest radio 1 on cabinets below the bridge/power room.",
+            "source": "https://mmmrkennedy.com/games/BO1/call_of_the_dead/call_of_the_dead_guide",
+            "credit": "mmmrkennedy / Activision"
+          }
+        ]
+      },
+      {
+        "title": "Quest radio 2: Stamin-Up barrel",
+        "body": "Interact once with the radio on the barrel in the Stamin-Up room’s right-hand corner. Use the barrel device, rather than the story radio under the partly closed door.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/call-of-the-dead/",
+        "images": [
+          {
+            "src": "./assets/classic-batch5-cotd-radio_staminup.webp",
+            "alt": "Quest radio 2 is on the Stamin-Up room’s barrel.",
+            "caption": "Quest radio 2 is on the Stamin-Up room’s barrel.",
+            "source": "https://mmmrkennedy.com/games/BO1/call_of_the_dead/call_of_the_dead_guide",
+            "credit": "mmmrkennedy / Activision"
+          }
+        ]
+      },
+      {
+        "title": "Quest radio 3: ship cargo container",
+        "body": "Go to the ship end of the lighthouse zipline. Interact once with the upright radio inside the nearby red cargo container, beside its open end.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/call-of-the-dead/",
+        "images": [
+          {
+            "src": "./assets/classic-batch5-cotd-radio_crate.webp",
+            "alt": "Quest radio 3 stands inside the red cargo container near the lighthouse zipline landing.",
+            "caption": "Quest radio 3 stands inside the red cargo container near the lighthouse zipline landing.",
+            "source": "https://mmmrkennedy.com/games/BO1/call_of_the_dead/call_of_the_dead_guide",
+            "credit": "mmmrkennedy / Activision"
+          }
+        ]
+      },
+      {
+        "title": "Quest radio 4: under the vault-room stairs",
+        "body": "Interact once with the radio on the cabinet beneath the stairs in the crew’s vault room. A yellow signal flashing off the coast and Morse beeps confirm the sequence. Let a device register before the next player presses theirs.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/call-of-the-dead/",
+        "images": [
+          {
+            "src": "./assets/classic-batch5-cotd-radio_door.webp",
+            "alt": "Quest radio 4 on the cabinet beneath the vault-room staircase.",
+            "caption": "Quest radio 4 on the cabinet beneath the vault-room staircase.",
+            "source": "https://mmmrkennedy.com/games/BO1/call_of_the_dead/call_of_the_dead_guide",
+            "credit": "mmmrkennedy / Activision"
+          }
+        ],
+        "tip": "On a wrong sequence, finish the four inputs, wait for the failure buzz/lockout to end, then restart at radio 1. Avoid repeatedly spamming the devices."
+      },
+      {
+        "title": "Wheel: brown peg at the lower right",
+        "body": "Return to the ship’s bridge. From the untouched wheel, interact twice to turn it clockwise. The distinct brown peg should finish at the lower right, as shown in the photo.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/call-of-the-dead/",
+        "images": [
+          {
+            "src": "./assets/classic-batch5-cotd-wheel_pre.webp",
+            "alt": "Bridge wheel before adjustment.",
+            "caption": "Bridge wheel before adjustment.",
+            "source": "https://mmmrkennedy.com/games/BO1/call_of_the_dead/call_of_the_dead_guide",
+            "credit": "mmmrkennedy / Activision"
+          },
+          {
+            "src": "./assets/classic-batch5-cotd-wheel_post.webp",
+            "alt": "Completed wheel: the distinct brown peg points down and right.",
+            "caption": "Completed wheel: the distinct brown peg points down and right.",
+            "source": "https://mmmrkennedy.com/games/BO1/call_of_the_dead/call_of_the_dead_guide",
+            "credit": "mmmrkennedy / Activision"
+          }
+        ],
+        "tip": "If someone already moved the controls, match their final photographed positions instead of blindly adding the starting counts."
+      },
+      {
+        "title": "Levers: left once, right three times",
+        "body": "Face the three levers to the right of the wheel. From their starting positions, use the left lever once and the right lever three times. Leave the middle lever untouched. Wait for the submarine to surface.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/call-of-the-dead/",
+        "images": [
+          {
+            "src": "./assets/classic-batch5-cotd-levers_post.webp",
+            "alt": "Completed levers: left partway down, middle at its starting height, right fully down.",
+            "caption": "Completed levers: left partway down, middle at its starting height, right fully down.",
+            "source": "https://mmmrkennedy.com/games/BO1/call_of_the_dead/call_of_the_dead_guide",
+            "credit": "mmmrkennedy / Activision"
+          },
+          {
+            "src": "./assets/classic-batch5-cotd-sub.webp",
+            "alt": "Surfaced submarine and its beam off the coast.",
+            "caption": "Surfaced submarine and its beam off the coast.",
+            "source": "https://mmmrkennedy.com/games/BO1/call_of_the_dead/call_of_the_dead_guide",
+            "credit": "mmmrkennedy / Activision"
+          }
+        ]
+      },
+      {
+        "title": "Assign two horn players; wait for the submarine",
+        "body": "Put one player at the lighthouse horns and another at the Speed Cola slide exit. After the quest radios and bridge controls, wait for the submarine to fully surface and sound its horn. Press each following horn once, in order.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/call-of-the-dead/",
+        "images": [
+          {
+            "src": "./assets/classic-batch5-cotd-sub.webp",
+            "alt": "Submarine must be surfaced for the foghorn attempt.",
+            "caption": "Submarine must be surfaced for the foghorn attempt.",
+            "source": "https://mmmrkennedy.com/games/BO1/call_of_the_dead/call_of_the_dead_guide",
+            "credit": "mmmrkennedy / Activision"
+          }
+        ]
+      },
+      {
+        "title": "Foghorn 1: lighthouse pool",
+        "body": "Press the horn beside the small pool outside the lighthouse, to the right of the AK-74u side when facing out from its ground entrance.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/call-of-the-dead/",
+        "images": [
+          {
+            "src": "./assets/classic-batch5-cotd-horn_lighthouse_1.webp",
+            "alt": "First horn: pool at the base of the lighthouse.",
+            "caption": "First horn: pool at the base of the lighthouse.",
+            "source": "https://mmmrkennedy.com/games/BO1/call_of_the_dead/call_of_the_dead_guide",
+            "credit": "mmmrkennedy / Activision"
+          }
+        ]
+      },
+      {
+        "title": "Foghorn 2: right after the slide",
+        "body": "The slide-side player presses the horn immediately right of the Speed Cola tunnel exit, in the shallow water by the corner.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/call-of-the-dead/",
+        "images": [
+          {
+            "src": "./assets/classic-batch5-cotd-horn_speed_cola_1.webp",
+            "alt": "Second horn: right-hand corner immediately outside the Speed Cola slide exit.",
+            "caption": "Second horn: right-hand corner immediately outside the Speed Cola slide exit.",
+            "source": "https://mmmrkennedy.com/games/BO1/call_of_the_dead/call_of_the_dead_guide",
+            "credit": "mmmrkennedy / Activision"
+          }
+        ]
+      },
+      {
+        "title": "Foghorn 3: beside the lighthouse building",
+        "body": "The lighthouse-side player presses the other horn beside the building/bridge, on the left of the AK-74u side.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/call-of-the-dead/",
+        "images": [
+          {
+            "src": "./assets/classic-batch5-cotd-horn_lighthouse_2.webp",
+            "alt": "Third horn: beside the building at the lighthouse base.",
+            "caption": "Third horn: beside the building at the lighthouse base.",
+            "source": "https://mmmrkennedy.com/games/BO1/call_of_the_dead/call_of_the_dead_guide",
+            "credit": "mmmrkennedy / Activision"
+          }
+        ]
+      },
+      {
+        "title": "Foghorn 4: far rock after the slide",
+        "body": "The slide-side player wades to the large rock island straight ahead and presses the horn behind it. A green submarine beam confirms success. On failure, advance a round and retry after the submarine resurfaces.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/call-of-the-dead/",
+        "images": [
+          {
+            "src": "./assets/classic-batch5-cotd-horn_speed_cola_2.webp",
+            "alt": "Fourth horn: behind the large rock in the water beyond the slide.",
+            "caption": "Fourth horn: behind the large rock in the water beyond the slide.",
+            "source": "https://mmmrkennedy.com/games/BO1/call_of_the_dead/call_of_the_dead_guide",
+            "credit": "mmmrkennedy / Activision"
+          }
+        ]
+      },
+      {
+        "title": "Turn a normal zombie into a human",
+        "body": "Open the lighthouse’s ground entrance. Obtain the V-R11 from the Mystery Box; its ordinary version works. At the bottom floor, shoot a normal zombie near the green beam. The converted human must run into the beam and begin rising.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/call-of-the-dead/",
+        "images": [
+          {
+            "src": "./assets/classic-batch5-cotd-joker-vr11.webp",
+            "alt": "V-R11 appearing in the BO1 Mystery Box.",
+            "caption": "V-R11 appearing in the BO1 Mystery Box.",
+            "source": "https://www.codzombieguides.com/call-of-the-dead",
+            "credit": "JokerAlex21 / CoD Zombies Guides / Activision"
+          },
+          {
+            "src": "./assets/classic-batch5-cotd-beam_lighthouse_stairs.webp",
+            "alt": "Active green beam through the lighthouse’s spiral stairs.",
+            "caption": "Active green beam through the lighthouse’s spiral stairs.",
+            "source": "https://mmmrkennedy.com/games/BO1/call_of_the_dead/call_of_the_dead_guide",
+            "credit": "mmmrkennedy / Activision"
+          }
+        ]
+      },
+      {
+        "title": "Damage the human until it slumps",
+        "body": "Immediately attack the rising human with a strong damage weapon. Keep firing until its body folds into the downed pose, before it reaches the top. Ray Gun or Scavenger fire is useful. Repeat with another converted zombie if the attempt escapes.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/call-of-the-dead/",
+        "images": [
+          {
+            "src": "./assets/classic-batch5-cotd-downed_human.webp",
+            "alt": "The human must visibly slump while rising through the beam.",
+            "caption": "The human must visibly slump while rising through the beam.",
+            "source": "https://mmmrkennedy.com/games/BO1/call_of_the_dead/call_of_the_dead_guide",
+            "credit": "mmmrkennedy / Activision"
+          }
+        ]
+      },
+      {
+        "title": "Collect the Golden Rod",
+        "body": "After the limp body reaches the top, wait for the Golden Rod to descend through the green beam. Hold interact on it at the bottom of the lighthouse stairs.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/call-of-the-dead/",
+        "images": [
+          {
+            "src": "./assets/classic-batch5-cotd-golden_rod.webp",
+            "alt": "Golden Rod descending to the lighthouse’s bottom floor.",
+            "caption": "Golden Rod descending to the lighthouse’s bottom floor.",
+            "source": "https://mmmrkennedy.com/games/BO1/call_of_the_dead/call_of_the_dead_guide",
+            "credit": "mmmrkennedy / Activision"
+          }
+        ]
+      },
+      {
+        "title": "Send the rod through the left tube",
+        "body": "Return to the crew’s vault. Hold interact on the transfer tube to the left of the door to send the Golden Rod through. Wait for the crew’s conversation to finish.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/call-of-the-dead/",
+        "images": [
+          {
+            "src": "./assets/classic-batch5-cotd-tube.webp",
+            "alt": "Transfer tube immediately left of the round vault door.",
+            "caption": "Transfer tube immediately left of the round vault door.",
+            "source": "https://mmmrkennedy.com/games/BO1/call_of_the_dead/call_of_the_dead_guide",
+            "credit": "mmmrkennedy / Activision"
+          }
+        ]
+      },
+      {
+        "title": "Knife the sparking fuse box",
+        "body": "When the fuse box to the right of the door starts sparking, knife the box. Let the final dialogue finish. The achievement unlocks and a lightning-bolt power-up appears in front of the door; one player can collect that Wunderwaffe.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/call-of-the-dead/",
+        "images": [
+          {
+            "src": "./assets/classic-batch5-cotd-electrical_box.webp",
+            "alt": "Final repair uses the same fuse box on the right.",
+            "caption": "Final repair uses the same fuse box on the right.",
+            "source": "https://mmmrkennedy.com/games/BO1/call_of_the_dead/call_of_the_dead_guide",
+            "credit": "mmmrkennedy / Activision"
+          },
+          {
+            "src": "./assets/classic-batch5-cotd-joker-reward.webp",
+            "alt": "BO1 lightning-bolt reward outside the vault after completion.",
+            "caption": "BO1 lightning-bolt reward outside the vault after completion.",
+            "source": "https://www.codzombieguides.com/call-of-the-dead",
+            "credit": "JokerAlex21 / CoD Zombies Guides / Activision"
+          }
+        ]
       }
     ],
     "sources": [
       {
-        "title": "r/CODZombies — full co-op quest and dial solution",
+        "title": "r/CODZombies — original Call of the Dead",
         "url": "https://www.reddit.com/r/CODZombies/wiki/call-of-the-dead/"
       },
       {
-        "title": "Steam Community — original Call of the Dead walkthrough",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2910967826"
+        "title": "mmmrkennedy — BO1 photographed walkthrough",
+        "url": "https://mmmrkennedy.com/games/BO1/call_of_the_dead/call_of_the_dead_guide"
       },
       {
-        "title": "r/CODZombies — co-op beam troubleshooting",
-        "url": "https://www.reddit.com/r/CODZombies/comments/vfdve0/call_of_the_dead_co_op_easter_egg/"
+        "title": "CoDZ — four vodka locations",
+        "url": "https://www.callofdutyzombies.com/easteregg/guides/call_of_duty_black_ops_zombies/453_main-easter-eggs/call_of_the_dead/get-the-vodka-r94/"
+      },
+      {
+        "title": "CoDZ — dial algorithm",
+        "url": "https://www.callofdutyzombies.com/easteregg/guides/call_of_duty_black_ops_zombies/453_main-easter-eggs/call_of_the_dead/lighthouse-dials-algorithm-step-5-co-op-only-skip-to-step-9-for-solo-r96/"
+      },
+      {
+        "title": "CoDZ — ordered quest radios",
+        "url": "https://www.callofdutyzombies.com/easteregg/guides/call_of_duty_black_ops_zombies/453_main-easter-eggs/call_of_the_dead/radios-step-6-co-op-only-r97/"
+      },
+      {
+        "title": "BO1 players — submarine and foghorn troubleshooting",
+        "url": "https://www.reddit.com/r/CODZombies/comments/12hzps9/"
+      },
+      {
+        "title": "BO1 players — radio retry discussion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/pe4mj7/"
+      },
+      {
+        "title": "CoDZ — human sacrifice and Golden Rod",
+        "url": "https://www.callofdutyzombies.com/easteregg/guides/call_of_duty_black_ops_zombies/453_main-easter-eggs/call_of_the_dead/the-golden-rod-r100/"
+      },
+      {
+        "title": "Monkey — BO1 Easter Egg and achievements",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2910967826"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-16",
+    "relatedGuideIds": [
+      "bo1-call-of-the-dead-stand-in-solo",
+      "bo1-call-of-the-dead-roaming-pack-a-punch",
+      "bo1-call-of-the-dead-wunderwaffe-power-up"
+    ],
+    "sharedSource": false,
+    "sourceQuote": null,
+    "supplementNote": "Checked for original BO1. Mode restrictions and unresolved numerical claims are stated in the guide."
   },
   {
     "id": "bo1-call-of-the-dead-not-ready-to-die",
     "mapId": "bo1-call-of-the-dead",
-    "title": "Not Ready to Die",
+    "title": "Not Ready to Die — three meteor fragments",
     "category": "music",
     "difficulty": "Easy",
     "players": "1–4",
-    "summary": "Activate the three red meteor fragments for the Avenged Sevenfold track.",
+    "summary": "Spawn barrel, ship cafeteria booth and the small table in the PhD room.",
     "requirements": [
-      "Open the ship's dining area and the PhD Flopper building"
+      "Version: original BO1 on PC, PS3 or Xbox 360.",
+      "Open the ship cafeteria and PhD Flopper room"
     ],
-    "reward": "Not Ready to Die plays once for the match.",
+    "reward": "Not Ready to Die by Avenged Sevenfold plays once that match.",
     "steps": [
       {
-        "title": "Spawn barrel",
-        "body": "Interact with the red fragment on the barrel beside the water where George first emerges, near the spawn area's Mystery Box location."
+        "title": "Spawn: fragment on a barrel",
+        "body": "Hold interact on the meteor fragment sitting on the barrel beside spawn’s icy water, near the lighthouse-side barrier. Listen for the character’s acknowledgment.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/call-of-the-dead/",
+        "images": [
+          {
+            "src": "./assets/classic-batch5-cotd-rock_spawn.webp",
+            "alt": "Song fragment on the barrel beside the spawn pool.",
+            "caption": "Song fragment on the barrel beside the spawn pool.",
+            "source": "https://mmmrkennedy.com/games/BO1/call_of_the_dead/call_of_the_dead_guide",
+            "credit": "mmmrkennedy / Activision"
+          }
+        ]
       },
       {
-        "title": "Ship dining area",
-        "body": "Go inside the ship on the right side of spawn. In the kitchen/dining section, interact with the glowing fragment on a booth bench."
+        "title": "Ship cafeteria: fragment on the booth",
+        "body": "Enter the ship’s dining room below the bridge. Hold interact on the fragment on the padded bench/booth beside the table.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/call-of-the-dead/",
+        "images": [
+          {
+            "src": "./assets/classic-batch5-cotd-rock_cafeteria.webp",
+            "alt": "Song fragment on a booth in the ship’s dining room.",
+            "caption": "Song fragment on a booth in the ship’s dining room.",
+            "source": "https://mmmrkennedy.com/games/BO1/call_of_the_dead/call_of_the_dead_guide",
+            "credit": "mmmrkennedy / Activision"
+          }
+        ]
       },
       {
-        "title": "PhD Flopper room",
-        "body": "In the PhD Flopper building, look under the small table/nightstand opposite the perk machine, near the room's entrance. Hold interact on the red fragment. The third confirmed fragment starts the song; the order is flexible."
+        "title": "PhD room: fragment under the small table",
+        "body": "In the PhD Flopper room, hold interact on the fragment beneath the small table across from the machine, near the clock. Any order works; the third registered fragment starts Not Ready to Die.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/call-of-the-dead/",
+        "images": [
+          {
+            "src": "./assets/classic-batch5-cotd-rock_phd.webp",
+            "alt": "Song fragment underneath the small table in the PhD room.",
+            "caption": "Song fragment underneath the small table in the PhD room.",
+            "source": "https://mmmrkennedy.com/games/BO1/call_of_the_dead/call_of_the_dead_guide",
+            "credit": "mmmrkennedy / Activision"
+          }
+        ]
       }
     ],
     "sources": [
       {
-        "title": "r/CODZombies — Call of the Dead meteor locations",
+        "title": "r/CODZombies — original Call of the Dead",
         "url": "https://www.reddit.com/r/CODZombies/wiki/call-of-the-dead/"
+      },
+      {
+        "title": "mmmrkennedy — BO1 photographed walkthrough",
+        "url": "https://mmmrkennedy.com/games/BO1/call_of_the_dead/call_of_the_dead_guide"
+      },
+      {
+        "title": "JokerAlex21 — original Call of the Dead",
+        "url": "https://www.codzombieguides.com/call-of-the-dead"
+      },
+      {
+        "title": "Monkey — BO1 Easter Egg and achievements",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2910967826"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-16",
+    "relatedGuideIds": [
+      "bo1-call-of-the-dead-avenged-sevenfold-poster"
+    ],
+    "sharedSource": false,
+    "sourceQuote": null,
+    "supplementNote": "Checked for original BO1. Mode restrictions and unresolved numerical claims are stated in the guide."
   },
   {
     "id": "bo1-shangri-la-time-travel-will-tell",
@@ -751,75 +1635,212 @@
     "steps": [
       {
         "title": "Power and eclipse",
-        "body": "Turn on both switches in the underground power room. Back at Quick Revive, assign one player to each of the four skull buttons surrounding spawn. Press them together to enter eclipse mode. Reactivate eclipse before each subsequent puzzle whenever the map returns to daylight. A timed-out puzzle can usually be retried in the same round."
+        "body": "Turn on both switches in the underground power room. Back at Quick Revive, assign one player to each of the four skull buttons surrounding spawn. Press them together to enter eclipse mode. Reactivate eclipse before each subsequent puzzle whenever the map returns to daylight. A timed-out puzzle can usually be retried in the same round.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/qnhaup/how_to_complete_the_shangri_la_easter_egg_solo_bo1/",
+        "images": [
+          {
+            "source": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/shangri-la/",
+            "alt": "BO1: one of the four skull buttons around Quick Revive, used together for eclipse.",
+            "caption": "BO1: one of the four skull buttons around Quick Revive, used together for eclipse.",
+            "credit": "hXcHector / Call of Duty / Activision",
+            "src": "./assets/root-shangri-hector-03.jpg"
+          }
+        ]
       },
       {
         "title": "Match all twelve tile pairs",
-        "body": "During eclipse, interact with the button on the small brick structure near the tunnel entrance on the minecart/MPL side of spawn. Twelve floor tiles appear on that side and twelve on the opposite bridge/mud-maze side. One player steps on a tile, remembers its symbol and steps off. The opposite player searches for the matching symbol, then both stand on that pair together until it disappears. Repeat for all twelve pairs. Keep other players off unmatched tiles. A raised focusing crystal and return to daylight confirm completion."
+        "body": "During eclipse, interact with the button on the small brick structure near the tunnel entrance on the minecart/MPL side of spawn. Twelve floor tiles appear on that side and twelve on the opposite bridge/mud-maze side. One player steps on a tile, remembers its symbol and steps off. The opposite player searches for the matching symbol, then both stand on that pair together until it disappears. Repeat for all twelve pairs. Keep other players off unmatched tiles. A raised focusing crystal and return to daylight confirm completion.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/qnhaup/how_to_complete_the_shangri_la_easter_egg_solo_bo1/",
+        "images": [
+          {
+            "source": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/shangri-la/",
+            "alt": "BO1: a glowing floor-tile symbol during the matching puzzle.",
+            "caption": "BO1: a glowing floor-tile symbol during the matching puzzle.",
+            "credit": "hXcHector / Call of Duty / Activision",
+            "src": "./assets/root-shangri-hector-04.jpg"
+          }
+        ]
       },
       {
         "title": "Weigh down the water-slide plate",
         "body": "Start another eclipse. Three living players slide down and stand still together on the metal grate/pressure plate at the bottom. The fourth goes down the slide last, brushing against the switch on the right near the start; hold interact while passing it as well. The fourth lands on the grate with the team. The explorers speak and eclipse ends when the step registers.",
-        "tip": "Do not let the three waiting players walk off the grate before the fourth arrives."
+        "tip": "Keep all three waiting players alive and standing on the grate until the fourth arrives. Touching the slide switch is the documented trigger; holding interact while passing it is a fallback.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/qnhaup/how_to_complete_the_shangri_la_easter_egg_solo_bo1/"
       },
       {
         "title": "Move the large crystal",
-        "body": "Start eclipse with the 31-79 JGb215 ready. At the top of the water slide, shoot the crystal lodged in the rock above it with an explosive to knock it down. Shrink it with the JGb215, then knife it. Follow it down the slide and into the geyser. Stand on that geyser to launch both you and the crystal; it lands in its holder and ends eclipse."
+        "body": "Start eclipse with the 31-79 JGb215 ready. At the top of the water slide, shoot the crystal lodged in the rock above it with an explosive to knock it down. Shrink it with the JGb215, then knife it. Follow it down the slide and into the geyser. Stand on that geyser to launch both you and the crystal; it lands in its holder and ends eclipse.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/qnhaup/how_to_complete_the_shangri_la_easter_egg_solo_bo1/",
+        "images": [
+          {
+            "source": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/shangri-la/",
+            "alt": "BO1: the crystal above the water-slide entrance before it is knocked down.",
+            "caption": "BO1: the crystal above the water-slide entrance before it is knocked down.",
+            "credit": "hXcHector / Call of Duty / Activision",
+            "src": "./assets/root-shangri-hector-05.jpg"
+          }
+        ]
       },
       {
         "title": "Ignite the four gas leaks",
-        "body": "Have a Napalm Zombie alive before starting eclipse. In the tunnel by the minecart/MPL-side area, turn the red valve four times until the coughing stops. Lead the Napalm Zombie through the tunnel toward power, keeping enough distance that it does not explode. It must ignite the leak near the valve, the leak above the nearby box/geyser, and both leaks on the approach to the power-room door. Return to the valve and pull the adjacent lever once all four flames are lit. Keep the Napalm Zombie alive for the next step if possible."
+        "body": "Have a Napalm Zombie alive before starting eclipse. In the tunnel by the minecart/MPL-side area, turn the red valve four times until the coughing stops. Lead the Napalm Zombie through the tunnel toward power, keeping enough distance that it does not explode. It must ignite the leak near the valve, the leak above the nearby box/geyser, and both leaks on the approach to the power-room door. Return to the valve and pull the adjacent lever once all four flames are lit. Keep the Napalm Zombie alive for the next step if possible.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/qnhaup/how_to_complete_the_shangri_la_easter_egg_solo_bo1/",
+        "images": [
+          {
+            "source": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/shangri-la/",
+            "alt": "BO1: the red gas valve and nearby lever in the mine-side tunnel.",
+            "caption": "BO1: the red gas valve and nearby lever in the mine-side tunnel.",
+            "credit": "hXcHector / Call of Duty / Activision",
+            "src": "./assets/root-shangri-hector-06.jpg"
+          }
+        ]
       },
       {
         "title": "Plug the water-tunnel holes",
         "body": "In a fresh eclipse, go to the tunnel beyond the rope bridge toward the waterfall pool. Place a Spikemore facing each of the four small wall holes, so its bamboo spikes will enter the hole when triggered. Lead the Napalm Zombie, or ordinary zombies, through the traps. Check that every hole visibly contains a spike. In the pool at the bottom, hold interact on the protruding stone marked Do Not Hold. Water flows through and the next crystal rises.",
-        "tip": "Spikemores triggered outside eclipse will not plug these holes. Two players can each supply two traps."
+        "tip": "Leave a little space between each Spikemore and its hole so the trap can trigger. Three holes have blue lights; the fourth is unlit. Explosions outside eclipse do not plug the holes. Two players can each bring two traps.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/qnhaup/how_to_complete_the_shangri_la_easter_egg_solo_bo1/"
       },
       {
-        "title": "Knife twelve wall panels and destroy the teepee",
-        "body": "Start eclipse and knife these wall panels until their symbols glow:\nLeft of the Pack-a-Punch stairs.\nIn each of the two punji passages from spawn.\nThe spawn-temple wall opposite each of those two passages.\nBeside the far-left mud-room dial on the path toward the slide.\nNear the PM63 wall buy.\nAt the former 1,250-point debris entrance in the Stakeout room.\nAcross from the Stakeout wall buy, on the rock.\nImmediately left of the left power switch.\nBeside the gong at the minecart.\nOn the wall to your right when approaching the minecart from spawn.\nAfter all twelve, throw an explosive at the small wooden teepee outside the map beyond the minecart. Eclipse ends when it is destroyed."
+        "title": "Wall panels: five around spawn",
+        "body": "Start eclipse. Keep this same eclipse active while doing all three panel groups and destroying the teepee. Knife each panel until its symbol lights blue. In spawn, find one left of the Pack-a-Punch stairs, one inside each of the two punji-spike passages, and one on the spawn-temple wall opposite each passage. That is five panels.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/qnhaup/how_to_complete_the_shangri_la_easter_egg_solo_bo1/"
+      },
+      {
+        "title": "Wall panels: four above ground",
+        "body": "Continue in the same eclipse. Find the mud-room panel beside the far-left dial on the path toward the slide, the panel near the PM63 wall buy, the panel beside the gong at the minecart, and the panel on the wall to your right when approaching the minecart from spawn. Knife all four until blue.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/qnhaup/how_to_complete_the_shangri_la_easter_egg_solo_bo1/"
+      },
+      {
+        "title": "Wall panels: three underground",
+        "body": "Still in the same eclipse, knife the panel at the former 1,250-point debris entrance in the Stakeout room, the panel on the rock across from the Stakeout wall buy, and the panel immediately left of the left power switch. All twelve must be lit before finishing this stage.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/qnhaup/how_to_complete_the_shangri_la_easter_egg_solo_bo1/"
+      },
+      {
+        "title": "Destroy the wooden teepee",
+        "body": "After all twelve panels, return to the minecart. Throw an explosive at the small wooden snare/teepee beyond the playable railing. When it disappears and eclipse ends, remain in the present for the radio.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/qnhaup/how_to_complete_the_shangri_la_easter_egg_solo_bo1/",
+        "images": [
+          {
+            "source": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/shangri-la/",
+            "alt": "BO1: the small wooden snare/teepee beyond the minecart. The red circle is part of hXcHector’s source image.",
+            "caption": "BO1: the small wooden snare/teepee beyond the minecart. The red circle is part of hXcHector’s source image.",
+            "credit": "hXcHector / Call of Duty / Activision",
+            "src": "./assets/root-shangri-hector-07.jpg"
+          }
+        ]
+      },
+      {
+        "title": "Present day: play the minecart radio",
+        "body": "Before pressing the eclipse buttons again, inspect the wooden table/crate across from the minecart on the upper deck. Hold interact on the yellow radio and let its message play. It supplies the dial code, 16, 1, 3, 4.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/qnhaup/how_to_complete_the_shangri_la_easter_egg_solo_bo1/"
       },
       {
         "title": "Set the four mud-room dials",
-        "body": "Enter eclipse and approach the mud room from spawn. Set the near-right dial to one dot (1), far-right to the bracket/line/dot symbol (16), far-left to three dots (3), and near-left to four dots (4). Select the required marking at the top of each dial. The successful code ends eclipse. The nearby radio gives the same 16, 1, 3, 4 clue every game."
+        "body": "After activating the minecart radio in daylight, start eclipse and enter the mud room from spawn. Set the near-right dial to one dot (1), far-right to bracket/line/dot (16), far-left to three dots (3), and near-left to four dots (4). Put each chosen marking at the TOP. The code is fixed; a successful setting ends eclipse.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/qnhaup/how_to_complete_the_shangri_la_easter_egg_solo_bo1/",
+        "images": [
+          {
+            "source": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/shangri-la/",
+            "alt": "BO1: a mud-room code dial; the selected marking goes at the top.",
+            "caption": "BO1: a mud-room code dial; the selected marking goes at the top.",
+            "credit": "hXcHector / Call of Duty / Activision",
+            "src": "./assets/root-shangri-hector-08.jpg"
+          }
+        ],
+        "tip": "This stage has a shorter window than the other puzzles. Assign a dial to each player before starting eclipse; if it expires, reactivate eclipse and retry the code."
+      },
+      {
+        "title": "Present day: play the temple-stairs radio",
+        "body": "After the dial puzzle returns the map to daylight, go to the RIGHT base of the Pack-a-Punch stairs. Interact with the yellow radio on the rubble and let the message play before the gong/dynamite stage. Brock and Gary now discuss the sealed chamber and missing dynamite.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/qnhaup/how_to_complete_the_shangri_la_easter_egg_solo_bo1/"
       },
       {
         "title": "Upgrade the shrink ray",
-        "body": "Use Pack-a-Punch to turn the JGb215 into the Fractalizer. To raise the temple stairs, all four players stand on the stone Pack-a-Punch plates: spawn; the underground tunnel on the minecart side; the far end of the rope bridge; and between the two power switches. Once the statues lock, run up the temple stairs and upgrade for 5,000 points before the stairs retract."
+        "body": "Use Pack-a-Punch to turn the JGb215 into the Fractalizer. To raise the temple stairs, all four players stand on the stone Pack-a-Punch plates: spawn; the underground tunnel on the minecart side; the far end of the rope bridge; and between the two power switches. Once the statues lock, run up the temple stairs and upgrade for 5,000 points before the stairs retract.",
+        "original": true,
+        "researchSource": "https://w.atwiki.jp/cod_blackops/pages/131.html"
       },
       {
         "title": "Find the four correct gongs",
-        "body": "Start eclipse and test the eight gongs around spawn, the minecart/MPL courtyard, both ends of the mud area and the far side of the bridge. Knife one and watch the crystals: a wrong gong gives a discordant sound and makes them flash red. Record the four gongs that give the normal resonating tone. Hit those four together within the resonance window; their order is unimportant. The crystals gain a golden glow and rotating Treyarch symbols."
+        "body": "Start eclipse and test the eight gongs around spawn, the minecart/MPL courtyard, both ends of the mud area and the far side of the bridge. Knife one and watch the crystals: a wrong gong gives a discordant sound and makes them flash red. Record the four gongs that give the normal resonating tone. Hit those four together within the resonance window; their order is unimportant. The crystals gain a golden glow and rotating Treyarch symbols.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/qnhaup/how_to_complete_the_shangri_la_easter_egg_solo_bo1/",
+        "images": [
+          {
+            "source": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/shangri-la/",
+            "alt": "BO1: the elevated mud-temple focusing crystal glowing during the gong stage.",
+            "caption": "BO1: the elevated mud-temple focusing crystal glowing during the gong stage.",
+            "credit": "hXcHector / Call of Duty / Activision",
+            "src": "./assets/root-shangri-hector-09.jpg"
+          }
+        ],
+        "tip": "Search all eight: beside the MPL/brick prison; in front of its tunnel entrance; left of the minecart entrance; at the spawn-to-minecart passage; left upon entering the mud room from spawn; right at its bridge exit; beside the bridge-side window/PM63 area; and on the opposite side of the bridge. Record the four accepted gongs; their order is not a sequence puzzle."
       },
       {
         "title": "Catch the dynamite and shrink the meteor",
-        "body": "Put a teammate directly beneath the focusing crystal with dynamite hanging from it on the minecart side of spawn. Shoot that crystal with the Fractalizer; the dynamite falls outward slightly to the left and is caught by touching it. Confirm it appears in the inventory. While the crystals still resonate, shoot the focusing crystal above the mud-maze temple, visible from spawn. The bounced beam shrinks the large meteor at Pack-a-Punch. If the glow expires, ring the four correct gongs again. If you miss the dynamite, reactivate eclipse and repeat."
+        "body": "Put a teammate directly beneath the focusing crystal with dynamite hanging from it on the minecart side of spawn. Shoot that crystal with the Fractalizer; the dynamite falls outward slightly to the left and is caught by touching it. Confirm it appears in the inventory. While the crystals still resonate, shoot the focusing crystal above the mud-maze temple, visible from spawn. The bounced beam shrinks the large meteor at Pack-a-Punch. If the glow expires, ring the four correct gongs again. If you miss the dynamite, reactivate eclipse and repeat.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/qnhaup/how_to_complete_the_shangri_la_easter_egg_solo_bo1/"
       },
       {
-        "title": "Open the chamber and take the stone",
-        "body": "During eclipse, raise the Pack-a-Punch stairs again using all four plates. At the top, interact with the wall behind where Pack-a-Punch normally stands to give Brock and Gary the dynamite. Let the conversation and explosion finish. Raise the stairs again when available and take the Focusing Stone from the altar. One player receives the permanent perks, and the team receives the achievement.",
-        "tip": "A radio by the temple stairs lets you repeat the quest so another player can receive the stone's perks."
+        "title": "Eclipse: give Brock and Gary the dynamite",
+        "body": "With the meteor shrunk and dynamite in the inventory, activate eclipse if needed. All four players hold the Pack-a-Punch plates to raise the stairs. The dynamite carrier goes to the wall where the machine normally stands, waits for the dialogue, then holds interact at its opening to give the explorers the dynamite. Let the conversation and explosion finish.",
+        "original": true,
+        "researchSource": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/shangri-la/"
+      },
+      {
+        "title": "Present day: collect the Focusing Stone",
+        "body": "When the map returns to daylight and the wall is open, raise the Pack-a-Punch stairs again if necessary. Go through the opened wall and hold interact on the floating Focusing Stone above the RICHTOFEN altar. The team earns Time Travel Will Tell. The player collecting the stone receives permanent map perks, including after a down or respawn.",
+        "original": true,
+        "researchSource": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/shangri-la/",
+        "tip": "To give another player the perk reward, wait for the new radio at the base of the temple stairs and interact with it. Once the eclipse buttons are available again, repeat the whole quest with a different stone collector. An exact restart delay is not certified here."
       }
     ],
     "sources": [
       {
-        "title": "r/CODZombies — original-game puzzle walkthrough",
+        "title": "Severe-Win-1494 — firsthand BO1 four-controller completion (four in-game players)",
         "url": "https://www.reddit.com/r/CODZombies/comments/qnhaup/how_to_complete_the_shangri_la_easter_egg_solo_bo1/"
       },
       {
-        "title": "Steam Community — Shangri-La requirements and locations",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2461194923"
+        "title": "hXcHector — original BO1 map diagrams, quest and equipment",
+        "url": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/shangri-la/"
       },
       {
-        "title": "Steam Community — Shangri-La quest walkthrough",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2911066582"
+        "title": "BO1 player wiki — original-map landmarks and radio order",
+        "url": "https://w.atwiki.jp/cod_blackops/pages/131.html"
       },
       {
-        "title": "r/CODZombies — gong and dynamite clarifications",
-        "url": "https://www.reddit.com/r/CODZombies/comments/12e43d6/"
+        "title": "BO1 player wiki — puzzle stages and present-day stone collection",
+        "url": "https://w.atwiki.jp/cod_blackops/pages/143.html"
+      },
+      {
+        "title": "FreeMetal — mixed-edition guide; four shrink targets and gong landmarks only",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=930685175"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-16",
+    "relatedGuideIds": [
+      "bo1-shangri-la-power-pack-a-punch",
+      "bo1-shangri-la-jgb215-fractalizer",
+      "bo1-shangri-la-equipment-utility-upgrades",
+      "bo1-shangri-la-eight-story-radios",
+      "bo1-shangri-la-transport-and-water-traps"
+    ],
+    "sourceQuote": null
   },
   {
     "id": "bo1-moon-richtofens-grand-scheme",
@@ -2083,7 +3104,7 @@
     "category": "music",
     "difficulty": "Easy",
     "players": "Solo or co-op",
-    "summary": "Interact with the three fragments to start the song.",
+    "summary": "Three original-BO1 meteor fragments: spawn, Semtex room and upper bridge.",
     "requirements": [
       "Open the mine-side underground route and rope bridge"
     ],
@@ -2091,32 +3112,43 @@
     "steps": [
       {
         "title": "Spawn fragment",
-        "body": "Face the spike passage toward the minecart from spawn. Inspect the rock immediately right of that passage and hold interact on its meteor fragment. The Chronicles fragment moved slightly; check the corner beside the same pillar."
+        "body": "From spawn, face the punji-spike passage leading to the minecart/MPL courtyard. Look in the rubble/rock immediately RIGHT of that passage, near the pillar, and hold interact on the small meteor fragment until you hear its confirmation sound.",
+        "original": true,
+        "researchSource": "https://w.atwiki.jp/cod_blackops/pages/131.html"
       },
       {
         "title": "Underground fragment",
-        "body": "Follow the mine-side tunnel to the room with minecart tracks and barbed wire. Interact with the fragment on the crate near the zombie window and perk location."
+        "body": "Go underground to the Semtex room between the water-slide exit and the M16/power route. Face the zombie window and look to its LEFT at the crate/barbed-wire edge. Hold interact on the small fragment; it is easy to miss in the dark.",
+        "original": true,
+        "researchSource": "https://w.atwiki.jp/cod_blackops/pages/131.html"
       },
       {
         "title": "Bridge fragment",
-        "body": "At the upper rope bridge, face toward the waterfall. Interact with the fragment on the low ledge to the left, between the bridge and mud-temple area. The three fragments register in any order."
+        "body": "On the mud-room side of the upper rope bridge, face across toward the waterfall. Look LEFT along the low rocky ledge near the bridge entrance and perk position. Hold interact on the fragment. The third accepted fragment starts Pareidolia; any collection order works, once per match.",
+        "original": true,
+        "researchSource": "https://w.atwiki.jp/cod_blackops/pages/131.html"
       }
     ],
     "sources": [
       {
-        "title": "COD-Z: remaster music, locations and screenshots",
-        "url": "https://cod-zombie.fr/black-ops-3/zombies-chronicles/shangri-la/musiques-easter-eggs/"
+        "title": "BO1 player wiki — original-map landmarks and radio order",
+        "url": "https://w.atwiki.jp/cod_blackops/pages/131.html"
       },
       {
-        "title": "Call of Duty Wiki: Pareidolia activation",
-        "url": "https://callofduty.fandom.com/wiki/Pareidolia"
+        "title": "hXcHector — original BO1 map diagrams, quest and equipment",
+        "url": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/shangri-la/"
       },
       {
-        "title": "Shangri-La secrets and version differences",
-        "url": "https://mmmrkennedy.com/games/BO1/shangri_la/shangri_la_guide?version=bo1"
+        "title": "Aphoristic — June 2011 Shangri-La gameplay guide",
+        "url": "https://gamefaqs.gamespot.com/boards/960189-call-of-duty-black-ops/59594275"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-16",
+    "relatedGuideIds": [
+      "bo1-shangri-la-power-pack-a-punch",
+      "bo1-shangri-la-transport-and-water-traps"
+    ],
+    "sourceQuote": null
   },
   {
     "id": "bo1-shangri-la-monkey-perk",
@@ -2127,30 +3159,50 @@
     "players": "Solo or co-op",
     "summary": "Time a carrier kill to turn Max Ammo into an extra perk.",
     "requirements": [
-      "A Max Ammo drop and a clear shot at its carrier"
+      "Original Black Ops Shangri-La.",
+      "A naturally dropped Max Ammo for the perk attempt, and a clear shot at its carrier."
     ],
-    "reward": "Random extra perk.",
+    "reward": "A random extra perk when timed correctly; recovered drops also count for Monkey See, Monkey Don’t.",
     "steps": [
       {
-        "title": "Let a monkey take Max Ammo",
-        "body": "Leave Max Ammo uncollected until a monkey steals it. Keep the carrier in sight before it escapes up the temple stairs."
+        "title": "Start with a naturally dropped Max Ammo",
+        "body": "Leave a Max Ammo dropped by a zombie on the ground and allow a monkey to steal it. Keep a clear shot at the carrier as it runs toward the temple. Converting a different original drop into Max Ammo does not create this perk opportunity.",
+        "original": true,
+        "researchSource": "https://www.callofdutyzombies.com/topic/140217-perk-bottle-from-monkeys-discussion/?comment=1271122&do=findComment"
       },
       {
-        "title": "Shoot on the perk icon",
-        "body": "Watch its cycling drop icon and kill it while the brief perk-bottle icon is showing. Immediately collect the bottle before another monkey steals it. Other initial drops cycle ordinary rewards; the perk opportunity requires Max Ammo."
+        "title": "Kill during the perk-bottle flash",
+        "body": "Watch the icon cycling above the carrier. Shoot it during the brief perk-bottle appearance, then collect the released bottle before another monkey takes it. The bottle can grant an extra perk above the normal four purchased slots. The flash is short; an exact frame or millisecond window is not certified.",
+        "original": true,
+        "researchSource": "https://www.callofdutyzombies.com/profile/122684-x-hollywood18/content/?all_activity=1&page=2"
+      },
+      {
+        "title": "Recover ordinary drops too",
+        "body": "For other power-ups, let the monkey cycle the icon and kill it when the reward you want is visible. Pick that drop up promptly. Recovering a monkey-carried power-up also earns Monkey See, Monkey Don’t; a perk bottle is not required for that achievement.",
+        "original": true,
+        "researchSource": "https://gamefaqs.gamespot.com/boards/960189-call-of-duty-black-ops/59594275"
       }
     ],
     "sources": [
       {
-        "title": "Shangri-La secrets and version differences",
-        "url": "https://mmmrkennedy.com/games/BO1/shangri_la/shangri_la_guide?version=bo1"
+        "title": "2011 BO1 players — naturally dropped Max Ammo perk condition",
+        "url": "https://www.callofdutyzombies.com/topic/140217-perk-bottle-from-monkeys-discussion/?comment=1271122&do=findComment"
       },
       {
-        "title": "Firsthand Chronicles monkey-perk timing",
-        "url": "https://www.reddit.com/r/CODZombies/comments/bpsxza/"
+        "title": "X HOLLYWOOD18 — August 2011 firsthand extra-perk report",
+        "url": "https://www.callofdutyzombies.com/profile/122684-x-hollywood18/content/?all_activity=1&page=2"
+      },
+      {
+        "title": "Aphoristic — June 2011 Shangri-La gameplay guide",
+        "url": "https://gamefaqs.gamespot.com/boards/960189-call-of-duty-black-ops/59594275"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-16",
+    "relatedGuideIds": [
+      "bo1-shangri-la-exploding-temple-monkeys",
+      "bo1-shangri-la-time-travel-will-tell"
+    ],
+    "sourceQuote": null
   },
   {
     "id": "bo3-shangri-la-pareidolia",

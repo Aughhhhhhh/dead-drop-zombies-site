@@ -394,15 +394,17 @@
   },
   {
     "mapIds": [
-      "bo4-classified"
+      "bo4-classified",
+      "bo4-classified-death-con-five"
     ],
-    "note": "Death-Con Five (Normal) is confirmed released by publisher evidence. A complete practical round-by-round audit is still pending; source tables, where available, are not gameplay verification."
+    "note": "Death-Con Five (Normal) now has a thirty-round checklist compared with a player-posted 2024 menu, exact creator chapters and companion setup links. The menu platform is undisclosed; final PC parity, co-op counters, timer scaling and complete Gauntlet-specific location photos remain unchecked."
   },
   {
     "mapIds": [
-      "bo4-dead-of-the-night"
+      "bo4-dead-of-the-night",
+      "bo4-dead-of-the-night-super-blood-wolf-moon"
     ],
-    "note": "Super Blood Wolf Moon (Normal) is confirmed released by publisher evidence. A complete practical round-by-round audit is still pending; source tables, where available, are not gameplay verification."
+    "note": "Super Blood Wolf Moon (Normal) now has a thirty-round checklist compared with a player-posted 2024 menu, exact creator chapters and companion setup links. The menu platform is undisclosed; final PC parity, co-op counters, timer scaling and complete Gauntlet-specific location photos remain unchecked."
   },
   {
     "mapIds": [
@@ -513,5 +515,177 @@
       "bo1-ascension"
     ],
     "note": "The complete ordinary weapon damage/attachment/ammo matrix, every perk patch condition, full environmental detail inventory and game-over audio have not been exhaustively audited. The co-op dive guide promises the laugh/down effect without a speculative power-up drop bonus."
+  },
+  {
+    "mapIds": [
+      "bo4-classified",
+      "bo4-classified-death-con-five"
+    ],
+    "note": "Death-Con Five round 12 requires ten unique teleporters. The linked creator overlay groups total eleven entrances; a fully enumerated ten-entrance itinerary is still pending. Use the live unique-use counter rather than an invented fixed route. Later Elixir behavior on rounds 2/3 is also untested."
+  },
+  {
+    "mapIds": [
+      "bo4-dead-of-the-night",
+      "bo4-dead-of-the-night-super-blood-wolf-moon"
+    ],
+    "note": "Super Blood Wolf Moon still needs Gauntlet-specific checks of wrong-symbol Stake Knife retries, co-op equipment ownership, ghost routes and timing, and vampire-bite timing. Standard-mode lockouts are not asserted as Gauntlet behavior."
+  },
+  {
+    "mapIds": [
+      "bo1-shangri-la"
+    ],
+    "note": "All three existing original-BO1 cards were source-compared. The main route now includes both present-day radio interactions, eighteen navigable steps and separate present-day stone pickup. Eclipse/dial/restart delays, resonance windows and build edge cases remain untested."
+  },
+  {
+    "mapIds": [
+      "bo1-shangri-la"
+    ],
+    "note": "Power/Pack-a-Punch, shrink-ray upgrade, all four Small Consolation types, equipment, transport, eight radio stages and exploding-monkey controller input now have routes. Ordinary weapon damage/attachment/ammo matrices, all perk patches, rocket-monkey triggering and minecart nursery-rhyme audio remain incomplete."
+  },
+  {
+    "mapIds": [
+      "bo1-shangri-la"
+    ],
+    "note": "Ten labelled original-game images/diagrams are included. All three song-rock close-ups, all eight radio positions, every gong/panel/hole and the final chamber still need a complete BO1 photo set. Radio stage order was reconciled from source guides, not a captured full run."
+  },
+  {
+    "mapIds": [
+      "bo1-shangri-la"
+    ],
+    "note": "Pack-a-Punch sources disagree between 45 and 60 seconds, so the route follows the visible stone/water cue. Two firsthand accounts support 5/25 JGb215 ammo against one old 5/20 table. Exact build parity, perk-flash frames and alternate controller/keyboard bindings remain unchecked."
+  },
+  {
+    "mapIds": [
+      "bo6-reckoning"
+    ],
+    "note": "Basketball crystal route: Fandom describes a ceiling ball shot during low gravity, kicking it into the GobbleGum-side barrier at the first stairs, then shooting it inside for a crystal. JokerAlex21 indexes a ZoneX video. The accessible primary index does not expose those mechanics; crystal tier, reset and failure conditions remain uncorroborated."
+  },
+  {
+    "mapIds": [
+      "bo6-shattered-veil"
+    ],
+    "note": "Flute-statue/pipe speculation: Community discussion exists but no supported completion route or reward was established. No invented reward or solved quest is staged."
+  },
+  {
+    "mapIds": [
+      "bo6-shattered-veil"
+    ],
+    "note": "All free equipment candidate photographs: The six-location source card is retained, but independent illustrated evidence was not located for every Molotov/Combat Axe candidate. See that card's per-guide limitations."
+  },
+  {
+    "mapIds": [
+      "bo6-reckoning"
+    ],
+    "note": "Exact switch formula, S.A.M. health fractions and score equality: Instructions follow lit controls/completion feedback and exceed the score threshold; they do not certify source-disputed counts or fractions."
+  },
+  {
+    "mapIds": [
+      "bo6-shattered-veil",
+      "bo6-reckoning"
+    ],
+    "note": "All 33 existing cards were source-compared; 294 selected location photos and individual 24/25-item intel checklists were added. No independent gameplay run was performed. Exact timers, save/resume behavior, shared rewards, final-build balance and mode/platform edge cases remain unchecked."
+  },
+  {
+    "mapIds": [
+      "bo6-shattered-veil",
+      "bo6-reckoning"
+    ],
+    "note": "The optional harder boss routes recommend entry on round 101 or later to satisfy conflicting at-100/after-100 descriptions. This is a conservative entry route, not a claim that round 100 cannot work. Reckoning’s two ordinary boss choices require separate runs."
+  },
+  {
+    "mapIds": [
+      "bo1-call-of-the-dead"
+    ],
+    "note": "Remaining three story-radio close-ups: The five-recording inventory is documented, but exact readable BO1 close-ups for the PM63 flooded-walkway radio, Double Tap radio and Speed Cola water-rock radio were not obtained. Lighthouse floor trigger has firsthand prose but no selected close-up. Do not publish “near Double Tap” as a completed full walkthrough."
+  },
+  {
+    "mapIds": [
+      "bo1-call-of-the-dead"
+    ],
+    "note": "Saved-credit ownership in co-op: Sources disagree whether Stand-in alone in co-op is sufficient and whether eligibility checks host, killer or another player. Solo Stand-in and current-match reward are corroborated; exact mixed-credit lobby combinations were not tested."
+  },
+  {
+    "mapIds": [
+      "bo1-call-of-the-dead"
+    ],
+    "note": "George health and return timing: Exact health scaling, defeat-return timing, base-VR calm time, Lazarus banishment duration and one-versus-multiple banishment shots lack controlled original-build measurements. All fixed timers and guaranteed Dragunov-magazine kill budgets are omitted."
+  },
+  {
+    "mapIds": [
+      "bo1-call-of-the-dead"
+    ],
+    "note": "Scavenger/Hyena damage and blast radius: Primary player weapon guides directly conflict about damage doubling and blast-radius growth. Only name, ammunition, PaP transaction and thermal scope are retained."
+  },
+  {
+    "mapIds": [
+      "bo1-call-of-the-dead"
+    ],
+    "note": "Lazarus explosion and teammate buff: Monkey says two shots; multiple BO1 player sources say three and Nosfrat says two or three. This batch has no continuous counted-shot footage. Exact teammate protection/kill-boost durations and shared points also remain unmeasured."
+  },
+  {
+    "mapIds": [
+      "bo1-call-of-the-dead"
+    ],
+    "note": "Electrified-zombie bonus ammo schedule: Repeated firsthand observations establish the mechanic; exact randomized cooldown and eligible-kill counter remain unverified. A fixed “every five rounds” statement is explicitly rejected."
+  },
+  {
+    "mapIds": [
+      "bo1-call-of-the-dead"
+    ],
+    "note": "Pack-a-Punch cycle and transaction boundary: Three sites are corroborated and photographed. Exact active/absent durations, cycle randomness and whether a pending transaction prevents sinking were not tested. hXcHector’s four-rock count is rejected."
+  },
+  {
+    "mapIds": [
+      "bo1-call-of-the-dead"
+    ],
+    "note": "Flinger/cable approach photos and cooldown: Text supports both one-way cables and Flinger prerequisites. Current selected images show approaches rather than close-up Flinger controls/cable catches. The GameYum image labeled Flinger actually shows actors on a railing and is rejected as operational evidence. No exact cooldown is asserted."
+  },
+  {
+    "mapIds": [
+      "bo1-call-of-the-dead"
+    ],
+    "note": "Map pictures, Vril chart and ship test-subject containers: Firsthand source descriptions mention earlier-map pictures in/under PhD, the Vril wall chart and test-subject containers near the ship. No complete local photo route or reproducible interaction/reward is established here. The band poster is photographed and staged as scenery only."
+  },
+  {
+    "mapIds": [
+      "bo1-call-of-the-dead"
+    ],
+    "note": "Scavenger distance achievement: The achievement requires ten kills with one Scavenger shot from over100feet. A measured self-contained staging/shooting position was not verified in this pass; no exact landmark route is staged."
+  },
+  {
+    "mapIds": [
+      "bo1-call-of-the-dead"
+    ],
+    "note": "Remaining ordinary gun upgrade matrix: Base wall/Box inventory was read in hXcHector; the three utility upgrades and Ray Gun are supplied. The entire ordinary-gun PaP name/ammunition/attachment matrix was not independently checked per weapon, and no map-complete ordinary upgrade claim is made."
+  },
+  {
+    "mapIds": [
+      "bo1-call-of-the-dead"
+    ],
+    "note": "All perk purchases and patch/platform differences: Early BO1 sources list seven perks while patched builds also include Mule Kick. Exact PC Deadshot price/aim behavior, Mule Kick build availability and every perk-loss/rebuy combination were not source-audited per platform here."
+  },
+  {
+    "mapIds": [
+      "bo1-call-of-the-dead"
+    ],
+    "note": "Freezing and teammate release: Original firsthand prose confirms water slows/freezes players and zombies. Exact freeze time and teammate release interaction were not independently demonstrated. No full timed freezing/rescue card is staged."
+  },
+  {
+    "mapIds": [
+      "bo1-call-of-the-dead"
+    ],
+    "note": "Doll damage and technical limits: Three inventory uses, four cluster explosions and lack of PaP upgrade are corroborated. No exact damage-per-explosion, George multiplier or object/entity-limit guarantee was independently checked."
+  },
+  {
+    "mapIds": [
+      "bo1-call-of-the-dead"
+    ],
+    "note": "Exact weapon and utility-variant images: The selected Scavenger and V-R11 pictures show base models; no direct Hyena thermal-scope, Lazarus buff/explosion, doll HUD, Ray Gun held on this map or utility-weapon upgrade close-up is supplied. Their PaP approach photos are labeled honestly."
+  },
+  {
+    "mapIds": [
+      "bo1-call-of-the-dead"
+    ],
+    "note": "All fourteen existing BO1 cards and forty-three original steps were source-compared. Routes now distinguish Solo/co-op, four quest radios from five story recordings, photographed generators/vodka/horns, the Flinger and three Pack-a-Punch sites. Fifty-one selected photos were inspected. Gameplay, timers and complete map coverage are not certified."
   }
 ]
