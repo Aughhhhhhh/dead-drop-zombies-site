@@ -10248,5 +10248,725 @@
         "supplementNote": "Original BO1 instructions replace the affected community passage. Other editions keep their own instructions."
       }
     }
+  },
+  "ascension-map-walkthrough-traps": {
+    "mapOverrides": {
+      "bo1-ascension": {
+        "title": "Traps: two turrets and two fire gates",
+        "summary": "Power, prices and the two trap types in original Ascension.",
+        "players": "1–4 players",
+        "difficulty": "Easy",
+        "reward": "Temporary defensive fire; traps can also hurt players.",
+        "requirements": [
+          "Original Black Ops on PC, PS3 or Xbox 360.",
+          "Power on; open the connecting trap doorway.",
+          "1,500 points per turret; 1,000 per fire trap."
+        ],
+        "steps": [
+          {
+            "title": "Turret by the PhD yard — 1,500",
+            "body": "Exit the upper Centrifuge door toward the PhD Flopper yard. Use the automatic turret control in this outdoor area; the purchase is 1,500, rather than the shared source table’s 1,000.",
+            "original": true,
+            "researchSource": "https://gamefaqs.gamespot.com/ps3/619310-call-of-duty-black-ops-first-strike/faqs/62247"
+          },
+          {
+            "title": "Turret by the launch entrance — 1,500",
+            "body": "Find the other turret in front of the rocket launch-area doorway. Pay its control 1,500 and keep yourself and teammates out of its firing line.",
+            "original": true,
+            "researchSource": "https://gamefaqs.gamespot.com/ps3/619310-call-of-duty-black-ops-first-strike/faqs/62247"
+          },
+          {
+            "title": "Fire gates — 1,000 each",
+            "body": "Use the fire-trap switches at the doorway near the rocket/Pack-a-Punch route or near Stamin-Up. Open the connecting door first, then pay 1,000 from the side where you intend to remain.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+          },
+          {
+            "title": "Wait for the controls to reset",
+            "body": "Lead zombies through the hazard while avoiding it yourself. After the active period, wait for the control to become usable again before paying for another activation.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+          }
+        ],
+        "relatedGuideIds": [
+          "bo1-ascension-community-ascension-map-walkthrough-pack-a-punch"
+        ],
+        "checked": "2026-10-16",
+        "sourceQuote": null,
+        "sources": [
+          {
+            "title": "r/CODZombies — Ascension community guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+          },
+          {
+            "title": "RusselRaZe — contemporary BO1 firsthand Ascension guide",
+            "url": "https://gamefaqs.gamespot.com/ps3/619310-call-of-duty-black-ops-first-strike/faqs/62247"
+          },
+          {
+            "title": "hXcHector — Ascension radios and equipment",
+            "url": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/ascension/"
+          }
+        ]
+      }
+    }
+  },
+  "ascension-map-walkthrough-power": {
+    "mapOverrides": {
+      "bo1-ascension": {
+        "title": "Power: upper central building",
+        "summary": "Restore color and activate the map’s powered utilities.",
+        "players": "1–4 players",
+        "difficulty": "Easy",
+        "reward": "Power for map equipment and the rocket setup.",
+        "requirements": [
+          "Original Black Ops on PC, PS3 or Xbox 360.",
+          "Open a route upstairs through the central building."
+        ],
+        "steps": [
+          {
+            "title": "Use the upper power switch",
+            "body": "Climb the central building to the upper power platform and initial Mystery Box area. Hold interact on the wall switch. The switch itself is free; the black-and-white filter changes to color.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+          }
+        ],
+        "relatedGuideIds": [
+          "bo1-ascension-community-ascension-map-walkthrough-pack-a-punch",
+          "bo1-ascension-casimir-mechanism"
+        ],
+        "checked": "2026-10-16",
+        "sourceQuote": null,
+        "sources": [
+          {
+            "title": "r/CODZombies — Ascension community guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+          },
+          {
+            "title": "RusselRaZe — contemporary BO1 firsthand Ascension guide",
+            "url": "https://gamefaqs.gamespot.com/ps3/619310-call-of-duty-black-ops-first-strike/faqs/62247"
+          },
+          {
+            "title": "BO1 player wiki — Ascension landmarks",
+            "url": "https://w.atwiki.jp/cod_blackops/pages/84.html"
+          }
+        ]
+      }
+    }
+  },
+  "ascension-map-walkthrough-pack-a-punch": {
+    "mapOverrides": {
+      "bo1-ascension": {
+        "title": "Pack-a-Punch: three landers and the rocket",
+        "summary": "Ride each outer lander home, launch the rocket and upgrade.",
+        "players": "1–4 players",
+        "difficulty": "Easy",
+        "reward": "Permanent access to the opened Pack-a-Punch room; 5,000 per weapon.",
+        "requirements": [
+          "Original Black Ops on PC, PS3 or Xbox 360.",
+          "Power on.",
+          "Budget 250 per paid lander ride and 5,000 per weapon upgrade."
+        ],
+        "steps": [
+          {
+            "title": "Ride all three outer pads to spawn",
+            "body": "Visit the PhD Flopper yard, Stamin-Up/Claymore yard and Speed Cola/Sickle pad. At each, call the lander and ride it back to the Centrifuge spawn. Calling is free; operating a ride costs 250. Check the rocket diagram as each link fills.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+          },
+          {
+            "title": "Press the launch button",
+            "body": "When all three links are registered and the rocket diagram is complete, return to the power switch. Use the red launch button beside it.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/",
+            "tip": "For the rocket-destruction bonus, bring a Ray Gun or suitable explosive BEFORE pressing this button."
+          },
+          {
+            "title": "Enter beneath the launch pad",
+            "body": "Wait for the rocket to clear the launch area and the blast doors to retract. Enter the passage beneath the pad to find Pack-a-Punch.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+          },
+          {
+            "title": "Upgrade and reclaim the weapon",
+            "body": "Equip the gun you want to upgrade, pay 5,000 at Pack-a-Punch and take it back from the machine. This is one BO1 upgrade, rather than BO6’s three damage tiers. The Thundergun becomes Zeus Cannon.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+          }
+        ],
+        "relatedGuideIds": [
+          "bo1-ascension-community-ascension-map-walkthrough-power",
+          "bo1-ascension-community-ascension-easter-eggs-rocket-power-up",
+          "bo1-ascension-utility-upgrades",
+          "bo1-ascension-casimir-mechanism"
+        ],
+        "checked": "2026-10-16",
+        "sourceQuote": null,
+        "sources": [
+          {
+            "title": "r/CODZombies — Ascension community guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+          },
+          {
+            "title": "RusselRaZe — contemporary BO1 firsthand Ascension guide",
+            "url": "https://gamefaqs.gamespot.com/ps3/619310-call-of-duty-black-ops-first-strike/faqs/62247"
+          },
+          {
+            "title": "BO1 player wiki — Ascension landmarks",
+            "url": "https://w.atwiki.jp/cod_blackops/pages/84.html"
+          }
+        ]
+      }
+    }
+  },
+  "ascension-map-walkthrough-monkey-rounds": {
+    "mapOverrides": {
+      "bo1-ascension": {
+        "title": "Space Monkeys: protect perks for a bonus",
+        "summary": "Watch flashing perk icons and defend machines before they are touched.",
+        "players": "1–4 players",
+        "difficulty": "Easy",
+        "reward": "Max Ammo; a perfect defense also awards a random-perk bottle.",
+        "requirements": [
+          "Original Black Ops on PC, PS3 or Xbox 360.",
+          "At least one player has obtained a perk."
+        ],
+        "steps": [
+          {
+            "title": "Prepare when the warning begins",
+            "body": "When the special round is announced and the sky changes, divide the perk machines between teammates. Monkeys can hurt players as well as target machines; reload and leave room to move.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+          },
+          {
+            "title": "Defend before the first touch",
+            "body": "A flashing perk icon identifies a machine under attack. Kill its monkeys promptly. For the extra perk bottle, no machine can be touched: merely keeping your perk until the round ends is insufficient.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+          },
+          {
+            "title": "Collect the final drops",
+            "body": "Kill every remaining monkey for Max Ammo. If the machines stayed untouched, collect the random-perk bottle too; it can add a perk beyond the normal four purchased slots. Lost perks otherwise need to be bought again.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+          }
+        ],
+        "relatedGuideIds": [
+          "bo1-ascension-community-ascension-map-walkthrough-traps"
+        ],
+        "checked": "2026-10-16",
+        "sourceQuote": null,
+        "sources": [
+          {
+            "title": "r/CODZombies — Ascension community guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+          },
+          {
+            "title": "RusselRaZe — contemporary BO1 firsthand Ascension guide",
+            "url": "https://gamefaqs.gamespot.com/ps3/619310-call-of-duty-black-ops-first-strike/faqs/62247"
+          },
+          {
+            "title": "hXcHector — Ascension radios and equipment",
+            "url": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/ascension/"
+          }
+        ]
+      }
+    }
+  },
+  "ascension-special-weapons-thundergun": {
+    "mapOverrides": {
+      "bo1-ascension": {
+        "title": "Thundergun: Mystery Box",
+        "summary": "Acquire the BO1 escape weapon and conserve its two-shot chamber.",
+        "players": "1–4 players",
+        "difficulty": "Easy",
+        "reward": "Thundergun with 2 loaded shots and 12 in reserve.",
+        "requirements": [
+          "Original Black Ops on PC, PS3 or Xbox 360.",
+          "Mystery Box access; its normal price is 950 and the result is random."
+        ],
+        "steps": [
+          {
+            "title": "Take the Box offer",
+            "body": "Use the active Mystery Box until the Thundergun appears, then hold interact to claim it. Only one player can hold it at a time.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+          },
+          {
+            "title": "Fire before reloading",
+            "body": "Its close-range blast clears a path; targets farther away can be knocked down instead. BO1 holds 2/12 and only reloads after the chamber is empty.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+          }
+        ],
+        "relatedGuideIds": [
+          "bo1-ascension-community-ascension-special-weapons-thundergun-upgrade",
+          "bo1-ascension-casimir-mechanism"
+        ],
+        "checked": "2026-10-16",
+        "sourceQuote": null,
+        "sources": [
+          {
+            "title": "r/CODZombies — Ascension community guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+          },
+          {
+            "title": "RusselRaZe — contemporary BO1 firsthand Ascension guide",
+            "url": "https://gamefaqs.gamespot.com/ps3/619310-call-of-duty-black-ops-first-strike/faqs/62247"
+          },
+          {
+            "title": "BO1 player wiki — Ascension landmarks",
+            "url": "https://w.atwiki.jp/cod_blackops/pages/84.html"
+          }
+        ]
+      }
+    }
+  },
+  "ascension-special-weapons-thundergun-upgrade": {
+    "mapOverrides": {
+      "bo1-ascension": {
+        "title": "Thundergun → Zeus Cannon",
+        "summary": "Use the opened Pack-a-Punch room to upgrade the Thundergun.",
+        "players": "1–4 players",
+        "difficulty": "Easy",
+        "reward": "Zeus Cannon with 4 loaded shots and 24 in reserve.",
+        "requirements": [
+          "Original Black Ops on PC, PS3 or Xbox 360.",
+          "Thundergun, opened Pack-a-Punch and 5,000 points."
+        ],
+        "steps": [
+          {
+            "title": "Upgrade the held Thundergun",
+            "body": "Equip the Thundergun, pay Pack-a-Punch 5,000 and retrieve Zeus Cannon. The upgrade is performed at the machine, without an additional hidden build quest.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+          },
+          {
+            "title": "Use the larger ammunition supply",
+            "body": "The chamber/reserve rise to 4/24. It still reloads only when empty. Keep enough ammunition for the Casimir finale if the team is doing the main quest.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+          }
+        ],
+        "relatedGuideIds": [
+          "bo1-ascension-community-ascension-map-walkthrough-pack-a-punch",
+          "bo1-ascension-community-ascension-special-weapons-thundergun",
+          "bo1-ascension-casimir-mechanism"
+        ],
+        "checked": "2026-10-16",
+        "sourceQuote": null,
+        "sources": [
+          {
+            "title": "r/CODZombies — Ascension community guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+          },
+          {
+            "title": "RusselRaZe — contemporary BO1 firsthand Ascension guide",
+            "url": "https://gamefaqs.gamespot.com/ps3/619310-call-of-duty-black-ops-first-strike/faqs/62247"
+          },
+          {
+            "title": "BO1 player wiki — Ascension landmarks",
+            "url": "https://w.atwiki.jp/cod_blackops/pages/84.html"
+          }
+        ]
+      }
+    }
+  },
+  "ascension-special-weapons-special-grenades": {
+    "mapOverrides": {
+      "bo1-ascension": {
+        "title": "Gersh Devices & Matryoshka Dolls",
+        "summary": "Two separate Mystery Box tacticals; assign different carriers for the quest.",
+        "players": "1–4 players",
+        "difficulty": "Easy",
+        "reward": "Black-hole escape equipment or explosive nesting dolls.",
+        "requirements": [
+          "Original Black Ops on PC, PS3 or Xbox 360.",
+          "Mystery Box access.",
+          "A player holds either Gersh Devices or Dolls; claiming the other replaces the first."
+        ],
+        "steps": [
+          {
+            "title": "Claim and replenish a tactical",
+            "body": "Take the chosen tactical from the Box. You carry up to three uses; Max Ammo replenishes them. For the main quest, put Gersh Devices and Dolls on different players.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+          },
+          {
+            "title": "Use a Gersh black hole",
+            "body": "Throw onto playable ground to create a black hole that pulls in ordinary zombies. Jump or dive into the hole to teleport to another playable location. Throw before being surrounded; it is not instant protection.",
+            "original": true,
+            "researchSource": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/ascension/"
+          },
+          {
+            "title": "Use the explosive Dolls",
+            "body": "Throw a Doll away from the team and let its nested explosives detonate. Their blast can hurt you; PhD Flopper protects against your own splash damage. These usable grenades are separate from the four stationary talking dolls.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+          }
+        ],
+        "relatedGuideIds": [
+          "bo1-ascension-casimir-mechanism",
+          "bo1-ascension-community-ascension-easter-eggs-ultimis-matryoshka-dolls"
+        ],
+        "checked": "2026-10-16",
+        "sourceQuote": null,
+        "sources": [
+          {
+            "title": "r/CODZombies — Ascension community guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+          },
+          {
+            "title": "RusselRaZe — contemporary BO1 firsthand Ascension guide",
+            "url": "https://gamefaqs.gamespot.com/ps3/619310-call-of-duty-black-ops-first-strike/faqs/62247"
+          },
+          {
+            "title": "BO1 player wiki — Ascension landmarks",
+            "url": "https://w.atwiki.jp/cod_blackops/pages/84.html"
+          }
+        ]
+      }
+    }
+  },
+  "ascension-easter-eggs-abracadavre-music-easter-egg": {
+    "mapOverrides": {
+      "bo1-ascension": {
+        "title": "Abracadavre: three sickle teddy bears",
+        "summary": "Use the three BO1 bears, in any order.",
+        "players": "1–4 players",
+        "difficulty": "Easy",
+        "reward": "Abracadavre plays once per match.",
+        "requirements": [
+          "Original Black Ops on PC, PS3 or Xbox 360.",
+          "Reach the upper spawn catwalk and both Speed Cola/Stamin-Up lander areas."
+        ],
+        "steps": [
+          {
+            "title": "Spawn bear",
+            "body": "Go to the upper level of the centrifuge spawn room. Interact with the teddy bear near the Olympia wall buy.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/",
+            "images": [
+              {
+                "alt": "BO1: the sickle teddy at the end of the upper spawn catwalk.",
+                "caption": "BO1: the sickle teddy at the end of the upper spawn catwalk.",
+                "credit": "Monkey / Steam Community / Call of Duty / Activision",
+                "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=2906745653",
+                "src": "./assets/root-ascension-01.jpg"
+              }
+            ]
+          },
+          {
+            "title": "Speed Cola bear",
+            "body": "At the Speed Cola/Sickle lunar pad, find the teddy sitting on the wall above the area and hold interact while close to it.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/",
+            "images": [
+              {
+                "alt": "BO1: Speed Cola/Sickle lander teddy on top of the wall.",
+                "caption": "BO1: Speed Cola/Sickle lander teddy on top of the wall.",
+                "credit": "Monkey / Steam Community / Call of Duty / Activision",
+                "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=2906745653",
+                "src": "./assets/root-ascension-03.jpg"
+              }
+            ]
+          },
+          {
+            "title": "Stamin-Up bear",
+            "body": "Go to the lunar station behind Stamin-Up. Look through the fence on the left and interact with its teddy. Once the three bears have registered, the song starts; any order works.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/",
+            "images": [
+              {
+                "alt": "BO1: Stamin-Up lander teddy behind the fence.",
+                "caption": "BO1: Stamin-Up lander teddy behind the fence.",
+                "credit": "Monkey / Steam Community / Call of Duty / Activision",
+                "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=2906745653",
+                "src": "./assets/root-ascension-02.jpg"
+              }
+            ]
+          }
+        ],
+        "relatedGuideIds": [
+          "bo1-ascension-abracadavre",
+          "bo1-ascension-community-ascension-map-walkthrough-pack-a-punch",
+          "bo1-ascension-red-phones"
+        ],
+        "category": "music",
+        "checked": "2026-10-16",
+        "sourceQuote": null,
+        "sources": [
+          {
+            "title": "r/CODZombies — Ascension community guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+          },
+          {
+            "title": "Monkey — BO1 quest and song photos (mixed-edition later images excluded)",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2906745653"
+          },
+          {
+            "title": "BO1 player wiki — Ascension landmarks",
+            "url": "https://w.atwiki.jp/cod_blackops/pages/84.html"
+          }
+        ]
+      }
+    }
+  },
+  "ascension-easter-eggs-rocket-power-up": {
+    "mapOverrides": {
+      "bo1-ascension": {
+        "title": "Destroy the launching rocket",
+        "summary": "Prepare a Ray Gun before using the one launch sequence.",
+        "players": "1–4 players",
+        "difficulty": "Easy",
+        "reward": "A Double Points pickup in the cleared launch area.",
+        "requirements": [
+          "Original Black Ops on PC, PS3 or Xbox 360.",
+          "Complete the three lander links; keep the launch button unused.",
+          "A Ray Gun is a documented choice; explosive weapons are also reported."
+        ],
+        "steps": [
+          {
+            "title": "Prepare before launching",
+            "body": "Link all three outer lander pads and obtain the weapon you will use to damage the rocket. Keep ammunition ready before pressing the red launch button.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+          },
+          {
+            "title": "Shoot it after takeoff",
+            "body": "Activate the launch and fire at the rocket while it is airborne. Keep hitting it until it explodes; shooting the stationary rocket is not this trigger.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+          },
+          {
+            "title": "Collect Double Points",
+            "body": "Wait for the launch doors to open and the pad to be safe to enter. Go beneath the rocket’s former position and collect the Double Points drop.",
+            "original": true,
+            "researchSource": "https://gamefaqs.gamespot.com/ps3/619310-call-of-duty-black-ops-first-strike/faqs/62247"
+          }
+        ],
+        "relatedGuideIds": [
+          "bo1-ascension-community-ascension-map-walkthrough-pack-a-punch"
+        ],
+        "checked": "2026-10-16",
+        "sourceQuote": null,
+        "sources": [
+          {
+            "title": "r/CODZombies — Ascension community guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+          },
+          {
+            "title": "RusselRaZe — contemporary BO1 firsthand Ascension guide",
+            "url": "https://gamefaqs.gamespot.com/ps3/619310-call-of-duty-black-ops-first-strike/faqs/62247"
+          },
+          {
+            "title": "BO1 player wiki — Ascension landmarks",
+            "url": "https://w.atwiki.jp/cod_blackops/pages/84.html"
+          }
+        ]
+      }
+    }
+  },
+  "ascension-easter-eggs-ultimis-matryoshka-dolls": {
+    "mapOverrides": {
+      "bo1-ascension": {
+        "title": "Four talking Ultimis dolls",
+        "summary": "Find each stationary doll and hear character reactions.",
+        "players": "1–4 players",
+        "difficulty": "Easy",
+        "reward": "Spoken reactions; these dolls are not grenade pickups.",
+        "requirements": [
+          "Original Black Ops on PC, PS3 or Xbox 360.",
+          "Access to the four doll areas; any playable character can interact."
+        ],
+        "steps": [
+          {
+            "title": "Takeo: PhD Flopper shelf",
+            "body": "At PhD Flopper, find Takeo’s doll on the nearby shelf and hold interact. Let the voice line finish before trying another doll.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+          },
+          {
+            "title": "Richtofen: table above Juggernog",
+            "body": "Go one floor above Juggernog to the central-building access room. Use Richtofen’s doll on the table near the exit.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+          },
+          {
+            "title": "Nikolai: beside Speed Cola",
+            "body": "Use Nikolai’s doll on the machinery/shelf beside Speed Cola, before its lunar-lander platform.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+          },
+          {
+            "title": "Dempsey: Claymore barrels",
+            "body": "At the Stamin-Up/Claymore lander, look on the burning barrels to the left of the Claymore wall buy. Interact with Dempsey’s doll. Replies depend on your character; try another character in another match for their reactions.",
+            "original": true,
+            "researchSource": "https://w.atwiki.jp/cod_blackops/pages/84.html"
+          }
+        ],
+        "relatedGuideIds": [
+          "bo1-ascension-community-ascension-special-weapons-special-grenades"
+        ],
+        "checked": "2026-10-16",
+        "sourceQuote": null,
+        "sources": [
+          {
+            "title": "r/CODZombies — Ascension community guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+          },
+          {
+            "title": "RusselRaZe — contemporary BO1 firsthand Ascension guide",
+            "url": "https://gamefaqs.gamespot.com/ps3/619310-call-of-duty-black-ops-first-strike/faqs/62247"
+          },
+          {
+            "title": "BO1 player wiki — Ascension landmarks",
+            "url": "https://w.atwiki.jp/cod_blackops/pages/84.html"
+          }
+        ]
+      }
+    }
+  },
+  "ascension-easter-eggs-main-easter-egg": {
+    "mapOverrides": {
+      "bo1-ascension": {
+        "title": "Casimir Mechanism",
+        "summary": "Free Gersh in the original Black Ops quest, including the monkey buttons, clock and exact LUNA lander routes.",
+        "players": "4 required",
+        "difficulty": "Hard",
+        "reward": "A 90-second Death Machine for each player. Black Ops III's all-perks reward does not apply here.",
+        "requirements": [
+          "Original Black Ops on PC, PS3 or Xbox 360.",
+          "Four players throughout the quest",
+          "Power and Pack-a-Punch open",
+          "Gersh Devices and Matryoshka Dolls held by different players",
+          "Pack-a-Punched Thundergun (Zeus Cannon) and Ray Guns; two upgraded Ray Guns are a dependable final setup"
+        ],
+        "steps": [
+          {
+            "title": "Power, rocket and equipment",
+            "body": "Reach the upper central power room and switch on power. Visit the lunar pads at PhD Flopper, Stamin-Up and Speed Cola/Sickle; call and ride each lander back to spawn. When the rocket diagram is full, press the launch button beside power. Wait for the rocket to clear and the blast doors to open, then upgrade your weapons. Use the Mystery Box for a Thundergun, Ray Guns, Gersh Devices and Matryoshka Dolls. Gersh Devices and dolls share the tactical slot, so separate players must carry them.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+          },
+          {
+            "title": "Remove the generator",
+            "body": "Outside near PhD Flopper and the MP5K, look beyond the fence at the generator/black box under the distant light. Throw a Gersh Device close enough that its black hole pulls the generator in. Gersh's dialogue confirms success. If nothing happens, adjust the throw rather than advancing.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+          },
+          {
+            "title": "Activate the terminal",
+            "body": "Go to the Stamin-Up lunar-lander area. Under the metal stairs, in the muddy corner, find the terminal bearing an Illuminati symbol. Hold interact on its screen. The first light on the nearby Casimir mechanism should activate.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/",
+            "images": [
+              {
+                "alt": "BO1: the quest terminal under the Stamin-Up yard stairs.",
+                "caption": "BO1: the quest terminal under the Stamin-Up yard stairs.",
+                "credit": "Monkey / Steam Community / Call of Duty / Activision",
+                "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=2906745653",
+                "src": "./assets/root-ascension-04.jpg"
+              }
+            ]
+          },
+          {
+            "title": "Press the four monkey-round buttons",
+            "body": "During a monkey round, put one player at each quest button: opposite Juggernog; left of PhD Flopper; left of Stamin-Up; and through the Speed Cola doorway on its other side. Count down and hold interact together. The buttons retract and the second pod light activates when accepted.",
+            "tip": "These are the small quest buttons on the walls, not the perk-buy prompts. Quick Revive has no button for this step.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/",
+            "images": [
+              {
+                "alt": "BO1: quest button opposite Juggernog.",
+                "caption": "BO1: quest button opposite Juggernog.",
+                "credit": "Monkey / Steam Community / Call of Duty / Activision",
+                "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=2906745653",
+                "src": "./assets/root-ascension-06.jpg"
+              },
+              {
+                "alt": "BO1: quest button on the wall left of PhD Flopper.",
+                "caption": "BO1: quest button on the wall left of PhD Flopper.",
+                "credit": "Monkey / Steam Community / Call of Duty / Activision",
+                "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=2906745653",
+                "src": "./assets/root-ascension-07.jpg"
+              },
+              {
+                "alt": "BO1: quest button left of Stamin-Up.",
+                "caption": "BO1: quest button left of Stamin-Up.",
+                "credit": "Monkey / Steam Community / Call of Duty / Activision",
+                "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=2906745653",
+                "src": "./assets/root-ascension-08.jpg"
+              },
+              {
+                "alt": "BO1: quest button on the other side of the Speed Cola doorway.",
+                "caption": "BO1: quest button on the other side of the Speed Cola doorway.",
+                "credit": "Monkey / Steam Community / Call of Duty / Activision",
+                "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=2906745653",
+                "src": "./assets/root-ascension-09.jpg"
+              }
+            ]
+          },
+          {
+            "title": "Hold the clock plate for two minutes",
+            "body": "Bring all four players onto the metal grating beneath the clock in the opened rocket launch area. For a straightforward attempt, stand still together for about two minutes with a slow crawler left far away. Stay on the plate until the Nuke-like flash ends the round and the third pod light activates.",
+            "tip": "Keeping a crawler away reduces pressure while all four players hold the plate. Sources disagree about movement and firing restrictions; this stationary method avoids those disputed actions.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+          },
+          {
+            "title": "Spell LUNA with the lander",
+            "body": "Leave one player riding the lander while teammates call it from the destination controls. Collect the airborne letters in this order:\nL: spawn → Stamin-Up.\nU: Stamin-Up → spawn.\nN: spawn → Speed Cola/Sickle.\nA: Speed Cola/Sickle → Stamin-Up.\nKeep the rider aboard for all four trips and use the destination's call button for routes between outer pads. The four letters must spell LUNA; check that all mechanism lights are on before the finale.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+          },
+          {
+            "title": "Attack the orb",
+            "body": "At the Casimir device beside Stamin-Up/Claymores, locate the glowing ground orb. Throw a Gersh Device onto it; while the black hole is active, coordinate upgraded Ray Gun fire, Zeus Cannon blasts and Matryoshka Dolls at the orb. If Gersh still asks for power, replenish supplies and repeat the damage window.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/",
+            "images": [
+              {
+                "alt": "BO1: Casimir device beside the Stamin-Up/Claymore lander.",
+                "caption": "BO1: Casimir device beside the Stamin-Up/Claymore lander.",
+                "credit": "Monkey / Steam Community / Call of Duty / Activision",
+                "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=2906745653",
+                "src": "./assets/root-ascension-05.jpg"
+              }
+            ],
+            "tip": "The listed two-upgraded-Ray-Gun setup is a documented route. Older guides also include Awful Lawton; minimum shot counts and alternative weapon combinations are not certified here."
+          },
+          {
+            "title": "Confirm the escape",
+            "body": "When enough damage registers, the orb rises and Gersh thanks the team. Everyone receives the timed Death Machine. Continue surviving if desired; completing this quest does not end the match.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+          }
+        ],
+        "relatedGuideIds": [
+          "bo1-ascension-casimir-mechanism",
+          "bo1-ascension-community-ascension-map-walkthrough-pack-a-punch",
+          "bo1-ascension-community-ascension-special-weapons-thundergun-upgrade",
+          "bo1-ascension-community-ascension-special-weapons-special-grenades",
+          "bo1-ascension-utility-upgrades"
+        ],
+        "category": "main",
+        "checked": "2026-10-16",
+        "sourceQuote": null,
+        "sources": [
+          {
+            "title": "r/CODZombies — Ascension community guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+          },
+          {
+            "title": "Monkey — BO1 quest and song photos (mixed-edition later images excluded)",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2906745653"
+          },
+          {
+            "title": "RusselRaZe — contemporary BO1 firsthand Ascension guide",
+            "url": "https://gamefaqs.gamespot.com/ps3/619310-call-of-duty-black-ops-first-strike/faqs/62247"
+          }
+        ]
+      }
+    }
   }
 }

@@ -8,8 +8,8 @@
     "Newly authored guides may have source research without a separate recorded full audit. Guide counts and passing software checks do not establish gameplay accuracy."
   ],
   "catalogEntries": 154,
-  "runtimeGuides": 1337,
-  "guidesWithRecordedSourceReview": 286,
+  "runtimeGuides": 1341,
+  "guidesWithRecordedSourceReview": 302,
   "guidesCertifiedFullyVerified": 0,
   "batches": [
     {
@@ -75,6 +75,18 @@
     {
       "batch": "bo1-kino-five-new-routes",
       "rowsWithRecordedReview": 12
+    },
+    {
+      "batch": "bo1-ascension-whole-guide-pass",
+      "rowsWithRecordedReview": 13
+    },
+    {
+      "batch": "bo1-ascension-new-routes",
+      "rowsWithRecordedReview": 4
+    },
+    {
+      "batch": "hellcatraz-weapon-label-follow-up",
+      "rowsWithRecordedReview": 1
     }
   ],
   "guideReviews": [
@@ -326,6 +338,551 @@
             "This original console activation route is supported; mobile input is not inferred from it."
           ],
           "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+          ]
+        },
+        {
+          "batch": "bo1-ascension-whole-guide-pass",
+          "reportedStatus": "All existing step bodies read and source-compared; not gameplay-certified",
+          "independentlyPlaytested": false,
+          "allExistingStepsRead": true,
+          "originalStepCount": 3,
+          "stepChecks": [
+            {
+              "title": "Spawn bear",
+              "bodySha256": "2485ad1964f7b690bbfa62999ebf8384b953d499ad25acfb71df4677efe2f564",
+              "readInFull": true
+            },
+            {
+              "title": "Speed Cola bear",
+              "bodySha256": "9858dab80fd1e28b25555aa67d5fe023aa94cbf6e72223a8191f93c61576dcb2",
+              "readInFull": true
+            },
+            {
+              "title": "Stamin-Up bear",
+              "bodySha256": "47b5c15626908d796d5c1e592d6489f60b8927215247860471910055cc459027",
+              "readInFull": true
+            }
+          ],
+          "checkedClaims": [
+            "Three interactable sickle bears, any order, once-per-match Abracadavre compared with BO1 captures."
+          ],
+          "evidenceUrls": [
+            "https://steamcommunity.com/sharedfiles/filedetails/?id=2906745653",
+            "https://w.atwiki.jp/cod_blackops/pages/84.html",
+            "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo1-ascension-casimir-mechanism",
+      "mapId": "bo1-ascension",
+      "reviews": [
+        {
+          "batch": "bo1-ascension-whole-guide-pass",
+          "reportedStatus": "All existing step bodies read and source-compared; not gameplay-certified",
+          "independentlyPlaytested": false,
+          "unresolved": [
+            "Exact damage threshold, alternative final loadouts, plate movement/firing allowances and build-specific behavior remain untested."
+          ],
+          "allExistingStepsRead": true,
+          "originalStepCount": 8,
+          "stepChecks": [
+            {
+              "title": "Power, rocket and equipment",
+              "bodySha256": "23dd59d055cef0031de90d8559e263e6f9d1b9b8c26ba64b1a01ed8ba080d828",
+              "readInFull": true
+            },
+            {
+              "title": "Remove the generator",
+              "bodySha256": "423af8757433ed73c33f01f8acb2cc592c5320bd721dc001813af6392c911f8a",
+              "readInFull": true
+            },
+            {
+              "title": "Activate the terminal",
+              "bodySha256": "af3f80aa1872b773576a4de04798369bc0500b4ee5bc616636d401634ace1dd3",
+              "readInFull": true
+            },
+            {
+              "title": "Press the four monkey-round buttons",
+              "bodySha256": "0e24c1845ad7148ffcaa71220698705b2148c24ae01319588e0d46b272f58a35",
+              "readInFull": true
+            },
+            {
+              "title": "Hold the clock plate for two minutes",
+              "bodySha256": "cffba4e5a0f8ad1a8f09be611051633e728805dd6e115e2afb735ddf104a6d96",
+              "readInFull": true
+            },
+            {
+              "title": "Spell LUNA with the lander",
+              "bodySha256": "55591dc3cec275e4e15aec1de94700007e666651a18df109173a0f8661867a74",
+              "readInFull": true
+            },
+            {
+              "title": "Attack the orb",
+              "bodySha256": "3529ffa82457a93ad905aa627af5d2f867117f4edca8bb466af6547bca88ced6",
+              "readInFull": true
+            },
+            {
+              "title": "Confirm the escape",
+              "bodySha256": "480c3c99bc05c889d3f9ec877774a9c78c65915d6673b0047869534b45cd4e75",
+              "readInFull": true
+            }
+          ],
+          "checkedClaims": [
+            "Four-player buttons, two-minute stationary hold, L-U-N-A routes and 90-second BO1 Death Machine source-compared.",
+            "Placed button landmarks beside the actual button step; removed unmeasured mandatory two-shot threshold.",
+            "Kept two upgraded Ray Guns as a documented loadout and disclosed older Awful Lawton route differences."
+          ],
+          "evidenceUrls": [
+            "https://gamefaqs.gamespot.com/ps3/619310-call-of-duty-black-ops-first-strike/faqs/62247",
+            "https://steamcommunity.com/sharedfiles/filedetails/?id=2906745653",
+            "https://www.reddit.com/r/CODZombies/comments/1lnvz67/",
+            "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo1-ascension-community-ascension-easter-eggs-abracadavre-music-easter-egg",
+      "mapId": "bo1-ascension",
+      "reviews": [
+        {
+          "batch": "bo1-ascension-whole-guide-pass",
+          "reportedStatus": "All existing step bodies read and source-compared; not gameplay-certified",
+          "independentlyPlaytested": false,
+          "allExistingStepsRead": true,
+          "originalStepCount": 4,
+          "stepChecks": [
+            {
+              "title": "Preparation & context",
+              "bodySha256": "95bb4dc63ad7080a41ec65eac7a0e9213eb21b138fcfba0f14f49f4d6c23542d",
+              "readInFull": true
+            },
+            {
+              "title": "Spawn Room | Topside near Olympia wallbuy",
+              "bodySha256": "f80acf4ce6c13ca2f67952130c1770d5f21870031e23fa9cb394b34c37ec805e",
+              "readInFull": true
+            },
+            {
+              "title": "Sickle/Lunar lander room ontop of the wall",
+              "bodySha256": "442d0b9e93958f1ee15025d37f9cc1dce1339e1a67f72bb422e10aca4b63db72",
+              "readInFull": true
+            },
+            {
+              "title": "Lunar Lander station behind Stamin-Up | Behind a fence on the left hand side",
+              "bodySha256": "54a1f8bda28bbd5828ef05810702f7c3765621b32d1153d810ade272fbb523a1",
+              "readInFull": true
+            }
+          ],
+          "checkedClaims": [
+            "Song landmarks and three BO1 photos match the original standalone guide."
+          ],
+          "evidenceUrls": [
+            "https://steamcommunity.com/sharedfiles/filedetails/?id=2906745653",
+            "https://w.atwiki.jp/cod_blackops/pages/84.html",
+            "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo1-ascension-community-ascension-easter-eggs-main-easter-egg",
+      "mapId": "bo1-ascension",
+      "reviews": [
+        {
+          "batch": "bo1-ascension-whole-guide-pass",
+          "reportedStatus": "All existing step bodies read and source-compared; not gameplay-certified",
+          "independentlyPlaytested": false,
+          "allExistingStepsRead": true,
+          "originalStepCount": 8,
+          "stepChecks": [
+            {
+              "title": "Preparation & context",
+              "bodySha256": "c8dfc8629a22361f96e2dc6d66d792f8e40aa56b25d5ad847b3986703eef25ff",
+              "readInFull": true
+            },
+            {
+              "title": "Make your way to the area of the map with the MP5K wallbuy and throw a Gersch…",
+              "bodySha256": "1c8a513ba91b38c6d97282b20f7be6302ac3eb8c806856b396772b8c066f3fc1",
+              "readInFull": true
+            },
+            {
+              "title": "Go to the Stamin-Up lunar lander station and in the corner of the room there is a…",
+              "bodySha256": "e95cd8f7993c8200615af27ceb6f9433f6b73e77fe349c81f9e835e946967417",
+              "readInFull": true
+            },
+            {
+              "title": "During a Monkey Round, a button will appear next to 4 perk machines (locations…",
+              "bodySha256": "fa6b218edad3ce06120a62402937811bc3caafb660dee3cbbb28b881eb6106c8",
+              "readInFull": true
+            },
+            {
+              "title": "After you activate Pack-a-Punch there will be a clock in that room and 4 pressure…",
+              "bodySha256": "e90f0ff403265eaa07461a3aa46f871b335dfe8b729c496f056194b29ff31ca1",
+              "readInFull": true
+            },
+            {
+              "title": "Using the lunar lander's, you must collect 4 letters in order to spell \"LUNA\"",
+              "bodySha256": "51d1accede1273d7da10daf9bf864dbf1d257947d925eabfe117e141a861bc43",
+              "readInFull": true
+            },
+            {
+              "title": "Make your way to the pod near Stamin-Up/Claymore wallbuy and you will see all the…",
+              "bodySha256": "ff32dc77a4f0976b9ce277ccaa869939afd173c2dbd7f27425fcd79b53228f10",
+              "readInFull": true
+            },
+            {
+              "title": "You will be rewarded with a 90 second death machine.",
+              "bodySha256": "c9b8089c2b8267647dcfdd6c5b21e5e78e4fd2fda38136a261d5340f47b93e20",
+              "readInFull": true
+            }
+          ],
+          "checkedClaims": [
+            "All eight imported sections compared with the original route; button locations now accompany the button step, with original BO1 images."
+          ],
+          "evidenceUrls": [
+            "https://gamefaqs.gamespot.com/ps3/619310-call-of-duty-black-ops-first-strike/faqs/62247",
+            "https://steamcommunity.com/sharedfiles/filedetails/?id=2906745653",
+            "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo1-ascension-community-ascension-easter-eggs-rocket-power-up",
+      "mapId": "bo1-ascension",
+      "reviews": [
+        {
+          "batch": "bo1-ascension-whole-guide-pass",
+          "reportedStatus": "All existing step bodies read and source-compared; not gameplay-certified",
+          "independentlyPlaytested": false,
+          "allExistingStepsRead": true,
+          "originalStepCount": 1,
+          "stepChecks": [
+            {
+              "title": "Instructions & locations",
+              "bodySha256": "f2430a9166df56f8d18e26ef5ae6b7a7b471e0b6e32e31d7c711dfbd2b6c1eb2",
+              "readInFull": true
+            }
+          ],
+          "checkedClaims": [
+            "Changed generic random reward to BO1’s documented Double Points; launch and airborne damage kept separate."
+          ],
+          "evidenceUrls": [
+            "https://gamefaqs.gamespot.com/ps3/619310-call-of-duty-black-ops-first-strike/faqs/62247",
+            "https://w.atwiki.jp/cod_blackops/pages/84.html",
+            "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo1-ascension-community-ascension-easter-eggs-ultimis-matryoshka-dolls",
+      "mapId": "bo1-ascension",
+      "reviews": [
+        {
+          "batch": "bo1-ascension-whole-guide-pass",
+          "reportedStatus": "All existing step bodies read and source-compared; not gameplay-certified",
+          "independentlyPlaytested": false,
+          "allExistingStepsRead": true,
+          "originalStepCount": 1,
+          "stepChecks": [
+            {
+              "title": "Instructions & locations",
+              "bodySha256": "5581778c6b098c245bcd297e9cc6b3292c310c5ba22c9a2f0e7a407a114d406f",
+              "readInFull": true
+            }
+          ],
+          "checkedClaims": [
+            "Removed BO3 Widow’s Wine/Trip Mine landmarks; all four BO1 positions and character reactions compared."
+          ],
+          "evidenceUrls": [
+            "https://gamefaqs.gamespot.com/ps3/619310-call-of-duty-black-ops-first-strike/faqs/62247",
+            "https://w.atwiki.jp/cod_blackops/pages/84.html",
+            "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo1-ascension-community-ascension-map-walkthrough-monkey-rounds",
+      "mapId": "bo1-ascension",
+      "reviews": [
+        {
+          "batch": "bo1-ascension-whole-guide-pass",
+          "reportedStatus": "All existing step bodies read and source-compared; not gameplay-certified",
+          "independentlyPlaytested": false,
+          "allExistingStepsRead": true,
+          "originalStepCount": 1,
+          "stepChecks": [
+            {
+              "title": "Instructions & locations",
+              "bodySha256": "3570af75483d084333e21e09b24d0300586f6bb21a4bf3dc0b712b452f1feb79",
+              "readInFull": true
+            }
+          ],
+          "checkedClaims": [
+            "Perfect defense requires no machine contact, rather than only preventing complete perk loss; normal Max Ammo and bonus bottle distinguished."
+          ],
+          "evidenceUrls": [
+            "https://gamefaqs.gamespot.com/ps3/619310-call-of-duty-black-ops-first-strike/faqs/62247",
+            "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/ascension/",
+            "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo1-ascension-community-ascension-map-walkthrough-pack-a-punch",
+      "mapId": "bo1-ascension",
+      "reviews": [
+        {
+          "batch": "bo1-ascension-whole-guide-pass",
+          "reportedStatus": "All existing step bodies read and source-compared; not gameplay-certified",
+          "independentlyPlaytested": false,
+          "allExistingStepsRead": true,
+          "originalStepCount": 1,
+          "stepChecks": [
+            {
+              "title": "Instructions & locations",
+              "bodySha256": "7ba034885f9ec701695186a733b0b06a6ac54f7a5bd1471efb45838c76deb14c",
+              "readInFull": true
+            }
+          ],
+          "checkedClaims": [
+            "Three distinct outer-to-spawn rides, 250 ride cost, full diagram, launch button and 5,000-point one-tier upgrade compared."
+          ],
+          "evidenceUrls": [
+            "https://gamefaqs.gamespot.com/ps3/619310-call-of-duty-black-ops-first-strike/faqs/62247",
+            "https://w.atwiki.jp/cod_blackops/pages/84.html",
+            "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo1-ascension-community-ascension-map-walkthrough-power",
+      "mapId": "bo1-ascension",
+      "reviews": [
+        {
+          "batch": "bo1-ascension-whole-guide-pass",
+          "reportedStatus": "All existing step bodies read and source-compared; not gameplay-certified",
+          "independentlyPlaytested": false,
+          "allExistingStepsRead": true,
+          "originalStepCount": 1,
+          "stepChecks": [
+            {
+              "title": "Instructions & locations",
+              "bodySha256": "d20ee2c7c7565788cc265fe9c7f5cd4a8c53462ffb85300453a5dd9a955048ee",
+              "readInFull": true
+            }
+          ],
+          "checkedClaims": [
+            "Power location and color change compared with BO1 map descriptions."
+          ],
+          "evidenceUrls": [
+            "https://gamefaqs.gamespot.com/ps3/619310-call-of-duty-black-ops-first-strike/faqs/62247",
+            "https://w.atwiki.jp/cod_blackops/pages/84.html",
+            "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo1-ascension-community-ascension-map-walkthrough-traps",
+      "mapId": "bo1-ascension",
+      "reviews": [
+        {
+          "batch": "bo1-ascension-whole-guide-pass",
+          "reportedStatus": "All existing step bodies read and source-compared; not gameplay-certified",
+          "independentlyPlaytested": false,
+          "allExistingStepsRead": true,
+          "originalStepCount": 1,
+          "stepChecks": [
+            {
+              "title": "Instructions & locations",
+              "bodySha256": "1b3cc7515bc63c44c1bf51aad20daaf29473efe3f72d3316bdf52218800b0f17",
+              "readInFull": true
+            }
+          ],
+          "checkedClaims": [
+            "BO1 turret cost corrected to 1,500; both 1,000-point fire gates retained with door/power setup."
+          ],
+          "evidenceUrls": [
+            "https://gamefaqs.gamespot.com/ps3/619310-call-of-duty-black-ops-first-strike/faqs/62247",
+            "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/ascension/",
+            "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo1-ascension-community-ascension-special-weapons-special-grenades",
+      "mapId": "bo1-ascension",
+      "reviews": [
+        {
+          "batch": "bo1-ascension-whole-guide-pass",
+          "reportedStatus": "All existing step bodies read and source-compared; not gameplay-certified",
+          "independentlyPlaytested": false,
+          "allExistingStepsRead": true,
+          "originalStepCount": 1,
+          "stepChecks": [
+            {
+              "title": "Instructions & locations",
+              "bodySha256": "7df89e44a98d82856d3bd546c1fde656a5f6488529a62ce8f1cf3f43abd97fad",
+              "readInFull": true
+            }
+          ],
+          "checkedClaims": [
+            "Three-use shared tactical slot and different quest carriers retained; removed a fixed black-hole lifetime claim."
+          ],
+          "evidenceUrls": [
+            "https://gamefaqs.gamespot.com/ps3/619310-call-of-duty-black-ops-first-strike/faqs/62247",
+            "https://w.atwiki.jp/cod_blackops/pages/84.html",
+            "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo1-ascension-community-ascension-special-weapons-thundergun",
+      "mapId": "bo1-ascension",
+      "reviews": [
+        {
+          "batch": "bo1-ascension-whole-guide-pass",
+          "reportedStatus": "All existing step bodies read and source-compared; not gameplay-certified",
+          "independentlyPlaytested": false,
+          "allExistingStepsRead": true,
+          "originalStepCount": 1,
+          "stepChecks": [
+            {
+              "title": "Instructions & locations",
+              "bodySha256": "2b290bc101aaf356b5748fa4535c53a1a08022530aef4d9c8cfcf06901f9e699",
+              "readInFull": true
+            }
+          ],
+          "checkedClaims": [
+            "Box-only one-holder acquisition, 2/12 ammunition and empty-only reload retained."
+          ],
+          "evidenceUrls": [
+            "https://gamefaqs.gamespot.com/ps3/619310-call-of-duty-black-ops-first-strike/faqs/62247",
+            "https://w.atwiki.jp/cod_blackops/pages/84.html",
+            "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo1-ascension-community-ascension-special-weapons-thundergun-upgrade",
+      "mapId": "bo1-ascension",
+      "reviews": [
+        {
+          "batch": "bo1-ascension-whole-guide-pass",
+          "reportedStatus": "All existing step bodies read and source-compared; not gameplay-certified",
+          "independentlyPlaytested": false,
+          "allExistingStepsRead": true,
+          "originalStepCount": 1,
+          "stepChecks": [
+            {
+              "title": "Instructions & locations",
+              "bodySha256": "8fd11bde6be8216bfca67123d3fc86d3d825a03a55b2fadc12b13dc50b329d9b",
+              "readInFull": true
+            }
+          ],
+          "checkedClaims": [
+            "Zeus Cannon spelling corrected; 5,000 upgrade, 4/24 and empty-only reload compared."
+          ],
+          "evidenceUrls": [
+            "https://gamefaqs.gamespot.com/ps3/619310-call-of-duty-black-ops-first-strike/faqs/62247",
+            "https://w.atwiki.jp/cod_blackops/pages/84.html",
+            "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo1-ascension-dolphin-dive-laugh",
+      "mapId": "bo1-ascension",
+      "reviews": [
+        {
+          "batch": "bo1-ascension-new-routes",
+          "reportedStatus": "Newly researched route; no independent gameplay test",
+          "independentlyPlaytested": false,
+          "checkedClaims": [
+            "Set up two players",
+            "Dive, listen and revive"
+          ],
+          "evidenceUrls": [
+            "https://gamefaqs.gamespot.com/ps3/619310-call-of-duty-black-ops-first-strike/faqs/62247"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo1-ascension-red-phones",
+      "mapId": "bo1-ascension",
+      "reviews": [
+        {
+          "batch": "bo1-ascension-new-routes",
+          "reportedStatus": "Newly researched route; no independent gameplay test",
+          "independentlyPlaytested": false,
+          "checkedClaims": [
+            "Listen; answer during the ring",
+            "Spawn lander phone",
+            "PhD Flopper phone",
+            "Room below power"
+          ],
+          "evidenceUrls": [
+            "https://gamefaqs.gamespot.com/ps3/619310-call-of-duty-black-ops-first-strike/faqs/62247",
+            "https://w.atwiki.jp/cod_blackops/pages/84.html",
+            "https://www.reddit.com/r/CODZombies/comments/v67lei/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo1-ascension-six-radios",
+      "mapId": "bo1-ascension",
+      "reviews": [
+        {
+          "batch": "bo1-ascension-new-routes",
+          "reportedStatus": "Newly researched route; no independent gameplay test",
+          "independentlyPlaytested": false,
+          "checkedClaims": [
+            "Radio 1: PhD stairs",
+            "Radio 2: Claymore cage",
+            "Radio 3: spawn crates",
+            "Radio 4: Pack-a-Punch pipes",
+            "Radio 5: Speed Cola server",
+            "Radio 6: Stamin-Up rubble"
+          ],
+          "evidenceUrls": [
+            "https://w.atwiki.jp/cod_blackops/pages/84.html",
+            "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/ascension/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo1-ascension-utility-upgrades",
+      "mapId": "bo1-ascension",
+      "reviews": [
+        {
+          "batch": "bo1-ascension-new-routes",
+          "reportedStatus": "Newly researched route; no independent gameplay test",
+          "independentlyPlaytested": false,
+          "checkedClaims": [
+            "Sickle — 3,000",
+            "Ray Gun → Porter’s X2",
+            "M1911 → Mustang & Sally",
+            "Crossbow → Awful Lawton",
+            "Ballistic Knife → The Krauss Refibrillator"
+          ],
+          "evidenceUrls": [
+            "https://gamefaqs.gamespot.com/ps3/619310-call-of-duty-black-ops-first-strike/faqs/62247",
+            "https://steamcommunity.com/sharedfiles/filedetails/?id=121313832",
             "https://www.reddit.com/r/CODZombies/wiki/ascension/"
           ]
         }
@@ -3810,6 +4367,20 @@
             "https://www.reddit.com/r/CODZombies/comments/i290zg/hellcatraz_tips/",
             "https://www.reddit.com/r/CODZombies/wiki/blood-of-the-dead/",
             "https://www.youtube.com/watch?v=3_xtvseII9w"
+          ]
+        },
+        {
+          "batch": "hellcatraz-weapon-label-follow-up",
+          "reportedStatus": "Field-only source-attribution correction; no new gameplay test",
+          "independentlyPlaytested": false,
+          "checks": {
+            "step26TipAndSupplementNote": "Explain MI927 as the menu/source label for the M1927 wall weapon. Remove the claim that only the wiki has the spelling error or that the original menu unambiguously corrects it."
+          },
+          "unresolved": [
+            "This checks the explanation of the weapon label only; earlier platform, quota and gameplay limitations remain."
+          ],
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/b0dbgq/spoiler_all_30_hellcatraz_gauntlet_challenges/"
           ]
         }
       ]
@@ -12369,18 +12940,6 @@
     "bo-mobile-doa-four-coins",
     "bo-mobile-kino-115",
     "bo-mobile-tutorial-dempsey-rook",
-    "bo1-ascension-casimir-mechanism",
-    "bo1-ascension-community-ascension-easter-eggs-abracadavre-music-easter-egg",
-    "bo1-ascension-community-ascension-easter-eggs-main-easter-egg",
-    "bo1-ascension-community-ascension-easter-eggs-rocket-power-up",
-    "bo1-ascension-community-ascension-easter-eggs-ultimis-matryoshka-dolls",
-    "bo1-ascension-community-ascension-map-walkthrough-monkey-rounds",
-    "bo1-ascension-community-ascension-map-walkthrough-pack-a-punch",
-    "bo1-ascension-community-ascension-map-walkthrough-power",
-    "bo1-ascension-community-ascension-map-walkthrough-traps",
-    "bo1-ascension-community-ascension-special-weapons-special-grenades",
-    "bo1-ascension-community-ascension-special-weapons-thundergun",
-    "bo1-ascension-community-ascension-special-weapons-thundergun-upgrade",
     "bo1-call-of-the-dead-community-call-of-the-dead-easter-eggs-co-op-easter-egg",
     "bo1-call-of-the-dead-community-call-of-the-dead-easter-eggs-map-main-song-music-easter-egg",
     "bo1-call-of-the-dead-community-call-of-the-dead-easter-eggs-solo-easter-egg",
@@ -14222,27 +14781,51 @@
         "bo1-five"
       ],
       "note": "Existing wonder/special-weapon claims and the new Ray Gun/M1911/crossbow/knife routes were reviewed. Every ordinary wall/Box gun’s full damage/attachments/ammo matrix, Collector purchase route, every perk patch condition and arbitrary gameplay-stat tables were not newly audited."
+    },
+    {
+      "mapIds": [
+        "bo1-ascension"
+      ],
+      "note": "All 13 existing cards received a source comparison. Final Casimir damage thresholds/alternative loadouts, clock-plate movement and firing allowances, trap timers, reset windows and exact platform/build behavior remain untested. The guide uses a stationary plate hold and a documented final loadout."
+    },
+    {
+      "mapIds": [
+        "bo1-ascension"
+      ],
+      "note": "Six original radio locations and three phone locations now have routes. Later BO1 players report randomly ringing phones, conflicting with early Ray Gun/Fire Sale/song trigger lists. Exact timing and per-build phone logic still need script or controlled gameplay confirmation."
+    },
+    {
+      "mapIds": [
+        "bo1-ascension"
+      ],
+      "note": "Nine original BO1 song/quest photos are included. Close-ups for all radios, talking dolls, trap controls, active rocket reward and utility acquisitions remain missing. Five BO3 screenshots embedded in a BO1-labelled external guide were excluded from this map."
+    },
+    {
+      "mapIds": [
+        "bo1-ascension"
+      ],
+      "note": "The complete ordinary weapon damage/attachment/ammo matrix, every perk patch condition, full environmental detail inventory and game-over audio have not been exhaustively audited. The co-op dive guide promises the laugh/down effect without a speculative power-up drop bonus."
     }
   ],
   "dataSha256": {
     "catalog.json": "87f8a25e0c02a99ea4c1dbe16a9155341984157216cc4eb88b99edefc60afa1e",
-    "community-corrections.json": "e46ea01daed06fc67bf9a3f8d105316a44e3fe0b87af626b25992f1625ea04a1",
-    "coverage-gaps.json": "2f9eabffe2a2208a1408313e98d3c85fe78788cf0ec0bab173c770ae65e9a4bb",
+    "community-corrections.json": "6df985926092bca15db13d58a5643fbec493686e016318cedf9b2488aaaf3a6a",
+    "coverage-gaps.json": "d0488cf458cf22685f3ec6cec7a080682b0ab5c23267111c23e93b7997f98fc4",
     "guides-aw.json": "b5a7e5fb7d83e776452f77060d0714c13f63ae8eeb6e367272c0d00a38cc3855",
-    "guides-classic.json": "24b59abf28153662afb40bd7e2b2edf524d2dba1a1d5fec312e4a56c660d5ad9",
-    "guides-community.json": "3e877902d2e864ec1ef6d78ce8b4fa5f7340536e1d294eb4830eea5167b5ba8d",
+    "guides-classic.json": "d31c005f82d27ba331729056c838abd7afa1bbab42f9a2583fda7740e7afdc5f",
+    "guides-community.json": "7dad92e03217589b555ca373f80995ebe1910df99f57b83649991d5f3c269b3b",
     "guides-completion-classic.json": "a125c546de5506b53fd4cd40222e6c371b2b32d7f997634330c19dd93314c90d",
     "guides-completion-modern.json": "e9f90a39306590f5da5eafe6b1652f46e21cc853b74f9ec33793bee8359a7a66",
     "guides-completion-modes.json": "d57e40c6916f8e70df31b93edca79bdf286d03dfff8b4e2f478371456a384740",
     "guides-extra.json": "29dac3f41adaaa4d033e3bad1af7814fd5e48f3245eaa7bd4a7cc150a937362c",
     "guides-goal-classic.json": "c47ad57465a9d784158faf512f5a371273af1bcc1fa2423eb7fdad314372fc23",
     "guides-goal-modern.json": "5586b358571d31d9f0724182f8121d3b71dbc181bfba88bcef81b5ab866e5127",
-    "guides-goal-modes.json": "2f6ba2d95ceae128a8897ab9ce1f38f5156491030760542fdfa8c13aecaac087",
-    "guides-goal-root.json": "2733e85fa71864cecab129b9e3a472b03b3a8929346d8e1f4131e5adc1de5d0e",
+    "guides-goal-modes.json": "d61f44edc4c46d18ae22ecd50f1e3d370cee5c1db19717137c3b5eec6fc837bd",
+    "guides-goal-root.json": "eb52bf12e04761d76a3b6a3e13b150d1125bb42eefebdf7ca4d0cccd41f5c14f",
     "guides-modern.json": "d3dcbf8814e1ebb6bd1d88392cbc1b11de1ac2610ceda3796abc8bae4b682141",
     "guides-super-ee-doa4.json": "469978db1d527b95e6b226cc71c90a5cb2dce40fb23ed1d1449374efada86833",
     "media-completion.json": "58882d44af4bbe2e09648819c06547084fc33caf994cace9122d512163c22366",
-    "media.json": "8ee8cc4ac8d1c6cd3d58698090c678202c1ef7e0245c21bc01de9ac9720c5784",
+    "media.json": "0b657b13fe0fdce213df2d61865749a96e419244688395ea53befeba8ba3b397",
     "reddit-sources.json": "fd7f1c5e946d258d708cc7355e5826a2a8fc02ef9ce071c9e40a4bced6de646a",
     "references.json": "46d625f7926fc128fa2db360ec9492469b8dda8116ab9fc8458a4873d97a94c8",
     "source-gaps.json": "d80d077a01dffbaa84d58d239d2f2a48c3fe7cf441410ac539a252b9ec31d72b"
@@ -14271,7 +14854,8 @@
       "Hellcatraz thirty steps/references, visible PC round-3 caveat and menu-sourced M1927 correction",
       "IX thirty-round mobile menu, final-round video chapter, base-perk rule and focus after jumps",
       "Quoted YouTube video links have 44px touch targets",
-      "Kino three meteor landmarks and Five four DEFCON photos with reset instructions"
+      "Kino three meteor landmarks and Five four DEFCON photos with reset instructions",
+      "Ascension four-player setup, four BO1 button photos, six radio chapters and narrow layout"
     ]
   }
 }
