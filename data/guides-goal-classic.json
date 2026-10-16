@@ -561,5 +561,578 @@
       "ghosts-awakening-operation",
       "ghosts-exodus-operation"
     ]
+  },
+  {
+    "id": "waw-shi-no-numa-five-radios",
+    "mapId": "waw-shi-no-numa",
+    "title": "Five original-map radios: spawn transmission and two hut recordings",
+    "category": "side",
+    "difficulty": "Easy",
+    "players": "1–4",
+    "summary": "The original WaW radio set: three starting-room devices make one transmission, plus two independent hut recordings.",
+    "requirements": [
+      "Open Storage and Doctor's Quarters for their recordings"
+    ],
+    "reward": "Story recordings; the three spawn radios do not award Dead Air.",
+    "steps": [
+      {
+        "title": "Start the three-radio transmission",
+        "body": "On the upper starting floor, use each of the next three radios once. Any order works: the first two give static and the third starts the completed message.",
+        "original": true
+      },
+      {
+        "title": "Barrel by the Warning grille",
+        "body": "Use the radio on the barrel beside the Arisaka/Warning wall.",
+        "original": true,
+        "images": [
+          {
+            "src": "./assets/classic-batch2-shi-radio-1.png",
+            "alt": "Radio on barrel by Warning grille",
+            "caption": "Spawn radio 1 — original WaW",
+            "source": "https://www.callofdutyzombies.com/zombie-library/zombies-library/worldatwar/shinonuma/radio-transmissions-r52/",
+            "credit": "PINNAZ / CoDZ Zombies Library / Activision"
+          }
+        ]
+      },
+      {
+        "title": "Freestanding wooden shelves",
+        "body": "Use the radio on the large wooden shelving beside the blocked staircase.",
+        "original": true,
+        "images": [
+          {
+            "src": "./assets/classic-batch2-shi-radio-2.png",
+            "alt": "Radio on shelf by blocked starting stairs",
+            "caption": "Spawn radio 2 — original WaW",
+            "source": "https://www.callofdutyzombies.com/zombie-library/zombies-library/worldatwar/shinonuma/radio-transmissions-r52/",
+            "credit": "PINNAZ / CoDZ Zombies Library / Activision"
+          }
+        ]
+      },
+      {
+        "title": "Crates on the Gewehr side",
+        "body": "Use the radio on the crate stack near the Gewehr side of spawn. Let the full message finish.",
+        "original": true,
+        "images": [
+          {
+            "src": "./assets/classic-batch2-shi-radio-3.png",
+            "alt": "Radio in spawn-room crate stack",
+            "caption": "Spawn radio 3 — original WaW",
+            "source": "https://www.callofdutyzombies.com/zombie-library/zombies-library/worldatwar/shinonuma/radio-transmissions-r52/",
+            "credit": "PINNAZ / CoDZ Zombies Library / Activision"
+          }
+        ]
+      },
+      {
+        "title": "Storage recording",
+        "body": "Open Storage and enter its hut. Use the separate radio beside its Mystery Box position for a trailer-style recording.",
+        "original": true
+      },
+      {
+        "title": "Doctor's Quarters recording",
+        "body": "Open Doctor's Quarters. Use the radio in the room on the left for the whispered recording.",
+        "original": true,
+        "tip": "The BO1 Backtracing three-hut conversation is a separate addition."
+      }
+    ],
+    "sources": [
+      {
+        "title": "PINNAZ / CoDZ: original recordings, locations and photos",
+        "url": "https://www.callofdutyzombies.com/zombie-library/zombies-library/worldatwar/shinonuma/radio-transmissions-r52/"
+      },
+      {
+        "title": "CoDZ: activation guide",
+        "url": "https://www.callofdutyzombies.com/easteregg/guides/call_of_duty_world_at_war_zombies/small-easter-eggs-and-side-quests/shi-no-numa/radios-r29/"
+      },
+      {
+        "title": "Original June 2009 three-spawn-radio discovery",
+        "url": "https://nextgenupdate.com/forums/call-duty-world-at-war/39954-shi-no-numa-secret-trophyachievement-dead-air-1.html"
+      }
+    ],
+    "checked": "2026-10-16"
+  },
+  {
+    "id": "waw-shi-no-numa-storage-meteor",
+    "mapId": "waw-shi-no-numa",
+    "title": "Shoot the meteor beyond Storage",
+    "category": "side",
+    "difficulty": "Easy",
+    "players": "1–4",
+    "summary": "Trigger the character comment about the meteor outside the original map.",
+    "requirements": [
+      "Open Storage route",
+      "A firearm"
+    ],
+    "reward": "A character line about the meteor.",
+    "steps": [
+      {
+        "title": "Look beyond the Storage boundary",
+        "body": "Follow the marked Storage route from the main building. Along this branch, look beyond the right-hand playable boundary for the large glowing red meteor rock.",
+        "original": true
+      },
+      {
+        "title": "Shoot the rock",
+        "body": "Aim at the glowing rock and fire. Listen for your character's response; the rock stays outside the playable area.",
+        "original": true,
+        "tip": "This comment does not start the Vanguard map's main quest or unlock a weapon."
+      }
+    ],
+    "sources": [
+      {
+        "title": "CoDZ: original WaW meteor and shot trigger",
+        "url": "https://www.callofdutyzombies.com/easteregg/guides/call_of_duty_world_at_war_zombies/small-easter-eggs-and-side-quests/shi-no-numa/meteor-r30/"
+      },
+      {
+        "title": "Original Xbox 360 player description",
+        "url": "https://gamefaqs.gamespot.com/xbox360/282834-call-of-duty-world-at-war/answers/78475-how-do-i-solve-shi-no-numa"
+      }
+    ],
+    "checked": "2026-10-16"
+  },
+  {
+    "id": "waw-shi-no-numa-doctors-bookshelf-laugh",
+    "mapId": "waw-shi-no-numa",
+    "title": "Doctor's Quarters bookshelf laugh",
+    "category": "side",
+    "difficulty": "Easy",
+    "players": "1–4",
+    "summary": "Trigger the hidden laugh from the original World at War hut's bookshelf.",
+    "requirements": [
+      "Open Doctor's Quarters"
+    ],
+    "reward": "A loud Richtofen laugh heard by the team.",
+    "steps": [
+      {
+        "title": "Find the left-hand bookshelf",
+        "body": "Take the Doctor's Quarters path from the main building, buy entry to the hut and look inside on the left for the bookshelf.",
+        "original": true
+      },
+      {
+        "title": "Interact with the books",
+        "body": "Move close, aim into the bookshelf and hold interact. Listen for the loud laugh; there is no carried diary or weapon to pick up.",
+        "original": true,
+        "tip": "Firsthand players explicitly confirm WaW and BO3. The reports do not specify a required character."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Firsthand location/input/audio and WaW/BO3 confirmation",
+        "url": "https://www.reddit.com/r/CODZombies/comments/haxqis/"
+      },
+      {
+        "title": "August 2010 pre-BO1 report of the bookshelf laugh",
+        "url": "https://forums.neoseeker.com/38234/t1378623-shi-no-numa-giant-easter-egg/7.htm"
+      }
+    ],
+    "checked": "2026-10-16"
+  },
+  {
+    "id": "waw-shi-no-numa-wunderwaffe-box",
+    "mapId": "waw-shi-no-numa",
+    "title": "Obtain the Wunderwaffe DG-2",
+    "category": "weapon",
+    "difficulty": "Easy",
+    "players": "1–4",
+    "summary": "Get the original console map's lightning weapon from the Mystery Box.",
+    "requirements": [
+      "Open a route downstairs",
+      "Points for repeated random Mystery Box attempts"
+    ],
+    "reward": "Wunderwaffe DG-2 if rolled and collected.",
+    "steps": [
+      {
+        "title": "Reach the first box downstairs",
+        "body": "Buy a route from the starting floor to the main building's lower level. Use the wooden Mystery Box and collect a rolled weapon before it disappears.",
+        "original": true
+      },
+      {
+        "title": "Follow the box if it moves",
+        "body": "The DG-2 is a random result, not guaranteed after a fixed number of attempts. If a teddy bear moves the box, locate its beam/new position, open that route and continue.",
+        "original": true
+      },
+      {
+        "title": "Use the DG-2",
+        "body": "It has 3 shots loaded and 15 in reserve. Aim its chained discharge at grouped zombies and stay clear of the impact. Original console Shi No Numa has no Pack-a-Punch or DG-3 upgrade route.",
+        "original": true,
+        "tip": "The grave/shovel free-Wunderwaffe egg belongs to the mobile port."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Original 2009 box/Wunderwaffe strategy",
+        "url": "https://gamefaqs.gamespot.com/boards/944198-call-of-duty-world-at-war/50050934"
+      },
+      {
+        "title": "Original-game community test table",
+        "url": "https://w.atwiki.jp/codwaw/pages/45.html"
+      },
+      {
+        "title": "Original 2009 layout and moving Mystery Box",
+        "url": "https://gamefaqs.gamespot.com/boards/944199-call-of-duty-world-at-war/50364054"
+      }
+    ],
+    "checked": "2026-10-16"
+  },
+  {
+    "id": "waw-verruckt-morgue-crying",
+    "mapId": "waw-verruckt",
+    "title": "Morgue crying and laughter",
+    "category": "side",
+    "difficulty": "Easy",
+    "players": "1–4",
+    "summary": "Hear the separate hidden morgue sound on the Quick Revive starting side.",
+    "requirements": [
+      "Access to Quick Revive-side downstairs morgue"
+    ],
+    "reward": "Baby/woman crying or laughter; no equipment reward.",
+    "steps": [
+      {
+        "title": "Find the open body-storage compartment",
+        "body": "Go to the downstairs starting wing containing Quick Revive. Locate the morgue wall of body-storage compartments and stand beside the open one.",
+        "original": true
+      },
+      {
+        "title": "Crouch and use the opening",
+        "body": "Crouch close to the opening, aim into it and hold interact for several seconds. Listen for the crying/laughter. If the first hold misses the trigger, adjust closer and repeat.",
+        "original": true,
+        "tip": "This is separate from the Juggernog-side dentist-chair drill."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Original WaW players describe chair and morgue use",
+        "url": "https://gamefaqs.gamespot.com/boards/944199-call-of-duty-world-at-war/50497868"
+      },
+      {
+        "title": "March 2009 developer blog and contemporary sound discovery",
+        "url": "https://briantuey.blogspot.com/2009/03/verruckt-music-easter-egg-found.html"
+      },
+      {
+        "title": "March 2009 morgue crying report",
+        "url": "https://gamefaqs.gamespot.com/boards/944199-call-of-duty-world-at-war/48852878"
+      }
+    ],
+    "checked": "2026-10-16"
+  },
+  {
+    "id": "waw-verruckt-lost-numbers",
+    "mapId": "waw-verruckt",
+    "title": "Lost numbers in the power room",
+    "category": "side",
+    "difficulty": "Easy",
+    "players": "1–4",
+    "summary": "Hear the original power-room machine's 4–8–15–16–23–42 homage, confirmed by Treyarch's Audio Director.",
+    "requirements": [
+      "Open power room and turn on power"
+    ],
+    "reward": "Hidden spoken-number audio; no item reward.",
+    "steps": [
+      {
+        "title": "Turn on power",
+        "body": "Follow an upstairs asylum wing to the generator room and use the severed-arm lever.",
+        "original": true,
+        "images": [
+          {
+            "src": "./assets/classic-batch2-verruckt-power.png",
+            "alt": "Original severed-arm power switch",
+            "caption": "Power switch — original WaW",
+            "source": "https://www.callofdutyzombies.com/zombie-library/zombies-library/worldatwar/verruckt/power-switch-r29/",
+            "credit": "PINNAZ / CoDZ Zombies Library / Activision"
+          }
+        ]
+      },
+      {
+        "title": "Listen beside the machines",
+        "body": "Remain in the power-room corner beside the initial Mystery Box position, near the electrical machines shown. Listen for 4, 8, 15, 16, 23, 42. There is no number-entry puzzle.",
+        "original": true,
+        "images": [
+          {
+            "src": "./assets/classic-batch2-verruckt-lost-machine.png",
+            "alt": "Power-room machinery and listening corner",
+            "caption": "Lost-numbers listening position — original WaW",
+            "source": "https://www.callofdutyzombies.com/zombie-library/zombies-library/worldatwar/verruckt/power-switch-r29/",
+            "credit": "PINNAZ / CoDZ Zombies Library / Activision"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "Brian Tuey: original March 2009 Lost confirmation",
+        "url": "https://briantuey.blogspot.com/2009/03/verruckt-music-easter-egg-found.html"
+      },
+      {
+        "title": "PINNAZ / CoDZ: listening position and original photos",
+        "url": "https://www.callofdutyzombies.com/zombie-library/zombies-library/worldatwar/verruckt/power-switch-r29/"
+      }
+    ],
+    "checked": "2026-10-16"
+  },
+  {
+    "id": "waw-der-riese-seven-console-radios",
+    "mapId": "waw-der-riese",
+    "title": "Seven original console radios",
+    "category": "side",
+    "difficulty": "Easy",
+    "players": "1–4",
+    "summary": "Find three sequenced cabinet radios and four independent recordings in original World at War Der Riese.",
+    "requirements": [
+      "Open all teleporter wings and route beneath Quick Revive"
+    ],
+    "reward": "Seven physical radio activations with story recordings.",
+    "steps": [
+      {
+        "title": "Use each radio and listen",
+        "body": "Stand near a device, aim at it and hold interact even without an on-screen prompt. Let each recording finish. The three cabinet radios below play the test/betrayal sequence in activation order, regardless of which physical cabinet you use first.",
+        "original": true
+      },
+      {
+        "title": "Teleporter A: open hatch",
+        "body": "Below the Teleporter A platform, beside the stairs/MP40 side, use the large radio through the low open hatch.",
+        "original": true,
+        "images": [
+          {
+            "src": "./assets/classic-batch2-der-radio-a.png",
+            "alt": "Radio through low opening at Teleporter A",
+            "caption": "Cabinet radio — Teleporter A",
+            "source": "https://www.callofdutyzombies.com/zombie-library/zombies-library/worldatwar/derriese/radio-transmissions-r90/",
+            "credit": "PINNAZ / CoDZ Zombies Library / Activision"
+          }
+        ]
+      },
+      {
+        "title": "Teleporter B: fallen cabinet",
+        "body": "Outside the large Z-B teleporter door, use the radio on the tipped filing cabinet.",
+        "original": true,
+        "images": [
+          {
+            "src": "./assets/classic-batch2-der-radio-b.png",
+            "alt": "Radio on tipped filing cabinet outside Z-B",
+            "caption": "Cabinet radio — Teleporter B approach",
+            "source": "https://www.callofdutyzombies.com/zombie-library/zombies-library/worldatwar/derriese/radio-transmissions-r90/",
+            "credit": "PINNAZ / CoDZ Zombies Library / Activision"
+          }
+        ]
+      },
+      {
+        "title": "Teleporter C: shelf",
+        "body": "In the catwalk/STG-44 building, use the large radio on the shelf beside the lower stairs.",
+        "original": true,
+        "images": [
+          {
+            "src": "./assets/classic-batch2-der-radio-c.png",
+            "alt": "Radio beside stairs in Teleporter C building",
+            "caption": "Cabinet radio — Teleporter C",
+            "source": "https://www.callofdutyzombies.com/zombie-library/zombies-library/worldatwar/derriese/radio-transmissions-r90/",
+            "credit": "PINNAZ / CoDZ Zombies Library / Activision"
+          }
+        ]
+      },
+      {
+        "title": "Animal Testing: high doorway",
+        "body": "In the Trench Gun animal lab, face the wall by its box position and find the small radio above the doorway. Move close beneath it and hold interact toward it.",
+        "original": true,
+        "images": [
+          {
+            "src": "./assets/classic-batch2-der-radio-animal.png",
+            "alt": "Handheld radio above animal-lab doorway",
+            "caption": "Independent recording — animal lab",
+            "source": "https://www.callofdutyzombies.com/zombie-library/zombies-library/worldatwar/derriese/radio-transmissions-r90/",
+            "credit": "PINNAZ / CoDZ Zombies Library / Activision"
+          }
+        ]
+      },
+      {
+        "title": "Spawn: barrel and wall",
+        "body": "Face away from Pack-a-Punch, descend from the mainframe and check the gap between the barrel and wall beside the stairs.",
+        "original": true,
+        "images": [
+          {
+            "src": "./assets/classic-batch2-der-radio-spawn.png",
+            "alt": "Radio between spawn barrel and wall",
+            "caption": "Independent recording — spawn",
+            "source": "https://www.callofdutyzombies.com/zombie-library/zombies-library/worldatwar/derriese/radio-transmissions-r90/",
+            "credit": "PINNAZ / CoDZ Zombies Library / Activision"
+          }
+        ]
+      },
+      {
+        "title": "Tunnel beneath Quick Revive",
+        "body": "Enter the passage below Quick Revive. At its boarded end, aim into the right corner behind the broken boards and use the hidden radio.",
+        "original": true,
+        "images": [
+          {
+            "src": "./assets/classic-batch2-der-radio-tunnel.png",
+            "alt": "Hidden radio behind broken tunnel boards",
+            "caption": "Independent recording — tunnel",
+            "source": "https://www.callofdutyzombies.com/zombie-library/zombies-library/worldatwar/derriese/radio-transmissions-r90/",
+            "credit": "PINNAZ / CoDZ Zombies Library / Activision"
+          }
+        ]
+      },
+      {
+        "title": "Teleporter B: vat ladder",
+        "body": "Inside Z-B, climb the circular platform around the large vat. Look down its outside ladder and use the small radio resting on it.",
+        "original": true,
+        "tip": "These are the seven console devices. The additional field-operations welcome recording is not an eighth playable console radio.",
+        "images": [
+          {
+            "src": "./assets/classic-batch2-der-radio-tank.png",
+            "alt": "Handheld radio on the large vat ladder",
+            "caption": "Independent recording — vat ladder",
+            "source": "https://www.callofdutyzombies.com/zombie-library/zombies-library/worldatwar/derriese/radio-transmissions-r90/",
+            "credit": "PINNAZ / CoDZ Zombies Library / Activision"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "PINNAZ / CoDZ: console set, sequence and original photos",
+        "url": "https://www.callofdutyzombies.com/zombie-library/zombies-library/worldatwar/derriese/radio-transmissions-r90/"
+      },
+      {
+        "title": "August 2009 original Xbox 360 radio discussion",
+        "url": "https://gamefaqs.gamespot.com/boards/944199-call-of-duty-world-at-war/50828245"
+      },
+      {
+        "title": "CassyChan: firsthand original-map notes",
+        "url": "https://gamefaqs.gamespot.com/xbox360/944199-call-of-duty-world-at-war/faqs/58924"
+      },
+      {
+        "title": "CassyChan: later location descriptions",
+        "url": "https://www.neoseeker.com/call-of-duty-black-ops/faqs/235021-call-of-duty-bo-der-riese.html"
+      }
+    ],
+    "checked": "2026-10-16"
+  },
+  {
+    "id": "waw-der-riese-furnace-monkey-audio",
+    "mapId": "waw-der-riese",
+    "title": "Throw a live Monkey Bomb into the furnace",
+    "category": "side",
+    "difficulty": "Easy",
+    "players": "1–4",
+    "summary": "Trigger the separate screaming-monkey furnace interaction.",
+    "requirements": [
+      "Monkey Bombs from Mystery Box",
+      "Open Thompson/furnace room"
+    ],
+    "reward": "Screaming monkey and Samantha's scolding dialogue.",
+    "steps": [
+      {
+        "title": "Find the burning furnace",
+        "body": "In the Thompson room, locate the open burning furnace beneath the nearby stairs.",
+        "original": true,
+        "images": [
+          {
+            "src": "./assets/classic-batch2-der-flytrap-furnace.webp",
+            "alt": "Open Thompson-room furnace",
+            "caption": "Throw location — original WaW PC reference",
+            "source": "https://mmmrkennedy.com/games/WAW/der_riese/der_riese_guide",
+            "credit": "MMMRKennedy / Activision — World at War PC reference"
+          }
+        ]
+      },
+      {
+        "title": "Throw a live Monkey Bomb inside",
+        "body": "Arm a Monkey Bomb and throw it through the open door so it lands inside the furnace. Step back and listen as it burns, screams and explodes.",
+        "original": true,
+        "tip": "Shooting the static Fly Trap monkey in this furnace is a different interaction. Neither unlocks the Type 99."
+      }
+    ],
+    "sources": [
+      {
+        "title": "CassyChan: original WaW furnace interaction",
+        "url": "https://gamefaqs.gamespot.com/xbox360/944199-call-of-duty-world-at-war/faqs/58924"
+      },
+      {
+        "title": "2010 player: active-monkey furnace trigger",
+        "url": "https://eeggs.com/items/57607.html"
+      },
+      {
+        "title": "MMMRKennedy: original furnace location photo",
+        "url": "https://mmmrkennedy.com/games/WAW/der_riese/der_riese_guide"
+      }
+    ],
+    "checked": "2026-10-16"
+  },
+  {
+    "id": "waw-der-riese-perk-loose-change",
+    "mapId": "waw-der-riese",
+    "title": "Loose change under the four perk machines",
+    "category": "side",
+    "difficulty": "Easy",
+    "players": "1–4",
+    "summary": "Collect the original map's hidden vending-machine point bonus.",
+    "requirements": [
+      "Open routes to original four perks"
+    ],
+    "reward": "25 points per successful payment; the WaW HUD can round the displayed total.",
+    "steps": [
+      {
+        "title": "Visit the original machines",
+        "body": "Open the factory and turn on power. Check Juggernog, Speed Cola, Double Tap Root Beer and Quick Revive, the four original WaW machines.",
+        "original": true
+      },
+      {
+        "title": "Go prone at each base",
+        "body": "Go prone with your view near the machine's front/base. Nudge toward its corner if the first position misses, then watch for the tiny payment. Move on after it pays; this is not repeatable money.",
+        "original": true,
+        "tip": "The underlying bonus is 25. HUD rounding can make the displayed score move by 20 or 30, so a rounded total does not guarantee you can afford a purchase."
+      }
+    ],
+    "sources": [
+      {
+        "title": "August 2009 PS3 firsthand discovery",
+        "url": "https://nextgenupdate.com/forums/call-duty-world-at-war/50102-der-riese-money-glitch-could-lead-future-glitches.html"
+      },
+      {
+        "title": "Stock-WaW 920-to-945 affordability test",
+        "url": "https://www.reddit.com/r/CODZombies/comments/w6xwpf/"
+      },
+      {
+        "title": "Mod author distinguishes stock rounding from changed 30-point mod behavior",
+        "url": "https://github.com/JBShady/COD5-Remastered"
+      }
+    ],
+    "checked": "2026-10-16"
+  },
+  {
+    "id": "waw-der-riese-thompson-hidden-brick",
+    "mapId": "waw-der-riese",
+    "title": "Hidden note beneath the Thompson-room brick",
+    "category": "side",
+    "difficulty": "Easy",
+    "players": "1–4",
+    "summary": "Move the unusual small brick to reveal the original map's hidden paper.",
+    "requirements": [
+      "Open Thompson room",
+      "A scope helps inspect the small paper"
+    ],
+    "reward": "A revealed note to inspect; no weapon reward.",
+    "steps": [
+      {
+        "title": "Inspect the brick pile",
+        "body": "At the Thompson wall buy, look immediately to its right at the nearby brickwork/pile. Find the smaller brick with a different shade from its neighbors.",
+        "original": true
+      },
+      {
+        "title": "Use the unusual brick",
+        "body": "Stand close, aim at that brick and hold interact. It moves to reveal a small note beneath it. A scoped gun helps inspect the paper.",
+        "original": true,
+        "tip": "Only the reveal is established here. Extra noises or supposed improved drops are not a verified continuation; no guessed transcription is supplied."
+      }
+    ],
+    "sources": [
+      {
+        "title": "2010 finder: exact landmark and use action",
+        "url": "https://eeggs.com/items/57607.html"
+      },
+      {
+        "title": "October 2009 player confirms activating the brick",
+        "url": "https://nextgenupdate.com/forums/call-duty-world-at-war/64395-der-riese-therory-new-easter-egg.html"
+      }
+    ],
+    "checked": "2026-10-16"
   }
 ]

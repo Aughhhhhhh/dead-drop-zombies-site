@@ -425,18 +425,74 @@
     "difficulty": "Medium",
     "players": "1–4 players; one crafted weapon pickup",
     "summary": "Recover the pressure gauge, handbrake and wires, then assemble the Thrustodyne M23 in the motel.",
-    "requirements": ["Access to Fuller's Liberty Lanes, Cemetery and Riverside", "A Mangler cannon blast to open Radio House"],
+    "requirements": [
+      "Standard or Directed Mode.",
+      "Access to Fuller's Liberty Lanes, Cemetery and Riverside",
+      "A Mangler cannon blast to open Radio House"
+    ],
     "reward": "Thrustodyne M23 / Jet Gun, needed for the LTG and Aetherella eggs",
     "steps": [
-      {"title": "Find the motel workbench", "body": "Go upstairs at the Motor Lodge near spawn and approach room 202. Zombies burst through its door; kill them and enter to find the partially built Jet Gun. Its three missing parts can be collected in any order."},
-      {"title": "Take the Water Valve", "body": "Visit Lily's Flowerpot on Washington Avenue near Speed Cola. Interact with the green valve on the hose spigot outside the shop to remove it. The pickup can work even without an obvious on-screen prompt."},
-      {"title": "Build pressure in the bowling alley", "body": "Inside Fuller's Liberty Lanes, shoot or melee the cover off the wall panel beside the lanes. Insert the valve, then hold interact to turn it. Zombies and Vermin attack while you are occupied. Stop turning whenever you need to defend yourself, but stay inside the bowling alley to preserve pressure. When the meter fills, take the Water Pressure Gauge from the floor.", "tip": "Leaving the building makes pressure drain. A teammate, Decoy or Aether Shroud can protect the person turning."},
-      {"title": "Kill the Groundskeeper and open his shed", "body": "Spend time killing zombies in the Cemetery beside the church until the named Groundskeeper appears in overalls and a hat. Kill him promptly and pick up the Toolshed Key. Go down to Groundskeeper's Yard by the white house and use the key on the small shed. Take the Handbrake from the table inside.", "tip": "If he escapes or fails to appear, continue another round in the Cemetery and look again."},
-      {"title": "Open Radio House and search for the wires", "body": "At Riverside, break Radio House's metal entrance with a Mangler Cannon. You can use a crafted/dropped cannon, a Mutant Injection cannon, or bait an enemy Mangler's blast into the door. Inside, interact with the debris piles on the floor until one reveals the Electrical Wires. Be ready for hidden Vermin."},
-      {"title": "Assemble and collect the Jet Gun", "body": "Return to room 202 and interact with the workbench using the gauge, handbrake and wires. Take the completed Thrustodyne. Its primary attack sucks up objects for other eggs; its alternate attack is the large blast. Avoid using the blast while trying to collect a quest object."}
+      {
+        "title": "Find the motel workbench",
+        "body": "Go upstairs at the Motor Lodge near spawn and approach room 202. Zombies burst through its door; kill them and enter to find the partially built Jet Gun. Its three missing parts can be collected in any order."
+      },
+      {
+        "title": "Take the Water Valve",
+        "body": "Visit Lily's Flowerpot on Washington Avenue near Speed Cola. Interact with the green valve on the hose spigot outside the shop to remove it. The pickup can work even without an obvious on-screen prompt."
+      },
+      {
+        "title": "Build pressure in the bowling alley",
+        "body": "Inside Fuller's Liberty Lanes, shoot or melee the cover off the wall panel beside the lanes. Insert the valve, then hold interact to turn it. Zombies and Vermin attack while you are occupied. Stop turning whenever you need to defend yourself, but stay inside the bowling alley to preserve pressure. When the meter fills, take the Water Pressure Gauge from the floor.",
+        "tip": "Leaving the building makes pressure drain. A teammate, Decoy or Aether Shroud can protect the person turning."
+      },
+      {
+        "title": "Kill the Groundskeeper and open his shed",
+        "body": "Spend time killing zombies in the Cemetery beside the church until the named Groundskeeper appears in overalls and a hat. Kill him promptly and pick up the Toolshed Key. Go down to Groundskeeper's Yard by the white house and use the key on the small shed. Take the Handbrake from the table inside.",
+        "tip": "If he escapes or fails to appear, continue another round in the Cemetery and look again."
+      },
+      {
+        "title": "Open Radio House and search for the wires",
+        "body": "At Riverside, break Radio House's metal entrance with a Mangler Cannon. You can use a crafted/dropped cannon, a Mutant Injection cannon, or bait an enemy Mangler's blast into the door. Inside, interact with the debris piles on the floor until one reveals the Electrical Wires. Be ready for hidden Vermin.",
+        "tip": "A debris pile can also cause a face-grab jump scare. It is separate from the Electrical Wires pickup."
+      },
+      {
+        "title": "Assemble and collect the Jet Gun",
+        "body": "Return to room 202 and interact with the workbench using the gauge, handbrake and wires. Take the completed Thrustodyne. Its primary attack sucks up objects for other eggs; its alternate attack is the large blast. Avoid using the blast while trying to collect a quest object.",
+        "tip": "Use Pack-a-Punch to upgrade it through tiers I–III. The Arsenal does not add a rarity tier or ammo mod to this Wonder Weapon."
+      }
     ],
-    "sources": [{"title": "r/CODZombies community breakdown: Liberty Falls", "url": "https://www.reddit.com/r/CODZombies/wiki/liberty-falls/"}, {"title": "Community detailed Jet Gun guide and pressure recovery", "url": "https://www.reddit.com/r/CODZombies/comments/1gqz5vb/detailed_text_w_pictures_video_guide_to_the_jet_gun/"}, {"title": "Steam community: motel room 202", "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3355033612"}],
-    "checked": "2026-10-13"
+    "sources": [
+      {
+        "title": "r/CODZombies community breakdown: Liberty Falls",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/liberty-falls/"
+      },
+      {
+        "title": "Community detailed Jet Gun guide and pressure recovery",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1gqz5vb/detailed_text_w_pictures_video_guide_to_the_jet_gun/"
+      },
+      {
+        "title": "Steam community: motel room 202",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3355033612"
+      },
+      {
+        "title": "Firsthand r/CODZombies discussion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1gqz5vb/"
+      },
+      {
+        "title": "Firsthand r/CODZombies discussion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1ku70gw/"
+      },
+      {
+        "title": "Official BO6 Season 1 patch notes",
+        "url": "https://www.callofduty.com/patchnotes/2024/11/call-of-duty-black-ops-6-season-01-patch-notes"
+      }
+    ],
+    "checked": "2026-10-16",
+    "relatedGuideIds": [
+      "bo6-liberty-falls-community-liberty-falls-key-map-features-pack-a-punch",
+      "bo6-liberty-falls-main",
+      "bo6-liberty-falls-aetherella"
+    ]
   },
   {
     "id": "bo6-liberty-falls-main",
@@ -446,23 +502,104 @@
     "difficulty": "Medium",
     "players": "1–4 players",
     "summary": "Build the LTG, capture two HVTs, calibrate the projectors and survive the church finale.",
-    "requirements": ["Jet Gun; see its weapon guide on this map", "Church / Dark Aether opened", "Points to activate two Dark Aether Field Generator traps", "A prepared loadout for three locked-room waves"],
-    "reward": "Main-quest ending and completion rewards for your selected mode",
-    "steps": [
-      {"title": "Speak to Panos in the church", "body": "Open the church's Dark Aether barrier and interact with the machine on its right wall. Wait through Panos's introduction. Build or obtain the Jet Gun before collecting the next parts; Pack-a-Punch is already available in the church."},
-      {"title": "Suck up all three LTG parts", "body": "Use the Jet Gun's primary suction on the floating part in the church balcony near Panos, the part in Olly's Comics' broken ceiling above its central counter, and the part inside Buzz's Cuts' second-floor window on Washington Avenue. For the barber window, climb onto the nearby truck from the rooftop and aim suction through the opening."},
-      {"title": "Build the LTG on the bank rooftop", "body": "Use a zipline to reach the bank roof, The Alamo. Assemble the LTG at the rooftop workbench and pick it up. Return to the church machine and take the first Aether Canister."},
-      {"title": "Place the canister inside a trap's collection field", "body": "Carry the canister to the Hill Street / Washington Avenue Dark Aether Field Generator trap. Set it directly beside one of the trap's small emitters on the ground, inside the area that turns purple when the trap runs. The canister reduces your movement while carried."},
-      {"title": "Defend the Cemetery portal and keep its HVT alive", "body": "Place the LTG on the circular plate beneath the storm cloud in the Cemetery. Activate it and protect the portal until the defense timer ends, targeting the purple-glowing zombies running toward it. The successful defense produces an HVT. Damage that HVT until it flashes/glows purple and Panos says its energy is ready, but do not kill it.", "tip": "If the portal is destroyed, retry next round. If the HVT dies outside the collection field, summon another on a later round."},
-      {"title": "Capture the first HVT and return within 90 seconds", "body": "Lead the weakened HVT to the canister's emitter. Activate the Dark Aether Field Generator and kill the HVT while it is inside that same purple field. When its energy enters the canister, pick the canister up and return it to the church machine within 90 seconds. Collect the Strauss Counter from the machine when the dialogue finishes.", "tip": "Pick the LTG back up from the Cemetery after the capture; you need the same device at the other portal."},
-      {"title": "Calibrate all three projectors", "body": "Find the projectors in the grass at Hilltop Stairs, in Groundskeeper's Yard, and on Yummy Freeze's low roof reached by dropping from The Alamo. At each projector, hold the Strauss Counter to read that spot's energy. Set the projector to the opposite color: Counter red / High → projector green; Counter green / Low → projector red; Counter yellow / Medium → projector yellow. Interact to cycle each projector's light."},
-      {"title": "Collect the second canister at spawn", "body": "Correct projector settings send three beams into the device by Pump & Pay. Return there, interact and collect its released Aether Canister. Put it beside an emitter of the Pump & Pay Dark Aether Field Generator trap."},
-      {"title": "Capture the Riverside HVT", "body": "Move the LTG to the plate beneath Riverside's storm cloud. Defend this portal, weaken its HVT until the purple collection cue, then lead it to the Pump & Pay emitter holding the canister. Activate that trap and kill the HVT in its field. Carry the filled canister back to the church machine within the return timer."},
-      {"title": "Prepare and activate the Final Encounter", "body": "Buy armor, perks and weapon upgrades and refill ammunition before interacting with the church machine again. Activating the Final Encounter locks every player inside the church. Bring a useful crowd-control tactical and a support streak you can use indoors."},
-      {"title": "Clear all three church waves", "body": "Kill the first zombie wave, then the wave featuring HVT Manglers, then the final wave with HVT Manglers and Abominations. Take the armor and ammunition drops between waves. Once the machine is charged and the last HVTs are defeated, the team is forced into Last Stand and the ending plays.", "tip": "The forced down after the completed third wave is part of the ending. Do not quit when it happens."}
+    "requirements": [
+      "Standard or Directed Mode.",
+      "Jet Gun; see its weapon guide on this map",
+      "Church / Dark Aether opened",
+      "Points to activate two Dark Aether Field Generator traps",
+      "A prepared loadout for three locked-room waves"
     ],
-    "sources": [{"title": "r/CODZombies community breakdown: Liberty Falls main quest", "url": "https://www.reddit.com/r/CODZombies/wiki/liberty-falls/"}, {"title": "Community main-quest guide: 90-second returns and LTG pickup", "url": "https://www.reddit.com/r/BlackOps6Zombies/comments/1gc5p90/liberty_falls_main_quest_easter_egg_guide/"}, {"title": "Community clarification of Strauss Counter colors", "url": "https://www.reddit.com/r/CODZombies/comments/1gl5ip3/just_finished_liberty_falls_easter_egg_solo/"}],
-    "checked": "2026-10-13"
+    "reward": "Ending and completion XP/calling card. Standard also unlocks the Ray Gun PJ-SRU cosmetic; Directed does not. The early calling-card window ended November 14, 2024. Continue for in-match loot and all perks.",
+    "steps": [
+      {
+        "title": "Speak to Panos in the church",
+        "body": "Open the church's Dark Aether barrier and interact with the machine on its right wall. Wait through Panos's introduction. Build or obtain the Jet Gun before collecting the next parts; Pack-a-Punch is already available in the church."
+      },
+      {
+        "title": "Suck up all three LTG parts",
+        "body": "Use the Jet Gun's primary suction on the floating part in the church balcony near Panos, the part in Olly's Comics' broken ceiling above its central counter, and the part inside Buzz's Cuts' second-floor window on Washington Avenue. For the barber window, climb onto the nearby truck from the rooftop and aim suction through the opening."
+      },
+      {
+        "title": "Build the LTG on the bank rooftop",
+        "body": "Use a zipline to reach the bank roof, The Alamo. Assemble the LTG at the rooftop workbench and pick it up. Return to the church machine and take the first Aether Canister."
+      },
+      {
+        "title": "Place the canister inside a trap's collection field",
+        "body": "Carry the canister to the Hill Street / Washington Avenue Dark Aether Field Generator trap. Set it directly beside one of the trap's small emitters on the ground, inside the area that turns purple when the trap runs. The canister reduces your movement while carried."
+      },
+      {
+        "title": "Defend the Cemetery portal and keep its HVT alive",
+        "body": "Place the LTG on the circular plate beneath the storm cloud in the Cemetery. Activate it and protect the portal until the defense timer ends, targeting the purple-glowing zombies running toward it. The successful defense produces an HVT. Damage that HVT until it flashes/glows purple and Panos says its energy is ready, but do not kill it.",
+        "tip": "If the portal defense fails, retry next round. If a summoned HVT dies or a filled-canister return fails, use that LTG next round to summon another; a completed portal-defense stage need not be repeated."
+      },
+      {
+        "title": "Capture the first HVT and return within 90 seconds",
+        "body": "Lead the weakened HVT to the canister's emitter. Activate the Dark Aether Field Generator and kill the HVT while it is inside that same purple field. When its energy enters the canister, pick the canister up and return it to the church machine within 90 seconds. Collect the Strauss Counter from the machine when the dialogue finishes.",
+        "tip": "Pick the LTG back up from the Cemetery after the capture; you need the same device at the other portal."
+      },
+      {
+        "title": "Calibrate all three projectors",
+        "body": "Find the projectors in the grass at Hilltop Stairs, in Groundskeeper's Yard, and on Yummy Freeze's low roof reached by dropping from The Alamo. At each projector, hold the Strauss Counter to read that spot's energy. Set the projector to the opposite color: Counter red / High → projector green; Counter green / Low → projector red; Counter yellow / Medium → projector yellow. Interact to cycle each projector's light.",
+        "tip": "Documented setting rule: High→green, Medium→yellow, Low→red. Later builds have reports of the large bulb glow disagreeing with the small setting indicator. Check the indicator and wait for beam confirmation. If one red/green arrangement never links, try the opposite red/green setting at that site; keep yellow at yellow. No official patch note located confirms a rule change."
+      },
+      {
+        "title": "Collect the second canister at spawn",
+        "body": "Correct projector settings send three beams into the device by Pump & Pay. Return there, interact and collect its released Aether Canister. Put it beside an emitter of the Pump & Pay Dark Aether Field Generator trap."
+      },
+      {
+        "title": "Capture the Riverside HVT",
+        "body": "Move the LTG to the plate beneath Riverside's storm cloud. Defend this portal, weaken its HVT until the purple collection cue, then lead it to the Pump & Pay emitter holding the canister. Activate that trap and kill the HVT in its field. Carry the filled canister back to the church machine within the return timer.",
+        "tip": "The same LTG is reused. Either storm portal can be handled first; this route uses Cemetery, then Riverside."
+      },
+      {
+        "title": "Prepare and activate the Final Encounter",
+        "body": "Buy armor, perks and weapon upgrades and refill ammunition before interacting with the church machine again. Activating the Final Encounter locks every player inside the church. Bring a useful crowd-control tactical and a support streak you can use indoors."
+      },
+      {
+        "title": "Clear all three church waves",
+        "body": "Kill the first zombie wave, then the wave featuring HVT Manglers, then the final wave with HVT Manglers and Abominations. Take the armor and ammunition drops between waves. Once the machine is charged and the last HVTs are defeated, the team is forced into Last Stand and the ending plays.",
+        "tip": "The forced down after the completed third wave is part of the ending. Do not quit when it happens. Choose Continue if you want to collect the post-quest loot and all-perks reward in this match."
+      }
+    ],
+    "sources": [
+      {
+        "title": "r/CODZombies community breakdown: Liberty Falls main quest",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/liberty-falls/"
+      },
+      {
+        "title": "Community main-quest guide: 90-second returns and LTG pickup",
+        "url": "https://www.reddit.com/r/BlackOps6Zombies/comments/1gc5p90/liberty_falls_main_quest_easter_egg_guide/"
+      },
+      {
+        "title": "Community clarification of Strauss Counter colors",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1gl5ip3/just_finished_liberty_falls_easter_egg_solo/"
+      },
+      {
+        "title": "Firsthand r/CODZombies discussion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1gty41z/"
+      },
+      {
+        "title": "Firsthand r/CODZombies discussion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1nsyebz/"
+      },
+      {
+        "title": "Firsthand r/CODZombies discussion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1gu6ws0/"
+      },
+      {
+        "title": "Illustrated creator route",
+        "url": "https://www.callofduty.com/patchnotes/2025/10/call-of-duty-black-ops-6-season-06-patch-notes?pubDate=20251009"
+      },
+      {
+        "title": "Official BO6 Season 1 patch notes",
+        "url": "https://www.callofduty.com/patchnotes/2024/11/call-of-duty-black-ops-6-season-01-patch-notes"
+      }
+    ],
+    "checked": "2026-10-16",
+    "relatedGuideIds": [
+      "bo6-liberty-falls-jet-gun",
+      "bo6-liberty-falls-community-liberty-falls-key-map-features-pack-a-punch"
+    ]
   },
   {
     "id": "bo6-liberty-falls-music",
@@ -472,15 +609,40 @@
     "difficulty": "Easy",
     "players": "1–4 players",
     "summary": "Activate three pairs of Mister Peeks headphones to start the hidden song.",
-    "requirements": ["Access to Washington Avenue and the church"],
-    "reward": "The map's hidden song plays for the match",
-    "steps": [
-      {"title": "Activate the motel-alley headphones", "body": "Check the ground in the alley behind the Motor Lodge. Find the blue Mister Peeks headphones beside the fence and hold interact on them until you hear the confirmation sound."},
-      {"title": "Activate the Washington Avenue headphones", "body": "On Washington Avenue, look beneath the bench near the street's stairs. Hold interact on the headphones underneath it."},
-      {"title": "Activate the church headphones", "body": "Inside the Dark Aether church, check the pews for the final headphones and hold interact. Once all three have been activated, Destroy Something Beautiful starts. The three pickups can be done in any order."}
+    "requirements": [
+      "Standard Mode.",
+      "Access to Washington Avenue and the church"
     ],
-    "sources": [{"title": "r/CODZombies community breakdown: headphone locations", "url": "https://www.reddit.com/r/CODZombies/wiki/liberty-falls/"}],
-    "checked": "2026-10-13"
+    "reward": "Destroy Something Beautiful plays after all three headphone interactions; no weapon charm is promised.",
+    "steps": [
+      {
+        "title": "Activate the motel-alley headphones",
+        "body": "Check the ground in the alley behind the Motor Lodge. Find the blue Mister Peeks headphones beside the fence and hold interact on them until you hear the confirmation sound."
+      },
+      {
+        "title": "Activate the Washington Avenue headphones",
+        "body": "On Washington Avenue, look beneath the bench near the street's stairs. Hold interact on the headphones underneath it."
+      },
+      {
+        "title": "Activate the church headphones",
+        "body": "Inside the Dark Aether church, check the pews for the final headphones and hold interact. Once all three have been activated, Destroy Something Beautiful starts. The three pickups can be done in any order."
+      }
+    ],
+    "sources": [
+      {
+        "title": "r/CODZombies community breakdown: headphone locations",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/liberty-falls/"
+      },
+      {
+        "title": "Illustrated creator route",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3360024093"
+      },
+      {
+        "title": "Official BO6 Season 1 patch notes",
+        "url": "https://www.callofduty.com/patchnotes/2024/11/call-of-duty-black-ops-6-season-01-patch-notes"
+      }
+    ],
+    "checked": "2026-10-16"
   },
   {
     "id": "bo6-liberty-falls-bowling",
@@ -490,17 +652,100 @@
     "difficulty": "Easy",
     "players": "1–4 players",
     "summary": "Find five pairs of bowling shoes, then bowl at zombies for loot and the 300-point challenge.",
-    "requirements": ["A bullet weapon", "Access to Hill Street, Cemetery and bowling-alley exterior"],
-    "reward": "Loot based on score; 300 points earns the Strike! challenge / Deadwood achievement",
-    "steps": [
-      {"title": "Shoot the shoes at Pump & Pay and Riverside", "body": "From below the rooftop spawn, look through the Pump & Pay gas-station window and shoot the shoes inside. At Riverside, look through the shop window across from Olly's Comics and shoot the pair inside. Each pair disappears when correctly hit."},
-      {"title": "Shoot the Hill Street and funeral-home shoes", "body": "On Hill Street, look through the zombie window beside the AK-74 wall buy for the next pair. Outside Liberty Lanes, look through the funeral-home window and shoot the shoes resting inside."},
-      {"title": "Shoot the shoes hanging beyond the Cemetery", "body": "Near the Cemetery's Tier III armor wall buy, look out toward the tree beyond the fence. Shoot the shoes hanging from that tree. With all five pairs hit, the match transports the team into the bowling scene."},
-      {"title": "Charge bowling balls and hit groups of zombies", "body": "Take a bowling ball and hold its throw to charge it. Aim down the lanes at groups of zombies, then release. Keep taking and throwing balls until the minigame timer ends. Higher scores improve the reward chest; score at least 300 in a single game for the special challenge."},
-      {"title": "Replay after five rounds", "body": "After at least five rounds have passed since the last game, go to the zombie window next to Liberty Lanes' pool table. Shoot the shoes sitting in the toilet inside that window to trigger another game; you do not need to reshoot the original five pairs."}
+    "requirements": [
+      "Standard Mode.",
+      "A bullet weapon",
+      "Access to Hill Street, Cemetery and bowling-alley exterior"
     ],
-    "sources": [{"title": "r/CODZombies community breakdown: bowling and replay shoe", "url": "https://www.reddit.com/r/CODZombies/wiki/liberty-falls/"}],
-    "checked": "2026-10-13"
+    "reward": "Score-based loot; 300 in one game unlocks Strike! and the Deadwood achievement/trophy.",
+    "steps": [
+      {
+        "title": "Shoot the shoes at Pump & Pay and Riverside",
+        "body": "From below the rooftop spawn, look through the Pump & Pay gas-station window and shoot the shoes inside. At Riverside, look through the shop window across from Olly's Comics and shoot the pair inside. Each pair disappears when correctly hit.",
+        "images": [
+          {
+            "src": "./assets/bo6-batch2-liberty-falls-bowling-shoes-pump-and-pay.webp",
+            "alt": "Pump & Pay counter.",
+            "caption": "Pump & Pay counter.",
+            "credit": "Call of Duty / Activision gameplay; COD:ZG location guide",
+            "source": "https://www.codzombiesguides.com/side-quests/black-ops-6/liberty-falls/mister-peeks-bowling/"
+          },
+          {
+            "src": "./assets/bo6-batch2-liberty-falls-bowling-shoes-riverside.webp",
+            "alt": "Frank’s Hardware shelf opposite Olly’s.",
+            "caption": "Frank’s Hardware shelf opposite Olly’s.",
+            "credit": "Call of Duty / Activision gameplay; COD:ZG location guide",
+            "source": "https://www.codzombiesguides.com/side-quests/black-ops-6/liberty-falls/mister-peeks-bowling/"
+          }
+        ]
+      },
+      {
+        "title": "Shoot the Hill Street and funeral-home shoes",
+        "body": "On Hill Street, look through the zombie window beside the AK-74 wall buy for the next pair. Outside Liberty Lanes, look through the funeral-home window and shoot the shoes resting inside.",
+        "images": [
+          {
+            "src": "./assets/bo6-batch2-liberty-falls-bowling-shoes-hill-street.webp",
+            "alt": "Hill Street: under the armchair.",
+            "caption": "Hill Street: under the armchair.",
+            "credit": "Call of Duty / Activision gameplay; COD:ZG location guide",
+            "source": "https://www.codzombiesguides.com/side-quests/black-ops-6/liberty-falls/mister-peeks-bowling/"
+          },
+          {
+            "src": "./assets/bo6-batch2-liberty-falls-bowling-shoes-west-main-street.webp",
+            "alt": "Funeral home: shoes on the coffin.",
+            "caption": "Funeral home: shoes on the coffin.",
+            "credit": "Call of Duty / Activision gameplay; COD:ZG location guide",
+            "source": "https://www.codzombiesguides.com/side-quests/black-ops-6/liberty-falls/mister-peeks-bowling/"
+          }
+        ]
+      },
+      {
+        "title": "Shoot the shoes hanging beyond the Cemetery",
+        "body": "Near the Cemetery's Tier III armor wall buy, look out toward the tree beyond the fence. Shoot the shoes hanging from that tree. With all five pairs hit, the match transports the team into the bowling scene.",
+        "images": [
+          {
+            "src": "./assets/bo6-batch2-liberty-falls-bowling-shoes-cemetery.webp",
+            "alt": "Cemetery: shoes on the tree branch.",
+            "caption": "Cemetery: shoes on the tree branch.",
+            "credit": "Call of Duty / Activision gameplay; COD:ZG location guide",
+            "source": "https://www.codzombiesguides.com/side-quests/black-ops-6/liberty-falls/mister-peeks-bowling/"
+          }
+        ],
+        "tip": "If the fifth pair is hit during a special-enemy round, finish that round so the bowling scene can start."
+      },
+      {
+        "title": "Charge bowling balls and hit groups of zombies",
+        "body": "Take a bowling ball and hold its throw to charge it. Aim down the lanes at groups of zombies, then release. Keep taking and throwing balls until the minigame timer ends. Higher scores improve the reward chest; score at least 300 in a single game for the special challenge.",
+        "tip": "Your personal score must reach 300 in one minigame. Hold the throw to charge for more penetration; line up several zombies before releasing."
+      },
+      {
+        "title": "Replay after five rounds",
+        "body": "After at least five rounds have passed since the last game, go to the zombie window next to Liberty Lanes' pool table. Shoot the shoes sitting in the toilet inside that window to trigger another game; you do not need to reshoot the original five pairs."
+      }
+    ],
+    "sources": [
+      {
+        "title": "r/CODZombies community breakdown: bowling and replay shoe",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/liberty-falls/"
+      },
+      {
+        "title": "Firsthand r/CODZombies discussion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1gz2w8w/"
+      },
+      {
+        "title": "Illustrated creator route",
+        "url": "https://www.codzombiesguides.com/side-quests/black-ops-6/liberty-falls/mister-peeks-bowling/"
+      },
+      {
+        "title": "Illustrated creator route",
+        "url": "https://www.youtube.com/watch?v=vcFe9Kq5Leo"
+      },
+      {
+        "title": "Official BO6 Season 1 patch notes",
+        "url": "https://www.callofduty.com/patchnotes/2024/11/call-of-duty-black-ops-6-season-01-patch-notes"
+      }
+    ],
+    "checked": "2026-10-16"
   },
   {
     "id": "bo6-liberty-falls-raining-zombies",
@@ -510,14 +755,62 @@
     "difficulty": "Easy",
     "players": "1–4 players",
     "summary": "Blow up the hidden head on the church to make dead zombies rain onto its forecourt.",
-    "requirements": ["An explosive weapon or frag grenade", "Access to the church forecourt"],
-    "reward": "A brief raining-zombies scene with randomized loot",
-    "steps": [
-      {"title": "Find the head on the left church spire", "body": "Stand outside facing the church entrance and look up to its left spire. A head rests near the top. Hit that head with explosive damage: aim a launcher at it or place a cooked frag explosion beside it.", "tip": "The nearby skull that awards Insta-Kill is a separate egg. This target needs an explosion."},
-      {"title": "Collect the falling loot", "body": "When the head is destroyed, dead zombies begin falling around the church forecourt and parking area. Move around to collect their loot while avoiding any live zombies still in the match. Reward contents vary."}
+    "requirements": [
+      "Standard Mode.",
+      "An explosive weapon or frag grenade",
+      "Access to the church forecourt"
     ],
-    "sources": [{"title": "Destructoid: Make It Rain target and trigger", "url": "https://www.destructoid.com/how-to-complete-make-it-rain-in-black-ops-6-bo6-liberty-falls-easter-egg/"}, {"title": "Community Easter egg hub: explosive head versus Insta-Kill skull", "url": "https://www.reddit.com/r/CODZombies/comments/1ga924b/liberty_falls_easter_egg_hunt_general_map/"}],
-    "checked": "2026-10-13"
+    "reward": "One round-scaled Aether Tool, plus random Essence, salvage and equipment.",
+    "steps": [
+      {
+        "title": "Find the head on the left church spire",
+        "body": "Stand outside facing the church entrance and look up to its left spire. A head rests near the top. Hit that head with explosive damage: aim a launcher at it or place a cooked frag explosion beside it.",
+        "tip": "The nearby skull that awards Insta-Kill is a separate egg. This target needs an explosion.",
+        "images": [
+          {
+            "src": "./assets/bo6-batch2-liberty-falls-raining-zombies.webp",
+            "alt": "Explosive target on the left church spire; separate from the Insta-Kill skull.",
+            "caption": "Explosive target on the left church spire; separate from the Insta-Kill skull.",
+            "credit": "Call of Duty / Activision gameplay; COD:ZG location guide",
+            "source": "https://www.codzombiesguides.com/side-quests/black-ops-6/liberty-falls/raining-zombies/"
+          }
+        ]
+      },
+      {
+        "title": "Collect the falling loot",
+        "body": "When the head is destroyed, dead zombies begin falling around the church forecourt and parking area. Move around to collect their loot while avoiding any live zombies still in the match. Reward contents vary. The event provides one Aether Tool: Uncommon on rounds 1–9, Rare on 10–24, and Epic on 25+. Only one player can take that tool; the other drops vary."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Destructoid: Make It Rain target and trigger",
+        "url": "https://www.destructoid.com/how-to-complete-make-it-rain-in-black-ops-6-bo6-liberty-falls-easter-egg/"
+      },
+      {
+        "title": "Community Easter egg hub: explosive head versus Insta-Kill skull",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1ga924b/liberty_falls_easter_egg_hunt_general_map/"
+      },
+      {
+        "title": "Firsthand r/CODZombies discussion",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/liberty-falls/"
+      },
+      {
+        "title": "Illustrated creator route",
+        "url": "https://www.codzombiesguides.com/side-quests/black-ops-6/liberty-falls/raining-zombies/"
+      },
+      {
+        "title": "Firsthand r/CODZombies discussion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1hpvcyv/"
+      },
+      {
+        "title": "Official BO6 Season 1 patch notes",
+        "url": "https://www.callofduty.com/patchnotes/2024/11/call-of-duty-black-ops-6-season-01-patch-notes"
+      }
+    ],
+    "checked": "2026-10-16",
+    "relatedGuideIds": [
+      "bo6-liberty-falls-community-liberty-falls-key-map-features-pack-a-punch"
+    ]
   },
   {
     "id": "bo6-liberty-falls-aetherella",
@@ -525,20 +818,63 @@
     "title": "World Domination: become Aetherella",
     "category": "side",
     "difficulty": "Medium",
-    "players": "1–4 players; transformation goes to the collecting player",
+    "players": "1–4 players; the final collector transforms",
     "summary": "Suck up all nine miniature Aetherella figures using the Jet Gun to become the laser-firing superhero.",
-    "requirements": ["Thrustodyne M23 / Jet Gun", "Access to the bank and Yummy Freeze rooftops"],
+    "requirements": [
+      "Standard Mode.",
+      "Thrustodyne M23 / Jet Gun",
+      "Access to the bank and Yummy Freeze rooftops"
+    ],
     "reward": "Temporary Aetherella transformation; get a kill for World Domination",
     "steps": [
-      {"title": "Collect four figures inside Olly's Comics", "body": "Use Jet Gun suction on the four miniature dolls: on the display table, above Quick Revive, beside a boarded window, and on the shelf to the left of the large Aetherella trap statue. Check that each small figure is actually pulled in."},
-      {"title": "Collect the Motor Lodge figure", "body": "From the street outside the Motor Lodge, look up at the ledge/sign area on the right side of the building and suck in its small Aetherella figure."},
-      {"title": "Collect the Liberty Lanes sign figure", "body": "Climb onto the bus on West Main Street, face Liberty Lanes' sign, and suck up the figure resting on the sign's ledge."},
-      {"title": "Collect the church figure", "body": "Stand outside the church and aim at the miniature figure on its front windowsill. Use primary suction until the doll flies into the Jet Gun."},
-      {"title": "Collect the Hill Street air-conditioner figure", "body": "Use the Washington Avenue / bank rooftop access for a high angle on the side of the Hill Street building. Aim at the small figure standing on the air-conditioning unit and pull it in."},
-      {"title": "Collect the Fast Forward rooftop figure", "body": "From the bank roof, open the drop-down barrier and reach the lower Yummy Freeze roof. Face the neighboring Fast Forward building and suck up the doll on its rooftop equipment. If this is your ninth figure, the transformation triggers immediately.", "tip": "Save the ninth doll until you want to use the transformation. Get at least one kill while transformed for the achievement."}
+      {
+        "title": "Collect four figures inside Olly's Comics",
+        "body": "Use Jet Gun primary suction on four miniatures inside Olly’s Comics: the corner to the right of Quick Revive; the boarded window to its left; the shelf above Quick Revive; and the shelf left of the large Aetherella trap. Confirm each doll is pulled in."
+      },
+      {
+        "title": "Collect the Motor Lodge figure",
+        "body": "From East Main Street, look at the Motor Lodge’s large MOTEL sign and collect the miniature on top of the M with primary suction."
+      },
+      {
+        "title": "Collect the Liberty Lanes sign figure",
+        "body": "Climb onto the bus on West Main Street, face Liberty Lanes' sign, and suck up the figure resting on the sign's ledge."
+      },
+      {
+        "title": "Collect the church figure",
+        "body": "Face the church entrance from outside. Collect the figure on a front windowsill above and to the right of the doorway."
+      },
+      {
+        "title": "Collect the Hill Street air-conditioner figure",
+        "body": "Climb to Washington Avenue Rooftops near the LR 7.62 wall buy. Face the opposite building and pull in the figure on its wall-mounted air conditioner. The higher angle gets you within suction range."
+      },
+      {
+        "title": "Collect the Fast Forward rooftop figure",
+        "body": "From the bank roof, open the drop-down barrier and reach the lower Yummy Freeze roof. Face the neighboring Fast Forward building and suck up the doll on its rooftop equipment. If this is your ninth figure, the transformation triggers immediately.",
+        "tip": "Save the ninth doll until you want to use the transformation. Get at least one kill while transformed for the achievement. The final collector transforms. Activating the large Aetherella trap in Olly’s while transformed gives a speed boost. This is a temporary, one-use transformation."
+      }
     ],
-    "sources": [{"title": "r/CODZombies community breakdown: all nine Aetherella locations", "url": "https://www.reddit.com/r/CODZombies/wiki/liberty-falls/"}],
-    "checked": "2026-10-13"
+    "sources": [
+      {
+        "title": "r/CODZombies community breakdown: all nine Aetherella locations",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/liberty-falls/"
+      },
+      {
+        "title": "Illustrated creator route",
+        "url": "https://www.codzombiesguides.com/side-quests/black-ops-6/liberty-falls/aetherella-superhero/"
+      },
+      {
+        "title": "Firsthand r/CODZombies discussion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1godejd/"
+      },
+      {
+        "title": "Official BO6 Season 1 patch notes",
+        "url": "https://www.callofduty.com/patchnotes/2024/11/call-of-duty-black-ops-6-season-01-patch-notes"
+      }
+    ],
+    "checked": "2026-10-16",
+    "relatedGuideIds": [
+      "bo6-liberty-falls-jet-gun"
+    ]
   },
   {
     "id": "bo6-liberty-falls-bank-vault",
@@ -548,17 +884,50 @@
     "difficulty": "Easy",
     "players": "1–4 players",
     "summary": "Find a match-specific combination across three businesses, then open the bank's reward lockers.",
-    "requirements": ["Access to Savings & Loan, Olly's Comics and Fuller's Liberty Lanes", "Loot Keys from special or elite kills to open lockers"],
-    "reward": "Timed access to loot lockers; contents depend on key rarity",
-    "steps": [
-      {"title": "Record the bank's first number", "body": "Inside Savings & Loan, inspect the sticky note on the front reception counter. Copy its two-digit number; it occupies the first position of the three-part vault code."},
-      {"title": "Record the comics shop's middle number", "body": "In Olly's Comics, crouch behind the counter and inspect the note below the cash register. Its two-digit number is the middle part of the combination."},
-      {"title": "Reveal the bowling alley's last number", "body": "At Liberty Lanes' concession counter, shoot the bucket of bottles to uncover the sticky note underneath. Its number is the final part of the combination."},
-      {"title": "Enter the combination in order", "body": "Interact with the bank vault door and enter bank → comics → bowling. The actual numbers change per match. Open the vault when the correct three values are selected.", "tip": "The door allows three attempts per round. If locked out, advance a round and recheck your notes."},
-      {"title": "Open lockers with Loot Keys", "body": "Pick up Loot Keys dropped by Manglers, Abominations and other qualifying enemies. Enter the vault, interact with a locker and spend your carried key. Collect the contents before the vault's access timer runs out; return on a later entry if you have more keys."}
+    "requirements": [
+      "Standard or Directed Mode.",
+      "Access to Savings & Loan, Olly's Comics and Fuller's Liberty Lanes",
+      "Loot Keys from special or elite kills to open lockers"
     ],
-    "sources": [{"title": "r/CODZombies community breakdown: vault notes and key use", "url": "https://www.reddit.com/r/CODZombies/wiki/liberty-falls/"}],
-    "checked": "2026-10-13"
+    "reward": "Timed access to randomized loot lockers; higher-rarity keys improve the reward pool.",
+    "steps": [
+      {
+        "title": "Record the bank's first number",
+        "body": "Inside Savings & Loan, inspect the sticky note on the front reception counter. Copy its two-digit number; it occupies the first position of the three-part vault code."
+      },
+      {
+        "title": "Record the comics shop's middle number",
+        "body": "In Olly's Comics, crouch behind the counter and inspect the note below the cash register. Its two-digit number is the middle part of the combination."
+      },
+      {
+        "title": "Reveal the bowling alley's last number",
+        "body": "At Liberty Lanes' concession counter, shoot the bucket of bottles to uncover the sticky note underneath. Its number is the final part of the combination."
+      },
+      {
+        "title": "Enter the combination in order",
+        "body": "Interact with the bank vault door and enter bank → comics → bowling. The actual numbers change per match. Open the vault when the correct three values are selected.",
+        "tip": "The door allows three attempts per round. If locked out, advance a round and recheck your notes."
+      },
+      {
+        "title": "Open lockers with Loot Keys",
+        "body": "Pick up Loot Keys dropped by Manglers, Abominations and other qualifying enemies. Enter the vault, interact with a locker and spend your carried key. Collect the contents before the vault's access timer runs out; return on a later entry if you have more keys."
+      }
+    ],
+    "sources": [
+      {
+        "title": "r/CODZombies community breakdown: vault notes and key use",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/liberty-falls/"
+      },
+      {
+        "title": "Firsthand r/CODZombies discussion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1gb5u6s/"
+      },
+      {
+        "title": "Official BO6 Season 1 patch notes",
+        "url": "https://www.callofduty.com/patchnotes/2024/11/call-of-duty-black-ops-6-season-01-patch-notes"
+      }
+    ],
+    "checked": "2026-10-16"
   },
   {
     "id": "bo6-terminus-beamsmasher",
@@ -568,21 +937,83 @@
     "difficulty": "Medium",
     "players": "1–4 players; one crafted weapon pickup",
     "summary": "Open the Research Office with Dead Wire, tune the resonator and complete the three island-orb trials.",
-    "requirements": ["All three AMP generators active", "Pack-a-Punch lift raised", "Dead Wire ammo mod on a firearm", "5,000 Essence if buying Peck's code instead of solving the board"],
+    "requirements": [
+      "Standard or Directed Mode.",
+      "All three AMP generators active",
+      "Pack-a-Punch lift raised",
+      "Dead Wire ammo mod on a firearm",
+      "5,000 Essence if buying Peck's code instead of solving the board"
+    ],
     "reward": "DRI-11 Beamsmasher, needed to extract the main quest Hard Drive",
     "steps": [
-      {"title": "Activate all three symbol laptops", "body": "Power the map, then turn on the laptops outside Interrogation / Storage, outside Communications near Stamin-Up, and on the dock-side walkway beneath Sea Tower. Each laptop displays a symbol used by the Research Office code puzzle."},
-      {"title": "Shoot the three lift electrical boxes in sequence", "body": "Put Dead Wire on a gun. Ride the Pack-a-Punch lift upward from Bio Lab. Through the right-hand window beside the lift controls, shoot the first electrical box. Turn right and shoot the next box where the electricity runs along the shaft wall, then shoot the third box at the upper landing behind Pack-a-Punch. Follow the sparks so each shot continues the same circuit."},
-      {"title": "Finish the circuit at Living Quarters", "body": "Shoot the electrical box high inside Living Quarters above the AMP generator, then the final box on the building's outside corner to the left of its entrance. The Research Office beside Living Quarters opens. Kill the zombie pinned beneath debris inside and take its EMF Fob."},
-      {"title": "Get and install the Multiphasic Resonator", "body": "Use the EMF Fob on the hand-clasped briefcase in Sea Tower and take the Multiphasic Resonator. Put it into the oscillator computer in Research Office, then interact with that computer so the three symbol sticky notes appear."},
-      {"title": "Enter the oscillator code", "body": "For a direct route, visit Peck at the Guard Station and pay 5,000 Essence when he offers the code, record the three values he provides, then enter them into the Research Office computer. Alternatively, map the X, Y and Z sticky-note symbols to their values on the room's whiteboard and calculate: first value = 2×X+11; second = 2×Z+Y−5; third = absolute value of Y+Z−X.", "tip": "If the machine locks you out after a wrong or slow input, wait for the next round before retrying."},
-      {"title": "Wait until the resonator is ready", "body": "After a correct code, wait until the computer announces its target island and lets you take the tuned resonator. If you started early, this becomes available at round 9; at round 9 or later, advance another round. Pick up the resonator and take a boat to Castle Rock Island on the east side of the map."},
-      {"title": "Feed the blue orb at Castle Rock", "body": "Place the resonator beneath the blue orb. Let the orb zap a zombie, then kill that marked zombie. Interact with the small energy orb it drops and carry it into the large orb. Repeat until the orb finishes charging and moves on. Pick the resonator back up before leaving.", "tip": "A very close marked kill may feed the orb directly. If the trial disappears after a missed energy pickup, advance a round and restart that island's trial."},
-      {"title": "Repeat at Crab Island and Temple Island", "body": "Take the resonator to the green orb on Crab Island in the south, then the purple orb on Temple Island in the northwest. Repeat the zap-marked-zombie, kill and energy-delivery process at both. Stay on the island until each trial completes. The final purple trial drops AMP Munition; take it."},
-      {"title": "Build the weapon in Research Office", "body": "Return to the Research Office workbench with AMP Munition and interact to assemble the Beamsmasher. Its primary beam retrieves the main-quest Hard Drive from the correct active Tentacle Trap; the alternate attack slows targets."}
+      {
+        "title": "Activate all three symbol laptops",
+        "body": "Power the map. Interact with each military laptop beside a small radar tripod: down the stairs outside Quick Revive / Interrogation; at the stair landing near the Stamin-Up / Control Center route toward Communications; and on the walkway above the Docks near the Sea Tower stairs. Each powers on and displays a puzzle symbol; order is flexible."
+      },
+      {
+        "title": "Shoot the three lift electrical boxes in sequence",
+        "body": "Put Dead Wire on a gun. Ride the Pack-a-Punch lift upward from Bio Lab. Through the right-hand window beside the lift controls, shoot the first electrical box. Turn right and shoot the next box where the electricity runs along the shaft wall, then shoot the third box at the upper landing behind Pack-a-Punch. Follow the sparks so each shot continues the same circuit."
+      },
+      {
+        "title": "Finish the circuit at Living Quarters",
+        "body": "Shoot the electrical box high inside Living Quarters above the AMP generator, then the final box on the building's outside corner to the left of its entrance. The Research Office beside Living Quarters opens. Kill the zombie pinned beneath debris inside and take its EMF Fob."
+      },
+      {
+        "title": "Get and install the Multiphasic Resonator",
+        "body": "Use the EMF Fob on the hand-clasped briefcase in Sea Tower and take the Multiphasic Resonator. Put it into the oscillator computer in Research Office, then interact with that computer so the three symbol sticky notes appear."
+      },
+      {
+        "title": "Enter the oscillator code",
+        "body": "For a direct route, visit Peck at the Guard Station and pay 5,000 Essence when he offers the code, record the three values he provides, then enter them into the Research Office computer. Alternatively, map the X, Y and Z sticky-note symbols to their values on the room's whiteboard and calculate: first value = 2×X+11; second = 2×Z+Y−5; third = absolute value of Y+Z−X.",
+        "tip": "Read the symbol’s row digit first (tens), then its column digit (ones). For example row 2, column 1 means 21. The third expression uses absolute value: convert a negative result to positive. A wrong/slow input can lock the machine until the next round."
+      },
+      {
+        "title": "Wait until the resonator is ready",
+        "body": "After a correct code, wait until the computer announces its target island and lets you take the tuned resonator. If you started early, this becomes available at round 9; at round 9 or later, advance another round. Pick up the resonator and take a boat to Castle Rock Island on the east side of the map."
+      },
+      {
+        "title": "Feed the blue orb at Castle Rock",
+        "body": "Place the resonator beneath the blue orb. Let the orb zap a zombie, then kill that marked zombie. Interact with the small energy orb it drops and carry it into the large orb. Repeat until the orb finishes charging and moves on. Pick the resonator back up before leaving.",
+        "tip": "A very close marked kill may feed the orb directly. If the trial disappears after a missed energy pickup, advance a round and restart that island's trial."
+      },
+      {
+        "title": "Repeat at Crab Island and Temple Island",
+        "body": "Take the resonator to the green orb on Crab Island in the south, then the purple orb on Temple Island in the northwest. Repeat the zap-marked-zombie, kill and energy-delivery process at both. Stay on the island until each trial completes. The final purple trial drops AMP Munition; take it."
+      },
+      {
+        "title": "Build the weapon in Research Office",
+        "body": "Return to the Research Office workbench with AMP Munition and interact to assemble the Beamsmasher. Its primary beam retrieves the main-quest Hard Drive from the correct active Tentacle Trap; the alternate attack slows targets.",
+        "tip": "Pack-a-Punch upgrades the weapon through tiers I–III; Arsenal rarity and ammo mods do not apply. The free build gives one weapon pickup; further weapons come from reward/box opportunities."
+      }
     ],
-    "sources": [{"title": "r/CODZombies community breakdown: Beamsmasher and equations", "url": "https://www.reddit.com/r/CODZombies/wiki/terminus/"}, {"title": "Community detailed Beamsmasher guide: circuit and trial recovery", "url": "https://www.reddit.com/r/CODZombies/comments/1ge0t9w/detailed_text_video_guide_to_the_beam_smasher/"}],
-    "checked": "2026-10-13"
+    "sources": [
+      {
+        "title": "r/CODZombies community breakdown: Beamsmasher and equations",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/terminus/"
+      },
+      {
+        "title": "Community detailed Beamsmasher guide: circuit and trial recovery",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1ge0t9w/detailed_text_video_guide_to_the_beam_smasher/"
+      },
+      {
+        "title": "Firsthand r/CODZombies discussion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1ge0t9w/"
+      },
+      {
+        "title": "Firsthand r/CODZombies discussion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1gd29h7/"
+      },
+      {
+        "title": "Official BO6 Season 1 patch notes",
+        "url": "https://www.callofduty.com/patchnotes/2024/11/call-of-duty-black-ops-6-season-01-patch-notes"
+      }
+    ],
+    "checked": "2026-10-16",
+    "relatedGuideIds": [
+      "bo6-terminus-community-terminus-key-map-features-pack-a-punch",
+      "bo6-terminus-main",
+      "bo6-terminus-peck-refund"
+    ]
   },
   {
     "id": "bo6-terminus-main",
@@ -592,25 +1023,113 @@
     "difficulty": "Hard",
     "players": "1–4 players",
     "summary": "Find Nathan, repair the island network, complete two timed objectives and defeat Patient 13.",
-    "requirements": ["Three AMP generators activated and Bio Lab Pack-a-Punch lift raised", "DRI-11 Beamsmasher; see its build guide on this map", "A boat", "Crowd-control equipment ready before hacking the buoys"],
-    "reward": "Terminus main-quest ending and completion rewards for your selected mode",
-    "steps": [
-      {"title": "Extract the Hard Drive from the damaged trap", "body": "Inspect the Tentacle Traps in Holding Cells, Living Quarters and at both Bio Lab exits. Find the one with the damaged grate and Project Janus keycard/debris underneath. Activate it, then fire the Beamsmasher's primary beam at its hanging tentacles until a Hard Drive drops. Pick it up and deliver it to the slot beneath Peck and Strauss's Guard Station window.", "tip": "Crouch beneath the active trap while collecting the drive. The slowing alternate fire does not substitute for the primary beam."},
-      {"title": "Find Nathan's three-digit code", "body": "Interact with the pod in the middle of Bio Lab to reveal Nathan. Find the code in this order: the hour hand of the clock behind the Interrogation Room barrier; the number on the Mess Hall bulletin-board playing card, with Ace meaning 1; and the number on Engineering's days-since-last-incident sign. Enter those three digits on Nathan's keypad.", "tip": "Read the clock's hour, not its minute hand. If the hour hand sits between 7 and 8, use 7."},
-      {"title": "Release and defeat Nathan", "body": "Prepare your weapon, armor and field upgrade. In co-op, every player turns a valve on Nathan's pod together; in solo, use the available interaction. Fight the Amalgam Nathan while staying mobile and clearing nearby zombies. Keep pressure on him so he has fewer chances to recover health from zombies. After the scene, dive into the Bio Lab water below his body and collect the keycard."},
-      {"title": "Discover the cut connection", "body": "Visit Communications and use the computer showing green text. Peck explains the broken network. Take a boat to the Shipwreck and enter the hole underneath it, then climb the ladder into the keycard-locked room containing two Node Connectors."},
-      {"title": "Survive the Shipwreck lockdown", "body": "Picking up a Node Connector begins a lockdown in the Shipwreck room. Gather teammates before taking it. Clear the spawned enemies until the lockdown ends and the Max Ammo appears, then carry the connectors out. In solo, transport them one at a time."},
-      {"title": "Repair the two missing nodes", "body": "Check the connector housings underneath Sea Tower at the Docks, in Sea Caves, and on Crab Island's beach facing the Shipwreck. Two have an obvious missing connector slot. Install one connector at each missing slot. Return to Peck at the Guard Station and take the Hacking Device when the radio dialogue allows it."},
-      {"title": "Prepare for consecutive timed objectives", "body": "Before hacking anything, refill armor and ammunition and prepare Decoys, Monkey Bombs, smoke or Aether Shroud for bomb defusal. Find the three satellite buoys: north by the boss arena, east near Castle Rock Island, and south between Crab Island and the Shipwreck. Plan a boat circuit ending close to a Bio Lab entrance.", "tip": "In co-op, the player who picked up the Hacking Device must be present; do not assume every teammate can use it."},
-      {"title": "Hack all three buoys within two minutes", "body": "Approach a buoy, clear or avoid its Parasites, and hold interact to hack. The first hack begins the two-minute circuit timer. Boat to the other two and complete their hacks before it expires. The order is flexible. After the third hack, head straight to Bio Lab: the next timer starts immediately."},
-      {"title": "Defuse all three Bio Lab bombs within five minutes", "body": "Three previously sealed bomb recesses open around Bio Lab: two on the lower walkway and one above Melee Macchiato below the double-stair area. Hold interact at each bomb until its defusal completes. Use your prepared distractions or field upgrade to finish safely; release the interaction and loop around if you are getting hit, then resume that bomb. Finish all three before the five-minute timer reaches zero.", "tip": "Timer expiry destroys the island and ends the match. Fully finish one bomb before switching to another; progress behavior can vary with your interaction setting."},
-      {"title": "Prepare and enter Patient 13's arena", "body": "After defusing all three bombs, the timer stops and you can take time to buy perks, weapon upgrades, armor and support. Interact with the final-encounter door beside Melee Macchiato when the team is ready. Bring enough ammunition and points to use the arena's ammo crate."},
-      {"title": "Phase one: shoot the glowing shoulders", "body": "Use the crates as cover and fire at Patient 13's red glowing shoulder weak spots when exposed. Dodge its slams and clear the nearby horde. Once enough health is removed, the boss submerges; survive the enemies and perimeter tentacles until it returns and a Max Ammo appears."},
-      {"title": "Phase two: mouth and upper-arm weak spots", "body": "When the boss returns, shoot the vulnerable mouth during its heated attack state and the glowing weak points on the upper arm/tentacles in its other state. Shots into armored areas do little damage. Keep moving between cover and clear special enemies until it submerges for the second transition."},
-      {"title": "Phase three: survive the charged blue blast", "body": "The final phase reduces your usable arena and adds a huge charged blue energy attack. When energy gathers above the boss and your screen glows blue, get behind the solid crates and break its line of sight. Shoot its glowing eyes during their weak-point windows, then whichever earlier weak spots become exposed. If its tongue grabs you, damage an exposed weak point to escape. Continue until Patient 13 dies and the ending plays.", "tip": "Water can offer a brief escape, but toxic gas can force you back out. Prefer dependable solid cover for the charged blast."}
+    "requirements": [
+      "Standard or Directed Mode.",
+      "Three AMP generators activated and Bio Lab Pack-a-Punch lift raised",
+      "DRI-11 Beamsmasher; see its build guide on this map",
+      "A boat",
+      "Crowd-control equipment ready before hacking the buoys"
     ],
-    "sources": [{"title": "r/CODZombies community breakdown: Terminus main quest", "url": "https://www.reddit.com/r/CODZombies/wiki/terminus/"}, {"title": "Community detailed Terminus walkthrough: buoys, bombs and boss", "url": "https://www.reddit.com/r/CODZombies/comments/1gm7bo9/detailed_text_includes_pictures_video_guide_to/"}, {"title": "COD Zombies Guides: four Hard Drive trap locations", "url": "https://www.codzombiesguides.com/main-quests/black-ops-6/terminus/"}],
-    "checked": "2026-10-13"
+    "reward": "Ending and completion XP/calling card. Standard also unlocks Maya’s Trophy Collector skin; Directed does not. Continue for the in-match reward drops and all perks. The early calling-card window ended November 14, 2024.",
+    "steps": [
+      {
+        "title": "Extract the Hard Drive from the damaged trap",
+        "body": "Inspect the Tentacle Traps in Holding Cells, Living Quarters and at both Bio Lab exits. Find the one with the damaged grate and Project Janus keycard/debris underneath. Activate it, then fire the Beamsmasher's primary beam at its hanging tentacles until a Hard Drive drops. Pick it up and deliver it to the slot beneath Peck and Strauss's Guard Station window.",
+        "tip": "Crouch beneath the active trap while collecting the drive. The slowing alternate fire does not substitute for the primary beam."
+      },
+      {
+        "title": "Find Nathan's three-digit code",
+        "body": "Interact with the pod in the middle of Bio Lab to reveal Nathan. Find the code in this order: the hour hand of the clock behind the Interrogation Room barrier; the number on the Mess Hall bulletin-board playing card, with Ace meaning 1; and the number on Engineering's days-since-last-incident sign. Enter those three digits on Nathan's keypad.",
+        "tip": "Read the clock's hour, not its minute hand. If the hour hand sits between 7 and 8, use 7."
+      },
+      {
+        "title": "Release and defeat Nathan",
+        "body": "Prepare weapons, armor and field upgrades. In co-op, coordinate the team at separate valves on Nathan’s pod and turn them together; solo uses one interaction. Fight Nathan while clearing nearby zombies. Keep damage on him so he has fewer chances to heal by consuming zombies. After the scene, dive below his body in Bio Lab and collect the keycard."
+      },
+      {
+        "title": "Discover the cut connection",
+        "body": "Visit Communications and use the computer showing green text. Peck explains the broken network. Take a boat to the Shipwreck and enter the hole underneath it, then climb the ladder into the keycard-locked room containing two Node Connectors."
+      },
+      {
+        "title": "Survive the Shipwreck lockdown",
+        "body": "Picking up a Node Connector begins a lockdown in the Shipwreck room. Gather teammates before taking it. Clear the spawned enemies until the lockdown ends and the Max Ammo appears, then carry the connectors out. In solo, transport them one at a time."
+      },
+      {
+        "title": "Repair the two missing nodes",
+        "body": "Check the connector housings underneath Sea Tower at the Docks, in Sea Caves, and on Crab Island's beach facing the Shipwreck. Two have an obvious missing connector slot. Install one connector at each missing slot. Return to Peck at the Guard Station and take the Hacking Device when the radio dialogue allows it."
+      },
+      {
+        "title": "Prepare for consecutive timed objectives",
+        "body": "Before hacking anything, refill armor and ammunition and prepare Decoys, Monkey Bombs, smoke or Aether Shroud for bomb defusal. Find the three satellite buoys: north by the boss arena, east near Castle Rock Island, and south between Crab Island and the Shipwreck. Plan a boat circuit ending close to a Bio Lab entrance.",
+        "tip": "In co-op, the player who picked up the Hacking Device must be present; do not assume every teammate can use it."
+      },
+      {
+        "title": "Hack all three buoys within two minutes",
+        "body": "Approach a buoy, clear or avoid its Parasites, and hold interact to hack. The first hack begins the two-minute circuit timer. Boat to the other two and complete their hacks before it expires. The order is flexible. After the third hack, head straight to Bio Lab: the next timer starts immediately."
+      },
+      {
+        "title": "Defuse all three Bio Lab bombs within five minutes",
+        "body": "Three previously sealed bomb recesses open around Bio Lab: two on the lower walkway and one above Melee Macchiato below the double-stair area. Hold interact at each bomb until its defusal completes. Use your prepared distractions or field upgrade to finish safely; release the interaction and loop around if you are getting hit, then resume that bomb. Finish all three before the five-minute timer reaches zero.",
+        "tip": "Timer expiry destroys the island and ends the match. Fully finish one bomb before switching to another; progress behavior can vary with your interaction setting."
+      },
+      {
+        "title": "Prepare and enter Patient 13's arena",
+        "body": "After defusing all three bombs, the timer stops and you can take time to buy perks, weapon upgrades, armor and support. Interact with the final-encounter door beside Melee Macchiato when the team is ready. Bring enough ammunition and points to use the arena's ammo crate."
+      },
+      {
+        "title": "Phase one: shoot the glowing shoulders",
+        "body": "Use the crates as cover and fire at Patient 13's red glowing shoulder weak spots when exposed. Dodge its slams and clear the nearby horde. Once enough health is removed, the boss submerges; survive the enemies and perimeter tentacles until it returns and a Max Ammo appears."
+      },
+      {
+        "title": "Phase two: mouth and upper-arm weak spots",
+        "body": "When the boss returns, shoot the vulnerable mouth during its heated attack state and the glowing weak points on the upper arm/tentacles in its other state. Shots into armored areas do little damage. Keep moving between cover and clear special enemies until it submerges for the second transition."
+      },
+      {
+        "title": "Phase three: survive the charged blue blast",
+        "body": "The final phase reduces your usable arena and adds a huge charged blue energy attack. When energy gathers above the boss and your screen glows blue, get behind the solid crates and break its line of sight. Shoot its glowing eyes during their weak-point windows, then whichever earlier weak spots become exposed. If its tongue grabs you, damage an exposed weak point to escape. Continue until Patient 13 dies and the ending plays.",
+        "tip": "Water can offer a brief escape, but toxic gas can force you back out. Prefer dependable solid cover for the charged blast. For Terminal, complete the Standard quest after round 50: round 51 or later. Finishing on round 50 is insufficient."
+      }
+    ],
+    "sources": [
+      {
+        "title": "r/CODZombies community breakdown: Terminus main quest",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/terminus/"
+      },
+      {
+        "title": "Community detailed Terminus walkthrough: buoys, bombs and boss",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1gm7bo9/detailed_text_includes_pictures_video_guide_to/"
+      },
+      {
+        "title": "COD Zombies Guides: four Hard Drive trap locations",
+        "url": "https://www.codzombiesguides.com/main-quests/black-ops-6/terminus/"
+      },
+      {
+        "title": "Firsthand r/CODZombies discussion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1gm7bo9/"
+      },
+      {
+        "title": "Firsthand r/CODZombies discussion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1gckuj1/"
+      },
+      {
+        "title": "Firsthand r/CODZombies discussion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1gb1bgg/"
+      },
+      {
+        "title": "Illustrated creator route",
+        "url": "https://www.callofduty.com/patchnotes/2025/10/call-of-duty-black-ops-6-season-06-patch-notes?pubDate=20251009"
+      },
+      {
+        "title": "Official BO6 Season 1 patch notes",
+        "url": "https://www.callofduty.com/patchnotes/2024/11/call-of-duty-black-ops-6-season-01-patch-notes"
+      }
+    ],
+    "checked": "2026-10-16",
+    "relatedGuideIds": [
+      "bo6-terminus-beamsmasher",
+      "bo6-terminus-community-terminus-key-map-features-pack-a-punch",
+      "bo6-terminus-mega-stuffy"
+    ]
   },
   {
     "id": "bo6-terminus-mega-stuffy",
@@ -620,16 +1139,58 @@
     "difficulty": "Easy",
     "players": "1–4 players",
     "summary": "Collect six plush toys and combine them into a companion that shoots enemies and helps revive players.",
-    "requirements": ["Access to Communications, Bio Lab and Mining Tunnels", "A boat for Shipwreck and Crab Island"],
-    "reward": "Mega Stuffy companion for the current match",
-    "steps": [
-      {"title": "Collect the unicorn and monkey", "body": "Interact with the unicorn in the Communications locker beside Stamin-Up. Collect the monkey behind the right-side fence on the bridge between Engineering and Sea Tower."},
-      {"title": "Collect the bear and elephant", "body": "Take the bear from beneath the table near the Bio Lab crafting bench. Find the elephant tucked in a Mining Tunnels corner and interact with it."},
-      {"title": "Collect the duck and giraffe", "body": "Boat to the Shipwreck and take the duck from the red bin beside its Mystery Box location. On Crab Island, collect the giraffe behind the light; crouch if necessary to reach its interaction."},
-      {"title": "Combine the toys in Living Quarters", "body": "Return to Living Quarters and interact with one of the collected toys sitting on the beds. With all six collected, they fly together and form Mega Stuffy. Let the companion follow you around the map.", "tip": "Use interact to collect the toys instead of shooting them for their extra rewards. Mega Stuffy does not accompany you into the final Patient 13 boss arena."}
+    "requirements": [
+      "Standard Mode.",
+      "Access to Control Center, Bio Lab, Mining Tunnels and Living Quarters",
+      "A boat for Shipwreck and Crab Island",
+      "Solo: carry a Self-Revive to enter Last Stand"
     ],
-    "sources": [{"title": "r/CODZombies community breakdown: six plush locations", "url": "https://www.reddit.com/r/CODZombies/wiki/terminus/"}, {"title": "Community Terminus guide: companion boss-arena limitation", "url": "https://www.reddit.com/r/CODZombies/comments/1gm7bo9/detailed_text_includes_pictures_video_guide_to/"}],
-    "checked": "2026-10-13"
+    "reward": "Temporary flying companion that attacks and revives; not a permanent revive guarantee.",
+    "steps": [
+      {
+        "title": "Collect the unicorn and monkey",
+        "body": "Interact with the unicorn inside the slightly open locker immediately left of Stamin-Up in Control Center. Collect the monkey beyond the right fence at the Engineering end of the bridge to Sea Tower."
+      },
+      {
+        "title": "Collect the bear and elephant",
+        "body": "Interact with the bear beneath the Bio Lab workstation/table by the crafting bench. In Mining Tunnels, collect the elephant in the recess left of the GobbleGum machine, partly concealed by a pallet."
+      },
+      {
+        "title": "Collect the duck and giraffe",
+        "body": "At Shipwreck, collect the toy inside the red bin near the Mystery Box site. On Crab Island, collect the giraffe behind the light near the center/crafting-table route; crouch to reach the interaction if needed."
+      },
+      {
+        "title": "Combine the toys in Living Quarters",
+        "body": "Return to Living Quarters and interact with one of the collected toys sitting on the beds. With all six collected, they fly together and form Mega Stuffy. Let the companion follow you around the map.",
+        "tip": "Collect with interact; shooting/punching can damage the toys and lose their extra gifts. Mega Stuffy lasts only a few rounds, can revive nearby downed players, and does not enter the Patient 13 arena. In solo, carry a Self-Revive so a down enters Last Stand instead of ending the match."
+      }
+    ],
+    "sources": [
+      {
+        "title": "r/CODZombies community breakdown: six plush locations",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/terminus/"
+      },
+      {
+        "title": "Community Terminus guide: companion boss-arena limitation",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1gm7bo9/detailed_text_includes_pictures_video_guide_to/"
+      },
+      {
+        "title": "Firsthand r/CODZombies discussion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1gd0jfq/"
+      },
+      {
+        "title": "Firsthand r/CODZombies discussion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1gm7foy/"
+      },
+      {
+        "title": "Official BO6 Season 1 patch notes",
+        "url": "https://www.callofduty.com/patchnotes/2024/11/call-of-duty-black-ops-6-season-01-patch-notes"
+      }
+    ],
+    "checked": "2026-10-16",
+    "relatedGuideIds": [
+      "bo6-terminus-main"
+    ]
   },
   {
     "id": "iw-zombies-in-spaceland-shredder",

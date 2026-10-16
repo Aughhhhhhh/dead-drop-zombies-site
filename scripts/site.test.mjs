@@ -42,6 +42,20 @@ const [catalog, classic, modern, extra, aw, community, completionClassic, comple
 const maps = catalog.games.flatMap((game) => game.maps);
 const guides = [...classic, ...modern, ...extra, ...aw, ...completionClassic, ...completionModern, ...completionModes, ...superQuests, ...researched, ...auditClassic, ...auditModern, ...auditModes, ...expandCommunityGuides(community)];
 
+test("map-specific corrections preserve progress IDs and other editions", () => {
+  const sourceSteps = [{ title: "Source route", body: "Original shared instructions" }];
+  const correctedSteps = [{ title: "Corrected route", body: "Checked edition instructions" }];
+  const topic = { id: "shared-topic", mapIds: ["waw-verruckt", "bo3-verruckt"], steps: sourceSteps,
+    mapOverrides: { "waw-verruckt": { steps: correctedSteps, players: "1–4 players" } } };
+  const [original, remaster] = expandCommunityGuides([topic]);
+  assert.equal(original.id, "waw-verruckt-community-shared-topic");
+  assert.deepEqual(original.steps, correctedSteps);
+  assert.deepEqual(remaster.steps, sourceSteps);
+  assert.equal(remaster.id, "bo3-verruckt-community-shared-topic");
+  assert.equal(remaster.players, undefined);
+  assert.deepEqual(topic.steps, sourceSteps);
+});
+
 test("catalog and walkthrough IDs stay linked and unique", () => {
   assert.equal(
     new Set(catalog.games.map((game) => game.id)).size,

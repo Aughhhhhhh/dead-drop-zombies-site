@@ -77,8 +77,9 @@ def plain(text):
 
 
 def rendered(text, url):
-    text = re.sub(r'(?m)^( {0,3}\d+\. [^\n]*:\n)((?: {1,3}\* [^\n]*(?:\n|$))+)', lambda match: match[1] + re.sub(r'(?m)^ +', '    ', match[2]), text)
-    text = re.sub(r'(?m)^((?!\s*(?:\d+\. |[*#|>-])).+\S)\n( {0,3}\d+\. )', r'\1\n\n\2', text)
+    text = re.sub(r'(?m)^( {0,3}\d+\. [^\n]*\n)((?: {1,3}\* [^\n]*(?:\n|$))+)', lambda match: match[1] + re.sub(r'(?m)^ +', '    ', match[2]), text)
+    text = re.sub(r'(?m)^( {4,}\d+\. [^\n]*)\n( {0,3}\* )', r'\1\n\n\2', text)
+    text = re.sub(r'(?m)^((?!\s*(?:\d+\. |[*#|>-]))[^\n]*\S)\n( {0,3}(?:\d+\. |[*-] ))', r'\1\n\n\2', text)
     text = re.sub(r'(?m)^( +\S[^\n]*)\n([^\s#*>\d|])', r'\1\n\n\2', text)
     text = re.sub(r'(?m)^([^\n]+\|[^\n]+)\n([ :|-]+\|[ :|-]+)\n', r'\n\1\n\2\n', text)
     safe = SafeHtml()
@@ -257,6 +258,9 @@ assert len(steps_for('1. First action\n2. Second action\n## Boss\nDefeat the bos
 assert rendered('Cup\n  1. Place it\n  2. Defend it\nBrush\n  1. Collect it\n  2. Return it', 'https://www.reddit.com/').count('<ol>') == 2
 assert '<ol start="2">' in rendered('2. Second action\n3. Third action', 'https://www.reddit.com/')
 assert '<ul>' in rendered('  1. Find the items:\n  * On the table\n  * Under the stairs\n  2. Return them', 'https://www.reddit.com/')
+assert rendered('Weapon details:\n  * First property\n  * Second property', 'https://www.reddit.com/').count('<li>') == 2
+assert '<ul>' in rendered('1. Finish the action.\n  * Retry if needed\n2. Continue', 'https://www.reddit.com/')
+assert '<ul>' in rendered('O\n  * A location\n  * Another location', 'https://www.reddit.com/')
 assert without_lyrics('Instructions\ncite1†LYRICS\n> Verse\n>\n\n## Next quest\nKeep this') == 'Instructions\n## Next quest\nKeep this'
 assert '(https://i.imgur.com/example.png)' in source_markdown('cite1†http://i.imgur.com/example.png†i.imgur.com', 'https://www.reddit.com/')
 assert 'Video guide (in the original source)' in source_markdown('cite1†Video guide†www.youtube.com', 'https://www.reddit.com/')
@@ -272,6 +276,9 @@ for reference in references:
         if section.get('sourceOnly'):
             continue
         for title, text in topics_for(section):
+            if reference['url'].endswith('/der-riese/') and title == 'Map Easter Eggs':
+                gaps.append({'mapIds': reference['mapIds'], 'title': title, 'source': reference['url'], 'note': 'This source chapter contains channel promotion and a storyline link, not playable Easter egg instructions. Dedicated quest, song and radio guides remain available.'})
+                continue
             if reference['url'].endswith('/moon/') and title == 'Black Ops 1 Weapons List':
                 gaps.append({'mapIds': ['bo1-moon'], 'title': title, 'source': reference['url'], 'note': 'The source table incorrectly lists Scavenger, V-R11 and Matryoshka Dolls from Call of the Dead. Dedicated Moon weapon guides remain available.'})
                 continue
@@ -329,6 +336,7 @@ corrections = json.loads((root / 'data/community-corrections.json').read_text(en
 assert set(corrections).issubset({guide['id'] for guide in community}), 'A community correction no longer matches an imported topic'
 for guide in community:
     guide.update(corrections.get(guide['id'], {}))
+    assert set(guide.get('mapOverrides', {})).issubset(guide['mapIds']), guide['id']
 (root / 'data/guides-community.json').write_text(json.dumps(community, ensure_ascii=False, separators=(',', ':')) + '\n', encoding='utf-8')
 (root / 'data/source-gaps.json').write_text(json.dumps(gaps, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
 print(f"Saved {len(community)} community topics, {sum(len(guide['steps']) for guide in community)} checklist sections; {len(gaps)} unfinished source topics kept out of walkthrough counts.")

@@ -9,6 +9,7 @@ export function expandCommunityGuides(topics) {
   return topics.flatMap((topic) =>
     topic.mapIds.map((mapId) => ({
       ...topic,
+      ...topic.mapOverrides?.[mapId],
       mapId,
       id: `${mapId}-community-${topic.id}`,
     })),

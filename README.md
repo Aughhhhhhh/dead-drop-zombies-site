@@ -8,9 +8,11 @@ Guide headers link directly to setup, steps, sources and the full map reference 
 
 ## Content and coverage
 
-The catalog indexes 19 games and spin-offs and 145 map/mode entries as of October 16, 2026. Original releases, remasters, survival variants, and arcade modes have separate entries. Custom maps, mods, campaign reskins, and temporary Warzone events are outside the catalog.
+The catalog indexes 19 games and spin-offs and 148 map/mode entries as of October 16, 2026. Original releases, remasters, survival variants, and arcade modes have separate entries. Historical Zombies playlists are labelled as such; their availability can differ from permanent maps. Custom maps, mods, campaign reskins, and temporary Warzone events are outside the catalog.
 
 Every indexed map or mode has in-site instructions, with main quests, secrets and equipment where documented. This is an expanding reference, not a verified exhaustive archive. The Coverage page reports the current guide counts and identified research gaps by map. Some archived triggers and bonus-room variants remain unverified; unsolved relics are not presented as solved. Guides have not been independently playtested.
+
+`reports/content-audit.json` records the current audit inventory, checked claims, source evidence and outstanding guide IDs. A targeted field check, a whole-guide source comparison and gameplay testing are different levels of evidence; the report preserves those distinctions. Its data hashes identify the snapshot reviewed.
 
 The community reader contains attributed quotations from r/CODZombies, including its original caveats and unfinished sections. Its complete captured topics are also available as individual guide cards. Empty templates, disabled wiki pages, short stubs and TBD instructions are excluded from community checklist counts and recorded in `data/source-gaps.json`. A broader source book can still contain unfinished material. Large cipher transcriptions that could not be captured completely link to the original source. Shared references identify version differences; Chronicles-only secrets are restricted to their remasters. Follow the version-specific original walkthrough when available.
 
@@ -47,7 +49,7 @@ The previous project was replaced at the user's request. Its files remain recove
 - `data/guides-classic.json`, `data/guides-modern.json`, `data/guides-extra.json`, `data/guides-aw.json`, `data/guides-completion-*.json`, `data/guides-super-ee-doa4.json`: researched walkthroughs and attributed supplemental topics.
 - `data/guides-goal-*.json`: additional researched routes, seasonal intel checklists, equipment catalogs and source corrections from the current audit.
 - `data/guides-community.json`: complete captured community topics, with shared-version map IDs and sanitized step HTML. Runtime IDs combine the map ID and stable topic ID.
-- `data/community-corrections.json`: reviewed field overrides applied after the community import, so a refresh preserves corrected steps, version scopes and location galleries.
+- `data/community-corrections.json`: reviewed field overrides applied after the community import, so a refresh preserves corrected steps, version scopes and location galleries. A topic's `mapOverrides` applies a correction only to the named map editions while retaining their existing runtime IDs.
 - `data/references.json`: attributed community chapters, already rendered and sanitized for the static site.
 - `data/media.json`: local images, captions, and attribution.
 - `data/coverage-gaps.json`: identified gaps in the site's research, shown on affected maps and the Coverage page.

@@ -195,7 +195,8 @@
             "source": "https://www.codzombieguides.com/nacht-der-untoten-remastered",
             "credit": "Cod Zombie Guides / JokerAlex 21 / Activision"
           }
-        ]
+        ],
+        "tip": "The complete Zombies Chronicles radio playlist is still being checked; this guide documents its interaction only."
       }
     ],
     "sources": [
@@ -209,7 +210,8 @@
       }
     ],
     "supplementNote": "This original replacement corrects the source’s unsupported claim that the radio includes songs from every Zombies map. The complete track inventory is still being checked.",
-    "checked": "2026-10-16"
+    "checked": "2026-10-16",
+    "sourceQuote": null
   },
   "moon-main-easter-egg-main-easter-egg": {
     "steps": [
@@ -360,7 +362,8 @@
       }
     ],
     "supplementNote": "An original practical instruction replaces the source’s incorrect 30-second statistic. Independent original Black Ops player guides describe about eight seconds; the shared card avoids imposing one exact timer on every edition.",
-    "checked": "2026-10-16"
+    "checked": "2026-10-16",
+    "sourceQuote": null
   },
   "der-riese-special-weapons-monkey-bombs": {
     "steps": [
@@ -385,7 +388,8 @@
       }
     ],
     "supplementNote": "An original practical instruction replaces the source’s incorrect 30-second statistic. Independent original Black Ops player guides describe about eight seconds; the shared card avoids imposing one exact timer on every edition.",
-    "checked": "2026-10-16"
+    "checked": "2026-10-16",
+    "sourceQuote": null
   },
   "five-special-weapons-monkey-bombs": {
     "steps": [
@@ -410,7 +414,8 @@
       }
     ],
     "supplementNote": "An original practical instruction replaces the source’s incorrect 30-second statistic. Independent original Black Ops player guides describe about eight seconds; the shared card avoids imposing one exact timer on every edition.",
-    "checked": "2026-10-16"
+    "checked": "2026-10-16",
+    "sourceQuote": null
   },
   "the-giant-special-weapons-monkey-bombs": {
     "steps": [
@@ -435,7 +440,8 @@
       }
     ],
     "supplementNote": "An original practical instruction replaces the source’s incorrect 30-second statistic. Independent original Black Ops player guides describe about eight seconds; the shared card avoids imposing one exact timer on every edition.",
-    "checked": "2026-10-16"
+    "checked": "2026-10-16",
+    "sourceQuote": null
   },
   "origins-easter-eggs-main-easter-egg": {
     "steps": [
@@ -800,7 +806,8 @@
       {
         "title": "Once all the fuse boxes have been shot, a door will open up next to the Living…",
         "body": "2. Once all the fuse boxes have been shot, a door will open up next to the Living Quarters. Inside the Beamsmasher room, kill the zombie trapped under fallen debris. It will drop a keycard.",
-        "html": "<ol start=\"2\">\n<li>Once all the fuse boxes have been shot, a door will open up next to the Living Quarters. Inside the Beamsmasher room, kill the zombie trapped under fallen debris. It will drop a keycard.</li>\n</ol>"
+        "html": "<ol start=\"2\">\n<li>Once all the fuse boxes have been shot, a door will open up next to the Living Quarters. Inside the Beamsmasher room, kill the zombie trapped under fallen debris. It will drop a keycard.</li>\n</ol>",
+        "tip": "The item from the pinned researcher is named EMF Fob; it is separate from Nathan’s later main-quest keycard."
       },
       {
         "title": "Take the keycard to the Sea Tower",
@@ -820,12 +827,14 @@
       {
         "title": "The computers will give you 3 symbols that will be added as sticky notes on the…",
         "body": "6. The computers will give you 3 symbols that will be added as sticky notes on the decoding machine in the Beamsmasher room. These symbols can be used to determine your numbers for X, Y, and Z using the white boards next to the buildable table. The white board can be read like this. (Note: The sticky notes will only show up on the machine once you interact with it after turning on the computers around the map). Using your known X/Y/Z numbers. You can do the following equations manually or by using this webtool to find the numbers to enter into the machine. * Number 1 = 2(X) + 11 (Note: 2(X) means 2 multiplied by X, disregard the + 11 until you have already multiplied 2 and X) * Number 2 = (2(Z) + Y) - 5 * Number 3 = |(Y + Z) - X| (Note: The lines around this mean this is an absolute value. This means that if the number you end up getting is negative, treat it like a positive. For example, if you do the equation and you get -5, the number for the machine is 5)",
-        "html": "<ol start=\"6\">\n<li>The computers will give you 3 symbols that will be added as sticky notes on the decoding machine in the Beamsmasher room. These symbols can be used to determine your numbers for X, Y, and Z using the white boards next to the buildable table. The white board can be read like this. (Note: The sticky notes will only show up on the machine once you interact with it after turning on the computers around the map). Using your known X/Y/Z numbers.</li>\n</ol>\n<p>You can do the following equations manually or by using this webtool to find the numbers to enter into the machine.\n     * Number 1 = 2(X) + 11 (Note: 2(X) means 2 multiplied by X, disregard the + 11 until you have already multiplied 2 and X)\n     * Number 2 = (2(Z) + Y) - 5\n     * Number 3 = |(Y + Z) - X| (Note: The lines around this mean this is an absolute value. This means that if the number you end up getting is negative, treat it like a positive. For example, if you do the equation and you get -5, the number for the machine is 5)</p>"
+        "html": "<ol start=\"6\">\n<li>The computers will give you 3 symbols that will be added as sticky notes on the decoding machine in the Beamsmasher room. These symbols can be used to determine your numbers for X, Y, and Z using the white boards next to the buildable table. The white board can be read like this. (Note: The sticky notes will only show up on the machine once you interact with it after turning on the computers around the map). Using your known X/Y/Z numbers.</li>\n</ol>\n<p>You can do the following equations manually or by using this webtool to find the numbers to enter into the machine.\n     * Number 1 = 2(X) + 11 (Note: 2(X) means 2 multiplied by X, disregard the + 11 until you have already multiplied 2 and X)\n     * Number 2 = (2(Z) + Y) - 5\n     * Number 3 = |(Y + Z) - X| (Note: The lines around this mean this is an absolute value. This means that if the number you end up getting is negative, treat it like a positive. For example, if you do the equation and you get -5, the number for the machine is 5)</p>",
+        "tip": "Read the board row first (tens), then column (ones). Evaluate the three expressions separately; the third is an absolute value."
       },
       {
         "title": "Once you have entered the correct code into the machine, you must wait a couple…",
         "body": "7. Once you have entered the correct code into the machine, you must wait a couple rounds until the device is ready. Peck and Strauss will notify you when it is done. Pick up the device and go to Castle Rock Island (island on right side of the map, marked on the computer screen).",
-        "html": "<ol start=\"7\">\n<li>Once you have entered the correct code into the machine, you must wait a couple rounds until the device is ready. Peck and Strauss will notify you when it is done. Pick up the device and go to Castle Rock Island (island on right side of the map, marked on the computer screen).</li>\n</ol>"
+        "html": "<ol start=\"7\">\n<li>Once you have entered the correct code into the machine, you must wait a couple rounds until the device is ready. Peck and Strauss will notify you when it is done. Pick up the device and go to Castle Rock Island (island on right side of the map, marked on the computer screen).</li>\n</ol>",
+        "tip": "If the code was entered before round 9, reach round 9. At round 9 or later, flip one round, then take the resonator when the computer is ready."
       },
       {
         "title": "Head to Castle Rock Island, and a blue orb will be present there",
@@ -835,7 +844,8 @@
       {
         "title": "Once 2 orbs have been brought to the main orb, it will drop a part",
         "body": "9. Once 2 orbs have been brought to the main orb, it will drop a part. Pick it up and follow the orb to the next island it travels to (Crab Island, south of the map).",
-        "html": "<ol start=\"9\">\n<li>Once 2 orbs have been brought to the main orb, it will drop a part. Pick it up and follow the orb to the next island it travels to (Crab Island, south of the map).</li>\n</ol>"
+        "html": "<ol start=\"9\">\n<li>Once 2 orbs have been brought to the main orb, it will drop a part. Pick it up and follow the orb to the next island it travels to (Crab Island, south of the map).</li>\n</ol>",
+        "tip": "The source counts two feeds; another firsthand route reports three. Continue until the large orb completes and relocates, then retrieve the resonator. Do not leave solely because two energy pickups were delivered."
       },
       {
         "title": "Complete the same step as previous on Crab Island and Temple Island (northwest of…",
@@ -857,11 +867,2366 @@
       {
         "title": "u/RayPoopertonIII — firsthand Beamsmasher build and final AMP Munition",
         "url": "https://www.reddit.com/r/CODZombies/comments/1ge0t9w/detailed_text_video_guide_to_the_beam_smasher/"
+      },
+      {
+        "title": "Firsthand r/CODZombies discussion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1ge0t9w/"
+      },
+      {
+        "title": "Firsthand r/CODZombies discussion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1gd29h7/"
+      },
+      {
+        "title": "Official BO6 Season 1 patch notes",
+        "url": "https://www.callofduty.com/patchnotes/2024/11/call-of-duty-black-ops-6-season-01-patch-notes"
       }
     ],
     "sourceOmissions": [
       "The source names the final item LTG Ammo. The supplemental note corrects it to AMP Munition."
     ],
-    "checked": "2026-10-16"
+    "checked": "2026-10-16",
+    "category": "weapon",
+    "players": "1–4 players; one crafted pickup",
+    "requirements": [
+      "Standard or Directed Mode.",
+      "Power / Pack-a-Punch lift active",
+      "Dead Wire on a firearm",
+      "Optional: 5,000 Essence to buy the code"
+    ],
+    "reward": "One free DRI-11 Beamsmasher.",
+    "relatedGuideIds": [
+      "bo6-terminus-beamsmasher",
+      "bo6-terminus-community-terminus-key-map-features-pack-a-punch",
+      "bo6-terminus-peck-refund"
+    ]
+  },
+  "nacht-der-untoten-special-weapons-molotov-cocktails": {
+    "steps": [
+      {
+        "title": "Obtain Molotovs from the Mystery Box",
+        "body": "On original World at War Nacht, use the Mystery Box in the HELP room for a chance of receiving Molotov Cocktails. Equip and throw them with the special-grenade control; the fire damages zombies near the impact. Keep moving during the throwing animation.",
+        "original": true
+      },
+      {
+        "title": "Treat the supply as limited",
+        "body": "In stock Nacht, a new round and a Max Ammo pickup do not restore spent Molotovs. Save the supply for an early-round group rather than assuming the next Max Ammo will replace it. Later maps and PC mods can behave differently.",
+        "original": true
+      }
+    ],
+    "sources": [
+      {
+        "title": "r/CODZombies community map guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/nacht-der-untoten/"
+      },
+      {
+        "title": "Stock Nacht players report no round or Max Ammo refill, with linked unmodified gameplay.",
+        "url": "https://www.reddit.com/r/CODZombies/comments/tvfwm9/"
+      },
+      {
+        "title": "Mod author lists equipment refills as changes to stock maps.",
+        "url": "https://github.com/JBShady/COD5-Remastered"
+      }
+    ],
+    "checked": "2026-10-16",
+    "players": "1–4",
+    "difficulty": "Easy",
+    "supplementNote": "Original practical instructions replace the affected source passage after checking the cited original-game evidence. The Reddit source remains credited in Sources.",
+    "requirements": [
+      "Original World at War Nacht",
+      "Mystery Box access"
+    ],
+    "reward": "Limited Molotov equipment from a random box pull.",
+    "sourceQuote": null
+  },
+  "verruckt-map-walkthrough-traps": {
+    "mapOverrides": {
+      "waw-verruckt": {
+        "steps": [
+          {
+            "title": "Power the two balcony traps",
+            "body": "Turn on the asylum power. There are two electric barriers, one on each upstairs balcony. Use the red wall switch beside the chosen barrier and pay 1,000 points.",
+            "original": true
+          },
+          {
+            "title": "Lead zombies through the live barrier",
+            "body": "Stand on the safe side and let zombies cross the electricity. Keep the team clear before activation, and use the alternate route while the barrier is live. The switch must become available again before another paid use.",
+            "original": true
+          }
+        ],
+        "sources": [
+          {
+            "title": "r/CODZombies community map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/verruckt/"
+          },
+          {
+            "title": "Two balcony traps, power requirement, red lever and 1000-point price.",
+            "url": "https://www.callofdutyzombies.com/topic/180183-verruckt-zombies-library/"
+          },
+          {
+            "title": "March 2009 player describes activating balcony power boxes.",
+            "url": "https://coasterforce.com/forums/threads/the-games-we-play.19435/page-117"
+          }
+        ],
+        "checked": "2026-10-16",
+        "players": "1–4",
+        "difficulty": "Easy",
+        "supplementNote": "Original practical instructions replace the affected source passage after checking the cited original-game evidence. The Reddit source remains credited in Sources.",
+        "requirements": [
+          "Power on",
+          "1,000 points per activation"
+        ],
+        "reward": "Temporary electric barriers for killing pursuing zombies.",
+        "sourceQuote": null
+      }
+    }
+  },
+  "verruckt-map-walkthrough-power": {
+    "mapOverrides": {
+      "waw-verruckt": {
+        "steps": [
+          {
+            "title": "Follow either upstairs wing to the generator room",
+            "body": "From your starting side, buy access to its stairs and follow the upstairs rooms around the asylum toward the far generator room. In original World at War the first Mystery Box is in this room. Find the large lever with a severed arm hanging from it.",
+            "original": true
+          },
+          {
+            "title": "Pull the lever",
+            "body": "Hold interact at the lever. Turning it on is free, enables perks and electric traps, and opens the powered divider between the starting sides.",
+            "original": true
+          }
+        ],
+        "sources": [
+          {
+            "title": "r/CODZombies community map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/verruckt/"
+          },
+          {
+            "title": "2009 players locate power beside the initial box.",
+            "url": "https://gamefaqs.gamespot.com/boards/944198-call-of-duty-world-at-war/48693624"
+          },
+          {
+            "title": "Power opens the starting divider.",
+            "url": "https://gamefaqs.gamespot.com/boards/944198-call-of-duty-world-at-war/48728340"
+          },
+          {
+            "title": "Power photo and enabled perks/traps.",
+            "url": "https://www.callofdutyzombies.com/zombie-library/zombies-library/worldatwar/verruckt/power-switch-r29/"
+          }
+        ],
+        "checked": "2026-10-16",
+        "players": "1–4",
+        "difficulty": "Easy",
+        "supplementNote": "Original practical instructions replace the affected source passage after checking the cited original-game evidence. The Reddit source remains credited in Sources.",
+        "requirements": [
+          "Points for doors along either upstairs wing"
+        ],
+        "reward": "Perks and traps powered; starting sides connect.",
+        "sourceQuote": null
+      }
+    }
+  },
+  "verruckt-easter-eggs-screaming-man-ee": {
+    "mapOverrides": {
+      "waw-verruckt": {
+        "steps": [
+          {
+            "title": "Use the dentist-chair wheel",
+            "body": "In the downstairs Juggernog starting room, find the bloodied dentist chair. Crouch beside the small wheel/armrest on its side and aim at it. Hold interact for a few seconds; if nothing plays, release and repeat the hold at the wheel until the drill and scream start. There is no equipment reward.",
+            "original": true
+          }
+        ],
+        "sources": [
+          {
+            "title": "r/CODZombies community map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/verruckt/"
+          },
+          {
+            "title": "March 2009 players locate trigger at dentist-chair armrest.",
+            "url": "https://gamefaqs.gamespot.com/boards/944199-call-of-duty-world-at-war/48852878"
+          },
+          {
+            "title": "Original players describe holding use at chair and separate morgue.",
+            "url": "https://gamefaqs.gamespot.com/boards/944199-call-of-duty-world-at-war/50497868"
+          },
+          {
+            "title": "Crouch at the chair wheel.",
+            "url": "https://www.callofdutyzombies.com/easteregg/guides/call_of_duty_world_at_war_zombies/small-easter-eggs-and-side-quests/verr%C3%BCckt/dentist-chair-r28/"
+          }
+        ],
+        "checked": "2026-10-16",
+        "players": "1–4",
+        "difficulty": "Easy",
+        "supplementNote": "Original practical instructions replace the affected source passage after checking the cited original-game evidence. The Reddit source remains credited in Sources.",
+        "requirements": [
+          "Access to Juggernog-side starting room"
+        ],
+        "reward": "Dentist drill and screaming audio.",
+        "sourceQuote": null
+      }
+    }
+  },
+  "shi-no-numa-map-walkthrough-traps": {
+    "mapOverrides": {
+      "waw-shi-no-numa": {
+        "steps": [
+          {
+            "title": "Use the four hut electric barriers",
+            "body": "Doctor's Quarters, Comms Room, Fishing Hut and Storage each have an electric trap at the entrance. Open the route and hut, then use the doorway switch for 1,000 points. Shi No Numa has no central power switch to restore first.",
+            "original": true
+          },
+          {
+            "title": "Use the Flogger on the Fishing Hut route",
+            "body": "Open the gate from the main building toward Fishing Hut and use the nearby Flogger switch. Pay the price displayed in your game, move clear of the rotating logs and let pursuing zombies enter the trap. Do not stand inside its sweep or assume it is ready before the switch permits another use.",
+            "original": true,
+            "tip": "Contemporary WaW players report both 1,000 and 750; this pass does not certify one universal retail Flogger price."
+          }
+        ],
+        "sources": [
+          {
+            "title": "r/CODZombies community map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/shi-no-numa/"
+          },
+          {
+            "title": "Contemporary Xbox 360 guide lists hut defenses at 1000 and Flogger at 1000.",
+            "url": "https://gamefaqs.gamespot.com/boards/944199-call-of-duty-world-at-war/49930908"
+          },
+          {
+            "title": "Another contemporary Xbox 360 player reports Flogger at 750.",
+            "url": "https://gamefaqs.gamespot.com/boards/944199-call-of-duty-world-at-war/50596581"
+          },
+          {
+            "title": "Original achievement guide uses different map traps.",
+            "url": "https://www.xboxachievements.com/forum/topic/134163-call-of-duty-waw-shi-no-numa-achievement-guide/"
+          }
+        ],
+        "checked": "2026-10-16",
+        "players": "1–4",
+        "difficulty": "Easy",
+        "supplementNote": "Original practical instructions replace the affected source passage after checking the cited original-game evidence. The Reddit source remains credited in Sources.",
+        "requirements": [
+          "Open the selected hut/path",
+          "Points for the price shown"
+        ],
+        "reward": "Temporary electric barriers or Flogger kills.",
+        "sourceQuote": null
+      }
+    }
+  },
+  "der-riese-map-walkthrough-traps": {
+    "mapOverrides": {
+      "waw-der-riese": {
+        "steps": [
+          {
+            "title": "Power and pay for an electric trap",
+            "body": "Turn on courtyard power. The three electric barriers are at the M1A1 Carbine-side doorway, Double-Barreled Shotgun-side doorway and beneath the bridge by power. Use the red switch beside your chosen barrier for 1,000 points.",
+            "original": true
+          },
+          {
+            "title": "Keep the team clear",
+            "body": "Let the horde cross while you remain on the safe side. Treat the live barrier as dangerous to players and use an alternate route. Wait for the switch to become available before paying for another activation.",
+            "original": true
+          }
+        ],
+        "sources": [
+          {
+            "title": "r/CODZombies community map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/der-riese/"
+          },
+          {
+            "title": "Original map and trap routes.",
+            "url": "https://gamefaqs.gamespot.com/xbox360/944199-call-of-duty-world-at-war/faqs/57556"
+          },
+          {
+            "title": "Contemporary original-map progression and trap use.",
+            "url": "https://www.xboxachievements.com/forum/topic/147067-der-riesse-quick-achievement-guide/"
+          }
+        ],
+        "checked": "2026-10-16",
+        "players": "1–4",
+        "difficulty": "Easy",
+        "supplementNote": "Original practical instructions replace the affected source passage after checking the cited original-game evidence. The Reddit source remains credited in Sources.",
+        "requirements": [
+          "Power on",
+          "1,000 points per use"
+        ],
+        "reward": "Temporary electric barrier kills.",
+        "sourceQuote": null
+      }
+    }
+  },
+  "der-riese-map-walkthrough-power": {
+    "mapOverrides": {
+      "waw-der-riese": {
+        "steps": [
+          {
+            "title": "Reach the courtyard generator",
+            "body": "From spawn, open either factory route and continue through its interior rooms into the central courtyard beneath the metal bridge. Find the generator and power lever beside the first Mystery Box position.",
+            "original": true
+          },
+          {
+            "title": "Turn on power",
+            "body": "Hold interact at the lever. The switch is free and enables perks, traps and teleporter setup. Pack-a-Punch still needs its three teleporter links.",
+            "original": true
+          }
+        ],
+        "sources": [
+          {
+            "title": "r/CODZombies community map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/der-riese/"
+          },
+          {
+            "title": "Original map places power beside starting box and bridge.",
+            "url": "https://gamefaqs.gamespot.com/xbox360/944199-call-of-duty-world-at-war/faqs/57556"
+          },
+          {
+            "title": "Firsthand power and teleporter route.",
+            "url": "https://mmmrkennedy.com/games/WAW/der_riese/der_riese_guide"
+          }
+        ],
+        "checked": "2026-10-16",
+        "players": "1–4",
+        "difficulty": "Easy",
+        "supplementNote": "Original practical instructions replace the affected source passage after checking the cited original-game evidence. The Reddit source remains credited in Sources.",
+        "requirements": [
+          "Points to open a route to the courtyard"
+        ],
+        "reward": "Map devices powered; teleporter linking can begin.",
+        "sourceQuote": null
+      }
+    }
+  },
+  "der-riese-map-walkthrough-pack-a-punch": {
+    "mapOverrides": {
+      "waw-der-riese": {
+        "steps": [
+          {
+            "title": "Start each teleporter link",
+            "body": "Turn on power. Open A on the MP40/animal-lab side, B beyond the Type 100 room and C beneath the catwalk/STG-44 area. Stand on a teleporter pad and hold interact to start its 30-second link timer.",
+            "original": true
+          },
+          {
+            "title": "Confirm at the mainframe",
+            "body": "Before the timer expires, return to the raised spawn mainframe pad and hold interact. A teammate waiting there can confirm instead. Repeat for the other teleporters. If a timer expires, restart that link.",
+            "original": true
+          },
+          {
+            "title": "Upgrade and retrieve a weapon",
+            "body": "The third successful link opens Pack-a-Punch behind spawn. Hold your chosen gun, pay 5,000 at the machine, wait for processing and collect the returned gun promptly.",
+            "original": true
+          }
+        ],
+        "sources": [
+          {
+            "title": "r/CODZombies community map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/der-riese/"
+          },
+          {
+            "title": "Original 2009 Pack-a-Punch price and teleporter setup.",
+            "url": "https://www.xboxachievements.com/forum/topic/147067-der-riesse-quick-achievement-guide/"
+          },
+          {
+            "title": "Annotated A/B/C linking route.",
+            "url": "https://mmmrkennedy.com/games/WAW/der_riese/der_riese_guide"
+          }
+        ],
+        "checked": "2026-10-16",
+        "players": "1–4",
+        "difficulty": "Easy",
+        "supplementNote": "Original practical instructions replace the affected source passage after checking the cited original-game evidence. The Reddit source remains credited in Sources.",
+        "requirements": [
+          "Power on",
+          "All teleporter rooms open",
+          "5,000 points for an upgrade"
+        ],
+        "reward": "Pack-a-Punch access and an upgraded gun after payment/collection.",
+        "sourceQuote": null
+      }
+    }
+  },
+  "der-riese-map-walkthrough-dog-rounds": {
+    "mapOverrides": {
+      "waw-der-riese": {
+        "steps": [
+          {
+            "title": "Finish a dedicated Hellhound round",
+            "body": "Der Riese periodically replaces the ordinary wave with Hellhounds. Keep room to turn, kill the dogs and watch for the final dog's Max Ammo. Reload before collecting it when safe. Later, Hellhounds can also join normal zombie waves, so seeing a dog does not always mean a dogs-only round.",
+            "original": true
+          }
+        ],
+        "sources": [
+          {
+            "title": "r/CODZombies community map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/der-riese/"
+          },
+          {
+            "title": "Original August 2009 guide discusses normal-wave dogs.",
+            "url": "https://www.xboxachievements.com/forum/topic/147067-der-riesse-quick-achievement-guide/"
+          },
+          {
+            "title": "Contemporary original-map strategy describes dog rounds.",
+            "url": "https://gamefaqs.gamespot.com/xbox360/944199-call-of-duty-world-at-war/faqs/58924"
+          }
+        ],
+        "checked": "2026-10-16",
+        "players": "1–4",
+        "difficulty": "Easy",
+        "supplementNote": "Original practical instructions replace the affected source passage after checking the cited original-game evidence. The Reddit source remains credited in Sources.",
+        "requirements": [
+          "A weapon for the Hellhounds"
+        ],
+        "reward": "Final dog in a dedicated dog round drops Max Ammo.",
+        "sourceQuote": null
+      }
+    }
+  },
+  "der-riese-special-weapons-wunderwaffe-dg-2": {
+    "mapOverrides": {
+      "waw-der-riese": {
+        "steps": [
+          {
+            "title": "Obtain the Wunderwaffe from the box",
+            "body": "Use the active Mystery Box until the DG-2 is rolled, then collect it before the box closes. It is a random box weapon, not a wall purchase or Fly Trap reward. Stock original Der Riese allows only one holder at a time.",
+            "original": true
+          },
+          {
+            "title": "Conserve ammunition and avoid self-shock",
+            "body": "The DG-2 carries 3 shots loaded and 15 in reserve. Its discharge chains through nearby zombies. In original World at War Der Riese, avoid shocking yourself at close range: the self-damage bug can remove Juggernog's protection. That warning does not describe the fixed BO1 behavior.",
+            "original": true
+          }
+        ],
+        "sources": [
+          {
+            "title": "r/CODZombies community map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/der-riese/"
+          },
+          {
+            "title": "Original-game test table: 3/15, one holder, Der Riese self-shock health bug.",
+            "url": "https://w.atwiki.jp/codwaw/pages/45.html"
+          },
+          {
+            "title": "Original box and weapon guide.",
+            "url": "https://gamefaqs.gamespot.com/xbox360/944199-call-of-duty-world-at-war/faqs/57556"
+          }
+        ],
+        "checked": "2026-10-16",
+        "players": "1–4",
+        "difficulty": "Easy",
+        "supplementNote": "Original practical instructions replace the affected source passage after checking the cited original-game evidence. The Reddit source remains credited in Sources.",
+        "requirements": [
+          "Active Mystery Box access"
+        ],
+        "reward": "DG-2 if rolled and collected.",
+        "sourceQuote": null
+      }
+    }
+  },
+  "der-riese-special-weapons-wunderwaffe-dg-2-upgrade": {
+    "mapOverrides": {
+      "waw-der-riese": {
+        "steps": [
+          {
+            "title": "Bring the DG-2 to unlocked Pack-a-Punch",
+            "body": "Power the map and link A, B and C to the spawn mainframe, confirming each within 30 seconds. Obtain the DG-2 from the Mystery Box and save 5,000 points.",
+            "original": true
+          },
+          {
+            "title": "Upgrade and collect the DG-3 JZ",
+            "body": "Hold the DG-2, pay 5,000 at Pack-a-Punch behind spawn and collect the returned DG-3 JZ. Ammunition rises from 3/15 to 6/30. The source's claimed massive damage increase is not a verified benefit; the documented ammunition increase is useful.",
+            "original": true
+          },
+          {
+            "title": "Keep clear of your discharge",
+            "body": "On original WaW Der Riese, upgrading does not make self-shock safe. Keep the discharge away from yourself to avoid the original Juggernog-protection bug.",
+            "original": true
+          }
+        ],
+        "sources": [
+          {
+            "title": "r/CODZombies community map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/der-riese/"
+          },
+          {
+            "title": "Original table lists 3/15 to 6/30 and self-shock warning.",
+            "url": "https://w.atwiki.jp/codwaw/pages/45.html"
+          },
+          {
+            "title": "Original upgrade price is 5000.",
+            "url": "https://www.xboxachievements.com/forum/topic/147067-der-riesse-quick-achievement-guide/"
+          }
+        ],
+        "checked": "2026-10-16",
+        "players": "1–4",
+        "difficulty": "Easy",
+        "supplementNote": "Original practical instructions replace the affected source passage after checking the cited original-game evidence. The Reddit source remains credited in Sources.",
+        "requirements": [
+          "DG-2",
+          "Pack-a-Punch open",
+          "5,000 points"
+        ],
+        "reward": "DG-3 JZ with 6 loaded shots and 30 reserve.",
+        "sourceQuote": null
+      }
+    }
+  },
+  "der-riese-easter-eggs-main-easter-egg": {
+    "mapOverrides": {
+      "waw-der-riese": {
+        "steps": [
+          {
+            "title": "Open Pack-a-Punch",
+            "body": "Reach the power switch in the courtyard beneath the bridge and turn it on. Open each teleporter room: A by the MP40, B by the Type 100, and C under the catwalk. At each teleporter, hold interact to start the link, then reach the mainframe pad in spawn and interact within 30 seconds. A teammate can wait at the mainframe. Link all three, then upgrade a bullet weapon for 5,000 points.",
+            "original": true
+          },
+          {
+            "title": "Shoot the distant control panel",
+            "body": "From spawn, take the door to the M1A1 Carbine side. Look through the nearby zombie window toward the concrete Fly Trap structure outside the playable area. Shoot the small panel on its pillar with your upgraded gun. A green collection of objects rises and Samantha speaks when the shot registers.",
+            "original": true,
+            "tip": "The World at War achievement triggers here. The remaining steps finish the toy hunt."
+          },
+          {
+            "title": "Find the bear above spawn",
+            "body": "Return to the mainframe and look up at the upper window of the building overlooking spawn. Shoot the teddy bear sitting on the sill. Listen for Samantha's response before moving on.",
+            "original": true,
+            "images": [
+              {
+                "src": "./assets/classic-batch2-der-flytrap-window.webp",
+                "alt": "High broken window above the M1A1 Carbine route",
+                "caption": "Fly Trap target area — original WaW PC reference",
+                "source": "https://mmmrkennedy.com/games/WAW/der_riese/der_riese_guide",
+                "credit": "MMMRKennedy / Activision — World at War PC reference"
+              }
+            ]
+          },
+          {
+            "title": "Find the bear in the animal-testing cages",
+            "body": "Go to the room with the M1897 Trench Gun on the route to Teleporter A. Look through the animal-testing window at the cages; shoot the teddy holding a bottle and pistol inside a cage.",
+            "original": true,
+            "images": [
+              {
+                "src": "./assets/classic-batch2-der-flytrap-cage.webp",
+                "alt": "Animal-lab cage window beside the Trench Gun",
+                "caption": "Fly Trap target area — original WaW PC reference",
+                "source": "https://mmmrkennedy.com/games/WAW/der_riese/der_riese_guide",
+                "credit": "MMMRKennedy / Activision — World at War PC reference"
+              }
+            ]
+          },
+          {
+            "title": "Find the monkey in the furnace",
+            "body": "Go to the Thompson room on the other side of the map. Look into the glowing furnace behind the wall buy and shoot the Monkey Bomb toy inside. After all three toys have been hit, Samantha confirms the hunt is over.",
+            "original": true,
+            "tip": "The Annihilator reward belongs to The Giant in Black Ops III. Do not expect it on this version.",
+            "images": [
+              {
+                "src": "./assets/classic-batch2-der-flytrap-furnace.webp",
+                "alt": "Open furnace near the Thompson",
+                "caption": "Fly Trap target area — original WaW PC reference",
+                "source": "https://mmmrkennedy.com/games/WAW/der_riese/der_riese_guide",
+                "credit": "MMMRKennedy / Activision — World at War PC reference"
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "title": "r/CODZombies community map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/der-riese/"
+          },
+          {
+            "title": "August 2009 firsthand target locations.",
+            "url": "https://ibotmodz.net/topic/15809-der-riese-teddy-locations/"
+          },
+          {
+            "title": "Window bear, lab cage bear and furnace monkey.",
+            "url": "https://www.callofdutyzombies.com/easteregg/guides/call_of_duty_world_at_war_zombies/small-easter-eggs-and-side-quests/434_der-riese/hide-and-seek-r14/"
+          },
+          {
+            "title": "Original target-area photos.",
+            "url": "https://mmmrkennedy.com/games/WAW/der_riese/der_riese_guide"
+          }
+        ],
+        "checked": "2026-10-16",
+        "players": "1–4",
+        "difficulty": "Easy",
+        "supplementNote": "Original practical instructions replace the affected source passage after checking the cited original-game evidence. The Reddit source remains credited in Sources.",
+        "requirements": [
+          "Power and all three links",
+          "Pack-a-Punched bullet weapon"
+        ],
+        "reward": "Elevate Your Senses on activation; completion audio after toys. No WaW Annihilator.",
+        "sourceQuote": null
+      }
+    }
+  },
+  "liberty-falls-key-map-features-thustodyne-m23-jetgun": {
+    "category": "weapon",
+    "title": "Thrustodyne M23 (Jet Gun)",
+    "requirements": [
+      "Standard or Directed Mode.",
+      "Access to the motel, bowling alley, Cemetery and Riverside",
+      "Mangler cannon damage for Radio House"
+    ],
+    "reward": "One free crafted Jet Gun pickup.",
+    "players": "1–4 players; one crafted pickup",
+    "relatedGuideIds": [
+      "bo6-liberty-falls-jet-gun",
+      "bo6-liberty-falls-community-liberty-falls-key-map-features-pack-a-punch"
+    ],
+    "checked": "2026-10-16",
+    "sources": [
+      {
+        "title": "r/CODZombies community map guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/liberty-falls/"
+      },
+      {
+        "title": "Firsthand r/CODZombies discussion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1gqz5vb/"
+      },
+      {
+        "title": "Official BO6 Season 1 patch notes",
+        "url": "https://www.callofduty.com/patchnotes/2024/11/call-of-duty-black-ops-6-season-01-patch-notes"
+      }
+    ]
+  },
+  "liberty-falls-key-map-features-bank-vault": {
+    "requirements": [
+      "Standard or Directed Mode.",
+      "Access to Savings & Loan, Olly’s Comics and Liberty Lanes",
+      "Loot Keys to open lockers after entering"
+    ],
+    "reward": "Vault access and randomized locker loot.",
+    "relatedGuideIds": [
+      "bo6-liberty-falls-bank-vault"
+    ],
+    "checked": "2026-10-16",
+    "players": "1–4 players",
+    "sources": [
+      {
+        "title": "r/CODZombies community map guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/liberty-falls/"
+      },
+      {
+        "title": "Firsthand r/CODZombies discussion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1gb5u6s/"
+      },
+      {
+        "title": "Official BO6 Season 1 patch notes",
+        "url": "https://www.callofduty.com/patchnotes/2024/11/call-of-duty-black-ops-6-season-01-patch-notes"
+      }
+    ]
+  },
+  "liberty-falls-main-quest-main-quest": {
+    "steps": [
+      {
+        "title": "Steps",
+        "body": "1. Make your way to the Dark Aether (church) and interact with the generator on the right-side wall . Doing so will cause your screen to flash white and Dr. Panos will begin speaking to you and Blanchard. With the Jet Gun acquire three items using the sucking ability: 2. Obtain the Thrustodyne M23 and use the primary fire (sucking ability) to suck up and obtain 3 pieces of the L.T.G. The pieces can be found in the following locations: * Floating inside the Dark Aether near Panos * In the ceiling in Olly's Comics * Inside the 2nd story of the Buzz's Cuts building in Washington Ave. near the Speed Cola machine 3. Use the three items to build the L.T.G. at the crafting bench in \"The Alamo\" . 4. Return to the Dark Aether and pick up canister from the generator. Picking up the canister will make you unable to sprint/slide/dive. Place it on next to one of the emitters of the Dark Aether Field Generator trap on Hill Street/Washington Ave. 5. Place the L.T.G. in the Cemetery underneath the large Dark Aether storm cloud . Doing so will start a defense wave, if the zombies destroy the L.T.G. you must try again on another round. If you successfully defend the L.T.G. for the time limit, an HVT will spawn. Bringing the HVT to the Dark Aether Field Generator trap where you previously placed canister and killing it while it is affected by the trap will store its essence inside the canister. A Max Ammo will spawn and you must take the canister back to the generator in the Dark Aether and interact with the generator to place it in the machine. Failing any of these steps after the HVT spawns will require you to try again on another round and spawn the HVT again. 6. Pick up Strauss Counter from the slot opened up on the left side of the generator. Using the Strauss Counter will show you the level of Dark Aether energy in that area. You now must interact with and turn three projectors on the map to a certain color combination, turning the projector to the opposite color of what is shown from the Strauss Counter when using it near the projector. High meaning turning the projector light green, Low meaning red, and yellow otherwise. Interacting with the projector will cause it to turn to another color in the order Green, Yellow, Red. The projectors can be found in the following locations: * On the Hilltop stairs in the grass * In the Groundskeeper's yard * On the roof of Yummy Freeze , which is accessible from opening a barrier from on-top of \"The Alamo] and falling down to it 7. Once the projectors are calibrated correctly, a new canister will be available near Pump & Pay (the initial spawn location of Liberty Falls) after 3 beams of energy are poured into it from around the map. Pick up the canister and place it around one of the emitters of the Dark Aether Field Generator trap near the Pump & Pay gas Station. 8. Pick up the L.T.G. from the Cemetery and bring it underneath the Dark Aether storm cloud at Riverside . Repeat the defense wave and an HVT will spawn once again. Kill the HVT once it is affected by the Aether Field Generator trap close to the canister you placed down. Bring the filled canister to the generator in the Dark Aether. Once placed, the generator will now allow you to interact with it to start the Final Encounter.",
+        "html": "<ol>\n<li>\n<p>Make your way to the Dark Aether (church) and interact with <a href=\"https://www.reddit.com/r/CODZombies/wiki/liberty-falls/\" target=\"_blank\" rel=\"noopener noreferrer\">the generator on the right-side wall (in the original source)</a> . Doing so will cause your screen to flash white and Dr. Panos will begin speaking to you and Blanchard. With the Jet Gun acquire three items using the sucking ability:</p>\n</li>\n<li>\n<p>Obtain the Thrustodyne M23 and use the primary fire (sucking ability) to suck up and obtain 3 pieces of the L.T.G. The pieces can be found in the following locations:</p>\n<ul>\n<li><a href=\"https://www.reddit.com/r/CODZombies/wiki/liberty-falls/\" target=\"_blank\" rel=\"noopener noreferrer\">Floating inside the Dark Aether near Panos (in the original source)</a></li>\n<li><a href=\"https://www.reddit.com/r/CODZombies/wiki/liberty-falls/\" target=\"_blank\" rel=\"noopener noreferrer\">In the ceiling in Olly&#x27;s Comics (in the original source)</a></li>\n<li><a href=\"https://www.reddit.com/r/CODZombies/wiki/liberty-falls/\" target=\"_blank\" rel=\"noopener noreferrer\">Inside the 2nd story of the Buzz&#x27;s Cuts building in Washington Ave. near the Speed Cola machine (in the original source)</a></li>\n</ul>\n</li>\n<li>Use the three items to build the L.T.G. at <a href=\"https://www.reddit.com/r/CODZombies/wiki/liberty-falls/\" target=\"_blank\" rel=\"noopener noreferrer\">the crafting bench in &quot;The Alamo&quot; (in the original source)</a> .</li>\n<li>Return to the Dark Aether and pick up canister from the generator. Picking up the canister will make you unable to sprint/slide/dive. Place it on next to one of the emitters of the Dark Aether Field Generator trap on Hill Street/Washington Ave.</li>\n<li>Place the L.T.G. in the Cemetery <a href=\"https://www.reddit.com/r/CODZombies/wiki/liberty-falls/\" target=\"_blank\" rel=\"noopener noreferrer\">underneath the large Dark Aether storm cloud (in the original source)</a> . Doing so will start a defense wave, if the zombies destroy the L.T.G. you must try again on another round. If you successfully defend the L.T.G. for the time limit, an HVT will spawn. Bringing the HVT to the Dark Aether Field Generator trap where you previously placed canister and killing it while it is affected by the trap will store its essence inside the canister.</li>\n</ol>\n<p>A Max Ammo will spawn and you must take the canister back to the generator in the Dark Aether and interact with the generator to place it in the machine. Failing any of these steps after the HVT spawns will require you to try again on another round and spawn the HVT again.</p>\n<ol start=\"6\">\n<li>Pick up Strauss Counter from the slot opened up on the left side of the generator. Using the Strauss Counter will show you the level of Dark Aether energy in that area. You now must interact with and turn three projectors on the map to a certain color combination, turning the projector to the opposite color of what is shown from the Strauss Counter when using it near the projector. High meaning turning the projector light green, Low meaning red, and yellow otherwise.</li>\n</ol>\n<p>Interacting with the projector will cause it to turn to another color in the order Green, Yellow, Red. The projectors can be found in the following locations:\n     * <a href=\"https://www.reddit.com/r/CODZombies/wiki/liberty-falls/\" target=\"_blank\" rel=\"noopener noreferrer\">On the Hilltop stairs in the grass (in the original source)</a>\n     * <a href=\"https://www.reddit.com/r/CODZombies/wiki/liberty-falls/\" target=\"_blank\" rel=\"noopener noreferrer\">In the Groundskeeper&#x27;s yard (in the original source)</a>\n     * <a href=\"https://www.reddit.com/r/CODZombies/wiki/liberty-falls/\" target=\"_blank\" rel=\"noopener noreferrer\">On the roof of Yummy Freeze (in the original source)</a> , which is accessible from opening a barrier from on-top of &quot;The Alamo] and falling down to it\n  7. Once the projectors are calibrated correctly, <a href=\"https://www.reddit.com/r/CODZombies/wiki/liberty-falls/\" target=\"_blank\" rel=\"noopener noreferrer\">a new canister will be available near Pump &amp; Pay (in the original source)</a> (the initial spawn location of Liberty Falls) after 3 beams of energy are poured into it from around the map. Pick up the canister and place it around one of the emitters of the Dark Aether Field Generator trap near the Pump &amp; Pay gas Station.\n  8. Pick up the L.T.G. from the Cemetery and bring it <a href=\"https://www.reddit.com/r/CODZombies/wiki/liberty-falls/\" target=\"_blank\" rel=\"noopener noreferrer\">underneath the Dark Aether storm cloud at Riverside (in the original source)</a> . Repeat the defense wave and an HVT will spawn once again. Kill the HVT once it is affected by the Aether Field Generator trap close to the canister you placed down. Bring the filled canister to the generator in the Dark Aether. Once placed, the generator will now allow you to interact with it to start the Final Encounter.</p>"
+      },
+      {
+        "title": "Dark Aether HVT Bossfight",
+        "body": "1. Once activating the Final Encounter, all players in the match will be forced into the Dark Aether at the church and will be unable to exit. 2. Zombies will start spawning within the Dark Aether, surviving for long enough will cause a Max Armor power-up to spawn. 3. After surviving long enough several HVT Manglers will spawn. Defeating these HVTs will cause a Max Ammo power-up to spawn shortly after. 4. Survive for a long enough period of time once again and then several HVT Manglers and Abominations will start to spawn. Once the HVTs are all defeated, all players in the match will go into Last Stand and the final cutscene will play.",
+        "html": "<ol>\n<li>Once activating the Final Encounter, all players in the match will be forced into the Dark Aether at the church and will be unable to exit.</li>\n<li>Zombies will start spawning within the Dark Aether, surviving for long enough will cause a Max Armor power-up to spawn.</li>\n<li>After surviving long enough several HVT Manglers will spawn. Defeating these HVTs will cause a Max Ammo power-up to spawn shortly after.</li>\n<li>Survive for a long enough period of time once again and then several HVT Manglers and Abominations will start to spawn. Once the HVTs are all defeated, all players in the match will go into Last Stand and the final cutscene will play.</li>\n</ol>"
+      },
+      {
+        "title": "Counters and recovery",
+        "body": "Use the original Liberty Falls companion for the complete trap placement, 90-second returns and failure-recovery route. Read High/Medium/Low on the Strauss Counter; the documented settings are green/yellow/red respectively. Later players report bulb glow disagreeing with the projector’s small setting indicator. Keep yellow fixed and test red/green settings if beams do not link. The scripted down after the church waves is part of the ending.",
+        "original": true,
+        "tip": "Use Standard for the Ray Gun PJ-SRU cosmetic; Directed has separate completion rewards."
+      }
+    ],
+    "requirements": [
+      "Standard or Directed Mode.",
+      "Jet Gun",
+      "Church access",
+      "Upgrades and armor before the final encounter"
+    ],
+    "reward": "Main-quest completion; Standard additionally awards Ray Gun PJ-SRU.",
+    "relatedGuideIds": [
+      "bo6-liberty-falls-main",
+      "bo6-liberty-falls-jet-gun",
+      "bo6-liberty-falls-community-liberty-falls-key-map-features-pack-a-punch"
+    ],
+    "checked": "2026-10-16",
+    "players": "1–4 players",
+    "sources": [
+      {
+        "title": "r/CODZombies community map guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/liberty-falls/"
+      },
+      {
+        "title": "Firsthand r/CODZombies discussion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1gty41z/"
+      },
+      {
+        "title": "Firsthand r/CODZombies discussion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1nsyebz/"
+      },
+      {
+        "title": "Official BO6 Season 1 patch notes",
+        "url": "https://www.callofduty.com/patchnotes/2024/11/call-of-duty-black-ops-6-season-01-patch-notes"
+      }
+    ],
+    "supplementNote": "Unquoted sections below are researched corrections or added directions. Any unresolved source claims are qualified in the field notes."
+  },
+  "liberty-falls-side-easter-eggs-destroy-something-beautiful-song": {
+    "requirements": [
+      "Standard Mode.",
+      "Access to Motor Lodge alley, Washington Avenue and the church"
+    ],
+    "reward": "The hidden song plays; no lyrics or charm reward are reproduced.",
+    "relatedGuideIds": [
+      "bo6-liberty-falls-music"
+    ],
+    "checked": "2026-10-16",
+    "players": "1–4 players",
+    "sources": [
+      {
+        "title": "r/CODZombies community map guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/liberty-falls/"
+      },
+      {
+        "title": "Illustrated creator route",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3360024093"
+      },
+      {
+        "title": "Official BO6 Season 1 patch notes",
+        "url": "https://www.callofduty.com/patchnotes/2024/11/call-of-duty-black-ops-6-season-01-patch-notes"
+      }
+    ]
+  },
+  "liberty-falls-side-easter-eggs-mr-peeks-bowling": {
+    "category": "side",
+    "steps": [
+      {
+        "title": "Instructions & locations",
+        "body": "Around the map there are 5 pairs of Mr. Peeks shoes you can shoot. Once you shoot all 5 you will be teleported to Liberty Lanes and play a bowling minigame. The more points you score by hitting zombies with the bowling balls the better rewards you will receive. This is repeatable every 5 rounds, but you will only need to shoot one pair of shoes. If you manage to get 300 points in 1 run you will receive a Dark Ops Calling Card. Locations are as follows: * Underneath the spawn area inside the Pump & Pay gas station * Outside Olly's Comics at Riverside inside a window * Outside the Cemetery hanging from a tree, to the left of the Tier III Armor wall-buy * Outside Fuller's Liberty Lanes in the window of the funeral home * In a window of a building on Hill Street next to the AK-74 wall buy * In a window next to the pool table in Liberty Lanes lodged in the toilet Only every 5+ rounds after bowling",
+        "html": "<p>Around the map there are 5 pairs of Mr. Peeks shoes you can shoot. Once you shoot all 5 you will be teleported to Liberty Lanes and play a bowling minigame. The more points you score by hitting zombies with the bowling balls the better rewards you will receive. This is repeatable every 5 rounds, but you will only need to shoot one pair of shoes. If you manage to get 300 points in 1 run you will receive a Dark Ops Calling Card.\nLocations are as follows:</p>\n<ul>\n<li>\n<p><a href=\"https://www.reddit.com/r/CODZombies/wiki/liberty-falls/\" target=\"_blank\" rel=\"noopener noreferrer\">Underneath the spawn area inside the Pump &amp; Pay gas station (in the original source)</a></p>\n</li>\n<li>\n<p><a href=\"https://www.reddit.com/r/CODZombies/wiki/liberty-falls/\" target=\"_blank\" rel=\"noopener noreferrer\">Outside Olly&#x27;s Comics at Riverside inside a window (in the original source)</a></p>\n</li>\n<li>\n<p><a href=\"https://www.reddit.com/r/CODZombies/wiki/liberty-falls/\" target=\"_blank\" rel=\"noopener noreferrer\">Outside the Cemetery hanging from a tree, to the left of the Tier III Armor wall-buy (in the original source)</a></p>\n</li>\n<li>\n<p><a href=\"https://www.reddit.com/r/CODZombies/wiki/liberty-falls/\" target=\"_blank\" rel=\"noopener noreferrer\">Outside Fuller&#x27;s Liberty Lanes in the window of the funeral home (in the original source)</a></p>\n</li>\n<li>\n<p><a href=\"https://www.reddit.com/r/CODZombies/wiki/liberty-falls/\" target=\"_blank\" rel=\"noopener noreferrer\">In a window of a building on Hill Street next to the AK-74 wall buy (in the original source)</a></p>\n</li>\n<li><a href=\"https://www.reddit.com/r/CODZombies/wiki/liberty-falls/\" target=\"_blank\" rel=\"noopener noreferrer\">In a window next to the pool table in Liberty Lanes lodged in the toilet Only every 5+ rounds after bowling (in the original source)</a></li>\n</ul>",
+        "images": [
+          {
+            "src": "./assets/bo6-batch2-liberty-falls-bowling-shoes-pump-and-pay.webp",
+            "alt": "Pump & Pay counter.",
+            "caption": "Pump & Pay counter.",
+            "credit": "Call of Duty / Activision gameplay; COD:ZG location guide",
+            "source": "https://www.codzombiesguides.com/side-quests/black-ops-6/liberty-falls/mister-peeks-bowling/"
+          },
+          {
+            "src": "./assets/bo6-batch2-liberty-falls-bowling-shoes-riverside.webp",
+            "alt": "Frank’s Hardware shelf opposite Olly’s.",
+            "caption": "Frank’s Hardware shelf opposite Olly’s.",
+            "credit": "Call of Duty / Activision gameplay; COD:ZG location guide",
+            "source": "https://www.codzombiesguides.com/side-quests/black-ops-6/liberty-falls/mister-peeks-bowling/"
+          },
+          {
+            "src": "./assets/bo6-batch2-liberty-falls-bowling-shoes-hill-street.webp",
+            "alt": "Hill Street: under the armchair.",
+            "caption": "Hill Street: under the armchair.",
+            "credit": "Call of Duty / Activision gameplay; COD:ZG location guide",
+            "source": "https://www.codzombiesguides.com/side-quests/black-ops-6/liberty-falls/mister-peeks-bowling/"
+          },
+          {
+            "src": "./assets/bo6-batch2-liberty-falls-bowling-shoes-cemetery.webp",
+            "alt": "Cemetery: shoes on the tree branch.",
+            "caption": "Cemetery: shoes on the tree branch.",
+            "credit": "Call of Duty / Activision gameplay; COD:ZG location guide",
+            "source": "https://www.codzombiesguides.com/side-quests/black-ops-6/liberty-falls/mister-peeks-bowling/"
+          },
+          {
+            "src": "./assets/bo6-batch2-liberty-falls-bowling-shoes-west-main-street.webp",
+            "alt": "Funeral home: shoes on the coffin.",
+            "caption": "Funeral home: shoes on the coffin.",
+            "credit": "Call of Duty / Activision gameplay; COD:ZG location guide",
+            "source": "https://www.codzombiesguides.com/side-quests/black-ops-6/liberty-falls/mister-peeks-bowling/"
+          }
+        ],
+        "tip": "300 is the personal score for Strike! / Deadwood. The toilet shoes are the later replay trigger, not a sixth pair for the first game. Finish a special-enemy round if the teleport is delayed."
+      }
+    ],
+    "sourceOmissions": [
+      "The wiki’s bowling charm reward claim is omitted. Firsthand completion reports and official patch notes place weapon charm rewards with the main quests."
+    ],
+    "requirements": [
+      "Standard Mode.",
+      "Bullet weapon; access to all five initial shoe sites"
+    ],
+    "reward": "Score-based loot; 300 unlocks Strike! and Deadwood.",
+    "relatedGuideIds": [
+      "bo6-liberty-falls-bowling"
+    ],
+    "checked": "2026-10-16",
+    "players": "1–4 players",
+    "sources": [
+      {
+        "title": "r/CODZombies community map guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/liberty-falls/"
+      },
+      {
+        "title": "Firsthand r/CODZombies discussion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1gz2w8w/"
+      },
+      {
+        "title": "Illustrated creator route",
+        "url": "https://www.codzombiesguides.com/side-quests/black-ops-6/liberty-falls/mister-peeks-bowling/"
+      },
+      {
+        "title": "Firsthand r/CODZombies discussion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1grel76/"
+      },
+      {
+        "title": "Official BO6 Season 1 patch notes",
+        "url": "https://www.callofduty.com/patchnotes/2024/11/call-of-duty-black-ops-6-season-01-patch-notes"
+      }
+    ]
+  },
+  "liberty-falls-side-easter-eggs-mr-peeks-car": {
+    "requirements": [
+      "Standard Mode.",
+      "Mangler Cannon damage: carried cannon, Mutant Injection or an enemy blast",
+      "Only destroy the car containing Mister Peeks"
+    ],
+    "reward": "Random weapon reward, with a chance of Ray Gun or Jet Gun.",
+    "relatedGuideIds": [
+      "bo6-liberty-falls-jet-gun"
+    ],
+    "checked": "2026-10-16",
+    "players": "1–4 players",
+    "sources": [
+      {
+        "title": "r/CODZombies community map guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/liberty-falls/"
+      },
+      {
+        "title": "Illustrated creator route",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3360024093"
+      },
+      {
+        "title": "Firsthand r/CODZombies discussion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1gz2w8w/"
+      },
+      {
+        "title": "Official BO6 Season 1 patch notes",
+        "url": "https://www.callofduty.com/patchnotes/2024/11/call-of-duty-black-ops-6-season-01-patch-notes"
+      }
+    ]
+  },
+  "liberty-falls-side-easter-eggs-vending-machine-loot": {
+    "steps": [
+      {
+        "title": "Instructions & locations",
+        "body": "Near the stairs of the Motor Lodge, melee the vending machine to receive a free piece of loot. This can be anything from a useless bag of chips to a Ray Gun. This can be done once per round, if you are unable to, try again later in the round. (Note: You need to crouch in order for it to register your hit) If you hit the vending machine while you have the Melee Macchiato perk, the vending machine will break, causing 5 pieces of loot to dispense. This causes the vending machine to be unable to dispense loot for the rest of the match.",
+        "html": "<p>Near the stairs of the Motor Lodge, melee <a href=\"https://www.reddit.com/r/CODZombies/wiki/liberty-falls/\" target=\"_blank\" rel=\"noopener noreferrer\">the vending machine (in the original source)</a> to receive a free piece of loot. This can be anything from a useless bag of chips to a Ray Gun. This can be done once per round, if you are unable to, try again later in the round. (Note: You need to crouch in order for it to register your hit)\nIf you hit the vending machine while you have the Melee Macchiato perk, the vending machine will break, causing 5 pieces of loot to dispense. This causes the vending machine to be unable to dispense loot for the rest of the match.</p>",
+        "tip": "Aim the melee hit at the lower item slot. A Melee Macchiato gun-butt punch can break the machine for the match; use care if preserving its once-per-round attempts."
+      }
+    ],
+    "requirements": [
+      "Standard Mode.",
+      "Motor Lodge vending machine beside the alley barrier"
+    ],
+    "reward": "Random snacks or loot; rare weapons, perks, tools and crystals are not guaranteed.",
+    "checked": "2026-10-16",
+    "players": "1–4 players",
+    "sources": [
+      {
+        "title": "r/CODZombies community map guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/liberty-falls/"
+      },
+      {
+        "title": "Firsthand r/CODZombies discussion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1ggeeyg/"
+      },
+      {
+        "title": "Firsthand r/CODZombies discussion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1gz2w8w/"
+      },
+      {
+        "title": "Official BO6 Season 1 patch notes",
+        "url": "https://www.callofduty.com/patchnotes/2024/11/call-of-duty-black-ops-6-season-01-patch-notes"
+      }
+    ]
+  },
+  "liberty-falls-side-easter-eggs-rave-zombie": {
+    "requirements": [
+      "Standard Mode.",
+      "50 Essence for each of the two Riverside viewfinders",
+      "Keep the distant dancing zombie centered until each confirmation"
+    ],
+    "reward": "Temporary dancing-zombie scene and bus music.",
+    "checked": "2026-10-16",
+    "players": "1–4 players",
+    "sources": [
+      {
+        "title": "r/CODZombies community map guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/liberty-falls/"
+      },
+      {
+        "title": "Illustrated creator route",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3360024093"
+      },
+      {
+        "title": "Official BO6 Season 1 patch notes",
+        "url": "https://www.callofduty.com/patchnotes/2024/11/call-of-duty-black-ops-6-season-01-patch-notes"
+      }
+    ]
+  },
+  "liberty-falls-side-easter-eggs-world-domination-become-aetherella": {
+    "requirements": [
+      "Standard Mode.",
+      "Jet Gun primary suction",
+      "Bank / Washington Avenue roof access"
+    ],
+    "reward": "Temporary Aetherella transformation; a transformed kill earns World Domination.",
+    "players": "1–4 players; final collector transforms",
+    "relatedGuideIds": [
+      "bo6-liberty-falls-aetherella",
+      "bo6-liberty-falls-jet-gun"
+    ],
+    "checked": "2026-10-16",
+    "sources": [
+      {
+        "title": "r/CODZombies community map guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/liberty-falls/"
+      },
+      {
+        "title": "Illustrated creator route",
+        "url": "https://www.codzombiesguides.com/side-quests/black-ops-6/liberty-falls/aetherella-superhero/"
+      },
+      {
+        "title": "Firsthand r/CODZombies discussion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1godejd/"
+      },
+      {
+        "title": "Official BO6 Season 1 patch notes",
+        "url": "https://www.callofduty.com/patchnotes/2024/11/call-of-duty-black-ops-6-season-01-patch-notes"
+      }
+    ]
+  },
+  "liberty-falls-side-easter-eggs-free-power-ups": {
+    "steps": [
+      {
+        "title": "Max Ammo",
+        "body": "At Pump & Pay, look along the broken bridge behind the spawn rooftop / Rampage Inducer.",
+        "original": true,
+        "images": [
+          {
+            "src": "./assets/bo6-batch2-liberty-falls-free-max-ammo.webp",
+            "alt": "Max Ammo target.",
+            "caption": "Max Ammo target.",
+            "credit": "Call of Duty / Activision gameplay; COD:ZG location guide",
+            "source": "https://www.codzombiesguides.com/side-quests/black-ops-6/liberty-falls/hidden-power-ups/"
+          }
+        ]
+      },
+      {
+        "title": "Bonus Points",
+        "body": "At Riverside, look up at the air conditioner beside the windows on the right wall of Olly’s Comics.",
+        "original": true,
+        "images": [
+          {
+            "src": "./assets/bo6-batch2-liberty-falls-free-bonus-points.webp",
+            "alt": "Bonus Points target.",
+            "caption": "Bonus Points target.",
+            "credit": "Call of Duty / Activision gameplay; COD:ZG location guide",
+            "source": "https://www.codzombiesguides.com/side-quests/black-ops-6/liberty-falls/hidden-power-ups/"
+          }
+        ]
+      },
+      {
+        "title": "Double Points",
+        "body": "From Groundskeeper’s Yard, shoot the miniature on the distant water tower.",
+        "original": true,
+        "images": [
+          {
+            "src": "./assets/bo6-batch2-liberty-falls-free-double-points.webp",
+            "alt": "Double Points target.",
+            "caption": "Double Points target.",
+            "credit": "Call of Duty / Activision gameplay; COD:ZG location guide",
+            "source": "https://www.codzombiesguides.com/side-quests/black-ops-6/liberty-falls/hidden-power-ups/"
+          }
+        ]
+      },
+      {
+        "title": "Nuke",
+        "body": "From The Alamo rooftop window, shoot the model on the Savings & Loan chandelier.",
+        "original": true,
+        "images": [
+          {
+            "src": "./assets/bo6-batch2-liberty-falls-free-nuke.webp",
+            "alt": "Nuke target.",
+            "caption": "Nuke target.",
+            "credit": "Call of Duty / Activision gameplay; COD:ZG location guide",
+            "source": "https://www.codzombiesguides.com/side-quests/black-ops-6/liberty-falls/hidden-power-ups/"
+          }
+        ]
+      },
+      {
+        "title": "Insta-Kill",
+        "body": "From Cemetery, look at the rear edge of the church roof.",
+        "original": true,
+        "images": [
+          {
+            "src": "./assets/bo6-batch2-liberty-falls-free-insta-kill.webp",
+            "alt": "Insta-Kill target.",
+            "caption": "Insta-Kill target.",
+            "credit": "Call of Duty / Activision gameplay; COD:ZG location guide",
+            "source": "https://www.codzombiesguides.com/side-quests/black-ops-6/liberty-falls/hidden-power-ups/"
+          }
+        ]
+      },
+      {
+        "title": "Max Armor",
+        "body": "From Washington Avenue Rooftops, look through the opposite white/blue house window: bottom shelf of the service cart.",
+        "original": true,
+        "images": [
+          {
+            "src": "./assets/bo6-batch2-liberty-falls-free-max-armor.webp",
+            "alt": "Max Armor target.",
+            "caption": "Max Armor target.",
+            "credit": "Call of Duty / Activision gameplay; COD:ZG location guide",
+            "source": "https://www.codzombiesguides.com/side-quests/black-ops-6/liberty-falls/hidden-power-ups/"
+          }
+        ]
+      },
+      {
+        "title": "Full Power",
+        "body": "Look beyond the West Main barricades behind the bus near Liberty Lanes.",
+        "original": true,
+        "images": [
+          {
+            "src": "./assets/bo6-batch2-liberty-falls-free-full-power.webp",
+            "alt": "Full Power target.",
+            "caption": "Full Power target.",
+            "credit": "Call of Duty / Activision gameplay; COD:ZG location guide",
+            "source": "https://www.codzombiesguides.com/side-quests/black-ops-6/liberty-falls/hidden-power-ups/"
+          }
+        ]
+      },
+      {
+        "title": "Fire Sale",
+        "body": "After the other seven have been shot, check inside the bin left of PhD Flopper at Hilltop Stairs.",
+        "original": true,
+        "images": [
+          {
+            "src": "./assets/bo6-batch2-liberty-falls-fire-sale.webp",
+            "alt": "Fire Sale target.",
+            "caption": "Fire Sale target.",
+            "credit": "Call of Duty / Activision gameplay; COD:ZG location guide",
+            "source": "https://www.codzombiesguides.com/side-quests/black-ops-6/liberty-falls/hidden-power-ups/"
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      "Standard Mode.",
+      "A bullet weapon; scoped aim helps",
+      "Each hidden model can be used once per match"
+    ],
+    "reward": "Seven hidden power-ups, then an additional hidden Fire Sale.",
+    "sourceOmissions": [
+      "The incomplete source location list is replaced by the researched eight-target route."
+    ],
+    "checked": "2026-10-16",
+    "players": "1–4 players",
+    "sources": [
+      {
+        "title": "r/CODZombies community map guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/liberty-falls/"
+      },
+      {
+        "title": "Illustrated creator route",
+        "url": "https://www.codzombiesguides.com/side-quests/black-ops-6/liberty-falls/hidden-power-ups/"
+      },
+      {
+        "title": "Firsthand r/CODZombies discussion",
+        "url": "https://www.reddit.com/r/BO6Zombies/comments/1hhm61l/"
+      },
+      {
+        "title": "Official BO6 Season 1 patch notes",
+        "url": "https://www.callofduty.com/patchnotes/2024/11/call-of-duty-black-ops-6-season-01-patch-notes"
+      }
+    ],
+    "supplementNote": "Unquoted sections below are researched corrections or added directions. Any unresolved source claims are qualified in the field notes.",
+    "sourceQuote": null
+  },
+  "terminus-side-easter-eggs-free-power-ups": {
+    "steps": [
+      {
+        "title": "Max Ammo",
+        "body": "Shoot the model inside the Storage Area guard tower.",
+        "original": true,
+        "images": [
+          {
+            "src": "./assets/bo6-batch2-terminus-max-ammo.webp",
+            "alt": "Max Ammo target.",
+            "caption": "Max Ammo target.",
+            "credit": "Call of Duty / Activision gameplay; COD:ZG location guide",
+            "source": "https://www.codzombiesguides.com/side-quests/black-ops-6/terminus/hidden-power-ups-terminus/"
+          }
+        ]
+      },
+      {
+        "title": "Bonus Points",
+        "body": "From the Shipwreck, look through the upper-right cabin window.",
+        "original": true,
+        "images": [
+          {
+            "src": "./assets/bo6-batch2-terminus-bonus-points.webp",
+            "alt": "Bonus Points target.",
+            "caption": "Bonus Points target.",
+            "credit": "Call of Duty / Activision gameplay; COD:ZG location guide",
+            "source": "https://www.codzombiesguides.com/side-quests/black-ops-6/terminus/hidden-power-ups-terminus/"
+          }
+        ]
+      },
+      {
+        "title": "Double Points",
+        "body": "In the Bio Lab office, look behind the stacked boxes.",
+        "original": true,
+        "images": [
+          {
+            "src": "./assets/bo6-batch2-terminus-double-points.webp",
+            "alt": "Double Points target.",
+            "caption": "Double Points target.",
+            "credit": "Call of Duty / Activision gameplay; COD:ZG location guide",
+            "source": "https://www.codzombiesguides.com/side-quests/black-ops-6/terminus/hidden-power-ups-terminus/"
+          }
+        ]
+      },
+      {
+        "title": "Insta-Kill",
+        "body": "At Temple Island ruins, check the ledge left of the Ammo Cache.",
+        "original": true,
+        "images": [
+          {
+            "src": "./assets/bo6-batch2-terminus-insta-kill.webp",
+            "alt": "Insta-Kill target.",
+            "caption": "Insta-Kill target.",
+            "credit": "Call of Duty / Activision gameplay; COD:ZG location guide",
+            "source": "https://www.codzombiesguides.com/side-quests/black-ops-6/terminus/hidden-power-ups-terminus/"
+          }
+        ]
+      },
+      {
+        "title": "Nuke",
+        "body": "On Crab Island, check the zombie window along the left-hand path from its dock.",
+        "original": true,
+        "images": [
+          {
+            "src": "./assets/bo6-batch2-terminus-nuke.webp",
+            "alt": "Nuke target.",
+            "caption": "Nuke target.",
+            "credit": "Call of Duty / Activision gameplay; COD:ZG location guide",
+            "source": "https://www.codzombiesguides.com/side-quests/black-ops-6/terminus/hidden-power-ups-terminus/"
+          }
+        ]
+      },
+      {
+        "title": "Full Power",
+        "body": "Use a boat angle toward the inaccessible sea tower: look at the metal beam below its platform.",
+        "original": true,
+        "images": [
+          {
+            "src": "./assets/bo6-batch2-terminus-full-power.webp",
+            "alt": "Full Power target.",
+            "caption": "Full Power target.",
+            "credit": "Call of Duty / Activision gameplay; COD:ZG location guide",
+            "source": "https://www.codzombiesguides.com/side-quests/black-ops-6/terminus/hidden-power-ups-terminus/"
+          }
+        ]
+      },
+      {
+        "title": "Max Armor",
+        "body": "In Interrogation, shoot into the bucket left of the wooden torture chair.",
+        "original": true,
+        "images": [
+          {
+            "src": "./assets/bo6-batch2-terminus-max-armor.webp",
+            "alt": "Max Armor target.",
+            "caption": "Max Armor target.",
+            "credit": "Call of Duty / Activision gameplay; COD:ZG location guide",
+            "source": "https://www.codzombiesguides.com/side-quests/black-ops-6/terminus/hidden-power-ups-terminus/"
+          }
+        ]
+      },
+      {
+        "title": "Fire Sale",
+        "body": "After the other seven, check the barrel inside the Security Overlook zombie spawn.",
+        "original": true,
+        "images": [
+          {
+            "src": "./assets/bo6-batch2-terminus-fire-sale.webp",
+            "alt": "Fire Sale target.",
+            "caption": "Fire Sale target.",
+            "credit": "Call of Duty / Activision gameplay; COD:ZG location guide",
+            "source": "https://www.codzombiesguides.com/side-quests/black-ops-6/terminus/hidden-power-ups-terminus/"
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      "Standard Mode.",
+      "A bullet weapon; scoped aim helps",
+      "Each hidden model can be used once per match"
+    ],
+    "reward": "Seven hidden power-ups, then an additional hidden Fire Sale.",
+    "sourceOmissions": [
+      "The incomplete source location list is replaced by the researched eight-target route."
+    ],
+    "checked": "2026-10-16",
+    "players": "1–4 players",
+    "sources": [
+      {
+        "title": "r/CODZombies community map guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/terminus/"
+      },
+      {
+        "title": "Illustrated creator route",
+        "url": "https://www.codzombiesguides.com/side-quests/black-ops-6/terminus/hidden-power-ups-terminus/"
+      },
+      {
+        "title": "Firsthand r/CODZombies discussion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1gz2w8w/"
+      },
+      {
+        "title": "Official BO6 Season 1 patch notes",
+        "url": "https://www.callofduty.com/patchnotes/2024/11/call-of-duty-black-ops-6-season-01-patch-notes"
+      }
+    ],
+    "supplementNote": "Unquoted sections below are researched corrections or added directions. Any unresolved source claims are qualified in the field notes.",
+    "sourceQuote": null
+  },
+  "liberty-falls-side-easter-eggs-deadshot-daquiri-sharpshooter": {
+    "steps": [
+      {
+        "title": "Shoot five fence cans",
+        "body": "From the back Cemetery opening, aim at the five cans on the fence outside the map. Use a scoped bullet weapon such as an un-Pack-a-Punched LR 7.62. Hit all five promptly without wasting shots. Completing the sequence grants Deadshot Daiquiri.",
+        "original": true,
+        "tip": "The sources disagree on a precise 20 versus roughly 30-second limit. Start lined up, aim for five clean shots well inside 20 seconds, and wait a later round if the cans drop after a failed attempt. Avoid explosive PaP weapons.",
+        "images": [
+          {
+            "src": "./assets/bo6-batch2-liberty-falls-deadshot-ee.webp",
+            "alt": "Five cans on the distant fence.",
+            "caption": "Five cans on the distant fence.",
+            "credit": "Call of Duty / Activision gameplay; COD:ZG location guide",
+            "source": "https://www.codzombiesguides.com/side-quests/black-ops-6/liberty-falls/free-deadshot-perk/"
+          }
+        ]
+      }
+    ],
+    "title": "Deadshot Daiquiri sharpshooter",
+    "requirements": [
+      "Standard Mode.",
+      "Cemetery access; scoped, nonexplosive bullet weapon recommended"
+    ],
+    "reward": "Deadshot Daiquiri for the successful player.",
+    "sourceOmissions": [
+      "The exact 20-second failure assertion is replaced by qualified timing advice; illustrated sources describe roughly 30 seconds."
+    ],
+    "checked": "2026-10-16",
+    "players": "1–4 players",
+    "sources": [
+      {
+        "title": "r/CODZombies community map guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/liberty-falls/"
+      },
+      {
+        "title": "Illustrated creator route",
+        "url": "https://www.codzombiesguides.com/side-quests/black-ops-6/liberty-falls/free-deadshot-perk/"
+      },
+      {
+        "title": "Firsthand r/CODZombies discussion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1gz2w8w/"
+      },
+      {
+        "title": "Official BO6 Season 1 patch notes",
+        "url": "https://www.callofduty.com/patchnotes/2024/11/call-of-duty-black-ops-6-season-01-patch-notes"
+      }
+    ],
+    "supplementNote": "Unquoted sections below are researched corrections or added directions. Any unresolved source claims are qualified in the field notes.",
+    "sourceQuote": null
+  },
+  "liberty-falls-side-easter-eggs-raining-zombies": {
+    "steps": [
+      {
+        "title": "Explode the church-spire head",
+        "body": "Use an explosive on the head at the left front church spire. Collect the raining-zombie loot. One Aether Tool drops: Uncommon on rounds 1–9, Rare on 10–24, Epic on 25+. The remaining loot varies and the one tool is shared.",
+        "original": true,
+        "images": [
+          {
+            "src": "./assets/bo6-batch2-liberty-falls-raining-zombies.webp",
+            "alt": "Explosive target on the left church spire; separate from the Insta-Kill skull.",
+            "caption": "Explosive target on the left church spire; separate from the Insta-Kill skull.",
+            "credit": "Call of Duty / Activision gameplay; COD:ZG location guide",
+            "source": "https://www.codzombiesguides.com/side-quests/black-ops-6/liberty-falls/raining-zombies/"
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      "Standard Mode.",
+      "Explosive damage; church exterior access"
+    ],
+    "reward": "One round-scaled Aether Tool and random loot.",
+    "relatedGuideIds": [
+      "bo6-liberty-falls-raining-zombies",
+      "bo6-liberty-falls-community-liberty-falls-key-map-features-pack-a-punch"
+    ],
+    "sourceOmissions": [
+      "The wiki’s older tool-rarity wording is replaced by the supported round thresholds."
+    ],
+    "checked": "2026-10-16",
+    "players": "1–4 players",
+    "sources": [
+      {
+        "title": "r/CODZombies community map guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/liberty-falls/"
+      },
+      {
+        "title": "Illustrated creator route",
+        "url": "https://www.codzombiesguides.com/side-quests/black-ops-6/liberty-falls/raining-zombies/"
+      },
+      {
+        "title": "Official BO6 Season 1 patch notes",
+        "url": "https://www.callofduty.com/patchnotes/2024/11/call-of-duty-black-ops-6-season-01-patch-notes"
+      }
+    ],
+    "supplementNote": "Unquoted sections below are researched corrections or added directions. Any unresolved source claims are qualified in the field notes.",
+    "sourceQuote": null
+  },
+  "liberty-falls-side-easter-eggs-blood-pool-fire-sale": {
+    "requirements": [
+      "Standard Mode.",
+      "Semtex and access behind Liberty Lanes",
+      "Complete a Vermin round between activations"
+    ],
+    "reward": "Salvage/equipment and hostile Vermin; the third activation also gives Fire Sale.",
+    "checked": "2026-10-16",
+    "players": "1–4 players",
+    "sources": [
+      {
+        "title": "r/CODZombies community map guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/liberty-falls/"
+      },
+      {
+        "title": "Firsthand r/CODZombies discussion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1gukkd0/"
+      },
+      {
+        "title": "Official BO6 Season 1 patch notes",
+        "url": "https://www.callofduty.com/patchnotes/2024/11/call-of-duty-black-ops-6-season-01-patch-notes"
+      }
+    ]
+  },
+  "liberty-falls-side-easter-eggs-gravedigger": {
+    "steps": [
+      {
+        "title": "Instructions & locations",
+        "body": "Shooting a wooden barrel viewable from the Washington Ave. Rooftops with the minigun of a Chopper Gunner scorestreak , will cause a shovel to fall below where the barrel was. Interacting with the shovel will allow you to obtain it. Going to the gravestones at the Cemetary and interacting in-front of them will allow you to dig up various things from a free perk, equipment, weaponry, and even enemies.",
+        "html": "<p>Shooting a <a href=\"https://www.reddit.com/r/CODZombies/wiki/liberty-falls/\" target=\"_blank\" rel=\"noopener noreferrer\">wooden barrel (in the original source)</a> viewable from the Washington Ave. Rooftops with <a href=\"https://www.reddit.com/r/CODZombies/wiki/liberty-falls/\" target=\"_blank\" rel=\"noopener noreferrer\">the minigun of a Chopper Gunner scorestreak (in the original source)</a> , will cause a shovel to fall below where the barrel was. Interacting with the shovel will allow you to obtain it. Going to the gravestones at the Cemetary and interacting in-front of them will allow you to dig up various things from a free perk, equipment, weaponry, and even enemies.</p>"
+      },
+      {
+        "title": "Find the dropped shovel",
+        "body": "Ping the barrel from Washington Avenue Rooftops before using the Chopper Gunner, or the illustrated Hellstorm alternative. After it breaks, collect the shovel on the ledge/ground directly beneath the barrel; do not search the opposite street. Interact at Cemetery grave plots to dig.",
+        "original": true,
+        "tip": "Firsthand players also report a well-placed Semtex or other explosive working. Those trajectories are less forgiving than the aerial route. Loot is random and enemies can appear.",
+        "images": [
+          {
+            "src": "./assets/bo6-batch2-liberty-falls-gravedigging-barrel.webp",
+            "alt": "Target barrel above the roof wall.",
+            "caption": "Target barrel above the roof wall.",
+            "credit": "Call of Duty / Activision gameplay; COD:ZG location guide",
+            "source": "https://www.codzombiesguides.com/side-quests/black-ops-6/liberty-falls/gravedigging/"
+          },
+          {
+            "src": "./assets/bo6-batch2-liberty-falls-gravedigging-shovel.webp",
+            "alt": "Shovel below the barrel site.",
+            "caption": "Shovel below the barrel site.",
+            "credit": "Call of Duty / Activision gameplay; COD:ZG location guide",
+            "source": "https://www.codzombiesguides.com/side-quests/black-ops-6/liberty-falls/gravedigging/"
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      "Standard Mode.",
+      "Chopper Gunner or Hellstorm for the documented aerial route",
+      "Washington Avenue rooftop and Cemetery access"
+    ],
+    "reward": "Random grave loot, potentially perks/weapons, with possible hostile spawns.",
+    "checked": "2026-10-16",
+    "players": "1–4 players",
+    "sources": [
+      {
+        "title": "r/CODZombies community map guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/liberty-falls/"
+      },
+      {
+        "title": "Illustrated creator route",
+        "url": "https://www.codzombiesguides.com/side-quests/black-ops-6/liberty-falls/gravedigging/"
+      },
+      {
+        "title": "Firsthand r/CODZombies discussion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1gukkd0/"
+      },
+      {
+        "title": "Official BO6 Season 1 patch notes",
+        "url": "https://www.callofduty.com/patchnotes/2024/11/call-of-duty-black-ops-6-season-01-patch-notes"
+      }
+    ],
+    "supplementNote": "Unquoted sections below are researched corrections or added directions. Any unresolved source claims are qualified in the field notes."
+  },
+  "liberty-falls-side-easter-eggs-free-pool-table-points": {
+    "requirements": [
+      "Standard or Directed Mode.",
+      "Access to Liberty Lanes; bullet weapon"
+    ],
+    "reward": "One 100-Essence pickup.",
+    "checked": "2026-10-16",
+    "players": "1–4 players",
+    "sources": [
+      {
+        "title": "r/CODZombies community map guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/liberty-falls/"
+      },
+      {
+        "title": "Firsthand r/CODZombies discussion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1gtb1o0/"
+      },
+      {
+        "title": "Official BO6 Season 1 patch notes",
+        "url": "https://www.callofduty.com/patchnotes/2024/11/call-of-duty-black-ops-6-season-01-patch-notes"
+      }
+    ]
+  },
+  "terminus-main-quest-main-quest": {
+    "steps": [
+      {
+        "title": "Steps",
+        "body": "1. Obtain a Beamsmasher wonder weapon. When the correct one is shot it will drop a Hard Drive. The correct trap is the one that is visibly damaged with a broken grate. 2. Take the Hard Drive to the Guard Station where Peck and Strauss are located and insert it into the slot under the window. You can then go down to the middle of the Bio Lab to reveal Nathan's chamber by interacting with the main window/keypad on it. 3. You need to find a 3-digit code around the map. Once you find the code you can use the keypad at Nathan's chamber to input it. * Code 1 is found by going to the Interrogation Room and looking at the clock behind the barrier. The main hour hand of the clock is the first digit. ((Note: If the time is say, 7:35, the hour hand will be between 7 and 8. This means the number is 7)* * Code 2 is found by going to the Mess Hall/Kitchen area. There is a playing card on a corkboard. The number is whatever is on the playing card. * Code 3 is found by going to the Engineering room. In there a sign dictating how many days since incident is on the wall. The number on that sign is the digit you need. Once you input the code, the chamber is ready to open. All players in the game need to interact with the valves on the chamber and the bossfight with Nathan will begin. Nathan is an Amalgam and has the same weaknesses as other Amalgam (Dead Wire and Shadow Rift). Once he is defeated you will watch a cutscene. 4. Jumping into the water next to Nathan's corpse, you can find a keycard. Next, head to the Communications room and interact with a computer that has a black screen and green text. Peck will tell you that the communications line has been cut, and that they require reconnecting with Node Connectors. 5. Go to the Shipwreck. Underneath the Shipwreck there is a ladder you can go up to find a room containing the Node Connectors. The room only opens once you have the aforementioned Keycard. Once you pick up a Node Connector you will have to complete a lockdown in that room. Once the lockdown is over, a Max Ammo will spawn. After this, take the Node Connectors to two of the following areas, where there will be a visible gap to install the connectors. * Right side of Sea Cave * Underneath the Sea Tower at the Docks * Leftmost side of Crab Island 6. Once both connectors are placed, head back to the Guard Station and grab the hacking device. 7. In the water, there are 3 buoys you need to hack by going up to them by boat and interacting with them while having the hacking device in your inventory. You can use your map and see where a lot of red dots (Parasites) are and use that as a guide for where the buoys are. The hacking is on a timer so you must do all 3 in succession or else you will need to start over. The 3 buoys are located near the Docks, the Shipwreck, and Temple Island, and can be hacked in any order. 8. 3 bombs behind revealed doors will need to be defused in the Bio Lab immediately after hacking the 3 satellites. You have 5 minutes to defuse the bombs or else the entire island will explode, killing you. During this step an infinite amount of zombies will spawn. Manglers can spawn after defusing the first bomb, while Amalgams will spawn after defusing the second bomb. 9. Once all the bombs are defused you can now interact with a door next to Melee Macchiato to initiate the Final Encounter.",
+        "html": "<ol>\n<li>Obtain a Beamsmasher wonder weapon. When the correct one is shot it will drop a Hard Drive. The correct trap is the one that is visibly damaged with a broken grate.</li>\n<li>\n<p>Take the Hard Drive to the Guard Station where Peck and Strauss are located and insert it into the slot under the window. You can then go down to the middle of the Bio Lab to reveal Nathan&#x27;s chamber by interacting with the main window/keypad on it.</p>\n</li>\n<li>\n<p>You need to find a 3-digit code around the map. Once you find the code you can use the keypad at Nathan&#x27;s chamber to input it.</p>\n<ul>\n<li>Code 1 is found by going to the Interrogation Room and looking at the clock behind the barrier. The main hour hand of the clock is the first digit. ((Note: If the time is say, 7:35, the hour hand will be between 7 and 8. This means the number is 7)*</li>\n<li>Code 2 is found by going to the Mess Hall/Kitchen area. There is a playing card on a corkboard. The number is whatever is on the playing card.</li>\n<li>Code 3 is found by going to the Engineering room. In there a sign dictating how many days since incident is on the wall. The number on that sign is the digit you need.</li>\n</ul>\n</li>\n</ol>\n<p>Once you input the code, the chamber is ready to open. All players in the game need to interact with the valves on the chamber and the bossfight with Nathan will begin. Nathan is an Amalgam and has the same weaknesses as other Amalgam (Dead Wire and Shadow Rift). Once he is defeated you will watch a cutscene.</p>\n<ol start=\"4\">\n<li>Jumping into the water next to Nathan&#x27;s corpse, you can find a keycard. Next, head to the Communications room and interact with a computer that has a black screen and green text. Peck will tell you that the communications line has been cut, and that they require reconnecting with Node Connectors.</li>\n<li>Go to the Shipwreck. Underneath the Shipwreck there is a ladder you can go up to find a room containing the Node Connectors. The room only opens once you have the aforementioned Keycard. Once you pick up a Node Connector you will have to complete a lockdown in that room. Once the lockdown is over, a Max Ammo will spawn. After this, take the Node Connectors to two of the following areas, where there will be a visible gap to install the connectors.<ul>\n<li>Right side of Sea Cave</li>\n<li>Underneath the Sea Tower at the Docks</li>\n<li>Leftmost side of Crab Island</li>\n</ul>\n</li>\n<li>Once both connectors are placed, head back to the Guard Station and grab the hacking device.</li>\n<li>In the water, there are 3 buoys you need to hack by going up to them by boat and interacting with them while having the hacking device in your inventory. You can use your map and see where a lot of red dots (Parasites) are and use that as a guide for where the buoys are. The hacking is on a timer so you must do all 3 in succession or else you will need to start over. The 3 buoys are located near the Docks, the Shipwreck, and Temple Island, and can be hacked in any order.</li>\n<li>\n<p>3 bombs behind revealed doors will need to be defused in the Bio Lab immediately after hacking the 3 satellites. You have 5 minutes to defuse the bombs or else the entire island will explode, killing you. During this step an infinite amount of zombies will spawn. Manglers can spawn after defusing the first bomb, while Amalgams will spawn after defusing the second bomb.</p>\n</li>\n<li>\n<p>Once all the bombs are defused you can now interact with a door next to Melee Macchiato to initiate the Final Encounter.</p>\n</li>\n</ol>"
+      },
+      {
+        "title": "Patient 13 Bossfight",
+        "body": "The bossfight will begin with Patient 13 having weak spots on its shoulders. They are glowing red and damaging them will deal increased damage to Patient 13 (extra damage can be dealt to these spots using Napalm Burst ammo mod). These glowing spots will change position sporadically throughout the phase. * When Patient 13 has taken enough damage, it will leave the area for a short while. You are required to survive the hordes of zombies and various tentacles shooting projectiles at you. Notably, some of the projectile attacks may leave behind a green acidic puddle on the ground, which will damage you if you stand in there. After surviving long enough, Patient 13 will return to the arena. A Max Ammo will spawn at this point allowing players to replenish. * When Patient 13 comes back, it can be in one of two states. In one state, its arms will have weak points similar to the tentacles (extra damage can be dealt here using Dead Wire ammo mod). Once those have been damaged enough it will change to the other state, where its mouth will be a weak point (also weak to Cryofreeze ammo mod). The rest of Patient 13's body will be coated in armor, greatly reducing the amount of damage it will take when being damaged on areas besides its weak point. Once damaged enough, Patient 13 will leave once more, and you have to survive for some time before it returns for the third phase. Another Max Ammo will spawn to signal the beginning of the new phase. * In the third phase, Patient 13 will gain a few more attacks. Notably, it will have an attack where it will start to summon a mass of blue energy above its head and you will have a faint blue aura around your screen. Be sure to hide behind crates in the boss arena or jump in the water to break the boss's line-of-sight from you. If you are hit by the attack you will instantly be put into Last Stand. * Another attack Patient 13 can do is extend its tongue. It will extend its tongue and any player hit by it will begin to be dragged into the boss's mouth. If you are grabbed, aim to hit weak points on the boss (the red shoulders from the initial phase) as it is the only way to be broken free. If dragged into the mouth, you will be instantly spit out and put into Last Stand. * When it has take enough damage, its eyes will become a glowing blue weak spot (which can be dealt extra damage with Shadow Rift ammo mod). Once the eyes have been destroyed the boss will cycle between which weak points are available to damage until it is killed.",
+        "html": "<ul>\n<li>The bossfight will begin with Patient 13 having weak spots on its shoulders. They are glowing red and damaging them will deal increased damage to Patient 13 (extra damage can be dealt to these spots using Napalm Burst ammo mod). These glowing spots will change position sporadically throughout the phase.</li>\n<li>When Patient 13 has taken enough damage, it will leave the area for a short while. You are required to survive the hordes of zombies and various tentacles shooting projectiles at you. Notably, some of the projectile attacks may leave behind a green acidic puddle on the ground, which will damage you if you stand in there. After surviving long enough, Patient 13 will return to the arena. A Max Ammo will spawn at this point allowing players to replenish.</li>\n<li>When Patient 13 comes back, it can be in one of two states. In one state, its arms will have weak points similar to the tentacles (extra damage can be dealt here using Dead Wire ammo mod). Once those have been damaged enough it will change to the other state, where its mouth will be a weak point (also weak to Cryofreeze ammo mod). The rest of Patient 13&#x27;s body will be coated in armor, greatly reducing the amount of damage it will take when being damaged on areas besides its weak point.</li>\n</ul>\n<p>Once damaged enough, Patient 13 will leave once more, and you have to survive for some time before it returns for the third phase. Another Max Ammo will spawn to signal the beginning of the new phase.</p>\n<ul>\n<li>In the third phase, Patient 13 will gain a few more attacks. Notably, it will have an attack where it will start to summon a mass of blue energy above its head and you will have a faint blue aura around your screen. Be sure to hide behind crates in the boss arena or jump in the water to break the boss&#x27;s line-of-sight from you. If you are hit by the attack you will instantly be put into Last Stand.</li>\n<li>Another attack Patient 13 can do is extend its tongue. It will extend its tongue and any player hit by it will begin to be dragged into the boss&#x27;s mouth. If you are grabbed, aim to hit weak points on the boss (the red shoulders from the initial phase) as it is the only way to be broken free. If dragged into the mouth, you will be instantly spit out and put into Last Stand.</li>\n<li>When it has take enough damage, its eyes will become a glowing blue weak spot (which can be dealt extra damage with Shadow Rift ammo mod). Once the eyes have been destroyed the boss will cycle between which weak points are available to damage until it is killed.</li>\n</ul>"
+      },
+      {
+        "title": "Four traps and timed recovery",
+        "body": "There are four Tentacle Trap candidates: Holding Cells, Living Quarters, and the two Bio Lab entrances. Use the primary damage beam on the broken-grate trap. Follow the linked full guide for Nathan’s hour→card→incident code, Shipwreck lockdown, the two node repairs, and the three buoys followed immediately by the Bio Lab bombs.",
+        "original": true,
+        "tip": "Before hacking: prepare distractions and a route. You have two minutes for all three buoys, then five minutes for all three bombs. Bomb timeout ends the match. Terminal requires a Standard completion on round 51 or later."
+      }
+    ],
+    "requirements": [
+      "Standard or Directed Mode.",
+      "Beamsmasher",
+      "Boat; prepare for consecutive timed objectives"
+    ],
+    "reward": "Main-quest completion; Standard additionally awards Maya’s Trophy Collector skin.",
+    "sourceOmissions": [
+      "The source’s three-trap count is omitted; there are four physical candidates. Elemental damage multipliers in the old boss notes are not certified for the current build."
+    ],
+    "relatedGuideIds": [
+      "bo6-terminus-main",
+      "bo6-terminus-beamsmasher",
+      "bo6-terminus-community-terminus-key-map-features-pack-a-punch"
+    ],
+    "checked": "2026-10-16",
+    "players": "1–4 players",
+    "sources": [
+      {
+        "title": "r/CODZombies community map guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/terminus/"
+      },
+      {
+        "title": "Firsthand r/CODZombies discussion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1gm7bo9/"
+      },
+      {
+        "title": "Firsthand r/CODZombies discussion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1gccws2/"
+      },
+      {
+        "title": "Official BO6 Season 1 patch notes",
+        "url": "https://www.callofduty.com/patchnotes/2024/11/call-of-duty-black-ops-6-season-01-patch-notes"
+      }
+    ],
+    "supplementNote": "Unquoted sections below are researched corrections or added directions. Any unresolved source claims are qualified in the field notes."
+  },
+  "terminus-side-easter-eggs-can-you-hear-me-come-in-song": {
+    "steps": [
+      {
+        "title": "Activate three headphones",
+        "body": "Hold interact on the headphones at each site: the cable reel just outside Engineering; the barrel to the right of PhD Flopper in Mining Tunnels, near the lantern; and the office cabinet in Bio Lab directly above Melee Macchiato. Any order works. The third confirmation starts the song.",
+        "original": true
+      }
+    ],
+    "requirements": [
+      "Standard Mode.",
+      "Engineering, Mining Tunnels and Bio Lab access"
+    ],
+    "reward": "Can You Hear Me (Come In) plays; no lyrics reproduced.",
+    "checked": "2026-10-16",
+    "players": "1–4 players",
+    "sources": [
+      {
+        "title": "r/CODZombies community map guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/terminus/"
+      },
+      {
+        "title": "Illustrated creator route",
+        "url": "https://www.codzombiesguides.com/side-quests/black-ops-6/terminus/can-you-hear-me-come-in/"
+      },
+      {
+        "title": "Official BO6 Season 1 patch notes",
+        "url": "https://www.callofduty.com/patchnotes/2024/11/call-of-duty-black-ops-6-season-01-patch-notes"
+      }
+    ],
+    "supplementNote": "Unquoted sections below are researched corrections or added directions. Any unresolved source claims are qualified in the field notes.",
+    "sourceQuote": null
+  },
+  "terminus-side-easter-eggs-mega-stuffy": {
+    "steps": [
+      {
+        "title": "Collect 6 stuffed animals across the map",
+        "body": "1. Collect 6 stuffed animals across the map *  * The monkey is behind the right-side fence on the bridge between the Sea Tower and Engineering * The bear is under a table in the Bio Lab, near the crafting table * The elephant is in the Mining Tunnels in a corner * The duck is in the red bin next to the mystery box on the Shipwreck * The giraffe is behind a light on Crab Island, you may need to crouch to interact with it",
+        "html": "<ol>\n<li>Collect 6 stuffed animals across the map<ul>\n\n<li>The monkey is behind the right-side fence on the bridge between the Sea Tower and Engineering</li>\n<li>The bear is under a table in the Bio Lab, near the crafting table</li>\n<li>The elephant is in the Mining Tunnels in a corner</li>\n<li>The duck is in the red bin next to the mystery box on the Shipwreck</li>\n<li>The giraffe is behind a light on Crab Island, you may need to crouch to interact with it</li>\n</ul>\n</li>\n</ol>"
+      },
+      {
+        "title": "Once all 6 are collected, you can go to Living Quarters and interact with any…",
+        "body": "2. Once all 6 are collected, you can go to Living Quarters and interact with any plush on a bed. They will all fly to the middle of the room and become a \"pet\" that will revive you and shoot zombies. If you shoot the plushies instead of just interacting with them, they will appear tattered in the room. In turn, they will not give you extra rewards such as equipment and salvage when interacting with them.",
+        "html": "<ol start=\"2\">\n<li>Once all 6 are collected, you can go to Living Quarters and interact with any plush on a bed. They will all fly to the middle of the room and become a &quot;pet&quot; that will revive you and shoot zombies. If you shoot the plushies instead of just interacting with them, they will appear tattered in the room. In turn, they will not give you extra rewards such as equipment and salvage when interacting with them.</li>\n</ol>"
+      },
+      {
+        "title": "Unicorn and revive limits",
+        "body": "The unicorn locker is in Control Center, immediately left of Stamin-Up. Collect all toys with interact and use the full companion for their exact landmarks. Mega Stuffy lasts a few rounds and cannot enter the Patient 13 arena.",
+        "original": true,
+        "tip": "Solo: carry a Self-Revive so a down enters Last Stand. Stuffy can revive during that state; it cannot rescue an instant solo game over."
+      }
+    ],
+    "requirements": [
+      "Standard Mode.",
+      "Boat and full-map toy access",
+      "Solo: carry a Self-Revive"
+    ],
+    "reward": "Temporary attacking/reviving companion.",
+    "sourceOmissions": [
+      "The unicorn room name is omitted and corrected to Control Center."
+    ],
+    "relatedGuideIds": [
+      "bo6-terminus-mega-stuffy"
+    ],
+    "checked": "2026-10-16",
+    "players": "1–4 players",
+    "sources": [
+      {
+        "title": "r/CODZombies community map guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/terminus/"
+      },
+      {
+        "title": "Firsthand r/CODZombies discussion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1gd0jfq/"
+      },
+      {
+        "title": "Firsthand r/CODZombies discussion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1gm7foy/"
+      },
+      {
+        "title": "Official BO6 Season 1 patch notes",
+        "url": "https://www.callofduty.com/patchnotes/2024/11/call-of-duty-black-ops-6-season-01-patch-notes"
+      }
+    ],
+    "supplementNote": "Unquoted sections below are researched corrections or added directions. Any unresolved source claims are qualified in the field notes."
+  },
+  "terminus-side-easter-eggs-void-cannon-meteor": {
+    "steps": [
+      {
+        "title": "Electrify two towers",
+        "body": "Equip Dead Wire on a long-range gun; the older route uses a Pack-a-Punched weapon. From Storage outside Quick Revive, shoot the electrical focus on the distant radio tower until its light turns red. Quickly shoot the second focus beyond Engineering, viewed from the wooden crates between Living Quarters and Engineering.",
+        "original": true,
+        "images": [
+          {
+            "src": "./assets/bo6-batch2-terminus-meteor-crash-storage-tower.webp",
+            "alt": "First distant tower focus.",
+            "caption": "First distant tower focus.",
+            "credit": "Call of Duty / Activision gameplay; COD:ZG location guide",
+            "source": "https://www.codzombiesguides.com/side-quests/black-ops-6/terminus/meteor-crash/"
+          },
+          {
+            "src": "./assets/bo6-batch2-terminus-meteor-crash-engineering.webp",
+            "alt": "Second tower focus beyond Engineering.",
+            "caption": "Second tower focus beyond Engineering.",
+            "credit": "Call of Duty / Activision gameplay; COD:ZG location guide",
+            "source": "https://www.codzombiesguides.com/side-quests/black-ops-6/terminus/meteor-crash/"
+          }
+        ]
+      },
+      {
+        "title": "Use the next-round cannon",
+        "body": "After both confirmations, end the round. During the very next round, activate the Void Cannon trap. It fires into the sky and the meteor falls at Castle Rock Island. Boat there and collect its random loot.",
+        "original": true,
+        "tip": "Do not postpone the cannon an extra round. Firsthand players report losing the event for that match after missing this window; Wonder Weapons are possible drops, not guaranteed."
+      }
+    ],
+    "requirements": [
+      "Standard Mode.",
+      "Dead Wire firearm; Pack-a-Punch recommended by the older working route",
+      "Void Cannon and boat access"
+    ],
+    "reward": "Random meteor loot on Castle Rock Island, with a chance of a Wonder Weapon.",
+    "relatedGuideIds": [
+      "bo6-terminus-community-terminus-key-map-features-pack-a-punch"
+    ],
+    "checked": "2026-10-16",
+    "players": "1–4 players",
+    "sources": [
+      {
+        "title": "r/CODZombies community map guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/terminus/"
+      },
+      {
+        "title": "Illustrated creator route",
+        "url": "https://www.codzombiesguides.com/side-quests/black-ops-6/terminus/meteor-crash/"
+      },
+      {
+        "title": "Firsthand r/CODZombies discussion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1gz2w8w/"
+      },
+      {
+        "title": "Official BO6 Season 1 patch notes",
+        "url": "https://www.callofduty.com/patchnotes/2024/11/call-of-duty-black-ops-6-season-01-patch-notes"
+      }
+    ],
+    "supplementNote": "Unquoted sections below are researched corrections or added directions. Any unresolved source claims are qualified in the field notes.",
+    "sourceQuote": null
+  },
+  "terminus-side-easter-eggs-pirate-treasure-hunt-talisman": {
+    "steps": [
+      {
+        "title": "Obtain the Melee Macchiato perk and head to the Sea Caves",
+        "body": "1. Obtain the Melee Macchiato perk and head to the Sea Caves. There is a barrier you must punch to open up.",
+        "html": "<ol>\n<li>Obtain the Melee Macchiato perk and head to the Sea Caves. There is <a href=\"https://www.reddit.com/r/CODZombies/wiki/terminus/\" target=\"_blank\" rel=\"noopener noreferrer\">a barrier (in the original source)</a> you must punch to open up.</li>\n</ol>"
+      },
+      {
+        "title": "Inside the opened barrier there is a skeleton, map, and a chest",
+        "body": "2. Inside the opened barrier there is a skeleton, map, and a chest. Interact with the skeleton. Note where on the map has the X and go to that location on the map to pick up a Watch from within the Sea.",
+        "html": "<ol start=\"2\">\n<li>Inside the opened barrier there is a skeleton, map, and a chest. Interact with the skeleton. Note where on the map has the X and go to that location on the map to pick up a Watch from within the Sea.</li>\n</ol>"
+      },
+      {
+        "title": "Bring the Watch to the skeleton",
+        "body": "3. Bring the Watch to the skeleton. Once you do, 3 more X's will appear on the map (Castle Rock Island, Temple Island, Shipwreck). At all the locations designated by the map, there is a skeleton you must throw a Molotov or Thermal Grenade at to light on fire.",
+        "html": "<ol start=\"3\">\n<li>Bring the Watch to the skeleton. Once you do, 3 more X&#x27;s will appear on the map (Castle Rock Island, Temple Island, Shipwreck). At all the locations designated by the map, there is a skeleton you must throw a Molotov or Thermal Grenade at to light on fire.</li>\n</ol>",
+        "images": [
+          {
+            "src": "./assets/bo6-batch2-terminus-cursed-talisman-first-skeleton.webp",
+            "alt": "Castle Rock skeleton site beside the cable; shown after ignition.",
+            "caption": "Castle Rock skeleton site beside the cable; shown after ignition.",
+            "credit": "Call of Duty / Activision gameplay; COD:ZG location guide",
+            "source": "https://www.codzombiesguides.com/side-quests/black-ops-6/terminus/cursed-talisman/"
+          },
+          {
+            "src": "./assets/bo6-batch2-terminus-cursed-talisman-second-skeleton.webp",
+            "alt": "Temple steps left of the Ammo Cache; shown after ignition.",
+            "caption": "Temple steps left of the Ammo Cache; shown after ignition.",
+            "credit": "Call of Duty / Activision gameplay; COD:ZG location guide",
+            "source": "https://www.codzombiesguides.com/side-quests/black-ops-6/terminus/cursed-talisman/"
+          },
+          {
+            "src": "./assets/bo6-batch2-terminus-cursed-talisman-final-skeleton.webp",
+            "alt": "Shipwreck skeleton at the mast base.",
+            "caption": "Shipwreck skeleton at the mast base.",
+            "credit": "Call of Duty / Activision gameplay; COD:ZG location guide",
+            "source": "https://www.codzombiesguides.com/side-quests/black-ops-6/terminus/cursed-talisman/"
+          }
+        ],
+        "tip": "Molotov skeleton sites: Castle Rock beside the electrical cable right of GobbleGum; Temple Island stone steps left of the Ammo Cache; Shipwreck mast base."
+      },
+      {
+        "title": "Once the skeletons are lit on fire, an HVT (High Value Target boss enemy) will spawn",
+        "body": "4. Once the skeletons are lit on fire, an HVT (High Value Target boss enemy) will spawn. Kill the HVT to obtain a coin. Picking up the coin will cause a purple aether glow to appear around your screen.",
+        "html": "<ol start=\"4\">\n<li>Once the skeletons are lit on fire, an HVT (High Value Target boss enemy) will spawn. Kill the HVT to obtain a coin. Picking up the coin will cause a purple aether glow to appear around your screen.</li>\n</ol>",
+        "tip": "A carried cursed coin impairs health recovery. For the safer route, return each coin to Gregg before collecting the next. Defeat each HVT fully and pick up its coin."
+      },
+      {
+        "title": "Bring all 3 coins to the skeleton, it will drop you 3 legendary tier guns.",
+        "body": "5. Bring all 3 coins to the skeleton, it will drop you 3 legendary tier guns.",
+        "html": "<ol start=\"5\">\n<li>Bring all 3 coins to the skeleton, it will drop you 3 legendary tier guns.</li>\n</ol>"
+      },
+      {
+        "title": "One last X will appear on the map next to the skeleton",
+        "body": "6. One last X will appear on the map next to the skeleton. Go to the location and survive 3 rounds on it. As you progress, more and more lighting will appear and a storm will gather above you.",
+        "html": "<ol start=\"6\">\n<li>One last X will appear on the map next to the skeleton. Go to the location and survive 3 rounds on it. As you progress, more and more lighting will appear and a storm will gather above you.</li>\n</ol>"
+      },
+      {
+        "title": "When you have survived long enough, a chest will spawn while lightning is…",
+        "body": "7. When you have survived long enough, a chest will spawn while lightning is striking the ground. A Cursed Talisman is inside the chest for you to pick up. This will earn you an achievement/trophy. The Cursed Talisman will cause you to lose points when you are hit by a zombie, but you will also gain more points when killing zombies.",
+        "html": "<ol start=\"7\">\n<li>When you have survived long enough, a chest will spawn while lightning is striking the ground. A Cursed Talisman is inside the chest for you to pick up. This will earn you an achievement/trophy.</li>\n</ol>\n<p>The Cursed Talisman will cause you to lose points when you are hit by a zombie, but you will also gain more points when killing zombies.</p>",
+        "tip": "Collect before the chest vanishes. The talisman doubles earned Essence, but taking damage can remove 10% of your current Essence. Return it to the chest to remove the effect. Do not assume Double Points stacks to four times; reports conflict."
+      }
+    ],
+    "requirements": [
+      "Standard Mode.",
+      "Melee Macchiato",
+      "Molotovs and boat",
+      "Survive the HVT fights and Crab Island wait"
+    ],
+    "reward": "Three legendary guns, then the Cursed Talisman: increased Essence with a damage penalty.",
+    "checked": "2026-10-16",
+    "players": "1–4 players",
+    "sources": [
+      {
+        "title": "r/CODZombies community map guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/terminus/"
+      },
+      {
+        "title": "Illustrated creator route",
+        "url": "https://www.codzombiesguides.com/side-quests/black-ops-6/terminus/cursed-talisman/"
+      },
+      {
+        "title": "Firsthand r/CODZombies discussion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1gz2w8w/"
+      },
+      {
+        "title": "Illustrated creator route",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3364703208"
+      },
+      {
+        "title": "Illustrated creator route",
+        "url": "https://www.callofduty.com/patchnotes/2025/10/call-of-duty-black-ops-6-season-06-patch-notes?pubDate=20251009"
+      },
+      {
+        "title": "Official BO6 Season 1 patch notes",
+        "url": "https://www.callofduty.com/patchnotes/2024/11/call-of-duty-black-ops-6-season-01-patch-notes"
+      }
+    ]
+  },
+  "terminus-side-easter-eggs-parasite-spores-free-perk": {
+    "steps": [
+      {
+        "title": "Instructions & locations",
+        "body": "Around the map in the Sea, various rocks/islands will have spores on them (similar to spores found in MW3 Zombies or Zetsubou No Shima). Shooting the spores on the islands will cause Parasite enemies to spawn out of them. Once all the spores on an island have been shot you will receive an audio notification. Doing this removes the tentacle from attacking you in the water for a limited time (this is helpful during the hacking step of the main EE). Repeat this at other islands for a total of 3 times. You will have to progress a round each time after destroying all the spores on a specific island. Once all the spores have been destroyed you can go to the Sea Cave to destroy more spores. Once they are all destroyed you will receive a free Random Perk drop and varying loot.",
+        "html": "<p>Around the map in the Sea, various rocks/islands will have spores on them (similar to spores found in MW3 Zombies or Zetsubou No Shima). Shooting the spores on the islands will cause Parasite enemies to spawn out of them. Once all the spores on an island have been shot you will receive an audio notification. Doing this removes the tentacle from attacking you in the water for a limited time (this is helpful during the hacking step of the main EE).\nRepeat this at other islands for a total of 3 times. You will have to progress a round each time after destroying all the spores on a specific island. Once all the spores have been destroyed you can go to the Sea Cave to destroy more spores. Once they are all destroyed you will receive a free Random Perk drop and varying loot.</p>",
+        "tip": "After clearing the third island, flip one more round before checking Sea Caves. Clear every spore on each island within the same round and use the rumble as confirmation; there are three island rounds plus the final cave stage."
+      }
+    ],
+    "requirements": [
+      "Standard Mode.",
+      "Boat, bullet weapon and Sea Caves access"
+    ],
+    "reward": "Random Perk pickup and variable loot; temporary sea-tentacle suppression while clearing.",
+    "relatedGuideIds": [
+      "bo6-terminus-main"
+    ],
+    "checked": "2026-10-16",
+    "players": "1–4 players",
+    "sources": [
+      {
+        "title": "r/CODZombies community map guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/terminus/"
+      },
+      {
+        "title": "Illustrated creator route",
+        "url": "https://www.codzombiesguides.com/side-quests/black-ops-6/terminus/island-spores/"
+      },
+      {
+        "title": "Firsthand r/CODZombies discussion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1gz2w8w/"
+      },
+      {
+        "title": "Official BO6 Season 1 patch notes",
+        "url": "https://www.callofduty.com/patchnotes/2024/11/call-of-duty-black-ops-6-season-01-patch-notes"
+      }
+    ]
+  },
+  "terminus-side-easter-eggs-culinary-delight-cook-a-fish": {
+    "steps": [
+      {
+        "title": "Collect a fish and oil",
+        "body": "Explode a fish school in bubbling water, then swim close to a dead fish and hold interact to collect it. Collect the oil beside the Mess Hall stove. Ingredients disappear when collected and are not ordinary tactical equipment.",
+        "original": true,
+        "images": [
+          {
+            "src": "./assets/bo6-batch2-terminus-cooking-fish-fish.webp",
+            "alt": "Pick up a killed fish at the water.",
+            "caption": "Pick up a killed fish at the water.",
+            "credit": "Call of Duty / Activision gameplay; COD:ZG location guide",
+            "source": "https://www.codzombiesguides.com/side-quests/black-ops-6/terminus/cooking-fish/"
+          },
+          {
+            "src": "./assets/bo6-batch2-terminus-cooking-fish-oil.webp",
+            "alt": "Oil beside the Mess Hall stove.",
+            "caption": "Oil beside the Mess Hall stove.",
+            "credit": "Call of Duty / Activision gameplay; COD:ZG location guide",
+            "source": "https://www.codzombiesguides.com/side-quests/black-ops-6/terminus/cooking-fish/"
+          }
+        ]
+      },
+      {
+        "title": "Choose one flavor",
+        "body": "For Culinary Delight, add at least one special ingredient: brain from the Bio Lab scale near the Sea Caves entrance (Brain Rot); chili between Mess Hall cabbage boxes (Napalm Burst); snowball on the Living Quarters fridge (Cryo Freeze); plant in Storage grass left of the Ammo Cache (Shadow Rift); or battery on Engineering’s central workbench (Dead Wire).",
+        "original": true,
+        "tip": "Use the matching ammo mod on the weapon you intend to benefit. All five ingredients are not required for the achievement.",
+        "images": [
+          {
+            "src": "./assets/bo6-batch2-terminus-cooking-fish-brain.webp",
+            "alt": "Brain on the Bio Lab scale.",
+            "caption": "Brain on the Bio Lab scale.",
+            "credit": "Call of Duty / Activision gameplay; COD:ZG location guide",
+            "source": "https://www.codzombiesguides.com/side-quests/black-ops-6/terminus/cooking-fish/"
+          },
+          {
+            "src": "./assets/bo6-batch2-terminus-cooking-fish-chilli.webp",
+            "alt": "Chili between Mess Hall cabbage boxes.",
+            "caption": "Chili between Mess Hall cabbage boxes.",
+            "credit": "Call of Duty / Activision gameplay; COD:ZG location guide",
+            "source": "https://www.codzombiesguides.com/side-quests/black-ops-6/terminus/cooking-fish/"
+          },
+          {
+            "src": "./assets/bo6-batch2-terminus-cooking-fish-snowball.webp",
+            "alt": "Snowball above the Living Quarters fridge.",
+            "caption": "Snowball above the Living Quarters fridge.",
+            "credit": "Call of Duty / Activision gameplay; COD:ZG location guide",
+            "source": "https://www.codzombiesguides.com/side-quests/black-ops-6/terminus/cooking-fish/"
+          },
+          {
+            "src": "./assets/bo6-batch2-terminus-cooking-fish-plant.webp",
+            "alt": "Plant in the Storage Area grass.",
+            "caption": "Plant in the Storage Area grass.",
+            "credit": "Call of Duty / Activision gameplay; COD:ZG location guide",
+            "source": "https://www.codzombiesguides.com/side-quests/black-ops-6/terminus/cooking-fish/"
+          },
+          {
+            "src": "./assets/bo6-batch2-terminus-cooking-fish-batteries.webp",
+            "alt": "Battery on the Engineering workbench.",
+            "caption": "Battery on the Engineering workbench.",
+            "credit": "Call of Duty / Activision gameplay; COD:ZG location guide",
+            "source": "https://www.codzombiesguides.com/side-quests/black-ops-6/terminus/cooking-fish/"
+          }
+        ]
+      },
+      {
+        "title": "Cook and eat next round",
+        "body": "Interact with a Mess Hall pan after collecting the fish, oil and chosen ingredient. Finish the round, then use the Eat prompt on the cooked fish promptly. Eating a flavored dish grants Culinary Delight and a short-lived boost to the corresponding equipped ammo mod.",
+        "original": true,
+        "tip": "It can burn if left through additional rounds. The boost is temporary; firsthand reports differ around 30–50 seconds. A permanent or full-round buff is not established.",
+        "images": [
+          {
+            "src": "./assets/bo6-batch2-terminus-cooking-fish.webp",
+            "alt": "Cooking pan at the Mess Hall stove.",
+            "caption": "Cooking pan at the Mess Hall stove.",
+            "credit": "Call of Duty / Activision gameplay; COD:ZG location guide",
+            "source": "https://www.codzombiesguides.com/side-quests/black-ops-6/terminus/cooking-fish/"
+          }
+        ]
+      }
+    ],
+    "requirements": [
+      "Standard Mode.",
+      "Mess Hall access",
+      "Explosive damage for fish",
+      "At least one special ingredient for Culinary Delight"
+    ],
+    "reward": "Culinary Delight and a temporary matching ammo-mod boost.",
+    "sourceOmissions": [
+      "The source’s whole-current-round duration is replaced by qualified short-duration evidence."
+    ],
+    "relatedGuideIds": [
+      "bo6-terminus-peck-refund",
+      "bo6-terminus-community-terminus-side-easter-eggs-free-perkaholic"
+    ],
+    "checked": "2026-10-16",
+    "players": "1–4 players",
+    "sources": [
+      {
+        "title": "r/CODZombies community map guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/terminus/"
+      },
+      {
+        "title": "Firsthand r/CODZombies discussion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1gmn2oo/"
+      },
+      {
+        "title": "Firsthand r/CODZombies discussion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1gps4gc/"
+      },
+      {
+        "title": "Illustrated creator route",
+        "url": "https://www.codzombiesguides.com/side-quests/black-ops-6/terminus/cooking-fish/"
+      },
+      {
+        "title": "Official BO6 Season 1 patch notes",
+        "url": "https://www.callofduty.com/patchnotes/2024/11/call-of-duty-black-ops-6-season-01-patch-notes"
+      }
+    ],
+    "supplementNote": "Unquoted sections below are researched corrections or added directions. Any unresolved source claims are qualified in the field notes.",
+    "sourceQuote": null
+  },
+  "terminus-side-easter-eggs-elevator-jumpscare": {
+    "steps": [
+      {
+        "title": "Jump on the downward trip",
+        "body": "Use the Maglev elevator from Holding Cells toward Bio Lab. As the doors close, repeatedly jump; in co-op have everyone aboard do so. The elevator can interrupt the trip with its scare sequence. It gives no weapon or perk reward.",
+        "original": true
+      }
+    ],
+    "requirements": [
+      "Standard Mode.",
+      "Powered Maglev elevator; fare for a downward trip"
+    ],
+    "reward": "A horror scene, then normal elevator travel.",
+    "checked": "2026-10-16",
+    "players": "1–4 players",
+    "sources": [
+      {
+        "title": "r/CODZombies community map guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/terminus/"
+      },
+      {
+        "title": "Firsthand r/CODZombies discussion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1gcub5s/"
+      },
+      {
+        "title": "Illustrated creator route",
+        "url": "https://www.codzombiesguides.com/side-quests/black-ops-6/terminus/elevator-jumpscare/"
+      },
+      {
+        "title": "Official BO6 Season 1 patch notes",
+        "url": "https://www.callofduty.com/patchnotes/2024/11/call-of-duty-black-ops-6-season-01-patch-notes"
+      }
+    ],
+    "supplementNote": "Unquoted sections below are researched corrections or added directions. Any unresolved source claims are qualified in the field notes.",
+    "sourceQuote": null
+  },
+  "terminus-side-easter-eggs-oxygen-mask": {
+    "steps": [
+      {
+        "title": "Instructions & locations",
+        "body": "Head into the water in the Bio Lab. In the water near the bottom where you activate the pack-a-punch lift there is a rock with bubbles coming out of it. Using an explosive, you can break the rock to reveal an Oxygen Tank/Mask. Interacting with it will give you more time to swim underwater without drowning for the rest of the game. This will only work for 1 player in the match for the entire duration of the match.",
+        "html": "<p>Head into the water in the Bio Lab. In the water near the bottom where you activate the pack-a-punch lift there is a rock with bubbles coming out of it. Using an explosive, you can break the rock to reveal an Oxygen Tank/Mask. Interacting with it will give you more time to swim underwater without drowning for the rest of the game. This will only work for 1 player in the match for the entire duration of the match.</p>",
+        "images": [
+          {
+            "src": "./assets/bo6-batch2-terminus-underwater-crates-oxygen-tank.webp",
+            "alt": "Released oxygen tank beneath the Bio Lab lift.",
+            "caption": "Released oxygen tank beneath the Bio Lab lift.",
+            "credit": "Call of Duty / Activision gameplay; COD:ZG location guide",
+            "source": "https://www.codzombiesguides.com/side-quests/black-ops-6/terminus/underwater-crates/"
+          }
+        ],
+        "tip": "This extends breath time; it does not make water permanently safe from the sea monster or boss-arena hazards. The source describes one recipient; additional co-op pickups have not been independently confirmed."
+      }
+    ],
+    "requirements": [
+      "Standard Mode.",
+      "Explosive and access to Bio Lab water"
+    ],
+    "players": "1–4 players; source documents one tank recipient",
+    "reward": "Longer underwater breath time for the tank recipient.",
+    "checked": "2026-10-16",
+    "sources": [
+      {
+        "title": "r/CODZombies community map guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/terminus/"
+      },
+      {
+        "title": "Firsthand r/CODZombies discussion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1iypyvp/"
+      },
+      {
+        "title": "Illustrated creator route",
+        "url": "https://www.codzombiesguides.com/side-quests/black-ops-6/terminus/underwater-crates/"
+      },
+      {
+        "title": "Official BO6 Season 1 patch notes",
+        "url": "https://www.callofduty.com/patchnotes/2024/11/call-of-duty-black-ops-6-season-01-patch-notes"
+      }
+    ]
+  },
+  "terminus-side-easter-eggs-free-random-perk-drops": {
+    "steps": [
+      {
+        "title": "Instructions & locations",
+        "body": "Collecting all 10 hidden chests in the Sea (loot caches with glowing yellow lights) will provide you with a Random Perk drop. Once opening the 10th one the drop will spawn above it. * Shooting all the zombies in the cages of the Bio Lab will cause Vermin to spawn in them the next round. If you do the same to the Vermin, Manglers will spawn the round after. After killing the Manglers you will receive a Random Perk drop. There is a fail-state Where if you fail to kill all the caged enemies once one has died within a round will cause the next set of enemies to not appear in the cages when going to the next round.",
+        "html": "<ul>\n<li>Collecting all 10 hidden chests in the Sea (loot caches with glowing yellow lights) will provide you with a Random Perk drop. Once opening the 10th one the drop will spawn above it.</li>\n<li>Shooting all the zombies in the cages of the Bio Lab will cause Vermin to spawn in them the next round. If you do the same to the Vermin, Manglers will spawn the round after. After killing the Manglers you will receive a Random Perk drop. There is a fail-state Where if you fail to kill all the caged enemies once one has died within a round will cause the next set of enemies to not appear in the cages when going to the next round.</li>\n</ul>"
+      },
+      {
+        "title": "Finish each cage stage",
+        "body": "Check both groups of Bio Lab wall cages on the upper walkway above the Tier III armor area. Kill every prisoner in both groups before ending that round; next round clear all Vermin, then next round clear all caged Manglers. Missing a prisoner can stop later stages.",
+        "original": true,
+        "tip": "For chests, search the glowing yellow underwater caches around Temple, Castle Rock, Crab Island and Shipwreck, plus Bio Lab / Sea Caves waters. There are ten in a match, with randomized positions. The final cache spawns the perk. This is a search-area route, not a verified list of every candidate position."
+      }
+    ],
+    "requirements": [
+      "Standard Mode.",
+      "Full Bio Lab access; complete every cage stage before advancing",
+      "Boat/swimming route for ten underwater caches"
+    ],
+    "reward": "One Random Perk pickup for cages; another for all ten underwater caches.",
+    "relatedGuideIds": [
+      "bo6-terminus-community-terminus-side-easter-eggs-oxygen-mask"
+    ],
+    "checked": "2026-10-16",
+    "players": "1–4 players",
+    "sources": [
+      {
+        "title": "r/CODZombies community map guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/terminus/"
+      },
+      {
+        "title": "Illustrated creator route",
+        "url": "https://www.codzombiesguides.com/side-quests/black-ops-6/terminus/zombie-prisoners/"
+      },
+      {
+        "title": "Illustrated creator route",
+        "url": "https://www.codzombiesguides.com/side-quests/black-ops-6/terminus/underwater-crates/"
+      },
+      {
+        "title": "Firsthand r/CODZombies discussion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1gz2w8w/"
+      },
+      {
+        "title": "Firsthand r/CODZombies discussion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1m5o12c/"
+      },
+      {
+        "title": "Official BO6 Season 1 patch notes",
+        "url": "https://www.callofduty.com/patchnotes/2024/11/call-of-duty-black-ops-6-season-01-patch-notes"
+      }
+    ],
+    "supplementNote": "Unquoted sections below are researched corrections or added directions. Any unresolved source claims are qualified in the field notes."
+  },
+  "terminus-side-easter-eggs-basketball-trickshot": {
+    "requirements": [
+      "Standard Mode.",
+      "Pack-a-Punched bullet weapon for the documented shot",
+      "Line up from Engineering so the roof ball falls into the Rec Yard hoop"
+    ],
+    "reward": "2,000 base Essence in pickups when the shot lands.",
+    "checked": "2026-10-16",
+    "players": "1–4 players",
+    "sources": [
+      {
+        "title": "r/CODZombies community map guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/terminus/"
+      },
+      {
+        "title": "Illustrated creator route",
+        "url": "https://www.codzombiesguides.com/side-quests/black-ops-6/terminus/basketball-free-points/"
+      },
+      {
+        "title": "Firsthand r/CODZombies discussion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1ghd01t/"
+      },
+      {
+        "title": "Official BO6 Season 1 patch notes",
+        "url": "https://www.callofduty.com/patchnotes/2024/11/call-of-duty-black-ops-6-season-01-patch-notes"
+      }
+    ]
+  },
+  "terminus-side-easter-eggs-sentinel-artifact-fast-travel-and-loot": {
+    "steps": [
+      {
+        "title": "Wave at the temple carving",
+        "body": "On Temple Island, find the Sentinel-like face carving among the ruins near the PU-21 wall buy. Face it at close range and use the Wave emote. It sends you back to the main island. Return by boat and repeat.",
+        "original": true,
+        "tip": "The discovery report counts eight uses; later guides count nine. After the eighth, check for the one-time loot, then try a ninth if absent. Fast travel and the one-time resource payout are separate outcomes."
+      }
+    ],
+    "requirements": [
+      "Standard Mode.",
+      "Wave emote equipped",
+      "Boat access to Temple Island"
+    ],
+    "reward": "Repeatable teleport to the main island; one reported 1,000-Essence / 1,000-salvage bonus after repeated uses.",
+    "checked": "2026-10-16",
+    "players": "1–4 players",
+    "sources": [
+      {
+        "title": "r/CODZombies community map guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/terminus/"
+      },
+      {
+        "title": "Firsthand r/CODZombies discussion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1n8u62p/"
+      },
+      {
+        "title": "Official BO6 Season 1 patch notes",
+        "url": "https://www.callofduty.com/patchnotes/2024/11/call-of-duty-black-ops-6-season-01-patch-notes"
+      }
+    ],
+    "supplementNote": "Unquoted sections below are researched corrections or added directions. Any unresolved source claims are qualified in the field notes.",
+    "sourceQuote": null
+  },
+  "terminus-side-easter-eggs-free-perkaholic": {
+    "steps": [
+      {
+        "title": "Kill fifty individual fish",
+        "body": "Search bubbling schools around the Docks, Bio Lab water, Crab Island and Shipwreck. Kill the fish with explosive damage; a school can contain one to three fish. Repeat as schools move/return on later rounds. A single player must accumulate fifty individual kills; squad members should not split a personal target counter.",
+        "original": true,
+        "tip": "You do not need to pick up fifty fish carcasses. The reward applies perks to your current match rather than adding a Perkaholic GobbleGum to inventory. Later perk recovery by killing a few more fish is reported, but the exact repeat threshold is not established."
+      }
+    ],
+    "requirements": [
+      "Standard Mode.",
+      "Explosive damage and repeated fish-school searches"
+    ],
+    "reward": "All available perks applied to the successful player.",
+    "sourceOmissions": [
+      "The wiki’s uncertain fifty-groups count is omitted and replaced by the replicated individual-fish threshold."
+    ],
+    "relatedGuideIds": [
+      "bo6-terminus-community-terminus-side-easter-eggs-culinary-delight-cook-a-fish"
+    ],
+    "checked": "2026-10-16",
+    "players": "1–4 players",
+    "sources": [
+      {
+        "title": "r/CODZombies community map guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/terminus/"
+      },
+      {
+        "title": "Firsthand r/CODZombies discussion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1golr9x/"
+      },
+      {
+        "title": "Firsthand r/CODZombies discussion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1gnsr5s/"
+      },
+      {
+        "title": "Illustrated creator route",
+        "url": "https://www.codzombiesguides.com/side-quests/black-ops-6/terminus/perkaholic/"
+      },
+      {
+        "title": "Official BO6 Season 1 patch notes",
+        "url": "https://www.callofduty.com/patchnotes/2024/11/call-of-duty-black-ops-6-season-01-patch-notes"
+      }
+    ],
+    "supplementNote": "Unquoted sections below are researched corrections or added directions. Any unresolved source claims are qualified in the field notes.",
+    "sourceQuote": null
+  },
+  "terminus-side-easter-eggs-boat-race": {
+    "steps": [
+      {
+        "title": "Instructions & locations",
+        "body": "In the Waters around the 3 smaller islands on the map there is a pink toy speed boat in the water that can have a flashing red light. Interact with the boat that has the red light will start the boat race, Once you complete the race, Mr. Peeks will appear and drop a trophy containing your rewards based on your performance. You can receive a bronze, silver, or gold-tier trophy.",
+        "html": "<p>In the Waters around the 3 smaller islands on the map there is a pink toy speed boat in the water that can have a flashing red light. Interact with the boat that has the red light will start the boat race,</p>\n<p>Once you complete the race, Mr. Peeks will appear and drop a trophy containing your rewards based on your performance. You can receive a bronze, silver, or gold-tier trophy.</p>",
+        "images": [
+          {
+            "src": "./assets/bo6-batch2-terminus-boat-race-locations.webp",
+            "alt": "Search the three marked shorelines: Temple, Castle Rock and Crab Island.",
+            "caption": "Search the three marked shorelines: Temple, Castle Rock and Crab Island.",
+            "credit": "Call of Duty / Activision gameplay; COD:ZG location guide",
+            "source": "https://www.codzombiesguides.com/side-quests/black-ops-6/terminus/boat-race/"
+          }
+        ],
+        "tip": "The active toy is fully submerged against its island shoreline and flashes red. Use the marked map rather than searching open water. Co-op starts may require the group vote; finish the marked course to get a performance-ranked trophy."
+      }
+    ],
+    "requirements": [
+      "Standard Mode.",
+      "Boat/swimming access to all three island shores"
+    ],
+    "reward": "Bronze, silver or gold trophy loot according to race performance; no guaranteed Wonder Weapon.",
+    "checked": "2026-10-16",
+    "players": "1–4 players",
+    "sources": [
+      {
+        "title": "r/CODZombies community map guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/terminus/"
+      },
+      {
+        "title": "Illustrated creator route",
+        "url": "https://www.codzombiesguides.com/side-quests/black-ops-6/terminus/boat-race/"
+      },
+      {
+        "title": "Illustrated creator route",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3362284904"
+      },
+      {
+        "title": "Official BO6 Season 1 patch notes",
+        "url": "https://www.callofduty.com/patchnotes/2024/11/call-of-duty-black-ops-6-season-01-patch-notes"
+      }
+    ]
+  },
+  "terminus-side-easter-eggs-free-pool-table-points": {
+    "steps": [
+      {
+        "title": "Instructions & locations",
+        "body": "Shooting the [pool balls on the pool table inside Living Quarters]() will sink all the balls and spawn a free 100 points available for you to pick up.",
+        "html": "<p>Shooting the pool balls on the pool table inside Living Quarters will sink all the balls and spawn a free 100 points available for you to pick up.</p>"
+      }
+    ],
+    "requirements": [
+      "Standard Mode.",
+      "Living Quarters access; bullet weapon"
+    ],
+    "reward": "One 100-Essence pickup.",
+    "checked": "2026-10-16",
+    "players": "1–4 players",
+    "sources": [
+      {
+        "title": "r/CODZombies community map guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/terminus/"
+      },
+      {
+        "title": "Illustrated creator route",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3362284904"
+      },
+      {
+        "title": "Official BO6 Season 1 patch notes",
+        "url": "https://www.callofduty.com/patchnotes/2024/11/call-of-duty-black-ops-6-season-01-patch-notes"
+      }
+    ],
+    "sourceOmissions": [
+      "An empty source hyperlink is displayed as plain text; use the credited source and the added directions for its context."
+    ]
+  },
+  "liberty-falls-key-map-features-pack-a-punch": {
+    "steps": [
+      {
+        "title": "Open the church",
+        "body": "Open a route up to the church, then buy its Dark Aether entrance barrier. Pack-a-Punch is inside and needs no separate power generator on Liberty Falls.",
+        "original": true
+      },
+      {
+        "title": "Buy Pack-a-Punch tiers",
+        "body": "Pack-a-Punch a held weapon for 5,000 Essence (I), then 15,000 (II), then 30,000 (III): 50,000 total from unpacked to tier III. These are separate purchases. Raw, Refined and Flawless Aetherium Crystals apply tiers I, II and III respectively when obtained as loot; they are not permanent account upgrades.",
+        "original": true
+      },
+      {
+        "title": "Upgrade ordinary weapon rarity",
+        "body": "Use an Arsenal: Common→Uncommon costs 500 salvage, Uncommon→Rare 1,000, Rare→Epic 2,500, Epic→Legendary 5,000. The full Common→Legendary path totals 9,000. A colored Aether Tool sets the held ordinary weapon to its stated rarity; do not spend a lower-tier tool on a better gun. Rarity and PaP are separate upgrade tracks.",
+        "original": true
+      },
+      {
+        "title": "Upgrade Wonder Weapons",
+        "body": "The map-specific Jet Gun / Beamsmasher and Ray Gun use the three Pack-a-Punch tiers but do not accept ordinary Arsenal rarity tiers or ammo mods. Ray Gun Mark II joined the Mystery Box pool in Season 3 Reloaded; its Shattered Veil elemental build quests do not transfer to these launch maps.",
+        "original": true,
+        "tip": "Follow the linked free-build route for this map’s quest Wonder Weapon. Mystery Box and side-reward Wonder Weapons are random opportunities, not guaranteed extra builds."
+      }
+    ],
+    "requirements": [
+      "Standard or Directed Mode.",
+      "Essence for PaP; salvage for ordinary rarity",
+      "Upgrade the weapon you intend to keep"
+    ],
+    "reward": "PaP access; ordinary weapons can reach Legendary + PaP III, and Wonder Weapons PaP III.",
+    "relatedGuideIds": [
+      "bo6-liberty-falls-jet-gun",
+      "bo6-liberty-falls-main",
+      "bo6-liberty-falls-raining-zombies"
+    ],
+    "sourceOmissions": [
+      "The short access-only quotation is replaced by an original setup and upgrade explanation."
+    ],
+    "checked": "2026-10-16",
+    "players": "1–4 players",
+    "sources": [
+      {
+        "title": "r/CODZombies community map guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/liberty-falls/"
+      },
+      {
+        "title": "Firsthand r/CODZombies discussion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1gqz5vb/"
+      },
+      {
+        "title": "Firsthand r/CODZombies discussion",
+        "url": "https://www.reddit.com/r/blackops6/comments/1gebywa/"
+      },
+      {
+        "title": "Firsthand r/CODZombies discussion",
+        "url": "https://www.reddit.com/r/BlackOps6Zombies/comments/1mg3152/"
+      },
+      {
+        "title": "Firsthand r/CODZombies discussion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1gfokd7/"
+      },
+      {
+        "title": "Illustrated creator route",
+        "url": "https://www.callofduty.com/br/pt/patchnotes/2025/03/call-of-duty-black-ops-6-season-03-patch-notes"
+      },
+      {
+        "title": "Official BO6 Season 1 patch notes",
+        "url": "https://www.callofduty.com/patchnotes/2024/11/call-of-duty-black-ops-6-season-01-patch-notes"
+      }
+    ],
+    "supplementNote": "Unquoted sections below are researched corrections or added directions. Any unresolved source claims are qualified in the field notes.",
+    "sourceQuote": null
+  },
+  "terminus-key-map-features-pack-a-punch": {
+    "steps": [
+      {
+        "title": "Power three AMP generators",
+        "body": "Follow the objective route: Holding Cells, Living Quarters, then Bio Lab. Pay each AMP activation and protect it until the defense completes. Once all three are powered, dive under the Bio Lab lift and interact with its control to raise Pack-a-Punch.",
+        "original": true
+      },
+      {
+        "title": "Use the movable lift",
+        "body": "Pack-a-Punch travels on the inclined lift. If the platform is above you, use the lift controls or follow the upper walkway to reach it; raising map power alone does not automatically raise it out of the water.",
+        "original": true
+      },
+      {
+        "title": "Buy Pack-a-Punch tiers",
+        "body": "Pack-a-Punch a held weapon for 5,000 Essence (I), then 15,000 (II), then 30,000 (III): 50,000 total from unpacked to tier III. These are separate purchases. Raw, Refined and Flawless Aetherium Crystals apply tiers I, II and III respectively when obtained as loot; they are not permanent account upgrades.",
+        "original": true
+      },
+      {
+        "title": "Upgrade ordinary weapon rarity",
+        "body": "Use an Arsenal: Common→Uncommon costs 500 salvage, Uncommon→Rare 1,000, Rare→Epic 2,500, Epic→Legendary 5,000. The full Common→Legendary path totals 9,000. A colored Aether Tool sets the held ordinary weapon to its stated rarity; do not spend a lower-tier tool on a better gun. Rarity and PaP are separate upgrade tracks.",
+        "original": true
+      },
+      {
+        "title": "Upgrade Wonder Weapons",
+        "body": "The map-specific Jet Gun / Beamsmasher and Ray Gun use the three Pack-a-Punch tiers but do not accept ordinary Arsenal rarity tiers or ammo mods. Ray Gun Mark II joined the Mystery Box pool in Season 3 Reloaded; its Shattered Veil elemental build quests do not transfer to these launch maps.",
+        "original": true,
+        "tip": "Follow the linked free-build route for this map’s quest Wonder Weapon. Mystery Box and side-reward Wonder Weapons are random opportunities, not guaranteed extra builds."
+      }
+    ],
+    "requirements": [
+      "Standard or Directed Mode.",
+      "Essence for PaP; salvage for ordinary rarity",
+      "Upgrade the weapon you intend to keep"
+    ],
+    "reward": "PaP access; ordinary weapons can reach Legendary + PaP III, and Wonder Weapons PaP III.",
+    "relatedGuideIds": [
+      "bo6-terminus-beamsmasher",
+      "bo6-terminus-main",
+      "bo6-terminus-armory-loot"
+    ],
+    "sourceOmissions": [
+      "The short access-only quotation is replaced by an original setup and upgrade explanation."
+    ],
+    "checked": "2026-10-16",
+    "players": "1–4 players",
+    "sources": [
+      {
+        "title": "r/CODZombies community map guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/terminus/"
+      },
+      {
+        "title": "Firsthand r/CODZombies discussion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1ge0t9w/"
+      },
+      {
+        "title": "Firsthand r/CODZombies discussion",
+        "url": "https://www.reddit.com/r/blackops6/comments/1gebywa/"
+      },
+      {
+        "title": "Firsthand r/CODZombies discussion",
+        "url": "https://www.reddit.com/r/BlackOps6Zombies/comments/1mg3152/"
+      },
+      {
+        "title": "Firsthand r/CODZombies discussion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1gfokd7/"
+      },
+      {
+        "title": "Illustrated creator route",
+        "url": "https://www.callofduty.com/br/pt/patchnotes/2025/03/call-of-duty-black-ops-6-season-03-patch-notes"
+      },
+      {
+        "title": "Official BO6 Season 1 patch notes",
+        "url": "https://www.callofduty.com/patchnotes/2024/11/call-of-duty-black-ops-6-season-01-patch-notes"
+      }
+    ],
+    "supplementNote": "Unquoted sections below are researched corrections or added directions. Any unresolved source claims are qualified in the field notes.",
+    "sourceQuote": null
   }
 }

@@ -7,7 +7,7 @@ import {
   parseRoute,
   externalUrl,
   expandCommunityGuides,
-} from "./core.js";
+} from "./core.js?v=20261016-editions";
 
 const main = document.querySelector("main");
 const storageKey = "dead-drop-progress-v1";

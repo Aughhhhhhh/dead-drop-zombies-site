@@ -24,16 +24,43 @@
       },
       {
         "title": "Find the bear above spawn",
-        "body": "Return to the mainframe and look up at the upper window of the building overlooking spawn. Shoot the teddy bear sitting on the sill. Listen for Samantha's response before moving on."
+        "body": "Return to the mainframe and look up at the upper window of the building overlooking spawn. Shoot the teddy bear sitting on the sill. Listen for Samantha's response before moving on.",
+        "images": [
+          {
+            "src": "./assets/classic-batch2-der-flytrap-window.webp",
+            "alt": "High broken window above the M1A1 Carbine route",
+            "caption": "Fly Trap target area — original WaW PC reference",
+            "source": "https://mmmrkennedy.com/games/WAW/der_riese/der_riese_guide",
+            "credit": "MMMRKennedy / Activision — World at War PC reference"
+          }
+        ]
       },
       {
         "title": "Find the bear in the animal-testing cages",
-        "body": "Go to the room with the M1897 Trench Gun on the route to Teleporter A. Look through the animal-testing window at the cages; shoot the teddy holding a bottle and pistol inside a cage."
+        "body": "Go to the room with the M1897 Trench Gun on the route to Teleporter A. Look through the animal-testing window at the cages; shoot the teddy holding a bottle and pistol inside a cage.",
+        "images": [
+          {
+            "src": "./assets/classic-batch2-der-flytrap-cage.webp",
+            "alt": "Animal-lab cage window beside the Trench Gun",
+            "caption": "Fly Trap target area — original WaW PC reference",
+            "source": "https://mmmrkennedy.com/games/WAW/der_riese/der_riese_guide",
+            "credit": "MMMRKennedy / Activision — World at War PC reference"
+          }
+        ]
       },
       {
         "title": "Find the monkey in the furnace",
         "body": "Go to the Thompson room on the other side of the map. Look into the glowing furnace behind the wall buy and shoot the Monkey Bomb toy inside. After all three toys have been hit, Samantha confirms the hunt is over.",
-        "tip": "The Annihilator reward belongs to The Giant in Black Ops III. Do not expect it on this version."
+        "tip": "The Annihilator reward belongs to The Giant in Black Ops III. Do not expect it on this version.",
+        "images": [
+          {
+            "src": "./assets/classic-batch2-der-flytrap-furnace.webp",
+            "alt": "Open furnace near the Thompson",
+            "caption": "Fly Trap target area — original WaW PC reference",
+            "source": "https://mmmrkennedy.com/games/WAW/der_riese/der_riese_guide",
+            "credit": "MMMRKennedy / Activision — World at War PC reference"
+          }
+        ]
       }
     ],
     "sources": [
@@ -48,9 +75,13 @@
       {
         "title": "XboxAchievements — original Der Riese notes",
         "url": "https://www.xboxachievements.com/forum/topic/145631-nazi-zombie-ultimate-survival-guide/"
+      },
+      {
+        "title": "MMMRKennedy: original target photos",
+        "url": "https://mmmrkennedy.com/games/WAW/der_riese/der_riese_guide"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-16"
   },
   {
     "id": "waw-der-riese-beauty-of-annihilation",
@@ -67,24 +98,60 @@
     "steps": [
       {
         "title": "Animal-testing shelf",
-        "body": "In the room with the M1897 Trench Gun, before Teleporter A, approach the shelf containing glowing specimen jars. Hold interact on the jar containing a spinal specimen until you hear the confirmation sound."
+        "body": "In the animal-testing room with the M1897 Trench Gun, before Teleporter A, approach the glowing specimen jar on the shelf and hold interact directly at the jar.",
+        "images": [
+          {
+            "src": "./assets/classic-batch2-der-song-shelf.webp",
+            "alt": "Jar on animal-lab shelf",
+            "caption": "Beauty of Annihilation jar — World at War PC reference",
+            "source": "https://mmmrkennedy.com/games/WAW/der_riese/der_riese_guide",
+            "credit": "MMMRKennedy / Activision — World at War PC reference"
+          }
+        ]
       },
       {
         "title": "Opposite table",
-        "body": "In the same room, turn to the table on the opposite side and interact with the second specimen jar. Move close enough that your crosshair is on the jar itself."
+        "body": "In the same room, turn to the table on the opposite side and interact with the second specimen jar. Move close enough that your crosshair is on the jar itself.",
+        "images": [
+          {
+            "src": "./assets/classic-batch2-der-song-stairs.webp",
+            "alt": "Second jar across the animal lab",
+            "caption": "Beauty of Annihilation jar — World at War PC reference",
+            "source": "https://mmmrkennedy.com/games/WAW/der_riese/der_riese_guide",
+            "credit": "MMMRKennedy / Activision — World at War PC reference"
+          }
+        ]
       },
       {
         "title": "Teleporter B table",
-        "body": "Open the Type 100 teleporter room and interact with the specimen jar on the table near the grenade wall buy. After all three jars are activated, the song starts. They can be activated in any order."
+        "body": "Open the Type 100 teleporter room and interact with the specimen jar on the table near the grenade wall buy. After all three jars are activated, the song starts. They can be activated in any order.",
+        "images": [
+          {
+            "src": "./assets/classic-batch2-der-song-b.webp",
+            "alt": "Jar in Teleporter B side room",
+            "caption": "Beauty of Annihilation jar — World at War PC reference",
+            "source": "https://mmmrkennedy.com/games/WAW/der_riese/der_riese_guide",
+            "credit": "MMMRKennedy / Activision — World at War PC reference"
+          }
+        ],
+        "tip": "Use all three jars once. Their sounds can be quiet in stock WaW; the song starting after the last jar is the reliable completion check."
       }
     ],
     "sources": [
       {
         "title": "r/CODZombies — Der Riese music egg",
         "url": "https://www.reddit.com/r/CODZombies/wiki/der-riese/"
+      },
+      {
+        "title": "MMMRKennedy: jar gallery",
+        "url": "https://mmmrkennedy.com/games/WAW/der_riese/der_riese_guide"
+      },
+      {
+        "title": "Stock map mod author: quiet original jar/affirm sounds",
+        "url": "https://github.com/JBShady/COD5-Remastered"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-16"
   },
   {
     "id": "waw-verruckt-lullaby-for-a-dead-man",
@@ -106,16 +173,33 @@
       {
         "title": "Flush the left toilet three times",
         "body": "Face the toilets and stand next to the furthest-left one. Press interact three separate times, allowing each flush to register. The third flush starts the song.",
-        "tip": "The longer toilet sequence for Samantha dolls belongs to Black Ops III's remaster; three flushes are enough for this song."
+        "tip": "The longer toilet sequence for Samantha dolls belongs to Black Ops III's remaster; three flushes are enough for this song.",
+        "images": [
+          {
+            "src": "./assets/classic-batch2-verruckt-toilet.webp",
+            "alt": "Bathroom with three toilets",
+            "caption": "Three-flush bathroom — World at War PC reference",
+            "source": "https://mmmrkennedy.com/games/WAW/verruckt/verruckt_guide",
+            "credit": "MMMRKennedy / Activision — World at War PC reference"
+          }
+        ]
       }
     ],
     "sources": [
       {
         "title": "r/CODZombies — Verrückt hidden song",
         "url": "https://www.reddit.com/r/CODZombies/wiki/verruckt/"
+      },
+      {
+        "title": "Brian Tuey: original song discovery",
+        "url": "https://briantuey.blogspot.com/2009/03/verruckt-music-easter-egg-found.html"
+      },
+      {
+        "title": "MMMRKennedy: original bathroom photo",
+        "url": "https://mmmrkennedy.com/games/WAW/verruckt/verruckt_guide"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-16"
   },
   {
     "id": "waw-shi-no-numa-the-one",
@@ -128,24 +212,46 @@
     "requirements": [
       "Open the path to the hut marked Comms Room"
     ],
-    "reward": "The One plays.",
+    "reward": "The One plays; the original console trigger also awards Dead Air where achievements/trophies are supported.",
     "steps": [
       {
         "title": "Open the Communications Room",
-        "body": "Leave the main building and follow the walkway marked Comms Room across the swamp. Buy the hut door and locate the telephone on the desk inside."
+        "body": "Leave the main building and follow the walkway marked Comms Room across the swamp. Buy the hut door and locate the telephone on the desk inside.",
+        "images": [
+          {
+            "src": "./assets/classic-batch2-shi-phone.webp",
+            "alt": "Black phone on Comms Room desk",
+            "caption": "The One phone — World at War PC reference",
+            "source": "https://mmmrkennedy.com/games/WAW/shi_no_numa/shi_no_numa_guide",
+            "credit": "MMMRKennedy / Activision — World at War PC reference"
+          }
+        ]
       },
       {
         "title": "Use the phone three times",
-        "body": "Stand close to the telephone and press interact three separate times. Wait for each interaction to register; the final use starts The One for the whole team."
+        "body": "Stand close to the telephone and press interact three separate times. Wait for each interaction to register; the final use starts The One for the whole team.",
+        "tip": "Make separate interactions and allow the phone audio to finish. If a press misses, stay close and repeat; ringing/voice followed by music confirms success."
       }
     ],
     "sources": [
       {
         "title": "r/CODZombies — Shi No Numa hidden song",
         "url": "https://www.reddit.com/r/CODZombies/wiki/shi-no-numa/"
+      },
+      {
+        "title": "Original June 2009 Dead Air discovery",
+        "url": "https://nextgenupdate.com/forums/call-duty-world-at-war/39954-shi-no-numa-secret-trophyachievement-dead-air-1.html"
+      },
+      {
+        "title": "Original achievement walkthrough",
+        "url": "https://www.xboxachievements.com/forum/topic/134163-call-of-duty-waw-shi-no-numa-achievement-guide/"
+      },
+      {
+        "title": "Telephone photo",
+        "url": "https://mmmrkennedy.com/games/WAW/shi_no_numa/shi_no_numa_guide"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-16"
   },
   {
     "id": "bo1-kino-der-toten-115",
