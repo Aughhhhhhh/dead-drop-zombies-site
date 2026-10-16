@@ -1747,6 +1747,8 @@ nav a[aria-current]:after {
     accent-color: black;
   }
   .sources-list a {
+    display: inline;
+    min-height: 0;
     border: 0;
     padding: 0;
     margin-right: 14px;

@@ -8,8 +8,8 @@
     "Newly authored guides may have source research without a separate recorded full audit. Guide counts and passing software checks do not establish gameplay accuracy."
   ],
   "catalogEntries": 152,
-  "runtimeGuides": 1305,
-  "guidesWithRecordedSourceReview": 173,
+  "runtimeGuides": 1319,
+  "guidesWithRecordedSourceReview": 208,
   "guidesCertifiedFullyVerified": 0,
   "batches": [
     {
@@ -35,6 +35,26 @@
     {
       "batch": "nuketown-whole-guide-pass",
       "rowsWithRecordedReview": 7
+    },
+    {
+      "batch": "rush-follow-up",
+      "rowsWithRecordedReview": 1
+    },
+    {
+      "batch": "bo1-classics-whole-guide-pass",
+      "rowsWithRecordedReview": 24
+    },
+    {
+      "batch": "bo1-classics-new-routes",
+      "rowsWithRecordedReview": 14
+    },
+    {
+      "batch": "bo3-verruckt-focused-traps",
+      "rowsWithRecordedReview": 1
+    },
+    {
+      "batch": "radio-title-field-follow-up",
+      "rowsWithRecordedReview": 2
     }
   ],
   "guideReviews": [
@@ -302,10 +322,236 @@
           "unverified": [
             "All ten arena names/order, later cycles, every bonus room and hidden pickup have not been independently audited."
           ],
+          "checkedClaims": [
+            "Terminal unlock",
+            "Round 13–15 exit-arrow Fate mechanism",
+            "First boss charge warning / escape principle"
+          ],
           "evidenceUrls": [
             "doa1-boss-steam",
             "doa1-fate-moz",
             "doa1-unlock"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo1-der-riese-bowie-knife",
+      "mapId": "bo1-der-riese",
+      "reviews": [
+        {
+          "batch": "bo1-classics-new-routes",
+          "reportedStatus": "source_supported_route_with_explicit_limits",
+          "independentlyPlaytested": false,
+          "remainingUncertainty": [
+            "Hector’s round-20 one-hit statement is rejected; contemporary sources disagree about one-hit cutoffs, so none is certified here.",
+            "Knife wall location and cost are source-supported; no BO1 knife-outline close-up obtained."
+          ],
+          "evidenceUrls": [
+            "https://gamefaqs.gamespot.com/ps3/960188-call-of-duty-black-ops/faqs/61302",
+            "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/der-riese/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo1-der-riese-burning-monkey",
+      "mapId": "bo1-der-riese",
+      "reviews": [
+        {
+          "batch": "bo1-classics-new-routes",
+          "reportedStatus": "source_supported_route_with_explicit_limits",
+          "independentlyPlaytested": false,
+          "remainingUncertainty": [
+            "BO1 Cassy indexed firsthand passage and BO1 atwiki agree on the throw/reaction. No claims that this changes zombie strength or drop rates are retained.",
+            "No BO1 live-burning-monkey close-up obtained."
+          ],
+          "evidenceUrls": [
+            "https://gamefaqs.gamespot.com/ps3/960188-call-of-duty-black-ops/faqs/61302",
+            "https://w.atwiki.jp/cod_blackops/pages/54.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo1-der-riese-community-der-riese-easter-eggs-beauty-of-annihilation",
+      "mapId": "bo1-der-riese",
+      "reviews": [
+        {
+          "batch": "bo1-classics-whole-guide-pass",
+          "reportedStatus": "scoped_correction_proposed",
+          "independentlyPlaytested": false,
+          "allExistingStepsRead": true,
+          "remainingUncertainty": [
+            "Once-per-match/retrigger behavior not independently playtested.",
+            "Photos show original WaW geometry, not a BO1 retail capture."
+          ],
+          "checkedClaims": [
+            "Three jars; two Animal Testing, one B side room",
+            "Use; any order; song on third",
+            "Names/credits",
+            "Three jars; two Animal Testing, one B side room",
+            "Use; any order; song on third",
+            "Names/credits"
+          ],
+          "evidenceUrls": [
+            "https://mmmrkennedy.com/games/WAW/der_riese/der_riese_guide?version=remake",
+            "https://w.atwiki.jp/cod_blackops/pages/54.html",
+            "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/der-riese/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo1-der-riese-community-der-riese-easter-eggs-main-easter-egg",
+      "mapId": "bo1-der-riese",
+      "reviews": [
+        {
+          "batch": "bo1-classics-whole-guide-pass",
+          "reportedStatus": "scoped_correction_proposed",
+          "independentlyPlaytested": false,
+          "allExistingStepsRead": true,
+          "remainingUncertainty": [
+            "A secondary wiki reports a BO1 target visibility/angle bug; no firsthand reproduction obtained, so do not promise shooting an invisible coordinate.",
+            "The local target-area photos do not visibly demonstrate active spawned toys; a BO1 live-target close-up set remains missing."
+          ],
+          "checkedClaims": [
+            "Solo possible",
+            "Upgraded gun to activate panel",
+            "Panel alley by M1 Carbine",
+            "Three fixed original targets",
+            "Targets any order with ordinary gun",
+            "Dialogue only BO1 reward",
+            "Solo, power/PaP prerequisite, upgraded weapon to start",
+            "Power, three links, upgraded bullet weapon; missing setup companion supplied",
+            "M1 Carbine window/alley and distant panel",
+            "Panel launch cue; upgraded bullet damage",
+            "Window target verified; missing cage/furnace targets corrected",
+            "Three normal-weapon hits and completion dialogue; BO1 reward distinguished"
+          ],
+          "evidenceUrls": [
+            "https://mmmrkennedy.com/games/WAW/der_riese/der_riese_guide?version=remake",
+            "https://steamcommunity.com/sharedfiles/filedetails/?id=137289967",
+            "https://w.atwiki.jp/cod_blackops/pages/54.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo1-der-riese-community-der-riese-map-walkthrough-dog-rounds",
+      "mapId": "bo1-der-riese",
+      "reviews": [
+        {
+          "batch": "bo1-classics-whole-guide-pass",
+          "reportedStatus": "scoped_correction_proposed",
+          "independentlyPlaytested": false,
+          "allExistingStepsRead": true,
+          "remainingUncertainty": [
+            "Exact first-round/interval RNG and the first mixed wave were not retail-tested."
+          ],
+          "checkedClaims": [
+            "Dedicated dog waves end in Max Ammo",
+            "Later mixed dog/zombie regular waves",
+            "Do not promise precise source interval",
+            "Dedicated dog waves end in Max Ammo",
+            "Later mixed dog/zombie regular waves",
+            "Do not promise precise source interval"
+          ],
+          "evidenceUrls": [
+            "https://w.atwiki.jp/cod_blackops/pages/54.html",
+            "https://www.gamesradar.com/cod-black-ops-rezurrection-dlc-guide/4/",
+            "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/der-riese/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo1-der-riese-community-der-riese-map-walkthrough-pack-a-punch",
+      "mapId": "bo1-der-riese",
+      "reviews": [
+        {
+          "batch": "bo1-classics-whole-guide-pass",
+          "reportedStatus": "scoped_correction_proposed",
+          "independentlyPlaytested": false,
+          "allExistingStepsRead": true,
+          "remainingUncertainty": [
+            "Ordinary paid teleporter transport is separate from free linking.",
+            "No claim of double-PaP/BO3 alternate ammo in BO1."
+          ],
+          "checkedClaims": [
+            "Correct A/B/C geometry",
+            "30-second teleporter-to-mainframe Use confirmation",
+            "Team confirmation possible",
+            "All three opens PaP",
+            "5,000 insert/collect",
+            "Correct A/B/C geometry",
+            "30-second teleporter-to-mainframe Use confirmation",
+            "Team confirmation possible",
+            "All three opens PaP",
+            "5,000 insert/collect"
+          ],
+          "evidenceUrls": [
+            "https://mmmrkennedy.com/games/WAW/der_riese/der_riese_guide?version=remake",
+            "https://w.atwiki.jp/cod_blackops/pages/54.html",
+            "https://www.gamesradar.com/cod-black-ops-rezurrection-dlc-guide/4/",
+            "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/der-riese/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo1-der-riese-community-der-riese-map-walkthrough-power",
+      "mapId": "bo1-der-riese",
+      "reviews": [
+        {
+          "batch": "bo1-classics-whole-guide-pass",
+          "reportedStatus": "scoped_correction_proposed",
+          "independentlyPlaytested": false,
+          "allExistingStepsRead": true,
+          "remainingUncertainty": [
+            "This is a route by landmarks; individual door totals were not certified."
+          ],
+          "checkedClaims": [
+            "Either wing upstairs to courtyard drop",
+            "Generator and initial Box landmark",
+            "Free lever",
+            "Bridge/shortcuts/devices enabled",
+            "Either wing upstairs to courtyard drop",
+            "Generator and initial Box landmark",
+            "Free lever",
+            "Bridge/shortcuts/devices enabled"
+          ],
+          "evidenceUrls": [
+            "https://w.atwiki.jp/cod_blackops/pages/54.html",
+            "https://www.gamesradar.com/cod-black-ops-rezurrection-dlc-guide/4/",
+            "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/der-riese/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo1-der-riese-community-der-riese-map-walkthrough-traps",
+      "mapId": "bo1-der-riese",
+      "reviews": [
+        {
+          "batch": "bo1-classics-whole-guide-pass",
+          "reportedStatus": "scoped_correction_proposed",
+          "independentlyPlaytested": false,
+          "allExistingStepsRead": true,
+          "remainingUncertainty": [
+            "Activation/recharge timers and exact player damage were not independently measured."
+          ],
+          "checkedClaims": [
+            "Three actual Der Riese trap locations",
+            "Power requirement and 1,000 price",
+            "Temporary trap and recharge",
+            "Three actual Der Riese trap locations",
+            "Power requirement and 1,000 price",
+            "Temporary trap and recharge"
+          ],
+          "evidenceUrls": [
+            "https://w.atwiki.jp/cod_blackops/pages/54.html",
+            "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/der-riese/"
           ]
         }
       ]
@@ -331,6 +577,149 @@
           "evidenceUrls": [
             "https://steamcommunity.com/sharedfiles/filedetails/?id=121313832",
             "https://steamcommunity.com/sharedfiles/filedetails/?id=167978998"
+          ]
+        },
+        {
+          "batch": "bo1-classics-whole-guide-pass",
+          "reportedStatus": "source_checked_existing_route_retained",
+          "independentlyPlaytested": false,
+          "allExistingStepsRead": true,
+          "remainingUncertainty": [
+            "No fixed distraction timer or Hellhound attraction is certified. Existing first-batch wording is retained."
+          ],
+          "checkedClaims": [
+            "BO1 Box acquisition",
+            "Playable-floor throw, wind-up, short ordinary-zombie distraction",
+            "Out-of-bounds throws can fail",
+            "Unsupported original 30-second claim already replaced in first batch",
+            "BO1 Box acquisition",
+            "Playable-floor throw, wind-up, short ordinary-zombie distraction",
+            "Out-of-bounds throws can fail",
+            "Unsupported original 30-second claim already replaced in first batch"
+          ],
+          "evidenceUrls": [
+            "https://github.com/5and5/BO1-Remix",
+            "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/der-riese/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo1-der-riese-community-der-riese-special-weapons-wunderwaffe-dg-2",
+      "mapId": "bo1-der-riese",
+      "reviews": [
+        {
+          "batch": "bo1-classics-whole-guide-pass",
+          "reportedStatus": "scoped_correction_proposed",
+          "independentlyPlaytested": false,
+          "allExistingStepsRead": true,
+          "remainingUncertainty": [
+            "Exact damage/chain propagation and the holder rule after unusual trades/deaths were not retail-tested."
+          ],
+          "checkedClaims": [
+            "Random Box acquisition",
+            "One holder",
+            "3/15",
+            "BO1 fixes original permanent Juggernog-loss bug",
+            "Reload and self-shock handling",
+            "Random Box acquisition",
+            "One holder",
+            "3/15",
+            "BO1 fixes original permanent Juggernog-loss bug",
+            "Reload and self-shock handling"
+          ],
+          "evidenceUrls": [
+            "https://gamefaqs.gamespot.com/boards/960188-call-of-duty-black-ops/59202704",
+            "https://steamcommunity.com/sharedfiles/filedetails/?id=121313832",
+            "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/der-riese/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo1-der-riese-community-der-riese-special-weapons-wunderwaffe-dg-2-upgrade",
+      "mapId": "bo1-der-riese",
+      "reviews": [
+        {
+          "batch": "bo1-classics-whole-guide-pass",
+          "reportedStatus": "scoped_correction_proposed",
+          "independentlyPlaytested": false,
+          "allExistingStepsRead": true,
+          "remainingUncertainty": [
+            "Stock retail scripts were not inspected; ten-target cap is source-supported rather than directly instrumented."
+          ],
+          "checkedClaims": [
+            "DG-2 PaP for 5,000",
+            "DG-3 JZ 6/30",
+            "Faster reload",
+            "Stock upgraded chain limit ten supported by firsthand guide and mod change notes",
+            "DG-2 PaP for 5,000",
+            "DG-3 JZ 6/30",
+            "Faster reload",
+            "Stock upgraded chain limit ten supported by firsthand guide and mod change notes"
+          ],
+          "evidenceUrls": [
+            "https://github.com/5and5/BO1-Remix",
+            "https://steamcommunity.com/sharedfiles/filedetails/?id=121313832",
+            "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/der-riese/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo1-der-riese-perk-loose-change",
+      "mapId": "bo1-der-riese",
+      "reviews": [
+        {
+          "batch": "bo1-classics-new-routes",
+          "reportedStatus": "source_supported_route_with_explicit_limits",
+          "independentlyPlaytested": false,
+          "remainingUncertainty": [
+            "A firsthand BO1/WaW comparison establishes the BO1 25-point value. BO1 atwiki excludes Mule Kick.",
+            "Shared versus per-player payout ownership in co-op was not independently resolved, so the guide does not promise repeat payouts for every teammate.",
+            "No local BO1 +25 HUD capture obtained."
+          ],
+          "evidenceUrls": [
+            "https://w.atwiki.jp/cod_blackops/pages/54.html",
+            "https://www.reddit.com/r/CODZombies/comments/w6xwpf/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo1-der-riese-ray-gun-upgrade",
+      "mapId": "bo1-der-riese",
+      "reviews": [
+        {
+          "batch": "bo1-classics-new-routes",
+          "reportedStatus": "source_supported_route_with_explicit_limits",
+          "independentlyPlaytested": false,
+          "remainingUncertainty": [
+            "No exact damage table or one-hit-kill round is promised. No local BO1 Box/upgrade weapon photo obtained."
+          ],
+          "evidenceUrls": [
+            "https://steamcommunity.com/sharedfiles/filedetails/?id=121313832",
+            "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/der-riese/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo1-der-riese-seven-radios",
+      "mapId": "bo1-der-riese",
+      "reviews": [
+        {
+          "batch": "bo1-classics-new-routes",
+          "reportedStatus": "source_supported_route_with_explicit_limits",
+          "independentlyPlaytested": false,
+          "remainingUncertainty": [
+            "All seven locations are checked against BO1 atwiki; the CoDZ terminal/gallery clarifies fixed-versus-sequenced messages. No whole transcript reproduction.",
+            "All seven local images show original WaW geometry and retain archive watermarks; a BO1 live-device photo set remains missing."
+          ],
+          "evidenceUrls": [
+            "https://w.atwiki.jp/cod_blackops/pages/54.html",
+            "https://www.callofdutyzombies.com/zombie-library/zombies-library/worldatwar/derriese/radio-transmissions-r90/",
+            "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/der-riese/"
           ]
         }
       ]
@@ -464,6 +853,406 @@
           "evidenceUrls": [
             "https://www.reddit.com/r/CODZombies/wiki/nacht-der-untoten/"
           ]
+        },
+        {
+          "batch": "bo1-classics-whole-guide-pass",
+          "reportedStatus": "scoped_correction_proposed",
+          "independentlyPlaytested": false,
+          "allExistingStepsRead": true,
+          "remainingUncertainty": [
+            "The unusual 380-point refill mentioned by one guide was not independently verified and is omitted."
+          ],
+          "checkedClaims": [
+            "Cabinet upstairs near Trench Gun",
+            "1,500 scoped Kar98k",
+            "Automatic acquisition can replace held weapon",
+            "No stock PaP",
+            "Cabinet upstairs near Trench Gun",
+            "1,500 scoped Kar98k",
+            "Automatic acquisition can replace held weapon",
+            "No stock PaP"
+          ],
+          "evidenceUrls": [
+            "https://steamcommunity.com/sharedfiles/filedetails/?id=156648862",
+            "https://w.atwiki.jp/cod_blackops/pages/118.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo1-nacht-der-untoten-community-nacht-der-untoten-map-walkthrough-traps-explosive-barrels",
+      "mapId": "bo1-nacht-der-untoten",
+      "reviews": [
+        {
+          "batch": "bo1-classics-whole-guide-pass",
+          "reportedStatus": "scoped_correction_proposed",
+          "independentlyPlaytested": false,
+          "allExistingStepsRead": true,
+          "remainingUncertainty": [
+            "Explosion damage/radius and per-barrel reset behavior were not measured."
+          ],
+          "checkedClaims": [
+            "Exterior barrels explode and can damage nearby zombies",
+            "Undone has a separate three-target route",
+            "Exterior barrels explode and can damage nearby zombies",
+            "Undone has a separate three-target route"
+          ],
+          "evidenceUrls": [
+            "https://steamcommunity.com/sharedfiles/filedetails/?id=156648862",
+            "https://w.atwiki.jp/cod_blackops/pages/118.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo1-nacht-der-untoten-community-nacht-der-untoten-special-weapons-monkey-bombs",
+      "mapId": "bo1-nacht-der-untoten",
+      "reviews": [
+        {
+          "batch": "bo1-classics-whole-guide-pass",
+          "reportedStatus": "scoped_correction_proposed",
+          "independentlyPlaytested": false,
+          "allExistingStepsRead": true,
+          "remainingUncertainty": [
+            "Exact distraction duration and exceptional failures were not timed on a retail build."
+          ],
+          "checkedClaims": [
+            "BO1 Box acquisition",
+            "Three equipment capacity and Max Ammo refill",
+            "Short distraction, wind-up and playable-floor requirement",
+            "BO1 Box acquisition",
+            "Three equipment capacity and Max Ammo refill",
+            "Short distraction, wind-up and playable-floor requirement"
+          ],
+          "evidenceUrls": [
+            "https://github.com/5and5/BO1-Remix",
+            "https://steamcommunity.com/sharedfiles/filedetails/?id=156648862",
+            "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/nacht-der-untoten/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo1-nacht-der-untoten-community-nacht-der-untoten-special-weapons-wonder-weapon",
+      "mapId": "bo1-nacht-der-untoten",
+      "reviews": [
+        {
+          "batch": "bo1-classics-whole-guide-pass",
+          "reportedStatus": "scoped_correction_proposed",
+          "independentlyPlaytested": false,
+          "allExistingStepsRead": true,
+          "remainingUncertainty": [
+            "Launch builds/mods can differ; retail launch-version manual reload was not re-tested."
+          ],
+          "checkedClaims": [
+            "Both Ray Gun and Thundergun occur in BO1 Nacht Box",
+            "Box fixed in HELP room",
+            "Ray Gun 20/160 and splash",
+            "Thundergun 2/12, one holder, empty-magazine reload on patched BO1",
+            "No stock PaP",
+            "Both Ray Gun and Thundergun occur in BO1 Nacht Box",
+            "Box fixed in HELP room",
+            "Ray Gun 20/160 and splash",
+            "Thundergun 2/12, one holder, empty-magazine reload on patched BO1",
+            "No stock PaP"
+          ],
+          "evidenceUrls": [
+            "https://steamcommunity.com/sharedfiles/filedetails/?id=156648862",
+            "https://steamcommunity.com/sharedfiles/filedetails/?id=167978998",
+            "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/nacht-der-untoten/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo1-nacht-der-untoten-undone",
+      "mapId": "bo1-nacht-der-untoten",
+      "reviews": [
+        {
+          "batch": "bo1-classics-whole-guide-pass",
+          "reportedStatus": "source_checked_existing_route_retained",
+          "independentlyPlaytested": false,
+          "allExistingStepsRead": true,
+          "remainingUncertainty": [
+            "Previously researched primary barrel video/guide evidence adopted and its three current BO1 photos re-inspected. No independent retail trigger execution or complete frame-by-frame rewatch in this pass."
+          ],
+          "checkedClaims": [
+            "Three distinct exterior barrel locations match all three existing BO1 photos",
+            "Damage the targets in any order; song after final target",
+            "No nine-barrel requirement; Hector’s nine-barrel statement rejected",
+            "Stair-adjacent starting-room window exterior barrel; matching BO1 photo",
+            "Rear corner window diagonally opposite Mule Kick; matching BO1 photo",
+            "Mule Kick-side window toward truck; matching BO1 photo",
+            "Any order; damage rather than required full explosion; last target starts song"
+          ],
+          "evidenceUrls": [
+            "https://mmmrkennedy.com/games/WAW/nacht_der_untoten/nacht_der_untoten_guide",
+            "https://www.callofdutyzombies.com/zombie-library/zombies-library/worldatwar/nacht-der-untoten/songs-r23/",
+            "https://www.youtube.com/watch?v=QrtfDE5R5YM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo1-nacht-music-radio-playlist",
+      "mapId": "bo1-nacht-der-untoten",
+      "reviews": [
+        {
+          "batch": "bo1-classics-whole-guide-pass",
+          "reportedStatus": "source_checked_existing_route_retained",
+          "independentlyPlaytested": false,
+          "allExistingStepsRead": true,
+          "remainingUncertainty": [
+            "Names/order checked against CoDZ BO1 list; all nine recordings were not independently listened through in-game.",
+            "Some generic walkthroughs incorrectly say all barrels for Undone; that is not accepted as evidence for this radio."
+          ],
+          "checkedClaims": [
+            "Radio tabletop beside Box",
+            "Damage starts/advances tracks",
+            "All nine listed track names/order match the BO1 CoDZ entry",
+            "Tabletop radio beside Box; damaging starts/skips",
+            "Nine names/order match cited BO1 CoDZ list"
+          ],
+          "evidenceUrls": [
+            "https://w.atwiki.jp/cod_blackops/pages/118.html",
+            "https://www.callofdutyzombies.com/zombie-library/zombies-library/worldatwar/nacht-der-untoten/songs-r23/"
+          ]
+        },
+        {
+          "batch": "radio-title-field-follow-up",
+          "reportedStatus": "soundtrack-title field checked; playlist listening remains untested",
+          "independentlyPlaytested": false,
+          "checkedClaims": [
+            "The official Activision soundtrack release names the track Abra Macabre; the CoDZ playlist uses the spelling Abre Macabre. Both search names are retained."
+          ],
+          "evidenceUrls": [
+            "https://music.amazon.it/tracks/B08PC981DJ",
+            "https://www.callofdutyzombies.com/zombie-library/zombies-library/worldatwar/verruckt/songs-r36/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo1-shi-no-numa-backtracing",
+      "mapId": "bo1-shi-no-numa",
+      "reviews": [
+        {
+          "batch": "bo1-classics-new-routes",
+          "reportedStatus": "source_supported_route_with_explicit_limits",
+          "independentlyPlaytested": false,
+          "remainingUncertainty": [
+            "The library’s BO1 section and its creator description support the devices/order. No four-player trigger is documented; this pass did not execute the egg solo/co-op.",
+            "All three annotated images were inspected, but their HUDless archive shots carry WaW branding and are labelled location references rather than certified BO1 captures."
+          ],
+          "evidenceUrls": [
+            "https://w.atwiki.jp/cod_blackops/pages/53.html",
+            "https://www.callofdutyzombies.com/zombie-library/zombies-library/worldatwar/shinonuma/radio-transmissions-r52/",
+            "https://www.youtube.com/watch?v=azz15ov6Ngo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo1-shi-no-numa-box-wonder-weapons",
+      "mapId": "bo1-shi-no-numa",
+      "reviews": [
+        {
+          "batch": "bo1-classics-new-routes",
+          "reportedStatus": "source_supported_route_with_explicit_limits",
+          "independentlyPlaytested": false,
+          "remainingUncertainty": [
+            "No exhaustive conventional Box inventory or per-weapon ammo table is claimed.",
+            "DG-2 simultaneous-holder behavior on this BO1 map remains unverified and is not copied from Der Riese."
+          ],
+          "evidenceUrls": [
+            "https://github.com/5and5/BO1-Remix",
+            "https://w.atwiki.jp/cod_blackops/pages/53.html",
+            "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/shi-no-numa/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo1-shi-no-numa-community-shi-no-numa-easter-eggs-hidden-song-the-one",
+      "mapId": "bo1-shi-no-numa",
+      "reviews": [
+        {
+          "batch": "bo1-classics-whole-guide-pass",
+          "reportedStatus": "scoped_correction_proposed",
+          "independentlyPlaytested": false,
+          "allExistingStepsRead": true,
+          "remainingUncertainty": [
+            "The attached photo is a clearly labelled original-WaW location reference, not proof of the BO1 retail trigger."
+          ],
+          "checkedClaims": [
+            "Comms black telephone",
+            "Three Use inputs",
+            "The One",
+            "Dead Air achievement not BO1",
+            "Comms black telephone",
+            "Three Use inputs",
+            "The One",
+            "Dead Air achievement not BO1"
+          ],
+          "evidenceUrls": [
+            "https://w.atwiki.jp/cod_blackops/pages/53.html",
+            "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/shi-no-numa/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo1-shi-no-numa-community-shi-no-numa-map-walkthrough-traps",
+      "mapId": "bo1-shi-no-numa",
+      "reviews": [
+        {
+          "batch": "bo1-classics-whole-guide-pass",
+          "reportedStatus": "scoped_correction_proposed",
+          "independentlyPlaytested": false,
+          "allExistingStepsRead": true,
+          "remainingUncertainty": [
+            "Exact active/recharge times, crawler clearance, dog behavior and player damage thresholds were not tested."
+          ],
+          "checkedClaims": [
+            "Four outer hut barriers at 1,000",
+            "Flogger at Fishing route costs 750",
+            "Fishing gate prerequisite",
+            "No power switch",
+            "Both Flogger-side controls",
+            "Four outer hut barriers at 1,000",
+            "Flogger at Fishing route costs 750",
+            "Fishing gate prerequisite",
+            "No power switch",
+            "Both Flogger-side controls"
+          ],
+          "evidenceUrls": [
+            "https://w.atwiki.jp/cod_blackops/pages/53.html",
+            "https://www.gamesradar.com/cod-black-ops-rezurrection-dlc-guide/4/",
+            "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/shi-no-numa/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo1-shi-no-numa-meteor-comment",
+      "mapId": "bo1-shi-no-numa",
+      "reviews": [
+        {
+          "batch": "bo1-classics-new-routes",
+          "reportedStatus": "source_supported_route_with_explicit_limits",
+          "independentlyPlaytested": false,
+          "remainingUncertainty": [
+            "The BO1 Hector page explicitly describes shooting the Storage meteor. A second BO1 gameplay capture and exact per-character/repeat behavior are still missing.",
+            "No verified local meteor photo obtained."
+          ],
+          "evidenceUrls": [
+            "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/shi-no-numa/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo1-shi-no-numa-original-recordings",
+      "mapId": "bo1-shi-no-numa",
+      "reviews": [
+        {
+          "batch": "bo1-classics-new-routes",
+          "reportedStatus": "source_supported_route_with_explicit_limits",
+          "independentlyPlaytested": false,
+          "remainingUncertainty": [
+            "BO1 atwiki explicitly corroborates the spawn transmission and Storage recording. Doctor’s interior recording relies on the BO1 Hector page plus the original-map archive and still needs an independent BO1 capture.",
+            "The three spawn images are WaW location references; Storage/old Doctor’s close-ups remain missing."
+          ],
+          "evidenceUrls": [
+            "https://w.atwiki.jp/cod_blackops/pages/53.html",
+            "https://www.callofdutyzombies.com/zombie-library/zombies-library/worldatwar/shinonuma/radio-transmissions-r52/",
+            "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/shi-no-numa/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo1-shi-no-numa-richtofen-book",
+      "mapId": "bo1-shi-no-numa",
+      "reviews": [
+        {
+          "batch": "bo1-classics-new-routes",
+          "reportedStatus": "source_supported_route_with_explicit_limits",
+          "independentlyPlaytested": false,
+          "remainingUncertainty": [
+            "Supported by one dated BO1/Rezurrection firsthand report; not independently retail-tested.",
+            "The original report has no photos or video. A verified book close-up remains missing."
+          ],
+          "evidenceUrls": [
+            "https://eeggs.com/items/58830.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo1-shi-no-numa-zipline",
+      "mapId": "bo1-shi-no-numa",
+      "reviews": [
+        {
+          "batch": "bo1-classics-new-routes",
+          "reportedStatus": "source_supported_route_with_explicit_limits",
+          "independentlyPlaytested": false,
+          "remainingUncertainty": [
+            "Doctor’s activation, 1,500 fare and Main Hut destination are edition-supported. Exact repeat-use cooldown/return control prompts and max rider count were not retail-tested; no timer or guaranteed rescue is promised."
+          ],
+          "evidenceUrls": [
+            "https://w.atwiki.jp/cod_blackops/pages/53.html",
+            "https://www.gamesradar.com/cod-black-ops-rezurrection-dlc-guide/4/",
+            "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/shi-no-numa/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo1-verruckt-balcony-waltz",
+      "mapId": "bo1-verruckt",
+      "reviews": [
+        {
+          "batch": "bo1-classics-new-routes",
+          "reportedStatus": "source_supported_route_with_explicit_limits",
+          "independentlyPlaytested": false,
+          "remainingUncertainty": [
+            "BO1-specific 2012 wiki says the waltz plays on the balcony after power. It does not define a precise trigger radius, duration or repeatability; this card does not claim a puzzle reward.",
+            "The track name Valse is given by later cross-version references, but is not independently identified by listening here. No speaker photo obtained."
+          ],
+          "evidenceUrls": [
+            "https://w.atwiki.jp/cod_blackops/pages/119.html"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo1-verruckt-community-verruckt-easter-eggs-hidden-song-lullaby-of-a-deadman",
+      "mapId": "bo1-verruckt",
+      "reviews": [
+        {
+          "batch": "bo1-classics-whole-guide-pass",
+          "reportedStatus": "scoped_correction_proposed",
+          "independentlyPlaytested": false,
+          "allExistingStepsRead": true,
+          "remainingUncertainty": [
+            "Once-per-game behavior follows the shared source; retrigger timing was not playtested."
+          ],
+          "checkedClaims": [
+            "Leftmost of three upstairs toilets",
+            "Three Use/flush inputs",
+            "Lullaby for a Dead Man",
+            "No Chronicles doll instructions",
+            "Leftmost of three upstairs toilets",
+            "Three Use/flush inputs",
+            "Lullaby for a Dead Man",
+            "No Chronicles doll instructions"
+          ],
+          "evidenceUrls": [
+            "https://steamcommunity.com/sharedfiles/filedetails/?id=138169076",
+            "https://w.atwiki.jp/cod_blackops/pages/119.html",
+            "https://www.callofdutyzombies.com/zombie-library/zombies-library/worldatwar/verruckt/songs-r36/"
+          ]
         }
       ]
     },
@@ -488,6 +1277,133 @@
           ],
           "evidenceUrls": [
             "https://www.reddit.com/r/CODZombies/wiki/verruckt/"
+          ]
+        },
+        {
+          "batch": "bo1-classics-whole-guide-pass",
+          "reportedStatus": "scoped_correction_proposed",
+          "independentlyPlaytested": false,
+          "allExistingStepsRead": true,
+          "remainingUncertainty": [
+            "Playlist order is checked against the named CoDZ record, not independently listened to on all nine in-game tracks in this pass.",
+            "Do not copy the source’s incorrect game attribution for the mission Redemption."
+          ],
+          "checkedClaims": [
+            "One interactive balcony desk radio",
+            "Shoot to start/advance",
+            "Nine BO1 tracks and documented order",
+            "One interactive balcony desk radio",
+            "Shoot to start/advance",
+            "Nine BO1 tracks and documented order"
+          ],
+          "evidenceUrls": [
+            "https://steamcommunity.com/sharedfiles/filedetails/?id=138169076",
+            "https://www.callofdutyzombies.com/zombie-library/zombies-library/worldatwar/verruckt/songs-r36/",
+            "https://www.codzombieguides.com/verr%C3%BCckt-remastered"
+          ]
+        },
+        {
+          "batch": "radio-title-field-follow-up",
+          "reportedStatus": "soundtrack-title field checked; playlist listening remains untested",
+          "independentlyPlaytested": false,
+          "checkedClaims": [
+            "The official Activision soundtrack release names the track Abra Macabre; the CoDZ playlist uses the spelling Abre Macabre. Both search names are retained."
+          ],
+          "evidenceUrls": [
+            "https://music.amazon.it/tracks/B08PC981DJ",
+            "https://www.callofdutyzombies.com/zombie-library/zombies-library/worldatwar/verruckt/songs-r36/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo1-verruckt-community-verruckt-easter-eggs-screaming-man-ee",
+      "mapId": "bo1-verruckt",
+      "reviews": [
+        {
+          "batch": "bo1-classics-whole-guide-pass",
+          "reportedStatus": "scoped_correction_proposed",
+          "independentlyPlaytested": false,
+          "allExistingStepsRead": true,
+          "remainingUncertainty": [
+            "BO1 Steam author says close Use; exact wheel/crouch detail is cross-checked in the author’s multi-version guide. Mandatory interaction count and repeatability were not retail-tested.",
+            "No unambiguous BO1 chair close-up obtained."
+          ],
+          "checkedClaims": [
+            "Chair in Juggernog spawn",
+            "Close Use interaction",
+            "Drill and scream",
+            "Chair in Juggernog spawn",
+            "Close Use interaction",
+            "Drill and scream"
+          ],
+          "evidenceUrls": [
+            "https://steamcommunity.com/sharedfiles/filedetails/?id=138169076",
+            "https://www.codzombieguides.com/verr%C3%BCckt-remastered"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo1-verruckt-community-verruckt-map-walkthrough-power",
+      "mapId": "bo1-verruckt",
+      "reviews": [
+        {
+          "batch": "bo1-classics-whole-guide-pass",
+          "reportedStatus": "scoped_correction_proposed",
+          "independentlyPlaytested": false,
+          "allExistingStepsRead": true,
+          "remainingUncertainty": [
+            "Some solo Quick Revive behavior is already active before power; the guide does not say every perk is initially disabled.",
+            "Conflicting door totals are omitted."
+          ],
+          "checkedClaims": [
+            "Power upstairs opposite starting wing",
+            "Initial Box power room opposite switch",
+            "Free switch",
+            "Spawn divider/perks/traps activation",
+            "Power upstairs opposite starting wing",
+            "Initial Box power room opposite switch",
+            "Free switch",
+            "Spawn divider/perks/traps activation"
+          ],
+          "evidenceUrls": [
+            "https://steamcommunity.com/sharedfiles/filedetails/?id=138169076",
+            "https://w.atwiki.jp/cod_blackops/pages/119.html",
+            "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/verruckt/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo1-verruckt-community-verruckt-map-walkthrough-traps",
+      "mapId": "bo1-verruckt",
+      "reviews": [
+        {
+          "batch": "bo1-classics-whole-guide-pass",
+          "reportedStatus": "scoped_correction_proposed",
+          "independentlyPlaytested": false,
+          "allExistingStepsRead": true,
+          "remainingUncertainty": [
+            "Exact active duration/recharge conflicts were not resolved; no timer is promised."
+          ],
+          "checkedClaims": [
+            "Two upstairs balcony traps",
+            "Power prerequisite",
+            "1,000 cost",
+            "Player hazard and recharge",
+            "Independent BO1 player names both Speed Cola and Double Tap barriers",
+            "Two upstairs balcony traps",
+            "Power prerequisite",
+            "1,000 cost",
+            "Player hazard and recharge",
+            "Independent BO1 player names both Speed Cola and Double Tap barriers"
+          ],
+          "evidenceUrls": [
+            "https://w.atwiki.jp/cod_blackops/pages/119.html",
+            "https://www.callofdutyzombies.com/topic/180183-verruckt-zombies-library/",
+            "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/verruckt/",
+            "https://www.reddit.com/r/CODZombies/comments/cuwydo/"
           ]
         }
       ]
@@ -514,6 +1430,29 @@
             "https://steamcommunity.com/sharedfiles/filedetails/?id=121313832",
             "https://steamcommunity.com/sharedfiles/filedetails/?id=167978998"
           ]
+        },
+        {
+          "batch": "bo1-classics-whole-guide-pass",
+          "reportedStatus": "source_checked_existing_route_retained",
+          "independentlyPlaytested": false,
+          "allExistingStepsRead": true,
+          "remainingUncertainty": [
+            "No fixed distraction timer or every possible pathfinding failure is certified. Existing first-batch wording is retained."
+          ],
+          "checkedClaims": [
+            "BO1 Box acquisition",
+            "Playable-floor throw, wind-up, short ordinary-zombie distraction",
+            "Out-of-bounds throws can fail",
+            "Unsupported original 30-second claim already replaced in first batch",
+            "BO1 Box acquisition",
+            "Playable-floor throw, wind-up, short ordinary-zombie distraction",
+            "Out-of-bounds throws can fail",
+            "Unsupported original 30-second claim already replaced in first batch"
+          ],
+          "evidenceUrls": [
+            "https://github.com/5and5/BO1-Remix",
+            "https://steamcommunity.com/sharedfiles/filedetails/?id=138169076"
+          ]
         }
       ]
     },
@@ -538,6 +1477,68 @@
           ],
           "evidenceUrls": [
             "https://www.reddit.com/r/CODZombies/wiki/verruckt/"
+          ]
+        },
+        {
+          "batch": "bo1-classics-whole-guide-pass",
+          "reportedStatus": "scoped_correction_proposed",
+          "independentlyPlaytested": false,
+          "allExistingStepsRead": true,
+          "remainingUncertainty": [
+            "Exact Winter’s Howl damage values conflict between firsthand guides and are omitted."
+          ],
+          "checkedClaims": [
+            "Winter’s Howl and Ray Gun in BO1 Verrückt Box",
+            "Initial Box power-room location",
+            "Winter’s Howl 6/24, one holder, freezing",
+            "No stock PaP or Winter’s Fury here",
+            "Winter’s Howl and Ray Gun in BO1 Verrückt Box",
+            "Initial Box power-room location",
+            "Winter’s Howl 6/24, one holder, freezing",
+            "No stock PaP or Winter’s Fury here"
+          ],
+          "evidenceUrls": [
+            "https://steamcommunity.com/sharedfiles/filedetails/?id=121313832",
+            "https://steamcommunity.com/sharedfiles/filedetails/?id=138169076",
+            "https://steamcommunity.com/sharedfiles/filedetails/?id=167978998"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo1-verruckt-lost-numbers",
+      "mapId": "bo1-verruckt",
+      "reviews": [
+        {
+          "batch": "bo1-classics-new-routes",
+          "reportedStatus": "source_supported_route_with_explicit_limits",
+          "independentlyPlaytested": false,
+          "remainingUncertainty": [
+            "The edition-labelled BO1 guide confirms the room and power condition. The exact range/input threshold is not measured; no mandatory machine-button press is invented.",
+            "No unambiguous BO1 close-up of this equipment was obtained."
+          ],
+          "evidenceUrls": [
+            "https://www.callofdutyzombies.com/zombie-library/zombies-library/worldatwar/verruckt/power-switch-r29/",
+            "https://www.codzombieguides.com/verr%C3%BCckt-remastered",
+            "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/verruckt/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo1-verruckt-water-shower",
+      "mapId": "bo1-verruckt",
+      "reviews": [
+        {
+          "batch": "bo1-classics-new-routes",
+          "reportedStatus": "source_supported_route_with_explicit_limits",
+          "independentlyPlaytested": false,
+          "remainingUncertainty": [
+            "No standalone BO1 stream close-up or frame-by-frame effect measurement; room photo is navigation context."
+          ],
+          "evidenceUrls": [
+            "https://steamcommunity.com/sharedfiles/filedetails/?id=138169076",
+            "https://www.codzombieguides.com/verr%C3%BCckt-remastered"
           ]
         }
       ]
@@ -1070,6 +2071,10 @@
           "unverified": [
             "Console menu rollout, every arena hazard/value, full bonus-room routes and boss numerical mechanics remain pending."
           ],
+          "checkedClaims": [
+            "Direct patched-PC Bonus menu",
+            "Temple Fortress after round 19"
+          ],
           "evidenceUrls": [
             "doa2-bonus-patch",
             "doa2-fate-moz"
@@ -1088,8 +2093,35 @@
           "unverified": [
             "Exact thresholds/eligibility for all four upgrades are not yet verified from an accessible primary route; restricted GameFAQs was not bypassed."
           ],
+          "checkedClaims": [
+            "Round-19 Fate entry",
+            "Judgement after round 37",
+            "A newly acquired Judgement Fate cannot be upgraded in the same visit"
+          ],
           "evidenceUrls": [
             "doa2-fate-moz"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-verruckt-community-verruckt-map-walkthrough-traps",
+      "mapId": "bo3-verruckt",
+      "reviews": [
+        {
+          "batch": "bo3-verruckt-focused-traps",
+          "reportedStatus": "scoped_replacement_proposed",
+          "independentlyPlaytested": false,
+          "remainingUncertainty": "Both named BO3 barrier locations are primary-supported, but trap price, timing, definitive total count, final-patch crossing behavior and local BO3 photos are not certified. No other BO3 card was audited in this batch.",
+          "checkedClaims": [
+            "BO3 Speed Cola trap named by 5and5 creator description",
+            "BO3 Double Tap trap named by zJinx firsthand high-round player",
+            "Copied M1 Carbine/under-bridge Der Riese list rejected"
+          ],
+          "evidenceUrls": [
+            "https://callofdutymaps.com/zombies/Verruckt/",
+            "https://www.reddit.com/r/blackops3/comments/sif8ze/",
+            "https://www.youtube.com/watch?v=cYgkjtBzkUw"
           ]
         }
       ]
@@ -1215,6 +2247,60 @@
           "evidenceUrls": [
             "https://steamcommunity.com/sharedfiles/filedetails/?id=2255706435",
             "https://www.codzombiesguides.com/side-quests/black-ops-4/dead-of-the-night/savage-impaler/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo4-rush-score-route",
+      "mapId": "bo4-rush",
+      "reviews": [
+        {
+          "batch": "rush-follow-up",
+          "reportedStatus": "mode fields source-compared; remaining restrictions partial",
+          "independentlyPlaytested": false,
+          "checks": {
+            "Playable roster": "Eight Rush map variants are documented by the leaderboard operator; publisher articles identify Voyage and IX, publisher patch notes identify Classified, and firsthand gameplay independently confirms Tag.",
+            "Starting health and lives": "The opening HUD directly shows three lives and 150 health; do not transfer Classic Normal’s health into Rush.",
+            "Extra-life thresholds": "A played Voyage guide describes Extra Life drops; later Tag footage has four remaining lives. The exact award event and any deterministic score or kill threshold remain unproved.",
+            "Elixirs": "The developer explicitly tuned Rush cooldowns separately. A launch recording shows an equipped slot blocked with a red X; its item name was not read.",
+            "Equipment and upgrades": "Batch 3’s firsthand guides support free gear/shields and no repeat Pack upgrades; a separate 2019 player calls AATs unavailable. The observed Tag and Voyage loadouts carry three Frag Grenades.",
+            "Story and side-quest triggers": "Publisher articles explicitly exclude Easter eggs from Voyage Rush and Easter eggs/story from IX Rush. Their Classic quest links can be offered as the correct mode choice.",
+            "Rush image provenance": "The accepted original download shows Rush tokens and game imagery in MrDalekJD’s creator-edited thumbnail. Label it as an edited gameplay thumbnail; two unrelated/no-HUD thumbnails were excluded."
+          },
+          "unresolved": [
+            "A publisher list or final-build map-select menu showing all eight in one view has not been recovered.",
+            "Fixed score thresholds, if any",
+            "Drop probability and trigger",
+            "Maximum life stock",
+            "Whether the schedule differs by map, player count or build",
+            "Complete final-build disabled-Elixir list",
+            "Primary confirmation of Aftertaste and Point Drops exclusions",
+            "Exact cooldown values",
+            "Talisman restrictions",
+            "Full allowed starting-equipment and box-equipment inventory",
+            "All eight maps’ Wonder Weapon access and upgrade substitutions",
+            "Shield-specific abilities and upgrades in each Rush variant",
+            "Whether any Elixir bypass changes normal no-AAT behavior",
+            "Trigger-by-trigger checks on Blood of the Dead, Classified, Dead of the Night, Ancient Evil, Alpha Omega and Tag der Toten",
+            "Any music/novelty-interaction exception in Rush, including any that still works despite broad mode descriptions",
+            "A separately licensed or publisher-provided unaltered Rush HUD still was not recovered."
+          ],
+          "evidenceUrls": [
+            "https://callofduty.fandom.com/wiki/Zombie_Rush",
+            "https://www.callofduty.com/blog/2018-10/voyage-of-despair.html",
+            "https://www.callofduty.com/blog/2018-10/zombies-go-to-ancient-egypt-in-ix.html",
+            "https://www.reddit.com/r/Blackops4/comments/9rokqi/oct_26_update_zombies_gameplay_updates_black/",
+            "https://www.reddit.com/r/Blackops4/comments/9wrna7/nov_13_update_nuketown_on_ps4_major_zombies/",
+            "https://www.reddit.com/r/CODZombies/comments/bs3hsp",
+            "https://www.reddit.com/r/CODZombies/comments/ce7kk7",
+            "https://www.reddit.com/r/CODZombies/comments/cqa64d",
+            "https://www.trueachievements.com/a261508/team-player-achievement",
+            "https://www.trueachievements.com/a261521/perkaholic-relapse-achievement",
+            "https://www.youtube.com/watch?v=APN0y1EewlY",
+            "https://www.youtube.com/watch?v=ZACR_o5zw3c",
+            "https://www.youtube.com/watch?v=ye8AylePf1c",
+            "https://zwr.gg/leaderboards/bo4/points-rush/"
           ]
         }
       ]
@@ -2287,6 +3373,11 @@
           "unverified": [
             "Individual safe routes, all mode-specific interactions, party scaling and complete image provenance remain pending."
           ],
+          "checkedClaims": [
+            "Map/mode existence",
+            "Available facilities described by the publisher",
+            "Publisher milestone rewards where explicitly listed"
+          ],
           "evidenceUrls": [
             "bo7-s3"
           ]
@@ -2303,6 +3394,10 @@
           "independentlyPlaytested": false,
           "unverified": [
             "Every relic-specific trigger, save/quit edge case and party-credit rule remains pending."
+          ],
+          "checkedClaims": [
+            "Cursed availability",
+            "Survival extension and tier milestones"
           ],
           "evidenceUrls": [
             "bo7-launch",
@@ -2322,6 +3417,10 @@
           "unverified": [
             "Source comparison is not independent in-game validation; future patches may change values."
           ],
+          "checkedClaims": [
+            "All seven source chapters, mode distinctions and Fate values compared with the author's current reference",
+            "Fury Output price typo independently resolved against the author's shop table"
+          ],
           "evidenceUrls": [
             "doa4-fates-moz",
             "doa4-shop-moz"
@@ -2340,6 +3439,9 @@
           "unverified": [
             "All other shop rows still need item-by-item comparison; no blanket verification of all 88 entries."
           ],
+          "checkedClaims": [
+            "Fury Output row and Normal/Casual table headings"
+          ],
           "evidenceUrls": [
             "doa4-shop-moz"
           ]
@@ -2357,6 +3459,11 @@
           "unverified": [
             "Individual safe routes, all mode-specific interactions, party scaling and complete image provenance remain pending."
           ],
+          "checkedClaims": [
+            "Map/mode existence",
+            "Available facilities described by the publisher",
+            "Publisher milestone rewards where explicitly listed"
+          ],
           "evidenceUrls": [
             "bo7-s5"
           ]
@@ -2373,6 +3480,11 @@
           "independentlyPlaytested": false,
           "unverified": [
             "Individual safe routes, all mode-specific interactions, party scaling and complete image provenance remain pending."
+          ],
+          "checkedClaims": [
+            "Map/mode existence",
+            "Available facilities described by the publisher",
+            "Publisher milestone rewards where explicitly listed"
           ],
           "evidenceUrls": [
             "bo7-s1"
@@ -2412,6 +3524,11 @@
           "unverified": [
             "Individual safe routes, all mode-specific interactions, party scaling and complete image provenance remain pending."
           ],
+          "checkedClaims": [
+            "Map/mode existence",
+            "Available facilities described by the publisher",
+            "Publisher milestone rewards where explicitly listed"
+          ],
           "evidenceUrls": [
             "bo7-s2"
           ]
@@ -2428,6 +3545,11 @@
           "independentlyPlaytested": false,
           "unverified": [
             "Individual safe routes, all mode-specific interactions, party scaling and complete image provenance remain pending."
+          ],
+          "checkedClaims": [
+            "Map/mode existence",
+            "Available facilities described by the publisher",
+            "Publisher milestone rewards where explicitly listed"
           ],
           "evidenceUrls": [
             "bo7-s4"
@@ -2466,6 +3588,11 @@
           "unverified": [
             "Every target's exact unlock, difficulty scaling, weapon exception and reward count remains pending."
           ],
+          "checkedClaims": [
+            "Permanent mode launch",
+            "Pedestal progression",
+            "Season 6 PJ/Kowakujō expansion and tier-based upgrades"
+          ],
           "evidenceUrls": [
             "bo7-s4",
             "bo7-s6"
@@ -2483,6 +3610,10 @@
           "independentlyPlaytested": false,
           "unverified": [
             "Every per-map weapon/facility listing and current playlist availability need a full item-by-item pass."
+          ],
+          "checkedClaims": [
+            "Permanent Season 2 introduction",
+            "Later PJ, Totenreich, Kowakujō and Rex additions"
           ],
           "evidenceUrls": [
             "bo7-s2",
@@ -2524,6 +3655,11 @@
           "independentlyPlaytested": false,
           "unverified": [
             "Individual safe routes, all mode-specific interactions, party scaling and complete image provenance remain pending."
+          ],
+          "checkedClaims": [
+            "Map/mode existence",
+            "Available facilities described by the publisher",
+            "Publisher milestone rewards where explicitly listed"
           ],
           "evidenceUrls": [
             "bo7-s6"
@@ -2794,6 +3930,11 @@
           "unverified": [
             "Individual safe routes, all mode-specific interactions, party scaling and complete image provenance remain pending. Vandorn reward table was not independently rechecked in this batch."
           ],
+          "checkedClaims": [
+            "Map/mode existence",
+            "Available facilities described by the publisher",
+            "Publisher milestone rewards where explicitly listed"
+          ],
           "evidenceUrls": [
             "bo7-vandorn"
           ]
@@ -2810,6 +3951,11 @@
           "independentlyPlaytested": false,
           "unverified": [
             "Individual safe routes, all mode-specific interactions, party scaling and complete image provenance remain pending."
+          ],
+          "checkedClaims": [
+            "Map/mode existence",
+            "Available facilities described by the publisher",
+            "Publisher milestone rewards where explicitly listed"
           ],
           "evidenceUrls": [
             "bo7-s1r"
@@ -3538,6 +4684,9 @@
           "reportedStatus": "source_supported_media_and_cue_proposed",
           "independentlyPlaytested": false,
           "wholeGuideTextRead": true,
+          "remainingUncertainty": [
+            "Reliable per-jar audible confirmation is not assumed; song start is the completion cue."
+          ],
           "checkedClaims": [
             "Animal-lab shelf jar; use trigger",
             "Opposite animal-lab table jar",
@@ -3560,6 +4709,9 @@
           "reportedStatus": "source_supported_with_quiet_cue_caveat",
           "independentlyPlaytested": false,
           "wholeGuideTextRead": true,
+          "remainingUncertainty": [
+            "No shared-topic patch for quiet cue in this package; authored card is repaired. Community source can still imply waiting for a clear first acknowledgement; root may apply the same cue wording."
+          ],
           "checkedClaims": [
             "Entire step/list read: two animal-lab jars and one Type100/B jar; any order; once per game; use each; first jar acknowledgement may be very quiet"
           ],
@@ -3604,6 +4756,9 @@
           "reportedStatus": "correction_proposed",
           "independentlyPlaytested": false,
           "wholeGuideTextRead": true,
+          "remainingUncertainty": [
+            "Exact first-round and inter-dog-round random ranges remain unverified; replacement does not invent a range."
+          ],
           "checkedClaims": [
             "Entire step read: dedicated Hellhound wave and final Max Ammo supported; fixed4–7 frequency uncertified; later mixed zombie/dog waves need qualification"
           ],
@@ -3623,6 +4778,9 @@
           "reportedStatus": "supported_but_finishing_actions_proposed",
           "independentlyPlaytested": false,
           "wholeGuideTextRead": true,
+          "remainingUncertainty": [
+            "The extra bulb-direction helper was not independently scene-checked and is omitted from replacement; it is not labeled false."
+          ],
           "checkedClaims": [
             "Entire step read: three teleporter links, 30 seconds, teammate mainframe confirmation, gate drops and linked-light check supported; add actual5000 upgrade and retrieve step"
           ],
@@ -3661,6 +4819,9 @@
           "reportedStatus": "supported_locations_with_claim_repair_proposed",
           "independentlyPlaytested": false,
           "wholeGuideTextRead": true,
+          "remainingUncertainty": [
+            "No damage-per-tick or cooldown-duration test was performed; replacement does not promise them."
+          ],
           "checkedClaims": [
             "Entire step/table read: original three doorway positions and1000 supported; unsupported chained kills/precise player damage removed"
           ],
@@ -3699,6 +4860,9 @@
           "reportedStatus": "first_batch_fix_already_integrated",
           "independentlyPlaytested": false,
           "wholeGuideTextRead": true,
+          "remainingUncertainty": [
+            "No duplicate patch is proposed; root integrated first-batch correction. Exact original arming/distraction/explosion seconds and MaxAmmo replenishment values are not certified by this batch."
+          ],
           "checkedClaims": [
             "Entire baseline step read: box equipment,3 supply,MaxAmmo and thrown distraction; quoted30seconds wrong; first-batch replacement now uses short diversion and safe in-bounds throwing without fixed timer"
           ],
@@ -3718,6 +4882,9 @@
           "reportedStatus": "correction_proposed_with_partial_stat_support",
           "independentlyPlaytested": false,
           "wholeGuideTextRead": true,
+          "remainingUncertainty": [
+            "Exact chaining cap and console raw-damage value are not certified. They are not supplied in the replacement."
+          ],
           "checkedClaims": [
             "Entire step read: box-only acquisition, one holder,3/15 ammunition and original Der self-shock/Juggernog bug; fictional200000amp line not useful gameplay evidence"
           ],
@@ -3737,6 +4904,9 @@
           "reportedStatus": "correction_proposed",
           "independentlyPlaytested": false,
           "wholeGuideTextRead": true,
+          "remainingUncertainty": [
+            "Exact chain range/reload improvement not independently console-tested and not asserted."
+          ],
           "checkedClaims": [
             "Entire step read: DG-3 JZ through PaP;6/30 ammo and original self-shock warning; source massive-damage claim unsupported; missing practical purchase steps supplied"
           ],
@@ -3776,6 +4946,9 @@
           "reportedStatus": "source_supported_media_proposed",
           "independentlyPlaytested": false,
           "wholeGuideTextRead": true,
+          "remainingUncertainty": [
+            "This pass did not execute the quest on retail console. The three added photos show target areas, not necessarily spawned toys."
+          ],
           "checkedClaims": [
             "Power under bridge; A/B/C landmarks; 30-second mainframe links; upgrade costs 5000",
             "Upgraded gun at remote pillar panel; green object launch; achievement at activation",
@@ -3820,6 +4993,9 @@
           "reportedStatus": "source_supported",
           "independentlyPlaytested": false,
           "wholeGuideTextRead": true,
+          "remainingUncertainty": [
+            "No shared-topic replacement proposed because root is editing edition-specific scope. Existing photo is not retail-console gameplay proof; iOS price not re-audited here."
+          ],
           "checkedClaims": [
             "Entire step read: upstairs cabinet near Trench Gun; 1500 scoped Kar98k in WaW; clearly separated 2000 iOS flamethrower note outside this console pass"
           ],
@@ -3839,6 +5015,9 @@
           "reportedStatus": "source_supported",
           "independentlyPlaytested": false,
           "wholeGuideTextRead": true,
+          "remainingUncertainty": [
+            "Exact barrel respawn behavior and complete explosive-truck inventory are not certified. No extra truck guide is published from this evidence alone."
+          ],
           "checkedClaims": [
             "Outside barrels can be shot to explode and damage nearby zombies; no purchasable electrical trap on original Nacht"
           ],
@@ -3858,6 +5037,9 @@
           "reportedStatus": "correction_proposed",
           "independentlyPlaytested": false,
           "wholeGuideTextRead": true,
+          "remainingUncertainty": [
+            "Secondary tables say four; primary capacity and reacquisition after fully empty remain unverified. Replacement omits both."
+          ],
           "checkedClaims": [
             "Entire step read: WaW-only box equipment and area fire supported; three-item maximum not certified; Max Ammo refill instruction contradicted by stock Nacht players"
           ],
@@ -3877,6 +5059,9 @@
           "reportedStatus": "reviewed_with_partial_stat_support",
           "independentlyPlaytested": false,
           "wholeGuideTextRead": true,
+          "remainingUncertainty": [
+            "No retail-console ammo inventory test was run. All BO1 Thundergun/Ray Gun wording is reserved to root; no correction proposed for this shared topic."
+          ],
           "checkedClaims": [
             "Entire step read: original WaW Ray Gun box acquisition; multiple holders; self-splash/crawlers; quoted 20 loaded and 160 reserve; separate BO1 Thundergun paragraph explicitly outside this audit scope"
           ],
@@ -3896,6 +5081,9 @@
           "reportedStatus": "trigger_source_supported_playlist_partially_corroborated",
           "independentlyPlaytested": false,
           "wholeGuideTextRead": true,
+          "remainingUncertainty": [
+            "Not all12 tracks were independently listened through on retail console in this pass. Existing radio photo inspected as original-map PC/Plutonium capture. BO1/BO3 Undone belongs to root and is not added to WaW."
+          ],
           "checkedClaims": [
             "Entire first step read: HELP-room radio by box; damage starts/skips audio",
             "Entire track list read:12-order list matches CoDZ original playlist; original developer confirmsWTF first,Dusk and mixed WaW/TrueCrime repertoire"
@@ -3916,6 +5104,9 @@
           "reportedStatus": "source_supported_with_input_disagreement",
           "independentlyPlaytested": false,
           "wholeGuideTextRead": true,
+          "remainingUncertainty": [
+            "One CoDZ library says four; current three is supported by contemporaneous console guides. No separate source-body change proposed."
+          ],
           "checkedClaims": [
             "Entire step read: Comms black phone, three interactions, The One"
           ],
@@ -3935,6 +5126,9 @@
           "reportedStatus": "correction_proposed_with_open_price",
           "independentlyPlaytested": false,
           "wholeGuideTextRead": true,
+          "remainingUncertainty": [
+            "Exact Flogger retail cost by platform/build and dog interaction remain unresolved. Replacement uses displayed price and does not claim dog immunity."
+          ],
           "checkedClaims": [
             "Entire step/tables read: four named hut barriers, not three; 1000 hut cost; Flogger by Fishing route; no central power; source Flogger1000 conflicts with contemporary750; dog-immunity/exact chained damage not independently certified"
           ],
@@ -3973,6 +5167,9 @@
           "reportedStatus": "source_supported_reward_and_media_proposed",
           "independentlyPlaytested": false,
           "wholeGuideTextRead": true,
+          "remainingUncertainty": [
+            "The large CoDZ Shi library instead says four uses and one early finder misnames Doctors; two original achievement guides support Comms/three. Cue-based repeat advice handles missed input without presenting four as a certified alternative count."
+          ],
           "checkedClaims": [
             "Marked Comms Room route; black phone on desk",
             "Three separately registered phone interactions; voice/ringing then The One; original Dead Air reward"
@@ -4013,6 +5210,9 @@
           "reportedStatus": "correction_proposed",
           "independentlyPlaytested": false,
           "wholeGuideTextRead": true,
+          "remainingUncertainty": [
+            "Exact count versus continuous hold differs between sources; replacement gives hold/repeat until cue, not a false fixed timer."
+          ],
           "checkedClaims": [
             "Entire step read: chair is in Juggernog starting room; wheel/armrest needs crouched use; drill/scream cue; source calls it an operating table imprecisely"
           ],
@@ -4157,14 +5357,6 @@
     "bo1-call-of-the-dead-ensemble-cast",
     "bo1-call-of-the-dead-not-ready-to-die",
     "bo1-call-of-the-dead-stand-in-solo",
-    "bo1-der-riese-community-der-riese-easter-eggs-beauty-of-annihilation",
-    "bo1-der-riese-community-der-riese-easter-eggs-main-easter-egg",
-    "bo1-der-riese-community-der-riese-map-walkthrough-dog-rounds",
-    "bo1-der-riese-community-der-riese-map-walkthrough-pack-a-punch",
-    "bo1-der-riese-community-der-riese-map-walkthrough-power",
-    "bo1-der-riese-community-der-riese-map-walkthrough-traps",
-    "bo1-der-riese-community-der-riese-special-weapons-wunderwaffe-dg-2",
-    "bo1-der-riese-community-der-riese-special-weapons-wunderwaffe-dg-2-upgrade",
     "bo1-five-community-five-easter-eggs-eminem-won-t-back-down-song-music-easter-egg",
     "bo1-five-community-five-easter-eggs-main-easter-egg",
     "bo1-five-community-five-map-walkthrough-elevators",
@@ -4192,20 +5384,9 @@
     "bo1-moon-community-moon-map-walkthrough-power",
     "bo1-moon-community-moon-special-weapons-special-grenades",
     "bo1-moon-community-moon-special-weapons-wonder-weapon",
-    "bo1-nacht-der-untoten-community-nacht-der-untoten-map-walkthrough-traps-explosive-barrels",
-    "bo1-nacht-der-untoten-community-nacht-der-untoten-special-weapons-monkey-bombs",
-    "bo1-nacht-der-untoten-community-nacht-der-untoten-special-weapons-wonder-weapon",
-    "bo1-nacht-der-untoten-undone",
-    "bo1-nacht-music-radio-playlist",
     "bo1-shangri-la-monkey-perk",
     "bo1-shangri-la-pareidolia",
     "bo1-shangri-la-time-travel-will-tell",
-    "bo1-shi-no-numa-community-shi-no-numa-easter-eggs-hidden-song-the-one",
-    "bo1-shi-no-numa-community-shi-no-numa-map-walkthrough-traps",
-    "bo1-verruckt-community-verruckt-easter-eggs-hidden-song-lullaby-of-a-deadman",
-    "bo1-verruckt-community-verruckt-easter-eggs-screaming-man-ee",
-    "bo1-verruckt-community-verruckt-map-walkthrough-power",
-    "bo1-verruckt-community-verruckt-map-walkthrough-traps",
     "bo2-borough-grief-equipment",
     "bo2-borough-grief-rules",
     "bo2-borough-turned-rules",
@@ -4480,7 +5661,6 @@
     "bo3-verruckt-community-verruckt-easter-eggs-screaming-man-ee",
     "bo3-verruckt-community-verruckt-easter-eggs-the-female-statue-ee",
     "bo3-verruckt-community-verruckt-map-walkthrough-power",
-    "bo3-verruckt-community-verruckt-map-walkthrough-traps",
     "bo3-verruckt-community-verruckt-special-weapons-monkey-bombs",
     "bo3-zetsubou-no-shima-ambient-audio",
     "bo3-zetsubou-no-shima-bloody-hallucinations",
@@ -4622,7 +5802,6 @@
     "bo4-ix-community-ix-map-features-mystery-box-locations",
     "bo4-ix-community-ix-map-features-pack-a-punch",
     "bo4-ix-community-ix-map-features-traps",
-    "bo4-rush-score-route",
     "bo4-tag-der-toten-community-tag-der-toten-easter-eggs-quests-a-light-from-the-shore-easter-egg-song",
     "bo4-tag-der-toten-community-tag-der-toten-easter-eggs-quests-challenge-totems",
     "bo4-tag-der-toten-community-tag-der-toten-easter-eggs-quests-free-perk",
@@ -5283,7 +6462,7 @@
       "All-guide, all-variant and all-secret completeness is not established."
     ]
   },
-  "modeRuleReviews": [
+  "modeRuleReviewsInitialPass": [
     {
       "modeId": "bo4-rush",
       "status": "source-supported core scoring route; partial restrictions",
@@ -5627,7 +6806,7 @@
       "mapIds": [
         "bo4-rush"
       ],
-      "note": "Rush scoring, free purchases, life system and three achievement goals have source-supported instructions. The final playable map roster, extra-life thresholds, all disabled Elixirs and every story/side-quest trigger still need mode-specific verification."
+      "note": "Rush’s eight-map roster, free purchases, starting lives/health, extra-life pickups, movement deadlines and three achievement goals have source evidence. Activision excludes Easter eggs from Voyage and IX Rush. Exact extra-life thresholds/cap, every disabled Elixir/equipment item, map-specific Wonder Weapon/shield upgrades and per-trigger checks on the other six maps remain unverified. The cover is a creator-edited gameplay thumbnail."
     },
     {
       "mapIds": [
@@ -5653,27 +6832,91 @@
         "bo2-nuketown-zombies"
       ],
       "note": "Three separate music triggers, perk/upgrade access, bunker/TV/horn audio and visual references now have clearer instructions. The complete 54-position mannequin atlas, precise perk-drop scheduling, intermediate TV rounds, Marlton quote cutoff, the old-build Pareidolia/Coming Home split and whether clock-hand 1 is mandatory still need independent confirmation. Candidate photos are PC location references, not retail trigger tests."
+    },
+    {
+      "mapIds": [
+        "bo1-verruckt"
+      ],
+      "note": "Other ambient sounds: Morgue crying, sobbing/banging doors and Speed Cola whispers have WaW/multi-version references; unambiguous BO1 trigger/capture evidence was not obtained. Do not label these absent or copy every WaW trigger into BO1."
+    },
+    {
+      "mapIds": [
+        "bo1-verruckt"
+      ],
+      "note": "Balcony waltz precision: The BO1-specific 2012 wiki supports power + balcony waltz, but exact side/radius, named recording, timing and replay behavior remain untested. The new card states the supported practical route and keeps those precision claims out."
+    },
+    {
+      "mapIds": [
+        "bo1-der-riese"
+      ],
+      "note": "Brick note, field manual and static/ambient story details: A crop of the brick note is available, but it has no identifiable edition/HUD. Independent BO1 activation/room capture still needed before a new brick guide. Exact BO1 renderings/landmarks of hidden field manual, cipher boards, other notes and ambient children/crying/body interactions also remain unaudited."
+    },
+    {
+      "mapIds": [
+        "bo1-shi-no-numa"
+      ],
+      "note": "Single-source and incomplete audio corroboration: Richtofen book and Storage meteor have explicit BO1 reports, but lack independent BO1 screenshots/playthrough verification. Doctor’s older interior radio needs independent BO1 capture beyond Hector; Backtracing’s archive images are branded WaW. Do not copy a four-player requirement from Hector’s guess."
+    },
+    {
+      "mapIds": [
+        "bo1-nacht-der-untoten",
+        "bo1-verruckt"
+      ],
+      "note": "Complete radio listening and song retriggers: All nine playlist names/order compared with BO1 library entries, but not every track independently listened to in-game. Song restart/cooldown behavior, overlapping playback and missed-input behavior remain to test on retail versions."
+    },
+    {
+      "mapIds": [
+        "bo1-nacht-der-untoten",
+        "bo1-verruckt",
+        "bo1-shi-no-numa",
+        "bo1-der-riese"
+      ],
+      "note": "Complete conventional weapon inventory and all upgrade statistics: This batch audits every existing card and adds the documented special acquisitions/Der Riese upgrades. It does not certify every ordinary wall gun/box probability/PaP name/ammo/damage/attachment on all four maps. Source tables contain demonstrable Kar98k prices, Thundergun-in-Der-Riese and Bowie cutoff errors. Build inventory from firsthand captures or stock data in a later bounded pass."
+    },
+    {
+      "mapIds": [
+        "bo1-nacht-der-untoten",
+        "bo1-verruckt",
+        "bo1-shi-no-numa",
+        "bo1-der-riese"
+      ],
+      "note": "Build-dependent mechanical values: Trap active/recharge times, exact Monkey distraction/failures, Thundergun launch reload, DG-2 holder exceptions and chain behavior, dog-round RNG, Bowie cutoff/death retention, co-op loose-change ownership and zipline cooldown/max riders remain untested values. Unsupported precision was removed rather than promoted."
+    },
+    {
+      "mapIds": [
+        "bo1-nacht-der-untoten",
+        "bo1-verruckt",
+        "bo1-shi-no-numa",
+        "bo1-der-riese"
+      ],
+      "note": "Missing BO1-only close-up images: Still missing BO1 active Fly Trap panel/three spawned toys; seven Der Riese live radio devices; DG-2/DG-3/Ray Gun/Bowie acquisitions; loose-change HUD; live burning monkey; book/meteor; old Storage/Doctor radio; Lost machine, chair wheel, balcony speakers and running-shower effect. WaW reference geometry and actual BO1 navigation shots are labelled separately."
+    },
+    {
+      "mapIds": [
+        "bo3-verruckt"
+      ],
+      "note": "Focused trap field only: Both named BO3 barrier locations are primary-supported, but trap price, timing, definitive total count, final-patch crossing behavior and local BO3 photos are not certified. No other BO3 card was audited in this batch."
     }
   ],
   "dataSha256": {
-    "catalog.json": "2f46618fc6d92010886c2f880c52140df444df65e95b6d669c01f371ddfe1c20",
-    "community-corrections.json": "f4e837f9670b2206a9c8456f9f02dfa208e161f35203b44bce3ef246fc21a571",
-    "coverage-gaps.json": "714f95a1d0351540746f38dbcfb379c3ddd604ef74c32a78f16f05ef5cdfad26",
+    "catalog.json": "fb7bb75c5b3f502d3005954d1abac7890c91234928c00ae3fa08722c3fe7300b",
+    "community-corrections.json": "d3ac20741bdea5c9971357bb7cb8fc1af996926370bb17ebd736cfdb4ede19a3",
+    "coverage-gaps.json": "c13804da27f91087640b05c416fc513a4cb9cec7880f155214473d9c81671b9c",
     "guides-aw.json": "b5a7e5fb7d83e776452f77060d0714c13f63ae8eeb6e367272c0d00a38cc3855",
     "guides-classic.json": "f893026d54e70a106501a806b4d628eeab6b9af712c38c639ec59d0350c1f722",
-    "guides-community.json": "5730109f97986933e5d8a65219919a9f2b79ab526a08419e409a63db7306f77f",
+    "guides-community.json": "44e6e064abb1bc22f2a6cb1191cbadfc8f75a3b0a857c57482e9ed8c1b903078",
     "guides-completion-classic.json": "a125c546de5506b53fd4cd40222e6c371b2b32d7f997634330c19dd93314c90d",
     "guides-completion-modern.json": "e9f90a39306590f5da5eafe6b1652f46e21cc853b74f9ec33793bee8359a7a66",
     "guides-completion-modes.json": "d57e40c6916f8e70df31b93edca79bdf286d03dfff8b4e2f478371456a384740",
     "guides-extra.json": "29dac3f41adaaa4d033e3bad1af7814fd5e48f3245eaa7bd4a7cc150a937362c",
-    "guides-goal-classic.json": "1fd3d1b9dfc2d7342a06cfc6461bb43035e6d0cce8a821b3a8b4771745d8fc7c",
+    "guides-goal-classic.json": "8a3c852ff6404f32a471245fe4ae3f2e65be005947fe4c71dbacb2e4daae9cec",
     "guides-goal-modern.json": "6f36db40e1ecc38e4f5ba4ba200570db74069ff30ad190d43af6d442c59b7df1",
-    "guides-goal-modes.json": "562d2dadeb18318cc7d1cbfd9bdb321e80de170ddc630c4a380439baff619ec9",
-    "guides-goal-root.json": "4d13e12c20dd3760847eaa31ca791b76b5b3579154efd8925d1eddb497095522",
+    "guides-goal-modes.json": "bc5c8d3356b071375e3b17d4510b58b970ccda145ba8b0e2605d6cd38a963b0c",
+    "guides-goal-root.json": "2733e85fa71864cecab129b9e3a472b03b3a8929346d8e1f4131e5adc1de5d0e",
     "guides-modern.json": "d3dcbf8814e1ebb6bd1d88392cbc1b11de1ac2610ceda3796abc8bae4b682141",
     "guides-super-ee-doa4.json": "469978db1d527b95e6b226cc71c90a5cb2dce40fb23ed1d1449374efada86833",
     "media-completion.json": "58882d44af4bbe2e09648819c06547084fc33caf994cace9122d512163c22366",
-    "media.json": "67d934b16c69fee202a3e98f858c60e129f176154fd6457e680c41d54c03941e",
+    "media.json": "c3ccf797f5ee25f723c445e23bdc8e86ec35dba0d48ece2794a3ed7d21110acd",
     "reddit-sources.json": "fd7f1c5e946d258d708cc7355e5826a2a8fc02ef9ce071c9e40a4bced6de646a",
     "references.json": "46d625f7926fc128fa2db360ec9492469b8dda8116ab9fc8458a4873d97a94c8",
     "source-gaps.json": "9db596046c897a5fd8ff56c8811ea3d6d4434181103cb045eaacc73e5ba8af9d"
@@ -5690,7 +6933,11 @@
       "Whack-a-Crab location gallery",
       "Edition-specific WaW trap correction",
       "Mo headbutt description and labelled artwork",
-      "Thirty-round Unsinkable mobile jump menu and direct step references"
+      "Thirty-round Unsinkable mobile jump menu and direct step references",
+      "Published Nuketown bear photos, source links, 44px source buttons and narrow layout",
+      "BO1 Der Riese edition-specific upgrade steps and actual BO1 captions",
+      "BO3 Verruckt two named trap routes",
+      "Rush roster, Classic quest links and labelled thumbnail"
     ]
   }
 }

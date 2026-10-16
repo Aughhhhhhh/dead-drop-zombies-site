@@ -476,12 +476,12 @@
     "category": "main",
     "summary": "Follow the defense markers, keep your multiplier alive and distinguish personal from team score.",
     "requirements": [
-      "Choose Rush in Black Ops 4; availability of individual DLC maps depends on your owned content.",
+      "Choose Rush, then a map you own: Voyage of Despair, IX, Blood of the Dead, Classified, Dead of the Night, Ancient Evil, Alpha Omega or Tag der Toten.",
       "Use human co-op for Team Player; the personal-score targets can be attempted solo.",
-      "This is the scoring route. Standard story-quest triggers and every disabled Elixir were not validated in this mode."
+      "Choose Classic for story and side-quest walkthroughs. Activision explicitly excludes Easter eggs from Voyage of Despair and IX Rush."
     ],
     "reward": "Multiplicitous: 100× multiplier; High Score: 250,000 personal; Team Player: 500,000 team.",
-    "players": "Solo or co-op",
+    "players": "1–4 players; human co-op for Team Player",
     "difficulty": "Normal",
     "checked": "2026-10-16",
     "sources": [
@@ -504,23 +504,51 @@
       {
         "title": "Josh McKenna: Black Ops 4 review",
         "url": "https://joshmckenna574.wordpress.com/2018%2F10%2F27/"
+      },
+      {
+        "title": "Rush map roster: all eight maps",
+        "url": "https://zwr.gg/leaderboards/bo4/points-rush/"
+      },
+      {
+        "title": "Activision: Voyage Rush excludes Easter eggs",
+        "url": "https://www.callofduty.com/blog/2018-10/voyage-of-despair.html"
+      },
+      {
+        "title": "Activision: IX Rush excludes Easter eggs and story",
+        "url": "https://www.callofduty.com/blog/2018-10/zombies-go-to-ancient-egypt-in-ix.html"
+      },
+      {
+        "title": "Treyarch: Rush Elixir cooldowns",
+        "url": "https://www.reddit.com/r/Blackops4/comments/9rokqi/oct_26_update_zombies_gameplay_updates_black/"
+      },
+      {
+        "title": "Rush life drops: played achievement guide",
+        "url": "https://www.trueachievements.com/a261521/perkaholic-relapse-achievement"
+      },
+      {
+        "title": "Lutfi Barakat: Tag Rush gameplay",
+        "url": "https://www.youtube.com/watch?v=ZACR_o5zw3c"
+      },
+      {
+        "title": "MrDalekJD: launch Rush gameplay",
+        "url": "https://www.youtube.com/watch?v=ye8AylePf1c"
       }
     ],
     "steps": [
       {
         "title": "Start with your lives",
-        "body": "You begin with three lives. More can be earned while scoring; watch the remaining-life indicator.",
+        "body": "Start with three lives and 150 health. Collect Extra Life power-ups when safe and watch the heart counter beside your score.",
         "researchSource": "https://joshmckenna574.wordpress.com/2018%2F10%2F27/"
       },
       {
         "title": "Take the free gear",
         "body": "Weapons, perks and Pack-a-Punch are free. Use the available shield. Mystery Box and Pack-a-Punch reuse have cooldowns; the played 2018 guides report 30 seconds.",
         "researchSource": "https://www.trueachievements.com/a261506/multiplicitous-achievement",
-        "tip": "The Team Player guide reports double-packing is disabled; use Rush’s available equipment rather than following a Standard upgrade quest."
+        "tip": "Pack each gun once; normal repeat Pack-a-Punch upgrades are unavailable. Check the Rush HUD for blocked Elixir slots before relying on one."
       },
       {
         "title": "Follow the defense markers",
-        "body": "Doors open as the mode advances. Move to the marked Rush area and defend it; later markers move the fight elsewhere.",
+        "body": "Doors open as Rush advances. Follow the marker to the next defense area before its timer expires; arriving late causes damage. Defend there until the mode sends you onward.",
         "researchSource": "https://joshmckenna574.wordpress.com/2018%2F10%2F27/"
       },
       {
@@ -534,6 +562,10 @@
         "body": "Reach 250,000 yourself for High Score. In human co-op, work toward a combined 500,000 for Team Player; a solo personal score does not satisfy that team target.",
         "researchSource": "https://www.trueachievements.com/a261508/team-player-achievement"
       }
+    ],
+    "relatedGuideIds": [
+      "bo4-voyage-of-despair-community-voyage-of-despair-easter-eggs-quests-main-quest",
+      "bo4-ix-community-ix-easter-eggs-quests-main-quest"
     ]
   },
   {

@@ -179,7 +179,62 @@
           }
         ]
       }
-    ]
+    ],
+    "mapOverrides": {
+      "bo1-nacht-der-untoten": {
+        "title": "Scoped Kar98k — upstairs sniper cabinet",
+        "summary": "Buy the BO1 cabinet rifle for 1,500 points; opening it gives you the rifle immediately.",
+        "difficulty": "Easy",
+        "players": "1–4",
+        "requirements": [
+          "Open an upstairs staircase",
+          "1,500 points"
+        ],
+        "reward": "Scoped Kar98k.",
+        "steps": [
+          {
+            "title": "Find the tall wooden cabinet",
+            "body": "Go upstairs to the room with the Trench Gun wall buy. The ornate wooden cabinet stands toward the back of this room.",
+            "original": true,
+            "images": [
+              {
+                "src": "./assets/classic-batch3-nacht-bo1-cabinet.jpg",
+                "alt": "BO1 Nacht upstairs sniper cabinet",
+                "caption": "Actual BO1 PC photo — cabinet beside the upstairs weapon room",
+                "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=156648862",
+                "credit": "Feelin’ Salty? / Jokerlaw / Steam Community / Activision"
+              }
+            ],
+            "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=156648862"
+          },
+          {
+            "title": "Hold the weapon you are willing to replace",
+            "body": "Use the cabinet for 1,500 points. The scoped Kar98k is given immediately, replacing your held gun when both weapon slots are full. Stock BO1 Nacht has no Pack-a-Punch upgrade for it.",
+            "original": true,
+            "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=156648862"
+          }
+        ],
+        "checked": "2026-10-16",
+        "sharedSource": false,
+        "supplementNote": "Original BO1 instructions replace the affected passage after checking the listed sources. The shared Reddit source remains credited; other editions keep their separate instructions.",
+        "sources": [
+          {
+            "title": "r/CODZombies community map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/nacht-der-untoten/"
+          },
+          {
+            "title": "Feelin’ Salty? / Jokerlaw — firsthand BO1 Nacht strategy",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=156648862"
+          },
+          {
+            "title": "BO1 community wiki — Nacht cabinet and edition changes",
+            "url": "https://w.atwiki.jp/cod_blackops/pages/118.html"
+          }
+        ],
+        "images": [],
+        "sourceQuote": null
+      }
+    }
   },
   "nacht-der-untoten-easter-eggs-song-radio-zombies-chronicles": {
     "steps": [
@@ -977,6 +1032,110 @@
         ],
         "reward": "Temporary electric barriers for killing pursuing zombies.",
         "sourceQuote": null
+      },
+      "bo1-verruckt": {
+        "title": "Two balcony electric traps",
+        "summary": "Turn on power, then use the electric barrier on either upstairs balcony.",
+        "difficulty": "Easy",
+        "players": "1–4",
+        "requirements": [
+          "Power on",
+          "Open the balcony route you intend to use",
+          "1,000 points per activation"
+        ],
+        "reward": "A temporary electric barrier that kills passing zombies.",
+        "steps": [
+          {
+            "title": "Use a balcony control box",
+            "body": "Verrückt has two electric traps, one on each upstairs balcony: Speed Cola side and Double Tap side. Find the red control box beside the chosen barrier and pay 1,000 points after power is on.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/cuwydo/"
+          },
+          {
+            "title": "Lead zombies through; keep players clear",
+            "body": "Get teammates to the safe side before activating it. Lead following zombies into the barrier, then stay away from the current. Wait for the trap to finish and recharge before using it again.",
+            "original": true,
+            "researchSource": "https://www.callofdutyzombies.com/topic/180183-verruckt-zombies-library/"
+          }
+        ],
+        "relatedGuideIds": [
+          "bo1-verruckt-community-verruckt-map-walkthrough-power"
+        ],
+        "checked": "2026-10-16",
+        "sharedSource": false,
+        "supplementNote": "Original BO1 instructions replace the affected passage after checking the listed sources. The shared Reddit source remains credited; other editions keep their separate instructions.",
+        "sources": [
+          {
+            "title": "r/CODZombies community map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/verruckt/"
+          },
+          {
+            "title": "PINNAZ / CoDZ — original map library and two balcony traps",
+            "url": "https://www.callofdutyzombies.com/topic/180183-verruckt-zombies-library/"
+          },
+          {
+            "title": "hXcHector — BO1 Verrückt; use only individually checked fields",
+            "url": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/verruckt/"
+          },
+          {
+            "title": "BO1 community wiki — Verrückt power, traps, balcony music",
+            "url": "https://w.atwiki.jp/cod_blackops/pages/119.html"
+          },
+          {
+            "title": "BO1 Verrückt player — explicitly named Speed Cola and Double Tap trap circuit",
+            "url": "https://www.reddit.com/r/CODZombies/comments/cuwydo/"
+          }
+        ],
+        "sourceQuote": null
+      },
+      "bo3-verruckt": {
+        "title": "Balcony electric traps — Speed Cola and Double Tap",
+        "summary": "Use the barriers by Speed Cola or Double Tap on Zombies Chronicles Verrückt.",
+        "difficulty": "Easy",
+        "players": "1–4",
+        "requirements": [
+          "Activate power and open the upstairs balcony route",
+          "Points for the trap’s displayed activation cost"
+        ],
+        "reward": "Temporary electric trap kills.",
+        "sharedSource": false,
+        "checked": "2026-10-16",
+        "steps": [
+          {
+            "title": "Speed Cola balcony trap",
+            "body": "Find the electric barrier and control beside the upstairs Speed Cola-side balcony.",
+            "original": true,
+            "researchSource": "https://www.youtube.com/watch?v=cYgkjtBzkUw"
+          },
+          {
+            "title": "Double Tap balcony trap",
+            "body": "The other named route is the electric barrier beside Double Tap on the opposite upstairs side.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/blackops3/comments/sif8ze/"
+          },
+          {
+            "title": "Pay the control and keep clear",
+            "body": "With power on, move teammates clear and pay the control’s displayed activation price. Lead following zombies into the barrier, stay out of the live current and wait for recharge before using it again.",
+            "original": true,
+            "researchSource": "https://www.youtube.com/watch?v=cYgkjtBzkUw"
+          }
+        ],
+        "sources": [
+          {
+            "title": "5and5 — BO3 Speed Cola trap, original July 2017 creator description",
+            "url": "https://www.youtube.com/watch?v=cYgkjtBzkUw"
+          },
+          {
+            "title": "zJinx — firsthand BO3 Verrückt Double Tap trap route",
+            "url": "https://www.reddit.com/r/blackops3/comments/sif8ze/"
+          },
+          {
+            "title": "Call of Duty Maps — BO3 Verrückt trap cost/power corroboration only",
+            "url": "https://callofdutymaps.com/zombies/Verruckt/"
+          }
+        ],
+        "supplementNote": "The named Speed Cola and Double Tap barriers are supported by independent BO3 players. This focused correction removes the copied Der Riese list. Exact price, active/recharge duration, current-patch crossing behavior and an exhaustive trap-count check remain unverified by primary gameplay in this batch.",
+        "sourceQuote": null
       }
     }
   },
@@ -1022,6 +1181,65 @@
         ],
         "reward": "Perks and traps powered; starting sides connect.",
         "sourceQuote": null
+      },
+      "bo1-verruckt": {
+        "title": "Power — reunite the two starting wings",
+        "summary": "Reach the upstairs room opposite spawn and pull the free switch.",
+        "difficulty": "Easy",
+        "players": "1–4",
+        "requirements": [
+          "Points to open one route upstairs and around to the far wing"
+        ],
+        "reward": "Opens the spawn divider and enables powered perks and electric traps.",
+        "steps": [
+          {
+            "title": "Follow either wing to the far upstairs room",
+            "body": "From your starting side, buy the stairs and continue around the upper floor to the room opposite the spawn rooms. The initial Mystery Box is here, opposite the switch.",
+            "original": true,
+            "images": [
+              {
+                "src": "./assets/classic-batch3-ver-bo1-power-box.png",
+                "alt": "BO1 Verrückt Mystery Box beside the power-room generator",
+                "caption": "Actual BO1 PC photo — initial Box identifies the power room",
+                "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=138169076",
+                "credit": "Feelin’ Salty? / Jokerlaw / Steam Community / Activision"
+              }
+            ],
+            "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=138169076"
+          },
+          {
+            "title": "Pull the wall switch",
+            "body": "Hold Use at the power lever. The lever costs nothing. The electric divider between the starting rooms opens, so split teammates can reunite; the electric traps and powered perk machines become available.",
+            "original": true,
+            "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=138169076"
+          }
+        ],
+        "relatedGuideIds": [
+          "bo1-verruckt-community-verruckt-map-walkthrough-traps",
+          "bo1-verruckt-lost-numbers"
+        ],
+        "checked": "2026-10-16",
+        "sharedSource": false,
+        "supplementNote": "Original BO1 instructions replace the affected passage after checking the listed sources. The shared Reddit source remains credited; other editions keep their separate instructions.",
+        "sources": [
+          {
+            "title": "r/CODZombies community map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/verruckt/"
+          },
+          {
+            "title": "Feelin’ Salty? / Jokerlaw — firsthand BO1 Verrückt guide and photos",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=138169076"
+          },
+          {
+            "title": "BO1 community wiki — Verrückt power, traps, balcony music",
+            "url": "https://w.atwiki.jp/cod_blackops/pages/119.html"
+          },
+          {
+            "title": "hXcHector — BO1 Verrückt; use only individually checked fields",
+            "url": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/verruckt/"
+          }
+        ],
+        "sourceQuote": null
       }
     }
   },
@@ -1061,6 +1279,42 @@
           "Access to Juggernog-side starting room"
         ],
         "reward": "Dentist drill and screaming audio.",
+        "sourceQuote": null
+      },
+      "bo1-verruckt": {
+        "title": "Dentist chair — drill and scream",
+        "summary": "Use the chair beside Juggernog to trigger its hidden sound.",
+        "difficulty": "Easy",
+        "players": "1–4",
+        "requirements": [
+          "Reach the Juggernog starting room"
+        ],
+        "reward": "Drilling and a scream.",
+        "steps": [
+          {
+            "title": "Use the chair at close range",
+            "body": "Find the dentist/torture chair in the Juggernog spawn room. Stand beside it and hold Use near the small wheel on its side. If it does not register, crouch closer and aim at the wheel; listen for the drill and scream.",
+            "original": true,
+            "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=138169076"
+          }
+        ],
+        "checked": "2026-10-16",
+        "sharedSource": false,
+        "supplementNote": "Original BO1 instructions replace the affected passage after checking the listed sources. The shared Reddit source remains credited; other editions keep their separate instructions.",
+        "sources": [
+          {
+            "title": "r/CODZombies community map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/verruckt/"
+          },
+          {
+            "title": "Feelin’ Salty? / Jokerlaw — firsthand BO1 Verrückt guide and photos",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=138169076"
+          },
+          {
+            "title": "JokerAlex 21 — edition-labelled Verrückt secrets and BO1 radio photo",
+            "url": "https://www.codzombieguides.com/verr%C3%BCckt-remastered"
+          }
+        ],
         "sourceQuote": null
       }
     }
@@ -1109,6 +1363,67 @@
         ],
         "reward": "Temporary electric barriers or Flogger kills.",
         "sourceQuote": null
+      },
+      "bo1-shi-no-numa": {
+        "title": "Four hut barriers and the 750-point Flogger",
+        "summary": "The four hut doorways cost 1,000 each; the rotating log trap by Fishing Hut costs 750.",
+        "difficulty": "Easy",
+        "players": "1–4",
+        "requirements": [
+          "Open the hut/gate for the trap you need",
+          "1,000 points for an electric barrier or 750 for the Flogger",
+          "No power-switch step on this map"
+        ],
+        "reward": "Temporary trap kills.",
+        "steps": [
+          {
+            "title": "Electric barriers: one per outer hut",
+            "body": "Each of the four outer hut entrances has a barrier: Doctor’s Quarters, Comms Room, Storage and Fishing Hut. Pay the nearby control box 1,000 points. Lead zombies through and keep players clear of the current.",
+            "original": true,
+            "researchSource": "https://w.atwiki.jp/cod_blackops/pages/53.html"
+          },
+          {
+            "title": "Flogger: outside Main Hut toward Fishing Hut",
+            "body": "Open the Fishing Hut route from the main building. The two rotating spiked logs are immediately outside the Main Hut on that route; activate a control at either side for 750 points.",
+            "original": true,
+            "images": [
+              {
+                "src": "./assets/classic-batch3-shi-bo1-flogger.jpg",
+                "alt": "BO1 Shi No Numa Flogger and Fishing Hut route sign",
+                "caption": "Actual BO1 photo — Flogger control beside the Fishing Hut path",
+                "source": "https://www.gamesradar.com/cod-black-ops-rezurrection-dlc-guide/4/",
+                "credit": "Matt Hughes / GamesRadar / Activision"
+              }
+            ],
+            "tip": "Wait for the logs to stop before walking under them. The controls need time to recharge.",
+            "researchSource": "https://w.atwiki.jp/cod_blackops/pages/53.html"
+          }
+        ],
+        "relatedGuideIds": [
+          "bo1-shi-no-numa-zipline"
+        ],
+        "checked": "2026-10-16",
+        "sharedSource": false,
+        "supplementNote": "Original BO1 instructions replace the affected passage after checking the listed sources. The shared Reddit source remains credited; other editions keep their separate instructions.",
+        "sources": [
+          {
+            "title": "r/CODZombies community map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/shi-no-numa/"
+          },
+          {
+            "title": "BO1 community wiki — Shi No Numa mechanics and recordings",
+            "url": "https://w.atwiki.jp/cod_blackops/pages/53.html"
+          },
+          {
+            "title": "hXcHector — BO1 Shi No Numa devices and audio objects",
+            "url": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/shi-no-numa/"
+          },
+          {
+            "title": "Matt Hughes / GamesRadar — firsthand 2011 Rezurrection walkthrough",
+            "url": "https://www.gamesradar.com/cod-black-ops-rezurrection-dlc-guide/4/"
+          }
+        ],
+        "sourceQuote": null
       }
     }
   },
@@ -1151,6 +1466,53 @@
         ],
         "reward": "Temporary electric barrier kills.",
         "sourceQuote": null
+      },
+      "bo1-der-riese": {
+        "title": "Three electric traps — doorway and courtyard controls",
+        "summary": "Power three barriers for 1,000 points per use.",
+        "difficulty": "Easy",
+        "players": "1–4",
+        "requirements": [
+          "Turn on power",
+          "Open access to the chosen control",
+          "1,000 points per activation"
+        ],
+        "reward": "Electric trap kills.",
+        "steps": [
+          {
+            "title": "Choose one of the three barriers",
+            "body": "The controls cover the M1 Carbine/Animal Testing doorway, the Double-Barrel/Automobile Garage doorway, and the passage under the courtyard bridge near power.",
+            "original": true,
+            "researchSource": "https://w.atwiki.jp/cod_blackops/pages/54.html"
+          },
+          {
+            "title": "Pay and keep the passage clear of teammates",
+            "body": "Use the nearby trap control for 1,000 points. Lead zombies into it, stay clear of the live current and wait for recharge after it stops.",
+            "original": true,
+            "researchSource": "https://w.atwiki.jp/cod_blackops/pages/54.html"
+          }
+        ],
+        "relatedGuideIds": [
+          "bo1-der-riese-community-der-riese-map-walkthrough-power"
+        ],
+        "checked": "2026-10-16",
+        "sharedSource": false,
+        "supplementNote": "Original BO1 instructions replace the affected passage after checking the listed sources. The shared Reddit source remains credited; other editions keep their separate instructions.",
+        "sources": [
+          {
+            "title": "r/CODZombies community map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/der-riese/"
+          },
+          {
+            "title": "BO1 community wiki — Der Riese recordings, traps and loose change",
+            "url": "https://w.atwiki.jp/cod_blackops/pages/54.html"
+          },
+          {
+            "title": "hXcHector — BO1 Der Riese; reject Bowie round-20 claim",
+            "url": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/der-riese/"
+          }
+        ],
+        "sourceQuote": null
       }
     }
   },
@@ -1191,6 +1553,65 @@
           "Points to open a route to the courtyard"
         ],
         "reward": "Map devices powered; teleporter linking can begin.",
+        "sourceQuote": null
+      },
+      "bo1-der-riese": {
+        "title": "Power — courtyard generator",
+        "summary": "Reach the central courtyard from either upper wing and use the generator-side switch.",
+        "difficulty": "Easy",
+        "players": "1–4",
+        "requirements": [
+          "Open a route through either Animal Testing or the Automobile Garage"
+        ],
+        "reward": "Powered perks, traps and teleporters; lowered bridge and shortcut shutters.",
+        "steps": [
+          {
+            "title": "Reach the central courtyard",
+            "body": "From spawn, open either side and continue through its rooms upstairs. Drop from the upper ledge into the courtyard with the fenced generator and initial Mystery Box.",
+            "original": true,
+            "images": [
+              {
+                "src": "./assets/classic-batch3-der-bo1-power-route.jpg",
+                "alt": "BO1 Der Riese courtyard generator and initial Mystery Box",
+                "caption": "Actual BO1 photo — switch is beside/behind this generator",
+                "source": "https://www.gamesradar.com/cod-black-ops-rezurrection-dlc-guide/4/",
+                "credit": "Matt Hughes / GamesRadar / Activision"
+              }
+            ],
+            "researchSource": "https://www.gamesradar.com/cod-black-ops-rezurrection-dlc-guide/4/"
+          },
+          {
+            "title": "Pull the switch beside the generator",
+            "body": "Use the free power lever. The bridge lowers, shortcut shutters open and the powered map devices become available. Then link the three teleporters to unlock Pack-a-Punch.",
+            "original": true,
+            "researchSource": "https://www.gamesradar.com/cod-black-ops-rezurrection-dlc-guide/4/"
+          }
+        ],
+        "relatedGuideIds": [
+          "bo1-der-riese-community-der-riese-map-walkthrough-pack-a-punch",
+          "bo1-der-riese-community-der-riese-easter-eggs-main-easter-egg"
+        ],
+        "checked": "2026-10-16",
+        "sharedSource": false,
+        "supplementNote": "Original BO1 instructions replace the affected passage after checking the listed sources. The shared Reddit source remains credited; other editions keep their separate instructions.",
+        "sources": [
+          {
+            "title": "r/CODZombies community map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/der-riese/"
+          },
+          {
+            "title": "Matt Hughes / GamesRadar — firsthand 2011 Rezurrection walkthrough",
+            "url": "https://www.gamesradar.com/cod-black-ops-rezurrection-dlc-guide/4/"
+          },
+          {
+            "title": "BO1 community wiki — Der Riese recordings, traps and loose change",
+            "url": "https://w.atwiki.jp/cod_blackops/pages/54.html"
+          },
+          {
+            "title": "hXcHector — BO1 Der Riese; reject Bowie round-20 claim",
+            "url": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/der-riese/"
+          }
+        ],
         "sourceQuote": null
       }
     }
@@ -1240,6 +1661,104 @@
         ],
         "reward": "Pack-a-Punch access and an upgraded gun after payment/collection.",
         "sourceQuote": null
+      },
+      "bo1-der-riese": {
+        "title": "Pack-a-Punch — link A, B and C",
+        "category": "weapon",
+        "summary": "Link each teleporter to the spawn mainframe within 30 seconds, then pay 5,000 to upgrade a gun.",
+        "difficulty": "Easy",
+        "players": "1–4",
+        "requirements": [
+          "Power on",
+          "Open all three teleporter rooms",
+          "5,000 points for each weapon upgrade"
+        ],
+        "reward": "Permanent access to the map’s Pack-a-Punch machine for the current match.",
+        "steps": [
+          {
+            "title": "Find the three teleporter rooms",
+            "body": "Facing away from Pack-a-Punch at spawn, A is on the left beyond Animal Testing, B is on the right above the Thompson/Automobile Garage area, and C is in the rear factory beyond the courtyard power switch.",
+            "original": true,
+            "images": [
+              {
+                "src": "./assets/classic-batch3-der-bo1-map.jpg",
+                "alt": "BO1 Der Riese illuminated teleporter map with A B and C",
+                "caption": "Actual BO1 photo — in-game map labels all three destinations",
+                "source": "https://www.gamesradar.com/cod-black-ops-rezurrection-dlc-guide/4/",
+                "credit": "Matt Hughes / GamesRadar / Activision"
+              }
+            ],
+            "researchSource": "https://w.atwiki.jp/cod_blackops/pages/54.html"
+          },
+          {
+            "title": "Start a link inside a teleporter",
+            "body": "Stand on one teleporter pad and press Use to begin linking. A 30-second countdown appears. Run back to the mainframe pad in spawn and press Use before it expires; a teammate already at spawn can confirm the link for you.",
+            "original": true,
+            "images": [
+              {
+                "src": "./assets/classic-batch3-der-bo1-link-pad.jpg",
+                "alt": "BO1 Der Riese rear-factory Teleporter C",
+                "caption": "Actual BO1 photo — Teleporter C, behind power",
+                "source": "https://www.gamesradar.com/cod-black-ops-rezurrection-dlc-guide/4/",
+                "credit": "Matt Hughes / GamesRadar / Activision"
+              }
+            ],
+            "researchSource": "https://w.atwiki.jp/cod_blackops/pages/54.html"
+          },
+          {
+            "title": "Repeat at the other two pads",
+            "body": "Link the remaining teleporters in any order. The Pack-a-Punch door lowers after each successful link and opens completely after all three. If time expires, restart that pad’s link.",
+            "original": true,
+            "researchSource": "https://w.atwiki.jp/cod_blackops/pages/54.html"
+          },
+          {
+            "title": "Insert and collect your weapon",
+            "body": "Return to spawn, equip the gun you want to improve and pay Pack-a-Punch 5,000 points. Collect the returned weapon promptly; leaving it in the machine can lose it.",
+            "original": true,
+            "images": [
+              {
+                "src": "./assets/classic-batch3-der-bo1-pap.jpg",
+                "alt": "BO1 Der Riese open Pack-a-Punch mainframe",
+                "caption": "Actual BO1 photo — unlocked Pack-a-Punch at spawn",
+                "source": "https://www.gamesradar.com/cod-black-ops-rezurrection-dlc-guide/4/",
+                "credit": "Matt Hughes / GamesRadar / Activision"
+              }
+            ],
+            "researchSource": "https://w.atwiki.jp/cod_blackops/pages/54.html"
+          }
+        ],
+        "relatedGuideIds": [
+          "bo1-der-riese-community-der-riese-map-walkthrough-power",
+          "bo1-der-riese-community-der-riese-easter-eggs-main-easter-egg",
+          "bo1-der-riese-community-der-riese-special-weapons-wunderwaffe-dg-2-upgrade",
+          "bo1-der-riese-ray-gun-upgrade"
+        ],
+        "checked": "2026-10-16",
+        "sharedSource": false,
+        "supplementNote": "Original BO1 instructions replace the affected passage after checking the listed sources. The shared Reddit source remains credited; other editions keep their separate instructions.",
+        "sources": [
+          {
+            "title": "r/CODZombies community map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/der-riese/"
+          },
+          {
+            "title": "BO1 community wiki — Der Riese recordings, traps and loose change",
+            "url": "https://w.atwiki.jp/cod_blackops/pages/54.html"
+          },
+          {
+            "title": "hXcHector — BO1 Der Riese; reject Bowie round-20 claim",
+            "url": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/der-riese/"
+          },
+          {
+            "title": "MMMRKennedy — explicitly separated WaW/BO1 and BO3 target locations",
+            "url": "https://mmmrkennedy.com/games/WAW/der_riese/der_riese_guide?version=remake"
+          },
+          {
+            "title": "Matt Hughes / GamesRadar — firsthand 2011 Rezurrection walkthrough",
+            "url": "https://www.gamesradar.com/cod-black-ops-rezurrection-dlc-guide/4/"
+          }
+        ],
+        "sourceQuote": null
       }
     }
   },
@@ -1275,6 +1794,52 @@
           "A weapon for the Hellhounds"
         ],
         "reward": "Final dog in a dedicated dog round drops Max Ammo.",
+        "sourceQuote": null
+      },
+      "bo1-der-riese": {
+        "title": "Hellhound waves and Max Ammo",
+        "summary": "Finish a dedicated dog wave for Max Ammo; later regular waves can mix dogs with zombies.",
+        "difficulty": "Easy",
+        "players": "1–4",
+        "requirements": [
+          "A usable weapon and ammunition"
+        ],
+        "reward": "Max Ammo after the last dog of a dedicated Hellhound wave.",
+        "steps": [
+          {
+            "title": "Finish the dedicated dog wave",
+            "body": "When the special Hellhound wave begins, keep enough space to shoot the dogs as they charge. Kill the last one to receive Max Ammo. Reload your weapons before collecting it when it is safe.",
+            "original": true,
+            "researchSource": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/der-riese/"
+          },
+          {
+            "title": "Expect mixed enemies later",
+            "body": "Dogs also join ordinary zombie waves later in the match. A dog appearing beside zombies does not mean the round is a dog-only Max Ammo wave. Plan around the current wave and ammunition rather than a promised four-to-seven-round schedule.",
+            "original": true,
+            "researchSource": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/der-riese/"
+          }
+        ],
+        "checked": "2026-10-16",
+        "sharedSource": false,
+        "supplementNote": "Original BO1 instructions replace the affected passage after checking the listed sources. The shared Reddit source remains credited; other editions keep their separate instructions.",
+        "sources": [
+          {
+            "title": "r/CODZombies community map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/der-riese/"
+          },
+          {
+            "title": "hXcHector — BO1 Der Riese; reject Bowie round-20 claim",
+            "url": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/der-riese/"
+          },
+          {
+            "title": "BO1 community wiki — Der Riese recordings, traps and loose change",
+            "url": "https://w.atwiki.jp/cod_blackops/pages/54.html"
+          },
+          {
+            "title": "Matt Hughes / GamesRadar — firsthand 2011 Rezurrection walkthrough",
+            "url": "https://www.gamesradar.com/cod-black-ops-rezurrection-dlc-guide/4/"
+          }
+        ],
         "sourceQuote": null
       }
     }
@@ -1316,6 +1881,57 @@
           "Active Mystery Box access"
         ],
         "reward": "DG-2 if rolled and collected.",
+        "sourceQuote": null
+      },
+      "bo1-der-riese": {
+        "title": "Wunderwaffe DG-2 — Box acquisition",
+        "summary": "Get the BO1 electric wonder weapon from the Mystery Box, then upgrade it at Pack-a-Punch.",
+        "difficulty": "Easy",
+        "players": "1–4; one DG-2 holder",
+        "requirements": [
+          "Mystery Box access",
+          "950 points per normal random pull"
+        ],
+        "reward": "Wunderwaffe DG-2 with 3 shots and 15 in reserve.",
+        "steps": [
+          {
+            "title": "Roll the Mystery Box",
+            "body": "The first Box is in the power courtyard. Buy random pulls and claim the DG-2 when offered. Only one player normally holds it at a time.",
+            "original": true,
+            "researchSource": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/der-riese/"
+          },
+          {
+            "title": "Fire into a gathered group",
+            "body": "Use the lightning against clustered zombies. Keep distance from the impact and allow room for the slow reload. The original WaW permanent Juggernog-loss bug was fixed for BO1, but self-shock is still something to avoid.",
+            "original": true,
+            "researchSource": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/der-riese/"
+          }
+        ],
+        "relatedGuideIds": [
+          "bo1-der-riese-community-der-riese-special-weapons-wunderwaffe-dg-2-upgrade",
+          "bo1-der-riese-community-der-riese-map-walkthrough-pack-a-punch"
+        ],
+        "checked": "2026-10-16",
+        "sharedSource": false,
+        "supplementNote": "Original BO1 instructions replace the affected passage after checking the listed sources. The shared Reddit source remains credited; other editions keep their separate instructions.",
+        "sources": [
+          {
+            "title": "r/CODZombies community map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/der-riese/"
+          },
+          {
+            "title": "hXcHector — BO1 Der Riese; reject Bowie round-20 claim",
+            "url": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/der-riese/"
+          },
+          {
+            "title": "Contemporary BO1 players — original DG-2 Juggernog bug fixed",
+            "url": "https://gamefaqs.gamespot.com/boards/960188-call-of-duty-black-ops/59202704"
+          },
+          {
+            "title": "Nosfrat — firsthand BO1 Zombies weapon guide",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=121313832"
+          }
+        ],
         "sourceQuote": null
       }
     }
@@ -1364,6 +1980,58 @@
           "5,000 points"
         ],
         "reward": "DG-3 JZ with 6 loaded shots and 30 reserve.",
+        "sourceQuote": null
+      },
+      "bo1-der-riese": {
+        "title": "Wunderwaffe DG-3 JZ — Pack-a-Punch upgrade",
+        "summary": "Spend 5,000 points to double the DG-2 ammunition and improve handling.",
+        "difficulty": "Easy",
+        "players": "1–4; DG-2 holder upgrades",
+        "requirements": [
+          "Wunderwaffe DG-2",
+          "Unlock Pack-a-Punch",
+          "5,000 points"
+        ],
+        "reward": "Wunderwaffe DG-3 JZ: 6 shots with 30 in reserve.",
+        "steps": [
+          {
+            "title": "Upgrade the held DG-2",
+            "body": "At the unlocked spawn Pack-a-Punch, equip the DG-2, pay 5,000 points and collect the returned DG-3 JZ.",
+            "original": true,
+            "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=121313832"
+          },
+          {
+            "title": "Use the extra ammunition",
+            "body": "The magazine increases from 3 to 6 and reserve from 15 to 30; reload is faster. The upgrade does not turn its usual ten-zombie chain limit into an entire unlimited horde. Keep space from the impact and budget shots.",
+            "original": true,
+            "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=121313832"
+          }
+        ],
+        "relatedGuideIds": [
+          "bo1-der-riese-community-der-riese-special-weapons-wunderwaffe-dg-2",
+          "bo1-der-riese-community-der-riese-map-walkthrough-pack-a-punch"
+        ],
+        "checked": "2026-10-16",
+        "sharedSource": false,
+        "supplementNote": "Original BO1 instructions replace the affected passage after checking the listed sources. The shared Reddit source remains credited; other editions keep their separate instructions.",
+        "sources": [
+          {
+            "title": "r/CODZombies community map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/der-riese/"
+          },
+          {
+            "title": "Nosfrat — firsthand BO1 Zombies weapon guide",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=121313832"
+          },
+          {
+            "title": "5and5 — mod author identifies additions to stock BO1 maps",
+            "url": "https://github.com/5and5/BO1-Remix"
+          },
+          {
+            "title": "hXcHector — BO1 Der Riese; reject Bowie round-20 claim",
+            "url": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/der-riese/"
+          }
+        ],
         "sourceQuote": null
       }
     }
@@ -1454,6 +2122,111 @@
           "Pack-a-Punched bullet weapon"
         ],
         "reward": "Elevate Your Senses on activation; completion audio after toys. No WaW Annihilator.",
+        "sourceQuote": null
+      },
+      "bo1-der-riese": {
+        "title": "Fly Trap — launch panel and find all three toys",
+        "summary": "Use an upgraded bullet weapon on the distant panel, then shoot the window bear, cage bear and furnace monkey.",
+        "difficulty": "Easy",
+        "players": "1–4; solo possible",
+        "requirements": [
+          "Turn on power and unlock Pack-a-Punch",
+          "A Pack-a-Punched bullet weapon for the panel",
+          "A gun for the three hidden targets"
+        ],
+        "reward": "Samantha’s hide-and-seek dialogue. BO1 gives no Annihilator or Elevate Your Senses achievement.",
+        "sourceOmissions": [],
+        "steps": [
+          {
+            "title": "Prepare the upgraded bullet weapon",
+            "body": "Follow the Power and Pack-a-Punch companions, then upgrade a normal bullet-firing gun for 5,000 points. A scoped gun can help you aim, but is not a required weapon.",
+            "original": true,
+            "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=137289967"
+          },
+          {
+            "title": "Shoot the distant panel",
+            "body": "Facing away from spawn Pack-a-Punch, take the left route to the M1 Carbine area. Look through its zombie window down the long outside alley. Shoot the small control panel fixed to a distant pillar with the upgraded gun. The objects glow green and rise; wait for Samantha’s game to begin.",
+            "original": true,
+            "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=137289967"
+          },
+          {
+            "title": "Find the high-window bear",
+            "body": "From spawn, look high at the building above the M1 Carbine/left route. Shoot the teddy in the broken upper window.",
+            "original": true,
+            "images": [
+              {
+                "src": "./assets/classic-batch2-der-flytrap-window.webp",
+                "alt": "Upper building window above spawn left route",
+                "caption": "WaW PC location reference — high-window Fly Trap target area",
+                "source": "https://mmmrkennedy.com/games/WAW/der_riese/der_riese_guide",
+                "credit": "MMMRKennedy / Activision"
+              }
+            ],
+            "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=137289967"
+          },
+          {
+            "title": "Find the cage bear",
+            "body": "In the Trench Gun/Animal Testing room, face the Trench Gun wall buy, turn right and look into the stacked cages at the dead end. Shoot the teddy in the lower-left cage.",
+            "original": true,
+            "images": [
+              {
+                "src": "./assets/classic-batch2-der-flytrap-cage.webp",
+                "alt": "Stacked cages to the right of Trench Gun wall buy",
+                "caption": "WaW PC location reference — lower-left cage target area",
+                "source": "https://mmmrkennedy.com/games/WAW/der_riese/der_riese_guide",
+                "credit": "MMMRKennedy / Activision"
+              }
+            ],
+            "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=137289967"
+          },
+          {
+            "title": "Find the furnace monkey",
+            "body": "Go to the Thompson room on the opposite side of spawn. Shoot the monkey inside the burning open furnace under the stairs. This target appears for the Fly Trap game; throwing your own Monkey Bomb is a different secret.",
+            "original": true,
+            "images": [
+              {
+                "src": "./assets/classic-batch2-der-flytrap-furnace.webp",
+                "alt": "Open burning furnace beneath the Thompson-room stairs",
+                "caption": "WaW PC location reference — furnace monkey target area",
+                "source": "https://mmmrkennedy.com/games/WAW/der_riese/der_riese_guide",
+                "credit": "MMMRKennedy / Activision"
+              }
+            ],
+            "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=137289967"
+          },
+          {
+            "title": "Listen for completion",
+            "body": "The three targets can be shot in any order with a normal weapon. Samantha reacts as each registers and ends the game after the third. There is no extra weapon pickup in stock BO1 Der Riese.",
+            "original": true,
+            "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=137289967"
+          }
+        ],
+        "relatedGuideIds": [
+          "bo1-der-riese-community-der-riese-map-walkthrough-power",
+          "bo1-der-riese-community-der-riese-map-walkthrough-pack-a-punch",
+          "bo1-der-riese-burning-monkey"
+        ],
+        "checked": "2026-10-16",
+        "sharedSource": false,
+        "supplementNote": "Original BO1 instructions replace the affected passage after checking the listed sources. The shared Reddit source remains credited; other editions keep their separate instructions.",
+        "sources": [
+          {
+            "title": "r/CODZombies community map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/der-riese/"
+          },
+          {
+            "title": "WeirdGrim — firsthand BO1 Fly Trap walkthrough",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=137289967"
+          },
+          {
+            "title": "MMMRKennedy — explicitly separated WaW/BO1 and BO3 target locations",
+            "url": "https://mmmrkennedy.com/games/WAW/der_riese/der_riese_guide?version=remake"
+          },
+          {
+            "title": "BO1 community wiki — Der Riese recordings, traps and loose change",
+            "url": "https://w.atwiki.jp/cod_blackops/pages/54.html"
+          }
+        ],
         "sourceQuote": null
       }
     }
@@ -3465,5 +4238,494 @@
     ],
     "sourceQuote": null,
     "checked": "2026-10-16"
+  },
+  "nacht-der-untoten-map-walkthrough-traps-explosive-barrels": {
+    "mapOverrides": {
+      "bo1-nacht-der-untoten": {
+        "title": "Explosive barrels",
+        "summary": "Use exterior barrels for a free blast; three specific barrels also trigger Undone.",
+        "difficulty": "Easy",
+        "players": "1–4",
+        "requirements": [
+          "A weapon and an intact exterior barrel"
+        ],
+        "reward": "Explosion damage to zombies near the barrel.",
+        "steps": [
+          {
+            "title": "Shoot an intact exterior barrel",
+            "body": "Aim through a window at a red explosive barrel and shoot it. The blast can damage nearby zombies. Each barrel is expendable; wait for a group to approach if you want kills.",
+            "original": true,
+            "researchSource": "https://w.atwiki.jp/cod_blackops/pages/118.html"
+          }
+        ],
+        "relatedGuideIds": [
+          "bo1-nacht-der-untoten-undone"
+        ],
+        "checked": "2026-10-16",
+        "sharedSource": false,
+        "supplementNote": "Original BO1 instructions replace the affected passage after checking the listed sources. The shared Reddit source remains credited; other editions keep their separate instructions.",
+        "sources": [
+          {
+            "title": "r/CODZombies community map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/nacht-der-untoten/"
+          },
+          {
+            "title": "BO1 community wiki — Nacht cabinet and edition changes",
+            "url": "https://w.atwiki.jp/cod_blackops/pages/118.html"
+          },
+          {
+            "title": "Feelin’ Salty? / Jokerlaw — firsthand BO1 Nacht strategy",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=156648862"
+          }
+        ],
+        "sourceQuote": null
+      }
+    }
+  },
+  "nacht-der-untoten-special-weapons-wonder-weapon": {
+    "mapOverrides": {
+      "bo1-nacht-der-untoten": {
+        "title": "Ray Gun and Thundergun — Mystery Box",
+        "summary": "BO1 Nacht has both weapons. The Box stays in the HELP room, and this map has no Pack-a-Punch.",
+        "difficulty": "Easy",
+        "players": "1–4",
+        "requirements": [
+          "Open the HELP room",
+          "950 points per normal Mystery Box pull; the weapon is random"
+        ],
+        "reward": "Ray Gun or Thundergun from the Box.",
+        "steps": [
+          {
+            "title": "Use the fixed HELP-room Box",
+            "body": "Pay the Mystery Box and claim the weapon if it offers a Ray Gun or Thundergun. A failed pull does not mean you missed an Easter egg step; both are random box weapons.",
+            "original": true,
+            "researchSource": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/nacht-der-untoten/"
+          },
+          {
+            "title": "Ray Gun: keep distance from impacts",
+            "body": "The Ray Gun holds 20 shots with 160 in reserve. Fire away from your feet and nearby walls: splash damage can hurt you. More than one teammate can carry a Ray Gun.",
+            "original": true,
+            "researchSource": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/nacht-der-untoten/"
+          },
+          {
+            "title": "Thundergun: fire both shots before reloading",
+            "body": "The Thundergun holds 2 shots with 12 in reserve and is limited to one holder. On patched BO1 Zombies, you must empty its magazine to reload. It clears nearby zombies; keep a point-building weapon alongside it. There is no Zeus Cannon upgrade route on stock BO1 Nacht.",
+            "original": true,
+            "researchSource": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/nacht-der-untoten/"
+          }
+        ],
+        "checked": "2026-10-16",
+        "sharedSource": false,
+        "supplementNote": "Original BO1 instructions replace the affected passage after checking the listed sources. The shared Reddit source remains credited; other editions keep their separate instructions.",
+        "sources": [
+          {
+            "title": "r/CODZombies community map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/nacht-der-untoten/"
+          },
+          {
+            "title": "hXcHector — BO1 Nacht weapons; barrel count rejected",
+            "url": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/nacht-der-untoten/"
+          },
+          {
+            "title": "Feelin’ Salty? / Jokerlaw — firsthand BO1 Nacht strategy",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=156648862"
+          },
+          {
+            "title": "Feelin’ Salty? / Jokerlaw — BO1 wonder weapon handling",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=167978998"
+          }
+        ],
+        "sourceQuote": null
+      }
+    }
+  },
+  "nacht-der-untoten-special-weapons-monkey-bombs": {
+    "mapOverrides": {
+      "bo1-nacht-der-untoten": {
+        "title": "Monkey Bombs — obtain, throw and refill",
+        "summary": "BO1 Nacht adds a short zombie diversion from the Mystery Box.",
+        "difficulty": "Easy",
+        "players": "1–4",
+        "requirements": [
+          "HELP-room Mystery Box access"
+        ],
+        "reward": "Up to three Monkey Bombs; Max Ammo restores the supply.",
+        "steps": [
+          {
+            "title": "Roll the Box for Monkey Bombs",
+            "body": "Obtain Monkey Bombs from the HELP-room Mystery Box. They use the special-grenade control and can be replenished with Max Ammo.",
+            "original": true,
+            "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=156648862"
+          },
+          {
+            "title": "Throw before you are surrounded",
+            "body": "Arm one and throw it onto the playable floor. Zombies gather briefly before it explodes. Use the opening to revive or move; the wind-up takes time, and an out-of-bounds throw can fail. Do not count on a fixed ten-second distraction.",
+            "original": true,
+            "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=156648862"
+          }
+        ],
+        "checked": "2026-10-16",
+        "sharedSource": false,
+        "supplementNote": "Original BO1 instructions replace the affected passage after checking the listed sources. The shared Reddit source remains credited; other editions keep their separate instructions.",
+        "sources": [
+          {
+            "title": "r/CODZombies community map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/nacht-der-untoten/"
+          },
+          {
+            "title": "Feelin’ Salty? / Jokerlaw — firsthand BO1 Nacht strategy",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=156648862"
+          },
+          {
+            "title": "hXcHector — BO1 Nacht weapons; barrel count rejected",
+            "url": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/nacht-der-untoten/"
+          },
+          {
+            "title": "5and5 — mod author identifies additions to stock BO1 maps",
+            "url": "https://github.com/5and5/BO1-Remix"
+          }
+        ],
+        "sourceQuote": null
+      }
+    }
+  },
+  "verruckt-special-weapons-winter-s-howl-bo1": {
+    "mapOverrides": {
+      "bo1-verruckt": {
+        "title": "Winter’s Howl and Ray Gun — Mystery Box",
+        "summary": "Both are BO1 Verrückt box weapons. There is no Pack-a-Punch machine on this version.",
+        "difficulty": "Easy",
+        "players": "1–4",
+        "requirements": [
+          "Reach the Mystery Box",
+          "950 points per normal pull; results are random"
+        ],
+        "reward": "Winter’s Howl or Ray Gun.",
+        "steps": [
+          {
+            "title": "Find the Box",
+            "body": "The first Box is in the power room opposite the power lever. Buy a random weapon and claim the Winter’s Howl or Ray Gun if offered. If the Box moves, check another marked box position.",
+            "original": true,
+            "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=138169076"
+          },
+          {
+            "title": "Use Winter’s Howl for crowd control",
+            "body": "The Winter’s Howl holds 6 shots with 24 in reserve and is limited to one holder. Repeated icy blasts slow and freeze zombies; it is not an unlimited-damage weapon.",
+            "original": true,
+            "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=138169076"
+          },
+          {
+            "title": "Ray Gun and upgrade limits",
+            "body": "The Ray Gun is also in this Box. Its close impacts can hurt you, so leave space. Stock BO1 Verrückt has no Pack-a-Punch: Winter’s Fury and Porter’s X2 are not obtainable upgrades here.",
+            "original": true,
+            "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=138169076"
+          }
+        ],
+        "relatedGuideIds": [
+          "bo1-verruckt-community-verruckt-map-walkthrough-power"
+        ],
+        "checked": "2026-10-16",
+        "sharedSource": false,
+        "supplementNote": "Original BO1 instructions replace the affected passage after checking the listed sources. The shared Reddit source remains credited; other editions keep their separate instructions.",
+        "sources": [
+          {
+            "title": "r/CODZombies community map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/verruckt/"
+          },
+          {
+            "title": "Feelin’ Salty? / Jokerlaw — firsthand BO1 Verrückt guide and photos",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=138169076"
+          },
+          {
+            "title": "Feelin’ Salty? / Jokerlaw — BO1 wonder weapon handling",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=167978998"
+          },
+          {
+            "title": "Nosfrat — firsthand BO1 Zombies weapon guide",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=121313832"
+          }
+        ],
+        "sourceQuote": null
+      }
+    }
+  },
+  "verruckt-easter-eggs-radio-ee-black-ops-1": {
+    "mapOverrides": {
+      "bo1-verruckt": {
+        "title": "BO1 balcony radio — nine-track playlist",
+        "summary": "Shoot the radio beyond the American/Speed Cola balcony barrier; shoot again to skip tracks.",
+        "difficulty": "Easy",
+        "players": "1–4",
+        "requirements": [
+          "Open the American/Speed Cola upstairs balcony",
+          "A firearm"
+        ],
+        "reward": "A selectable campaign/Dead Ops music playlist.",
+        "steps": [
+          {
+            "title": "Aim through the balcony barrier",
+            "body": "On the upstairs balcony on the American/Speed Cola side, look through the barricaded window into an inaccessible room. The brown radio sits on a desk. Shoot it to start playback; shoot again to change the track.",
+            "original": true,
+            "images": [
+              {
+                "src": "./assets/classic-batch3-ver-bo1-music-radio.jpg",
+                "alt": "BO1 Verrückt tabletop radio beyond the upstairs balcony barrier",
+                "caption": "BO1 radio target — look through the balcony window to this desk",
+                "source": "https://www.codzombieguides.com/verr%C3%BCckt-remastered",
+                "credit": "JokerAlex 21 / Cod Zombie Guides / Activision"
+              }
+            ],
+            "researchSource": "https://www.callofdutyzombies.com/zombie-library/zombies-library/worldatwar/verruckt/songs-r36/"
+          },
+          {
+            "title": "Cycle the playlist",
+            "body": "The documented BO1 order is: WTF; Abra Macabre (also listed as Abre Macabre); UHF; Dusk; Boatdeck; Slasher Flick; Mask Walk; Areia; Temple of Shroom. Let a track play or shoot again to advance.",
+            "original": true,
+            "researchSource": "https://www.callofdutyzombies.com/zombie-library/zombies-library/worldatwar/verruckt/songs-r36/"
+          }
+        ],
+        "relatedGuideIds": [
+          "bo1-verruckt-community-verruckt-easter-eggs-hidden-song-lullaby-of-a-deadman",
+          "bo1-verruckt-balcony-waltz"
+        ],
+        "checked": "2026-10-16",
+        "sharedSource": false,
+        "supplementNote": "Original BO1 instructions replace the affected passage after checking the listed sources. The shared Reddit source remains credited; other editions keep their separate instructions.",
+        "sources": [
+          {
+            "title": "r/CODZombies community map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/verruckt/"
+          },
+          {
+            "title": "PINNAZ / CoDZ — BO1 radio playlist and toilet song",
+            "url": "https://www.callofdutyzombies.com/zombie-library/zombies-library/worldatwar/verruckt/songs-r36/"
+          },
+          {
+            "title": "Feelin’ Salty? / Jokerlaw — firsthand BO1 Verrückt guide and photos",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=138169076"
+          },
+          {
+            "title": "JokerAlex 21 — edition-labelled Verrückt secrets and BO1 radio photo",
+            "url": "https://www.codzombieguides.com/verr%C3%BCckt-remastered"
+          },
+          {
+            "title": "Activision soundtrack release: Abra Macabre title",
+            "url": "https://music.amazon.it/tracks/B08PC981DJ"
+          }
+        ],
+        "sourceQuote": null
+      }
+    }
+  },
+  "verruckt-easter-eggs-hidden-song-lullaby-of-a-deadman": {
+    "mapOverrides": {
+      "bo1-verruckt": {
+        "title": "Lullaby for a Dead Man — three toilet flushes",
+        "summary": "Flush the leftmost upstairs toilet three times.",
+        "difficulty": "Easy",
+        "players": "1–4",
+        "requirements": [
+          "Reach the upstairs bathroom beside the power room"
+        ],
+        "reward": "Lullaby for a Dead Man by Kevin Sherwood and Elena Siegman.",
+        "steps": [
+          {
+            "title": "Find the row of three toilets",
+            "body": "Enter the upstairs bathroom near the power room and STG-44 area. Face the three toilets and approach the physically leftmost one.",
+            "original": true,
+            "images": [
+              {
+                "src": "./assets/classic-batch3-ver-bo1-toilet-approach.jpg",
+                "alt": "BO1 Verrückt bathroom and row of toilets",
+                "caption": "Actual BO1 PC photo — upstairs bathroom",
+                "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=138169076",
+                "credit": "Feelin’ Salty? / Jokerlaw / Steam Community / Activision"
+              }
+            ],
+            "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=138169076"
+          },
+          {
+            "title": "Register three separate flushes",
+            "body": "Press Use on the left toilet three times, allowing each flush to register. The third starts the song. This is the BO1 three-flush song; the Chronicles 9-3-5 doll quest is a different version.",
+            "original": true,
+            "images": [
+              {
+                "src": "./assets/classic-batch3-ver-bo1-toilet-close.jpg",
+                "alt": "BO1 Verrückt left toilet close-up",
+                "caption": "Actual BO1 PC photo — stand close to the left toilet",
+                "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=138169076",
+                "credit": "Feelin’ Salty? / Jokerlaw / Steam Community / Activision"
+              }
+            ],
+            "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=138169076"
+          }
+        ],
+        "checked": "2026-10-16",
+        "sharedSource": false,
+        "supplementNote": "Original BO1 instructions replace the affected passage after checking the listed sources. The shared Reddit source remains credited; other editions keep their separate instructions.",
+        "sources": [
+          {
+            "title": "r/CODZombies community map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/verruckt/"
+          },
+          {
+            "title": "Feelin’ Salty? / Jokerlaw — firsthand BO1 Verrückt guide and photos",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=138169076"
+          },
+          {
+            "title": "PINNAZ / CoDZ — BO1 radio playlist and toilet song",
+            "url": "https://www.callofdutyzombies.com/zombie-library/zombies-library/worldatwar/verruckt/songs-r36/"
+          },
+          {
+            "title": "BO1 community wiki — Verrückt power, traps, balcony music",
+            "url": "https://w.atwiki.jp/cod_blackops/pages/119.html"
+          }
+        ],
+        "sourceQuote": null
+      }
+    }
+  },
+  "shi-no-numa-easter-eggs-hidden-song-the-one": {
+    "mapOverrides": {
+      "bo1-shi-no-numa": {
+        "title": "The One — Comms Room telephone",
+        "summary": "Use the black desk telephone three times inside Comms Room.",
+        "difficulty": "Easy",
+        "players": "1–4",
+        "requirements": [
+          "Open the Comms Room route and hut"
+        ],
+        "reward": "The One by Kevin Sherwood and Elena Siegman.",
+        "steps": [
+          {
+            "title": "Find the telephone",
+            "body": "Follow the Comms Room signs from the lower Main Hut and enter the Comms hut. Find the black telephone on the desk under the hanging light.",
+            "original": true,
+            "images": [
+              {
+                "src": "./assets/classic-batch2-shi-phone.webp",
+                "alt": "Desk telephone inside the Comms hut",
+                "caption": "WaW PC location reference — BO1 trigger checked separately",
+                "source": "https://mmmrkennedy.com/games/WAW/shi_no_numa/shi_no_numa_guide",
+                "credit": "MMMRKennedy / Activision"
+              }
+            ],
+            "researchSource": "https://w.atwiki.jp/cod_blackops/pages/53.html"
+          },
+          {
+            "title": "Use it three times",
+            "body": "Stand close and press Use three separate times, letting each ring/input register. The third starts the song. If an input misses, aim at the handset and try again. Dead Air is a World at War achievement, not a BO1 reward.",
+            "original": true,
+            "researchSource": "https://w.atwiki.jp/cod_blackops/pages/53.html"
+          }
+        ],
+        "relatedGuideIds": [
+          "bo1-shi-no-numa-backtracing",
+          "bo1-shi-no-numa-original-recordings"
+        ],
+        "checked": "2026-10-16",
+        "sharedSource": false,
+        "supplementNote": "Original BO1 instructions replace the affected passage after checking the listed sources. The shared Reddit source remains credited; other editions keep their separate instructions.",
+        "sources": [
+          {
+            "title": "r/CODZombies community map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/shi-no-numa/"
+          },
+          {
+            "title": "BO1 community wiki — Shi No Numa mechanics and recordings",
+            "url": "https://w.atwiki.jp/cod_blackops/pages/53.html"
+          },
+          {
+            "title": "hXcHector — BO1 Shi No Numa devices and audio objects",
+            "url": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/shi-no-numa/"
+          }
+        ],
+        "sourceQuote": null
+      }
+    }
+  },
+  "der-riese-easter-eggs-beauty-of-annihilation": {
+    "mapOverrides": {
+      "bo1-der-riese": {
+        "title": "Beauty of Annihilation — three specimen jars",
+        "summary": "Use two jars in Animal Testing and one beside Teleporter B.",
+        "difficulty": "Easy",
+        "players": "1–4",
+        "requirements": [
+          "Open Animal Testing and the Teleporter B side room"
+        ],
+        "reward": "Beauty of Annihilation by Kevin Sherwood and Elena Siegman.",
+        "steps": [
+          {
+            "title": "Animal Testing: high shelf jar",
+            "body": "In the Trench Gun room on the left of spawn, find the glowing green specimen jar high on a shelf near the stairs toward Juggernog. Stand close, aim at it and hold Use.",
+            "original": true,
+            "images": [
+              {
+                "src": "./assets/classic-batch2-der-song-shelf.webp",
+                "alt": "Green specimen jar high on Animal Testing shelf",
+                "caption": "WaW PC location reference — BO1 jar location checked separately",
+                "source": "https://mmmrkennedy.com/games/WAW/der_riese/der_riese_guide",
+                "credit": "MMMRKennedy / Activision"
+              }
+            ],
+            "researchSource": "https://mmmrkennedy.com/games/WAW/der_riese/der_riese_guide?version=remake"
+          },
+          {
+            "title": "Animal Testing: cabinet jar",
+            "body": "Use the second green jar on the cabinet across the same room, beside the anatomical picture and chalkboard near those stairs.",
+            "original": true,
+            "images": [
+              {
+                "src": "./assets/classic-batch2-der-song-stairs.webp",
+                "alt": "Second green specimen jar beside anatomical poster",
+                "caption": "WaW PC location reference — second Animal Testing jar",
+                "source": "https://mmmrkennedy.com/games/WAW/der_riese/der_riese_guide",
+                "credit": "MMMRKennedy / Activision"
+              }
+            ],
+            "researchSource": "https://mmmrkennedy.com/games/WAW/der_riese/der_riese_guide?version=remake"
+          },
+          {
+            "title": "Teleporter B: side-room jar",
+            "body": "Go to Teleporter B above the Thompson room. Enter its small side room by the grenade wall buy and chalkboard; use the jar on the table. Any order works, and the song starts when all three register.",
+            "original": true,
+            "images": [
+              {
+                "src": "./assets/classic-batch2-der-song-b.webp",
+                "alt": "Green specimen jar in Teleporter B side room",
+                "caption": "WaW PC location reference — Teleporter B side-room jar",
+                "source": "https://mmmrkennedy.com/games/WAW/der_riese/der_riese_guide",
+                "credit": "MMMRKennedy / Activision"
+              }
+            ],
+            "tip": "A quiet/missing confirmation is not a failure by itself. Move closer to each jar and use it again if the last one does not start the song.",
+            "researchSource": "https://mmmrkennedy.com/games/WAW/der_riese/der_riese_guide?version=remake"
+          }
+        ],
+        "checked": "2026-10-16",
+        "sharedSource": false,
+        "supplementNote": "Original BO1 instructions replace the affected passage after checking the listed sources. The shared Reddit source remains credited; other editions keep their separate instructions.",
+        "sources": [
+          {
+            "title": "r/CODZombies community map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/der-riese/"
+          },
+          {
+            "title": "MMMRKennedy — explicitly separated WaW/BO1 and BO3 target locations",
+            "url": "https://mmmrkennedy.com/games/WAW/der_riese/der_riese_guide?version=remake"
+          },
+          {
+            "title": "BO1 community wiki — Der Riese recordings, traps and loose change",
+            "url": "https://w.atwiki.jp/cod_blackops/pages/54.html"
+          },
+          {
+            "title": "hXcHector — BO1 Der Riese; reject Bowie round-20 claim",
+            "url": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/der-riese/"
+          }
+        ],
+        "sourceQuote": null
+      }
+    }
   }
 }

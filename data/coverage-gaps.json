@@ -261,7 +261,7 @@
     "mapIds": [
       "bo4-rush"
     ],
-    "note": "Rush scoring, free purchases, life system and three achievement goals have source-supported instructions. The final playable map roster, extra-life thresholds, all disabled Elixirs and every story/side-quest trigger still need mode-specific verification."
+    "note": "Rush’s eight-map roster, free purchases, starting lives/health, extra-life pickups, movement deadlines and three achievement goals have source evidence. Activision excludes Easter eggs from Voyage and IX Rush. Exact extra-life thresholds/cap, every disabled Elixir/equipment item, map-specific Wonder Weapon/shield upgrades and per-trigger checks on the other six maps remain unverified. The cover is a creator-edited gameplay thumbnail."
   },
   {
     "mapIds": [
@@ -287,5 +287,69 @@
       "bo2-nuketown-zombies"
     ],
     "note": "Three separate music triggers, perk/upgrade access, bunker/TV/horn audio and visual references now have clearer instructions. The complete 54-position mannequin atlas, precise perk-drop scheduling, intermediate TV rounds, Marlton quote cutoff, the old-build Pareidolia/Coming Home split and whether clock-hand 1 is mandatory still need independent confirmation. Candidate photos are PC location references, not retail trigger tests."
+  },
+  {
+    "mapIds": [
+      "bo1-verruckt"
+    ],
+    "note": "Other ambient sounds: Morgue crying, sobbing/banging doors and Speed Cola whispers have WaW/multi-version references; unambiguous BO1 trigger/capture evidence was not obtained. Do not label these absent or copy every WaW trigger into BO1."
+  },
+  {
+    "mapIds": [
+      "bo1-verruckt"
+    ],
+    "note": "Balcony waltz precision: The BO1-specific 2012 wiki supports power + balcony waltz, but exact side/radius, named recording, timing and replay behavior remain untested. The new card states the supported practical route and keeps those precision claims out."
+  },
+  {
+    "mapIds": [
+      "bo1-der-riese"
+    ],
+    "note": "Brick note, field manual and static/ambient story details: A crop of the brick note is available, but it has no identifiable edition/HUD. Independent BO1 activation/room capture still needed before a new brick guide. Exact BO1 renderings/landmarks of hidden field manual, cipher boards, other notes and ambient children/crying/body interactions also remain unaudited."
+  },
+  {
+    "mapIds": [
+      "bo1-shi-no-numa"
+    ],
+    "note": "Single-source and incomplete audio corroboration: Richtofen book and Storage meteor have explicit BO1 reports, but lack independent BO1 screenshots/playthrough verification. Doctor’s older interior radio needs independent BO1 capture beyond Hector; Backtracing’s archive images are branded WaW. Do not copy a four-player requirement from Hector’s guess."
+  },
+  {
+    "mapIds": [
+      "bo1-nacht-der-untoten",
+      "bo1-verruckt"
+    ],
+    "note": "Complete radio listening and song retriggers: All nine playlist names/order compared with BO1 library entries, but not every track independently listened to in-game. Song restart/cooldown behavior, overlapping playback and missed-input behavior remain to test on retail versions."
+  },
+  {
+    "mapIds": [
+      "bo1-nacht-der-untoten",
+      "bo1-verruckt",
+      "bo1-shi-no-numa",
+      "bo1-der-riese"
+    ],
+    "note": "Complete conventional weapon inventory and all upgrade statistics: This batch audits every existing card and adds the documented special acquisitions/Der Riese upgrades. It does not certify every ordinary wall gun/box probability/PaP name/ammo/damage/attachment on all four maps. Source tables contain demonstrable Kar98k prices, Thundergun-in-Der-Riese and Bowie cutoff errors. Build inventory from firsthand captures or stock data in a later bounded pass."
+  },
+  {
+    "mapIds": [
+      "bo1-nacht-der-untoten",
+      "bo1-verruckt",
+      "bo1-shi-no-numa",
+      "bo1-der-riese"
+    ],
+    "note": "Build-dependent mechanical values: Trap active/recharge times, exact Monkey distraction/failures, Thundergun launch reload, DG-2 holder exceptions and chain behavior, dog-round RNG, Bowie cutoff/death retention, co-op loose-change ownership and zipline cooldown/max riders remain untested values. Unsupported precision was removed rather than promoted."
+  },
+  {
+    "mapIds": [
+      "bo1-nacht-der-untoten",
+      "bo1-verruckt",
+      "bo1-shi-no-numa",
+      "bo1-der-riese"
+    ],
+    "note": "Missing BO1-only close-up images: Still missing BO1 active Fly Trap panel/three spawned toys; seven Der Riese live radio devices; DG-2/DG-3/Ray Gun/Bowie acquisitions; loose-change HUD; live burning monkey; book/meteor; old Storage/Doctor radio; Lost machine, chair wheel, balcony speakers and running-shower effect. WaW reference geometry and actual BO1 navigation shots are labelled separately."
+  },
+  {
+    "mapIds": [
+      "bo3-verruckt"
+    ],
+    "note": "Focused trap field only: Both named BO3 barrier locations are primary-supported, but trap price, timing, definitive total count, final-patch crossing behavior and local BO3 photos are not certified. No other BO3 card was audited in this batch."
   }
 ]
