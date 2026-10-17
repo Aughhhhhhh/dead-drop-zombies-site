@@ -1845,102 +1845,478 @@
   {
     "id": "bo1-moon-richtofens-grand-scheme",
     "mapId": "bo1-moon",
-    "title": "Richtofen's Grand Scheme",
+    "title": "Richtofen’s Grand Scheme — BO1 solo stopping point & co-op ending",
     "category": "main",
     "difficulty": "Hard",
-    "players": "1 for Cryogenic Slumber Party; 2–4 for the full ending",
-    "summary": "Both halves of the original BO1 Moon quest. Solo stops after Samantha's reveal; the Earth-ending half needs co-op and the prior quest items.",
+    "players": "1–4 for Cryogenic Slumber Party; 2–4 for the full ending",
+    "summary": "Memory game → laboratory panels → Tunnel 6 sphere → Samantha; co-op continues through the plates, Vril charge and missiles. Wire-spawn exhaustiveness and platform profile edge cases remain under review.",
     "requirements": [
-      "Power on and access to the three laboratory floors, both tunnels and the MPD pyramid",
-      "Wave Gun from the box",
-      "Hacker",
-      "Gersh Devices and Quantum Entanglement Devices (QEDs); use separate carriers in co-op",
-      "For the full BO1 ending: completed Call of the Dead co-op and Shangri-La quest records, and Richtofen spawning with the glowing Vril Device/Focusing Stone in his HUD",
-      "A PES suit for areas that have lost oxygen"
+      "Original BO1 Moon; this route does not use Zombies Chronicles rules.",
+      "First half: power, a Wave Gun, the Hacker, 500 points for the lab puzzle, and an explosive way to free the Tunnel 11 sphere.",
+      "Full ending only: 2–4 players, Richtofen with the constructed glowing Vril Device; prior Call of the Dead co-op and Shangri-La quest credit available to the lobby.",
+      "Full ending only: Gersh Devices and QEDs. Different carriers avoid repeatedly replacing these tactical grenades.",
+      "Keep oxygenated lab/Receiving Bay routes for the Hacker carrier; that tool replaces the PES.",
+      "Photos credited to Logan show original BO1 geography in a modified solo demonstration. They do not establish normal ammunition, counters or solo eligibility."
     ],
-    "reward": "Cryogenic Slumber Party and timed Death Machines at the solo stopping point; Big Bang Theory and permanent perks for the team after the full ending.",
+    "reward": "Cryogenic Slumber Party and timed Death Machines at Samantha’s reveal; the full ending gives permanent perks to the team. Original PS3 has no separate Big Bang Theory trophy.",
     "steps": [
       {
-        "title": "Check the version and quest items",
-        "body": "This is BO1 Moon. Get a PES at the lunar spawn, open a route through a tunnel to the pyramid and switch on power. For the full ending, inspect Richtofen's HUD for the Vril Device with its glowing stone before investing in the run. If it is absent, the team has not met this version's previous-quest requirements. BO3 Zombies Chronicles supplies the items and supports the full quest solo; do not apply that rule to BO1."
+        "title": "Choose the solo stopping point or full co-op route",
+        "body": "Cryogenic Slumber Party supports 1–4 players. The full BO1 ending needs 2–4, including Richtofen with the constructed Vril Device. Previous Call of the Dead co-op and Shangri-La completions must be available to the lobby.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/1ih8zf7/",
+        "tip": "Saved online quest credit and a trophy icon are not always interchangeable. Check Richtofen’s HUD for the rod with its glowing stone before a full run; platform/profile edge cases remain untested here."
       },
       {
-        "title": "Play Samantha Says",
-        "body": "Outside the lunar starting room are four colored computer screens. Facing them, their colors left to right are red, green, blue and yellow. Activate the game, watch each shown sequence, then press interact on the screens in exactly the same order. Repeat the growing pattern until the game confirms success. The sequences are generated for the run, not a fixed code."
+        "title": "Get oxygen and turn on power",
+        "body": "Take a PES from the lunar Receiving Bay. Open either tunnel to the MPD pyramid. Use the wall switch by the fuel tanks. Keep your PES on in the MPD room and outdoor areas.",
+        "original": true,
+        "researchSource": "https://www.callofdutyzombies.com/easteregg/guides/call_of_duty_black_ops_zombies/453_main-easter-eggs/moon/samantha-says-r21/"
       },
       {
-        "title": "Find the Hacker and start the lab puzzle",
-        "body": "The Hacker replaces your PES while carried. Search the six spots across the laboratory's three floors: two shelves on the first floor, the electrical box and blue railing by the second-floor stairs, and the tanks near Deadshot and shelf by the Biodome exit on the third floor. On the second floor, hack the leftmost of the four wall buttons for 500 points."
+        "title": "Repeat the first Samantha Says game",
+        "body": "Face the computers near Tunnel 6: red, green, blue, yellow from left. Watch all screens flash a color, then interact with that color’s computer. Repeat the growing sequence until the screens flash green, then dark.",
+        "original": true,
+        "researchSource": "https://www.callofdutyzombies.com/easteregg/guides/call_of_duty_black_ops_zombies/453_main-easter-eggs/moon/samantha-says-r21/",
+        "images": [
+          {
+            "src": "./assets/classic-batch6-moon-samantha-computers.webp",
+            "alt": "Four Samantha Says computers outside the Receiving Bay.",
+            "caption": "Four Samantha Says computers outside the Receiving Bay. Original BO1 landmark from a modified solo demonstration.",
+            "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=2443738562",
+            "credit": "Logan / Activision — BO1, modified solo demonstration"
+          }
+        ]
       },
       {
-        "title": "Hack the green panels",
-        "body": "Within the timed window, search all three lab floors for four access panels glowing green and hack each. Move quickly between floors and check the wall panels, not only the four starting buttons. If the timer fails, hack the starting button again. After all four green panels are hacked, quickly use the original four buttons from left to right so all remain illuminated."
+        "title": "Find the Hacker at the original desk stations",
+        "body": "Search the paper-marked desks on all three laboratory floors: two per floor, including the desk beside Deadshot. Take the Hacker; it replaces your PES. The companion Hacker guide photographs all six original desk stations.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+        "images": [
+          {
+            "src": "./assets/classic-batch6-moon-hacker-floor1-a.webp",
+            "alt": "First lab floor: paper-marked desk near the entrance from the MPD.",
+            "caption": "First lab floor: paper-marked desk near the entrance from the MPD. Original BO1 landmark from a modified solo demonstration.",
+            "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=2443738562",
+            "credit": "Logan / Activision — BO1, modified solo demonstration"
+          },
+          {
+            "src": "./assets/classic-batch6-moon-hacker-floor2-a.webp",
+            "alt": "Middle lab floor: paper-marked desk at the top of the lower stairs.",
+            "caption": "Middle lab floor: paper-marked desk at the top of the lower stairs. Original BO1 landmark from a modified solo demonstration.",
+            "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=2443738562",
+            "credit": "Logan / Activision — BO1, modified solo demonstration"
+          },
+          {
+            "src": "./assets/classic-batch6-moon-hacker-floor3-a.webp",
+            "alt": "Top lab floor: paper-marked desk and chair immediately beside Deadshot.",
+            "caption": "Top lab floor: paper-marked desk and chair immediately beside Deadshot. Original BO1 landmark from a modified solo demonstration.",
+            "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=2443738562",
+            "credit": "Logan / Activision — BO1, modified solo demonstration"
+          }
+        ]
       },
       {
-        "title": "Let Excavator Pi breach Tunnel 6",
-        "body": "Advance rounds until the station announces the excavator approaching Tunnel 6. Let it finish cutting through the tunnel; stopping it early prevents the sphere from appearing. Then take the Hacker to the lunar spawn and hack the control panel for that excavator to retract it. Use a teammate with a PES as protection if needed, and avoid spending too long without oxygen."
+        "title": "Hack one small wall button for 500 points",
+        "body": "On the middle lab floor, equip the Hacker and hack the leftmost of the four small wall buttons. Have teammates locate the green panels while you work.",
+        "original": true,
+        "researchSource": "https://www.callofdutyzombies.com/easteregg/guides/call_of_duty_black_ops_zombies/453_main-easter-eggs/moon/hacking-the-buttons-r31/",
+        "images": [
+          {
+            "src": "./assets/classic-batch6-moon-lab-buttons.webp",
+            "alt": "The four small quest buttons on the middle lab floor.",
+            "caption": "The four small quest buttons on the middle lab floor. Original BO1 landmark from a modified solo demonstration.",
+            "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=2443738562",
+            "credit": "Logan / Activision — BO1, modified solo demonstration"
+          }
+        ]
       },
       {
-        "title": "Move the sphere to the satellite dish",
-        "body": "Find the stone sphere in Tunnel 6. Knife or shoot it and follow each movement toward spawn. Continue nudging it until it sits high on the satellite dish outside the starting room. Equip the Wave Gun in its combined two-handed mode and shoot the sphere on the dish. It drops toward Tunnel 11."
+        "title": "Hack four green access panels",
+        "body": "Search all three lab floors and hack the four panels currently glowing green. The photographs show panel positions. Finish within the active timer; if it fails, restart at the small wall button.",
+        "original": true,
+        "researchSource": "https://www.callofdutyzombies.com/easteregg/guides/call_of_duty_black_ops_zombies/453_main-easter-eggs/moon/hacking-the-buttons-r31/",
+        "images": [
+          {
+            "src": "./assets/classic-batch6-moon-panels-floor1.webp",
+            "alt": "Bottom laboratory floor: circled quest access panels.",
+            "caption": "Bottom laboratory floor: circled quest access panels. Original BO1 landmark from a modified solo demonstration.",
+            "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=2443738562",
+            "credit": "Logan / Activision — BO1, modified solo demonstration"
+          },
+          {
+            "src": "./assets/classic-batch6-moon-panels-floor2.webp",
+            "alt": "Middle laboratory floor: circled quest access panels.",
+            "caption": "Middle laboratory floor: circled quest access panels. Original BO1 landmark from a modified solo demonstration.",
+            "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=2443738562",
+            "credit": "Logan / Activision — BO1, modified solo demonstration"
+          },
+          {
+            "src": "./assets/classic-batch6-moon-panels-floor3.webp",
+            "alt": "Top laboratory floor: circled quest access panels.",
+            "caption": "Top laboratory floor: circled quest access panels. Original BO1 landmark from a modified solo demonstration.",
+            "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=2443738562",
+            "credit": "Logan / Activision — BO1, modified solo demonstration"
+          }
+        ],
+        "tip": "The dedicated walkthrough specifies 60 seconds. This batch does not measure that timer or certify a script value."
       },
       {
-        "title": "Move the sphere into the pyramid",
-        "body": "Follow the sphere through Tunnel 11, shooting or knifing it at each stop. Check the ceiling/raised ledges when it disappears from floor level. Guide it to the MPD, where it locks into the front panel and raises one soul canister. Kill 25 zombies close to that canister until it is full, then use the lever beside the pyramid. Samantha is revealed and Death Machines are awarded.",
-        "tip": "This completes Cryogenic Slumber Party and is the stopping point for a BO1 Solo game."
+        "title": "Press all four original buttons quickly",
+        "body": "Return to the four small middle-floor buttons. Interact with them in quick succession from left to right until all stay lit and the success cue sounds. One player can do this; four simultaneous players are unnecessary.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+        "images": [
+          {
+            "src": "./assets/classic-batch6-moon-lab-buttons.webp",
+            "alt": "The four small quest buttons on the middle lab floor.",
+            "caption": "The four small quest buttons on the middle lab floor. Original BO1 landmark from a modified solo demonstration.",
+            "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=2443738562",
+            "credit": "Logan / Activision — BO1, modified solo demonstration"
+          }
+        ]
       },
       {
-        "title": "Bring the plates from Area 51",
-        "body": "For the co-op continuation, teleport to Area 51 together. Throw a grenade at the metal plates/tiles resting on the shelving outside the fence to the right of the teleporter. Once they fall, throw a Gersh Device nearby to pull them onto the teleporter. Return to Moon with the plates. They land near Quick Revive; throw a QED at them to move them onto the adjacent computer apparatus."
+        "title": "Allow Pi to cut Tunnel 6",
+        "body": "Wait for the Tunnel 6 excavation announcement. Let Pi finish breaching that tunnel. Then hack its active console in the Receiving Bay to retract it. Tunnel 6 stays without oxygen after retraction.",
+        "original": true,
+        "researchSource": "https://www.callofdutyzombies.com/easteregg/guides/call_of_duty_black_ops_zombies/453_main-easter-eggs/moon/excavating-tunnel-6-r32/",
+        "images": [
+          {
+            "src": "./assets/classic-batch6-moon-excavator-console.webp",
+            "alt": "Hacking an excavator console inside the Receiving Bay.",
+            "caption": "Hacking an excavator console inside the Receiving Bay. Original BO1 landmark from a modified solo demonstration.",
+            "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=2443738562",
+            "credit": "Logan / Activision — BO1, modified solo demonstration"
+          }
+        ],
+        "tip": "Excavator selection is random; no round is guaranteed. Keeping another tunnel open helps the Hacker carrier return without crossing a breached tunnel."
       },
       {
-        "title": "Connect the lead cable",
-        "body": "Find the long curved silver S-shaped lead in or near the labs. Check shelves/desks where the Hacker can spawn, the floor beside the wall panels/stairs, and the crates immediately outside the lab exit toward the teleporter. It can be picked up ahead of time. Attach it between the spawn computer and the plates. Richtofen then inserts his Vril Device into the apparatus."
+        "title": "Follow the sphere through Tunnel 6",
+        "body": "Find the sphere near the M16 end of Tunnel 6. Knife or shoot it whenever it stops. Follow it toward spawn, opening its route, until it floats onto the satellite dish above the Receiving Bay.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+        "images": [
+          {
+            "src": "./assets/classic-batch6-moon-sphere-tunnel6.webp",
+            "alt": "The sphere inside Tunnel 6 after its breach.",
+            "caption": "The sphere inside Tunnel 6 after its breach. Original BO1 landmark from a modified solo demonstration.",
+            "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=2443738562",
+            "credit": "Logan / Activision — BO1, modified solo demonstration"
+          },
+          {
+            "src": "./assets/classic-batch6-moon-sphere-dish.webp",
+            "alt": "Sphere high above spawn on the satellite dish.",
+            "caption": "Sphere high above spawn on the satellite dish. Original BO1 landmark from a modified solo demonstration.",
+            "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=2443738562",
+            "credit": "Logan / Activision — BO1, modified solo demonstration"
+          }
+        ]
       },
       {
-        "title": "Charge the Vril Device",
-        "body": "Richtofen repeatedly interacts with the spawn computer to continue his exchange with Maxis. Let the dialogue complete and keep using it when prompted until the monitor turns green. Retrieve the charged Vril Device from the apparatus; a different player cannot perform Richtofen's item placement."
+        "title": "Shoot the satellite dish with the combined Wave Gun",
+        "body": "Combine the Zap Guns using your weapon-mode control: left D-pad on controller, normally 5 on PC. Shoot the sphere on the dish with the combined Wave Gun. It moves toward Tunnel 11; the base weapon is sufficient.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+        "images": [
+          {
+            "src": "./assets/classic-batch6-moon-sphere-dish.webp",
+            "alt": "Sphere high above spawn on the satellite dish.",
+            "caption": "Sphere high above spawn on the satellite dish. Original BO1 landmark from a modified solo demonstration.",
+            "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=2443738562",
+            "credit": "Logan / Activision — BO1, modified solo demonstration"
+          }
+        ]
       },
       {
-        "title": "Fill all four MPD canisters",
-        "body": "Return to the pyramid, where all four corner canisters are exposed. Kill zombies close to each until every canister is full: 25 souls per canister, 100 total for this stage. Spread the team around the corners or deliberately feed one at a time so kills do not all accumulate on a canister already finished. Once all four are full, have Richtofen place the charged Device in the MPD's front receptacle. The soul exchange occurs; Richtofen receives permanent perks at this stage."
+        "title": "Free the overhead Tunnel 11 stop",
+        "body": "Follow the sphere through Tunnel 11. At its awkward overhead stop near the Semtex/Stamin-Up section, use Semtex or the Ray Gun’s explosive splash to dislodge it. Continue shooting or knifing each stop until it enters the MPD’s front disc.",
+        "original": true,
+        "researchSource": "https://www.callofdutyzombies.com/easteregg/guides/call_of_duty_black_ops_zombies/453_main-easter-eggs/moon/the-black-egg-r33/",
+        "images": [
+          {
+            "src": "./assets/classic-batch6-moon-sphere-tunnel11.webp",
+            "alt": "The sphere’s awkward overhead stop in Tunnel 11, circled by the creator.",
+            "caption": "The sphere’s awkward overhead stop in Tunnel 11, circled by the creator. Original BO1 landmark from a modified solo demonstration.",
+            "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=2443738562",
+            "credit": "Logan / Activision — BO1, modified solo demonstration"
+          }
+        ]
       },
       {
-        "title": "Send the sphere to the computers",
-        "body": "Throw a QED at the sphere/receptacle on the front of the MPD. A correct throw moves the sphere outside to the Samantha Says computers. Walk there and visually confirm its position before using your Gersh Device."
+        "title": "Fill the first canister, then use the wall lever",
+        "body": "Kill zombies close to the raised front-right MPD canister until it is full and the completion cue sounds. The documented count is 25. Pull the wall lever beside it to reveal Samantha and receive the timed Death Machines.",
+        "original": true,
+        "researchSource": "https://www.callofdutyzombies.com/easteregg/guides/call_of_duty_black_ops_zombies/453_main-easter-eggs/moon/samanthas-reveal-r34/",
+        "images": [
+          {
+            "src": "./assets/classic-batch6-moon-first-canister.webp",
+            "alt": "The first soul canister beside the MPD.",
+            "caption": "The first soul canister beside the MPD. Original BO1 landmark from a modified solo demonstration.",
+            "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=2443738562",
+            "credit": "Logan / Activision — BO1, modified solo demonstration"
+          },
+          {
+            "src": "./assets/classic-batch6-moon-mpd-switch.webp",
+            "alt": "The wall lever beside the first canister, used for Samantha’s reveal.",
+            "caption": "The wall lever beside the first canister, used for Samantha’s reveal. Original BO1 landmark from a modified solo demonstration.",
+            "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=2443738562",
+            "credit": "Logan / Activision — BO1, modified solo demonstration"
+          }
+        ],
+        "tip": "Cryogenic Slumber Party is complete here. This is the unmodified BO1 Solo stopping point; QEDs, Gershes and previous quests are for the continuation."
       },
       {
-        "title": "Complete three more Samantha Says games",
-        "body": "Return to the four outdoor computer screens. Complete three additional rounds/games by watching and repeating each generated color sequence. Keep count of successful games and listen for the confirmation. Save a slow zombie and have a teammate protect the player entering sequences."
+        "title": "Knock down the Area 51 plates",
+        "body": "For the co-op continuation, take the whole surviving team to the exterior lunar teleporter, then Area 51. From its pad, face the shelving beyond the right fence. Throw a grenade to knock the two hexagonal plates down.",
+        "original": true,
+        "researchSource": "https://www.callofdutyzombies.com/easteregg/guides/call_of_duty_black_ops_zombies/453_main-easter-eggs/moon/the-casimir-plates-r35/",
+        "images": [
+          {
+            "src": "./assets/classic-batch6-moon-area51-plates.webp",
+            "alt": "Two hexagonal plates on the shelving beyond Area 51’s fence.",
+            "caption": "Two hexagonal plates on the shelving beyond Area 51’s fence. Original BO1 landmark from a modified solo demonstration.",
+            "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=2443738562",
+            "credit": "Logan / Activision — BO1, modified solo demonstration"
+          }
+        ]
       },
       {
-        "title": "Launch the rockets",
-        "body": "Throw a Gersh Device beside the sphere at the outdoor computers so the portal takes it in. Wait through the missile launch and Earth destruction sequence. The full quest awards Big Bang Theory and permanent perks to the rest of the team. Keep playing if desired; the quest itself does not force a game-over screen."
+        "title": "Pull the fallen plates onto the teleporter",
+        "body": "Throw a Gersh Device so it lands beside the fallen plates. Confirm that both appear on the teleporter pad. Get everyone onto the pad and return to Moon with them.",
+        "original": true,
+        "researchSource": "https://www.callofdutyzombies.com/easteregg/guides/call_of_duty_black_ops_zombies/453_main-easter-eggs/moon/the-casimir-plates-r35/",
+        "images": [
+          {
+            "src": "./assets/classic-batch6-moon-plates-teleporter.webp",
+            "alt": "The plates on the Area 51 teleporter after the Gersh throw.",
+            "caption": "The plates on the Area 51 teleporter after the Gersh throw. Original BO1 landmark from a modified solo demonstration.",
+            "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=2443738562",
+            "credit": "Logan / Activision — BO1, modified solo demonstration"
+          }
+        ]
+      },
+      {
+        "title": "QED the plates beside Quick Revive",
+        "body": "Back in the Receiving Bay, locate the plates on the floor beside Quick Revive. Throw a QED directly beside them to move them onto the corner computer apparatus.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+        "images": [
+          {
+            "src": "./assets/classic-batch6-moon-charging-station.webp",
+            "alt": "Charging-station computer, plates and curved conduit in the Receiving Bay.",
+            "caption": "Charging-station computer, plates and curved conduit in the Receiving Bay. Original BO1 landmark from a modified solo demonstration.",
+            "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=2443738562",
+            "credit": "Logan / Activision — BO1, modified solo demonstration"
+          }
+        ]
+      },
+      {
+        "title": "Find and fit the curved lead",
+        "body": "Search the laboratory desks, beneath consoles, the stair landings, and crates immediately outside the lab toward Mule Kick/teleporter; also check the Biodome doorway. Pick up the curved silver conduit. Fit it between the Receiving Bay computer and plate mounts.",
+        "original": true,
+        "researchSource": "https://www.callofdutyzombies.com/easteregg/guides/call_of_duty_black_ops_zombies/453_main-easter-eggs/moon/charging-the-golden-rod-r36/",
+        "images": [
+          {
+            "src": "./assets/classic-batch6-moon-wire-example.webp",
+            "alt": "One original-BO1 conduit candidate: on the floor beneath a laboratory console. This is not the complete spawn list.",
+            "caption": "One original-BO1 conduit candidate: on the floor beneath a laboratory console. This is not the complete spawn list. Original BO1 landmark from a modified solo demonstration.",
+            "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=2443738562",
+            "credit": "Logan / Activision — BO1, modified solo demonstration"
+          },
+          {
+            "src": "./assets/classic-batch6-moon-charging-station.webp",
+            "alt": "Charging-station computer, plates and curved conduit in the Receiving Bay.",
+            "caption": "Charging-station computer, plates and curved conduit in the Receiving Bay. Original BO1 landmark from a modified solo demonstration.",
+            "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=2443738562",
+            "credit": "Logan / Activision — BO1, modified solo demonstration"
+          }
+        ],
+        "tip": "The photo is one demonstrated original-map candidate. The complete random-spawn list has not been certified in this audit. The linked 2011 wire tour is retained in the source list for the remaining archival check."
+      },
+      {
+        "title": "Have Richtofen charge the Vril Device",
+        "body": "Richtofen places his constructed Vril Device between the plates. Keep interacting with the computer through his exchange with Maxis. When the dialogue finishes and the screen stays green, retrieve the glowing charged Device.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+        "images": [
+          {
+            "src": "./assets/classic-batch6-moon-green-computer.webp",
+            "alt": "Charging-station screen after turning green.",
+            "caption": "Charging-station screen after turning green. Original BO1 landmark from a modified solo demonstration.",
+            "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=2443738562",
+            "credit": "Logan / Activision — BO1, modified solo demonstration"
+          },
+          {
+            "src": "./assets/classic-batch6-moon-charged-rod.webp",
+            "alt": "Charged Vril Device between the plates.",
+            "caption": "Charged Vril Device between the plates. Original BO1 landmark from a modified solo demonstration.",
+            "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=2443738562",
+            "credit": "Logan / Activision — BO1, modified solo demonstration"
+          }
+        ]
+      },
+      {
+        "title": "Fill all four corner canisters",
+        "body": "At the MPD, kill zombies beside each of the four exposed canisters until all are full. The documented count is 25 each, 100 for this stage. Follow their fill/cue feedback; kills far away do not count.",
+        "original": true,
+        "researchSource": "https://www.callofdutyzombies.com/easteregg/guides/call_of_duty_black_ops_zombies/453_main-easter-eggs/moon/richtofens-grand-scheme-r37/",
+        "images": [
+          {
+            "src": "./assets/classic-batch6-moon-four-canisters.webp",
+            "alt": "MPD stage with the four corner canisters exposed.",
+            "caption": "MPD stage with the four corner canisters exposed. Original BO1 landmark from a modified solo demonstration.",
+            "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=2443738562",
+            "credit": "Logan / Activision — BO1, modified solo demonstration"
+          }
+        ],
+        "tip": "These are walkthrough counts, not independently tested script values. No extra lever pull is instructed for this stage."
+      },
+      {
+        "title": "Insert the charged Device into the front disc",
+        "body": "Richtofen interacts with the MPD’s circular front receptacle to insert the charged Device. Wait for the soul exchange. The Richtofen player receives permanent perks at this stage.",
+        "original": true,
+        "researchSource": "https://www.callofdutyzombies.com/easteregg/guides/call_of_duty_black_ops_zombies/453_main-easter-eggs/moon/richtofens-grand-scheme-r37/",
+        "images": [
+          {
+            "src": "./assets/classic-batch6-moon-mpd-front.webp",
+            "alt": "The circular front receptacle of the MPD.",
+            "caption": "The circular front receptacle of the MPD. Original BO1 landmark from a modified solo demonstration.",
+            "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=2443738562",
+            "credit": "Logan / Activision — BO1, modified solo demonstration"
+          }
+        ]
+      },
+      {
+        "title": "QED the sphere out of the MPD",
+        "body": "Throw a QED at the sphere/front receptacle. Confirm that the sphere moves to the Samantha Says computers outside the Receiving Bay.",
+        "original": true,
+        "researchSource": "https://www.callofdutyzombies.com/easteregg/guides/call_of_duty_black_ops_zombies/453_main-easter-eggs/moon/arming-the-missiles-r38/",
+        "images": [
+          {
+            "src": "./assets/classic-batch6-moon-sphere-computers.webp",
+            "alt": "The sphere beside the outdoor computers for the final stage.",
+            "caption": "The sphere beside the outdoor computers for the final stage. Original BO1 landmark from a modified solo demonstration.",
+            "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=2443738562",
+            "credit": "Logan / Activision — BO1, modified solo demonstration"
+          }
+        ]
+      },
+      {
+        "title": "Complete three final memory games",
+        "body": "At the four outdoor computers, repeat each generated sequence. Complete three successful games; each raises a rocket. Use the same left-to-right red, green, blue, yellow screen layout.",
+        "original": true,
+        "researchSource": "https://www.callofdutyzombies.com/easteregg/guides/call_of_duty_black_ops_zombies/453_main-easter-eggs/moon/arming-the-missiles-r38/",
+        "images": [
+          {
+            "src": "./assets/classic-batch6-moon-samantha-computers.webp",
+            "alt": "Four Samantha Says computers outside the Receiving Bay.",
+            "caption": "Four Samantha Says computers outside the Receiving Bay. Original BO1 landmark from a modified solo demonstration.",
+            "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=2443738562",
+            "credit": "Logan / Activision — BO1, modified solo demonstration"
+          },
+          {
+            "src": "./assets/classic-batch6-moon-rockets.webp",
+            "alt": "Three rockets above the lunar trench.",
+            "caption": "Three rockets above the lunar trench. Original BO1 landmark from a modified solo demonstration.",
+            "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=2443738562",
+            "credit": "Logan / Activision — BO1, modified solo demonstration"
+          }
+        ],
+        "tip": "This uses the QED-first order in CoDZ and the original BO1 player guide. Other guides swap those operations; this audit does not establish that the alternate order fails."
+      },
+      {
+        "title": "Gersh the sphere and watch the ending",
+        "body": "Throw a Gersh beside the sphere at the computers. Wait for Maxis’s countdown and the missiles. The team receives permanent perks. Big Bang Theory achievement availability depends on platform; the original PS3 version has no separate trophy for this ending.",
+        "original": true,
+        "researchSource": "https://www.callofdutyzombies.com/easteregg/guides/call_of_duty_black_ops_zombies/453_main-easter-eggs/moon/the-big-bang-theory-r39/",
+        "images": [
+          {
+            "src": "./assets/classic-batch6-moon-earth-after.webp",
+            "alt": "Earth after the missile sequence in the demonstration.",
+            "caption": "Earth after the missile sequence in the demonstration. Original BO1 landmark from a modified solo demonstration.",
+            "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=2443738562",
+            "credit": "Logan / Activision — BO1, modified solo demonstration"
+          }
+        ]
       }
     ],
     "sources": [
       {
-        "title": "r/CODZombies — Moon quest and original/remaster differences",
+        "title": "r/CODZombies — Moon community guide (edition differences checked)",
         "url": "https://www.reddit.com/r/CODZombies/wiki/moon/"
       },
       {
-        "title": "GameFAQs — original Moon lead-wire locations",
-        "url": "https://gamefaqs.gamespot.com/xbox360/960189-call-of-duty-black-ops/answers/297082-how-do-i-find-the-quotsquot-shaped-tube-on-moon"
+        "title": "CoDZ player walkthrough — says",
+        "url": "https://www.callofdutyzombies.com/easteregg/guides/call_of_duty_black_ops_zombies/453_main-easter-eggs/moon/samantha-says-r21/"
       },
       {
-        "title": "r/CODZombies — BO1 prior-quest requirements",
-        "url": "https://www.reddit.com/r/CODZombies/comments/1ih8zf7/"
+        "title": "CoDZ player walkthrough — buttons",
+        "url": "https://www.callofdutyzombies.com/easteregg/guides/call_of_duty_black_ops_zombies/453_main-easter-eggs/moon/hacking-the-buttons-r31/"
       },
       {
-        "title": "CoDZ — four-canister soul exchange",
+        "title": "CoDZ player walkthrough — pi",
+        "url": "https://www.callofdutyzombies.com/easteregg/guides/call_of_duty_black_ops_zombies/453_main-easter-eggs/moon/excavating-tunnel-6-r32/"
+      },
+      {
+        "title": "CoDZ player walkthrough — sphere",
+        "url": "https://www.callofdutyzombies.com/easteregg/guides/call_of_duty_black_ops_zombies/453_main-easter-eggs/moon/the-black-egg-r33/"
+      },
+      {
+        "title": "CoDZ player walkthrough — reveal",
+        "url": "https://www.callofdutyzombies.com/easteregg/guides/call_of_duty_black_ops_zombies/453_main-easter-eggs/moon/samanthas-reveal-r34/"
+      },
+      {
+        "title": "CoDZ player walkthrough — plates",
+        "url": "https://www.callofdutyzombies.com/easteregg/guides/call_of_duty_black_ops_zombies/453_main-easter-eggs/moon/the-casimir-plates-r35/"
+      },
+      {
+        "title": "CoDZ player walkthrough — charge",
+        "url": "https://www.callofdutyzombies.com/easteregg/guides/call_of_duty_black_ops_zombies/453_main-easter-eggs/moon/charging-the-golden-rod-r36/"
+      },
+      {
+        "title": "CoDZ player walkthrough — swap",
         "url": "https://www.callofdutyzombies.com/easteregg/guides/call_of_duty_black_ops_zombies/453_main-easter-eggs/moon/richtofens-grand-scheme-r37/"
       },
       {
-        "title": "CoDZ — QED, three games, Gersh order",
+        "title": "CoDZ player walkthrough — missiles",
         "url": "https://www.callofdutyzombies.com/easteregg/guides/call_of_duty_black_ops_zombies/453_main-easter-eggs/moon/arming-the-missiles-r38/"
+      },
+      {
+        "title": "CoDZ player walkthrough — end",
+        "url": "https://www.callofdutyzombies.com/easteregg/guides/call_of_duty_black_ops_zombies/453_main-easter-eggs/moon/the-big-bang-theory-r39/"
+      },
+      {
+        "title": "Logan — original BO1 Moon player guide; photo demonstrations use modified solo files",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2443738562"
+      },
+      {
+        "title": "Original BO1 PS3 players — online profile credit and constructed Vril Device",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1m00gxy/issue_with_moon_easter_egg_on_bo1_ps3/"
+      },
+      {
+        "title": "BO1 players — prior quests, two-player minimum and solo stopping point",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1ih8zf7/"
+      },
+      {
+        "title": "PS3 players — full quest works; original PS3 has no Big Bang Theory trophy",
+        "url": "https://www.playstationtrophies.org/forum/topic/115809-can-the-moon-easter-egg-be-completed-without-previous-2/"
+      },
+      {
+        "title": "MrWilliamThor — original BO1 wire-spawn tour (2011)",
+        "url": "https://www.youtube.com/watch?v=l1hya5Gbl3Y"
       }
     ],
-    "checked": "2026-10-16"
+    "checked": "2026-10-16",
+    "relatedGuideIds": [
+      "bo1-moon-hacker-locations-and-uses",
+      "bo1-moon-community-moon-map-walkthrough-pack-a-punch",
+      "bo1-moon-community-moon-special-weapons-wonder-weapon",
+      "bo1-moon-community-moon-special-weapons-special-grenades"
+    ],
+    "sourceQuote": null
   },
   {
     "id": "bo2-tranzit-tower-of-babble-maxis",

@@ -678,33 +678,69 @@
     "category": "music",
     "difficulty": "Easy",
     "players": "1–4 players",
-    "summary": "Activate the hidden song by collecting Die Maschine's three cassettes.",
+    "summary": "Find all three cassettes to play Kevin Sherwood's Alone, with vocals by Clark S. Nova.",
     "requirements": [
       "Access to Nacht's Living Room and the underground facility"
     ],
-    "reward": "Alone plays in the match",
+    "reward": "Alone plays once in the match; collecting all three also unlocks it in the Music Player.",
     "steps": [
       {
-        "title": "Collect the Living Room cassette",
-        "body": "Interact with the cassette on the toppled shelf in Nacht's Living Room."
+        "title": "Living Room: overturned fridge",
+        "body": "In Nacht's Living Room, face the sealed D.I.E. door. Look in the overturned refrigerator to its left and interact with the gold cassette on its shelf.",
+        "researchSource": "https://www.codzombiesguides.com/side-quests/black-ops-cold-war/die-maschine/alone/",
+        "images": [
+          {
+            "src": "./assets/batch5-106-die-maschine-alone-first-caset-tape.webp",
+            "alt": "The cassette is inside the overturned refrigerator, left of the sealed D.I.E. room.",
+            "caption": "The cassette is inside the overturned refrigerator, left of the sealed D.I.E. room.",
+            "credit": "PlagueFPS / COD:ZG gameplay screenshot; game © Activision / Treyarch",
+            "source": "https://www.codzombiesguides.com/side-quests/black-ops-cold-war/die-maschine/alone/"
+          }
+        ]
       },
       {
-        "title": "Collect the facility cassettes",
-        "body": "Interact with the tape on the Medical Bay shelf and the tape on the Particle Accelerator machinery. The song begins after the third pickup.",
-        "tip": "These tapes are collectibles activated by Interact, not objects you need to shoot."
+        "title": "Medical Bay: bottom shelf",
+        "body": "Go upstairs to the room with Vogel's computer above Speed Cola. Interact with the cassette on the bottom of the wooden shelving unit.",
+        "researchSource": "https://www.codzombiesguides.com/side-quests/black-ops-cold-war/die-maschine/alone/",
+        "images": [
+          {
+            "src": "./assets/batch5-107-die-maschine-alone-second-caset-tape.webp",
+            "alt": "Medical Bay's cassette sits on the bottom wooden shelf upstairs.",
+            "caption": "Medical Bay's cassette sits on the bottom wooden shelf upstairs.",
+            "credit": "PlagueFPS / COD:ZG gameplay screenshot; game © Activision / Treyarch",
+            "source": "https://www.codzombiesguides.com/side-quests/black-ops-cold-war/die-maschine/alone/"
+          }
+        ]
+      },
+      {
+        "title": "Particle Accelerator: bloody terminal",
+        "body": "On the lower level, check the machinery to the right of the Aetherscope crafting bench. Interact with the cassette on the corner of the bloody terminal. Picking up the third tape starts the song.",
+        "researchSource": "https://www.codzombiesguides.com/side-quests/black-ops-cold-war/die-maschine/alone/",
+        "images": [
+          {
+            "src": "./assets/batch5-108-die-maschine-alone-third-caset-tape.webp",
+            "alt": "The third cassette is on the corner of this lower-level terminal.",
+            "caption": "The third cassette is on the corner of this lower-level terminal.",
+            "credit": "PlagueFPS / COD:ZG gameplay screenshot; game © Activision / Treyarch",
+            "source": "https://www.codzombiesguides.com/side-quests/black-ops-cold-war/die-maschine/alone/"
+          }
+        ]
       }
     ],
     "sources": [
       {
-        "title": "r/CODZombies: Die Maschine music cassette locations",
-        "url": "https://www.reddit.com/r/CODZombies/comments/jtfo4h/die_maschine_easter_egg_hunt_general_map/"
+        "title": "COD:ZG / PlagueFPS — illustrated cassette locations",
+        "url": "https://www.codzombiesguides.com/side-quests/black-ops-cold-war/die-maschine/alone/"
       },
       {
-        "title": "r/CODZombies: Die Maschine complete map breakdown",
-        "url": "https://www.reddit.com/r/CODZombies/wiki/die-maschine/"
+        "title": "JokerAlex21 — once-per-match song and Music Player unlock",
+        "url": "https://www.codzombieguides.com/die-maschine"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-16",
+    "relatedGuideIds": [
+      "coldwar-die-maschine-main"
+    ]
   },
   {
     "id": "coldwar-die-maschine-monster-hand",
@@ -715,37 +751,81 @@
     "players": "1–4 players",
     "summary": "Use the giant hand in Medical Bay's inaccessible corridor to upgrade the held gun's rarity.",
     "requirements": [
+      "Standard Die Maschine, online Solo or co-op",
       "Power and Pack-a-Punch unlocked",
-      "The bullet weapon to upgrade must be Pack-a-Punched; enter the Dark Aether with it",
-      "A teammate watching your back is useful"
+      "Keep the bullet weapon you want upgraded Pack-a-Punched and equipped in the Dark Aether"
     ],
     "reward": "The held weapon becomes Legendary / orange rarity",
     "steps": [
       {
-        "title": "Light the corridor's four switches",
-        "body": "Enter the Dark Aether and go behind Speed Cola in Medical Bay, facing the inaccessible corridor. Shoot the four red buttons down that corridor until a green light appears above each corresponding door."
+        "title": "Turn four red switches green",
+        "body": "In the Dark Aether, go to the zombie window behind Speed Cola in Medical Bay. Use your Pack-a-Punched gun to shoot the four red buttons beside the corridor doors until their lights turn green.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/jvioxc/",
+        "images": [
+          {
+            "src": "./assets/batch5-kennedy-54.webp",
+            "alt": "Look down the inaccessible corridor behind Speed Cola.",
+            "caption": "Look down the inaccessible corridor behind Speed Cola.",
+            "credit": "mmmrkennedy gameplay screenshot; game © Activision / Treyarch",
+            "source": "https://mmmrkennedy.com/games/BO_CW/die_maschine/die_maschine_guide"
+          },
+          {
+            "src": "./assets/batch5-kennedy-53.webp",
+            "alt": "Shoot each red switch with a Pack-a-Punched gun.",
+            "caption": "Shoot each red switch with a Pack-a-Punched gun.",
+            "credit": "mmmrkennedy gameplay screenshot; game © Activision / Treyarch",
+            "source": "https://mmmrkennedy.com/games/BO_CW/die_maschine/die_maschine_guide"
+          }
+        ]
       },
       {
-        "title": "Time hand swipes against the corridor zombies",
-        "body": "Once all four are lit, shoot the red button beside the first green-lit door to trigger the giant hand. Time repeated swipes so it kills the zombies passing that door. Accumulate 15 hand kills.",
-        "tip": "If your Dark Aether visit ends first, advance and enter again to continue. Keep your actual weapon to upgrade selected for completion."
+        "title": "Trigger the hand when zombies pass",
+        "body": "Shoot the switch to the right of the first green-lit door on the left. The hand sweeps the corridor and kills passing zombies. Let its green light return before triggering it again; time each sweep for a group.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/jvioxc/",
+        "tip": "Keep the gun you want upgraded in your hands. If the Dark Aether visit ends, re-enter and check the door lights before continuing.",
+        "images": [
+          {
+            "src": "./assets/batch5-kennedy-55.webp",
+            "alt": "This first door on the left glows green when ready.",
+            "caption": "This first door on the left glows green when ready.",
+            "credit": "mmmrkennedy gameplay screenshot; game © Activision / Treyarch",
+            "source": "https://mmmrkennedy.com/games/BO_CW/die_maschine/die_maschine_guide"
+          },
+          {
+            "src": "./assets/batch5-kennedy-56.webp",
+            "alt": "The red button beside that door activates the hand.",
+            "caption": "The red button beside that door activates the hand.",
+            "credit": "mmmrkennedy gameplay screenshot; game © Activision / Treyarch",
+            "source": "https://mmmrkennedy.com/games/BO_CW/die_maschine/die_maschine_guide"
+          }
+        ]
       },
       {
-        "title": "Receive the rarity upgrade",
-        "body": "At the required hand-kill total, a purple energy orb flies to you and makes the weapon in your hands Legendary. This changes rarity; it is separate from the weapon's Pack-a-Punch tier."
+        "title": "Watch for the purple orb",
+        "body": "Continue getting hand kills until a purple orb reaches you and the held gun's rarity turns orange / Legendary. This changes rarity separately from Pack-a-Punch level.",
+        "researchSource": "https://mmmrkennedy.com/games/BO_CW/die_maschine/die_maschine_guide",
+        "tip": "Use the orb and orange rarity as the completion cue."
       }
     ],
     "sources": [
       {
-        "title": "Gamepur: four switches and fifteen hand kills",
-        "url": "https://www.gamepur.com/guides/how-to-do-the-giant-hand-easter-egg-in-die-maschine-call-of-duty-black-ops-cold-war-zombies"
+        "title": "mmmrkennedy — illustrated switches, hand and reward",
+        "url": "https://mmmrkennedy.com/games/BO_CW/die_maschine/die_maschine_guide"
       },
       {
-        "title": "r/CODZombies: Dark Aether hand discovery",
-        "url": "https://www.reddit.com/r/CODZombies/comments/jtfo4h/die_maschine_easter_egg_hunt_general_map/"
+        "title": "JokerAlex21 — hand cooldown lights and upgrade",
+        "url": "https://www.codzombieguides.com/die-maschine"
+      },
+      {
+        "title": "u/GroovyRice — firsthand switch and hand cooldown discovery",
+        "url": "https://www.reddit.com/r/CODZombies/comments/jvioxc/"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-16",
+    "relatedGuideIds": [
+      "coldwar-die-maschine-main",
+      "coldwar-die-maschine-weapons-upgrades"
+    ]
   },
   {
     "id": "coldwar-die-maschine-distant-monster",
@@ -754,30 +834,62 @@
     "category": "side",
     "difficulty": "Medium",
     "players": "1–4 players",
-    "summary": "A high-round atmospheric sighting in the Dark Aether, with no item reward.",
+    "summary": "Watch the forest beyond Pond for the distant walking monster during a Dark Aether visit.",
     "requirements": [
-      "Reach round 40 or later with Power and Pack-a-Punch active",
-      "An available Dark Aether anomaly"
+      "Power, Pack-a-Punch and an available Dark Aether anomaly",
+      "Try a high-round visit; reports commonly place the sighting around round 40 or later, but the exact trigger is not established here"
     ],
     "reward": "Visual monster sighting outside the map",
     "steps": [
       {
-        "title": "Enter the Dark Aether after round 40",
-        "body": "Use an available anomaly and travel to Pond before the visit ends."
+        "title": "Visit Pond in the Dark Aether",
+        "body": "Use an available anomaly and head to Pond before the visit ends. Listen and watch for heavy footsteps and the ground shaking.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/k2qmbn/",
+        "images": [
+          {
+            "src": "./assets/batch5-kennedy-68.webp",
+            "alt": "Normal-world Pond landmark: use this area to find the forest sightline during a Dark Aether visit.",
+            "caption": "Normal-world Pond landmark: use this area to find the forest sightline during a Dark Aether visit.",
+            "credit": "mmmrkennedy gameplay screenshot; game © Activision / Treyarch",
+            "source": "https://mmmrkennedy.com/games/BO_CW/die_maschine/die_maschine_guide"
+          }
+        ]
       },
       {
-        "title": "Look beyond Quick Revive",
-        "body": "Face the outside boundary to the right of Quick Revive. Watch for the shaking ground and giant monster walking in the distance.",
-        "tip": "This is a scenery event, not a second boss or an additional story ending."
+        "title": "Watch the forest beyond Quick Revive",
+        "body": "Look beyond the map boundary to the right of Quick Revive. If the walking monster is active, watch it through the distant trees. An empty sightline does not establish that the event has been removed.",
+        "researchSource": "https://mmmrkennedy.com/games/BO_CW/die_maschine/die_maschine_guide",
+        "tip": "This is an atmospheric sighting. The separate conditional Max Ammo route keeps you underground during the footsteps instead.",
+        "images": [
+          {
+            "src": "./assets/batch5-kennedy-69.webp",
+            "alt": "Normal-world forest landmark only; this photo does not show the monster or prove a trigger round.",
+            "caption": "Normal-world forest landmark only; this photo does not show the monster or prove a trigger round.",
+            "credit": "mmmrkennedy gameplay screenshot; game © Activision / Treyarch",
+            "source": "https://mmmrkennedy.com/games/BO_CW/die_maschine/die_maschine_guide"
+          }
+        ]
       }
     ],
     "sources": [
       {
-        "title": "r/CODZombies: Die Maschine distant-monster trigger",
-        "url": "https://www.reddit.com/r/CODZombies/wiki/die-maschine/"
+        "title": "Firsthand r/CODZombies sighting and round corrections",
+        "url": "https://www.reddit.com/r/CODZombies/comments/k2qmbn/"
+      },
+      {
+        "title": "mmmrkennedy — sightline photos; reports round 42",
+        "url": "https://mmmrkennedy.com/games/BO_CW/die_maschine/die_maschine_guide"
+      },
+      {
+        "title": "JokerAlex21 — reports round 40+",
+        "url": "https://www.codzombieguides.com/die-maschine"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-16",
+    "relatedGuideIds": [
+      "coldwar-die-maschine-max-ammo",
+      "coldwar-die-maschine-main"
+    ]
   },
   {
     "id": "coldwar-firebase-z-lost-music",

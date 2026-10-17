@@ -3613,5 +3613,748 @@
     "checked": "2026-10-16",
     "id": "bo1-call-of-the-dead-avenged-sevenfold-poster",
     "mapId": "bo1-call-of-the-dead"
+  },
+  {
+    "id": "bo1-moon-hacker-locations-and-uses",
+    "mapId": "bo1-moon",
+    "title": "Hacker — six BO1 desk spawns & practical uses",
+    "summary": "Photographed original desk locations, door/box/ammo tricks, drop conversion, perk refunds, point sharing and excavator controls. Exact timers and disputed bonus counters remain qualified.",
+    "category": "weapon",
+    "difficulty": "Medium",
+    "players": "1–4; normally one carrier",
+    "requirements": [
+      "Original BO1 Moon; the device is free.",
+      "The Hacker and PES share an equipment slot. Preserve indoor oxygen and plan a short safe route through vacuum.",
+      "Hacking time varies by target. Speed Cola is reported to help; no exact timing multiplier is certified.",
+      "Desk photos are original BO1 geography from Logan’s modified solo demonstration; HUD ammunition is not a normal-game reference."
+    ],
+    "reward": "Access to the listed utility actions; hacking any valid object also satisfies One Small Hack for a Man.",
+    "steps": [
+      {
+        "title": "Choose the Hacker or the PES",
+        "body": "Take the Hacker from one of the six paper-marked laboratory desks. It replaces the PES; keep the labs and Receiving Bay pressurized. Aim at a hackable object and hold interact through the displayed progress.",
+        "original": true,
+        "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=2443738562",
+        "images": [
+          {
+            "src": "./assets/classic-batch6-moon-hacker-in-hand.webp",
+            "alt": "Hacker held in original BO1. This demonstrates the tool’s appearance, not a normal quest or ammunition state.",
+            "caption": "Hacker held in original BO1. This demonstrates the tool’s appearance, not a normal quest or ammunition state. Original BO1 landmark from a modified solo demonstration.",
+            "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=2443738562",
+            "credit": "Logan / Activision — BO1, modified solo demonstration"
+          }
+        ]
+      },
+      {
+        "title": "Desk pair 1: bottom laboratory floor",
+        "body": "From the MPD airlock, inspect the desk near the entrance and the desk beside the staircase going up. The yellow paper marks each candidate even when the Hacker is elsewhere.",
+        "original": true,
+        "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=2443738562",
+        "images": [
+          {
+            "src": "./assets/classic-batch6-moon-hacker-floor1-a.webp",
+            "alt": "First lab floor: paper-marked desk near the entrance from the MPD.",
+            "caption": "First lab floor: paper-marked desk near the entrance from the MPD. Original BO1 landmark from a modified solo demonstration.",
+            "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=2443738562",
+            "credit": "Logan / Activision — BO1, modified solo demonstration"
+          },
+          {
+            "src": "./assets/classic-batch6-moon-hacker-floor1-b.webp",
+            "alt": "First lab floor: paper-marked desk beside the stairs upward.",
+            "caption": "First lab floor: paper-marked desk beside the stairs upward. Original BO1 landmark from a modified solo demonstration.",
+            "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=2443738562",
+            "credit": "Logan / Activision — BO1, modified solo demonstration"
+          }
+        ]
+      },
+      {
+        "title": "Desk pair 2: middle laboratory floor",
+        "body": "Check the paper-marked desk just after climbing from the lower lab, then the desk beside the staircase toward Deadshot. These are desks in original BO1, not the remaster’s railing/box props.",
+        "original": true,
+        "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=2443738562",
+        "images": [
+          {
+            "src": "./assets/classic-batch6-moon-hacker-floor2-a.webp",
+            "alt": "Middle lab floor: paper-marked desk at the top of the lower stairs.",
+            "caption": "Middle lab floor: paper-marked desk at the top of the lower stairs. Original BO1 landmark from a modified solo demonstration.",
+            "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=2443738562",
+            "credit": "Logan / Activision — BO1, modified solo demonstration"
+          },
+          {
+            "src": "./assets/classic-batch6-moon-hacker-floor2-b.webp",
+            "alt": "Middle lab floor: paper-marked desk beside the stairs toward Deadshot.",
+            "caption": "Middle lab floor: paper-marked desk beside the stairs toward Deadshot. Original BO1 landmark from a modified solo demonstration.",
+            "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=2443738562",
+            "credit": "Logan / Activision — BO1, modified solo demonstration"
+          }
+        ]
+      },
+      {
+        "title": "Desk pair 3: top laboratory floor",
+        "body": "Check the desk and chair immediately beside Deadshot, then the desk near the Biodome exit. A teammate may already be carrying the Hacker; ask before repeating the search.",
+        "original": true,
+        "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=2443738562",
+        "images": [
+          {
+            "src": "./assets/classic-batch6-moon-hacker-floor3-a.webp",
+            "alt": "Top lab floor: paper-marked desk and chair immediately beside Deadshot.",
+            "caption": "Top lab floor: paper-marked desk and chair immediately beside Deadshot. Original BO1 landmark from a modified solo demonstration.",
+            "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=2443738562",
+            "credit": "Logan / Activision — BO1, modified solo demonstration"
+          },
+          {
+            "src": "./assets/classic-batch6-moon-hacker-floor3-b.webp",
+            "alt": "Top lab floor: paper-marked desk near the Biodome exit.",
+            "caption": "Top lab floor: paper-marked desk near the Biodome exit. Original BO1 landmark from a modified solo demonstration.",
+            "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=2443738562",
+            "credit": "Logan / Activision — BO1, modified solo demonstration"
+          }
+        ]
+      },
+      {
+        "title": "Open a door for 200 points",
+        "body": "Face a closed purchasable door and complete its hack. The opening costs 200 points. Door hacking takes much longer than most other actions, so arrange cover instead of trying it during a chase.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/iznzl4/"
+      },
+      {
+        "title": "Repair a barrier",
+        "body": "Hack a damaged zombie window to rebuild its boards and receive 100 points. Repeatedly farming the same window can incur a penalty; use another window rather than assuming unlimited free points.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/iznzl4/",
+        "tip": "Original reports disagree on whether the penalty begins at the third or a later same-round hack. No threshold is certified here."
+      },
+      {
+        "title": "Reroll a Mystery Box result",
+        "body": "Spend 950 on the box. While its unwanted weapon is floating, hack it for 600 points to generate a replacement result. Do not take the first gun if you intend to reroll it.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/iznzl4/"
+      },
+      {
+        "title": "Share the rerolled weapon and claim the refund",
+        "body": "Hack that replacement result again. You receive 950 points and the weapon becomes available to other players. Complete the hack before the pickup expires; then have the intended player take it.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/iznzl4/"
+      },
+      {
+        "title": "Summon a spin at an empty box site",
+        "body": "Hack the teddy-marked crates at an inactive Mystery Box site for 1,200 points to obtain one temporary spin. This can disable that site for later box moves/Fire Sales temporarily; do not assume a permanent or exact four-round lock.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=Jkah7JwhoaA"
+      },
+      {
+        "title": "Flip wall-weapon ammunition prices",
+        "body": "Hack a wall weapon for 3,000 points. Its regular and upgraded ammunition prices swap, making the matching Pack-a-Punched gun cheaper to refill. The outline flips upside down. Treat the change as lasting for this match, not as a reversible toggle.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/iznzl4/"
+      },
+      {
+        "title": "Convert an unwanted drop to Max Ammo",
+        "body": "Before collecting a power-up, hack it for 5,000 points to convert it to Max Ammo. Keep zombies away while you work. Reload before collecting the new ammunition drop.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/iznzl4/"
+      },
+      {
+        "title": "Convert a Max Ammo to Fire Sale",
+        "body": "Hacking a Max Ammo instead produces a Fire Sale for 5,000 points. Use this deliberately; it spends points and sacrifices that ammunition refill.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/iznzl4/"
+      },
+      {
+        "title": "Refund a perk",
+        "body": "Hack the machine for a perk you currently own. It removes that perk and refunds its purchase price. Refunding Mule Kick risks your third weapon. The action does not promise an additional permanent perk slot.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/iznzl4/"
+      },
+      {
+        "title": "Transfer 500 points to a teammate",
+        "body": "Aim at a teammate and complete the hack. 500 points leave your balance and go to that player. Keep still and arrange zombie cover during the interaction.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/iznzl4/"
+      },
+      {
+        "title": "Raise the Pack-a-Punch cage",
+        "body": "At Area 51, hack Pack-a-Punch to raise its protective gates temporarily. Place upgrading teammates inside first. The first such hack awards 1,000 points; this does not make normal upgrades free.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/iznzl4/"
+      },
+      {
+        "title": "Stop or retract an excavator",
+        "body": "When an excavator is active, hack its illuminated control console in the Receiving Bay to retract it and receive 1,000 points. Before a breach this saves the room; after a breach it clears the machinery but does not repair the atmosphere.",
+        "original": true,
+        "researchSource": "https://www.callofdutyzombies.com/topic/142296-hacker-discussion-all-known-effects/",
+        "images": [
+          {
+            "src": "./assets/classic-batch6-moon-excavator-console.webp",
+            "alt": "Hacking an excavator console inside the Receiving Bay.",
+            "caption": "Hacking an excavator console inside the Receiving Bay. Original BO1 landmark from a modified solo demonstration.",
+            "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=2443738562",
+            "credit": "Logan / Activision — BO1, modified solo demonstration"
+          }
+        ]
+      },
+      {
+        "title": "Keep the tool for the holding bonus",
+        "body": "Carry the Hacker across successive round changes to build its passive point bonus. Original reports describe 500-point increments up to 2,500. Swapping to a PES resets the build-up; do not depend on an exact extra Area 51 payout formula here.",
+        "original": true,
+        "researchSource": "https://www.callofdutyzombies.com/topic/142296-hacker-discussion-all-known-effects/",
+        "tip": "Bonus onset, teleport duplication and timing are player reports, not script-certified counters in this batch."
+      },
+      {
+        "title": "Use the laboratory quest panels",
+        "body": "For the main quest, hack a small lab wall button for 500 points, then the four green access panels. Follow the main guide for the timed sequence; hacking random scenery does not substitute for these targets.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+        "images": [
+          {
+            "src": "./assets/classic-batch6-moon-lab-buttons.webp",
+            "alt": "The four small quest buttons on the middle lab floor.",
+            "caption": "The four small quest buttons on the middle lab floor. Original BO1 landmark from a modified solo demonstration.",
+            "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=2443738562",
+            "credit": "Logan / Activision — BO1, modified solo demonstration"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "Logan — original BO1 Moon player guide; photo demonstrations use modified solo files",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2443738562"
+      },
+      {
+        "title": "Original BO1 player clip and Hacker explanations",
+        "url": "https://www.reddit.com/r/CODZombies/comments/iznzl4/"
+      },
+      {
+        "title": "Fu453 and BO1 players — Hacker effects, 2011 discussion",
+        "url": "https://www.callofdutyzombies.com/topic/142296-hacker-discussion-all-known-effects/"
+      },
+      {
+        "title": "hXc Hector — original BO1 Hacker demonstration (2011)",
+        "url": "https://www.youtube.com/watch?v=Jkah7JwhoaA"
+      },
+      {
+        "title": "r/CODZombies — Moon community guide (edition differences checked)",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/moon/"
+      }
+    ],
+    "relatedGuideIds": [
+      "bo1-moon-community-moon-map-walkthrough-power",
+      "bo1-moon-community-moon-map-walkthrough-pack-a-punch",
+      "bo1-moon-richtofens-grand-scheme"
+    ],
+    "checked": "2026-10-16"
+  },
+  {
+    "id": "bo1-moon-five-story-radios",
+    "mapId": "bo1-moon",
+    "title": "Five story radios — original Moon locations",
+    "summary": "Find five story recordings: spawn rock, overhead pipe, lab window, crane and Biodome support.",
+    "category": "side",
+    "difficulty": "Hard",
+    "players": "1–4",
+    "requirements": [
+      "Open the base, obtain a PES, and plan low-gravity access.",
+      "The Double Tap radio requires breaking a laboratory window. Complete oxygen-sensitive Hacker work first."
+    ],
+    "reward": "Five story recordings; no weapon, perk or main-quest progression reward.",
+    "steps": [
+      {
+        "title": "Play five separate radios",
+        "body": "Interact with each radio and let its recording finish. The radios play the story sequence in order regardless of the geographic order you visit them. Keep a slow zombie away while listening.",
+        "original": true,
+        "researchSource": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/moon/"
+      },
+      {
+        "title": "Spawn-side rock",
+        "body": "Outside spawn, find the radio beside the Olympia-side boulder opposite the four quest computers. Interact with it.",
+        "original": true,
+        "researchSource": "https://www.uagna.it/videogiochi/posizione-radio-zombi-moon-14563"
+      },
+      {
+        "title": "Tunnel 6 overhead pipe",
+        "body": "Past the MPL room, look up at the pipe across from the doorway. Jump and interact in low gravity: before power or after Tunnel 6 decompression. Wear a PES.",
+        "original": true,
+        "researchSource": "https://www.uagna.it/videogiochi/posizione-radio-zombi-moon-14563"
+      },
+      {
+        "title": "Window beside Double Tap",
+        "body": "Enter the bottom lab from the MPD. Break the window immediately right, beside Double Tap, then interact with the suspended radio. This permanently depressurizes the lab; finish oxygen-sensitive Hacker work first.",
+        "original": true,
+        "researchSource": "https://www.uagna.it/videogiochi/posizione-radio-zombi-moon-14563"
+      },
+      {
+        "title": "Crane outside the laboratory",
+        "body": "Exit the MP5K/top-lab airlock toward Mule Kick. Run into low gravity and jump toward the radio hanging from the crane hook. Interact while close.",
+        "original": true,
+        "researchSource": "https://www.uagna.it/videogiochi/posizione-radio-zombi-moon-14563"
+      },
+      {
+        "title": "Biodome support beam",
+        "body": "Walk straight from PhD past the small steps toward the raised support. Use a gravity lift to approach its radio from above, then interact.",
+        "original": true,
+        "researchSource": "https://www.uagna.it/videogiochi/posizione-radio-zombi-moon-14563"
+      }
+    ],
+    "sources": [
+      {
+        "title": "UAGNA / Titanium — original Moon’s five radio locations (2011)",
+        "url": "https://www.uagna.it/videogiochi/posizione-radio-zombi-moon-14563"
+      },
+      {
+        "title": "hXc Hector — original BO1 Moon player walkthrough",
+        "url": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/moon/"
+      },
+      {
+        "title": "Direct player reference",
+        "url": "https://www.youtube.com/watch?v=4aF6r-JI_t0"
+      }
+    ],
+    "relatedGuideIds": [
+      "bo1-moon-hacker-locations-and-uses",
+      "bo1-moon-six-audio-reels",
+      "bo1-moon-richtofens-grand-scheme"
+    ],
+    "checked": "2026-10-16"
+  },
+  {
+    "id": "bo1-moon-six-audio-reels",
+    "mapId": "bo1-moon",
+    "title": "Six audio reels — eleven documented search checks",
+    "summary": "Pick up one random reel → play it on the middle lab floor → repeat for six logs. Includes an eleven-check search loop; a certified exhaustive spawn/photo catalogue remains pending.",
+    "category": "side",
+    "difficulty": "Medium",
+    "players": "1–4",
+    "requirements": [
+      "Open the Receiving Bay, both tunnels, MPD and laboratory.",
+      "Carry a PES for vacuum areas and leave a safe zombie for listening."
+    ],
+    "reward": "Six audio story recordings; no documented extra gameplay reward.",
+    "steps": [
+      {
+        "title": "Find one reel, not six at once",
+        "body": "Only one audio reel is active at a time. Search the candidates below and pick it up with interact. The locations change between pickups/runs; a missing reel does not mean every candidate is occupied.",
+        "original": true,
+        "researchSource": "https://gamefaqs.gamespot.com/boards/960189-call-of-duty-black-ops/60145888"
+      },
+      {
+        "title": "Receiving Bay: two checks",
+        "body": "Check the orange/red container near Quick Revive and the Mystery Box site, then the floor beside the quest computer. These are different checks within the same spawn room.",
+        "original": true,
+        "researchSource": "https://www.uagna.it/videogiochi/a-cosa-serve-la-pellicola-sulla-mappa-moon-zombie-call-of-duty-black-ops-14784"
+      },
+      {
+        "title": "MPD/power room: three checks",
+        "body": "Check the small table opposite the switch, the side of the control console opposite it, and the ground/power conduits immediately left of the switch.",
+        "original": true,
+        "researchSource": "https://gamefaqs.gamespot.com/boards/960189-call-of-duty-black-ops/60145888"
+      },
+      {
+        "title": "Airlock and bottom laboratory",
+        "body": "Inspect the floor inside the airlock between the MPD and Double Tap lab. Then inspect the first Hacker desk opposite Double Tap.",
+        "original": true,
+        "researchSource": "https://www.uagna.it/videogiochi/a-cosa-serve-la-pellicola-sulla-mappa-moon-zombie-call-of-duty-black-ops-14784",
+        "images": [
+          {
+            "src": "./assets/classic-batch6-moon-hacker-floor1-a.webp",
+            "alt": "First lab floor: paper-marked desk near the entrance from the MPD.",
+            "caption": "First lab floor: paper-marked desk near the entrance from the MPD. Original BO1 landmark from a modified solo demonstration.",
+            "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=2443738562",
+            "credit": "Logan / Activision — BO1, modified solo demonstration"
+          }
+        ]
+      },
+      {
+        "title": "Tunnel 11: three checks",
+        "body": "Inspect the central table in the PM63 room. At the MPD end past Stamin-Up, check the control equipment by the power-room doorway, then the floor by the pipes on the right.",
+        "original": true,
+        "researchSource": "https://www.uagna.it/videogiochi/a-cosa-serve-la-pellicola-sulla-mappa-moon-zombie-call-of-duty-black-ops-14784"
+      },
+      {
+        "title": "Tunnel 6: window-floor check",
+        "body": "Entering Tunnel 6 from the MPD, turn right into the corridor. Check the floor below the zombie window across from the M16 section.",
+        "original": true,
+        "researchSource": "https://gamefaqs.gamespot.com/boards/960189-call-of-duty-black-ops/60145888"
+      },
+      {
+        "title": "Play the reel in the middle lab",
+        "body": "Take the reel to the reel-to-reel machine on the middle laboratory floor, just up the stairs from Double Tap, left of the stairs. Interact with it and let the recording finish.",
+        "original": true,
+        "researchSource": "https://www.uagna.it/videogiochi/a-cosa-serve-la-pellicola-sulla-mappa-moon-zombie-call-of-duty-black-ops-14784"
+      },
+      {
+        "title": "Repeat for all six recordings",
+        "body": "After playback, search again for the next reel and return it to the same machine. Continue until all six recordings have played. This is a story-log sequence, not part of charging the quest’s Vril Device.",
+        "original": true,
+        "researchSource": "https://gamefaqs.gamespot.com/boards/960189-call-of-duty-black-ops/60145888",
+        "tip": "These are documented candidates; a complete spawn/photo catalogue remains pending."
+      }
+    ],
+    "sources": [
+      {
+        "title": "UAGNA / Titanium — eleven original Moon reel candidates and playback loop (2011)",
+        "url": "https://www.uagna.it/videogiochi/a-cosa-serve-la-pellicola-sulla-mappa-moon-zombie-call-of-duty-black-ops-14784"
+      },
+      {
+        "title": "Original Xbox 360 player — personally found audio-reel locations (indexed discussion)",
+        "url": "https://gamefaqs.gamespot.com/boards/960189-call-of-duty-black-ops/60145888"
+      },
+      {
+        "title": "MixMasterNut — original BO1 audio-reel spawn tour (2011)",
+        "url": "https://www.youtube.com/watch?v=pyV5NoL-9Io"
+      }
+    ],
+    "relatedGuideIds": [
+      "bo1-moon-five-story-radios",
+      "bo1-moon-hacker-locations-and-uses"
+    ],
+    "checked": "2026-10-16"
+  },
+  {
+    "id": "bo1-moon-bowie-knife-and-semtex",
+    "mapId": "bo1-moon",
+    "title": "Bowie Knife & Semtex — original wallbuy routes",
+    "summary": "Reach the high Bowie outline above the lab stairs; replenish Semtex beside Stamin-Up.",
+    "category": "weapon",
+    "difficulty": "Medium",
+    "players": "1–4",
+    "requirements": [
+      "3,000 points for the Bowie Knife; 250 for Semtex.",
+      "Open the laboratory staircase toward its top floor."
+    ],
+    "reward": "Bowie melee upgrade and sticky grenades; neither is a Pack-a-Punch quest.",
+    "steps": [
+      {
+        "title": "Aim above the upper laboratory stairs",
+        "body": "From the middle lab floor, face the stairs leading up toward Deadshot. Look above the staircase frame for the Bowie Knife outline. Sprint/jump toward it while holding interact, with 3,000 points.",
+        "original": true,
+        "researchSource": "https://gamefaqs.gamespot.com/boards/960189-call-of-duty-black-ops/60161545"
+      },
+      {
+        "title": "Use low gravity if the jump is difficult",
+        "body": "The purchase is easier before power or with the lab decompressed. Breaking a window makes low gravity permanent and harms Hacker access, so plan that choice with the team. A normal-gravity strafe jump is reported possible in original BO1.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/r5bz2p/"
+      },
+      {
+        "title": "Buy Semtex at Stamin-Up",
+        "body": "In Tunnel 11’s Stamin-Up room, find the Semtex wallbuy and purchase it for 250 points. Sticky explosives are useful for the quest sphere’s overhead stop; keep clear of the blast.",
+        "original": true,
+        "researchSource": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/moon/"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Original Xbox 360 players — Bowie wallbuy and low-gravity access (indexed discussion)",
+        "url": "https://gamefaqs.gamespot.com/boards/960189-call-of-duty-black-ops/60161545"
+      },
+      {
+        "title": "BO1 players — aiming upward and jumping to the Bowie Knife",
+        "url": "https://www.reddit.com/r/CODZombies/comments/r5bz2p/"
+      },
+      {
+        "title": "hXc Hector — original BO1 Moon player walkthrough",
+        "url": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/moon/"
+      }
+    ],
+    "relatedGuideIds": [
+      "bo1-moon-hacker-locations-and-uses",
+      "bo1-moon-richtofens-grand-scheme"
+    ],
+    "checked": "2026-10-16"
+  },
+  {
+    "id": "bo1-moon-ray-gun-and-porters-x2",
+    "mapId": "bo1-moon",
+    "title": "Ray Gun → Porter’s X2 Ray Gun",
+    "summary": "Box acquisition and normal BO1 Pack-a-Punch upgrade; useful explosive splash for the quest sphere.",
+    "category": "weapon",
+    "difficulty": "Medium",
+    "players": "1–4",
+    "requirements": [
+      "Mystery Box access and 950 points per normal roll.",
+      "5,000 points and an Area 51 return for the upgrade."
+    ],
+    "reward": "Porter’s X2 Ray Gun with increased ammunition and stronger shots.",
+    "steps": [
+      {
+        "title": "Obtain the original Ray Gun",
+        "body": "Roll the Mystery Box for the Ray Gun. Keep a normal box-roll budget of 950 points per attempt; the Hacker can help reroll unwanted results.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/"
+      },
+      {
+        "title": "Upgrade at Area 51",
+        "body": "Insert the Ray Gun into Pack-a-Punch for 5,000 points and retrieve Porter’s X2 Ray Gun. It is a normal weapon upgrade, with no additional Moon puzzle.",
+        "original": true,
+        "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=121313832"
+      },
+      {
+        "title": "Use splash with room around you",
+        "body": "Its splash can damage you. PhD Flopper protects against your own explosive damage. The base Ray Gun can also dislodge the quest sphere’s awkward Tunnel 11 stop.",
+        "original": true,
+        "researchSource": "https://www.callofdutyzombies.com/easteregg/guides/call_of_duty_black_ops_zombies/453_main-easter-eggs/moon/the-black-egg-r33/"
+      }
+    ],
+    "sources": [
+      {
+        "title": "hXc Hector — original BO1 Moon player walkthrough",
+        "url": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/moon/"
+      },
+      {
+        "title": "Nosfrat — BO1 Zombies Weapons Guide",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=121313832"
+      },
+      {
+        "title": "CoDZ player walkthrough — sphere",
+        "url": "https://www.callofdutyzombies.com/easteregg/guides/call_of_duty_black_ops_zombies/453_main-easter-eggs/moon/the-black-egg-r33/"
+      }
+    ],
+    "relatedGuideIds": [
+      "bo1-moon-community-moon-map-walkthrough-pack-a-punch",
+      "bo1-moon-richtofens-grand-scheme"
+    ],
+    "checked": "2026-10-16"
+  },
+  {
+    "id": "bo1-moon-rescue-and-explosive-upgrades",
+    "mapId": "bo1-moon",
+    "title": "Mustang & Sally and Krauss Refibrillator",
+    "summary": "Upgrade the starting pistol for explosive shots or the Ballistic Knife for ranged teammate revives.",
+    "category": "weapon",
+    "difficulty": "Medium",
+    "players": "1–4; ranged revival needs a downed teammate",
+    "requirements": [
+      "Keep the starting M1911 for Mustang & Sally, or obtain the Ballistic Knife from the box.",
+      "5,000 points per upgrade and access to Area 51 Pack-a-Punch."
+    ],
+    "reward": "Dual explosive pistols or an upgraded Ballistic Knife capable of reviving a downed ally.",
+    "steps": [
+      {
+        "title": "Keep your M1911 for Mustang & Sally",
+        "body": "Carry the starting pistol to Area 51 and Pack-a-Punch it for 5,000 points. Retrieve Mustang & Sally. Do not trade away the pistol beforehand if this is your planned upgrade.",
+        "original": true,
+        "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=121313832"
+      },
+      {
+        "title": "Protect yourself from explosive splash",
+        "body": "Buy PhD Flopper in the Biodome before firing explosive pistols at close targets. Avoid blowing lab windows while setting up the Hacker.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/"
+      },
+      {
+        "title": "Upgrade a Ballistic Knife for ranged revival",
+        "body": "Take the box’s Ballistic Knife to Pack-a-Punch for 5,000 points. Retrieve the Krauss Refibrillator. Fire a blade into a downed teammate to revive them; hit the player directly and remain standing yourself.",
+        "original": true,
+        "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=121313832"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Nosfrat — BO1 Zombies Weapons Guide",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=121313832"
+      },
+      {
+        "title": "hXc Hector — original BO1 Moon player walkthrough",
+        "url": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/moon/"
+      },
+      {
+        "title": "Direct player reference",
+        "url": "https://callofduty.fandom.com/wiki/Mystery_Box/Weapons_available"
+      }
+    ],
+    "relatedGuideIds": [
+      "bo1-moon-community-moon-map-walkthrough-pack-a-punch",
+      "bo1-moon-hacker-locations-and-uses"
+    ],
+    "checked": "2026-10-16"
+  },
+  {
+    "id": "bo1-moon-ground-control",
+    "mapId": "bo1-moon",
+    "title": "Ground Control — stop all three excavators",
+    "summary": "Use the Receiving Bay consoles before each different excavator breaches.",
+    "category": "side",
+    "difficulty": "Medium",
+    "players": "1–4",
+    "requirements": [
+      "Power on, Hacker and an oxygenated route back to the Receiving Bay.",
+      "Use a dedicated prevention run if you want to keep every section intact. The main quest deliberately requires a Tunnel 6 breach."
+    ],
+    "reward": "Ground Control achievement/trophy condition; saved rooms retain their oxygen.",
+    "steps": [
+      {
+        "title": "Respond to each excavation announcement",
+        "body": "Keep the Hacker ready. When an excavator begins its approach, return to the lunar Receiving Bay and find its illuminated control console.",
+        "original": true,
+        "researchSource": "https://www.playstationtrophies.org/forum/topic/125405-moon-strategies/",
+        "images": [
+          {
+            "src": "./assets/classic-batch6-moon-excavator-console.webp",
+            "alt": "Hacking an excavator console inside the Receiving Bay.",
+            "caption": "Hacking an excavator console inside the Receiving Bay. Original BO1 landmark from a modified solo demonstration.",
+            "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=2443738562",
+            "credit": "Logan / Activision — BO1, modified solo demonstration"
+          }
+        ]
+      },
+      {
+        "title": "Hack before contact",
+        "body": "Complete the console hack before the machine breaches its target. You receive 1,000 points and that excavator retracts. If it already cut through, retracting it cannot restore the destroyed room.",
+        "original": true,
+        "researchSource": "https://www.callofdutyzombies.com/topic/142296-hacker-discussion-all-known-effects/"
+      },
+      {
+        "title": "Stop all three different machines",
+        "body": "Across the run, prevent the machines targeting Tunnel 6, Tunnel 11 and the Biodome. Watch/listen for their distinct announcements; repeatedly stopping one target does not cover the other two.",
+        "original": true,
+        "researchSource": "https://www.playstationtrophies.org/forum/topic/125405-moon-strategies/",
+        "images": [
+          {
+            "src": "./assets/classic-batch6-moon-excavator.webp",
+            "alt": "Tunnel 6 excavator machinery above the lunar base.",
+            "caption": "Tunnel 6 excavator machinery. Original BO1 landmark from a modified solo demonstration.",
+            "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=2443738562",
+            "credit": "Logan / Activision — BO1, modified solo demonstration"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "hXc Hector — original BO1 Moon player walkthrough",
+        "url": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/moon/"
+      },
+      {
+        "title": "Fu453 and BO1 players — Hacker effects, 2011 discussion",
+        "url": "https://www.callofdutyzombies.com/topic/142296-hacker-discussion-all-known-effects/"
+      },
+      {
+        "title": "Logan — original BO1 Moon player guide; photo demonstrations use modified solo files",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2443738562"
+      },
+      {
+        "title": "Original BO1 PS3 player — Ground Control strategy (2011)",
+        "url": "https://www.playstationtrophies.org/forum/topic/125405-moon-strategies/"
+      }
+    ],
+    "relatedGuideIds": [
+      "bo1-moon-hacker-locations-and-uses",
+      "bo1-moon-community-moon-map-walkthrough-power",
+      "bo1-moon-richtofens-grand-scheme"
+    ],
+    "checked": "2026-10-16"
+  },
+  {
+    "id": "bo1-moon-perks-in-space",
+    "mapId": "bo1-moon",
+    "title": "Perks in Spaaaaace! — buy every original perk",
+    "summary": "Cycle purchases and Hacker refunds; return to Area 51 for both alternating machines.",
+    "category": "side",
+    "difficulty": "Medium",
+    "players": "1–4",
+    "requirements": [
+      "Power, Hacker, access to the Biodome and lunar return teleporter.",
+      "The normal purchase limit is four perks; refund unwanted perks to make room."
+    ],
+    "reward": "Perks in Spaaaaace! achievement/trophy condition; buying every perk is not a permanent-perk upgrade.",
+    "steps": [
+      {
+        "title": "Buy the six lunar perks",
+        "body": "Visit Quick Revive in the Receiving Bay; Stamin-Up in Tunnel 11; Double Tap on the bottom lab floor; Deadshot on the top floor; PhD Flopper in the Biodome; and Mule Kick outside by the return pad.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/"
+      },
+      {
+        "title": "Refund perks to make room",
+        "body": "After buying a perk, hack its own machine to remove it and recover its purchase price. Keep track of each distinct purchase. Do not refund Mule Kick while relying on an expensive third weapon.",
+        "original": true,
+        "researchSource": "https://www.xboxachievements.com/game/call-of-duty-black-ops/achievement/56424-perks-in-spaaaaace-.html"
+      },
+      {
+        "title": "Buy both Area 51 perks",
+        "body": "Travel to Area 51 for Juggernog and Speed Cola. Only one is present per visit; return to Moon, then travel again for the other. Buy each at least once during this same run.",
+        "original": true,
+        "researchSource": "https://www.xboxachievements.com/game/call-of-duty-black-ops/achievement/56424-perks-in-spaaaaace-.html"
+      }
+    ],
+    "sources": [
+      {
+        "title": "r/CODZombies — Moon community guide (edition differences checked)",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/moon/"
+      },
+      {
+        "title": "Original BO1 player clip and Hacker explanations",
+        "url": "https://www.reddit.com/r/CODZombies/comments/iznzl4/"
+      },
+      {
+        "title": "hXc Hector — original BO1 Moon player walkthrough",
+        "url": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/moon/"
+      },
+      {
+        "title": "Original BO1 player — purchase/refund perk method (indexed achievement guide)",
+        "url": "https://www.xboxachievements.com/game/call-of-duty-black-ops/achievement/56424-perks-in-spaaaaace-.html"
+      }
+    ],
+    "relatedGuideIds": [
+      "bo1-moon-hacker-locations-and-uses",
+      "bo1-moon-community-moon-map-walkthrough-pack-a-punch",
+      "bo1-moon-fully-armed-and-operational"
+    ],
+    "checked": "2026-10-16"
+  },
+  {
+    "id": "bo1-moon-fully-armed-and-operational",
+    "mapId": "bo1-moon",
+    "title": "Fully Armed & Operational — three upgraded guns",
+    "summary": "Buy Mule Kick, hold three weapons and upgrade all three without losing the third slot.",
+    "category": "weapon",
+    "difficulty": "Medium",
+    "players": "1–4",
+    "requirements": [
+      "Mule Kick costs 4,000 points; three standard PaP upgrades cost 15,000 total.",
+      "Open the lunar return pad outside the Biodome; coordinate team travel."
+    ],
+    "reward": "Fully Armed & Operational achievement/trophy condition while holding three Pack-a-Punched guns.",
+    "steps": [
+      {
+        "title": "Buy Mule Kick and a third weapon",
+        "body": "Find Mule Kick on the lunar surface by the AK74u/Area 51 return pad. Purchase it for 4,000 points, then acquire a third weapon.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/"
+      },
+      {
+        "title": "Upgrade each of the three guns",
+        "body": "At Area 51, Pack-a-Punch each weapon for 5,000 points and retrieve it. Spread purchases across safe visits if needed; you must finish with all three upgraded guns simultaneously.",
+        "original": true,
+        "researchSource": "https://www.trueachievements.com/a153722/fully-armed-and-operational-achievement"
+      },
+      {
+        "title": "Keep Mule Kick until the condition completes",
+        "body": "Avoid downs and the Astronaut’s grab, and do not refund Mule Kick with the Hacker. Losing the third slot loses its weapon and can prevent this condition.",
+        "original": true,
+        "researchSource": "https://www.trueachievements.com/a153722/fully-armed-and-operational-achievement"
+      }
+    ],
+    "sources": [
+      {
+        "title": "r/CODZombies — Moon community guide (edition differences checked)",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/moon/"
+      },
+      {
+        "title": "hXc Hector — original BO1 Moon player walkthrough",
+        "url": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/moon/"
+      },
+      {
+        "title": "Original BO1 player — three upgraded weapons simultaneously (indexed achievement guide)",
+        "url": "https://www.trueachievements.com/a153722/fully-armed-and-operational-achievement"
+      }
+    ],
+    "relatedGuideIds": [
+      "bo1-moon-community-moon-map-walkthrough-pack-a-punch",
+      "bo1-moon-hacker-locations-and-uses",
+      "bo1-moon-perks-in-space"
+    ],
+    "checked": "2026-10-16"
   }
 ]
