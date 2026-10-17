@@ -4199,5 +4199,921 @@
       "The trigger is independently listed by the later guide, but this batch has not recovered a close-up of the exact pipe segment or tested repeatability/build parity. No lyrics are reproduced."
     ],
     "supplementNote": "Quoted passages are credited to the linked Reddit source. Headings, worked examples and separately sourced tips are authored supplements."
+  },
+  {
+    "id": "iw-zombies-in-spaceland-head-cutter",
+    "mapId": "iw-zombies-in-spaceland",
+    "title": "Head-Cutter: frozen headshots and wind crystal",
+    "category": "weapon",
+    "summary": "Freeze zombies with the giant Yeti, then combine the battery, green souvenir and wind crystal.",
+    "reward": "Head-Cutter Weapon of Rock.",
+    "requirements": [
+      "Standard Spaceland. Open power and Pack-a-Punch.",
+      "All weapons need a battery, a specific machine souvenir and an elemental crystal.",
+      "The shared crystal route costs 300 tickets for an Arcane Core and 300 for Golden Teeth, plus trap activations.",
+      "350 tickets for Cryo Grenades; three green Souvenir Coins."
+    ],
+    "steps": [
+      {
+        "title": "Buy Cryo Grenades",
+        "body": "Purchase Cryo Grenades within the Astrocade (350 Tickets)",
+        "html": "<p>Purchase Cryo Grenades within the Astrocade (350 Tickets)</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/zombies-in-spaceland/"
+      },
+      {
+        "title": "Aim at the giant Yeti",
+        "body": "Throw a Cryo Grenade directly at the giant Yeti’s face outside Polar Peak, not at the small gift-shop statue.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/5blb6i/the_real_way_to_get_the_headcutter/"
+      },
+      {
+        "title": "Headshot ten frozen zombies",
+        "body": "So I've watched a few guides already and they all have one thing in common that they have wrong: They say to get multiple kills and pass a few rounds while using the Yeti's breath and then killing the frozen zombies. However, I tested this extensively and found out that you need to get exactly 10 headshots on the frozen zombies.",
+        "html": "<p>So I&#x27;ve watched a few guides already and they all have one thing in common that they have wrong: They say to get multiple kills and pass a few rounds while using the Yeti&#x27;s breath and then killing the frozen zombies. However, I tested this extensively and found out that you need to get exactly 10 headshots on the frozen zombies.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/5blb6i/the_real_way_to_get_the_headcutter/"
+      },
+      {
+        "title": "Take the battery from the small Yeti",
+        "body": "After the roar, enter the Polar gift shop and interact with the battery in the small Yeti’s raised hand.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/5blb6i/the_real_way_to_get_the_headcutter/"
+      },
+      {
+        "title": "Make the green souvenir",
+        "body": "All Green Souvenir Tokens in Machine in Polar Peak",
+        "html": "<p>All Green Souvenir Tokens in Machine in Polar Peak</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/zombies-in-spaceland/"
+      },
+      {
+        "title": "Earn wind with Steel Dragon",
+        "body": "Follow the elemental guide: release the UFOs, use Polar’s Steel Dragon trap, then feed that UFO nearby kills with the Core gun. Collect its yellow wind orb.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/zombies-in-spaceland/"
+      },
+      {
+        "title": "Take the leftmost crystal",
+        "body": "Break the croc teeth with a Brute and install Golden Teeth. Facing its cabinet, shoot the leftmost panel with the wind Core gun and collect the yellow crystal.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/zombies-in-spaceland/"
+      },
+      {
+        "title": "Build in the gift shop",
+        "body": "Craft the head-cutter in the gift shop, left of the exit.",
+        "html": "<p>Craft the head-cutter in the gift shop, left of the exit.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/5bf6hx/found_how_to_craft_the_headcutter/"
+      }
+    ],
+    "players": "1–4 players",
+    "difficulty": "Medium",
+    "relatedGuideIds": [
+      "iw-zombies-in-spaceland-community-zombies-in-spaceland-gameplay-systems-elemental-upgrades",
+      "iw-zombies-in-spaceland-community-zombies-in-spaceland-gameplay-systems-crafting",
+      "iw-zombies-in-spaceland-weapon-of-rock-upgrades",
+      "iw-zombies-in-spaceland-main"
+    ],
+    "sources": [
+      {
+        "title": "r/CODZombies map reference",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/zombies-in-spaceland/"
+      },
+      {
+        "title": "u/sagekillah: tested ten-headshot correction",
+        "url": "https://www.reddit.com/r/CODZombies/comments/5blb6i/the_real_way_to_get_the_headcutter/"
+      },
+      {
+        "title": "Original Head-Cutter discovery",
+        "url": "https://www.reddit.com/r/CODZombies/comments/5bf6hx/found_how_to_craft_the_headcutter/"
+      },
+      {
+        "title": "CodeNamePizza: Head-Cutter starts 1:00",
+        "url": "https://www.youtube.com/watch?v=xAAVFbecdK8&t=60s"
+      }
+    ],
+    "checked": "2026-10-17",
+    "sourceQuote": "https://www.reddit.com/r/CODZombies/wiki/zombies-in-spaceland/",
+    "supplementNote": "Quoted passages retain their source attribution. Original steps and tips are separately written supplements."
+  },
+  {
+    "id": "iw-zombies-in-spaceland-face-melter",
+    "mapId": "iw-zombies-in-spaceland",
+    "title": "Face-Melter: grenade relay and electric crystal",
+    "category": "weapon",
+    "summary": "Return the glowing grenade from Journey to the central portal, then finish the blue souvenir and crystal.",
+    "reward": "Face-Melter Weapon of Rock.",
+    "requirements": [
+      "Standard Spaceland. Open power and Pack-a-Punch.",
+      "All weapons need a battery, a specific machine souvenir and an elemental crystal.",
+      "The shared crystal route costs 300 tickets for an Arcane Core and 300 for Golden Teeth, plus trap activations.",
+      "Frag or Cluster Grenade; three blue Souvenir Coins."
+    ],
+    "steps": [
+      {
+        "title": "Activate Journey’s portal",
+        "body": "Power Journey and activate the portal near Star Mission / Tuff Nuff. This is the starting portal for the grenade relay.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/5bt57b/first_in_the_world_found_face_melter_battery_with/"
+      },
+      {
+        "title": "Throw a grenade into it",
+        "body": "Throw the cluster/regular grenade in the portal near jug while its activated.. it will come out glowing red then u have to pick up that grenade and keep throwing it down and picking it back up all the way back to spawn then throw it in spawn portal...... You do not need to go thru any portals at all",
+        "html": "<p>Throw the cluster/regular grenade in the portal near jug while its activated.. it will come out glowing red then u have to pick up that grenade and keep throwing it down and picking it back up all the way back to spawn then throw it in spawn portal...... You do not need to go thru any portals at all</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/5bt57b/first_in_the_world_found_face_melter_battery_with/"
+      },
+      {
+        "title": "Reset its fuse with each pickup",
+        "body": "Relay the returned red-outlined grenade along the ground by throwing and picking it up again. Each pickup resets its fuse; do not carry it until it explodes.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/5bt57b/first_in_the_world_found_face_melter_battery_with/"
+      },
+      {
+        "title": "Finish at the central gateway",
+        "body": "Throw it into the Cosmic Way Pack-a-Punch gateway and take the battery that appears beside it.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/5bt57b/first_in_the_world_found_face_melter_battery_with/"
+      },
+      {
+        "title": "Make the blue souvenir",
+        "body": "All Blue Souvenir Tokens in Machine in Journey To Space",
+        "html": "<p>All Blue Souvenir Tokens in Machine in Journey To Space</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/zombies-in-spaceland/"
+      },
+      {
+        "title": "Earn the electric crystal",
+        "body": "Use Journey’s Star Mission trap and UFO, then Core-gun soul kills, to obtain the blue electric orb. With the croc cabinet exposed, shoot its second panel from the left and collect the crystal.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/zombies-in-spaceland/"
+      },
+      {
+        "title": "Build beside Mule Munchies",
+        "body": "Combine the battery, rocket souvenir and crystal at the Journey cardboard cutout beside Mule Munchies.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/zombies-in-spaceland/"
+      }
+    ],
+    "players": "1–4 players",
+    "difficulty": "Medium",
+    "relatedGuideIds": [
+      "iw-zombies-in-spaceland-community-zombies-in-spaceland-gameplay-systems-elemental-upgrades",
+      "iw-zombies-in-spaceland-community-zombies-in-spaceland-gameplay-systems-crafting",
+      "iw-zombies-in-spaceland-weapon-of-rock-upgrades",
+      "iw-zombies-in-spaceland-main"
+    ],
+    "sources": [
+      {
+        "title": "r/CODZombies map reference",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/zombies-in-spaceland/"
+      },
+      {
+        "title": "u/mattfl11: firsthand Face-Melter discovery and fuse-reset explanation",
+        "url": "https://www.reddit.com/r/CODZombies/comments/5bt57b/first_in_the_world_found_face_melter_battery_with/"
+      },
+      {
+        "title": "CodeNamePizza: Face-Melter starts 3:25",
+        "url": "https://www.youtube.com/watch?v=xAAVFbecdK8&t=205s"
+      }
+    ],
+    "checked": "2026-10-17",
+    "sourceQuote": "https://www.reddit.com/r/CODZombies/wiki/zombies-in-spaceland/",
+    "supplementNote": "Quoted passages retain their source attribution. Original steps and tips are separately written supplements."
+  },
+  {
+    "id": "iw-zombies-in-spaceland-dischord",
+    "mapId": "iw-zombies-in-spaceland",
+    "title": "Dischord: five shades targets and laser crystal",
+    "category": "weapon",
+    "summary": "Find five colored targets with Shades, then take the dance-floor battery and craft the Dischord.",
+    "reward": "Dischord Weapon of Rock.",
+    "requirements": [
+      "Standard Spaceland. Open power and Pack-a-Punch.",
+      "All weapons need a battery, a specific machine souvenir and an elemental crystal.",
+      "The shared crystal route costs 300 tickets for an Arcane Core and 300 for Golden Teeth, plus trap activations.",
+      "Shades from a backpack-zombie drop; red, green and blue Souvenir Coins.",
+      "Only five targets need shooting. The candidate locations below are a documented search inventory, not a promise that all appear."
+    ],
+    "steps": [
+      {
+        "title": "Equip Shades",
+        "body": "Put on the Shades so the normally hidden colored targets are visible. Shoot five active targets.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/zombies-in-spaceland/"
+      },
+      {
+        "title": "Spawn and Junction targets",
+        "body": "In spawn atop the hedge.\nIn the junction hanging over the deposit ATM.\nUnder the bridge going to Polar Peak.\nTo the left of the giant mouth of the roller coaster (seen from the bridge)",
+        "html": "<p>In spawn atop the hedge.<br>In the junction hanging over the deposit ATM.<br>Under the bridge going to Polar Peak.<br>To the left of the giant mouth of the roller coaster (seen from the bridge)</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/5bbgo1/all_hidden_target_locations_guide/"
+      },
+      {
+        "title": "Inside Astrocade targets",
+        "body": "Above the power switch, parallel to the ceiling.\nInside one of claw machines on the bottom floor.\nInside the window on the top floor. (side closest to the prize desk)\nBehind the cardboard cutout of the alien across from the prize desk.",
+        "html": "<p>Above the power switch, parallel to the ceiling.<br>Inside one of claw machines on the bottom floor.<br>Inside the window on the top floor. (side closest to the prize desk)<br>Behind the cardboard cutout of the alien across from the prize desk.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/5bbgo1/all_hidden_target_locations_guide/"
+      },
+      {
+        "title": "Check the remaining indoor spots",
+        "body": "Check the floor behind the prize desk and the upstairs trashcan beside the Demon Attack game.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/5bbgo1/all_hidden_target_locations_guide/"
+      },
+      {
+        "title": "Alley and bumper-car targets",
+        "body": "Hanging from the furthest booth in the alleyway.\nInside the bumper-cars area, tucked behind the cars piled up in the corner.",
+        "html": "<p>Hanging from the furthest booth in the alleyway.<br>Inside the bumper-cars area, tucked behind the cars piled up in the corner.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/5bbgo1/all_hidden_target_locations_guide/"
+      },
+      {
+        "title": "Mountain catwalk candidate",
+        "body": "Tucked away in a corner of the mountain (Seen from the \"U-Turn\" part of the catwalk, beside a yeti monster hiding in a cave.)",
+        "html": "<p>Tucked away in a corner of the mountain (Seen from the &quot;U-Turn&quot; part of the catwalk, beside a yeti monster hiding in a cave.)</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/5bbgo1/all_hidden_target_locations_guide/"
+      },
+      {
+        "title": "Collect the dance-floor battery",
+        "body": "If a target is still missing, check the empty cabinet by the dance floor; a later creator-page comment reports it as an extra spot. After five targets, collect the dance-floor battery.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=xAAVFbecdK8"
+      },
+      {
+        "title": "Make the mixed souvenir",
+        "body": "Put one red, one green and one blue coin into the souvenir machine outside Astrocade by Blue Bolts. Take the disco ball.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/zombies-in-spaceland/"
+      },
+      {
+        "title": "Earn the green crystal",
+        "body": "Use the Cosmic Dance Party trap and its UFO, then Core-gun soul kills, to earn the green laser orb. Shoot the croc cabinet’s third panel from the left and take its crystal.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/zombies-in-spaceland/"
+      },
+      {
+        "title": "Build at the Astrocade cutout",
+        "body": "Use the cardboard weapon cutout opposite the prize desk. Place the battery, disco ball and green crystal, then collect the Dischord.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/zombies-in-spaceland/"
+      }
+    ],
+    "players": "1–4 players",
+    "difficulty": "Medium",
+    "relatedGuideIds": [
+      "iw-zombies-in-spaceland-community-zombies-in-spaceland-gameplay-systems-elemental-upgrades",
+      "iw-zombies-in-spaceland-community-zombies-in-spaceland-gameplay-systems-crafting",
+      "iw-zombies-in-spaceland-weapon-of-rock-upgrades",
+      "iw-zombies-in-spaceland-main"
+    ],
+    "sources": [
+      {
+        "title": "r/CODZombies map reference",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/zombies-in-spaceland/"
+      },
+      {
+        "title": "u/toroyan and firsthand target additions",
+        "url": "https://www.reddit.com/r/CODZombies/comments/5bbgo1/all_hidden_target_locations_guide/"
+      },
+      {
+        "title": "CodeNamePizza: Dischord starts 5:02; later player extra-target report",
+        "url": "https://www.youtube.com/watch?v=xAAVFbecdK8&t=302s"
+      }
+    ],
+    "checked": "2026-10-17",
+    "sourceQuote": "https://www.reddit.com/r/CODZombies/wiki/zombies-in-spaceland/",
+    "supplementNote": "Quoted passages retain their source attribution. Original steps and tips are separately written supplements."
+  },
+  {
+    "id": "iw-zombies-in-spaceland-seticom-parts",
+    "mapId": "iw-zombies-in-spaceland",
+    "title": "SETI-COM: nine part locations and Hoff handoff",
+    "category": "main",
+    "summary": "Find one calculator, boombox and umbrella, then check the signal and three DJ booths.",
+    "reward": "SETI-COM for the three main-quest defenses.",
+    "requirements": [
+      "Standard Spaceland. Open the park and Underground.",
+      "Enter the Projection Room before expecting Hoff’s completed device."
+    ],
+    "steps": [
+      {
+        "title": "Calculator: three candidates",
+        "body": "Check the yellow Cosmic Way bench near the central portal; Astrocade’s upstairs blue-topped trashcan; the yellow Kepler picnic table near Chromosphere.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/5b9a43/zombies_in_spaceland_buildables_guide/"
+      },
+      {
+        "title": "Boombox: three candidates",
+        "body": "Check the yellow cart below the Cosmic Way bridge; Moonlight Cafe’s upstairs bar counter; Underground’s Racin’ Stripes break-room counter.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/5b9a43/zombies_in_spaceland_buildables_guide/"
+      },
+      {
+        "title": "Umbrella: three candidates",
+        "body": "Check the red bench at the bottom of Hyper Slopes; the left gift-shop counter in Polar Peak; Journey’s ground corner near the Star Mission control and Tuff Nuff.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/5b9a43/zombies_in_spaceland_buildables_guide/"
+      },
+      {
+        "title": "Enter PaP and advance the scene",
+        "body": "After collecting all three, enter the Projection Room and advance the scene. Watch Polar Peak’s mounted UFO for its flashing signal.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g90dbx/spaceland_ultimate_guide/"
+      },
+      {
+        "title": "Find Hoff’s active booth",
+        "body": "Check Journey by Mule Munchies, Kepler near the croc, and the fountain-area booth. His location can change. Interact and collect the assembled SETI-COM.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g90dbx/spaceland_ultimate_guide/"
+      },
+      {
+        "title": "Continue to the defense checklist",
+        "body": "Follow the main quest’s seven shaking-spot candidates and 60 / 90 / 120-second defenses. A normal boombox craftable is not a SETI-COM replacement.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g90dbx/spaceland_ultimate_guide/"
+      }
+    ],
+    "players": "1–4 players",
+    "difficulty": "Standard map",
+    "relatedGuideIds": [
+      "iw-zombies-in-spaceland-main",
+      "iw-zombies-in-spaceland-community-zombies-in-spaceland-gameplay-systems-pack-a-punch"
+    ],
+    "sources": [
+      {
+        "title": "r/CODZombies map reference",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/zombies-in-spaceland/"
+      },
+      {
+        "title": "Original part discoveries",
+        "url": "https://www.reddit.com/r/CODZombies/comments/5b9a43/zombies_in_spaceland_buildables_guide/"
+      },
+      {
+        "title": "Firsthand handoff and all three DJ booth areas",
+        "url": "https://www.reddit.com/r/CODZombies/comments/g90dbx/spaceland_ultimate_guide/"
+      }
+    ],
+    "checked": "2026-10-17",
+    "sourceQuote": null,
+    "supplementNote": "Quoted passages retain their source attribution. Original steps and tips are separately written supplements."
+  },
+  {
+    "id": "iw-zombies-in-spaceland-n31l",
+    "mapId": "iw-zombies-in-spaceland",
+    "title": "N31L: three challenge sets and Hoff summons",
+    "category": "side",
+    "summary": "Restore N31L’s head, battery and disk; complete each challenge set and summon Hoff.",
+    "reward": "Tickets, N31L Sticker Pack progress and the 5,000-point KITT summon after the final set.",
+    "requirements": [
+      "Standard Spaceland. Open Kepler, Polar Peak and Underground for the later parts.",
+      "Read each displayed objective and timer: counts scale with player count.",
+      "The battery appears after the first Hoff visit ends; the disk appears after the second visit ends."
+    ],
+    "steps": [
+      {
+        "title": "Recover the head",
+        "body": "Find N31L’s head on the cart to the right before the Polar Peak bridge. Fit it to his body in Cosmic Way.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/zombies-in-spaceland/"
+      },
+      {
+        "title": "Complete challenge set one",
+        "body": "Complete every displayed first-set challenge, such as jumping kills, melee kills, distance kills, multikills or avoiding Last Stand. Follow the actual count and countdown.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/zombies-in-spaceland/"
+      },
+      {
+        "title": "Start Knight Protocol",
+        "body": "Interact with N31L after the set completes to call Hoff. Let his visit finish and wait for N31L to return asking for the Auxiliary Battery.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/zombies-in-spaceland/"
+      },
+      {
+        "title": "Battery: three Kepler candidates",
+        "body": "Bench in Kepler System next to the Cosmic Tunes station\nTrashcan in Kepler System on the upper level above Bombstoppers\nOn an Ice Cream cart in Kepler System in front of the Chromosphere",
+        "html": "<p>Bench in Kepler System next to the Cosmic Tunes station<br>Trashcan in Kepler System on the upper level above Bombstoppers<br>On an Ice Cream cart in Kepler System in front of the Chromosphere</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/zombies-in-spaceland/"
+      },
+      {
+        "title": "Battery: three Polar candidates",
+        "body": "In Polar Peak on a Trash Can next to the RPR Evo\nIn cubby holes near the entrance to the Triton rollercoaster\nCounter in front of the T-Shirts in the Polar Peak gift shop",
+        "html": "<p>In Polar Peak on a Trash Can next to the RPR Evo<br>In cubby holes near the entrance to the Triton rollercoaster<br>Counter in front of the T-Shirts in the Polar Peak gift shop</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/zombies-in-spaceland/"
+      },
+      {
+        "title": "Fit the battery; finish set two",
+        "body": "Install the battery and complete the next displayed challenges. These can include protecting a teammate, dismembering legs, rebuilding boards, crawler kills and kills without damage.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/zombies-in-spaceland/"
+      },
+      {
+        "title": "Call Hoff again; wait",
+        "body": "Use Knight Protocol again and let Hoff leave. Only then look for the Floppy Disk.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/zombies-in-spaceland/"
+      },
+      {
+        "title": "Disk: five documented search spots",
+        "body": "Search Underground: red bench after the Journey stairs; bench outside the employee break room; white folding table before the Shredder room; table to the right of its cutout; red bench to the left of that cutout.",
+        "original": true,
+        "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=2462403426",
+        "tip": "These five search candidates extend the inherited three-position list. Room/bench descriptions can overlap; search the whole Shredder / break-room corridor."
+      },
+      {
+        "title": "Install the disk",
+        "body": "Give the recovered disk to N31L and wait for the final challenge set.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/zombies-in-spaceland/"
+      },
+      {
+        "title": "Finish challenge set three",
+        "body": "Follow the displayed final objectives, which can include arm dismemberment, headshots, marked-area kills, retaliation kills and killing outlined zombies before other targets. In co-op, watch the no-bleed-out objective.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/zombies-in-spaceland/"
+      },
+      {
+        "title": "Unlock the KITT call",
+        "body": "Finish the set and interact with N31L again. His final KITT option costs 5,000 points to call Hoff; wait for the available interaction prompt rather than expecting an unlimited instant repeat call.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/zombies-in-spaceland/"
+      }
+    ],
+    "players": "1–4 players",
+    "difficulty": "Standard map",
+    "relatedGuideIds": [
+      "iw-zombies-in-spaceland-community-zombies-in-spaceland-gameplay-systems-sticker-pack",
+      "iw-zombies-in-spaceland-main",
+      "iw-zombies-in-spaceland-community-zombies-in-spaceland-quests-easter-eggs-play-as-david-hasselhoff"
+    ],
+    "sources": [
+      {
+        "title": "r/CODZombies map reference",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/zombies-in-spaceland/"
+      },
+      {
+        "title": "Original robot part discoveries",
+        "url": "https://www.reddit.com/r/CODZombies/comments/5b9a43/zombies_in_spaceland_buildables_guide/"
+      },
+      {
+        "title": "ZombieSlaya Mr.: five disk candidates and scaling challenges",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2462403426"
+      },
+      {
+        "title": "Primary N31L tutorial",
+        "url": "https://www.youtube.com/watch?v=3BKpyhbv8fo"
+      }
+    ],
+    "checked": "2026-10-17",
+    "sourceQuote": "https://www.reddit.com/r/CODZombies/wiki/zombies-in-spaceland/",
+    "supplementNote": "Quoted passages retain their source attribution. Original steps and tips are separately written supplements."
+  },
+  {
+    "id": "iw-zombies-in-spaceland-xquisite",
+    "mapId": "iw-zombies-in-spaceland",
+    "title": "X-Quisite: deposit four elements, then buy the core",
+    "category": "weapon",
+    "summary": "Use each elemental Core gun at the Projection Room’s matching device, then return to the croc.",
+    "reward": "X-Quisite attachment for an Arcane Core gun and Batteries Not Included progress.",
+    "requirements": [
+      "Standard Spaceland. Open Pack-a-Punch and expose the croc cabinet with Golden Teeth.",
+      "300-ticket Arcane Core on the deposit gun; obtain all four area elements.",
+      "Keep 2,000 points for X-Quisite. Building all four wonder pistols is separate from depositing the gun’s elements."
+    ],
+    "steps": [
+      {
+        "title": "Open the shared crystal setup",
+        "body": "Follow Arcane Cores to release UFOs and expose the croc cabinet.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/zombies-in-spaceland/"
+      },
+      {
+        "title": "Deposit fire",
+        "body": "Earn the Kepler / Chromosphere fire orb on the Core gun. Open the corresponding croc panel and take the crystal. In the Projection Room, hold that elemental gun and interact with the matching device opposite Pack-a-Punch.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/user/Lateam79/comments/1b95xk6/tout_faire_et_tout_connaitre_sur_spaceland/"
+      },
+      {
+        "title": "Deposit laser",
+        "body": "Repeat with Astrocade’s Cosmic Dance Party element and the third croc panel from the left, then deposit the gun’s element at the Projection Room device.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/user/Lateam79/comments/1b95xk6/tout_faire_et_tout_connaitre_sur_spaceland/"
+      },
+      {
+        "title": "Deposit wind",
+        "body": "Repeat with Polar Peak’s Steel Dragon element and the leftmost croc panel, then deposit the element.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/user/Lateam79/comments/1b95xk6/tout_faire_et_tout_connaitre_sur_spaceland/"
+      },
+      {
+        "title": "Deposit electricity",
+        "body": "Repeat with Journey’s Star Mission element and the second croc panel from the left, then deposit the element.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/user/Lateam79/comments/1b95xk6/tout_faire_et_tout_connaitre_sur_spaceland/"
+      },
+      {
+        "title": "Follow the purple orb",
+        "body": "After all four element deposits, the device releases a purple / pink orb that travels to the croc cabinet.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/zombies-in-spaceland/"
+      },
+      {
+        "title": "Buy X-Quisite on the intended gun",
+        "body": "Return to the croc cabinet. Hold a gun with an Arcane Core and purchase X-Quisite for 2,000 points. Collecting a weapon crystal by itself is not an element deposit.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/user/Lateam79/comments/1b95xk6/tout_faire_et_tout_connaitre_sur_spaceland/"
+      }
+    ],
+    "players": "1–4 players",
+    "difficulty": "Standard map",
+    "relatedGuideIds": [
+      "iw-zombies-in-spaceland-community-zombies-in-spaceland-gameplay-systems-elemental-upgrades",
+      "iw-zombies-in-spaceland-community-zombies-in-spaceland-gameplay-systems-pack-a-punch",
+      "iw-zombies-in-spaceland-community-zombies-in-spaceland-gameplay-systems-sticker-pack"
+    ],
+    "sources": [
+      {
+        "title": "r/CODZombies map reference",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/zombies-in-spaceland/"
+      },
+      {
+        "title": "u/Lateam79: element-deposit distinction and 2,000-point purchase",
+        "url": "https://www.reddit.com/user/Lateam79/comments/1b95xk6/tout_faire_et_tout_connaitre_sur_spaceland/"
+      },
+      {
+        "title": "Original X-Quisite tutorial",
+        "url": "https://www.youtube.com/watch?v=ERomgDHRjnw"
+      }
+    ],
+    "checked": "2026-10-17",
+    "sourceQuote": null,
+    "supplementNote": "Quoted passages retain their source attribution. Original steps and tips are separately written supplements."
+  },
+  {
+    "id": "iw-zombies-in-spaceland-weapon-of-rock-upgrades",
+    "mapId": "iw-zombies-in-spaceland",
+    "title": "Upgrade all four Weapons of Rock",
+    "category": "weapon",
+    "summary": "Install Alien Fuses and Pack-a-Punch the chosen wonder pistol.",
+    "reward": "Upgraded Shredder, Dischord, Face-Melter or Head-Cutter.",
+    "requirements": [
+      "Build or obtain the chosen Weapon of Rock.",
+      "Standard: defeat the Alien phase for the Alien Fuses. Director’s Cut enables this upgrade access earlier.",
+      "5,000 points for each wonder-pistol upgrade."
+    ],
+    "steps": [
+      {
+        "title": "Obtain a Weapon of Rock",
+        "body": "Build Shredder, Dischord, Face-Melter or Head-Cutter with its dedicated guide.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/zombies-in-spaceland/"
+      },
+      {
+        "title": "Defeat the Alien phase",
+        "body": "Follow Sooooul Key through the speaker puzzle and Alien fight. This fuse unlock happens before the Standard UFO finale.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g90dbx/spaceland_ultimate_guide/"
+      },
+      {
+        "title": "Install the fuses",
+        "body": "Take the fuses at the central portal into the Projection Room and install them in Pack-a-Punch.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g90dbx/spaceland_ultimate_guide/"
+      },
+      {
+        "title": "Upgrade the held pistol",
+        "body": "Use Pack-a-Punch for 5,000 points with the intended Weapon of Rock. The same access applies to all four pistols; regular guns’ second upgrade costs 10,000 instead.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/zombies-in-spaceland/"
+      },
+      {
+        "title": "Continue to the UFO",
+        "body": "For the Standard main quest, use an upgraded wonder pistol on the five ring nodes, time the final node to the UFO’s pass and collect the Soul Key.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g90dbx/spaceland_ultimate_guide/"
+      }
+    ],
+    "players": "1–4 players",
+    "difficulty": "Standard map",
+    "relatedGuideIds": [
+      "iw-zombies-in-spaceland-community-zombies-in-spaceland-gameplay-systems-pack-a-punch",
+      "iw-zombies-in-spaceland-shredder",
+      "iw-zombies-in-spaceland-head-cutter",
+      "iw-zombies-in-spaceland-face-melter",
+      "iw-zombies-in-spaceland-dischord",
+      "iw-zombies-in-spaceland-main"
+    ],
+    "sources": [
+      {
+        "title": "r/CODZombies map reference",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/zombies-in-spaceland/"
+      },
+      {
+        "title": "Firsthand fuse installation and 5,000-point pistol upgrade",
+        "url": "https://www.reddit.com/r/CODZombies/comments/g90dbx/spaceland_ultimate_guide/"
+      },
+      {
+        "title": "MrDalekJD: four upgraded wonder pistols",
+        "url": "https://www.youtube.com/watch?v=Il6h8RD6Gik"
+      }
+    ],
+    "checked": "2026-10-17",
+    "sourceQuote": null,
+    "supplementNote": "Quoted passages retain their source attribution. Original steps and tips are separately written supplements."
+  },
+  {
+    "id": "iw-zombies-in-spaceland-directors-cut",
+    "mapId": "iw-zombies-in-spaceland",
+    "title": "Director’s Cut: unlock and select the mode",
+    "category": "side",
+    "summary": "Collect all five Soul Keys and use the Projection Room’s Soul Key display.",
+    "reward": "Director’s Cut access; required for the Scene 1 lobby-music mask.",
+    "requirements": [
+      "Complete the main quests on Spaceland, Rave, Shaolin, Attack and Beast and collect their Soul Key pieces.",
+      "All four IW DLC map packs are needed for the full progression.",
+      "Local/offline progression and online account unlocks are not assumed interchangeable."
+    ],
+    "steps": [
+      {
+        "title": "Collect five Soul Key pieces",
+        "body": "Complete each map’s full main quest and collect its Soul Key piece; the ordinary Spaceland Alien kill alone does not finish that map.",
+        "original": true,
+        "researchSource": "https://blog.activision.com/uk/en/call-of-duty/archives/how-to-survive-the-beast-from-beyond"
+      },
+      {
+        "title": "Use the Projection Room display",
+        "body": "With all five pieces registered, return to the Projection Room on a map and interact with the Soul Key display to unlock Director’s Cut.",
+        "original": true,
+        "researchSource": "https://blog.activision.com/uk/en/call-of-duty/archives/how-to-survive-the-beast-from-beyond"
+      },
+      {
+        "title": "Enable it in the lobby",
+        "body": "Select Director’s Cut for the next game. The publisher describes permanent perks and pre-upgraded weapon benefits.",
+        "original": true,
+        "researchSource": "https://blog.activision.com/uk/en/call-of-duty/archives/how-to-survive-the-beast-from-beyond"
+      },
+      {
+        "title": "Choose the Spaceland follow-up",
+        "body": "For perk-jingle music, remain on Scene 1 and use the Shades / roller-coaster mask route. For Willard, the separate Mephistopheles completion is still required.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/zombies-in-spaceland/"
+      }
+    ],
+    "players": "Account progression; solo or co-op",
+    "difficulty": "Standard map",
+    "relatedGuideIds": [
+      "iw-zombies-in-spaceland-community-zombies-in-spaceland-quests-easter-eggs-lobby-music",
+      "iw-zombies-in-spaceland-community-zombies-in-spaceland-quests-easter-eggs-play-as-willard-wyler",
+      "iw-zombies-in-spaceland-main",
+      "iw-the-beast-from-beyond-community-the-beast-from-beyond-director-s-cut-extras-mephistopheles-battle"
+    ],
+    "sources": [
+      {
+        "title": "r/CODZombies map reference",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/zombies-in-spaceland/"
+      },
+      {
+        "title": "Activision: official DC unlock and Yeti clue",
+        "url": "https://blog.activision.com/uk/en/call-of-duty/archives/how-to-survive-the-beast-from-beyond"
+      },
+      {
+        "title": "Player account / local-play caveat",
+        "url": "https://www.reddit.com/r/Infinitewarfare/comments/9gsbmd/all_zombies_character_codes_in_case_you_dont_know/"
+      }
+    ],
+    "checked": "2026-10-17",
+    "sourceQuote": null,
+    "supplementNote": "Quoted passages retain their source attribution. Original steps and tips are separately written supplements."
+  },
+  {
+    "id": "iw-zombies-in-spaceland-willards-test",
+    "mapId": "iw-zombies-in-spaceland",
+    "title": "Willard’s Test: finish Spaceland as Willard",
+    "category": "main",
+    "summary": "Unlock and select Willard, then complete the full Spaceland quest for his final ending.",
+    "reward": "Willard’s Test calling card and the additional ending.",
+    "requirements": [
+      "Mephistopheles completion and playable Willard unlocked.",
+      "Select Spaceland with Director’s Cut enabled and confirm Willard’s portrait."
+    ],
+    "steps": [
+      {
+        "title": "Select Willard",
+        "body": "Use the linked character guide: Left, Left, Down, Up, Up, Right in the Spaceland lobby.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/zombies-in-spaceland/"
+      },
+      {
+        "title": "Complete the main quest",
+        "body": "Follow the ordinary main route through three SETI-COM defenses, the speakers, Alien phase, UFO destruction and Soul Key pickup.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/zombies-in-spaceland/"
+      },
+      {
+        "title": "Check the ending and card",
+        "body": "Finish the quest while playing as Willard, then check the resulting ending and Willard’s Test calling card. Merely entering his code is not this challenge.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/Infinitewarfare/comments/abtb3w/anyone_have_any_threads_on_all_the_secret_zombies/"
+      }
+    ],
+    "players": "Play as Willard; Director’s Cut",
+    "difficulty": "Hard",
+    "relatedGuideIds": [
+      "iw-zombies-in-spaceland-community-zombies-in-spaceland-quests-easter-eggs-play-as-willard-wyler",
+      "iw-zombies-in-spaceland-main",
+      "iw-the-beast-from-beyond-community-the-beast-from-beyond-director-s-cut-extras-mephistopheles-battle"
+    ],
+    "sources": [
+      {
+        "title": "r/CODZombies map reference",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/zombies-in-spaceland/"
+      },
+      {
+        "title": "Firsthand secret calling-card inventory",
+        "url": "https://www.reddit.com/r/Infinitewarfare/comments/abtb3w/anyone_have_any_threads_on_all_the_secret_zombies/"
+      },
+      {
+        "title": "Independent completion/reward report",
+        "url": "https://www.reddit.com/r/Infinitewarfare/comments/16rpqs9"
+      }
+    ],
+    "checked": "2026-10-17",
+    "sourceQuote": null,
+    "supplementNote": "Quoted passages retain their source attribution. Original steps and tips are separately written supplements."
+  },
+  {
+    "id": "iw-zombies-in-spaceland-arcade-achievements",
+    "mapId": "iw-zombies-in-spaceland",
+    "title": "Arcade achievements: Insert Coin and Brain Dead",
+    "category": "side",
+    "summary": "Track the different games for Insert Coin, then reach Scene 10 and complete 30 games for Brain Dead.",
+    "reward": "Insert Coin and Brain Dead achievement attempts.",
+    "requirements": [
+      "Publisher-supplied Steam descriptions: play every Arcade game at least once; play 30 games and reach Scene 10.",
+      "Start and complete games rather than only opening their cabinet view.",
+      "The firsthand 2024 route below includes park and Afterlife games; exact Ghosts ’n Skulls necessity and team-wide achievement credit remain disputed.",
+      "Solo Afterlife attempt: buy Up ’N Atoms before taking a down."
+    ],
+    "steps": [
+      {
+        "title": "Play the five Astrocade skill games",
+        "body": "Complete Rings of Saturn, Black Hole, Cryptid Attack, Zombie Zoom and Bowling for Planets. Stay until each awards its tickets.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/Infinitewarfare/comments/1fucr00/i_got_the_platinum_in_late_2024_all_in_one_guide/"
+      },
+      {
+        "title": "Start the eight classic titles",
+        "body": "Play Cosmic Commuter, River Raid II, Barnstorming, Chopper Command, Demon Attack, Robot Tank, Spider Fighter and Pitfall II: Lost Caverns. One cabinet of each title is the documented checklist, not every duplicate cabinet.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/Infinitewarfare/comments/1fucr00/i_got_the_platinum_in_late_2024_all_in_one_guide/"
+      },
+      {
+        "title": "Play the two park games",
+        "body": "Complete Octonian Hunter in Kepler and the Triton roller coaster in Polar Peak; collect the ticket results.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/Infinitewarfare/comments/1fucr00/i_got_the_platinum_in_late_2024_all_in_one_guide/"
+      },
+      {
+        "title": "Reach Scene 10; count 30 games",
+        "body": "Brain Dead’s published condition is 30 games and Scene 10, not 30 different titles. Continue completing games after the variety checklist until the counter condition is met.",
+        "original": true,
+        "researchSource": "https://steamcommunity.com/stats/292730/achievements"
+      },
+      {
+        "title": "Use the Afterlife checklist if needed",
+        "body": "The firsthand PlayStation route also starts all classic titles and skill games in the Afterlife, including its shooting gallery. Repeating Black Hole there is the reported way to add games quickly.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/Infinitewarfare/comments/1fucr00/i_got_the_platinum_in_late_2024_all_in_one_guide/"
+      },
+      {
+        "title": "Check the unlock before resetting",
+        "body": "Check achievement progress before ending the match. If Insert Coin has not registered, compare the full game list and follow the separate Ghosts ’n Skulls guide if choosing to test the disputed remaining cabinet.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/Infinitewarfare/comments/1fucr00/i_got_the_platinum_in_late_2024_all_in_one_guide/",
+        "tip": "Player reports conflict about GnS, same-match bookkeeping and co-op credit. This checklist records the published targets and a successful firsthand method, without guaranteeing an unlock workaround."
+      }
+    ],
+    "players": "1–4 players",
+    "difficulty": "Standard map",
+    "relatedGuideIds": [
+      "iw-zombies-in-spaceland-community-zombies-in-spaceland-map-overview-astrocade",
+      "iw-zombies-in-spaceland-community-zombies-in-spaceland-map-overview-afterlife-arcade",
+      "iw-zombies-in-spaceland-community-zombies-in-spaceland-gameplay-systems-park-games",
+      "iw-zombies-in-spaceland-community-zombies-in-spaceland-quests-easter-eggs-ghosts-n-skulls"
+    ],
+    "sources": [
+      {
+        "title": "r/CODZombies map reference",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/zombies-in-spaceland/"
+      },
+      {
+        "title": "Official Steam achievement descriptions",
+        "url": "https://steamcommunity.com/stats/292730/achievements"
+      },
+      {
+        "title": "u/Ascensor2: full firsthand PlayStation route and contradictory reports",
+        "url": "https://www.reddit.com/r/Infinitewarfare/comments/1fucr00/i_got_the_platinum_in_late_2024_all_in_one_guide/"
+      }
+    ],
+    "checked": "2026-10-17",
+    "sourceQuote": null,
+    "supplementNote": "Quoted passages retain their source attribution. Original steps and tips are separately written supplements."
+  },
+  {
+    "id": "iw-zombies-in-spaceland-bigger-they-are",
+    "mapId": "iw-zombies-in-spaceland",
+    "title": "The Bigger They Are: five Brutes in one game",
+    "category": "side",
+    "summary": "Use repeated SETI-COM failures to spawn and defeat five Brutes in one match.",
+    "players": "Solo documented; co-op credit caveat below",
+    "difficulty": "Standard Spaceland",
+    "requirements": [
+      "Published target: defeat five Brutes in one game without dying. For a clean attempt, avoid both Last Stand and Afterlife; the official wording does not distinguish a down from bleeding out.",
+      "Standard Spaceland. Current-build, Director’s Cut, Boss Battles and local/offline account eligibility have not been validated for this checklist.",
+      "Shared co-op credit and a previously dead player’s eligibility remain unsettled here. Confirm the unlock on your own account.",
+      "Obtain the SETI-COM, a reliable gun, ammunition and survival perks. A wonder-weapon build and full main-quest completion are not needed for this failure loop.",
+      "Save intentional Afterlife arcade achievement steps for another match while following this clean-run approach."
+    ],
+    "reward": "The Bigger They Are achievement / trophy.",
+    "steps": [
+      {
+        "title": "Get the SETI-COM",
+        "body": "Use the linked Power, Pack-a-Punch and SETI-COM checklists. Enter the Projection Room, collect calculator, boombox and umbrella, then collect the completed device from Hoff. Pause main-quest progress at its defense stage.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g90dbx/spaceland_ultimate_guide/"
+      },
+      {
+        "title": "Stock ammunition and perks",
+        "body": "Choose a gun with an accessible ammunition refill. The original creator uses the Oni and recommends Bang Bangs plus Tuff Nuff. Prepare your purchases before deliberately failing the device; no particular weapon variant is prescribed.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=tBGWiZ4zftI"
+      },
+      {
+        "title": "Place it and let it break",
+        "body": "Carry the SETI-COM to an active shaking / placement-prompt location. Place it, move to a safe route and let zombies destroy it. A Brute spawns when that defense fails.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=tBGWiZ4zftI&t=130s"
+      },
+      {
+        "title": "Shoot the Brute’s head",
+        "body": "Lead the Brute into open Cosmic Way near the central portal and keep an escape lane. Shoot its helmet until it removes it, then keep shooting the exposed head until it dies. If the helmet returns, repeat the head damage.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/Infinitewarfare/comments/kwrv9o/",
+        "tip": "Finish one Brute before causing another failure. These are the large mascot enemies, separate from the main quest’s final Alien boss."
+      },
+      {
+        "title": "Refill and replace the device",
+        "body": "Refill ammunition, find Hoff’s active DJ booth and collect another SETI-COM. Players document repeated replacements within a scene. If he offers nothing, recheck the active booth and use the actual handoff prompt; advance the scene if needed.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/Trophies/comments/j846be/comment/g89cj18/"
+      },
+      {
+        "title": "Repeat until five kills",
+        "body": "Repeat: place the replacement, let it break, defeat its Brute, refill and return to Hoff. Count completed Brute kills and keep all five in this same match. Stay alive through the fifth kill.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/Trophies/comments/j846be/comment/g89cj18/"
+      },
+      {
+        "title": "Check your own unlock",
+        "body": "After the fifth Brute, check your platform’s achievement or trophy list before ending the match. The creator’s footage shows a Scene 7 unlock; that scene number is an example, not a deadline or required round.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=tBGWiZ4zftI&t=215s"
+      }
+    ],
+    "relatedGuideIds": [
+      "iw-zombies-in-spaceland-community-zombies-in-spaceland-gameplay-systems-power",
+      "iw-zombies-in-spaceland-community-zombies-in-spaceland-gameplay-systems-pack-a-punch",
+      "iw-zombies-in-spaceland-seticom-parts",
+      "iw-zombies-in-spaceland-main",
+      "iw-zombies-in-spaceland-arcade-achievements"
+    ],
+    "sources": [
+      {
+        "title": "Steam: published achievement condition (filter for the title)",
+        "url": "https://steamcommunity.com/achievements/292730"
+      },
+      {
+        "title": "360GameTV: original failure-loop demonstration, November 9, 2016",
+        "url": "https://www.youtube.com/watch?v=tBGWiZ4zftI"
+      },
+      {
+        "title": "Video reference: placed SETI-COM at 2:10",
+        "url": "https://www.youtube.com/watch?v=tBGWiZ4zftI&t=130s"
+      },
+      {
+        "title": "Video reference: Brute at 2:35",
+        "url": "https://www.youtube.com/watch?v=tBGWiZ4zftI&t=155s"
+      },
+      {
+        "title": "Video reference: Scene 7 unlock at 3:35",
+        "url": "https://www.youtube.com/watch?v=tBGWiZ4zftI&t=215s"
+      },
+      {
+        "title": "u/Fniley: independent solo completion and repeat-loop replies",
+        "url": "https://www.reddit.com/r/Trophies/comments/j846be/comment/g89cj18/"
+      },
+      {
+        "title": "Player discussion: helmet removal and exposed-head damage",
+        "url": "https://www.reddit.com/r/Infinitewarfare/comments/kwrv9o/"
+      },
+      {
+        "title": "Main-route setup and replacement timing comparison",
+        "url": "https://www.reddit.com/r/CODZombies/comments/g90dbx/spaceland_ultimate_guide/"
+      }
+    ],
+    "checked": "2026-10-17"
   }
 ]

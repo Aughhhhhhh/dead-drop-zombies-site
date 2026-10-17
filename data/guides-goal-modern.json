@@ -1699,73 +1699,255 @@
   {
     "id": "coldwar-forsaken-intel-season-6",
     "mapId": "coldwar-forsaken",
-    "title": "Forsaken intel: fixed logs, documents and quest artifacts",
+    "title": "Forsaken intel: 11 logs, 16 documents and 9 artifacts",
     "category": "side",
     "difficulty": "Medium",
     "players": "1–4 players, online; progress is per account",
-    "summary": "A map-specific selection from Ricerat477's firsthand seasonal intel list, with fixed pickup locations and the acquisition methods for repeatable rewards.",
+    "summary": "Follow individual fixed-log locations, farm the random documents, and collect the nine quest artifacts.",
     "requirements": [
-      "Use Barracks → Intel to check the map, faction and season before looking for a missing entry.",
-      "Follow the companion main-quest / Wonder Weapon routes for entries marked Main EE; physical pickups still require interaction.",
-      "Radio transmissions require new matches to hear the next entries. Check dropped document pickups after special / elite kills; do intel Trials for Dark Aether logs, documents and transmissions."
+      "Standard Forsaken, online account; check Season Six / map / faction in Barracks → Intel.",
+      "Open the bunker. Use the main-quest and free Chrysalax companions for the gated logs and artifacts.",
+      "Random documents require repeat matches. The extra story-radio conversations are not Barracks intel."
     ],
-    "reward": "The listed lore collectibles recorded in Barracks → Intel.",
+    "reward": "36 Forsaken Season Six intel entries recorded to the collecting account.",
     "steps": [
       {
-        "title": "Requiem: audio logs",
-        "body": "Audio Logs(All 4 are on Forsaken)\n\n* \"The Zarkarpastska Oblast\"- In the Staging area, right next to a truck.\n\n* \"For Health\"-In the Bar, on the bar itself.\n\n* \"Russian to Russian\"- In the Office, under a desk chair near the horizontal desk.\n\n* \"Symbiotic Relationship\"- In the Storage Area 5 Rooftops, next to the box location. This only spawns after breaking the 3 orbs around the giant crystal nearby for the main EE.",
-        "html": "<p>Audio Logs(All 4 are on Forsaken)</p>\r\n<ul>\r\n<li>&quot;The Zarkarpastska Oblast&quot;- In the Staging area, right next to a truck.</li>\r\n<li>&quot;For Health&quot;-In the Bar, on the bar itself.</li>\r\n<li>&quot;Russian to Russian&quot;- In the Office, under a desk chair near the horizontal desk.</li>\r\n<li>&quot;Symbiotic Relationship&quot;- In the Storage Area 5 Rooftops, next to the box location. This only spawns after breaking the 3 orbs around the giant crystal nearby for the main EE.</li>\r\n</ul>"
+        "title": "Check the 36-entry map inventory",
+        "body": "Forsaken’s Season Six list contains 11 audio logs, 16 documents and 9 artifacts: Requiem 15, Omega 13, Maxis 4 and Dark Aether 4. Check each entry under Barracks → Intel before searching.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/q2hqa1/",
+        "tip": "Forsaken’s extra story radios are a separate listening route. This map’s list does not require Outbreak golden chests, radio-transmission farming or intel Trials."
       },
       {
-        "title": "Requiem: documents",
-        "body": "Documents\n\nAll are from special or elite kills, or from golden chests in Outbreak\n\n* \"Collapse Report\"-Forsaken\n\n* \"Requiem Neutralizer Blueprint\"-Forsaken\n\n* \"Ancient Parchment\"-Forsaken\n\n* \"Ancient Parchment 2\"-Forsaken\n\n* \"Memorandum for the Board\"-Forsaken\n\n* \"Progress Report\"-Forsaken",
-        "html": "<p>Documents</p>\r\n<p>All are from special or elite kills, or from golden chests in Outbreak</p>\r\n<ul>\r\n<li>&quot;Collapse Report&quot;-Forsaken</li>\r\n<li>&quot;Requiem Neutralizer Blueprint&quot;-Forsaken</li>\r\n<li>&quot;Ancient Parchment&quot;-Forsaken</li>\r\n<li>&quot;Ancient Parchment 2&quot;-Forsaken</li>\r\n<li>&quot;Memorandum for the Board&quot;-Forsaken</li>\r\n<li>&quot;Progress Report&quot;-Forsaken</li>\r\n</ul>"
+        "title": "Requiem log: Zakarpatska",
+        "body": "Collect The Zakarpatska Oblast from the crate beside Staging Area’s truck. The pickup banner confirms the spelling.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=KCKlCFg8WRQ&t=60s",
+        "images": [
+          {
+            "src": "./assets/batch9-forsaken-intel-zakarpatska.webp",
+            "alt": "Staging Area crate beside the truck; the pickup banner names The Zakarpatska Oblast.",
+            "caption": "Staging Area crate beside the truck; the pickup banner names The Zakarpatska Oblast.",
+            "credit": "Native gameplay frame: MysteryHQ / YouTube; Black Ops Cold War © Activision (8 Oct 2021 footage).",
+            "source": "https://www.youtube.com/watch?v=KCKlCFg8WRQ&t=60s"
+          }
+        ]
       },
       {
-        "title": "Requiem: artifacts",
-        "body": "Artifacts\n\n* \"Monitoring Device\"- On Forsaken, in the Television Store. Part of the main EE.\n\n* \"Fuel Tank\"-On Forsaken, in Fuel Processing. Part of the main EE.\n\n* \"Housing Unit\"- On Forsaken, in the Board Room. Part of the main EE.\n\n* \"The Chrysalax\"-On Forsaken, Acquire the Chrysalax.\n\n* \"Aetherium Neutralizer\"-On Forsaken, part of the main EE.",
-        "html": "<p>Artifacts</p>\r\n<ul>\r\n<li>&quot;Monitoring Device&quot;- On Forsaken, in the Television Store. Part of the main EE.</li>\r\n<li>&quot;Fuel Tank&quot;-On Forsaken, in Fuel Processing. Part of the main EE.</li>\r\n<li>&quot;Housing Unit&quot;- On Forsaken, in the Board Room. Part of the main EE.</li>\r\n<li>&quot;The Chrysalax&quot;-On Forsaken, Acquire the Chrysalax.</li>\r\n<li>&quot;Aetherium Neutralizer&quot;-On Forsaken, part of the main EE.</li>\r\n</ul>"
+        "title": "Requiem log: For Health",
+        "body": "\"For Health\"-In the Bar, on the bar itself.",
+        "html": "<p>&quot;For Health&quot;-In the Bar, on the bar itself.</p><p>— <a href=\"https://www.reddit.com/r/CODZombies/comments/q2hqa1/\">u/Ricerat477</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/q2hqa1/"
       },
       {
-        "title": "Omega: audio logs",
-        "body": "Audio Logs\n\n* \"Deja Vu\"-On Forsaken, in the Checkpoint area. It's on the ground right behind the security booth.\n\n* \"The Magnificent Two\"-On Forsaken, in the Fuel Processing Area. Just to the left of the teleporter, leaning against a wall.\n\n* \"Fully Operational\"-On Forsaken, in The Amplifier. it's on the top level of the control room, leaning against a guard rail. the Portal to the Observation tower is visible.\n\n* \"The Agreement\"-On Forsaken, in the Television store. It's on the counter, next to where you pick up the Monitoring Device for the main EE. It only spawns in after you trigger that part to spawn.",
-        "html": "<p>Audio Logs</p>\r\n<ul>\r\n<li>&quot;Deja Vu&quot;-On Forsaken, in the Checkpoint area. It&#39;s on the ground right behind the security booth.</li>\r\n<li>&quot;The Magnificent Two&quot;-On Forsaken, in the Fuel Processing Area. Just to the left of the teleporter, leaning against a wall.</li>\r\n<li>&quot;Fully Operational&quot;-On Forsaken, in The Amplifier. it&#39;s on the top level of the control room, leaning against a guard rail. the Portal to the Observation tower is visible.</li>\r\n<li>&quot;The Agreement&quot;-On Forsaken, in the Television store. It&#39;s on the counter, next to where you pick up the Monitoring Device for the main EE. It only spawns in after you trigger that part to spawn.</li>\r\n</ul>"
+        "title": "Requiem log: Russian to Russian",
+        "body": "\"Russian to Russian\"- In the Office, under a desk chair near the horizontal desk.",
+        "html": "<p>&quot;Russian to Russian&quot;- In the Office, under a desk chair near the horizontal desk.</p><p>— <a href=\"https://www.reddit.com/r/CODZombies/comments/q2hqa1/\">u/Ricerat477</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/q2hqa1/"
       },
       {
-        "title": "Omega: documents",
-        "body": "Documents\n\n(All are from special or elite kills on Forsaken)\n\n* \"ARC-XD Blueprint\"\n\n* \"Operasiya Izbavitel Approval\"\n\n* \"Test Site Construction Blueprint\"\n\n* \"Anton Note\"\n\n* \"Containment Chamber Blueprint\"\n\n* \"Order of Operations\"\n\n* \"Aetherium Gun Turret Blueprint\"\n\n* \"Location Targets\"\n\n* \"Forsaken Photograph\"",
-        "html": "<p>Documents</p>\r\n<p>(All are from special or elite kills on Forsaken)</p>\r\n<ul>\r\n<li>&quot;ARC-XD Blueprint&quot;</li>\r\n<li>&quot;Operasiya Izbavitel Approval&quot;</li>\r\n<li>&quot;Test Site Construction Blueprint&quot;</li>\r\n<li>&quot;Anton Note&quot;</li>\r\n<li>&quot;Containment Chamber Blueprint&quot;</li>\r\n<li>&quot;Order of Operations&quot;</li>\r\n<li>&quot;Aetherium Gun Turret Blueprint&quot;</li>\r\n<li>&quot;Location Targets&quot;</li>\r\n<li>&quot;Forsaken Photograph&quot;</li>\r\n</ul>"
+        "title": "Requiem log: Symbiotic Relationship",
+        "body": "\"Symbiotic Relationship\"- In the Storage Area 5 Rooftops, next to the box location. This only spawns after breaking the 3 orbs around the giant crystal nearby for the main EE.",
+        "html": "<p>&quot;Symbiotic Relationship&quot;- In the Storage Area 5 Rooftops, next to the box location. This only spawns after breaking the 3 orbs around the giant crystal nearby for the main EE.</p><p>— <a href=\"https://www.reddit.com/r/CODZombies/comments/q2hqa1/\">u/Ricerat477</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/q2hqa1/",
+        "images": [
+          {
+            "src": "./assets/batch9-forsaken-intel-symbiotic-detail.webp",
+            "alt": "Storage Zone 5 rooftop: Symbiotic Relationship collection beside the rooftop equipment; cropped detail.",
+            "caption": "Storage Zone 5 rooftop: Symbiotic Relationship collection beside the rooftop equipment; cropped detail.",
+            "credit": "Native gameplay frame: MysteryHQ / YouTube; Black Ops Cold War © Activision (8 Oct 2021 footage).",
+            "source": "https://www.youtube.com/watch?v=KCKlCFg8WRQ&t=140s"
+          }
+        ],
+        "tip": "Shoot the three orbiting orbs first. The large crystal does not need to be smashed with the axe just to make this log appear."
       },
       {
-        "title": "Maxis: audio logs",
-        "body": "Audio Logs\n\n* \"My Control\"-On Forsaken, in the Video Store 1F area. it's on a shelf next to the mannequin in Blue pants and a pink shirt.\n\n* \"My Choice\"-On Forsaken, In the Particle Accelerator. Inside the tub where you build the free WW.\n\n* \"My Orders\"-On Forsaken, in the Beach Pizza area. It's on top of the overhang above the counter, you need to shoot it down.",
-        "html": "<p>Audio Logs</p>\r\n<ul>\r\n<li>&quot;My Control&quot;-On Forsaken, in the Video Store 1F area. it&#39;s on a shelf next to the mannequin in Blue pants and a pink shirt.</li>\r\n<li>&quot;My Choice&quot;-On Forsaken, In the Particle Accelerator. Inside the tub where you build the free WW.</li>\r\n<li>&quot;My Orders&quot;-On Forsaken, in the Beach Pizza area. It&#39;s on top of the overhang above the counter, you need to shoot it down.</li>\r\n</ul>"
+        "title": "Omega log: Deja Vu",
+        "body": "\"Deja Vu\"-On Forsaken, in the Checkpoint area. It's on the ground right behind the security booth.",
+        "html": "<p>&quot;Deja Vu&quot;-On Forsaken, in the Checkpoint area. It&#39;s on the ground right behind the security booth.</p><p>— <a href=\"https://www.reddit.com/r/CODZombies/comments/q2hqa1/\">u/Ricerat477</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/q2hqa1/"
       },
       {
-        "title": "Maxis: documents",
-        "body": "Documents\n\n* \"Maxis Approval Memo\"-Forsaken",
-        "html": "<p>Documents</p>\r\n<ul>\r\n<li>&quot;Maxis Approval Memo&quot;-Forsaken</li>\r\n</ul>"
+        "title": "Omega log: The Magnificent Two",
+        "body": "\"The Magnificent Two\"-On Forsaken, in the Fuel Processing Area. Just to the left of the teleporter, leaning against a wall.",
+        "html": "<p>&quot;The Magnificent Two&quot;-On Forsaken, in the Fuel Processing Area. Just to the left of the teleporter, leaning against a wall.</p><p>— <a href=\"https://www.reddit.com/r/CODZombies/comments/q2hqa1/\">u/Ricerat477</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/q2hqa1/"
       },
       {
-        "title": "Dark Aether: artifacts",
-        "body": "Artifacts\n\n* \"Polymorphic Crystal Core\"-On Forsaken, in the Main Street Area, inside Jim's Donuts. It's part of the free WW easter egg, basically stand on a crystal that spawns in an kill stuff until you can pick it up.\n\n* \"Tempered Crystal Heart\"-On Forsaken, Kill a Tormentor with a Flame Thrower. Part of the Free WW EE.\n\n* \"Energetic Geode\"-On Forsaken, Get an Abomination to Destroy a Dark aether Crystal(the Purple ones you can melee) with it's Laser. Part of the Free WW EE.\n\n* \"Catalyzed Crystal Shard\"-On Forsaken, Part of the main EE.",
-        "html": "<p>Artifacts</p>\r\n<ul>\r\n<li>&quot;Polymorphic Crystal Core&quot;-On Forsaken, in the Main Street Area, inside Jim&#39;s Donuts. It&#39;s part of the free WW easter egg, basically stand on a crystal that spawns in an kill stuff until you can pick it up.</li>\r\n<li>&quot;Tempered Crystal Heart&quot;-On Forsaken, Kill a Tormentor with a Flame Thrower. Part of the Free WW EE.</li>\r\n<li>&quot;Energetic Geode&quot;-On Forsaken, Get an Abomination to Destroy a Dark aether Crystal(the Purple ones you can melee) with it&#39;s Laser. Part of the Free WW EE.</li>\r\n<li>&quot;Catalyzed Crystal Shard&quot;-On Forsaken, Part of the main EE.</li>\r\n</ul>"
+        "title": "Omega log: Fully Operational",
+        "body": "\"Fully Operational\"-On Forsaken, in The Amplifier. it's on the top level of the control room, leaning against a guard rail. the Portal to the Observation tower is visible.",
+        "html": "<p>&quot;Fully Operational&quot;-On Forsaken, in The Amplifier. it&#39;s on the top level of the control room, leaning against a guard rail. the Portal to the Observation tower is visible.</p><p>— <a href=\"https://www.reddit.com/r/CODZombies/comments/q2hqa1/\">u/Ricerat477</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/q2hqa1/"
+      },
+      {
+        "title": "Omega log: The Agreement",
+        "body": "\"The Agreement\"-On Forsaken, in the Television store. It's on the counter, next to where you pick up the Monitoring Device for the main EE. It only spawns in after you trigger that part to spawn.",
+        "html": "<p>&quot;The Agreement&quot;-On Forsaken, in the Television store. It&#39;s on the counter, next to where you pick up the Monitoring Device for the main EE. It only spawns in after you trigger that part to spawn.</p><p>— <a href=\"https://www.reddit.com/r/CODZombies/comments/q2hqa1/\">u/Ricerat477</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/q2hqa1/",
+        "images": [
+          {
+            "src": "./assets/batch9-forsaken-intel-agreement-detail.webp",
+            "alt": "TV Store counter beside the Monitoring Device opening; cropped context for The Agreement.",
+            "caption": "TV Store counter beside the Monitoring Device opening; cropped context for The Agreement.",
+            "credit": "Native gameplay frame: MysteryHQ / YouTube; Black Ops Cold War © Activision (8 Oct 2021 footage).",
+            "source": "https://www.youtube.com/watch?v=KCKlCFg8WRQ&t=150s"
+          }
+        ],
+        "tip": "Complete the special Arcade ARC-XD vent / detonation route first; merely unlocking Pack-a-Punch does not expose this pickup."
+      },
+      {
+        "title": "Maxis log: My Control",
+        "body": "\"My Control\"-On Forsaken, in the Video Store 1F area. it's on a shelf next to the mannequin in Blue pants and a pink shirt.",
+        "html": "<p>&quot;My Control&quot;-On Forsaken, in the Video Store 1F area. it&#39;s on a shelf next to the mannequin in Blue pants and a pink shirt.</p><p>— <a href=\"https://www.reddit.com/r/CODZombies/comments/q2hqa1/\">u/Ricerat477</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/q2hqa1/",
+        "images": [
+          {
+            "src": "./assets/batch9-forsaken-intel-my-control-85.webp",
+            "alt": "Video Store 1F: pink-shirted mannequin and adjacent shelf for My Control.",
+            "caption": "Video Store 1F: pink-shirted mannequin and adjacent shelf for My Control.",
+            "credit": "Native gameplay frame: MysteryHQ / YouTube; Black Ops Cold War © Activision (8 Oct 2021 footage).",
+            "source": "https://www.youtube.com/watch?v=KCKlCFg8WRQ&t=85s"
+          }
+        ]
+      },
+      {
+        "title": "Maxis log: My Choice",
+        "body": "At Particle Accelerator, hug the purple pool’s rim near its valve / machinery and look down for Collect Intel. If unavailable, complete the free Chrysalax pool build, then check the rim again.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=KCKlCFg8WRQ&t=129s",
+        "images": [
+          {
+            "src": "./assets/batch9-forsaken-intel-my-choice-detail.webp",
+            "alt": "My Choice: Collect Intel prompt at the Particle Accelerator pool; cropped pickup detail.",
+            "caption": "My Choice: Collect Intel prompt at the Particle Accelerator pool; cropped pickup detail.",
+            "credit": "Native gameplay frame: MysteryHQ / YouTube; Black Ops Cold War © Activision (8 Oct 2021 footage).",
+            "source": "https://www.youtube.com/watch?v=KCKlCFg8WRQ&t=130s"
+          }
+        ],
+        "tip": "Move along the edge if the prompt is elusive. A random Box weapon does not complete the pool build."
+      },
+      {
+        "title": "Maxis log: My Orders",
+        "body": "\"My Orders\"-On Forsaken, in the Beach Pizza area. It's on top of the overhang above the counter, you need to shoot it down.",
+        "html": "<p>&quot;My Orders&quot;-On Forsaken, in the Beach Pizza area. It&#39;s on top of the overhang above the counter, you need to shoot it down.</p><p>— <a href=\"https://www.reddit.com/r/CODZombies/comments/q2hqa1/\">u/Ricerat477</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/q2hqa1/",
+        "tip": "After shooting it down, move to the fallen recorder and interact to collect it."
+      },
+      {
+        "title": "Documents: collect special drops",
+        "body": "Check the loot after killing special / elite enemies, including Mimics and Abominations. Interact with any dropped document. The document is random; Maxis Approval Memo is also a drop, not a fixed desk pickup.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/q2hqa1/",
+        "tip": "Firsthand collection reports describe one document per match. Plan repeat matches; the present-build cap and drop odds have not been independently retested."
+      },
+      {
+        "title": "Requiem: six documents",
+        "body": "\"Collapse Report\"-Forsaken\n\"Requiem Neutralizer Blueprint\"-Forsaken\n\"Ancient Parchment\"-Forsaken\n\"Ancient Parchment 2\"-Forsaken\n\"Memorandum for the Board\"-Forsaken\n\"Progress Report\"-Forsaken",
+        "html": "<p>&quot;Collapse Report&quot;-Forsaken<br>&quot;Requiem Neutralizer Blueprint&quot;-Forsaken<br>&quot;Ancient Parchment&quot;-Forsaken<br>&quot;Ancient Parchment 2&quot;-Forsaken<br>&quot;Memorandum for the Board&quot;-Forsaken<br>&quot;Progress Report&quot;-Forsaken</p><p>— <a href=\"https://www.reddit.com/r/CODZombies/comments/q2hqa1/\">u/Ricerat477</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/q2hqa1/"
+      },
+      {
+        "title": "Omega: nine documents",
+        "body": "\"ARC-XD Blueprint\"\n\"Operasiya Izbavitel Approval\"\n\"Test Site Construction Blueprint\"\n\"Anton Note\"\n\"Containment Chamber Blueprint\"\n\"Order of Operations\"\n\"Aetherium Gun Turret Blueprint\"\n\"Location Targets\"\n\"Forsaken Photograph\"",
+        "html": "<p>&quot;ARC-XD Blueprint&quot;<br>&quot;Operasiya Izbavitel Approval&quot;<br>&quot;Test Site Construction Blueprint&quot;<br>&quot;Anton Note&quot;<br>&quot;Containment Chamber Blueprint&quot;<br>&quot;Order of Operations&quot;<br>&quot;Aetherium Gun Turret Blueprint&quot;<br>&quot;Location Targets&quot;<br>&quot;Forsaken Photograph&quot;</p><p>— <a href=\"https://www.reddit.com/r/CODZombies/comments/q2hqa1/\">u/Ricerat477</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/q2hqa1/",
+        "tip": "The quoted list retains the author’s spelling. Use your Barracks inventory to match the Izbavitel approval entry."
+      },
+      {
+        "title": "Maxis: one document",
+        "body": "\"Maxis Approval Memo\"-Forsaken",
+        "html": "<p>&quot;Maxis Approval Memo&quot;-Forsaken</p><p>— <a href=\"https://www.reddit.com/r/CODZombies/comments/q2hqa1/\">u/Ricerat477</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/q2hqa1/"
+      },
+      {
+        "title": "Artifact: Monitoring Device",
+        "body": "Power the Grand Prix cabinet in the Arcade with an electrical zombie kill and buy its 2,000-Essence ARC-XD. Pulse open TV Store’s counter vent, drive through and detonate by the rear shelf. Collect the device through the newly broken opening.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/q57hpu/forsaken_easter_egg_guide/"
+      },
+      {
+        "title": "Artifact: Fuel Tank",
+        "body": "In Fuel Processing, interact with one Processing Tank button solo. In co-op, gather everyone in the area and have all players hold Interact on a tank button together. Finish the lockdown and collect the Fuel Tank dropped in the middle.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/q57hpu/forsaken_easter_egg_guide/"
+      },
+      {
+        "title": "Artifact: Housing Unit",
+        "body": "In the bunker Board Room, find the suspended unit above the corner. Stand beneath it to bait an Abomination charge, dodge aside, and collect the unit knocked from the ceiling.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/q30mrr/forsaken_easter_egg_hunt_general_map_discussion/"
+      },
+      {
+        "title": "Artifact: The Chrysalax",
+        "body": "Acquire the Chrysalax. The repeatable acquisition choices are the free three-part pool build, a random Mystery Box roll or a random Legendary Trial reward; the companion guide explains the full build.",
+        "original": true,
+        "researchSource": "https://news.blizzard.com/en-us/article/23734581/new-wonder-weapon-discover-the-chrysalax"
+      },
+      {
+        "title": "Artifact: Aetherium Neutralizer",
+        "body": "Collect the Fuel Tank, Monitoring Device, Housing Unit and all three Catalyzed Crystal Shards. Use the workbench at the end of Main Street to build the Aetherium Neutralizer.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/q57hpu/forsaken_easter_egg_guide/"
+      },
+      {
+        "title": "Artifact: Polymorphic Crystal Core",
+        "body": "After the story reveal and meteor cue, approach the orange crystal in Jim’s Donuts on Main Street. Defeat its special-enemy defense and interact when the crystal becomes available.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/q30mrr/forsaken_easter_egg_hunt_general_map_discussion/"
+      },
+      {
+        "title": "Artifact: Tempered Crystal Heart",
+        "body": "Kill a red Tormentor with a Flamethrower and interact with its dropped crystal heart. This is one of the three free Chrysalax ingredients.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/q57hpu/forsaken_easter_egg_guide/"
+      },
+      {
+        "title": "Artifact: Energetic Geode",
+        "body": "Bait an Abomination’s blue beam through a small ambient purple crystal. Collect the geode left where it breaks; this is not one of the three giant main-quest crystals.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/q57hpu/forsaken_easter_egg_guide/"
+      },
+      {
+        "title": "Artifact: Catalyzed Crystal Shard",
+        "body": "Obtain the Fuel Tank first. Shoot a large crystal’s three orbiting orbs, smash the center with the Chrysalax axe and take the shard. Throw it into the spawned Abomination’s open mouth; kill it after it consumes the shard and collect its catalyzed drop.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/q57hpu/forsaken_easter_egg_guide/"
       }
     ],
     "sources": [
       {
-        "title": "u/Ricerat477 — seasonal intel list and community location reports",
+        "title": "u/Ricerat477: complete Season Six list, fixed spots and collection-limit comments",
         "url": "https://www.reddit.com/r/CODZombies/comments/q2hqa1/"
+      },
+      {
+        "title": "MysteryHQ: native video of all 11 audio pickups, quest gates and documents",
+        "url": "https://www.youtube.com/watch?v=KCKlCFg8WRQ"
+      },
+      {
+        "title": "u/GameLord104: artifact-acquisition mechanics",
+        "url": "https://www.reddit.com/r/CODZombies/comments/q57hpu/forsaken_easter_egg_guide/"
+      },
+      {
+        "title": "Firsthand Forsaken discoveries and completed quest routes",
+        "url": "https://www.reddit.com/r/CODZombies/comments/q30mrr/forsaken_easter_egg_hunt_general_map_discussion/"
+      },
+      {
+        "title": "Activision: Chrysalax acquisition methods",
+        "url": "https://news.blizzard.com/en-us/article/23734581/new-wonder-weapon-discover-the-chrysalax"
       }
     ],
     "sourceQuote": "https://www.reddit.com/r/CODZombies/comments/q2hqa1/",
     "sourceOmissions": [
-      "Entries for the other map / mode in this multi-map release post are omitted from this map's checklist."
+      "The multi-map post’s Outbreak entries, golden-chest instructions and non-Forsaken radio / Trial acquisition methods are omitted.",
+      "Quoted fixed-location lines and document lists retain the source’s wording; authored corrections and acquisition routes are marked original."
     ],
-    "checked": "2026-10-16",
+    "checked": "2026-10-17",
     "relatedGuideIds": [
       "coldwar-forsaken-main",
-      "coldwar-forsaken-chrysalax"
+      "coldwar-forsaken-chrysalax",
+      "coldwar-forsaken-chrysalax-forms-upgrades",
+      "coldwar-forsaken-lore-radios",
+      "coldwar-forsaken-lockdown-pack-a-punch"
     ]
   },
   {
@@ -6627,5 +6809,416 @@
       "coldwar-mauer-der-toten-main"
     ],
     "checked": "2026-10-16"
+  },
+  {
+    "mapId": "coldwar-forsaken",
+    "players": "1–4 players; Standard Forsaken",
+    "checked": "2026-10-17",
+    "id": "coldwar-forsaken-lockdown-pack-a-punch",
+    "title": "Lift lockdown: repair parts and Pack-a-Punch",
+    "category": "side",
+    "difficulty": "Easy",
+    "summary": "Travel from Staging Area to the tower, search the four part rooms, then open the bunker and Pack-a-Punch.",
+    "requirements": [
+      "Standard Forsaken; earn Essence for the marked doors.",
+      "One repair part is selected in each of the four rooms. Search the documented spots below."
+    ],
+    "reward": "Observation Tower Pack-a-Punch access, open bunker rooms and faster return routes.",
+    "images": [
+      {
+        "src": "./assets/batch9-forsaken-official-anytown-east.webp",
+        "alt": "Official Forsaken promotional image: Anytown East.",
+        "caption": "Official Forsaken promotional image: Anytown East.",
+        "credit": "Official Forsaken promotional image: Activision / Treyarch, via Blizzard News (2021).",
+        "source": "https://news.blizzard.com/en-us/article/23733292/surviving-forsakena-guide-to-the-final-chapter-of-call-of-duty-black-ops-cold-war-zombies"
+      },
+      {
+        "src": "./assets/batch9-forsaken-official-staging.webp",
+        "alt": "Official Forsaken promotional image: Staging Area teleporter.",
+        "caption": "Official Forsaken promotional image: Staging Area teleporter.",
+        "credit": "Official Forsaken promotional image: Activision / Treyarch, via Blizzard News (2021).",
+        "source": "https://news.blizzard.com/en-us/article/23733292/surviving-forsakena-guide-to-the-final-chapter-of-call-of-duty-black-ops-cold-war-zombies"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Warm up Staging’s teleporter",
+        "body": "Start Staging’s teleporter, survive the 30-second warm-up, then interact again for Checkpoint. Remaining in Staging makes rounds advance rapidly.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=aKKUrEIbSRc&t=29s"
+      },
+      {
+        "title": "Reach the broken teleporter",
+        "body": "From Checkpoint, cross into Main Street. Follow the marker to its bridge teleporter and travel to Video Store Rooftop. Open the linked streets toward Fuel Processing’s broken teleporter.",
+        "original": true,
+        "researchSource": "https://tracker.gg/cold-war/articles/black-ops-cold-war-zombies-forsaken-power-pack-a-punch-guide"
+      },
+      {
+        "title": "Circuit Board: Video Store 1F",
+        "body": "Search the Video Store 1F back room:\n• Wooden crate beneath the stairs.\n• Crate beside the wire spool.\n• Crate near the doorway.\n• Shelf with paint buckets.",
+        "original": true,
+        "researchSource": "https://tracker.gg/cold-war/articles/black-ops-cold-war-zombies-forsaken-power-pack-a-punch-guide"
+      },
+      {
+        "title": "Focusing Lens: Cinema",
+        "body": "Search Cinema’s lobby:\n• Candy / concession display.\n• Shelf near televisions.\n• Bench beside movie posters.\n• Hands of the seated mannequin.",
+        "original": true,
+        "researchSource": "https://tracker.gg/cold-war/articles/black-ops-cold-war-zombies-forsaken-power-pack-a-punch-guide"
+      },
+      {
+        "title": "Cathode-Ray Tube: TV Store",
+        "body": "Check TV Store’s cart near the plant, shelving by the window, and the shelf between televisions. Collect your glowing tube.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=aKKUrEIbSRc&t=178s"
+      },
+      {
+        "title": "Fryer Cage: Burger Town",
+        "body": "Search Burger Town’s counter / kitchen and seating edge:\n• Beside the cash registers.\n• Beside the cola dispensers.\n• Under the American flag.",
+        "original": true,
+        "researchSource": "https://tracker.gg/cold-war/articles/black-ops-cold-war-zombies-forsaken-power-pack-a-punch-guide"
+      },
+      {
+        "title": "Repair and enter the bunker",
+        "body": "Return to Fuel Processing and hold Interact at the broken teleporter with all four parts. Travel through, follow the bunker marker and open the door toward the Amplifier.",
+        "original": true,
+        "researchSource": "https://tracker.gg/cold-war/articles/black-ops-cold-war-zombies-forsaken-power-pack-a-punch-guide"
+      },
+      {
+        "title": "Defeat the guarding Abomination",
+        "body": "Kill the Abomination guarding the Amplifier teleporter. Shoot an open, glowing mouth for its weak point, then take the teleporter to Observation Tower.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=aKKUrEIbSRc&t=216s"
+      },
+      {
+        "title": "Lift lockdown at the console",
+        "body": "Use Observation Tower’s marked terminal. Pack-a-Punch opens nearby; leave before radiation damages you.",
+        "original": true,
+        "researchSource": "https://news.blizzard.com/en-us/article/23733292/surviving-forsakena-guide-to-the-final-chapter-of-call-of-duty-black-ops-cold-war-zombies",
+        "tip": "Power is already on. The separate shutter-side button starts the story reveal after lockdown is lifted."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Ethan C: four repair parts and documented search spots",
+        "url": "https://tracker.gg/cold-war/articles/black-ops-cold-war-zombies-forsaken-power-pack-a-punch-guide"
+      },
+      {
+        "title": "MrDalekJD: native opening, parts, bunker Abomination and tower route",
+        "url": "https://www.youtube.com/watch?v=aKKUrEIbSRc"
+      },
+      {
+        "title": "Activision / Treyarch: power state, map routes and tower radiation",
+        "url": "https://news.blizzard.com/en-us/article/23733292/surviving-forsakena-guide-to-the-final-chapter-of-call-of-duty-black-ops-cold-war-zombies"
+      }
+    ],
+    "relatedGuideIds": [
+      "coldwar-forsaken-main",
+      "coldwar-forsaken-chrysalax",
+      "coldwar-forsaken-perks-trials-utilities"
+    ]
+  },
+  {
+    "mapId": "coldwar-forsaken",
+    "players": "1–4 players; Standard Forsaken",
+    "checked": "2026-10-17",
+    "id": "coldwar-forsaken-chrysalax-forms-upgrades",
+    "title": "Chrysalax: forms, ammo and damage upgrades",
+    "category": "weapon",
+    "difficulty": "Easy",
+    "summary": "Use the axe, charged blade and gun correctly; compare acquisition options and upgrade the weapon at Pack-a-Punch.",
+    "requirements": [
+      "Standard Forsaken; obtain a Chrysalax through the free build, Mystery Box, Legendary Trials or possible dragon-chest loot.",
+      "Lift lockdown for Pack-a-Punch. Outside-match Melee skill upgrades are optional preparation."
+    ],
+    "reward": "A replenished, Pack-a-Punched Chrysalax; additional acquisition chances for teammates.",
+    "images": [
+      {
+        "src": "./assets/batch9-forsaken-official-anytown-west.webp",
+        "alt": "Official Forsaken promotional image: Chrysalax outside Cinema.",
+        "caption": "Official Forsaken promotional image: Chrysalax outside Cinema.",
+        "credit": "Official Forsaken promotional image: Activision / Treyarch, via Blizzard News (2021).",
+        "source": "https://news.blizzard.com/en-us/article/23733292/surviving-forsakena-guide-to-the-final-chapter-of-call-of-duty-black-ops-cold-war-zombies"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Choose an acquisition route",
+        "body": "Use the free three-part pool quest for a planned weapon. Mystery Box rolls and Legendary Trial rewards can also give a Chrysalax without first crafting it; those rolls are random.",
+        "original": true,
+        "researchSource": "https://news.blizzard.com/en-us/article/23734581/new-wonder-weapon-discover-the-chrysalax"
+      },
+      {
+        "title": "Try Legendary Trials",
+        "body": "At Observation Tower’s Trial Computer, complete challenges without claiming until your reward is Legendary. Claim at your reward station; a Chrysalax is possible, not certain. Repeat if needed.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=HQ9nImCSYmA&t=286s",
+        "tip": "The dragon Arcade chest is another random chance. Neither route guarantees a fixed number of attempts."
+      },
+      {
+        "title": "Switch axe and gun forms",
+        "body": "Use your weapon-mode binding: default D-pad Up on controller or B on keyboard. Savager is the axe; Storm is the gun.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=HQ9nImCSYmA&t=422s"
+      },
+      {
+        "title": "Swing or throw the blade",
+        "body": "In axe form, Fire swings the melee axe. Aim / alternate fire launches its spinning blade; holding Aim can keep the blade out temporarily. Lit crystals on the weapon indicate remaining throw charges. Ordinary swings do not spend gun ammunition.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/q58ggm/"
+      },
+      {
+        "title": "Refill the opposite mode",
+        "body": "Axe kills can drop blue crystals for the gun. Shoot enemies in gun form for purple crystals that recharge the blade throw. Pick up the matching crystals and change forms instead of waiting for blade charges to refill by themselves.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/q58ggm/",
+        "tip": "The Storm can crystallize enemies into explosive bombs. If a crystal will not collect, check whether that ammunition type is already full."
+      },
+      {
+        "title": "Use melee recovery skills",
+        "body": "The axe can restore armor in combat. For health recovery from melee damage, upgrade the Melee weapon-class skill to Tier V before entering the match; that is a player skill, not another Chrysalax ingredient.",
+        "original": true,
+        "researchSource": "https://www.callofduty.com/blog/2021/02/Black-Ops-Cold-War-Zombies-Meta-Update"
+      },
+      {
+        "title": "Pack-a-Punch three times",
+        "body": "At Observation Tower’s Pack-a-Punch, upgrade the Chrysalax through Tier I for 5,000 Essence, Tier II for another 15,000, and Tier III for another 30,000. The full three-tier spend is 50,000.",
+        "original": true,
+        "researchSource": "https://gameranx.com/features/id/212471/article/black-ops-cold-war-zombies-how-to-unlock-pack-a-punch-upgrade-guns-die-maschine-guide/",
+        "tip": "The two forms belong to one weapon. The rarity target-range rewards improve ordinary matching-class weapons; they do not replace these Pack-a-Punch purchases."
+      },
+      {
+        "title": "Refill before a quest commitment",
+        "body": "Crystal drops or an Ammo Cache refill the weapon. In the recorded route, buying ammo restores gun ammunition and blade charges together. Refill before the Neutralizer escort.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=HQ9nImCSYmA&t=431s"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Activision / Treyarch: official acquisition methods and two forms",
+        "url": "https://news.blizzard.com/en-us/article/23734581/new-wonder-weapon-discover-the-chrysalax"
+      },
+      {
+        "title": "Treyarch Season Six: axe / Storm functions",
+        "url": "https://www.treyarch.com/game-intel/2021/10/Season_Six_Arrives_Oct_7"
+      },
+      {
+        "title": "MrRoflWaffles: full firsthand build, Trials, Arcade and ammunition explanation",
+        "url": "https://www.youtube.com/watch?v=HQ9nImCSYmA"
+      },
+      {
+        "title": "Firsthand community explanation: opposite-mode crystals and blade controls",
+        "url": "https://www.reddit.com/r/CODZombies/comments/q58ggm/"
+      },
+      {
+        "title": "Activision: Melee Tier V health recovery",
+        "url": "https://www.callofduty.com/blog/2021/02/Black-Ops-Cold-War-Zombies-Meta-Update"
+      },
+      {
+        "title": "Kevin Thielenhaus: Cold War Pack-a-Punch tier costs",
+        "url": "https://gameranx.com/features/id/212471/article/black-ops-cold-war-zombies-how-to-unlock-pack-a-punch-upgrade-guns-die-maschine-guide/"
+      },
+      {
+        "title": "MrDalekJD: native Forsaken Chrysalax Pack-a-Punch at 11:49",
+        "url": "https://www.youtube.com/watch?v=aKKUrEIbSRc&t=709s"
+      }
+    ],
+    "relatedGuideIds": [
+      "coldwar-forsaken-chrysalax",
+      "coldwar-forsaken-arcade-games",
+      "coldwar-forsaken-target-rarity-games",
+      "coldwar-forsaken-lockdown-pack-a-punch",
+      "coldwar-forsaken-main"
+    ]
+  },
+  {
+    "mapId": "coldwar-forsaken",
+    "players": "1–4 players; Standard Forsaken",
+    "checked": "2026-10-17",
+    "id": "coldwar-forsaken-lore-radios",
+    "title": "Story radios: Ravenov, Jager, Peck and the crystal",
+    "category": "side",
+    "difficulty": "Easy",
+    "summary": "Find four physical conversation devices and hear the three human calls before and after the Forsaken reveal.",
+    "requirements": [
+      "Standard Forsaken; open the Bar rooftop and bunker.",
+      "Visit the first three devices before pressing the separate Observation Tower story button.",
+      "Return after the reveal for changed conversations and the Forsaken’s crystal; finish before the Neutralizer escort."
+    ],
+    "reward": "Optional story dialogue. These interactions are separate from the map’s 36 Barracks intel entries.",
+    "steps": [
+      {
+        "title": "Listen before the story reveal",
+        "body": "Before pressing the shutter-side story button, visit the three human radios below. Interact, let each call finish, and check for another available Radio prompt.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=XR9YIJGDmNA"
+      },
+      {
+        "title": "Ravenov: Staging Area cases",
+        "body": "In Staging Area, face the Crafting Table and turn right. Look for the handset on stacked green cases beside the fence. Interact with it for Ravenov’s call.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/q30mrr/forsaken_easter_egg_hunt_general_map_discussion/",
+        "images": [
+          {
+            "src": "./assets/batch9-forsaken-radio-ravenov.webp",
+            "alt": "Staging Area handset on stacked cases; cropped detail.",
+            "caption": "Staging Area handset on stacked cases; cropped detail.",
+            "credit": "Native gameplay frame: A Villainous Toaster / YouTube; Black Ops Cold War © Activision (15 Oct 2021 footage).",
+            "source": "https://www.youtube.com/watch?v=Y_MEGYqt4jA&t=2s"
+          }
+        ]
+      },
+      {
+        "title": "Jager and Gorev: Bar Rooftop",
+        "body": "Go to Bar Rooftop in Anytown East. Check the metal ventilation units for the small walkie-talkie and interact with its Radio prompt.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/q30mrr/forsaken_easter_egg_hunt_general_map_discussion/",
+        "images": [
+          {
+            "src": "./assets/batch9-forsaken-radio-jager-gorev.webp",
+            "alt": "Bar Rooftop vent bank containing the walkie-talkie.",
+            "caption": "Bar Rooftop vent bank containing the walkie-talkie.",
+            "credit": "Native gameplay frame: A Villainous Toaster / YouTube; Black Ops Cold War © Activision (15 Oct 2021 footage).",
+            "source": "https://www.youtube.com/watch?v=Y_MEGYqt4jA&t=110s"
+          }
+        ]
+      },
+      {
+        "title": "Peck and Kravchenko: bunker table",
+        "body": "At Bunker Entrance, interact with the table communicator beside the wall equipment.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=Y_MEGYqt4jA&t=205s",
+        "images": [
+          {
+            "src": "./assets/batch9-forsaken-radio-peck-kravchenko.webp",
+            "alt": "Bunker Entrance table communicator: Radio prompt visible.",
+            "caption": "Bunker Entrance table communicator: Radio prompt visible.",
+            "credit": "Native gameplay frame: A Villainous Toaster / YouTube; Black Ops Cold War © Activision (15 Oct 2021 footage).",
+            "source": "https://www.youtube.com/watch?v=Y_MEGYqt4jA&t=205s"
+          }
+        ]
+      },
+      {
+        "title": "Revisit after the reveal",
+        "body": "Use Observation Tower’s shutter-side button, wait through the reveal, then revisit all three human radios for changed dialogue. Finish before the escort.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=XR9YIJGDmNA&t=162s"
+      },
+      {
+        "title": "Forsaken: Amplifier’s table crystal",
+        "body": "After the reveal, find the small purple crystal on a table in the upper Amplifier control room. Use its Radio prompt and let each recording finish.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=Y_MEGYqt4jA&t=596s",
+        "images": [
+          {
+            "src": "./assets/batch9-forsaken-radio-forsaken.webp",
+            "alt": "Upper Amplifier table crystal: Radio prompt visible.",
+            "caption": "Upper Amplifier table crystal: Radio prompt visible.",
+            "credit": "Native gameplay frame: A Villainous Toaster / YouTube; Black Ops Cold War © Activision (15 Oct 2021 footage).",
+            "source": "https://www.youtube.com/watch?v=Y_MEGYqt4jA&t=596s"
+          }
+        ],
+        "tip": "Use the pictured table crystal. Exact replay totals / cooldowns are not established here."
+      }
+    ],
+    "sources": [
+      {
+        "title": "A Villainous Toaster: firsthand recorded before / after calls and the Forsaken table crystal",
+        "url": "https://www.youtube.com/watch?v=Y_MEGYqt4jA"
+      },
+      {
+        "title": "u/vBass-- and u/Yikes_Hmm: discovery reports for rooftop / bunker and Staging handset",
+        "url": "https://www.reddit.com/r/CODZombies/comments/q30mrr/forsaken_easter_egg_hunt_general_map_discussion/"
+      },
+      {
+        "title": "Talam: native chapter inventory independently separates the three pre / post calls and Forsaken",
+        "url": "https://www.youtube.com/watch?v=XR9YIJGDmNA"
+      }
+    ],
+    "relatedGuideIds": [
+      "coldwar-forsaken-lockdown-pack-a-punch",
+      "coldwar-forsaken-main",
+      "coldwar-forsaken-intel-season-6"
+    ]
+  },
+  {
+    "mapId": "coldwar-forsaken",
+    "players": "1–4 players; Standard Forsaken",
+    "checked": "2026-10-17",
+    "id": "coldwar-forsaken-perks-trials-utilities",
+    "title": "Perk locations, Wunderfizz, Rampage and the Hind",
+    "category": "side",
+    "difficulty": "Easy",
+    "summary": "Find the ten perk machines, the bunker’s Wunderfizz, the starting Rampage canister and the helicopter trap.",
+    "requirements": [
+      "Standard Forsaken; open the linked streets and lift lockdown for the bunker / tower routes.",
+      "Skill tiers are upgraded outside the match; buying a perk does not grant its locked Tier V effect."
+    ],
+    "reward": "Access to perk purchases, damage / armor preparation and optional faster rounds or trap support.",
+    "steps": [
+      {
+        "title": "Early perks: Staging to Main Street",
+        "body": "• Death Perception: Staging Area.\n• Juggernog: Checkpoint after the starting teleporter.\n• Tombstone: Main Street.\n• Quick Revive: Storage Zone 5, right branch from Main Street.\n• Stamin-Up: Storage Zone 10, left branch from Main Street.",
+        "original": true,
+        "researchSource": "https://news.blizzard.com/en-us/article/23733292/surviving-forsakena-guide-to-the-final-chapter-of-call-of-duty-black-ops-cold-war-zombies"
+      },
+      {
+        "title": "Street and rooftop perks",
+        "body": "• Mule Kick: Video Store 1F.\n• Speed Cola: rooftops reached from Video Store Rooftop.\n• Deadshot Daiquiri: Bar 1F.\n• Elemental Pop: inside Burger Town.\n• PhD Slider: Observation Tower near Pack-a-Punch.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=aKKUrEIbSRc&t=780s"
+      },
+      {
+        "title": "Buy every perk at Wunderfizz",
+        "body": "After lockdown, follow the newly open bunker Board Room / Office route to Der Wunderfizz. Buy the available perks there.",
+        "original": true,
+        "researchSource": "https://news.blizzard.com/en-us/article/23733292/surviving-forsakena-guide-to-the-final-chapter-of-call-of-duty-black-ops-cold-war-zombies"
+      },
+      {
+        "title": "Prepare ordinary weapons and armor",
+        "body": "Use an Arsenal for armor purchases / repairs and ordinary weapon-rarity upgrades with salvage. Pack-a-Punch tiers are purchased separately.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=aKKUrEIbSRc&t=103s",
+        "tip": "The target-range companion offers a free ordinary-weapon rarity increase."
+      },
+      {
+        "title": "Rampage: starting-area canister",
+        "body": "Find the Rampage Inducer canister in Staging Area and interact. Solo can activate it directly; in co-op, everyone must approve. Return to the same canister to request deactivation if the faster spawning and movement becomes too difficult.",
+        "original": true,
+        "researchSource": "https://www.treyarch.com/game-intel/2021/09/Incoming_Season_Five_Reloaded",
+        "tip": "Updated Cold War’s limit is Round 55, not 55 additional rounds after activation. If another toggle is unavailable, finish the current round and try again."
+      },
+      {
+        "title": "Hind: helicopter trap switch",
+        "body": "One Suspended Hind switch is on the Bar Rooftop balcony overlooking Burger Town. Use its helicopter-icon control and pay 2,000 Essence for covering gunfire.",
+        "original": true,
+        "researchSource": "https://news.blizzard.com/en-us/article/23733292/surviving-forsakena-guide-to-the-final-chapter-of-call-of-duty-black-ops-cold-war-zombies"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Activision / Treyarch: map layout, perks, Wunderfizz and 2,000-Essence Hind trap",
+        "url": "https://news.blizzard.com/en-us/article/23733292/surviving-forsakena-guide-to-the-final-chapter-of-call-of-duty-black-ops-cold-war-zombies"
+      },
+      {
+        "title": "MrDalekJD: full native map / perk / Arsenal walkthrough",
+        "url": "https://www.youtube.com/watch?v=aKKUrEIbSRc"
+      },
+      {
+        "title": "Treyarch: Rampage activation / votes",
+        "url": "https://www.treyarch.com/game-intel/2021/09/Incoming_Season_Five_Reloaded"
+      },
+      {
+        "title": "Treyarch: Round 55 cap and Local offline purchase updates",
+        "url": "https://www.treyarch.com/game-intel/2021/11/November_2nd_Update"
+      }
+    ],
+    "relatedGuideIds": [
+      "coldwar-forsaken-lockdown-pack-a-punch",
+      "coldwar-forsaken-chrysalax-forms-upgrades",
+      "coldwar-forsaken-target-rarity-games",
+      "coldwar-forsaken-samantha-ballad",
+      "coldwar-forsaken-main"
+    ]
   }
 ]

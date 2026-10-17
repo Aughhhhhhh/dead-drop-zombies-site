@@ -2318,48 +2318,90 @@
     "category": "side",
     "difficulty": "Medium",
     "players": "1–4 players",
-    "summary": "Use Aether Shroud to reach the hidden pizza room and deliver four orders for random rewards.",
+    "summary": "Shroud into Ronald’s room, deliver four timed orders, and return after each delivery for random loot.",
     "requirements": [
-      "Aether Shroud Tier III's forward teleport",
-      "Main Street and Anytown East / West open",
-      "Do not kill the dancing Ronald Raygun"
+      "Standard Forsaken; Aether Shroud Tier III for the forward teleport.",
+      "Open the route to Video Store 1F, Cinema, Bar 1F and Burger Town before taking an order.",
+      "Leave the dancing Ronald Raygun alive."
     ],
     "reward": "Four random loot rewards; a Ray Gun is possible, not guaranteed",
     "steps": [
       {
-        "title": "Shroud through the Beach Pizza door",
-        "body": "At Beach Pizza, face the closed wooden door with the round window. Activate Tier III Aether Shroud to teleport through it into Ronald Raygun's room.",
+        "title": "Enter Ronald’s room",
+        "body": "In Beach Pizza, stand against the closed wooden door with the round window. Face it and activate Aether Shroud Tier III to teleport through.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/q3mtw5/ronald_raygun_easter_egg_guide/",
         "images": [
           {
             "src": "./assets/modern-coldwar-forsaken-free_ray_gun-door.webp",
-            "alt": "Beach Pizza: teleport through this door",
-            "caption": "Beach Pizza: teleport through this door",
+            "alt": "Beach Pizza: the closed round-window door leading to Ronald’s room.",
+            "caption": "Beach Pizza: the closed round-window door leading to Ronald’s room.",
             "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
             "source": "https://mmmrkennedy.com/games/BO_CW/forsaken/forsaken_guide"
           }
         ]
       },
       {
-        "title": "Take a pizza and deliver within forty-five seconds",
-        "body": "Pick up an order from the pizza stack and run to its indicated mannequin table. The four destinations are Video Store 1F's boxes by the mannequin, Cinema's bench by seated mannequins, Bar 1F's booth and Burger Town's back booth."
+        "title": "Take one timed order",
+        "body": "Interact with the pizza stack in front of Ronald. Deliver that pizza within 45 seconds. Use the active delivery prompt; the four possible stops are listed below.",
+        "original": true,
+        "researchSource": "https://tracker.gg/cold-war/articles/black-ops-cold-war-zombies-forsaken-ray-gun-pizza-guide",
+        "tip": "A failed delivery can end the route for this match. If the ticking stops and the delivery no longer works, restart in a new match."
       },
       {
-        "title": "Return for payment and the next order",
-        "body": "Interact with Ronald after each successful delivery to collect that order's reward. Repeat until all four orders are delivered.",
-        "tip": "If the delivery timer runs out or Ronald is killed, the quest can be lost for that match. Ray Gun luck is independent of completing all four orders."
+        "title": "Stop: Video Store 1F",
+        "body": "Take the Main Street teleporter to Video Store Rooftop and descend into Video Store 1F. Interact at the pizza box beside the mannequin / boxes.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/q3mtw5/ronald_raygun_easter_egg_guide/"
+      },
+      {
+        "title": "Stop: Cinema",
+        "body": "Go to Cinema’s entrance seating. Interact with the pizza box on the bench beside the seated mannequins.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/q3mtw5/ronald_raygun_easter_egg_guide/"
+      },
+      {
+        "title": "Stop: Bar 1F",
+        "body": "Go to the Bar across from Burger Town. Stay downstairs and interact with the pizza box in its seating booth.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/q3mtw5/ronald_raygun_easter_egg_guide/"
+      },
+      {
+        "title": "Stop: Burger Town",
+        "body": "Enter Burger Town and use the pizza box on the table / booth at the back of the restaurant.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/q3mtw5/ronald_raygun_easter_egg_guide/"
+      },
+      {
+        "title": "Return after every delivery",
+        "body": "Return to Ronald and interact for payment before taking the next pizza. Complete all four deliveries. The rewards are random: finishing the route does not guarantee a Ray Gun.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/q3mtw5/ronald_raygun_easter_egg_guide/",
+        "tip": "Keep Ronald alive and leave time to run back. These destination chapters are a checklist of stops, not a claimed fixed delivery order."
       }
     ],
     "sources": [
       {
-        "title": "r/CODZombies: pizza route and corrected random-Ray-Gun reward",
+        "title": "u/Unpu: discovered delivery route; later correction retracts the guaranteed Ray Gun",
         "url": "https://www.reddit.com/r/CODZombies/comments/q3mtw5/ronald_raygun_easter_egg_guide/"
       },
       {
-        "title": "mmmrkennedy: door screenshot and delivery timer",
+        "title": "MrDalekJD: native delivery route and 45-second instruction",
+        "url": "https://www.youtube.com/watch?v=NZg_hCM9bPU&t=402s"
+      },
+      {
+        "title": "Inherited door photograph; local pixels reviewed, host not requested",
         "url": "https://mmmrkennedy.com/games/BO_CW/forsaken/forsaken_guide"
+      },
+      {
+        "title": "Ethan C: 45-second delivery and destination landmarks",
+        "url": "https://tracker.gg/cold-war/articles/black-ops-cold-war-zombies-forsaken-ray-gun-pizza-guide"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-17",
+    "relatedGuideIds": [
+      "coldwar-forsaken-lockdown-pack-a-punch"
+    ]
   },
   {
     "id": "coldwar-forsaken-samantha-ballad",
@@ -2368,65 +2410,111 @@
     "category": "music",
     "difficulty": "Medium",
     "players": "1–4 players",
-    "summary": "Land PhD slides on scorch marks, then protect Burger Town's mascot to receive the song cassette.",
+    "summary": "Use PhD’s falling explosion on the three marks, then protect Bubby to unlock Samantha’s Ballad.",
     "requirements": [
-      "PhD Slider upgraded to Tier V",
-      "Upgraded weapon and armor; prepare before placing the bunny"
+      "Standard Forsaken; PhD Slider Tier V is needed for the large falling explosion.",
+      "Have armor and a strong weapon ready before inserting the bunny."
     ],
-    "reward": "Samantha's Ballad cassette and a golden loot chest",
+    "reward": "Samantha’s Ballad cassette / Music Player unlock, plus a golden loot chest after Bubby survives.",
     "steps": [
       {
-        "title": "Land PhD slides on the three scorch-mark sites",
-        "body": "Use the elevated PhD slide explosion to land on the black floor marks near TV Store from the Bar roof, near the Video Store barrier from its roof and near Cinema from the Anytown rooftops. Try the sites until an Aether Bunny drops; other sites can drop power-ups.",
-        "tip": "You must land the slide's explosion on the mark; simply standing or shooting there is insufficient.",
+        "title": "Find the three black marks",
+        "body": "The bunny can come from one of three PhD landing sites. Stand above a black scorch mark, then jump / drop so Tier V’s falling explosion lands directly on it. Check another site if a power-up appears instead.",
+        "original": true,
+        "researchSource": "https://tracker.gg/cold-war/articles/black-ops-cold-war-zombies-forsaken-samanthas-ballad-music-guide",
+        "tip": "A slide is not an extra requirement: the landing explosion must hit the mark. Approach far enough back to clear the railing."
+      },
+      {
+        "title": "Mark: below Bar Rooftop",
+        "body": "From Bar Rooftop in Anytown East, find the dark street mark below and land PhD’s explosion on it.",
+        "original": true,
+        "researchSource": "https://tracker.gg/cold-war/articles/black-ops-cold-war-zombies-forsaken-samanthas-ballad-music-guide",
         "images": [
           {
             "src": "./assets/modern-coldwar-forsaken-song_ee-scorched_barrooftop.webp",
-            "alt": "PhD drop route: scorched barrooftop",
-            "caption": "PhD drop route: scorched barrooftop",
-            "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
-            "source": "https://mmmrkennedy.com/games/BO_CW/forsaken/forsaken_guide"
-          },
-          {
-            "src": "./assets/modern-coldwar-forsaken-song_ee-scorched_videostore.webp",
-            "alt": "PhD drop route: scorched videostore",
-            "caption": "PhD drop route: scorched videostore",
-            "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
-            "source": "https://mmmrkennedy.com/games/BO_CW/forsaken/forsaken_guide"
-          },
-          {
-            "src": "./assets/modern-coldwar-forsaken-song_ee-scorched_anytown.webp",
-            "alt": "PhD drop route: scorched anytown",
-            "caption": "PhD drop route: scorched anytown",
+            "alt": "Bar Rooftop launch view: look down for the Anytown East street mark.",
+            "caption": "Bar Rooftop launch view: look down for the Anytown East street mark.",
             "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
             "source": "https://mmmrkennedy.com/games/BO_CW/forsaken/forsaken_guide"
           }
         ]
       },
       {
-        "title": "Put the bunny inside Bubby",
-        "body": "Take the bunny to the back panel of Burger Town's giant Bubby mascot and interact. A two-minute lockdown begins."
+        "title": "Mark: Anytown West barrier",
+        "body": "From Video Store Rooftop, drop onto the mark by the Anytown West street barrier beside the photo shop.",
+        "original": true,
+        "researchSource": "https://tracker.gg/cold-war/articles/black-ops-cold-war-zombies-forsaken-samanthas-ballad-music-guide",
+        "images": [
+          {
+            "src": "./assets/modern-coldwar-forsaken-song_ee-scorched_videostore.webp",
+            "alt": "Video Store Rooftop launch view toward the Anytown West barrier and mark.",
+            "caption": "Video Store Rooftop launch view toward the Anytown West barrier and mark.",
+            "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/forsaken/forsaken_guide"
+          }
+        ]
       },
       {
-        "title": "Protect Bubby and use burgers to heal",
-        "body": "Kill the attacking zombies and specials while defending the mascot. Automatic health regeneration is disabled during this challenge; collect the burgers dropped in the area to restore health."
+        "title": "Mark: beside Cinema",
+        "body": "From the Anytown rooftops above Cinema, jump beyond the railing / sandbags onto the mark near the Cinema frontage.",
+        "original": true,
+        "researchSource": "https://tracker.gg/cold-war/articles/black-ops-cold-war-zombies-forsaken-samanthas-ballad-music-guide",
+        "images": [
+          {
+            "src": "./assets/modern-coldwar-forsaken-song_ee-scorched_anytown.webp",
+            "alt": "Anytown rooftop launch view toward the Cinema landing mark.",
+            "caption": "Anytown rooftop launch view toward the Cinema landing mark.",
+            "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/forsaken/forsaken_guide"
+          }
+        ]
       },
       {
-        "title": "Take the chest's cassette",
-        "body": "After the defense, open the golden chest in front of Bubby. Pick up its cassette to start Samantha's Ballad and collect the remaining loot."
+        "title": "Open Bubby’s back panel",
+        "body": "Collect the dropped Aether Bunny. Go behind the large Bubby mascot outside Burger Town. Interact once to open his back access panel, then interact again to insert the bunny.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/q30mrr/forsaken_easter_egg_hunt_general_map_discussion/"
+      },
+      {
+        "title": "Keep Bubby alive",
+        "body": "Defend Bubby through the two-minute attack. Kill the zombies and special enemies damaging him. Your normal health regeneration is disabled; collect the dropped burgers to heal.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/q30mrr/forsaken_easter_egg_hunt_general_map_discussion/",
+        "tip": "Prepare before inserting the bunny. If Bubby is destroyed, this defense is lost for the match."
+      },
+      {
+        "title": "Collect the cassette and loot",
+        "body": "After the defense, collect the golden cassette by Bubby / the reward chest and open the chest for its other loot. On the first unlock, the cassette adds Samantha’s Ballad to the Music Player.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/q30mrr/forsaken_easter_egg_hunt_general_map_discussion/"
       }
     ],
     "sources": [
       {
-        "title": "r/CODZombies: Forsaken discovery and side-quest discussion",
+        "title": "u/Fever308 discovery report and Bubby defense discussion",
         "url": "https://www.reddit.com/r/CODZombies/comments/q30mrr/forsaken_easter_egg_hunt_general_map_discussion/"
       },
       {
-        "title": "mmmrkennedy: three drop-route screenshots",
+        "title": "u/Noksdoks reference-guide comments: jumping is sufficient",
+        "url": "https://www.reddit.com/r/CODZombies/comments/qbx4hz/forsaken_reference_guide_better_late_than_never/"
+      },
+      {
+        "title": "Ethan C: three illustrated PhD landing sites and cassette route",
+        "url": "https://tracker.gg/cold-war/articles/black-ops-cold-war-zombies-forsaken-samanthas-ballad-music-guide"
+      },
+      {
+        "title": "Treyarch: PhD Slider Tier V is a large falling explosion",
+        "url": "https://www.treyarch.com/game-intel/2021/10/Season_Six_Arrives_Oct_7"
+      },
+      {
+        "title": "Inherited three launch-view photographs; local pixels reviewed",
         "url": "https://mmmrkennedy.com/games/BO_CW/forsaken/forsaken_guide"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-17",
+    "relatedGuideIds": [
+      "coldwar-forsaken-perks-trials-utilities"
+    ]
   },
   {
     "id": "coldwar-forsaken-tombstone-perkaholic",
@@ -2435,70 +2523,124 @@
     "category": "side",
     "difficulty": "Hard",
     "players": "1–4 players",
-    "summary": "Solve a growing TV-memory sequence, defeat the red-eyed ghost in Tombstone Shadow and revive yourself for all perks.",
+    "summary": "Play the 4 / 8 / 12-input TV patterns, survive the haunting, then defeat the red-eyed ghost in Tombstone Shadow.",
     "requirements": [
-      "Observation Tower lockdown lifted and story button pressed",
-      "Tombstone Soda; Tier II's longer Shadow timer helps",
-      "A reliable firearm and safe self-down method; prepare before activating the green TV"
+      "Standard Forsaken; access to Video Store, TV Store and the bunker Particle Accelerator.",
+      "Buy Tombstone before activating the single green TV. Tier II’s longer Shadow bleedout timer helps; Tier V is not required.",
+      "Use a dependable firearm. Plan how to get downed at Particle Accelerator without consuming a Self-Revive."
     ],
-    "reward": "Every currently available perk; these perks are lost normally on later downs",
+    "reward": "The player completing the haunting and Tombstone revival receives all perks. They are not permanent through later downs.",
     "steps": [
       {
-        "title": "Get the hidden VHS",
-        "body": "At Video Store, throw an explosive at the lower shelf / corner left of Mule Kick. Go prone and collect the tape knocked out from behind the shelving.",
+        "title": "Blast the hidden VHS loose",
+        "body": "In Video Store 1F, throw an explosive at the low shelving / corner to the left of Mule Kick. Go prone beside the shelf and interact to collect the VHS.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/qcf1si/",
         "images": [
           {
             "src": "./assets/modern-coldwar-forsaken-perkaholic-vhs_location.webp",
-            "alt": "Explode this shelf corner to release the VHS",
-            "caption": "Explode this shelf corner to release the VHS",
+            "alt": "Video Store shelf corner left of Mule Kick; wide context view, not a visible VHS close-up.",
+            "caption": "Video Store shelf corner left of Mule Kick; wide context view, not a visible VHS close-up.",
             "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
             "source": "https://mmmrkennedy.com/games/BO_CW/forsaken/forsaken_guide"
           }
         ]
       },
       {
-        "title": "Play the three Simon Says sequences",
-        "body": "Insert the tape into the VCR behind TV Store's counter. Watch the four colored TVs flash, then shoot them in that order. The next round repeats the earlier pattern and adds another set: enter the full four-, eight- and twelve-input sequences.",
-        "tip": "Record your own sequence. Protect the player entering it from ordinary zombies.",
+        "title": "Insert the tape, then play it",
+        "body": "Go behind TV Store’s counter. Insert the VHS into the VCR, then interact again to start playback. Face the four colored televisions.",
+        "original": true,
+        "researchSource": "https://www.codzombiesguides.com/side-quests/black-ops-cold-war/forsaken/tombstone-perkaholic/",
         "images": [
           {
             "src": "./assets/modern-coldwar-forsaken-perkaholic-vhs_four_tvs.webp",
-            "alt": "The four colored TV inputs",
-            "caption": "The four colored TV inputs",
+            "alt": "Four TV inputs: red above, blue left, orange right and green below. The flash order varies.",
+            "caption": "Four TV inputs: red above, blue left, orange right and green below. The flash order varies.",
             "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
             "source": "https://mmmrkennedy.com/games/BO_CW/forsaken/forsaken_guide"
           }
         ]
       },
       {
-        "title": "Activate the green TV and reach Particle Accelerator",
-        "body": "When the game finishes, buy Tombstone if you have not already. Interact with the single green TV to start the horror filter and pursuing entity. Go to the Particle Accelerator / Amplifier area without allowing the ghost to reach you."
+        "title": "Enter 4, then 8, then 12 colors",
+        "body": "Watch the first four flashes and shoot those TVs in order. The next pattern repeats them and adds four: enter all eight. The final pattern needs all twelve inputs, including the earlier colors.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=1z0ulNgGrR8&t=127s",
+        "tip": "Write down your own sequence. A wrong input gives an error tone and restarts a new pattern; watch again instead of continuing the old sequence. Ordinary zombies still attack during this puzzle."
       },
       {
-        "title": "Enter Tombstone Shadow and shoot the real entity",
-        "body": "Down yourself there and activate Tombstone Shadow. Look above the Particle Accelerator and shoot the ghost with glowing red eyes. Each successful hit splits it into more copies; keep selecting the red-eyed copy until it merges and disappears."
+        "title": "Prepare, then use the green TV",
+        "body": "Buy Tombstone and finish preparations first. After the third correct sequence, interact with the single green TV. The activator gets the haunting effect and a pursuing entity.",
+        "original": true,
+        "researchSource": "https://www.codzombiesguides.com/side-quests/black-ops-cold-war/forsaken/tombstone-perkaholic/",
+        "images": [
+          {
+            "src": "./assets/batch9-forsaken-perkaholic-green-tv.webp",
+            "alt": "After the memory puzzle, interact with the single green TV.",
+            "caption": "After the memory puzzle, interact with the single green TV.",
+            "credit": "Native gameplay frame: MrDalekJD / YouTube; Black Ops Cold War © Activision (2021 footage).",
+            "source": "https://www.youtube.com/watch?v=1z0ulNgGrR8&t=205s"
+          }
+        ],
+        "tip": "The haunting can kill its player on contact. It does not give the entire squad a shared Perkaholic reward."
       },
       {
-        "title": "Revive yourself before Shadow expires",
-        "body": "Return to your downed body in Shadow form and revive yourself before the timer ends. You receive all perks after the revival.",
-        "tip": "Failing to self-revive before the timer expires is a real death. Do not use a self-revive kit in place of the required Tombstone Shadow sequence."
+        "title": "Get downed at Particle Accelerator",
+        "body": "Reach the bunker’s Particle Accelerator. Let an enemy down you, or use a self-damage method that your perks do not block. Immediately choose Tombstone Shadow.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/qcf1si/",
+        "tip": "PhD’s explosive immunity can prevent grenade self-downs. Do not use a Self-Revive or have a teammate revive you before the ghost step is complete."
+      },
+      {
+        "title": "Shoot only the red-eyed ghost",
+        "body": "In Shadow, look above the Particle Accelerator for the floating entity with red eyes. Shoot that one as it divides into copies, repeatedly selecting the red-eyed copy until the entities merge and vanish.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/qcf1si/",
+        "images": [
+          {
+            "src": "./assets/batch9-forsaken-perkaholic-shadow.webp",
+            "alt": "Particle Accelerator during Tombstone Shadow: find the red-eyed entity among its copies.",
+            "caption": "Particle Accelerator during Tombstone Shadow: find the red-eyed entity among its copies.",
+            "credit": "Native gameplay frame: MrDalekJD / YouTube; Black Ops Cold War © Activision (2021 footage).",
+            "source": "https://www.youtube.com/watch?v=1z0ulNgGrR8&t=315s"
+          }
+        ]
+      },
+      {
+        "title": "Revive your own body",
+        "body": "Return to your body and complete the Tombstone revival before Shadow expires. The completing player receives all perks.",
+        "original": true,
+        "researchSource": "https://www.codzombiesguides.com/side-quests/black-ops-cold-war/forsaken/tombstone-perkaholic/",
+        "tip": "If the Shadow timer runs out, you die. Exact co-op respawn timing and how many players can repeat the reward in one match are not established here."
       }
     ],
     "sources": [
       {
-        "title": "r/CODZombies: VHS, TVs, ghost and Tombstone completion",
+        "title": "u/gramaticallyannoying: firsthand completed VHS / ghost route",
         "url": "https://www.reddit.com/r/CODZombies/comments/qcf1si/"
       },
       {
-        "title": "COD Zombies Guides: repeated memory sequences and revival condition",
+        "title": "MrDalekJD: full native walkthrough; memory reset and 4 / 8 / 12 patterns",
+        "url": "https://www.youtube.com/watch?v=1z0ulNgGrR8"
+      },
+      {
+        "title": "COD Zombies Guides: second Play interaction and Tombstone Tier II guidance",
         "url": "https://www.codzombiesguides.com/side-quests/black-ops-cold-war/forsaken/tombstone-perkaholic/"
       },
       {
-        "title": "mmmrkennedy: VHS and TV screenshots",
+        "title": "Treyarch: PhD Tier III self-explosive immunity",
+        "url": "https://www.treyarch.com/game-intel/2021/10/Season_Six_Arrives_Oct_7"
+      },
+      {
+        "title": "Inherited shelf and TV photographs; local pixels reviewed",
         "url": "https://mmmrkennedy.com/games/BO_CW/forsaken/forsaken_guide"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-17",
+    "relatedGuideIds": [
+      "coldwar-forsaken-lockdown-pack-a-punch",
+      "coldwar-forsaken-perks-trials-utilities"
+    ]
   },
   {
     "id": "coldwar-forsaken-arcade-games",
@@ -2507,43 +2649,81 @@
     "category": "side",
     "difficulty": "Medium",
     "players": "1–4 players",
-    "summary": "Use the arcade's three playable machines to earn extra points and salvage.",
+    "summary": "Collect tokens and play Nacht’s three waves, the dragon’s feeding challenge, or Enduro’s timed point course.",
     "requirements": [
-      "Lift the Observation Tower lockdown",
-      "One Arcade Token per play; tokens drop from zombies or cost 10,000 at the Change Machine"
+      "Standard Forsaken; lift Observation Tower’s lockdown.",
+      "One Arcade Token per play. Tokens drop from zombies or cost 10,000 Essence at the Arcade Change Machine.",
+      "Use a free cabinet outside an active Exfil."
     ],
-    "reward": "Points, salvage and game-dependent loot",
+    "reward": "Game-dependent points, salvage and loot; a Chrysalax can be a random dragon-chest reward.",
     "steps": [
       {
-        "title": "Get the single free token",
-        "body": "Melee the Arcade Change Machine once to dispense the shared free token. Additional tokens come from zombie drops or the machine's 10,000-point purchase.",
-        "tip": "The free melee token is once for the match, not once per teammate."
+        "title": "Take the shared free token",
+        "body": "Melee the Arcade Change Machine for its free token. That free payout is shared for the match; later tokens require a zombie drop or a 10,000-Essence purchase.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/q30mrr/forsaken_easter_egg_hunt_general_map_discussion/"
       },
       {
-        "title": "World at War: survive Nacht's pistol room",
-        "body": "Spend a token at the World at War machine. You enter Nacht's starting room with a 1911 regardless of your normal loadout. Survive the two-and-a-half-minute game, collect its rewards and return."
+        "title": "Nacht: clear three waves",
+        "body": "Spend a token at the World at War cabinet. You enter a small Nacht room with a 1911 and knife, without your normal perks or loadout. Kill each wave before the on-screen timer ends.",
+        "original": true,
+        "researchSource": "https://tracker.gg/cold-war/articles/black-ops-cold-war-zombies-forsaken-arcade-guide",
+        "tip": "Aim for headshots and conserve ammo on the early wave. Early guides disagree on the initial timer length; follow the actual timer rather than assuming a fixed duration."
       },
       {
-        "title": "Der Eisendrache: feed the dragon",
-        "body": "Use a token on the Der Eisendrache pinball cabinet. Kill the summoned zombies inside the dragon's scoring ring before its timer runs out. More completed feeding improves the resulting chest."
+        "title": "Nacht: loot after each wave",
+        "body": "Open each wave’s chest: small after wave one, medium after wave two, large after wave three. The medium chest can provide a DMR. Collect the drops before returning.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=aKKUrEIbSRc&t=377s"
       },
       {
-        "title": "Enduro: drive for pickups",
-        "body": "Use a token on the Enduro cabinet. Steer the ARC-XD around its course and collect the points / Bonus Points pickups before the session ends.",
-        "tip": "These cabinets differ from the hidden multiplayer Anytown Grand Prix machine upstairs in the Bar."
+        "title": "Dragon: kill inside the ring",
+        "body": "Use the Der Eisendrache pinball cabinet. In its challenge arena, kill the summoned zombies inside the dragon’s glowing scoring ring. Feed it until it launches; open the chest left underneath and collect the loot.",
+        "original": true,
+        "researchSource": "https://tracker.gg/cold-war/articles/black-ops-cold-war-zombies-forsaken-arcade-guide",
+        "tip": "Better feeding improves the chest. Wonder Weapons are possible loot, not a guaranteed Chrysalax on every play."
+      },
+      {
+        "title": "Enduro: collect points",
+        "body": "Use Enduro and steer the ARC-XD through the pickups on its course. Use jump / boost to reach platforms and collect as many points as possible within its visible timer; the recorded route gives 60 seconds.",
+        "original": true,
+        "researchSource": "https://tracker.gg/cold-war/articles/black-ops-cold-war-zombies-forsaken-arcade-guide"
+      },
+      {
+        "title": "Wait if a cabinet is unavailable",
+        "body": "A cabinet cannot be started while occupied or during Exfil. Finish the current event and try an available machine. The Grand Prix arcade machine used by the main quest is a separate 2,000-Essence ARC-XD purchase.",
+        "original": true,
+        "researchSource": "https://www.treyarch.com/game-intel/2021/10/The_Haunting_Returns"
       }
     ],
     "sources": [
       {
-        "title": "GameSpot: three arcade games, token sources and Nacht timer",
-        "url": "https://www.gamespot.com/articles/how-to-play-nacht-der-untoten-on-cod-black-ops-cold-war-zombies-forsaken-map/1100-6496895/"
+        "title": "Forsaken discovery discussion: free token and three-wave arcade reports",
+        "url": "https://www.reddit.com/r/CODZombies/comments/q30mrr/forsaken_easter_egg_hunt_general_map_discussion/"
       },
       {
-        "title": "r/CODZombies: Forsaken discovery and side-quest discussion",
-        "url": "https://www.reddit.com/r/CODZombies/comments/q30mrr/forsaken_easter_egg_hunt_general_map_discussion/"
+        "title": "Ethan C: token sources and the three Arcade challenges",
+        "url": "https://tracker.gg/cold-war/articles/black-ops-cold-war-zombies-forsaken-arcade-guide"
+      },
+      {
+        "title": "MrDalekJD: native three-wave chests and Enduro timing",
+        "url": "https://www.youtube.com/watch?v=aKKUrEIbSRc&t=338s"
+      },
+      {
+        "title": "MrRoflWaffles: firsthand dragon chest / Chrysalax alternative",
+        "url": "https://www.youtube.com/watch?v=HQ9nImCSYmA&t=337s"
+      },
+      {
+        "title": "Treyarch: occupied / Exfil cabinet prompt rules and launch fixes",
+        "url": "https://www.treyarch.com/game-intel/2021/10/The_Haunting_Returns"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-17",
+    "relatedGuideIds": [
+      "coldwar-forsaken-anytown-grand-prix",
+      "coldwar-forsaken-chrysalax-forms-upgrades",
+      "coldwar-forsaken-main"
+    ]
   },
   {
     "id": "coldwar-forsaken-anytown-grand-prix",
@@ -2554,44 +2734,69 @@
     "players": "1–4 players",
     "summary": "Power the upstairs Bar cabinet with a PhD kill, then race ARC-XDs around Anytown.",
     "requirements": [
-      "PhD Slider",
-      "Every participating player needs an Arcade Token"
+      "Standard Forsaken; PhD Slider for an explosive-slide kill.",
+      "Every player currently in the match needs an Arcade Token to join / start the race."
     ],
-    "reward": "Race-tier points and loot",
+    "reward": "Completion-tier chest with points / salvage and possible additional loot; this race is once per match.",
     "steps": [
       {
-        "title": "Power the hidden Bar 2F machine",
-        "body": "Go upstairs in the Bar across from Burger Town. Kill a zombie near its Anytown Grand Prix cabinet with PhD's explosive slide to switch the cabinet on.",
+        "title": "Power the covered Bar cabinet",
+        "body": "Go to Bar 2F, across the street from Burger Town. Kill a zombie beside the covered Anytown Grand Prix cabinet with PhD’s explosive slide. The cabinet powers on.",
+        "original": true,
+        "researchSource": "https://www.gamepur.com/guides/how-to-do-the-arc-xd-racing-easter-egg-in-forsaken-in-call-of-duty-black-ops-cold-war-zombies",
         "images": [
           {
             "src": "./assets/modern-coldwar-forsaken-grand_prix-grandprix_arcade_machine_bar.webp",
-            "alt": "The hidden upstairs Bar race machine",
-            "caption": "The hidden upstairs Bar race machine",
+            "alt": "Bar 2F: covered Grand Prix cabinet beside the window and wall buy.",
+            "caption": "Bar 2F: covered Grand Prix cabinet beside the window and wall buy.",
             "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
             "source": "https://mmmrkennedy.com/games/BO_CW/forsaken/forsaken_guide"
           }
         ]
       },
       {
-        "title": "Have everyone join with a token",
-        "body": "Gather an Arcade Token for every player and interact with the powered machine. Coordinate the start so all intended racers enter."
+        "title": "Insert everyone’s tokens",
+        "body": "Each player in the match must collect a token and interact with the powered cabinet. Keep inserting the required tokens until its green ready light appears.",
+        "original": true,
+        "researchSource": "https://tracker.gg/cold-war/articles/black-ops-cold-war-zombies-forsaken-anytown-grand-prix-guide"
       },
       {
-        "title": "Complete the three-lap course",
-        "body": "Steer the ARC-XD along the arrows and checkpoints around Anytown for three laps. Finish quickly for a better reward tier, then collect the race reward after returning to your operator."
+        "title": "Interact again to start",
+        "body": "Once the machine is ready, interact again. The match’s players enter the ARC-XD race together; token insertion alone is not the final start interaction.",
+        "original": true,
+        "researchSource": "https://tracker.gg/cold-war/articles/black-ops-cold-war-zombies-forsaken-anytown-grand-prix-guide"
+      },
+      {
+        "title": "Finish three laps",
+        "body": "Follow the purple arrows / checkpoints through Video Store, across the rooftops and streets, and through TV Store. Complete three laps quickly for a better reward tier, then collect the chest after returning.",
+        "original": true,
+        "researchSource": "https://www.gamepur.com/guides/how-to-do-the-arc-xd-racing-easter-egg-in-forsaken-in-call-of-duty-black-ops-cold-war-zombies",
+        "tip": "This hidden Bar race is once per match. It is separate from repeatable Enduro and the main quest’s Arcade ARC-XD cabinet."
       }
     ],
     "sources": [
       {
-        "title": "r/CODZombies: Forsaken discovery and side-quest discussion",
+        "title": "John Hansen: firsthand Grand Prix unlock, three-lap race and once-per-game result",
+        "url": "https://www.gamepur.com/guides/how-to-do-the-arc-xd-racing-easter-egg-in-forsaken-in-call-of-duty-black-ops-cold-war-zombies"
+      },
+      {
+        "title": "Ethan C: every-player token requirement and second start interaction",
+        "url": "https://tracker.gg/cold-war/articles/black-ops-cold-war-zombies-forsaken-anytown-grand-prix-guide"
+      },
+      {
+        "title": "Firsthand discovery of the Bar cabinet",
         "url": "https://www.reddit.com/r/CODZombies/comments/q30mrr/forsaken_easter_egg_hunt_general_map_discussion/"
       },
       {
-        "title": "mmmrkennedy: cabinet screenshot and three-lap finish",
+        "title": "Inherited cabinet photograph; local pixels reviewed",
         "url": "https://mmmrkennedy.com/games/BO_CW/forsaken/forsaken_guide"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-17",
+    "relatedGuideIds": [
+      "coldwar-forsaken-arcade-games",
+      "coldwar-forsaken-perks-trials-utilities"
+    ]
   },
   {
     "id": "coldwar-forsaken-target-rarity-games",
@@ -2600,78 +2805,128 @@
     "category": "weapon",
     "difficulty": "Medium",
     "players": "1–4 players",
-    "summary": "Three separate hidden blueprints start shooting challenges that improve the matching weapon's rarity.",
+    "summary": "Collect each matching-class blueprint, follow its target route, and earn one weapon-rarity increase.",
     "requirements": [
-      "The correct weapon class for each challenge",
-      "Ammo and a clear view before collecting a blueprint; these challenges are timed",
-      "A teammate covering you helps while aiming at distant targets"
+      "Standard Forsaken; hold a pistol, sniper rifle or SMG for its matching challenge.",
+      "Refill ammo first. Use a quick reload and good visibility; each range is timed and has one attempt per match.",
+      "Keep the matching weapon equipped for every target."
     ],
-    "reward": "One rarity improvement for the weapon used in each successful challenge",
+    "reward": "One rarity-tier increase for the successful challenge’s weapon. This is not a Pack-a-Punch tier or a loose Aether Tool.",
     "steps": [
       {
-        "title": "Pistol: American Records and Tapes",
-        "body": "Hold your pistol, take the blueprint from the flowerbed in front of American Records and Tapes at Anytown West, then face its window. Shoot all 18 moving targets across the store's two levels before time ends.",
+        "title": "Pistol: take the flowerbed blueprint",
+        "body": "Equip a pistol. Collect the blueprint from the flowerbed / window ledge outside American Records and Tapes in Anytown West. Face the store immediately.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/q41xi9/",
         "images": [
           {
             "src": "./assets/modern-coldwar-forsaken-free_legendary-pistol_blueprint.webp",
-            "alt": "Pistol blueprint beside American Records and Tapes",
-            "caption": "Pistol blueprint beside American Records and Tapes",
+            "alt": "Pistol blueprint in the flowerbed outside American Records and Tapes.",
+            "caption": "Pistol blueprint in the flowerbed outside American Records and Tapes.",
             "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
             "source": "https://mmmrkennedy.com/games/BO_CW/forsaken/forsaken_guide"
           }
         ]
       },
       {
-        "title": "Sniper: Video Store Rooftop",
-        "body": "Hold a sniper rifle and take the blueprint on the Video Store rooftop air-conditioning unit. Face Cinema across the street and shoot all 15 moving targets around its facade.",
+        "title": "Pistol: cover both store levels",
+        "body": "Shoot the moving targets as they cross the record store’s lower and upper windows. Keep scanning both floors until the success or failure cue; do not stop after only the first window.",
+        "original": true,
+        "researchSource": "https://www.gamepur.com/guides/how-to-do-the-moving-targets-easter-egg-in-forsaken-in-call-of-duty-black-ops-cold-war-zombies"
+      },
+      {
+        "title": "Sniper: start on Video Store Roof",
+        "body": "Equip a sniper rifle and collect the blueprint on the rooftop air-conditioning unit. Shoot the targets beginning around Bar & Grill, then Cinema, then Observation Tower. Follow the final moving target along the zipline.",
+        "original": true,
+        "researchSource": "https://www.gamepur.com/guides/how-to-do-the-moving-targets-easter-egg-in-forsaken-in-call-of-duty-black-ops-cold-war-zombies",
         "images": [
           {
             "src": "./assets/modern-coldwar-forsaken-free_legendary-sniper_blueprint.webp",
-            "alt": "Sniper challenge blueprint on the rooftop unit",
-            "caption": "Sniper challenge blueprint on the rooftop unit",
+            "alt": "Sniper blueprint on the Video Store Rooftop air-conditioning unit.",
+            "caption": "Sniper blueprint on the Video Store Rooftop air-conditioning unit.",
             "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
             "source": "https://mmmrkennedy.com/games/BO_CW/forsaken/forsaken_guide"
           }
         ]
       },
       {
-        "title": "SMG: Beach Pizza and Storage Zone 10",
-        "body": "Hold an SMG and take the blueprint on the cinder blocks by the truck outside Beach Pizza. Clear the targets in Beach Pizza, Storage Zone 10 and its rooftops: six, five and five respectively.",
+        "title": "SMG: Beach Pizza blueprint",
+        "body": "Equip an SMG. Collect the blueprint on the cinder blocks beside the truck and Beach Pizza window on Main Street. Turn toward Beach Pizza’s window / interior.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/q4mz15/",
         "images": [
           {
             "src": "./assets/modern-coldwar-forsaken-free_legendary-cinder_blocks.webp",
-            "alt": "SMG blueprint on Beach Pizza's cinder blocks",
-            "caption": "SMG blueprint on Beach Pizza's cinder blocks",
+            "alt": "SMG blueprint on the cinder blocks beside Beach Pizza.",
+            "caption": "SMG blueprint on the cinder blocks beside Beach Pizza.",
             "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
             "source": "https://mmmrkennedy.com/games/BO_CW/forsaken/forsaken_guide"
+          },
+          {
+            "src": "./assets/batch9-forsaken-targets-stop-275.webp",
+            "alt": "SMG blueprint on cinder blocks beside Beach Pizza’s window.",
+            "caption": "SMG blueprint on cinder blocks beside Beach Pizza’s window.",
+            "credit": "Native gameplay frame: MrDalekJD / YouTube; Black Ops Cold War © Activision (2021 footage).",
+            "source": "https://www.youtube.com/watch?v=NZg_hCM9bPU&t=275s"
           }
         ]
       },
       {
-        "title": "Keep the required gun class equipped",
-        "body": "Use that challenge's matching gun for every target. A success upgrades the rarity of the gun used; this does not grant a Pack-a-Punch tier.",
-        "tip": "Prepare before triggering a blueprint. Missing targets or using another class can waste that challenge's attempt."
+        "title": "SMG: clear the restaurant",
+        "body": "Shoot Beach Pizza’s first window target, then the quick targets behind its counter, at the entrance / window and inside. Turn toward Storage Zone 10 when the restaurant targets finish.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=NZg_hCM9bPU&t=281s"
+      },
+      {
+        "title": "SMG: follow Storage Zone 10 upward",
+        "body": "Follow targets across Storage Zone 10’s ground / stairs, then onto its rooftops. The final target can show its back rather than a front-facing bullseye.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=NZg_hCM9bPU&t=292s"
+      },
+      {
+        "title": "Confirm the rarity increase",
+        "body": "Check the rarity color / HUD after success. Recorded footage upgrades a red loadout PPSh-41 to green Uncommon: one tier, rather than automatic Legendary.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=NZg_hCM9bPU&t=315s",
+        "images": [
+          {
+            "src": "./assets/batch9-forsaken-targets-smg-reward.webp",
+            "alt": "Successful SMG challenge: the HUD increases a loadout PPSh-41 to Uncommon.",
+            "caption": "Successful SMG challenge: the HUD increases a loadout PPSh-41 to Uncommon.",
+            "credit": "Native gameplay frame: MrDalekJD / YouTube; Black Ops Cold War © Activision (2021 footage).",
+            "source": "https://www.youtube.com/watch?v=NZg_hCM9bPU&t=315s"
+          }
+        ],
+        "tip": "A miss or timeout can use up this range for the match. Zombies ignore the active range participant during the challenge; do not assume teammates are protected too."
       }
     ],
     "sources": [
       {
-        "title": "r/CODZombies: pistol blueprint and all three class-specific ranges",
+        "title": "u/Water_In_A_Cup1: firsthand pistol blueprint and challenge discussion",
         "url": "https://www.reddit.com/r/CODZombies/comments/q41xi9/"
       },
       {
-        "title": "r/CODZombies: SMG blueprint and class requirement",
+        "title": "u/StillGalaxy99: firsthand SMG blueprint / class discussion",
         "url": "https://www.reddit.com/r/CODZombies/comments/q4mz15/"
       },
       {
-        "title": "Gamepur: target counts and class-specific locations",
+        "title": "John Hansen: documented sniper sequence and attempt restriction",
         "url": "https://www.gamepur.com/guides/how-to-do-the-moving-targets-easter-egg-in-forsaken-in-call-of-duty-black-ops-cold-war-zombies"
       },
       {
-        "title": "mmmrkennedy: three blueprint screenshots",
+        "title": "MrDalekJD: full native range routes; visible PPSh rarity increase",
+        "url": "https://www.youtube.com/watch?v=NZg_hCM9bPU&t=230s"
+      },
+      {
+        "title": "Inherited blueprint photographs; local pixels reviewed",
         "url": "https://mmmrkennedy.com/games/BO_CW/forsaken/forsaken_guide"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-17",
+    "relatedGuideIds": [
+      "coldwar-forsaken-lockdown-pack-a-punch",
+      "coldwar-forsaken-chrysalax-forms-upgrades"
+    ]
   },
   {
     "id": "vanguard-der-anfang-prologue",

@@ -1987,48 +1987,111 @@
     "title": "Build the free Chrysalax",
     "category": "weapon",
     "difficulty": "Medium",
-    "players": "1–4 players",
-    "summary": "Collect three crystals and feed the Particle Accelerator pool with melee kills to obtain the transforming axe.",
+    "players": "1–4 players, online; Standard Forsaken",
+    "summary": "Reveal the story scene, collect three crystal parts, then charge the Particle Accelerator pool with nearby melee kills.",
     "requirements": [
-      "Observation Tower lockdown lifted",
-      "A Flamethrower support streak",
-      "An Abomination"
+      "Lift Observation Tower’s lockdown and press its separate story button for this build route.",
+      "A Flamethrower support weapon, or Ring of Fire’s actual flames for the Tormentor part.",
+      "An Abomination and a small ambient purple crystal; save one instead of breaking every crystal.",
+      "A melee weapon helps with the final pool. The parts can be gathered in any order."
     ],
-    "reward": "Chrysalax wonder weapon, with axe and gun forms",
+    "reward": "A free Chrysalax with axe and gun forms for this match.",
     "steps": [
       {
-        "title": "Lift the lockdown",
-        "body": "Collect the glowing teleporter repair parts from the Video Store, TV Store, Cinema and Burger Town. Repair the teleporter in Fuel Processing, take it through the bunker and kill the Abomination guarding the route. Reach Observation Tower and press the marked control to end the lockdown."
+        "title": "Open the tower and story scene",
+        "body": "Use the Lockdown / Pack-a-Punch companion route. In Observation Tower, press the separate button beside the shuttered windows after lifting lockdown. Wait for the story scene to finish.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=HQ9nImCSYmA&t=47s",
+        "images": [
+          {
+            "src": "./assets/batch9-forsaken-main-story-button.webp",
+            "alt": "The separate story button beside Observation Tower’s shuttered windows.",
+            "caption": "The separate story button beside Observation Tower’s shuttered windows.",
+            "credit": "Native gameplay frame: MrDalekJD / YouTube; Black Ops Cold War © Activision (2021 footage).",
+            "source": "https://www.youtube.com/watch?v=Dlqnm7k8-b4&t=35s"
+          }
+        ]
       },
       {
-        "title": "Collect a Tormentor's crystal heart",
-        "body": "Craft or obtain a Flamethrower and use it to kill a glowing red Tormentor. Pick up the crystal heart dropped by that fire kill."
+        "title": "Heart: burn a Tormentor",
+        "body": "Obtain a Flamethrower from Support crafting / loot. Kill a glowing red Tormentor with its flame and collect the Tempered Crystal Heart. Ring of Fire’s burning flames are a documented alternative.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/q30mrr/forsaken_easter_egg_hunt_general_map_discussion/",
+        "tip": "A Tormentor is the red, fast exploding enemy, not a blue Tempest. Do not substitute ordinary gunfire for the required fire kill."
       },
       {
-        "title": "Let an Abomination energize a small crystal",
-        "body": "Stand behind one of the small purple Aether crystals while facing an Abomination. Bait its electrical beam into that crystal, then collect the Energetic Geode left where the crystal broke.",
-        "tip": "Use a small ambient crystal for this build step. The huge orbiting-orb crystals belong to the main quest."
+        "title": "Geode: bait an Abomination beam",
+        "body": "Find a small, breakable purple crystal. Stand with that crystal between you and an Abomination, and bait its blue beam through it. Collect the Energetic Geode where the crystal breaks.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/q57hpu/forsaken_easter_egg_guide/",
+        "tip": "Use an ambient loot crystal, not a giant three-orb main-quest crystal. If no ambient crystals remain, check again after the round changes."
       },
       {
-        "title": "Defend the crystal in Jim's Donuts",
-        "body": "After two rounds have passed since lifting the lockdown, listen for the crash and visit Jim's Donuts near Juggernog. Approach the glowing crystal and defeat the enemies spawned by its defense. When the crystal becomes available, collect it."
+        "title": "Core: wait for the crash cue",
+        "body": "Continue playing after the story reveal and listen for the meteor / announcement. Check Jim’s Donuts on Main Street, opposite Beach Pizza. An orange-glowing crystal appears behind its counter.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/q30mrr/forsaken_easter_egg_hunt_general_map_discussion/",
+        "tip": "Do not navigate to Juggernog: that machine is in Checkpoint. Guides give different fixed round timings; use the crash / spawn cue."
       },
       {
-        "title": "Charge the Particle Accelerator pool",
-        "body": "Insert all three collected crystals into the purple liquid container at Particle Accelerator in the bunker. Get melee kills beside the container until their souls finish charging it. The Chrysalax rises from the pool; interact to collect it. Use the weapon-mode switch to change between axe and gun."
+        "title": "Core: finish the Donuts defense",
+        "body": "Approach the orange crystal to trigger its enemy waves. Defeat the summoned Plaguehounds, Tempests, Mimics and other enemies. When the protection / aura clears, interact with the Polymorphic Crystal Core.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/qbx4hz/forsaken_reference_guide_better_late_than_never/",
+        "tip": "This is a short defense encounter. Ordinary kills elsewhere do not replace approaching and completing it."
+      },
+      {
+        "title": "Place the three parts in the pool",
+        "body": "Take the crystals to the Particle Accelerator. There will be a spot where you’ll be able to place them in a sort of tub that is against a wall.",
+        "html": "<p>Take the crystals to the Particle Accelerator. There will be a spot where you’ll be able to place them in a sort of tub that is against a wall.</p><p>— <a href=\"https://www.reddit.com/r/CODZombies/comments/q57hpu/forsaken_easter_egg_guide/\">u/GameLord104</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/q57hpu/forsaken_easter_egg_guide/",
+        "tip": "Hold Interact against the purple liquid pool, even if the prompt is hard to see."
+      },
+      {
+        "title": "Charge with melee, then collect",
+        "body": "Melee kill zombies around it. After a few kills you’ll see that where the crystals were is now the WW. Interact with it and you’ll have it.",
+        "html": "<p>Melee kill zombies around it. After a few kills you’ll see that where the crystals were is now the WW. Interact with it and you’ll have it.</p><p>— <a href=\"https://www.reddit.com/r/CODZombies/comments/q57hpu/forsaken_easter_egg_guide/\">u/GameLord104</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/q57hpu/forsaken_easter_egg_guide/",
+        "tip": "Keep the melee kills close to the pool and wait for the weapon to rise. See the forms / upgrades companion for mode switching and ammunition."
       }
     ],
     "sources": [
       {
-        "title": "Community guide: Forsaken and Chrysalax recipe",
+        "title": "u/GameLord104: firsthand free-weapon recipe and pool instructions",
         "url": "https://www.reddit.com/r/CODZombies/comments/q57hpu/forsaken_easter_egg_guide/"
       },
       {
-        "title": "Activision / Blizzard: Chrysalax forms and acquisition methods",
+        "title": "Forsaken firsthand discovery discussion: Jim’s Donuts and crystal mechanics",
+        "url": "https://www.reddit.com/r/CODZombies/comments/q30mrr/forsaken_easter_egg_hunt_general_map_discussion/"
+      },
+      {
+        "title": "Reference-guide corrections: Donuts waves / PhD / electrical alternatives",
+        "url": "https://www.reddit.com/r/CODZombies/comments/qbx4hz/forsaken_reference_guide_better_late_than_never/"
+      },
+      {
+        "title": "MrRoflWaffles: story button and free build / acquisition variants",
+        "url": "https://www.youtube.com/watch?v=HQ9nImCSYmA"
+      },
+      {
+        "title": "Treyarch: Chrysalax acquisition and forms",
         "url": "https://news.blizzard.com/en-us/article/23734581/new-wonder-weapon-discover-the-chrysalax"
+      },
+      {
+        "title": "MrDalekJD: later side guide retracts the early Molotov claim",
+        "url": "https://www.youtube.com/watch?v=NZg_hCM9bPU&t=802s"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-17",
+    "sourceQuote": "https://www.reddit.com/r/CODZombies/comments/q57hpu/forsaken_easter_egg_guide/",
+    "sourceOmissions": [
+      "Only the quoted pool-placement and charge passages are reproduced. The original post’s inaccurate Juggernog landmark and fixed meteor timing are not carried over."
+    ],
+    "relatedGuideIds": [
+      "coldwar-forsaken-lockdown-pack-a-punch",
+      "coldwar-forsaken-chrysalax-forms-upgrades",
+      "coldwar-forsaken-main",
+      "coldwar-forsaken-intel-season-6"
+    ]
   },
   {
     "id": "coldwar-forsaken-main",
@@ -2037,70 +2100,210 @@
     "category": "main",
     "difficulty": "Medium",
     "players": "1–4 players, online",
-    "summary": "Build and fuel the Aetherium Neutralizer, escort it through the storm, then defeat the Forsaken with Maxis's help.",
+    "summary": "Collect the Neutralizer parts and three fed shards, escort its bubble, then break the Forsaken’s shoulders, stomach and head.",
     "requirements": [
-      "Lockdown lifted and Pack-a-Punch available",
-      "Chrysalax; see the build guide on this map",
-      "Dead Wire or Tesla Storm",
-      "2,000 points for the Grand Prix machine",
-      "A prepared boss loadout"
+      "Standard Forsaken, 1–4 players online. Online Solo works; offline Local story-button activation is not supported by the reviewed reports.",
+      "Lift lockdown; press the separate Observation Tower story button.",
+      "Chrysalax axe for breaking giant crystals; an ordinary gun can destroy their orbiting orbs.",
+      "Dead Wire or Tesla Storm and 2,000 Essence for the special Arcade ARC-XD.",
+      "Collect the Fuel Tank before smashing the three giant crystals. Finish side routes before starting the Neutralizer escort."
     ],
-    "reward": "Pyrrhic Victory completion and Cold War's final story cinematic",
+    "reward": "Pyrrhic Victory main-quest completion and the final Cold War story cinematic; the story route ends the match.",
     "steps": [
       {
-        "title": "Open Observation Tower and reveal the Forsaken",
-        "body": "Repair the Fuel Processing teleporter using the parts in Video Store, TV Store, Cinema and Burger Town, defeat the bunker Abomination and lift the Observation Tower lockdown. Press the additional red button to the right of its shuttered windows. The scene spawns the three large main-quest crystals."
+        "title": "Lift Observation Tower’s lockdown",
+        "body": "Collect the four teleporter repair parts, repair Fuel Processing’s teleporter, defeat the bunker Abomination and use the Observation Tower console. The setup companion gives each part’s search spots.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/q57hpu/forsaken_easter_egg_guide/"
       },
       {
-        "title": "Obtain the Fuel Tank",
-        "body": "Go to Fuel Processing and activate the buttons on the large tanks. In co-op, every player must use a button together. Survive the lockdown for roughly 90 seconds and take the Fuel Tank dropped in the middle of the area."
+        "title": "Press the separate story button",
+        "body": "After lifting lockdown, interact with the small button beside the covered observation windows. Wait through the Forsaken reveal. The three giant orb-covered crystals now become quest objectives.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/q57hpu/forsaken_easter_egg_guide/",
+        "images": [
+          {
+            "src": "./assets/batch9-forsaken-main-story-button.webp",
+            "alt": "The separate story button beside Observation Tower’s shuttered windows.",
+            "caption": "The separate story button beside Observation Tower’s shuttered windows.",
+            "credit": "Native gameplay frame: MrDalekJD / YouTube; Black Ops Cold War © Activision (2021 footage).",
+            "source": "https://www.youtube.com/watch?v=Dlqnm7k8-b4&t=35s"
+          }
+        ],
+        "tip": "Use an online Standard match, including online Solo. Local map access and main-quest activation are different; offline players report this second button does not activate."
       },
       {
-        "title": "Obtain the Monitoring Device with the ARC-XD",
-        "body": "In the Arcade, electrocute a zombie next to the Grand Prix cabinet using Dead Wire or Tesla Storm. Activate the cabinet for 2,000 points to control an ARC-XD. Drive it into TV Store, behind the counter and beside the floor vent; its pulse breaks the vent cover. Drive through the vent into the back room and detonate by the shelving. Return in person and take the glowing Monitoring Device through the broken wall opening."
+        "title": "Prepare the Chrysalax and electricity",
+        "body": "Obtain the Chrysalax through its build / acquisition companion. Have Dead Wire on an ordinary gun, or Tesla Storm, and reserve 2,000 Essence for the Arcade ARC-XD. Gather the next three device parts in any order.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/q57hpu/forsaken_easter_egg_guide/"
       },
       {
-        "title": "Knock down the Housing Unit",
-        "body": "Find the suspended Housing Unit in the upper corner of the bunker Board Room. Lure an Abomination into the room, stand underneath that part, then dodge when it charges. Its impact on the wall beneath the unit knocks it down. Pick up the dropped Housing Unit."
+        "title": "Fuel Tank: start the lockdown",
+        "body": "Go to Fuel Processing and interact with the box on one of the tanks. If you are playing coop all players must be in the area and press a button at the same time. Survive the lockdown whilst killing zombies and it will end after around 90 seconds. Pick up the part that drops in the middle of the area.",
+        "html": "<p>Go to Fuel Processing and interact with the box on one of the tanks. If you are playing coop all players must be in the area and press a button at the same time. Survive the lockdown whilst killing zombies and it will end after around 90 seconds. Pick up the part that drops in the middle of the area.</p><p>— <a href=\"https://www.reddit.com/r/CODZombies/comments/q57hpu/forsaken_easter_egg_guide/\">u/GameLord104</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/q57hpu/forsaken_easter_egg_guide/",
+        "images": [
+          {
+            "src": "./assets/batch9-forsaken-main-fuel-console.webp",
+            "alt": "Fuel Processing: control box mounted on a cylindrical tank.",
+            "caption": "Fuel Processing: control box mounted on a cylindrical tank.",
+            "credit": "Native gameplay frame: MrDalekJD / YouTube; Black Ops Cold War © Activision (2021 footage).",
+            "source": "https://www.youtube.com/watch?v=Dlqnm7k8-b4&t=250s"
+          }
+        ],
+        "tip": "Solo: interact with one Processing Tank button. In co-op, gather everyone in Fuel Processing and have all players hold Interact on a tank button together. Obtain this tank before breaking the giant crystals."
       },
       {
-        "title": "Create three Catalyzed Crystal Shards",
-        "body": "After obtaining the Fuel Tank and Chrysalax, visit the big crystals in Staging Area, the Amplifier and Storage Zone 5 rooftop. At each, use the Chrysalax gun form to destroy all three orbiting orbs, then its axe form to smash the central crystal. Take the Crystal Shard, throw it into the glowing open mouth of the spawned Abomination, then kill that Abomination after its tail glows. Pick up the Catalyzed Crystal Shard it drops. Complete this at all three locations.",
-        "tip": "Shooting an orb starts continuous enemy spawns until that crystal is completed. Have the axe ready before beginning, and collect each catalyzed drop promptly."
+        "title": "Power the Arcade ARC-XD",
+        "body": "Go to the Arcade. Kill a zombie with either Dead Wire or Tesla Storm next to the Grand Prix arcade machine which is across from the Der Eisendrache pinball machine. Interact with this (costs 2000 points) and you will spawn an AC-XD.",
+        "html": "<p>Go to the Arcade. Kill a zombie with either Dead Wire or Tesla Storm next to the Grand Prix arcade machine which is across from the Der Eisendrache pinball machine. Interact with this (costs 2000 points) and you will spawn an AC-XD.</p><p>— <a href=\"https://www.reddit.com/r/CODZombies/comments/q57hpu/forsaken_easter_egg_guide/\">u/GameLord104</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/q57hpu/forsaken_easter_egg_guide/",
+        "tip": "This is the cabinet inside the Arcade, not the hidden PhD race cabinet upstairs in the Bar."
       },
       {
-        "title": "Build and escort the Neutralizer",
-        "body": "Use the workbench at the end of Main Street to build the Aetherium Neutralizer. Finish your preparations, then activate it when Weaver prompts you. Stay inside its protective bubble as it advances. When fuel runs low, briefly leave the bubble to break an orange crystal along the route, pick up the fuel and interact with the machine to refill it. Repeat until it reaches the final door.",
-        "tip": "The storm outside the bubble damages you. Plan short fuel runs and return immediately."
+        "title": "Drive through the counter vent",
+        "body": "Take this to the TV Store and drive it behind the counter and go next to the air vent. The cover will fall off and you’ll be able to go in. Take a right and you’ll see a shelf. Detonate the AC-XD right next to it.",
+        "html": "<p>Take this to the TV Store and drive it behind the counter and go next to the air vent. The cover will fall off and you’ll be able to go in. Take a right and you’ll see a shelf. Detonate the AC-XD right next to it.</p><p>— <a href=\"https://www.reddit.com/r/CODZombies/comments/q57hpu/forsaken_easter_egg_guide/\">u/GameLord104</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/q57hpu/forsaken_easter_egg_guide/",
+        "images": [
+          {
+            "src": "./assets/batch9-forsaken-main-tv-vent.webp",
+            "alt": "ARC-XD view of the floor-level vent behind the television counter.",
+            "caption": "ARC-XD view of the floor-level vent behind the television counter.",
+            "credit": "Native gameplay frame: MrDalekJD / YouTube; Black Ops Cold War © Activision (2021 footage).",
+            "source": "https://www.youtube.com/watch?v=Dlqnm7k8-b4&t=400s"
+          }
+        ],
+        "tip": "Let the special car’s pulse open the vent. A normal crafted ARC-XD is not a substitute for this cabinet car. If it fails, buy another cabinet car and repeat."
       },
       {
-        "title": "Use the last preparation area",
-        "body": "When the Neutralizer stops, use the provided stations to finish armor, perks and weapon upgrades. Interact with the large door only when the team is ready; it takes everyone into the Town Square boss arena."
+        "title": "Collect the Monitoring Device",
+        "body": "Run over to the TV Store and grab the monitor that spawned in the broken glass window. It’ll glow as will all pieces you have to grab as they are Ultra Rarity and Intel so you should be able to find it easily.",
+        "html": "<p>Run over to the TV Store and grab the monitor that spawned in the broken glass window. It’ll glow as will all pieces you have to grab as they are Ultra Rarity and Intel so you should be able to find it easily.</p><p>— <a href=\"https://www.reddit.com/r/CODZombies/comments/q57hpu/forsaken_easter_egg_guide/\">u/GameLord104</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/q57hpu/forsaken_easter_egg_guide/"
       },
       {
-        "title": "Break armor and charge Maxis's cannons",
-        "body": "Shoot the crystals covering the Forsaken's two shoulders until the weak points are exposed. Kill enemies inside the ring beneath Maxis to fill her essence meter. She charges an Aetherium cannon; mount that charged cannon and fire at an exposed shoulder. Charge Maxis again and use the next cannon to destroy the other shoulder."
+        "title": "Housing Unit: bait a wall charge",
+        "body": "Go to the bunker Board Room. Find the unit hanging in an upper corner, across from filing cabinets. Stand under it until an Abomination begins its charge, then dodge. Its wall impact knocks the unit down; interact to collect it.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/q30mrr/forsaken_easter_egg_hunt_general_map_discussion/",
+        "images": [
+          {
+            "src": "./assets/batch9-forsaken-main-housing-unit.webp",
+            "alt": "Board Room: the Housing Unit suspended above the corner.",
+            "caption": "Board Room: the Housing Unit suspended above the corner.",
+            "credit": "Native gameplay frame: MrDalekJD / YouTube; Black Ops Cold War © Activision (2021 footage).",
+            "source": "https://www.youtube.com/watch?v=Dlqnm7k8-b4&t=440s"
+          }
+        ],
+        "tip": "A beam attack is for the free weapon’s geode; this ceiling part needs the charging impact."
       },
       {
-        "title": "Finish the stomach and head",
-        "body": "After the scene between phases, break the armor covering the stomach, fill Maxis's meter with nearby kills and use the charged cannon on that weak point. Repeat the armor-break, essence-charge and cannon-fire cycle for the head. Once the final weak point is destroyed, wait for the ending cinematic."
+        "title": "Shoot three orbs at each crystal",
+        "body": "With the Fuel Tank already collected, visit Staging Area, the Amplifier and Storage Zone 5 Rooftop. Shoot the three orbiting orbs around a giant crystal. An ordinary gun works; Chrysalax gun form is optional.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/12157jt/",
+        "tip": "The encounter spawns enemies once started. Have the Chrysalax axe ready to finish the center crystal."
+      },
+      {
+        "title": "Feed its shard to an Abomination",
+        "body": "Then break the crystal with the melee variant of the WW. An abomination will spawn and so will a crystal where the crystal you broke was. Pick up the crystal and when the abomination opens its mouth, throw it into the mouth and then kill it. Pick up the crystal that spawns from that. Do this with the other crystals.",
+        "html": "<p>Then break the crystal with the melee variant of the WW. An abomination will spawn and so will a crystal where the crystal you broke was. Pick up the crystal and when the abomination opens its mouth, throw it into the mouth and then kill it. Pick up the crystal that spawns from that. Do this with the other crystals.</p><p>— <a href=\"https://www.reddit.com/r/CODZombies/comments/q57hpu/forsaken_easter_egg_guide/\">u/GameLord104</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/q57hpu/forsaken_easter_egg_guide/",
+        "tip": "The throwable uses your tactical slot. A successful feeding makes the Abomination’s rear / tail glow orange; kill it and collect the Catalyzed Crystal Shard promptly."
+      },
+      {
+        "title": "Finish all three crystal sites",
+        "body": "Repeat the orb → axe → feed → kill → pickup sequence at the other two giant crystals. Confirm all three catalyzed shards and the three device parts before going to the Main Street workbench.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/q57hpu/forsaken_easter_egg_guide/",
+        "tip": "Do not leave catalyzed drops lying on the floor. Early routes report a lost drop can block progress; no general recovery for every lost quest shard is established."
+      },
+      {
+        "title": "Build, then commit to the escort",
+        "body": "Build the Neutralizer at the crafting table at the end of Main Street. After a little while you’ll be able to interact with it after a quote from Weaver tells you to do so. This is a point of no return so make sure you’re ready for the escort.",
+        "html": "<p>Build the Neutralizer at the crafting table at the end of Main Street. After a little while you’ll be able to interact with it after a quote from Weaver tells you to do so. This is a point of no return so make sure you’re ready for the escort.</p><p>— <a href=\"https://www.reddit.com/r/CODZombies/comments/q57hpu/forsaken_easter_egg_guide/\">u/GameLord104</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/q57hpu/forsaken_easter_egg_guide/",
+        "tip": "Finish optional radios, songs, intel and side routes before activating it. Bring armor, ammunition and a gun that can reach the boss’s distant weak points."
+      },
+      {
+        "title": "Escort and refuel the Neutralizer",
+        "body": "Once you’re ready, interact with the Neutralizer and follow it. Along the way the Neutralizer will need more crystals to be refuelled. There are orange crystals around you along the path that you are taking. Break them, pick up the crystal that spawns and interact with the Neutralizer. Keep following it and refueling it until it stops.",
+        "html": "<p>Once you’re ready, interact with the Neutralizer and follow it. Along the way the Neutralizer will need more crystals to be refuelled. There are orange crystals around you along the path that you are taking. Break them, pick up the crystal that spawns and interact with the Neutralizer. Keep following it and refueling it until it stops.</p><p>— <a href=\"https://www.reddit.com/r/CODZombies/comments/q57hpu/forsaken_easter_egg_guide/\">u/GameLord104</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/q57hpu/forsaken_easter_egg_guide/",
+        "tip": "Stay inside the protective bubble. Make brief fuel runs through the damaging storm; also check upper ledges / ladders. The Oct 13 patch added escort-crystal respawning; that does not prove every earlier quest-shard softlock is recoverable."
+      },
+      {
+        "title": "Use the final preparation area",
+        "body": "At the large door, use the available upgrade / perk / crafting stations. When everybody is ready, have the squad interact at the door to enter Town Square.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=Dlqnm7k8-b4&t=555s"
+      },
+      {
+        "title": "Shoulders: armor, Maxis, cannon",
+        "body": "Break the armor of the Forsaken by shooting the blue crystals on his shoulders. Then fill up Maxis by standing under her and killing enemies. She will then charge one of the giant guns. Use this and shoot the Forsaken where you just broke the armor. Then charge Maxis again and use the gun she charges to shoot the Forsaken in the other shoulder.",
+        "html": "<p>Break the armor of the Forsaken by shooting the blue crystals on his shoulders. Then fill up Maxis by standing under her and killing enemies. She will then charge one of the giant guns. Use this and shoot the Forsaken where you just broke the armor. Then charge Maxis again and use the gun she charges to shoot the Forsaken in the other shoulder.</p><p>— <a href=\"https://www.reddit.com/r/CODZombies/comments/q57hpu/forsaken_easter_egg_guide/\">u/GameLord104</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/q57hpu/forsaken_easter_egg_guide/",
+        "images": [
+          {
+            "src": "./assets/batch9-forsaken-main-maxis-ring.webp",
+            "alt": "Town Square: Maxis’s essence meter while fighting in her charging area.",
+            "caption": "Town Square: Maxis’s essence meter while fighting in her charging area.",
+            "credit": "Native gameplay frame: MrDalekJD / YouTube; Black Ops Cold War © Activision (2021 footage).",
+            "source": "https://www.youtube.com/watch?v=Dlqnm7k8-b4&t=610s"
+          }
+        ],
+        "tip": "Break the relevant armor with a normal gun first. Kill inside Maxis’s charging area and watch her essence meter; use the cannon she charges on the exposed point. If no cannon is charged, make more kills under Maxis and check the charged cannon again."
+      },
+      {
+        "title": "Stomach, then head",
+        "body": "Then shoot the armor off of his stomach. Charge Maxis and use the gun to shoot his stomach. Now break the armor off his head, charge Maxis, and use the gun to shoot him in the head. After a moment the cutscene will start.",
+        "html": "<p>Then shoot the armor off of his stomach. Charge Maxis and use the gun to shoot his stomach. Now break the armor off his head, charge Maxis, and use the gun to shoot him in the head. After a moment the cutscene will start.</p><p>— <a href=\"https://www.reddit.com/r/CODZombies/comments/q57hpu/forsaken_easter_egg_guide/\">u/GameLord104</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/q57hpu/forsaken_easter_egg_guide/",
+        "tip": "After the final weak point, the team is scripted to take damage and go down before the ending. Wait for the cinematic rather than quitting at that transition."
       }
     ],
     "sources": [
       {
-        "title": "Community guide: Forsaken main quest",
+        "title": "u/GameLord104: firsthand full written main quest",
         "url": "https://www.reddit.com/r/CODZombies/comments/q57hpu/forsaken_easter_egg_guide/"
       },
       {
-        "title": "Call of Duty Wiki: Housing Unit placement",
-        "url": "https://callofduty.fandom.com/wiki/Pyrrhic_Victory_(Zombies)"
+        "title": "Forsaken discoveries: Board Room location, charging part and ending transition",
+        "url": "https://www.reddit.com/r/CODZombies/comments/q30mrr/forsaken_easter_egg_hunt_general_map_discussion/"
       },
       {
-        "title": "GameSpot: crystal mechanics and preparation",
-        "url": "https://www.gamespot.com/articles/how-to-complete-forsaken-main-easter-egg-in-cod-black-ops-cold-war-zombies/1100-6496954/"
+        "title": "Solo player report: ordinary guns can shoot the orbiting orbs",
+        "url": "https://www.reddit.com/r/CODZombies/comments/12157jt/"
+      },
+      {
+        "title": "MrDalekJD: native vent, housing, escort and boss footage",
+        "url": "https://www.youtube.com/watch?v=Dlqnm7k8-b4"
+      },
+      {
+        "title": "Treyarch: escort fuel crystals respawn after Oct 13 fix",
+        "url": "https://www.treyarch.com/game-intel/2021/10/Oct_13_2021_Patch_Notes"
+      },
+      {
+        "title": "PS4 offline player: reconnecting online enabled story button",
+        "url": "https://www.reddit.com/r/ColdWarZombies/comments/15dxguq/"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-17",
+    "sourceQuote": "https://www.reddit.com/r/CODZombies/comments/q57hpu/forsaken_easter_egg_guide/",
+    "sourceOmissions": [
+      "Selected operative passages are quoted from u/GameLord104. The source’s Office / Housing Unit landmark and free-weapon recipe timing are not reproduced.",
+      "Authored setup, corrected locations, ordinary-gun clarification, retries and field notes are separately marked original."
+    ],
+    "relatedGuideIds": [
+      "coldwar-forsaken-lockdown-pack-a-punch",
+      "coldwar-forsaken-chrysalax",
+      "coldwar-forsaken-chrysalax-forms-upgrades",
+      "coldwar-forsaken-lore-radios",
+      "coldwar-forsaken-intel-season-6",
+      "coldwar-forsaken-perks-trials-utilities"
+    ]
   },
   {
     "id": "bo6-liberty-falls-jet-gun",
@@ -2894,42 +3097,76 @@
     "reward": "Shredder wonder weapon",
     "steps": [
       {
-        "title": "Collect the boat battery",
-        "body": "Watch the log-ride boat passing through Kepler System's river. Shoot the battery on the back-middle of the boat until it falls into the water. At the nearby geyser fountains, wait beside a geyser and interact with the battery as it is thrown into the air. Keep checking the geysers until you catch it."
+        "title": "Shoot the boat battery",
+        "body": "Watch the log-ride boat in Spaceship Splash, near the Polar Peak fountain area. Shoot the battery on its back until it falls into the water. Shades help reveal the battery.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/5b9a43/zombies_in_spaceland_buildables_guide/"
+      },
+      {
+        "title": "Catch it from the geysers",
+        "body": "Go to the upper Spaceship Splash fountain / sprayer area. Watch the jets and interact with the battery when it rises. If it never appears, check that it was actually knocked off the boat.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/5b9a43/zombies_in_spaceland_buildables_guide/"
       },
       {
         "title": "Make the red souvenir",
-        "body": "Pick up red Souvenir Tokens from zombie drops and insert three red tokens into Kepler System's Souvenir Station. Take the alien plush / Angry Mike souvenir released by the machine. Other color recipes do not give this weapon part."
+        "body": "Insert three red Souvenir Coins at Kepler’s souvenir machine by the Moonlight Cafe stairs. Take the red Angry Mike / Chromosphere souvenir part.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/5b9a43/zombies_in_spaceland_buildables_guide/"
       },
       {
         "title": "Attach an Arcane Core and release the UFOs",
-        "body": "Earn tickets through arcade games and buy an Arcane Core for 300 tickets from a Weapons of the Future stand. Keep it on the gun you will use for the soul kills. Enter the Pack-a-Punch Projector Room and interact with the miniature UFOs on its table to release them."
+        "body": "Earn tickets through arcade games and buy an Arcane Core for 300 tickets from a Weapons of the Future stand. Keep it on the gun you will use for the soul kills. Enter the Pack-a-Punch Projector Room and interact with the miniature UFOs on its table to release them.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/5b9a43/zombies_in_spaceland_buildables_guide/"
       },
       {
         "title": "Earn the fire core",
-        "body": "In Kepler System, gather a large train and kill about twenty zombies with a single activation of the Chromosphere trap. When its UFO leaves the trap and starts patrolling, follow it and kill zombies close to it using the gun equipped with your Arcane Core. Continue until it drops a glowing elemental orb. Interact with that orb to install the fire element on your gun.",
-        "tip": "Kills must send visible souls into the UFO. If a trap activation was too small, gather more zombies and try another activation."
+        "body": "Use the Chromosphere trap to kill a gathered train until its UFO changes flight path. Follow it and kill nearby zombies with the Arcane Core gun, checking that souls visibly enter the UFO. Collect the fire orb with that gun equipped.",
+        "tip": "Kills must send visible souls into the UFO. If a trap activation was too small, gather more zombies and try another activation.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/5b9a43/zombies_in_spaceland_buildables_guide/"
       },
       {
         "title": "Replace the gator's broken teeth",
-        "body": "Buy Golden Teeth from the Astrocade prize counter for 300 tickets. Lure a Brute into the Kepler gator-mouth trap and let the mouth close onto it, breaking teeth. Place the Golden Teeth into the broken section. The machine inside the gator's throat is now exposed."
+        "body": "Buy Golden Teeth from the Astrocade prize counter for 300 tickets. Lure a Brute into the Kepler gator-mouth trap and let the mouth close onto it, breaking teeth. Place the Golden Teeth into the broken section. The machine inside the gator's throat is now exposed.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/5b9a43/zombies_in_spaceland_buildables_guide/"
       },
       {
         "title": "Collect the red crystal and build the Shredder",
-        "body": "Shoot the rightmost target inside the gator's throat with your fire-element Arcane Core gun. Take the released red crystal. With the battery, red souvenir and crystal, interact with the Shredder cardboard cutout in the Underground Passage by Kepler's log ride. Assemble and collect the weapon."
+        "body": "Facing the croc cabinet, shoot the rightmost panel with the fire-element Core gun and take its red crystal. Bring the battery, souvenir and crystal to the Shredder cardboard cutout in the Underground Passage; assemble and collect it.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/5b9a43/zombies_in_spaceland_buildables_guide/"
       }
     ],
     "sources": [
       {
-        "title": "r/CODZombies community breakdown: Shredder and elemental cores",
+        "title": "r/CODZombies map reference",
         "url": "https://www.reddit.com/r/CODZombies/wiki/zombies-in-spaceland/"
       },
       {
-        "title": "MMMrKennedy: boat battery location and gator target",
-        "url": "https://mmmrkennedy.com/games/IW/zombies_in_spaceland/zombies_in_spaceland_guide"
+        "title": "u/CcaRAWK: boat battery and elemental discovery",
+        "url": "https://www.reddit.com/r/CODZombies/comments/5b9a43/zombies_in_spaceland_buildables_guide/"
+      },
+      {
+        "title": "CodeNamePizza: Shredder chapter 7:28",
+        "url": "https://www.youtube.com/watch?v=xAAVFbecdK8&t=448s"
+      },
+      {
+        "title": "NoodlesRuns: Shredder chapter 7:30",
+        "url": "https://www.youtube.com/watch?v=hodIcuLUFm4&t=450s"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-17",
+    "relatedGuideIds": [
+      "iw-zombies-in-spaceland-community-zombies-in-spaceland-gameplay-systems-pack-a-punch",
+      "iw-zombies-in-spaceland-community-zombies-in-spaceland-gameplay-systems-elemental-upgrades",
+      "iw-zombies-in-spaceland-community-zombies-in-spaceland-gameplay-systems-crafting",
+      "iw-zombies-in-spaceland-main",
+      "iw-zombies-in-spaceland-weapon-of-rock-upgrades"
+    ],
+    "supplementNote": "Quoted passages retain their source attribution. Original steps and tips are separately written supplements; links open the references used."
   },
   {
     "id": "iw-zombies-in-spaceland-main",
@@ -2937,78 +3174,185 @@
     "title": "Sooooul Key: Zombies in Spaceland main quest",
     "category": "main",
     "difficulty": "Hard",
-    "players": "1–4 players; one Alien per player",
+    "players": "Solo or 2–4 players; one Alien per player at the boss phase",
     "summary": "Defend the SETI-COM, repeat the UFO's color sequence, defeat the Aliens and destroy the UFO to recover the Soul Key.",
     "requirements": [
-      "All five power switches and four district portals",
-      "A Pack-a-Punched crowd-control gun; Kendall-44 with Bombstoppers is a practical option",
-      "Any Weapon of Rock for the final UFO step; see the Shredder build guide",
-      "5,000 points to upgrade that wonder weapon after defeating the Aliens"
+      "Standard Spaceland, solo or co-op. Boss Battles practice is a separate mode.",
+      "Open power, travel through all four portals and enter the Projection Room.",
+      "Use strong crowd control for defenses; upgraded Kendall-44 plus Bombstoppers is one optional approach. Fortune Cards and special weapon variants are not mandatory.",
+      "Have any Weapon of Rock and 5,000 points for its post-Alien upgrade."
     ],
     "reward": "Soul Key piece, Sooooul Key completion and Hasselhoff character unlock",
     "steps": [
       {
         "title": "Turn on power and open Pack-a-Punch",
-        "body": "Use the power switches at spawn's employees-only room, Journey into Space's Star Mission / Rover Rampage hallway, Astrocade by its portal, Polar Peak near the Magic Wheel, and Kepler's Moonlight Cafe. Activate and travel through the four district portals in Journey, Astrocade, Polar Peak and Kepler. Their return trips light the central portal, which opens the Projector Room and Pack-a-Punch."
+        "body": "Use the power switches at spawn's employees-only room, Journey into Space's Star Mission / Rover Rampage hallway, Astrocade by its portal, Polar Peak near the Magic Wheel, and Kepler's Moonlight Cafe. Activate and travel through the four district portals in Journey, Astrocade, Polar Peak and Kepler. Their return trips light the central portal, which opens the Projector Room and Pack-a-Punch.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g90dbx/spaceland_ultimate_guide/"
       },
       {
         "title": "Find the three SETI-COM parts",
-        "body": "Calculator: check the yellow bench beside the central Pack-a-Punch portal, Astrocade's upper trashcan, and the yellow Kepler table above the ERAD wall buy. Boombox: check the underground Racin' Stripes counter, the yellow cart under the Cosmic Way bridge, and Moonlight Cafe's counter. Umbrella: check the red bench beneath the Hyper Slides, Polar Peak's gift-shop counter, and the corner beside Star Mission's trap control. There is one active spawn per part."
+        "body": "Calculator: check the yellow bench beside the central Pack-a-Punch portal, Astrocade's upper trashcan, and the yellow Kepler table above the ERAD wall buy. Boombox: check the underground Racin' Stripes counter, the yellow cart under the Cosmic Way bridge, and Moonlight Cafe's counter. Umbrella: check the red bench beneath the Hyper Slides, Polar Peak's gift-shop counter, and the corner beside Star Mission's trap control. There is one active spawn per part.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g90dbx/spaceland_ultimate_guide/"
       },
       {
-        "title": "Have Hasselhoff assemble the SETI-COM",
-        "body": "Open Pack-a-Punch and collect the parts, then wait for the UFO on Polar Peak to flash its lights and play its signal. Find Hasselhoff at an active Cosmic Tunes DJ booth in Journey or Kepler, interact and collect the assembled SETI-COM."
+        "title": "Signal and three Hoff booths",
+        "body": "After collecting the parts, enter the Projection Room and advance the scene. Watch the UFO mounted on Polar Peak for flashing lights and its signal. Collect the SETI-COM from Hoff’s active booth: Journey by Mule Munchies, Kepler by the croc, or the fountain area.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g90dbx/spaceland_ultimate_guide/"
       },
       {
-        "title": "Locate and complete three defenses",
-        "body": "Carry the device around its possible defense spots until the screen shakes and the placement prompt appears: underground by Racin' Stripes; Journey's Escape Velocity area; outside the bumper cars; the Yeti / Polar Peak entrance; inside the Polar gift shop; near the fountains/geysers; and beside Kepler's crocodile route. Place it and prevent zombies reaching it. The defenses last 60, 90 and 120 seconds. Pick it up after each success, refill from the Max Ammo, then move to the next round for the next defense.",
-        "tip": "If the device breaks, return to Hasselhoff for another SETI-COM and retry. Prepare ammunition and a distraction before the 120-second defense."
+        "title": "Find the shaking defense spot",
+        "body": "Check seven candidates: Underground by Racin’ Stripes; Journey’s Escape Velocity; outside bumper cars; Yeti / Polar entrance; Polar gift shop; fountains; Kepler near the ERAD and croc. The valid spot shakes the screen and gives a placement prompt.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g90dbx/spaceland_ultimate_guide/",
+        "tip": "At the fountain location, place the device on dry ground away from the jets so it remains reachable for pickup."
+      },
+      {
+        "title": "Defense one: 60 seconds",
+        "body": "Prepare ammunition, place the device at the active prompt and keep zombies off it for 60 seconds. Pick it up after success. Advance a scene before looking for the next successful defense.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g90dbx/spaceland_ultimate_guide/"
+      },
+      {
+        "title": "Defense two: 90 seconds",
+        "body": "Find the next active location and defend for 90 seconds. Recover the device and prepare the next scene.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g90dbx/spaceland_ultimate_guide/"
+      },
+      {
+        "title": "Defense three: 120 seconds",
+        "body": "Prepare two minutes of crowd control, plus a distraction or useful trap. Defend for 120 seconds and retrieve the completed SETI-COM.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g90dbx/spaceland_ultimate_guide/",
+        "tip": "A failure does not erase successful defenses. Get a replacement from Hoff; if he does not hand it over immediately, advance the scene and check again. Same-scene replacement timing differs between the documented sources."
+      },
+      {
+        "title": "Return it; wait for speakers",
+        "body": "Return the completed SETI-COM to Hoff. Wait two non-clown scene advances and collect the speaker set when he offers it.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/zombies-in-spaceland/"
       },
       {
         "title": "Collect and place four speakers",
-        "body": "Return the completed SETI-COM to Hasselhoff and advance rounds until he offers the speakers. Place the first in front of the Pack-a-Punch portal, the second at the Journey gold marker, the third at Polar Peak's marker, and the fourth at Kepler's marker. This gives a useful color layout: portal yellow, Journey blue, Polar green, Kepler red. Finish perks and ammunition before activating the speakers."
+        "body": "Once Hoff gives you the speakers, place the first in front of the Pack-a-Punch portal, the second at the Journey gold marker, the third at Polar Peak's marker, and the fourth at Kepler's marker. This gives a useful color layout: portal yellow, Journey blue, Polar green, Kepler red. Finish perks and ammunition before activating the speakers.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/Infinitewarfare/comments/vwkdyu/tips_for_solo_spaceland_easter_egg/",
+        "tip": "Speaker colors follow placement order: first yellow, second blue, third green, fourth red. The suggested marker route matches the park colors; check the actual beams before entering a pattern."
       },
       {
         "title": "Complete three UFO color sequences",
         "body": "Activate the speakers together as a team to start; in solo, interact with a speaker. Note each speaker's colored beam, then watch the four-color sequence flashed by the UFO. Wait until the beams turn white and quickly interact with the speakers in that same order. Repeat three successful sequences. Between sequences, keep the horde behind you and watch the UFO for the next pattern.",
-        "tip": "A wrong or slow partial input spawns a Brute. If you missed the pattern completely, enter nothing and wait for it to replay. In co-op, assign players to nearby speakers and call the order aloud."
+        "tip": "A wrong or slow partial input spawns a Brute. If you missed the pattern completely, enter nothing and wait for it to replay. In co-op, assign players to nearby speakers and call the order aloud.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/Infinitewarfare/comments/vwkdyu/tips_for_solo_spaceland_easter_egg/"
       },
       {
         "title": "Clear the clowns and damage the Aliens",
-        "body": "Survive the clown phase that follows the third sequence. One Alien then appears for each player. Shoot each Alien's glowing collar/chest while keeping a safe gap from the horde. Its collar changes from green to yellow to red as it takes damage. Avoid the large slowing energy ball, which can leave you trapped by zombies."
+        "body": "Survive the clown phase that follows the third sequence. One Alien then appears for each player. Shoot each Alien's glowing collar/chest while keeping a safe gap from the horde. Its collar changes from green to yellow to red as it takes damage. Avoid the large slowing energy ball, which can leave you trapped by zombies.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g90dbx/spaceland_ultimate_guide/"
       },
       {
         "title": "Break each Alien's backpack fuses",
-        "body": "When an Alien kneels on the playable ground, wait for its bubble shield to drop, get behind it and melee the glowing backpack fuse. Retreat immediately from the blast as it stands. Damage and melee a second fuse, then damage the Alien a third time to kill it. Repeat for every Alien in co-op."
+        "body": "When an Alien kneels on the playable ground, wait for its bubble shield to drop, get behind it and melee the glowing backpack fuse. Retreat immediately from the blast as it stands. Damage and melee a second fuse, then damage the Alien a third time to kill it. Repeat for every Alien in co-op.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g90dbx/spaceland_ultimate_guide/"
       },
       {
         "title": "Install the Alien Fuses and upgrade a Weapon of Rock",
-        "body": "Collect the Alien Fuses left near the portal and install them in Pack-a-Punch inside the Projector Room. Build a Shredder, Dischord, Face-Melter or Head-Cutter if you do not already have one. Upgrade that wonder weapon for 5,000 points; a regular upgraded gun cannot perform the final node step."
+        "body": "Collect the Alien Fuses near the central portal and install them in Pack-a-Punch. Upgrade a Shredder, Dischord, Face-Melter or Head-Cutter for 5,000 points. Standard reaches this stage before destroying the UFO; Director’s Cut can supply upgraded pistols earlier.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g90dbx/spaceland_ultimate_guide/"
       },
       {
         "title": "Time the five ring nodes to destroy the UFO",
-        "body": "Use the upgraded wonder pistol to shoot four of the five glowing power nodes on the Spaceland Ring above the spawn bridge. Each hit lights its node orange. Watch the UFO's flight path and shoot the fifth node just before the UFO reaches directly above the Pack-a-Punch portal. The ring charges briefly and fires a redirected beam upward. If it misses, try lighting the nodes again for another pass."
+        "body": "Use the upgraded wonder pistol to shoot four of the five glowing power nodes on the Spaceland Ring above the spawn bridge. Each hit lights its node orange. Watch the UFO's flight path and shoot the fifth node just before the UFO reaches directly above the Pack-a-Punch portal. The ring charges briefly and fires a redirected beam upward. If it misses, try lighting the nodes again for another pass.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g90dbx/spaceland_ultimate_guide/",
+        "tip": "If no beam fires after your timing attempt, check the opposite face of the double-sided ring for a remaining blue panel. Keep the final panel for the UFO’s pass above the central portal."
       },
       {
         "title": "Pick up the Soul Key",
-        "body": "When the beam destroys the UFO, collect the Soul Key piece in front of the central portal. This pickup finishes the quest. Leaving after only killing the Alien does not complete the normal-map main quest."
+        "body": "When the beam destroys the UFO, collect the Soul Key piece in front of the central portal. This pickup finishes the quest. Leaving after only killing the Alien does not complete the normal-map main quest.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g90dbx/spaceland_ultimate_guide/",
+        "tip": "Boss Battles practice ends after its boss phase; it does not replace Standard’s UFO destruction and Soul Key pickup."
       }
     ],
     "sources": [
       {
-        "title": "r/CODZombies community breakdown: Spaceland main quest",
+        "title": "r/CODZombies map reference",
         "url": "https://www.reddit.com/r/CODZombies/wiki/zombies-in-spaceland/"
       },
       {
-        "title": "Community guide: stable speaker placement and color layout",
+        "title": "u/DaRkShAdOwYlaf: firsthand main route and UFO recovery",
+        "url": "https://www.reddit.com/r/CODZombies/comments/g90dbx/spaceland_ultimate_guide/"
+      },
+      {
+        "title": "u/ImXys and speaker timing replies",
         "url": "https://www.reddit.com/r/Infinitewarfare/comments/vwkdyu/tips_for_solo_spaceland_easter_egg/"
       },
       {
-        "title": "MMMrKennedy: defense recovery and final five-node timing",
-        "url": "https://mmmrkennedy.com/games/IW/zombies_in_spaceland/zombies_in_spaceland_guide"
+        "title": "Original creator’s co-op confirmation",
+        "url": "https://www.reddit.com/r/CODZombies/comments/5brq2b/zombies_in_spaceland_easter_egg_guide/"
+      },
+      {
+        "title": "Creator: SETI-COM overview 5:03",
+        "url": "https://www.youtube.com/watch?v=hodIcuLUFm4&t=303s"
+      },
+      {
+        "title": "Creator: defense 1 at 5:51",
+        "url": "https://www.youtube.com/watch?v=hodIcuLUFm4&t=351s"
+      },
+      {
+        "title": "Creator: defense 2 at 6:06",
+        "url": "https://www.youtube.com/watch?v=hodIcuLUFm4&t=366s"
+      },
+      {
+        "title": "Creator: defense 3 at 6:44",
+        "url": "https://www.youtube.com/watch?v=hodIcuLUFm4&t=404s"
+      },
+      {
+        "title": "Creator: Shredder at 7:30",
+        "url": "https://www.youtube.com/watch?v=hodIcuLUFm4&t=450s"
+      },
+      {
+        "title": "Creator: boss preparation 9:07",
+        "url": "https://www.youtube.com/watch?v=hodIcuLUFm4&t=547s"
+      },
+      {
+        "title": "Creator: speakers/patterns 9:51",
+        "url": "https://www.youtube.com/watch?v=hodIcuLUFm4&t=591s"
+      },
+      {
+        "title": "Creator: Alien fight 11:05",
+        "url": "https://www.youtube.com/watch?v=hodIcuLUFm4&t=665s"
+      },
+      {
+        "title": "Creator: fuses/UFO/Soul Key 12:38",
+        "url": "https://www.youtube.com/watch?v=hodIcuLUFm4&t=758s"
+      },
+      {
+        "title": "Early discovery guide: double-sided ring and UFO timing",
+        "url": "https://www.reddit.com/r/CODZombies/comments/5bxaow/megapostsuper_simple_in_depth_zombies_in/"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-17",
+    "relatedGuideIds": [
+      "iw-zombies-in-spaceland-community-zombies-in-spaceland-gameplay-systems-power",
+      "iw-zombies-in-spaceland-community-zombies-in-spaceland-gameplay-systems-pack-a-punch",
+      "iw-zombies-in-spaceland-seticom-parts",
+      "iw-zombies-in-spaceland-shredder",
+      "iw-zombies-in-spaceland-head-cutter",
+      "iw-zombies-in-spaceland-face-melter",
+      "iw-zombies-in-spaceland-dischord",
+      "iw-zombies-in-spaceland-weapon-of-rock-upgrades",
+      "iw-zombies-in-spaceland-community-zombies-in-spaceland-quests-easter-eggs-play-as-david-hasselhoff",
+      "iw-zombies-in-spaceland-community-zombies-in-spaceland-quests-easter-eggs-ghosts-n-skulls"
+    ],
+    "supplementNote": "Quoted passages retain their source attribution. Original steps and tips are separately written supplements; links open the references used."
   },
   {
     "id": "bo3-the-giant-music",

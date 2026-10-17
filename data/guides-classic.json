@@ -2902,7 +2902,7 @@
     "players": "4-player walkthrough",
     "summary": "Build the Gallows, escort the energy twice with a Time Bomb, solve the nine bells and clear the full shooting gallery.",
     "requirements": [
-      "Normal difficulty",
+      "Original difficulty (not Easy)",
       "Four players for this route",
       "Turbine and Subsurface Resonator",
       "Galvaknuckles or Bowie Knife for the mine signs",
@@ -2914,53 +2914,136 @@
     "steps": [
       {
         "title": "Open the town and build the Gallows",
-        "body": "Free Arthur from the jail and give him booze while his back faces a barrier to make him charge through it. Turn on power upstairs in the Candy Store. At the Gallows beside the Courthouse, add: the light bulb from the jail's upstairs room; the battery behind the church pulpit; the wire spool from the Gunsmith's downstairs room near the mine entrance; and the antenna from a barn stall. Put the shared wire and antenna here, not at the Guillotine."
+        "body": "Free Arthur from the jail and give him booze while his back faces a barrier to make him charge through it. Turn on power upstairs in the Candy Store. At the Gallows beside the Courthouse, add: the light bulb from the jail's upstairs room; the battery behind the church pulpit; the wire spool from the Gunsmith's downstairs room near the mine entrance; and the antenna from a barn stall. Put the shared wire and antenna here, not at the Guillotine.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g5p307/",
+        "images": [
+          {
+            "src": "./assets/root-batch10-buried-gallows-parts.svg",
+            "alt": "BURIED • MAXIS GALLOWS PARTS. LIGHT BULB: Jail / Sheriff’s building • upstairs room BATTERY: Church • behind the pulpit WIRE SPOOL: Gunsmith • downstairs near the mine entrance ANTENNA: Barn • ground-floor right-hand stall",
+            "caption": "Original written reference diagram; not a game screenshot. Take all four to the Gallows beside the Courthouse.",
+            "source": "https://www.reddit.com/r/CODZombies/wiki/buried/",
+            "credit": "Dead Drop — original written reference diagram"
+          }
+        ]
       },
       {
         "title": "Build the Turbine and Resonator",
-        "body": "Collect the Turbine's fan, mannequin and plane-tail parts from the General Store. Build it on an available workbench. The Subsurface Resonator uses a roulette wheel, card table, roulette-table base and pipe, also in the General Store. Build it at a separate available bench. Have two players carry the two devices so they can be placed together."
+        "body": "Build the Turbine from its fan, mannequin and tail. Build the Subsurface Resonator from its four roulette-table/speaker components, all in the General Store. Use different workbenches and two carriers so both devices can be placed together. The linked individual build guides list every part location.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g5p307/",
+        "images": [
+          {
+            "src": "./assets/root-batch10-buried-upper-bench.webp",
+            "alt": "Buildable workbench in the upper room over the Juggernog passage.",
+            "caption": "Workbench — upper room above the Juggernog passage.",
+            "source": "https://www.youtube.com/watch?v=CdsXQikvRcY&t=30s",
+            "credit": "JokerAlex 21 / Activision — BO2 Buried guide footage; exact captured build not certified"
+          }
+        ]
       },
       {
         "title": "Destroy four red orbs",
-        "body": "Find the orbs in the alley between Saloon and Candy Store, behind the rock left of the church, in the upper mine tunnels, and in the garden on the mansion's maze-facing side. At each one, aim a Subsurface Resonator at it and place a Turbine next to the Resonator to power it. Let the Resonator's pulses shatter the orb. Retrieve both devices and repeat until all four are destroyed and the purple lantern appears."
+        "body": "Find the orbs in the alley between Saloon and Candy Store, behind the rock left of the church, in the upper mine tunnels, and in the garden on the mansion's maze-facing side. At each one, aim a Subsurface Resonator at it and place a Turbine next to the Resonator to power it. Let the Resonator's pulses shatter the orb. Retrieve both devices and repeat until all four are destroyed and the purple lantern appears.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g5p307/"
       },
       {
         "title": "Catch and charge the lantern",
-        "body": "Cook a grenade so it explodes beside the floating purple lantern and knocks it down; pick it up. The lantern carrier stays near zombies while Arthur knocks them down/runs into them; giving him candy makes this easy. Trap damage can charge it as well. Listen for the rising chimes and Maxis's full-charge confirmation. Protect the carrier: losing the lantern when downed can require a restart."
+        "body": "Cook a grenade so it explodes beside the floating purple lantern and knocks it down; pick it up. The lantern carrier stays near zombies while Arthur knocks them down/runs into them; giving him candy makes this easy. Trap damage can charge it as well. Listen for the rising chimes and Maxis's full-charge confirmation. Protect the carrier: losing the lantern when downed can require a restart.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g5p307/"
       },
       {
         "title": "Place the lantern and read the three signs",
-        "body": "On the Gunsmith roof, place the charged lantern on the glowing lantern outline. Read each cipher line as follows: take its second symbol, then count from the start of that line to the next identical symbol, counting space symbols too. The matching position identifies the sign:\n6 = BONE ORCHARD VEIN.\n8 = LUNGER UNDERMINES.\n10 = CONSUMPTION CROSS.\n11 = DRY GULCHER SHAFT.\n12 = GROUND BITER PITS.\nWrite down all three named signs. The combination changes per match."
+        "body": "On the Gunsmith roof, place the charged lantern on the glowing lantern outline. Read each cipher line as follows: take its second symbol, then count from the start of that line to the next identical symbol, counting space symbols too. The matching position identifies the sign:\n6 = BONE ORCHARD VEIN.\n8 = LUNGER UNDERMINES.\n10 = CONSUMPTION CROSS.\n11 = DRY GULCHER SHAFT.\n12 = GROUND BITER PITS.\nWrite down all three named signs. The combination changes per match.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g5p307/",
+        "images": [
+          {
+            "src": "./assets/root-batch10-buried-cipher-reference.svg",
+            "alt": "BURIED • MINE SIGN DECODER. 6: BONE ORCHARD VEIN 8: LUNGER UNDERMINES 10: CONSUMPTION CROSS 11: DRY GULCHER SHAFT 12: GROUND BITER PITS Worked example: BONE ORCHARD VEIN: second letter O; next O is position 6.",
+            "caption": "Original written reference diagram; not a game screenshot. Match all three rows. Hit only the three decoded signs.",
+            "source": "https://discover.hubpages.com/games-hobbies/Decode-The-Cypher-Easter-Egg-Step-Call-of-Duty-Black-Ops-2-Zombies",
+            "credit": "Dead Drop — original written reference diagram"
+          },
+          {
+            "src": "./assets/root-batch10-buried-gr-mine-sign.webp",
+            "alt": "Dry Gulcher Shaft sign in the mine tunnels.",
+            "caption": "Mine sign — DRY GULCHER SHAFT corresponds to position 11.",
+            "source": "https://www.gamesradar.com/call-duty-black-ops-2-vengeance-dlc-buried-guide-walkthrough/",
+            "credit": "Jeff McAllister / GamesRadar+; image credited to Treyarch — original BO2 gameplay"
+          }
+        ]
       },
       {
         "title": "Prepare the wisp route and Time Bomb",
-        "body": "Keep enough zombies alive to feed the moving wisp. Station teammates with small trains in the barn, near the original box/jail area and outside the Saloon. Use your melee upgrade to activate exactly the three decoded mine signs. Their order is flexible; the last sign determines the starting route. If available, make Consumption Cross last for a shorter route. Place the Time Bomb before the first wisp reaches the Gallows, preferably just before you activate the last sign."
+        "body": "Keep enough zombies alive to feed the moving wisp. Station teammates with small trains in the barn, near the original box/jail area and outside the Saloon. Use your melee upgrade to activate exactly the three decoded mine signs. Their order is flexible; the last sign determines the starting route. If available, make Consumption Cross last for a shorter route. Place the Time Bomb before the first wisp reaches the Gallows, preferably just before you activate the last sign.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g5p307/"
       },
       {
         "title": "Escort the first wisp",
-        "body": "The player who hit the last sign stays close to the wisp for its whole trip. Other teammates keep zombies ahead of it. Let the wisp touch zombies, then kill those charged/glowing zombies nearby to feed it. It fades if the escort falls behind or it lacks energy. Follow it through the town until it enters the Gallows and lights one bulb. If it vanishes, reactivate the three signs and prepare another attempt.",
-        "tip": "A lone saved crawler cannot supply the energy this stage needs."
+        "body": "The player who hit the last sign stays close to the wisp for its whole trip. Teammates guide groups of living zombies into its path throughout the route; move an earlier group ahead again after it passes if needed. Keep the route supplied until the wisp enters the Gallows and lights one bulb. If it fades, reactivate the three decoded signs and retry with better zombie placement.",
+        "tip": "A lone saved crawler cannot supply the energy this stage needs.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/BO2Zombies/comments/1w5xbhh/stuck_on_buried_ee/"
       },
       {
         "title": "Rewind and escort it again",
-        "body": "After the first bulb lights, activate the Time Bomb. The world returns to the saved moment, but the Gallows retains that first charge. Repeat the escort from the mine signs and feed the wisp along its route again. The second successful arrival lights the other bulb and unlocks the bell puzzle."
+        "body": "After the first bulb lights, activate the Time Bomb. The world returns to the saved moment, but the Gallows retains that first charge. Repeat the escort from the mine signs and feed the wisp along its route again. The second successful arrival lights the other bulb and unlocks the bell puzzle.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g5p307/"
       },
       {
         "title": "Map the nine bells to the switchboard",
         "body": "Put one player at each set of three service bells: the barn's upper floor, Candy Store upstairs, and Courthouse downstairs. The fourth goes through the mansion's moving-bookcase passage to the switchboard on the chair beside the passage room. Before pulling its lever, ring each bell once and have the board player write down which of the nine bulbs it lights. Give the bulbs numbers and use those numbers as callouts.",
-        "tip": "The mansion player must defend against ghosts while reading the board."
+        "tip": "The mansion player must defend against ghosts while reading the board.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g5p307/",
+        "images": [
+          {
+            "src": "./assets/root-batch10-buried-bell-reference.svg",
+            "alt": "BURIED • NINE BELL LOCATIONS. COURTHOUSE • DOWNSTAIRS: Left entrance bench arm • table opposite the judge; Low left section of the judge’s bench CANDY STORE • UPSTAIRS: Table by furnace • table opposite stairs; Chair beside the stair-room entrance; no power switch here BARN • UPSTAIRS: Hay by wall opening • hay behind leaning board; Far back corner, furthest from the stairs MANSION • SWITCHBOARD: Past the moving bookcase; nine bulbs on the chair; Call yellow → ring its mapped bell → confirm green",
+            "caption": "Original written reference diagram; not a game screenshot. These are location groups, not a fixed nine-bulb solution.",
+            "source": "https://discover.hubpages.com/games-hobbies/The-Bells-in-Buried-Easter-Egg-Step-Call-of-Duty-Black-Ops-2-Zombies",
+            "credit": "Dead Drop — original written reference diagram"
+          },
+          {
+            "src": "./assets/root-batch10-buried-gr-board.webp",
+            "alt": "Nine-light switchboard on the Mansion seat.",
+            "caption": "Maxis bell switchboard — map your bells before starting.",
+            "source": "https://www.gamesradar.com/call-duty-black-ops-2-vengeance-dlc-buried-guide-walkthrough/",
+            "credit": "Jeff McAllister / GamesRadar+; image credited to Treyarch — original BO2 gameplay"
+          }
+        ]
       },
       {
         "title": "Play the bell sequence",
-        "body": "The switchboard player pulls the lever and calls out the yellow bulb. Its corresponding teammate immediately rings the mapped bell. That bulb turns green and the next yellow bulb appears. Continue until all nine are green and Maxis confirms completion. A wrong or slow bell resets the board; pull the lever and retry using the same mapped bell assignments."
+        "body": "The switchboard player pulls the lever and calls out the yellow bulb. Its corresponding teammate immediately rings the mapped bell. That bulb turns green and the next yellow bulb appears. Continue until all nine are green and Maxis confirms completion. A wrong or slow bell resets the board; pull the lever and retry using the same mapped bell assignments.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g5p307/"
       },
       {
         "title": "Make a wish and clear all 84 targets",
-        "body": "Assign one shooter per zone: outside Candy Store facing the Courthouse (20 targets), left of the mansion watching its windows (23), inside the Saloon watching both floors/railings (19), and the jail/original-box area (22). Reload and then interact with the fountain in front of the mansion/church to make a wish. Shoot every target before it retracts. All 84 must be hit in the same attempt; one miss makes the team retry. Use another wish to practice each fixed sequence. The fountain does not need Arthur to smash it for this step."
+        "body": "Assign one shooter per zone: outside Candy Store facing the Courthouse (20 targets), left of the mansion watching its windows (23), inside the Saloon watching both floors/railings (19), and the jail/original-box area (22). Reload and then interact with the fountain in front of the mansion/church to make a wish. Shoot every target before it retracts. All 84 must be hit in the same attempt; one miss makes the team retry. Use another wish to practice each fixed sequence. The fountain does not need Arthur to smash it for this step.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g5p307/",
+        "images": [
+          {
+            "src": "./assets/root-batch10-buried-front-fountain.webp",
+            "alt": "Fountain in front of the Mansion and Church.",
+            "caption": "Town fountain — Arthur can break this using booze; Sharpshooter does not require it broken.",
+            "source": "https://www.codzombieguides.com/buried",
+            "credit": "JokerAlex 21 / Activision — BO2 Buried guide footage; exact captured build not certified"
+          }
+        ]
       },
       {
         "title": "Confirm completion",
-        "body": "The perk reward and Mined Games achievement confirm the quest. The separate Courthouse super-quest button only becomes relevant after all four players have matching TranZit, Die Rise and Buried records plus accepted Navcards. Pressing it resets those completion records; it is not needed to finish this map's quest."
+        "body": "The perk reward and Mined Games achievement confirm the quest. The separate Courthouse super-quest button only becomes relevant after all four players have matching TranZit, Die Rise and Buried records plus accepted Navcards. Pressing it resets those completion records; it is not needed to finish this map's quest.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g5p307/"
       }
     ],
     "sources": [
@@ -2991,9 +3074,23 @@
       {
         "title": "The Kronorium — Maxis target counts and reward",
         "url": "https://thekronorium.weebly.com/buried-maxis.html"
+      },
+      {
+        "title": "Firsthand Maxis wisp discussion — living groups and escort",
+        "url": "https://www.reddit.com/r/BO2Zombies/comments/1w5xbhh/stuck_on_buried_ee/"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-17",
+    "sourceQuote": null,
+    "sourceOmissions": [],
+    "relatedGuideIds": [
+      "bo2-buried-arthur-release-and-keys",
+      "bo2-buried-arthur-booze-and-barriers",
+      "bo2-buried-four-workbench-locations",
+      "bo2-buried-mine-cipher-reference",
+      "bo2-buried-sharpshooter-team-reference",
+      "bo2-buried-nine-bell-locations"
+    ]
   },
   {
     "id": "bo2-buried-mined-games-richtofen",
@@ -3004,7 +3101,7 @@
     "players": "4 required",
     "summary": "Power the Guillotine, collect the future's switch, solve the colored maze levers and complete Sharpshooter.",
     "requirements": [
-      "Normal difficulty and four players",
+      "Original difficulty (not Easy) and four players",
       "Paralyzer from the box",
       "Time Bomb from the box",
       "Galvaknuckles or Bowie Knife",
@@ -3016,47 +3113,121 @@
     "steps": [
       {
         "title": "Build the Guillotine",
-        "body": "Turn on power upstairs in the Candy Store and free Arthur to open the town's barriers with booze. Build the Guillotine in the alley beside the Saloon from: the satellite dish on the Saloon's upper balcony; the antenna in a barn stall; the pink crystal in the upper tunnels across the gap on the Saloon-side mine route; and the wire spool in the Gunsmith downstairs near the mine entrance. Place shared parts on the Guillotine, not the Gallows."
+        "body": "Turn on power upstairs in the Candy Store and free Arthur to open the town's barriers with booze. Build the Guillotine in the alley beside the Saloon from: the satellite dish on the Saloon's upper balcony; the antenna in a barn stall; the pink crystal in the upper tunnels across the gap on the Saloon-side mine route; and the wire spool in the Gunsmith downstairs near the mine entrance. Place shared parts on the Guillotine, not the Gallows.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g5p307/",
+        "images": [
+          {
+            "src": "./assets/root-batch10-buried-gr-guillotine.webp",
+            "alt": "Guillotine beside the Saloon.",
+            "caption": "Richtofen’s quest device — Guillotine beside the Saloon.",
+            "source": "https://www.gamesradar.com/call-duty-black-ops-2-vengeance-dlc-buried-guide-walkthrough/",
+            "credit": "Jeff McAllister / GamesRadar+; image credited to Treyarch — original BO2 gameplay"
+          }
+        ]
       },
       {
         "title": "Charge the four red orbs",
-        "body": "Get the Paralyzer and hold its beam on each red orb until it changes appearance and gives a confirmation sound. The orbs are between Saloon and Candy Store; behind the rock left of the church; in the upper mine tunnels; and in the garden just outside the mansion's maze-side entrance. All four must be charged."
+        "body": "Get the Paralyzer and hold its beam on each red orb until it changes appearance and gives a confirmation sound. The orbs are between Saloon and Candy Store; behind the rock left of the church; in the upper mine tunnels; and in the garden just outside the mansion's maze-side entrance. All four must be charged.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g5p307/",
+        "images": [
+          {
+            "src": "./assets/root-batch10-buried-gr-paralyzer.webp",
+            "alt": "Paralyzer firing at a quest orb.",
+            "caption": "Paralyzer weapon model — charging a quest orb.",
+            "source": "https://www.gamesradar.com/call-duty-black-ops-2-vengeance-dlc-buried-guide-walkthrough/",
+            "credit": "Jeff McAllister / GamesRadar+; image credited to Treyarch — original BO2 gameplay"
+          }
+        ]
       },
       {
         "title": "Catch and fill the lantern",
-        "body": "Knock the floating purple lantern down with a cooked grenade and pick it up. Its carrier goes into the mansion and kills ghosts nearby to fill it. Continue until the chimes stop/full-charge cue plays and the lantern symbol appears on the Gunsmith roof. Put it onto that outline. Protect the carrier from downing and from the ghosts' point theft."
+        "body": "Knock the floating purple lantern down with a cooked grenade and pick it up. Its carrier goes into the mansion and kills ghosts nearby to fill it. Continue until the chimes stop/full-charge cue plays and the lantern symbol appears on the Gunsmith roof. Put it onto that outline. Protect the carrier from downing and from the ghosts' point theft.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g5p307/"
       },
       {
         "title": "Decode the three mine signs",
-        "body": "For each cipher line on the Gunsmith wall, take its second symbol and find the next identical symbol later in that same line. Count its one-based position, including the space symbols:\n6 = BONE ORCHARD VEIN.\n8 = LUNGER UNDERMINES.\n10 = CONSUMPTION CROSS.\n11 = DRY GULCHER SHAFT.\n12 = GROUND BITER PITS.\nThis identifies the three signs for this match. Melee exactly those three with the Bowie Knife or Galvaknuckles. A wrong active sign can be hit again to switch it off."
+        "body": "For each cipher line on the Gunsmith wall, take its second symbol and find the next identical symbol later in that same line. Count its one-based position, including the space symbols:\n6 = BONE ORCHARD VEIN.\n8 = LUNGER UNDERMINES.\n10 = CONSUMPTION CROSS.\n11 = DRY GULCHER SHAFT.\n12 = GROUND BITER PITS.\nThis identifies the three signs for this match. Melee exactly those three with the Bowie Knife or Galvaknuckles. A wrong active sign can be hit again to switch it off.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g5p307/",
+        "images": [
+          {
+            "src": "./assets/root-batch10-buried-cipher-reference.svg",
+            "alt": "BURIED • MINE SIGN DECODER. 6: BONE ORCHARD VEIN 8: LUNGER UNDERMINES 10: CONSUMPTION CROSS 11: DRY GULCHER SHAFT 12: GROUND BITER PITS Worked example: BONE ORCHARD VEIN: second letter O; next O is position 6.",
+            "caption": "Original written reference diagram; not a game screenshot. Match all three rows. Hit only the three decoded signs.",
+            "source": "https://discover.hubpages.com/games-hobbies/Decode-The-Cypher-Easter-Egg-Step-Call-of-Duty-Black-Ops-2-Zombies",
+            "credit": "Dead Drop — original written reference diagram"
+          },
+          {
+            "src": "./assets/root-batch10-buried-gr-mine-sign.webp",
+            "alt": "Dry Gulcher Shaft sign in the mine tunnels.",
+            "caption": "Mine sign — DRY GULCHER SHAFT corresponds to position 11.",
+            "source": "https://www.gamesradar.com/call-duty-black-ops-2-vengeance-dlc-buried-guide-walkthrough/",
+            "credit": "Jeff McAllister / GamesRadar+; image credited to Treyarch — original BO2 gameplay"
+          }
+        ]
       },
       {
         "title": "Touch the wisp through town",
-        "body": "Have Vulture Aid so you can see the wisp, and spread teammates across the upper barn, upstairs jail, upstairs General Store, Candy Store and Guillotine. After the final sign, touch the wisp promptly. It teleports to another spot; the nearest player touches it there to move it again. Keep calling out its new location and do not let its short timer expire. Bring it all the way into the Guillotine. If it vanishes, activate the three signs again and retry."
+        "body": "Have Vulture Aid so you can see the wisp, and spread teammates across the upper barn, upstairs jail, upstairs General Store, Candy Store and Guillotine. After the final sign, touch the wisp promptly. It teleports to another spot; the nearest player touches it there to move it again. Keep calling out its new location and do not let its short timer expire. Bring it all the way into the Guillotine. If it vanishes, activate the three signs again and retry.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g5p307/"
       },
       {
         "title": "Feed five glowing zombies",
-        "body": "At the Guillotine, allow its energy to attach to nearby zombies. Kill five glowing/infected zombies close to it, one after another, until the device is fully charged and Richtofen asks for the Time Bomb. Ordinary kills without the wisp's glow do not satisfy this stage."
+        "body": "At the Guillotine, allow its energy to attach to nearby zombies. Kill five glowing/infected zombies close to it, one after another, until the device is fully charged and Richtofen asks for the Time Bomb. Ordinary kills without the wisp's glow do not satisfy this stage.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g5p307/"
       },
       {
         "title": "Travel to Round Infinity",
-        "body": "Place a Time Bomb on the Guillotine's bench. Gather all four living players immediately around it and activate the bomb. The round indicator becomes Infinity and you have about 90 seconds to search. The zombies there cannot be killed normally, so move past them rather than spending ammunition."
+        "body": "Place a Time Bomb on the Guillotine's bench. Gather all four living players immediately around it and activate the bomb. The round indicator becomes Infinity and you have about 90 seconds to search. The zombies there cannot be killed normally, so move past them rather than spending ammunition.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g5p307/"
       },
       {
         "title": "Search the four bodies for the switch",
-        "body": "Split the exterior town search. The bodies can appear: beside the Guillotine; at the Saloon stairs; left of the Gunsmith entrance; behind the barn/Gunsmith crevice; at the jail entrance; between General Store and the initial box; by the Candy Store entrance from the Courthouse; between the big Gallows rock and Candy Store awning; behind the rock left of church; near the church workbench; or in the alley between bank and barn. Hold interact on each found corpse. One holds the switch. After returning to normal time, its carrier adds it to the Guillotine.\nIf time runs out, replenish a Time Bomb with Max Ammo and retry. Do not let the switch carrier go down; losing that item can force a restart."
+        "body": "Split the exterior town search. The bodies can appear: beside the Guillotine; at the Saloon stairs; left of the Gunsmith entrance; behind the barn/Gunsmith crevice; at the jail entrance; between General Store and the initial box; by the Candy Store entrance from the Courthouse; between the big Gallows rock and Candy Store awning; behind the rock left of church; near the church workbench; or in the alley between bank and barn. Hold interact on each found corpse. One holds the switch. After returning to normal time, its carrier adds it to the Guillotine.\nIf time runs out, replenish a Time Bomb with Max Ammo and retry. Do not let the switch carrier go down; losing that item can force a restart.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g5p307/"
       },
       {
         "title": "Solve the four colored maze levers",
-        "body": "In the hedge maze, find the red, blue, green and yellow levers on its gates. Yellow can sometimes be in the hedge if fewer gates spawned. Try one complete order and write it down. After all four are pulled, a lever sparks only if its position in the order was correct. Keep confirmed positions and change the others. To reset, everyone leaves the maze, then returns. Always pull all four before resetting. Candy Store jar colors are not the solution and do not change between runs."
+        "body": "In the hedge maze, find the red, blue, green and yellow levers on its gates. Yellow can sometimes be in the hedge if fewer gates spawned. Try one complete order and write it down. After all four are pulled, a lever sparks only if its position in the order was correct. Keep confirmed positions and change the others. To reset, everyone leaves the maze, then returns. Always pull all four before resetting. Candy Store jar colors are not the solution and do not change between runs.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g5p307/",
+        "images": [
+          {
+            "src": "./assets/root-batch10-buried-gr-lever.webp",
+            "alt": "Colored lever mounted on a maze gate.",
+            "caption": "Richtofen’s lever puzzle — inspect both sides of gates and the yellow hedge candidate.",
+            "source": "https://www.gamesradar.com/call-duty-black-ops-2-vengeance-dlc-buried-guide-walkthrough/",
+            "credit": "Jeff McAllister / GamesRadar+; image credited to Treyarch — original BO2 gameplay"
+          }
+        ]
       },
       {
         "title": "Complete Sharpshooter",
-        "body": "Assign one shooter per zone: the Courthouse/Candy Store street (20 targets); left of the mansion, looking into its windows (23); inside the Saloon watching both levels (19); and the jail/original-box area (22). Reload before one player makes a wish at the fountain in front of the mansion/church. Hit all 84 targets within their individual appearance windows in the same attempt. If any disappear unhit, make another wish and retry. Arthur can hold the last crawler after receiving candy, giving the team room to focus. Breaking the fountain is not required."
+        "body": "Assign one shooter per zone: the Courthouse/Candy Store street (20 targets); left of the mansion, looking into its windows (23); inside the Saloon watching both levels (19); and the jail/original-box area (22). Reload before one player makes a wish at the fountain in front of the mansion/church. Hit all 84 targets within their individual appearance windows in the same attempt. If any disappear unhit, make another wish and retry. Arthur can hold the last crawler after receiving candy, giving the team room to focus. Breaking the fountain is not required.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g5p307/",
+        "images": [
+          {
+            "src": "./assets/root-batch10-buried-front-fountain.webp",
+            "alt": "Fountain in front of the Mansion and Church.",
+            "caption": "Town fountain — Arthur can break this using booze; Sharpshooter does not require it broken.",
+            "source": "https://www.codzombieguides.com/buried",
+            "credit": "JokerAlex 21 / Activision — BO2 Buried guide footage; exact captured build not certified"
+          }
+        ]
       },
       {
         "title": "Confirm the reward",
-        "body": "Mined Games and the permanent-perk reward confirm success. The Courthouse button is the separate Victis super-quest finale: it needs all four players' three map records on the same side and the accepted Navcards, and pressing it resets the records. You can leave it alone and keep playing this completed match."
+        "body": "Mined Games and the permanent-perk reward confirm success. The Courthouse button is the separate Victis super-quest finale: it needs all four players' three map records on the same side and the accepted Navcards, and pressing it resets the records. You can leave it alone and keep playing this completed match.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g5p307/"
       }
     ],
     "sources": [
@@ -3081,7 +3252,17 @@
         "url": "https://thekronorium.weebly.com/buried-maxis.html"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-17",
+    "sourceQuote": null,
+    "sourceOmissions": [],
+    "relatedGuideIds": [
+      "bo2-buried-arthur-release-and-keys",
+      "bo2-buried-arthur-booze-and-barriers",
+      "bo2-buried-four-workbench-locations",
+      "bo2-buried-mine-cipher-reference",
+      "bo2-buried-sharpshooter-team-reference",
+      "bo2-buried-maze-lever-reference"
+    ]
   },
   {
     "id": "bo2-mob-of-the-dead-pop-goes-the-weasel",
@@ -3343,7 +3524,7 @@
     "players": "1–4",
     "summary": "Release Samantha in BO2 Origins. Use the four staff build-and-upgrade guides on this map for the full prerequisite weapon puzzles.",
     "requirements": [
-      "Normal difficulty",
+      "Original difficulty (not Easy)",
       "All four elemental staffs built and upgraded; see the four weapon guides on this map",
       "All six generators activated together, and powered again at the staff-placement and ending stages",
       "One player with G-Strike beacons",
@@ -3411,6 +3592,10 @@
       {
         "title": "Guías COD Zombies — original Origins quest sequence",
         "url": "https://guiascodzombies.com/black-ops-ii/origins/little-lost-girl/"
+      },
+      {
+        "title": "BO2 firsthand completion: Original difficulty requirement",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1au0hlc/"
       }
     ],
     "checked": "2026-10-13"

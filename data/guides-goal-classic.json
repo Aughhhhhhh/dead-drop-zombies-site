@@ -6437,5 +6437,844 @@
       }
     ],
     "checked": "2026-10-17"
+  },
+  {
+    "id": "bo2-tranzit-ordinary-pack-a-punch-inventory",
+    "mapId": "bo2-tranzit",
+    "title": "TranZit — firearm upgrades & re-Pack reference",
+    "category": "weapon",
+    "difficulty": "Easy",
+    "players": "1–4",
+    "summary": "Seven wall guns, twenty ordinary Box firearm variants and the starter pistol: where to get them, upgrade names, useful changes and fourteen documented re-Pack options. Ballistic Knife revival is separate.",
+    "requirements": [
+      "Original BO2 TranZit Standard; no modded-client or standalone submap weapon pool is included.",
+      "Reach and assemble the bank Pack-a-Punch using the related companion; carry the gun you want to upgrade.",
+      "Budget 5,000 points for a first upgrade; 2,000 per eligible attachment re-Pack. Wall prices below buy the base gun.",
+      "Ammunition is loaded/reserve. Dual-pistol capacity is stated per pistol. These are documented upgrade values, not damage or round-limit promises.",
+      "Keep the starting M1911 for Mustang & Sally. Ballistic Knife revival needs a downed co-op teammate; the rest of the inventory is usable solo.",
+      "The separate Mark II note requires Vengeance and an updated compatible game; no mixed-DLC ownership rule is assumed."
+    ],
+    "reward": "Your chosen upgraded gun or changed attachment; this reference has no separate completion reward.",
+    "steps": [
+      {
+        "title": "Use the bank Pack-a-Punch companion",
+        "body": "Open and build the machine beneath Town’s bank using the linked companion. Hold your chosen gun, pay 5,000 points and collect the returned weapon promptly.",
+        "researchSource": "https://www.youtube.com/watch?v=f84hDEXWiMM&t=25s",
+        "original": true
+      },
+      {
+        "title": "Starter: M1911 → Mustang & Sally",
+        "body": "Keep your starting pistol: it becomes dual explosive pistols. Leave room around each blast to avoid self-damage. No attachment re-Pack.",
+        "researchSource": "https://www.youtube.com/watch?v=Q03qc2hVlNA&t=12s",
+        "original": true
+      },
+      {
+        "title": "Wall: M14 → Mnesia",
+        "body": "500; Bus Depot starting room. Upgrade gives 16/192 ammunition and a grip. No attachment re-Pack.",
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/42.html",
+        "original": true
+      },
+      {
+        "title": "Wall: Olympia → Hades",
+        "body": "500; Bus Depot starting room. Incendiary shells, still two loaded, with 60 reserve. No attachment re-Pack.",
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/42.html",
+        "original": true
+      },
+      {
+        "title": "Wall: B23R → B34R",
+        "body": "1,000; bus ceiling mount. Upgrade becomes fully automatic with 20/180 ammunition. Attachment re-Pack can add Fast Mag.",
+        "researchSource": "https://www.youtube.com/watch?v=f84hDEXWiMM&t=25s",
+        "original": true
+      },
+      {
+        "title": "Wall: Colt M16A1 → Skullcrusher",
+        "body": "1,200; road tunnel between Bus Depot and Diner. Upgrade adds automatic fire and an underbarrel grenade launcher. Avoid close launcher blasts. No attachment re-Pack.",
+        "researchSource": "https://www.youtube.com/watch?v=4uDc1JktYVo&t=9s",
+        "original": true,
+        "images": [
+          {
+            "src": "./assets/classic-batch11-tranzit-skullcrusher.webp",
+            "alt": "Skullcrusher HUD in the Town Juggernog room during original BO2 TranZit.",
+            "caption": "Skullcrusher: 30/270 and its launcher icon. This M16 sequence is on Standard, not standalone Town.",
+            "source": "https://www.youtube.com/watch?v=4uDc1JktYVo&t=9s",
+            "credit": "TheRelaxingEnd / Activision — original BO2 gameplay"
+          }
+        ]
+      },
+      {
+        "title": "Wall: MP5 → MP115 Kollider",
+        "body": "1,000; inside Diner, back-left corner from its front entrance. Upgrade gives 40/200 ammunition. No attachment re-Pack.",
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/56.html",
+        "original": true
+      },
+      {
+        "title": "Wall: Remington 870 MCS → Refitted-870 Mechanical Cranium Sequencer",
+        "body": "1,500; Farm barn. Upgrade increases shell capacity and pump speed. Attachment re-Pack can change its sight.",
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/56.html",
+        "original": true,
+        "tip": "Exact alternative barrel attachments are disputed between player tables; this reference does not promise one."
+      },
+      {
+        "title": "Wall: AK74u → AK74fu2",
+        "body": "1,200; outside the power-station outhouse. Upgrade adds a reflex sight and 40/280 ammunition. No attachment re-Pack.",
+        "researchSource": "https://www.youtube.com/watch?v=Q03qc2hVlNA&t=17s",
+        "original": true,
+        "images": [
+          {
+            "src": "./assets/classic-batch11-tranzit-ak74fu2.webp",
+            "alt": "Upgraded AK74u reflex sight and ammunition in TranZit’s underground bank passage.",
+            "caption": "AK74fu2 in the Standard bank passage. The partly spent magazine reads 37; its full capacity is 40.",
+            "source": "https://www.youtube.com/watch?v=Q03qc2hVlNA&t=17s",
+            "credit": "TheRelaxingEnd / Activision — original BO2 gameplay"
+          }
+        ]
+      },
+      {
+        "title": "Box firearms: start at Diner",
+        "body": "The first Box is in Diner’s gas-station garage: 750 to open, 950 per roll. After it moves, follow the blue sky beam. The following twenty firearm variants use this Standard pool.",
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/56.html",
+        "original": true
+      },
+      {
+        "title": "Box: FAL → WN",
+        "body": "Becomes three-round burst with a reflex sight and 30/360 ammunition. No attachment re-Pack.",
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/40.html",
+        "original": true
+      },
+      {
+        "title": "Box: Galil → Lamentation",
+        "body": "Keeps 35 loaded; gains 490 reserve and a reflex sight. No attachment re-Pack.",
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/40.html",
+        "original": true
+      },
+      {
+        "title": "Box: SMR → SM1L3R",
+        "body": "Remains semi-automatic; gains a hybrid optic with a smile reticle. Re-Pack changes attachments, removes that optic and can reduce reserves.",
+        "researchSource": "https://www.youtube.com/watch?v=uiJvJ2nIHvM&t=19s",
+        "original": true,
+        "tip": "The photo’s 30/390 is one launch-era state. Do not treat it as a universal Max Ammo or re-Pack reserve value.",
+        "images": [
+          {
+            "src": "./assets/classic-batch11-tranzit-sm1l3r.webp",
+            "alt": "SM1L3R name and smile sight outside Town with the TranZit bus visible.",
+            "caption": "Launch-era SM1L3R beside the bus. This clip shows 30/390; reserve counts can differ after Max Ammo or re-Pack.",
+            "source": "https://www.youtube.com/watch?v=uiJvJ2nIHvM&t=19s",
+            "credit": "TheRelaxingEnd / Activision — original BO2 gameplay"
+          }
+        ]
+      },
+      {
+        "title": "Box: MTAR → Malevolent Taxonomic Anodized Redeemer",
+        "body": "30/360 ammunition and a reflex sight. Supports attachment re-Pack for other sights.",
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/40.html",
+        "original": true
+      },
+      {
+        "title": "Box: Type 25 → Strain 25",
+        "body": "30/270 ammunition, reflex sight and Fast Mag. Supports attachment re-Pack.",
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/40.html",
+        "original": true
+      },
+      {
+        "title": "Box: M8A1 → Micro Aerator",
+        "body": "Keeps four-round bursts; gains a reflex sight and 42/336 ammunition. Supports attachment re-Pack.",
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/40.html",
+        "original": true
+      },
+      {
+        "title": "Box: Chicom CQB → Chicom Cataclysmic Quadruple Burst",
+        "body": "Changes three-round bursts to four, with 40/200 ammunition. Re-Pack can add Select Fire; use your fire-mode control to select automatic.",
+        "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=337295807",
+        "original": true
+      },
+      {
+        "title": "Box: Five-seven single → Ultra",
+        "body": "20/200 ammunition; remains semi-automatic. Attachment re-Pack can add Fast Mag.",
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/41.html",
+        "original": true
+      },
+      {
+        "title": "Box: Five-seven Dual Wield → Ultra & Violet",
+        "body": "Twenty rounds per pistol and 275 reserve. They remain semi-automatic dual pistols. No attachment re-Pack.",
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/41.html",
+        "original": true
+      },
+      {
+        "title": "Box: Python → Cobra",
+        "body": "12/96 ammunition and a speedloader. No attachment re-Pack.",
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/41.html",
+        "original": true
+      },
+      {
+        "title": "Box: Executioner → Voice of Justice",
+        "body": "Keeps five loaded, gains 100 reserve and faster reloads. Attachment re-Pack can add Long Barrel.",
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/41.html",
+        "original": true
+      },
+      {
+        "title": "Box: KAP-40 → Karmic Atom Perforator 4000",
+        "body": "Remains automatic, with 15/180 ammunition. Supports attachment re-Pack.",
+        "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=337295807",
+        "original": true,
+        "tip": "KAP-40’s attachment cell is blank in one table; a separate firsthand guide documents re-Pack. Exact extra barrel options are not verified here."
+      },
+      {
+        "title": "Box: RPD → Relativistic Punishment Device",
+        "body": "125/750 ammunition and reduced recoil. Leave time for its long reload. No attachment re-Pack.",
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/40.html",
+        "original": true
+      },
+      {
+        "title": "Box: HAMR → SLDG HAMR",
+        "body": "125/625 ammunition. Attachment re-Pack can change its sight or add a grip.",
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/40.html",
+        "original": true
+      },
+      {
+        "title": "Box: M1216 → Mesmerizer",
+        "body": "24/72 ammunition. The drum rotates after six shots instead of four. Supports sight re-Pack.",
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/40.html",
+        "original": true
+      },
+      {
+        "title": "Box: S12 → Synthetic Dozen",
+        "body": "10/50 ammunition and faster magazine changes. Supports attachment re-Pack; remains semi-automatic.",
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/40.html",
+        "original": true
+      },
+      {
+        "title": "Box: DSR 50 → Dead Specimen Reactor 5000",
+        "body": "8/96 ammunition and variable zoom. Attachment re-Pack can provide iron sights or a suppressor.",
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/42.html",
+        "original": true
+      },
+      {
+        "title": "Box: Barrett M82A1 → Macro Annihilator",
+        "body": "7/49 ammunition; remains a semi-automatic scoped sniper. No attachment re-Pack.",
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/42.html",
+        "original": true
+      },
+      {
+        "title": "Box: RPG → Rocket Propelled Grievance",
+        "body": "8/40 ammunition and automatic fire. Keep blasts away from yourself and nearby walls. No attachment re-Pack.",
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/41.html",
+        "original": true
+      },
+      {
+        "title": "Box: War Machine → Dystopic Demolisher",
+        "body": "6/48 ammunition, impact explosions and whole-cylinder reloads. Avoid close blasts. No attachment re-Pack.",
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/41.html",
+        "original": true
+      },
+      {
+        "title": "Box utility: Ballistic Knife → The Krauss Refibrillator",
+        "body": "Upgrade for 5,000. Shoot a downed teammate with the blade for an instant revive; this cannot return someone who has bled out. No attachment re-Pack.",
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/41.html",
+        "original": true,
+        "tip": "A separate utility entry, not one of the twenty Box firearm variants. Revival use requires co-op."
+      },
+      {
+        "title": "Re-Pack: attachments cost 2,000",
+        "body": "Return an eligible upgraded gun to the machine for 2,000. Reclaim it and check the attachment. Re-Pack does not refill ammunition or add another general damage tier.",
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/42.html",
+        "original": true,
+        "tip": "Do not budget a fixed number of cycles for a preferred attachment; repeated options can occur."
+      },
+      {
+        "title": "Re-Pack: fourteen eligible guns",
+        "body": "B23R; Remington 870 MCS; Chicom CQB; DSR 50; Executioner; Five-seven single; HAMR; KAP-40; M8A1; M1216; MTAR; SMR; Type 25; S12. Other entries take their first upgrade only.",
+        "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=337295807",
+        "original": true
+      },
+      {
+        "title": "Wall ammunition: plan the return trip",
+        "body": "At the matching mount, base ammunition costs half the gun’s purchase price; upgraded wall ammunition costs 4,500. Town Standard has no ordinary firearm wall buy: plan your bus or fog route.",
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/56.html",
+        "original": true
+      },
+      {
+        "title": "Ray Guns: Vengeance changes the pool",
+        "body": "Ray Guns are separate Wonder Weapons. Mark II availability requires Vengeance with a compatible updated retail game; it was added after launch. Mixed-DLC lobby sharing is not established here.",
+        "researchSource": "https://investor.activision.com/news-releases/news-release-details/new-call-dutyr-black-ops-ii-downloadable-content-arrives",
+        "original": true
+      },
+      {
+        "title": "Use the separate utility and mode guides",
+        "body": "Jet Gun, melee weapons, tactical grenades and buildables are separate routes. Use the related guides for them, storage and persistent upgrades. This inventory covers Standard, not Survival, Grief, Turned or custom-client weapon pools.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/tranzit/",
+        "original": true,
+        "tip": "Upgrade effects are cross-checked player documentation plus the selected original footage; every attachment, patch and platform was not gameplay-tested."
+      }
+    ],
+    "relatedGuideIds": [
+      "bo2-tranzit-community-tranzit-map-walkthrough-pack-a-punch",
+      "bo2-tranzit-community-tranzit-map-walkthrough-power",
+      "bo2-tranzit-community-tranzit-game-features-cross-map-and-game-features",
+      "bo2-tranzit-community-tranzit-game-features-perma-perks",
+      "bo2-tranzit-community-tranzit-special-weapons-jet-gun",
+      "bo2-tranzit-bus-upgrades-galvaknuckles"
+    ],
+    "sources": [
+      {
+        "title": "BO2 @wiki — TranZit-specific wall locations, prices and bank machine",
+        "url": "https://w.atwiki.jp/blackops2_cod/pages/56.html"
+      },
+      {
+        "title": "r/CODZombies TranZit wiki — original map Box and wall pool",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/tranzit/"
+      },
+      {
+        "title": "BO2 @wiki — original firearm changes and re-Pack table, first half",
+        "url": "https://w.atwiki.jp/blackops2_cod/pages/40.html"
+      },
+      {
+        "title": "BO2 @wiki — pistols, launchers and utility upgrades, second half",
+        "url": "https://w.atwiki.jp/blackops2_cod/pages/41.html"
+      },
+      {
+        "title": "BO2 @wiki — combined table and re-Pack rules; same underlying dataset",
+        "url": "https://w.atwiki.jp/blackops2_cod/pages/42.html"
+      },
+      {
+        "title": "Steam player guide — Weapons and Attachments, 2014–2015",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=337295807"
+      },
+      {
+        "title": "TheRelaxingEnd — original B23R / B34R sequence and weapon-name index (November 2012)",
+        "url": "https://www.youtube.com/watch?v=f84hDEXWiMM"
+      },
+      {
+        "title": "TheRelaxingEnd — original TranZit M16 / Skullcrusher gameplay",
+        "url": "https://www.youtube.com/watch?v=4uDc1JktYVo"
+      },
+      {
+        "title": "TheRelaxingEnd — original TranZit AK74u / AK74fu2 gameplay (December 2012)",
+        "url": "https://www.youtube.com/watch?v=Q03qc2hVlNA"
+      },
+      {
+        "title": "TheRelaxingEnd — original TranZit SMR / SM1L3R gameplay (November 2012)",
+        "url": "https://www.youtube.com/watch?v=uiJvJ2nIHvM"
+      },
+      {
+        "title": "Activision — Vengeance adds Mark II to other BO2 Zombies maps (July 2013)",
+        "url": "https://investor.activision.com/news-releases/news-release-details/new-call-dutyr-black-ops-ii-downloadable-content-arrives"
+      }
+    ],
+    "checked": "2026-10-17"
+  },
+  {
+    "id": "bo2-buried-ordinary-pack-a-punch-inventory",
+    "mapId": "bo2-buried",
+    "title": "Buried — firearm upgrades & re-Pack reference",
+    "category": "weapon",
+    "difficulty": "Easy",
+    "players": "1–4",
+    "summary": "Documented starter, eleven wall guns and sixteen ordinary Box variants, including drawable mounts, LSAT’s ledge and Sassafras. Fourteen re-Pack options and two original gameplay photos.",
+    "requirements": [
+      "Original BO2 Buried Standard from Vengeance; this reference does not use a custom-client or Borough submode pool.",
+      "Reach the gazebo beyond the mansion and maze; carry the firearm you want to upgrade.",
+      "Normal undiscounted prices: 5,000 for a first upgrade and 2,000 for eligible attachment re-Pack. Listed wall prices buy the base gun.",
+      "Ammunition means loaded/reserve; dual-pistol capacity is per pistol. Damage, exact firing/reload timings and round limits are outside this reference.",
+      "Save 2,000 before attempting the LSAT ledge; keep M1911 if you want Mustang & Sally. Chalk must be drawn before buying its gun.",
+      "Ballistic Knife revival needs a downed co-op teammate. The LSAT achievement photo is from a documented original Xbox 360 session."
+    ],
+    "reward": "Your chosen upgrade or changed attachment. The documented wall-LSAT upgrade also unlocks FSIRT Against the Wall; this inventory has no separate completion reward.",
+    "steps": [
+      {
+        "title": "Reach the gazebo machine",
+        "body": "Cross the mansion into the hedge maze and find the gazebo beyond it. Descend its broken spiral staircase carefully: the gaps are fatal falls. Ghosts can steal the points needed for upgrading.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=m3c-Fr5AFOE&t=68s"
+      },
+      {
+        "title": "First upgrade: carry your gun and 5,000 points",
+        "body": "At the machine beneath the gazebo, hold your chosen gun, pay 5,000 and collect the returned weapon. Keep the M1911 if you want its starter upgrade.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=m3c-Fr5AFOE&t=102s"
+      },
+      {
+        "title": "Starter: M1911 → Mustang & Sally",
+        "body": "Keep your starting pistol for dual explosive pistols. Leave room around each blast; explosive protection is not assumed by this reference. No attachment re-Pack.",
+        "original": true,
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/41.html"
+      },
+      {
+        "title": "Wall: M14 → Mnesia",
+        "body": "500; aboveground Processing spawn. Upgrade gives 16/192 ammunition and a grip. No attachment re-Pack.",
+        "original": true,
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/225.html"
+      },
+      {
+        "title": "Wall: Olympia → Hades",
+        "body": "500; aboveground Processing spawn. Upgrade supplies incendiary shells, two loaded and 60 reserve. No attachment re-Pack.",
+        "original": true,
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/225.html"
+      },
+      {
+        "title": "Wall: LSAT → FSIRT",
+        "body": "Have 2,000 before jumping from Processing’s broken stairs onto the high ledge. Buy promptly before it collapses. Upgrade for 100/600 and a Target Finder; supports attachment re-Pack.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=m3c-Fr5AFOE&t=34s",
+        "tip": "Buying the wall LSAT and upgrading it earns FSIRT Against the Wall in the documented session. The collapsing approach makes resupply awkward; normal repeat access is not promised here.",
+        "images": [
+          {
+            "src": "./assets/classic-batch12-buried-fsirt.webp",
+            "alt": "FSIRT’s Target Finder, 100/600 ammunition and original Xbox 360 achievement toast.",
+            "caption": "The wall LSAT upgrade returns 100/600 and unlocks FSIRT Against the Wall in this Xbox 360 session.",
+            "source": "https://www.youtube.com/watch?v=m3c-Fr5AFOE&t=112s",
+            "credit": "Achievement Hunter / Rooster Teeth / Activision — original 2013 BO2 gameplay"
+          }
+        ]
+      },
+      {
+        "title": "Wall: B23R → B34R",
+        "body": "1,000; outside the Gunsmith entrance. Upgrade becomes automatic with 20/180 ammunition. Attachment re-Pack can add Fast Mag.",
+        "original": true,
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/225.html"
+      },
+      {
+        "title": "Wall: MP5 → MP115 Kollider",
+        "body": "1,000; beside the mansion entrance. Upgrade gives 40/200 ammunition. No attachment re-Pack.",
+        "original": true,
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/225.html"
+      },
+      {
+        "title": "Wall: Colt M16A1 → Skullcrusher",
+        "body": "1,200; Saloon’s outside ground-floor wall. Upgrade becomes automatic and gains an underbarrel grenade launcher. Leave room around blasts. No attachment re-Pack.",
+        "original": true,
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/225.html"
+      },
+      {
+        "title": "Chalk: create your own wall mount",
+        "body": "Take a chalk silhouette, carry it to an unused question mark and interact to draw the mount. Then pay to buy its gun. Remington chalk starts beside underground Quick Revive; other firearm chalk is in Gunsmith.",
+        "original": true,
+        "researchSource": "https://www.gamesradar.com/call-duty-black-ops-2-vengeance-dlc-buried-guide-walkthrough/",
+        "tip": "Drawing creates a wall buy; picking up chalk does not equip the firearm. Choose a mount you can safely revisit for ammunition."
+      },
+      {
+        "title": "Chalk: Remington 870 MCS → Refitted-870 Mechanical Cranium Sequencer",
+        "body": "1,500 once drawn. Take its chalk beside underground Quick Revive. Upgrade increases shell capacity and pump speed. Attachment re-Pack can change its sight.",
+        "original": true,
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/225.html",
+        "tip": "Exact alternative barrel options conflict between player tables and are not promised."
+      },
+      {
+        "title": "Chalk: AK74u → AK74fu2",
+        "body": "1,200 once drawn; chalk in Gunsmith. Upgrade gives a reflex sight and 40/280 ammunition. No attachment re-Pack.",
+        "original": true,
+        "researchSource": "https://nextgenupdate.com/forums/black-ops-2-zombies/673887-buried-zombies-all-easter-eggs-tips-tricks-more.html"
+      },
+      {
+        "title": "Chalk: PDW-57 → Predictive Death Wish 57000",
+        "body": "1,000 once drawn; chalk in Gunsmith. Upgrade keeps 50 loaded and raises reserves to 350. Supports attachment re-Pack for other sights.",
+        "original": true,
+        "researchSource": "https://nextgenupdate.com/forums/black-ops-2-zombies/673887-buried-zombies-all-easter-eggs-tips-tricks-more.html"
+      },
+      {
+        "title": "Chalk: SVU-AS → Shadowy Veil Utilizer",
+        "body": "1,000 once drawn; chalk in Gunsmith. Upgrade gives variable zoom and 12/192 ammunition. This gun has no attachment re-Pack.",
+        "original": true,
+        "researchSource": "https://nextgenupdate.com/forums/black-ops-2-zombies/673887-buried-zombies-all-easter-eggs-tips-tricks-more.html"
+      },
+      {
+        "title": "Chalk: AN-94 → Actuated Neutralizer 94000",
+        "body": "1,200 once drawn; chalk in Gunsmith. Upgrade adds a reflex sight and 50/600 ammunition. Supports attachment re-Pack for other sights or a grip.",
+        "original": true,
+        "researchSource": "https://nextgenupdate.com/forums/black-ops-2-zombies/673887-buried-zombies-all-easter-eggs-tips-tricks-more.html"
+      },
+      {
+        "title": "Box firearms: use Buried’s documented pool",
+        "body": "The initial Box is beside the Jail; a normal roll costs 950. Sixteen ordinary firearm variants are documented below. The LSAT’s wall route is listed separately.",
+        "original": true,
+        "researchSource": "https://callofdutymaps.com/zombies/buried/"
+      },
+      {
+        "title": "Box: Remington New Model Army → Sassafras",
+        "body": "Upgrade the six-shot revolver to 12/96. It reloads by swapping cylinders rather than inserting individual rounds. No attachment re-Pack.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=bFr5YtqStXU&t=41s",
+        "images": [
+          {
+            "src": "./assets/classic-batch12-buried-sassafras.webp",
+            "alt": "Sassafras name and 12/96 ammunition at the original Buried gazebo.",
+            "caption": "Sassafras after upgrading the Remington New Model Army: 12 loaded, 96 reserve.",
+            "source": "https://www.youtube.com/watch?v=bFr5YtqStXU&t=46s",
+            "credit": "NGTZombies / Activision — original 2013 BO2 gameplay"
+          }
+        ]
+      },
+      {
+        "title": "Box: Five-seven single → Ultra",
+        "body": "20/200 ammunition; remains semi-automatic. Attachment re-Pack can add Fast Mag.",
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/41.html",
+        "original": true
+      },
+      {
+        "title": "Box: Five-seven Dual Wield → Ultra & Violet",
+        "body": "Twenty rounds per pistol and 275 reserve. They remain semi-automatic dual pistols. No attachment re-Pack.",
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/41.html",
+        "original": true
+      },
+      {
+        "title": "Box: Executioner → Voice of Justice",
+        "body": "Keeps five loaded, gains 100 reserve and faster reloads. Attachment re-Pack can add Long Barrel.",
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/41.html",
+        "original": true
+      },
+      {
+        "title": "Box: KAP-40 → Karmic Atom Perforator 4000",
+        "body": "Remains automatic, with 15/180 ammunition. Supports attachment re-Pack.",
+        "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=337295807",
+        "original": true,
+        "tip": "Attachment eligibility is supported; exact extra-barrel options remain unverified."
+      },
+      {
+        "title": "Box: Galil → Lamentation",
+        "body": "Keeps 35 loaded; gains 490 reserve and a reflex sight. No attachment re-Pack.",
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/40.html",
+        "original": true
+      },
+      {
+        "title": "Box: FAL → WN",
+        "body": "Becomes three-round burst with a reflex sight and 30/360 ammunition. No attachment re-Pack.",
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/40.html",
+        "original": true
+      },
+      {
+        "title": "Box: MTAR → Malevolent Taxonomic Anodized Redeemer",
+        "body": "30/360 ammunition and a reflex sight. Supports attachment re-Pack for other sights.",
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/40.html",
+        "original": true
+      },
+      {
+        "title": "Box: SMR → SM1L3R",
+        "body": "Remains semi-automatic; gains a hybrid optic with a smile reticle. Re-Pack changes attachments, removes that optic and can reduce reserves.",
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/42.html",
+        "original": true,
+        "tip": "Re-Pack can reduce its reserves. First-upgrade and Max Ammo states differ in player records; no single reserve total is promised here."
+      },
+      {
+        "title": "Box: HAMR → SLDG HAMR",
+        "body": "125/625 ammunition. Attachment re-Pack can change its sight or add a grip.",
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/40.html",
+        "original": true
+      },
+      {
+        "title": "Box: M1216 → Mesmerizer",
+        "body": "24/72 ammunition. The drum rotates after six shots instead of four. Supports sight re-Pack.",
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/40.html",
+        "original": true
+      },
+      {
+        "title": "Box: S12 → Synthetic Dozen",
+        "body": "10/50 ammunition and faster magazine changes. Supports attachment re-Pack; remains semi-automatic.",
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/40.html",
+        "original": true
+      },
+      {
+        "title": "Box: DSR 50 → Dead Specimen Reactor 5000",
+        "body": "8/96 ammunition and variable zoom. Attachment re-Pack can provide iron sights or a suppressor.",
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/42.html",
+        "original": true
+      },
+      {
+        "title": "Box: Barrett M82A1 → Macro Annihilator",
+        "body": "7/49 ammunition; remains a semi-automatic scoped sniper. No attachment re-Pack.",
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/42.html",
+        "original": true
+      },
+      {
+        "title": "Box: RPG → Rocket Propelled Grievance",
+        "body": "8/40 ammunition and automatic fire. Keep blasts away from yourself and nearby walls. No attachment re-Pack.",
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/41.html",
+        "original": true
+      },
+      {
+        "title": "Box: War Machine → Dystopic Demolisher",
+        "body": "6/48 ammunition, impact explosions and whole-cylinder reloads. Avoid close blasts. No attachment re-Pack.",
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/41.html",
+        "original": true
+      },
+      {
+        "title": "Box utility: Ballistic Knife → The Krauss Refibrillator",
+        "body": "Upgrade for 5,000, then fire a blade into a downed teammate to revive them. It cannot return someone who has bled out. No attachment re-Pack.",
+        "original": true,
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/41.html",
+        "tip": "A separately counted utility weapon; its revival use requires co-op."
+      },
+      {
+        "title": "Re-Pack: 2,000 changes the attachment",
+        "body": "Return an eligible upgraded gun to the machine for 2,000 and reclaim it. This changes attachments; it does not refill ammunition or provide another general damage tier. Repeated options can occur.",
+        "original": true,
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/42.html"
+      },
+      {
+        "title": "Re-Pack: fourteen eligible guns",
+        "body": "B23R; LSAT; Remington 870 MCS; PDW-57; AN-94; DSR 50; Executioner; Five-seven single; HAMR; KAP-40; M1216; MTAR; SMR; S12. The other listed upgrades take their first upgrade only.",
+        "original": true,
+        "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=337295807",
+        "tip": "SVU-AS and dual Five-seven are excluded. This is a cross-checked player-table subset, not a filmed test of every attachment cycle."
+      },
+      {
+        "title": "Wall ammunition: return to your chosen mount",
+        "body": "Return to the matching fixed or drawn mount with that weapon equipped. Check the displayed refill price before buying. Plan LSAT access separately because its starting approach collapses.",
+        "original": true,
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/225.html"
+      },
+      {
+        "title": "Keep utility, storage and mode rules separate",
+        "body": "Ray Guns and Paralyzer use the related Wonder Weapon card; Time Bomb and Monkey Bombs use the tactical card. This Vengeance reference covers Standard. Borough Grief, Turned, custom clients and cross-map locker conversions need their own rules.",
+        "original": true,
+        "researchSource": "https://callofdutymaps.com/zombies/buried/",
+        "tip": "Persistent bonuses can change damage or prices. Full locker compatibility, bonus counters, Easy/custom achievement conditions and every retail patch/platform are not certified by this inventory."
+      }
+    ],
+    "relatedGuideIds": [
+      "bo2-buried-community-buried-map-walkthrough-pack-a-punch",
+      "bo2-buried-wall-chalk-placement",
+      "bo2-buried-community-buried-special-weapons-wonder-weapon",
+      "bo2-buried-community-buried-special-weapons-special-grenades"
+    ],
+    "sources": [
+      {
+        "title": "BO2 @wiki — Buried-specific wall mounts, costs and map exclusions",
+        "url": "https://w.atwiki.jp/blackops2_cod/pages/225.html"
+      },
+      {
+        "title": "Call of Duty Maps — Buried-specific weapon roster; indexed text read",
+        "url": "https://callofdutymaps.com/zombies/buried/"
+      },
+      {
+        "title": "GamesRadar — original Buried ledge and chalk walkthrough",
+        "url": "https://www.gamesradar.com/call-duty-black-ops-2-vengeance-dlc-buried-guide-walkthrough/"
+      },
+      {
+        "title": "navyxseal — 2013 Buried route; price/ledge claims field-scoped",
+        "url": "https://nextgenupdate.com/forums/black-ops-2-zombies/673887-buried-zombies-all-easter-eggs-tips-tricks-more.html"
+      },
+      {
+        "title": "BO2 @wiki — map-annotated ordinary gun changes, first half",
+        "url": "https://w.atwiki.jp/blackops2_cod/pages/40.html"
+      },
+      {
+        "title": "BO2 @wiki — map-annotated pistol/launcher/utility changes",
+        "url": "https://w.atwiki.jp/blackops2_cod/pages/41.html"
+      },
+      {
+        "title": "BO2 @wiki — combined table and re-Pack rules, same dataset",
+        "url": "https://w.atwiki.jp/blackops2_cod/pages/42.html"
+      },
+      {
+        "title": "Steam player guide — Weapons and Attachments, 2014–2015",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=337295807"
+      },
+      {
+        "title": "NGTZombies — original Buried Remington / Sassafras (July 2013)",
+        "url": "https://www.youtube.com/watch?v=bFr5YtqStXU"
+      },
+      {
+        "title": "Achievement Hunter — original Xbox 360 LSAT purchase, upgrade and achievement (July 2013)",
+        "url": "https://www.youtube.com/watch?v=m3c-Fr5AFOE"
+      },
+      {
+        "title": "Activision — Vengeance introduces Buried and Mark II (July 2013)",
+        "url": "https://investor.activision.com/news-releases/news-release-details/new-call-dutyr-black-ops-ii-downloadable-content-arrives"
+      }
+    ],
+    "checked": "2026-10-17"
+  },
+  {
+    "id": "bo2-buried-awaken-the-gazebo-round-one",
+    "mapId": "bo2-buried",
+    "title": "Awaken the Gazebo — round-one Pack-a-Punch without storage",
+    "category": "side",
+    "difficulty": "Hard",
+    "players": "Solo route",
+    "summary": "Earn the upgrade money with six chalk drawings, pistol points and Arthur, then cross the Mansion while round one is still active. This roof-and-Trample Steam route uses original BO2-era evidence; jumps, barrier payouts and ghost avoidance make the budget conditional.",
+    "requirements": [
+      "Original Black Ops II Buried Standard, fresh match starting on round one",
+      "No Bank transactions or Weapon Locker use by anyone in the match",
+      "Keep the starting M1911 and leave ordinary zombies alive",
+      "Trample Steam built from General Store parts",
+      "5,000 points left after the Mansion entrance and any ghost losses"
+    ],
+    "reward": "Awaken the Gazebo achievement/trophy and a Pack-a-Punched weapon when the round-one and no-storage conditions are met.",
+    "steps": [
+      {
+        "title": "Keep this attempt eligible",
+        "body": "Start on round one. Nobody may use the Bank or Weapon Locker. Keep your M1911; skip perks, the LSAT and Mystery Box spending for this route. Restart this attempt if the ordinary zombie round advances before your upgrade.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=xQTHF4mPWXk"
+      },
+      {
+        "title": "Draw the first wall-buy",
+        "body": "Slide underground. Take the Remington chalk across from Quick Revive and place it at the nearby question mark for 1,000 points. Do not buy the shotgun; the drawing creates a wall-buy.",
+        "original": true,
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/225.html"
+      },
+      {
+        "title": "Build the Trample Steam",
+        "body": "Open the General Store’s 750-point door near the original Box. Carry its four parts to the workbench in the upper room above the Juggernog passage: flag on the ground-floor entry barrel; motor at the front end of the central shelf; screen against the upstairs walkway railing; bellows on the desk in the first small upstairs room to the right. Assemble all four there.",
+        "original": true,
+        "researchSource": "https://discover.hubpages.com/games-hobbies/How-to-Build-the-Trampo-Steam-in-Buried-Call-of-Duty-Black-Ops-2-Zombies"
+      },
+      {
+        "title": "Earn pistol points; preserve the round",
+        "body": "Use M1911 leg hits followed by knife finishes on four zombies. Leave the others undamaged. The filmed run has 1,580 points after the Store purchase and this point work. Avoid Nukes and keep the survivors away from your launcher.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=8QJpK2wuHWE&t=46s"
+      },
+      {
+        "title": "Turn on power now",
+        "body": "Use the Barn’s rear mine passage to reach the Saloon upstairs. Jump from its upper balcony to the Candy Store’s power-room roof entry and pull the switch. Keep the Saloon’s front door closed.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=8QJpK2wuHWE&t=70s"
+      },
+      {
+        "title": "Enter the Gunsmith from above",
+        "body": "Return through the Barn mine to the Saloon upstairs. Sprint-jump from its balcony corner to the Gunsmith roof by Mule Kick, then descend the ladder to the chalk room. Rehearse this jump; a fall can down you.",
+        "original": true,
+        "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=257908311"
+      },
+      {
+        "title": "Use the two Jail-side sites",
+        "body": "Take one Gunsmith drawing at a time. Put AN-94 chalk beside the Jail’s front entrance, then SVU-AS chalk at the top of the stairs beside the original Box. Each pays 1,000.",
+        "original": true,
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/225.html"
+      },
+      {
+        "title": "Launch to the Courthouse chalk site",
+        "body": "Carry the Galvaknuckles chalk and launcher onto the outside upper ledges by the Jail/original Box. Aim the Trample Steam at the Courthouse’s broken upper-wall opening by Speed Cola. Let it prime, launch through and draw for 1,000. Drop back toward the Box and recover the launcher.",
+        "original": true,
+        "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=257908311"
+      },
+      {
+        "title": "Draw on the Saloon balcony",
+        "body": "Draw the AK74u on the Saloon’s upstairs balcony for 1,000. Leave the PDW chalk in the Gunsmith for the Church. Do not buy Galvaknuckles.",
+        "original": true,
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/225.html"
+      },
+      {
+        "title": "Release Arthur",
+        "body": "Enter the Sheriff’s building from above near the original Box. Take the green key beside the cell, unlock Arthur and give him the bottle from his cell table. He breaks out; avoid shooting him back into confinement.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=xQTHF4mPWXk"
+      },
+      {
+        "title": "Get the second free bottle",
+        "body": "Check the cell again. If the free bottle is in the Saloon, enter through the Barn mine and pay the 750-point couch by the Bowie Knife to reach downstairs. Check the bar and tables. Carry the bottle; leave the front door shut.",
+        "original": true,
+        "researchSource": "https://discover.hubpages.com/games-hobbies/Booze-Locations-in-Buried-Call-of-Duty-Black-Ops-2-Zombies",
+        "tip": "This budget uses the free bottle. Buying a 1,000-point replacement may consume your upgrade margin."
+      },
+      {
+        "title": "Cross to the Church side",
+        "body": "Go upstairs in General Store and out onto its rear wooden balcony. Drop onto the Candy Store side of the blocked alley using the pictured barrel/railing alignment. Wait at the Church for Arthur.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=8QJpK2wuHWE&t=322s",
+        "images": [
+          {
+            "src": "./assets/classic-batch13-buried-upper-store-drop.webp",
+            "alt": "General Store rear balcony, barrel and lower walkway on the Candy Store side.",
+            "caption": "General Store upstairs exit — use this rear-balcony alignment. Cropped above the creator’s annotations.",
+            "source": "https://www.youtube.com/watch?v=8QJpK2wuHWE&t=330s",
+            "credit": "way2g00 / Activision-Treyarch — original BO2-era footage, 9 July 2013"
+          }
+        ]
+      },
+      {
+        "title": "Have Arthur open the Church",
+        "body": "Position Arthur with the Church barrier behind him, then give him booze from the opposite side. A clear, longer charge can earn more points. The payout depends on positioning; do not assume a fixed reward.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=5GZq7p8Lv-U&t=339s",
+        "images": [
+          {
+            "src": "./assets/classic-batch13-buried-church-charge.webp",
+            "alt": "Arthur facing the player with the Church barrier behind him and the give-Booze prompt.",
+            "caption": "Church charge alignment in MrDalekJD’s original round-one run.",
+            "source": "https://www.youtube.com/watch?v=5GZq7p8Lv-U&t=339s",
+            "credit": "MrDalekJD / Activision-Treyarch — original BO2-era footage, 6 July 2013"
+          }
+        ]
+      },
+      {
+        "title": "Draw the final PDW",
+        "body": "Fetch PDW-57 chalk from the Gunsmith and draw it at the Church upstairs question mark. This sixth drawing pays 2,000 total. Buy the PDW for 1,000.",
+        "original": true,
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/225.html"
+      },
+      {
+        "title": "Check funds before entering the Mansion",
+        "body": "After buying your gun, keep at least 6,250: 1,250 for the Mansion door and 5,000 for the upgrade. If short, check missed chalk and your barrier payout before continuing. Do not end the round to raise money.",
+        "original": true,
+        "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=257908311"
+      },
+      {
+        "title": "Launch over the Mansion fence",
+        "body": "Bring the Trample Steam to the damaged, low section at the right end of the Mansion’s front fence. Launch over, then buy the 1,250-point entrance. Protect the remaining zombies from the launcher.",
+        "original": true,
+        "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=257908311"
+      },
+      {
+        "title": "Protect your money through the ghosts",
+        "body": "Use the PDW to kill ghosts before they touch you: a hit removes 2,000 points. Pass the Double Tap room, climb upstairs, wait for the moving bookcase and cross its passage into the rear garden. Clear pursuing ghosts and check that at least 5,000 remains.",
+        "original": true,
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/225.html"
+      },
+      {
+        "title": "Upgrade while the HUD still says round one",
+        "body": "Follow the current maze openings to the Gazebo; its gates vary. Descend the broken spiral stairs carefully. With power on, pay 5,000 to upgrade your M1911 or PDW and collect the returned weapon before it retracts. Confirm the achievement/trophy.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=xQTHF4mPWXk&t=566s",
+        "images": [
+          {
+            "src": "./assets/classic-batch13-buried-round-one-pap.webp",
+            "alt": "Round-one marker, 6,170 points and Pack-a-Punch in the Gazebo basement.",
+            "caption": "Original round-one example from TheRelaxingEnd’s run; its ghost-wave reward supplied the pictured perk.",
+            "source": "https://www.youtube.com/watch?v=xQTHF4mPWXk&t=566s",
+            "credit": "TheRelaxingEnd / Activision-Treyarch — original BO2-era footage, 15 July 2013"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "way2g00 — original 2013 Awaken the Gazebo route",
+        "url": "https://www.youtube.com/watch?v=8QJpK2wuHWE"
+      },
+      {
+        "title": "TheRelaxingEnd — original 2013 round-one achievement run",
+        "url": "https://www.youtube.com/watch?v=xQTHF4mPWXk"
+      },
+      {
+        "title": "MrDalekJD — original 6 July 2013 achievement walkthrough",
+        "url": "https://www.youtube.com/watch?v=5GZq7p8Lv-U"
+      },
+      {
+        "title": "SgtFopper — firsthand solo route (2014; power omission corrected)",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=257908311"
+      },
+      {
+        "title": "BO2 atwiki — Buried locations, chalk rewards and prices",
+        "url": "https://w.atwiki.jp/blackops2_cod/pages/225.html"
+      },
+      {
+        "title": "Edward D. Saterstad — Trample Steam locations (retained earlier source text)",
+        "url": "https://discover.hubpages.com/games-hobbies/How-to-Build-the-Trampo-Steam-in-Buried-Call-of-Duty-Black-Ops-2-Zombies"
+      },
+      {
+        "title": "Edward D. Saterstad — booze locations (retained earlier source text)",
+        "url": "https://discover.hubpages.com/games-hobbies/Booze-Locations-in-Buried-Call-of-Duty-Black-Ops-2-Zombies"
+      }
+    ],
+    "relatedGuideIds": [
+      "bo2-buried-trample-steam",
+      "bo2-buried-arthur-release-and-keys",
+      "bo2-buried-arthur-booze-and-barriers",
+      "bo2-buried-wall-chalk-placement",
+      "bo2-buried-community-buried-map-walkthrough-pack-a-punch",
+      "bo2-buried-ordinary-pack-a-punch-inventory"
+    ],
+    "checked": "2026-10-17"
   }
 ]
