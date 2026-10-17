@@ -408,9 +408,10 @@
   },
   {
     "mapIds": [
-      "bo4-ancient-evil"
+      "bo4-ancient-evil",
+      "bo4-ancient-evil-labours-of-hercules"
     ],
-    "note": "Labours of Hercules (Normal) is confirmed released by publisher evidence. A complete practical round-by-round audit is still pending; source tables, where available, are not gameplay verification."
+    "note": "Labours of Hercules (Normal) now has thirty menu conditions, exact creator chapters, setup companions and a player-posted 2024 menu image. Complete gameplay replay, platform parity and co-op/retry behavior remain pending."
   },
   {
     "mapIds": [
@@ -420,9 +421,10 @@
   },
   {
     "mapIds": [
-      "bo4-alpha-omega"
+      "bo4-alpha-omega",
+      "bo4-alpha-omega-duck-and-cover"
     ],
-    "note": "Duck and Cover (Normal) is confirmed released by publisher evidence. A complete practical round-by-round audit is still pending; source tables, where available, are not gameplay verification."
+    "note": "Duck and Cover (Normal) now has thirty menu conditions, exact creator chapters, setup companions and a player-posted 2024 menu image. Complete gameplay replay, platform parity and co-op/retry behavior remain pending."
   },
   {
     "mapIds": [
@@ -558,7 +560,7 @@
     "mapIds": [
       "bo6-reckoning"
     ],
-    "note": "Basketball crystal route: Fandom describes a ceiling ball shot during low gravity, kicking it into the GobbleGum-side barrier at the first stairs, then shooting it inside for a crystal. JokerAlex21 indexes a ZoneX video. The accessible primary index does not expose those mechanics; crystal tier, reset and failure conditions remain uncorroborated."
+    "note": "Basketball crystal route now has a three-step guide, three original ZoneX footage stills and direct chapter references. Low-gravity release and shooting the ball inside the stairway opening were inspected in the February 19, 2026 demonstration. Fixed crystal tier, repeatability, Directed support, co-op allocation and reliable recovery from a stuck ball remain unchecked."
   },
   {
     "mapIds": [
@@ -596,7 +598,7 @@
     "mapIds": [
       "bo1-call-of-the-dead"
     ],
-    "note": "Remaining three story-radio close-ups: The five-recording inventory is documented, but exact readable BO1 close-ups for the PM63 flooded-walkway radio, Double Tap radio and Speed Cola water-rock radio were not obtained. Lighthouse floor trigger has firsthand prose but no selected close-up. Do not publish “near Double Tap” as a completed full walkthrough."
+    "note": "All five story-radio locations now have individual written routes. Original BO1 stills show Stamin-Up, the lighthouse, Double Tap and the final water rock. The flooded PM63 radio still needs a clear object close-up and the complete route has not been independently played through. These five recordings are separate from the four co-op quest devices."
   },
   {
     "mapIds": [
@@ -687,5 +689,19 @@
       "bo1-call-of-the-dead"
     ],
     "note": "All fourteen existing BO1 cards and forty-three original steps were source-compared. Routes now distinguish Solo/co-op, four quest radios from five story recordings, photographed generators/vodka/horns, the Flinger and three Pack-a-Punch sites. Fifty-one selected photos were inspected. Gameplay, timers and complete map coverage are not certified."
+  },
+  {
+    "mapIds": [
+      "bo4-ancient-evil",
+      "bo4-ancient-evil-labours-of-hercules"
+    ],
+    "note": "Labours of Hercules still needs a fully enumerated ten-source kill itinerary for round 28, co-op roles for the Hand play and Gauntlet-specific boss phase/vulnerability details. The linked selected solo footage is not a full lobby-size test."
+  },
+  {
+    "mapIds": [
+      "bo4-alpha-omega",
+      "bo4-alpha-omega-duck-and-cover"
+    ],
+    "note": "Duck and Cover still needs a complete mannequin-head coordinate inventory, all Telepad counter/retry cases and trap-hit behavior checks. Firsthand reports disagree about trap strikes and describe a stalled Telepad counter; the live HUD takes priority."
   }
 ]

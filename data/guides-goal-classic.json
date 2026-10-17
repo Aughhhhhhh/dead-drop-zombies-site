@@ -3053,16 +3053,16 @@
     "mapId": "bo1-call-of-the-dead"
   },
   {
-    "title": "Richtofen logs 1–2 — Stamin-Up and lighthouse",
-    "summary": "The first two of five story recordings, separate from Ensemble Cast’s four Morse-code devices.",
+    "title": "Richtofen logs: all five story-radio locations",
+    "summary": "Find all five spoken recordings, with original BO1 landmarks and footage. Ensemble Cast’s four quest radios have their own route.",
     "category": "side",
     "difficulty": "Easy",
     "players": "1–4",
     "requirements": [
       "Version: original BO1 on PC, PS3 or Xbox 360.",
-      "Open the Stamin-Up building and lighthouse top"
+      "Open the Stamin-Up building, lighthouse top, flooded PM63 ship section, Double Tap section and Speed Cola slide."
     ],
-    "reward": "Two spoken Richtofen recordings. This card covers the first two triggers; a full five-radio location guide remains unfinished.",
+    "reward": "Five Richtofen story recordings; no separate gameplay reward is documented.",
     "steps": [
       {
         "title": "Recording 1: under the Stamin-Up door",
@@ -3081,26 +3081,73 @@
       },
       {
         "title": "Recording 2: top of the lighthouse",
-        "body": "Climb to the lighthouse’s top floor. Turn left instead of going right toward Deadshot. Continue to the radio on the floor/grating at the far side and hold interact. Let its spoken recording finish.",
+        "body": "Climb to the lighthouse’s top floor. Turn left instead of going right toward Deadshot. At the far side, find the radio on the floor grating between the large metal drums. Move close and hold interact until its spoken recording begins.",
         "original": true,
-        "researchSource": "https://www.callofdutyzombies.com/profile/121587-mrdeadman/content/"
+        "researchSource": "https://www.youtube.com/watch?v=zF2vgFQvqss&t=110s",
+        "images": [
+          {
+            "src": "./assets/cotd-story-radio-2.png",
+            "alt": "BO1: the lighthouse-top story radio between the large metal drums, on the floor grating.",
+            "caption": "BO1: the lighthouse-top story radio between the large metal drums, on the floor grating. hXcHector video at 1:50; original watermark retained.",
+            "source": "https://www.youtube.com/watch?v=zF2vgFQvqss&t=110s",
+            "credit": "Video still: hXcHector / HectorMadrigal.com / Activision"
+          }
+        ]
+      },
+      {
+        "title": "Recording 3: flooded PM63 ship corner",
+        "body": "In the back half of the ship, go downstairs from the MP40 toward the PM63 and flooded Juggernog-side area. Wade into the corner of the icy pool beneath the steel walkways. Check under the grating for the hidden radio and hold interact close to it. Leave the freezing water once the recording starts.",
+        "original": true,
+        "researchSource": "https://gamefaqs.gamespot.com/boards/960189-call-of-duty-black-ops/59047570"
+      },
+      {
+        "title": "Recording 4: ship wall beside Double Tap",
+        "body": "On the ship section with Double Tap, face the machine and follow the hull to its right. Find the rectangular radio resting on the ledge beside the coiled cables, against the ship wall. Hold interact on its front to start the fourth spoken recording.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=zF2vgFQvqss&t=170s",
+        "images": [
+          {
+            "src": "./assets/cotd-story-radio-4.png",
+            "alt": "BO1: the story radio against the ship wall on the Double Tap side, beside coiled cables.",
+            "caption": "BO1: the story radio against the ship wall on the Double Tap side, beside coiled cables. hXcHector video at 3:06; original watermark retained.",
+            "source": "https://www.youtube.com/watch?v=zF2vgFQvqss&t=186s",
+            "credit": "Video still: hXcHector / HectorMadrigal.com / Activision"
+          }
+        ]
+      },
+      {
+        "title": "Recording 5: water rock beyond Speed Cola",
+        "body": "Take the ice slide to Speed Cola and continue straight out into the shallow water. Go past the large island toward the outer line of boulders. The radio rests on a low sloping rock between the larger rocks, shown in the photo. Approach its edge and hold interact, then get back out of the freezing water.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=zF2vgFQvqss&t=259s",
+        "images": [
+          {
+            "src": "./assets/cotd-story-radio-5.png",
+            "alt": "BO1: the final story radio on the low sloping rock between larger boulders, beyond the Speed Cola slide exit.",
+            "caption": "BO1: the final story radio on the low sloping rock between larger boulders, beyond the Speed Cola slide exit. hXcHector video at 4:52; original watermark retained.",
+            "source": "https://www.youtube.com/watch?v=zF2vgFQvqss&t=292s",
+            "credit": "Video still: hXcHector / HectorMadrigal.com / Activision"
+          }
+        ]
       }
     ],
     "relatedGuideIds": [
-      "bo1-call-of-the-dead-ensemble-cast"
+      "bo1-call-of-the-dead-ensemble-cast",
+      "bo1-call-of-the-dead-roaming-pack-a-punch",
+      "bo1-call-of-the-dead-free-ziplines"
     ],
     "sources": [
       {
-        "title": "hXcHector — BO1 walkthrough and original footage",
+        "title": "hXcHector — five original-BO1 story-radio locations",
         "url": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/call-of-the-dead/"
       },
       {
-        "title": "Original BO1 player reference",
+        "title": "hXcHector — September 2011 firsthand radio demonstration",
         "url": "https://www.youtube.com/watch?v=zF2vgFQvqss"
       },
       {
-        "title": "Original BO1 player reference",
-        "url": "https://www.callofdutyzombies.com/profile/121587-mrdeadman/content/"
+        "title": "2011 player guide — flooded MP40/PM63 corner and outer water rock",
+        "url": "https://gamefaqs.gamespot.com/boards/960189-call-of-duty-black-ops/59047570"
       }
     ],
     "checked": "2026-10-16",

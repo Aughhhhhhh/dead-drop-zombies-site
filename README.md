@@ -8,7 +8,7 @@ Guide headers link directly to setup, steps, sources and the full map reference 
 
 ## Content and coverage
 
-The catalog indexes 19 games and spin-offs and 156 map/mode entries as of October 16, 2026. Original releases, remasters, survival variants, and arcade modes have separate entries. Historical Zombies playlists are labelled as such; their availability can differ from permanent maps. Custom maps, mods, campaign reskins, and temporary Warzone events are outside the catalog.
+The catalog indexes 19 games and spin-offs and 158 map/mode entries as of October 16, 2026. Original releases, remasters, survival variants, and arcade modes have separate entries. Historical Zombies playlists are labelled as such; their availability can differ from permanent maps. Custom maps, mods, campaign reskins, and temporary Warzone events are outside the catalog.
 
 Every indexed map or mode has in-site instructions, with main quests, secrets and equipment where documented. This is an expanding reference, not a verified exhaustive archive. The Coverage page reports the current guide counts and identified research gaps by map. Some archived triggers and bonus-room variants remain unverified; unsolved relics are not presented as solved. Guides have not been independently playtested.
 

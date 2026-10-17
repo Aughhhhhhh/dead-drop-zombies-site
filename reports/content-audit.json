@@ -7,9 +7,9 @@
     "No guide has been independently playtested for this archive. No map is certified to contain every possible secret.",
     "Newly authored guides may have source research without a separate recorded full audit. Guide counts and passing software checks do not establish gameplay accuracy."
   ],
-  "catalogEntries": 156,
-  "runtimeGuides": 1363,
-  "guidesWithRecordedSourceReview": 375,
+  "catalogEntries": 158,
+  "runtimeGuides": 1366,
+  "guidesWithRecordedSourceReview": 381,
   "guidesCertifiedFullyVerified": 0,
   "batches": [
     {
@@ -119,6 +119,18 @@
     {
       "batch": "bo6-source-link-labels",
       "rowsWithRecordedReview": 17
+    },
+    {
+      "batch": "bo1-cotd-five-story-radios-follow-up",
+      "rowsWithRecordedReview": 1
+    },
+    {
+      "batch": "bo4-ancient-alpha-normal-condition-pass",
+      "rowsWithRecordedReview": 5
+    },
+    {
+      "batch": "bo6-reckoning-basketball-footage-pass",
+      "rowsWithRecordedReview": 1
     }
   ],
   "guideReviews": [
@@ -1290,6 +1302,27 @@
           "independentlyPlaytested": false,
           "evidenceUrls": [
             "https://www.callofdutyzombies.com/profile/121587-mrdeadman/content/",
+            "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/call-of-the-dead/",
+            "https://www.youtube.com/watch?v=zF2vgFQvqss"
+          ]
+        },
+        {
+          "batch": "bo1-cotd-five-story-radios-follow-up",
+          "reportedStatus": "Five locations source-compared; three additional original-video stills inspected, not independently playtested",
+          "independentlyPlaytested": false,
+          "unresolved": [
+            "No clear close-up of the flooded PM63 radio.",
+            "Selected video sections were inspected, not the complete unmodified route or every audio transcript. Keyboard seeking produced stale frames, which were excluded; selected stills came from observed matching original scenes."
+          ],
+          "allExistingStepsRead": true,
+          "originalStepCount": 2,
+          "checkedClaims": [
+            "Expanded two recording locations to five, preserving the existing guide ID and first two step titles.",
+            "The lighthouse radio is between metal drums; the Double Tap radio is against the ship wall by coiled cables; the last is on a sloping rock beyond the slide island.",
+            "The flooded corner is downstairs from the MP40, in the PM63 area beneath the steel walkways, supported by the 2011 firsthand text."
+          ],
+          "evidenceUrls": [
+            "https://gamefaqs.gamespot.com/boards/960189-call-of-duty-black-ops/59047570",
             "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/call-of-the-dead/",
             "https://www.youtube.com/watch?v=zF2vgFQvqss"
           ]
@@ -4484,6 +4517,1142 @@
           ],
           "evidenceUrls": [
             "https://www.reddit.com/r/CODZombies/wiki/verruckt/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo4-alpha-omega-community-alpha-omega-map-features-ray-gun-mark-ii-frame",
+      "mapId": "bo4-alpha-omega",
+      "reviews": [
+        {
+          "batch": "bo4-ancient-alpha-normal-condition-pass",
+          "reportedStatus": "Targeted Normal Gauntlet supplement and source-scope comparison; other Standard mechanics not fully replayed",
+          "independentlyPlaytested": false,
+          "unresolved": [
+            "Standard dialogue prerequisites must not be imposed on the documented Normal Gauntlet TV/keypad route. Other mode-specific trigger exceptions remain pending."
+          ],
+          "checkedClaims": [
+            "Add a mode-scoped companion clarification while preserving the attributed Standard source.",
+            "Add a mode-scoped companion clarification while preserving the attributed Standard source.",
+            "Add a mode-scoped companion clarification while preserving the attributed Standard source.",
+            "Add a mode-scoped companion clarification while preserving the attributed Standard source.",
+            "Add a mode-scoped companion clarification while preserving the attributed Standard source.",
+            "Make the scoped mode clarification reachable through the practical checklist."
+          ],
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/cmvdcu/duck_and_cover_alpha_omega_gauntlet_full/",
+            "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo4-alpha-omega-community-alpha-omega-map-features-telepads",
+      "mapId": "bo4-alpha-omega",
+      "reviews": [
+        {
+          "batch": "bo4-ancient-alpha-normal-condition-pass",
+          "reportedStatus": "Targeted Normal Gauntlet supplement and source-scope comparison; other Standard mechanics not fully replayed",
+          "independentlyPlaytested": false,
+          "unresolved": [
+            "Gauntlet-specific co-op counters and retry behavior remain pending."
+          ],
+          "checkedClaims": [
+            "Add a mode-scoped companion clarification while preserving the attributed Standard source.",
+            "Add a mode-scoped companion clarification while preserving the attributed Standard source.",
+            "Add a mode-scoped companion clarification while preserving the attributed Standard source.",
+            "Add a mode-scoped companion clarification while preserving the attributed Standard source.",
+            "Add a mode-scoped companion clarification while preserving the attributed Standard source.",
+            "Make the scoped mode clarification reachable through the practical checklist."
+          ],
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "https://www.youtube.com/watch?v=GfoESfBFpo0"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo4-alpha-omega-duck-and-cover-normal-30-rounds",
+      "mapId": "bo4-alpha-omega-duck-and-cover",
+      "reviews": [
+        {
+          "batch": "bo4-ancient-alpha-normal-condition-pass",
+          "reportedStatus": "Thirty menu condition meanings compared; chapters checked and selected gameplay inspected, no independent playtest",
+          "independentlyPlaytested": false,
+          "unresolved": [
+            "Full final-build PC parity and the menu capture's platform/build are not established.",
+            "Population-counter farming limits, reset behavior and all Galvaknuckles trigger exceptions remain pending.",
+            "Round-18 players disagree about whether a beam hit immediately gives a strike or only damage. The checklist requires clean passes and uses the live HUD; exact retry behavior is pending.",
+            "Co-op quotas for shield/trap/empowered-zombie/temporary-gun kills and mannequin counts are not independently established. Solo numbers are not made universal.",
+            "The full mannequin-head coordinate inventory is not separately enumerated; the exact round-21 chapter supplies the creator's route.",
+            "Round-28 pairs are demonstrated in one solo recording. A firsthand player report describes a stalled counter; all build-specific counter/retry behavior remains pending.",
+            "Exact Sgt. A.D.A.M. attack radius and every alternative finale weapon interaction were not tested."
+          ],
+          "stepChecks": [
+            {
+              "round": 1,
+              "menuTitle": "Delayed Entry",
+              "menuCondition": "Defend The Security Checkpoint",
+              "menuWordingRead": true,
+              "creatorChapterSeconds": 30,
+              "independentCreatorChapterSeconds": 21,
+              "chapterCorrespondenceChecked": true,
+              "selectedGameplayFramesInspected": false,
+              "evidence": [
+                "gallery-2024",
+                "ao-mysteryhq",
+                "ao-glitch"
+              ],
+              "runtimeStatus": "No full gameplay replay"
+            },
+            {
+              "round": 2,
+              "menuTitle": "Death From Above",
+              "menuCondition": "Zombies Can Only Be Damaged While Much Higher Than Them",
+              "menuWordingRead": true,
+              "creatorChapterSeconds": 40,
+              "independentCreatorChapterSeconds": 31,
+              "chapterCorrespondenceChecked": true,
+              "selectedGameplayFramesInspected": false,
+              "evidence": [
+                "gallery-2024",
+                "ao-mysteryhq",
+                "ao-glitch"
+              ],
+              "runtimeStatus": "No full gameplay replay"
+            },
+            {
+              "round": 3,
+              "menuTitle": "End of the Road",
+              "menuCondition": "All Players Must Be In Cul De Sac At End Of Round",
+              "menuWordingRead": true,
+              "creatorChapterSeconds": 51,
+              "independentCreatorChapterSeconds": 42,
+              "chapterCorrespondenceChecked": true,
+              "selectedGameplayFramesInspected": false,
+              "evidence": [
+                "gallery-2024",
+                "ao-mysteryhq",
+                "ao-glitch"
+              ],
+              "runtimeStatus": "No full gameplay replay"
+            },
+            {
+              "round": 4,
+              "menuTitle": "Piss Around",
+              "menuCondition": "Use Unpacked Pistols Only",
+              "menuWordingRead": true,
+              "creatorChapterSeconds": 65,
+              "independentCreatorChapterSeconds": 53,
+              "chapterCorrespondenceChecked": true,
+              "selectedGameplayFramesInspected": false,
+              "evidence": [
+                "gallery-2024",
+                "ao-mysteryhq",
+                "ao-glitch"
+              ],
+              "runtimeStatus": "No full gameplay replay"
+            },
+            {
+              "round": 5,
+              "menuTitle": "Duck...",
+              "menuCondition": "Weapons Are Only Usable While Crouched",
+              "menuWordingRead": true,
+              "creatorChapterSeconds": 75,
+              "independentCreatorChapterSeconds": 59,
+              "chapterCorrespondenceChecked": true,
+              "selectedGameplayFramesInspected": false,
+              "evidence": [
+                "gallery-2024",
+                "ao-mysteryhq",
+                "ao-glitch"
+              ],
+              "runtimeStatus": "No full gameplay replay"
+            },
+            {
+              "round": 6,
+              "menuTitle": "...and Cover",
+              "menuCondition": "Weapons Are Only Usable While Prone",
+              "menuWordingRead": true,
+              "creatorChapterSeconds": 83,
+              "independentCreatorChapterSeconds": 68,
+              "chapterCorrespondenceChecked": true,
+              "selectedGameplayFramesInspected": false,
+              "evidence": [
+                "gallery-2024",
+                "ao-mysteryhq",
+                "ao-glitch"
+              ],
+              "runtimeStatus": "No full gameplay replay"
+            },
+            {
+              "round": 7,
+              "menuTitle": "Deep Breath",
+              "menuCondition": "Complete The Gas Venting Event In Generators By End Of Round",
+              "menuWordingRead": true,
+              "creatorChapterSeconds": 102,
+              "independentCreatorChapterSeconds": 79,
+              "chapterCorrespondenceChecked": true,
+              "selectedGameplayFramesInspected": false,
+              "evidence": [
+                "gallery-2024",
+                "ao-mysteryhq",
+                "ao-glitch"
+              ],
+              "runtimeStatus": "No full gameplay replay"
+            },
+            {
+              "round": 8,
+              "menuTitle": "Population Control",
+              "menuCondition": "Round Ends When The Population Counter Is Hit With Galvaknuckles At Zero",
+              "menuWordingRead": true,
+              "creatorChapterSeconds": 124,
+              "independentCreatorChapterSeconds": 101,
+              "chapterCorrespondenceChecked": true,
+              "selectedGameplayFramesInspected": false,
+              "evidence": [
+                "gallery-2024",
+                "ao-mysteryhq",
+                "ao-glitch"
+              ],
+              "runtimeStatus": "No full gameplay replay"
+            },
+            {
+              "round": 9,
+              "menuTitle": "Civil Engineering",
+              "menuCondition": "Build The Telepads And Shield By The End Of Round",
+              "menuWordingRead": true,
+              "creatorChapterSeconds": 166,
+              "independentCreatorChapterSeconds": 130,
+              "chapterCorrespondenceChecked": true,
+              "selectedGameplayFramesInspected": false,
+              "evidence": [
+                "gallery-2024",
+                "ao-mysteryhq",
+                "ao-glitch"
+              ],
+              "runtimeStatus": "No full gameplay replay"
+            },
+            {
+              "round": 10,
+              "menuTitle": "Block Party",
+              "menuCondition": "Defend The Neighborhood Streets And Get Riot Shield Kills",
+              "menuWordingRead": true,
+              "creatorChapterSeconds": 176,
+              "independentCreatorChapterSeconds": 148,
+              "chapterCorrespondenceChecked": true,
+              "selectedGameplayFramesInspected": false,
+              "evidence": [
+                "gallery-2024",
+                "ao-mysteryhq",
+                "ao-glitch"
+              ],
+              "runtimeStatus": "No full gameplay replay"
+            },
+            {
+              "round": 11,
+              "menuTitle": "Pack Your Bags",
+              "menuCondition": "Each Player Must Possess A Packed Weapon By End Of Round",
+              "menuWordingRead": true,
+              "creatorChapterSeconds": 193,
+              "independentCreatorChapterSeconds": 164,
+              "chapterCorrespondenceChecked": true,
+              "selectedGameplayFramesInspected": false,
+              "evidence": [
+                "gallery-2024",
+                "ao-mysteryhq",
+                "ao-glitch"
+              ],
+              "runtimeStatus": "No full gameplay replay"
+            },
+            {
+              "round": 12,
+              "menuTitle": "Shocking Development",
+              "menuCondition": "Survive A Jolting Jack Onslaught",
+              "menuWordingRead": true,
+              "creatorChapterSeconds": 214,
+              "independentCreatorChapterSeconds": 182,
+              "chapterCorrespondenceChecked": true,
+              "selectedGameplayFramesInspected": false,
+              "evidence": [
+                "gallery-2024",
+                "ao-mysteryhq",
+                "ao-glitch"
+              ],
+              "runtimeStatus": "No full gameplay replay"
+            },
+            {
+              "round": 13,
+              "menuTitle": "This. Is. Nuketown!",
+              "menuCondition": "Survive Round Using Only Nuke Power-Ups",
+              "menuWordingRead": true,
+              "creatorChapterSeconds": 234,
+              "independentCreatorChapterSeconds": 203,
+              "chapterCorrespondenceChecked": true,
+              "selectedGameplayFramesInspected": false,
+              "evidence": [
+                "gallery-2024",
+                "ao-mysteryhq",
+                "ao-glitch"
+              ],
+              "runtimeStatus": "No full gameplay replay"
+            },
+            {
+              "round": 14,
+              "menuTitle": "Sawed Off",
+              "menuCondition": "Use Unpacked Shotguns Only",
+              "menuWordingRead": true,
+              "creatorChapterSeconds": 243,
+              "independentCreatorChapterSeconds": 219,
+              "chapterCorrespondenceChecked": true,
+              "selectedGameplayFramesInspected": false,
+              "evidence": [
+                "gallery-2024",
+                "ao-mysteryhq",
+                "ao-glitch"
+              ],
+              "runtimeStatus": "No full gameplay replay"
+            },
+            {
+              "round": 15,
+              "menuTitle": "Slumber Party",
+              "menuCondition": "Defend The Bunker Bedrooms",
+              "menuWordingRead": true,
+              "creatorChapterSeconds": 253,
+              "independentCreatorChapterSeconds": 229,
+              "chapterCorrespondenceChecked": true,
+              "selectedGameplayFramesInspected": false,
+              "evidence": [
+                "gallery-2024",
+                "ao-mysteryhq",
+                "ao-glitch"
+              ],
+              "runtimeStatus": "No full gameplay replay"
+            },
+            {
+              "round": 16,
+              "menuTitle": "Galva-anting",
+              "menuCondition": "Use Galvaknuckles Only",
+              "menuWordingRead": true,
+              "creatorChapterSeconds": 268,
+              "independentCreatorChapterSeconds": 238,
+              "chapterCorrespondenceChecked": true,
+              "selectedGameplayFramesInspected": false,
+              "evidence": [
+                "gallery-2024",
+                "ao-mysteryhq",
+                "ao-glitch"
+              ],
+              "runtimeStatus": "No full gameplay replay"
+            },
+            {
+              "round": 17,
+              "menuTitle": "Out of this World",
+              "menuCondition": "Craft A Modded Ray Gun Mk II By The End Of Round",
+              "menuWordingRead": true,
+              "creatorChapterSeconds": 278,
+              "independentCreatorChapterSeconds": 253,
+              "chapterCorrespondenceChecked": true,
+              "selectedGameplayFramesInspected": false,
+              "evidence": [
+                "gallery-2024",
+                "ao-mysteryhq",
+                "ao-glitch"
+              ],
+              "runtimeStatus": "No full gameplay replay",
+              "additionalEvidence": [
+                "ao-original-menu"
+              ]
+            },
+            {
+              "round": 18,
+              "menuTitle": "Electric Slide",
+              "menuCondition": "All Players Need To Pass Through Electric Traps Without Touching The Beam Enough Times",
+              "menuWordingRead": true,
+              "creatorChapterSeconds": 287,
+              "independentCreatorChapterSeconds": 263,
+              "chapterCorrespondenceChecked": true,
+              "selectedGameplayFramesInspected": false,
+              "evidence": [
+                "gallery-2024",
+                "ao-mysteryhq",
+                "ao-glitch"
+              ],
+              "runtimeStatus": "No full gameplay replay",
+              "additionalEvidence": [
+                "ao-original-menu"
+              ]
+            },
+            {
+              "round": 19,
+              "menuTitle": "All Gassed Up",
+              "menuCondition": "Kill Enough Empowered Zombies",
+              "menuWordingRead": true,
+              "creatorChapterSeconds": 305,
+              "independentCreatorChapterSeconds": 282,
+              "chapterCorrespondenceChecked": true,
+              "selectedGameplayFramesInspected": false,
+              "evidence": [
+                "gallery-2024",
+                "ao-mysteryhq",
+                "ao-glitch"
+              ],
+              "runtimeStatus": "No full gameplay replay"
+            },
+            {
+              "round": 20,
+              "menuTitle": "Blood Drive",
+              "menuCondition": "Defend The Transfusion Facility",
+              "menuWordingRead": true,
+              "creatorChapterSeconds": 316,
+              "independentCreatorChapterSeconds": 296,
+              "chapterCorrespondenceChecked": true,
+              "selectedGameplayFramesInspected": false,
+              "evidence": [
+                "gallery-2024",
+                "ao-mysteryhq",
+                "ao-glitch"
+              ],
+              "runtimeStatus": "No full gameplay replay"
+            },
+            {
+              "round": 21,
+              "menuTitle": "Head Hunter",
+              "menuCondition": "All Mannequin Heads Need To Be Removed By The End Of Round",
+              "menuWordingRead": true,
+              "creatorChapterSeconds": 328,
+              "independentCreatorChapterSeconds": 307,
+              "chapterCorrespondenceChecked": true,
+              "selectedGameplayFramesInspected": false,
+              "evidence": [
+                "gallery-2024",
+                "ao-mysteryhq",
+                "ao-glitch"
+              ],
+              "runtimeStatus": "No full gameplay replay"
+            },
+            {
+              "round": 22,
+              "menuTitle": "Minute to Midnight",
+              "menuCondition": "Get Required Number Of Kills With Weapon From Prisoner Holding Within 1 Minute Of Picking It Up",
+              "menuWordingRead": true,
+              "creatorChapterSeconds": 387,
+              "independentCreatorChapterSeconds": 418,
+              "chapterCorrespondenceChecked": true,
+              "selectedGameplayFramesInspected": false,
+              "evidence": [
+                "gallery-2024",
+                "ao-mysteryhq",
+                "ao-glitch"
+              ],
+              "runtimeStatus": "No full gameplay replay"
+            },
+            {
+              "round": 23,
+              "menuTitle": "Fist Full of Bullets",
+              "menuCondition": "Melee Kills Fill Your Weapon's Clip. No Ammo Reserves.",
+              "menuWordingRead": true,
+              "creatorChapterSeconds": 405,
+              "independentCreatorChapterSeconds": 438,
+              "chapterCorrespondenceChecked": true,
+              "selectedGameplayFramesInspected": false,
+              "evidence": [
+                "gallery-2024",
+                "ao-mysteryhq",
+                "ao-glitch"
+              ],
+              "runtimeStatus": "No full gameplay replay"
+            },
+            {
+              "round": 24,
+              "menuTitle": "Shocking Spree",
+              "menuCondition": "Make 6 Unique Wall Buys",
+              "menuWordingRead": true,
+              "creatorChapterSeconds": 415,
+              "independentCreatorChapterSeconds": 455,
+              "chapterCorrespondenceChecked": true,
+              "selectedGameplayFramesInspected": false,
+              "evidence": [
+                "gallery-2024",
+                "ao-mysteryhq",
+                "ao-glitch"
+              ],
+              "runtimeStatus": "No full gameplay replay"
+            },
+            {
+              "round": 25,
+              "menuTitle": "Backyard Barbecue",
+              "menuCondition": "Defend The Yellow House Backyard",
+              "menuWordingRead": true,
+              "creatorChapterSeconds": 430,
+              "independentCreatorChapterSeconds": 468,
+              "chapterCorrespondenceChecked": true,
+              "selectedGameplayFramesInspected": false,
+              "evidence": [
+                "gallery-2024",
+                "ao-mysteryhq",
+                "ao-glitch"
+              ],
+              "runtimeStatus": "No full gameplay replay"
+            },
+            {
+              "round": 26,
+              "menuTitle": "Keep It Light",
+              "menuCondition": "Use Unpacked LMG's Only",
+              "menuWordingRead": true,
+              "creatorChapterSeconds": 441,
+              "independentCreatorChapterSeconds": 476,
+              "chapterCorrespondenceChecked": true,
+              "selectedGameplayFramesInspected": false,
+              "evidence": [
+                "gallery-2024",
+                "ao-mysteryhq",
+                "ao-glitch"
+              ],
+              "runtimeStatus": "No full gameplay replay"
+            },
+            {
+              "round": 27,
+              "menuTitle": "Eyes Open",
+              "menuCondition": "Survive Round Without Being Hit By Special A.D.A.M.s",
+              "menuWordingRead": true,
+              "creatorChapterSeconds": 462,
+              "independentCreatorChapterSeconds": 497,
+              "chapterCorrespondenceChecked": true,
+              "selectedGameplayFramesInspected": false,
+              "evidence": [
+                "gallery-2024",
+                "ao-mysteryhq",
+                "ao-glitch"
+              ],
+              "runtimeStatus": "No full gameplay replay"
+            },
+            {
+              "round": 28,
+              "menuTitle": "Mobile Plan",
+              "menuCondition": "Use The Telepads In 10 Different Positions By End Of Round",
+              "menuWordingRead": true,
+              "creatorChapterSeconds": 482,
+              "independentCreatorChapterSeconds": 512,
+              "chapterCorrespondenceChecked": true,
+              "selectedGameplayFramesInspected": true,
+              "evidence": [
+                "gallery-2024",
+                "ao-mysteryhq",
+                "ao-glitch"
+              ],
+              "runtimeStatus": "Selected footage only",
+              "additionalEvidence": [
+                "ao-counter-report"
+              ],
+              "pending": "Build-specific stalls and co-op counter behavior."
+            },
+            {
+              "round": 29,
+              "menuTitle": "Mannequin American",
+              "menuCondition": "Can Only Attack While Standing Next To Sgt. A.D.A.M.",
+              "menuWordingRead": true,
+              "creatorChapterSeconds": 529,
+              "independentCreatorChapterSeconds": 534,
+              "chapterCorrespondenceChecked": true,
+              "selectedGameplayFramesInspected": true,
+              "evidence": [
+                "gallery-2024",
+                "ao-mysteryhq",
+                "ao-glitch"
+              ],
+              "runtimeStatus": "Selected footage only"
+            },
+            {
+              "round": 30,
+              "menuTitle": "Illuminati",
+              "menuCondition": "Defend APD Control From Avogadro And An A.D.A.M. Onslaught",
+              "menuWordingRead": true,
+              "creatorChapterSeconds": 539,
+              "independentCreatorChapterSeconds": 545,
+              "chapterCorrespondenceChecked": true,
+              "selectedGameplayFramesInspected": true,
+              "evidence": [
+                "gallery-2024",
+                "ao-mysteryhq",
+                "ao-glitch"
+              ],
+              "runtimeStatus": "Selected footage only",
+              "mechanicFinding": "A.D.A.M. clear, then melee return."
+            }
+          ],
+          "evidenceUrls": [
+            "https://www.reddit.com/r/Blackops4/comments/cmtd2x/august_6th_update_operation_apocalypse_z/",
+            "https://www.reddit.com/r/Blackops4/comments/cpx1l6/august_13th_update_operation_apocalypse_z/",
+            "https://www.reddit.com/r/CODZombies/comments/1g9o1eg/all_black_ops_4_gauntlet_challenges/",
+            "https://www.reddit.com/r/CODZombies/comments/cmvdcu/duck_and_cover_alpha_omega_gauntlet_full/",
+            "https://www.reddit.com/r/CODZombies/comments/f8aluj/alpha_omega_gauntlet_step_28_use_telepads_in_10/",
+            "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "https://www.youtube.com/watch?v=9Ozd7LWMGfU",
+            "https://www.youtube.com/watch?v=GfoESfBFpo0"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo4-ancient-evil-community-ancient-evil-map-features-gauntlet-challenges",
+      "mapId": "bo4-ancient-evil",
+      "reviews": [
+        {
+          "batch": "bo4-ancient-alpha-normal-condition-pass",
+          "reportedStatus": "Targeted Normal Gauntlet supplement and source-scope comparison; other Standard mechanics not fully replayed",
+          "independentlyPlaytested": false,
+          "unresolved": [
+            "Full final-build PC parity and the menu capture's platform/build are not established.",
+            "Exact co-op spear quotas, round-11 ownership checks, timer scaling and tribute counter behavior were not fully replayed.",
+            "The exact ten-source kill itinerary for round 28 is not independently enumerated; the linked solo route shows the method and live counter.",
+            "Round-29 co-op role allocation and Gauntlet-specific retry limits are not established. Do not copy the Standard quest's full upgrade prerequisites into this mode.",
+            "The exact Gauntlet boss phase count and all vulnerability exceptions were not independently enumerated. The direct finale chapter and boss companion remain linked.",
+            "The quoted round-16 Myst is a source typo; the game menu says Must."
+          ],
+          "checkedClaims": [
+            "Scope the original source table as Normal Gauntlet, preserve its quote and link the practical checklist.",
+            "Scope the original source table as Normal Gauntlet, preserve its quote and link the practical checklist.",
+            "Scope the original source table as Normal Gauntlet, preserve its quote and link the practical checklist.",
+            "Scope the original source table as Normal Gauntlet, preserve its quote and link the practical checklist.",
+            "Scope the original source table as Normal Gauntlet, preserve its quote and link the practical checklist.",
+            "Scope the original source table as Normal Gauntlet, preserve its quote and link the practical checklist.",
+            "Scope the original source table as Normal Gauntlet, preserve its quote and link the practical checklist.",
+            "Scope the original source table as Normal Gauntlet, preserve its quote and link the practical checklist.",
+            "Scope the original source table as Normal Gauntlet, preserve its quote and link the practical checklist.",
+            "Scope the original source table as Normal Gauntlet, preserve its quote and link the practical checklist.",
+            "Scope the original source table as Normal Gauntlet, preserve its quote and link the practical checklist.",
+            "Scope the original source table as Normal Gauntlet, preserve its quote and link the practical checklist.",
+            "Scope the original source table as Normal Gauntlet, preserve its quote and link the practical checklist."
+          ],
+          "evidenceUrls": [
+            "https://blog.activision.com/au/en/call-of-duty/2019-06/Gauntlet-Spotlight-A-Guide-to-The-Labours-of-Hercules",
+            "https://blog.activision.com/pt/call-of-duty/2019-06/Ride-the-waves-and-jump-into-Call-of-Duty-Black-Ops-4-Days-of-Summer-community-event",
+            "https://www.reddit.com/r/CODZombies/comments/1g9o1eg/all_black_ops_4_gauntlet_challenges/",
+            "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "https://www.youtube.com/watch?v=iCDlnKIN8jI",
+            "https://www.youtube.com/watch?v=iyE0ODrEkyU",
+            "https://www.youtube.com/watch?v=xhNtRjVZsn8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo4-ancient-evil-labours-of-hercules-normal-30-rounds",
+      "mapId": "bo4-ancient-evil-labours-of-hercules",
+      "reviews": [
+        {
+          "batch": "bo4-ancient-alpha-normal-condition-pass",
+          "reportedStatus": "Thirty menu condition meanings compared; chapters checked and selected gameplay inspected, no independent playtest",
+          "independentlyPlaytested": false,
+          "unresolved": [
+            "Full final-build PC parity and the menu capture's platform/build are not established.",
+            "Exact co-op spear quotas, round-11 ownership checks, timer scaling and tribute counter behavior were not fully replayed.",
+            "The exact ten-source kill itinerary for round 28 is not independently enumerated; the linked solo route shows the method and live counter.",
+            "Round-29 co-op role allocation and Gauntlet-specific retry limits are not established. Do not copy the Standard quest's full upgrade prerequisites into this mode.",
+            "The exact Gauntlet boss phase count and all vulnerability exceptions were not independently enumerated. The direct finale chapter and boss companion remain linked."
+          ],
+          "stepChecks": [
+            {
+              "round": 1,
+              "menuTitle": "Quick Kills",
+              "menuCondition": "Melee Kill All Zombies within the Time Limit",
+              "menuWordingRead": true,
+              "creatorChapterSeconds": 26,
+              "independentCreatorChapterSeconds": 28,
+              "chapterCorrespondenceChecked": true,
+              "selectedGameplayFramesInspected": false,
+              "evidence": [
+                "gallery-2024",
+                "ae-mysteryhq",
+                "ae-glitch"
+              ],
+              "runtimeStatus": "No full gameplay replay"
+            },
+            {
+              "round": 2,
+              "menuTitle": "Turret Mode",
+              "menuCondition": "Players are Locked in Place. Unless They are Downed",
+              "menuWordingRead": true,
+              "creatorChapterSeconds": 37,
+              "independentCreatorChapterSeconds": 36,
+              "chapterCorrespondenceChecked": true,
+              "selectedGameplayFramesInspected": false,
+              "evidence": [
+                "gallery-2024",
+                "ae-mysteryhq",
+                "ae-glitch"
+              ],
+              "runtimeStatus": "No full gameplay replay"
+            },
+            {
+              "round": 3,
+              "menuTitle": "Sub Par",
+              "menuCondition": "Use Unpacked SMGs Only",
+              "menuWordingRead": true,
+              "creatorChapterSeconds": 48,
+              "independentCreatorChapterSeconds": 43,
+              "chapterCorrespondenceChecked": true,
+              "selectedGameplayFramesInspected": false,
+              "evidence": [
+                "gallery-2024",
+                "ae-mysteryhq",
+                "ae-glitch"
+              ],
+              "runtimeStatus": "No full gameplay replay"
+            },
+            {
+              "round": 4,
+              "menuTitle": "That's the Spear-It",
+              "menuCondition": "Get Required Number of Kills with the Apollo's Will Spear Throw",
+              "menuWordingRead": true,
+              "creatorChapterSeconds": 79,
+              "independentCreatorChapterSeconds": 65,
+              "chapterCorrespondenceChecked": true,
+              "selectedGameplayFramesInspected": false,
+              "evidence": [
+                "gallery-2024",
+                "ae-mysteryhq",
+                "ae-glitch"
+              ],
+              "runtimeStatus": "No full gameplay replay",
+              "additionalEvidence": [
+                "ae-spotlight"
+              ],
+              "supportedCoopRule": "All players need spear kills; use each live quota."
+            },
+            {
+              "round": 5,
+              "menuTitle": "Hot Day",
+              "menuCondition": "Players Take Damage if Not Standing in Water",
+              "menuWordingRead": true,
+              "creatorChapterSeconds": 99,
+              "independentCreatorChapterSeconds": 82,
+              "chapterCorrespondenceChecked": true,
+              "selectedGameplayFramesInspected": false,
+              "evidence": [
+                "gallery-2024",
+                "ae-mysteryhq",
+                "ae-glitch"
+              ],
+              "runtimeStatus": "No full gameplay replay"
+            },
+            {
+              "round": 6,
+              "menuTitle": "Dark Side",
+              "menuCondition": "End the Round in the Dark Side",
+              "menuWordingRead": true,
+              "creatorChapterSeconds": 113,
+              "independentCreatorChapterSeconds": 95,
+              "chapterCorrespondenceChecked": true,
+              "selectedGameplayFramesInspected": false,
+              "evidence": [
+                "gallery-2024",
+                "ae-mysteryhq",
+                "ae-glitch"
+              ],
+              "runtimeStatus": "No full gameplay replay"
+            },
+            {
+              "round": 7,
+              "menuTitle": "Loaded",
+              "menuCondition": "End the Round with Guns and Equipment at Full Ammo",
+              "menuWordingRead": true,
+              "creatorChapterSeconds": 136,
+              "independentCreatorChapterSeconds": 107,
+              "chapterCorrespondenceChecked": true,
+              "selectedGameplayFramesInspected": false,
+              "evidence": [
+                "gallery-2024",
+                "ae-mysteryhq",
+                "ae-glitch"
+              ],
+              "runtimeStatus": "No full gameplay replay"
+            },
+            {
+              "round": 8,
+              "menuTitle": "Double Damage",
+              "menuCondition": "Enemies Do Double Damage",
+              "menuWordingRead": true,
+              "creatorChapterSeconds": 167,
+              "independentCreatorChapterSeconds": 125,
+              "chapterCorrespondenceChecked": true,
+              "selectedGameplayFramesInspected": false,
+              "evidence": [
+                "gallery-2024",
+                "ae-mysteryhq",
+                "ae-glitch"
+              ],
+              "runtimeStatus": "No full gameplay replay"
+            },
+            {
+              "round": 9,
+              "menuTitle": "Half Speed",
+              "menuCondition": "Players' Movement Speeds are Halved. Sprinting and Sliding are Disabled",
+              "menuWordingRead": true,
+              "creatorChapterSeconds": 177,
+              "independentCreatorChapterSeconds": 137,
+              "chapterCorrespondenceChecked": true,
+              "selectedGameplayFramesInspected": false,
+              "evidence": [
+                "gallery-2024",
+                "ae-mysteryhq",
+                "ae-glitch"
+              ],
+              "runtimeStatus": "No full gameplay replay"
+            },
+            {
+              "round": 10,
+              "menuTitle": "Apollo-gy Accepted",
+              "menuCondition": "Defend the Temple of Apollo",
+              "menuWordingRead": true,
+              "creatorChapterSeconds": 196,
+              "independentCreatorChapterSeconds": 150,
+              "chapterCorrespondenceChecked": true,
+              "selectedGameplayFramesInspected": false,
+              "evidence": [
+                "gallery-2024",
+                "ae-mysteryhq",
+                "ae-glitch"
+              ],
+              "runtimeStatus": "No full gameplay replay"
+            },
+            {
+              "round": 11,
+              "menuTitle": "Handy",
+              "menuCondition": "Possess a Redeemed Hand Weapon",
+              "menuWordingRead": true,
+              "creatorChapterSeconds": 210,
+              "independentCreatorChapterSeconds": 163,
+              "chapterCorrespondenceChecked": true,
+              "selectedGameplayFramesInspected": false,
+              "evidence": [
+                "gallery-2024",
+                "ae-mysteryhq",
+                "ae-glitch"
+              ],
+              "runtimeStatus": "No full gameplay replay"
+            },
+            {
+              "round": 12,
+              "menuTitle": "Shopaholic",
+              "menuCondition": "Buy Something Every 20 Seconds",
+              "menuWordingRead": true,
+              "creatorChapterSeconds": 225,
+              "independentCreatorChapterSeconds": 181,
+              "chapterCorrespondenceChecked": true,
+              "selectedGameplayFramesInspected": false,
+              "evidence": [
+                "gallery-2024",
+                "ae-mysteryhq",
+                "ae-glitch"
+              ],
+              "runtimeStatus": "No full gameplay replay"
+            },
+            {
+              "round": 13,
+              "menuTitle": "Cat-aclysm",
+              "menuCondition": "Survive a Catalyst Onslaught",
+              "menuWordingRead": true,
+              "creatorChapterSeconds": 244,
+              "independentCreatorChapterSeconds": 193,
+              "chapterCorrespondenceChecked": true,
+              "selectedGameplayFramesInspected": false,
+              "evidence": [
+                "gallery-2024",
+                "ae-mysteryhq",
+                "ae-glitch"
+              ],
+              "runtimeStatus": "No full gameplay replay"
+            },
+            {
+              "round": 14,
+              "menuTitle": "Assault on the Senses",
+              "menuCondition": "Use Unpacked Assault Rifles Only",
+              "menuWordingRead": true,
+              "creatorChapterSeconds": 255,
+              "independentCreatorChapterSeconds": 207,
+              "chapterCorrespondenceChecked": true,
+              "selectedGameplayFramesInspected": false,
+              "evidence": [
+                "gallery-2024",
+                "ae-mysteryhq",
+                "ae-glitch"
+              ],
+              "runtimeStatus": "No full gameplay replay"
+            },
+            {
+              "round": 15,
+              "menuTitle": "The Big Show",
+              "menuCondition": "Defend the Amphitheater",
+              "menuWordingRead": true,
+              "creatorChapterSeconds": 264,
+              "independentCreatorChapterSeconds": 222,
+              "chapterCorrespondenceChecked": true,
+              "selectedGameplayFramesInspected": false,
+              "evidence": [
+                "gallery-2024",
+                "ae-mysteryhq",
+                "ae-glitch"
+              ],
+              "runtimeStatus": "No full gameplay replay"
+            },
+            {
+              "round": 16,
+              "menuTitle": "Tribute",
+              "menuCondition": "Each Player Must Earn an Epic Tribute Reward. Current Tribute Level is Reset",
+              "menuWordingRead": true,
+              "creatorChapterSeconds": 276,
+              "independentCreatorChapterSeconds": 230,
+              "chapterCorrespondenceChecked": true,
+              "selectedGameplayFramesInspected": false,
+              "evidence": [
+                "gallery-2024",
+                "ae-mysteryhq",
+                "ae-glitch"
+              ],
+              "runtimeStatus": "No full gameplay replay",
+              "sourceCorrection": "Must, not the wiki typo Myst."
+            },
+            {
+              "round": 17,
+              "menuTitle": "Spartoi Scramble",
+              "menuCondition": "Defeat a Wave of Spartoi - No Headshot Kills Allowed",
+              "menuWordingRead": true,
+              "creatorChapterSeconds": 292,
+              "independentCreatorChapterSeconds": 247,
+              "chapterCorrespondenceChecked": true,
+              "selectedGameplayFramesInspected": false,
+              "evidence": [
+                "gallery-2024",
+                "ae-mysteryhq",
+                "ae-glitch"
+              ],
+              "runtimeStatus": "No full gameplay replay"
+            },
+            {
+              "round": 18,
+              "menuTitle": "Oracle's Boon",
+              "menuCondition": "Only Weapons from Temple of Apollo Can Be Used. All Purchases Except Fast Travel are Disabled",
+              "menuWordingRead": true,
+              "creatorChapterSeconds": 303,
+              "independentCreatorChapterSeconds": 260,
+              "chapterCorrespondenceChecked": true,
+              "selectedGameplayFramesInspected": true,
+              "evidence": [
+                "gallery-2024",
+                "ae-mysteryhq",
+                "ae-glitch"
+              ],
+              "runtimeStatus": "Selected footage only",
+              "mechanicFinding": "Random Temple pickups."
+            },
+            {
+              "round": 19,
+              "menuTitle": "Stop Drop and Roll",
+              "menuCondition": "Go Prone to Stop Random Damage",
+              "menuWordingRead": true,
+              "creatorChapterSeconds": 313,
+              "independentCreatorChapterSeconds": 275,
+              "chapterCorrespondenceChecked": true,
+              "selectedGameplayFramesInspected": false,
+              "evidence": [
+                "gallery-2024",
+                "ae-mysteryhq",
+                "ae-glitch"
+              ],
+              "runtimeStatus": "No full gameplay replay"
+            },
+            {
+              "round": 20,
+              "menuTitle": "Worldly",
+              "menuCondition": "Defend the Center of the World",
+              "menuWordingRead": true,
+              "creatorChapterSeconds": 322,
+              "independentCreatorChapterSeconds": 285,
+              "chapterCorrespondenceChecked": true,
+              "selectedGameplayFramesInspected": false,
+              "evidence": [
+                "gallery-2024",
+                "ae-mysteryhq",
+                "ae-glitch"
+              ],
+              "runtimeStatus": "No full gameplay replay"
+            },
+            {
+              "round": 21,
+              "menuTitle": "Blindsided",
+              "menuCondition": "Players are Randomly Blinded",
+              "menuWordingRead": true,
+              "creatorChapterSeconds": 334,
+              "independentCreatorChapterSeconds": 295,
+              "chapterCorrespondenceChecked": true,
+              "selectedGameplayFramesInspected": false,
+              "evidence": [
+                "gallery-2024",
+                "ae-mysteryhq",
+                "ae-glitch"
+              ],
+              "runtimeStatus": "No full gameplay replay"
+            },
+            {
+              "round": 22,
+              "menuTitle": "Make It Rain",
+              "menuCondition": "Take Damage if You Have Over 5000 Points",
+              "menuWordingRead": true,
+              "creatorChapterSeconds": 350,
+              "independentCreatorChapterSeconds": 313,
+              "chapterCorrespondenceChecked": true,
+              "selectedGameplayFramesInspected": false,
+              "evidence": [
+                "gallery-2024",
+                "ae-mysteryhq",
+                "ae-glitch"
+              ],
+              "runtimeStatus": "No full gameplay replay"
+            },
+            {
+              "round": 23,
+              "menuTitle": "Trial of the Gods",
+              "menuCondition": "Survive the Round",
+              "menuWordingRead": true,
+              "creatorChapterSeconds": 362,
+              "independentCreatorChapterSeconds": 324,
+              "chapterCorrespondenceChecked": true,
+              "selectedGameplayFramesInspected": false,
+              "evidence": [
+                "gallery-2024",
+                "ae-mysteryhq",
+                "ae-glitch"
+              ],
+              "runtimeStatus": "No full gameplay replay"
+            },
+            {
+              "round": 24,
+              "menuTitle": "Run Away! Run Away!",
+              "menuCondition": "Kill All Zombies within the Time Limit. Zombies Will Run Away From Players",
+              "menuWordingRead": true,
+              "creatorChapterSeconds": 378,
+              "independentCreatorChapterSeconds": 333,
+              "chapterCorrespondenceChecked": true,
+              "selectedGameplayFramesInspected": false,
+              "evidence": [
+                "gallery-2024",
+                "ae-mysteryhq",
+                "ae-glitch"
+              ],
+              "runtimeStatus": "No full gameplay replay"
+            },
+            {
+              "round": 25,
+              "menuTitle": "Stoa-ic",
+              "menuCondition": "Defend the Stoa of the Athenians",
+              "menuWordingRead": true,
+              "creatorChapterSeconds": 401,
+              "independentCreatorChapterSeconds": 361,
+              "chapterCorrespondenceChecked": true,
+              "selectedGameplayFramesInspected": false,
+              "evidence": [
+                "gallery-2024",
+                "ae-mysteryhq",
+                "ae-glitch"
+              ],
+              "runtimeStatus": "No full gameplay replay"
+            },
+            {
+              "round": 26,
+              "menuTitle": "Shots! Shots! Shots!",
+              "menuCondition": "Weapon Fire Drains Points",
+              "menuWordingRead": true,
+              "creatorChapterSeconds": 411,
+              "independentCreatorChapterSeconds": 370,
+              "chapterCorrespondenceChecked": true,
+              "selectedGameplayFramesInspected": false,
+              "evidence": [
+                "gallery-2024",
+                "ae-mysteryhq",
+                "ae-glitch"
+              ],
+              "runtimeStatus": "No full gameplay replay"
+            },
+            {
+              "round": 27,
+              "menuTitle": "Keep It Light",
+              "menuCondition": "Use Unpacked LMG's Only",
+              "menuWordingRead": true,
+              "creatorChapterSeconds": 422,
+              "independentCreatorChapterSeconds": 383,
+              "chapterCorrespondenceChecked": true,
+              "selectedGameplayFramesInspected": false,
+              "evidence": [
+                "gallery-2024",
+                "ae-mysteryhq",
+                "ae-glitch"
+              ],
+              "runtimeStatus": "No full gameplay replay"
+            },
+            {
+              "round": 28,
+              "menuTitle": "Farewell to Arms",
+              "menuCondition": "Kill Zombies with 10 Different Weapons or Equipment",
+              "menuWordingRead": true,
+              "creatorChapterSeconds": 448,
+              "independentCreatorChapterSeconds": 395,
+              "chapterCorrespondenceChecked": true,
+              "selectedGameplayFramesInspected": true,
+              "evidence": [
+                "gallery-2024",
+                "ae-mysteryhq",
+                "ae-glitch"
+              ],
+              "runtimeStatus": "Selected footage only",
+              "pending": "Full itinerary, co-op or phase details: see guide sourceOmissions."
+            },
+            {
+              "round": 29,
+              "menuTitle": "Dinner and a Play",
+              "menuCondition": "Go to the Amphitheater with a Redeemed or Exalted Hand and Act in the Play",
+              "menuWordingRead": true,
+              "creatorChapterSeconds": 482,
+              "independentCreatorChapterSeconds": 414,
+              "chapterCorrespondenceChecked": true,
+              "selectedGameplayFramesInspected": true,
+              "evidence": [
+                "gallery-2024",
+                "ae-mysteryhq",
+                "ae-glitch"
+              ],
+              "runtimeStatus": "Selected footage only",
+              "pending": "Full itinerary, co-op or phase details: see guide sourceOmissions."
+            },
+            {
+              "round": 30,
+              "menuTitle": "Hot Perse-uit",
+              "menuCondition": "Defeat Perseus",
+              "menuWordingRead": true,
+              "creatorChapterSeconds": 503,
+              "independentCreatorChapterSeconds": 434,
+              "chapterCorrespondenceChecked": true,
+              "selectedGameplayFramesInspected": true,
+              "evidence": [
+                "gallery-2024",
+                "ae-mysteryhq",
+                "ae-glitch"
+              ],
+              "runtimeStatus": "Selected footage only",
+              "pending": "Full itinerary, co-op or phase details: see guide sourceOmissions."
+            }
+          ],
+          "evidenceUrls": [
+            "https://blog.activision.com/au/en/call-of-duty/2019-06/Gauntlet-Spotlight-A-Guide-to-The-Labours-of-Hercules",
+            "https://blog.activision.com/pt/call-of-duty/2019-06/Ride-the-waves-and-jump-into-Call-of-Duty-Black-Ops-4-Days-of-Summer-community-event",
+            "https://www.reddit.com/r/CODZombies/comments/1g9o1eg/all_black_ops_4_gauntlet_challenges/",
+            "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "https://www.youtube.com/watch?v=iCDlnKIN8jI",
+            "https://www.youtube.com/watch?v=iyE0ODrEkyU",
+            "https://www.youtube.com/watch?v=xhNtRjVZsn8"
           ]
         }
       ]
@@ -12575,6 +13744,32 @@
       ]
     },
     {
+      "id": "bo6-reckoning-basketball-crystal",
+      "mapId": "bo6-reckoning",
+      "reviews": [
+        {
+          "batch": "bo6-reckoning-basketball-footage-pass",
+          "reportedStatus": "Primary video transcript compared and selected gameplay frames inspected; not independently playtested",
+          "independentlyPlaytested": false,
+          "unresolved": [
+            "No independent game run or fixed reward-tier test.",
+            "No complete recovery, repeatability, Directed or co-op ownership test."
+          ],
+          "imageReview": "Three gameplay frames visually inspected. Browser/player chrome removed with a mechanical crop; game pixels and creator watermark retained. No image generation or scene alteration.",
+          "checkedClaims": [
+            "The creator identifies a ceiling ball in the Pack-a-Punch chamber and warns that shooting outside low gravity can leave it stuck.",
+            "The recorded ball is moved into a low zombie opening at the top of a short staircase, in a white wall with a blue stripe below yellow railing.",
+            "At roughly 1:10 the player shoots into the opening; the recorded crystal then appears. The transcript abbreviates this final shooting action, so the image sequence was inspected frame by frame.",
+            "The public video date is February 19, 2026. The video description tags mention BO7, but its rendered game group, title context and footage identify BO6 Reckoning."
+          ],
+          "evidenceUrls": [
+            "https://www.codzombieguides.com/reckoning",
+            "https://www.youtube.com/watch?v=Nj_tIgd_3LM"
+          ]
+        }
+      ]
+    },
+    {
       "id": "bo6-reckoning-community-reckoning-key-features-gorgofex",
       "mapId": "bo6-reckoning",
       "reviews": [
@@ -18676,20 +19871,17 @@
     "bo4-alpha-omega-community-alpha-omega-map-features-mystery-box-locations",
     "bo4-alpha-omega-community-alpha-omega-map-features-pack-a-punch",
     "bo4-alpha-omega-community-alpha-omega-map-features-power",
-    "bo4-alpha-omega-community-alpha-omega-map-features-ray-gun-mark-ii-frame",
     "bo4-alpha-omega-community-alpha-omega-map-features-ray-gun-mark-ii-v",
     "bo4-alpha-omega-community-alpha-omega-map-features-ray-gun-mark-ii-x",
     "bo4-alpha-omega-community-alpha-omega-map-features-ray-gun-mark-ii-y",
     "bo4-alpha-omega-community-alpha-omega-map-features-ray-gun-mark-ii-z",
     "bo4-alpha-omega-community-alpha-omega-map-features-riot-shield",
     "bo4-alpha-omega-community-alpha-omega-map-features-sergeant-a-d-a-m",
-    "bo4-alpha-omega-community-alpha-omega-map-features-telepads",
     "bo4-alpha-omega-community-alpha-omega-map-features-traps",
     "bo4-ancient-evil-community-ancient-evil-easter-eggs-quests-main-quest",
     "bo4-ancient-evil-community-ancient-evil-easter-eggs-quests-stormbound-music-easter-egg",
     "bo4-ancient-evil-community-ancient-evil-map-features-apollo-s-will-shield",
     "bo4-ancient-evil-community-ancient-evil-map-features-fast-travel",
-    "bo4-ancient-evil-community-ancient-evil-map-features-gauntlet-challenges",
     "bo4-ancient-evil-community-ancient-evil-map-features-god-hand-wonder-weapons",
     "bo4-ancient-evil-community-ancient-evil-map-features-hand-of-charon",
     "bo4-ancient-evil-community-ancient-evil-map-features-hand-of-gaia",
@@ -20055,9 +21247,10 @@
     },
     {
       "mapIds": [
-        "bo4-ancient-evil"
+        "bo4-ancient-evil",
+        "bo4-ancient-evil-labours-of-hercules"
       ],
-      "note": "Labours of Hercules (Normal) is confirmed released by publisher evidence. A complete practical round-by-round audit is still pending; source tables, where available, are not gameplay verification."
+      "note": "Labours of Hercules (Normal) now has thirty menu conditions, exact creator chapters, setup companions and a player-posted 2024 menu image. Complete gameplay replay, platform parity and co-op/retry behavior remain pending."
     },
     {
       "mapIds": [
@@ -20067,9 +21260,10 @@
     },
     {
       "mapIds": [
-        "bo4-alpha-omega"
+        "bo4-alpha-omega",
+        "bo4-alpha-omega-duck-and-cover"
       ],
-      "note": "Duck and Cover (Normal) is confirmed released by publisher evidence. A complete practical round-by-round audit is still pending; source tables, where available, are not gameplay verification."
+      "note": "Duck and Cover (Normal) now has thirty menu conditions, exact creator chapters, setup companions and a player-posted 2024 menu image. Complete gameplay replay, platform parity and co-op/retry behavior remain pending."
     },
     {
       "mapIds": [
@@ -20205,7 +21399,7 @@
       "mapIds": [
         "bo6-reckoning"
       ],
-      "note": "Basketball crystal route: Fandom describes a ceiling ball shot during low gravity, kicking it into the GobbleGum-side barrier at the first stairs, then shooting it inside for a crystal. JokerAlex21 indexes a ZoneX video. The accessible primary index does not expose those mechanics; crystal tier, reset and failure conditions remain uncorroborated."
+      "note": "Basketball crystal route now has a three-step guide, three original ZoneX footage stills and direct chapter references. Low-gravity release and shooting the ball inside the stairway opening were inspected in the February 19, 2026 demonstration. Fixed crystal tier, repeatability, Directed support, co-op allocation and reliable recovery from a stuck ball remain unchecked."
     },
     {
       "mapIds": [
@@ -20243,7 +21437,7 @@
       "mapIds": [
         "bo1-call-of-the-dead"
       ],
-      "note": "Remaining three story-radio close-ups: The five-recording inventory is documented, but exact readable BO1 close-ups for the PM63 flooded-walkway radio, Double Tap radio and Speed Cola water-rock radio were not obtained. Lighthouse floor trigger has firsthand prose but no selected close-up. Do not publish “near Double Tap” as a completed full walkthrough."
+      "note": "All five story-radio locations now have individual written routes. Original BO1 stills show Stamin-Up, the lighthouse, Double Tap and the final water rock. The flooded PM63 radio still needs a clear object close-up and the complete route has not been independently played through. These five recordings are separate from the four co-op quest devices."
     },
     {
       "mapIds": [
@@ -20334,27 +21528,41 @@
         "bo1-call-of-the-dead"
       ],
       "note": "All fourteen existing BO1 cards and forty-three original steps were source-compared. Routes now distinguish Solo/co-op, four quest radios from five story recordings, photographed generators/vodka/horns, the Flinger and three Pack-a-Punch sites. Fifty-one selected photos were inspected. Gameplay, timers and complete map coverage are not certified."
+    },
+    {
+      "mapIds": [
+        "bo4-ancient-evil",
+        "bo4-ancient-evil-labours-of-hercules"
+      ],
+      "note": "Labours of Hercules still needs a fully enumerated ten-source kill itinerary for round 28, co-op roles for the Hand play and Gauntlet-specific boss phase/vulnerability details. The linked selected solo footage is not a full lobby-size test."
+    },
+    {
+      "mapIds": [
+        "bo4-alpha-omega",
+        "bo4-alpha-omega-duck-and-cover"
+      ],
+      "note": "Duck and Cover still needs a complete mannequin-head coordinate inventory, all Telepad counter/retry cases and trap-hit behavior checks. Firsthand reports disagree about trap strikes and describe a stalled Telepad counter; the live HUD takes priority."
     }
   ],
   "dataSha256": {
-    "catalog.json": "6376e6d254571e737c566fa784d5672d92fc3473036cb9b40f3aba8f2fd3fc0e",
-    "community-corrections.json": "08ac1d600c535bd690a58bc49436a72dd33f657a53b0116c7aaebc8f984c196c",
-    "coverage-gaps.json": "b4c9d526dc289904a98bde6c3e02f6480889976505067e40be0860ac9c9e5238",
+    "catalog.json": "e50a0ee6faa8d009c58911abca089bae795ac2da92b1bea43cf3055e6576d824",
+    "community-corrections.json": "d55ed3accd8795db234a5d9c28ce2ada505d13a6a2cbb24907d10390685c4e04",
+    "coverage-gaps.json": "18c8d1bf439834f92fd19e46ccf519fb727d6f4f5b5cbb7a4bc32a2119499237",
     "guides-aw.json": "b5a7e5fb7d83e776452f77060d0714c13f63ae8eeb6e367272c0d00a38cc3855",
     "guides-classic.json": "c59d25c9f138e6e0ddbd3c0b980d815078a6bf7720e3b90e6bda5400f945ea28",
-    "guides-community.json": "2f1d725656eeb51003bd78b9c5da7b1c2960d8c32d772f94324466612e2ce116",
+    "guides-community.json": "a5e860ae02f73ab0fe5bbeea25da989a1d9c221402a12cc4e562d3adc2760b95",
     "guides-completion-classic.json": "a125c546de5506b53fd4cd40222e6c371b2b32d7f997634330c19dd93314c90d",
     "guides-completion-modern.json": "e9f90a39306590f5da5eafe6b1652f46e21cc853b74f9ec33793bee8359a7a66",
     "guides-completion-modes.json": "d57e40c6916f8e70df31b93edca79bdf286d03dfff8b4e2f478371456a384740",
     "guides-extra.json": "29dac3f41adaaa4d033e3bad1af7814fd5e48f3245eaa7bd4a7cc150a937362c",
-    "guides-goal-classic.json": "66531d164c4845a299cb07a2cdc8280d99c574a9684595e56b23536926a6ed13",
-    "guides-goal-modern.json": "c40ba97a29cb92919bd6f5ded9efae524c16bf67b85b28a6125be392c6ee4d45",
-    "guides-goal-modes.json": "8d09bbf59367f23408964b4e5df288d289550db88fc1ccda780f6eb7f507c0b1",
+    "guides-goal-classic.json": "aa0a0b1a53775c6cd712b508d0517684e50698cf903324c29a4fac0fc85b66e2",
+    "guides-goal-modern.json": "53f5b8063b053daf4ec4abf63432ed4c499c0c7604ef294e46e82e13b10f2dee",
+    "guides-goal-modes.json": "b654adefaebcf55af8322914e20e6e0681ad9f58b2e23cb7b2fbb7716fcfcab2",
     "guides-goal-root.json": "ce5936de75d1dd7729fbfa4f7b055fc918d7af53a76286ece87d31305f5cc0eb",
     "guides-modern.json": "d3dcbf8814e1ebb6bd1d88392cbc1b11de1ac2610ceda3796abc8bae4b682141",
     "guides-super-ee-doa4.json": "469978db1d527b95e6b226cc71c90a5cb2dce40fb23ed1d1449374efada86833",
     "media-completion.json": "58882d44af4bbe2e09648819c06547084fc33caf994cace9122d512163c22366",
-    "media.json": "650400e8a2747903c00681c2718c6711949b40e2e87d545c77bd486f795650cd",
+    "media.json": "349249428cf9e63960771111376c4ed46d409a9a86f2743ebe2ed7db03d07a24",
     "reddit-sources.json": "fd7f1c5e946d258d708cc7355e5826a2a8fc02ef9ce071c9e40a4bced6de646a",
     "references.json": "46d625f7926fc128fa2db360ec9492469b8dda8116ab9fc8458a4873d97a94c8",
     "source-gaps.json": "d80d077a01dffbaa84d58d239d2f2a48c3fe7cf441410ac539a252b9ec31d72b"
@@ -20391,7 +21599,12 @@
       "Reckoning twenty-five-step intel menu, last-postcard jump and three loaded location photos",
       "Reckoning boss alternatives and optional hardcore explanation at 492px",
       "Call of the Dead thirty-two-step co-op route, cargo-radio photo, focus and narrow layout",
-      "Shangri-La controller-secret tile still, direct video reference and original-game label"
+      "Shangri-La controller-secret tile still, direct video reference and original-game label",
+      "Call of the Dead five-radio card, final-location photo, five checkboxes and focus after jump at 507px",
+      "Reckoning basketball three-step menu, final-step focus, loaded crystal photo and three direct timestamp links at 507px",
+      "Duck and Cover thirty-round menu, thirty video/step references, final Telepad itinerary and focus after jump at 507px",
+      "Labours of Hercules thirty-round menu, loaded single menu image, random Temple pickups and round-18 video chapter at 507px",
+      "Call of the Dead lighthouse and Double Tap story-radio photos load at their individual step jumps"
     ]
   }
 }
