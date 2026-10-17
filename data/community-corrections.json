@@ -2597,7 +2597,8 @@
           "bo1-der-riese-community-der-riese-map-walkthrough-power",
           "bo1-der-riese-community-der-riese-easter-eggs-main-easter-egg",
           "bo1-der-riese-community-der-riese-special-weapons-wunderwaffe-dg-2-upgrade",
-          "bo1-der-riese-ray-gun-upgrade"
+          "bo1-der-riese-ray-gun-upgrade",
+          "bo1-der-riese-ordinary-pack-a-punch-inventory"
         ],
         "checked": "2026-10-16",
         "sharedSource": false,
@@ -10047,7 +10048,8 @@
         ],
         "relatedGuideIds": [
           "bo1-kino-der-toten-community-kino-der-toten-map-walkthrough-power",
-          "bo1-kino-der-toten-film-reels"
+          "bo1-kino-der-toten-film-reels",
+          "bo1-kino-der-toten-ordinary-pack-a-punch-inventory"
         ],
         "sharedSource": false,
         "sourceQuote": null,
@@ -10690,7 +10692,8 @@
         ],
         "relatedGuideIds": [
           "bo1-five-community-five-map-walkthrough-power",
-          "bo1-five-community-five-map-walkthrough-pentagon-thief"
+          "bo1-five-community-five-map-walkthrough-pentagon-thief",
+          "bo1-five-ordinary-pack-a-punch-inventory"
         ],
         "sharedSource": false,
         "sourceQuote": null,
@@ -11213,7 +11216,8 @@
           "bo1-ascension-community-ascension-map-walkthrough-power",
           "bo1-ascension-community-ascension-easter-eggs-rocket-power-up",
           "bo1-ascension-utility-upgrades",
-          "bo1-ascension-casimir-mechanism"
+          "bo1-ascension-casimir-mechanism",
+          "bo1-ascension-ordinary-pack-a-punch-inventory"
         ],
         "checked": "2026-10-16",
         "sourceQuote": null,
@@ -17752,7 +17756,8 @@
         "relatedGuideIds": [
           "bo1-moon-hacker-locations-and-uses",
           "bo1-moon-richtofens-grand-scheme",
-          "bo1-moon-rescue-and-explosive-upgrades"
+          "bo1-moon-rescue-and-explosive-upgrades",
+          "bo1-moon-ordinary-pack-a-punch-inventory"
         ],
         "checked": "2026-10-16",
         "sharedSource": false,
@@ -18257,5 +18262,1298 @@
         "tip": "Use the related Unsinkable (Hard) 30-round checklist for individual checkboxes. Round 15 penalizes walking, running and sprinting. Round 30 means defend Grand Staircase with reversed controls; friendly fire hurts both shooter and target. The Normal checklist does not include these restrictions."
       }
     ]
+  },
+  "die-rise-special-weapons-sliquifier": {
+    "mapOverrides": {
+      "bo2-die-rise": {
+        "title": "Sliquifier: all four parts and upgrade limit",
+        "difficulty": "Easy",
+        "players": "Solo or co-op",
+        "summary": "Photographed part identities, both variable checks, workbench route and the original BO2 upgrade limit.",
+        "requirements": [
+          "Access to the two floors around the dragon-building power room",
+          "Choose which held gun to replace if your weapon slots are full"
+        ],
+        "reward": "The base Sliquifier wonder weapon; no Pack-a-Punch upgrade in original BO2.",
+        "steps": [
+          {
+            "title": "Reach the workbench below power",
+            "body": "The Sliquifier requires four parts. Use the bench one floor below the power-switch room in the dragon building. Search that floor and the power floor above it, carrying and adding one part at a time.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/die-rise/"
+          },
+          {
+            "title": "Mannequin foot: beside the television",
+            "body": "At the top of the stairs between the two floors, find the dark mannequin foot/body piece beside the television and couch area. It has one documented fixed location.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/die-rise/",
+            "images": [
+              {
+                "src": "./assets/die-rise-sliquifier-back.webp",
+                "alt": "Dark mannequin foot-shaped Sliquifier body piece.",
+                "caption": "Mannequin foot/body piece. The source gallery calls this the “Back”.",
+                "source": "https://www.codzombieguides.com/die-rise",
+                "credit": "JokerAlex 21 / Activision — original BO2"
+              }
+            ]
+          },
+          {
+            "title": "Canister: green cage or power-room table",
+            "body": "Look in the green cage beside the Sliquifier workbench. If empty, check the table near the power switch on the floor above. Take the red bottle and add it at the bench.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/die-rise/",
+            "images": [
+              {
+                "src": "./assets/die-rise-sliquifier-bottle.webp",
+                "alt": "Red canister on a work table.",
+                "caption": "Canister on its power-floor table check.",
+                "source": "https://www.codzombieguides.com/die-rise",
+                "credit": "JokerAlex 21 / Activision — original BO2"
+              }
+            ]
+          },
+          {
+            "title": "Trigger handle: sewing table or fridge counter",
+            "body": "Check the table near the power-room elevator, then the counter by the fridge near the lower-floor workbench. The part is a black handbrake/handle assembly.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/die-rise/",
+            "images": [
+              {
+                "src": "./assets/die-rise-sliquifier-handle.webp",
+                "alt": "Black handbrake trigger on a pale table.",
+                "caption": "The small black trigger handle.",
+                "source": "https://www.codzombieguides.com/die-rise",
+                "credit": "JokerAlex 21 / Activision — original BO2"
+              }
+            ]
+          },
+          {
+            "title": "Gauge and discs: fridge or barrel",
+            "body": "Check on the fridge near the workbench and on the barrel beside the debris doorway at the bottom of the stairs. This round gauge/disc assembly is the part older guides call “wires and discs”. Add it to finish the build.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/die-rise/",
+            "images": [
+              {
+                "src": "./assets/die-rise-sliquifier-gage.webp",
+                "alt": "Circular blue-faced gauge assembly.",
+                "caption": "Round gauge/disc part; check both possible positions.",
+                "source": "https://www.codzombieguides.com/die-rise",
+                "credit": "JokerAlex 21 / Activision — original BO2"
+              }
+            ],
+            "tip": "The creator’s chaptered video shows both gauge checks at 1:14 and 1:27."
+          },
+          {
+            "title": "Take the weapon and use its chain reaction",
+            "body": "Take the finished Sliquifier into a weapon slot. Fire at a tightly gathered train: infected zombies can pass the effect through the group. Its purple puddles also make surfaces slippery, so keep shots away from narrow rooftop approaches and teammates’ landing spots.",
+            "original": true,
+            "researchSource": "https://www.youtube.com/watch?v=naN9B3UF2YE&t=106s"
+          },
+          {
+            "title": "Upgrade limit and replacing a lost weapon",
+            "body": "The original BO2 Sliquifier cannot be Pack-a-Punched and has no normal upgrade quest. The bench supplies the initial weapon. If it is traded away or lost, it can subsequently be rolled from the Mystery Box; do not expect the bench to hand out a fresh copy to everyone. Do not use a BO3 custom-remaster upgrade route for original BO2.",
+            "original": true,
+            "researchSource": "https://www.callofdutyzombies.com/topic/153512-backstory-for-sliquifier/",
+            "tip": "Richtofen’s quest uses this base weapon on the two lion spheres. Keep enough ammunition for both spheres before experimenting."
+          }
+        ],
+        "sources": [
+          {
+            "title": "r/CODZombies — original Die Rise part checks",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/die-rise/"
+          },
+          {
+            "title": "JokerAlex 21 — chaptered original-BO2 Sliquifier walkthrough",
+            "url": "https://www.youtube.com/watch?v=naN9B3UF2YE"
+          },
+          {
+            "title": "YourHowToGame — 2013 original Sliquifier part demonstration",
+            "url": "https://www.youtube.com/watch?v=cN4t2cSKHH4"
+          },
+          {
+            "title": "Original 2013 players — lost Sliquifier enters the Box",
+            "url": "https://www.callofdutyzombies.com/topic/153512-backstory-for-sliquifier/"
+          }
+        ],
+        "relatedGuideIds": [
+          "bo2-die-rise-power-pap-elevators",
+          "bo2-die-rise-high-maintenance-richtofen"
+        ],
+        "checked": "2026-10-16",
+        "sourceQuote": null
+      }
+    }
+  },
+  "die-rise-buildables-trample-steam": {
+    "mapOverrides": {
+      "bo2-die-rise": {
+        "title": "Trample Steam: four parts, workbench and use",
+        "difficulty": "Easy",
+        "players": "Solo or co-op",
+        "summary": "All eight spawn/lobby checks, how to build the device and how to avoid breaking quest ownership.",
+        "requirements": [
+          "Open the spawn double doors for alternate part checks",
+          "Access to the lower spawn-building workbench near B23R",
+          "Power is useful for the return elevator trips"
+        ],
+        "reward": "A deployable launcher for players and zombies; replace destroyed devices at its bench.",
+        "steps": [
+          {
+            "title": "Find the four part types",
+            "body": "Build one Trample Steam from a motor, bellows, wire frame and flag. Search spawn and the lobby through its double doors. Carry one part at a time and add it to the workbench two floors below spawn, near the B23R. Finish the four trips before taking a device.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/die-rise/"
+          },
+          {
+            "title": "Wire frame: beside the spawn doors",
+            "body": "Look for the rectangular chicken-wire panel to the left of the double doors in spawn. If absent, open those doors and check the left wall of the adjoining lobby.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/die-rise/",
+            "images": [
+              {
+                "src": "./assets/die-rise-trample-steam-cage.webp",
+                "alt": "Rectangular mesh frame leaning beside the wall.",
+                "caption": "Wire frame: one of its two spawn/lobby checks.",
+                "source": "https://www.codzombieguides.com/die-rise",
+                "credit": "JokerAlex 21 / Activision — original BO2"
+              }
+            ]
+          },
+          {
+            "title": "Motor: desk or collapsed stairs",
+            "body": "Check the large lobby desk in spawn, then the corner beside the collapsed staircase in the adjoining lobby. The motor looks like two small metal cylinders mounted together.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/die-rise/",
+            "images": [
+              {
+                "src": "./assets/die-rise-trample-steam-power-supply.webp",
+                "alt": "Twin-cylinder motor on the desk.",
+                "caption": "Motor on the spawn-room desk.",
+                "source": "https://www.codzombieguides.com/die-rise",
+                "credit": "JokerAlex 21 / Activision — original BO2"
+              }
+            ]
+          },
+          {
+            "title": "Bellows: stairs or right wall",
+            "body": "Check on the staircase in spawn. Its alternative is against the right-hand wall after passing through the double doors. Look for the oval wooden bellows with a gold design.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/die-rise/",
+            "images": [
+              {
+                "src": "./assets/die-rise-trample-steam-pump.webp",
+                "alt": "Wooden oval bellows among debris.",
+                "caption": "Bellows: recognise the wooden, decorated part.",
+                "source": "https://www.codzombieguides.com/die-rise",
+                "credit": "JokerAlex 21 / Activision — original BO2"
+              }
+            ]
+          },
+          {
+            "title": "Flag: broken chair or railing",
+            "body": "Look by the broken chair at the bottom/right side of the spawn stairs. Its other position is against the railing to the right after the spawn double doors.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/die-rise/",
+            "images": [
+              {
+                "src": "./assets/die-rise-trample-steam-flag.webp",
+                "alt": "Flag assembly beside a broken chair and lobby railing.",
+                "caption": "Flag beside the lobby railing.",
+                "source": "https://www.codzombieguides.com/die-rise",
+                "credit": "JokerAlex 21 / Activision — original BO2"
+              }
+            ]
+          },
+          {
+            "title": "Add each part at the B23R workbench",
+            "body": "Use the bench in the lower floor of the starting skyscraper beside the B23R wall gun. With power on, the Quick Revive elevator provides a return route between this area and spawn. Add your carried part, go back for the next, and repeat until the take-device prompt appears.",
+            "original": true,
+            "researchSource": "https://www.youtube.com/watch?v=uA3QJkHyIBY&t=27s"
+          },
+          {
+            "title": "Deploy, replace and preserve ownership",
+            "body": "Take a completed Steam and deploy it facing the destination you want to launch toward. Let it finish priming before stepping on it. Keep a clear landing area; a bad angle can throw you off the map. Zombies can also trigger it, and a destroyed device must be replaced at the bench. For either High Maintenance branch, each player must collect and place their own Steam.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/g5p307/",
+            "tip": "For the quest, do not pick up a teammate’s Steam. If you already exchanged devices, destroy both affected Steams and have each owner collect a fresh one."
+          }
+        ],
+        "sources": [
+          {
+            "title": "r/CODZombies — eight original Die Rise part checks",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/die-rise/"
+          },
+          {
+            "title": "JokerAlex 21 — Trample Steam build and use demonstration",
+            "url": "https://www.youtube.com/watch?v=uA3QJkHyIBY"
+          },
+          {
+            "title": "Hadi77KSA — Trample Steam ownership and quest rules",
+            "url": "https://www.reddit.com/r/CODZombies/comments/g5p307/"
+          }
+        ],
+        "relatedGuideIds": [
+          "bo2-die-rise-power-pap-elevators",
+          "bo2-die-rise-high-maintenance-maxis",
+          "bo2-die-rise-high-maintenance-richtofen",
+          "bo2-die-rise-jumping-jack-free-perk"
+        ],
+        "checked": "2026-10-16",
+        "sourceQuote": null
+      }
+    }
+  },
+  "die-rise-easter-eggs-main-easter-egg": {
+    "mapOverrides": {
+      "bo2-die-rise": {
+        "title": "High Maintenance: choose a branch and check the lobby",
+        "difficulty": "Hard",
+        "players": "4 required",
+        "summary": "Choose the complete Maxis or Richtofen walkthrough and resolve saved-completion conflicts before starting.",
+        "requirements": [
+          "Original BO2 Die Rise, Normal difficulty and four players",
+          "Use the selected branch’s complete equipment checklist"
+        ],
+        "reward": "High Maintenance achievement and orange Maxis or blue Richtofen tower progress, with six non-permanent perks.",
+        "steps": [
+          {
+            "title": "Choose Maxis or Richtofen",
+            "body": "Open the related High Maintenance — Maxis or High Maintenance — Richtofen walkthrough for the full ordered quest. Maxis uses a ground-floor Buddha sacrifice, upgraded Ballistic Knife and paired lion-symbol Steams. Richtofen uses the Sliquifier on the spheres and four zombie-symbol Steams. Both finish with the Mahjong tower order. Do not combine the two symbol sets.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/g5p307/"
+          },
+          {
+            "title": "Check saved completion before launching",
+            "body": "A starting-lobby player who already has your chosen side saved can prevent that side from starting normally. Check everyone’s orange/blue Die Rise marker before launch. The documented repeat method is to have only eligible players start, then let the already-completed player join the running match. Completing the opposite side or activating the Buried super quest can also change saved tower progress; do not reset it casually.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/g5p307/"
+          },
+          {
+            "title": "Use the corrected branch instructions",
+            "body": "The old combined source incorrectly demanded a down-and-revive for Maxis and restricted the spheres to Misty and Marlton. Neither is required. Use a compatible Ballistic Knife carrier, let any two characters carry the spheres, and have each player own their placed Steam. Build the NAV table for the elevator-symbol step; inserting a card is a separate cross-map task.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/hem24e/bo2_high_maintenance_die_rise_maxis_easter_egg/",
+            "images": [
+              {
+                "src": "./assets/die-rise-nav-card-table.webp",
+                "alt": "Completed navigation table beneath the rooftop metal ramp.",
+                "caption": "The finished NAV table sits below the dragon-roof ramp.",
+                "source": "https://www.codzombieguides.com/die-rise",
+                "credit": "JokerAlex 21 / Activision — original BO2"
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "title": "Hadi77KSA — original BO2 quest misconceptions and repeat-lobby methods",
+            "url": "https://www.reddit.com/r/CODZombies/comments/g5p307/"
+          },
+          {
+            "title": "Hadi77KSA — detailed Maxis route",
+            "url": "https://www.reddit.com/r/CODZombies/comments/hem24e/bo2_high_maintenance_die_rise_maxis_easter_egg/"
+          }
+        ],
+        "relatedGuideIds": [
+          "bo2-die-rise-high-maintenance-maxis",
+          "bo2-die-rise-high-maintenance-richtofen",
+          "bo2-die-rise-mahjong-eleven-locations",
+          "bo2-die-rise-power-pap-elevators",
+          "bo2-die-rise-nav-table-card-cycle"
+        ],
+        "checked": "2026-10-16",
+        "sourceQuote": null
+      }
+    }
+  },
+  "voyage-of-despair-map-features-pack-a-punch": {
+    "title": "Pack-a-Punch: Artifact and four pedestals",
+    "difficulty": "Standard map",
+    "players": "Solo or co-op",
+    "summary": "Activate the four pedestals and choose the first Pack-a-Punch location.",
+    "requirements": [
+      "Classic Standard map; use the Gauntlet checklists separately for their deadlines and weapon restrictions.",
+      "Open a path from Forecastle to the Poop Deck."
+    ],
+    "reward": "Access to Pack-a-Punch; the first machine appears at the last pedestal activated.",
+    "steps": [
+      {
+        "title": "Activate the Artifact",
+        "body": "Reach the elevated Poop Deck platform and interact with the Sentinel Artifact. This opens the artifact barriers and sends energy to the pedestals.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=wk_T29xR8Ug&t=39s"
+      },
+      {
+        "title": "Choose your last pedestal",
+        "body": "Activate 4 Pack-A-Punch pedestals around the map. Pedestal locations: Cargo Hold; Turbine Room; Poop Deck; Lower Grand Staircase.",
+        "html": "<p>Activate 4 Pack-A-Punch pedestals around the map. Pedestal locations: Cargo Hold; Turbine Room; Poop Deck; Lower Grand Staircase.</p><p><a href=\"https://www.youtube.com/watch?v=K7KBbH_RCUA\" target=\"_blank\" rel=\"noopener noreferrer\">Added video reference</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/voyage-of-despair/",
+        "tip": "Leave the pedestal where you want the first machine until last."
+      },
+      {
+        "title": "Poop Deck pedestal",
+        "body": "Interact with the pedestal beside the rear deck platform.",
+        "original": true,
+        "researchSource": "https://www.callofdutyzombies.com/easteregg/guides/black_ops_iv_zombies/454_main-easter-eggs/voyage-of-despair-abandon-ship/activate-the-pack-a-punch-r267/"
+      },
+      {
+        "title": "Turbine Room pedestal",
+        "body": "Go down through the Engine Room to the lower Turbine Room and activate its pedestal.",
+        "original": true,
+        "researchSource": "https://www.callofdutyzombies.com/easteregg/guides/black_ops_iv_zombies/454_main-easter-eggs/voyage-of-despair-abandon-ship/activate-the-pack-a-punch-r267/"
+      },
+      {
+        "title": "Lower Grand Staircase pedestal",
+        "body": "Reach the bottom of the Grand Staircase and activate the pedestal.",
+        "original": true,
+        "researchSource": "https://www.callofdutyzombies.com/easteregg/guides/black_ops_iv_zombies/454_main-easter-eggs/voyage-of-despair-abandon-ship/activate-the-pack-a-punch-r267/"
+      },
+      {
+        "title": "Cargo Hold pedestal",
+        "body": "Descend into the flooded Cargo Hold and activate the underwater pedestal. Surface for air while travelling.",
+        "original": true,
+        "researchSource": "https://www.callofdutyzombies.com/easteregg/guides/black_ops_iv_zombies/454_main-easter-eggs/voyage-of-despair-abandon-ship/activate-the-pack-a-punch-r267/"
+      },
+      {
+        "title": "Find the active machine",
+        "body": "The machine first appears at the final activated pedestal. Later, check the prompt at an empty pedestal to locate the active machine.",
+        "original": true,
+        "researchSource": "https://codzombies.info/voyage/"
+      }
+    ],
+    "sourceOmissions": [
+      "Exact rotation intervals were not retested on every platform. Check a vacant pedestal for the live machine-location message."
+    ],
+    "sources": [
+      {
+        "title": "r/CODZombies community map guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/voyage-of-despair/"
+      },
+      {
+        "title": "Fast Guides Glitch: original Pack-a-Punch demonstration",
+        "url": "https://www.youtube.com/watch?v=K7KBbH_RCUA"
+      },
+      {
+        "title": "Renson: machine spawning and rotation",
+        "url": "https://codzombies.info/voyage/"
+      },
+      {
+        "title": "CODZ community guide: actual pedestal photos",
+        "url": "https://www.callofdutyzombies.com/easteregg/guides/black_ops_iv_zombies/454_main-easter-eggs/voyage-of-despair-abandon-ship/activate-the-pack-a-punch-r267/"
+      }
+    ],
+    "checked": "2026-10-16",
+    "relatedGuideIds": [
+      "bo4-voyage-of-despair-community-voyage-of-despair-map-features-draining-water",
+      "bo4-voyage-of-despair-community-voyage-of-despair-map-features-fast-travel",
+      "bo4-voyage-of-despair-community-voyage-of-despair-easter-eggs-quests-pack-a-punch-valves"
+    ],
+    "supplementNote": "Quoted passages retain the r/CODZombies wording. Short instructions, field notes and links labelled Added video reference are separate supplements. The source-era demonstrations are not an all-platform current-build playtest."
+  },
+  "voyage-of-despair-map-features-mystery-box-locations": {
+    "title": "Mystery Box: eight possible spots",
+    "difficulty": "Standard map",
+    "players": "Solo or co-op",
+    "summary": "Find the box pedestals around the ship.",
+    "requirements": [
+      "Classic Standard map; use the Gauntlet checklists separately for their deadlines and weapon restrictions."
+    ],
+    "reward": "Access to the active Mystery Box, subject to its live location.",
+    "steps": [
+      {
+        "title": "Check the eight pedestals",
+        "body": "Upper Grand Staircase * Lower Grand Staircase * 1st Class Lounge * Mail Rooms * Boat Deck * Aft Decks * Boiler Room * Dining Hall",
+        "html": "<ul>\n<li>Upper Grand Staircase</li>\n<li>Lower Grand Staircase</li>\n<li>1st Class Lounge</li>\n<li>Mail Rooms</li>\n<li>Boat Deck</li>\n<li>Aft Decks</li>\n<li>Boiler Room</li>\n<li>Dining Hall</li>\n</ul>\n<hr>"
+      }
+    ],
+    "checked": "2026-10-16",
+    "relatedGuideIds": [
+      "bo4-voyage-of-despair-community-voyage-of-despair-map-features-kraken",
+      "bo4-voyage-of-despair-community-voyage-of-despair-easter-eggs-quests-special-weapon-fire-sale"
+    ],
+    "supplementNote": "Quoted passages retain the r/CODZombies wording. Short instructions, field notes and links labelled Added video reference are separate supplements. The source-era demonstrations are not an all-platform current-build playtest."
+  },
+  "voyage-of-despair-map-features-fast-travel": {
+    "title": "Fast travel: entrances and exits",
+    "difficulty": "Standard map",
+    "players": "Solo or co-op",
+    "summary": "Eight portal routes, with the normal 500-point fare.",
+    "requirements": [
+      "Classic Standard map; use the Gauntlet checklists separately for their deadlines and weapon restrictions.",
+      "Keep 500 points available for each normal use; confirm the destination at the entrance."
+    ],
+    "reward": "Travel between distant deck and interior areas.",
+    "steps": [
+      {
+        "title": "Choose a portal route",
+        "body": "Portal Location | Ending Location | Cost --- | --- | --- Boiler Room (Top Level) | Boat Deck | 500 Points Boiler Room (Bottom Level) | Grand Staircase | 500 Points Turbine Room | Cargo Hold | 500 Points Millionaire Suites | Provisions | 500 Points Forecastle | Poop Deck | 500 Points Cargo Hold | Boiler Room | 500 Points Poop Deck | Forecastle | 500 Points Mid Deck | Engine Room | 500 Points",
+        "html": "<table>\n<thead>\n<tr>\n<th>Portal Location</th>\n<th>Ending Location</th>\n<th>Cost</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Boiler Room (Top Level)</td>\n<td>Boat Deck</td>\n<td>500 Points</td>\n</tr>\n<tr>\n<td>Boiler Room (Bottom Level)</td>\n<td>Grand Staircase</td>\n<td>500 Points</td>\n</tr>\n<tr>\n<td>Turbine Room</td>\n<td>Cargo Hold</td>\n<td>500 Points</td>\n</tr>\n<tr>\n<td>Millionaire Suites</td>\n<td>Provisions</td>\n<td>500 Points</td>\n</tr>\n<tr>\n<td>Forecastle</td>\n<td>Poop Deck</td>\n<td>500 Points</td>\n</tr>\n<tr>\n<td>Cargo Hold</td>\n<td>Boiler Room</td>\n<td>500 Points</td>\n</tr>\n<tr>\n<td>Poop Deck</td>\n<td>Forecastle</td>\n<td>500 Points</td>\n</tr>\n<tr>\n<td>Mid Deck</td>\n<td>Engine Room</td>\n<td>500 Points</td>\n</tr>\n</tbody>\n</table>\n<hr>"
+      }
+    ],
+    "sourceOmissions": [
+      "The location list is documented by the original wiki. Each entrance or initial box-spawn selection was not replayed in this pass."
+    ],
+    "checked": "2026-10-16",
+    "relatedGuideIds": [
+      "bo4-voyage-of-despair-hourglass-free-fast-travel"
+    ],
+    "supplementNote": "Quoted passages retain the r/CODZombies wording. Short instructions, field notes and links labelled Added video reference are separate supplements. The source-era demonstrations are not an all-platform current-build playtest."
+  },
+  "voyage-of-despair-map-features-draining-water": {
+    "title": "Drain the Cargo Hold and Boiler Room",
+    "difficulty": "Standard map",
+    "players": "Solo or co-op",
+    "summary": "Use the two drain controls to make the flooded setup areas easier to explore.",
+    "requirements": [
+      "Classic Standard map; use the Gauntlet checklists separately for their deadlines and weapon restrictions.",
+      "Keep an air route while searching underwater."
+    ],
+    "reward": "Drained setup areas; the main quest later floods the machinery area again.",
+    "steps": [
+      {
+        "title": "Use each drain control",
+        "body": "Water can be drained in the Cargo Hold and in the Boiler Room by interacting with draining pipes",
+        "html": "<p>Water can be drained in the <a href=\"https://www.reddit.com/r/CODZombies/wiki/voyage-of-despair/\" target=\"_blank\" rel=\"noopener noreferrer\">Cargo Hold (in the original source)</a> and in the <a href=\"https://www.reddit.com/r/CODZombies/wiki/voyage-of-despair/\" target=\"_blank\" rel=\"noopener noreferrer\">Boiler Room (in the original source)</a> by interacting with draining pipes</p>\n<hr>"
+      }
+    ],
+    "sourceOmissions": [
+      "The two original close-up drain photos are linked in the map wiki; their image host rate-limited this audit. Exact handle-side descriptions are not invented here."
+    ],
+    "checked": "2026-10-16",
+    "relatedGuideIds": [
+      "bo4-voyage-of-despair-community-voyage-of-despair-map-features-pack-a-punch",
+      "bo4-voyage-of-despair-community-voyage-of-despair-easter-eggs-quests-main-quest"
+    ],
+    "supplementNote": "Quoted passages retain the r/CODZombies wording. Short instructions, field notes and links labelled Added video reference are separate supplements. The source-era demonstrations are not an all-platform current-build playtest."
+  },
+  "voyage-of-despair-map-features-kraken": {
+    "title": "Kraken: free chest quest and all four elements",
+    "category": "weapon",
+    "difficulty": "Standard map",
+    "players": "Solo or co-op",
+    "summary": "Follow the Stoker key and three soul chests, then build the distillation kit for elemental conversions.",
+    "requirements": [
+      "Classic Standard map; use the Gauntlet checklists separately for their deadlines and weapon restrictions.",
+      "The free chest route needs a Stoker key. The Mystery Box is an alternative way to obtain the weapon.",
+      "Find one part in each of Galley, Cargo Hold and 1st Class Lounge; build the kit at the Engine Room bench."
+    ],
+    "reward": "A Kraken, plus access to Decay, Purity, Radiance and Plasma conversions.",
+    "steps": [
+      {
+        "title": "Take the Stoker key",
+        "body": "Kill a Stoker by shooting it in it's glowing spot. If done correctly he will drop a key.",
+        "html": "<p>Kill a Stoker by shooting it in it&#x27;s glowing spot. If done correctly he will drop a key.</p><p><a href=\"https://www.youtube.com/watch?v=vg7yvwrpX7k\" target=\"_blank\" rel=\"noopener noreferrer\">Added video reference</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/voyage-of-despair/"
+      },
+      {
+        "title": "Fill the chest three times",
+        "body": "Around the map there will be a chest you are able to interact with and open up with the key, fill this chest with souls until it disappears. Locations: State Rooms; Turbine Room; Galley; Mail Rooms; Provisions. After the chest disappears it will reappear on the map somewhere else. Once you have filled it 3 times there will be an item inside the chest.",
+        "html": "<p>Around the map there will be a chest you are able to interact with and open up with the key, fill this chest with souls until it disappears. Locations: State Rooms; Turbine Room; Galley; Mail Rooms; Provisions. After the chest disappears it will reappear on the map somewhere else. Once you have filled it 3 times there will be an item inside the chest.</p><p><a href=\"https://www.youtube.com/watch?v=vg7yvwrpX7k\" target=\"_blank\" rel=\"noopener noreferrer\">Added video reference</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/voyage-of-despair/"
+      },
+      {
+        "title": "Read the object and collect the gun",
+        "body": "The item inside indicates where the Kraken will spawn. When you get near the location a colossal tentacle will rise out of the water and drop the Kraken weapon. Item to location list: Compass - Boat Deck; Telescope - Poop Deck; Globe - Mid Deck; Binoculars - Forecastle; Pliers - Aft Decks.",
+        "html": "<p>The item inside indicates where the Kraken will spawn. When you get near the location a colossal tentacle will rise out of the water and drop the Kraken weapon. Item to location list: Compass - Boat Deck; Telescope - Poop Deck; Globe - Mid Deck; Binoculars - Forecastle; Pliers - Aft Decks.</p><p><a href=\"https://www.youtube.com/watch?v=vg7yvwrpX7k\" target=\"_blank\" rel=\"noopener noreferrer\">Added video reference</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/voyage-of-despair/"
+      },
+      {
+        "title": "Search Galley",
+        "body": "Check the burning-area counter and opposite shelving in Galley.",
+        "original": true,
+        "researchSource": "https://codzombies.info/voyage/"
+      },
+      {
+        "title": "Search Cargo Hold",
+        "body": "Check Cargo Hold's burning boxes by the lantern and beside the drain control.",
+        "original": true,
+        "researchSource": "https://codzombies.info/voyage/"
+      },
+      {
+        "title": "Search 1st Class Lounge",
+        "body": "Check the small Lounge tables by the Grand Staircase entrance and around the corner.",
+        "original": true,
+        "researchSource": "https://codzombies.info/voyage/"
+      },
+      {
+        "title": "Build the distillation kit",
+        "body": "Build at the Engine Room workbench, rather than the shield bench on Poop Deck.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=k4I3nS0eYO0"
+      },
+      {
+        "title": "Collect the desired Catalyst component",
+        "body": "After building the Distillation Kit at a crafting table, killing an Elemental Catalyst zombie with the Kraken will drop a part. Each elemental zombie will drop a different 4th part you can switch out. Poison Catalyst - Concentrated Decay; Water Catalyst - Concentrated Purity; Electric Catalyst - Concentrated Radiance; Fire Catalyst - Concentrated Plasma.",
+        "html": "<p>After building the Distillation Kit at a crafting table, killing an Elemental Catalyst zombie with the Kraken will drop a part. Each elemental zombie will drop a different 4th part you can switch out. Poison Catalyst - Concentrated Decay; Water Catalyst - Concentrated Purity; Electric Catalyst - Concentrated Radiance; Fire Catalyst - Concentrated Plasma.</p><p><a href=\"https://www.youtube.com/watch?v=k4I3nS0eYO0\" target=\"_blank\" rel=\"noopener noreferrer\">Added video reference</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/voyage-of-despair/"
+      },
+      {
+        "title": "Buy the conversion",
+        "body": "Pick up the component and interact with the Engine Room kit to buy that element. Another Catalyst component lets you buy a different element later. Decay is the poison/acid variant used for the main pipes and the bird secret.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=k4I3nS0eYO0"
+      }
+    ],
+    "sourceOmissions": [
+      "Elemental prices are shown by the live workbench. The wiki lists 3000/6000 points; this pass does not assert that price for every packed state/build.",
+      "The round-nine path is a separate secret. Its special conditions are not prerequisites for the normal Stoker/chest route."
+    ],
+    "sources": [
+      {
+        "title": "r/CODZombies community map guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/voyage-of-despair/"
+      },
+      {
+        "title": "Fast Guides Glitch: original free Kraken demonstration",
+        "url": "https://www.youtube.com/watch?v=vg7yvwrpX7k"
+      },
+      {
+        "title": "Fast Guides Glitch: original elemental upgrade demonstration",
+        "url": "https://www.youtube.com/watch?v=k4I3nS0eYO0"
+      },
+      {
+        "title": "Renson: precise kit part locations",
+        "url": "https://codzombies.info/voyage/"
+      }
+    ],
+    "checked": "2026-10-16",
+    "relatedGuideIds": [
+      "bo4-voyage-of-despair-community-voyage-of-despair-map-features-pack-a-punch",
+      "bo4-voyage-of-despair-community-voyage-of-despair-easter-eggs-quests-main-quest",
+      "bo4-voyage-of-despair-round-nine-kraken-homunculus"
+    ],
+    "supplementNote": "Quoted passages retain the r/CODZombies wording. Short instructions, field notes and links labelled Added video reference are separate supplements. The source-era demonstrations are not an all-platform current-build playtest."
+  },
+  "voyage-of-despair-map-features-ballistic-shield": {
+    "title": "Ballistic Shield and Svalinn Guard upgrade",
+    "difficulty": "Standard map",
+    "players": "Solo or co-op",
+    "summary": "All three part groups, four bone safes, flying car and timed firework shot.",
+    "requirements": [
+      "Classic Standard map; use the Gauntlet checklists separately for their deadlines and weapon restrictions.",
+      "Base shield: find one part in each group and build at the Poop Deck bench.",
+      "Svalinn Guard quest: online Classic Normal or higher; the original creator explicitly excludes Casual and Custom Mutations.",
+      "Save a zombie when reading safe codes. Prepare vials before activating the flying car when possible."
+    ],
+    "reward": "Ballistic Shield; Svalinn Guard adds shield durability and a Cryofreeze gun effect.",
+    "steps": [
+      {
+        "title": "Gun part: State Rooms",
+        "body": "Check the towel-shelf L-shaped room, the chair near the MOG 12, and the chair in the room behind the Saug 9mm wallbuy.",
+        "original": true,
+        "researchSource": "https://mmmrkennedy.com/games/BO4/voyage_of_despair/voyage_of_despair_guide"
+      },
+      {
+        "title": "Base part: lower decks",
+        "body": "Check the railing through the broken wall in 3rd Class Berths, boxes near the open hatch in Provisions, and boxes by the fruit crates near the ICR-7.",
+        "original": true,
+        "researchSource": "https://mmmrkennedy.com/games/BO4/voyage_of_despair/voyage_of_despair_guide"
+      },
+      {
+        "title": "Window part: Bridge",
+        "body": "Check beside the Wheelhouse, a box in the metal-floor room, and the rear hallway railing by the RK 7 Garrison.",
+        "original": true,
+        "researchSource": "https://mmmrkennedy.com/games/BO4/voyage_of_despair/voyage_of_despair_guide"
+      },
+      {
+        "title": "Build and equip the shield",
+        "body": "Use the Poop Deck workbench and take the shield.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=8THbmbPmauI"
+      },
+      {
+        "title": "Knock off the code breaker",
+        "body": "Go to the safe in the Mail Room and melee the code breaker on it with the shield. It will fall off and you must pick it up.",
+        "html": "<p>Go to the safe in the Mail Room and melee the code breaker on it with the shield. It will fall off and you must pick it up.</p><p><a href=\"https://www.youtube.com/watch?v=EbGCRHmN6So\" target=\"_blank\" rel=\"noopener noreferrer\">Added video reference</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/voyage-of-despair/"
+      },
+      {
+        "title": "Read all four bone codes",
+        "body": "Find the skull, long bone, hand and foot with their nearby four-digit notes in the Mail Rooms/Cargo Hold area. Shoot the bottles obstructing the skull note. Record the code beside each bone; the codes are not a fixed answer.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=EbGCRHmN6So"
+      },
+      {
+        "title": "Match each safe to a bone",
+        "body": "Check the safes in 3rd Class Berths, 1st Class Lounge, Bridge and Millionaire Suites. Put the code breaker on a safe, read its number, fetch the bone with that same number and place it inside. Shield-melee the code breaker off and repeat.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=EbGCRHmN6So",
+        "tip": "If a bone does not match, return it to its pickup spot before inserting it. Avoid guessing."
+      },
+      {
+        "title": "Start the skeleton car",
+        "body": "Once all 4 safes have been filled with a skeleton piece go down to the Cargo Room and interact with this car. It should sink into the floor. The car should now be flying above the Titanic.",
+        "html": "<p>Once all 4 safes have been filled with a skeleton piece go down to the Cargo Room and interact with this car. It should sink into the floor. The car should now be flying above the Titanic.</p><p><a href=\"https://www.youtube.com/watch?v=EbGCRHmN6So\" target=\"_blank\" rel=\"noopener noreferrer\">Added video reference</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/voyage-of-despair/"
+      },
+      {
+        "title": "Find a green vial",
+        "body": "There are small green vials in pipes around the map. If you shoot them they will shoot up into the pipe. Locations: Bridge; Bridge; Bridge; Promenade Starboard Deck; 3rd Class Berths; 1st Class Lounge.",
+        "html": "<p>There are small green vials in pipes around the map. If you shoot them they will shoot up into the pipe. Locations: Bridge; Bridge; Bridge; Promenade Starboard Deck; 3rd Class Berths; 1st Class Lounge.</p><p><a href=\"https://www.youtube.com/watch?v=EbGCRHmN6So\" target=\"_blank\" rel=\"noopener noreferrer\">Added video reference</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/voyage-of-despair/"
+      },
+      {
+        "title": "Catch the vial at an exit",
+        "body": "Check Engine Room, Mail Rooms and Millionaire Suites exits. Collect one vial per round, up to four; you may start before activating the car.",
+        "original": true,
+        "researchSource": "https://codzombies.info/voyage/"
+      },
+      {
+        "title": "Load and time a firework",
+        "body": "Place the vial you previously picked up in a white slot on one side of the boat. If you shoot the white slot after placing the item a firework will shoot up. You must shoot the firework into the bottom of the skeleton's car. If you miss the fireworks will respawn in the slot a few minutes after being shot. White slot locations: Forecastle; Forecastle; Poop Deck; Poop Deck.",
+        "html": "<p>Place the vial you previously picked up in a white slot on one side of the boat. If you shoot the white slot after placing the item a firework will shoot up. You must shoot the firework into the bottom of the skeleton&#x27;s car. If you miss the fireworks will respawn in the slot a few minutes after being shot. White slot locations: Forecastle; Forecastle; Poop Deck; Poop Deck.</p><p><a href=\"https://www.youtube.com/watch?v=EbGCRHmN6So\" target=\"_blank\" rel=\"noopener noreferrer\">Added video reference</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/voyage-of-despair/",
+        "tip": "Watch the car pass the launcher before firing. If the car has stopped appearing, return to its Cargo Hold activation spot and check again."
+      },
+      {
+        "title": "Claim a new Svalinn Guard",
+        "body": "After the car strikes the iceberg, blue ice reaches the Poop Deck bench. Claim a new shield there; your held shield does not transform.",
+        "original": true,
+        "researchSource": "https://codzombies.info/voyage/"
+      }
+    ],
+    "sourceOmissions": [
+      "Base-shield setup also appears in Gauntlets; the Svalinn side quest here is a Standard route. Do not treat it as a Gauntlet requirement.",
+      "The independent guide places the foot/code in adjoining Cargo Hold; do not restrict the bone search to Mail Rooms.",
+      "Wrong-bone recovery differs between sources. Place remaining bones, advance a round and check for reset; platform-specific retry state was not replayed."
+    ],
+    "sources": [
+      {
+        "title": "r/CODZombies community map guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/voyage-of-despair/"
+      },
+      {
+        "title": "Fast Guides Glitch: original shield locations",
+        "url": "https://www.youtube.com/watch?v=8THbmbPmauI"
+      },
+      {
+        "title": "Fast Guides Glitch: Svalinn route and explicit mode exclusions",
+        "url": "https://www.youtube.com/watch?v=EbGCRHmN6So"
+      },
+      {
+        "title": "mmMrKennedy: exact base part positions and bone area",
+        "url": "https://mmmrkennedy.com/games/BO4/voyage_of_despair/voyage_of_despair_guide"
+      },
+      {
+        "title": "Renson: vial cadence, car retry and claiming the upgraded shield",
+        "url": "https://codzombies.info/voyage/"
+      }
+    ],
+    "checked": "2026-10-16",
+    "relatedGuideIds": [
+      "bo4-voyage-of-despair-community-voyage-of-despair-map-features-draining-water",
+      "bo4-voyage-of-despair-flying-car-ride"
+    ],
+    "supplementNote": "Quoted passages retain the r/CODZombies wording. Short instructions, field notes and links labelled Added video reference are separate supplements. The source-era demonstrations are not an all-platform current-build playtest."
+  },
+  "voyage-of-despair-game-features-perk-locations": {
+    "title": "Perk altars: Danu, Ra, Zeus and Odin",
+    "difficulty": "Standard map",
+    "players": "Solo or co-op",
+    "summary": "The four altar locations; their equipped perks come from your class.",
+    "requirements": [
+      "Classic Standard map; use the Gauntlet checklists separately for their deadlines and weapon restrictions.",
+      "Choose your four altar perks before the match."
+    ],
+    "reward": "Access to the perks selected in your loadout.",
+    "steps": [
+      {
+        "title": "Find your four altars",
+        "body": "Ra - Dining Hall * Odin - Engine Room * Zeus - 1st Class Lounge * Danu - Forecastle",
+        "html": "<ul>\n<li>Ra - Dining Hall</li>\n<li>Odin - Engine Room</li>\n<li>Zeus - 1st Class Lounge</li>\n<li>Danu - Forecastle</li>\n</ul>\n<hr>"
+      },
+      {
+        "title": "Check the prone bonus",
+        "body": "Go prone in front of an altar for its small point bonus. The documented 100-point bonus goes to the first player to claim that altar in co-op.",
+        "original": true,
+        "researchSource": "https://www.codzombieguides.com/voyage-of-despair"
+      }
+    ],
+    "checked": "2026-10-16",
+    "relatedGuideIds": [
+      "bo4-voyage-of-despair-six-fish-free-perk"
+    ],
+    "supplementNote": "Quoted passages retain the r/CODZombies wording. Short instructions, field notes and links labelled Added video reference are separate supplements. The source-era demonstrations are not an all-platform current-build playtest."
+  },
+  "voyage-of-despair-easter-eggs-quests-main-quest": {
+    "title": "Abandon Ship: clocks, planets and Eye of Odin",
+    "difficulty": "Standard map",
+    "players": "Solo or co-op",
+    "summary": "A Standard main-quest route with the missing hour-dial key, planet photos and separate boss phases.",
+    "requirements": [
+      "For quest triggers, use an online Classic match on Normal or higher without bots; do not use Casual or Custom Mutations.",
+      "Activate the Sentinel Artifact and all four Pack-a-Punch pedestals. Build a shield and a distillation kit.",
+      "You need the poison/Decay Kraken for the leaking-pipe step. A packed Kraken is used in the cited main route.",
+      "Hellion Salvo, a Purity Kraken and Homunculus are recommendations for the timed ice run/boss; they are not a fixed mandatory loadout.",
+      "Keep every active player together for trial, Sun-orb and boss-entry interactions."
+    ],
+    "reward": "Eye of Odin defeat, ending cutscene and the Abandon Ship achievement/trophy where eligible.",
+    "steps": [
+      {
+        "title": "Choose an optional loadout",
+        "body": "Recommended Class Setups: Specialist Weapon | Recommended Perks | Starting Weapon | Grenade --- | --- | --- | --- Scepter of Ra | Dying Wish, Quick Revive, Timeslip, Bandolier Bandit | Strife | Wraith Fire",
+        "html": "<p>Recommended Class Setups: Specialist Weapon | Recommended Perks | Starting Weapon | Grenade --- | --- | --- | --- Scepter of Ra | Dying Wish, Quick Revive, Timeslip, Bandolier Bandit | Strife | Wraith Fire</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/voyage-of-despair/",
+        "tip": "These are recommendations. Take weapons, perks and equipment you can use confidently; reserve protection from your own Hellion splash if you choose it."
+      },
+      {
+        "title": "Take the Artifact",
+        "body": "Retrieve the Sentinel Artifact at the Poop Deck",
+        "html": "<p>Retrieve the Sentinel Artifact at the Poop Deck</p><p><a href=\"https://www.youtube.com/watch?v=wk_T29xR8Ug&amp;t=39s\" target=\"_blank\" rel=\"noopener noreferrer\">Added video reference</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/voyage-of-despair/"
+      },
+      {
+        "title": "Open Pack-a-Punch",
+        "body": "Activate Pack-A-Punch",
+        "html": "<p>Activate Pack-A-Punch</p><p><a href=\"https://www.youtube.com/watch?v=wk_T29xR8Ug&amp;t=52s\" target=\"_blank\" rel=\"noopener noreferrer\">Added video reference</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/voyage-of-despair/"
+      },
+      {
+        "title": "Record four clock-symbol pairs",
+        "body": "Once you activate Pack-A-Punch, 4/6 clocks will change its time. For the clocks that change time, one of the Pack-A-Punch elemental symbols will spawn nearby. Here are the spawns for the clocks and symbols: * Mail Room: * Clock: On the wall on the right side of the door way leading down to the Cargo Hold . * Symbol: Underneath the stairs leading up to the room with the Vapr-XKG wall buy . * Bridge: * Clock: Right behind the 4 dials there is a room with the steering wheel. Right above the steering wheel there is a clock . * Symbol: When looking at the steering wheel/clock, the symbol is underneath a desk diagonally back right behind you . * Upper Grand Staircase: * Clock: At the top of the staircase engraved in a wooden carving on the wall . * Symbol: When looking at the clock, turn to the right up the small steps and turn right again and you will see a symbol above a door . * 1st Class Lounge: * Clock: In the middle of the lounge there is a fireplace. The clock is on the fire place. * Symbol: When looking at the mystery box in the first class lounge. Look to the left and you will see the symbol on the right side of the wall . * Galley: * Clock: In the room with the body hanging on the wall. With your back to the body on the wall there is a clock on the wall to the left . * Symbol: When your back is to the wall with the body on it, there is cabinets to the left. A symbol is on the cabinet . * 3rd Class Berths: * Clock: When going down to the turbine when you get to the end of the wooden stairs there is a clock on the wall that you face to the left . * Symbol: Behind some luggage next to the wooden stairs going up. ",
+        "html": "<p>Once you activate Pack-A-Punch, 4/6 clocks will change its time. For the clocks that change time, one of the Pack-A-Punch elemental symbols will spawn nearby. Here are the spawns for the clocks and symbols:</p><ul><li><strong>Mail Room:</strong><br>Clock: On the wall on the right side of the door way leading down to the Cargo Hold .<br>Symbol: Underneath the stairs leading up to the room with the Vapr-XKG wall buy .</li><li><strong>Bridge:</strong><br>Clock: Right behind the 4 dials there is a room with the steering wheel. Right above the steering wheel there is a clock .<br>Symbol: When looking at the steering wheel/clock, the symbol is underneath a desk diagonally back right behind you .</li><li><strong>Upper Grand Staircase:</strong><br>Clock: At the top of the staircase engraved in a wooden carving on the wall .<br>Symbol: When looking at the clock, turn to the right up the small steps and turn right again and you will see a symbol above a door .</li><li><strong>1st Class Lounge:</strong><br>Clock: In the middle of the lounge there is a fireplace. The clock is on the fire place.<br>Symbol: When looking at the mystery box in the first class lounge. Look to the left and you will see the symbol on the right side of the wall .</li><li><strong>Galley:</strong><br>Clock: In the room with the body hanging on the wall. With your back to the body on the wall there is a clock on the wall to the left .<br>Symbol: When your back is to the wall with the body on it, there is cabinets to the left. A symbol is on the cabinet .</li><li><strong>3rd Class Berths:</strong><br>Clock: When going down to the turbine when you get to the end of the wooden stairs there is a clock on the wall that you face to the left .<br>Symbol: Behind some luggage next to the wooden stairs going up. </li></ul><p><a href=\"https://www.youtube.com/watch?v=wk_T29xR8Ug&t=80s\" target=\"_blank\" rel=\"noopener noreferrer\">Added video reference</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/voyage-of-despair/",
+        "tip": "Write each symbol beside both the hour and minute. Ignore clocks without an active symbol."
+      },
+      {
+        "title": "Bridge: set the minutes",
+        "body": "You will then notice that on the Bridge in front of the Captain's Wheel there are 4 turnable dials. The dials will have the elemental symbols on them correlating to a clock with the same symbol nearby. What you must do is align the dials at the Bridge to the minutes of the clocks with the same element. The dials move left or right in 5 minute intervals. ",
+        "html": "<p>You will then notice that on the Bridge in front of the Captain&#x27;s Wheel there are 4 turnable dials. The dials will have the elemental symbols on them correlating to a clock with the same symbol nearby. What you must do is align the dials at the Bridge to the minutes of the clocks with the same element. The dials move left or right in 5 minute intervals. </p><p><a href=\"https://www.youtube.com/watch?v=wk_T29xR8Ug&amp;t=80s\" target=\"_blank\" rel=\"noopener noreferrer\">Added video reference</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/voyage-of-despair/"
+      },
+      {
+        "title": "Poop Deck: set Air and Earth hours",
+        "body": "Facing the Poop Deck controls: left is Air (lined upward triangle), right is Earth (lined downward triangle). Set their recorded hours.",
+        "original": true,
+        "researchSource": "https://codzombies.info/voyage/"
+      },
+      {
+        "title": "Engine Room: set Fire and Water hours",
+        "body": "Facing the Engine Room bank: lower-left is Fire (upward triangle), upper-right is Water (downward triangle). Other controls are broken. Move in one-hour increments; success locks the handles.",
+        "original": true,
+        "researchSource": "https://codzombies.info/voyage/"
+      },
+      {
+        "title": "Match Catalysts to outlets",
+        "body": "Around the map there are outlets. 4 of the outlets will be spewing a different element. You must kill an elemental Catalyst of the same element next to the outlet (this can be done once per round, you must go a round after each kill). When you do it correctly there will be a ritual symbol on the ground where you killed the Catalyst. Outlet locations: * State Rooms * 3rd Class Berths * Dining Hall * Next to Zeus Statue in 1st Class Lounge * Upper Grand Staircase * In a window on the Aft Decks",
+        "html": "<p>Around the map there are outlets. 4 of the outlets will be spewing a different element. You must kill an elemental Catalyst of the same element next to the outlet (this can be done once per round, you must go a round after each kill). When you do it correctly there will be a ritual symbol on the ground where you killed the Catalyst. Outlet locations: * State Rooms * 3rd Class Berths * Dining Hall * Next to Zeus Statue in 1st Class Lounge * Upper Grand Staircase * In a window on the Aft Decks</p><p><a href=\"https://www.youtube.com/watch?v=wk_T29xR8Ug&amp;t=281s\" target=\"_blank\" rel=\"noopener noreferrer\">Added video reference</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/voyage-of-despair/",
+        "tip": "Create only one ritual circle per round. Killing a correct Catalyst at another outlet in that same round will not activate it."
+      },
+      {
+        "title": "Complete trials in P-W-E-F order",
+        "body": "Enter Poison first, then Water, then Electric, then Fire. All players stand on the relevant circle and hold interact. Clear every enemy and collect the Sentinel Artifact before leaving each trial.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/voyage-of-despair/"
+      },
+      {
+        "title": "Clear each trial and take its Artifact",
+        "body": "When you have every player stand on the ritual symbol it will start to glow. You must have every player hold the interact button to be teleported into a trial where you must defeat every enemy. When done correctly your screen will turn grey for a second and you will be able to pick up the Sentinel Artifact. Do this for each of the 4 ritual circles and when completed you will be able to pick up the real Sentinel Artifact. ",
+        "html": "<p>When you have every player stand on the ritual symbol it will start to glow. You must have every player hold the interact button to be teleported into a trial where you must defeat every enemy. When done correctly your screen will turn grey for a second and you will be able to pick up the Sentinel Artifact. Do this for each of the 4 ritual circles and when completed you will be able to pick up the real Sentinel Artifact. </p><p><a href=\"https://www.youtube.com/watch?v=wk_T29xR8Ug&amp;t=342s\" target=\"_blank\" rel=\"noopener noreferrer\">Added video reference</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/voyage-of-despair/"
+      },
+      {
+        "title": "Equip the Decay Kraken",
+        "body": "Use the Kraken card to build the distillation kit and buy the poison/Decay conversion. Pack it as in the linked main route before searching the leaking pipes.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=wk_T29xR8Ug&t=436s"
+      },
+      {
+        "title": "Shoot nine leaking blue pipes",
+        "body": "Shoot 9 leaking blue pipes around the Turbine Room with the Jörmungandr's Fang (Poison upgrade of the Kraken) shots. Once you have shot all of them the water will start leaking in the Boiler Room and put out all the fires.",
+        "html": "<p>Shoot 9 leaking blue pipes around the Turbine Room with the Jörmungandr&#x27;s Fang (Poison upgrade of the Kraken) shots. Once you have shot all of them the water will start leaking in the Boiler Room and put out all the fires.</p><p><a href=\"https://www.youtube.com/watch?v=wk_T29xR8Ug&amp;t=436s\" target=\"_blank\" rel=\"noopener noreferrer\">Added video reference</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/voyage-of-despair/",
+        "tip": "Scan these nine positions: above Pack-a-Punch; behind that upper pipe; left of Pack-a-Punch above and below the walkway; left of fast travel near the ceiling and below the walkway; right of fast travel below and above the walkway; right of Pack-a-Punch above the walkway. The photo shows one example."
+      },
+      {
+        "title": "Process the Artifact in Turbine Room",
+        "body": "Process the Artifact in Pack-a-Punch at the lower Turbine Room pedestal, then retrieve it. Earlier use of the optional valves can delay the next-round move; check its live location.",
+        "original": true,
+        "researchSource": "https://codzombies.info/voyage/"
+      },
+      {
+        "title": "Activate the nine planet marks",
+        "body": "Interact with each planet symbol in any order. Planet locations: * Sun - Forecastle * Mercury - Mail Rooms * Venus - Millionaire Suite * Moon - Lower Grand Staircase * Mars - Boiler Room * Saturn - Bridge * Jupiter - Engine Room * Neptune - Aft Decks * Uranus - State Room",
+        "html": "<p>Interact with each planet symbol in any order. Planet locations: * Sun - Forecastle * Mercury - Mail Rooms * Venus - Millionaire Suite * Moon - Lower Grand Staircase * Mars - Boiler Room * Saturn - Bridge * Jupiter - Engine Room * Neptune - Aft Decks * Uranus - State Room</p><p><a href=\"https://www.youtube.com/watch?v=wk_T29xR8Ug&amp;t=502s\" target=\"_blank\" rel=\"noopener noreferrer\">Added video reference</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/voyage-of-despair/",
+        "tip": "Interact with every mark. The following photo steps are a location reference; their order is not the sky-shooting answer."
+      },
+      {
+        "title": "Sun mark: Forecastle",
+        "body": "On the deck near the middle of Forecastle. Interact with the pictured mark.",
+        "original": true,
+        "researchSource": "https://www.callofdutyzombies.com/easteregg/guides/black_ops_iv_zombies/454_main-easter-eggs/voyage-of-despair-abandon-ship/interact-with-the-planet-symbols-r273/"
+      },
+      {
+        "title": "Mercury mark: Mail Rooms",
+        "body": "In Mail Rooms, beneath Forecastle. Interact with the pictured mark.",
+        "original": true,
+        "researchSource": "https://www.callofdutyzombies.com/easteregg/guides/black_ops_iv_zombies/454_main-easter-eggs/voyage-of-despair-abandon-ship/interact-with-the-planet-symbols-r273/"
+      },
+      {
+        "title": "Venus mark: Millionaire Suites",
+        "body": "In the Millionaire Suites room with suitcases on the bed. Interact with the pictured mark.",
+        "original": true,
+        "researchSource": "https://www.callofdutyzombies.com/easteregg/guides/black_ops_iv_zombies/454_main-easter-eggs/voyage-of-despair-abandon-ship/interact-with-the-planet-symbols-r273/"
+      },
+      {
+        "title": "Moon mark: Lower Grand Staircase",
+        "body": "On a white door beside Lower Grand Staircase. Interact with the pictured mark.",
+        "original": true,
+        "researchSource": "https://www.callofdutyzombies.com/easteregg/guides/black_ops_iv_zombies/454_main-easter-eggs/voyage-of-despair-abandon-ship/interact-with-the-planet-symbols-r273/"
+      },
+      {
+        "title": "Mars mark: Boiler Room",
+        "body": "Behind the furnace in Boiler Room. Interact with the pictured mark.",
+        "original": true,
+        "researchSource": "https://www.callofdutyzombies.com/easteregg/guides/black_ops_iv_zombies/454_main-easter-eggs/voyage-of-despair-abandon-ship/interact-with-the-planet-symbols-r273/"
+      },
+      {
+        "title": "Saturn mark: Bridge",
+        "body": "In a Bridge cabin; check the pictured wood panelling. Interact with the pictured mark.",
+        "original": true,
+        "researchSource": "https://www.callofdutyzombies.com/easteregg/guides/black_ops_iv_zombies/454_main-easter-eggs/voyage-of-despair-abandon-ship/interact-with-the-planet-symbols-r273/"
+      },
+      {
+        "title": "Jupiter mark: Engine Room",
+        "body": "In Engine Room after the first flight of stairs. Interact with the pictured mark.",
+        "original": true,
+        "researchSource": "https://www.callofdutyzombies.com/easteregg/guides/black_ops_iv_zombies/454_main-easter-eggs/voyage-of-despair-abandon-ship/interact-with-the-planet-symbols-r273/"
+      },
+      {
+        "title": "Neptune mark: Aft Decks",
+        "body": "Inside a lifebuoy on Outer Aft Decks. Interact with the pictured mark.",
+        "original": true,
+        "researchSource": "https://www.callofdutyzombies.com/easteregg/guides/black_ops_iv_zombies/454_main-easter-eggs/voyage-of-despair-abandon-ship/interact-with-the-planet-symbols-r273/"
+      },
+      {
+        "title": "Uranus mark: State Rooms",
+        "body": "Behind the plant in the State Room with a yellow basket by its door. Interact with the pictured mark.",
+        "original": true,
+        "researchSource": "https://www.callofdutyzombies.com/easteregg/guides/black_ops_iv_zombies/454_main-easter-eggs/voyage-of-despair-abandon-ship/interact-with-the-planet-symbols-r273/"
+      },
+      {
+        "title": "Record the planetarium sequence",
+        "body": "Interact with the solar system model in the Cargo Hold the planets will flash in the order you need to shoot the planets in. ",
+        "html": "<p>Interact with the solar system model in the Cargo Hold the planets will flash in the order you need to shoot the planets in. </p><p><a href=\"https://www.youtube.com/watch?v=wk_T29xR8Ug&amp;t=545s\" target=\"_blank\" rel=\"noopener noreferrer\">Added video reference</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/voyage-of-despair/",
+        "tip": "Get ready before interacting: this starts continuing zombie spawns for the puzzle. Record this game's flashing order; the photo order above is not the answer."
+      },
+      {
+        "title": "Shoot one planet and collect its orb",
+        "body": "When you shoot a planet a blue orb will fall from the sky and land in the corresponding planet symbol location. You must interact with the blue orb before a timer runs out. Repeat this for each planet in the order until you reach the sun.",
+        "html": "<p>When you shoot a planet a blue orb will fall from the sky and land in the corresponding planet symbol location. You must interact with the blue orb before a timer runs out. Repeat this for each planet in the order until you reach the sun.</p><p><a href=\"https://www.youtube.com/watch?v=wk_T29xR8Ug&amp;t=545s\" target=\"_blank\" rel=\"noopener noreferrer\">Added video reference</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/voyage-of-despair/",
+        "tip": "Plan the pickup route before firing. Neptune circles the ship in water; the Moon is outside Lower Grand Staircase. If you shoot the wrong planet or lose an orb, advance a round and restart at the Cargo Hold model, recording its sequence again. Leave the Sun until last."
+      },
+      {
+        "title": "Sun: start the ice run",
+        "body": "The final blue orb will be in the Forecastle at the front of the ship. Omce you interact with it it will spawn in ice blocks around the map. You must choose a path and destroy ice blocks with powerful weapons on your way to the Poop Deck where you first encounter the Sentinel Artifact. Once you get there you must destroy the final ice block at the end of the ship (You will know you've completed it of your screen flashed and goes black and white). An orange ritual symbol will spawn where the final ice block was once this is complete which leads to the boss fight. If you take too long to destroy the final ice block your screen with freeze up and you will need to re-try by interacting with the orb at the Forecastle.",
+        "html": "<p>The final blue orb will be in the Forecastle at the front of the ship. Omce you interact with it it will spawn in ice blocks around the map. You must choose a path and destroy ice blocks with powerful weapons on your way to the Poop Deck where you first encounter the Sentinel Artifact. Once you get there you must destroy the final ice block at the end of the ship (You will know you&#x27;ve completed it of your screen flashed and goes black and white). An orange ritual symbol will spawn where the final ice block was once this is complete which leads to the boss fight. If you take too long to destroy the final ice block your screen with freeze up and you will need to re-try by interacting with the orb at the Forecastle.</p><p><a href=\"https://www.youtube.com/watch?v=wk_T29xR8Ug&amp;t=715s\" target=\"_blank\" rel=\"noopener noreferrer\">Added video reference</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/voyage-of-despair/",
+        "tip": "Gather the team and refill ammunition before collecting the final Sun orb. Destroy the final Poop Deck block before the freezing effect catches you."
+      },
+      {
+        "title": "Prepare before boss entry",
+        "body": "Refill ammunition, replace the shield and gather all players at the orange ritual circle. The Hellion/Purity Kraken loadout in the source is recommended, rather than a quest item check.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=wk_T29xR8Ug&t=808s"
+      },
+      {
+        "title": "Underwater: touch the Artifact",
+        "body": "You will start the fight by being teleported underwater. Swim to the Sentinel Artifact and every player must interact with it. ",
+        "html": "<p>You will start the fight by being teleported underwater. Swim to the Sentinel Artifact and every player must interact with it. </p><p><a href=\"https://www.youtube.com/watch?v=wk_T29xR8Ug&amp;t=818s\" target=\"_blank\" rel=\"noopener noreferrer\">Added video reference</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/voyage-of-despair/"
+      },
+      {
+        "title": "Boss 1: Poop Deck survival",
+        "body": "You will be teleported back to the Poop Deck. The iceberg will raise out of the water and then Odin's Eye will spawn and teleport around. After that lots of zombies, Catalysts, Stokers, and Blightfathers will spawn. Once you have killed all the enemies the phase will end. ",
+        "html": "<p>You will be teleported back to the Poop Deck. The iceberg will raise out of the water and then Odin&#x27;s Eye will spawn and teleport around. After that lots of zombies, Catalysts, Stokers, and Blightfathers will spawn. Once you have killed all the enemies the phase will end. </p><p><a href=\"https://www.youtube.com/watch?v=wk_T29xR8Ug&amp;t=818s\" target=\"_blank\" rel=\"noopener noreferrer\">Added video reference</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/voyage-of-despair/"
+      },
+      {
+        "title": "Boss 2: Engine Room survival",
+        "body": "You will be teleported to the Engine Room. Again, lots of zombies, Catalysts, Stokers, and Blightfathers will spawn. Once you have killed all the enemies the phase will end. ",
+        "html": "<p>You will be teleported to the Engine Room. Again, lots of zombies, Catalysts, Stokers, and Blightfathers will spawn. Once you have killed all the enemies the phase will end. </p><p><a href=\"https://www.youtube.com/watch?v=wk_T29xR8Ug&amp;t=857s\" target=\"_blank\" rel=\"noopener noreferrer\">Added video reference</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/voyage-of-despair/"
+      },
+      {
+        "title": "Boss 3: State Rooms laser",
+        "body": "You will next be teleported to the State Rooms. Stokers and normal zombies will spawn around you and now at the doors that exit to the Forecastle the eye will sometimes appear and shoot an ice beam down the hallway. When the eye is firing its laser you are able to shoot it in the pupil. If you are caught by the Eye's beam it will freeze you and you must melee in order to become unfrozen. When you have done enough damage to the eye the phase will end and you will be teleported out. It is recommended to shoot at the Eye with the upgraded Hellion Salvo in order to make it go much much faster. ",
+        "html": "<p>You will next be teleported to the State Rooms. Stokers and normal zombies will spawn around you and now at the doors that exit to the Forecastle the eye will sometimes appear and shoot an ice beam down the hallway. When the eye is firing its laser you are able to shoot it in the pupil. If you are caught by the Eye&#x27;s beam it will freeze you and you must melee in order to become unfrozen. When you have done enough damage to the eye the phase will end and you will be teleported out. It is recommended to shoot at the Eye with the upgraded Hellion Salvo in order to make it go much much faster. </p><p><a href=\"https://www.youtube.com/watch?v=wk_T29xR8Ug&amp;t=881s\" target=\"_blank\" rel=\"noopener noreferrer\">Added video reference</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/voyage-of-despair/",
+        "tip": "Stay out of the beam between damage windows. If frozen, melee to break free."
+      },
+      {
+        "title": "Boss 4: Starboard laser",
+        "body": "The next place you will be teleported to is the Promenade Starboard Deck. The Eye will be off the edge of the ship and you must once again shoot it while it is firing its laser. When you have done enough damage to the eye the phase will end and you will be teleported out. ",
+        "html": "<p>The next place you will be teleported to is the Promenade Starboard Deck. The Eye will be off the edge of the ship and you must once again shoot it while it is firing its laser. When you have done enough damage to the eye the phase will end and you will be teleported out. </p><p><a href=\"https://www.youtube.com/watch?v=wk_T29xR8Ug&amp;t=930s\" target=\"_blank\" rel=\"noopener noreferrer\">Added video reference</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/voyage-of-despair/"
+      },
+      {
+        "title": "Boss 5: interrupt three charges",
+        "body": "Finally you will be teleported back to the Poop Deck. The Eye of Odin will be teleporting around the deck and again you must shoot it in the pupil while it is firing its laser. When you have done enough damage it will go to the back of the deck and do a charging up animation. Shoot it in order to get it to stop charging. If you fail to stop it it will down every player in the match (the source mentions Dying Wish; it must be equipped and ready). Again damage it until it starts the charging up animation and then stop it two more times. After the 3rd time of stopping it from charging its ultimate attack it will be defeated and the cutscene will play.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=wk_T29xR8Ug&t=959s",
+        "tip": "Save burst damage for the charge. Break three charges to finish; do not wait for a fixed shot count."
+      }
+    ],
+    "sourceOmissions": [
+      "The original Engine Room Pack-a-Punch instruction means the lower Turbine Room pedestal. The edited step uses the precise room label.",
+      "Exact orb countdown, current co-op scaling and every platform/build retry state were not independently replayed. Follow the live countdown and current prompts.",
+      "The final failed charge downs the team. Dying Wish is protection only if equipped, available and ready; it is not a guaranteed safety net."
+    ],
+    "sources": [
+      {
+        "title": "r/CODZombies community map guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/voyage-of-despair/"
+      },
+      {
+        "title": "Fast Guides Glitch: original main route with creator chapters",
+        "url": "https://www.youtube.com/watch?v=wk_T29xR8Ug"
+      },
+      {
+        "title": "Renson: hour-dial key and optional-valve machine caveat",
+        "url": "https://codzombies.info/voyage/"
+      },
+      {
+        "title": "CODZ community guide: nine planet-mark photos",
+        "url": "https://www.callofdutyzombies.com/easteregg/guides/black_ops_iv_zombies/454_main-easter-eggs/voyage-of-despair-abandon-ship/interact-with-the-planet-symbols-r273/"
+      },
+      {
+        "title": "Firsthand reports: online/no-bots restrictions",
+        "url": "https://www.reddit.com/r/CODZombies/comments/9uryzc/voyage_of_despair_easter_eggs_not_working/"
+      },
+      {
+        "title": "mmMrKennedy: nine pipe positions relative to Pack-a-Punch and fast travel",
+        "url": "https://mmmrkennedy.com/games/BO4/voyage_of_despair/voyage_of_despair_guide"
+      },
+      {
+        "title": "CODZ community guide: planetarium spawns and reset rules",
+        "url": "https://www.callofdutyzombies.com/easteregg/guides/black_ops_iv_zombies/454_main-easter-eggs/voyage-of-despair-abandon-ship/open-the-portal-r274/"
+      }
+    ],
+    "checked": "2026-10-16",
+    "relatedGuideIds": [
+      "bo4-voyage-of-despair-community-voyage-of-despair-map-features-pack-a-punch",
+      "bo4-voyage-of-despair-community-voyage-of-despair-map-features-kraken",
+      "bo4-voyage-of-despair-community-voyage-of-despair-map-features-ballistic-shield",
+      "bo4-voyage-of-despair-community-voyage-of-despair-map-features-draining-water",
+      "bo4-voyage-of-despair-community-voyage-of-despair-map-features-fast-travel",
+      "bo4-voyage-of-despair-community-voyage-of-despair-easter-eggs-quests-floater-zombies"
+    ],
+    "supplementNote": "Quoted passages retain the r/CODZombies wording. Short instructions, field notes and links labelled Added video reference are separate supplements. The source-era demonstrations are not an all-platform current-build playtest."
+  },
+  "voyage-of-despair-easter-eggs-quests-floater-zombies": {
+    "title": "Low-gravity zombies: three Poseidon props",
+    "difficulty": "Standard map",
+    "players": "Solo or co-op",
+    "summary": "Collect the moustache, crown and trident, then decorate the Galley body.",
+    "requirements": [
+      "For quest triggers, use an online Classic match on Normal or higher without bots; do not use Casual or Custom Mutations.",
+      "Activate the Sentinel Artifact. Bring an explosive such as Acid Bombs/Frag Grenades for the fan and trident."
+    ],
+    "reward": "A temporary round of slowed, low-gravity zombie movement.",
+    "steps": [
+      {
+        "title": "Moustache: starboard fan",
+        "body": "On Promenade Starboard Deck, use an explosive on the little fan on the shelf amid the vines. Pick up the dropped face prop; the older wiki calls it a Mask.",
+        "original": true,
+        "researchSource": "https://callofdutymaps.com/zombies/voyage-of-despair/"
+      },
+      {
+        "title": "Crown: Bridge sightline",
+        "body": "From Bridge, shoot the crown off the nearby smokestack platform. Shoot it again from its intermediate ledge so it drops to the reachable bench, then pick it up.",
+        "original": true,
+        "researchSource": "https://callofdutymaps.com/zombies/voyage-of-despair/"
+      },
+      {
+        "title": "Trident: above Odin",
+        "body": "Use an explosive on the overhead walkway above the Odin altar in Engine Room; pick up the fallen trident.",
+        "original": true,
+        "researchSource": "https://callofdutymaps.com/zombies/voyage-of-despair/"
+      },
+      {
+        "title": "Decorate the Galley body",
+        "body": "Once all 3 parts are obtained and the Sentinel Artifact has been activated, you can place them on this body in the Galley. Once all 3 parts are on him, Zombie movement will slowdown and they will act as if they are floating in water.",
+        "html": "<p>Once all 3 parts are obtained and the Sentinel Artifact has been activated, you can place them on this body in the Galley. Once all 3 parts are on him, Zombie movement will slowdown and they will act as if they are floating in water.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/voyage-of-despair/",
+        "tip": "Plan this for the next round. It is a temporary effect; do not count on it surviving indefinitely into later quest stages."
+      }
+    ],
+    "sourceOmissions": [
+      "The source describes a round effect, not permanent low gravity. No further continuation is established here."
+    ],
+    "sources": [
+      {
+        "title": "r/CODZombies community map guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/voyage-of-despair/"
+      },
+      {
+        "title": "Call of Duty Maps: prop locations",
+        "url": "https://callofdutymaps.com/zombies/voyage-of-despair/"
+      },
+      {
+        "title": "mmMrKennedy: next-round effect",
+        "url": "https://mmmrkennedy.com/games/BO4/voyage_of_despair/voyage_of_despair_guide"
+      }
+    ],
+    "checked": "2026-10-16",
+    "relatedGuideIds": [
+      "bo4-voyage-of-despair-community-voyage-of-despair-easter-eggs-quests-main-quest"
+    ],
+    "supplementNote": "Quoted passages retain the r/CODZombies wording. Short instructions, field notes and links labelled Added video reference are separate supplements. The source-era demonstrations are not an all-platform current-build playtest."
+  },
+  "voyage-of-despair-easter-eggs-quests-music-easter-egg": {
+    "title": "Drowning: four-coin song",
+    "difficulty": "Standard map",
+    "players": "Solo or co-op",
+    "summary": "Shoot four coins to play Drowning, composed by Kevin Sherwood with Malukah on vocals.",
+    "requirements": [
+      "Classic Standard map; use the Gauntlet checklists separately for their deadlines and weapon restrictions.",
+      "Use an online quest-enabled match if the coins are absent in an offline game."
+    ],
+    "reward": "Drowning plays in the match.",
+    "steps": [
+      {
+        "title": "Lower Grand Staircase coin",
+        "body": "Shoot the coin near the Pack-a-Punch pedestal at the bottom of the Grand Staircase.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/voyage-of-despair/",
+        "tip": "Look up at the ceiling beam/light by the bottom landing."
+      },
+      {
+        "title": "Poop Deck coin",
+        "body": "Shoot the coin near the rear Pack-a-Punch area.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/voyage-of-despair/",
+        "tip": "Check the box beside the rear cable winch."
+      },
+      {
+        "title": "Forecastle coin",
+        "body": "Check beneath the stairs near Danu and shoot the coin.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/voyage-of-despair/",
+        "tip": "Check the box face by the barrel and fire."
+      },
+      {
+        "title": "Sun Deck coin",
+        "body": "Shoot the final coin on Sun Deck to trigger the song. Use the original wiki's four coin close-ups if one is hard to distinguish.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/voyage-of-despair/",
+        "tip": "Look beneath furniture loaded into a lifeboat."
+      }
+    ],
+    "sourceOmissions": [
+      "No lyrics are reproduced. The official artist upload confirms the song and performers; the four locations come from the original map wiki."
+    ],
+    "sources": [
+      {
+        "title": "r/CODZombies community map guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/voyage-of-despair/"
+      },
+      {
+        "title": "Kevin Sherwood and Malukah: official Drowning upload",
+        "url": "https://www.youtube.com/watch?v=LohnjbvnpPk"
+      },
+      {
+        "title": "Firsthand report: coins absent offline",
+        "url": "https://www.reddit.com/r/CODZombies/comments/9uryzc/voyage_of_despair_easter_eggs_not_working/"
+      },
+      {
+        "title": "Henry/Hazzman: coin close-up descriptions (April 2020 archive)",
+        "url": "https://codzombified.blogspot.com/2020/04/"
+      }
+    ],
+    "checked": "2026-10-16",
+    "relatedGuideIds": [],
+    "supplementNote": "Quoted passages retain the r/CODZombies wording. Short instructions, field notes and links labelled Added video reference are separate supplements. The source-era demonstrations are not an all-platform current-build playtest."
+  },
+  "voyage-of-despair-easter-eggs-quests-special-weapon-fire-sale": {
+    "title": "Special Weapon Fire Sale: sheets and pianos",
+    "difficulty": "Standard map",
+    "players": "Solo or co-op",
+    "summary": "Collect three sheets, light three pianos and hit the box with your Specialist.",
+    "requirements": [
+      "For quest triggers, use an online Classic match on Normal or higher without bots; do not use Casual or Custom Mutations.",
+      "Keep a charged Special Weapon ready before the piano run. Open the three piano rooms and a nearby box route."
+    ],
+    "reward": "A special Fire Sale whose box spins offer replacement Special Weapons.",
+    "steps": [
+      {
+        "title": "Collect three music sheets",
+        "body": "Sheet Locations: Promenade Starboard Deck; Promenade Port Deck; Dining Hall.",
+        "html": "<p>Sheet Locations: Promenade Starboard Deck; Promenade Port Deck; Dining Hall.</p><p><a href=\"https://www.youtube.com/watch?v=MbRvsNC1Yb0\" target=\"_blank\" rel=\"noopener noreferrer\">Added video reference</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/voyage-of-despair/",
+        "tip": "Check the revolving door on starboard, a bench on port and a Dining Hall table."
+      },
+      {
+        "title": "Place sheets on the three pianos",
+        "body": "Piano Locations: Lower Grand Staircase; Dining Hall; Upper Grand Staircase.",
+        "html": "<p>Piano Locations: Lower Grand Staircase; Dining Hall; Upper Grand Staircase.</p><p><a href=\"https://www.youtube.com/watch?v=MbRvsNC1Yb0\" target=\"_blank\" rel=\"noopener noreferrer\">Added video reference</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/voyage-of-despair/"
+      },
+      {
+        "title": "Test the sheet matches",
+        "body": "Quickly melee all three pianos with your Special Weapon. A blue flame marks a piano whose sheet is correct.",
+        "original": true,
+        "researchSource": "https://codzombified.blogspot.com/2020/04/special-weapon-from-mystery-box-voyage.html"
+      },
+      {
+        "title": "Swap the unlit sheets",
+        "body": "If only one piano turns blue, leave its sheet alone. Pick up the other two sheets and exchange them, using interact at each piano.",
+        "original": true,
+        "researchSource": "https://codzombified.blogspot.com/2020/04/special-weapon-from-mystery-box-voyage.html"
+      },
+      {
+        "title": "Light all three again",
+        "body": "Repeat the quick Special-Weapon-melee circuit. All three should now glow blue; otherwise recheck the unlit sheet matches before running to the box.",
+        "original": true,
+        "researchSource": "https://codzombified.blogspot.com/2020/04/special-weapon-from-mystery-box-voyage.html"
+      },
+      {
+        "title": "Strike the box and spin",
+        "body": "Once all 3 are blue run to the Mystery Box and melee it with your special weapon. You should be given a Fire Sale and when you purchase the box it should give you a different Special Weapon.",
+        "html": "<p>Once all 3 are blue run to the Mystery Box and melee it with your special weapon. You should be given a Fire Sale and when you purchase the box it should give you a different Special Weapon.</p><p><a href=\"https://www.youtube.com/watch?v=7Ca4xwdG0A8\" target=\"_blank\" rel=\"noopener noreferrer\">Added video reference</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/voyage-of-despair/",
+        "tip": "Take the offered Special Weapon only if you want to replace the one you brought."
+      }
+    ],
+    "sourceOmissions": [
+      "The separately linked written demonstration supplies the missing blue-flame sheet test and swapping the two unlit sheets.",
+      "The precise timeout, replacement Special Weapon level and every possible box outcome were not retested on all current builds. Do not rely on keeping the old weapon's level."
+    ],
+    "sources": [
+      {
+        "title": "r/CODZombies community map guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/voyage-of-despair/"
+      },
+      {
+        "title": "Beebat: original successful Special Weapon Fire Sale",
+        "url": "https://www.youtube.com/watch?v=7Ca4xwdG0A8"
+      },
+      {
+        "title": "Fast Guides Glitch: dedicated full demonstration",
+        "url": "https://www.youtube.com/watch?v=MbRvsNC1Yb0"
+      },
+      {
+        "title": "Henry/Hazzman: repeated piano circuit and reuse",
+        "url": "https://codzombified.blogspot.com/2020/04/special-weapon-from-mystery-box-voyage.html"
+      }
+    ],
+    "checked": "2026-10-16",
+    "relatedGuideIds": [
+      "bo4-voyage-of-despair-community-voyage-of-despair-map-features-mystery-box-locations"
+    ],
+    "supplementNote": "Quoted passages retain the r/CODZombies wording. Short instructions, field notes and links labelled Added video reference are separate supplements. The source-era demonstrations are not an all-platform current-build playtest."
+  },
+  "voyage-of-despair-easter-eggs-quests-pack-a-punch-valves": {
+    "title": "Pack-a-Punch valves: all four machines",
+    "difficulty": "Standard map",
+    "players": "Solo or co-op",
+    "summary": "Stop the pistons, match flashing lights to valves and pull the Turbine lever.",
+    "requirements": [
+      "For quest triggers, use an online Classic match on Normal or higher without bots; do not use Casual or Custom Mutations.",
+      "Activate Pack-a-Punch and obtain a packed Kraken. The wiki documents packed base and elemental weapons; the reviewed references differ on which elemental variants work. Use the dedicated video's demonstrated setup if yours will not stop the pistons.",
+      "This is an optional Standard side quest. Keep main-quest and Gauntlet requirements in their separate guides."
+    ],
+    "reward": "Pack-a-Punch at all four pedestals for the rest of the round, with a 5000-point ammo service for eligible weapons.",
+    "steps": [
+      {
+        "title": "Stop the four middle pistons",
+        "body": "Shoot the four middle Engine Room pistons with the packed Kraken until all stop moving and smoke. Check the actual piston state rather than spending a fixed universal number of shots.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=AcQMg6fGY4k"
+      },
+      {
+        "title": "Match flashing lights to valves",
+        "body": "The pistons should stop moving and there should be lights flashing above some of the sets of 3 red valves around the room They look like this . When there are flashing lights above a set of valves take note of which lights are flashing. If the left light is flashing interact with the left most valve, if the middle one is flashing interact with the middle one, and if the right light is flashing interact with the right most valve. There can be multiple lights that need to be turned at each set of 3 valves. Check all of the lights in the room until you have interacted with the necessary valves.",
+        "html": "<p>The pistons should stop moving and there should be lights flashing above some of the sets of 3 red valves around the room They look like this . When there are flashing lights above a set of valves take note of which lights are flashing. If the left light is flashing interact with the left most valve, if the middle one is flashing interact with the middle one, and if the right light is flashing interact with the right most valve. There can be multiple lights that need to be turned at each set of 3 valves. Check all of the lights in the room until you have interacted with the necessary valves.</p><p><a href=\"https://www.youtube.com/watch?v=AcQMg6fGY4k\" target=\"_blank\" rel=\"noopener noreferrer\">Added video reference</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/voyage-of-despair/",
+        "tip": "Check the banks around both sides of the machinery. Leave unlit controls unchanged and correct any handle you toggled by mistake."
+      },
+      {
+        "title": "Pull the Turbine Room lever",
+        "body": "Once all of the valves are in the correct positions interact with this switch in the Turbine Room. If done correctly the Pack-a-Punch should be at every location for the remainder of that round. The Pack-a-Punch can also be used to regain ammo back for the gun you put into it for 5000 points.",
+        "html": "<p>Once all of the valves are in the correct positions interact with this switch in the Turbine Room. If done correctly the Pack-a-Punch should be at every location for the remainder of that round. The Pack-a-Punch can also be used to regain ammo back for the gun you put into it for 5000 points.</p><p><a href=\"https://www.youtube.com/watch?v=AcQMg6fGY4k\" target=\"_blank\" rel=\"noopener noreferrer\">Added video reference</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/voyage-of-despair/",
+        "tip": "Use the machines before the round ends. Bring an ordinary re-packable gun if you want the documented 5000-point refill service."
+      }
+    ],
+    "sourceOmissions": [
+      "The wiki says any packed elemental Kraken; mmMrKennedy excludes Electric and Renson permits a base packed Kraken. This proposal does not promote a universal element/shot-count rule.",
+      "5000-point ammo refill is described for weapons eligible for re-Pack-a-Punch, not a guaranteed Kraken ammo purchase. The special machine state ends with the current round."
+    ],
+    "sources": [
+      {
+        "title": "r/CODZombies community map guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/voyage-of-despair/"
+      },
+      {
+        "title": "Fast Guides Glitch: original Super Pack-a-Punch demonstration",
+        "url": "https://www.youtube.com/watch?v=AcQMg6fGY4k"
+      },
+      {
+        "title": "Renson: valve orientation and main-quest caveat",
+        "url": "https://codzombies.info/voyage/"
+      }
+    ],
+    "checked": "2026-10-16",
+    "relatedGuideIds": [
+      "bo4-voyage-of-despair-community-voyage-of-despair-map-features-kraken",
+      "bo4-voyage-of-despair-community-voyage-of-despair-map-features-pack-a-punch",
+      "bo4-voyage-of-despair-community-voyage-of-despair-easter-eggs-quests-main-quest"
+    ],
+    "supplementNote": "Quoted passages retain the r/CODZombies wording. Short instructions, field notes and links labelled Added video reference are separate supplements. The source-era demonstrations are not an all-platform current-build playtest."
+  },
+  "voyage-of-despair-easter-eggs-quests-yes-no-doll": {
+    "title": "Haunted doll: Yes/No sequence",
+    "difficulty": "Standard map",
+    "players": "Solo or co-op",
+    "summary": "Find the doll by Dining Hall and listen to its repeating answers; the later cipher interpretation remains separate.",
+    "requirements": [
+      "Classic Standard map; use the Gauntlet checklists separately for their deadlines and weapon restrictions.",
+      "Turn dialogue volume/subtitles up and keep a quiet zombie while listening."
+    ],
+    "reward": "A repeating voice sequence and haunted-doll animation.",
+    "steps": [
+      {
+        "title": "Find and interact with the doll",
+        "body": "Go to the overturned couch in the Lower Grand Staircase area outside Dining Hall. Look underneath and interact with the doll; continue listening/interacting to hear the repeated Yes/No sequence.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/voyage-of-despair/"
+      },
+      {
+        "title": "Observe the later sequence",
+        "body": "The original discovery footage shows the doll upright as well as its hiding position. Use that clip for the animation and full recorded sequence; the documented number reading is an interpretation of the audio, not a code you must type into a menu.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=yGbc6KmeSy8"
+      }
+    ],
+    "sourceOmissions": [
+      "The source describes a repeating sequence, so the earlier wording random order was misleading. It does not mean the player should enter random Yes/No answers.",
+      "A later community reading reports the numbers 4,14,12,6,5. The meaning of 6 and 5, an alleged birthday/identity, and any further reward are not established here. No fabricated input sequence is supplied."
+    ],
+    "sources": [
+      {
+        "title": "r/CODZombies community map guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/voyage-of-despair/"
+      },
+      {
+        "title": "Skiteinnit: May 2019 discovery post",
+        "url": "https://www.reddit.com/r/CODZombies/comments/bqzhz5/new_easter_egg_found_on_voyage_of_despair/"
+      },
+      {
+        "title": "Skiteinnit: original doll demonstration",
+        "url": "https://www.youtube.com/watch?v=yGbc6KmeSy8"
+      },
+      {
+        "title": "u/GeniusMike: exact reported number interpretation and unresolved meaning",
+        "url": "https://www.reddit.com/r/CODZombies/comments/148c9au/been_getting_back_into_hunting_old_unsolved_ees/"
+      }
+    ],
+    "checked": "2026-10-16",
+    "relatedGuideIds": [],
+    "supplementNote": "Quoted passages retain the r/CODZombies wording. Short instructions, field notes and links labelled Added video reference are separate supplements. The source-era demonstrations are not an all-platform current-build playtest."
   }
 }

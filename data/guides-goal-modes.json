@@ -3246,5 +3246,539 @@
         "tip": "Read forwards: defend Grand Staircase; friendly fire hurts both attacker and target; controls are reversed. Use the entry countdown to reach the marked staircase, test movement carefully and keep teammates out of your firing line."
       }
     ]
+  },
+  {
+    "id": "bo4-voyage-of-despair-six-fish-free-perk",
+    "mapId": "bo4-voyage-of-despair",
+    "title": "Six fish: free extra perk",
+    "category": "side",
+    "summary": "Search the six fish spots, then trade your catch on Sun Deck.",
+    "requirements": [
+      "Classic Standard map. Only one fish is active at a time; these locations are a search circuit, not a fixed collection order.",
+      "Bring a scoped sniper. The linked original demonstration is solo; co-op reward distribution is not established here."
+    ],
+    "players": "Solo or co-op",
+    "difficulty": "Standard map",
+    "reward": "An extra random perk pickup.",
+    "checked": "2026-10-16",
+    "sources": [
+      {
+        "title": "Fast Guides Glitch: original six-fish demonstration",
+        "url": "https://www.youtube.com/watch?v=CyIiNE4Kt2g"
+      },
+      {
+        "title": "Henry/Hazzman: exact search areas and pickup rule (April 2020 archive)",
+        "url": "https://codzombified.blogspot.com/2020/04/"
+      }
+    ],
+    "relatedGuideIds": [
+      "bo4-voyage-of-despair-community-voyage-of-despair-game-features-perk-locations",
+      "bo4-voyage-of-despair-community-voyage-of-despair-map-features-fast-travel"
+    ],
+    "steps": [
+      {
+        "title": "Shoot, then collect",
+        "body": "A sniper is the documented reliable option. Shoot a fish down and collect it before searching for the next active fish.",
+        "researchSource": "https://www.youtube.com/watch?v=CyIiNE4Kt2g"
+      },
+      {
+        "title": "Poop Deck rope",
+        "body": "Check halfway up the rope leading to the mast.",
+        "researchSource": "https://codzombified.blogspot.com/2020/04/"
+      },
+      {
+        "title": "Forecastle lookout",
+        "body": "Check beneath the mast's lookout platform.",
+        "researchSource": "https://codzombified.blogspot.com/2020/04/"
+      },
+      {
+        "title": "Mid Deck funnel",
+        "body": "Look at the gold-to-black colour boundary on the funnel.",
+        "researchSource": "https://codzombified.blogspot.com/2020/04/"
+      },
+      {
+        "title": "Boiler Room pipe",
+        "body": "Look on the high blue pipe. The dropped fish may land in water.",
+        "researchSource": "https://codzombified.blogspot.com/2020/04/"
+      },
+      {
+        "title": "Aft Deck rope ladder",
+        "body": "Check the rope-ladder rigging above Aft Decks.",
+        "researchSource": "https://codzombified.blogspot.com/2020/04/"
+      },
+      {
+        "title": "Starboard grate",
+        "body": "From the Galley-side starboard grate, shoot down through the grating. Collect this fish below in Engine Room.",
+        "researchSource": "https://codzombified.blogspot.com/2020/04/"
+      },
+      {
+        "title": "Offer all six on Sun Deck",
+        "body": "Place the fish on the Sun Deck crate already displaying two fish. Watch the tentacle and collect the perk drop.",
+        "researchSource": "https://www.youtube.com/watch?v=CyIiNE4Kt2g"
+      }
+    ]
+  },
+  {
+    "id": "bo4-voyage-of-despair-upgraded-bowie-knife",
+    "mapId": "bo4-voyage-of-despair",
+    "title": "Bowie Knife: Blightfather upgrade",
+    "category": "weapon",
+    "summary": "Coat the Bowie Knife through repeated Blightfather melee hits.",
+    "requirements": [
+      "Classic Standard map. Buy the Bowie Knife from Galley or 1st Class Lounge.",
+      "Keep a living Blightfather and space to retreat between melee attempts. Nearby zombies can interrupt the interaction."
+    ],
+    "players": "Solo or co-op",
+    "difficulty": "Standard map",
+    "reward": "A periodic vomiting-zombie kill effect, with normal knife damage between cooldowns.",
+    "checked": "2026-10-16",
+    "sources": [
+      {
+        "title": "Fast Guides Glitch: original Bowie demonstration",
+        "url": "https://www.youtube.com/watch?v=Cld1xM2I_V8"
+      },
+      {
+        "title": "Treyarch: patch explicitly fixes the Voyage upgraded Bowie",
+        "url": "https://www.reddit.com/r/Blackops4/comments/9wrna7/nov_13_update_nuketown_on_ps4_major_zombies/"
+      },
+      {
+        "title": "JokerAlex21: knife animation and roughly nine-hit report",
+        "url": "https://www.codzombieguides.com/voyage-of-despair"
+      },
+      {
+        "title": "Firsthand footage discussion: periodic vomiting effect",
+        "url": "https://www.reddit.com/r/CODZombies/comments/qtwgso/"
+      }
+    ],
+    "relatedGuideIds": [
+      "bo4-voyage-of-despair-community-voyage-of-despair-map-features-mystery-box-locations"
+    ],
+    "steps": [
+      {
+        "title": "Buy the Bowie Knife",
+        "body": "Use the Galley or 1st Class Lounge wallbuy.",
+        "researchSource": "https://www.youtube.com/watch?v=Cld1xM2I_V8"
+      },
+      {
+        "title": "Melee a living Blightfather",
+        "body": "Keep stabbing until the knife pickup/inspection animation plays. References count roughly nine or ten hits; use the animation as confirmation.",
+        "researchSource": "https://www.codzombieguides.com/voyage-of-despair"
+      },
+      {
+        "title": "Check the effect on a zombie",
+        "body": "Knife a normal zombie: it vomits and dies. The effect cools down between uses; immediate follow-up swipes use ordinary Bowie damage.",
+        "tip": "Wait for the special effect to recover rather than relying on every swipe being an instant kill.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/qtwgso/"
+      }
+    ]
+  },
+  {
+    "id": "bo4-voyage-of-despair-hourglass-free-fast-travel",
+    "mapId": "bo4-voyage-of-despair",
+    "title": "Hourglass: three free travels each round",
+    "category": "side",
+    "summary": "Release the hourglass on Boat Deck and follow it across the ship.",
+    "requirements": [
+      "Open Pack-a-Punch and the portal routes. Bring at least 1500 points for the three paid travels during the escort.",
+      "Use a Welling or Hellion with at least two Pack-a-Punch purchases, as documented by the cited player. The complete weapon compatibility list is not established."
+    ],
+    "players": "Solo or co-op",
+    "difficulty": "Standard map",
+    "reward": "Three free fast-travel uses per round after collection.",
+    "checked": "2026-10-16",
+    "sourceQuote": "https://www.reddit.com/r/CODZombies/comments/16paq21/comment/k1r00dy/",
+    "supplementNote": "Blockquotes are u/GDInfernoBoy's firsthand explanation. Short planning steps and tips are separately written.",
+    "sourceOmissions": [
+      "The player lists several candidate weapons, then excludes some. Only the supported Welling/Hellion recommendation is retained; no universal explosive or AAT rule is invented.",
+      "Exact escort distance, timeout and co-op ownership of the free-use counter were not measured. Follow the live hourglass and check the portal price."
+    ],
+    "sources": [
+      {
+        "title": "u/GDInfernoBoy: firsthand Welling use and escort explanation",
+        "url": "https://www.reddit.com/r/CODZombies/comments/16paq21/comment/k1r00dy/"
+      },
+      {
+        "title": "Independent May 2022 hourglass recording and reward identification",
+        "url": "https://www.reddit.com/r/CODZombies/comments/uz1mme/"
+      }
+    ],
+    "relatedGuideIds": [
+      "bo4-voyage-of-despair-community-voyage-of-despair-map-features-fast-travel",
+      "bo4-voyage-of-despair-community-voyage-of-despair-map-features-pack-a-punch"
+    ],
+    "steps": [
+      {
+        "title": "Shoot the Boat Deck smokestacks",
+        "body": "Search the small smokestacks on Boat Deck with the prepared weapon until the floating hourglass appears.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/16paq21/comment/k1r00dy/"
+      },
+      {
+        "title": "Stay close",
+        "body": "When the hourglass does come out, you just have to follow it. There isnt a need to hold interaction. IF you stray too far from it (or vice versa) the hourglass will disappear, forcing you to flip a round.",
+        "html": "<p>When the hourglass does come out, you just have to follow it. There isnt a need to hold interaction. IF you stray too far from it (or vice versa) the hourglass will disappear, forcing you to flip a round.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/16paq21/comment/k1r00dy/",
+        "tip": "Follow it through the portals rather than taking a shortcut and waiting at the destination."
+      },
+      {
+        "title": "Follow through three portals",
+        "body": "It does go through three fast travels and up two flights of stairs. Having Stamin Up as well as 1500 points available is advised.",
+        "html": "<p>It does go through three fast travels and up two flights of stairs. Having Stamin Up as well as 1500 points available is advised.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/16paq21/comment/k1r00dy/"
+      },
+      {
+        "title": "Collect it on Poop Deck",
+        "body": "But as long as you have stayed with it the entire time the hourglass will stop right at the sentinel artifact location and shrink. When it shrinks pick it up for free fast travel. This lasts for three uses per round.",
+        "html": "<p>But as long as you have stayed with it the entire time the hourglass will stop right at the sentinel artifact location and shrink. When it shrinks pick it up for free fast travel. This lasts for three uses per round.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/16paq21/comment/k1r00dy/",
+        "tip": "If it disappears, advance a round and try the same originating smokestack again."
+      }
+    ]
+  },
+  {
+    "id": "bo4-voyage-of-despair-round-nine-kraken-homunculus",
+    "mapId": "bo4-voyage-of-despair",
+    "title": "Round nine: Kraken and Homunculus path",
+    "category": "weapon",
+    "summary": "A precise crouch-walk route from 3rd Class Berths to the bloodstained outer wall.",
+    "requirements": [
+      "Perform the gun/equipment reward version while it is still round 9. Carry two weapons and be prepared to lose the weapon slot replaced by the Kraken.",
+      "Open the 3rd Class Berths-to-Aft Decks route. Control the last zombie; Winter's Wail is helpful, not part of the input.",
+      "Watch the original embedded route before attempting it. Exact movement tolerance and whether earlier Pack-a-Punch/clock setup is mandatory are not established by this player's instructions."
+    ],
+    "players": "Solo or co-op",
+    "difficulty": "Standard map",
+    "reward": "Kraken and Homunculus equipment when the round-nine input succeeds.",
+    "checked": "2026-10-16",
+    "sourceQuote": "https://www.reddit.com/r/Blackops4/comments/1rh7y1u/dev_trick_on_voyage_of_despair/",
+    "supplementNote": "Quoted route landmarks come from u/Zuckley's own gameplay comments. Short setup instructions are separate original supplements.",
+    "sourceOmissions": [
+      "This is a separate path secret, not the Stoker/chest quest or a Gauntlet tactic.",
+      "The author's text briefly says run when turning. The practical instruction keeps the player crouched as required by that same author's full sequence.",
+      "Co-op availability is reported by u/Psybeam64 in the thread. Every current platform/build input tolerance was not replayed."
+    ],
+    "sources": [
+      {
+        "title": "u/Zuckley: February 2026 gameplay and exact route comments",
+        "url": "https://www.reddit.com/r/Blackops4/comments/1rh7y1u/dev_trick_on_voyage_of_despair/"
+      }
+    ],
+    "relatedGuideIds": [
+      "bo4-voyage-of-despair-community-voyage-of-despair-map-features-kraken",
+      "bo4-voyage-of-despair-flying-car-ride"
+    ],
+    "steps": [
+      {
+        "title": "Crouch and hold interact",
+        "body": "Start in the 3rd Class Berths corner by the stairs shown in the original recording. Stay crouched and keep interact held throughout the walk.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/Blackops4/comments/1rh7y1u/dev_trick_on_voyage_of_despair/"
+      },
+      {
+        "title": "Walk to the shoe",
+        "body": "Walk up to the shoe by the end of the railing, be sure to only walk straight while moving your camera to turn",
+        "html": "<p>Walk up to the shoe by the end of the railing, be sure to only walk straight while moving your camera to turn</p>",
+        "researchSource": "https://www.reddit.com/r/Blackops4/comments/1rh7y1u/dev_trick_on_voyage_of_despair/"
+      },
+      {
+        "title": "Reach the white shirt",
+        "body": "turn to your right and walk past the side of the doorframe or even slightly hit it like I did, stop by the block of ice, you stop on top of the white shirt",
+        "html": "<p>turn to your right and walk past the side of the doorframe or even slightly hit it like I did, stop by the block of ice, you stop on top of the white shirt</p>",
+        "researchSource": "https://www.reddit.com/r/Blackops4/comments/1rh7y1u/dev_trick_on_voyage_of_despair/"
+      },
+      {
+        "title": "Line up with the crane shadow",
+        "body": "line up with just to the right of the shadow of the crane infront of you and walk forward and you should be right in the middle of the steps!",
+        "html": "<p>line up with just to the right of the shadow of the crane infront of you and walk forward and you should be right in the middle of the steps!</p>",
+        "researchSource": "https://www.reddit.com/r/Blackops4/comments/1rh7y1u/dev_trick_on_voyage_of_despair/"
+      },
+      {
+        "title": "Stop beyond the white notch",
+        "body": "Stop right when you get past the first white notch in the wall to your left once you're up the stairs",
+        "html": "<p>Stop right when you get past the first white notch in the wall to your left once you're up the stairs</p>",
+        "researchSource": "https://www.reddit.com/r/Blackops4/comments/1rh7y1u/dev_trick_on_voyage_of_despair/"
+      },
+      {
+        "title": "Face the bloodstain",
+        "body": "Remain crouched and holding interact. Turn right and walk straight up to the bloodstained wall.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/Blackops4/comments/1rh7y1u/dev_trick_on_voyage_of_despair/"
+      },
+      {
+        "title": "Release, knife twice and swap",
+        "body": "let go of your interact button and knife twice and then standup and swap guns!",
+        "html": "<p>let go of your interact button and knife twice and then standup and swap guns!</p>",
+        "researchSource": "https://www.reddit.com/r/Blackops4/comments/1rh7y1u/dev_trick_on_voyage_of_despair/",
+        "tip": "If it fails, restart at the corner while it is still round 9. Watch which gun the swap will replace."
+      }
+    ]
+  },
+  {
+    "id": "bo4-voyage-of-despair-flying-car-ride",
+    "mapId": "bo4-voyage-of-despair",
+    "title": "Ride with Boney Jones",
+    "category": "side",
+    "summary": "Use the bloodstain path while the skeleton car is active to take a flight.",
+    "requirements": [
+      "Complete the bone-safe portion of Svalinn Guard and activate the skeleton car in Cargo Hold.",
+      "Attempt this while the car is flying. The ride is reported on any round with the car active; round 9 is the separate gun/equipment reward condition."
+    ],
+    "players": "Solo or co-op",
+    "difficulty": "Standard map",
+    "reward": "A ride in the skeleton's flying car.",
+    "checked": "2026-10-16",
+    "sourceQuote": "https://www.reddit.com/r/CODZombies/comments/zwodck/ride_with_boney_jones_easter_egg/",
+    "supplementNote": "The blockquote is u/Unpu's original any-round ride explanation. The linked path guide supplies the exact movement landmarks.",
+    "sourceOmissions": [
+      "A car ride on an arbitrary round does not promise a free Kraken.",
+      "Exact car-flight duration and reactivation intervals are not newly measured here. Attempt the path while the car is visibly flying."
+    ],
+    "sources": [
+      {
+        "title": "u/Unpu: original ride demonstration and any-round rule",
+        "url": "https://www.reddit.com/r/CODZombies/comments/zwodck/ride_with_boney_jones_easter_egg/"
+      },
+      {
+        "title": "Original ride clip supplied by the author",
+        "url": "https://www.youtube.com/watch?v=Ly1Zm80T9FI"
+      },
+      {
+        "title": "u/Zuckley: exact walking landmarks",
+        "url": "https://www.reddit.com/r/Blackops4/comments/1rh7y1u/dev_trick_on_voyage_of_despair/"
+      }
+    ],
+    "relatedGuideIds": [
+      "bo4-voyage-of-despair-community-voyage-of-despair-map-features-ballistic-shield",
+      "bo4-voyage-of-despair-round-nine-kraken-homunculus"
+    ],
+    "steps": [
+      {
+        "title": "Activate the car",
+        "body": "Use the Ballistic Shield/Svalinn companion through the four bone safes, then interact with the Cargo Hold car.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/voyage-of-despair/"
+      },
+      {
+        "title": "Use the path while it flies",
+        "body": "You can do the same steps on any round you have the bone car guy (Boney Jones) spawned in. Meaning get the shield upgrade started, spawn in Boney jones and then do the free kraken/homunculus easter egg steps and you will be able to ride in the car.",
+        "html": "<p>You can do the same steps on any round you have the bone car guy (Boney Jones) spawned in. Meaning get the shield upgrade started, spawn in Boney jones and then do the free kraken/homunculus easter egg steps and you will be able to ride in the car.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/zwodck/ride_with_boney_jones_easter_egg/"
+      },
+      {
+        "title": "Finish the wall input",
+        "body": "Follow the crouch-walk companion, release interact at the bloodstain, melee twice, stand and swap. The active-car version puts the player into the flying car.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/zwodck/ride_with_boney_jones_easter_egg/"
+      }
+    ]
+  },
+  {
+    "id": "bo4-voyage-of-despair-bird-book-cipher",
+    "mapId": "bo4-voyage-of-despair",
+    "title": "Forecastle bird: reveal the book cipher",
+    "category": "side",
+    "summary": "Hit the distant bird with the Decay Kraken, then inspect the book beside Zeus.",
+    "requirements": [
+      "Obtain the Decay/poison Kraken. A sniper helps locate the bird; ordinary gunfire is not the documented trigger.",
+      "This Standard-map discovery is separate from the main quest."
+    ],
+    "players": "Solo or co-op",
+    "difficulty": "Standard map",
+    "reward": "Text appears in the book beside Zeus; its transposed message can be decoded.",
+    "checked": "2026-10-16",
+    "sourceQuote": "https://www.reddit.com/r/CODZombies/comments/i1zr52/new_side_ee_discovered_on_voyage_of_despair/",
+    "supplementNote": "Quotations are u/JackalBoy88's repeated bird/book test and solve. Short planning text is separate.",
+    "sourceOmissions": [
+      "The author's Scytale band-of-10 label is tentative. The reported rows-of-eight/read-down-columns method is retained separately.",
+      "Two original GameDVR photo pages returned HTTP 410 Gone. Missing photos were not replaced with fabricated gameplay.",
+      "No further reward or continuation is established by this source; that does not prove none exists."
+    ],
+    "sources": [
+      {
+        "title": "u/JackalBoy88: original repeated bird/book test and solve",
+        "url": "https://www.reddit.com/r/CODZombies/comments/i1zr52/new_side_ee_discovered_on_voyage_of_despair/"
+      }
+    ],
+    "relatedGuideIds": [
+      "bo4-voyage-of-despair-community-voyage-of-despair-map-features-kraken",
+      "bo4-voyage-of-despair-cipher-reference"
+    ],
+    "steps": [
+      {
+        "title": "Find the bird",
+        "body": "Above the crows nest, at the very top of the mast on the Forecastle, sits a bird.",
+        "html": "<p>Above the crows nest, at the very top of the mast on the Forecastle, sits a bird.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/i1zr52/new_side_ee_discovered_on_voyage_of_despair/",
+        "tip": "Look from the right side of Bridge toward the bow. A bright cloud helps silhouette it; cartoon mode is optional visibility assistance."
+      },
+      {
+        "title": "Hit it with Decay",
+        "body": "I was ready to give up and accept defeat as I shot it with the Decay Kraken variant, and then... a Red hitmarker popped up!",
+        "html": "<p>I was ready to give up and accept defeat as I shot it with the Decay Kraken variant, and then... a Red hitmarker popped up!</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/i1zr52/new_side_ee_discovered_on_voyage_of_despair/",
+        "tip": "Confirm that the bird has vanished after the green cloud clears."
+      },
+      {
+        "title": "Read the book beside Zeus",
+        "body": "Find the cabinet left of the Zeus altar in 1st Class Lounge. The author compared before/after footage and found the book's text appeared after the successful bird hit.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/i1zr52/new_side_ee_discovered_on_voyage_of_despair/"
+      },
+      {
+        "title": "Decode by columns",
+        "body": "Upon grouping the text into rows of 8 letters, you can read down the columns left to right to find the following encrypted message: Once.you.were.a.gangster..Now.you.are.a.soldier..What.do.you.truly.stand.for?...",
+        "html": "<p>Upon grouping the text into rows of 8 letters, you can read down the columns left to right to find the following encrypted message:</p><p>Once.you.were.a.gangster..Now.you.are.a.soldier..What.do.you.truly.stand.for?...</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/i1zr52/new_side_ee_discovered_on_voyage_of_despair/"
+      }
+    ]
+  },
+  {
+    "id": "bo4-voyage-of-despair-cipher-reference",
+    "mapId": "bo4-voyage-of-despair",
+    "title": "Cipher reference: 11 documented messages",
+    "category": "side",
+    "summary": "The wiki's eleven messages, original solver credits and supported location directions.",
+    "requirements": [
+      "This is an intel reference, not eleven separate reward quests. Use the supported location notes and original-source images.",
+      "Physical directions for QR, Elder Futhark and Alchemy 5–7 remain unresolved in this pass. Those five entries are messages only."
+    ],
+    "players": "Solo or co-op",
+    "difficulty": "Standard map",
+    "reward": "Reading and decoding environmental story messages.",
+    "checked": "2026-10-16",
+    "sourceQuote": "https://www.reddit.com/r/CODZombies/wiki/voyage-of-despair/",
+    "supplementNote": "Message quotations come from the credited Reddit wiki and solver posts. Directions and short titles are separate additions.",
+    "sourceOmissions": [
+      "Credits: semaphore u/Gemgamer; carpet u/coldstone_the_gamer and u/Richkiller; QR u/TheRealDkdynamite; Elder Futhark The Vice Squad; Alchemy 1–4 u/lowlight227 and contributors; Alchemy 5–7 u/Kalinine.",
+      "The carpet solve notes eight apparent ciphertext mistakes. It is a qualified reconstruction, not an error-free decode.",
+      "QR, Elder Futhark and Alchemy 5–7 lack verified physical directions here. The source image host rate-limited this audit.",
+      "The later bird/book cipher and doll interpretation have separate companions. Unfound or file-only ciphers are not represented as obtainable pickup quests."
+    ],
+    "sources": [
+      {
+        "title": "r/CODZombies: original eleven-message inventory and credits",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/voyage-of-despair/"
+      },
+      {
+        "title": "u/Gemgamer: semaphore solve and window position",
+        "url": "https://www.reddit.com/r/CODZombies/comments/9vxncx/homunculus_flag_cypher_solved/"
+      },
+      {
+        "title": "u/coldstone_the_gamer and u/Richkiller: carpet reconstruction",
+        "url": "https://www.reddit.com/r/CODZombies/comments/am0lv5/blundells_drunken_carpet_cipher/"
+      },
+      {
+        "title": "u/GuideZ and u/lowlight227: alchemy key and four Voyage positions",
+        "url": "https://www.reddit.com/r/CODZombies/comments/9vomni/alchemy_symbol_solvers_thread_solved/"
+      }
+    ],
+    "relatedGuideIds": [
+      "bo4-voyage-of-despair-bird-book-cipher",
+      "bo4-voyage-of-despair-community-voyage-of-despair-easter-eggs-quests-yes-no-doll"
+    ],
+    "steps": [
+      {
+        "title": "Semaphore: Grand Staircase window",
+        "body": "At the lower Grand Staircase box, face the box and inspect the far-right window with a scoped gun. The scenery Homunculus signals a message about family history and unwelcome answers. This figure does not require throwing the Homunculus equipment.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/9vxncx/homunculus_flag_cypher_solved/"
+      },
+      {
+        "title": "Carpet: reconstructed message",
+        "body": "Avarice is why you lost them. Indulgence is why you lost yourself.",
+        "html": "<p>Avarice is why you lost them. Indulgence is why you lost yourself.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/am0lv5/blundells_drunken_carpet_cipher/",
+        "tip": "Look left of the Upper Grand Staircase box. Apparent ciphertext errors make this a qualified reconstruction."
+      },
+      {
+        "title": "QR code: rage message",
+        "body": "There is a rage within you the others do not know. It may be your undoing",
+        "html": "<p>There is a rage within you the others do not know. It may be your undoing</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/voyage-of-despair/"
+      },
+      {
+        "title": "Elder Futhark: Sacred Tree",
+        "body": "From Chaos grew the Sacred Tree and you its fledgling branches. To usurp its power and draw from the root is to invite your own destruction.",
+        "html": "<p>From Chaos grew the Sacred Tree and you its fledgling branches.<br>To usurp its power and draw from the root is to invite your own destruction.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/voyage-of-despair/"
+      },
+      {
+        "title": "Alchemy 1: Neptune shelf",
+        "body": "The horde will not be contained",
+        "html": "<p>The horde will not be contained</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/voyage-of-despair/",
+        "tip": "On the top shelf left of the Neptune main-quest symbol in Aft Decks."
+      },
+      {
+        "title": "Alchemy 2: Poop Deck stairs",
+        "body": "Prove your worthiness",
+        "html": "<p>Prove your worthiness</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/voyage-of-despair/",
+        "tip": "Under the Artifact-platform stairs, on the white wall by the mooring/rope fixture."
+      },
+      {
+        "title": "Alchemy 3: Forecastle boxes",
+        "body": "That which you need is within reach",
+        "html": "<p>That which you need is within reach</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/voyage-of-despair/",
+        "tip": "Take the left staircase down from spawn; look right beside two stacked boxes on the square support."
+      },
+      {
+        "title": "Alchemy 4: Grand Staircase panel",
+        "body": "You must be empowered the horde will not yield",
+        "html": "<p>You must be empowered the horde will not yield</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/voyage-of-despair/",
+        "tip": "On the landing toward D Deck, below the tan/pink woman painting on the wooden fixture."
+      },
+      {
+        "title": "Alchemy 5: Eyes watch",
+        "body": "Eyes watch",
+        "html": "<p>Eyes watch</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/voyage-of-despair/"
+      },
+      {
+        "title": "Alchemy 6: Chance lies within",
+        "body": "Chance lies within",
+        "html": "<p>Chance lies within</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/voyage-of-despair/"
+      },
+      {
+        "title": "Alchemy 7: Natural law",
+        "body": "Your journey is not bound by natural law",
+        "html": "<p>Your journey is not bound by natural law</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/voyage-of-despair/"
+      }
+    ]
+  },
+  {
+    "id": "bo4-voyage-of-despair-underwater-siren",
+    "mapId": "bo4-voyage-of-despair",
+    "title": "Underwater Siren: ambient voice reference",
+    "category": "side",
+    "summary": "A community-reported underwater voice, without a guaranteed activation sequence.",
+    "requirements": [
+      "Visit a flooded area before draining it and keep a safe route back to air.",
+      "The source describes an ambient cue; it may not play in a given match. No exact probability, waiting timer or additional reward is established."
+    ],
+    "players": "Solo or co-op",
+    "difficulty": "Standard map",
+    "reward": "A possible underwater Siren voice cue.",
+    "checked": "2026-10-16",
+    "sources": [
+      {
+        "title": "Original player report and u/Eastonman03's underwater observations",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1739vax/does_anyone_know_what_that_weird_voice_was/"
+      }
+    ],
+    "relatedGuideIds": [
+      "bo4-voyage-of-despair-community-voyage-of-despair-map-features-draining-water"
+    ],
+    "steps": [
+      {
+        "title": "Listen briefly underwater",
+        "body": "In a quiet moment, briefly submerge in a flooded area and listen for the unusual voice. Surface for air. The cited player reports no manual activation sequence, so this is an ambient reference rather than a repeatable input puzzle.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/1739vax/does_anyone_know_what_that_weird_voice_was/"
+      }
+    ]
   }
 ]

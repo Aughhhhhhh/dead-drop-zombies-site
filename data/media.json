@@ -597,6 +597,13 @@
       "mapSpecific": true,
       "modeSpecific": true,
       "imageKind": "Player-posted game condition-menu screenshot"
+    },
+    "bo2-die-rise": {
+      "src": "./assets/die-rise-dragon-roof.webp",
+      "alt": "The green dragon and radio tower on original BO2 Die Rise’s rooftop.",
+      "source": "https://www.codzombieguides.com/die-rise",
+      "credit": "JokerAlex 21 / Activision — original BO2 via Plutonium T6",
+      "mapSpecific": true
     }
   },
   "games": {
@@ -1058,6 +1065,156 @@
         "modeSpecific": true,
         "imageKind": "Player-posted game condition-menu screenshot",
         "step": 1
+      }
+    ],
+    "bo4-voyage-of-despair-community-voyage-of-despair-map-features-pack-a-punch": [
+      {
+        "step": 3,
+        "src": "./assets/voyage-pap-reference-1.png",
+        "alt": "The Pack-a-Punch pedestal on Voyage of Despair's Poop Deck.",
+        "caption": "Poop Deck pedestal.",
+        "source": "https://www.callofdutyzombies.com/easteregg/guides/black_ops_iv_zombies/454_main-easter-eggs/voyage-of-despair-abandon-ship/activate-the-pack-a-punch-r267/",
+        "credit": "Reference capture published by CODZ guide author anonymous; game © Activision / Treyarch",
+        "mapSpecific": true
+      },
+      {
+        "step": 4,
+        "src": "./assets/voyage-pap-reference-2.png",
+        "alt": "The pedestal in the lower Turbine Room on Voyage of Despair.",
+        "caption": "Turbine Room pedestal, below Engine Room.",
+        "source": "https://www.callofdutyzombies.com/easteregg/guides/black_ops_iv_zombies/454_main-easter-eggs/voyage-of-despair-abandon-ship/activate-the-pack-a-punch-r267/",
+        "credit": "Reference capture published by CODZ guide author anonymous; game © Activision / Treyarch",
+        "mapSpecific": true
+      },
+      {
+        "step": 5,
+        "src": "./assets/voyage-pap-reference-3.png",
+        "alt": "The Lower Grand Staircase pedestal on Voyage of Despair.",
+        "caption": "Pedestal at the bottom of the Grand Staircase.",
+        "source": "https://www.callofdutyzombies.com/easteregg/guides/black_ops_iv_zombies/454_main-easter-eggs/voyage-of-despair-abandon-ship/activate-the-pack-a-punch-r267/",
+        "credit": "Reference capture published by CODZ guide author anonymous; game © Activision / Treyarch",
+        "mapSpecific": true
+      },
+      {
+        "step": 6,
+        "src": "./assets/voyage-pap-reference-4.png",
+        "alt": "Voyage's Cargo Hold Pack-a-Punch pedestal underwater.",
+        "caption": "Cargo Hold pedestal before draining the water.",
+        "source": "https://www.callofdutyzombies.com/easteregg/guides/black_ops_iv_zombies/454_main-easter-eggs/voyage-of-despair-abandon-ship/activate-the-pack-a-punch-r267/",
+        "credit": "Reference capture published by CODZ guide author anonymous; game © Activision / Treyarch",
+        "mapSpecific": true
+      },
+      {
+        "step": 7,
+        "src": "./assets/voyage-pap-reference-5.png",
+        "alt": "An active Pack-a-Punch machine at Lower Grand Staircase.",
+        "caption": "An active machine; its pedestal can change later.",
+        "source": "https://www.callofdutyzombies.com/easteregg/guides/black_ops_iv_zombies/454_main-easter-eggs/voyage-of-despair-abandon-ship/activate-the-pack-a-punch-r267/",
+        "credit": "Reference capture published by CODZ guide author anonymous; game © Activision / Treyarch",
+        "mapSpecific": true
+      }
+    ],
+    "bo4-voyage-of-despair-community-voyage-of-despair-easter-eggs-quests-main-quest": [
+      {
+        "step": 12,
+        "src": "./assets/voyage-pipe-reference-1.png",
+        "alt": "A blue leaking pipe in Voyage's Turbine Room, with a Decay Kraken held.",
+        "caption": "One pipe example in Turbine Room; the quest requires nine.",
+        "source": "https://www.callofdutyzombies.com/easteregg/guides/black_ops_iv_zombies/454_main-easter-eggs/voyage-of-despair-abandon-ship/leaking-pipes-r271/",
+        "credit": "Reference capture published by CODZ guide author anonymous; game © Activision / Treyarch",
+        "mapSpecific": true
+      },
+      {
+        "step": 15,
+        "src": "./assets/voyage-planet-symbol-1.png",
+        "alt": "Sun symbol in the Forecastle on Voyage of Despair.",
+        "caption": "Sun — Forecastle.",
+        "source": "https://www.callofdutyzombies.com/easteregg/guides/black_ops_iv_zombies/454_main-easter-eggs/voyage-of-despair-abandon-ship/interact-with-the-planet-symbols-r273/",
+        "credit": "Reference capture published by CODZ guide author anonymous; game © Activision / Treyarch",
+        "mapSpecific": true
+      },
+      {
+        "step": 16,
+        "src": "./assets/voyage-planet-symbol-2.png",
+        "alt": "Mercury symbol in Voyage's Mail Rooms.",
+        "caption": "Mercury — Mail Rooms.",
+        "source": "https://www.callofdutyzombies.com/easteregg/guides/black_ops_iv_zombies/454_main-easter-eggs/voyage-of-despair-abandon-ship/interact-with-the-planet-symbols-r273/",
+        "credit": "Reference capture published by CODZ guide author anonymous; game © Activision / Treyarch",
+        "mapSpecific": true
+      },
+      {
+        "step": 17,
+        "src": "./assets/voyage-planet-symbol-3.png",
+        "alt": "Venus symbol in Voyage's Millionaire Suites.",
+        "caption": "Venus — Millionaire Suites.",
+        "source": "https://www.callofdutyzombies.com/easteregg/guides/black_ops_iv_zombies/454_main-easter-eggs/voyage-of-despair-abandon-ship/interact-with-the-planet-symbols-r273/",
+        "credit": "Reference capture published by CODZ guide author anonymous; game © Activision / Treyarch",
+        "mapSpecific": true
+      },
+      {
+        "step": 18,
+        "src": "./assets/voyage-planet-symbol-4.png",
+        "alt": "Moon symbol at Voyage's Lower Grand Staircase.",
+        "caption": "Moon — Lower Grand Staircase.",
+        "source": "https://www.callofdutyzombies.com/easteregg/guides/black_ops_iv_zombies/454_main-easter-eggs/voyage-of-despair-abandon-ship/interact-with-the-planet-symbols-r273/",
+        "credit": "Reference capture published by CODZ guide author anonymous; game © Activision / Treyarch",
+        "mapSpecific": true
+      },
+      {
+        "step": 19,
+        "src": "./assets/voyage-planet-symbol-5.png",
+        "alt": "Mars symbol in Voyage's Boiler Room.",
+        "caption": "Mars — Boiler Room.",
+        "source": "https://www.callofdutyzombies.com/easteregg/guides/black_ops_iv_zombies/454_main-easter-eggs/voyage-of-despair-abandon-ship/interact-with-the-planet-symbols-r273/",
+        "credit": "Reference capture published by CODZ guide author anonymous; game © Activision / Treyarch",
+        "mapSpecific": true
+      },
+      {
+        "step": 20,
+        "src": "./assets/voyage-planet-symbol-6.png",
+        "alt": "Saturn symbol on a wood panel in Voyage's Bridge.",
+        "caption": "Saturn — Bridge. The displayed metal name Lead corresponds to Saturn.",
+        "source": "https://www.callofdutyzombies.com/easteregg/guides/black_ops_iv_zombies/454_main-easter-eggs/voyage-of-despair-abandon-ship/interact-with-the-planet-symbols-r273/",
+        "credit": "Reference capture published by CODZ guide author anonymous; game © Activision / Treyarch",
+        "mapSpecific": true
+      },
+      {
+        "step": 21,
+        "src": "./assets/voyage-planet-symbol-7.png",
+        "alt": "Jupiter symbol in Voyage's Engine Room.",
+        "caption": "Jupiter — Engine Room.",
+        "source": "https://www.callofdutyzombies.com/easteregg/guides/black_ops_iv_zombies/454_main-easter-eggs/voyage-of-despair-abandon-ship/interact-with-the-planet-symbols-r273/",
+        "credit": "Reference capture published by CODZ guide author anonymous; game © Activision / Treyarch",
+        "mapSpecific": true
+      },
+      {
+        "step": 22,
+        "src": "./assets/voyage-planet-symbol-8.png",
+        "alt": "Neptune symbol on the Titanic lifebuoy at Aft Decks.",
+        "caption": "Neptune — Aft Decks lifebuoy.",
+        "source": "https://www.callofdutyzombies.com/easteregg/guides/black_ops_iv_zombies/454_main-easter-eggs/voyage-of-despair-abandon-ship/interact-with-the-planet-symbols-r273/",
+        "credit": "Reference capture published by CODZ guide author anonymous; game © Activision / Treyarch",
+        "mapSpecific": true
+      },
+      {
+        "step": 23,
+        "src": "./assets/voyage-planet-symbol-9.png",
+        "alt": "Uranus symbol behind the plant in Voyage's State Rooms.",
+        "caption": "Uranus — State Rooms, behind the plant.",
+        "source": "https://www.callofdutyzombies.com/easteregg/guides/black_ops_iv_zombies/454_main-easter-eggs/voyage-of-despair-abandon-ship/interact-with-the-planet-symbols-r273/",
+        "credit": "Reference capture published by CODZ guide author anonymous; game © Activision / Treyarch",
+        "mapSpecific": true
+      }
+    ],
+    "bo4-voyage-of-despair-cipher-reference": [
+      {
+        "step": 2,
+        "src": "./assets/voyage-cipher-triliteral.png",
+        "alt": "The triliteral carpet cipher in Voyage of Despair's Upper Grand Staircase.",
+        "caption": "Carpet cipher. The original solve identifies apparent ciphertext errors.",
+        "source": "https://www.reddit.com/r/CODZombies/comments/am0lv5/blundells_drunken_carpet_cipher/",
+        "credit": "Cipher image posted by u/coldstone_the_gamer; game © Activision / Treyarch",
+        "mapSpecific": true
       }
     ]
   }

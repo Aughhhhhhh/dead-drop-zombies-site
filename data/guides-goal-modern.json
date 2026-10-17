@@ -257,106 +257,169 @@
     "category": "side",
     "difficulty": "Medium",
     "players": "1–4 players, online; progress is per account",
-    "summary": "Ricerat477's attributed collectible checklist for this release. The named map areas identify fixed pickups; document drops, transmissions and intel Trials take repeated runs.",
+    "summary": "The 76-entry launch-era roster, with collection methods and specific tracking cautions. Use the audio and artifact companions for individual pickup chapters.",
     "requirements": [
-      "This is the Firebase Z launch release checklist, not a claim that later additions are absent.",
-      "Open the map and keep the matching main-quest / Wonder Weapon guide available for quest artifacts.",
-      "Check Barracks → Intel to select the faction and season still missing. Interact with physical logs and artifacts; finish intel Trials and collect their terminal reward.",
-      "The Trials method applies to the listed Dark Aether logs, documents and transmissions; artifacts retain the individual pickup instructions shown below."
+      "Standard online Firebase Z; intel progress is per account",
+      "Use Barracks → Intel and filter by Firebase Z, faction and Season One",
+      "Fixed logs / artifacts need an interaction; document drops, faction radios and Trial intel use different collection methods",
+      "Focal Point and More Bad News belong to Season Two and are in the separate companion",
+      "Do not assume a Trial / document drop quota from an old report: follow Intel Available prompts and use a fresh match if rewards stop"
     ],
     "reward": "The listed collectible entries and their recorded lore in Barracks → Intel.",
     "steps": [
       {
         "title": "Requiem: documents",
         "body": "Documents:\n\nLocation: Mimic Drops\n\n* \"Outbreak Zones Timeline\"\n\n* \"Requiem Formation Memo\"\n\n* \"Requiem Staffing Announcement\"\n\n* \"C Cipher\"",
-        "html": "<p>Documents:</p>\r\n<p>Location: Mimic Drops</p>\r\n<ul>\r\n<li>&quot;Outbreak Zones Timeline&quot;</li>\r\n<li>&quot;Requiem Formation Memo&quot;</li>\r\n<li>&quot;Requiem Staffing Announcement&quot;</li>\r\n<li>&quot;C Cipher&quot;</li>\r\n</ul>"
+        "html": "<p>Documents:</p>\r\n<p>Location: Mimic Drops</p>\r\n<ul>\r\n<li>&quot;Outbreak Zones Timeline&quot;</li>\r\n<li>&quot;Requiem Formation Memo&quot;</li>\r\n<li>&quot;Requiem Staffing Announcement&quot;</li>\r\n<li>&quot;C Cipher&quot;</li>\r\n</ul>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lbvwc4/complete_list_of_all_intel_cold_war_firebase_z/",
+        "tip": "C Cipher is also found in the Colonel's safe; use the Sergei companion. Launch players reported a safe copy failing to count while a Mimic drop did count."
       },
       {
         "title": "Requiem: audio logs",
         "body": "Audio Logs:\n\n* \"They Took Her\"- On a bench above PaP.\n\n* \"Ravenov\"- on a table in the outer ring of Data Center, first floor near a cabinet of data reels.\n\n* \"Meeting of Minds\" - In military Command, under the desk near the zombie barrier",
-        "html": "<p>Audio Logs:</p>\r\n<ul>\r\n<li>&quot;They Took Her&quot;- On a bench above PaP.</li>\r\n<li>&quot;Ravenov&quot;- on a table in the outer ring of Data Center, first floor near a cabinet of data reels.</li>\r\n<li>&quot;Meeting of Minds&quot; - In military Command, under the desk near the zombie barrier</li>\r\n</ul>"
+        "html": "<p>Audio Logs:</p>\r\n<ul>\r\n<li>&quot;They Took Her&quot;- On a bench above PaP.</li>\r\n<li>&quot;Ravenov&quot;- on a table in the outer ring of Data Center, first floor near a cabinet of data reels.</li>\r\n<li>&quot;Meeting of Minds&quot; - In military Command, under the desk near the zombie barrier</li>\r\n</ul>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lbvwc4/complete_list_of_all_intel_cold_war_firebase_z/"
       },
       {
         "title": "Requiem: radio transmissions",
         "body": "Radio Transmissions:\n\nLocation: In Data center, Behind the top most Charge collector. It's on a table against the wall.\n\n* \"Omega's Advantage\"\n\n* \"This is Personal\"\n\n* \"Peck\"\n\n* \"Between Us\"\n\n* \"W.A.N.D.\"\n\n* \"The Stick\"\n\n* \"Blacksmiths and Architects\"\n\n* \"Not Unlike Oxygen\"\n\n* \"A Storied Career\"\n\n* \"The Thick of It\"\n\n* \"Genetic Secrets\"\n\n* \"Transformative Properties\"",
-        "html": "<p>Radio Transmissions:</p>\r\n<p>Location: In Data center, Behind the top most Charge collector. It&#39;s on a table against the wall.</p>\r\n<ul>\r\n<li>&quot;Omega&#39;s Advantage&quot;</li>\r\n<li>&quot;This is Personal&quot;</li>\r\n<li>&quot;Peck&quot;</li>\r\n<li>&quot;Between Us&quot;</li>\r\n<li>&quot;W.A.N.D.&quot;</li>\r\n<li>&quot;The Stick&quot;</li>\r\n<li>&quot;Blacksmiths and Architects&quot;</li>\r\n<li>&quot;Not Unlike Oxygen&quot;</li>\r\n<li>&quot;A Storied Career&quot;</li>\r\n<li>&quot;The Thick of It&quot;</li>\r\n<li>&quot;Genetic Secrets&quot;</li>\r\n<li>&quot;Transformative Properties&quot;</li>\r\n</ul>"
+        "html": "<p>Radio Transmissions:</p>\r\n<p>Location: In Data center, Behind the top most Charge collector. It&#39;s on a table against the wall.</p>\r\n<ul>\r\n<li>&quot;Omega&#39;s Advantage&quot;</li>\r\n<li>&quot;This is Personal&quot;</li>\r\n<li>&quot;Peck&quot;</li>\r\n<li>&quot;Between Us&quot;</li>\r\n<li>&quot;W.A.N.D.&quot;</li>\r\n<li>&quot;The Stick&quot;</li>\r\n<li>&quot;Blacksmiths and Architects&quot;</li>\r\n<li>&quot;Not Unlike Oxygen&quot;</li>\r\n<li>&quot;A Storied Career&quot;</li>\r\n<li>&quot;The Thick of It&quot;</li>\r\n<li>&quot;Genetic Secrets&quot;</li>\r\n<li>&quot;Transformative Properties&quot;</li>\r\n</ul>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lbvwc4/complete_list_of_all_intel_cold_war_firebase_z/",
+        "tip": "Activate the radio behind the upper Data Center collector. You can collect one new Requiem transmission per match; revisit in new matches until the list is complete."
       },
       {
         "title": "Requiem: artifacts",
         "body": "Artifacts:\n\n* \"RAI K-84 Blueprint\" - on the wall in Weapon Lab\n\n* \"Weapon Trial Folder\"- on the ground next to Kuhlklay's Body\n\n* \"RAI K-84 Prototype\"- obtain the ww. May need to be the free one from the quest.\n\n* \"Kuhlklay's Diary\"- obtained from a locker, requires the locker key from the free ww easter egg.",
-        "html": "<p>Artifacts:</p>\r\n<ul>\r\n<li>&quot;RAI K-84 Blueprint&quot; - on the wall in Weapon Lab</li>\r\n<li>&quot;Weapon Trial Folder&quot;- on the ground next to Kuhlklay&#39;s Body</li>\r\n<li>&quot;RAI K-84 Prototype&quot;- obtain the ww. May need to be the free one from the quest.</li>\r\n<li>&quot;Kuhlklay&#39;s Diary&quot;- obtained from a locker, requires the locker key from the free ww easter egg.</li>\r\n</ul>"
+        "html": "<p>Artifacts:</p>\r\n<ul>\r\n<li>&quot;RAI K-84 Blueprint&quot; - on the wall in Weapon Lab</li>\r\n<li>&quot;Weapon Trial Folder&quot;- on the ground next to Kuhlklay&#39;s Body</li>\r\n<li>&quot;RAI K-84 Prototype&quot;- obtain the ww. May need to be the free one from the quest.</li>\r\n<li>&quot;Kuhlklay&#39;s Diary&quot;- obtained from a locker, requires the locker key from the free ww easter egg.</li>\r\n</ul>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lbvwc4/complete_list_of_all_intel_cold_war_firebase_z/",
+        "tip": "Open all keyed Barracks lockers for the diary. Build and personally take the free RAI K for its Prototype artifact instead of relying on a random Box / Trial weapon."
       },
       {
         "title": "Omega: documents",
         "body": "Documents:\n\nLocation: Drops from Mimics\n\n* \"Authorization to Conscript\"\n\n* \"Omega Teleporter Blueprint\"\n\n* \"Aetherium Production Report\"\n\n* \"Specimen K7-1924\"\n\n* \"P Cipher\"\n\n* \"G Cipher\"",
-        "html": "<p>Documents:</p>\r\n<p>Location: Drops from Mimics</p>\r\n<ul>\r\n<li>&quot;Authorization to Conscript&quot;</li>\r\n<li>&quot;Omega Teleporter Blueprint&quot;</li>\r\n<li>&quot;Aetherium Production Report&quot;</li>\r\n<li>&quot;Specimen K7-1924&quot;</li>\r\n<li>&quot;P Cipher&quot;</li>\r\n<li>&quot;G Cipher&quot;</li>\r\n</ul>"
+        "html": "<p>Documents:</p>\r\n<p>Location: Drops from Mimics</p>\r\n<ul>\r\n<li>&quot;Authorization to Conscript&quot;</li>\r\n<li>&quot;Omega Teleporter Blueprint&quot;</li>\r\n<li>&quot;Aetherium Production Report&quot;</li>\r\n<li>&quot;Specimen K7-1924&quot;</li>\r\n<li>&quot;P Cipher&quot;</li>\r\n<li>&quot;G Cipher&quot;</li>\r\n</ul>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lbvwc4/complete_list_of_all_intel_cold_war_firebase_z/"
       },
       {
         "title": "Omega: audio logs",
         "body": "Audio Logs:\n\n* \"Dimensional Fertility\"- in Scorched Defense, on top of the building with the minigun.\n\n* \"The Anatomy Lesson\"- In field Hospital, near the exit to the Mission control area\n\n* \"Outpost 25 Has Fallen\"- In Mission Control, on a table by a window, near the top most charge collector.\n\n* \"Gorev\"- in colonels office, under the desk with the monitor bank\n\n* \"Aethernauts\"- In Planning Offices under the desk in the middle of the room\n\n* \"Kuhlklay's Payback\"- on a shelf in weapons lab , directly across from the RAI K-84 blueprint.\n\n* \"Let It Ride\"- on top of some pipes in Engineering. Shoot it down.\n\n* \"To Dust You Will Return\" - Inside the \"Omega Portal Chamber\"(part of the main EE)",
-        "html": "<p>Audio Logs:</p>\r\n<ul>\r\n<li>&quot;Dimensional Fertility&quot;- in Scorched Defense, on top of the building with the minigun.</li>\r\n<li>&quot;The Anatomy Lesson&quot;- In field Hospital, near the exit to the Mission control area</li>\r\n<li>&quot;Outpost 25 Has Fallen&quot;- In Mission Control, on a table by a window, near the top most charge collector.</li>\r\n<li>&quot;Gorev&quot;- in colonels office, under the desk with the monitor bank</li>\r\n<li>&quot;Aethernauts&quot;- In Planning Offices under the desk in the middle of the room</li>\r\n<li>&quot;Kuhlklay&#39;s Payback&quot;- on a shelf in weapons lab , directly across from the RAI K-84 blueprint.</li>\r\n<li>&quot;Let It Ride&quot;- on top of some pipes in Engineering. Shoot it down.</li>\r\n<li>&quot;To Dust You Will Return&quot; - Inside the &quot;Omega Portal Chamber&quot;(part of the main EE)</li>\r\n</ul>"
+        "html": "<p>Audio Logs:</p>\r\n<ul>\r\n<li>&quot;Dimensional Fertility&quot;- in Scorched Defense, on top of the building with the minigun.</li>\r\n<li>&quot;The Anatomy Lesson&quot;- In field Hospital, near the exit to the Mission control area</li>\r\n<li>&quot;Outpost 25 Has Fallen&quot;- In Mission Control, on a table by a window, near the top most charge collector.</li>\r\n<li>&quot;Gorev&quot;- in colonels office, under the desk with the monitor bank</li>\r\n<li>&quot;Aethernauts&quot;- In Planning Offices under the desk in the middle of the room</li>\r\n<li>&quot;Kuhlklay&#39;s Payback&quot;- on a shelf in weapons lab , directly across from the RAI K-84 blueprint.</li>\r\n<li>&quot;Let It Ride&quot;- on top of some pipes in Engineering. Shoot it down.</li>\r\n<li>&quot;To Dust You Will Return&quot; - Inside the &quot;Omega Portal Chamber&quot;(part of the main EE)</li>\r\n</ul>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lbvwc4/complete_list_of_all_intel_cold_war_firebase_z/"
       },
       {
         "title": "Omega: artifacts",
-        "body": "Artifacts:\n\n* \"Kuhlklay's Eye\"- in scorched defense, in a dead body leaning up against a blown up tank.\n\n* \"Ravenov ID Badge\"- Main EE\n\n* \"Agent Delivery System\" -Main EE\n\n* \"Essence Trap\" -main EE\n\n  * Aethermeter\" -main EE",
-        "html": "<p>Artifacts:</p>\r\n<ul>\r\n<li>&quot;Kuhlklay&#39;s Eye&quot;- in scorched defense, in a dead body leaning up against a blown up tank.</li>\r\n<li>&quot;Ravenov ID Badge&quot;- Main EE</li>\r\n<li>&quot;Agent Delivery System&quot; -Main EE</li>\r\n<li>&quot;Essence Trap&quot; -main EE</li>\r\n</ul>\r\n<p>* Aethermeter&quot; -main EE</p>"
+        "original": true,
+        "body": "Collect these quest objects by interacting with them:\n• Kuhlklay's Eye: corpse against the Scorched Defense tank, after taking the RAI K blueprint.\n• Ravenov ID Badge: Ravenov gives it after the power / Peck conversations.\n• Agent Delivery System: take the completed Field Hospital mixer device.\n• Essence Trap: take one from the unlocked upper Data Center station.\n• Aethermeter: open the locker beside Peck after the first OPC portal failure.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lepgsv/firebase_z_easter_egg_guide_made_simple/",
+        "tip": "The artifact companion follows each pickup separately; looking at an object is not the collection interaction."
       },
       {
         "title": "Omega: radio transmissions",
         "body": "Radio Transmissions:\n\nLocation: In Peck's Quarters, in the smaller room near the window\n\n* \"Good Little Lemmings\"\n\n* \"Not Built to Last\"\n\n* \"Do Try to Stay Alive\"\n\n* \"Gorev's Disappointment\"",
-        "html": "<p>Radio Transmissions:</p>\r\n<p>Location: In Peck&#39;s Quarters, in the smaller room near the window</p>\r\n<ul>\r\n<li>&quot;Good Little Lemmings&quot;</li>\r\n<li>&quot;Not Built to Last&quot;</li>\r\n<li>&quot;Do Try to Stay Alive&quot;</li>\r\n<li>&quot;Gorev&#39;s Disappointment&quot;</li>\r\n</ul>"
+        "html": "<p>Radio Transmissions:</p>\r\n<p>Location: In Peck&#39;s Quarters, in the smaller room near the window</p>\r\n<ul>\r\n<li>&quot;Good Little Lemmings&quot;</li>\r\n<li>&quot;Not Built to Last&quot;</li>\r\n<li>&quot;Do Try to Stay Alive&quot;</li>\r\n<li>&quot;Gorev&#39;s Disappointment&quot;</li>\r\n</ul>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lbvwc4/complete_list_of_all_intel_cold_war_firebase_z/",
+        "tip": "The Omega radio is in the small room of Peck's Quarters in the Village, beside the window / Bullfrog wall buy. One new Omega transmission is available per match."
       },
       {
         "title": "Maxis: documents",
         "body": "Documents:\n\nLocation: Drops from mimics\n\n* \"Omega Portal Blueprint\"\n\n* \"Omega Propaganda Poster\"\n\n* \"Aetherium Effects Report\"\n\n* \"Aetherium Reactor Blueprint\"",
-        "html": "<p>Documents:</p>\r\n<p>Location: Drops from mimics</p>\r\n<ul>\r\n<li>&quot;Omega Portal Blueprint&quot;</li>\r\n<li>&quot;Omega Propaganda Poster&quot;</li>\r\n<li>&quot;Aetherium Effects Report&quot;</li>\r\n<li>&quot;Aetherium Reactor Blueprint&quot;</li>\r\n</ul>"
+        "html": "<p>Documents:</p>\r\n<p>Location: Drops from mimics</p>\r\n<ul>\r\n<li>&quot;Omega Portal Blueprint&quot;</li>\r\n<li>&quot;Omega Propaganda Poster&quot;</li>\r\n<li>&quot;Aetherium Effects Report&quot;</li>\r\n<li>&quot;Aetherium Reactor Blueprint&quot;</li>\r\n</ul>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lbvwc4/complete_list_of_all_intel_cold_war_firebase_z/",
+        "tip": "Keep checking dropped documents after Mimic / Mangler kills. The reactor blueprint's wording differs between archive lists; match the Firebase Z / Maxis / Season One entry in your Intel menu."
       },
       {
         "title": "Maxis: audio logs",
         "body": "Audio Logs:\n\n* \"Workers of the Worlds\"- in equipment storage, on the back wall of floor 1, on a shelf\n\n* \"Worse Than Batan Rouge\"- Inside a locker in the barracks. Need the key from the free WW egg to unlock.\n\n* \"Not Who We Are\"- after turning on power, go to the scientist quarters, and on the inaccessible floor above you the audio log will be sitting, shoot it and it will be on the floor in the Briefing room.",
-        "html": "<p>Audio Logs:</p>\r\n<ul>\r\n<li>&quot;Workers of the Worlds&quot;- in equipment storage, on the back wall of floor 1, on a shelf</li>\r\n<li>&quot;Worse Than Batan Rouge&quot;- Inside a locker in the barracks. Need the key from the free WW egg to unlock.</li>\r\n<li>&quot;Not Who We Are&quot;- after turning on power, go to the scientist quarters, and on the inaccessible floor above you the audio log will be sitting, shoot it and it will be on the floor in the Briefing room.</li>\r\n</ul>"
+        "html": "<p>Audio Logs:</p>\r\n<ul>\r\n<li>&quot;Workers of the Worlds&quot;- in equipment storage, on the back wall of floor 1, on a shelf</li>\r\n<li>&quot;Worse Than Batan Rouge&quot;- Inside a locker in the barracks. Need the key from the free WW egg to unlock.</li>\r\n<li>&quot;Not Who We Are&quot;- after turning on power, go to the scientist quarters, and on the inaccessible floor above you the audio log will be sitting, shoot it and it will be on the floor in the Briefing room.</li>\r\n</ul>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lbvwc4/complete_list_of_all_intel_cold_war_firebase_z/",
+        "tip": "The menu title is Worse Than Baton Rouge; the quoted checklist has a spelling error. Open every keyed Barracks locker. For Not Who We Are, shoot the high reel down and collect it in the Briefing Room."
       },
       {
         "title": "Maxis: radio transmissions",
         "body": "Radio Transmissions:\n\nLocation: in front of the Artillery Strike terminal in Rocky Defense\n\n* \"Code In\"\n\n* \"Relentless\"\n\n* \"Monsters are Real\"\n\n* \"The Perpetual Night\"\n\n* \"The Light Within\"\n\n* \"Blood on My Hands\"\n\n* \"A Bad Dream\"",
-        "html": "<p>Radio Transmissions:</p>\r\n<p>Location: in front of the Artillery Strike terminal in Rocky Defense</p>\r\n<ul>\r\n<li>&quot;Code In&quot;</li>\r\n<li>&quot;Relentless&quot;</li>\r\n<li>&quot;Monsters are Real&quot;</li>\r\n<li>&quot;The Perpetual Night&quot;</li>\r\n<li>&quot;The Light Within&quot;</li>\r\n<li>&quot;Blood on My Hands&quot;</li>\r\n<li>&quot;A Bad Dream&quot;</li>\r\n</ul>"
+        "html": "<p>Radio Transmissions:</p>\r\n<p>Location: in front of the Artillery Strike terminal in Rocky Defense</p>\r\n<ul>\r\n<li>&quot;Code In&quot;</li>\r\n<li>&quot;Relentless&quot;</li>\r\n<li>&quot;Monsters are Real&quot;</li>\r\n<li>&quot;The Perpetual Night&quot;</li>\r\n<li>&quot;The Light Within&quot;</li>\r\n<li>&quot;Blood on My Hands&quot;</li>\r\n<li>&quot;A Bad Dream&quot;</li>\r\n</ul>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lbvwc4/complete_list_of_all_intel_cold_war_firebase_z/",
+        "tip": "Interact with the Maxis radio on the Rocky Defense table below / in front of the Artillery terminal. One new Maxis transmission is available per match."
       },
       {
         "title": "Dark Aether: documents",
         "body": "Documents:\n\n* \"My Friend!\"\n\n* \"Day 291\"\n\n* \"Day 3789\"\n\n* \"Day 4,010\"\n\n* \"Day 6,157\"\n\n* \"Day 6,289\"\n\n* \"Day 2,944\"\n\n* \"Day 6,412\"\n\n* \"Day 6,416\"\n\n* \"Day 6,418\"",
-        "html": "<p>Documents:</p>\r\n<ul>\r\n<li>&quot;My Friend!&quot;</li>\r\n<li>&quot;Day 291&quot;</li>\r\n<li>&quot;Day 3789&quot;</li>\r\n<li>&quot;Day 4,010&quot;</li>\r\n<li>&quot;Day 6,157&quot;</li>\r\n<li>&quot;Day 6,289&quot;</li>\r\n<li>&quot;Day 2,944&quot;</li>\r\n<li>&quot;Day 6,412&quot;</li>\r\n<li>&quot;Day 6,416&quot;</li>\r\n<li>&quot;Day 6,418&quot;</li>\r\n</ul>"
+        "html": "<p>Documents:</p>\r\n<ul>\r\n<li>&quot;My Friend!&quot;</li>\r\n<li>&quot;Day 291&quot;</li>\r\n<li>&quot;Day 3789&quot;</li>\r\n<li>&quot;Day 4,010&quot;</li>\r\n<li>&quot;Day 6,157&quot;</li>\r\n<li>&quot;Day 6,289&quot;</li>\r\n<li>&quot;Day 2,944&quot;</li>\r\n<li>&quot;Day 6,412&quot;</li>\r\n<li>&quot;Day 6,416&quot;</li>\r\n<li>&quot;Day 6,418&quot;</li>\r\n</ul>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lbvwc4/complete_list_of_all_intel_cold_war_firebase_z/",
+        "tip": "Earn these through intel Trials at the Helipad terminal and collect the intel there. Day 2,944 is retained from the firsthand checklist, but was absent from the compiled map database checked in this audit; compare your in-game menu before treating the list as complete."
       },
       {
         "title": "Dark Aether: audio logs",
         "body": "Audio Logs:\n\n* \"Lost Souls: Fedorov\"\n\n* \"Lost Souls: Koslov\"\n\n* \"Lost Souls: Tobias\"\n\n* \"Lost Souls: Olga\"",
-        "html": "<p>Audio Logs:</p>\r\n<ul>\r\n<li>&quot;Lost Souls: Fedorov&quot;</li>\r\n<li>&quot;Lost Souls: Koslov&quot;</li>\r\n<li>&quot;Lost Souls: Tobias&quot;</li>\r\n<li>&quot;Lost Souls: Olga&quot;</li>\r\n</ul>"
+        "html": "<p>Audio Logs:</p>\r\n<ul>\r\n<li>&quot;Lost Souls: Fedorov&quot;</li>\r\n<li>&quot;Lost Souls: Koslov&quot;</li>\r\n<li>&quot;Lost Souls: Tobias&quot;</li>\r\n<li>&quot;Lost Souls: Olga&quot;</li>\r\n</ul>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lbvwc4/complete_list_of_all_intel_cold_war_firebase_z/",
+        "tip": "These four audio rewards come from intel Trials, not four hidden reels. Collect the Intel Available reward at the Helipad trial terminal."
       },
       {
         "title": "Dark Aether: radio transmissions",
         "body": "Radio Transmissions:\n\n* \"Without Orders\"",
-        "html": "<p>Radio Transmissions:</p>\r\n<ul>\r\n<li>&quot;Without Orders&quot;</li>\r\n</ul>"
+        "html": "<p>Radio Transmissions:</p>\r\n<ul>\r\n<li>&quot;Without Orders&quot;</li>\r\n</ul>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lbvwc4/complete_list_of_all_intel_cold_war_firebase_z/",
+        "tip": "Without Orders is a Trial intel reward. It does not come from a fourth physical faction radio."
       },
       {
         "title": "Dark Aether: artifacts",
-        "body": "Artifacts:\n\n* \"Omega Canister\"- Part of the main EE. Was bugged, but now can be gotten. You need to grab the teleporting canister first for it to count.",
-        "html": "<p>Artifacts:</p>\r\n<ul>\r\n<li>&quot;Omega Canister&quot;- Part of the main EE. Was bugged, but now can be gotten. You need to grab the teleporting canister first for it to count.</li>\r\n</ul>"
+        "original": true,
+        "body": "Omega Canister is a main-quest crystal-container artifact. To follow the documented tracking precaution, get the Barracks / Field Hospital teleporting container first: hold it still with the RAI K orb, then interact to take it before collecting the Open Lot or Jungle containers. Continue the quest and check the Dark Aether artifact entry in Barracks afterward.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lbvwc4/complete_list_of_all_intel_cold_war_firebase_z/",
+        "tip": "Launch players reported missing credit and a February fix. This collection order is a historical precaution, not a guarantee that every current build / co-op account will register it."
       }
     ],
     "sources": [
       {
         "title": "u/Ricerat477 — firsthand community intel checklist",
         "url": "https://www.reddit.com/r/CODZombies/comments/lbvwc4/"
+      },
+      {
+        "title": "RadZakpak — firsthand Maxis title / drop methods",
+        "url": "https://www.callofdutyzombies.com/terminal/intel/cold-war/firebase-z/maxis-intel-r123/"
+      },
+      {
+        "title": "RadZakpak — quest artifacts and C Cipher safe",
+        "url": "https://www.callofdutyzombies.com/terminal/intel/cold-war/firebase-z/requiem-intel-r121/"
+      },
+      {
+        "title": "Firsthand radio locations / one transmission per faction per match",
+        "url": "https://www.reddit.com/r/ColdWarZombies/comments/ouba3w/"
+      },
+      {
+        "title": "Firsthand launch C Cipher / canister tracking reports",
+        "url": "https://www.reddit.com/r/CODZombies/comments/ldphfv/"
+      },
+      {
+        "title": "Treyarch — Season Two / radio fixes",
+        "url": "https://www.treyarch.com/game-intel/2021/02/Season_Two_Details_and_Patch_Notes"
+      },
+      {
+        "title": "DECLASSIFIED — comparison roster, not independent of the community",
+        "url": "https://declassified.app/legacy/"
+      },
+      {
+        "title": "Firsthand build-specific Prototype intel and cannon targeting",
+        "url": "https://www.reddit.com/r/CODZombies/comments/p9slqq/"
       }
     ],
     "sourceQuote": "https://www.reddit.com/r/CODZombies/comments/lbvwc4/",
     "checked": "2026-10-16",
     "relatedGuideIds": [
+      "coldwar-firebase-z-intel-audio-route",
+      "coldwar-firebase-z-intel-artifacts",
+      "coldwar-firebase-z-intel-season-2",
       "coldwar-firebase-z-main",
       "coldwar-firebase-z-rai-k",
-      "coldwar-firebase-z-intel-season-2"
+      "coldwar-firebase-z-sergei-safe",
+      "coldwar-firebase-z-trials",
+      "coldwar-firebase-z-ciphers"
     ],
     "sourceOmissions": [
-      "Two audio logs explicitly identified by the author as Season2, Focal Point and More Bad News, are placed in the Season2 checklist instead."
+      "Two audio logs explicitly identified by the author as Season2, Focal Point and More Bad News, are placed in the Season2 checklist instead.",
+      "The malformed Aethermeter bullet is replaced by an authored five-artifact pickup list. The original Omega Canister launch-bug claim is replaced by a historically scoped route and credit check.",
+      "The quote's Baton Rouge spelling is corrected in its field note; Day 2,944 and the reactor-blueprint name remain documentary discrepancies rather than certified current menu values."
     ]
   },
   {
@@ -901,83 +964,118 @@
     "category": "side",
     "difficulty": "Medium",
     "players": "1–4 players, online; progress is per account",
-    "summary": "A map-specific selection from Ricerat477's firsthand seasonal intel list, with fixed pickup locations and the acquisition methods for repeatable rewards.",
+    "summary": "The 15 Firebase Z Season Two additions, with explicit radio stations and pickup access instead of 'same place' references.",
     "requirements": [
-      "Use Barracks → Intel to check the map, faction and season before looking for a missing entry.",
-      "Follow the companion main-quest / Wonder Weapon routes for entries marked Main EE; physical pickups still require interaction.",
-      "Radio transmissions require new matches to hear the next entries. Check dropped document pickups after special / elite kills; do intel Trials for Dark Aether logs, documents and transmissions."
+      "Standard online Firebase Z; use Barracks → Intel's map, faction and Season Two filters",
+      "The three fixed audio logs can be collected as map pickups; Requiem documents drop from special enemies",
+      "For physical faction radios, collect one new transmission per faction per match; Dark Aether transmissions are instead Trial rewards",
+      "The original 2021 launch availability bugs do not establish that these entries are currently unobtainable"
     ],
     "reward": "The listed lore collectibles recorded in Barracks → Intel.",
     "steps": [
       {
         "title": "Requiem: audio logs",
         "body": "Audio Logs:\n\n* \"Focal Point\" (Firebase Z)-On the corner of the building on a ledge, near the sattalite dish. Rocky Defense. Need to shoot it down.",
-        "html": "<p>Audio Logs:</p>\r\n<ul>\r\n<li>&quot;Focal Point&quot; (Firebase Z)-On the corner of the building on a ledge, near the sattalite dish. Rocky Defense. Need to shoot it down.</li>\r\n</ul>"
+        "html": "<p>Audio Logs:</p>\r\n<ul>\r\n<li>&quot;Focal Point&quot; (Firebase Z)-On the corner of the building on a ledge, near the sattalite dish. Rocky Defense. Need to shoot it down.</li>\r\n</ul>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lrllwd/complete_list_of_all_intel_cold_war_season/",
+        "tip": "At Rocky Defense, look up at the Data Center / satellite ledge, shoot the reel down, then interact with it on the ground. A previously collected early-release copy may already be in Season Two's menu."
       },
       {
         "title": "Requiem: documents",
-        "body": "Documents:\n\nLocation: Elite drops. 3 from Firebase, 4 from Outbreak\n\n* \"RE: Funding Allocation 1\" (Firebase Z)\n\n* \"RE: Funding Allocation 2\" (Firebase Z)\n\n* \"Berlin COMINT\" (Firebase Z)",
-        "html": "<p>Documents:</p>\r\n<p>Location: Elite drops. 3 from Firebase, 4 from Outbreak</p>\r\n<ul>\r\n<li>&quot;RE: Funding Allocation 1&quot; (Firebase Z)</li>\r\n<li>&quot;RE: Funding Allocation 2&quot; (Firebase Z)</li>\r\n<li>&quot;Berlin COMINT&quot; (Firebase Z)</li>\r\n</ul>"
+        "original": true,
+        "body": "Collect the three Firebase Z Requiem Season Two documents from special-enemy drops:\n• RE: Funding Allocation 1\n• RE: Funding Allocation 2\n• Berlin COMINT\nKill Mimics, inspect their dropped pickups and interact with any document you still need.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lrllwd/complete_list_of_all_intel_cold_war_season/",
+        "tip": "Outbreak's separate Requiem documents do not belong to this three-entry group."
       },
       {
         "title": "Requiem: radio transmissions",
-        "body": "Radio Transmissions\n\nLocation: Same place as the other Firebase Z ones\n\n* \"Nose to Nose\" (Firebase Z)",
-        "html": "<p>Radio Transmissions</p>\r\n<p>Location: Same place as the other Firebase Z ones</p>\r\n<ul>\r\n<li>&quot;Nose to Nose&quot; (Firebase Z)</li>\r\n</ul>"
+        "original": true,
+        "body": "For Nose to Nose, use the Requiem radio on the table behind Data Center's upper collector. Check it in new matches; the same station also delivers the launch Requiem transmissions.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lrllwd/complete_list_of_all_intel_cold_war_season/",
+        "tip": "One new Requiem radio transmission per match; no separate Season Two radio must be built."
       },
       {
         "title": "Omega: audio logs",
         "body": "Audio Logs:\n\n* \"Half Of The Reason\"(Firebase Z)- Under a bunk bed in Scientist Quarters, in the starting area",
-        "html": "<p>Audio Logs:</p>\r\n<ul>\r\n<li>&quot;Half Of The Reason&quot;(Firebase Z)- Under a bunk bed in Scientist Quarters, in the starting area</li>\r\n</ul>"
+        "html": "<p>Audio Logs:</p>\r\n<ul>\r\n<li>&quot;Half Of The Reason&quot;(Firebase Z)- Under a bunk bed in Scientist Quarters, in the starting area</li>\r\n</ul>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lrllwd/complete_list_of_all_intel_cold_war_season/",
+        "tip": "Scientist Quarters is upstairs in the Village, not at the outpost. Power all three reactors to open the route, then check under the bunk bed."
       },
       {
         "title": "Omega: radio transmissions",
-        "body": "Radio Transmissions\n\nLocation: Same place as the other Firebase Z ones\n\n* \"The Colonel\"",
-        "html": "<p>Radio Transmissions</p>\r\n<p>Location: Same place as the other Firebase Z ones</p>\r\n<ul>\r\n<li>&quot;The Colonel&quot;</li>\r\n</ul>"
+        "original": true,
+        "body": "For The Colonel, interact with the Omega radio on the window-side table in the small room of Peck's Quarters above the Village. Return in new matches if earlier Omega transmissions are still being supplied.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lrllwd/complete_list_of_all_intel_cold_war_season/"
       },
       {
         "title": "Maxis: audio logs",
         "body": "Audio Logs:\n\n* \"More Bad News\" (Firebase Z)- at the base of the OPC. Gotta climb over a barrier near the entrance to Mission Control.",
-        "html": "<p>Audio Logs:</p>\r\n<ul>\r\n<li>&quot;More Bad News&quot; (Firebase Z)- at the base of the OPC. Gotta climb over a barrier near the entrance to Mission Control.</li>\r\n</ul>"
+        "html": "<p>Audio Logs:</p>\r\n<ul>\r\n<li>&quot;More Bad News&quot; (Firebase Z)- at the base of the OPC. Gotta climb over a barrier near the entrance to Mission Control.</li>\r\n</ul>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lrllwd/complete_list_of_all_intel_cold_war_season/",
+        "tip": "Look beneath the outside of the OPC near the pipes, reached by the low barrier beside Mission Control. This is separate from To Dust You Will Return inside the quest-opened OPC."
       },
       {
         "title": "Maxis: radio transmissions",
-        "body": "Radio Transmissions\n\nLocation: Same place as the other Firebase Z ones\n\n* \"A Tangled Web\" (Firebase Z)\n\n* \"I Made a Promise\" (Firebase Z)",
-        "html": "<p>Radio Transmissions</p>\r\n<p>Location: Same place as the other Firebase Z ones</p>\r\n<ul>\r\n<li>&quot;A Tangled Web&quot; (Firebase Z)</li>\r\n<li>&quot;I Made a Promise&quot; (Firebase Z)</li>\r\n</ul>"
+        "original": true,
+        "body": "Use the Maxis radio on the Rocky Defense table below / in front of the Artillery terminal for A Tangled Web and I Made a Promise. One new transmission can be collected per match, so revisit in a later game for the next entry.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lrllwd/complete_list_of_all_intel_cold_war_season/",
+        "tip": "Treyarch fixed three inaccessible Firebase Z radio transmissions on March 8, 2021. Reports of them being permanently unavailable at Season Two's launch predate that fix."
       },
       {
         "title": "Dark Aether: audio logs",
         "body": "Audio Logs\n\n* \"Lost Souls: Fedorov #2\" (Firebase Z)",
         "html": "<p>Audio Logs</p>\r\n<ul>\r\n<li>&quot;Lost Souls: Fedorov #2&quot; (Firebase Z)</li>\r\n</ul>",
-        "tip": "Earn these through intel Trials and collect the intel at the Trial terminal. This method does not apply to the separate artifact pickups."
+        "tip": "Earn the listed entry through intel Trials and collect Intel Available at the Helipad terminal, rather than at a normal loot podium. Trial reward rarity and intel progress are separate.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lrllwd/complete_list_of_all_intel_cold_war_season/"
       },
       {
         "title": "Dark Aether: documents",
         "body": "Documents\n\n* \"Day 6,421\" (Firebase Z)\n\n* \"Day 6,457\" (Firebase Z)\n\n* \"Much More To Tell You\" (Firebase Z)",
         "html": "<p>Documents</p>\r\n<ul>\r\n<li>&quot;Day 6,421&quot; (Firebase Z)</li>\r\n<li>&quot;Day 6,457&quot; (Firebase Z)</li>\r\n<li>&quot;Much More To Tell You&quot; (Firebase Z)</li>\r\n</ul>",
-        "tip": "Earn these through intel Trials and collect the intel at the Trial terminal. This method does not apply to the separate artifact pickups."
+        "tip": "Earn the listed entry through intel Trials and collect Intel Available at the Helipad terminal, rather than at a normal loot podium. Trial reward rarity and intel progress are separate.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lrllwd/complete_list_of_all_intel_cold_war_season/"
       },
       {
         "title": "Dark Aether: radio transmissions",
         "body": "Radio Transmissions\n\n* \"Crooked House\" (Firebase Z)",
         "html": "<p>Radio Transmissions</p>\r\n<ul>\r\n<li>&quot;Crooked House&quot; (Firebase Z)</li>\r\n</ul>",
-        "tip": "Earn these through intel Trials and collect the intel at the Trial terminal. This method does not apply to the separate artifact pickups."
+        "tip": "Earn the listed entry through intel Trials and collect Intel Available at the Helipad terminal, rather than at a normal loot podium. Trial reward rarity and intel progress are separate.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lrllwd/complete_list_of_all_intel_cold_war_season/"
       }
     ],
     "sources": [
       {
         "title": "u/Ricerat477 — seasonal intel list and community location reports",
         "url": "https://www.reddit.com/r/CODZombies/comments/lrllwd/"
+      },
+      {
+        "title": "RadZakpak — independent Season Two pickup / radio roster",
+        "url": "https://www.callofdutyzombies.com/topic/220564-firebase-z-season-2-intel/"
+      },
+      {
+        "title": "Treyarch — March 8 radio-transmission fix",
+        "url": "https://www.treyarch.com/game-intel/2021/03/Mar_8_2021_Patch_Notes"
+      },
+      {
+        "title": "Firsthand Firebase Z faction-radio locations",
+        "url": "https://www.reddit.com/r/ColdWarZombies/comments/ouba3w/"
+      },
+      {
+        "title": "Treyarch — Season Two build changes",
+        "url": "https://www.treyarch.com/game-intel/2021/02/Season_Two_Details_and_Patch_Notes"
       }
     ],
     "sourceQuote": "https://www.reddit.com/r/CODZombies/comments/lrllwd/",
     "sourceOmissions": [
-      "Entries for the other map / mode in this multi-map release post are omitted from this map's checklist."
+      "Entries for the other map / mode in this multi-map release post are omitted from this map's checklist.",
+      "Vague 'same place' radio instructions and the mixed-map document heading are replaced with authored map-specific directions; unchanged quotations remain attributed to Ricerat477."
     ],
     "checked": "2026-10-16",
     "relatedGuideIds": [
-      "coldwar-firebase-z-main",
-      "coldwar-firebase-z-rai-k",
-      "coldwar-firebase-z-intel-season-1"
+      "coldwar-firebase-z-intel-audio-route",
+      "coldwar-firebase-z-intel-season-1",
+      "coldwar-firebase-z-trials",
+      "coldwar-firebase-z-power-pack-assault"
     ]
   },
   {
@@ -4392,6 +4490,1026 @@
     "relatedGuideIds": [
       "coldwar-die-maschine-environment-references",
       "coldwar-die-maschine-seeing-ghosts"
+    ],
+    "checked": "2026-10-16"
+  },
+  {
+    "id": "coldwar-firebase-z-power-pack-assault",
+    "mapId": "coldwar-firebase-z",
+    "title": "Power, Pack-a-Punch and assault recovery",
+    "category": "side",
+    "difficulty": "Easy",
+    "players": "1–4 players",
+    "summary": "Reach all three reactors, unlock the Village machines and restore a reactor after a failed defense.",
+    "requirements": [
+      "Black Ops Cold War: Firebase Z",
+      "Essence for doors and three 500-Essence reactor activations"
+    ],
+    "reward": "Powered outpost routes, Village Pack-a-Punch / Wunderfizz / Arsenal access and assault supplies.",
+    "steps": [
+      {
+        "title": "Reach the outpost",
+        "body": "Talk to Ravenov in the Atrium. Open Equipment Storage across the Village Courtyard, climb its stairs and cross the rooftop walkway. Take the teleporter to the outpost's Helipad.",
+        "researchSource": "https://www.callofduty.com/fr/blog/2021/02/Guide-to-Surviving-Firebase-Z"
+      },
+      {
+        "title": "Mission Control reactor",
+        "body": "From the Helipad, buy the route through Open Lot and into Mission Control. Pay 500 at its Aether Reactor. Stay near the collectors and kill the attacking zombies to fill them; defend the collectors until the reactor activates.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lemth3/a_guide_for_completing_the_main_ee_in_firebase_z/",
+        "images": [
+          {
+            "src": "./assets/batch6-firebase-z-main_ee-stabilize_the_breach-container_missioncontrol.webp",
+            "alt": "Mission Control: the purple reactor and surrounding collectors.",
+            "caption": "Mission Control: the purple reactor and surrounding collectors.",
+            "credit": "Gameplay screenshot supplied by mmmrkennedy; game © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
+          }
+        ]
+      },
+      {
+        "title": "Data Center reactor",
+        "body": "From the Helipad, take the Barracks / Field Hospital route to Data Center. Enter the circular building and reach its lower reactor. Pay 500, defend its collectors and kill nearby enemies until charging finishes.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lemth3/a_guide_for_completing_the_main_ee_in_firebase_z/",
+        "images": [
+          {
+            "src": "./assets/batch6-firebase-z-main_ee-stabilize_the_breach-container_datacenter.webp",
+            "alt": "Data Center: the reactor is below the upper circular walkway.",
+            "caption": "Data Center: the reactor is below the upper circular walkway.",
+            "credit": "Gameplay screenshot supplied by mmmrkennedy; game © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
+          }
+        ]
+      },
+      {
+        "title": "Military Command reactor",
+        "body": "Use the Motor Pool route from the Helipad. Go through Military Command to the open reactor courtyard. Pay 500 and complete the collector defense here as well. The three reactors can be activated in any order.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lemth3/a_guide_for_completing_the_main_ee_in_firebase_z/",
+        "images": [
+          {
+            "src": "./assets/batch6-firebase-z-main_ee-stabilize_the_breach-container_militarycommand.webp",
+            "alt": "Military Command: reactor in the open courtyard between control rooms.",
+            "caption": "Military Command: reactor in the open courtyard between control rooms.",
+            "credit": "Gameplay screenshot supplied by mmmrkennedy; game © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
+          }
+        ]
+      },
+      {
+        "title": "Return to Pack-a-Punch",
+        "body": "Take the Helipad teleporter back to the Village. All three reactors restore the Atrium Pack-a-Punch machine; no machine part or Dark Aether assembly is required. The powered Village rooms also give access to Wunderfizz and an Arsenal.",
+        "researchSource": "https://tracker.gg/cold-war/articles/black-ops-cold-war-zombies-firebase-z-pack-a-punch",
+        "images": [
+          {
+            "src": "./assets/batch6-firebase-z-pack-a-punch.png",
+            "alt": "Village Atrium: the powered Pack-a-Punch beside Ravenov's window.",
+            "caption": "Village Atrium: the powered Pack-a-Punch beside Ravenov's window.",
+            "credit": "Gameplay screenshot published by Ethan C / Tracker Network; game © Activision",
+            "source": "https://tracker.gg/cold-war/articles/black-ops-cold-war-zombies-firebase-z-pack-a-punch"
+          }
+        ]
+      },
+      {
+        "title": "Defend an assault zone",
+        "body": "Follow the assault HUD marker to Scorched, Rocky or Jungle Defense. Protect its terminal, using the provided Support or buying more there. A successful defense drops supplies.",
+        "researchSource": "https://www.callofduty.com/fr/blog/2021/02/Guide-to-Surviving-Firebase-Z",
+        "tip": "Later assault waves can include Orda. Do not confuse an assault Orda with the separate main-quest finale."
+      },
+      {
+        "title": "Restore lost power",
+        "body": "If attackers overrun the defense and disable its reactor, return to the affected Aether Reactor. Pay 500 again and kill the nearby enemies to refill its collectors, as during the opening activation.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/o21g6t/",
+        "tip": "A failed assault does not require restarting the match or repeating the whole main quest."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Activision / James Mattone — outpost routes, power access and assault rules",
+        "url": "https://www.callofduty.com/fr/blog/2021/02/Guide-to-Surviving-Firebase-Z"
+      },
+      {
+        "title": "RedGecko18 — reactor activation and solo setup",
+        "url": "https://www.reddit.com/r/CODZombies/comments/lemth3/a_guide_for_completing_the_main_ee_in_firebase_z/"
+      },
+      {
+        "title": "Ethan C — Firebase Pack-a-Punch access",
+        "url": "https://tracker.gg/cold-war/articles/black-ops-cold-war-zombies-firebase-z-pack-a-punch"
+      },
+      {
+        "title": "Firsthand reactor recovery after a failed assault",
+        "url": "https://www.reddit.com/r/CODZombies/comments/o21g6t/"
+      },
+      {
+        "title": "Treyarch — November 2021 assault-Orda scaling fix",
+        "url": "https://www.treyarch.com/game-intel/2021/11/November_2nd_Update"
+      },
+      {
+        "title": "mmmrkennedy — physical reactor photos",
+        "url": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
+      }
+    ],
+    "relatedGuideIds": [
+      "coldwar-firebase-z-main",
+      "coldwar-firebase-z-weapons-upgrades",
+      "coldwar-firebase-z-free-jump-pads"
+    ],
+    "checked": "2026-10-16"
+  },
+  {
+    "id": "coldwar-firebase-z-weapons-upgrades",
+    "mapId": "coldwar-firebase-z",
+    "title": "RAI K use, acquisition and weapon upgrades",
+    "category": "weapon",
+    "difficulty": "Easy",
+    "players": "1–4 players",
+    "summary": "Compare the free build and random reward routes, then upgrade the RAI K and ordinary weapons.",
+    "requirements": [
+      "Power all three reactors for the Village machines",
+      "Essence and both Salvage types; a RAI K for its fire-mode steps"
+    ],
+    "reward": "A stronger loadout and the RAI K orb needed for the main quest.",
+    "steps": [
+      {
+        "title": "Choose a RAI K route",
+        "body": "For a planned free RAI K, use the linked build guide. Additional RAI Ks can appear from a Legendary Trials reward, the Mystery Box or the bunny chest. These reward rolls are random: repeat the chosen method until it actually offers the weapon.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/locfpn/",
+        "tip": "The build provides a shared free pickup. Agree who takes it in co-op. A Legendary Trial reward is not a guaranteed RAI K."
+      },
+      {
+        "title": "Pack-a-Punch three times",
+        "body": "Return to the powered machine in the Village Atrium and hold the weapon you want to upgrade. Buy tiers I, II and III for 5,000, 15,000 and 30,000 Essence: 50,000 in total from an unpacked gun. These tiers also apply to the RAI K-84.",
+        "researchSource": "https://www.callofduty.com/blog/2021/07/black-ops-cold-war-zombies-mauer-der-toten-tips",
+        "images": [
+          {
+            "src": "./assets/batch6-firebase-z-pack-a-punch.png",
+            "alt": "Village Atrium: use the machine while holding the weapon you intend to upgrade.",
+            "caption": "Village Atrium: use the machine while holding the weapon you intend to upgrade.",
+            "credit": "Gameplay screenshot published by Ethan C / Tracker Network; game © Activision",
+            "source": "https://tracker.gg/cold-war/articles/black-ops-cold-war-zombies-firebase-z-pack-a-punch"
+          }
+        ]
+      },
+      {
+        "title": "Upgrade an ordinary gun's rarity",
+        "body": "At an Arsenal, use the weapon tab. Uncommon costs 500 common Salvage; Rare costs another 1,000 common Salvage. Epic costs 500 high-grade Salvage; Legendary costs another 1,000 high-grade Salvage. Pack-a-Punch and rarity are separate upgrades.",
+        "researchSource": "https://www.reddit.com/r/ColdWarZombies/comments/nlv53d/",
+        "tip": "The RAI K already uses Wonder Weapon rarity. Its damage upgrade is Pack-a-Punch; the ordinary green-to-orange Arsenal ladder is not an additional RAI K upgrade."
+      },
+      {
+        "title": "Buy and repair armor",
+        "body": "At an Arsenal, armor tier I costs 500 common Salvage, tier II another 1,000 common Salvage and tier III 250 high-grade Salvage. Revisit the armor tab to repair damaged plates before the quest's dome challenge or finale.",
+        "researchSource": "https://www.reddit.com/r/ColdWarZombies/comments/nei9g8/"
+      },
+      {
+        "title": "Choose an ammo mod",
+        "body": "At Pack-a-Punch, open the Ammo Mods tab for an ordinary weapon and buy your chosen mod for 2,000 Essence. The available effects are Napalm Burst, Dead Wire, Cryofreeze, Brain Rot and Shatter Blast.",
+        "researchSource": "https://www.reddit.com/r/blackopscoldwar/comments/luudkh/",
+        "tip": "Brain Rot is useful for the friendly-Hellhound interaction. Ammo mods can kill a quest Mimic before you trap it; use a controlled, weaker gun for captures."
+      },
+      {
+        "title": "Use the two RAI K fire modes",
+        "body": "Use your fire-mode control to alternate between automatic energy bolts and the slower energy orb. Fire an orb into the ground near a horde, switch back to the primary mode and shoot the orb until it expands and explodes.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lcx1ml/just_in_case_you_didnt_know_the_most_effective/",
+        "tip": "This interaction works without Pack-a-Punch. Use the game's fire-mode binding; do not replace the detonation with a fixed shot count."
+      },
+      {
+        "title": "Keep an orb for the quest",
+        "body": "The moving Barracks canister is stopped by the RAI K's secondary orb. Shoot beside the canister, then approach and collect it while slowed. This is one RAI K function, not a separate elemental-upgrade quest.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lepgsv/firebase_z_easter_egg_guide_made_simple/",
+        "tip": "Firebase Z's standard Wonder Weapon is the RAI K. The Ray Gun is not a standard Firebase Z reward-pool route, and Die Maschine's four D.I.E. elemental quests do not apply here."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Firsthand Firebase Legendary Trials acquisition discussion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/locfpn/"
+      },
+      {
+        "title": "Ethan C — RAI K build and alternative acquisition routes",
+        "url": "https://tracker.gg/cold-war/articles/black-ops-cold-war-zombies-firebase-z-free-rai-k-94"
+      },
+      {
+        "title": "Zackatosh — RAI K secondary fire and moving canister",
+        "url": "https://www.reddit.com/r/CODZombies/comments/lepgsv/firebase_z_easter_egg_guide_made_simple/"
+      },
+      {
+        "title": "Activision — three Pack-a-Punch tiers and prices",
+        "url": "https://www.callofduty.com/blog/2021/07/black-ops-cold-war-zombies-mauer-der-toten-tips"
+      },
+      {
+        "title": "Firsthand Arsenal weapon-rarity costs",
+        "url": "https://www.reddit.com/r/ColdWarZombies/comments/nlv53d/"
+      },
+      {
+        "title": "Firsthand armor-tier costs",
+        "url": "https://www.reddit.com/r/ColdWarZombies/comments/nei9g8/"
+      },
+      {
+        "title": "Firsthand RAI K orb / primary-fire interaction",
+        "url": "https://www.reddit.com/r/CODZombies/comments/lcx1ml/just_in_case_you_didnt_know_the_most_effective/"
+      },
+      {
+        "title": "Firsthand Wonder Weapon rarity limitation",
+        "url": "https://www.reddit.com/r/CODZombies/comments/ohr4ax/"
+      },
+      {
+        "title": "Firsthand Firebase Ray Gun pool discussion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/ldf4cr/"
+      },
+      {
+        "title": "RedGecko18 — bunny chest random RAI K reward",
+        "url": "https://www.reddit.com/r/CODZombies/comments/lemth3/a_guide_for_completing_the_main_ee_in_firebase_z/"
+      },
+      {
+        "title": "Firsthand Ammo Mods tab and 2,000-Essence price",
+        "url": "https://www.reddit.com/r/blackopscoldwar/comments/luudkh/"
+      },
+      {
+        "title": "Treyarch — Season Two Shatter Blast addition",
+        "url": "https://www.treyarch.com/game-intel/2021/02/Season_Two_Details_and_Patch_Notes"
+      },
+      {
+        "title": "Firsthand one free RAI K build per match",
+        "url": "https://www.reddit.com/r/CODZombies/comments/ng12sw/"
+      },
+      {
+        "title": "mmmrkennedy — RAI K Pack-a-Punch capability",
+        "url": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
+      }
+    ],
+    "relatedGuideIds": [
+      "coldwar-firebase-z-power-pack-assault",
+      "coldwar-firebase-z-rai-k",
+      "coldwar-firebase-z-trials",
+      "coldwar-firebase-z-bunny-loot",
+      "coldwar-firebase-z-main",
+      "coldwar-firebase-z-pet-hellhound"
+    ],
+    "checked": "2026-10-16"
+  },
+  {
+    "id": "coldwar-firebase-z-trials",
+    "mapId": "coldwar-firebase-z",
+    "title": "Trials: Legendary rewards and Dark Aether intel",
+    "category": "side",
+    "difficulty": "Easy",
+    "players": "1–4 players",
+    "summary": "Use the Helipad terminal for random high-tier loot or the separate intel collection prompt.",
+    "requirements": [
+      "Reach the Helipad through the Village teleporter",
+      "Essence for the terminal's displayed Trial price",
+      "For intel, use a profile-connected match and check Barracks → Intel"
+    ],
+    "reward": "Random Trial loot, a possible RAI K at Legendary, and eligible Dark Aether intel.",
+    "steps": [
+      {
+        "title": "Start a Helipad Trial",
+        "body": "Pay the displayed price at the Helipad Trials computer. Complete its objective before the timer expires. For a location objective, buy access to the named room if needed.",
+        "researchSource": "https://www.callofduty.com/fr/blog/2021/02/Guide-to-Surviving-Firebase-Z",
+        "tip": "Use the objective shown in this match rather than assuming every Trial can be completed with doors closed."
+      },
+      {
+        "title": "Keep your reward unclaimed",
+        "body": "For a stronger normal reward, leave your reward podium alone after an early Trial. Buy another Trial and keep completing objectives to raise the existing reward through its tiers. Stop when the HUD says Legendary.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/locfpn/"
+      },
+      {
+        "title": "Claim your own reward",
+        "body": "Use your marked reward podium to claim a Legendary reward. Collect the offered loot. If it is not a RAI K, build a new reward through more Trials or switch to the deterministic free-build route.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/locfpn/",
+        "tip": "In co-op, each player develops and claims their own Trial reward. Do not promise a specific weapon or chance percentage."
+      },
+      {
+        "title": "Watch for the intel icon",
+        "body": "For missing Dark Aether entries, run Trials when the terminal displays the intel / folder opportunity. Complete enough of the objective for the Intel Available message.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lbvwc4/complete_list_of_all_intel_cold_war_firebase_z/",
+        "tip": "An intel opportunity is separate from the ordinary reward-tier meter. A Legendary podium is not the intel collection point."
+      },
+      {
+        "title": "Collect intel at the computer",
+        "body": "Return to the Trials computer and use its intel-collection prompt. Check the entry in Barracks → Intel after the match. Continue Trials for another opportunity; if none appears, start a new match and check what remains.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lbvwc4/complete_list_of_all_intel_cold_war_firebase_z/",
+        "tip": "Historical players report per-match limits, often three intel rewards. The current exact cap is unresolved here; follow the terminal rather than an assumed quota."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Activision — Helipad Trials computer",
+        "url": "https://www.callofduty.com/fr/blog/2021/02/Guide-to-Surviving-Firebase-Z"
+      },
+      {
+        "title": "Firsthand unclaimed rewards / Legendary RAI K discussion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/locfpn/"
+      },
+      {
+        "title": "Ricerat477 — Dark Aether intel acquisition",
+        "url": "https://www.reddit.com/r/CODZombies/comments/lbvwc4/complete_list_of_all_intel_cold_war_firebase_z/"
+      },
+      {
+        "title": "Ricerat477 — Season Two Dark Aether additions",
+        "url": "https://www.reddit.com/r/CODZombies/comments/lrllwd/complete_list_of_all_intel_cold_war_season/"
+      },
+      {
+        "title": "Historical firsthand per-match intel cap reports",
+        "url": "https://www.reddit.com/r/CODZombies/comments/q5j735/"
+      }
+    ],
+    "relatedGuideIds": [
+      "coldwar-firebase-z-rai-k",
+      "coldwar-firebase-z-weapons-upgrades",
+      "coldwar-firebase-z-intel-season-1",
+      "coldwar-firebase-z-intel-season-2"
+    ],
+    "checked": "2026-10-16"
+  },
+  {
+    "id": "coldwar-firebase-z-pet-hellhound",
+    "mapId": "coldwar-firebase-z",
+    "title": "Pet a Brain Rot Hellhound",
+    "category": "side",
+    "difficulty": "Easy",
+    "players": "1–4 players",
+    "summary": "Turn a Hellhound friendly, then interact for the small Good Boy bonus.",
+    "requirements": [
+      "A normal gun with the Brain Rot ammo mod",
+      "A live Hellhound; main-quest mixing can produce them before their later ordinary appearances"
+    ],
+    "reward": "The petting interaction and a 50-Essence Good Boy bonus.",
+    "steps": [
+      {
+        "title": "Apply Brain Rot",
+        "body": "At Pack-a-Punch, put Brain Rot on an ordinary gun. Shoot a Hellhound carefully until Brain Rot turns it into a friendly ally. Keep enough distance that it does not reach you and explode first.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lcblld/"
+      },
+      {
+        "title": "Approach the friendly hound",
+        "body": "When the friendly Hellhound pauses out of combat, approach and use the Pet / Interact prompt. If it is busy attacking or dies before you can interact, try another conversion.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lcnva8/"
+      },
+      {
+        "title": "Check the Good Boy bonus",
+        "body": "The successful petting animation awards the 50-Essence Good Boy bonus. Brain Rot remains temporary; this does not recruit a permanent pet for the match.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/m4is54/"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Firsthand Firebase Hellhound discovery — Brain Rot petting",
+        "url": "https://www.reddit.com/r/CODZombies/comments/lcblld/"
+      },
+      {
+        "title": "NubletTheNublet — petting screenshot and firsthand reports",
+        "url": "https://www.reddit.com/r/CODZombies/comments/lcnva8/"
+      },
+      {
+        "title": "Firsthand Good Boy bonus amount",
+        "url": "https://www.reddit.com/r/CODZombies/comments/m4is54/"
+      }
+    ],
+    "relatedGuideIds": [
+      "coldwar-firebase-z-power-pack-assault",
+      "coldwar-firebase-z-main",
+      "coldwar-firebase-z-weapons-upgrades"
+    ],
+    "checked": "2026-10-16"
+  },
+  {
+    "id": "coldwar-firebase-z-loose-change",
+    "mapId": "coldwar-firebase-z",
+    "title": "Loose change: perk-machine Essence",
+    "category": "side",
+    "difficulty": "Easy",
+    "players": "1–4 players",
+    "summary": "Go prone at the six physical perk stations for their first-claim bonus.",
+    "requirements": [
+      "Access to each station; restore all three reactors for the full route",
+      "A teammate may already have claimed a station's bonus"
+    ],
+    "reward": "100 Essence per untouched station; up to 600 across these six stations.",
+    "steps": [
+      {
+        "title": "Prone at the machine",
+        "body": "Move directly in front of a perk machine and go fully prone. Check for the 100-Essence bonus. A station pays only its first claimant in the match; do not wait for a second payout if a teammate already took it.",
+        "researchSource": "https://www.codzombieguides.com/firebase-z"
+      },
+      {
+        "title": "Check Village stations",
+        "body": "Check Quick Revive near Equipment Storage. After restoring power, check Der Wunderfizz in the Village Mess Hall.",
+        "researchSource": "https://www.codzombieguides.com/firebase-z",
+        "tip": "Wunderfizz counts as one physical station, not a separate change payout for every perk it sells."
+      },
+      {
+        "title": "Check the outpost stations",
+        "body": "Check Tombstone at the Helipad, Stamin-Up inside Mission Control, Speed Cola on Data Center's upper floor, and Juggernog in Military Command. Together with the two Village stations, these make six stops.",
+        "researchSource": "https://www.codzombieguides.com/firebase-z"
+      }
+    ],
+    "sources": [
+      {
+        "title": "empty_bbox — firsthand Firebase route including Wunderfizz change",
+        "url": "https://www.reddit.com/r/blackopscoldwar/comments/p7woz4/"
+      },
+      {
+        "title": "Activision / James Mattone — physical perk-machine locations",
+        "url": "https://www.callofduty.com/fr/blog/2021/02/Guide-to-Surviving-Firebase-Z"
+      },
+      {
+        "title": "JokerAlex21 — six machines and first-player-only bonus",
+        "url": "https://www.codzombieguides.com/firebase-z"
+      }
+    ],
+    "relatedGuideIds": [
+      "coldwar-firebase-z-power-pack-assault"
+    ],
+    "checked": "2026-10-16"
+  },
+  {
+    "id": "coldwar-firebase-z-intel-audio-route",
+    "mapId": "coldwar-firebase-z",
+    "title": "Intel: all 17 fixed audio-log pickups",
+    "category": "side",
+    "difficulty": "Easy",
+    "players": "1–4 players",
+    "summary": "A chapter for each physical audio pickup, with the three Season Two additions identified.",
+    "requirements": [
+      "A profile-connected Firebase Z match and access to the powered Village / outpost rooms",
+      "Locker Key from the RAI K route for Worse Than Baton Rouge",
+      "Main-quest floppy disk access to the OPC for To Dust You Will Return",
+      "This route covers fixed physical audio pickups. The Dark Aether Lost Souls entries come from intel Trials instead."
+    ],
+    "reward": "The named audio logs become readable / playable in Barracks → Intel.",
+    "sourceQuote": "https://www.reddit.com/r/CODZombies/comments/lbvwc4/complete_list_of_all_intel_cold_war_firebase_z/",
+    "supplementNote": "Collection-location excerpts are quoted from Ricerat477. Short navigation and quest checkpoints are authored additions; use each chapter's Step reference for its exact source.",
+    "steps": [
+      {
+        "title": "They Took Her — Atrium",
+        "body": "On a bench above PaP.",
+        "html": "<p>On a bench above PaP.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lbvwc4/complete_list_of_all_intel_cold_war_firebase_z/",
+        "tip": "Village: climb above the Pack-a-Punch room and interact with the tape."
+      },
+      {
+        "title": "Workers of the Worlds — Storage",
+        "body": "in equipment storage, on the back wall of floor 1, on a shelf",
+        "html": "<p>in equipment storage, on the back wall of floor 1, on a shelf</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lbvwc4/complete_list_of_all_intel_cold_war_firebase_z/",
+        "tip": "Village: check the ground-floor back wall before taking the rooftop teleporter."
+      },
+      {
+        "title": "Not Who We Are — Scientist Quarters",
+        "body": "after turning on power, go to the scientist quarters, and on the inaccessible floor above you the audio log will be sitting, shoot it and it will be on the floor in the Briefing room.",
+        "html": "<p>after turning on power, go to the scientist quarters, and on the inaccessible floor above you the audio log will be sitting, shoot it and it will be on the floor in the Briefing room.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lbvwc4/complete_list_of_all_intel_cold_war_firebase_z/",
+        "tip": "Shoot the high pickup down, then collect it from the room below."
+      },
+      {
+        "title": "Half of the Reason — Scientist Quarters",
+        "body": "Under a bunk bed in Scientist Quarters, in the starting area",
+        "html": "<p>Under a bunk bed in Scientist Quarters, in the starting area</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lrllwd/complete_list_of_all_intel_cold_war_season/",
+        "tip": "Season Two addition: enter the powered Village rooms and look under the bunk."
+      },
+      {
+        "title": "Ravenov — Data Center",
+        "body": "on a table in the outer ring of Data Center, first floor near a cabinet of data reels.",
+        "html": "<p>on a table in the outer ring of Data Center, first floor near a cabinet of data reels.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lbvwc4/complete_list_of_all_intel_cold_war_firebase_z/"
+      },
+      {
+        "title": "Meeting of Minds — Military Command",
+        "body": "In military Command, under the desk near the zombie barrier",
+        "html": "<p>In military Command, under the desk near the zombie barrier</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lbvwc4/complete_list_of_all_intel_cold_war_firebase_z/"
+      },
+      {
+        "title": "Gorev — Colonel's Office",
+        "body": "in colonels office, under the desk with the monitor bank",
+        "html": "<p>in colonels office, under the desk with the monitor bank</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lbvwc4/complete_list_of_all_intel_cold_war_firebase_z/"
+      },
+      {
+        "title": "Aethernauts — Planning Offices",
+        "body": "In Planning Offices under the desk in the middle of the room",
+        "html": "<p>In Planning Offices under the desk in the middle of the room</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lbvwc4/complete_list_of_all_intel_cold_war_firebase_z/"
+      },
+      {
+        "title": "Kuhlklay's Payback — Weapons Lab",
+        "body": "on a shelf in weapons lab , directly across from the RAI K-84 blueprint.",
+        "html": "<p>on a shelf in weapons lab , directly across from the RAI K-84 blueprint.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lbvwc4/complete_list_of_all_intel_cold_war_firebase_z/",
+        "tip": "This is an audio log; the RAI K blueprint is a separate artifact."
+      },
+      {
+        "title": "The Anatomy Lesson — Field Hospital",
+        "body": "In field Hospital, near the exit to the Mission control area",
+        "html": "<p>In field Hospital, near the exit to the Mission control area</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lbvwc4/complete_list_of_all_intel_cold_war_firebase_z/"
+      },
+      {
+        "title": "Outpost 25 Has Fallen — Mission Control",
+        "body": "In Mission Control, on a table by a window, near the top most charge collector.",
+        "html": "<p>In Mission Control, on a table by a window, near the top most charge collector.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lbvwc4/complete_list_of_all_intel_cold_war_firebase_z/"
+      },
+      {
+        "title": "Dimensional Fertility — Scorched Defense",
+        "body": "in Scorched Defense, on top of the building with the minigun.",
+        "html": "<p>in Scorched Defense, on top of the building with the minigun.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lbvwc4/complete_list_of_all_intel_cold_war_firebase_z/"
+      },
+      {
+        "title": "Let It Ride — Engineering",
+        "body": "on top of some pipes in Engineering. Shoot it down.",
+        "html": "<p>on top of some pipes in Engineering. Shoot it down.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lbvwc4/complete_list_of_all_intel_cold_war_firebase_z/",
+        "tip": "Collect the dropped tape after shooting it off the pipes."
+      },
+      {
+        "title": "Worse Than Baton Rouge — Barracks",
+        "body": "Inside a locker in the barracks. Need the key from the free WW egg to unlock.",
+        "html": "<p>Inside a locker in the barracks. Need the key from the free WW egg to unlock.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lbvwc4/complete_list_of_all_intel_cold_war_firebase_z/",
+        "tip": "Retrieve Kuhlklay's eye, scan it in Weapons Lab and take the Locker Key; see the RAI K build companion."
+      },
+      {
+        "title": "To Dust You Will Return — OPC",
+        "body": "Inside the \"Omega Portal Chamber\"(part of the main EE)",
+        "html": "<p>Inside the &quot;Omega Portal Chamber&quot;(part of the main EE)</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lbvwc4/complete_list_of_all_intel_cold_war_firebase_z/",
+        "tip": "Finish the three useful Mimic memories and use their floppy disk in Planning Offices to open the OPC. Enter and collect the log before progressing toward the finale."
+      },
+      {
+        "title": "Focal Point — Data Center ledge",
+        "body": "On the corner of the building on a ledge, near the sattalite dish. Rocky Defense. Need to shoot it down.",
+        "html": "<p>On the corner of the building on a ledge, near the sattalite dish. Rocky Defense. Need to shoot it down.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lrllwd/complete_list_of_all_intel_cold_war_season/",
+        "tip": "Season Two addition: look up from Rocky Defense toward Data Center. The tape is on the building ledge, not on the satellite dish. Shoot it down and collect it."
+      },
+      {
+        "title": "More Bad News — below the OPC",
+        "body": "at the base of the OPC. Gotta climb over a barrier near the entrance to Mission Control.",
+        "html": "<p>at the base of the OPC. Gotta climb over a barrier near the entrance to Mission Control.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lrllwd/complete_list_of_all_intel_cold_war_season/",
+        "tip": "Season Two addition: search below the outside OPC structure near the Mission Control approach. This is separate from To Dust You Will Return inside the chamber."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Ricerat477 — quoted Firebase launch audio locations",
+        "url": "https://www.reddit.com/r/CODZombies/comments/lbvwc4/complete_list_of_all_intel_cold_war_firebase_z/"
+      },
+      {
+        "title": "Ricerat477 — quoted Season Two audio locations",
+        "url": "https://www.reddit.com/r/CODZombies/comments/lrllwd/complete_list_of_all_intel_cold_war_season/"
+      },
+      {
+        "title": "CoDZ / Pinnaz — independent launch title and faction roster",
+        "url": "https://www.callofdutyzombies.com/topic/219207-firebase-z-season-1-intel/"
+      },
+      {
+        "title": "CoDZ / Pinnaz — independent Season Two roster",
+        "url": "https://www.callofdutyzombies.com/topic/220564-firebase-z-season-2-intel/"
+      },
+      {
+        "title": "Dry-Matter-4988 — original Focal Point location video linked by the collector",
+        "url": "https://www.youtube.com/watch?v=YwtNW4SkCf8"
+      }
+    ],
+    "relatedGuideIds": [
+      "coldwar-firebase-z-power-pack-assault",
+      "coldwar-firebase-z-rai-k",
+      "coldwar-firebase-z-main",
+      "coldwar-firebase-z-trials",
+      "coldwar-firebase-z-intel-season-1",
+      "coldwar-firebase-z-intel-season-2"
+    ],
+    "checked": "2026-10-16"
+  },
+  {
+    "id": "coldwar-firebase-z-intel-artifacts",
+    "mapId": "coldwar-firebase-z",
+    "title": "Intel: ten quest artifacts",
+    "category": "side",
+    "difficulty": "Easy",
+    "players": "1–4 players",
+    "summary": "Separate pickup checkpoints for every launch artifact, with direct build / quest companions.",
+    "requirements": [
+      "A profile-connected Firebase Z match",
+      "Follow the linked RAI K build and main quest as their tools unlock",
+      "Personally interact with collectible pickups and check Barracks → Intel afterward; some launch-era entries had tracking bugs"
+    ],
+    "reward": "Four Requiem, five Omega and one Dark Aether artifact entries, subject to their recorded pickup / tracking conditions.",
+    "sourceQuote": "https://www.reddit.com/r/CODZombies/comments/lbvwc4/complete_list_of_all_intel_cold_war_firebase_z/",
+    "supplementNote": "Collection-location excerpts are quoted from Ricerat477. Short navigation and quest checkpoints are authored additions; use each chapter's Step reference for its exact source.",
+    "steps": [
+      {
+        "title": "RAI K-84 Blueprint — Requiem",
+        "body": "on the wall in Weapon Lab",
+        "html": "<p>on the wall in Weapon Lab</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lbvwc4/complete_list_of_all_intel_cold_war_firebase_z/",
+        "tip": "Power the outpost and interact with the blueprint above the build bench. This starts the free RAI K route.",
+        "images": [
+          {
+            "src": "./assets/batch6-firebase-z-raik84-blueprint.webp",
+            "alt": "Weapons Lab: blueprint above the build bench.",
+            "caption": "Weapons Lab: blueprint above the build bench.",
+            "credit": "Gameplay screenshot supplied by mmmrkennedy; game © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
+          }
+        ]
+      },
+      {
+        "title": "Weapon Trial Folder — Requiem",
+        "body": "on the ground next to Kuhlklay's Body",
+        "html": "<p>on the ground next to Kuhlklay's Body</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lbvwc4/complete_list_of_all_intel_cold_war_firebase_z/",
+        "tip": "Scorched Defense: take the folder beside the tank corpse. Removing his eye is a separate Omega artifact.",
+        "images": [
+          {
+            "src": "./assets/batch6-firebase-z-raik84-tank_body.webp",
+            "alt": "Scorched Defense corpse landmark; the Weapon Trial Folder is a separate ground pickup beside this body.",
+            "caption": "Scorched Defense corpse landmark; the Weapon Trial Folder is a separate ground pickup beside this body.",
+            "credit": "Gameplay screenshot supplied by mmmrkennedy; game © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
+          }
+        ]
+      },
+      {
+        "title": "Kuhlklay's Diary — Requiem",
+        "body": "obtained from a locker, requires the locker key from the free ww easter egg.",
+        "html": "<p>obtained from a locker, requires the locker key from the free ww easter egg.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lbvwc4/complete_list_of_all_intel_cold_war_firebase_z/",
+        "tip": "Use the eye on the Weapons Lab scanner, take the key, then search the small keyed lockers in both Barracks buildings.",
+        "images": [
+          {
+            "src": "./assets/batch6-firebase-z-raik84-mimic_locker.webp",
+            "alt": "Barracks: small keyed lockers between the bunks.",
+            "caption": "Barracks: small keyed lockers between the bunks.",
+            "credit": "Gameplay screenshot supplied by mmmrkennedy; game © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
+          }
+        ]
+      },
+      {
+        "title": "RAI K-84 Prototype — Requiem",
+        "body": "obtain the ww. May need to be the free one from the quest.",
+        "html": "<p>obtain the ww. May need to be the free one from the quest.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lbvwc4/complete_list_of_all_intel_cold_war_firebase_z/",
+        "tip": "Complete the linked build and personally take its free RAI K. The later firsthand report confirms that a Box / Trials RAI K does not substitute for this artifact."
+      },
+      {
+        "title": "Kuhlklay's Eye — Omega",
+        "body": "in scorched defense, in a dead body leaning up against a blown up tank.",
+        "html": "<p>in scorched defense, in a dead body leaning up against a blown up tank.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lbvwc4/complete_list_of_all_intel_cold_war_firebase_z/",
+        "tip": "Take the RAI K blueprint first, then interact with the corpse to remove the eye.",
+        "images": [
+          {
+            "src": "./assets/batch6-firebase-z-raik84-tank_body.webp",
+            "alt": "Scorched Defense: corpse against the tank.",
+            "caption": "Scorched Defense: corpse against the tank.",
+            "credit": "Gameplay screenshot supplied by mmmrkennedy; game © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
+          }
+        ]
+      },
+      {
+        "title": "Ravenov ID Badge — Omega",
+        "body": "- Once power is on everywhere, speak with Peck under the platform in Mission Control.\n\n- Return to Ravanov, he'll tell you to create a truth serum and give you a keycard for three lockers.",
+        "html": "<p>- Once power is on everywhere, speak with Peck under the platform in Mission Control.</p>\n<p>- Return to Ravanov, he'll tell you to create a truth serum and give you a keycard for three lockers.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lepgsv/firebase_z_easter_egg_guide_made_simple/",
+        "tip": "After power is restored, finish Peck's dialogue, speak to Ravenov and collect the badge at his window."
+      },
+      {
+        "title": "Agent Delivery System — Omega",
+        "body": "- Head to Field Hospital, where you can now interact with the mixer on the table. Be careful of the Hell-hounds that will spawn.",
+        "html": "<p>- Head to Field Hospital, where you can now interact with the mixer on the table. Be careful of the Hell-hounds that will spawn.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lepgsv/firebase_z_easter_egg_guide_made_simple/",
+        "tip": "Use Ravenov's badge on the Equipment Storage, Engineering and Colonel's Office cabinets. Mix their three compounds in Field Hospital; when finished, pick up the completed system.",
+        "images": [
+          {
+            "src": "./assets/batch6-firebase-z-main_ee-creating_the_serum-chem_mixer.webp",
+            "alt": "Field Hospital: mix the three ingredients at this table.",
+            "caption": "Field Hospital: mix the three ingredients at this table.",
+            "credit": "Gameplay screenshot supplied by mmmrkennedy; game © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
+          },
+          {
+            "src": "./assets/batch6-firebase-z-main_ee-creating_the_serum-agent_delivery_system.webp",
+            "alt": "Field Hospital: collect the finished Agent Delivery System from the table.",
+            "caption": "Field Hospital: collect the finished Agent Delivery System from the table.",
+            "credit": "Gameplay screenshot supplied by mmmrkennedy; game © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
+          }
+        ]
+      },
+      {
+        "title": "Essence Trap — Omega",
+        "body": "- Peck will now tell you to collect three memories for the Portal Activation Codes and Maxis' ID. Head to the Data Centre Top Floor. Next to the balcony door near Speed Cola will be a machine with four devices on the front of it.\n\n- Interact with this machine and you will now be able to collect the Essence Traps. These will replace your tactical equipment.",
+        "html": "<p>- Peck will now tell you to collect three memories for the Portal Activation Codes and Maxis' ID. Head to the Data Centre Top Floor. Next to the balcony door near Speed Cola will be a machine with four devices on the front of it.</p>\n<p>- Interact with this machine and you will now be able to collect the Essence Traps. These will replace your tactical equipment.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lepgsv/firebase_z_easter_egg_guide_made_simple/",
+        "tip": "Deliver the serum to Peck's air conditioner and finish his dialogue to unlock the station.",
+        "images": [
+          {
+            "src": "./assets/batch6-firebase-z-main_ee-collect_the_mimic_memories-mimic_trapstation.webp",
+            "alt": "Upper Data Center: unlock traps at the Memory Transference Station.",
+            "caption": "Upper Data Center: unlock traps at the Memory Transference Station.",
+            "credit": "Gameplay screenshot supplied by mmmrkennedy; game © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
+          }
+        ]
+      },
+      {
+        "title": "Aethermeter — Omega",
+        "body": "- Ravanov will give you a code that can be used for the locker that is located next to Peck in Mission Control. This will give you the Aethermetre.",
+        "html": "<p>- Ravanov will give you a code that can be used for the locker that is located next to Peck in Mission Control. This will give you the Aethermetre.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lepgsv/firebase_z_easter_egg_guide_made_simple/",
+        "tip": "Finish the three correct Mimic memories, insert the floppy disk, approach the unstable OPC breach and finish Peck / Ravenov's dialogue first.",
+        "images": [
+          {
+            "src": "./assets/batch6-firebase-z-main_ee-stabilize_the_breach-locker_peck.webp",
+            "alt": "Mission Control: Aethermeter locker beside Peck's window.",
+            "caption": "Mission Control: Aethermeter locker beside Peck's window.",
+            "credit": "Gameplay screenshot supplied by mmmrkennedy; game © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
+          }
+        ]
+      },
+      {
+        "title": "Omega Canister — Dark Aether",
+        "body": "Progress the main quest until you have the Aethermeter and shovel. Dig at the Field Hospital door nearest the Data Center stairs. Use the RAI K's secondary orb to stop the teleporting container, then collect it. Continue the crystal route and finish the quest.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lgoxiu/",
+        "original": true,
+        "tip": "Launch-era collectors reported that taking this teleporting container before the Open Lot and Jungle containers was needed for credit. Use that order if hunting this artifact; check your own Intel menu afterward. Current order / co-op tracking is unresolved.",
+        "images": [
+          {
+            "src": "./assets/batch6-firebase-z-main_ee-stabilize_the_breach-container_hospital.webp",
+            "alt": "Barracks / Field Hospital: dig beside the door at the Data Center stairs.",
+            "caption": "Barracks / Field Hospital: dig beside the door at the Data Center stairs.",
+            "credit": "Gameplay screenshot supplied by mmmrkennedy; game © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "Ricerat477 — quoted artifact roster and collector reports",
+        "url": "https://www.reddit.com/r/CODZombies/comments/lbvwc4/complete_list_of_all_intel_cold_war_firebase_z/"
+      },
+      {
+        "title": "Zackatosh — quoted badge, delivery-system, trap and meter checkpoints",
+        "url": "https://www.reddit.com/r/CODZombies/comments/lepgsv/firebase_z_easter_egg_guide_made_simple/"
+      },
+      {
+        "title": "Firsthand Omega Canister launch tracking / completion reports",
+        "url": "https://www.reddit.com/r/CODZombies/comments/lgoxiu/"
+      },
+      {
+        "title": "CoDZ / Pinnaz — independent artifact roster",
+        "url": "https://www.callofdutyzombies.com/topic/219207-firebase-z-season-1-intel/"
+      },
+      {
+        "title": "Firsthand build-specific Prototype intel and cannon targeting",
+        "url": "https://www.reddit.com/r/CODZombies/comments/p9slqq/"
+      }
+    ],
+    "relatedGuideIds": [
+      "coldwar-firebase-z-rai-k",
+      "coldwar-firebase-z-main",
+      "coldwar-firebase-z-intel-season-1"
+    ],
+    "checked": "2026-10-16"
+  },
+  {
+    "id": "coldwar-firebase-z-ciphers",
+    "mapId": "coldwar-firebase-z",
+    "title": "P, G and C: cipher documents and solutions",
+    "category": "side",
+    "difficulty": "Medium",
+    "players": "1–4 players",
+    "summary": "Collect the three cipher intel documents, then use the original solvers' keys to read their hidden messages.",
+    "requirements": [
+      "A profile-connected Firebase Z match for collectible intel",
+      "The safe companion requires Essence Traps unlocked through the main quest",
+      "Decoding is a reading activity; the alphabet grids below are not button codes for an in-game terminal"
+    ],
+    "reward": "The three collectible cipher documents and their decoded lore; no additional gameplay reward is established for decrypting them.",
+    "sourceQuote": "https://www.reddit.com/r/CODZombies/comments/lcn4hy/p_cipher_solved/",
+    "supplementNote": "Decoded messages are quoted from the original Reddit solves by Richkiller, Scotto and coldstone_the_gamer. The decoding directions are authored explanations of those published methods.",
+    "steps": [
+      {
+        "title": "Collect the cipher documents",
+        "body": "Check Mimic document drops for the Omega entries P Cipher and G Cipher. C Cipher is a Requiem document found through Sergei's safe; collector reports also record it as a Mimic document drop. Interact with the paper, then check Barracks → Intel after the match.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lbvwc4/complete_list_of_all_intel_cold_war_firebase_z/",
+        "tip": "If the safe's C Cipher does not register, keep collecting Mimic documents in later matches; its launch tracking bug is documented. No fixed drop count guarantees a particular page."
+      },
+      {
+        "title": "P: use the Polybius grid",
+        "body": "Read each two-digit number as row, then column, in this 5 × 5 grid:\n1: O Q V H T\n2: G C M R B\n3: F A Y S D\n4: L K P X Z\n5: I N U W E\nColumns are numbered 1–5 from left to right. For example, 11 → O, 23 → M and 55 → E. The beginning reads OMEGA.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lcn4hy/p_cipher_solved/"
+      },
+      {
+        "title": "P: decoded message",
+        "body": "Omega ops continue in Ural mountains.\n\nSpecial operations units in the area encountered hostiles, unlike those recorded in other incursion zones.\n\nEntire squad lost interacting with a shifting energy barrier inside zone.\n\nFor now, avoid the phase.",
+        "html": "<p>Omega ops continue in Ural mountains.</p>\n<p>Special operations units in the area encountered hostiles, unlike those recorded in other incursion zones.</p>\n<p>Entire squad lost interacting with a shifting energy barrier inside zone.</p>\n<p>For now, avoid the phase.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lcn4hy/p_cipher_solved/",
+        "tip": "Original solve: Richkiller; cipher image supplied by Scotto."
+      },
+      {
+        "title": "G: use five rails",
+        "body": "Remove the spaces from the G ciphertext. Decode it as a Rail Fence / Railway cipher with 5 rails and offset 0: trace positions down rails 1→5, then up 4→1, repeating. Count each rail's positions, fill those positions from the ciphertext rail by rail, then read along the zigzag.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lcnldi/g_cipher_solved/",
+        "tip": "The RAILS5 paper is a clue to this setting. It is not a keypad command."
+      },
+      {
+        "title": "G: decoded message",
+        "body": "K\n\nIt seems our little side investment is beginning to pay dividends.\n\nOur infiltration has occurred right under their noses.\n\nI am told the Maxis communique is just a taste of what we can expect going forward.\n\nRequiem has no clue a member of their senior staff is compromised.\n\nG",
+        "html": "<p>K</p>\n<p>It seems our little side investment is beginning to pay dividends.</p>\n<p>Our infiltration has occurred right under their noses.</p>\n<p>I am told the Maxis communique is just a taste of what we can expect going forward.</p>\n<p>Requiem has no clue a member of their senior staff is compromised.</p>\n<p>G</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lcnldi/g_cipher_solved/",
+        "tip": "Original solve: Scotto and Richkiller."
+      },
+      {
+        "title": "C: use VERDICT and the grid",
+        "body": "Use the Nihilist cipher with this 5 × 5 alphabet:\n1: P L F I E\n2: Y M W V C\n3: X Z D H N\n4: T S A G R\n5: B O U Q K\nNumber rows and columns 1–5. Convert VERDICT to coordinates: 24, 15, 45, 33, 14, 25, 41. Repeat those seven values beneath the ciphertext numbers and subtract. Convert each result through the grid. For example, 68 − 24 = 44 → G, and 29 − 15 = 14 → I.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lcsfdn/c_cipher_solved/",
+        "tip": "Keep the 25-letter alphabet exactly as shown; it has no J. Ordinary A–Z alphabetical grids produce the wrong text."
+      },
+      {
+        "title": "C: decoded message",
+        "body": "G\n\nI'm having reservations, second thoughts, something in my gut.\n\nSomething doesn't feel right. I've worked with the CIA for a long time, you longer.\n\nWhen I requested transfer to Requiem, I thought I knew what I was getting myself into.\n\nI knew this dog and pony show the smoke and mirrors, but something feels different.\n\nSorry, this is coming via an encrypted message, but I'm just not sure who I can trust these days.\n\nI keep noticing discrepancies, minor deviations from our stated mission.\n\nSure, there's nuances to any black op, we both know that all too well.\n\nBut I cant shake the feeling that there's a hidden agenda at play.\n\nAnd what about our director? What's his goal? Come to think of it.\n\nDo you know his name? Ever remember seeing it on a dossier or overheard in conversation? I couldn't tell you.\n\nI got close to him once or who I think was him, not sure.\n\nAnd you know what I heard? I heard him speaking Russian!\n\nSo I ask you... What the hell is going on here?!\n\nC",
+        "html": "<p>G</p>\n<p>I'm having reservations, second thoughts, something in my gut.</p>\n<p>Something doesn't feel right. I've worked with the CIA for a long time, you longer.</p>\n<p>When I requested transfer to Requiem, I thought I knew what I was getting myself into.</p>\n<p>I knew this dog and pony show the smoke and mirrors, but something feels different.</p>\n<p>Sorry, this is coming via an encrypted message, but I'm just not sure who I can trust these days.</p>\n<p>I keep noticing discrepancies, minor deviations from our stated mission.</p>\n<p>Sure, there's nuances to any black op, we both know that all too well.</p>\n<p>But I cant shake the feeling that there's a hidden agenda at play.</p>\n<p>And what about our director? What's his goal? Come to think of it.</p>\n<p>Do you know his name? Ever remember seeing it on a dossier or overheard in conversation? I couldn't tell you.</p>\n<p>I got close to him once or who I think was him, not sure.</p>\n<p>And you know what I heard? I heard him speaking Russian!</p>\n<p>So I ask you... What the hell is going on here?!</p>\n<p>C</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lcsfdn/c_cipher_solved/",
+        "tip": "Original solve: Richkiller and coldstone_the_gamer. The sender's suspicion is part of the message; it does not establish every identity theory as fact."
+      },
+      {
+        "title": "Find the environmental clue papers",
+        "body": "For the papers associated with the solves, search:\n• Mission Control: VERDICT / PLFIE near a chalkboard.\n• Planning Offices: the YMWVC strip.\n• Briefing Room: BOUQK by the chalkboard.\n• Scorched Defense: RAILS5 beneath a tank.\n• Military Command and Weapons Lab: other five-letter strips near chalkboards.\n• Motor Pool Garage: a chart beneath a truck.\n• Engineering: a chart beside the railing toward Open Lot.\n• Village upstairs: a chart beneath the bed holding a body.\n• Barracks 2: a reported chart on the lower bunk mattress inside the rubble pile.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lfqj4c/firebase_z_cypher_keys_found_in_the_map_how_many/",
+        "tip": "These are location reports, not a confirmed complete paper count. Some launch transcriptions disagree with the solved alphabet; use the verified cipher grids above, and zoom in to read each physical note."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Ricerat477 — faction documents and C Cipher collection / tracking reports",
+        "url": "https://www.reddit.com/r/CODZombies/comments/lbvwc4/complete_list_of_all_intel_cold_war_firebase_z/"
+      },
+      {
+        "title": "Sergei safe / duplicate C Cipher firsthand report",
+        "url": "https://www.reddit.com/r/CODZombies/comments/ldphfv/"
+      },
+      {
+        "title": "Richkiller — original P Cipher solve (image credit: Scotto)",
+        "url": "https://www.reddit.com/r/CODZombies/comments/lcn4hy/p_cipher_solved/"
+      },
+      {
+        "title": "Scotto and Richkiller — original G Cipher solve",
+        "url": "https://www.reddit.com/r/CODZombies/comments/lcnldi/g_cipher_solved/"
+      },
+      {
+        "title": "Richkiller and coldstone_the_gamer — original C Cipher solve",
+        "url": "https://www.reddit.com/r/CODZombies/comments/lcsfdn/c_cipher_solved/"
+      },
+      {
+        "title": "birdeo and Vivamp13 — original clue-paper location reports",
+        "url": "https://www.reddit.com/r/CODZombies/comments/lfqj4c/firebase_z_cypher_keys_found_in_the_map_how_many/"
+      },
+      {
+        "title": "Original earlier clue-paper discussion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/lek9ju/"
+      },
+      {
+        "title": "CODZombies cipher index — independent collection of original solves",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/treyarch-ciphers/"
+      }
+    ],
+    "relatedGuideIds": [
+      "coldwar-firebase-z-sergei-safe",
+      "coldwar-firebase-z-intel-season-1",
+      "coldwar-firebase-z-main"
+    ],
+    "checked": "2026-10-16"
+  },
+  {
+    "id": "coldwar-firebase-z-historical-halloween-loot",
+    "mapId": "coldwar-firebase-z",
+    "title": "Historical: Halloween loot and soundtrack",
+    "category": "side",
+    "difficulty": "Easy",
+    "players": "1–4 players",
+    "summary": "How the 2021 Haunting event changed Firebase Z loot and music.",
+    "requirements": [
+      "Historical event content: Treyarch's documented window was October 19–November 2, 2021",
+      "These features require the event rules to be active; current availability is not confirmed here"
+    ],
+    "reward": "Event-dependent random loot, pumpkin-head Essence and a seasonal soundtrack.",
+    "steps": [
+      {
+        "title": "Check event availability",
+        "body": "These additions applied to Firebase Z as a round-based map during The Haunting. If the event is inactive, ordinary matches do not provide this route.",
+        "researchSource": "https://www.treyarch.com/game-intel/2021/10/The_Haunting_Returns"
+      },
+      {
+        "title": "Shoot pumpkin heads",
+        "body": "During the event, shoot the pumpkin weak points on zombies for bonus Essence. Collect dropped Jack O'Lanterns for random rewards, including upgrade tools, chalices, armor or weapons.",
+        "researchSource": "https://www.treyarch.com/game-intel/2021/10/The_Haunting_Returns"
+      },
+      {
+        "title": "Open Scare Packages",
+        "body": "The event spawned reward packages every five rounds in round-based maps. Open them when they appear. Halloween music played under the event rules; the Lost card covers the separate tape song.",
+        "researchSource": "https://www.treyarch.com/game-intel/2021/10/The_Haunting_Returns"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Treyarch — The Haunting Returns, October 19, 2021",
+        "url": "https://www.treyarch.com/game-intel/2021/10/The_Haunting_Returns"
+      }
+    ],
+    "relatedGuideIds": [
+      "coldwar-firebase-z-lost-music",
+      "coldwar-firebase-z-weapons-upgrades"
+    ],
+    "checked": "2026-10-16"
+  },
+  {
+    "id": "coldwar-firebase-z-rampage-inducer",
+    "mapId": "coldwar-firebase-z",
+    "title": "Rampage Inducer: activate, vote and switch off",
+    "category": "side",
+    "difficulty": "Easy",
+    "players": "1–4 players",
+    "summary": "Find the starting-room canister and control faster zombie spawns and movement.",
+    "requirements": [
+      "Original Black Ops Cold War: Firebase Z, standard round-based play.",
+      "Solo or co-op; every player must approve a co-op activation or deactivation.",
+      "Updated installation: added in Season Five Reloaded; Local offline support added October 7, 2021."
+    ],
+    "reward": "A faster, more aggressive round-based match while Rampage is enabled.",
+    "steps": [
+      {
+        "title": "Find the Radio Room table",
+        "body": "From the starting Village Courtyard, turn left and climb the stairs into Radio Room. The orange canister sits on the radio table immediately left of the opening onto the balcony. You can reach it before taking the teleporter or powering the reactors.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/pjamro/comment/hcmakw8/",
+        "images": [
+          {
+            "src": "./assets/batch7-firebase-z-rampage-radio-room.jpg",
+            "alt": "Orange canister beside the Radio Room balcony.",
+            "caption": "Radio Room table: the pictured prompt specifies Round 55.",
+            "credit": "GannonSnipes gameplay recording; game © Activision",
+            "source": "https://www.youtube.com/watch?v=CuViSfGEWZk&t=64s"
+          }
+        ]
+      },
+      {
+        "title": "Activate or approve the vote",
+        "body": "Stand beside the orange canister and use the Interact control shown by its RAMPAGE INDUCER prompt. Solo players can activate it themselves. In co-op, every player must accept the on-screen vote before Rampage begins.",
+        "researchSource": "https://www.treyarch.com/game-intel/2021/09/Incoming_Season_Five_Reloaded",
+        "tip": "Use the button displayed by your own control scheme; the pictured F key is a PC binding."
+      },
+      {
+        "title": "Switch it off when needed",
+        "body": "Return to the same canister and interact again to request normal pacing. Co-op deactivation also needs every player to vote. If another request is unavailable, finish the round and try again.",
+        "researchSource": "https://www.treyarch.com/game-intel/2021/09/Incoming_Season_Five_Reloaded",
+        "tip": "Treyarch documented toggling as often as once per round at launch. Exact same-round solo re-toggle cooldown on the current build remains unverified; do not rely on a fixed seconds-long timer."
+      },
+      {
+        "title": "Use the Round 55 window",
+        "body": "Updated Cold War extends Rampage through Round 55. This is a match-round limit, rather than 55 extra rounds after activation. While enabled, zombies appear more rapidly and move faster.",
+        "researchSource": "https://www.treyarch.com/game-intel/2021/11/November_2nd_Update",
+        "tip": "The original September 2021 limit was Round 20. Older videos and unupdated installations can show that earlier rule."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Knife_Kitten — firsthand Firebase location report",
+        "url": "https://www.reddit.com/r/CODZombies/comments/pjamro/comment/hcmakw8/"
+      },
+      {
+        "title": "GannonSnipes — recorded Radio Room interaction, 1:04",
+        "url": "https://www.youtube.com/watch?v=CuViSfGEWZk&t=64s"
+      },
+      {
+        "title": "Treyarch — September 2021 launch and voting rules",
+        "url": "https://www.treyarch.com/game-intel/2021/09/Incoming_Season_Five_Reloaded"
+      },
+      {
+        "title": "Treyarch — October 2021 Local offline support",
+        "url": "https://www.treyarch.com/game-intel/2021/10/Season_Six_Arrives_Oct_7"
+      },
+      {
+        "title": "Treyarch — November 2021 round-cap update",
+        "url": "https://www.treyarch.com/game-intel/2021/11/November_2nd_Update"
+      }
+    ],
+    "relatedGuideIds": [
+      "coldwar-firebase-z-power-pack-assault",
+      "coldwar-firebase-z-main"
     ],
     "checked": "2026-10-16"
   }

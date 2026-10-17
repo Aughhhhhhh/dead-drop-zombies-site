@@ -1057,44 +1057,189 @@
     "title": "Build the RAI K-84",
     "category": "weapon",
     "difficulty": "Medium",
-    "players": "1–4 players",
-    "summary": "Construct the wonder weapon whose alternate fire is needed to catch the main quest's teleporting crystal.",
+    "players": "1–4 players, standard online Firebase Z",
+    "summary": "Build the shared free RAI K pickup with clear dartboard and charging checkpoints.",
     "requirements": [
-      "Firebase power on",
-      "A bullet weapon for the dartboard",
-      "A Mangler power-cell drop"
+      "Open and power the outpost before following this build route",
+      "A precise bullet weapon for the dartboard; avoid pellet or explosive shots",
+      "A Mangler power cell; ordinary spawns begin around round 15, or a quest-spawn Mangler can appear earlier"
     ],
-    "reward": "RAI K-84 wonder weapon",
+    "reward": "A free RAI K-84 pickup; the squad needs one for the main quest's moving container.",
     "steps": [
       {
-        "title": "Take the blueprint and retrieve the eye",
-        "body": "Take the blueprint above the Weapons Lab workbench. In Scorched Defense, interact with the corpse leaning against the tank to remove its eye. Return to Weapons Lab and scan the eye at the retinal scanner; collect the locker key from the opened drawer."
+        "title": "Take the blueprint",
+        "body": "In Weapons Lab, interact with the blueprint above the build bench. Take it before trying the corpse in Scorched Defense.",
+        "researchSource": "https://tracker.gg/cold-war/articles/black-ops-cold-war-zombies-firebase-z-free-rai-k-94",
+        "images": [
+          {
+            "src": "./assets/batch6-firebase-z-raik84-blueprint.webp",
+            "alt": "Weapons Lab: blueprint above the build bench.",
+            "caption": "Weapons Lab: blueprint above the build bench.",
+            "credit": "Gameplay screenshot supplied by mmmrkennedy; game © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
+          }
+        ],
+        "original": true
       },
       {
-        "title": "Search the Barracks lockers",
-        "body": "Use the key on the small lockers between the bunks in Barracks 1 and Barracks 2. Opening them spawns Mimics. Kill the Mimics and collect the Barrel Assembly when one drops it."
+        "title": "Retrieve the eye and key",
+        "body": "- Head to the right side of Scorched Defence. There will be a body propped up against a tank. Interact with this to retrieve the eyeball needed for the Key.\n\n- Take the eyeball back to the crafting bench in Weapons Lab. Interact with the Bio-Scanner next to the computer, this will open a draw in underneath that will contain a key.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lepgsv/firebase_z_easter_egg_guide_made_simple/",
+        "tip": "Take the Locker Key from the opened drawer. The Weapon Trial Folder beside the corpse is a separate intel pickup.",
+        "images": [
+          {
+            "src": "./assets/batch6-firebase-z-raik84-tank_body.webp",
+            "alt": "Scorched Defense: corpse against the tank.",
+            "caption": "Scorched Defense: corpse against the tank.",
+            "credit": "Gameplay screenshot supplied by mmmrkennedy; game © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
+          },
+          {
+            "src": "./assets/batch6-firebase-z-raik84-scanner.webp",
+            "alt": "Weapons Lab: retinal scanner, computer and key drawer.",
+            "caption": "Weapons Lab: retinal scanner, computer and key drawer.",
+            "credit": "Gameplay screenshot supplied by mmmrkennedy; game © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
+          }
+        ],
+        "html": "<p>- Head to the right side of Scorched Defence. There will be a body propped up against a tank. Interact with this to retrieve the eyeball needed for the Key.</p>\n<p>- Take the eyeball back to the crafting bench in Weapons Lab. Interact with the Bio-Scanner next to the computer, this will open a draw in underneath that will contain a key.</p>"
       },
       {
-        "title": "Record three dartboard positions",
-        "body": "Interact with the Weapons Lab computer and watch the rotating radar wedge. It stops at three positions; remember those positions in order. Match its wedges to the dartboard: starting at the top and going clockwise, the sectors are 20, 1, 18, 4, 13, 6, 10, 15, 2, 17, 3, 19, 7, 16, 8, 11, 14, 9, 12, 5. In the village room beside Ravenov and Der Wunderfizz, shoot the three corresponding outer numbered sectors in order, then the bullseye. Collect the Aetherium Converter from the opened board.",
-        "tip": "Use a single-shot bullet weapon. Explosive or pellet hits can strike extra sectors and spoil the input; replay the computer sequence if unsure."
+        "title": "Open the Barracks lockers",
+        "body": "Use the key on the nine small lockers between the bunks in Barracks 1 and Barracks 2. Kill the locker-spawned Mimics and pick up the Barrel Assembly when it drops. Search both barracks rather than stopping at the first locker.",
+        "researchSource": "https://tracker.gg/cold-war/articles/black-ops-cold-war-zombies-firebase-z-free-rai-k-94",
+        "tip": "Also collect Kuhlklay's Diary and Worse Than Baton Rouge from the lockers if you need their intel.",
+        "images": [
+          {
+            "src": "./assets/batch6-firebase-z-raik84-mimic_locker.webp",
+            "alt": "Barracks: small keyed lockers between the bunks.",
+            "caption": "Barracks: small keyed lockers between the bunks.",
+            "credit": "Gameplay screenshot supplied by mmmrkennedy; game © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
+          }
+        ],
+        "original": true
       },
       {
-        "title": "Charge a Mangler's power cell",
-        "body": "Kill Manglers until one drops the Uncharged Power Cell; ordinary Manglers begin appearing around round 15. Place the cell on the Weapons Lab charging station. Let two rounds finish, then return and collect the charged cell."
+        "title": "Read the computer sequence",
+        "body": "- Head back to the computer in the Weapons lab and interact with it. The Pie Chart on the computer will have one segment highlighted that rotates round the circle. This highlighted segment will stop three times on the circle. Remember these locations and their order.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lepgsv/firebase_z_easter_egg_guide_made_simple/",
+        "tip": "The positions change per match. Replay the computer if you lose the order.",
+        "images": [
+          {
+            "src": "./assets/batch6-firebase-z-raik84-dartboard_ref_new_numbered.webp",
+            "alt": "Creator-annotated monitor reference: numbers mark dartboard wedges; this is not a fixed three-number answer.",
+            "caption": "Creator-annotated monitor reference: numbers mark dartboard wedges; this is not a fixed three-number answer.",
+            "credit": "Gameplay screenshot supplied by mmmrkennedy; game © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
+          }
+        ],
+        "html": "<p>- Head back to the computer in the Weapons lab and interact with it. The Pie Chart on the computer will have one segment highlighted that rotates round the circle. This highlighted segment will stop three times on the circle. Remember these locations and their order.</p>"
       },
       {
-        "title": "Assemble the weapon",
-        "body": "With the Barrel Assembly, Aetherium Converter and charged Power Cell, use the blueprint workbench in Weapons Lab to build and take the RAI K-84. Switch fire modes to use its slowing energy orb during the main quest."
+        "title": "Shoot the three numbered sectors",
+        "body": "In the Village Mess Hall beside Wunderfizz, shoot the three corresponding dartboard numbers in the recorded order, then shoot the bullseye. Use one precise bullet per input. The board opens and drops the Aetherium Converter; interact with the part on the floor.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lepgsv/firebase_z_easter_egg_guide_made_simple/",
+        "tip": "Clockwise from the top: 20, 1, 18, 4, 13, 6, 10, 15, 2, 17, 3, 19, 7, 16, 8, 11, 14, 9, 12, 5. Use the printed numbered sectors and avoid extra hits; this is not a dart-score total.",
+        "images": [
+          {
+            "src": "./assets/batch6-firebase-z-raik84-dartboard.webp",
+            "alt": "Village Mess Hall: dartboard opposite Wunderfizz.",
+            "caption": "Village Mess Hall: dartboard opposite Wunderfizz.",
+            "credit": "Gameplay screenshot supplied by mmmrkennedy; game © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
+          }
+        ],
+        "original": true
+      },
+      {
+        "title": "Take a Mangler's power cell",
+        "body": "Destroy a Mangler's cannon and kill it, then check the ground for the Uncharged Power Cell. Try the next Mangler if no cell appears. The Jungle Defense crystal challenge can provide an early Mangler; the main-quest companion explains that option.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lca1tr/firebase_z_easter_egg_hunt_general_map_discussion/",
+        "images": [
+          {
+            "src": "./assets/batch6-firebase-z-raik84-uncharged_power_cell.webp",
+            "alt": "Uncharged Power Cell: collect the dropped quest item from the Mangler.",
+            "caption": "Uncharged Power Cell: collect the dropped quest item from the Mangler.",
+            "credit": "Gameplay screenshot supplied by mmmrkennedy; game © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
+          }
+        ],
+        "original": true,
+        "tip": "A weak, precise bullet gun helps. Delay buying Elemental Pop or adding damage-over-time ammo mods until this step if their effects are killing Manglers early."
+      },
+      {
+        "title": "Charge until the pickup is ready",
+        "body": "Place the cell in the charger on the Weapons Lab table beside the Arsenal. Progress rounds and return until the charged-cell pickup becomes available; take it before returning to the build bench.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lca1tr/firebase_z_easter_egg_hunt_general_map_discussion/",
+        "tip": "Sources describe one full round and two rounds. Check the actual pickup prompt after each completed round rather than assuming a fixed wait.",
+        "images": [
+          {
+            "src": "./assets/batch6-firebase-z-raik84-power_cell.webp",
+            "alt": "Weapons Lab: power-cell charger beside the Arsenal.",
+            "caption": "Weapons Lab: power-cell charger beside the Arsenal.",
+            "credit": "Gameplay screenshot supplied by mmmrkennedy; game © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
+          }
+        ],
+        "original": true
+      },
+      {
+        "title": "Assemble and take the RAI K",
+        "body": "Use the blueprint workbench with the Barrel Assembly, Aetherium Converter and Charged Power Cell collected. Build and take the weapon. Agree who takes the free pickup in co-op; additional players can use the alternative reward routes in the upgrade companion.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lepgsv/firebase_z_easter_egg_guide_made_simple/",
+        "tip": "The fire-mode control switches between automatic bolts and the slowing orb needed by the main quest.",
+        "original": true
       }
     ],
     "sources": [
       {
-        "title": "Community text guide: Firebase Z and RAI K-84 construction",
+        "title": "Zackatosh — eye, scanner, monitor and dartboard route",
         "url": "https://www.reddit.com/r/CODZombies/comments/lepgsv/firebase_z_easter_egg_guide_made_simple/"
+      },
+      {
+        "title": "Ethan C — nine lockers, build bench and one-round charge description",
+        "url": "https://tracker.gg/cold-war/articles/black-ops-cold-war-zombies-firebase-z-free-rai-k-94"
+      },
+      {
+        "title": "Firsthand discovery hub — cannon removal and round-dependent charging reports",
+        "url": "https://www.reddit.com/r/CODZombies/comments/lca1tr/firebase_z_easter_egg_hunt_general_map_discussion/"
+      },
+      {
+        "title": "RedGecko18 — early quest Mangler and full-round charging test",
+        "url": "https://www.reddit.com/r/CODZombies/comments/lemth3/a_guide_for_completing_the_main_ee_in_firebase_z/"
+      },
+      {
+        "title": "JokerAlex21 — conflicting two-round charge description",
+        "url": "https://www.codzombieguides.com/firebase-z"
+      },
+      {
+        "title": "mmmrkennedy — build / dartboard screenshots",
+        "url": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
+      },
+      {
+        "title": "Firsthand build-specific Prototype intel and cannon targeting",
+        "url": "https://www.reddit.com/r/CODZombies/comments/p9slqq/"
+      },
+      {
+        "title": "Firsthand one free build per game",
+        "url": "https://www.reddit.com/r/CODZombies/comments/ng12sw/"
+      },
+      {
+        "title": "Firsthand dartboard and cannon recovery",
+        "url": "https://www.reddit.com/r/CODZombies/comments/us6jbd/"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-16",
+    "relatedGuideIds": [
+      "coldwar-firebase-z-main",
+      "coldwar-firebase-z-trials",
+      "coldwar-firebase-z-bunny-loot",
+      "coldwar-firebase-z-weapons-upgrades",
+      "coldwar-firebase-z-intel-artifacts"
+    ],
+    "sourceQuote": "https://www.reddit.com/r/CODZombies/comments/lepgsv/firebase_z_easter_egg_guide_made_simple/",
+    "supplementNote": "The eye / scanner and monitor excerpts are quoted from Zackatosh; the surrounding build checkpoints and charge-status instructions are authored from the additional sources below."
   },
   {
     "id": "coldwar-firebase-z-main",
@@ -1102,66 +1247,393 @@
     "title": "Maxis Potential: Firebase Z main quest",
     "category": "main",
     "difficulty": "Medium",
-    "players": "1–4 players, online",
-    "summary": "Extract three Mimic memories, collect three crystals, redirect a satellite and rescue Maxis.",
+    "players": "1–4 players, standard online Firebase Z",
+    "summary": "A solo-capable rescue route with separate Mimic, crystal and finale chapters.",
     "requirements": [
-      "All three Aether Reactors powered",
-      "RAI K-84; see its build guide on this map",
-      "Essence Traps unlocked during the quest"
+      "Use a standard online match; the main quest is unavailable in offline Local play",
+      "Power all three reactors; the setup companion covers each room",
+      "One RAI K-84 for the squad is needed for the teleporting container; its free build is optional if you obtain one another way",
+      "Build armor, perks and Pack-a-Punch damage before committing to the satellite / finale"
     ],
-    "reward": "Maxis Potential completion and ending cinematic",
+    "reward": "The rescue ending, Maxis Potential Dark Ops completion and calling card; this main-quest clear also contributes to The Pact.",
     "steps": [
       {
-        "title": "Power the base and begin Peck's dialogue",
-        "body": "Speak to Ravenov at village spawn, then use the rooftop teleporter. Activate and defend the Aether Reactors in Mission Control, Military Command and Data Center, killing zombies near their collection units. Speak to Peck through the Mission Control window once all three are powered, then return to Ravenov for his keycard."
+        "title": "Restore the three reactors",
+        "body": "- Speak to Ravanov in the spawn room, he'll tell you to take the teleporter on the roof.\n\n- Interact with the three Aether Reactors in Mission Control, Military Command and Data Centre. Defend the generators and power them up by killing zombies in close proximity to them.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lepgsv/firebase_z_easter_egg_guide_made_simple/",
+        "tip": "Each reactor activation costs 500 Essence. Use the linked power guide for routes and assault recovery.",
+        "images": [
+          {
+            "src": "./assets/batch6-firebase-z-main_ee-stabilize_the_breach-container_missioncontrol.webp",
+            "alt": "Mission Control: the central purple Aether Reactor.",
+            "caption": "Mission Control: the central purple Aether Reactor.",
+            "credit": "Gameplay screenshot supplied by mmmrkennedy; game © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
+          },
+          {
+            "src": "./assets/batch6-firebase-z-main_ee-stabilize_the_breach-container_datacenter.webp",
+            "alt": "Data Center: reactor and upstairs walkway.",
+            "caption": "Data Center: reactor and upstairs walkway.",
+            "credit": "Gameplay screenshot supplied by mmmrkennedy; game © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
+          },
+          {
+            "src": "./assets/batch6-firebase-z-main_ee-stabilize_the_breach-container_militarycommand.webp",
+            "alt": "Military Command: reactor in the open courtyard between control rooms.",
+            "caption": "Military Command: reactor in the open courtyard between control rooms.",
+            "credit": "Gameplay screenshot supplied by mmmrkennedy; game © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
+          }
+        ],
+        "html": "<p>- Speak to Ravanov in the spawn room, he'll tell you to take the teleporter on the roof.</p>\n<p>- Interact with the three Aether Reactors in Mission Control, Military Command and Data Centre. Defend the generators and power them up by killing zombies in close proximity to them.</p>"
       },
       {
-        "title": "Make the truth serum",
-        "body": "Use Ravenov's card on the lockers in village Equipment Storage, Colonel's Office and Engineering, collecting one ingredient from each. Put all three into the mixer in Field Hospital and survive the Hellhound attack. Take the finished Agent Delivery System to the air-conditioning unit on the roof beside the OPC stairs. Return to Peck and interact until his dialogue advances."
+        "title": "Take Ravenov's badge",
+        "body": "- Once power is on everywhere, speak with Peck under the platform in Mission Control.\n\n- Return to Ravanov, he'll tell you to create a truth serum and give you a keycard for three lockers.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lepgsv/firebase_z_easter_egg_guide_made_simple/",
+        "tip": "Let the dialogue finish and take the ID badge. If Peck is not ready, return to Ravenov after restoring power and finish his conversation first.",
+        "images": [
+          {
+            "src": "./assets/batch6-firebase-z-main_ee-prerequisites-pecksroom.webp",
+            "alt": "Mission Control: Peck's shuttered room below the upper platform.",
+            "caption": "Mission Control: Peck's shuttered room below the upper platform.",
+            "credit": "Gameplay screenshot supplied by mmmrkennedy; game © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
+          }
+        ],
+        "html": "<p>- Once power is on everywhere, speak with Peck under the platform in Mission Control.</p>\n<p>- Return to Ravanov, he'll tell you to create a truth serum and give you a keycard for three lockers.</p>"
       },
       {
-        "title": "Unlock and carry an Essence Trap",
-        "body": "Interact with the Memory Transference Station on the upper floor of Data Center beside the balcony door. Take an Essence Trap from the station. It replaces your tactical equipment and captures a weakened enemy when you double-press the tactical activation button."
+        "title": "Collect three serum ingredients",
+        "body": "Use Ravenov's badge on these cabinets and take the vial from each:\n• Equipment Storage: ground floor in the Village, beside Quick Revive's building.\n• Colonel's Office: upstairs above Juggernog.\n• Engineering: lower room beneath the OPC.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lepgsv/firebase_z_easter_egg_guide_made_simple/",
+        "images": [
+          {
+            "src": "./assets/batch6-firebase-z-main_ee-creating_the_serum-chem_spawn.webp",
+            "alt": "Equipment Storage: the serum cabinet on the ground floor.",
+            "caption": "Equipment Storage: the serum cabinet on the ground floor.",
+            "credit": "Gameplay screenshot supplied by mmmrkennedy; game © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
+          },
+          {
+            "src": "./assets/batch6-firebase-z-main_ee-creating_the_serum-chem_office.webp",
+            "alt": "Colonel's Office: the cabinet beside the desk.",
+            "caption": "Colonel's Office: the cabinet beside the desk.",
+            "credit": "Gameplay screenshot supplied by mmmrkennedy; game © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
+          },
+          {
+            "src": "./assets/batch6-firebase-z-main_ee-creating_the_serum-chem_eng.webp",
+            "alt": "Engineering: the cabinet beside the control equipment.",
+            "caption": "Engineering: the cabinet beside the control equipment.",
+            "credit": "Gameplay screenshot supplied by mmmrkennedy; game © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
+          }
+        ],
+        "original": true
       },
       {
-        "title": "Capture the three item-disguised quest Mimics",
-        "body": "Search the Motor Pool / nearby rooms, Military Command / Sky Bridge area, and the village Courtyard / upstairs office for clusters of fake dropped equipment. Approach until an item becomes a Mimic. Lower its health without killing it, place the trap nearby and double-activate the trap while it is inside the capture radius. Retrieve the loaded trap and deposit it in the Memory Transference Station. The required memories are from Sokolov, Brahms and Zhabin.",
-        "tip": "Random roaming Mimics usually give the wrong memory. If the intended Mimic dies or no new item cluster appears, move to the next round. Capture one useful memory, turn it in, then search again."
+        "title": "Mix the delivery system",
+        "body": "- Head to Field Hospital, where you can now interact with the mixer on the table. Be careful of the Hell-hounds that will spawn.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lepgsv/firebase_z_easter_egg_guide_made_simple/",
+        "tip": "When mixing finishes, interact again and pick up the Agent Delivery System beside the mixer.",
+        "images": [
+          {
+            "src": "./assets/batch6-firebase-z-main_ee-creating_the_serum-chem_mixer.webp",
+            "alt": "Field Hospital: mix the three ingredients at this table.",
+            "caption": "Field Hospital: mix the three ingredients at this table.",
+            "credit": "Gameplay screenshot supplied by mmmrkennedy; game © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
+          },
+          {
+            "src": "./assets/batch6-firebase-z-main_ee-creating_the_serum-agent_delivery_system.webp",
+            "alt": "Field Hospital: collect the finished Agent Delivery System from the table.",
+            "caption": "Field Hospital: collect the finished Agent Delivery System from the table.",
+            "credit": "Gameplay screenshot supplied by mmmrkennedy; game © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
+          }
+        ],
+        "html": "<p>- Head to Field Hospital, where you can now interact with the mixer on the table. Be careful of the Hell-hounds that will spawn.</p>"
       },
       {
-        "title": "Use the floppy disk and collect the Aethermeter",
-        "body": "After all three correct memories are accepted, collect the floppy disk from the station and insert it into the Planning Offices computer facing the OPC. Visit the opened OPC and let the portal failure scene finish. Speak to Peck and Ravenov as prompted. Use the supplied code to open the locker beside Peck's window and collect the Aethermeter. Take the shovel from the left Scorched Defense bunker."
+        "title": "Gas Peck's room",
+        "body": "- Collect the now complete Device and take it to the Air Conditioning Unit which is on the roof next to the OPC stair case.\n\n- Return to Peck and interact with him multiple times. Zombies will tend to stay away from you during these dialogues.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lepgsv/firebase_z_easter_egg_guide_made_simple/",
+        "tip": "Place the device on the AC unit, then let Peck's dancing / dialogue finish. Return to his window when another interaction is offered.",
+        "images": [
+          {
+            "src": "./assets/batch6-firebase-z-main_ee-creating_the_serum-chem_acunit.webp",
+            "alt": "Outside the OPC staircase: place the system on this air conditioner.",
+            "caption": "Outside the OPC staircase: place the system on this air conditioner.",
+            "credit": "Gameplay screenshot supplied by mmmrkennedy; game © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
+          }
+        ],
+        "html": "<p>- Collect the now complete Device and take it to the Air Conditioning Unit which is on the roof next to the OPC stair case.</p>\n<p>- Return to Peck and interact with him multiple times. Zombies will tend to stay away from you during these dialogues.</p>"
       },
       {
-        "title": "Open Lot: choose the clear crystal",
-        "body": "At the Open Lot corner beneath the stairs, listen for the Aethermeter and dig the crystal. Several duplicate canisters appear across Open Lot and Engineering. Examine their interior smoke carefully and take the one with clear/white smoke and no black swirling particles. Choosing a dark-smoke decoy triggers enemies and requires another attempt.",
-        "tip": "If you fail a crystal challenge, advance the round and return to the dig site."
+        "title": "Collect an Essence Trap",
+        "body": "- Peck will now tell you to collect three memories for the Portal Activation Codes and Maxis' ID. Head to the Data Centre Top Floor. Next to the balcony door near Speed Cola will be a machine with four devices on the front of it.\n\n- Interact with this machine and you will now be able to collect the Essence Traps. These will replace your tactical equipment.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lepgsv/firebase_z_easter_egg_guide_made_simple/",
+        "images": [
+          {
+            "src": "./assets/batch6-firebase-z-main_ee-collect_the_mimic_memories-mimic_trapstation.webp",
+            "alt": "Upper Data Center: unlock traps at the Memory Transference Station.",
+            "caption": "Upper Data Center: unlock traps at the Memory Transference Station.",
+            "credit": "Gameplay screenshot supplied by mmmrkennedy; game © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
+          }
+        ],
+        "html": "<p>- Peck will now tell you to collect three memories for the Portal Activation Codes and Maxis' ID. Head to the Data Centre Top Floor. Next to the balcony door near Speed Cola will be a machine with four devices on the front of it.</p>\n<p>- Interact with this machine and you will now be able to collect the Essence Traps. These will replace your tactical equipment.</p>"
       },
       {
-        "title": "Jungle Defense: survive inside the dome",
-        "body": "Dig the Jungle Defense crystal near the assault-round portal lanes. Stay inside the created energy dome and survive the zombies, Hellhounds and special enemies until it clears. Pick up the exposed crystal; moving outside the dome causes damage."
+        "title": "Find a fake-loot Mimic",
+        "body": "Look for uncollectable fake equipment around:\n• Motor Pool and its garage, outside Weapons Lab.\n• Military Command's Control Room, Colonel's Office and Sky Bridge.\n• Peck's Quarters, the rooms above the Village Courtyard near the teleporter.\nApproach the suspicious cluster to reveal its Mimic. Keep track of that enemy rather than a roaming round-spawn Mimic.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lemth3/a_guide_for_completing_the_main_ee_in_firebase_z/",
+        "tip": "Only one useful quest Mimic appears per round. After a successful memory, advance the round before searching for the next. If no fake loot spawns, end the round away from these rooms and recheck.",
+        "images": [
+          {
+            "src": "./assets/batch6-firebase-z-main_ee-collect_the_mimic_memories-mimic_motorpool.webp",
+            "alt": "Motor Pool: check the garage and the route to Weapons Lab.",
+            "caption": "Motor Pool: check the garage and the route to Weapons Lab.",
+            "credit": "Gameplay screenshot supplied by mmmrkennedy; game © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
+          },
+          {
+            "src": "./assets/batch6-firebase-z-main_ee-collect_the_mimic_memories-mimic_jugroom.webp",
+            "alt": "Military Command: check the Control Room and adjoining upstairs rooms.",
+            "caption": "Military Command: check the Control Room and adjoining upstairs rooms.",
+            "credit": "Gameplay screenshot supplied by mmmrkennedy; game © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
+          },
+          {
+            "src": "./assets/batch6-firebase-z-main_ee-collect_the_mimic_memories-mimic_spawnlocation.webp",
+            "alt": "Village: enter Peck's Quarters beside the rooftop teleporter.",
+            "caption": "Village: enter Peck's Quarters beside the rooftop teleporter.",
+            "credit": "Gameplay screenshot supplied by mmmrkennedy; game © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
+          }
+        ],
+        "original": true
       },
       {
-        "title": "Barracks: stop the teleporting crystal",
-        "body": "Dig beside the Field Hospital doorway at the foot of the Data Center stairs. The canister jumps between that area, the Barracks and Field Hospital whenever you approach. Switch the RAI K-84 to its energy-orb mode and fire an orb beside the canister while standing back. Run into the slowing field and collect it before it teleports again."
+        "title": "Capture and process three memories",
+        "body": "Lower that Mimic to very low health without killing it. Throw an Essence Trap in its path, then double-tap Interact while it is in capture range. Pick up the filled trap and insert it into the lower slot of the Data Center station before its countdown expires. Listen for Weaver's confirmation, take a fresh trap and repeat on later rounds until all three useful memories are processed.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lepgsv/firebase_z_easter_egg_guide_made_simple/",
+        "tip": "The useful speakers are Sokolov, Brahms and Zhabin. If a capture fails, get a replacement trap; if the quest Mimic dies, try again next round. Headshots alone are not a proven reason for a corrupted memory.",
+        "images": [
+          {
+            "src": "./assets/batch6-firebase-z-correct-memory.webp",
+            "alt": "Captured-memory playback: the in-game subtitle spells the speaker Brahms.",
+            "caption": "Captured-memory playback: the in-game subtitle spells the speaker Brahms.",
+            "credit": "Gameplay image supplied by Call of Duty: Zombies Guides (visible HUD: PlagueFPS); game © Activision",
+            "source": "https://www.codzombiesguides.com/main-quests/black-ops-cold-war/firebase-z/"
+          }
+        ],
+        "original": true
       },
       {
-        "title": "Install crystals and select the unmarked satellite",
-        "body": "Insert one crystal into each Aether Reactor. Visit the OPC to discover the next failure and wait for the radio dialogue. Before the next action, buy your boss perks, armor and ammo. At the Planning Offices satellite computer opposite the armor station, move the cursor over the selectable dots and choose the one whose readout is a question mark instead of a national flag. Confirm to redirect the satellite.",
-        "tip": "Prepare before confirming the satellite; the ending sequence can advance automatically after a delay."
+        "title": "Use the floppy disk",
+        "body": "- When you have all three memories. You can go speak to Peck again. You can then return to the Essence Trap Machine and retrieve a Floppy Disk with the memories.\n\n- Take this Floppy Disk to the Computer in Planning Office that is against the window facing OPC. This will then open the doors to OPC found at the top of the stair case, revealing the Portal.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lepgsv/firebase_z_easter_egg_guide_made_simple/",
+        "tip": "Enter the newly opened OPC and approach the anomaly to trigger its failed-portal dialogue before returning to Peck.",
+        "images": [
+          {
+            "src": "./assets/batch6-firebase-z-main_ee-stabilize_the_breach-breach_floppyinsert.webp",
+            "alt": "Planning Offices: insert the floppy disk into the computer beside the window.",
+            "caption": "Planning Offices: insert the floppy disk into the computer beside the window.",
+            "credit": "Gameplay screenshot supplied by mmmrkennedy; game © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
+          }
+        ],
+        "html": "<p>- When you have all three memories. You can go speak to Peck again. You can then return to the Essence Trap Machine and retrieve a Floppy Disk with the memories.</p>\n<p>- Take this Floppy Disk to the Computer in Planning Office that is against the window facing OPC. This will then open the doors to OPC found at the top of the stair case, revealing the Portal.</p>"
       },
       {
-        "title": "Start the portal and defeat Orda",
-        "body": "Return to the OPC and use its right-side console when prompted. After the scene, fight Orda in the village Courtyard. Keep away from its heavy close-range attacks, clear nearby zombies, and fire into its glowing head opening during vulnerable attacks. Continue damaging it until its health reaches zero and the ending cinematic begins."
+        "title": "Take the meter and shovel",
+        "body": "- However, it will malfunction. You will now need to talk to Peck and Ravanov again. They will prompt you to find Aetherium Crystals to stabilize the Portal.\n\n- Ravanov will give you a code that can be used for the locker that is located next to Peck in Mission Control. This will give you the Aethermetre.\n\n- Head to the left Bunker in Scorched Defense, where you will find a shovel resting against one of the windows.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lepgsv/firebase_z_easter_egg_guide_made_simple/",
+        "tip": "The three crystal challenges can be approached separately. For Omega Canister intel, the documented launch-era precaution is to collect the teleporting Barracks container before the other two; see the artifact companion.",
+        "images": [
+          {
+            "src": "./assets/batch6-firebase-z-main_ee-stabilize_the_breach-locker_peck.webp",
+            "alt": "Mission Control: Aethermeter locker beside Peck's window.",
+            "caption": "Mission Control: Aethermeter locker beside Peck's window.",
+            "credit": "Gameplay screenshot supplied by mmmrkennedy; game © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
+          },
+          {
+            "src": "./assets/batch6-firebase-z-main_ee-stabilize_the_breach-shovel.webp",
+            "alt": "Scorched Defense: shovel inside the left bunker.",
+            "caption": "Scorched Defense: shovel inside the left bunker.",
+            "credit": "Gameplay screenshot supplied by mmmrkennedy; game © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
+          }
+        ],
+        "html": "<p>- However, it will malfunction. You will now need to talk to Peck and Ravanov again. They will prompt you to find Aetherium Crystals to stabilize the Portal.</p>\n<p>- Ravanov will give you a code that can be used for the locker that is located next to Peck in Mission Control. This will give you the Aethermetre.</p>\n<p>- Head to the left Bunker in Scorched Defense, where you will find a shovel resting against one of the windows.</p>"
+      },
+      {
+        "title": "Open Lot: pure white canister",
+        "body": "- The first Crystal can be located in the Open Lot, next to the window under the stairs. When you dig up the crystal, it will appear then disappear. Multiple Crystal Canisters will now have spawn in the Open Lot and Engineering. You will need to go round looking closely at each Canister, trying to find the one with White Smoke as apposed to Black Smoke. Interact with this one and you will collect the Crystal.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lepgsv/firebase_z_easter_egg_guide_made_simple/",
+        "tip": "Interact with the dug canister to start the copies if needed. Choose the one with no black smoke or particles. A wrong choice spawns Mimics and resets the attempt; advance the round and dig again.",
+        "images": [
+          {
+            "src": "./assets/batch6-firebase-z-main_ee-stabilize_the_breach-container_lot.webp",
+            "alt": "Open Lot: dig beside Engineering's window and staircase.",
+            "caption": "Open Lot: dig beside Engineering's window and staircase.",
+            "credit": "Gameplay screenshot supplied by mmmrkennedy; game © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
+          },
+          {
+            "src": "./assets/batch6-firebase-z-main_ee-stabilize_the_breach-container_noblack.webp",
+            "alt": "Correct canister example: white contents without black smoke.",
+            "caption": "Correct canister example: white contents without black smoke.",
+            "credit": "Gameplay screenshot supplied by mmmrkennedy; game © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
+          },
+          {
+            "src": "./assets/batch6-firebase-z-main_ee-stabilize_the_breach-container_black.webp",
+            "alt": "Wrong canister example: dark smoke / particles inside.",
+            "caption": "Wrong canister example: dark smoke / particles inside.",
+            "credit": "Gameplay screenshot supplied by mmmrkennedy; game © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
+          }
+        ],
+        "html": "<p>- The first Crystal can be located in the Open Lot, next to the window under the stairs. When you dig up the crystal, it will appear then disappear. Multiple Crystal Canisters will now have spawn in the Open Lot and Engineering. You will need to go round looking closely at each Canister, trying to find the one with White Smoke as apposed to Black Smoke. Interact with this one and you will collect the Crystal.</p>"
+      },
+      {
+        "title": "Jungle: survive the dome",
+        "body": "- The second Crystal can be found out in Jungle Defense towards where the Portals Spawn during an invasion. When you dig it up, and dome will appear around it. You will need to survive within the dome for a few minutes, killing Hell-Hounds, zombies and potentially Elites. If you leave the dome, you'll start taking gradual damage. After surviving the attacks, the dome will disappear and you can collect the crystal.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lepgsv/firebase_z_easter_egg_guide_made_simple/",
+        "tip": "Prepare weapons before digging. A Mangler here can supply the RAI K power cell before ordinary round-15 spawns: destroy its cannon, then check the drop.",
+        "images": [
+          {
+            "src": "./assets/batch6-firebase-z-main_ee-stabilize_the_breach-container_jungle.webp",
+            "alt": "Jungle Defense: crystal dig spot in the assault lanes.",
+            "caption": "Jungle Defense: crystal dig spot in the assault lanes.",
+            "credit": "Gameplay screenshot supplied by mmmrkennedy; game © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
+          }
+        ],
+        "html": "<p>- The second Crystal can be found out in Jungle Defense towards where the Portals Spawn during an invasion. When you dig it up, and dome will appear around it. You will need to survive within the dome for a few minutes, killing Hell-Hounds, zombies and potentially Elites. If you leave the dome, you'll start taking gradual damage. After surviving the attacks, the dome will disappear and you can collect the crystal.</p>"
+      },
+      {
+        "title": "Barracks: stop the moving canister",
+        "body": "- The third Crystal can be found to the left of the stairs into Data Centre by the door to the Field Hospital. When the Canister spawns, it will teleport away when you get to close to it. It will teleport between its dig site, Barracks 1, Barracks 2 and Field Hospital. To prevent it from teleporting, you will need to use the secondary fire of the RAI-K84, the AoE will slow down the Canister, giving you time to collect it.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lepgsv/firebase_z_easter_egg_guide_made_simple/",
+        "tip": "Stand back, switch to the RAI K orb mode, shoot beside the container and run in to interact while it is held still. If it escapes, find its next position and repeat.",
+        "images": [
+          {
+            "src": "./assets/batch6-firebase-z-main_ee-stabilize_the_breach-container_hospital.webp",
+            "alt": "Barracks / Field Hospital: dig beside the door at the Data Center stairs.",
+            "caption": "Barracks / Field Hospital: dig beside the door at the Data Center stairs.",
+            "credit": "Gameplay screenshot supplied by mmmrkennedy; game © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
+          }
+        ],
+        "html": "<p>- The third Crystal can be found to the left of the stairs into Data Centre by the door to the Field Hospital. When the Canister spawns, it will teleport away when you get to close to it. It will teleport between its dig site, Barracks 1, Barracks 2 and Field Hospital. To prevent it from teleporting, you will need to use the secondary fire of the RAI-K84, the AoE will slow down the Canister, giving you time to collect it.</p>"
+      },
+      {
+        "title": "Install the three crystals",
+        "body": "- You will now need to take these Crystals to the Aether Generators. One for each. Interact with the Generators in Data Centre, Military Command and Mission control like you previously did to insert the crystals.\n\n- This will 'stabilize' the Portal in OPC, until you realize you've been bamboozled by Peck.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lepgsv/firebase_z_easter_egg_guide_made_simple/",
+        "tip": "Visit OPC and let the failed stabilization / Peck dialogue finish before trying the satellite computer.",
+        "html": "<p>- You will now need to take these Crystals to the Aether Generators. One for each. Interact with the Generators in Data Centre, Military Command and Mission control like you previously did to insert the crystals.</p>\n<p>- This will 'stabilize' the Portal in OPC, until you realize you've been bamboozled by Peck.</p>"
+      },
+      {
+        "title": "Choose the question-mark satellite",
+        "body": "- You will now need to re-position the Satellite Dish, using the computer opposite the Armor Bench in Planning Office. There will be a mini puzzle where you need to align a dot with another dot. To the right of the screen will be a few flags that appear when the movable dot is aligned with the secondary dots. You will want to keep lining up the dots until the flag on the screen is displayed as a question mark.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lepgsv/firebase_z_easter_egg_guide_made_simple/",
+        "tip": "Finish shopping before confirming the question-mark target: firsthand reports describe the finale starting automatically after a delay. Use the computer's on-screen controls; your key bindings can differ.",
+        "images": [
+          {
+            "src": "./assets/batch6-firebase-z-main_ee-stabilize_the_breach-sat.webp",
+            "alt": "Planning Offices: satellite terminal opposite the Arsenal.",
+            "caption": "Planning Offices: satellite terminal opposite the Arsenal.",
+            "credit": "Gameplay screenshot supplied by mmmrkennedy; game © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
+          }
+        ],
+        "html": "<p>- You will now need to re-position the Satellite Dish, using the computer opposite the Armor Bench in Planning Office. There will be a mini puzzle where you need to align a dot with another dot. To the right of the screen will be a few flags that appear when the movable dot is aligned with the secondary dots. You will want to keep lining up the dots until the flag on the screen is displayed as a question mark.</p>"
+      },
+      {
+        "title": "Activate the OPC console",
+        "body": "- Once aligned, the actual Satellite Dish atop Data Centre will move.\n\n- You will then need to Return to the OPC, where you can interact with the Console on the right side of the room.\n\n- Once activated, you'll be taken to a cutscene. Shortly after a boss-fight will commence.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lepgsv/firebase_z_easter_egg_guide_made_simple/",
+        "tip": "Make sure the team is ready before the satellite step, not only before this button.",
+        "images": [
+          {
+            "src": "./assets/batch6-firebase-z-main_ee-stabilize_the_breach-terminal.webp",
+            "alt": "OPC: final activation console on the right of the room.",
+            "caption": "OPC: final activation console on the right of the room.",
+            "credit": "Gameplay screenshot supplied by mmmrkennedy; game © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
+          }
+        ],
+        "html": "<p>- Once aligned, the actual Satellite Dish atop Data Centre will move.</p>\n<p>- You will then need to Return to the OPC, where you can interact with the Console on the right side of the room.</p>\n<p>- Once activated, you'll be taken to a cutscene. Shortly after a boss-fight will commence.</p>"
+      },
+      {
+        "title": "Defeat Orda",
+        "body": "After the cinematic you fight in the Village Courtyard. Keep your distance from Orda's close-range slam. Clear the zombies and special enemies so you have room to move, then shoot Orda; concentrate fire on the glowing opening in its head when exposed. Pack-a-Punch, Wunderfizz and the Village Arsenal remain available during the fight. Depleting Orda's health triggers the ending and ends the match.",
+        "researchSource": "https://www.codzombiesguides.com/main-quests/black-ops-cold-war/firebase-z/",
+        "tip": "This is the main rescue ending. There is no separate choice to stay and continue the same match afterward.",
+        "original": true
       }
     ],
     "sources": [
       {
-        "title": "Community text guide: Firebase Z main quest",
+        "title": "Zackatosh — quoted completed main route",
         "url": "https://www.reddit.com/r/CODZombies/comments/lepgsv/firebase_z_easter_egg_guide_made_simple/"
+      },
+      {
+        "title": "RedGecko18 — firsthand one useful Mimic per round and early Mangler route",
+        "url": "https://www.reddit.com/r/CODZombies/comments/lemth3/a_guide_for_completing_the_main_ee_in_firebase_z/"
+      },
+      {
+        "title": "Firsthand 2023 Mimic location tests / headshot-rumor correction",
+        "url": "https://www.reddit.com/r/CODZombies/comments/166uav1/firebase_z_mimic_essence_step_i_figured_it_out_i/"
+      },
+      {
+        "title": "Call of Duty: Zombies Guides — Village machines during Orda and photographed Brahms subtitle",
+        "url": "https://www.codzombiesguides.com/main-quests/black-ops-cold-war/firebase-z/"
+      },
+      {
+        "title": "Ethan C — main quest reward",
+        "url": "https://tracker.gg/cold-war/articles/black-ops-cold-war-zombies-firebase-z-main-quest-guide"
+      },
+      {
+        "title": "Firsthand offline Local quest limitation",
+        "url": "https://www.reddit.com/r/CODZombies/comments/x38ngk/"
+      },
+      {
+        "title": "Ricerat477 — historical Omega Canister tracking precaution",
+        "url": "https://www.reddit.com/r/CODZombies/comments/lbvwc4/complete_list_of_all_intel_cold_war_firebase_z/"
+      },
+      {
+        "title": "Treyarch — solo Mimic capture fix and difficulty scaling",
+        "url": "https://www.treyarch.com/game-intel/2021/02/Season_Two_Details_and_Patch_Notes"
+      },
+      {
+        "title": "mmmrkennedy — quest location screenshots",
+        "url": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-16",
+    "sourceQuote": "https://www.reddit.com/r/CODZombies/comments/lepgsv/firebase_z_easter_egg_guide_made_simple/",
+    "supplementNote": "Quest excerpts are attributed to Zackatosh. Added location notes, recovery advice, named-memory screenshot and companion links are separately sourced below.",
+    "sourceOmissions": [
+      "The quoted source's 'last chance to shop' wording before the OPC button is omitted: the finale can advance after the satellite confirmation, and the Village machines remain accessible during the boss."
+    ],
+    "relatedGuideIds": [
+      "coldwar-firebase-z-power-pack-assault",
+      "coldwar-firebase-z-rai-k",
+      "coldwar-firebase-z-trials",
+      "coldwar-firebase-z-weapons-upgrades",
+      "coldwar-firebase-z-bunny-loot",
+      "coldwar-firebase-z-sergei-safe",
+      "coldwar-firebase-z-intel-artifacts",
+      "coldwar-outbreak-the-pact"
+    ]
   },
   {
     "id": "coldwar-mauer-der-toten-main",

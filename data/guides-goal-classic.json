@@ -3032,7 +3032,8 @@
       "bo1-call-of-the-dead-ensemble-cast",
       "bo1-call-of-the-dead-utility-weapon-upgrades",
       "bo1-call-of-the-dead-community-call-of-the-dead-special-weapons-scavenger-upgrade",
-      "bo1-call-of-the-dead-community-call-of-the-dead-special-weapons-v-r11-upgrade"
+      "bo1-call-of-the-dead-community-call-of-the-dead-special-weapons-v-r11-upgrade",
+      "bo1-call-of-the-dead-ordinary-pack-a-punch-inventory"
     ],
     "sources": [
       {
@@ -4356,5 +4357,1413 @@
       "bo1-moon-perks-in-space"
     ],
     "checked": "2026-10-16"
+  },
+  {
+    "id": "bo1-kino-der-toten-ordinary-pack-a-punch-inventory",
+    "mapId": "bo1-kino-der-toten",
+    "title": "Kino der Toten — firearm & utility upgrade reference",
+    "category": "weapon",
+    "difficulty": "Easy",
+    "players": "1–4; fired-blade revival needs co-op",
+    "summary": "This map’s wall and Box upgrades, with acquisition landmarks, changed firing modes, ammunition planning and links to its wonder-weapon routes.",
+    "requirements": [
+      "Original BO1 on PC, PS3 or Xbox 360; this inventory does not cover Wii, DS, mobile or custom weapon pools.",
+      "5,000 points per upgrade after acquiring the gun.",
+      "Follow the linked Pack-a-Punch companion for the map’s full machine-unlock route."
+    ],
+    "reward": "The listed BO1 upgraded weapons and utility effects; no extra reward for upgrading the whole list.",
+    "steps": [
+      {
+        "title": "Open Pack-a-Punch and reclaim the weapon",
+        "body": "Turn on stage power. Link the stage teleporter to the lobby pad, then teleport from the stage. Pay 5,000 in the projector room and reclaim the gun before the timed return.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/",
+        "tip": "Wall prices below buy the base gun, in points. Bring that gun to Pack-a-Punch for the named upgrade."
+      },
+      {
+        "title": "Wall rifles",
+        "body": "M14 → Mnesia — 500; lobby; grip; larger magazine.\nM16 → Skullcrusher — 1,200; stage; automatic; grenade launcher.",
+        "original": true,
+        "researchSource": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/kino-der-toten/"
+      },
+      {
+        "title": "Wall SMGs: upper and lower routes",
+        "body": "PM63 → Tokyo & Rose — 1,000; first upstairs room; dual wield.\nMPL → MPL-LF — 1,000; fire-trap room; reflex sight; larger magazine.\nAK74u → AK74fu2 — 1,200; alley; reflex sight; larger magazine.",
+        "original": true,
+        "researchSource": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/kino-der-toten/",
+        "images": [
+          {
+            "src": "./assets/classic-batch7-kino-ak74fu2.webp",
+            "alt": "AK74fu2 in original BO1 Kino. The creator’s overlay names its base AK74u; the upgraded sight, camouflage and 40/280 HUD are visible.",
+            "caption": "AK74fu2 in original BO1 Kino. The creator’s overlay names its base AK74u; the upgraded sight, camouflage and 40/280 HUD are visible.",
+            "source": "https://www.youtube.com/watch?v=No1LAwHu17c&t=11s",
+            "credit": "Ben Cullen / Activision"
+          }
+        ]
+      },
+      {
+        "title": "Wall SMGs and shotgun",
+        "body": "MP40 → The Afterburner — 1,000; Speed Cola room; larger magazine.\nMP5K → MP115 Kollider — 1,000; dressing room; larger magazine.\nStakeout → Raid — 1,500; upstairs by Speed Cola; two-shell reload; larger tube.",
+        "original": true,
+        "researchSource": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/kino-der-toten/"
+      },
+      {
+        "title": "Starting shotgun",
+        "body": "Olympia → Hades — 500; lobby; incendiary rounds.",
+        "original": true,
+        "researchSource": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/kino-der-toten/"
+      },
+      {
+        "title": "Box assault rifles — attachments",
+        "body": "AUG → AUG-50M3 — adds a Masterkey shotgun.\nCommando → Predator — dual magazines.\nFAMAS → G16-GL35 — reflex sight.\nGalil → Lamentation — reflex sight.",
+        "original": true,
+        "researchSource": "https://allblackopsallday.blogspot.com/2011/05/lets-start-this-out-this-is-going-to-be.html"
+      },
+      {
+        "title": "Box assault rifles — firing modes",
+        "body": "FN FAL → EPC WN — becomes three-round burst.\nG11 → G115 Generator — becomes fully automatic.",
+        "original": true,
+        "researchSource": "https://allblackopsallday.blogspot.com/2011/05/lets-start-this-out-this-is-going-to-be.html"
+      },
+      {
+        "title": "Box pistols and SMG",
+        "body": "CZ75 → Calamity — becomes automatic.\nCZ75 Dual Wield → Calamity & Jane — automatic dual pistols.\nPython → Cobra — speed-loader.\nSpectre → Phantom — reflex sight.",
+        "original": true,
+        "researchSource": "https://allblackopsallday.blogspot.com/2011/05/lets-start-this-out-this-is-going-to-be.html"
+      },
+      {
+        "title": "Box machine guns and snipers",
+        "body": "HK21 → H115 Oscillator — larger reserves.\nRPK → R115 Resonator — larger reserves.\nDragunov → D115 Disassembler — variable zoom.\nL96A1 → L115 Isolator — variable zoom.",
+        "original": true,
+        "researchSource": "https://allblackopsallday.blogspot.com/2011/05/lets-start-this-out-this-is-going-to-be.html"
+      },
+      {
+        "title": "Box shotguns and launchers",
+        "body": "SPAS-12 → SPAZ-24 — automatic; single-shell full reload.\nHS10 → Typhoid & Mary — becomes dual wield.\nChina Lake → China Beach — single-shell full reload.\nM72 LAW → M72 Anarchy — ten-rocket magazine.",
+        "original": true,
+        "researchSource": "https://allblackopsallday.blogspot.com/2011/05/lets-start-this-out-this-is-going-to-be.html",
+        "images": [
+          {
+            "src": "./assets/classic-batch7-kino-spaz24.webp",
+            "alt": "SPAZ-24 in original BO1 Kino, with the creator’s upgraded-weapon label retained.",
+            "caption": "SPAZ-24 in original BO1 Kino, with the creator’s upgraded-weapon label retained.",
+            "source": "https://www.youtube.com/watch?v=No1LAwHu17c&t=205s",
+            "credit": "Ben Cullen / Activision"
+          }
+        ]
+      },
+      {
+        "title": "Keep the starting pistol for explosive pistols",
+        "body": "M1911 → Mustang & Sally. Retain your starting pistol until you can insert it into Pack-a-Punch. The result is dual explosive pistols; trading the starter away prevents that planned upgrade.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/mi0ppp/"
+      },
+      {
+        "title": "Box utility weapons",
+        "body": "Crossbow → Awful Lawton — Box weapon; bolts lure ordinary zombies before exploding.\nBallistic Knife → The Krauss Refibrillator — Box weapon; its fired blade revives a downed teammate on a direct hit.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/13mw8n8/",
+        "tip": "The ranged revive needs co-op and a living shooter; it cannot revive you in Solo."
+      },
+      {
+        "title": "Plan Box rolls and ammunition",
+        "body": "Normal Box attempts cost 950 and are random. These are possible rewards, not guaranteed rolls. Upgraded wall-gun ammunition normally costs 4,500 at its outline; ordinary Box guns have no matching wall-ammo refill.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/"
+      },
+      {
+        "title": "Use explosives safely",
+        "body": "This map has no PhD Flopper. Keep Mustang & Sally, launcher and Ray Gun impacts away from your feet and nearby walls. Upgrading does not remove their splash hazard.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/"
+      },
+      {
+        "title": "Wonder weapons and separate equipment",
+        "body": "Ray Gun → Porter’s X2 Ray Gun; Thundergun → Zeus Cannon. Both use the same 5,000-point machine. Their separate companions cover acquisition and handling.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/",
+        "tip": "Bowie/Sickle melee purchases and tactical grenades are separate equipment; they are not inserted into the machine. This reference does not add BO3 alternate-ammo effects."
+      }
+    ],
+    "sources": [
+      {
+        "title": "r/CODZombies — Kino der Toten player wiki (edition-specific fields checked)",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/"
+      },
+      {
+        "title": "hXcHector — original BO1 Kino der Toten map roster",
+        "url": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/kino-der-toten/"
+      },
+      {
+        "title": "Gamestrats101 — original Kino gun/upgrade field notes (2011)",
+        "url": "https://allblackopsallday.blogspot.com/2011/05/lets-start-this-out-this-is-going-to-be.html"
+      },
+      {
+        "title": "Ben Cullen — original BO1 upgraded-gun gameplay (2011)",
+        "url": "https://www.youtube.com/watch?v=No1LAwHu17c"
+      },
+      {
+        "title": "MrEpicGamerz — original BO1 upgraded wall-gun gameplay (2011)",
+        "url": "https://www.youtube.com/watch?v=MUWY-azjP1Q"
+      },
+      {
+        "title": "BO1 players — CZ75 automatic upgrade and dual pistols",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1v19xju/best_nonstarter_pistol_in_treyarch_history/"
+      },
+      {
+        "title": "BO1 players — distinctive upgraded firing modes and weapon names",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1bivaxp/"
+      },
+      {
+        "title": "BO1 Five players — lure bolts, ranged revival and distinctive upgrades",
+        "url": "https://www.reddit.com/r/CODZombies/comments/13mw8n8/"
+      },
+      {
+        "title": "BO1 players — explosive M1911, attracting Crossbow and fired-blade revival",
+        "url": "https://www.reddit.com/r/CODZombies/comments/mi0ppp/"
+      }
+    ],
+    "relatedGuideIds": [
+      "bo1-kino-der-toten-community-kino-der-toten-map-walkthrough-pack-a-punch",
+      "bo1-kino-der-toten-utility-upgrades",
+      "bo1-kino-der-toten-community-kino-der-toten-special-weapons-upgraded-wonder-weapon",
+      "bo1-kino-der-toten-ray-gun-upgrade"
+    ],
+    "checked": "2026-10-16"
+  },
+  {
+    "id": "bo1-five-ordinary-pack-a-punch-inventory",
+    "mapId": "bo1-five",
+    "title": "Five — firearm & utility upgrade reference",
+    "category": "weapon",
+    "difficulty": "Easy",
+    "players": "1–4; fired-blade revival needs co-op",
+    "summary": "This map’s wall and Box upgrades, with acquisition landmarks, changed firing modes, ammunition planning and links to its wonder-weapon routes.",
+    "requirements": [
+      "Original BO1 on PC, PS3 or Xbox 360; this inventory does not cover Wii, DS, mobile or custom weapon pools.",
+      "5,000 points per upgrade after acquiring the gun. Bonfire Sale reduces this to 1,000.",
+      "Follow the linked Pack-a-Punch companion for the map’s full machine-unlock route."
+    ],
+    "reward": "The listed BO1 upgraded weapons and utility effects; no extra reward for upgrading the whole list.",
+    "steps": [
+      {
+        "title": "Open Pack-a-Punch and reclaim the weapon",
+        "body": "Turn on laboratory power. Use all four War Room DEFCON switches, then take its central teleporter to the Panic Room. Upgrade for 5,000, or 1,000 during Bonfire Sale, and retrieve the gun promptly.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/five/",
+        "tip": "Wall prices below buy the base gun, in points. Bring that gun to Pack-a-Punch for the named upgrade."
+      },
+      {
+        "title": "Wall rifles",
+        "body": "M14 → Mnesia — 500; Conference Room spawn; grip; larger magazine.\nM16 → Skullcrusher — 1,200; rear laboratory wall; automatic; grenade launcher.",
+        "original": true,
+        "researchSource": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/five/"
+      },
+      {
+        "title": "Wall SMGs: Conference Room and War Room",
+        "body": "MPL → MPL-LF — 1,000; hall toward the small elevator; reflex sight; larger magazine.\nMP5K → MP115 Kollider — 1,000; War Room upper walkway; larger magazine.\nPM63 → Tokyo & Rose — 1,000; War Room upper walkway; dual wield.",
+        "original": true,
+        "researchSource": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/five/"
+      },
+      {
+        "title": "Wall SMG and shotguns",
+        "body": "AK74u → AK74fu2 — 1,200; laboratories, left-side wall; reflex sight; larger magazine.\nOlympia → Hades — 500; spawn by Quick Revive; incendiary rounds.\nStakeout → Raid — 1,500; lower War Room, by cargo elevator; two-shell reload; larger tube.",
+        "original": true,
+        "researchSource": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/five/"
+      },
+      {
+        "title": "Box assault rifles — attachments",
+        "body": "AUG → AUG-50M3 — adds a Masterkey shotgun.\nCommando → Predator — dual magazines.\nFAMAS → G16-GL35 — reflex sight.\nGalil → Lamentation — reflex sight.",
+        "original": true,
+        "researchSource": "https://gamefaqs.gamespot.com/pc/960187-call-of-duty-black-ops/faqs/61645"
+      },
+      {
+        "title": "Box assault rifles — firing modes",
+        "body": "FN FAL → EPC WN — becomes three-round burst.\nG11 → G115 Generator — becomes fully automatic.",
+        "original": true,
+        "researchSource": "https://gamefaqs.gamespot.com/pc/960187-call-of-duty-black-ops/faqs/61645"
+      },
+      {
+        "title": "Box pistols and SMG",
+        "body": "CZ75 → Calamity — becomes automatic.\nCZ75 Dual Wield → Calamity & Jane — automatic dual pistols.\nPython → Cobra — speed-loader.\nSpectre → Phantom — reflex sight.",
+        "original": true,
+        "researchSource": "https://gamefaqs.gamespot.com/pc/960187-call-of-duty-black-ops/faqs/61645"
+      },
+      {
+        "title": "Box machine guns and snipers",
+        "body": "HK21 → H115 Oscillator — larger reserves.\nRPK → R115 Resonator — larger reserves.\nDragunov → D115 Disassembler — variable zoom.\nL96A1 → L115 Isolator — variable zoom.",
+        "original": true,
+        "researchSource": "https://gamefaqs.gamespot.com/pc/960187-call-of-duty-black-ops/faqs/61645"
+      },
+      {
+        "title": "Box shotguns and launchers",
+        "body": "SPAS-12 → SPAZ-24 — automatic; single-shell full reload.\nHS10 → Typhoid & Mary — becomes dual wield.\nChina Lake → China Beach — single-shell full reload.\nM72 LAW → M72 Anarchy — ten-rocket magazine.",
+        "original": true,
+        "researchSource": "https://gamefaqs.gamespot.com/pc/960187-call-of-duty-black-ops/faqs/61645"
+      },
+      {
+        "title": "Keep the starting pistol for explosive pistols",
+        "body": "M1911 → Mustang & Sally. Retain your starting pistol until you can insert it into Pack-a-Punch. The result is dual explosive pistols; trading the starter away prevents that planned upgrade.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/mi0ppp/"
+      },
+      {
+        "title": "Box utility weapons",
+        "body": "Crossbow → Awful Lawton — Box weapon; bolts lure ordinary zombies before exploding.\nBallistic Knife → The Krauss Refibrillator — Box weapon; its fired blade revives a downed teammate on a direct hit.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/13mw8n8/",
+        "tip": "The ranged revive needs co-op and a living shooter; it cannot revive you in Solo."
+      },
+      {
+        "title": "Plan Box rolls and ammunition",
+        "body": "Normal Box attempts cost 950 and are random. These are possible rewards, not guaranteed rolls. Upgraded wall-gun ammunition normally costs 4,500 at its outline; ordinary Box guns have no matching wall-ammo refill.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/five/"
+      },
+      {
+        "title": "Use explosives safely",
+        "body": "This map has no PhD Flopper. Keep Mustang & Sally, launcher and Ray Gun impacts away from your feet and nearby walls. Upgrading does not remove their splash hazard.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/five/"
+      },
+      {
+        "title": "Wonder weapons and separate equipment",
+        "body": "Ray Gun → Porter’s X2 Ray Gun; Winter’s Howl → Winter’s Fury. The laboratory display weapons are props; roll the usable guns from the Box.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/five/",
+        "tip": "Bowie/Sickle melee purchases and tactical grenades are separate equipment; they are not inserted into the machine. This reference does not add BO3 alternate-ammo effects."
+      }
+    ],
+    "sources": [
+      {
+        "title": "r/CODZombies — Five player wiki (edition-specific fields checked)",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/five/"
+      },
+      {
+        "title": "hXcHector — original BO1 Five map roster",
+        "url": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/five/"
+      },
+      {
+        "title": "jimmythesnowman — original BO1 Five weapon/upgrade guide (indexed sections)",
+        "url": "https://gamefaqs.gamespot.com/pc/960187-call-of-duty-black-ops/faqs/61645"
+      },
+      {
+        "title": "Ben Cullen — original BO1 upgraded-gun gameplay (2011)",
+        "url": "https://www.youtube.com/watch?v=No1LAwHu17c"
+      },
+      {
+        "title": "MrEpicGamerz — original BO1 upgraded wall-gun gameplay (2011)",
+        "url": "https://www.youtube.com/watch?v=MUWY-azjP1Q"
+      },
+      {
+        "title": "BO1 players — CZ75 automatic upgrade and dual pistols",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1v19xju/best_nonstarter_pistol_in_treyarch_history/"
+      },
+      {
+        "title": "BO1 players — distinctive upgraded firing modes and weapon names",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1bivaxp/"
+      },
+      {
+        "title": "BO1 Five players — lure bolts, ranged revival and distinctive upgrades",
+        "url": "https://www.reddit.com/r/CODZombies/comments/13mw8n8/"
+      },
+      {
+        "title": "BO1 players — explosive M1911, attracting Crossbow and fired-blade revival",
+        "url": "https://www.reddit.com/r/CODZombies/comments/mi0ppp/"
+      }
+    ],
+    "relatedGuideIds": [
+      "bo1-five-community-five-map-walkthrough-pack-a-punch",
+      "bo1-five-utility-upgrades",
+      "bo1-five-community-five-special-weapons-winter-s-howl-upgrade",
+      "bo1-five-ray-gun-upgrade"
+    ],
+    "checked": "2026-10-16"
+  },
+  {
+    "id": "bo1-ascension-ordinary-pack-a-punch-inventory",
+    "mapId": "bo1-ascension",
+    "title": "Ascension — firearm & utility upgrade reference",
+    "category": "weapon",
+    "difficulty": "Easy",
+    "players": "1–4; fired-blade revival needs co-op",
+    "summary": "This map’s wall and Box upgrades, with acquisition landmarks, changed firing modes, ammunition planning and links to its wonder-weapon routes.",
+    "requirements": [
+      "Original BO1 on PC, PS3 or Xbox 360; this inventory does not cover Wii, DS, mobile or custom weapon pools.",
+      "5,000 points per upgrade after acquiring the gun.",
+      "Follow the linked Pack-a-Punch companion for the map’s full machine-unlock route."
+    ],
+    "reward": "The listed BO1 upgraded weapons and utility effects; no extra reward for upgrading the whole list.",
+    "steps": [
+      {
+        "title": "Open Pack-a-Punch and reclaim the weapon",
+        "body": "Turn on power. Ride each of the three outer lunar landers back to spawn, press the rocket-launch button beside power, then enter beneath the cleared launch pad. Upgrade for 5,000 and retrieve the weapon.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/",
+        "tip": "Wall prices below buy the base gun, in points. Bring that gun to Pack-a-Punch for the named upgrade."
+      },
+      {
+        "title": "Wall rifles",
+        "body": "M14 → Mnesia — 500; spawn ground floor; grip; larger magazine.\nM16 → Skullcrusher — 1,200; Speed Cola/Sickle lander route; automatic; grenade launcher.",
+        "original": true,
+        "researchSource": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/ascension/"
+      },
+      {
+        "title": "Wall SMGs: tower and landers",
+        "body": "MPL → MPL-LF — 1,000; tower ground floor; reflex sight; larger magazine.\nPM63 → Tokyo & Rose — 1,000; tower by Juggernog; dual wield.\nMP5K → MP115 Kollider — 1,000; PhD lander yard; larger magazine.",
+        "original": true,
+        "researchSource": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/ascension/",
+        "images": [
+          {
+            "src": "./assets/classic-batch7-ascension-mpl.webp",
+            "alt": "MPL-LF in original BO1 Ascension. The creator’s MPL → MPL-LF caption and watermark are retained.",
+            "caption": "MPL-LF in original BO1 Ascension. The creator’s MPL → MPL-LF caption and watermark are retained.",
+            "source": "https://www.youtube.com/watch?v=MUWY-azjP1Q&t=74s",
+            "credit": "MrEpicGamerz / Activision"
+          }
+        ]
+      },
+      {
+        "title": "Wall SMG and shotguns",
+        "body": "AK74u → AK74fu2 — 1,200; Stamin-Up corridor; reflex sight; larger magazine.\nOlympia → Hades — 500; spawn balcony; incendiary rounds.\nStakeout → Raid — 1,500; tower’s upper floor; two-shell reload; larger tube.",
+        "original": true,
+        "researchSource": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/ascension/"
+      },
+      {
+        "title": "Box assault rifles — attachments",
+        "body": "AUG → AUG-50M3 — adds a Masterkey shotgun.\nCommando → Predator — dual magazines.\nFAMAS → G16-GL35 — reflex sight.\nGalil → Lamentation — reflex sight.",
+        "original": true,
+        "researchSource": "https://www.neoseeker.com/call-of-duty-black-ops-first-strike/faqs/237522-call-of-duty-bo-fs-ascension-a.html"
+      },
+      {
+        "title": "Box assault rifles — firing modes",
+        "body": "FN FAL → EPC WN — becomes three-round burst.\nG11 → G115 Generator — becomes fully automatic.",
+        "original": true,
+        "researchSource": "https://www.neoseeker.com/call-of-duty-black-ops-first-strike/faqs/237522-call-of-duty-bo-fs-ascension-a.html"
+      },
+      {
+        "title": "Box pistols and SMG",
+        "body": "CZ75 → Calamity — becomes automatic.\nCZ75 Dual Wield → Calamity & Jane — automatic dual pistols.\nPython → Cobra — speed-loader.\nSpectre → Phantom — reflex sight.",
+        "original": true,
+        "researchSource": "https://www.neoseeker.com/call-of-duty-black-ops-first-strike/faqs/237522-call-of-duty-bo-fs-ascension-a.html"
+      },
+      {
+        "title": "Box machine guns and snipers",
+        "body": "HK21 → H115 Oscillator — larger reserves.\nRPK → R115 Resonator — larger reserves.\nDragunov → D115 Disassembler — variable zoom.\nL96A1 → L115 Isolator — variable zoom.",
+        "original": true,
+        "researchSource": "https://www.neoseeker.com/call-of-duty-black-ops-first-strike/faqs/237522-call-of-duty-bo-fs-ascension-a.html"
+      },
+      {
+        "title": "Box shotguns and launchers",
+        "body": "SPAS-12 → SPAZ-24 — automatic; single-shell full reload.\nHS10 → Typhoid & Mary — becomes dual wield.\nChina Lake → China Beach — single-shell full reload.\nM72 LAW → M72 Anarchy — ten-rocket magazine.",
+        "original": true,
+        "researchSource": "https://www.neoseeker.com/call-of-duty-black-ops-first-strike/faqs/237522-call-of-duty-bo-fs-ascension-a.html"
+      },
+      {
+        "title": "Keep the starting pistol for explosive pistols",
+        "body": "M1911 → Mustang & Sally. Retain your starting pistol until you can insert it into Pack-a-Punch. The result is dual explosive pistols; trading the starter away prevents that planned upgrade.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/mi0ppp/"
+      },
+      {
+        "title": "Box utility weapons",
+        "body": "Crossbow → Awful Lawton — Box weapon; bolts lure ordinary zombies before exploding.\nBallistic Knife → The Krauss Refibrillator — Box weapon; its fired blade revives a downed teammate on a direct hit.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/13mw8n8/",
+        "tip": "The ranged revive needs co-op and a living shooter; it cannot revive you in Solo."
+      },
+      {
+        "title": "Plan Box rolls and ammunition",
+        "body": "Normal Box attempts cost 950 and are random. These are possible rewards, not guaranteed rolls. Upgraded wall-gun ammunition normally costs 4,500 at its outline; ordinary Box guns have no matching wall-ammo refill.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+      },
+      {
+        "title": "Use explosives safely",
+        "body": "Buy PhD Flopper before close explosive fire; it protects against your own splash. Protect the perk and leave room to move.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+      },
+      {
+        "title": "Wonder weapons and separate equipment",
+        "body": "Ray Gun → Porter’s X2 Ray Gun; Thundergun → Zeus Cannon. Gersh Devices and Matryoshka Dolls occupy the tactical slot and have no Pack-a-Punch transaction.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/",
+        "tip": "Bowie/Sickle melee purchases and tactical grenades are separate equipment; they are not inserted into the machine. This reference does not add BO3 alternate-ammo effects."
+      }
+    ],
+    "sources": [
+      {
+        "title": "r/CODZombies — Ascension player wiki (edition-specific fields checked)",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+      },
+      {
+        "title": "hXcHector — original BO1 Ascension map roster",
+        "url": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/ascension/"
+      },
+      {
+        "title": "Pink_Sijibijiji — original Ascension weapon/upgrade guide v1.2 (indexed sections)",
+        "url": "https://www.neoseeker.com/call-of-duty-black-ops-first-strike/faqs/237522-call-of-duty-bo-fs-ascension-a.html"
+      },
+      {
+        "title": "Ben Cullen — original BO1 upgraded-gun gameplay (2011)",
+        "url": "https://www.youtube.com/watch?v=No1LAwHu17c"
+      },
+      {
+        "title": "MrEpicGamerz — original BO1 upgraded wall-gun gameplay (2011)",
+        "url": "https://www.youtube.com/watch?v=MUWY-azjP1Q"
+      },
+      {
+        "title": "BO1 players — CZ75 automatic upgrade and dual pistols",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1v19xju/best_nonstarter_pistol_in_treyarch_history/"
+      },
+      {
+        "title": "BO1 players — distinctive upgraded firing modes and weapon names",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1bivaxp/"
+      },
+      {
+        "title": "BO1 Five players — lure bolts, ranged revival and distinctive upgrades",
+        "url": "https://www.reddit.com/r/CODZombies/comments/13mw8n8/"
+      },
+      {
+        "title": "BO1 players — explosive M1911, attracting Crossbow and fired-blade revival",
+        "url": "https://www.reddit.com/r/CODZombies/comments/mi0ppp/"
+      },
+      {
+        "title": "Cez17 — original Ascension weapon/upgrade guide v1.15 (indexed sections)",
+        "url": "https://www.neoseeker.com/call-of-duty-black-ops-first-strike/faqs/237533-call-of-duty-bo-fs-ascension-b.html"
+      }
+    ],
+    "relatedGuideIds": [
+      "bo1-ascension-community-ascension-map-walkthrough-pack-a-punch",
+      "bo1-ascension-utility-upgrades",
+      "bo1-ascension-community-ascension-special-weapons-thundergun-upgrade"
+    ],
+    "checked": "2026-10-16"
+  },
+  {
+    "id": "bo1-call-of-the-dead-ordinary-pack-a-punch-inventory",
+    "mapId": "bo1-call-of-the-dead",
+    "title": "Call of the Dead — firearm & utility upgrade reference",
+    "category": "weapon",
+    "difficulty": "Easy",
+    "players": "1–4; fired-blade revival needs co-op",
+    "summary": "This map’s wall and Box upgrades, with acquisition landmarks, changed firing modes, ammunition planning and links to its wonder-weapon routes.",
+    "requirements": [
+      "Original BO1 on PC, PS3 or Xbox 360; this inventory does not cover Wii, DS, mobile or custom weapon pools.",
+      "5,000 points per upgrade after acquiring the gun.",
+      "Follow the linked Pack-a-Punch companion for the map’s full machine-unlock route."
+    ],
+    "reward": "The listed BO1 upgraded weapons and utility effects; no extra reward for upgrading the whole list.",
+    "steps": [
+      {
+        "title": "Open Pack-a-Punch and reclaim the weapon",
+        "body": "Turn on ship-bridge power. Follow the settled lighthouse beam to the active Pack-a-Punch water rock: spawn, lighthouse rear or Juggernog-side ship water. Equip the gun, pay 5,000 and collect it while the machine is present.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/call-of-the-dead/",
+        "tip": "Wall prices below buy the base gun, in points. Bring that gun to Pack-a-Punch for the named upgrade."
+      },
+      {
+        "title": "Wall rifles",
+        "body": "M14 → Mnesia — 500; starting island; grip; larger magazine.\nM16 → Skullcrusher — 1,200; upper ship near the Flinger; automatic; grenade launcher.",
+        "original": true,
+        "researchSource": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/call-of-the-dead/"
+      },
+      {
+        "title": "Wall SMGs: ship",
+        "body": "MPL → MPL-LF — 1,000; ship’s front section; reflex sight; larger magazine.\nPM63 → Tokyo & Rose — 1,000; lower rear ship room; dual wield.\nMP40 → The Afterburner — 1,000; rear ship section; larger magazine.",
+        "original": true,
+        "researchSource": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/call-of-the-dead/"
+      },
+      {
+        "title": "Wall SMGs and shotguns: lighthouse route",
+        "body": "AK74u → AK74fu2 — 1,200; lighthouse front; reflex sight; larger magazine.\nMP5K → MP115 Kollider — 1,000; Stamin-Up building roof/approach; larger magazine.",
+        "original": true,
+        "researchSource": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/call-of-the-dead/"
+      },
+      {
+        "title": "Wall SMGs and shotguns: lighthouse route (continued)",
+        "body": "Stakeout → Raid — 1,500; behind lighthouse; two-shell reload; larger tube.\nOlympia → Hades — 500; starting island; incendiary rounds.",
+        "original": true,
+        "researchSource": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/call-of-the-dead/"
+      },
+      {
+        "title": "Box assault rifles — attachments",
+        "body": "AUG → AUG-50M3 — adds a Masterkey shotgun.\nCommando → Predator — dual magazines.\nFAMAS → G16-GL35 — reflex sight.\nGalil → Lamentation — reflex sight.",
+        "original": true,
+        "researchSource": "https://nextgenupdate.com/forums/call-duty-black-ops/248453-nazi-zombies-all-upgraded-weapons-pack-punch.html"
+      },
+      {
+        "title": "Box assault rifles — firing modes",
+        "body": "FN FAL → EPC WN — becomes three-round burst.\nG11 → G115 Generator — becomes fully automatic.",
+        "original": true,
+        "researchSource": "https://nextgenupdate.com/forums/call-duty-black-ops/248453-nazi-zombies-all-upgraded-weapons-pack-punch.html"
+      },
+      {
+        "title": "Box pistols and SMG",
+        "body": "CZ75 → Calamity — becomes automatic.\nCZ75 Dual Wield → Calamity & Jane — automatic dual pistols.\nPython → Cobra — speed-loader.\nSpectre → Phantom — reflex sight.",
+        "original": true,
+        "researchSource": "https://nextgenupdate.com/forums/call-duty-black-ops/248453-nazi-zombies-all-upgraded-weapons-pack-punch.html"
+      },
+      {
+        "title": "Box machine guns and snipers",
+        "body": "HK21 → H115 Oscillator — larger reserves.\nRPK → R115 Resonator — larger reserves.\nDragunov → D115 Disassembler — variable zoom.\nL96A1 → L115 Isolator — variable zoom.",
+        "original": true,
+        "researchSource": "https://nextgenupdate.com/forums/call-duty-black-ops/248453-nazi-zombies-all-upgraded-weapons-pack-punch.html"
+      },
+      {
+        "title": "Box shotguns and launchers",
+        "body": "SPAS-12 → SPAZ-24 — automatic; single-shell full reload.\nHS10 → Typhoid & Mary — becomes dual wield.\nChina Lake → China Beach — single-shell full reload.\nM72 LAW → M72 Anarchy — ten-rocket magazine.",
+        "original": true,
+        "researchSource": "https://nextgenupdate.com/forums/call-duty-black-ops/248453-nazi-zombies-all-upgraded-weapons-pack-punch.html"
+      },
+      {
+        "title": "Keep the starting pistol for explosive pistols",
+        "body": "M1911 → Mustang & Sally. Retain your starting pistol until you can insert it into Pack-a-Punch. The result is dual explosive pistols; trading the starter away prevents that planned upgrade.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/mi0ppp/"
+      },
+      {
+        "title": "Box utility weapons",
+        "body": "Crossbow → Awful Lawton — Box weapon; bolts lure ordinary zombies before exploding.\nBallistic Knife → The Krauss Refibrillator — Box weapon; its fired blade revives a downed teammate on a direct hit.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/13mw8n8/",
+        "tip": "The ranged revive needs co-op and a living shooter; it cannot revive you in Solo."
+      },
+      {
+        "title": "Plan Box rolls and ammunition",
+        "body": "Normal Box attempts cost 950 and are random. These are possible rewards, not guaranteed rolls. Upgraded wall-gun ammunition normally costs 4,500 at its outline; ordinary Box guns have no matching wall-ammo refill.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/call-of-the-dead/"
+      },
+      {
+        "title": "Use explosives safely",
+        "body": "Buy PhD Flopper before close explosive fire; it protects against your own splash. Protect the perk and leave room to move.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/call-of-the-dead/"
+      },
+      {
+        "title": "Wonder weapons and separate equipment",
+        "body": "Scavenger → Hyena Infra-Dead; V-R11 → V-R11 Lazarus; Ray Gun → Porter’s X2. The separate quest-reward Wunderwaffe is a power-up and cannot be inserted into Pack-a-Punch.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/call-of-the-dead/",
+        "tip": "Bowie/Sickle melee purchases and tactical grenades are separate equipment; they are not inserted into the machine. This reference does not add BO3 alternate-ammo effects."
+      }
+    ],
+    "sources": [
+      {
+        "title": "r/CODZombies — Call of the Dead player wiki (edition-specific fields checked)",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/call-of-the-dead/"
+      },
+      {
+        "title": "hXcHector — original BO1 Call of the Dead map roster",
+        "url": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/call-of-the-dead/"
+      },
+      {
+        "title": "xGozzy — original BO1 upgraded-weapon demonstration and field notes (2010)",
+        "url": "https://nextgenupdate.com/forums/call-duty-black-ops/248453-nazi-zombies-all-upgraded-weapons-pack-punch.html"
+      },
+      {
+        "title": "Ben Cullen — original BO1 upgraded-gun gameplay (2011)",
+        "url": "https://www.youtube.com/watch?v=No1LAwHu17c"
+      },
+      {
+        "title": "MrEpicGamerz — original BO1 upgraded wall-gun gameplay (2011)",
+        "url": "https://www.youtube.com/watch?v=MUWY-azjP1Q"
+      },
+      {
+        "title": "BO1 players — CZ75 automatic upgrade and dual pistols",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1v19xju/best_nonstarter_pistol_in_treyarch_history/"
+      },
+      {
+        "title": "BO1 players — distinctive upgraded firing modes and weapon names",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1bivaxp/"
+      },
+      {
+        "title": "BO1 Five players — lure bolts, ranged revival and distinctive upgrades",
+        "url": "https://www.reddit.com/r/CODZombies/comments/13mw8n8/"
+      },
+      {
+        "title": "BO1 players — explosive M1911, attracting Crossbow and fired-blade revival",
+        "url": "https://www.reddit.com/r/CODZombies/comments/mi0ppp/"
+      }
+    ],
+    "relatedGuideIds": [
+      "bo1-call-of-the-dead-roaming-pack-a-punch",
+      "bo1-call-of-the-dead-utility-weapon-upgrades",
+      "bo1-call-of-the-dead-community-call-of-the-dead-special-weapons-scavenger-upgrade",
+      "bo1-call-of-the-dead-ray-gun"
+    ],
+    "checked": "2026-10-16"
+  },
+  {
+    "id": "bo1-shangri-la-ordinary-pack-a-punch-inventory",
+    "mapId": "bo1-shangri-la",
+    "title": "Shangri-La — firearm & utility upgrade reference",
+    "category": "weapon",
+    "difficulty": "Easy",
+    "players": "1–4; fired-blade revival needs co-op",
+    "summary": "This map’s wall and Box upgrades, with acquisition landmarks, changed firing modes, ammunition planning and links to its wonder-weapon routes.",
+    "requirements": [
+      "Original BO1 on PC, PS3 or Xbox 360; this inventory does not cover Wii, DS, mobile or custom weapon pools.",
+      "5,000 points per upgrade after acquiring the gun.",
+      "Follow the linked Pack-a-Punch companion for the map’s full machine-unlock route."
+    ],
+    "reward": "The listed BO1 upgraded weapons and utility effects; no extra reward for upgrading the whole list.",
+    "steps": [
+      {
+        "title": "Open Pack-a-Punch and reclaim the weapon",
+        "body": "Turn on both underground power switches. Have each player hold one currently active pressure plate until the mechanism aligns. Ascend the spawn temple stairs, pay 5,000 and collect the gun before the water closes access.",
+        "original": true,
+        "researchSource": "https://w.atwiki.jp/cod_blackops/pages/131.html",
+        "tip": "Wall prices below buy the base gun, in points. Bring that gun to Pack-a-Punch for the named upgrade."
+      },
+      {
+        "title": "Wall rifles",
+        "body": "M14 → Mnesia — 500; spawn, minecart side; grip; larger magazine.\nM16 → Skullcrusher — 1,200; minecart-side cave before Power; automatic; grenade launcher.",
+        "original": true,
+        "researchSource": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/shangri-la/"
+      },
+      {
+        "title": "Wall SMGs: surface and waterfall",
+        "body": "MPL → MPL-LF — 1,000; minecart area; reflex sight; larger magazine.\nPM63 → Tokyo & Rose — 1,000; mud-maze exit; dual wield.\nMP5K → MP115 Kollider — 1,000; cave entrance from mud maze; larger magazine.",
+        "original": true,
+        "researchSource": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/shangri-la/"
+      },
+      {
+        "title": "Wall SMG and shotguns",
+        "body": "AK74u → AK74fu2 — 1,200; water-slide landing room; reflex sight; larger magazine.\nOlympia → Hades — 500; spawn, mud-maze side; incendiary rounds.\nStakeout → Raid — 1,500; between waterfall and Power; two-shell reload; larger tube.",
+        "original": true,
+        "researchSource": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/shangri-la/"
+      },
+      {
+        "title": "Box assault rifles — attachments",
+        "body": "AUG → AUG-50M3 — adds a Masterkey shotgun.\nCommando → Predator — dual magazines.\nFAMAS → G16-GL35 — reflex sight.\nGalil → Lamentation — reflex sight.",
+        "original": true,
+        "researchSource": "https://www.playstationtrophies.org/forum/topic/73922-pack-a-punch-machine-guide/"
+      },
+      {
+        "title": "Box assault rifles — firing modes",
+        "body": "FN FAL → EPC WN — becomes three-round burst.\nG11 → G115 Generator — becomes fully automatic.",
+        "original": true,
+        "researchSource": "https://www.playstationtrophies.org/forum/topic/73922-pack-a-punch-machine-guide/"
+      },
+      {
+        "title": "Box pistols and SMG",
+        "body": "CZ75 → Calamity — becomes automatic.\nCZ75 Dual Wield → Calamity & Jane — automatic dual pistols.\nPython → Cobra — speed-loader.\nSpectre → Phantom — reflex sight.",
+        "original": true,
+        "researchSource": "https://www.playstationtrophies.org/forum/topic/73922-pack-a-punch-machine-guide/"
+      },
+      {
+        "title": "Box machine guns and snipers",
+        "body": "HK21 → H115 Oscillator — larger reserves.\nRPK → R115 Resonator — larger reserves.\nDragunov → D115 Disassembler — variable zoom.\nL96A1 → L115 Isolator — variable zoom.",
+        "original": true,
+        "researchSource": "https://www.playstationtrophies.org/forum/topic/73922-pack-a-punch-machine-guide/"
+      },
+      {
+        "title": "Box shotguns and launchers",
+        "body": "SPAS-12 → SPAZ-24 — automatic; single-shell full reload.\nHS10 → Typhoid & Mary — becomes dual wield.\nChina Lake → China Beach — single-shell full reload.\nM72 LAW → M72 Anarchy — ten-rocket magazine.",
+        "original": true,
+        "researchSource": "https://www.playstationtrophies.org/forum/topic/73922-pack-a-punch-machine-guide/"
+      },
+      {
+        "title": "Keep the starting pistol for explosive pistols",
+        "body": "M1911 → Mustang & Sally. Retain your starting pistol until you can insert it into Pack-a-Punch. The result is dual explosive pistols; trading the starter away prevents that planned upgrade.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/mi0ppp/"
+      },
+      {
+        "title": "Box utility weapons",
+        "body": "Crossbow → Awful Lawton — Box weapon; bolts lure ordinary zombies before exploding.\nBallistic Knife → The Krauss Refibrillator — Box weapon; its fired blade revives a downed teammate on a direct hit.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/13mw8n8/",
+        "tip": "The ranged revive needs co-op and a living shooter; it cannot revive you in Solo."
+      },
+      {
+        "title": "Plan Box rolls and ammunition",
+        "body": "Normal Box attempts cost 950 and are random. These are possible rewards, not guaranteed rolls. Upgraded wall-gun ammunition normally costs 4,500 at its outline; ordinary Box guns have no matching wall-ammo refill.",
+        "original": true,
+        "researchSource": "https://w.atwiki.jp/cod_blackops/pages/131.html"
+      },
+      {
+        "title": "Use explosives safely",
+        "body": "Buy PhD Flopper before close explosive fire; it protects against your own splash. Protect the perk and leave room to move.",
+        "original": true,
+        "researchSource": "https://w.atwiki.jp/cod_blackops/pages/131.html"
+      },
+      {
+        "title": "Wonder weapons and separate equipment",
+        "body": "Ray Gun → Porter’s X2 Ray Gun; 31-79 JGb215 → The Fractalizer. The Fractalizer used in the main quest is a normal machine upgrade; buying Spikemores or Bowie does not grant it.",
+        "original": true,
+        "researchSource": "https://w.atwiki.jp/cod_blackops/pages/131.html",
+        "tip": "Bowie/Sickle melee purchases and tactical grenades are separate equipment; they are not inserted into the machine. This reference does not add BO3 alternate-ammo effects."
+      }
+    ],
+    "sources": [
+      {
+        "title": "BO1 Japanese player wiki — original Shangri-La power and pressure plates (2012)",
+        "url": "https://w.atwiki.jp/cod_blackops/pages/131.html"
+      },
+      {
+        "title": "hXcHector — original BO1 Shangri-La map roster",
+        "url": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/shangri-la/"
+      },
+      {
+        "title": "Pvt Rain — original BO1 player’s Pack-a-Punch guide (indexed posts)",
+        "url": "https://www.playstationtrophies.org/forum/topic/73922-pack-a-punch-machine-guide/"
+      },
+      {
+        "title": "Ben Cullen — original BO1 upgraded-gun gameplay (2011)",
+        "url": "https://www.youtube.com/watch?v=No1LAwHu17c"
+      },
+      {
+        "title": "MrEpicGamerz — original BO1 upgraded wall-gun gameplay (2011)",
+        "url": "https://www.youtube.com/watch?v=MUWY-azjP1Q"
+      },
+      {
+        "title": "BO1 players — CZ75 automatic upgrade and dual pistols",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1v19xju/best_nonstarter_pistol_in_treyarch_history/"
+      },
+      {
+        "title": "BO1 players — distinctive upgraded firing modes and weapon names",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1bivaxp/"
+      },
+      {
+        "title": "BO1 Five players — lure bolts, ranged revival and distinctive upgrades",
+        "url": "https://www.reddit.com/r/CODZombies/comments/13mw8n8/"
+      },
+      {
+        "title": "BO1 players — explosive M1911, attracting Crossbow and fired-blade revival",
+        "url": "https://www.reddit.com/r/CODZombies/comments/mi0ppp/"
+      }
+    ],
+    "relatedGuideIds": [
+      "bo1-shangri-la-power-pack-a-punch",
+      "bo1-shangri-la-equipment-utility-upgrades",
+      "bo1-shangri-la-jgb215-fractalizer"
+    ],
+    "checked": "2026-10-16"
+  },
+  {
+    "id": "bo1-moon-ordinary-pack-a-punch-inventory",
+    "mapId": "bo1-moon",
+    "title": "Moon — firearm & utility upgrade reference",
+    "category": "weapon",
+    "difficulty": "Easy",
+    "players": "1–4; fired-blade revival needs co-op",
+    "summary": "This map’s wall and Box upgrades, with acquisition landmarks, changed firing modes, ammunition planning and links to its wonder-weapon routes.",
+    "requirements": [
+      "Original BO1 on PC, PS3 or Xbox 360; this inventory does not cover Wii, DS, mobile or custom weapon pools.",
+      "5,000 points per upgrade after acquiring the gun.",
+      "Follow the linked Pack-a-Punch companion for the map’s full machine-unlock route."
+    ],
+    "reward": "The listed BO1 upgraded weapons and utility effects; no extra reward for upgrading the whole list.",
+    "steps": [
+      {
+        "title": "Open Pack-a-Punch and reclaim the weapon",
+        "body": "Use Pack-a-Punch at Area 51 for 5,000. For a return trip, switch on lunar power and gather every living teammate on the exterior pad by Mule Kick/AK74u. Reclaim the upgraded gun before returning to Moon.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+        "tip": "Wall prices below buy the base gun, in points. Bring that gun to Pack-a-Punch for the named upgrade."
+      },
+      {
+        "title": "Wall rifles",
+        "body": "M14 → Mnesia — 500; outside spawn, Tunnel 11 side; grip; larger magazine.\nM16 → Skullcrusher — 1,200; Tunnel 6, MPD end; automatic; grenade launcher.",
+        "original": true,
+        "researchSource": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/moon/"
+      },
+      {
+        "title": "Wall SMGs: tunnels and lab",
+        "body": "MPL → MPL-LF — 1,000; first Tunnel 6 room; reflex sight; larger magazine.\nPM63 → Tokyo & Rose — 1,000; first Tunnel 11 room; dual wield.\nMP5K → MP115 Kollider — 1,000; top laboratory floor; larger magazine.",
+        "original": true,
+        "researchSource": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/moon/"
+      },
+      {
+        "title": "Wall SMG and shotguns",
+        "body": "AK74u → AK74fu2 — 1,200; surface by return teleporter; reflex sight; larger magazine.\nOlympia → Hades — 500; outside spawn, Tunnel 6 side; incendiary rounds.\nStakeout → Raid — 1,500; MPD/power room; two-shell reload; larger tube.",
+        "original": true,
+        "researchSource": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/moon/"
+      },
+      {
+        "title": "Box assault rifles — attachments",
+        "body": "AUG → AUG-50M3 — adds a Masterkey shotgun.\nCommando → Predator — dual magazines.\nFAMAS → G16-GL35 — reflex sight.\nGalil → Lamentation — reflex sight.",
+        "original": true,
+        "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=121313832"
+      },
+      {
+        "title": "Box assault rifles — firing modes",
+        "body": "FN FAL → EPC WN — becomes three-round burst.\nG11 → G115 Generator — becomes fully automatic.",
+        "original": true,
+        "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=121313832"
+      },
+      {
+        "title": "Box pistols and SMG",
+        "body": "CZ75 → Calamity — becomes automatic.\nCZ75 Dual Wield → Calamity & Jane — automatic dual pistols.\nPython → Cobra — speed-loader.\nSpectre → Phantom — reflex sight.",
+        "original": true,
+        "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=121313832"
+      },
+      {
+        "title": "Box machine guns and snipers",
+        "body": "HK21 → H115 Oscillator — larger reserves.\nRPK → R115 Resonator — larger reserves.\nDragunov → D115 Disassembler — variable zoom.\nL96A1 → L115 Isolator — variable zoom.",
+        "original": true,
+        "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=121313832"
+      },
+      {
+        "title": "Box shotguns and launchers",
+        "body": "SPAS-12 → SPAZ-24 — automatic; single-shell full reload.\nHS10 → Typhoid & Mary — becomes dual wield.\nChina Lake → China Beach — single-shell full reload.\nM72 LAW → M72 Anarchy — ten-rocket magazine.",
+        "original": true,
+        "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=121313832"
+      },
+      {
+        "title": "Keep the starting pistol for explosive pistols",
+        "body": "M1911 → Mustang & Sally. Retain your starting pistol until you can insert it into Pack-a-Punch. The result is dual explosive pistols; trading the starter away prevents that planned upgrade.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/mi0ppp/"
+      },
+      {
+        "title": "Box utility weapons",
+        "body": "Ballistic Knife → The Krauss Refibrillator — Box weapon; its fired blade revives a downed teammate on a direct hit.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/13mw8n8/",
+        "tip": "The ranged revive needs co-op and a living shooter; it cannot revive you in Solo. Original BO1 Moon does not have the Crossbow."
+      },
+      {
+        "title": "Plan Box rolls and ammunition",
+        "body": "Normal Box attempts cost 950 and are random. These are possible rewards, not guaranteed rolls. Upgraded wall-gun ammunition normally costs 4,500 at its outline; ordinary Box guns have no matching wall-ammo refill.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+        "tip": "On Moon, the Hacker can swap normal/upgraded wall-ammo prices for 3,000; use the Hacker companion."
+      },
+      {
+        "title": "Use explosives safely",
+        "body": "Buy PhD Flopper before close explosive fire; it protects against your own splash. Protect the perk and leave room to move.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/"
+      },
+      {
+        "title": "Wonder weapons and separate equipment",
+        "body": "Ray Gun → Porter’s X2 Ray Gun. One Wave Gun upgrade improves both modes: Max Wave Gun/Porter’s X2 Zap Guns. The Hacker changes ammunition purchases; it is not a separate gun-damage tier.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+        "tip": "Bowie/Sickle melee purchases and tactical grenades are separate equipment; they are not inserted into the machine. This reference does not add BO3 alternate-ammo effects."
+      }
+    ],
+    "sources": [
+      {
+        "title": "r/CODZombies — Moon player wiki (edition-specific fields checked)",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/moon/"
+      },
+      {
+        "title": "hXcHector — original BO1 Moon map roster",
+        "url": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/moon/"
+      },
+      {
+        "title": "Nosfrat — original BO1 hands-on weapon guide",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=121313832"
+      },
+      {
+        "title": "Ben Cullen — original BO1 upgraded-gun gameplay (2011)",
+        "url": "https://www.youtube.com/watch?v=No1LAwHu17c"
+      },
+      {
+        "title": "MrEpicGamerz — original BO1 upgraded wall-gun gameplay (2011)",
+        "url": "https://www.youtube.com/watch?v=MUWY-azjP1Q"
+      },
+      {
+        "title": "BO1 players — CZ75 automatic upgrade and dual pistols",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1v19xju/best_nonstarter_pistol_in_treyarch_history/"
+      },
+      {
+        "title": "BO1 players — distinctive upgraded firing modes and weapon names",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1bivaxp/"
+      },
+      {
+        "title": "BO1 Five players — lure bolts, ranged revival and distinctive upgrades",
+        "url": "https://www.reddit.com/r/CODZombies/comments/13mw8n8/"
+      },
+      {
+        "title": "BO1 players — explosive M1911, attracting Crossbow and fired-blade revival",
+        "url": "https://www.reddit.com/r/CODZombies/comments/mi0ppp/"
+      }
+    ],
+    "relatedGuideIds": [
+      "bo1-moon-community-moon-map-walkthrough-pack-a-punch",
+      "bo1-moon-rescue-and-explosive-upgrades",
+      "bo1-moon-community-moon-special-weapons-wonder-weapon",
+      "bo1-moon-ray-gun-and-porters-x2",
+      "bo1-moon-hacker-locations-and-uses"
+    ],
+    "checked": "2026-10-16"
+  },
+  {
+    "id": "bo1-der-riese-ordinary-pack-a-punch-inventory",
+    "mapId": "bo1-der-riese",
+    "title": "Der Riese — firearm & utility upgrade reference",
+    "category": "weapon",
+    "difficulty": "Easy",
+    "players": "1–4; fired-blade revival needs co-op",
+    "summary": "This map’s wall and Box upgrades, with acquisition landmarks, changed firing modes, ammunition planning and links to its wonder-weapon routes.",
+    "requirements": [
+      "Original BO1 on PC, PS3 or Xbox 360; this inventory does not cover Wii, DS, mobile or custom weapon pools.",
+      "5,000 points per upgrade after acquiring the gun.",
+      "Follow the linked Pack-a-Punch companion for the map’s full machine-unlock route."
+    ],
+    "reward": "The listed BO1 upgraded weapons and utility effects; no extra reward for upgrading the whole list.",
+    "steps": [
+      {
+        "title": "Open Pack-a-Punch and reclaim the weapon",
+        "body": "Turn on courtyard power. Link each teleporter A, B and C: start at its pad, then confirm at the spawn mainframe before the 30-second timer ends. After all three, pay 5,000 at spawn Pack-a-Punch and retrieve the gun.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/der-riese/",
+        "tip": "Wall prices below buy the base gun, in points. Bring that gun to Pack-a-Punch for the named upgrade."
+      },
+      {
+        "title": "Wall rifles: starting side",
+        "body": "Kar98k → Armageddon — 200; spawn; larger magazine.\nGewehr 43 → G115 Compressor — 600; spawn; larger magazine.\nM1A1 Carbine → Widdershins RC-1 — 600; room beyond first laboratory-side door; automatic.",
+        "original": true,
+        "researchSource": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/der-riese/"
+      },
+      {
+        "title": "Wall automatics: factory routes",
+        "body": "Thompson → Gibs-O-Matic — 1,200; Automobile Garage; larger magazine.\nMP40 → The Afterburner — 1,000; laboratory teleporter route; larger magazine.\nType 100 → 1001 Samurais — 1,000; Teleporter B room; see 1:41 in the tour; larger magazine.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=UgA0z4L4kJ0",
+        "images": [
+          {
+            "src": "./assets/classic-batch7-der-type100.webp",
+            "alt": "Type 100 wall outline in original BO1 Der Riese: 1,000 for the gun, 500 for normal ammunition and 4,500 for upgraded ammunition.",
+            "caption": "Type 100 wall outline in original BO1 Der Riese: 1,000 for the gun, 500 for normal ammunition and 4,500 for upgraded ammunition.",
+            "source": "https://www.youtube.com/watch?v=UgA0z4L4kJ0&t=101s",
+            "credit": "XPocketSandX / Activision"
+          }
+        ]
+      },
+      {
+        "title": "Wall automatics: deeper rooms",
+        "body": "FG42 → 420 Impeller — 1,500; shutter by Speed Cola corridor; larger magazine.\nSTG-44 → Spatz-447+ — 1,200; rear building near Teleporter C; larger magazine.",
+        "original": true,
+        "researchSource": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/der-riese/"
+      },
+      {
+        "title": "Wall shotguns",
+        "body": "Double-Barreled Shotgun → 24 Bore Long Range — 1,200; Automobile Garage; higher damage.\nM1897 Trench Gun → Gut Shot — 1,500; laboratory route; two-shell reload; larger tube.",
+        "original": true,
+        "researchSource": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/der-riese/",
+        "images": [
+          {
+            "src": "./assets/classic-batch7-der-doublebarrel.webp",
+            "alt": "Base Double-Barreled Shotgun in original BO1 Der Riese. This proves the original wall-gun example, not its upgraded damage.",
+            "caption": "Base Double-Barreled Shotgun in original BO1 Der Riese. This proves the original wall-gun example, not its upgraded damage.",
+            "source": "https://www.youtube.com/watch?v=UgA0z4L4kJ0&t=139s",
+            "credit": "XPocketSandX / Activision"
+          }
+        ]
+      },
+      {
+        "title": "Box assault rifles — attachments",
+        "body": "AUG → AUG-50M3 — adds a Masterkey shotgun.\nCommando → Predator — dual magazines.\nFAMAS → G16-GL35 — reflex sight.\nGalil → Lamentation — reflex sight.",
+        "original": true,
+        "researchSource": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/zombies/"
+      },
+      {
+        "title": "Box assault rifles — firing modes",
+        "body": "FN FAL → EPC WN — becomes three-round burst.\nG11 → G115 Generator — becomes fully automatic.",
+        "original": true,
+        "researchSource": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/zombies/"
+      },
+      {
+        "title": "Box pistols and SMG",
+        "body": "CZ75 → Calamity — becomes automatic.\nCZ75 Dual Wield → Calamity & Jane — automatic dual pistols.\nPython → Cobra — speed-loader.\nSpectre → Phantom — reflex sight.",
+        "original": true,
+        "researchSource": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/zombies/"
+      },
+      {
+        "title": "Box machine guns and snipers",
+        "body": "HK21 → H115 Oscillator — larger reserves.\nRPK → R115 Resonator — larger reserves.\nDragunov → D115 Disassembler — variable zoom.\nL96A1 → L115 Isolator — variable zoom.",
+        "original": true,
+        "researchSource": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/zombies/"
+      },
+      {
+        "title": "Box shotguns and launchers",
+        "body": "SPAS-12 → SPAZ-24 — automatic; single-shell full reload.\nHS10 → Typhoid & Mary — becomes dual wield.\nChina Lake → China Beach — single-shell full reload.\nM72 LAW → M72 Anarchy — ten-rocket magazine.",
+        "original": true,
+        "researchSource": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/zombies/"
+      },
+      {
+        "title": "Keep the starting pistol for explosive pistols",
+        "body": "M1911 → Mustang & Sally. Retain your starting pistol until you can insert it into Pack-a-Punch. The result is dual explosive pistols; trading the starter away prevents that planned upgrade.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/mi0ppp/"
+      },
+      {
+        "title": "Box utility weapons",
+        "body": "Crossbow → Awful Lawton — Box weapon; bolts lure ordinary zombies before exploding.\nBallistic Knife → The Krauss Refibrillator — Box weapon; its fired blade revives a downed teammate on a direct hit.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/13mw8n8/",
+        "tip": "The ranged revive needs co-op and a living shooter; it cannot revive you in Solo."
+      },
+      {
+        "title": "Plan Box rolls and ammunition",
+        "body": "Normal Box attempts cost 950 and are random. These are possible rewards, not guaranteed rolls. Upgraded wall-gun ammunition normally costs 4,500 at its outline; ordinary Box guns have no matching wall-ammo refill.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/der-riese/"
+      },
+      {
+        "title": "Use explosives safely",
+        "body": "This map has no PhD Flopper. Keep Mustang & Sally, launcher and Ray Gun impacts away from your feet and nearby walls. Upgrading does not remove their splash hazard.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/der-riese/"
+      },
+      {
+        "title": "Wonder weapons and separate equipment",
+        "body": "Ray Gun → Porter’s X2 Ray Gun; Wunderwaffe DG-2 → DG-3 JZ. This BO1 Box uses BO1 firearms; PPSh-41, MG42 and Browning are not its Box rewards.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/der-riese/",
+        "tip": "Bowie/Sickle melee purchases and tactical grenades are separate equipment; they are not inserted into the machine. This reference does not add BO3 alternate-ammo effects."
+      }
+    ],
+    "sources": [
+      {
+        "title": "r/CODZombies — Der Riese player wiki (edition-specific fields checked)",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/der-riese/"
+      },
+      {
+        "title": "hXcHector — original BO1 Der Riese map roster",
+        "url": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/der-riese/"
+      },
+      {
+        "title": "hXc Hector — original BO1 weapon upgrade names and effects",
+        "url": "https://www.hxchector.com/call-of-duty-black-ops-walkthrough/zombies/"
+      },
+      {
+        "title": "Ben Cullen — original BO1 upgraded-gun gameplay (2011)",
+        "url": "https://www.youtube.com/watch?v=No1LAwHu17c"
+      },
+      {
+        "title": "MrEpicGamerz — original BO1 upgraded wall-gun gameplay (2011)",
+        "url": "https://www.youtube.com/watch?v=MUWY-azjP1Q"
+      },
+      {
+        "title": "BO1 players — CZ75 automatic upgrade and dual pistols",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1v19xju/best_nonstarter_pistol_in_treyarch_history/"
+      },
+      {
+        "title": "BO1 players — distinctive upgraded firing modes and weapon names",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1bivaxp/"
+      },
+      {
+        "title": "BO1 Five players — lure bolts, ranged revival and distinctive upgrades",
+        "url": "https://www.reddit.com/r/CODZombies/comments/13mw8n8/"
+      },
+      {
+        "title": "BO1 players — explosive M1911, attracting Crossbow and fired-blade revival",
+        "url": "https://www.reddit.com/r/CODZombies/comments/mi0ppp/"
+      },
+      {
+        "title": "CassyChan — BLACK OPS EDITION Der Riese guide (2010, indexed sections)",
+        "url": "https://gamefaqs.gamespot.com/ps3/960188-call-of-duty-black-ops/faqs/61302"
+      },
+      {
+        "title": "XPocketSandX — BO1 Der Riese wall-gun tour with chapters (2012)",
+        "url": "https://www.youtube.com/watch?v=UgA0z4L4kJ0"
+      }
+    ],
+    "relatedGuideIds": [
+      "bo1-der-riese-community-der-riese-map-walkthrough-pack-a-punch",
+      "bo1-der-riese-ray-gun-upgrade",
+      "bo1-der-riese-community-der-riese-special-weapons-wunderwaffe-dg-2-upgrade"
+    ],
+    "checked": "2026-10-16"
+  },
+  {
+    "id": "bo2-die-rise-ordinary-pack-a-punch-inventory",
+    "mapId": "bo2-die-rise",
+    "title": "Die Rise — firearm upgrades & re-Pack reference",
+    "category": "weapon",
+    "difficulty": "Easy",
+    "players": "1–4; ranged teammate revival is a co-op utility",
+    "summary": "The ten wall guns, twenty-one ordinary Box variants, starter pistol and Ray Gun exceptions, with upgrade names, useful behavior changes and the exact scope of attachment re-Packing.",
+    "requirements": [
+      "Original BO2 Die Rise on PC, PS3 or Xbox 360; no custom/remaster weapon pools.",
+      "Acquire the base gun; budget 5,000 for its first upgrade and 2,000 per eligible attachment re-Pack.",
+      "Use the linked power/elevator companion to reach the active machine.",
+      "Vengeance installed for the conditional Ray Gun Mark II entry."
+    ],
+    "reward": "The chosen upgraded gun or attachment; no extra reward for completing this inventory.",
+    "steps": [
+      {
+        "title": "Pay once, then reclaim your weapon",
+        "body": "Use the linked power/elevator setup. Hold the intended gun at the stopped Pack-a-Punch elevator, pay 5,000 and reclaim it promptly. A moving elevator can carry the machine and your gun out of reach.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/je4y79/",
+        "tip": "Prices in the wall rows buy the base gun, in points. Each named first upgrade costs another 5,000."
+      },
+      {
+        "title": "Wall guns: M14 and Olympia",
+        "body": "M14 → Mnesia — 500; outside spawn by Quick Revive; grip and more ammunition.\nOlympia → Hades — 500; spawn, beside the main exit; incendiary shells.",
+        "original": true,
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/137.html"
+      },
+      {
+        "title": "Wall gun: PDW-57 → Predictive Death Wish 57000",
+        "body": "Buy the PDW-57 for 1,000 on the shopping-mall floor below spawn, beyond the escalator/debris route. Its first upgrade keeps a 50-round magazine and increases reserves to 350. Further re-Pack can change its sight.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=yxwG-FqmQTQ&t=56s",
+        "images": [
+          {
+            "src": "./assets/classic-batch8-die-rise-pdw.webp",
+            "alt": "Upgraded PDW-57 beside Die Rise’s Pack-a-Punch.",
+            "caption": "Predictive Death Wish 57000: returned gun and 50/350 ammunition.",
+            "source": "https://www.youtube.com/watch?v=yxwG-FqmQTQ&t=67s",
+            "credit": "MrWilliamThor / Activision — original 2013 BO2 gameplay"
+          }
+        ]
+      },
+      {
+        "title": "Wall gun: SVU-AS → Shadowy Veil Utilizer",
+        "body": "Buy the SVU-AS for 1,000 beside the escalators on the spawn building’s shopping floor. Upgrade for variable zoom and 12/192 ammunition. It cannot be re-Packed for another sight.",
+        "original": true,
+        "researchSource": "https://www.trophies.de/forum/thema/93580-tipps-und-tricks-zum-zombie-modus/?do=userPosts&mid=31884",
+        "images": [
+          {
+            "src": "./assets/classic-batch8-die-rise-svu.webp",
+            "alt": "SVU-AS upgrade HUD on original Die Rise.",
+            "caption": "Shadowy Veil Utilizer: 12/192 ammunition. The original moving frame is blurred.",
+            "source": "https://www.youtube.com/watch?v=yxwG-FqmQTQ&t=113s",
+            "credit": "MrWilliamThor / Activision — original 2013 BO2 gameplay"
+          }
+        ]
+      },
+      {
+        "title": "Wall gun: AN-94 → Actuated Neutralizer 94000",
+        "body": "Find the AN-94 for 1,200 after descending the broken upside-down building, at the ledge before the Buddha room. Its first upgrade supplies a reflex sight and 50/600 ammunition. It supports further attachment re-Packs.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=yxwG-FqmQTQ&t=24s",
+        "images": [
+          {
+            "src": "./assets/classic-batch8-die-rise-an94.webp",
+            "alt": "AN-94 upgrade in original BO2 Die Rise.",
+            "caption": "Actuated Neutralizer 94000: actual HUD name, reflex sight and 50/600 ammunition.",
+            "source": "https://www.youtube.com/watch?v=yxwG-FqmQTQ&t=26s",
+            "credit": "MrWilliamThor / Activision — original 2013 BO2 gameplay"
+          }
+        ]
+      },
+      {
+        "title": "Wall gun: Colt M16A1 → Skullcrusher",
+        "body": "Buy the Colt M16A1 for 1,200 in the upside-down room containing the initial ceiling Mystery Box. Upgrading makes it automatic and adds an underbarrel grenade launcher. It has one upgrade.",
+        "original": true,
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/137.html"
+      },
+      {
+        "title": "Wall guns: AK74u and MP5",
+        "body": "AK74u → AK74fu2 — 1,200; lower sweatshop, at the Buddha-room crossing; reflex sight.\nMP5 → MP115 Kollider — 1,000; upper dragon building below the roof; more ammunition. Both have one upgrade.",
+        "original": true,
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/137.html"
+      },
+      {
+        "title": "Wall gun: B23R → B34R",
+        "body": "Buy the B23R for 1,000 on the wall behind the Trample Steam workbench in the spawn building. Upgrading changes its three-round bursts to automatic fire. Its 2,000-point re-Pack can add Fast Mag.",
+        "original": true,
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/41.html"
+      },
+      {
+        "title": "Wall gun: Remington 870 MCS → Refitted-870 Mechanical Cranium Sequencer",
+        "body": "Buy the Remington for 1,500 in the lower sweatshop, left of the isolated elevator. Its first upgrade gives faster pumping and more ammunition. Further re-Pack can change its attachment; it remains a pump-action shotgun.",
+        "original": true,
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/137.html"
+      },
+      {
+        "title": "Box assault rifles: FAL, Galil and SMR",
+        "body": "FAL → WN — three-round burst and reflex sight.\nGalil → Lamentation — reflex sight.\nSMR → SM1L3R — initially a Hybrid Optic; see the re-Pack caution below.",
+        "original": true,
+        "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=153778978"
+      },
+      {
+        "title": "Box assault rifles: MTAR, Type 25 and M8A1",
+        "body": "MTAR → Malevolent Taxonomic Anodized Redeemer — reflex sight.\nType 25 → Strain 25 — reflex sight and Fast Mag.\nM8A1 → Micro Aerator — larger magazine; retains four-round bursts. These three support attachment re-Packs.",
+        "original": true,
+        "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=157749885"
+      },
+      {
+        "title": "Box SMG: Chicom CQB → Chicom Cataclysmic Quadruple Burst",
+        "body": "The first upgrade changes three-round bursts to four-round bursts. Further re-Pack can roll attachments, including Select Fire. It is a Box weapon here; the PDW-57 is the separate wall purchase.",
+        "original": true,
+        "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=157749885"
+      },
+      {
+        "title": "Box pistols: Five-Seven variants",
+        "body": "Five-Seven → Ultra — remains semi-automatic; further re-Pack adds Fast Mag.\nFive-Seven Dual Wield → Ultra & Violet — remains semi-automatic dual wield; only one upgrade. The single and paired pistols are separate Box rewards.",
+        "original": true,
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/41.html"
+      },
+      {
+        "title": "Box pistols: Python, Executioner and KAP-40",
+        "body": "Python → Cobra — speed-loader and larger cylinder.\nExecutioner → Voice of Justice — improved range/damage; still a five-shell revolver.\nKAP-40 → Karmic Atom Perforator 4000 — more ammunition; remains automatic.",
+        "original": true,
+        "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=153778978"
+      },
+      {
+        "title": "Box machine guns: RPD and HAMR",
+        "body": "RPD → Relativistic Punishment Device — larger magazine and reserves; one upgrade.\nHAMR → SLDG HAMR — larger reserves; supports attachment re-Packs. Neither has a wall-ammo purchase on Die Rise.",
+        "original": true,
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/40.html"
+      },
+      {
+        "title": "Box shotguns: M1216 and S12",
+        "body": "M1216 → Mesmerizer — six shots between magazine rotations instead of four.\nS12 → Synthetic Dozen — Fast Mag and more ammunition; remains semi-automatic. Both support attachment re-Packs.",
+        "original": true,
+        "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=157749885"
+      },
+      {
+        "title": "Box snipers: DSR 50 and Barrett M82A1",
+        "body": "DSR 50 → Dead Specimen Reactor 5000 — variable zoom; re-Pack can roll iron sights or a suppressor.\nBarrett M82A1 → Macro Annihilator — larger magazine and variable zoom; one upgrade.",
+        "original": true,
+        "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=157749885",
+        "tip": "DSR sights are random; iron sights are not guaranteed on the second purchase. The SVU-AS is a different, fixed-upgrade wall sniper."
+      },
+      {
+        "title": "Box launcher: RPG → Rocket Propelled Grievance",
+        "body": "The first upgrade gives an eight-rocket magazine and automatic fire. One inserted rocket reloads the magazine. It cannot be re-Packed. Keep impacts away from yourself; this map has no usable PhD Flopper.",
+        "original": true,
+        "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=157749885"
+      },
+      {
+        "title": "Box launcher: War Machine → Dystopic Demolisher",
+        "body": "Upgrading changes bouncing grenades to impact detonation and reloads its six chambers together. It has one upgrade. Clear space before firing: the splash can still hurt you.",
+        "original": true,
+        "researchSource": "https://gamefaqs.gamespot.com/boards/669289-call-of-duty-black-ops-ii/64987215"
+      },
+      {
+        "title": "Box utility: Ballistic Knife → The Krauss Refibrillator",
+        "body": "Obtain the Ballistic Knife from the Box and upgrade it for 5,000. In co-op, fire a blade into a downed teammate to revive them. It does not fire itself when its owner goes down.",
+        "original": true,
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/41.html",
+        "tip": "Buying Bowie/Galvaknuckles is separate. Follow the Maxis quest companion for its special puzzle conditions; a general ranged revive alone does not certify that quest step."
+      },
+      {
+        "title": "Keep the M1911 for Mustang & Sally",
+        "body": "Retain your starting M1911 and upgrade it for dual explosive pistols. It has one upgrade. Keep impacts away from your feet and nearby walls: Die Rise’s visible PhD machine is inaccessible.",
+        "original": true,
+        "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=153778978",
+        "images": [
+          {
+            "src": "./assets/classic-batch8-die-rise-mustang-sally.webp",
+            "alt": "Dual upgraded starting pistols at Die Rise’s machine.",
+            "caption": "Mustang & Sally equipped while the upgraded PDW waits for collection.",
+            "source": "https://www.youtube.com/watch?v=yxwG-FqmQTQ&t=66s",
+            "credit": "MrWilliamThor / Activision — original 2013 BO2 gameplay"
+          }
+        ]
+      },
+      {
+        "title": "Re-Pack: what the 2,000-point purchase does",
+        "body": "After the first upgrade, eligible guns offer another purchase for 2,000. This rolls an attachment; it adds no new damage tier and does not refill ammunition. Reclaim the weapon promptly each time.",
+        "original": true,
+        "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=337295807"
+      },
+      {
+        "title": "Re-Pack: all eligible Die Rise firearms",
+        "body": "AN-94, B23R, Chicom CQB, DSR 50, Executioner, Five-Seven (single), HAMR, KAP-40, M8A1, M1216, MTAR, PDW-57, Remington 870 MCS, S12, SMR and Type 25. Other Pack-a-Punch weapons listed here have no attachment re-Pack.",
+        "original": true,
+        "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=337295807"
+      },
+      {
+        "title": "Re-Pack: useful choices and the SMR tradeoff",
+        "body": "Examples: Executioner can roll Long Barrel; Chicom can roll Select Fire; DSR can roll iron sights. Re-Packing the SM1L3R removes its initial Hybrid Optic and reduces reserve capacity. Keep its first configuration if you want to avoid that tradeoff.",
+        "original": true,
+        "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=337295807"
+      },
+      {
+        "title": "Plan Box rolls and ammunition",
+        "body": "Normal Box attempts cost 950 and give random rewards. Upgraded wall-gun ammunition costs 4,500 at that gun’s outline. Ordinary Box weapons have no matching wall refill. Re-Packing for 2,000 is not an ammunition purchase.",
+        "original": true,
+        "researchSource": "https://gamefaqs.gamespot.com/boards/669290-call-of-duty-black-ops-ii/65892751?page=2",
+        "tip": "M27 and LSAT do not appear in Die Rise’s Box. Use this map’s list when planning rolls."
+      },
+      {
+        "title": "Ray Gun: Porter’s X2 is its own upgrade",
+        "body": "Roll a Ray Gun from the Box, then pay Pack-a-Punch 5,000 for Porter’s X2 Ray Gun. It has one upgrade and more ammunition. Its nearby splash remains hazardous.",
+        "original": true,
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/41.html"
+      },
+      {
+        "title": "Ray Gun Mark II: conditional DLC weapon",
+        "body": "With Vengeance installed, the Box can also offer the Ray Gun Mark II. Upgrade it for 5,000 to Porter’s Mark II Ray Gun. It keeps three-round bursts and has no explosive self-splash; it cannot be re-Packed.",
+        "original": true,
+        "researchSource": "https://store.steampowered.com/app/219101/Call_of_Duty_Black_Ops_II__Vengeance/",
+        "tip": "In original BO2 you cannot hold the original Ray Gun and Mark II together. The Mark II is not the result of upgrading an original Ray Gun."
+      },
+      {
+        "title": "Upgrade exceptions: Sliquifier and equipment",
+        "body": "The Sliquifier cannot enter Pack-a-Punch. Bowie Knife, Galvaknuckles, grenades, Monkey Bombs and the Trample Steam are separate equipment, not machine upgrades. Use the Sliquifier companion for its build.",
+        "original": true,
+        "researchSource": "https://www.codzombieguides.com/die-rise"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Original BO2 Die Rise player wiki — map-specific wall locations and costs",
+        "url": "https://w.atwiki.jp/blackops2_cod/pages/137.html"
+      },
+      {
+        "title": "Original BO2 player weapon records — firearms, per-map availability and re-Pack restrictions",
+        "url": "https://w.atwiki.jp/blackops2_cod/pages/40.html"
+      },
+      {
+        "title": "Original BO2 player weapon records — pistols, launchers, utility and wonder weapons",
+        "url": "https://w.atwiki.jp/blackops2_cod/pages/41.html"
+      },
+      {
+        "title": "Feelin’ Salty? / Jokerlaw — original BO2 weapon guide",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=153778978"
+      },
+      {
+        "title": "MadStarkAven — original BO2 hands-on weapon guide",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=157749885"
+      },
+      {
+        "title": "Feelin’ Salty? — original BO2 Weapons and Attachments guide",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=337295807"
+      },
+      {
+        "title": "MrWilliamThor — original 2013 Die Rise upgrade gameplay",
+        "url": "https://www.youtube.com/watch?v=yxwG-FqmQTQ"
+      },
+      {
+        "title": "MatoMaster21 — original 2013 Die Rise wall-weapon tour",
+        "url": "https://www.youtube.com/watch?v=EyNIjv0SxRk"
+      },
+      {
+        "title": "RacinSeb — firsthand 2013 Die Rise AN-94, PDW-57 and SVU-AS notes",
+        "url": "https://www.trophies.de/forum/thema/93580-tipps-und-tricks-zum-zombie-modus/?do=userPosts&mid=31884"
+      },
+      {
+        "title": "Activision’s Steam Vengeance listing — Mark II entitlement on other maps",
+        "url": "https://store.steampowered.com/app/219101/Call_of_Duty_Black_Ops_II__Vengeance/"
+      },
+      {
+        "title": "Original BO2 player — War Machine contact-detonation report",
+        "url": "https://gamefaqs.gamespot.com/boards/669289-call-of-duty-black-ops-ii/64987215"
+      },
+      {
+        "title": "gtaking5 — firsthand Die Rise upgraded AN-94 wall-ammo purchase report",
+        "url": "https://gamefaqs.gamespot.com/boards/669290-call-of-duty-black-ops-ii/65892751?page=2"
+      },
+      {
+        "title": "Original Die Rise player — elevator/re-Pack loss footage and discussion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/je4y79/"
+      },
+      {
+        "title": "JokerAlex 21 — original Die Rise utilities and PhD limitation",
+        "url": "https://www.codzombieguides.com/die-rise"
+      }
+    ],
+    "checked": "2026-10-16",
+    "relatedGuideIds": [
+      "bo2-die-rise-power-pap-elevators",
+      "bo2-die-rise-community-die-rise-special-weapons-sliquifier",
+      "bo2-die-rise-high-maintenance-maxis"
+    ]
   }
 ]

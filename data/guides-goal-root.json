@@ -925,7 +925,8 @@
       "bo1-shangri-la-time-travel-will-tell",
       "bo1-shangri-la-jgb215-fractalizer",
       "bo1-shangri-la-equipment-utility-upgrades",
-      "bo1-shangri-la-transport-and-water-traps"
+      "bo1-shangri-la-transport-and-water-traps",
+      "bo1-shangri-la-ordinary-pack-a-punch-inventory"
     ],
     "sources": [
       {
@@ -1340,6 +1341,626 @@
         "title": "JokerAlex21 — specifically labelled BO1 Exploding Monkeys section",
         "url": "https://www.codzombieguides.com/shangri-la-remastered"
       }
+    ],
+    "checked": "2026-10-16"
+  },
+  {
+    "id": "bo2-die-rise-power-pap-elevators",
+    "mapId": "bo2-die-rise",
+    "title": "Power, Pack-a-Punch and elevator keys",
+    "category": "weapon",
+    "difficulty": "Easy",
+    "players": "Solo or co-op",
+    "summary": "A direct power route, which building holds each perk, and how to use and recall the lifts.",
+    "requirements": [
+      "Door points and 5,000 points for one ordinary weapon upgrade",
+      "Wait for safe elevator alignment before stepping on or off"
+    ],
+    "reward": "Powered perks and elevator Pack-a-Punch access.",
+    "steps": [
+      {
+        "title": "Drop from spawn toward power",
+        "body": "For the direct route, board the freight elevator INSIDE spawn; in co-op gather the team inside before it drops. Leave at the lower hallway, follow it to the gap and jump into the opposite dragon building. The nearby green double doors lead into the power/sewing room. Keep a crawler if the team is still learning the jump.",
+        "original": true,
+        "researchSource": "https://www.gamesradar.com/call-duty-black-ops-2-revolution-dlc-die-rise-guide-walkthrough/"
+      },
+      {
+        "title": "Turn on the wall switch",
+        "body": "Enter the sewing-machine room through those green doors and interact with the power lever on its wall. This powers perk machines and Pack-a-Punch. The room’s two elevator shafts connect the lower Sliquifier floor, power floor and roof.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=U6-p625ns6g"
+      },
+      {
+        "title": "Ride on top and leave before the ceiling",
+        "body": "Step onto an elevator roof only when it lines up with your floor. Face the doorway you need and step off as it aligns. Do not stay aboard at the top: the shaft ceiling crushes players. Listen for the lift’s warning and leave a machine promptly after buying or collecting a weapon.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=U6-p625ns6g"
+      },
+      {
+        "title": "Spawn building: Quick Revive, Speed Cola and Who’s Who",
+        "body": "Quick Revive stays in the lift just outside spawn’s double doors. Speed Cola and Who’s Who occupy the other two shafts in this building and can swap between them each match. Usual prices are Quick Revive 500 solo/1,500 co-op, Speed Cola 3,000 and Who’s Who 2,000.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=U6-p625ns6g",
+        "images": [
+          {
+            "src": "./assets/die-rise-quick-revive-elevator.webp",
+            "alt": "Quick Revive in the spawn-side elevator.",
+            "caption": "Quick Revive is the fixed spawn-building machine.",
+            "source": "https://www.codzombieguides.com/die-rise",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          },
+          {
+            "src": "./assets/die-rise-speed-cola-elevator.webp",
+            "alt": "Speed Cola in an elevator.",
+            "caption": "Speed Cola: check the spawn building’s other shafts.",
+            "source": "https://www.codzombieguides.com/die-rise",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          },
+          {
+            "src": "./assets/die-rise-who-s-who-elevator.webp",
+            "alt": "Who’s Who in an elevator.",
+            "caption": "Who’s Who can swap shafts with Speed Cola.",
+            "source": "https://www.codzombieguides.com/die-rise",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          }
+        ]
+      },
+      {
+        "title": "Dragon building: Jugger-Nog, Double Tap, Mule Kick and PaP",
+        "body": "The four shafts in the power/dragon building hold Jugger-Nog, Double Tap II, Mule Kick and Pack-a-Punch, with their assignments shuffled each match. Identify the actual machine before waiting for it. Standard perk prices are Jugger-Nog 2,500, Double Tap II 2,000 and Mule Kick 4,000.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=U6-p625ns6g",
+        "images": [
+          {
+            "src": "./assets/die-rise-jugger-nog-elevator.webp",
+            "alt": "Jugger-Nog inside a dragon-building lift.",
+            "caption": "Jugger-Nog is in the dragon building.",
+            "source": "https://www.codzombieguides.com/die-rise",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          },
+          {
+            "src": "./assets/die-rise-double-tap-ii-elevator.webp",
+            "alt": "Double Tap II inside an elevator.",
+            "caption": "Double Tap II: identify its machine for this match.",
+            "source": "https://www.codzombieguides.com/die-rise",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          }
+        ]
+      },
+      {
+        "title": "Upgrade when Pack-a-Punch arrives",
+        "body": "Wait at a safe landing for the PaP elevator. Hold the gun you want to upgrade, pay 5,000 and collect it as soon as it returns. Do not start while the elevator is about to move away. The Sliquifier cannot be inserted; see the separate ordinary-weapon inventory for supported guns and re-Pack rules.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=U6-p625ns6g",
+        "images": [
+          {
+            "src": "./assets/die-rise-pack-a-punch-elevator.webp",
+            "alt": "Pack-a-Punch in the elevator doorway.",
+            "caption": "PaP changes shafts within the dragon building.",
+            "source": "https://www.codzombieguides.com/die-rise",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          }
+        ]
+      },
+      {
+        "title": "Find a key and call a perk elevator",
+        "body": "Look on the floor of the lower hallway where the spawn freight elevator drops. A key occupies the carried buildable-part slot, so taking one puts down another carried part. Use it on a perk elevator’s key switch at your landing to call that lift; keep clear while it moves.",
+        "original": true,
+        "researchSource": "https://www.codzombieguides.com/die-rise",
+        "images": [
+          {
+            "src": "./assets/die-rise-elevator-key.webp",
+            "alt": "Gold elevator key standing on the hallway floor.",
+            "caption": "Key in the lower spawn-elevator hallway.",
+            "source": "https://www.codzombieguides.com/die-rise",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          },
+          {
+            "src": "./assets/die-rise-elevator-switch.webp",
+            "alt": "Keyhole and elevator buttons beside a shaft.",
+            "caption": "Use the keyhole panel beside the lift.",
+            "source": "https://www.codzombieguides.com/die-rise",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          }
+        ]
+      },
+      {
+        "title": "Send the spawn freight elevator back up",
+        "body": "With a key carried, go to the end of that same lower hallway and interact with the separate wall control panel. This repairs/recalls the crashed freight elevator to spawn so the team can use it again. It is a different panel from a moving perk elevator’s keyhole.",
+        "original": true,
+        "researchSource": "https://www.codzombieguides.com/die-rise",
+        "images": [
+          {
+            "src": "./assets/die-rise-elevator-spawn-room-control-panel.webp",
+            "alt": "Electrical control box on the lower hallway wall.",
+            "caption": "Lower-hall control panel for the spawn freight elevator.",
+            "source": "https://www.codzombieguides.com/die-rise",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "JokerAlex 21 — original power/perk system demonstration",
+        "url": "https://www.youtube.com/watch?v=U6-p625ns6g"
+      },
+      {
+        "title": "GamesRadar — original direct power route",
+        "url": "https://www.gamesradar.com/call-duty-black-ops-2-revolution-dlc-die-rise-guide-walkthrough/"
+      },
+      {
+        "title": "JokerAlex 21 — key and recall-panel demonstrations",
+        "url": "https://www.codzombieguides.com/die-rise"
+      }
+    ],
+    "relatedGuideIds": [
+      "bo2-die-rise-community-die-rise-special-weapons-sliquifier",
+      "bo2-die-rise-community-die-rise-buildables-trample-steam",
+      "bo2-die-rise-nav-table-card-cycle",
+      "bo2-die-rise-ordinary-pack-a-punch-inventory"
+    ],
+    "checked": "2026-10-16"
+  },
+  {
+    "id": "bo2-die-rise-bank-and-weapon-locker",
+    "mapId": "bo2-die-rise",
+    "title": "Shower bank and weapon storage",
+    "category": "side",
+    "difficulty": "Easy",
+    "players": "Solo or co-op",
+    "summary": "Deposit points and a compatible gun for later Victis matches, with the two shower functions kept clear.",
+    "requirements": [
+      "A patched BO2 release with the bank/locker update",
+      "1,000 points for a bank deposit",
+      "A compatible non-starting, non-wonder weapon to store"
+    ],
+    "reward": "A saved points balance and one stored weapon for later matches.",
+    "steps": [
+      {
+        "title": "Reach the showers by the power building",
+        "body": "Take spawn’s dropping elevator, follow the hallway and jump into the opposite building. The weapon fridge is ahead, near the entrance to the power/sewing room. Go through the nearby doorway and turn back toward the two shower cubicles.",
+        "original": true,
+        "researchSource": "https://www.accelerated-ideas.com/news/zombies-die-rise--how-to-find-the-shower-bank--fridge-gun-store.aspx",
+        "images": [
+          {
+            "src": "./assets/die-rise-bank.webp",
+            "alt": "Two shower cubicles beside the power-area doorway.",
+            "caption": "Face the showers: left deposits, right withdraws.",
+            "source": "https://www.codzombieguides.com/die-rise",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          }
+        ]
+      },
+      {
+        "title": "Deposit left, withdraw right",
+        "body": "Interact with the LEFT shower to bank points in 1,000-point deposits. The RIGHT shower withdraws from the saved balance. Start with a small transaction and check the points change; an empty balance cannot fund a withdrawal. The bank balance is shared between the Victis maps TranZit, Die Rise and Buried.",
+        "original": true,
+        "researchSource": "https://www.accelerated-ideas.com/news/zombies-die-rise--how-to-find-the-shower-bank--fridge-gun-store.aspx"
+      },
+      {
+        "title": "Store a gun in the fridge",
+        "body": "Hold the compatible gun you want to save and interact with the fridge. It takes that gun out of your loadout and swaps it with the stored gun, if one is already inside. An empty fridge gives no replacement. Store a gun before ending a match if you want to retrieve it later.",
+        "original": true,
+        "researchSource": "https://www.accelerated-ideas.com/news/zombies-die-rise--how-to-find-the-shower-bank--fridge-gun-store.aspx",
+        "images": [
+          {
+            "src": "./assets/die-rise-weapons-locker.webp",
+            "alt": "Weapon-storage fridge outside the power area.",
+            "caption": "The fridge is the weapon locker.",
+            "source": "https://www.codzombieguides.com/die-rise",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          }
+        ]
+      },
+      {
+        "title": "Use storage on the correct game build",
+        "body": "Normal and upgraded compatible guns can be stored. The starting M1911, wonder weapons and Ballistic Knife are excluded, including their upgraded forms. Storage was added after Die Rise’s launch; an unpatched/offline launch version may not offer it. Different account/online-stat contexts may not share your saved balance or gun.",
+        "original": true,
+        "researchSource": "https://callofduty.fandom.com/wiki/Weapon_Locker",
+        "tip": "Storage is optional preparation. The bank and fridge are not prerequisites for High Maintenance."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Accelerated Ideas — June 2013 bank/locker demonstration and route",
+        "url": "https://www.accelerated-ideas.com/news/zombies-die-rise--how-to-find-the-shower-bank--fridge-gun-store.aspx"
+      },
+      {
+        "title": "Call of Duty Wiki — weapon exclusions",
+        "url": "https://callofduty.fandom.com/wiki/Weapon_Locker"
+      },
+      {
+        "title": "JokerAlex 21 — current original-map bank/locker footage",
+        "url": "https://www.codzombieguides.com/die-rise"
+      }
+    ],
+    "relatedGuideIds": [
+      "bo2-die-rise-power-pap-elevators",
+      "bo2-die-rise-high-maintenance-maxis",
+      "bo2-die-rise-high-maintenance-richtofen"
+    ],
+    "checked": "2026-10-16"
+  },
+  {
+    "id": "bo2-die-rise-nav-table-card-cycle",
+    "mapId": "bo2-die-rise",
+    "title": "NAV table, Die Rise card and cross-map cycle",
+    "category": "side",
+    "difficulty": "Easy",
+    "players": "Solo or co-op",
+    "summary": "Build all four rooftop parts, find Die Rise’s own card and distinguish it from the TranZit card this table accepts.",
+    "requirements": [
+      "Power on for inserting a card on Die Rise",
+      "Access to the dragon roof and its lower elevator ledge",
+      "One buildable part carried at a time"
+    ],
+    "reward": "A built NAV table and optional card link toward the Victis super quest.",
+    "steps": [
+      {
+        "title": "Wooden board: under the dragon ramp",
+        "body": "On the dragon roof, check under the metal walkway/ramp near an air vent for the wooden board. Carry it to the table construction spot beneath that ramp and hold Interact to add it.",
+        "original": true,
+        "researchSource": "https://www.gamesradar.com/call-duty-black-ops-2-revolution-dlc-die-rise-guide-walkthrough/",
+        "images": [
+          {
+            "src": "./assets/die-rise-nav-board.webp",
+            "alt": "Board check under the dragon ramp beside an air vent.",
+            "caption": "Board check by the rooftop vent. Original BO2 geography recorded through Plutonium T6.",
+            "source": "https://www.codzombieguides.com/die-rise",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          }
+        ]
+      },
+      {
+        "title": "Radio: behind the roof stairwell",
+        "body": "Face the opening/stairs that lead down from the roof. Check the roof floor behind and beside the stairwell structure for the small radio/transceiver. Add it beneath the ramp.",
+        "original": true,
+        "researchSource": "https://www.gamesradar.com/call-duty-black-ops-2-revolution-dlc-die-rise-guide-walkthrough/",
+        "images": [
+          {
+            "src": "./assets/die-rise-nav-radio.webp",
+            "alt": "Radio on the roof floor behind the stairwell enclosure.",
+            "caption": "Radio beside the stairwell enclosure. Original BO2 via Plutonium T6.",
+            "source": "https://www.codzombieguides.com/die-rise",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          }
+        ]
+      },
+      {
+        "title": "Meteor: Claymore-side debris",
+        "body": "Find the debris/transformer corner on the roof near the Claymore side and the pair of power-room elevators. Look on the floor among the rubbish for the small meteor piece, then return it to the construction spot.",
+        "original": true,
+        "researchSource": "https://www.gamesradar.com/call-duty-black-ops-2-revolution-dlc-die-rise-guide-walkthrough/",
+        "images": [
+          {
+            "src": "./assets/die-rise-nav-meteor.webp",
+            "alt": "Rooftop debris corner holding the meteor part.",
+            "caption": "Meteor check among the rubbish. Original BO2 via Plutonium T6.",
+            "source": "https://www.codzombieguides.com/die-rise",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          }
+        ]
+      },
+      {
+        "title": "Power box: lower isolated-elevator ledge",
+        "body": "Climb the dragon ramp and follow the roof to the Semtex-side platform. Drop carefully to the lower ledge with the isolated elevator and box location. Look against the corrugated wall near the barrier for the rectangular power box. Add it as the fourth table part.",
+        "original": true,
+        "researchSource": "https://www.gamesradar.com/call-duty-black-ops-2-revolution-dlc-die-rise-guide-walkthrough/",
+        "images": [
+          {
+            "src": "./assets/die-rise-nav-power-box.webp",
+            "alt": "Power-box part against the wall on the lower rooftop ledge.",
+            "caption": "Power box on the lower ledge. Original BO2 via Plutonium T6.",
+            "source": "https://www.codzombieguides.com/die-rise",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          }
+        ]
+      },
+      {
+        "title": "Check the completed table",
+        "body": "The finished table is beneath the dragon ramp. If it is already assembled from saved progress, do not search for missing parts. High Maintenance needs this table for the elevator symbols, but does not require you to insert a Navcard.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g5p307/",
+        "images": [
+          {
+            "src": "./assets/die-rise-nav-card-table.webp",
+            "alt": "Completed navigation table beneath the rooftop metal ramp.",
+            "caption": "The finished NAV table sits below the dragon-roof ramp.",
+            "source": "https://www.codzombieguides.com/die-rise",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          }
+        ]
+      },
+      {
+        "title": "Find Die Rise’s own Navcard",
+        "body": "In the starting skyscraper, reach the PDW-57/display-case floor above the Trample Steam workbench. Check the broken glass display near the wall opposite the PDW outline, by the elevator area. Interact with the card and check the small card icon beside your points. This card belongs in BURIED’s reader, not Die Rise’s.",
+        "original": true,
+        "researchSource": "https://www.gamesradar.com/call-duty-black-ops-2-revolution-dlc-die-rise-guide-walkthrough/"
+      },
+      {
+        "title": "Insert the card from the previous map",
+        "body": "Die Rise’s table accepts the card found behind TranZit’s Bus Depot, outside the spawn building near the barrier. Bring that saved card into Die Rise, turn power on and interact with the completed reader. The full cycle is TranZit card → Die Rise table; Die Rise card → Buried table; Buried card → TranZit table. A built table and an inserted card are separate states.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/cvpo9k/black_ops_2_zombies_super_easter_egg_guide/",
+        "tip": "If no insertion prompt appears, check that power is on and whether a player in the starting lobby already has this map’s card link saved. Card insertion can be done separately from the main quest."
+      }
+    ],
+    "sources": [
+      {
+        "title": "GamesRadar — original NAV table/card locations",
+        "url": "https://www.gamesradar.com/call-duty-black-ops-2-revolution-dlc-die-rise-guide-walkthrough/"
+      },
+      {
+        "title": "Hadi77KSA — table requirement and card-state caveats",
+        "url": "https://www.reddit.com/r/CODZombies/comments/g5p307/"
+      },
+      {
+        "title": "Community cross-map Navcard guide",
+        "url": "https://www.reddit.com/r/CODZombies/comments/cvpo9k/black_ops_2_zombies_super_easter_egg_guide/"
+      },
+      {
+        "title": "PINNAZ — photographed original Die Rise NAV parts",
+        "url": "https://www.callofdutyzombies.com/zombie-library/zombies-library/black-ops_ii/die-rise/nav-card-nav-card-table-r312/"
+      }
+    ],
+    "relatedGuideIds": [
+      "bo2-die-rise-high-maintenance-maxis",
+      "bo2-die-rise-high-maintenance-richtofen",
+      "bo2-die-rise-power-pap-elevators"
+    ],
+    "checked": "2026-10-16"
+  },
+  {
+    "id": "bo2-die-rise-jumping-jack-free-perk",
+    "mapId": "bo2-die-rise",
+    "title": "Jumping Jacks: free perk round",
+    "category": "side",
+    "difficulty": "Easy",
+    "players": "Solo or co-op",
+    "summary": "Use a no-gunfire round to earn the perk bottle alongside Max Ammo.",
+    "requirements": [
+      "A Jumping Jack special round",
+      "Bowie Knife/Galvaknuckles or a deployed Trample Steam",
+      "In co-op, agree on the method before the round"
+    ],
+    "reward": "A random free perk bottle when the special-round condition succeeds.",
+    "steps": [
+      {
+        "title": "Prepare before the special round",
+        "body": "Build a Trample Steam or buy a strong melee weapon before the Jumping Jacks arrive. Choose a floor with room to move and a safe back wall. Keep away from open shafts, rooftop edges and teammates’ launcher paths.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=sSzu46PRHcI"
+      },
+      {
+        "title": "Kill the whole wave without gunfire",
+        "body": "Use melee attacks or let the Jumping Jacks trigger your Trample Steam. Have every teammate follow the same no-shooting plan until the wave ends. Replace a broken Steam or finish the remaining enemies with melee. The commonly documented shooting alternative requires perfect accuracy; the no-gunfire method avoids testing that hidden counter.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=sSzu46PRHcI"
+      },
+      {
+        "title": "Collect the bottle and check your perks",
+        "body": "After the final Jumping Jack dies, look for the perk bottle with the Max Ammo. Pick it up and check your perk icons for the random award. If only Max Ammo appears, the bonus condition did not succeed that wave; prepare for a later special round.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=sSzu46PRHcI",
+        "images": [
+          {
+            "src": "./assets/die-rise-free-perk-drops.webp",
+            "alt": "Glowing perk bottle and Max Ammo beside each other after a Jumping Jack wave.",
+            "caption": "Actual perk bottle and Max Ammo drops after the special round.",
+            "source": "https://www.youtube.com/watch?v=sSzu46PRHcI&t=40s",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          }
+        ],
+        "tip": "A free perk is still lost on an ordinary down. This is different from a permanent/persistent stat bonus."
+      }
+    ],
+    "sources": [
+      {
+        "title": "JokerAlex 21 — original-map free-perk demonstration",
+        "url": "https://www.youtube.com/watch?v=sSzu46PRHcI"
+      },
+      {
+        "title": "NGTZombies — 2013 accuracy-condition demonstration",
+        "url": "https://www.youtube.com/watch?v=l715-jkZvH4"
+      }
+    ],
+    "relatedGuideIds": [
+      "bo2-die-rise-community-die-rise-buildables-trample-steam",
+      "bo2-die-rise-power-pap-elevators"
+    ],
+    "checked": "2026-10-16"
+  },
+  {
+    "id": "bo2-die-rise-mahjong-eleven-locations",
+    "mapId": "bo2-die-rise",
+    "title": "Mahjong: all eleven checks and tower compass",
+    "category": "side",
+    "difficulty": "Easy",
+    "players": "Solo or co-op",
+    "summary": "A room-by-room search checklist and direction-decoding aid for either High Maintenance branch.",
+    "requirements": [
+      "One main-quest branch advanced to the glowing tower corners",
+      "Galvaknuckles for the final four hits"
+    ],
+    "reward": "The 1–4 tower-hit order for this match.",
+    "steps": [
+      {
+        "title": "Search eight tiles across eleven checks",
+        "body": "Both High Maintenance branches use the same Mahjong puzzle. Eight tiles spawn among the eleven documented checks below: four direction tiles and four numbered tiles. Record each tile’s colour and symbol. An empty candidate position is expected; it does not mean the quest broke.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/hem24e/bo2_high_maintenance_die_rise_maxis_easter_egg/",
+        "images": [
+          {
+            "src": "./assets/die-rise-mahjong-compass.svg",
+            "alt": "Diagram of North, East, South and West around the tower, with a colour-matching checklist.",
+            "caption": "Orientation aid, not a game screenshot. Rotate North to the corner carrying the direction tile.",
+            "source": "https://www.reddit.com/r/CODZombies/comments/hem24e/bo2_high_maintenance_die_rise_maxis_easter_egg/",
+            "credit": "Dead Drop original orientation diagram; community puzzle rules"
+          }
+        ]
+      },
+      {
+        "title": "Tower corner on the roof",
+        "body": "Check the corner of the radio tower itself. This direction tile always marks North; use this physical corner as the compass anchor.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/hem24e/bo2_high_maintenance_die_rise_maxis_easter_egg/"
+      },
+      {
+        "title": "Spawn desk",
+        "body": "Check the large desk in the starting lobby, also used as a Trample Steam motor spawn.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/hem24e/bo2_high_maintenance_die_rise_maxis_easter_egg/"
+      },
+      {
+        "title": "Bottom of the spawn escalator",
+        "body": "Look on the floor by the bottom of the escalator near the M14 area.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/hem24e/bo2_high_maintenance_die_rise_maxis_easter_egg/"
+      },
+      {
+        "title": "Broken cafeteria stairs",
+        "body": "Check the broken stairs between spawn and the SVU-AS cafeteria/shop.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/hem24e/bo2_high_maintenance_die_rise_maxis_easter_egg/"
+      },
+      {
+        "title": "Couch beside the early box room",
+        "body": "Search the couch with four round cushions outside the upside-down building’s initial Mystery Box area.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/hem24e/bo2_high_maintenance_die_rise_maxis_easter_egg/"
+      },
+      {
+        "title": "Elevator-shaft ledge above AN-94",
+        "body": "Check the last standable shaft ledge above the drop toward the AN-94, near the floor-25 marking. Do not jump into the shaft without checking the landing.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/hem24e/bo2_high_maintenance_die_rise_maxis_easter_egg/"
+      },
+      {
+        "title": "Upper Buddha-room corner",
+        "body": "Use the sloping pillar to reach the upper level and check the back/right corner by the zombie barrier.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/hem24e/bo2_high_maintenance_die_rise_maxis_easter_egg/"
+      },
+      {
+        "title": "Sliquifier-area shelf",
+        "body": "Check the shelf near the Sliquifier/AK-74u area, beside a can and basket.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/hem24e/bo2_high_maintenance_die_rise_maxis_easter_egg/"
+      },
+      {
+        "title": "Power-room sewing table",
+        "body": "Check the sewing-machine/table area in the room with the power switch.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/hem24e/bo2_high_maintenance_die_rise_maxis_easter_egg/"
+      },
+      {
+        "title": "Rooftop box chair",
+        "body": "Look on the chair beside the rooftop Mystery Box position.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/hem24e/bo2_high_maintenance_die_rise_maxis_easter_egg/"
+      },
+      {
+        "title": "Kitchen counter near MP5",
+        "body": "Check the counter in the kitchen/MP5 area of the power building.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/hem24e/bo2_high_maintenance_die_rise_maxis_easter_egg/"
+      },
+      {
+        "title": "Match the four colours",
+        "body": "Read the directions as North 北, East 東, South 南 and West 西. Pair each direction with the numbered tile of the same colour. The bamboo markings give positions 1–4. Write four directions in number order before anyone punches the tower.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/hem24e/bo2_high_maintenance_die_rise_maxis_easter_egg/"
+      },
+      {
+        "title": "Apply the compass to the actual tower",
+        "body": "The corner bearing the direction tile is North. Looking down on the tower, the next corners clockwise are East, South and West. Rotate the diagram to your anchor; screen-left and screen-right are not fixed directions. Wait for your branch to make the corners glow, then use Galvaknuckles for one clean hit per corner in the decoded order.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/hem24e/bo2_high_maintenance_die_rise_maxis_easter_egg/",
+        "images": [
+          {
+            "src": "./assets/die-rise-mahjong-compass.svg",
+            "alt": "Diagram of North, East, South and West around the tower, with a colour-matching checklist.",
+            "caption": "Orientation aid, not a game screenshot. Rotate North to the corner carrying the direction tile.",
+            "source": "https://www.reddit.com/r/CODZombies/comments/hem24e/bo2_high_maintenance_die_rise_maxis_easter_egg/",
+            "credit": "Dead Drop original orientation diagram; community puzzle rules"
+          }
+        ]
+      },
+      {
+        "title": "Recover after a wrong hit",
+        "body": "A failed sequence can extinguish the corners until the next round. Advance the round and retry your recorded sequence carefully. If correct single hits still fail, use the specific tower-state workaround documented at the end of the Maxis guide; it avoids the corner that belongs first in your decoded order before re-entering the sequence.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g5p307/"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Hadi77KSA — full original Die Rise tile-location list",
+        "url": "https://www.reddit.com/r/CODZombies/comments/hem24e/bo2_high_maintenance_die_rise_maxis_easter_egg/"
+      },
+      {
+        "title": "Hadi77KSA — retry and tower-state workaround",
+        "url": "https://www.reddit.com/r/CODZombies/comments/g5p307/"
+      }
+    ],
+    "relatedGuideIds": [
+      "bo2-die-rise-high-maintenance-maxis",
+      "bo2-die-rise-high-maintenance-richtofen"
+    ],
+    "checked": "2026-10-16"
+  },
+  {
+    "id": "bo2-die-rise-small-secrets-and-audio",
+    "mapId": "bo2-die-rise",
+    "title": "PhD preview and small audio secrets",
+    "category": "side",
+    "difficulty": "Easy",
+    "players": "Solo or co-op",
+    "summary": "Where to see the unreachable perk machine and hear the map’s background references.",
+    "requirements": [
+      "Original BO2 Die Rise",
+      "Samuel Stuhlinger for his character-specific sounds"
+    ],
+    "reward": "Scenery and audio references; no upgrade or quest reward is documented.",
+    "steps": [
+      {
+        "title": "See PhD during the spawn-elevator drop",
+        "body": "Ride the freight elevator inside spawn and look into the passing side hallway for the PhD Flopper machine. Original Die Rise does not provide normal access to buy it. Do not jump out after it.",
+        "original": true,
+        "researchSource": "https://www.codzombieguides.com/die-rise",
+        "images": [
+          {
+            "src": "./assets/die-rise-phd-flopper-machine.webp",
+            "alt": "PhD Flopper machine in the inaccessible side corridor.",
+            "caption": "Unreachable PhD machine seen during the drop.",
+            "source": "https://www.codzombieguides.com/die-rise",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          }
+        ]
+      },
+      {
+        "title": "Listen for Stuhlinger’s groans",
+        "body": "Play as Samuel Stuhlinger and listen during ordinary play. He can hear background groaning other characters do not hear. No trigger sequence or item reward is documented.",
+        "original": true,
+        "researchSource": "https://www.codzombieguides.com/die-rise"
+      },
+      {
+        "title": "Listen after game over",
+        "body": "Let the game-over audio finish: heavy footsteps and a metal door closing can be heard. The source identifies this as a Mob of the Dead teaser. It has no documented interaction or reward.",
+        "original": true,
+        "researchSource": "https://www.codzombieguides.com/die-rise"
+      }
+    ],
+    "sources": [
+      {
+        "title": "JokerAlex 21 — photographed PhD and audio demonstrations",
+        "url": "https://www.codzombieguides.com/die-rise"
+      }
+    ],
+    "relatedGuideIds": [
+      "bo2-die-rise-power-pap-elevators",
+      "bo2-die-rise-we-all-fall-down"
     ],
     "checked": "2026-10-16"
   }

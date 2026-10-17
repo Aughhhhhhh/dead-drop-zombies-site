@@ -900,45 +900,50 @@
     "players": "1–4 players",
     "summary": "Find the three tapes that start Firebase Z's hidden song.",
     "requirements": [
-      "Access to the Village and base"
+      "Standard Firebase Z; any tape order",
+      "Power all three Aether Reactors to open the upstairs Scientist Quarters route"
     ],
-    "reward": "Lost by Julie Nathanson and Kevin Sherwood plays",
+    "reward": "Lost plays once in the match; collecting the tapes on the Season Two update or later also unlocks it in Music Player.",
     "steps": [
       {
-        "title": "Scientist's Quarters cassette",
-        "body": "At the Village, interact with the tape on the shelf in Scientist's Quarters.",
+        "title": "Scientist Quarters cassette",
+        "body": "In the Village, go through the Briefing Room and upstairs after all three reactors are powered. Interact with the gold cassette leaning against books on the small bookcase at the top of the stairs.",
+        "researchSource": "https://tracker.gg/checkpoint/articles/black-ops-cold-war-zombies-firebase-z-lost-music-guide",
         "images": [
           {
-            "src": "./assets/modern-coldwar-firebase-z-song_ee-tape3.webp",
-            "alt": "Scientist's Quarters cassette",
-            "caption": "Scientist's Quarters cassette",
-            "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
+            "src": "./assets/modern-coldwar-firebase-z-song_ee-tape1.webp",
+            "alt": "Scientist Quarters: cassette on the small upstairs bookcase.",
+            "caption": "Scientist Quarters: cassette on the small upstairs bookcase.",
+            "credit": "Gameplay screenshot supplied by mmmrkennedy; game © Activision",
             "source": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
           }
         ]
       },
       {
         "title": "Equipment Storage cassette",
-        "body": "In the Village, interact with the cassette on the Equipment Storage bookshelf. This is the spawn-area Equipment Storage, before the rooftop teleporter to the outpost.",
+        "body": "Enter Equipment Storage beside Quick Revive in the Village. On the ground floor, interact with the gold cassette in the shelf to the right of the zombie barrier.",
+        "researchSource": "https://tracker.gg/checkpoint/articles/black-ops-cold-war-zombies-firebase-z-lost-music-guide",
         "images": [
           {
-            "src": "./assets/modern-coldwar-firebase-z-song_ee-tape1.webp",
-            "alt": "Equipment Storage cassette",
-            "caption": "Equipment Storage cassette",
-            "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
+            "src": "./assets/modern-coldwar-firebase-z-song_ee-tape2.webp",
+            "alt": "Equipment Storage: cassette in the ground-floor shelf beside the cabinet.",
+            "caption": "Equipment Storage: cassette in the ground-floor shelf beside the cabinet.",
+            "credit": "Gameplay screenshot supplied by mmmrkennedy; game © Activision",
             "source": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
           }
         ]
       },
       {
         "title": "Motor Pool Office cassette",
-        "body": "Interact with the cassette in Motor Pool Office. Once all three are activated, Lost plays.",
+        "body": "At the outpost, enter Motor Pool Office and interact with the cassette at the front-left edge of the green filing cabinet. Activating the third cassette starts Lost.",
+        "researchSource": "https://tracker.gg/checkpoint/articles/black-ops-cold-war-zombies-firebase-z-lost-music-guide",
+        "tip": "Music Player unlock was added with Season Two; launch-era reports that Lost could not be unlocked predate that change.",
         "images": [
           {
-            "src": "./assets/modern-coldwar-firebase-z-song_ee-tape2.webp",
-            "alt": "Motor Pool Office cassette",
-            "caption": "Motor Pool Office cassette",
-            "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
+            "src": "./assets/modern-coldwar-firebase-z-song_ee-tape3.webp",
+            "alt": "Motor Pool Office: cassette leaning against the left side of the green filing cabinet.",
+            "caption": "Motor Pool Office: cassette leaning against the left side of the green filing cabinet.",
+            "credit": "Gameplay screenshot supplied by mmmrkennedy; game © Activision",
             "source": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
           }
         ]
@@ -946,19 +951,23 @@
     ],
     "sources": [
       {
-        "title": "r/CODZombies: Firebase Z quest and music discussion",
-        "url": "https://www.reddit.com/r/CODZombies/comments/lca1tr/firebase_z_easter_egg_hunt_general_map_discussion/"
+        "title": "Ethan C — illustrated Lost locations and song credits",
+        "url": "https://tracker.gg/checkpoint/articles/black-ops-cold-war-zombies-firebase-z-lost-music-guide"
       },
       {
-        "title": "mmmrkennedy: cassette location screenshots",
+        "title": "Treyarch — Season Two Music Player unlock",
+        "url": "https://www.treyarch.com/game-intel/2021/02/Season_Two_Details_and_Patch_Notes"
+      },
+      {
+        "title": "mmmrkennedy — visually checked cassette screenshots",
         "url": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
-      },
-      {
-        "title": "Firsthand Firebase Z setup guide — Equipment Storage is in spawn",
-        "url": "https://www.reddit.com/r/CODZombies/comments/lepgsv/firebase_z_easter_egg_guide_made_simple/"
       }
     ],
-    "checked": "2026-10-16"
+    "checked": "2026-10-16",
+    "relatedGuideIds": [
+      "coldwar-firebase-z-power-pack-assault",
+      "coldwar-outbreak-music-player"
+    ]
   },
   {
     "id": "coldwar-firebase-z-bunny-loot",
@@ -969,50 +978,59 @@
     "players": "1–4 players",
     "summary": "Stare at the Village bunny, then shoot its three Dark Aether appearances to reveal a reward chest.",
     "requirements": [
-      "Power / Pack-a-Punch available",
-      "A strong gun and ammunition before triggering the teleport"
+      "Standard online Firebase Z, solo or co-op",
+      "All three Aether Reactors powered",
+      "Finish essential shopping and have ammunition before triggering the team teleport"
     ],
     "reward": "Juggernog, salvage, equipment and a random weapon; RAI K-84 is possible",
     "steps": [
       {
-        "title": "Stare at the balcony bunny",
-        "body": "Return to the Village and go upstairs beside Pack-a-Punch. Aim at the blue bunny sitting in the blocked room at the end of the balcony for several seconds until it jumps and teleports the team.",
-        "tip": "Look steadily at the bunny; repeatedly firing is unnecessary.",
+        "title": "Look at the Atrium bunny",
+        "body": "Go upstairs in the Village Atrium, above Pack-a-Punch and Wunderfizz. Look into the blocked balcony room at the blue stuffed bunny on the table. Keep it centered until its stare / movement sequence finishes and it flies at you, teleporting the squad.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lemth3/a_guide_for_completing_the_main_ee_in_firebase_z/",
+        "tip": "Hold your view steadily on the bunny; shooting it is not the activation.",
         "images": [
           {
             "src": "./assets/modern-coldwar-firebase-z-loot_ee-bunny.webp",
-            "alt": "The upstairs Village bunny",
-            "caption": "The upstairs Village bunny",
-            "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
+            "alt": "Atrium balcony: look through the blocked opening at the blue bunny on the table.",
+            "caption": "Atrium balcony: look through the blocked opening at the blue bunny on the table.",
+            "credit": "Gameplay screenshot supplied by mmmrkennedy; game © Activision",
             "source": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
           }
         ]
       },
       {
-        "title": "Find and shoot three glowing bunnies",
-        "body": "Inside the dark arena, follow the purple glow and shoot the bunny. Repeat at its next two appearances while avoiding or killing the zombies and Mimics."
+        "title": "Shoot its three appearances",
+        "body": "In the dark forest, move toward the purple glow and shoot the levitating bunny. Find and shoot its next two positions while avoiding the enemy horde. Clearing every zombie is not the objective.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lemth3/a_guide_for_completing_the_main_ee_in_firebase_z/"
       },
       {
-        "title": "Loot the golden beam quickly",
-        "body": "After the third bunny is shot, find the chest under the golden light. Open it and collect the perk and other rewards before the arena returns you to the Village.",
-        "tip": "The weapon roll is random; this does not guarantee a RAI K."
+        "title": "Open the reward chest",
+        "body": "After the third bunny, follow the golden beam to the chest, open it and collect the Juggernog and other loot promptly. You are returned to the Village when the event ends.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lemth3/a_guide_for_completing_the_main_ee_in_firebase_z/",
+        "tip": "The weapon is random: a RAI K-84 is possible, not guaranteed. The chest is shared; coordinate looting in co-op."
       }
     ],
     "sources": [
       {
-        "title": "r/CODZombies: Firebase Z quest and music discussion",
-        "url": "https://www.reddit.com/r/CODZombies/comments/lca1tr/firebase_z_easter_egg_hunt_general_map_discussion/"
+        "title": "RedGecko18 — completed solo / co-op route and bunny rewards",
+        "url": "https://www.reddit.com/r/CODZombies/comments/lemth3/a_guide_for_completing_the_main_ee_in_firebase_z/"
       },
       {
-        "title": "Community Firebase Z bunny instructions",
-        "url": "https://www.callofdutyzombies.com/topic/219371-fire-base-z-coffin-dance-side-easter-egg/"
+        "title": "Treyarch — Season Two increased side-quest chest timeout",
+        "url": "https://www.treyarch.com/game-intel/2021/02/Season_Two_Details_and_Patch_Notes"
       },
       {
-        "title": "mmmrkennedy: balcony screenshot",
+        "title": "mmmrkennedy — bunny location screenshot",
         "url": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-16",
+    "relatedGuideIds": [
+      "coldwar-firebase-z-power-pack-assault",
+      "coldwar-firebase-z-trials",
+      "coldwar-firebase-z-rai-k"
+    ]
   },
   {
     "id": "coldwar-firebase-z-sergei-safe",
@@ -1023,100 +1041,128 @@
     "players": "1–4 players",
     "summary": "Feed a captured soul to Sergei's detached head and open the Colonel's Office safe.",
     "requirements": [
-      "Power on",
-      "Progress the main quest far enough to unlock Essence Traps in Data Center; make the serum and speak with Peck first",
-      "Sergei's glowing head spawns at one of the six pictured defense-area sites"
+      "Standard online Firebase Z, solo or co-op",
+      "All three reactors powered",
+      "Make the truth serum and finish Peck's dialogue to unlock Data Center Essence Traps in the linked main quest"
     ],
-    "reward": "Random perk and cipher intel",
+    "reward": "A random perk and the C Cipher document pickup; check Barracks for intel credit.",
     "steps": [
       {
-        "title": "Find the head in a defense zone",
-        "body": "Search Scorched Defense, Rocky Defense and Jungle Defense for Sergei's gold-glowing head. Carry it back to the charging plate on the Field Hospital table.",
-        "tip": "The head slows movement while carried. Set it down if you need to defend yourself.",
+        "title": "Carry Sergei's head",
+        "body": "Search the six pictured positions in Scorched, Rocky and Jungle Defense; only one contains the glowing head in a match. Carry it directly to Field Hospital and set it on the table's charging plate.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lepgsv/firebase_z_easter_egg_guide_made_simple/",
+        "tip": "Carrying the head restricts movement and weapon use. Clear the route first; do not leave it unattended while progressing rounds.",
         "images": [
           {
             "src": "./assets/modern-coldwar-firebase-z-free_perk-scorched_loc1.webp",
-            "alt": "Sergei candidate: scorched loc1",
-            "caption": "Sergei candidate: scorched loc1",
-            "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
+            "alt": "Scorched Defense: beneath the left bunker staircase.",
+            "caption": "Scorched Defense: beneath the left bunker staircase.",
+            "credit": "Gameplay screenshot supplied by mmmrkennedy; game © Activision",
             "source": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
           },
           {
             "src": "./assets/modern-coldwar-firebase-z-free_perk-scorched_loc2.webp",
-            "alt": "Sergei candidate: scorched loc2",
-            "caption": "Sergei candidate: scorched loc2",
-            "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
+            "alt": "Scorched Defense: beside the wrecked tank.",
+            "caption": "Scorched Defense: beside the wrecked tank.",
+            "credit": "Gameplay screenshot supplied by mmmrkennedy; game © Activision",
             "source": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
           },
           {
             "src": "./assets/modern-coldwar-firebase-z-free_perk-rocky_loc1.webp",
-            "alt": "Sergei candidate: rocky loc1",
-            "caption": "Sergei candidate: rocky loc1",
-            "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
+            "alt": "Rocky Defense: sandbag position beside the bunker.",
+            "caption": "Rocky Defense: sandbag position beside the bunker.",
+            "credit": "Gameplay screenshot supplied by mmmrkennedy; game © Activision",
             "source": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
           },
           {
             "src": "./assets/modern-coldwar-firebase-z-free_perk-rocky_loc2.webp",
-            "alt": "Sergei candidate: rocky loc2",
-            "caption": "Sergei candidate: rocky loc2",
-            "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
+            "alt": "Rocky Defense: at the foot of the stairs toward Weapons Lab.",
+            "caption": "Rocky Defense: at the foot of the stairs toward Weapons Lab.",
+            "credit": "Gameplay screenshot supplied by mmmrkennedy; game © Activision",
             "source": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
           },
           {
             "src": "./assets/modern-coldwar-firebase-z-free_perk-jungle_loc1.webp",
-            "alt": "Sergei candidate: jungle loc1",
-            "caption": "Sergei candidate: jungle loc1",
-            "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
+            "alt": "Jungle Defense: barrel / sandbag cover beside a lane.",
+            "caption": "Jungle Defense: barrel / sandbag cover beside a lane.",
+            "credit": "Gameplay screenshot supplied by mmmrkennedy; game © Activision",
             "source": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
           },
           {
             "src": "./assets/modern-coldwar-firebase-z-free_perk-jungle_loc2.webp",
-            "alt": "Sergei candidate: jungle loc2",
-            "caption": "Sergei candidate: jungle loc2",
-            "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
+            "alt": "Jungle Defense: ground between the left and middle routes.",
+            "caption": "Jungle Defense: ground between the left and middle routes.",
+            "credit": "Gameplay screenshot supplied by mmmrkennedy; game © Activision",
             "source": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
           }
         ]
       },
       {
-        "title": "Capture a weakened ordinary zombie",
-        "body": "Take an Essence Trap from the Data Center. Lower a zombie's health, throw the trap near it and double-tap Interact when the zombie is within capture range. Pick up the filled trap promptly."
+        "title": "Trap an ordinary zombie",
+        "body": "Get an Essence Trap from upper Data Center. Weaken an ordinary zombie, throw the trap in its path and double-tap Interact when it is within range. Pick up the filled trap and return immediately.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lepgsv/firebase_z_easter_egg_guide_made_simple/",
+        "tip": "A named Mimic memory is unnecessary for this side quest."
       },
       {
-        "title": "Feed the charging plate",
-        "body": "Insert or release the filled trap at the Field Hospital charging plate beside Sergei's head. Wait for his dialogue to reveal the safe access.",
-        "tip": "Use an ordinary zombie for this side ritual; the named main-quest Mimics are not required.",
+        "title": "Power the head's plate",
+        "body": "While holding the filled trap, interact with the small plate beside Sergei's head in Field Hospital. Wait for the head to rise, speak the code and explode.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lepgsv/firebase_z_easter_egg_guide_made_simple/",
+        "tip": "You do not have to write down or manually enter the numbers.",
         "images": [
           {
             "src": "./assets/modern-coldwar-firebase-z-free_perk-charging_plate.webp",
-            "alt": "Field Hospital: charging plate",
-            "caption": "Field Hospital: charging plate",
-            "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
+            "alt": "Field Hospital: the head and filled trap go on this laboratory table.",
+            "caption": "Field Hospital: the head and filled trap go on this laboratory table.",
+            "credit": "Gameplay screenshot supplied by mmmrkennedy; game © Activision",
             "source": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
           }
         ]
       },
       {
-        "title": "Open the Colonel's Office safe",
-        "body": "Go to the Colonel's Office and interact with its safe. Take the perk and cipher intel, then clear the Hellhounds the reward releases.",
-        "tip": "This side quest is optional for the Firebase Z main ending."
+        "title": "Open the Colonel's safe",
+        "body": "Go upstairs above Juggernog to Colonel's Office. Interact with the floor safe and collect the perk and C Cipher. Be ready for the Hellhound ambush.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lca1tr/firebase_z_easter_egg_hunt_general_map_discussion/",
+        "tip": "If C Cipher fails to register, continue checking Mimic document drops in later matches: launch-era players obtained a counting copy that way.",
+        "images": [
+          {
+            "src": "./assets/batch6-firebase-z-free_perk-safe.webp",
+            "alt": "Colonel's Office: floor safe beside the desk and serum cabinet.",
+            "caption": "Colonel's Office: floor safe beside the desk and serum cabinet.",
+            "credit": "Gameplay screenshot supplied by mmmrkennedy; game © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
+          }
+        ]
       }
     ],
     "sources": [
       {
-        "title": "r/CODZombies: Firebase Z quest and music discussion",
+        "title": "Zackatosh — head, trap, Field Hospital and safe route",
+        "url": "https://www.reddit.com/r/CODZombies/comments/lepgsv/firebase_z_easter_egg_guide_made_simple/"
+      },
+      {
+        "title": "Firsthand discovery discussion — head / automatic safe code",
         "url": "https://www.reddit.com/r/CODZombies/comments/lca1tr/firebase_z_easter_egg_hunt_general_map_discussion/"
       },
       {
-        "title": "Community safe quest: head, plate and trap",
-        "url": "https://www.callofdutyzombies.com/topic/219377-safe-side-easter-egg/"
+        "title": "Firsthand C Cipher duplicate / tracking reports",
+        "url": "https://www.reddit.com/r/CODZombies/comments/ldphfv/"
       },
       {
-        "title": "mmmrkennedy: six head sites and plate screenshots",
+        "title": "mmmrkennedy — six photographed candidate sites and safe",
         "url": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
+      },
+      {
+        "title": "JokerAlex21 — named C Cipher reward",
+        "url": "https://www.codzombieguides.com/firebase-z"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-16",
+    "relatedGuideIds": [
+      "coldwar-firebase-z-main",
+      "coldwar-firebase-z-intel-season-1",
+      "coldwar-firebase-z-intel-artifacts",
+      "coldwar-firebase-z-ciphers"
+    ]
   },
   {
     "id": "coldwar-firebase-z-free-jump-pads",
@@ -1127,59 +1173,109 @@
     "players": "1–4 players",
     "summary": "Complete five directional inputs at each of the six launch pads to remove their travel cost.",
     "requirements": [
-      "All three Aether Reactors powered",
-      "Use the launch-pad network once for its normal 500-point fare",
-      "A precision bullet weapon for the small green console lights"
+      "Standard online Firebase Z, solo or co-op",
+      "All three reactors powered",
+      "Activate every one of the six jump pads once at the normal 500 Essence fare: 3,000 total when one player buys all six",
+      "A bullet weapon for the small green indicator"
     ],
     "reward": "Every jump pad becomes free for the remaining match",
     "steps": [
       {
-        "title": "Find a pad with a green console light",
-        "body": "After powering the base and using the pads, stand on a launch pad and shoot its small green indicator. A countdown and arrow sequence start.",
-        "tip": "Remain on the pad. Leaving early fails that attempt until the next round.",
+        "title": "Ride all six pads first",
+        "body": "Use both Jungle Defense pads, both Mission Control pads, the Data Center pad and the Rocky Defense pad. Once each has been activated, find the console with a green light on its lower-left keypad.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lfl4mc/i_found_a_jump_pad_side_ee/",
+        "tip": "Using only one pad does not meet the prerequisite."
+      },
+      {
+        "title": "Start at the green light",
+        "body": "Stand on the lit pad and shoot the small green indicator, not the large travel button. Wait for its countdown, then watch the screen for each arrow.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lfl4mc/i_found_a_jump_pad_side_ee/",
+        "tip": "Stay on the pad throughout the dance.",
         "images": [
           {
             "src": "./assets/modern-coldwar-firebase-z-free_jump_pads-greenlight.webp",
-            "alt": "Shoot this green console indicator while standing on the pad",
-            "caption": "Shoot this green console indicator while standing on the pad",
-            "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
+            "alt": "While standing on the pad, shoot the small green keypad indicator.",
+            "caption": "While standing on the pad, shoot the small green keypad indicator.",
+            "credit": "Gameplay screenshot supplied by mmmrkennedy; game © Activision",
             "source": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
           }
         ]
       },
       {
-        "title": "Perform its five movements",
-        "body": "Read the console's arrows and briefly move your character in each displayed direction, returning to a still position between prompts. Follow all five accurately until the pad launches you."
+        "title": "Move for all five arrows",
+        "body": "For each displayed arrow, move your character briefly in that direction while remaining on the pad. Stop between prompts. Five correct movements launch you automatically to the next area; find its next green-lit console and continue.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lfl4mc/i_found_a_jump_pad_side_ee/",
+        "tip": "A failed dance requires a new attempt. Wait until the next round, find the green light and restart the chain; do not assume earlier pad dances are saved."
       },
       {
-        "title": "Complete all six consoles",
-        "body": "Visit the remaining pads at the two Jungle Defense routes, two Mission Control routes, Data Center / Rocky Defense routes. Activate whichever console is lit and repeat its five-input sequence.",
-        "tip": "If an input fails, wait for the next round and retry that pad. Use its displayed arrows, not another pad's sequence."
-      },
-      {
-        "title": "Confirm free travel",
-        "body": "After all six pads are completed, their point charge is removed for this match. Use any pad to confirm the free launch."
+        "title": "Finish the six-pad chain",
+        "body": "Complete the arrow game at all six consoles in one successful chain. After the last launch, every player can use the network for free for the rest of this match.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lfl4mc/i_found_a_jump_pad_side_ee/",
+        "tip": "The pictures identify the physical pads. Follow the arrows on the active console rather than choosing a fixed travel order.",
+        "images": [
+          {
+            "src": "./assets/batch6-firebase-z-free_jump_pads-jungledefense1.webp",
+            "alt": "Jungle Defense: pad beside the rocky bank.",
+            "caption": "Jungle Defense: pad beside the rocky bank.",
+            "credit": "Gameplay screenshot supplied by mmmrkennedy; game © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
+          },
+          {
+            "src": "./assets/batch6-firebase-z-free_jump_pads-jungledefense2.webp",
+            "alt": "Jungle Defense: pad beside the sandbag trench.",
+            "caption": "Jungle Defense: pad beside the sandbag trench.",
+            "credit": "Gameplay screenshot supplied by mmmrkennedy; game © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
+          },
+          {
+            "src": "./assets/batch6-firebase-z-free_jump_pads-missioncontrol1.webp",
+            "alt": "Mission Control: indoor pad beside the reactor.",
+            "caption": "Mission Control: indoor pad beside the reactor.",
+            "credit": "Gameplay screenshot supplied by mmmrkennedy; game © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
+          },
+          {
+            "src": "./assets/batch6-firebase-z-free_jump_pads-missioncontrol2.webp",
+            "alt": "Mission Control: outdoor pad beside the metal wall.",
+            "caption": "Mission Control: outdoor pad beside the metal wall.",
+            "credit": "Gameplay screenshot supplied by mmmrkennedy; game © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
+          },
+          {
+            "src": "./assets/batch6-firebase-z-free_jump_pads-datacenter.webp",
+            "alt": "Data Center: pad through the wide opening beside the reel cabinets.",
+            "caption": "Data Center: pad through the wide opening beside the reel cabinets.",
+            "credit": "Gameplay screenshot supplied by mmmrkennedy; game © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
+          },
+          {
+            "src": "./assets/batch6-firebase-z-free_jump_pads-rockydefence.webp",
+            "alt": "Rocky Defense: pad outside Data Center's Speed Cola exit.",
+            "caption": "Rocky Defense: pad outside Data Center's Speed Cola exit.",
+            "credit": "Gameplay screenshot supplied by mmmrkennedy; game © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
+          }
+        ]
       }
     ],
     "sources": [
       {
-        "title": "r/CODZombies: free jump-pad discovery and pad routes",
-        "url": "https://www.reddit.com/r/CODZombies/comments/leqiea/removed/"
+        "title": "DustTheOtter — firsthand full six-pad sequence and failure reset",
+        "url": "https://www.reddit.com/r/CODZombies/comments/lfl4mc/i_found_a_jump_pad_side_ee/"
       },
       {
-        "title": "Gfinity: on-pad movement inputs and failed-attempt recovery",
-        "url": "https://www.gfinityesports.com/article/call-of-duty-black-ops-cold-war-zombies-firebase-z-free-jump-pads-easter-egg-guide-walkthrough-tutorial-ps4-ps5-xbox-pc"
-      },
-      {
-        "title": "r/CODZombies: Firebase Z quest and music discussion",
-        "url": "https://www.reddit.com/r/CODZombies/comments/lca1tr/firebase_z_easter_egg_hunt_general_map_discussion/"
-      },
-      {
-        "title": "mmmrkennedy: console indicator screenshot",
+        "title": "mmmrkennedy — all six pad screenshots",
         "url": "https://mmmrkennedy.com/games/BO_CW/firebase_z/firebase_z_guide"
+      },
+      {
+        "title": "JokerAlex21 — every pad must be used before the green light",
+        "url": "https://www.codzombieguides.com/firebase-z"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-16",
+    "relatedGuideIds": [
+      "coldwar-firebase-z-power-pack-assault"
+    ]
   },
   {
     "id": "coldwar-firebase-z-monkey-upgrade",
@@ -1188,39 +1284,55 @@
     "category": "weapon",
     "difficulty": "Medium",
     "players": "1–4 players",
-    "summary": "Earn Monkey Bomb kills near a powered reactor to give the team's monkeys their stronger dancing form.",
+    "summary": "Get Monkey Bomb explosion kills beside a powered reactor until the bombs turn red and zombies dance.",
     "requirements": [
-      "Power on",
-      "Monkey Bombs from crafting or loot",
-      "Use a reactor room: Mission Control, Military Command or Data Center"
+      "Standard online Firebase Z, solo or co-op",
+      "All three reactors powered",
+      "Monkey Bombs from enemy drops or the Crafting Table"
     ],
     "reward": "Upgraded Monkey Bombs, changed music and dancing zombies for the match",
     "steps": [
       {
-        "title": "Group zombies beside one reactor",
-        "body": "Gather a train inside a powered reactor's room. Use Mission Control or Military Command if you want the most documented trigger."
+        "title": "Gather enemies by a reactor",
+        "body": "Train zombies beside a powered Aether Reactor in Mission Control, Military Command or Data Center. Throw the Monkey Bomb close to the reactor so its explosion kills the gathered enemies.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lj3tdc/monkey_bomb_upgrade_update_its_for_the_whole_team/",
+        "tip": "Use Mission Control or Data Center if another room is not triggering reliably."
       },
       {
-        "title": "Accumulate fifty Monkey Bomb kills there",
-        "body": "Throw Monkey Bombs into the train and let their explosions get the kills. Replenish them at crafting stations and continue near the same reactor until at least 50 zombies are killed by the bombs."
+        "title": "Keep earning bomb kills",
+        "body": "Continue buying or finding Monkey Bombs and killing the reactor-area horde with their explosions. The discovery target is 50 kills; check the next bomb for the red glow and changed music.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lj3tdc/monkey_bomb_upgrade_update_its_for_the_whole_team/",
+        "tip": "Co-op counts conflict: the firsthand team test reports 50 shared kills, while JokerAlex21 lists 150 in co-op. Continue until the visible upgrade appears; do not rely on an invisible fixed tally."
       },
       {
-        "title": "Use the upgraded monkeys",
-        "body": "The monkey's appearance and music change, and nearby zombies dance. New monkeys crafted or picked up later retain the upgrade for the match; community testing confirms the upgrade applies to the team.",
-        "tip": "Kills from your gun beside an active monkey do not count as Monkey Bomb explosion kills."
+        "title": "Confirm the dance upgrade",
+        "body": "Throw a fresh Monkey Bomb. Its red glow, different music and the zombies' dance confirm success. The discovered upgrade applies to the squad's Monkey Bombs for the rest of the match.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lj3tdc/monkey_bomb_upgrade_update_its_for_the_whole_team/",
+        "tip": "Gun kills beside a monkey do not substitute for its explosion kills. Exact damage multipliers are not established by these sources."
       }
     ],
     "sources": [
       {
-        "title": "r/CODZombies: fifty-kill trigger and team-wide result",
-        "url": "https://www.reddit.com/r/CODZombies/comments/lj3tdc/"
+        "title": "DrMojoman81 — firsthand shared kills / team test",
+        "url": "https://www.reddit.com/r/CODZombies/comments/lj3tdc/monkey_bomb_upgrade_update_its_for_the_whole_team/"
       },
       {
-        "title": "r/CODZombies: Monkey Bomb upgrade discovery",
-        "url": "https://www.reddit.com/r/CODZombies/comments/lft7p1/"
+        "title": "Discovery thread — original method and failed-attempt reports",
+        "url": "https://www.reddit.com/r/CODZombies/comments/lft7p1/monkey_bomb_upgrade_easter_egg_credits_glitching/"
+      },
+      {
+        "title": "JokerAlex21 — conflicting co-op target",
+        "url": "https://www.codzombieguides.com/firebase-z"
+      },
+      {
+        "title": "Treyarch — Season Two upgraded Monkey Bomb damage fix",
+        "url": "https://www.treyarch.com/game-intel/2021/02/Season_Two_Details_and_Patch_Notes"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-16",
+    "relatedGuideIds": [
+      "coldwar-firebase-z-power-pack-assault"
+    ]
   },
   {
     "id": "coldwar-mauer-klaus-full-upgrades",
