@@ -8,8 +8,8 @@
     "Newly authored guides may have source research without a separate recorded full audit. Guide counts and passing software checks do not establish gameplay accuracy."
   ],
   "catalogEntries": 160,
-  "runtimeGuides": 1503,
-  "guidesWithRecordedSourceReview": 680,
+  "runtimeGuides": 1505,
+  "guidesWithRecordedSourceReview": 686,
   "guidesCertifiedFullyVerified": 0,
   "batches": [
     {
@@ -271,6 +271,14 @@
     {
       "batch": "iw-rave-quests-charms-bows-and-location-images",
       "rowsWithRecordedReview": 28
+    },
+    {
+      "batch": "coldwar-outbreak-side-events-and-search-images",
+      "rowsWithRecordedReview": 6
+    },
+    {
+      "batch": "coldwar-outbreak-echo-source-budget-follow-up",
+      "rowsWithRecordedReview": 1
     }
   ],
   "guideReviews": [
@@ -45638,6 +45646,316 @@
       ]
     },
     {
+      "id": "coldwar-outbreak-aethereal-orb",
+      "mapId": "coldwar-outbreak",
+      "reviews": [
+        {
+          "batch": "coldwar-outbreak-side-events-and-search-images",
+          "reportedStatus": "Operative prose and metadata source-reviewed within recorded limits",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Correct the implication that a visible burst and loot reliably award the medal. Keep the three-stop route, distinguish the two unrelated orb events, and add an authentic minimap reference."
+          ],
+          "unverified": [
+            "No gameplay or platform/build test. Historical first-hand routes plus relevant publisher text support the documentary changes; source fidelity does not prove complete or current retail behavior.",
+            "No new Fury Crystal or Black Chest location photo was obtained. An official image labelled by surrounding article context actually depicts a Rampage Inducer and was excluded after visual review. Do not reuse it as Black Chest evidence.",
+            "The Pact, D.I.E. elements, radio / Music Player, horde patrol, fishing, detailed Orda mechanics and seasonal intel were not fully fact-re-audited. Main-quest red orb remains in frozen Batch10. This batch is not a full Outbreak event / intel inventory."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": [
+            {
+              "index": 1,
+              "title": "Find the nearby orb marker",
+              "canonicalStepSha256": "159a966ed3458f0f2b7537a262b962429050f33c29deaa99d7e0d32cc33a36d7",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/lrfbd4/"
+              ],
+              "status": "Documentary source review; not independently playtested"
+            },
+            {
+              "index": 2,
+              "title": "Shoot, then follow its movement",
+              "canonicalStepSha256": "3f029537f07844589097a23b21e00a1e7d9d699cd210e4ad4bd92bcbdaf1fecc",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/ColdWarZombies/comments/lvss80/"
+              ],
+              "status": "Documentary source review; not independently playtested"
+            },
+            {
+              "index": 3,
+              "title": "Burst it at the third stop",
+              "canonicalStepSha256": "9a5a85187031600dd0120098e80fd6d28a78da0a6c95dccf9ee660a01a030ac6",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/ColdWarZombies/comments/lvss80/"
+              ],
+              "status": "Documentary source review; not independently playtested"
+            },
+            {
+              "index": 4,
+              "title": "Check challenge credit afterward",
+              "canonicalStepSha256": "38727c839ff29ec0e5ebc8ba2a30c6198528522795ed9f86118ba8ab92f24286",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/ColdWarZombies/comments/ocm46u/"
+              ],
+              "status": "Documentary source review; not independently playtested"
+            }
+          ],
+          "requirementsAndRewardReviewed": true,
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/lrfbd4/",
+            "https://www.reddit.com/r/ColdWarZombies/comments/lvss80/",
+            "https://www.reddit.com/r/ColdWarZombies/comments/ocm46u/",
+            "https://www.youtube.com/watch?v=2LUKxBuUisA"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "coldwar-outbreak-black-chest",
+      "mapId": "coldwar-outbreak",
+      "reviews": [
+        {
+          "batch": "coldwar-outbreak-side-events-and-search-images",
+          "reportedStatus": "Operative prose and metadata source-reviewed within recorded limits",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Separate orb tracking, chalice use and protection. Replace the vague spirit description with Treyarch’s shared-squad cooldown and regional duration; avoid fixed damage / shot-count promises."
+          ],
+          "unverified": [
+            "No universal proximity trigger, orb shot count, damage formula or armor / weapon recommendation is certified. Sources give conflicting damage anecdotes.",
+            "Bronze I / Silver II / Gold III mapping supported. Interaction with an already higher-packed gun, every reward-scaling rule and all seasonal variants remain unverified.",
+            "Official region-only / teammate-sharing / cooldown / low-health effect is supported. Exact seconds, health threshold, invocation counts and any literal downed-player revival are not established.",
+            "No gameplay or platform/build test. Historical first-hand routes plus relevant publisher text support the documentary changes; source fidelity does not prove complete or current retail behavior.",
+            "No new Fury Crystal or Black Chest location photo was obtained. An official image labelled by surrounding article context actually depicts a Rampage Inducer and was excluded after visual review. Do not reuse it as Black Chest evidence.",
+            "The Pact, D.I.E. elements, radio / Music Player, horde patrol, fishing, detailed Orda mechanics and seasonal intel were not fully fact-re-audited. Main-quest red orb remains in frozen Batch10. This batch is not a full Outbreak event / intel inventory."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": [
+            {
+              "index": 1,
+              "title": "Release the three orbs",
+              "canonicalStepSha256": "0a092550d73ec22f398d8489c571617877adf4ecf0917f9ba98e2a3c7ab8ab8a",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/ColdWarZombies/comments/ppzm1w/"
+              ],
+              "status": "Documentary source review; not independently playtested"
+            },
+            {
+              "index": 2,
+              "title": "Tag one orb and fire",
+              "canonicalStepSha256": "caa1192e1598c97db64a31ae77e8d95dd5e0aac15262391485cac06358fefb90",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/ColdWarZombies/comments/1eu425r/"
+              ],
+              "status": "Documentary source review; not independently playtested"
+            },
+            {
+              "index": 3,
+              "title": "Use its repeating flight path",
+              "canonicalStepSha256": "d545f2cdb7ae0999cd415f1e676f8e835edb18c85014affdd5a8f670e8dd1de3",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/ColdWarZombies/comments/1eu425r/"
+              ],
+              "status": "Documentary source review; not independently playtested"
+            },
+            {
+              "index": 4,
+              "title": "Finish the remaining two",
+              "canonicalStepSha256": "dfd43da777f7ac1e65326cbb4040d56d325f91c18ca9d4f36c3244ecad4a5712",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/q6cxff/"
+              ],
+              "status": "Documentary source review; not independently playtested"
+            },
+            {
+              "index": 5,
+              "title": "Open the chest and choose a gun",
+              "canonicalStepSha256": "16234b3979cebd57d52e12bf8364ed5c07e24a08acc594310387d9b54ad35306",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/ColdWarZombies/comments/1eu425r/"
+              ],
+              "status": "Documentary source review; not independently playtested"
+            },
+            {
+              "index": 6,
+              "title": "Use the spirit’s regional protection",
+              "canonicalStepSha256": "9529fe9cdbf9876bd557e51a9b17a7cddaa8941118fd589a979e6a6bf752b6ff",
+              "evidenceUrls": [
+                "https://www.treyarch.com/game-intel/2021/09/Incoming_Season_Five_Reloaded"
+              ],
+              "status": "Documentary source review; not independently playtested"
+            }
+          ],
+          "requirementsAndRewardReviewed": true,
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/q6cxff/",
+            "https://www.reddit.com/r/ColdWarZombies/comments/1eu425r/",
+            "https://www.reddit.com/r/ColdWarZombies/comments/ppzm1w/",
+            "https://www.treyarch.com/game-intel/2021/09/Incoming_Season_Five_Reloaded"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "coldwar-outbreak-demented-echo",
+      "mapId": "coldwar-outbreak",
+      "reviews": [
+        {
+          "batch": "coldwar-outbreak-side-events-and-search-images",
+          "reportedStatus": "Operative prose and metadata source-reviewed within recorded limits",
+          "independentlyPlaytested": false,
+          "checks": [
+            "New practical helper; maps and photos inspected individually."
+          ],
+          "unverified": [
+            "Eight authentic creator maps / visible numbered markers are reproduced as candidates. Every floor, approach, current retail spawn table and individual marker’s latest-build validity was not independently watched or playtested. Native regional tours are navigation companions.",
+            "Difficulty 2 onward and pre-alert kill are documented. Exact per-player / squad kill-credit sharing, spawn chance, deterministic same-region respawn and every playlist / offline variant remain unverified.",
+            "No gameplay or platform/build test. Historical first-hand routes plus relevant publisher text support the documentary changes; source fidelity does not prove complete or current retail behavior.",
+            "No new Fury Crystal or Black Chest location photo was obtained. An official image labelled by surrounding article context actually depicts a Rampage Inducer and was excluded after visual review. Do not reuse it as Black Chest evidence.",
+            "The Pact, D.I.E. elements, radio / Music Player, horde patrol, fishing, detailed Orda mechanics and seasonal intel were not fully fact-re-audited. Main-quest red orb remains in frozen Batch10. This batch is not a full Outbreak event / intel inventory."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": [
+            {
+              "index": 1,
+              "title": "Start checking from difficulty 2",
+              "canonicalStepSha256": "9ad29cbf8758fcf963070fcb31fe66e49d37cd3be2bd2ecfdaa286901342a8af",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/m5xxzg/"
+              ],
+              "status": "Documentary source review; not independently playtested"
+            },
+            {
+              "index": 2,
+              "title": "Spot the glowing figure",
+              "canonicalStepSha256": "cfedb4c4bff2773cce96900d4424f2bab220ed8f67a352118b8ff2a9edc60ec6",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/lty5au/"
+              ],
+              "status": "Documentary source review; not independently playtested"
+            },
+            {
+              "index": 3,
+              "title": "Kill it before contact",
+              "canonicalStepSha256": "b108ffa4be7e1e7611a192e1b92f10c969d7655f1eea20ae5e7f21b545502a78",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/oduizk/"
+              ],
+              "status": "Documentary source review; not independently playtested"
+            },
+            {
+              "index": 4,
+              "title": "Survive a missed kill",
+              "canonicalStepSha256": "4730f9100263fff0d0f7f87761e090abfba1db1a74c2c9ebbfb947d805b141ca",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/oduizk/"
+              ],
+              "status": "Documentary source review; not independently playtested"
+            },
+            {
+              "index": 5,
+              "title": "Ruka: 5 candidates",
+              "canonicalStepSha256": "b4cdb672bcc7067c0cab53a4d1cd8877b338a697f54610ddaf2deaebafe8d001",
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=093-hpmES7A&t=81s"
+              ],
+              "status": "Documentary source review; not independently playtested"
+            },
+            {
+              "index": 6,
+              "title": "Golova: 6 candidates",
+              "canonicalStepSha256": "b16a3aa5561da7f03f35655ae39ccadcf34e85f36692efd58aa00c904a94a44c",
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=093-hpmES7A&t=133s"
+              ],
+              "status": "Documentary source review; not independently playtested"
+            },
+            {
+              "index": 7,
+              "title": "Alpine: 5 candidates",
+              "canonicalStepSha256": "44f0ba87c4ea682d709df59f2c247bc7eb0435c02f8f822e8070b39b631d9290",
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=093-hpmES7A&t=192s"
+              ],
+              "status": "Documentary source review; not independently playtested"
+            },
+            {
+              "index": 8,
+              "title": "Sanatorium: 5 candidates",
+              "canonicalStepSha256": "895d2111bbf201ac79fabee18f0b4533d8a3793eedc8f6f6e0160ad9bfb29f3c",
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=l8LTIt9acp0"
+              ],
+              "status": "Documentary source review; not independently playtested"
+            },
+            {
+              "index": 9,
+              "title": "Duga: 7 candidates",
+              "canonicalStepSha256": "3d3571b0fe1ba27a116e1cac17f0a9e1da4352ddc41a611d9293fbcd7073ac30",
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=l8LTIt9acp0"
+              ],
+              "status": "Documentary source review; not independently playtested"
+            },
+            {
+              "index": 10,
+              "title": "Zoo: 5 candidates",
+              "canonicalStepSha256": "4411f297a0c1a976abf124d0788a800c97bf6655aa60096ad3d90e5ce83e3b38",
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=XVm7RES6m64"
+              ],
+              "status": "Documentary source review; not independently playtested"
+            },
+            {
+              "index": 11,
+              "title": "Collateral: 3 candidates",
+              "canonicalStepSha256": "79920d1220c1daf3be68fede65a64661a2be079c43833e91b8ad878f94fc2484",
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=4Cdc6OHLYMU"
+              ],
+              "status": "Documentary source review; not independently playtested"
+            },
+            {
+              "index": 12,
+              "title": "Armada: 3 candidates",
+              "canonicalStepSha256": "702b3e567b97525f132b6d613363ef8b38da24efc1dddaa085a0c6384be96fb7",
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=KeiG3ik9mXI"
+              ],
+              "status": "Documentary source review; not independently playtested"
+            }
+          ],
+          "requirementsAndRewardReviewed": true,
+          "evidenceUrls": [
+            "https://www.codzombieguides.com/outbreak",
+            "https://www.reddit.com/r/CODZombies/comments/lty5au/",
+            "https://www.reddit.com/r/CODZombies/comments/m5xxzg/",
+            "https://www.reddit.com/r/CODZombies/comments/oduizk/",
+            "https://www.youtube.com/watch?v=093-hpmES7A",
+            "https://www.youtube.com/watch?v=4Cdc6OHLYMU",
+            "https://www.youtube.com/watch?v=KeiG3ik9mXI",
+            "https://www.youtube.com/watch?v=XVm7RES6m64",
+            "https://www.youtube.com/watch?v=l8LTIt9acp0"
+          ]
+        },
+        {
+          "batch": "coldwar-outbreak-echo-source-budget-follow-up",
+          "reportedStatus": "Parent source-budget and reference follow-up; no gameplay certification",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Read all staged prose and metadata, source-depth records and fourteen unresolved boundaries.",
+            "Viewed all twelve selected final images individually.",
+            "Kept all eight visible map-marker counts; shortened repeated map prose and alt/captions."
+          ],
+          "wholeGuideTextRead": true,
+          "remainingUncertainty": "Every candidate floor and current-build spawn table remain unverified.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/m5xxzg/"
+          ]
+        }
+      ]
+    },
+    {
       "id": "coldwar-outbreak-excision-rift-locations",
       "mapId": "coldwar-outbreak",
       "reviews": [
@@ -45916,6 +46234,84 @@
           ],
           "evidenceUrls": [
             "https://www.youtube.com/watch?v=OM0ob3bMAMY&t=120s"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "coldwar-outbreak-fury-crystal",
+      "mapId": "coldwar-outbreak",
+      "reviews": [
+        {
+          "batch": "coldwar-outbreak-side-events-and-search-images",
+          "reportedStatus": "Operative prose and metadata source-reviewed within recorded limits",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Add the supported solo target count and Tier V qualifier; make hidden-target checks usable and remove the unsupported categorical claim about per-player Tool allocation."
+          ],
+          "unverified": [
+            "Solo starter plus six additional targets has firsthand corroboration. Exact co-op totals, all possible regional hiding spots and a universal current-build duration remain unverified; the route follows active targets / event feedback instead.",
+            "The inherited categorical per-squad / per-player Aether Tool allocation claim lacks independent evidence in this pass. Removed; no opposite guarantee introduced. Intended recipient advice remains.",
+            "Tier V is supported; precise outline radius, platform rendering quirks and every crystal’s current visibility through every obstruction were not tested.",
+            "No gameplay or platform/build test. Historical first-hand routes plus relevant publisher text support the documentary changes; source fidelity does not prove complete or current retail behavior.",
+            "No new Fury Crystal or Black Chest location photo was obtained. An official image labelled by surrounding article context actually depicts a Rampage Inducer and was excluded after visual review. Do not reuse it as Black Chest evidence.",
+            "The Pact, D.I.E. elements, radio / Music Player, horde patrol, fishing, detailed Orda mechanics and seasonal intel were not fully fact-re-audited. Main-quest red orb remains in frozen Batch10. This batch is not a full Outbreak event / intel inventory."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": [
+            {
+              "index": 1,
+              "title": "Scout the flame marker",
+              "canonicalStepSha256": "b7bd297200311dd502c86fbbff37ece03225a005b80ed6b5d124ecc4798968b5",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/odlz3g/"
+              ],
+              "status": "Documentary source review; not independently playtested"
+            },
+            {
+              "index": 2,
+              "title": "Start and clear the targets",
+              "canonicalStepSha256": "7341f4b7d3ee237cb916285968d62d813e771562becb698d3f70b290b52d0478",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/odlz3g/"
+              ],
+              "status": "Documentary source review; not independently playtested"
+            },
+            {
+              "index": 3,
+              "title": "Check corners and extra rooms",
+              "canonicalStepSha256": "74da836fee2fbfeb4b060e649d92ae9862e23bb970a83dba83077d343bbcf080",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/blackopscoldwar/comments/p3i2k0/"
+              ],
+              "status": "Documentary source review; not independently playtested"
+            },
+            {
+              "index": 4,
+              "title": "Equip the gun, then take the Tool",
+              "canonicalStepSha256": "5f714b01be89c4a8e6073b5fe44b7527b6ada3e142574e7758ef336bca14e737",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/oqhpnb/"
+              ],
+              "status": "Documentary source review; not independently playtested"
+            },
+            {
+              "index": 5,
+              "title": "Recognize a failed attempt",
+              "canonicalStepSha256": "da502a6131de6c8c1905639f71ab629987421089f638898928b4f16b3f9482bc",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/mygln6/"
+              ],
+              "status": "Documentary source review; not independently playtested"
+            }
+          ],
+          "requirementsAndRewardReviewed": true,
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/mygln6/",
+            "https://www.reddit.com/r/CODZombies/comments/odlz3g/",
+            "https://www.reddit.com/r/CODZombies/comments/oqhpnb/",
+            "https://www.reddit.com/r/blackopscoldwar/comments/p3i2k0/",
+            "https://www.treyarch.com/game-intel/2021/08/Your_Guide_to_Season_Five"
           ]
         }
       ]
@@ -46683,6 +47079,74 @@
       ]
     },
     {
+      "id": "coldwar-outbreak-omega-supply-crate",
+      "mapId": "coldwar-outbreak",
+      "reviews": [
+        {
+          "batch": "coldwar-outbreak-side-events-and-search-images",
+          "reportedStatus": "Operative prose and metadata source-reviewed within recorded limits",
+          "independentlyPlaytested": false,
+          "checks": [
+            "New practical helper; maps and photos inspected individually."
+          ],
+          "unverified": [
+            "Original footage / text covers early regions and a historical seven-region roster. All-eight-region availability, fixed salvage / scorestreak quantities and one-shot-on-ground glitches are not certified.",
+            "No gameplay or platform/build test. Historical first-hand routes plus relevant publisher text support the documentary changes; source fidelity does not prove complete or current retail behavior.",
+            "No new Fury Crystal or Black Chest location photo was obtained. An official image labelled by surrounding article context actually depicts a Rampage Inducer and was excluded after visual review. Do not reuse it as Black Chest evidence.",
+            "The Pact, D.I.E. elements, radio / Music Player, horde patrol, fishing, detailed Orda mechanics and seasonal intel were not fully fact-re-audited. Main-quest red orb remains in frozen Batch10. This batch is not a full Outbreak event / intel inventory."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": [
+            {
+              "index": 1,
+              "title": "Find it before approaching",
+              "canonicalStepSha256": "7ccc3dbe3cda0541c3da88dff9b248ba6603ad865389dc8c958cb44b7cd50947",
+              "evidenceUrls": [
+                "https://www.gamepur.com/guides/how-to-take-down-the-omega-helicopter-in-call-of-duty-black-ops-zombies-outbreak"
+              ],
+              "status": "Documentary source review; not independently playtested"
+            },
+            {
+              "index": 2,
+              "title": "Destroy it before escape",
+              "canonicalStepSha256": "490733b7df1e89661d2c57fe6ea4eefde64b9d4202b68abb361f577183502597",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/q6cxff/"
+              ],
+              "status": "Documentary source review; not independently playtested"
+            },
+            {
+              "index": 3,
+              "title": "Follow the parachuting crate",
+              "canonicalStepSha256": "5642b8fa70cdd196019fc730dc0e0d5886ac6d6a5ba3036b6c1a830451fe9517",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/p3jmse/"
+              ],
+              "status": "Documentary source review; not independently playtested"
+            },
+            {
+              "index": 4,
+              "title": "Open it and collect the stockpiles",
+              "canonicalStepSha256": "7e5986b9801d64e152ae50084040955a298b7fc7c4e498f84115debb9379674d",
+              "evidenceUrls": [
+                "https://www.gamepur.com/guides/how-to-take-down-the-omega-helicopter-in-call-of-duty-black-ops-zombies-outbreak"
+              ],
+              "status": "Documentary source review; not independently playtested"
+            }
+          ],
+          "requirementsAndRewardReviewed": true,
+          "evidenceUrls": [
+            "https://www.gamepur.com/guides/how-to-take-down-the-omega-helicopter-in-call-of-duty-black-ops-zombies-outbreak",
+            "https://www.reddit.com/r/CODZombies/comments/p3jmse/",
+            "https://www.reddit.com/r/CODZombies/comments/q6cxff/",
+            "https://www.reddit.com/r/CODZombies/comments/v3ni78/",
+            "https://www.treyarch.com/game-intel/2021/09/Incoming_Season_Five_Reloaded",
+            "https://www.youtube.com/watch?v=VO-_B5u66pg"
+          ]
+        }
+      ]
+    },
+    {
       "id": "coldwar-outbreak-operation-excision",
       "mapId": "coldwar-outbreak",
       "reviews": [
@@ -47142,6 +47606,64 @@
             "https://www.youtube.com/watch?v=VnSz5NdNzXk",
             "https://www.youtube.com/watch?v=lN1gfTzHp1A",
             "https://www.youtube.com/watch?v=va8o1wtlq5c"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "coldwar-outbreak-orda-omega",
+      "mapId": "coldwar-outbreak",
+      "reviews": [
+        {
+          "batch": "coldwar-outbreak-side-events-and-search-images",
+          "reportedStatus": "Helicopter chapter reviewed; Orda chapters read but not fact re-audited",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Only the inherited helicopter chapter is revised to point to a complete companion. The three Orda chapters and Orda metadata are preserved and are not newly source-certified by this patch."
+          ],
+          "unverified": [
+            "Original footage / text covers early regions and a historical seven-region roster. All-eight-region availability, fixed salvage / scorestreak quantities and one-shot-on-ground glitches are not certified.",
+            "No gameplay or platform/build test. Historical first-hand routes plus relevant publisher text support the documentary changes; source fidelity does not prove complete or current retail behavior.",
+            "No new Fury Crystal or Black Chest location photo was obtained. An official image labelled by surrounding article context actually depicts a Rampage Inducer and was excluded after visual review. Do not reuse it as Black Chest evidence.",
+            "The Pact, D.I.E. elements, radio / Music Player, horde patrol, fishing, detailed Orda mechanics and seasonal intel were not fully fact-re-audited. Main-quest red orb remains in frozen Batch10. This batch is not a full Outbreak event / intel inventory."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": [
+            {
+              "index": 1,
+              "title": "Find an optional Orda",
+              "canonicalStepSha256": "797707e839020031343e38fac9c376f50130dbf81b2c791519c540c2b843e7f9",
+              "evidenceUrls": [],
+              "status": "Preserved outside this factual review"
+            },
+            {
+              "index": 2,
+              "title": "Stay in fighting range and avoid stomps",
+              "canonicalStepSha256": "1d4b36c09f8fafb92eafb7e06a966bd7760a0c1a66fd8d938c123f6e1207cf5c",
+              "evidenceUrls": [],
+              "status": "Preserved outside this factual review"
+            },
+            {
+              "index": 3,
+              "title": "Claim the boss loot",
+              "canonicalStepSha256": "80692d18f27b0baf533dce7e8fb7fbb04a30c4a187848041144801e804e97820",
+              "evidenceUrls": [],
+              "status": "Preserved outside this factual review"
+            },
+            {
+              "index": 4,
+              "title": "Follow the Omega crate route",
+              "canonicalStepSha256": "701d55c20b1ad74bfec54964ee92c3fd897bbc6626122c7f812dc648340a7cd8",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/p3jmse/"
+              ],
+              "status": "Documentary source review; not independently playtested"
+            }
+          ],
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/p3jmse/",
+            "https://www.reddit.com/r/CODZombies/comments/v3ni78/",
+            "https://www.youtube.com/watch?v=VO-_B5u66pg"
           ]
         }
       ]
@@ -58412,15 +58934,11 @@
     "coldwar-doa3-room-of-judgement",
     "coldwar-onslaught-progression",
     "coldwar-onslaught-weapon-upgrades",
-    "coldwar-outbreak-aethereal-orb",
-    "coldwar-outbreak-black-chest",
     "coldwar-outbreak-die-elements",
     "coldwar-outbreak-dragon",
     "coldwar-outbreak-fishing-raygun",
-    "coldwar-outbreak-fury-crystal",
     "coldwar-outbreak-golden-chest",
     "coldwar-outbreak-horde-patrol",
-    "coldwar-outbreak-orda-omega",
     "coldwar-outbreak-the-pact",
     "ghosts-awakening-all-intel",
     "ghosts-awakening-ark-attachment",
@@ -60980,22 +61498,28 @@
         "bo2-origins"
       ],
       "note": "The ordinary firearm inventory documents 29 variants and 13 supported attachment re-Pack candidates with three original-era result photos. Box B23R attachment eligibility/reserves and the exact Origins HAMR attachment menu remain unresolved."
+    },
+    {
+      "mapIds": [
+        "coldwar-outbreak"
+      ],
+      "note": "Fury Crystal, Black Chest and the ordinary purple orb now have expanded event routes; Demented Echo and Omega supply-crate helpers add twelve images. Exact co-op Tool distribution, Black Chest numeric protection/cooldowns, every Echo marker floor and fixed Omega drops remain unresolved. The Echo maps show documented candidates, not guaranteed current-build spawns."
     }
   ],
   "dataHashFormat": "SHA-256 of UTF-8 JSON files with LF line endings, matching Git and GitHub Pages.",
   "dataSha256": {
     "catalog.json": "1d06d2aa4a42db59b97868073ddbab1d6a33b3ffb4167f2ebe71ceed09eddf2d",
     "community-corrections.json": "9b21e5e599a6307259a4f839172c930a557452a0cb5f62d834e11d361ddc2ef2",
-    "coverage-gaps.json": "c62a6be54ccc0ec3d60438074c2fc71ca44c8af01a5bc6fd06f89e136316fb49",
+    "coverage-gaps.json": "0bcbe83e4e780ce1772078db1cff2badc142bba217fdce88c7438c211b3ed132",
     "guides-aw.json": "b5a7e5fb7d83e776452f77060d0714c13f63ae8eeb6e367272c0d00a38cc3855",
     "guides-classic.json": "adfcf8a0e55f347da12fc3632c9c04406f3bc65315763f0193aa3be754916f0d",
     "guides-community.json": "9584b448f7bac9e5fd537c69835521cba84bd506f9efaadbfde043796ab2abe0",
     "guides-completion-classic.json": "ed538054e7aeb5575de95dc78a345deb25a4111b47049bbd73fd29de06905c7a",
-    "guides-completion-modern.json": "0e9f5e985f12ddf53ed607f9e2c54fc48b8a61a002a779f769a7888b69a88854",
+    "guides-completion-modern.json": "9812513da53701a1eaeffceeaebd2dfd92cacf7cb5208c84ab9f2b49cac6af20",
     "guides-completion-modes.json": "7661fccf1e3b1fe4466e8a1f7219706fa1851d6b609c826fa045207810ad3bc5",
     "guides-extra.json": "8e5fe1cccee16df3c91298faa20187f2d39890f2acc074d77487208f2d729165",
     "guides-goal-classic.json": "1688b3d2eea13ba833df8c44dd9273bda97c03a9a738d75df0da1b69c4cec5b4",
-    "guides-goal-modern.json": "7150cca399c5cd9d0edbfed153759ce2a99b0373506282739d5abf3bd27436b8",
+    "guides-goal-modern.json": "a077eb045683c0202a1337b76d2a8dea4788981c5993aef2f6ddb9402bae9379",
     "guides-goal-modes.json": "7d656ffc3b52759d60e4b140e461917319a43dad38e0f7fb200259a4805c3826",
     "guides-goal-root.json": "47ddbf781c275e0f44ca2b4744362f89ec8f9d45ad5d562c62e9092ac7752674",
     "guides-modern.json": "15ca124c349ad2b870428cea23435a1b0c0f00419bee1957ffb03efad339351d",
@@ -61094,7 +61618,10 @@
       "Outbreak Excision seven-region helper shows the corrected Golova church-roof instruction and loads both underwater Armada entry-rift references",
       "Rave thirty-chapter Ghosts N Skulls route jumps to chapter twenty-one with focus, thirty direct references and its readable SKULL glyph key",
       "Rave forty-one-chapter memory-charm route loads the Owl-cabin footprint photo, has forty-one direct references and exposes the disputed Boots effect note",
-      "Rave Deer bow helper opens its related-route disclosure and links to both base Vlad and the shared charged-statuette setup"
+      "Rave Deer bow helper opens its related-route disclosure and links to both base Vlad and the shared charged-statuette setup",
+      "Outbreak Demented Echo twelve-chapter helper jumps to Armada with focus, twelve direct references and its loaded 1298px candidate map; no desktop overflow",
+      "Outbreak Omega helicopter four-chapter helper jumps to the genuine Zoo salvage photo with focus and four direct references; no desktop overflow",
+      "Outbreak Black Chest route displays shared team protection, regional duration and the cooldown qualifier beside its official source reference"
     ],
     "currentBatchResponsiveLimit": "The current in-app browser viewport override did not change the actual 1280x720 viewport. Batch12 desktop checks passed; its narrow-screen recheck remains unverified. Earlier recorded mobile checks retain their original scope."
   }

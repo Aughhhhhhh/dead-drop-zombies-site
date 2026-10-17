@@ -4319,47 +4319,75 @@
     "title": "Fury Crystal: free weapon-rarity upgrade",
     "category": "side",
     "difficulty": "Medium",
-    "players": "1–4 players",
-    "summary": "Prepare the area before starting, then destroy every glowing crystal within the event's timer.",
+    "players": "1–4 players; solo supported",
+    "summary": "Scout the event area, clear every timed crystal, then take the Tool with the intended gun equipped.",
     "requirements": [
-      "An orange Fury Crystal event in the current region.",
-      "A gun and enough mobility to search the event area quickly.",
-      "Death Perception makes the hidden crystals easier to spot."
+      "Original Black Ops Cold War, Standard Outbreak; a random Fury Crystal event must be present in the current region.",
+      "Open nearby doors and obstructed sightlines before shooting the starter crystal.",
+      "Optional: Death Perception upgraded to Tier V makes nearby targets easier to spot through cover."
     ],
-    "reward": "An Aether Tool, which raises your held weapon by one rarity tier.",
+    "reward": "An Aether Tool that adds one rarity tier to the held weapon; it does not add a Pack-a-Punch level.",
     "steps": [
       {
-        "title": "Scout before shooting",
-        "body": "Find the large glowing orange / red crystal at the flame-like event icon. Open nearby doors and break obstructing windows first. Inspect the whole building or surrounding area so you have a route; shooting the first glowing crystal starts the timer."
+        "title": "Scout the flame marker",
+        "body": "Find the large orange / red crystal at the flame-like event icon. Before shooting, open doors, break obstructing windows and check the surrounding rooms, bathrooms and outdoor cover.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/odlz3g/"
       },
       {
-        "title": "Break all the event crystals",
-        "body": "Destroy the starter crystal, then quickly search floors, corners, bathrooms and nearby outdoor cover for the newly glowing crystals. Multiple targets can share a room. Keep moving rather than stopping to fight every summoned zombie. The count varies with the team, so continue until the completion notification appears."
+        "title": "Start and clear the targets",
+        "body": "Shoot the starter, then destroy the newly glowing crystals before time runs out. Solo has six additional targets, seven including the starter. Co-op can have more; keep searching until the event confirms success.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/odlz3g/"
       },
       {
-        "title": "Collect the Tool with the correct gun equipped",
-        "body": "The last crystal drops an Aether Tool. Switch to the gun you want upgraded before collecting the wrench. It adds one rarity tier, not guaranteed Legendary rarity and not a Pack-a-Punch level."
+        "title": "Check corners and extra rooms",
+        "body": "Multiple crystals can share a room. Check high and low corners, bathroom stalls and nearby cover; listen for the targets. Death Perception’s Tier V outlines help you locate them through obstacles.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/blackopscoldwar/comments/p3i2k0/",
+        "tip": "Keep moving through your scouted route instead of stopping to clear every ordinary zombie."
       },
       {
-        "title": "Recognize a failed event",
-        "body": "If time expires, the remaining crystals darken and the event cannot be retried in that region. Learn the missed hiding places for a later region. A squadmate collecting the Tool uses that pickup; it is not a separate free wrench for everyone."
+        "title": "Equip the gun, then take the Tool",
+        "body": "The final target drops the wrench-shaped Aether Tool. Equip the gun you want to improve before collecting it. The upgrade adds one rarity tier; it does not turn every gun straight to Legendary or replace Pack-a-Punch.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/oqhpnb/",
+        "tip": "In a squad, agree who will take the pickup before anyone touches it."
+      },
+      {
+        "title": "Recognize a failed attempt",
+        "body": "If the timer expires, the remaining crystals darken and the event is over for that region. Use the dark crystals to learn missed spots, then try another Fury event in a later region.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/mygln6/"
       }
     ],
     "sources": [
       {
-        "title": "Community: timer, dark failed crystals and Tool reward",
+        "title": "Firsthand: Fury timer, failed crystals and Tool reward",
         "url": "https://www.reddit.com/r/CODZombies/comments/mygln6/"
       },
       {
-        "title": "Community: preparation, team counts and hidden crystal positions",
+        "title": "Firsthand: solo six additional targets, room checks and co-op variation",
         "url": "https://www.reddit.com/r/CODZombies/comments/odlz3g/"
       },
       {
-        "title": "Community: the Tool raises one rarity tier",
+        "title": "Firsthand: one rarity tier, rather than instant Legendary",
         "url": "https://www.reddit.com/r/CODZombies/comments/oqhpnb/"
+      },
+      {
+        "title": "Firsthand: Death Perception upgrade-tier correction and crystal outlines",
+        "url": "https://www.reddit.com/r/blackopscoldwar/comments/p3i2k0/"
+      },
+      {
+        "title": "Treyarch: Death Perception Tier V resource outlines",
+        "url": "https://www.treyarch.com/game-intel/2021/08/Your_Guide_to_Season_Five"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-17",
+    "relatedGuideIds": [
+      "coldwar-outbreak-black-chest",
+      "coldwar-outbreak-omega-supply-crate"
+    ]
   },
   {
     "id": "coldwar-outbreak-black-chest",
@@ -4368,46 +4396,75 @@
     "category": "side",
     "difficulty": "Hard",
     "players": "1–4 players",
-    "summary": "Destroy one chest orb at a time, claim the weapon chalice and release the protective lost soul.",
+    "summary": "Tag and destroy each attacking orb, open the chest, then use its loot and shared regional protection.",
     "requirements": [
-      "A Black Chest event in the region.",
-      "Armor, Juggernog and a strong weapon are recommended before activation.",
-      "A sustained-damage weapon or D.I.E. makes the orb phases easier."
+      "Original Black Ops Cold War, Standard Outbreak; a Black Chest event must be present in the region.",
+      "Bring armor, ammunition and a strong weapon before activation. Leave an open movement route around the chest."
     ],
-    "reward": "Armor / equipment loot, a weapon Pack-a-Punch chalice and a lost soul that can intervene when you are in danger in that region.",
+    "reward": "Chest loot can include armor, equipment and a Pack-a-Punch chalice. Its released spirit can help the squad at low health, with a cooldown, for the current region.",
     "steps": [
       {
-        "title": "Activate the chest",
-        "body": "Find the marked black chest and interact. Three purple orbs leave the chest and hover at separate points. Prepare an open route near the first orb before shooting; damaging an orb starts its attacking flight and enemy spawns."
+        "title": "Release the three orbs",
+        "body": "Find the marked Black Chest and interact with it. Three purple orbs move out to separate hovering positions. Choose your first target and an open route before attacking.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/ColdWarZombies/comments/ppzm1w/"
       },
       {
-        "title": "Fight one orb at a time",
-        "body": "Shoot only one orb so the other two stay dormant. Move in a wide circle while handling the spawned horde, then fire when the orb approaches in a straight line. Its route repeats. Lead shots at range and avoid shooting another dormant orb through your target."
+        "title": "Tag one orb and fire",
+        "body": "Ping the first orb so you can track it, then shoot it to begin that fight. Focus on that target and avoid crossfire into the other orbs while enemies approach.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/ColdWarZombies/comments/1eu425r/"
       },
       {
-        "title": "Destroy the remaining two",
-        "body": "Repeat the method for the second and third orbs. An Insta-Kill helps against the orbs, and a Death Machine or strong shotgun can shorten the damage windows. If you need breathing room, prioritize clearing the attacking zombies before resuming shots at the orb."
+        "title": "Use its repeating flight path",
+        "body": "Circle through open space, clear immediate attackers and fire as the orb comes toward you. Its flight repeats, so learn an approach you can hit. Insta-Kill can help; no fixed shot count applies to every weapon.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/ColdWarZombies/comments/1eu425r/"
       },
       {
-        "title": "Open the chest and use the chalice",
-        "body": "Return to the chest after all three are destroyed and interact to release its loot / soul. Equip the desired gun before taking the chalice: Bronze applies Pack-a-Punch I, Silver II and Gold III. The released lost soul can protect you during a later dangerous moment in that region; warping ends that regional benefit."
+        "title": "Finish the remaining two",
+        "body": "After the first orb is destroyed, repeat the same method for the second and third. Keep enough space to handle the horde and replenish ammunition when it is safe.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/q6cxff/"
+      },
+      {
+        "title": "Open the chest and choose a gun",
+        "body": "Return to the chest once all three orbs are destroyed and interact to release its loot and soul. Equip the desired gun before taking a chalice: Bronze corresponds to Pack-a-Punch I, Silver II and Gold III.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/ColdWarZombies/comments/1eu425r/",
+        "tip": "A chalice changes Pack-a-Punch, while a Fury Crystal’s Aether Tool changes weapon rarity."
+      },
+      {
+        "title": "Use the spirit’s regional protection",
+        "body": "The freed spirit can intervene when a player is low on health. This benefit is shared with teammates and has a cooldown between uses. It lasts for this region; warping ends it. Keep your normal recovery equipment ready between interventions.",
+        "original": true,
+        "researchSource": "https://www.treyarch.com/game-intel/2021/09/Incoming_Season_Five_Reloaded"
       }
     ],
     "sources": [
       {
-        "title": "Community: chest rewards, three orbs and lost-soul intervention",
-        "url": "https://www.reddit.com/r/ColdWarZombies/comments/ppzm1w/"
+        "title": "Treyarch: regional lost-soul protection, shared squad effect and cooldown",
+        "url": "https://www.treyarch.com/game-intel/2021/09/Incoming_Season_Five_Reloaded"
       },
       {
-        "title": "Community: orb flight tactics and chalice tier mapping",
+        "title": "Firsthand: tag one orb, its flight pattern and chalice tiers",
         "url": "https://www.reddit.com/r/ColdWarZombies/comments/1eu425r/"
       },
       {
-        "title": "Gamepur: Black Chest completion and soul reward",
-        "url": "https://www.gamepur.com/guides/how-to-complete-the-dark-chest-lost-souls-side-objective-in-call-of-duty-black-ops-cold-war-outbreak-zombies"
+        "title": "Firsthand: Black Chest attackers and loot",
+        "url": "https://www.reddit.com/r/ColdWarZombies/comments/ppzm1w/"
+      },
+      {
+        "title": "Firsthand: one-orb method and early Omega helicopter tactics",
+        "url": "https://www.reddit.com/r/CODZombies/comments/q6cxff/"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-17",
+    "relatedGuideIds": [
+      "coldwar-outbreak-fury-crystal",
+      "coldwar-outbreak-aethereal-orb",
+      "coldwar-outbreak-omega-supply-crate"
+    ]
   },
   {
     "id": "coldwar-outbreak-dragon",
@@ -4530,37 +4587,71 @@
     "category": "side",
     "difficulty": "Easy",
     "players": "1–4 players",
-    "summary": "Find the laughing purple orb, shoot it until it moves and follow through all three positions.",
+    "summary": "Find the laughing purple orb, follow its three stops and collect loot; challenge credit can still fail to register.",
     "requirements": [
-      "A randomly spawned orb in the region; it appears on the nearby minimap rather than the full map.",
-      "Enough ammunition and a vehicle or Stamin-Up help with the chase."
+      "Original Black Ops Cold War, Standard Outbreak; a random ordinary purple orb must be present.",
+      "Watch the nearby minimap and listen for laughter. This event is separate from the red Operation Excision quest orb and Black Chest attackers.",
+      "Bring ammunition and enough mobility to follow the orb between positions."
     ],
     "reward": "Essence along the route and randomized loot after the final destruction.",
     "steps": [
       {
-        "title": "Find the laughing orb",
-        "body": "Explore the region while watching the minimap for the circular orb marker and listening for a child's laugh. The purple orb floats above the terrain; it is distinct from a Black Chest's three attacking orbs."
+        "title": "Find the nearby orb marker",
+        "body": "Explore while listening for a child’s laugh and watching the minimap for the circular orb icon. The purple orb floats above the terrain. Its nearby marker does not work like an orange full-map event icon.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lrfbd4/",
+        "images": [
+          {
+            "src": "./assets/batch11-outbreak-orb-icon.webp",
+            "alt": "Creator’s enlarged nearby orb icon (2021).",
+            "caption": "Creator’s enlarged nearby orb icon (2021).",
+            "credit": "Gameplay / annotation: MysteryHQ; Black Ops Cold War © Activision / Treyarch.",
+            "source": "https://www.youtube.com/watch?v=2LUKxBuUisA&t=10s"
+          }
+        ]
       },
       {
-        "title": "Shoot and follow each move",
-        "body": "Damage the orb until it drops Essence and flies to another position. Follow immediately and repeat at the second position. Continue dealing damage promptly so it does not simply disappear from an abandoned chase."
+        "title": "Shoot, then follow its movement",
+        "body": "Damage the orb until it releases Essence and moves. Follow it to its next position and shoot again; continue the chase instead of leaving it behind.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/ColdWarZombies/comments/lvss80/"
       },
       {
-        "title": "Destroy it at the third position",
-        "body": "At its final position, keep shooting until it bursts and the Loot Piñata / completion feedback appears. Collect the final weapons, support, salvage and Essence. If it merely vanishes without a destruction confirmation, the relevant orb-destruction challenge may not register."
+        "title": "Burst it at the third stop",
+        "body": "Follow the second move to the third position, then keep shooting until the orb bursts. Collect the dropped Essence and randomized equipment / weapons. The final loot is separate from the smaller Essence drops along the route.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/ColdWarZombies/comments/lvss80/"
+      },
+      {
+        "title": "Check challenge credit afterward",
+        "body": "Check the Loot Piñata medal or your challenge progress after a finished burst. Players have reported loot and an apparent destruction without credit, followed by a successful later attempt. If it fails to count, try another orb; no reliable universal remedy is established.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/ColdWarZombies/comments/ocm46u/"
       }
     ],
     "sources": [
       {
-        "title": "Community: orb identification and three-stage chase",
+        "title": "u/Timerstone: original firsthand Outbreak event guide",
+        "url": "https://www.reddit.com/r/CODZombies/comments/lrfbd4/"
+      },
+      {
+        "title": "Firsthand: ordinary orb identification and three stops",
         "url": "https://www.reddit.com/r/ColdWarZombies/comments/lvss80/"
       },
       {
-        "title": "Community: final destruction versus disappearance",
+        "title": "Firsthand: loot and a burst can still fail challenge credit",
         "url": "https://www.reddit.com/r/ColdWarZombies/comments/ocm46u/"
+      },
+      {
+        "title": "MysteryHQ: ordinary-orb demonstration and nearby minimap icon (April 2021)",
+        "url": "https://www.youtube.com/watch?v=2LUKxBuUisA"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-17",
+    "relatedGuideIds": [
+      "coldwar-outbreak-black-chest",
+      "coldwar-outbreak-operation-excision"
+    ]
   },
   {
     "id": "coldwar-outbreak-fishing-raygun",
@@ -4637,8 +4728,10 @@
         "body": "After Orda dies, inspect its dropped weapons, ammo and equipment. Wonder-weapon drops are possible but random."
       },
       {
-        "title": "Attack a helicopter before it escapes",
-        "body": "If an Omega helicopter appears, damage it before it flies away. Strong gunfire or support such as a Death Machine can destroy it. Follow the parachuting supply crate to the ground and open it for salvage and random support. An escaped helicopter does not leave a crate."
+        "title": "Follow the Omega crate route",
+        "body": "Shoot an Omega helicopter before it escapes, then follow and open the dropped supply crate. Use the linked Omega supply-crate checklist for its map icon, approach timing, in-bounds landing and loot steps.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/p3jmse/"
       }
     ],
     "sources": [
@@ -4659,7 +4752,11 @@
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2958965431"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-17",
+    "relatedGuideIds": [
+      "coldwar-outbreak-omega-supply-crate",
+      "coldwar-outbreak-operation-excision"
+    ]
   },
   {
     "id": "mw3-season-2-permanent-portal",
