@@ -865,14 +865,14 @@
         "caption": "Lightning Staff: shoot only the lower row; pause between the three chords. Original schematic.",
         "credit": "Dead Drop diagram; puzzle sequence from r/CODZombies",
         "source": "https://www.reddit.com/r/CODZombies/wiki/origins/",
-        "step": 2
+        "step": 5
       }
     ],
     "bo2-origins-community-origins-wonder-weapons-staff-of-ice": [
       {
         "src": "./assets/origins-ice-symbols.svg",
         "alt": "Origins Ice Staff circle and rune digit values, with a worked example for eleven",
-        "step": 2,
+        "step": 4,
         "caption": "Symbol-reading schematic based on the community explanation. Use each symbol's in-game orientation.",
         "source": "https://www.reddit.com/r/CODZombies/comments/hmmv3u/how_the_ice_staff_code_works_and_an_easy_way_to/",
         "credit": "Dead Drop schematic / r/CODZombies research"
@@ -1547,6 +1547,875 @@
         "credit": "Gameplay by 360GameTV / YouTube; game © Activision / Infinity Ward; achievement interface © Microsoft",
         "mapSpecific": true,
         "step": 7
+      }
+    ],
+    "iw-rave-in-the-redwoods-community-rave-in-the-redwoods-map-walkthrough-power": [
+      {
+        "src": "./assets/iw-rave-power-switch.webp",
+        "alt": "Basement power switch, marked in the original photo.",
+        "caption": "Basement power switch, marked in the original photo.",
+        "source": "https://codzombified.blogspot.com/2017/05/unlocking-pack-punch-in-rave-in.html",
+        "credit": "Gameplay by CodeNamePizza; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 1
+      }
+    ],
+    "iw-rave-in-the-redwoods-community-rave-in-the-redwoods-map-walkthrough-map-layout": [
+      {
+        "src": "./assets/iw-rave-camp-map.webp",
+        "alt": "Original campground map with the mine route marked.",
+        "caption": "Original campground map with the mine route marked.",
+        "source": "https://codzombified.blogspot.com/2017/05/unlocking-pack-punch-in-rave-in.html",
+        "credit": "Gameplay by CodeNamePizza; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 1
+      }
+    ],
+    "iw-rave-in-the-redwoods-community-rave-in-the-redwoods-scrapbook-boat": [
+      {
+        "src": "./assets/iw-rave-boat-engine.webp",
+        "alt": "Engine beside the Mess Hall pillar.",
+        "caption": "Engine beside the Mess Hall pillar.",
+        "source": "https://codzombified.blogspot.com/2017/02/building-boat-propeller-in-rave-in.html",
+        "credit": "Gameplay by CodeNamePizza; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 1
+      },
+      {
+        "src": "./assets/iw-rave-boat-propeller.webp",
+        "alt": "Boat part on the Tuff ’Nuff room floor.",
+        "caption": "Boat part on the Tuff ’Nuff room floor.",
+        "source": "https://codzombified.blogspot.com/2017/02/building-boat-propeller-in-rave-in.html",
+        "credit": "Gameplay by CodeNamePizza; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 2
+      },
+      {
+        "src": "./assets/iw-rave-boat-paddle.webp",
+        "alt": "Paddle beside the Recreation stand.",
+        "caption": "Paddle beside the Recreation stand.",
+        "source": "https://codzombified.blogspot.com/2017/02/building-boat-propeller-in-rave-in.html",
+        "credit": "Gameplay by CodeNamePizza; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 3
+      },
+      {
+        "src": "./assets/iw-rave-boat.webp",
+        "alt": "The boat inside the mainland boathouse.",
+        "caption": "The boat inside the mainland boathouse.",
+        "source": "https://codzombified.blogspot.com/2017/02/building-boat-propeller-in-rave-in.html",
+        "credit": "Gameplay by CodeNamePizza; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 4
+      }
+    ],
+    "iw-rave-in-the-redwoods-community-rave-in-the-redwoods-map-walkthrough-pack-a-punch": [
+      {
+        "src": "./assets/iw-rave-reel-dock.webp",
+        "alt": "Dock reel and island route in the original collage.",
+        "caption": "Dock reel and island route in the original collage.",
+        "source": "https://codzombified.blogspot.com/2017/05/unlocking-pack-punch-in-rave-in.html",
+        "credit": "Gameplay by CodeNamePizza; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 1
+      },
+      {
+        "src": "./assets/iw-rave-reel-island.webp",
+        "alt": "Second reel beside the island campfire.",
+        "caption": "Second reel beside the island campfire.",
+        "source": "https://codzombified.blogspot.com/2017/05/unlocking-pack-punch-in-rave-in.html",
+        "credit": "Gameplay by CodeNamePizza; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 2
+      },
+      {
+        "src": "./assets/iw-rave-projector.webp",
+        "alt": "The repaired projector opens the island portal.",
+        "caption": "The repaired projector opens the island portal.",
+        "source": "https://codzombified.blogspot.com/2017/05/unlocking-pack-punch-in-rave-in.html",
+        "credit": "Gameplay by CodeNamePizza; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 3
+      }
+    ],
+    "iw-rave-in-the-redwoods-community-rave-in-the-redwoods-scrapbook-crossbow-cabinet": [
+      {
+        "src": "./assets/iw-rave-sausage-bucket.webp",
+        "alt": "Route into Kevin’s cabin and its sausage bucket.",
+        "caption": "Route into Kevin’s cabin and its sausage bucket.",
+        "source": "https://codzombified.blogspot.com/2017/04/getting-vlad-crossbow-in-rave-in.html",
+        "credit": "Gameplay by Glitching Queen; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 1
+      },
+      {
+        "src": "./assets/iw-rave-deer-mess-hall.webp",
+        "alt": "Mess Hall deer and flying-head symbol.",
+        "caption": "Mess Hall deer and flying-head symbol.",
+        "source": "https://codzombified.blogspot.com/2017/04/getting-vlad-crossbow-in-rave-in.html",
+        "credit": "Gameplay by Glitching Queen; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 3
+      },
+      {
+        "src": "./assets/iw-rave-deer-lodge.webp",
+        "alt": "Mounted deer in the Bear Lodge.",
+        "caption": "Mounted deer in the Bear Lodge.",
+        "source": "https://codzombified.blogspot.com/2017/04/getting-vlad-crossbow-in-rave-in.html",
+        "credit": "Gameplay by Glitching Queen; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 4
+      },
+      {
+        "src": "./assets/iw-rave-deer-owl-cabin.webp",
+        "alt": "Owl-side cabin and its mounted deer.",
+        "caption": "Owl-side cabin and its mounted deer.",
+        "source": "https://codzombified.blogspot.com/2017/04/getting-vlad-crossbow-in-rave-in.html",
+        "credit": "Gameplay by Glitching Queen; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 5
+      },
+      {
+        "src": "./assets/iw-rave-vlad-cabinet.webp",
+        "alt": "Opening the Vlad cabinet in Bear Lodge.",
+        "caption": "Opening the Vlad cabinet in Bear Lodge.",
+        "source": "https://codzombified.blogspot.com/2017/04/getting-vlad-crossbow-in-rave-in.html",
+        "credit": "Gameplay by Glitching Queen; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 7
+      }
+    ],
+    "iw-rave-in-the-redwoods-community-rave-in-the-redwoods-scrapbook-upgraded-crossbows": [
+      {
+        "src": "./assets/iw-rave-statue-wolf-table.webp",
+        "alt": "Small statue at the Wolf Camp picnic table.",
+        "caption": "Small statue at the Wolf Camp picnic table.",
+        "source": "https://codzombified.blogspot.com/2017/04/upgrading-crossbow-in-rave-in-redwoods.html",
+        "credit": "Gameplay by MrRoflWaffles; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 3
+      },
+      {
+        "src": "./assets/iw-rave-statue-trailer.webp",
+        "alt": "Small statue in the Recreation trailer.",
+        "caption": "Small statue in the Recreation trailer.",
+        "source": "https://codzombified.blogspot.com/2017/04/upgrading-crossbow-in-rave-in-redwoods.html",
+        "credit": "Gameplay by MrRoflWaffles; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 4
+      },
+      {
+        "src": "./assets/iw-rave-statue-climbing-wall.webp",
+        "alt": "Small statue beside the climbing-wall route.",
+        "caption": "Small statue beside the climbing-wall route.",
+        "source": "https://codzombified.blogspot.com/2017/04/upgrading-crossbow-in-rave-in-redwoods.html",
+        "credit": "Gameplay by MrRoflWaffles; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 5
+      },
+      {
+        "src": "./assets/iw-rave-statue-cabin-balcony.webp",
+        "alt": "Small statue at the cabin balcony.",
+        "caption": "Small statue at the cabin balcony.",
+        "source": "https://codzombified.blogspot.com/2017/04/upgrading-crossbow-in-rave-in-redwoods.html",
+        "credit": "Gameplay by MrRoflWaffles; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 6
+      },
+      {
+        "src": "./assets/iw-rave-statue-dock-table.webp",
+        "alt": "Small statue on the dock table.",
+        "caption": "Small statue on the dock table.",
+        "source": "https://codzombified.blogspot.com/2017/04/upgrading-crossbow-in-rave-in-redwoods.html",
+        "credit": "Gameplay by MrRoflWaffles; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 7
+      },
+      {
+        "src": "./assets/iw-rave-statue-mess-path.webp",
+        "alt": "Small statue beside the Mess Hall path bench.",
+        "caption": "Small statue beside the Mess Hall path bench.",
+        "source": "https://codzombified.blogspot.com/2017/04/upgrading-crossbow-in-rave-in-redwoods.html",
+        "credit": "Gameplay by MrRoflWaffles; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 8
+      },
+      {
+        "src": "./assets/iw-rave-statue-bang-bangs.webp",
+        "alt": "Small statue at the Bang Bangs stairs.",
+        "caption": "Small statue at the Bang Bangs stairs.",
+        "source": "https://codzombified.blogspot.com/2017/04/upgrading-crossbow-in-rave-in-redwoods.html",
+        "credit": "Gameplay by MrRoflWaffles; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 9
+      },
+      {
+        "src": "./assets/iw-rave-statue-obstacle-course.webp",
+        "alt": "Small statue on the obstacle-course floor.",
+        "caption": "Small statue on the obstacle-course floor.",
+        "source": "https://codzombified.blogspot.com/2017/04/upgrading-crossbow-in-rave-in-redwoods.html",
+        "credit": "Gameplay by MrRoflWaffles; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 10
+      },
+      {
+        "src": "./assets/iw-rave-statue-canoes.webp",
+        "alt": "Small statue behind the canoe racks.",
+        "caption": "Small statue behind the canoe racks.",
+        "source": "https://codzombified.blogspot.com/2017/04/upgrading-crossbow-in-rave-in-redwoods.html",
+        "credit": "Gameplay by MrRoflWaffles; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 11
+      },
+      {
+        "src": "./assets/iw-rave-statue-speakers.webp",
+        "alt": "The DJ speakers used to charge statuettes.",
+        "caption": "The DJ speakers used to charge statuettes.",
+        "source": "https://codzombified.blogspot.com/2017/04/upgrading-crossbow-in-rave-in-redwoods.html",
+        "credit": "Gameplay by MrRoflWaffles; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 12
+      },
+      {
+        "src": "./assets/iw-rave-statue-disintegration.webp",
+        "alt": "Speaker pads and the red disintegration effect.",
+        "caption": "Speaker pads and the red disintegration effect.",
+        "source": "https://codzombified.blogspot.com/2017/04/upgrading-crossbow-in-rave-in-redwoods.html",
+        "credit": "Gameplay by MrRoflWaffles; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 13
+      },
+      {
+        "src": "./assets/iw-rave-statue-charged.webp",
+        "alt": "Charged statuette at a speaker pad.",
+        "caption": "Charged statuette at a speaker pad.",
+        "source": "https://codzombified.blogspot.com/2017/04/upgrading-crossbow-in-rave-in-redwoods.html",
+        "credit": "Gameplay by MrRoflWaffles; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 14
+      }
+    ],
+    "iw-rave-trap-o-matic": [
+      {
+        "src": "./assets/iw-rave-large-eagle.webp",
+        "alt": "Large Eagle beside the bonfire.",
+        "caption": "Large Eagle beside the bonfire.",
+        "source": "https://codzombified.blogspot.com/2017/04/upgrading-crossbow-in-rave-in-redwoods.html",
+        "credit": "Gameplay by MrRoflWaffles; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 1
+      }
+    ],
+    "iw-rave-acid-rain": [
+      {
+        "src": "./assets/iw-rave-large-owl-wolf.webp",
+        "alt": "Owl and Wolf placements beside the cabin signs.",
+        "caption": "Owl and Wolf placements beside the cabin signs.",
+        "source": "https://codzombified.blogspot.com/2017/04/upgrading-crossbow-in-rave-in-redwoods.html",
+        "credit": "Gameplay by MrRoflWaffles; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 1
+      }
+    ],
+    "iw-rave-ben-franklin": [
+      {
+        "src": "./assets/iw-rave-large-owl-wolf.webp",
+        "alt": "Owl and Wolf placements beside the cabin signs.",
+        "caption": "Owl and Wolf placements beside the cabin signs.",
+        "source": "https://codzombified.blogspot.com/2017/04/upgrading-crossbow-in-rave-in-redwoods.html",
+        "credit": "Gameplay by MrRoflWaffles; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 1
+      }
+    ],
+    "iw-rave-whirlwind-ef5": [
+      {
+        "src": "./assets/iw-rave-large-deer.webp",
+        "alt": "Large Deer beside the dock route.",
+        "caption": "Large Deer beside the dock route.",
+        "source": "https://codzombified.blogspot.com/2017/04/upgrading-crossbow-in-rave-in-redwoods.html",
+        "credit": "Gameplay by MrRoflWaffles; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 1
+      }
+    ],
+    "iw-rave-in-the-redwoods-community-rave-in-the-redwoods-scrapbook-memory-charms": [
+      {
+        "src": "./assets/iw-rave-binoculars-rave.webp",
+        "alt": "Binoculars beside the Recreation beer boxes.",
+        "caption": "Binoculars beside the Recreation beer boxes.",
+        "source": "https://codzombified.blogspot.com/2017/03/all-memory-charm-locations-in-rave-in.html",
+        "credit": "Gameplay by CodeNamePizza; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 4
+      },
+      {
+        "src": "./assets/iw-rave-binoculars-bench.webp",
+        "alt": "Binoculars on the Mess Hall path bench.",
+        "caption": "Binoculars on the Mess Hall path bench.",
+        "source": "https://codzombified.blogspot.com/2017/03/all-memory-charm-locations-in-rave-in.html",
+        "credit": "Gameplay by CodeNamePizza; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 4
+      },
+      {
+        "src": "./assets/iw-rave-binoculars-eye-route.webp",
+        "alt": "Binocular bench, gazebo and island sightline.",
+        "caption": "Binocular bench, gazebo and island sightline.",
+        "source": "https://codzombified.blogspot.com/2017/03/all-memory-charm-locations-in-rave-in.html",
+        "credit": "Gameplay by CodeNamePizza; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 5
+      },
+      {
+        "src": "./assets/iw-rave-shovel-mine.webp",
+        "alt": "Shovel beside the mine cart and HVR route.",
+        "caption": "Shovel beside the mine cart and HVR route.",
+        "source": "https://codzombified.blogspot.com/2017/03/all-memory-charm-locations-in-rave-in.html",
+        "credit": "Gameplay by CodeNamePizza; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 10
+      },
+      {
+        "src": "./assets/iw-rave-shovel-archery.webp",
+        "alt": "Shovel at the Archery Range hut.",
+        "caption": "Shovel at the Archery Range hut.",
+        "source": "https://codzombified.blogspot.com/2017/03/all-memory-charm-locations-in-rave-in.html",
+        "credit": "Gameplay by CodeNamePizza; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 10
+      },
+      {
+        "src": "./assets/iw-rave-shovel-grave.webp",
+        "alt": "Grave placement and the spawned skeletons.",
+        "caption": "Grave placement and the spawned skeletons.",
+        "source": "https://codzombified.blogspot.com/2017/03/all-memory-charm-locations-in-rave-in.html",
+        "credit": "Gameplay by CodeNamePizza; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 11
+      },
+      {
+        "src": "./assets/iw-rave-arrowhead-lodge.webp",
+        "alt": "Arrowhead outside the lodge’s dock-side door.",
+        "caption": "Arrowhead outside the lodge’s dock-side door.",
+        "source": "https://codzombified.blogspot.com/2017/03/all-memory-charm-locations-in-rave-in.html",
+        "credit": "Gameplay by CodeNamePizza; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 13
+      },
+      {
+        "src": "./assets/iw-rave-arrowhead-mess-sign.webp",
+        "alt": "Arrowhead beside the Mess Hall sign.",
+        "caption": "Arrowhead beside the Mess Hall sign.",
+        "source": "https://codzombified.blogspot.com/2017/03/all-memory-charm-locations-in-rave-in.html",
+        "credit": "Gameplay by CodeNamePizza; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 13
+      },
+      {
+        "src": "./assets/iw-rave-arrowhead-range.webp",
+        "alt": "Arrowhead placement and Rave Vision target challenge.",
+        "caption": "Arrowhead placement and Rave Vision target challenge.",
+        "source": "https://codzombified.blogspot.com/2017/03/all-memory-charm-locations-in-rave-in.html",
+        "credit": "Gameplay by CodeNamePizza; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 14
+      },
+      {
+        "src": "./assets/iw-rave-ring-bang-bangs.webp",
+        "alt": "Ring beside the Bang Bangs stairs.",
+        "caption": "Ring beside the Bang Bangs stairs.",
+        "source": "https://codzombified.blogspot.com/2017/03/all-memory-charm-locations-in-rave-in.html",
+        "credit": "Gameplay by CodeNamePizza; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 16
+      },
+      {
+        "src": "./assets/iw-rave-ring-mess-stairs.webp",
+        "alt": "Ring at the Mess Hall stairs.",
+        "caption": "Ring at the Mess Hall stairs.",
+        "source": "https://codzombified.blogspot.com/2017/03/all-memory-charm-locations-in-rave-in.html",
+        "credit": "Gameplay by CodeNamePizza; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 16
+      },
+      {
+        "src": "./assets/iw-rave-ring-lamps.webp",
+        "alt": "Ring beside the television and both lamps.",
+        "caption": "Ring beside the television and both lamps.",
+        "source": "https://codzombified.blogspot.com/2017/03/all-memory-charm-locations-in-rave-in.html",
+        "credit": "Gameplay by CodeNamePizza; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 17
+      },
+      {
+        "src": "./assets/iw-rave-mask-dock.webp",
+        "alt": "Bird Mask beside the dock-path post.",
+        "caption": "Bird Mask beside the dock-path post.",
+        "source": "https://codzombified.blogspot.com/2017/03/all-memory-charm-locations-in-rave-in.html",
+        "credit": "Gameplay by CodeNamePizza; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 19
+      },
+      {
+        "src": "./assets/iw-rave-mask-obstacle-corner.webp",
+        "alt": "Bird Mask corner near the obstacle-course drop.",
+        "caption": "Bird Mask corner near the obstacle-course drop.",
+        "source": "https://codzombified.blogspot.com/2017/03/all-memory-charm-locations-in-rave-in.html",
+        "credit": "Gameplay by CodeNamePizza; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 19
+      },
+      {
+        "src": "./assets/iw-rave-eight-ball-mine.webp",
+        "alt": "Eight Ball at the upper mine entrance.",
+        "caption": "Eight Ball at the upper mine entrance.",
+        "source": "https://codzombified.blogspot.com/2017/03/all-memory-charm-locations-in-rave-in_18.html",
+        "credit": "Gameplay by CodeNamePizza; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 22
+      },
+      {
+        "src": "./assets/iw-rave-eight-ball-recreation.webp",
+        "alt": "Eight Ball beside the Recreation tent.",
+        "caption": "Eight Ball beside the Recreation tent.",
+        "source": "https://codzombified.blogspot.com/2017/03/all-memory-charm-locations-in-rave-in_18.html",
+        "credit": "Gameplay by CodeNamePizza; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 22
+      },
+      {
+        "src": "./assets/iw-rave-eight-ball-table.webp",
+        "alt": "Eight Ball placement and white cue-ball targets.",
+        "caption": "Eight Ball placement and white cue-ball targets.",
+        "source": "https://codzombified.blogspot.com/2017/03/all-memory-charm-locations-in-rave-in_18.html",
+        "credit": "Gameplay by CodeNamePizza; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 23
+      },
+      {
+        "src": "./assets/iw-rave-fish-cabins.webp",
+        "alt": "Fish beneath the cabin-side power sign.",
+        "caption": "Fish beneath the cabin-side power sign.",
+        "source": "https://codzombified.blogspot.com/2017/03/all-memory-charm-locations-in-rave-in_18.html",
+        "credit": "Gameplay by CodeNamePizza; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 25
+      },
+      {
+        "src": "./assets/iw-rave-fish-sewer.webp",
+        "alt": "Fish inside the glowing sewer pipe.",
+        "caption": "Fish inside the glowing sewer pipe.",
+        "source": "https://codzombified.blogspot.com/2017/03/all-memory-charm-locations-in-rave-in_18.html",
+        "credit": "Gameplay by CodeNamePizza; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 25
+      },
+      {
+        "src": "./assets/iw-rave-fish-lake.webp",
+        "alt": "Fish dock placement and the blue lake target.",
+        "caption": "Fish dock placement and the blue lake target.",
+        "source": "https://codzombified.blogspot.com/2017/03/all-memory-charm-locations-in-rave-in_18.html",
+        "credit": "Gameplay by CodeNamePizza; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 26
+      },
+      {
+        "src": "./assets/iw-rave-frog-shop.webp",
+        "alt": "Frog on the Bait & Tackle storeroom chair.",
+        "caption": "Frog on the Bait & Tackle storeroom chair.",
+        "source": "https://codzombified.blogspot.com/2017/03/all-memory-charm-locations-in-rave-in_18.html",
+        "credit": "Gameplay by CodeNamePizza; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 28
+      },
+      {
+        "src": "./assets/iw-rave-frog-trailer.webp",
+        "alt": "Frog in the Recreation trailer.",
+        "caption": "Frog in the Recreation trailer.",
+        "source": "https://codzombified.blogspot.com/2017/03/all-memory-charm-locations-in-rave-in_18.html",
+        "credit": "Gameplay by CodeNamePizza; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 28
+      },
+      {
+        "src": "./assets/iw-rave-frog-spirit-challenge.webp",
+        "alt": "Swamp placement and Rave Vision spirit frogs.",
+        "caption": "Swamp placement and Rave Vision spirit frogs.",
+        "source": "https://codzombified.blogspot.com/2017/03/all-memory-charm-locations-in-rave-in_18.html",
+        "credit": "Gameplay by CodeNamePizza; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 29
+      },
+      {
+        "src": "./assets/iw-rave-pacifier-rocks.webp",
+        "alt": "Pacifier among the dock-side rocks.",
+        "caption": "Pacifier among the dock-side rocks.",
+        "source": "https://codzombified.blogspot.com/2017/03/all-memory-charm-locations-in-rave-in_18.html",
+        "credit": "Gameplay by CodeNamePizza; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 31
+      },
+      {
+        "src": "./assets/iw-rave-pacifier-washroom.webp",
+        "alt": "Pacifier on the cabin washroom floor.",
+        "caption": "Pacifier on the cabin washroom floor.",
+        "source": "https://codzombified.blogspot.com/2017/03/all-memory-charm-locations-in-rave-in_18.html",
+        "credit": "Gameplay by CodeNamePizza; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 31
+      },
+      {
+        "src": "./assets/iw-rave-pacifier-mess-hall.webp",
+        "alt": "Pacifier counter and the enclosed Mess Hall fight.",
+        "caption": "Pacifier counter and the enclosed Mess Hall fight.",
+        "source": "https://codzombified.blogspot.com/2017/03/all-memory-charm-locations-in-rave-in_18.html",
+        "credit": "Gameplay by CodeNamePizza; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 32
+      },
+      {
+        "src": "./assets/iw-rave-boots-docks.webp",
+        "alt": "Boots beside the dock trash can.",
+        "caption": "Boots beside the dock trash can.",
+        "source": "https://codzombified.blogspot.com/2017/03/all-memory-charm-locations-in-rave-in_18.html",
+        "credit": "Gameplay by CodeNamePizza; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 36
+      },
+      {
+        "src": "./assets/iw-rave-boots-bonfire.webp",
+        "alt": "Boots in the bonfire-area corner.",
+        "caption": "Boots in the bonfire-area corner.",
+        "source": "https://codzombified.blogspot.com/2017/03/all-memory-charm-locations-in-rave-in_18.html",
+        "credit": "Gameplay by CodeNamePizza; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 36
+      },
+      {
+        "src": "./assets/iw-rave-boots-footprints.webp",
+        "alt": "Red footprint sequence in the original gameplay collage.",
+        "caption": "Red footprint sequence in the original gameplay collage.",
+        "source": "https://codzombified.blogspot.com/2017/03/all-memory-charm-locations-in-rave-in_18.html",
+        "credit": "Gameplay by CodeNamePizza; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 37
+      },
+      {
+        "src": "./assets/iw-rave-bird-mask-keys.webp",
+        "alt": "Bird Mask in the frame beside its key target.",
+        "caption": "Bird Mask in the frame beside its key target.",
+        "source": "https://www.youtube.com/watch?v=MRbkT8k5P-4&t=370s",
+        "credit": "Gameplay by MrDalekJD / YouTube; game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 20
+      }
+    ],
+    "iw-rave-in-the-redwoods-community-rave-in-the-redwoods-easter-eggs-main-easter-egg": [
+      {
+        "src": "./assets/iw-rave-ritual-bonfire.webp",
+        "alt": "Bonfire ritual.",
+        "caption": "Bonfire ritual.",
+        "source": "https://www.youtube.com/watch?v=5Y_YJW_zM2M&t=334s",
+        "credit": "Gameplay by NoodlesRuns / YouTube; game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 4
+      },
+      {
+        "src": "./assets/iw-rave-ritual-arms.webp",
+        "alt": "Arm-removal ritual.",
+        "caption": "Arm-removal ritual.",
+        "source": "https://www.youtube.com/watch?v=5Y_YJW_zM2M&t=344s",
+        "credit": "Gameplay by NoodlesRuns / YouTube; game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 5
+      },
+      {
+        "src": "./assets/iw-rave-ritual-legs.webp",
+        "alt": "Leg-removal ritual.",
+        "caption": "Leg-removal ritual.",
+        "source": "https://www.youtube.com/watch?v=5Y_YJW_zM2M&t=431s",
+        "credit": "Gameplay by NoodlesRuns / YouTube; game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 11
+      },
+      {
+        "src": "./assets/iw-rave-ritual-head-placement.webp",
+        "alt": "Skull placement beside canoes.",
+        "caption": "Skull placement beside canoes.",
+        "source": "https://www.youtube.com/watch?v=5Y_YJW_zM2M&t=546s",
+        "credit": "Gameplay by NoodlesRuns / YouTube; game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 16
+      },
+      {
+        "src": "./assets/iw-rave-boss-orbs.webp",
+        "alt": "Charging a skull orb.",
+        "caption": "Charging a skull orb.",
+        "source": "https://www.youtube.com/watch?v=5Y_YJW_zM2M&t=682s",
+        "credit": "Gameplay by NoodlesRuns / YouTube; game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 23
+      },
+      {
+        "src": "./assets/iw-rave-boss-blue-circle.webp",
+        "alt": "Super Slasher in blue circle.",
+        "caption": "Super Slasher in blue circle.",
+        "source": "https://www.youtube.com/watch?v=5Y_YJW_zM2M&t=702s",
+        "credit": "Gameplay by NoodlesRuns / YouTube; game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 24
+      },
+      {
+        "src": "./assets/iw-rave-boss-purple-symbol.webp",
+        "alt": "Glowing purple boss symbol.",
+        "caption": "Glowing purple boss symbol.",
+        "source": "https://www.youtube.com/watch?v=5Y_YJW_zM2M&t=722s",
+        "credit": "Gameplay by NoodlesRuns / YouTube; game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 25
+      },
+      {
+        "src": "./assets/iw-rave-boss-safe-circle.webp",
+        "alt": "Green firestorm safe circle.",
+        "caption": "Green firestorm safe circle.",
+        "source": "https://www.youtube.com/watch?v=5Y_YJW_zM2M&t=742s",
+        "credit": "Gameplay by NoodlesRuns / YouTube; game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 26
+      }
+    ],
+    "iw-rave-in-the-redwoods-community-rave-in-the-redwoods-easter-eggs-ghosts-n-skulls-2": [
+      {
+        "src": "./assets/iw-rave-gns-log-trap.webp",
+        "alt": "Dock log-swing trap and its switch.",
+        "caption": "Dock log-swing trap and its switch.",
+        "source": "https://codzombified.blogspot.com/2017/05/ghosts-n-skulls-2-arcade-machine-guide.html",
+        "credit": "Gameplay by MrDalekJD; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 2
+      },
+      {
+        "src": "./assets/iw-rave-gns-woodchipper.webp",
+        "alt": "The Archery Range woodchipper trap.",
+        "caption": "The Archery Range woodchipper trap.",
+        "source": "https://codzombified.blogspot.com/2017/05/ghosts-n-skulls-2-arcade-machine-guide.html",
+        "credit": "Gameplay by MrDalekJD; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 3
+      },
+      {
+        "src": "./assets/iw-rave-gns-dj-trap.webp",
+        "alt": "The Recreation DJ trap.",
+        "caption": "The Recreation DJ trap.",
+        "source": "https://codzombified.blogspot.com/2017/05/ghosts-n-skulls-2-arcade-machine-guide.html",
+        "credit": "Gameplay by MrDalekJD; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 4
+      },
+      {
+        "src": "./assets/iw-rave-gns-waterfall.webp",
+        "alt": "Waterfall trap on the lodge route.",
+        "caption": "Waterfall trap on the lodge route.",
+        "source": "https://codzombified.blogspot.com/2017/05/ghosts-n-skulls-2-arcade-machine-guide.html",
+        "credit": "Gameplay by MrDalekJD; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 5
+      },
+      {
+        "src": "./assets/iw-rave-gns-machine-symbol.webp",
+        "alt": "Green Rave Vision symbol on the arcade cabinet.",
+        "caption": "Green Rave Vision symbol on the arcade cabinet.",
+        "source": "https://codzombified.blogspot.com/2017/05/ghosts-n-skulls-2-arcade-machine-guide.html",
+        "credit": "Gameplay by MrDalekJD; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 7
+      },
+      {
+        "src": "./assets/iw-rave-gns-symbol-1.webp",
+        "alt": "Symbol search: power-room barrier.",
+        "caption": "Symbol search: power-room barrier.",
+        "source": "https://codzombified.blogspot.com/2017/05/ghosts-n-skulls-2-arcade-machine-guide.html",
+        "credit": "Gameplay by MrDalekJD; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 9
+      },
+      {
+        "src": "./assets/iw-rave-gns-symbol-2.webp",
+        "alt": "Symbol search: mess hall bathroom.",
+        "caption": "Symbol search: mess hall bathroom.",
+        "source": "https://codzombified.blogspot.com/2017/05/ghosts-n-skulls-2-arcade-machine-guide.html",
+        "credit": "Gameplay by MrDalekJD; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 10
+      },
+      {
+        "src": "./assets/iw-rave-gns-symbol-3.webp",
+        "alt": "Symbol search: swamp sewer entrance.",
+        "caption": "Symbol search: swamp sewer entrance.",
+        "source": "https://codzombified.blogspot.com/2017/05/ghosts-n-skulls-2-arcade-machine-guide.html",
+        "credit": "Gameplay by MrDalekJD; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 11
+      },
+      {
+        "src": "./assets/iw-rave-gns-symbol-4.webp",
+        "alt": "Symbol search: owl-side cabin window.",
+        "caption": "Symbol search: owl-side cabin window.",
+        "source": "https://codzombified.blogspot.com/2017/05/ghosts-n-skulls-2-arcade-machine-guide.html",
+        "credit": "Gameplay by MrDalekJD; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 12
+      },
+      {
+        "src": "./assets/iw-rave-gns-symbol-5.webp",
+        "alt": "Symbol search: bait & tackle window.",
+        "caption": "Symbol search: bait & tackle window.",
+        "source": "https://codzombified.blogspot.com/2017/05/ghosts-n-skulls-2-arcade-machine-guide.html",
+        "credit": "Gameplay by MrDalekJD; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 13
+      },
+      {
+        "src": "./assets/iw-rave-gns-symbol-6.webp",
+        "alt": "Symbol search: boathouse / marsh behind the boat.",
+        "caption": "Symbol search: boathouse / marsh behind the boat.",
+        "source": "https://codzombified.blogspot.com/2017/05/ghosts-n-skulls-2-arcade-machine-guide.html",
+        "credit": "Gameplay by MrDalekJD; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 14
+      },
+      {
+        "src": "./assets/iw-rave-gns-symbol-7.webp",
+        "alt": "Symbol search: turtle island cabin window.",
+        "caption": "Symbol search: turtle island cabin window.",
+        "source": "https://codzombified.blogspot.com/2017/05/ghosts-n-skulls-2-arcade-machine-guide.html",
+        "credit": "Gameplay by MrDalekJD; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 15
+      },
+      {
+        "src": "./assets/iw-rave-gns-symbol-8.webp",
+        "alt": "Symbol search: tree in recreation.",
+        "caption": "Symbol search: tree in recreation.",
+        "source": "https://codzombified.blogspot.com/2017/05/ghosts-n-skulls-2-arcade-machine-guide.html",
+        "credit": "Gameplay by MrDalekJD; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 16
+      },
+      {
+        "src": "./assets/iw-rave-gns-symbol-9.webp",
+        "alt": "Symbol search: archery range.",
+        "caption": "Symbol search: archery range.",
+        "source": "https://codzombified.blogspot.com/2017/05/ghosts-n-skulls-2-arcade-machine-guide.html",
+        "credit": "Gameplay by MrDalekJD; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 17
+      },
+      {
+        "src": "./assets/iw-rave-gns-knife-wheel.webp",
+        "alt": "Knife wheel and the special skull.",
+        "caption": "Knife wheel and the special skull.",
+        "source": "https://codzombified.blogspot.com/2017/05/ghosts-n-skulls-2-arcade-machine-guide_25.html",
+        "credit": "Gameplay by MrDalekJD; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 19
+      },
+      {
+        "src": "./assets/iw-rave-gns-boat-gallery.webp",
+        "alt": "Skulls rising beside the moving boat.",
+        "caption": "Skulls rising beside the moving boat.",
+        "source": "https://codzombified.blogspot.com/2017/05/ghosts-n-skulls-2-arcade-machine-guide_25.html",
+        "credit": "Gameplay by MrDalekJD; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 22
+      },
+      {
+        "src": "./assets/iw-rave-gns-memory-frame.webp",
+        "alt": "Arcade colours before and after a frame turns away.",
+        "caption": "Arcade colours before and after a frame turns away.",
+        "source": "https://codzombified.blogspot.com/2017/05/ghosts-n-skulls-2-arcade-machine-guide_25.html",
+        "credit": "Gameplay by MrDalekJD; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 28
+      },
+      {
+        "src": "./assets/iw-rave-gns-skull-key.webp",
+        "alt": "SKULL glyph sequence at left in the original video.",
+        "caption": "SKULL glyph sequence at left in the original video.",
+        "source": "https://www.youtube.com/watch?v=EV9OwRFHAPA&t=358s",
+        "credit": "Glyph key credited to Glitching Queen; footage by MrDalekJD / YouTube; game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 21
+      },
+      {
+        "src": "./assets/iw-rave-gns-colours.webp",
+        "alt": "Matching ghost and skull colours in the arcade.",
+        "caption": "Matching ghost and skull colours in the arcade.",
+        "source": "https://www.youtube.com/watch?v=EV9OwRFHAPA&t=488s",
+        "credit": "Gameplay by MrDalekJD / YouTube; game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 25
+      }
+    ],
+    "iw-rave-puppet-strings-full": [
+      {
+        "src": "./assets/iw-rave-song-rune.webp",
+        "alt": "A formed song rune while the player aims at it.",
+        "caption": "A formed song rune while the player aims at it.",
+        "source": "https://www.youtube.com/watch?v=ZJKTFqSM0ms&t=98s",
+        "credit": "Gameplay by SmartGuy / YouTube; game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 1
+      }
+    ],
+    "iw-rave-in-the-redwoods-community-rave-in-the-redwoods-map-walkthrough-traps": [
+      {
+        "src": "./assets/iw-rave-gns-log-trap.webp",
+        "alt": "Dock log-swing trap and its switch.",
+        "caption": "Dock log-swing trap and its switch.",
+        "source": "https://codzombified.blogspot.com/2017/05/ghosts-n-skulls-2-arcade-machine-guide.html",
+        "credit": "Gameplay by MrDalekJD; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 1
+      },
+      {
+        "src": "./assets/iw-rave-gns-woodchipper.webp",
+        "alt": "The Archery Range woodchipper trap.",
+        "caption": "The Archery Range woodchipper trap.",
+        "source": "https://codzombified.blogspot.com/2017/05/ghosts-n-skulls-2-arcade-machine-guide.html",
+        "credit": "Gameplay by MrDalekJD; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 1
+      },
+      {
+        "src": "./assets/iw-rave-gns-dj-trap.webp",
+        "alt": "The Recreation DJ trap.",
+        "caption": "The Recreation DJ trap.",
+        "source": "https://codzombified.blogspot.com/2017/05/ghosts-n-skulls-2-arcade-machine-guide.html",
+        "credit": "Gameplay by MrDalekJD; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 1
+      },
+      {
+        "src": "./assets/iw-rave-gns-waterfall.webp",
+        "alt": "Waterfall trap on the lodge route.",
+        "caption": "Waterfall trap on the lodge route.",
+        "source": "https://codzombified.blogspot.com/2017/05/ghosts-n-skulls-2-arcade-machine-guide.html",
+        "credit": "Gameplay by MrDalekJD; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 1
+      }
+    ],
+    "iw-rave-in-the-redwoods-community-rave-in-the-redwoods-map-walkthrough-mini-games": [
+      {
+        "src": "./assets/iw-rave-gns-knife-wheel.webp",
+        "alt": "Knife wheel and the special skull.",
+        "caption": "Knife wheel and the special skull.",
+        "source": "https://codzombified.blogspot.com/2017/05/ghosts-n-skulls-2-arcade-machine-guide_25.html",
+        "credit": "Gameplay by MrDalekJD; original collage published by Zombified / game © Activision / Infinity Ward",
+        "mapSpecific": true,
+        "step": 1
       }
     ]
   }

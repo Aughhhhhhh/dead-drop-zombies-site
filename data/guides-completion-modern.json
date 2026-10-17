@@ -2,213 +2,99 @@
   {
     "id": "coldwar-outbreak-legion-main",
     "mapId": "coldwar-outbreak",
-    "title": "Operatsiya Inversiya: defeat Legion",
+    "title": "Ravenov Implications: Ruka bunker and Legion",
     "category": "main",
     "difficulty": "Hard",
-    "players": "1–4 players",
-    "summary": "Outbreak's first main quest links Maxis's radio, Ravenov's film and three missile keys to a timed Legion battle.",
+    "players": "1–4 players; solo supported",
+    "summary": "Follow Maxis’s signal, recover Ravenov’s film, collect three bunker keys and defeat Legion.",
     "requirements": [
-      "Standard Outbreak, online quest-enabled play; begin on region difficulty 3 or higher",
-      "Prepare a ranged Pack-a-Punch III weapon, strong rarity, armor, perks and self-revives before entering Ruka's silo",
-      "Aether Shroud, Frenzied Guard or Ring of Fire can help during Legion's brief orb windows"
+      "Original Black Ops Cold War, Standard Outbreak → Endless, connected to the Call of Duty servers. Online private / solo matches work; offline local play does not supply the quest radio.",
+      "Start the radio route at region difficulty 3 or later. The 3 Region playlist cannot continue to the required later regions.",
+      "Recommended before the final bunker descent: a strong ranged weapon with Pack-a-Punch III and high rarity, upgraded armor, perks, full ammunition and a Self-Revive.",
+      "Pick a Field Upgrade you know how to use. Aether Shroud or Frenzied Guard can protect an orb-damage window; a Wonder Weapon is optional.",
+      "Read the whole route before the final warp. The bunker has upgrade stations, but its elevator does not return to the ordinary Ruka region."
     ],
-    "reward": "First Outbreak main-quest completion and story cutscene",
+    "reward": "Ravenov Implications Dark Ops calling card / XP and the ending cinematic; this is one of the six story quests counted by The Pact.",
     "steps": [
       {
-        "title": "Reach region difficulty 3 and find Maxis's radio",
-        "body": "Use the unmarked quest radio, rather than the orange-icon music radio. Legacy locations are Ruka's green military tent by Pack-a-Punch, Alpine's Steep Grove gas tanks, Golova's Lower Farmstead, Duga's SAM Site and beneath Sanatorium by the statue. The attached maps cover all eight regions: red marks the radio and green marks its three amplifiers.",
-        "tip": "Enable subtitles to distinguish the numbered active static signal.",
+        "title": "Find the unmarked quest radio",
+        "body": "From region difficulty 3, use your region’s radio in the linked field-location checklist. Maxis’s radio has no orange minimap event icon. The orange antenna event is the separate music route.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/nh5h3w/comment/gyvtnmd/",
+        "tip": "Turn on subtitles before activating the radio. They identify the active-static number."
+      },
+      {
+        "title": "Match all three amplifiers",
+        "body": "Activate the main radio and clear its attackers. Note its active-static number, then cycle all three nearby amplifiers to that same number. If an amplifier enters feedback, clear the spawned enemies and resume tuning.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/nh5h3w/comment/gyvtnmd/"
+      },
+      {
+        "title": "Take the listening device",
+        "body": "Return to the main radio once all three amplifiers match. Interact to hear the full transmission, then pick up the yellow Beacon Listening Device.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/nh5h3w/comment/gyvtnmd/"
+      },
+      {
+        "title": "Call Maxis, then warp",
+        "body": "Complete the region’s ordinary objective and summon its beacon. Choose the telephone / Respond option, finish Maxis’s call, then select Warp. Calling her does not itself teleport you.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/nh5h3w/comment/gyvtnmd/"
+      },
+      {
+        "title": "Collect the marked monkey’s film",
+        "body": "In the next region, check its four stone monkey candidates. Shoot the one beside a painted M and pick up the yellow Microfilm Slides. Unmarked monkeys only give ordinary loot.",
+        "original": true,
+        "researchSource": "https://tracker.gg/cold-war/articles/black-ops-cold-war-zombies-outbreak-main-quest-ravenov-implications-guide",
+        "tip": "Ruka has monkeys but no projector. If you collect the slides there, complete the ordinary objective and carry them into another region."
+      },
+      {
+        "title": "Show the three slides",
+        "body": "Use the projector in that region. Insert the film, wait for the dialogue, and interact again when allowed to advance through all three slides. Stop only when Maxis directs you to Ruka.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/nh5h3w/comment/gyvtnmd/",
+        "tip": "You can collect the film and use the projector in the same region. The next warp after the finished presentation forces Ruka; it is not always difficulty 5."
+      },
+      {
+        "title": "Bring the squad down the elevator",
+        "body": "Finish preparation, warp to Ruka and follow the quest star to the torn-open Missile Silos elevator. Bring every player inside and use its control. Descent commits the run to the bunker and finale.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=5-_C_GBHT_4&t=670s"
+      },
+      {
+        "title": "Lift the lockdown in A",
+        "body": "You arrive at the bottom of Silo D. Go up to the connecting hub, cross to Silo A and descend. Use the bottom-floor Lift the Lockdown console for Ravenov’s scene. The scene opens the remaining silo route.",
+        "original": true,
+        "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=2959548389",
+        "tip": "Expect recurring attacks while doing the keys. Later patches increased respawn delays, so the original launch-day enemy density is not a fixed requirement."
+      },
+      {
+        "title": "Key: defeat the red Mimic",
+        "body": "The upper hub contains many disguised Mimics. Clear space, then follow the C corridor to the dead soldier. Try to take the apparent key to spawn the red HVT Mimic, Ruzarkon the Twisted. Kill it and collect its ICBM Launch Key.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/nh5h3w/comment/gyvwu84/"
+      },
+      {
+        "title": "Take A’s banana trap",
+        "body": "At the bottom of Silo A, enter the red-lit circular dead-end tunnel near the A2 wall marking. Pick up the Essence Trap beside the barrels. It occupies your Tactical slot.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=5-_C_GBHT_4&t=810s",
         "images": [
           {
-            "src": "./assets/modern-coldwar-outbreak-main_quest_ravenov-radio_locations-alpine.webp",
-            "alt": "Alpine: quest radio and three amplifiers",
-            "caption": "Alpine: quest radio and three amplifiers",
-            "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
-            "source": "https://mmmrkennedy.com/games/BO_CW/outbreak/outbreak_CW_guide"
-          },
-          {
-            "src": "./assets/modern-coldwar-outbreak-main_quest_ravenov-radio_locations-armada.webp",
-            "alt": "Armada: quest radio and three amplifiers",
-            "caption": "Armada: quest radio and three amplifiers",
-            "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
-            "source": "https://mmmrkennedy.com/games/BO_CW/outbreak/outbreak_CW_guide"
-          },
-          {
-            "src": "./assets/modern-coldwar-outbreak-main_quest_ravenov-radio_locations-collateral.webp",
-            "alt": "Collateral: quest radio and three amplifiers",
-            "caption": "Collateral: quest radio and three amplifiers",
-            "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
-            "source": "https://mmmrkennedy.com/games/BO_CW/outbreak/outbreak_CW_guide"
-          },
-          {
-            "src": "./assets/modern-coldwar-outbreak-main_quest_ravenov-radio_locations-duga.webp",
-            "alt": "Duga: quest radio and three amplifiers",
-            "caption": "Duga: quest radio and three amplifiers",
-            "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
-            "source": "https://mmmrkennedy.com/games/BO_CW/outbreak/outbreak_CW_guide"
-          },
-          {
-            "src": "./assets/modern-coldwar-outbreak-main_quest_ravenov-radio_locations-golova.webp",
-            "alt": "Golova: quest radio and three amplifiers",
-            "caption": "Golova: quest radio and three amplifiers",
-            "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
-            "source": "https://mmmrkennedy.com/games/BO_CW/outbreak/outbreak_CW_guide"
-          },
-          {
-            "src": "./assets/modern-coldwar-outbreak-main_quest_ravenov-radio_locations-ruka.webp",
-            "alt": "Ruka: quest radio and three amplifiers",
-            "caption": "Ruka: quest radio and three amplifiers",
-            "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
-            "source": "https://mmmrkennedy.com/games/BO_CW/outbreak/outbreak_CW_guide"
-          },
-          {
-            "src": "./assets/modern-coldwar-outbreak-main_quest_ravenov-radio_locations-sanatorium.webp",
-            "alt": "Sanatorium: quest radio and three amplifiers",
-            "caption": "Sanatorium: quest radio and three amplifiers",
-            "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
-            "source": "https://mmmrkennedy.com/games/BO_CW/outbreak/outbreak_CW_guide"
-          },
-          {
-            "src": "./assets/modern-coldwar-outbreak-main_quest_ravenov-radio_locations-zoo.webp",
-            "alt": "Zoo: quest radio and three amplifiers",
-            "caption": "Zoo: quest radio and three amplifiers",
-            "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
-            "source": "https://mmmrkennedy.com/games/BO_CW/outbreak/outbreak_CW_guide"
+            "src": "./assets/batch10-outbreak-essence-trap.webp",
+            "alt": "Banana trap beside the barrels, Silo A (2021).",
+            "caption": "Banana trap beside the barrels, Silo A (2021).",
+            "credit": "Gameplay / annotation: MrRoflWaffles; Black Ops Cold War © Activision / Treyarch.",
+            "source": "https://www.youtube.com/watch?v=5-_C_GBHT_4&t=825s"
           }
         ]
       },
       {
-        "title": "Tune all three nearby amplifiers",
-        "body": "Activate the radio, kill its attackers and note its static number. Cycle each nearby amplifier until it plays that same number. Feedback alarms spawn another wave; clear it before resuming. Once all three match, return to the main radio and interact to hear Maxis. Take the Beacon Listening Device."
-      },
-      {
-        "title": "Contact Maxis before warping",
-        "body": "Complete the region's ordinary objective. At its beacon, select the new telephone / Respond option and finish Maxis's call. Only then choose Warp to the next region."
-      },
-      {
-        "title": "Find the marked monkey and take the film",
-        "body": "In the next region, find the stone Monkey Bomb statue beside a painted M mark and shoot it. Pick up its small yellow Microfilm Slides. The attached maps locate the candidates. Ruka has no projector: if you land there during this stage, complete its objective and warp again.",
-        "tip": "An unmarked statue drops ordinary loot. Continue to the marked dead drop.",
-        "images": [
-          {
-            "src": "./assets/modern-coldwar-outbreak-main_quest_ravenov-stone_monkey_locations-alpine.webp",
-            "alt": "Alpine: monkey-statue positions",
-            "caption": "Alpine: monkey-statue positions",
-            "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
-            "source": "https://mmmrkennedy.com/games/BO_CW/outbreak/outbreak_CW_guide"
-          },
-          {
-            "src": "./assets/modern-coldwar-outbreak-main_quest_ravenov-stone_monkey_locations-armada.webp",
-            "alt": "Armada: monkey-statue positions",
-            "caption": "Armada: monkey-statue positions",
-            "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
-            "source": "https://mmmrkennedy.com/games/BO_CW/outbreak/outbreak_CW_guide"
-          },
-          {
-            "src": "./assets/modern-coldwar-outbreak-main_quest_ravenov-stone_monkey_locations-collateral.webp",
-            "alt": "Collateral: monkey-statue positions",
-            "caption": "Collateral: monkey-statue positions",
-            "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
-            "source": "https://mmmrkennedy.com/games/BO_CW/outbreak/outbreak_CW_guide"
-          },
-          {
-            "src": "./assets/modern-coldwar-outbreak-main_quest_ravenov-stone_monkey_locations-duga.webp",
-            "alt": "Duga: monkey-statue positions",
-            "caption": "Duga: monkey-statue positions",
-            "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
-            "source": "https://mmmrkennedy.com/games/BO_CW/outbreak/outbreak_CW_guide"
-          },
-          {
-            "src": "./assets/modern-coldwar-outbreak-main_quest_ravenov-stone_monkey_locations-golova.webp",
-            "alt": "Golova: monkey-statue positions",
-            "caption": "Golova: monkey-statue positions",
-            "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
-            "source": "https://mmmrkennedy.com/games/BO_CW/outbreak/outbreak_CW_guide"
-          },
-          {
-            "src": "./assets/modern-coldwar-outbreak-main_quest_ravenov-stone_monkey_locations-sanatorium.webp",
-            "alt": "Sanatorium: monkey-statue positions",
-            "caption": "Sanatorium: monkey-statue positions",
-            "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
-            "source": "https://mmmrkennedy.com/games/BO_CW/outbreak/outbreak_CW_guide"
-          },
-          {
-            "src": "./assets/modern-coldwar-outbreak-main_quest_ravenov-stone_monkey_locations-zoo.webp",
-            "alt": "Zoo: monkey-statue positions",
-            "caption": "Zoo: monkey-statue positions",
-            "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
-            "source": "https://mmmrkennedy.com/games/BO_CW/outbreak/outbreak_CW_guide"
-          }
-        ]
-      },
-      {
-        "title": "Show all three projector slides",
-        "body": "Insert the film into the region's projector and interact through all three slides until Maxis directs you to Ruka. Known buildings include Alpine's Pack-a-Punch lodge upstairs, Duga's Administration office, Golova's Upper Town building and Sanatorium's Administration meeting room. The image references cover the later regions too.",
-        "tip": "Finish the dialogue before warping. The next warp forces Ruka and commits the run to this quest.",
-        "images": [
-          {
-            "src": "./assets/modern-coldwar-outbreak-main_quest_ravenov-projector_locations-alpine.webp",
-            "alt": "Alpine: projector location",
-            "caption": "Alpine: projector location",
-            "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
-            "source": "https://mmmrkennedy.com/games/BO_CW/outbreak/outbreak_CW_guide"
-          },
-          {
-            "src": "./assets/modern-coldwar-outbreak-main_quest_ravenov-projector_locations-armada.webp",
-            "alt": "Armada: projector location",
-            "caption": "Armada: projector location",
-            "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
-            "source": "https://mmmrkennedy.com/games/BO_CW/outbreak/outbreak_CW_guide"
-          },
-          {
-            "src": "./assets/modern-coldwar-outbreak-main_quest_ravenov-projector_locations-collateral.webp",
-            "alt": "Collateral: projector location",
-            "caption": "Collateral: projector location",
-            "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
-            "source": "https://mmmrkennedy.com/games/BO_CW/outbreak/outbreak_CW_guide"
-          },
-          {
-            "src": "./assets/modern-coldwar-outbreak-main_quest_ravenov-projector_locations-duga.webp",
-            "alt": "Duga: projector location",
-            "caption": "Duga: projector location",
-            "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
-            "source": "https://mmmrkennedy.com/games/BO_CW/outbreak/outbreak_CW_guide"
-          },
-          {
-            "src": "./assets/modern-coldwar-outbreak-main_quest_ravenov-projector_locations-golova.webp",
-            "alt": "Golova: projector location",
-            "caption": "Golova: projector location",
-            "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
-            "source": "https://mmmrkennedy.com/games/BO_CW/outbreak/outbreak_CW_guide"
-          },
-          {
-            "src": "./assets/modern-coldwar-outbreak-main_quest_ravenov-projector_locations-sanatorium.webp",
-            "alt": "Sanatorium: projector location",
-            "caption": "Sanatorium: projector location",
-            "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
-            "source": "https://mmmrkennedy.com/games/BO_CW/outbreak/outbreak_CW_guide"
-          },
-          {
-            "src": "./assets/modern-coldwar-outbreak-main_quest_ravenov-projector_locations-zoo.webp",
-            "alt": "Zoo: projector location",
-            "caption": "Zoo: projector location",
-            "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
-            "source": "https://mmmrkennedy.com/games/BO_CW/outbreak/outbreak_CW_guide"
-          }
-        ]
-      },
-      {
-        "title": "Enter the silo and lift lockdown",
-        "body": "In Ruka, follow the quest marker to the Missile Silos elevator. Follow the route up Silo D into the central junction and down Silo A. Interact with the bottom-floor Lift the Lockdown console for Ravenov's scene. Enemies now spawn continuously; killing the wave will not create a permanently safe puzzle break."
-      },
-      {
-        "title": "Key one: defeat the red Mimic",
-        "body": "In the central junction, clear the disguised Mimics and go toward the dead-end Silo C hallway. Interact with the dead soldier's apparent key. Defeat the special red Mimic that appears and collect the actual ICBM Launch Key it drops."
-      },
-      {
-        "title": "Key two: catch the Aether monkey",
-        "body": "At the bottom of Silo A, take the Essence Trap from the red-lit circular side tunnel. Locate the blue-glowing vent by listening for the monkey. Throw the trap onto a wall close to its vent, back away and wait for the monkey to approach it. Double-tap Interact when it reaches the trap, then retrieve the captured monkey's key.",
-        "tip": "Approaching the monkey too closely scares it to another vent. Retrieve or recall the trap and try the new vent.",
+        "title": "Capture the vent monkey",
+        "body": "Listen around Silo A for the spectral monkey and look for a blue-glowing vent. Keep back. Throw the trap onto the floor beneath / near that vent, retreat, and wait for the monkey to jump onto it. Double-tap Interact, then collect the captured trap’s key.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/nnht2m/",
+        "tip": "A wall placement near the vent also works. If the monkey flees, locate its new vent, recover the trap and try again.",
         "images": [
           {
             "src": "./assets/modern-coldwar-outbreak-main_quest_ravenov-launch_keys-aether_monkey_vents.webp",
@@ -220,13 +106,33 @@
         ]
       },
       {
-        "title": "Key three: charge the canister",
-        "body": "At the bottom of Silo B, interact with the Aetherium Harvesting Unit. Break purple crystals throughout that silo and collect 20 dropped shards. Return to the unit, deposit the shards and wait through its processing sequence. Take the charged canister; preserve a charge for the jellyfish."
+        "title": "Collect 20 crystal chunks in B",
+        "body": "At Silo B’s lowest floor, activate the red Aetherium Harvesting Unit before collecting crystals. Shoot the purple crystals throughout B and pick up 20 dropped chunks. The count is shared by the squad; large crystals regenerate if you need more.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/nh5h3w/comment/gyvwu84/"
       },
       {
-        "title": "Ride into the jellyfish",
-        "body": "Carry the canister into Silo D and stand on the Aether-covered stairs / grass directly beside the giant jellyfish. Trigger the canister's blast with the Field Upgrade input. The jellyfish pulls you inside; collect the floating launch key.",
-        "tip": "If the pull does not happen, reposition on the pictured stairs before spending another charge.",
+        "title": "Fill and defend the unit",
+        "body": "Return to the harvesting unit and hold Interact to deposit the chunks. Fight the Tempests and other attackers during processing. Once the canister is ready, interact again to carry it; it replaces your Field Upgrade.",
+        "original": true,
+        "researchSource": "https://www.codzombieguides.com/outbreak",
+        "tip": "Keep at least one canister blast for the jellyfish. Do not spend every charge clearing enemies.",
+        "images": [
+          {
+            "src": "./assets/batch10-outbreak-charged-canister.webp",
+            "alt": "Charged canister equipped, Silo B (2021).",
+            "caption": "Charged canister equipped, Silo B (2021).",
+            "credit": "Gameplay / annotation: MrRoflWaffles; Black Ops Cold War © Activision / Treyarch.",
+            "source": "https://www.youtube.com/watch?v=5-_C_GBHT_4&t=940s"
+          }
+        ]
+      },
+      {
+        "title": "Take the jellyfish key in D",
+        "body": "Carry the canister to Silo D. Stand on the Aether-covered grassy stairs beside the giant jellyfish and use the Field Upgrade input to blast it. Let the pull carry you inside, then interact with the floating launch key.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/nh5h3w/comment/gyvwu84/",
+        "tip": "Use the pictured stairs before spending a charge. If you miss the pull, reposition while a charge remains.",
         "images": [
           {
             "src": "./assets/modern-coldwar-outbreak-main_quest_ravenov-launch_keys-stand_here.webp",
@@ -238,9 +144,17 @@
         ]
       },
       {
-        "title": "Read and enter the launch order",
-        "body": "Go to the launch terminals at the upper levels of A, B and D. Their three small indicator lights identify order: green in the left slot means first, middle means second, right means third. Activate the terminals in that sequence while the on-screen countdown runs; each successful input advances it. A rejected input or timeout resets the sequence, so wait for the terminals to recover and retry.",
-        "tip": "The order changes between matches. In co-op, station one player at each terminal before beginning.",
+        "title": "Restock before starting the keys",
+        "body": "Check that the HUD shows all three keys. Finish shopping now: Arsenal on A’s upper level, Pack-a-Punch on B’s upper level, Der Wunderfizz on D’s upper level and a Crafting Table in the upper connecting hub. Refill ammunition and armor before starting the launch sequence.",
+        "original": true,
+        "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=2959548389"
+      },
+      {
+        "title": "Read the three-light order",
+        "body": "At each upper-level launch console in A, B and D, inspect the small row of three indicator lights. Green on the left means first; green in the middle means second; green on the right means third. Write down your match’s silo order.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/blackopscoldwar/comments/nlybn4/",
+        "tip": "Do not copy a fixed A/B/D order from a video. The pictured right-hand green light means that console is third.",
         "images": [
           {
             "src": "./assets/modern-coldwar-outbreak-main_quest_ravenov-launch_keys-control_panel_three_lights.webp",
@@ -252,179 +166,384 @@
         ]
       },
       {
-        "title": "Prepare, then open the surface exit",
-        "body": "Refill armor, ammunition and equipment at the silo stations before using the marked stairs and surface door in the central junction. Opening the exit starts the nine-minute Legion finale; reach the arena promptly."
+        "title": "Insert the keys promptly",
+        "body": "Use the three consoles in the order you recorded, without stopping between them. In co-op, pre-position players and call out each accepted input. A wrong console or slow sequence gives a failure cue; wait until the prompts recover, then retry from the first console.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/o0ht32/",
+        "tip": "Follow the recorded order without stopping to shop. If an input fails, wait for the first console’s prompt to return before restarting."
       },
       {
-        "title": "Break Legion's chest, then destroy one orb",
-        "body": "Keep firing at the glowing armored chest until Legion kneels and three orbs appear around him. Concentrate damage on one exposed orb. Breaking it removes a third of his health. If the window closes, shoot his chest again to reopen it; ordinary chest damage alone cannot finish the fight."
+        "title": "Take the hub’s surface exit",
+        "body": "After the third accepted input, go straight to the upper central hub and climb its marked stairs. Interact with the exit door to reach the arena. The launch has already committed the finale; do not leave shopping until this transition.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=5-_C_GBHT_4&t=1025s",
+        "images": [
+          {
+            "src": "./assets/batch10-outbreak-legion-arena.webp",
+            "alt": "Legion arena: the active countdown (2021).",
+            "caption": "Legion arena: the active countdown (2021).",
+            "credit": "Gameplay / annotation: MrRoflWaffles; Black Ops Cold War © Activision / Treyarch.",
+            "source": "https://www.youtube.com/watch?v=5-_C_GBHT_4&t=1065s"
+          }
+        ]
       },
       {
-        "title": "Destroy the remaining two orbs before the timer ends",
-        "body": "Repeat the chest-break and orb-damage cycle twice more. Avoid the electrified ground zones and clear specials when they block your movement. Use your defensive Field Upgrade during an exposed-orb window so you can keep firing. Destroying all three orbs ends the encounter and plays the cutscene.",
-        "tip": "If the nine-minute timer expires, the quest fails. Prioritize a single orb each opening rather than splitting fire across all three."
+        "title": "Break the chest, focus one orb",
+        "body": "Shoot Legion’s glowing armored chest until it kneels and exposes three energy orbs. Concentrate fire on one orb; destroying it removes one-third of the health bar. If the damage window closes first, break the chest again for another opening.",
+        "original": true,
+        "researchSource": "https://tracker.gg/cold-war/articles/black-ops-cold-war-zombies-outbreak-main-quest-ravenov-implications-guide",
+        "images": [
+          {
+            "src": "./assets/batch10-outbreak-legion-orbs.webp",
+            "alt": "Firing at an exposed Legion orb (2021).",
+            "caption": "Firing at an exposed Legion orb (2021).",
+            "credit": "Gameplay / annotation: MrRoflWaffles; Black Ops Cold War © Activision / Treyarch.",
+            "source": "https://www.youtube.com/watch?v=5-_C_GBHT_4&t=1155s"
+          }
+        ]
+      },
+      {
+        "title": "Destroy all three before time expires",
+        "body": "Repeat the chest-break and single-orb cycle until all three orbs are destroyed. Watch the on-screen fight countdown; the documented combat window is nine minutes. Use cover, movement and your Field Upgrade to survive the horde while keeping damage on the exposed orb.",
+        "original": true,
+        "researchSource": "https://tracker.gg/cold-war/articles/black-ops-cold-war-zombies-outbreak-main-quest-ravenov-implications-guide"
       }
     ],
     "sources": [
       {
-        "title": "r/CODZombies: Outbreak launch keys, radio landmarks and Legion mechanics",
-        "url": "https://www.reddit.com/r/CODZombies/comments/nh5h3w/outbreak_easter_egg_hunt_general_map_discussion/"
+        "title": "u/chrisandy007: radio, Maxis call and projector discovery notes",
+        "url": "https://www.reddit.com/r/CODZombies/comments/nh5h3w/comment/gyvtnmd/"
       },
       {
-        "title": "Updated Detonated walkthrough: Ruka projector exclusion and nine-minute finale",
-        "url": "https://detonated.com/updated-2023-full-outbreak-legion-easter-egg-1-guide-cold-war-zombies/"
+        "title": "u/ArtieNL: bunker launch keys; early timing estimates are not treated as retail constants",
+        "url": "https://www.reddit.com/r/CODZombies/comments/nh5h3w/comment/gyvwu84/"
       },
       {
-        "title": "r/BlackOpsColdWar: launch-order indicator lights",
+        "title": "Ethan C / Cold War Tracker: Ravenov Implications quest, rewards and key mechanics",
+        "url": "https://tracker.gg/cold-war/articles/black-ops-cold-war-zombies-outbreak-main-quest-ravenov-implications-guide"
+      },
+      {
+        "title": "MrRoflWaffles: firsthand full route and original 2021 gameplay",
+        "url": "https://www.youtube.com/watch?v=5-_C_GBHT_4"
+      },
+      {
+        "title": "FIRUIN: bunker station layout, read before the shared Steam rate-limit stop",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2959548389"
+      },
+      {
+        "title": "JokerAlex 21: harvesting defense and illustrated quest route",
+        "url": "https://www.codzombieguides.com/outbreak"
+      },
+      {
+        "title": "Firsthand floor-trap placement and route discussion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/nnht2m/"
+      },
+      {
+        "title": "Launch-console green-light discovery and random order",
         "url": "https://www.reddit.com/r/blackopscoldwar/comments/nlybn4/"
       },
       {
-        "title": "mmmrkennedy: credited region maps and silo screenshots",
+        "title": "Failed launch-sequence cooldown reports",
+        "url": "https://www.reddit.com/r/CODZombies/comments/o0ht32/"
+      },
+      {
+        "title": "Completed-player corrections to the unique post-boss intel claim",
+        "url": "https://www.reddit.com/r/CODZombies/comments/niaezj/"
+      },
+      {
+        "title": "Private online versus offline quest-radio behavior",
+        "url": "https://www.reddit.com/r/CODZombies/comments/17sfqbj/"
+      },
+      {
+        "title": "Solo completion and defensive setup reports",
+        "url": "https://www.reddit.com/r/CODZombies/comments/nqf3gv/"
+      },
+      {
+        "title": "Treyarch: Endless versus the 3 Region playlist",
+        "url": "https://www.treyarch.com/game-intel/2021/08/Your_Guide_to_Season_Five"
+      },
+      {
+        "title": "Treyarch: June 17 silo / Legion tuning",
+        "url": "https://www.treyarch.com/game-intel/2021/06/Season_Four_Lands_June_17"
+      },
+      {
+        "title": "Treyarch: solo and up-to-four-player Outbreak",
+        "url": "https://www.treyarch.com/studio-culture/2021/02/Season_Two_Details_and_Patch_Notes"
+      },
+      {
+        "title": "Archived mmmrkennedy silo screenshots; local copies retained with original credit",
         "url": "https://mmmrkennedy.com/games/BO_CW/outbreak/outbreak_CW_guide"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-17",
+    "relatedGuideIds": [
+      "coldwar-outbreak-ravenov-field-locations",
+      "coldwar-outbreak-unknown-signal",
+      "coldwar-outbreak-intel-season-3-reloaded",
+      "coldwar-outbreak-the-pact",
+      "coldwar-outbreak-operation-excision"
+    ]
   },
   {
     "id": "coldwar-outbreak-operation-excision",
     "mapId": "coldwar-outbreak",
-    "title": "Operation Excision: Ravenov and the Sanatorium rover",
+    "title": "Operation Excision: Sanatorium rover and Orda exfil",
     "category": "main",
     "difficulty": "Hard",
-    "players": "1–4 players",
-    "summary": "The second Outbreak quest uses a chain of red rifts and a night-time rover escort, ending with an Orda extraction fight.",
+    "players": "1–4 players; solo supported",
+    "summary": "Follow the red rifts, rebuild Sanatorium’s rover, escort it to the scientists and survive Orda’s extraction.",
     "requirements": [
-      "Standard Outbreak with story quests enabled; reach region difficulty 3 or higher",
-      "Enter the red rift chain before warping away from that region",
-      "Finish weapon, perk and armor preparation before starting the Sanatorium rover escort"
+      "Original Black Ops Cold War, online Standard Outbreak → Endless. The 3 Region playlist ends before this route can reach its quest destination.",
+      "Begin at region difficulty 3 or later. If the starting region is Sanatorium, complete its ordinary objective and warp to another region for the first red rift.",
+      "This is a separate main quest; defeating Legion first is not a prerequisite. Follow Ravenov’s Respond call for this route.",
+      "Recommended before activating the bridge rover: upgraded weapons / rarity, full ammunition and armor, perks, a Self-Revive and suitable support. The protected escort commits the finale.",
+      "Do not start a different main-quest contact while following this route. Read the Armada swimming exception before entering its red rift."
     ],
-    "reward": "Second Outbreak quest completion and Mauer der Toten prelude cutscene",
+    "reward": "Entrapment Dark Ops calling card / XP and the ending cinematic that leads into Mauer der Toten; this is another story-quest completion counted by The Pact.",
     "steps": [
       {
-        "title": "Find a red quest rift on difficulty 3",
-        "body": "Look for the red rift at Ruka's Old Farm, Duga's northern crafting area, Alpine's Dead Man's Cliff, Golova's church roof or the cave in Zoo's Wolf Exhibit. Armada and Collateral have their own positions in the attached maps. Sanatorium is the quest destination rather than a starting-rift region.",
-        "tip": "Do this before warping and before committing to a different main quest.",
+        "title": "Find your region’s red rift",
+        "body": "At difficulty 3 or later, use the linked regional rift checklist. The red quest rift is different from ordinary purple boundary rifts. Sanatorium has no starting red rift; try a later region if you begin there.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/o21gy7/outbreak_easter_egg_hunt_2_general_map_discussion/",
+        "tip": "Do the rift chain before the ordinary objective to keep the route in the demonstrated order."
+      },
+      {
+        "title": "Land maps: pass three sky rifts",
+        "body": "Enter the ground rift. Glide through three more red rifts, re-opening your parachute after each teleport. Scan ahead and below for the next target: four rifts total.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=va8o1wtlq5c&t=65s"
+      },
+      {
+        "title": "Armada: swim through the chain",
+        "body": "Armada’s entry and follow-up rifts are underwater. Enter at Capsized and swim toward each next red rift after the teleports. Follow the underwater route in the Step reference; do not search the sky for parachute targets on this region.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=FVED__GSLmY&t=150s",
         "images": [
           {
-            "src": "./assets/modern-coldwar-outbreak-main_quest_operation-red_rift_locations-alpine.webp",
-            "alt": "Alpine: red quest rift",
-            "caption": "Alpine: red quest rift",
-            "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
-            "source": "https://mmmrkennedy.com/games/BO_CW/outbreak/outbreak_CW_guide"
-          },
-          {
-            "src": "./assets/modern-coldwar-outbreak-main_quest_operation-red_rift_locations-armada.webp",
-            "alt": "Armada: red quest rift",
-            "caption": "Armada: red quest rift",
-            "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
-            "source": "https://mmmrkennedy.com/games/BO_CW/outbreak/outbreak_CW_guide"
-          },
-          {
-            "src": "./assets/modern-coldwar-outbreak-main_quest_operation-red_rift_locations-collateral.webp",
-            "alt": "Collateral: red quest rift",
-            "caption": "Collateral: red quest rift",
-            "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
-            "source": "https://mmmrkennedy.com/games/BO_CW/outbreak/outbreak_CW_guide"
-          },
-          {
-            "src": "./assets/modern-coldwar-outbreak-main_quest_operation-red_rift_locations-duga.webp",
-            "alt": "Duga: red quest rift",
-            "caption": "Duga: red quest rift",
-            "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
-            "source": "https://mmmrkennedy.com/games/BO_CW/outbreak/outbreak_CW_guide"
-          },
-          {
-            "src": "./assets/modern-coldwar-outbreak-main_quest_operation-red_rift_locations-golova.webp",
-            "alt": "Golova: red quest rift",
-            "caption": "Golova: red quest rift",
-            "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
-            "source": "https://mmmrkennedy.com/games/BO_CW/outbreak/outbreak_CW_guide"
-          },
-          {
-            "src": "./assets/modern-coldwar-outbreak-main_quest_operation-red_rift_locations-ruka.webp",
-            "alt": "Ruka: red quest rift",
-            "caption": "Ruka: red quest rift",
-            "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
-            "source": "https://mmmrkennedy.com/games/BO_CW/outbreak/outbreak_CW_guide"
-          },
-          {
-            "src": "./assets/modern-coldwar-outbreak-main_quest_operation-red_rift_locations-zoo.webp",
-            "alt": "Zoo: red quest rift",
-            "caption": "Zoo: red quest rift",
-            "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
-            "source": "https://mmmrkennedy.com/games/BO_CW/outbreak/outbreak_CW_guide"
+            "src": "./assets/batch10-outbreak-armada-rift-chain.webp",
+            "alt": "Armada: underwater follow-up rift (2021).",
+            "caption": "Armada: underwater follow-up rift (2021).",
+            "credit": "Gameplay / annotation: MysteryHQ; Black Ops Cold War © Activision / Treyarch.",
+            "source": "https://www.youtube.com/watch?v=FVED__GSLmY&t=175s"
           }
         ]
       },
       {
-        "title": "Complete the airborne rift chain",
-        "body": "Enter the ground rift. Open your parachute immediately and fly through each red rift that appears in the air. Repeat the jumps until the last rift ejects a Beacon Listening Device marked by a yellow beam. Land at that beam and pick it up.",
-        "tip": "If you miss an airborne rift, return to the starting rift to retry the chain."
+        "title": "Collect the device or retry later",
+        "body": "After the final teleport, follow the falling object and its yellow vertical beam. Land / swim to it and pick up the Beacon Listening Device. If you miss a timed rift and the chain disappears, finish the region and retry in another non-Sanatorium region.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/p2nnzq/",
+        "tip": "A missing third sky rift can be lower and farther away than the first two. The yellow device beam confirms the full chain, not merely the first two airborne jumps."
       },
       {
-        "title": "Contact Ravenov and warp",
-        "body": "Finish the ordinary objective and use the beacon's new quest-call option. Listen to Ravenov, then warp. The quest directs you to night-time Sanatorium."
+        "title": "Respond to Ravenov, then warp",
+        "body": "Complete the ordinary objective, summon the beacon and select its telephone / Respond option. Finish Ravenov’s conversation before choosing Warp. The next region becomes night-time Sanatorium.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/o21gy7/outbreak_easter_egg_hunt_2_general_map_discussion/"
       },
       {
-        "title": "Secure the helicopter crash",
-        "body": "Go to Carved Hills in the southwest, near the crashed helicopter. Interact with the marked radio / body area and kill the enemies that attack. Once the site is secure, listen to its recording."
+        "title": "Approach the crashed helicopter",
+        "body": "Go to Carved Hills in Sanatorium’s southwest. Approach the smoking helicopter to trigger Secure Crash Site. Defeat the spawned zombies and specials; interacting with the recording comes after this defense.",
+        "original": true,
+        "researchSource": "https://tracker.gg/cold-war/articles/black-ops-cold-war-zombies-outbreak-main-quest-operation-excision-entrapment-guide",
+        "images": [
+          {
+            "src": "./assets/batch10-excision-crash-site.webp",
+            "alt": "Carved Hills crash defense (2021).",
+            "caption": "Carved Hills crash defense (2021).",
+            "credit": "Gameplay / annotation: MrDalekJD; Black Ops Cold War © Activision / Treyarch.",
+            "source": "https://www.youtube.com/watch?v=OM0ob3bMAMY&t=195s"
+          }
+        ]
       },
       {
-        "title": "Guide the red orb to the bridge",
-        "body": "Search Sanatorium's Administration building area, Bathing House / pool area and Maintenance Building for the red Aether orb. Stand on the side away from the bridge and shoot it toward the modified rover. Follow each movement and keep pushing it in that direction until it enters the rover.",
-        "tip": "Shoot from the appropriate side of the orb; careless shots can send it away from the bridge.",
+        "title": "Play the helicopter recording",
+        "body": "When the site is secure, interact with the Omega Audio Recording at the helicopter cabin / hanging soldier. Finish Dr. Yager’s message to advance to the modified-rover objective.",
+        "original": true,
+        "researchSource": "https://tracker.gg/cold-war/articles/black-ops-cold-war-zombies-outbreak-main-quest-operation-excision-entrapment-guide"
+      },
+      {
+        "title": "Check the three orb sites",
+        "body": "Look for the red orb at one of these sites:\n• Bathing House roof.\n• The main Sanatorium building’s swimming-pool room, near its Pack-a-Punch location.\n• Maintenance roof at the far northwestern end, north of Administration.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=va8o1wtlq5c&t=115s",
+        "tip": "Maintenance is the northern building, not an additional fourth Administration-room spawn.",
         "images": [
           {
             "src": "./assets/modern-coldwar-outbreak-main_quest_operation-red_orb_locs_map.webp",
-            "alt": "Sanatorium: red-orb candidate positions",
-            "caption": "Sanatorium: red-orb candidate positions",
+            "alt": "Sanatorium: three red-orb search markers",
+            "caption": "Archived map: three orb search markers.",
             "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
             "source": "https://mmmrkennedy.com/games/BO_CW/outbreak/outbreak_CW_guide"
           }
         ]
       },
       {
-        "title": "Release the bunny at the broken box",
-        "body": "Check the ordinary Mystery Box sites for a broken box with Mr. Peeks on top. Interact, then defeat the enemies surrounding the floating bunny. After the defense finishes, pick it up and take it to the modified rover on the bridge.",
-        "tip": "The box is a special broken box, not the active weapon-buy box.",
+        "title": "Leave the orb hovering over the rover",
+        "body": "From the side opposite the bridge, shoot the orb toward the rover. Follow its hops until it hovers above the cage. It will not enter yet; leave it there and find the bunny.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=va8o1wtlq5c&t=153s",
+        "tip": "Changing your shooting side stops it bouncing between the same positions.",
+        "images": [
+          {
+            "src": "./assets/batch10-excision-orb-above-rover.webp",
+            "alt": "Orb waiting above the rover (2021).",
+            "caption": "Orb waiting above the rover (2021).",
+            "credit": "Gameplay / annotation: MrDalekJD; Black Ops Cold War © Activision / Treyarch.",
+            "source": "https://www.youtube.com/watch?v=OM0ob3bMAMY&t=265s"
+          }
+        ]
+      },
+      {
+        "title": "Find the broken bunny box",
+        "body": "Inspect the three Mystery Box sites:\n• Groundskeeping’s circular seating area near the Arsenal.\n• The roof of the main circular Sanatorium building.\n• Market Square / gas-station parking area in the southwest.\nFind the broken box with the blue bunny, not the live weapon-buy box.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/o21gy7/outbreak_easter_egg_hunt_2_general_map_discussion/",
         "images": [
           {
             "src": "./assets/modern-coldwar-outbreak-main_quest_operation-mystery_box_map.webp",
-            "alt": "Sanatorium: Mystery Box sites to inspect for the quest bunny",
-            "caption": "Sanatorium: Mystery Box sites to inspect for the quest bunny",
+            "alt": "Sanatorium: the three box-site search markers",
+            "caption": "Archived map: three bunny-box search markers.",
             "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
             "source": "https://mmmrkennedy.com/games/BO_CW/outbreak/outbreak_CW_guide"
           }
         ]
       },
       {
-        "title": "Prepare before inserting the bunny",
-        "body": "Purchase perks, upgrade and reload your guns, buy armor and craft useful support before placing the bunny into the rover. After insertion, listen to the radio and start the escort. You will not be able to return to normal map preparation during its final route."
+        "title": "Defend, then carry the bunny",
+        "body": "Interact with the bunny to start its defense. Clear the attackers until it returns and becomes collectible, then interact again to pick it up. Carry it to the bridge rover; the carried bunny replaces your Field Upgrade.",
+        "original": true,
+        "researchSource": "https://tracker.gg/cold-war/articles/black-ops-cold-war-zombies-outbreak-main-quest-operation-excision-entrapment-guide",
+        "images": [
+          {
+            "src": "./assets/batch10-excision-bunny-box.webp",
+            "alt": "Groundskeeping: bunny defense (2021).",
+            "caption": "Groundskeeping: bunny defense (2021).",
+            "credit": "Gameplay / annotation: MrDalekJD; Black Ops Cold War © Activision / Treyarch.",
+            "source": "https://www.youtube.com/watch?v=OM0ob3bMAMY&t=275s"
+          }
+        ]
       },
       {
-        "title": "Stay inside the moving protection bubble",
-        "body": "Escort the rover into the Aether-contaminated area while remaining inside its protective circle. Leaving that bubble causes heavy damage. Kill enemies ahead and beside the rover while keeping pace."
+        "title": "Fit the bunny and play the radio",
+        "body": "Place the bunny in the rover. The waiting orb combines with it and a recording appears. Interact with that radio and let the message finish. The rover then offers the separate activation prompt.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/o21gy7/outbreak_easter_egg_hunt_2_general_map_discussion/"
       },
       {
-        "title": "Listen to the rooftop recording",
-        "body": "At the destination, follow the objective up to the rooftop and play the final recording. Wait for the extraction marker, then move toward it with the squad."
+        "title": "Prepare before activating the rover",
+        "body": "Finish weapon upgrades, perks, armor and crafting. Reload and refill ammunition, then activate the rover when the squad is ready.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=OM0ob3bMAMY&t=330s",
+        "tip": "A Chopper Gunner can help at exfil; Orda damage varies."
       },
       {
-        "title": "Clear Orda and board extraction",
-        "body": "At the exfil area, kill the marked horde and Orda before the extraction timer ends. Shoot Orda's exposed glowing head / mouth while it attacks and keep space from its melee. Once the landing zone is clear, interact with the helicopter to finish the quest."
+        "title": "Escort inside the bubble",
+        "body": "Activate the rover and fight attackers from inside its moving protection bubble. Leaving it causes Aether contamination damage. Keep the squad close across the bridge toward Monument Walk.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=va8o1wtlq5c&t=223s",
+        "images": [
+          {
+            "src": "./assets/batch10-excision-rover-bubble.webp",
+            "alt": "Bridge escort inside the bubble (2021).",
+            "caption": "Bridge escort inside the bubble (2021).",
+            "credit": "Gameplay / annotation: MrDalekJD; Black Ops Cold War © Activision / Treyarch.",
+            "source": "https://www.youtube.com/watch?v=OM0ob3bMAMY&t=365s"
+          }
+        ]
+      },
+      {
+        "title": "Reach the scientists and recording",
+        "body": "At Monument Walk, refill ammunition and follow the objective upstairs. Collect any missing document by the scientists, then play the rooftop recording.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=OM0ob3bMAMY&t=390s",
+        "images": [
+          {
+            "src": "./assets/batch10-excision-scientists-rooftop.webp",
+            "alt": "Monument: scientists and recording (2021).",
+            "caption": "Monument: scientists and recording (2021).",
+            "credit": "Gameplay / annotation: MrDalekJD; Black Ops Cold War © Activision / Treyarch.",
+            "source": "https://www.youtube.com/watch?v=OM0ob3bMAMY&t=405s"
+          }
+        ],
+        "tip": "The quest’s document is Aetherium Neutralizer Blueprint. Check the linked Season 4 intel checklist for account tracking."
+      },
+      {
+        "title": "Clear the six-minute Orda exfil",
+        "body": "When the story dialogue finishes, follow the extraction marker to East Gardens. Clear every required enemy, including Orda, within the six-minute exfil clock. Keep moving to avoid its close-range attacks and use your prepared weapons / support.",
+        "original": true,
+        "researchSource": "https://tracker.gg/cold-war/articles/black-ops-cold-war-zombies-outbreak-main-quest-operation-excision-entrapment-guide",
+        "images": [
+          {
+            "src": "./assets/batch10-excision-orda-exfil.webp",
+            "alt": "East Gardens: Orda exfil (2021).",
+            "caption": "East Gardens: Orda exfil (2021).",
+            "credit": "Gameplay / annotation: MrDalekJD; Black Ops Cold War © Activision / Treyarch.",
+            "source": "https://www.youtube.com/watch?v=OM0ob3bMAMY&t=435s"
+          }
+        ]
+      },
+      {
+        "title": "Board the helicopter",
+        "body": "When the landing zone is cleared and extraction is available, interact with the helicopter before the timer expires. The ending cinematic completes Operation Excision. Check the Entrapment Dark Ops entry afterward; a notification can lag behind completion.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/o21gy7/outbreak_easter_egg_hunt_2_general_map_discussion/"
       }
     ],
     "sources": [
       {
-        "title": "r/CODZombies: Operation Excision rifts, orb, bunny and escort",
+        "title": "Firsthand Excision hunt: rifts, sites, orb direction, bunny and completion reports",
         "url": "https://www.reddit.com/r/CODZombies/comments/o21gy7/outbreak_easter_egg_hunt_2_general_map_discussion/"
       },
       {
-        "title": "mmmrkennedy: credited red-rift, orb and box maps",
+        "title": "Ethan C / Cold War Tracker: Excision interactions, carried bunny, six-minute exfil and reward",
+        "url": "https://tracker.gg/cold-war/articles/black-ops-cold-war-zombies-outbreak-main-quest-operation-excision-entrapment-guide"
+      },
+      {
+        "title": "MrRoflWaffles: firsthand Excision demonstration",
+        "url": "https://www.youtube.com/watch?v=va8o1wtlq5c"
+      },
+      {
+        "title": "MrDalekJD: firsthand Excision route and 2021 gameplay",
+        "url": "https://www.youtube.com/watch?v=OM0ob3bMAMY"
+      },
+      {
+        "title": "MysteryHQ: Armada’s underwater entry and follow-up rifts",
+        "url": "https://www.youtube.com/watch?v=FVED__GSLmY"
+      },
+      {
+        "title": "Missed-rift recovery and completed retry in a later region",
+        "url": "https://www.reddit.com/r/CODZombies/comments/p2nnzq/"
+      },
+      {
+        "title": "Treyarch: Endless versus the 3 Region playlist",
+        "url": "https://www.treyarch.com/game-intel/2021/08/Your_Guide_to_Season_Five"
+      },
+      {
+        "title": "Treyarch: Operation Excision launch and Mauer der Toten prologue",
+        "url": "https://www.treyarch.com/game-intel/2021/06/Season_Four_Lands_June_17"
+      },
+      {
+        "title": "Treyarch: Outbreak Orda support-weapon damage tuning",
+        "url": "https://www.treyarch.com/game-intel/2021/05/May_24_2021_Patch_Notes"
+      },
+      {
+        "title": "u/Ricerat477: Operation Excision quest documents and audio-log inventory",
+        "url": "https://www.reddit.com/r/CODZombies/comments/o1av1a/"
+      },
+      {
+        "title": "Archived mmmrkennedy orb / box diagrams; local copies retained with original credit",
         "url": "https://mmmrkennedy.com/games/BO_CW/outbreak/outbreak_CW_guide"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-17",
+    "relatedGuideIds": [
+      "coldwar-outbreak-excision-rift-locations",
+      "coldwar-outbreak-intel-season-4",
+      "coldwar-outbreak-the-pact",
+      "coldwar-outbreak-legion-main"
+    ]
   },
   {
     "id": "coldwar-outbreak-the-pact",

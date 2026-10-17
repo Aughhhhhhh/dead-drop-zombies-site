@@ -7276,5 +7276,359 @@
       "bo2-buried-ordinary-pack-a-punch-inventory"
     ],
     "checked": "2026-10-17"
+  },
+  {
+    "id": "bo2-origins-ordinary-pack-a-punch-inventory",
+    "mapId": "bo2-origins",
+    "title": "Origins — firearm upgrades & re-Pack reference",
+    "category": "weapon",
+    "difficulty": "Easy",
+    "players": "1–4",
+    "summary": "The documented starter, eight wall variants and twenty ordinary Box variants, including attached Box guns and dig alternatives. Compact upgrade notes, re-Pack cautions and three original-era gameplay photos.",
+    "requirements": [
+      "Use the original Black Ops II Apocalypse version of Origins Standard.",
+      "Keep all six generators powered and reach the machine on top of Excavation.",
+      "Normal prices: 5,000 for a first upgrade; 2,000 for a supported attachment re-Pack. Listed wall prices buy the base gun.",
+      "Ammo figures mean loaded/reserve; a dual-pistol magazine count is per hand. Damage thresholds, reload timings and every attachment outcome are outside this reference.",
+      "The 750-point B23R/Remington prices refer to Solo Game. A one-person co-op/private lobby may retain co-op pricing; check the prompt.",
+      "Dig rewards are random. Keep your Mauser if you want a reliable starting-pistol upgrade rather than waiting to dig another one."
+    ],
+    "reward": "Your selected firearm upgrade or changed attachment. This inventory has no separate completion reward.",
+    "steps": [
+      {
+        "title": "Keep all six generators running",
+        "body": "Power all six generators, then climb to Pack-a-Punch at the top of Excavation. If a generator is captured, restore it before trying to upgrade. The linked power card lists the six locations.",
+        "original": true,
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/266.html"
+      },
+      {
+        "title": "First upgrade: 5,000 points",
+        "body": "Hold the gun you want to improve, pay 5,000 at the machine and collect the returned weapon before it retracts. Preserve your Mauser if you want Boomhilda.",
+        "original": true,
+        "researchSource": "https://github.com/JezuzLizard/Recompilable-gscs-for-BO2-zombies-and-multiplayer/blob/d02a9efd4382689180aaadcb609452babf5dc4c8/ZM/Core/maps/mp/zombies/_zm_perks.gsc"
+      },
+      {
+        "title": "Starter / dig: Mauser C96 → Boomhilda",
+        "body": "Keep the starter or recover a Mauser from a dig. Upgrade for a scope, single energy shots and 50/100 ammunition. It stays one semi-automatic pistol.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=8RLmoWJlR6A&t=10s",
+        "images": [
+          {
+            "src": "./assets/classic-batch14-origins-boomhilda.webp",
+            "alt": "Boomhilda’s blue Mauser model, added scope and 50/100 ammunition in original Origins.",
+            "caption": "Original BO2 starting-pistol upgrade: one scoped Boomhilda with 50/100.",
+            "source": "https://www.youtube.com/watch?v=8RLmoWJlR6A&t=10s",
+            "credit": "TheRelaxingEnd / Activision-Treyarch — original 2013 BO2 gameplay"
+          }
+        ]
+      },
+      {
+        "title": "Wall: M14 → Mnesia",
+        "body": "500; spawn Laboratory. Upgrade gives 16/192 ammunition and a grip.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=D8DNjuVyFnA&t=100s"
+      },
+      {
+        "title": "Wall / dig: Ballista → Infused Arbalest",
+        "body": "500; spawn Laboratory. The iron-sight rifle gains an optic and 10/120 ammunition. Re-Pack can change its sight.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=D8DNjuVyFnA&t=11s"
+      },
+      {
+        "title": "Wall: Five-seven → Ultra",
+        "body": "1,100; Workshop upstairs. Upgrade keeps semi-automatic fire with 20/200 ammunition. Re-Pack can add Fast Mag.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=D8DNjuVyFnA&t=208s"
+      },
+      {
+        "title": "Wall: B23R → B34R",
+        "body": "750 in Solo Game; 1,000 co-op. Look in the Generator 3 trench or beneath the Church by the tank. Upgrade turns bursts into automatic fire with 20/180 ammunition.",
+        "original": true,
+        "researchSource": "https://github.com/JezuzLizard/Recompilable-gscs-for-BO2-zombies-and-multiplayer/blob/d02a9efd4382689180aaadcb609452babf5dc4c8/ZM/Maps/Origins/maps/mp/zm_tomb_utility.gsc#L1437"
+      },
+      {
+        "title": "Wall / dig: Remington 870 MCS → Refitted-870 Mechanical Cranium Sequencer",
+        "body": "750 in Solo Game; 900 co-op. Use the Generator 2 trench or Generator 6 mount. Upgrade gives faster pumping and 10/70 ammunition; keep shells topped up.",
+        "original": true,
+        "researchSource": "https://github.com/JezuzLizard/Recompilable-gscs-for-BO2-zombies-and-multiplayer/blob/d02a9efd4382689180aaadcb609452babf5dc4c8/ZM/Maps/Origins/maps/mp/zm_tomb_utility.gsc#L1437"
+      },
+      {
+        "title": "Wall / golden dig: AK74u → AK74FU2",
+        "body": "1,200; Generator 3 or Excavation by Pack-a-Punch. Upgrade adds a Reflex Sight and 40/280 ammunition. A matching outline also exists in the Crazy Place.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=D8DNjuVyFnA&t=66s"
+      },
+      {
+        "title": "Wall / golden dig: MP40 → The Afterburner",
+        "body": "1,300; Tank Station/Generator 2 or No Man’s Land by Excavation/Generator 4. Upgrade gives 64/256 ammunition. This wall version has no Adjustable Stock.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=D8DNjuVyFnA&t=43s",
+        "images": [
+          {
+            "src": "./assets/classic-batch14-origins-afterburner.webp",
+            "alt": "The Afterburner HUD name, 64/256 ammunition and original Origins blue camouflage.",
+            "caption": "Original BO2 MP40 upgrade: The Afterburner, shown with 64/256.",
+            "source": "https://www.youtube.com/watch?v=D8DNjuVyFnA&t=56s",
+            "credit": "Mordey Gaming / HDMordey / Activision-Treyarch — original 2013 BO2 gameplay"
+          }
+        ]
+      },
+      {
+        "title": "Wall / golden dig: STG-44 → Spatz-447+",
+        "body": "1,400; Church. Another mount is in the Crazy Place. Upgrade doubles the magazine to 60 rounds; plan a matching-wall refill route.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=ip-dLb2W-vw&t=111s"
+      },
+      {
+        "title": "Mystery Box: power its nearby generator",
+        "body": "Find the active Box’s blue beam; the starting location is at Generator 2 or 3. Its nearby generator must be powered. A normal spin costs 950; a Fire Sale spin costs 10. Take the offered gun before it disappears.",
+        "original": true,
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/266.html"
+      },
+      {
+        "title": "Box: Five-seven Dual Wield → Ultra & Violet",
+        "body": "Twenty rounds per pistol after upgrading. They remain semi-automatic and hip-fired; this is a separate variant from the Workshop wall pistol.",
+        "original": true,
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/41.html"
+      },
+      {
+        "title": "Box: B23R Extended Clip → B34R",
+        "body": "The Box version starts with a 24-round magazine and upgrades to a 30-round automatic B34R. Its larger magazine is distinct from the wall version.",
+        "original": true,
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/41.html",
+        "tip": "This variant’s attachment re-Pack eligibility remains unverified here. Check for a 2,000-point machine prompt; do not assume the wall B23R’s attachment menu."
+      },
+      {
+        "title": "Box: KAP-40 → Karmic Atom Perforator 4000",
+        "body": "Remains automatic, with 15/180 ammunition after upgrading. Attachment re-Pack is documented; do not expect dual pistols.",
+        "original": true,
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/41.html"
+      },
+      {
+        "title": "Box: Python → Cobra",
+        "body": "Upgrade gives 12/96 ammunition and a speedloader for its cylinder.",
+        "original": true,
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/41.html"
+      },
+      {
+        "title": "Box: Chicom CQB → Chicom Cataclysmic Quadruple Burst",
+        "body": "Upgrade changes three-round bursts to four, with 40/200 ammunition. Re-Pack can add Select Fire; switch firing mode to use automatic fire.",
+        "original": true,
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/40.html"
+      },
+      {
+        "title": "Box: AK74u Extended Clip → AK74FU2",
+        "body": "The Box variant upgrades to 50/300 ammunition and a Reflex Sight. It retains a larger magazine than the wall AK74u; use its matching wall mount for resupply.",
+        "original": true,
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/40.html"
+      },
+      {
+        "title": "Box: MP40 Adjustable Stock → The Afterburner",
+        "body": "Upgrade retains the stock’s faster aimed movement, with 64/256 ammunition. Matching MP40 wall mounts supply ammunition without removing the stock.",
+        "original": true,
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/40.html"
+      },
+      {
+        "title": "Box: PDW-57 → Predictive Death Wish 57000",
+        "body": "50/350 ammunition after upgrading. Attachment re-Pack can change the sight.",
+        "original": true,
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/40.html"
+      },
+      {
+        "title": "Box: Skorpion EVO → Evolved Death Stalker",
+        "body": "Upgrade adds a Reflex Sight and 40/320 ammunition. Its high fire rate consumes reserves quickly; attachment re-Pack is available.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=ip-dLb2W-vw&t=153s"
+      },
+      {
+        "title": "Box: M1927 → Speakeasy",
+        "body": "Upgrade gives 50/400 ammunition. On BO2 Origins this is a Box gun; plan ammunition around drops rather than a Thompson wall mount.",
+        "original": true,
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/40.html"
+      },
+      {
+        "title": "Box: FAL → WN",
+        "body": "Upgrade changes semi-automatic fire to three-round bursts, adds a Reflex Sight and gives 30/360 ammunition.",
+        "original": true,
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/40.html"
+      },
+      {
+        "title": "Box: Type 25 → Strain 25",
+        "body": "Upgrade gives 30/270 ammunition, Fast Mag and a Reflex Sight. Re-Pack can change its attachments.",
+        "original": true,
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/40.html"
+      },
+      {
+        "title": "Box: SCAR-H → Agarthan Reaper",
+        "body": "Upgrade gives a Reflex Sight and 40/440 ammunition. Re-Pack can change its sight or add Fast Mag.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=ip-dLb2W-vw&t=135s",
+        "images": [
+          {
+            "src": "./assets/classic-batch14-origins-agarthan-reaper.webp",
+            "alt": "Agarthan Reaper firing through a Reflex Sight in original BO2 Origins.",
+            "caption": "SCAR-H upgrade with its Reflex Sight; the creator’s weapon-name overlay is retained.",
+            "source": "https://www.youtube.com/watch?v=ip-dLb2W-vw&t=148s",
+            "credit": "Mordey Gaming / HDMordey / Activision-Treyarch — original 2013 BO2 gameplay"
+          }
+        ]
+      },
+      {
+        "title": "Box: Galil → Lamentation",
+        "body": "Upgrade adds a Reflex Sight and raises reserves to 490, with 35 rounds loaded.",
+        "original": true,
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/42.html"
+      },
+      {
+        "title": "Box / dig: M1216 → Mesmerizer",
+        "body": "24/72 ammunition after upgrading; the magazine rotates after six shots instead of four. Leave room for that pause between groups.",
+        "original": true,
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/42.html"
+      },
+      {
+        "title": "Box / golden dig: KSG → Mist Maker",
+        "body": "Its aimed slugs gain a Reflex Sight and 28/84 ammunition. Upgraded reload actions insert two shells; aim carefully rather than relying on pellet spread.",
+        "original": true,
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/42.html"
+      },
+      {
+        "title": "Box / dig: DSR 50 → Dead Specimen Reactor 5000",
+        "body": "Upgrade gives 8/96 ammunition and variable zoom. Re-Pack can provide iron sights or a suppressor; choose the sight that suits your route.",
+        "original": true,
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/42.html"
+      },
+      {
+        "title": "Box: HAMR → SLDG HAMR",
+        "body": "125/625 ammunition after upgrading. Attachment re-Pack is documented; leave space to reload the drum.",
+        "original": true,
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/42.html",
+        "tip": "Origins’ exact attachment options remain unverified here; check the result rather than budgeting for a particular grip or sight."
+      },
+      {
+        "title": "Box: MG08/15 → Magna Collider",
+        "body": "Upgrade gives 100/600 ammunition. The separate four-disc Maxis Drone reward offers an already-upgraded Magna Collider; use its companion card for that route.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=ip-dLb2W-vw&t=8s"
+      },
+      {
+        "title": "Box: War Machine → Dystopic Demolisher",
+        "body": "Upgrade gives 6/48 ammunition, impact explosions and whole-cylinder reloads. Keep blasts away from yourself and nearby walls.",
+        "original": true,
+        "researchSource": "https://w.atwiki.jp/blackops2_cod/pages/41.html"
+      },
+      {
+        "title": "Digging: use the actual BO2 firearm pools",
+        "body": "With a shovel, ordinary digs can give Mauser, Ballista or Remington 870 from the common pool, or DSR 50/M1216 from the rarer pool. After your thirtieth dig grants the Golden Shovel, the rare pool adds AK74u, MP40, STG-44 and KSG. Weapons remain random.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/1vr8lve/",
+        "tip": "Neither Ray Gun is in the ordinary dig weapon pool. Claymores are also possible with the Golden Shovel, but are equipment rather than another firearm."
+      },
+      {
+        "title": "Free upgraded rifles: use the reward companions",
+        "body": "The 115 normal-zombie-headshot challenge offers an upgraded SCAR-H, Galil or STG-44. Use Rituals of the Ancients for the claim process. The four-disc Maxis Drone reward has its own Magna Collider guide.",
+        "original": true,
+        "researchSource": "https://github.com/JezuzLizard/Recompilable-gscs-for-BO2-zombies-and-multiplayer/blob/d02a9efd4382689180aaadcb609452babf5dc4c8/ZM/Maps/Origins/maps/mp/zm_tomb_challenges.gsc#L197"
+      },
+      {
+        "title": "Re-Pack: attachments cost 2,000",
+        "body": "Return an eligible upgraded gun to the machine for 2,000, then reclaim it and check its attachment. This changes attachments rather than adding another general damage tier or filling ammunition.",
+        "original": true,
+        "researchSource": "https://github.com/JezuzLizard/Recompilable-gscs-for-BO2-zombies-and-multiplayer/blob/d02a9efd4382689180aaadcb609452babf5dc4c8/ZM/Core/maps/mp/zombies/_zm_perks.gsc#L580",
+        "tip": "Do not budget a fixed number of attempts for a preferred attachment. Repeated options can occur; keep enough ammunition for the return journey."
+      },
+      {
+        "title": "Re-Pack: documented options in this roster",
+        "body": "Ballista; B23R wall version; Five-seven single; Remington 870 MCS; KAP-40; Chicom CQB; PDW-57; Skorpion EVO; Type 25; SCAR-H; M1216; DSR 50; HAMR. See the separate Box B23R note before applying this list to Extended Clip.",
+        "original": true,
+        "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=337295807",
+        "tip": "Some exact Origins attachment combinations remain unverified, particularly the Box B23R. Check the machine prompt before budgeting another cycle."
+      },
+      {
+        "title": "Wall ammunition: return with the matching gun",
+        "body": "Equip your upgraded wall gun at its matching outline; the normal refill costs 4,500. The Box’s attached AK74u, B23R and MP40 share their corresponding wall ammunition. Check the displayed price before buying.",
+        "original": true,
+        "researchSource": "https://github.com/JezuzLizard/Recompilable-gscs-for-BO2-zombies-and-multiplayer/blob/d02a9efd4382689180aaadcb609452babf5dc4c8/ZM/Core/maps/mp/zombies/_zm_weapons.gsc#L1563"
+      },
+      {
+        "title": "Keep edition and Wonder Weapon rules separate",
+        "body": "Use the staff companions for elemental quest upgrades. Ray Guns are outside this ordinary firearm list; Mark II’s standard BO2 availability requires Vengeance content. BO3 Chronicles and custom clients have different pools or attachment rules.",
+        "original": true,
+        "researchSource": "https://investor.activision.com/news-releases/news-release-details/new-call-dutyr-black-ops-ii-downloadable-content-arrives"
+      }
+    ],
+    "relatedGuideIds": [
+      "bo2-origins-community-origins-walkthrough-power",
+      "bo2-origins-community-origins-walkthrough-pack-a-punch",
+      "bo2-origins-community-origins-walkthrough-shovel",
+      "bo2-origins-community-origins-easter-eggs-free-magna-collider-pap-mg08-15",
+      "bo2-origins-rituals-of-the-ancients",
+      "bo2-origins-fire-staff",
+      "bo2-origins-ice-staff",
+      "bo2-origins-wind-staff",
+      "bo2-origins-lightning-staff"
+    ],
+    "sources": [
+      {
+        "title": "BO2 atwiki — Origins roster, wall mounts and generators",
+        "url": "https://w.atwiki.jp/blackops2_cod/pages/266.html"
+      },
+      {
+        "title": "BO2 atwiki — map-annotated firearm upgrades",
+        "url": "https://w.atwiki.jp/blackops2_cod/pages/40.html"
+      },
+      {
+        "title": "BO2 atwiki — pistol and launcher upgrades",
+        "url": "https://w.atwiki.jp/blackops2_cod/pages/41.html"
+      },
+      {
+        "title": "BO2 atwiki — combined weapon reference",
+        "url": "https://w.atwiki.jp/blackops2_cod/pages/42.html"
+      },
+      {
+        "title": "Mordey Gaming — original 30 August 2013 wall-gun upgrades",
+        "url": "https://www.youtube.com/watch?v=D8DNjuVyFnA"
+      },
+      {
+        "title": "Mordey Gaming — original 29 August 2013 exclusive-gun upgrades",
+        "url": "https://www.youtube.com/watch?v=ip-dLb2W-vw"
+      },
+      {
+        "title": "TheRelaxingEnd — original 27 August 2013 Mauser / Boomhilda",
+        "url": "https://www.youtube.com/watch?v=8RLmoWJlR6A"
+      },
+      {
+        "title": "Hadi77KSA — edition-specific dig rewards from code analysis",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1vr8lve/"
+      },
+      {
+        "title": "Pinned decompiled BO2 Origins archive — weapon registration and Box flags",
+        "url": "https://github.com/JezuzLizard/Recompilable-gscs-for-BO2-zombies-and-multiplayer/blob/d02a9efd4382689180aaadcb609452babf5dc4c8/ZM/Maps/Origins/maps/mp/zm_tomb.gsc"
+      },
+      {
+        "title": "Pinned BO2 map utility — Solo Game price adjustments",
+        "url": "https://github.com/JezuzLizard/Recompilable-gscs-for-BO2-zombies-and-multiplayer/blob/d02a9efd4382689180aaadcb609452babf5dc4c8/ZM/Maps/Origins/maps/mp/zm_tomb_utility.gsc"
+      },
+      {
+        "title": "Pinned BO2 weapon logic — shared wall ammunition and refill cost",
+        "url": "https://github.com/JezuzLizard/Recompilable-gscs-for-BO2-zombies-and-multiplayer/blob/d02a9efd4382689180aaadcb609452babf5dc4c8/ZM/Core/maps/mp/zombies/_zm_weapons.gsc"
+      },
+      {
+        "title": "Pinned BO2 machine logic — costs and ammunition preservation",
+        "url": "https://github.com/JezuzLizard/Recompilable-gscs-for-BO2-zombies-and-multiplayer/blob/d02a9efd4382689180aaadcb609452babf5dc4c8/ZM/Core/maps/mp/zombies/_zm_perks.gsc"
+      },
+      {
+        "title": "Pinned BO2 challenge logic — 115-headshot rifle choices",
+        "url": "https://github.com/JezuzLizard/Recompilable-gscs-for-BO2-zombies-and-multiplayer/blob/d02a9efd4382689180aaadcb609452babf5dc4c8/ZM/Maps/Origins/maps/mp/zm_tomb_challenges.gsc"
+      },
+      {
+        "title": "Firsthand BO2 Weapons and Attachments guide",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=337295807"
+      },
+      {
+        "title": "Activision — Vengeance and Ray Gun Mark II entitlement",
+        "url": "https://investor.activision.com/news-releases/news-release-details/new-call-dutyr-black-ops-ii-downloadable-content-arrives"
+      }
+    ],
+    "checked": "2026-10-17"
   }
 ]
