@@ -2327,56 +2327,134 @@
     "players": "2–4",
     "summary": "Complete Maxis's pylon quest with two or more players. You can move the same two turbines from the pylon to the lamps.",
     "requirements": [
-      "Normal difficulty",
-      "At least two players with Turbines",
-      "EMP Grenades from the Mystery Box",
-      "Power turned on once, then switched off",
-      "No starting-lobby player already has this map's Maxis completion saved; a returning helper can join after the match starts"
+      "Original BO2 TranZit (Standard), not isolated Survival, Grief, Turned or a custom/remaster map.",
+      "Original difficulty (not Easy).",
+      "At least two players, each with a Turbine; EMP Grenades from the Mystery Box.",
+      "Turn main power on once, then keep it off for Maxis’s pylon stages.",
+      "No starting-lobby player may already have this map’s Maxis side saved; a returning helper can join after the match starts."
     ],
     "reward": "Tower of Babble achievement and the orange/Maxis pylon completion record.",
     "steps": [
       {
         "title": "Build two fresh Turbines",
-        "body": "At Bus Depot, collect the mannequin by the map/sign, the fan on the seats and the model plane tail by the lockers. Add them to the spawn workbench. Have at least two players take a Turbine. Zombies can break them, so keep them packed away until needed. Get EMP Grenades from the Mystery Box; Monkey Bombs replace the EMP slot."
+        "body": "At Bus Depot, collect the mannequin by the map/sign, the fan on the seats and the model plane tail beneath the payphones. Add them to the spawn workbench. Have at least two players take a Turbine. Zombies can break them, so keep them packed away until needed. Get EMP Grenades from the Mystery Box; Monkey Bombs replace the EMP slot.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g5p307/",
+        "images": [
+          {
+            "src": "./assets/classic-batch9-tranzit-turbine-1.webp",
+            "alt": "Turbine mannequin beside the Bus Depot route map.",
+            "caption": "Turbine mannequin beside the Bus Depot route map.",
+            "source": "https://www.codzombieguides.com/tranzit",
+            "credit": "JokerAlex 21 / Activision — original BO2 map capture"
+          },
+          {
+            "src": "./assets/classic-batch9-tranzit-turbine-2.webp",
+            "alt": "Model-plane tail below the Bus Depot payphones.",
+            "caption": "Model-plane tail below the Bus Depot payphones.",
+            "source": "https://www.codzombieguides.com/tranzit",
+            "credit": "JokerAlex 21 / Activision — original BO2 map capture"
+          },
+          {
+            "src": "./assets/classic-batch9-tranzit-turbine-3.webp",
+            "alt": "Turbine fan on the seats near the workbench.",
+            "caption": "Turbine fan on the seats near the workbench.",
+            "source": "https://www.codzombieguides.com/tranzit",
+            "credit": "JokerAlex 21 / Activision — original BO2 map capture"
+          }
+        ]
       },
       {
         "title": "Release the Avogadro and shut down power",
-        "body": "Ride to the power stop and open the small outhouse leading underground. Build the power switch there from its panel, lever and zombie hand, all in the underground lab. Turn power on, listen to Maxis finish asking you to turn it off, then switch it off. His route needs power off while you perform the pylon stages. A NAV table or Navcard is not required."
+        "body": "Ride to the power stop and open the small outhouse leading underground. Build the power switch there from its panel, lever and zombie hand, all in the underground lab. Turn power on, listen to Maxis finish asking you to turn it off, then switch it off. His route needs power off while you perform the pylon stages. A NAV table or Navcard is not required.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=uFc-gff-6LY&t=394s"
       },
       {
         "title": "Find the pylon",
-        "body": "Travel into the cornfield between Farm and the power stop. Follow the cleared route through the corn to the large steel electricity pylon. It is separate from the Nacht der Untoten building in the cornfield. Gather the team and keep enough open space to lead the electrical Avogadro underneath the tower."
+        "body": "Travel into the cornfield between Farm and the power stop. Follow the cleared route through the corn to the large steel electricity pylon. It is separate from the Nacht der Untoten building in the cornfield. Gather the team and keep enough open space to lead the electrical Avogadro underneath the tower.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g5p307/",
+        "images": [
+          {
+            "src": "./assets/classic-batch9-tranzit-nav-table.webp",
+            "alt": "Fence beneath the cornfield pylon: NAV-table build location. The table is not needed for Tower of Babble.",
+            "caption": "Fence beneath the cornfield pylon: NAV-table build location. The table is not needed for Tower of Babble.",
+            "source": "https://www.codzombieguides.com/tranzit",
+            "credit": "JokerAlex 21 / Activision — original BO2 map capture"
+          }
+        ]
       },
       {
         "title": "Bring the electrical enemy underneath",
-        "body": "Wait for an Avogadro to spawn. Ending a round when the lightning storm is directly above the cornfield improves the chance of a nearby spawn, but a single round ending does not guarantee one. Lead the Avogadro beneath the pylon without knifing or killing it. When it stands upright/electrical and is underneath the tower, place two working Turbines beneath the pylon and wait for Maxis's instruction to kill it."
+        "body": "Wait for an Avogadro to spawn. Ending a round when the lightning storm is directly above the cornfield improves the chance of a nearby spawn, but a single round ending does not guarantee one. Lead the Avogadro beneath the pylon without knifing or killing it. When it stands upright/electrical and is underneath the tower, place two working Turbines beneath the pylon and wait for Maxis's instruction to kill it.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g5p307/"
       },
       {
         "title": "EMP the Avogadro while both Turbines work",
         "body": "Throw an EMP so it destroys the Avogadro under the tower while both Turbines are supplying enough power. Melee kills do not count for this quest step. Listen for Maxis confirming success and asking for more energy. An EMP disabling the Turbines at the same moment it kills the Avogadro is acceptable; an earlier missed EMP can disable them before the needed kill.",
-        "tip": "If Maxis complains that power has drained, let zombies destroy the exhausted Turbines and collect fresh ones at Bus Depot before retrying."
+        "tip": "If Maxis complains that power has drained, let zombies destroy the exhausted Turbines and collect fresh ones at Bus Depot before retrying.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g5p307/",
+        "images": [
+          {
+            "src": "./assets/classic-batch9-tranzit-emp.webp",
+            "alt": "EMP Grenades offered by the Diner Mystery Box.",
+            "caption": "EMP Grenades offered by the Diner Mystery Box.",
+            "source": "https://www.codzombieguides.com/tranzit",
+            "credit": "JokerAlex 21 / Activision — original BO2 map capture"
+          }
+        ]
       },
       {
         "title": "Move two Turbines to two different lamps",
-        "body": "After the successful Avogadro stage, pick up the Turbines. Put one beneath each of two different green streetlights around the map. Bus Depot and Diner are convenient because Denizens do not attack there. The two lamps need Turbines placed at the same time. You do not need to leave two additional Turbines under the pylon. The pylon lights orange and the achievement confirms completion.",
-        "tip": "If two lamp placements do nothing, the Avogadro capture stage likely did not register. Recheck its completion dialogue."
+        "body": "After Maxis confirms the Avogadro stage, collect the two Turbines and place one beneath each of two different green streetlights. Bus Depot and Diner avoid Denizen attacks. Two Turbines total suffice; none must remain at the pylon. Successful completion lights the tower orange and awards the achievement.",
+        "tip": "If two lamp placements do nothing, the Avogadro capture stage likely did not register. Recheck its completion dialogue.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g5p307/"
+      },
+      {
+        "title": "Retry with functioning Turbines",
+        "body": "Two Turbines must be functional by the time you throw an EMP at the Avogadro and both must have enough power. If you miss the Avogadro but hit some Turbines, you’ll need to place functional Turbines instead of the disabled ones or wait for them to start emitting power again before killing the Avogadro with an EMP. It’s fine if you disable the Turbines and get rid of the Avogadro with the same EMP.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g5p307/",
+        "tip": "If Maxis says portable power is drained, let zombies destroy the tired Turbine and fetch another. Lava/grenade destruction can preserve a weak replacement state.",
+        "html": "<p>Two Turbines must be functional by the time you throw an EMP at the Avogadro and both must have enough power. If you miss the Avogadro but hit some Turbines, you’ll need to place functional Turbines instead of the disabled ones or wait for them to start emitting power again before killing the Avogadro with an EMP. It’s fine if you disable the Turbines and get rid of the Avogadro with the same EMP.</p><p>— <a href=\"https://www.reddit.com/r/CODZombies/comments/g5p307/\" target=\"_blank\" rel=\"noopener noreferrer\">Hadi77KSA / r/CODZombies</a></p>"
       }
     ],
     "sources": [
       {
-        "title": "r/CODZombies — TranZit main quest",
+        "title": "r/CODZombies — TranZit map guide",
         "url": "https://www.reddit.com/r/CODZombies/wiki/tranzit/"
       },
       {
-        "title": "r/CODZombies — corrected turbine and EMP mechanics",
+        "title": "Hadi77KSA — firsthand BO2 quest clarifications",
         "url": "https://www.reddit.com/r/CODZombies/comments/g5p307/"
       },
       {
-        "title": "r/CODZombies — two-player Maxis confirmation",
+        "title": "Firsthand two-player Tower discussion",
         "url": "https://www.reddit.com/r/CODZombies/comments/tt2zkv/"
+      },
+      {
+        "title": "cmasupra — original 2012 complete building demonstration",
+        "url": "https://www.youtube.com/watch?v=uFc-gff-6LY"
+      },
+      {
+        "title": "Bonner Dupa — original BO2 achievement guide",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2448124567"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-16",
+    "sourceQuote": "https://www.reddit.com/r/CODZombies/comments/g5p307/",
+    "sharedSource": false,
+    "supplementNote": "The final troubleshooting excerpt is credited to Hadi77KSA. Other steps are original practical instructions; the pictured NAV table is only a pylon landmark, not a quest prerequisite.",
+    "relatedGuideIds": [
+      "bo2-tranzit-community-tranzit-map-walkthrough-power",
+      "bo2-tranzit-community-tranzit-special-weapons-special-grenades",
+      "bo2-tranzit-community-tranzit-special-weapons-buildables",
+      "bo2-tranzit-denizen-portals",
+      "bo2-tranzit-community-tranzit-easter-eggs-nav-card-and-nav-card-table"
+    ]
   },
   {
     "id": "bo2-tranzit-tower-of-babble-richtofen",
@@ -2387,60 +2465,147 @@
     "players": "2–4; 4 recommended",
     "summary": "Build and sacrifice the Jet Gun, feed explosive kills to the pylon, then EMP four lamps together. The four-player finish is the dependable route.",
     "requirements": [
-      "Normal difficulty",
-      "Power stays on",
-      "Jet Gun assembled in the Town bar",
-      "EMP Grenades: ideally one carrier at each of four lamps",
-      "Stuhlinger is recommended to hear Richtofen's directions",
-      "No starting-lobby player already has this map's Richtofen completion saved; returning helpers can join afterward"
+      "Original BO2 TranZit (Standard), not isolated Survival, Grief, Turned or a custom/remaster map.",
+      "Original difficulty (not Easy); main power stays on.",
+      "Jet Gun assembled at the Town bar.",
+      "For this guide: 2–4 players. Four EMP carriers at four lamps are simplest; the two-player method needs two EMPs each and portal luck.",
+      "Stuhlinger is recommended for Richtofen’s spoken confirmations, but is not required for the quest.",
+      "No starting-lobby player may already have this map’s Richtofen side saved; returning helpers can join after the match starts."
     ],
     "reward": "Tower of Babble achievement and the blue/Richtofen pylon completion record.",
     "steps": [
       {
         "title": "Power and map access",
-        "body": "Build a Turbine at Bus Depot from the mannequin, fan and model plane tail. Reach the power stop, enter the outhouse and assemble the switch using the lab's panel, lever and zombie hand. Turn on power and keep it on despite Maxis's request. Stuhlinger hears Richtofen; have that player call out quest confirmations. A NAV table and inserted Navcard are not needed."
+        "body": "Build a Turbine at Bus Depot from the mannequin, fan and model plane tail. Reach the power stop, enter the outhouse and assemble the switch using the lab's panel, lever and zombie hand. Turn on power and keep it on despite Maxis's request. Stuhlinger hears Richtofen; have that player call out quest confirmations. A NAV table and inserted Navcard are not needed.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g5p307/"
       },
       {
         "title": "Collect all four Jet Gun parts",
-        "body": "Carry each part to the Town bar workbench:\nJet engine: the road tunnel between Bus Depot and Diner; inspect the cars, windows and M16 wall-buy area.\nWires: the lower area after leaving the power laboratory, around Tombstone, the collapsed catwalk, electrical box and barrel.\nHandbrake: inside Nacht der Untoten in the cornfield; inspect the cabinet, stairs and lamp.\nPressure gauge: inside the hunter's cabin in the fog between the power stop and Town, near its fireplace or bed.\nOnly one buildable part can be carried at a time. Make sure the final part is picked up after power is on."
+        "body": "Build the Jet Gun at the Town bar bench. Collect the engine from the Bus Depot–Diner tunnel, wires from the lower Tombstone room, handbrake from Nacht in the cornfield, and gauge from the Power–Town hunter’s cabin. Install one part before carrying another. The Jet Gun companion supplies candidate locations and photos.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g5p307/",
+        "images": [
+          {
+            "src": "./assets/classic-batch9-tranzit-jet-1.webp",
+            "alt": "Jet-engine candidate on the road-tunnel floor.",
+            "caption": "Jet-engine candidate on the road-tunnel floor.",
+            "source": "https://www.codzombieguides.com/tranzit",
+            "credit": "JokerAlex 21 / Activision — original BO2 map capture"
+          },
+          {
+            "src": "./assets/classic-batch9-tranzit-jet-2.webp",
+            "alt": "Handbrake candidate on Nacht’s filing cabinet near the lamp.",
+            "caption": "Handbrake candidate on Nacht’s filing cabinet near the lamp.",
+            "source": "https://www.codzombieguides.com/tranzit",
+            "credit": "JokerAlex 21 / Activision — original BO2 map capture"
+          },
+          {
+            "src": "./assets/classic-batch9-tranzit-jet-3.webp",
+            "alt": "Pressure-gauge candidate on the cabin bed.",
+            "caption": "Pressure-gauge candidate on the cabin bed.",
+            "source": "https://www.codzombieguides.com/tranzit",
+            "credit": "JokerAlex 21 / Activision — original BO2 map capture"
+          },
+          {
+            "src": "./assets/classic-batch9-tranzit-jet-4.webp",
+            "alt": "Wire candidate below the power-station catwalk.",
+            "caption": "Wire candidate below the power-station catwalk.",
+            "source": "https://www.codzombieguides.com/tranzit",
+            "credit": "JokerAlex 21 / Activision — original BO2 map capture"
+          }
+        ]
       },
       {
         "title": "Destroy the Jet Gun under the tower",
-        "body": "Take the finished Jet Gun into the cornfield pylon clearing between Farm and power. Stand underneath the tower, allow the gun to cool fully, then fire continuously while facing upward until it breaks. The lamps begin flickering and Richtofen confirms the heat stage. Collecting parts or breaking it elsewhere is insufficient. If it fails, rebuild it, cool it and repeat under the tower."
+        "body": "Take the finished Jet Gun into the cornfield pylon clearing between Farm and power. Stand underneath the tower, allow the gun to cool fully, then fire continuously while facing upward until it breaks. The lamps begin flickering and Richtofen confirms the heat stage. Collecting parts or breaking it elsewhere is insufficient. If it fails, rebuild it, cool it and repeat under the tower.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g5p307/",
+        "images": [
+          {
+            "src": "./assets/classic-batch9-tranzit-nav-table.webp",
+            "alt": "Fence beneath the cornfield pylon: NAV-table build location. The table is not needed for Tower of Babble.",
+            "caption": "Fence beneath the cornfield pylon: NAV-table build location. The table is not needed for Tower of Babble.",
+            "source": "https://www.codzombieguides.com/tranzit",
+            "credit": "JokerAlex 21 / Activision — original BO2 map capture"
+          }
+        ]
       },
       {
         "title": "Feed explosive zombie kills",
-        "body": "Gather zombies directly beneath the pylon and kill them with explosives: grenades, Mustang & Sally, RPG or similar explosive damage. Continue until Richtofen says the power is too great and asks you to reduce it. If he still asks for heat, the Jet Gun step did not register. Do not begin the coordinated EMP attempt without the explosive-kill confirmation."
+        "body": "Gather zombies directly beneath the pylon and kill them with explosives: grenades, Mustang & Sally, RPG or similar explosive damage. Continue until Richtofen says the power is too great and asks you to reduce it. If he still asks for heat, the Jet Gun step did not register. Do not begin the coordinated EMP attempt without the explosive-kill confirmation.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g5p307/"
       },
       {
         "title": "Prepare four distinct lamps",
-        "body": "Get EMP Grenades from the Mystery Box. For the straightforward route, four players each stand at a different green streetlight, with an EMP ready. Confirm all four locations are different and the grenades are in hand. Keep zombies away from the throwers and make sure no player is trying to use Monkey Bombs instead."
+        "body": "Get EMP Grenades from the Mystery Box. For the straightforward route, four players each stand at a different green streetlight, with an EMP ready. Confirm all four locations are different and the grenades are in hand. Keep zombies away from the throwers and make sure no player is trying to use Monkey Bombs instead.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g5p307/",
+        "images": [
+          {
+            "src": "./assets/classic-batch9-tranzit-emp.webp",
+            "alt": "EMP Grenades offered by the Diner Mystery Box.",
+            "caption": "EMP Grenades offered by the Diner Mystery Box.",
+            "source": "https://www.codzombieguides.com/tranzit",
+            "credit": "JokerAlex 21 / Activision — original BO2 map capture"
+          }
+        ]
       },
       {
         "title": "EMP all four lamps together",
-        "body": "Count down and throw the four EMPs into the bases of the lamps together. All four lamps must be disabled within the same brief window. Blue energy travels to the pylon and the achievement triggers. If a throw misses or timing fails, obtain more EMPs through a Max Ammo and retry."
+        "body": "Count down and throw the four EMPs into the bases of the lamps together. All four lamps must be disabled within the same brief window. Blue energy travels to the pylon and the achievement triggers. If a throw misses or timing fails, obtain more EMPs through a Max Ammo and retry.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g5p307/"
       },
       {
         "title": "Two-player alternative",
         "body": "Two players can supply the four EMPs, but both need two EMPs and an active Denizen portal beneath their starting lamp. Each throws an EMP at the current lamp, immediately jumps through the portal and throws the second at the arrival lamp. The four affected lamps must all be different and the throws must be fast. Random destinations can send a player to an already-used lamp, causing failure; four dedicated lamp players avoid that gamble.",
-        "tip": "Solo completion uses additional precise positioning and Max Ammo luck. It is not covered by this team walkthrough."
+        "tip": "Solo completion uses additional precise positioning and Max Ammo luck. It is not covered by this team walkthrough.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g5p307/"
+      },
+      {
+        "title": "If the heat step will not register",
+        "body": "If destroying the Jet Gun doesn’t complete the step, try rebuilding it and destroying it again. If destroying it the second time doesn’t work, try turning off the power and turning it back on, while making sure to pick up the last Jet Gun piece after the power has been turned on by either leaving the part on the ground for until the power gets turned on, or by swapping the part and picking it back up after the power has been turned on.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g5p307/",
+        "tip": "Picking up the final part after power is on is a retry workaround, not a universal prerequisite. Fully cool the held gun before firing under the tower.",
+        "html": "<p>If destroying the Jet Gun doesn’t complete the step, try rebuilding it and destroying it again. If destroying it the second time doesn’t work, try turning off the power and turning it back on, while making sure to pick up the last Jet Gun piece after the power has been turned on by either leaving the part on the ground for until the power gets turned on, or by swapping the part and picking it back up after the power has been turned on.</p><p>— <a href=\"https://www.reddit.com/r/CODZombies/comments/g5p307/\" target=\"_blank\" rel=\"noopener noreferrer\">Hadi77KSA / r/CODZombies</a></p>"
       }
     ],
     "sources": [
       {
-        "title": "r/CODZombies — TranZit Jet Gun locations and quest",
+        "title": "r/CODZombies — TranZit map guide",
         "url": "https://www.reddit.com/r/CODZombies/wiki/tranzit/"
       },
       {
-        "title": "r/CODZombies — Richtofen heat, lamp and completion clarifications",
+        "title": "Hadi77KSA — firsthand BO2 quest clarifications",
         "url": "https://www.reddit.com/r/CODZombies/comments/g5p307/"
       },
       {
-        "title": "r/CODZombies — lower-player-count EMP method",
+        "title": "Firsthand two-player Tower discussion",
         "url": "https://www.reddit.com/r/CODZombies/comments/tt2zkv/"
+      },
+      {
+        "title": "cmasupra — original 2012 complete building demonstration",
+        "url": "https://www.youtube.com/watch?v=uFc-gff-6LY"
+      },
+      {
+        "title": "Bonner Dupa — original BO2 achievement guide",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2448124567"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-16",
+    "sourceQuote": "https://www.reddit.com/r/CODZombies/comments/g5p307/",
+    "sharedSource": false,
+    "supplementNote": "The final troubleshooting excerpt is credited to Hadi77KSA. Other steps are original practical instructions. A solo method exists, but this guide documents the two-to-four-player routes only.",
+    "relatedGuideIds": [
+      "bo2-tranzit-community-tranzit-map-walkthrough-power",
+      "bo2-tranzit-community-tranzit-special-weapons-jet-gun",
+      "bo2-tranzit-community-tranzit-special-weapons-special-grenades",
+      "bo2-tranzit-denizen-portals",
+      "bo2-tranzit-community-tranzit-easter-eggs-nav-card-and-nav-card-table"
+    ]
   },
   {
     "id": "bo2-die-rise-high-maintenance-maxis",
@@ -2938,64 +3103,212 @@
     "steps": [
       {
         "title": "Lower the Warden's Key",
-        "body": "Look for the hanging key above the Warden's Office entrance or near the cafeteria-side entrance. Enter Afterlife from a nearby electrical box. Jump through the blue opening high in the wall and shock the electrical panel inside to lower the key. Revive your body, then collect the key. It is needed for the plane-part cages."
+        "body": "Look for the hanging key above the Warden's Office entrance or near the cafeteria-side entrance. Enter Afterlife from a nearby electrical box. Jump through the blue opening high in the wall and shock the electrical panel inside to lower the key. Revive your body, then collect the key. It is needed for the plane-part cages.",
+        "images": [
+          {
+            "src": "./assets/mob-key-cafeteria.webp",
+            "alt": "Afterlife passage above the cafeteria-side key position.",
+            "caption": "Cafeteria-side key route.",
+            "source": "https://www.codzombieguides.com/mob-of-the-dead",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          },
+          {
+            "src": "./assets/mob-key-office.webp",
+            "alt": "Afterlife panel above the Warden’s Office approach.",
+            "caption": "Office-side key route.",
+            "source": "https://www.codzombieguides.com/mob-of-the-dead",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          }
+        ],
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/mob-of-the-dead/"
       },
       {
         "title": "Feed the three dogs and take the Retriever",
-        "body": "Kill a zombie near each wall dog to make it appear, then feed it one corpse at a time, waiting for it to finish chewing between kills. The dogs are in Broadway by the B23R, in the infirmary by its Afterlife box, and at the docks near the workbench. Each disappears when full. With all three fed, take Hell's Retriever from the opened chamber in the Citadel Tunnels beneath the three-dog sign."
+        "body": "Kill a zombie near each wall dog to make it appear, then feed it one corpse at a time, waiting for it to finish chewing between kills. The dogs are in Broadway by the B23R, in the infirmary by its Afterlife box, and at the docks near the workbench. Each disappears when full. With all three fed, take Hell's Retriever from the opened chamber in the Citadel Tunnels beneath the three-dog sign.",
+        "images": [
+          {
+            "src": "./assets/mob-dog-broadway.webp",
+            "alt": "Wall dog feeding in Broadway beneath the upper cell walkway.",
+            "caption": "Broadway dog.",
+            "source": "https://www.codzombieguides.com/mob-of-the-dead",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          },
+          {
+            "src": "./assets/mob-dog-docks.webp",
+            "alt": "Wall dog beside the Docks Generator Room route.",
+            "caption": "Docks dog.",
+            "source": "https://www.codzombieguides.com/mob-of-the-dead",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          },
+          {
+            "src": "./assets/mob-dog-infirmary.webp",
+            "alt": "Wall dog beside the infirmary’s roof stairs.",
+            "caption": "Infirmary dog.",
+            "source": "https://www.codzombieguides.com/mob-of-the-dead",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          }
+        ],
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/mob-of-the-dead/"
       },
       {
         "title": "Plane part: uniforms",
-        "body": "Open the washing-machine cage in the showers beneath the cafeteria with the key. Enter Afterlife and shock the nearby power panel, revive, then start the wash cycle by interacting with the machine. Survive the lockdown, including any Brutus that arrives. When the machine finishes, collect the uniforms."
+        "body": "Open the washing-machine cage in the showers beneath the cafeteria with the key. Enter Afterlife and shock the nearby power panel, revive, then start the wash cycle by interacting with the machine. Survive the lockdown, including any Brutus that arrives. When the machine finishes, collect the uniforms.",
+        "images": [
+          {
+            "src": "./assets/mob-plane-uniforms.webp",
+            "alt": "Washing machine and uniforms pickup area in the Showers.",
+            "caption": "Power the machine, start the wash while alive, then survive the lockdown.",
+            "source": "https://www.codzombieguides.com/mob-of-the-dead",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          }
+        ],
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/mob-of-the-dead/"
       },
       {
         "title": "Plane part: valves",
-        "body": "In the infirmary by the wall-dog area, unlock the glass cabinet with the Warden's Key and take the valves."
+        "body": "In the infirmary by the wall-dog area, unlock the glass cabinet with the Warden's Key and take the valves.",
+        "images": [
+          {
+            "src": "./assets/mob-plane-controls.webp",
+            "alt": "Key-locked glass cabinet beside the infirmary dog.",
+            "caption": "Control valves/panel cabinet.",
+            "source": "https://www.codzombieguides.com/mob-of-the-dead",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          }
+        ],
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/mob-of-the-dead/"
       },
       {
         "title": "Plane part: engine",
-        "body": "At the docks, enter the generator room and use Afterlife to overload all three generators, including the one reached through the blue Afterlife opening. Their cables stop powering the electrified gate in the Warden's Office. Return to the Office, unlock/open the engine area and collect the part."
+        "body": "At the docks, enter the generator room and use Afterlife to overload all three generators, including the one reached through the blue Afterlife opening. Their cables stop powering the electrified gate in the Warden's Office. Return to the Office, unlock/open the engine area and collect the part.",
+        "images": [
+          {
+            "src": "./assets/mob-plane-engines.webp",
+            "alt": "Afterlife generator room used to remove the Office’s electric gate.",
+            "caption": "Overload all three generators before collecting the Office engines.",
+            "source": "https://www.codzombieguides.com/mob-of-the-dead",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          }
+        ],
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/mob-of-the-dead/"
       },
       {
         "title": "Plane part: rigging",
-        "body": "Unlock the number panel at the bottom of the Citadel's spiral staircase. Enter Afterlife near the top and read the three numbers shown as you descend, top to bottom. Shock the three digits on the panel until they match that run's code. The lift descends. Revive and reach the lower lift to collect the rigging within the timed window; repeat the code if you miss it."
+        "body": "Unlock the number panel at the bottom of the Citadel's spiral staircase. Enter Afterlife near the top and read the three numbers shown as you descend, top to bottom. Shock the three digits on the panel until they match that run's code. The lift descends. Revive and reach the lower lift to collect the rigging within the timed window; repeat the code if you miss it.",
+        "images": [
+          {
+            "src": "./assets/mob-plane-rigging.webp",
+            "alt": "Citadel spiral and its number-code route in Afterlife.",
+            "caption": "Read the three digits from top to bottom; your code changes each game.",
+            "source": "https://www.codzombieguides.com/mob-of-the-dead",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          }
+        ],
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/mob-of-the-dead/"
       },
       {
-        "title": "Plane part: propane tank",
-        "body": "At the docks by the M1927 wall buy, unlock the first fenced gate with the key. A player enters Afterlife and shocks the panel that opens the inner gate. In co-op, have the living teammate collect the tank while the gate is powered, then open the exit/revive so nobody is left trapped."
+        "title": "Plane part: oxygen tank",
+        "body": "At the Docks beside the M1927, unlock the fenced cage with the Warden’s Key. In co-op, put a living teammate inside; a second player enters Afterlife at the Juggernog-side box and shocks the cage panel to open the inner gate. After the tank is collected and the living player returns to the first cage, shock the panel again to release them. In solo, use the box inside the first cage, shock its panel, revive and collect the tank.",
+        "images": [
+          {
+            "src": "./assets/mob-plane-oxygen-solo.webp",
+            "alt": "Oxygen-tank cage at the Docks in solo.",
+            "caption": "Solo cage route.",
+            "source": "https://www.codzombieguides.com/mob-of-the-dead",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          },
+          {
+            "src": "./assets/mob-plane-oxygen-coop.webp",
+            "alt": "A living teammate in the Docks tank cage during co-op.",
+            "caption": "Co-op: coordinate the inner and outer gates with an Afterlife teammate.",
+            "source": "https://www.codzombieguides.com/mob-of-the-dead",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          }
+        ],
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/mob-of-the-dead/"
       },
       {
         "title": "Open the roof and make the first flight",
-        "body": "Use the infirmary's Afterlife box, jump through the blue wall opening and climb/jump to the roof-door panel. Shock it to open the stairs, then revive. Add all five carried parts to Icarus on the roof. Gather the team, board and fly to the Golden Gate Bridge. Upgrade weapons for 5,000 points there if desired. Return to the prison using the electric chairs."
+        "body": "Use the infirmary's Afterlife box, jump through the blue wall opening and climb/jump to the roof-door panel. Shock it to open the stairs, then revive. Add all five carried parts to Icarus on the roof. Gather the team, board and fly to the Golden Gate Bridge. Upgrade weapons for 5,000 points there if desired. Return to the prison using the electric chairs.",
+        "images": [
+          {
+            "src": "./assets/mob-icarus-roof.webp",
+            "alt": "Icarus on the original Mob of the Dead Roof.",
+            "caption": "Assemble the five parts on this roof plane before the ordinary flight.",
+            "source": "https://www.codzombieguides.com/mob-of-the-dead",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          }
+        ],
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/mob-of-the-dead/"
       },
       {
         "title": "Collect the five hidden skulls",
-        "body": "Throw Hell's Retriever at each skull position: the table inside the lit jail cell near spawn; the utility pole outside the Warden's Office window by Speed Cola; the raised lamppost uphill from Juggernog (a gondola ride helps the angle); the third pillar on the adjacent dock; and the far roof edge left of the plane/roof entrance. The skulls are visible in Afterlife, but the living player collects them with the Retriever. All five produce a laugh and a free Blundergat on the Warden's desk. Pick it up if useful."
+        "body": "Throw Hell's Retriever at each skull position: the toilet inside the lit jail cell just outside the Library; the utility pole outside the Warden's Office window by Speed Cola; the raised lamppost uphill from Juggernog (a gondola ride helps the angle); the third pillar on the adjacent dock; and the far roof edge left of the plane/roof entrance. The skulls are visible in Afterlife, but the living player collects them with the Retriever. All five produce a laugh and a free Blundergat on the Warden's desk. Pick it up if useful.",
+        "images": [
+          {
+            "src": "./assets/mob-skull-spawn-toilet.webp",
+            "alt": "Lit cell containing the toilet target for the hidden skull.",
+            "caption": "Aim at the toilet; the ordinary skull elsewhere in the cell is a distraction.",
+            "source": "https://www.codzombieguides.com/mob-of-the-dead",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          }
+        ],
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/mob-of-the-dead/"
       },
       {
         "title": "Reveal and collect the spoon",
-        "body": "Throw the Retriever at the blue/green movie poster in a cell on the Warden's Office corridor to remove it. In Afterlife, enter the revealed passage and shock the spoon lying on the floor by the crack/skull until you hear a laugh. Revive, then throw the Retriever at the spoon on the table beyond the back cafeteria window, on the left. Another audio response confirms it. The Golden Spork upgrade is not needed for the main quest."
+        "body": "Throw the Retriever at the blue/green movie poster in a cell on the Warden's Office corridor to remove it. In Afterlife, enter the revealed passage and shock the spoon lying on the floor by the crack/skull until you hear a laugh. Revive, then throw the Retriever at the spoon on the table beyond the back cafeteria window, on the left. Another audio response confirms it. The Golden Spork upgrade is not needed for the main quest.",
+        "images": [
+          {
+            "src": "./assets/mob-spoon-poster.webp",
+            "alt": "Afterlife passage behind the removed movie poster.",
+            "caption": "Shock the small spoon beside the floor crack.",
+            "source": "https://www.codzombieguides.com/mob-of-the-dead",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          }
+        ],
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/mob-of-the-dead/"
       },
       {
         "title": "Finish three total bridge cycles",
         "body": "After returning from each flight, wait for the next round and collect the five fuel cans now occupying the original part locations. Add them to the roof plane, fly to the bridge and return using the chairs. Do this until you have made three trips to the bridge and back in total. The Citadel number panel should now cycle digits rapidly.",
-        "tip": "Ensure the plane is rebuilt and present on the roof for the eventual final flight."
+        "tip": "Ensure the plane is rebuilt and present on the roof for the eventual final flight.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g5p307/"
       },
       {
         "title": "Enter the prisoners' four numbers",
-        "body": "In Afterlife at the Citadel number panel, enter 101, 386, 872 and 481, allowing each code to register before the next. The screen loses color and Ferguson narrates. Codes 115 and 935 are optional song/quote eggs, not mandatory main-quest inputs."
+        "body": "In Afterlife at the Citadel number panel, enter 101, 386, 872 and 481, allowing each code to register before the next. The screen loses color and Ferguson narrates. Codes 115 and 935 are optional song/quote eggs, not mandatory main-quest inputs.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g5p307/"
       },
       {
         "title": "Collect all five audio headsets",
-        "body": "Wait for each narration clip to finish so the next headset appears. Follow the route upward: the stairs out of the Citadel spiral; near Double Tap; the passage between the Warden's Office and cafeteria; the stairs from cafeteria to infirmary; then the roof stairs. Walk into each glowing headset in sequence and let its clip play. A laugh and instruction confirm the final recording."
+        "body": "Wait for each narration clip to finish so the next headset appears. Follow the route upward: the stairs out of the Citadel spiral; near Double Tap; the passage between the Warden's Office and cafeteria; the stairs from cafeteria to infirmary; then the roof stairs. Walk into each glowing headset in sequence and let its clip play. A laugh and instruction confirm the final recording.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/mob-of-the-dead/"
       },
       {
         "title": "Take the final flight in Afterlife",
-        "body": "With Icarus present on the roof, enter Afterlife and interact with the plane. This special boarding pulls the other players into Afterlife for the trip; fuel cans are not required again after the headset stage. At the Golden Gate Bridge, find your bodies in the electric chairs and revive yourselves. Weasel becomes hostile to the other prisoners."
+        "body": "With Icarus present on the roof, enter Afterlife and interact with the plane. This special boarding pulls the other players into Afterlife for the trip; fuel cans are not required again after the headset stage. At the Golden Gate Bridge, find your bodies in the electric chairs and revive yourselves. Weasel becomes hostile to the other prisoners.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g5p307/"
       },
       {
         "title": "Choose the ending",
-        "body": "For Pop Goes the Weasel, let Weasel kill every other prisoner to break the cycle. The other players should stop shooting him and allow the final kills. If the other prisoners kill Weasel, the cycle continues instead. Both outcomes end the match, so finish any desired side tasks before boarding for this final confrontation."
+        "body": "For Pop Goes the Weasel, let Weasel kill every other prisoner to break the cycle. The other players should stop shooting him and allow the final kills. If the other prisoners kill Weasel, the cycle continues instead. Both outcomes end the match, so finish any desired side tasks before boarding for this final confrontation.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/mob-of-the-dead/"
       }
     ],
     "sources": [
@@ -3006,9 +3319,20 @@
       {
         "title": "r/CODZombies — optional steps and final-flight clarifications",
         "url": "https://www.reddit.com/r/CODZombies/comments/g5p307/"
+      },
+      {
+        "title": "JokerAlex 21 — original-map location footage",
+        "url": "https://www.codzombieguides.com/mob-of-the-dead"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-17",
+    "relatedGuideIds": [
+      "bo2-mob-of-the-dead-free-blundergat",
+      "bo2-mob-of-the-dead-community-mob-of-the-dead-map-walkthrough-pack-a-punch",
+      "bo2-mob-of-the-dead-community-mob-of-the-dead-special-weapons-hell-s-retriever",
+      "bo2-mob-of-the-dead-community-mob-of-the-dead-special-weapons-silver-spoon"
+    ],
+    "sourceQuote": null
   },
   {
     "id": "bo2-origins-little-lost-girl",
@@ -3354,33 +3678,128 @@
     "reward": "One Blundergat on the Warden's desk, available without Mystery Box luck.",
     "steps": [
       {
-        "title": "Earn Hell's Retriever",
-        "body": "Feed the wall dogs in Broadway near the B23R, in the infirmary by the Afterlife box, and at the docks by the workbench. Kill one zombie close to a dog, wait for it to eat the corpse, then feed another. Continue until each dog disappears. With all three finished, collect Hell's Retriever from the opened chamber beneath the three-dog sign in the Citadel."
+        "title": "Earn Hell’s Retriever",
+        "body": "Feed all three wall dogs, then take the tomahawk from the Citadel chamber. The five blue skulls below can be collected in any order. They can be located in Afterlife; a living player collects them by throwing the Retriever.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/mob-of-the-dead/",
+        "images": [
+          {
+            "src": "./assets/mob-retriever-chamber.webp",
+            "alt": "Retriever chamber beneath the three dog symbols.",
+            "caption": "Collect the Retriever first.",
+            "source": "https://www.codzombieguides.com/mob-of-the-dead",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          }
+        ]
       },
       {
-        "title": "Spawn and Office skulls",
-        "body": "Throw the Retriever into the lit jail cell near spawn, aiming at the skull on its table. Then look through the Warden's Office window beside Speed Cola and throw it at the skull on the utility pole outside. A collected skull gives an audio cue."
+        "title": "Library cell: toilet",
+        "body": "Leave the Library toward the first cell corridor. Find the lit cell and throw the Retriever at its toilet. The target is the toilet, even though a normal skull sits elsewhere in the cell. Listen for the pickup response before moving on.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/mob-of-the-dead/",
+        "images": [
+          {
+            "src": "./assets/mob-skull-spawn-toilet.webp",
+            "alt": "Library cell: toilet skull target.",
+            "caption": "Library cell: toilet.",
+            "source": "https://www.codzombieguides.com/mob-of-the-dead",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          }
+        ]
       },
       {
-        "title": "Docks and Juggernog skulls",
-        "body": "At the waterfront, throw the Retriever at the skull on the third pillar of the adjacent pier. For the skull on the raised lamppost uphill from Juggernog, either jump and throw from the closest corner or throw from the moving gondola to get the height. Check the skull in Afterlife if aiming blindly is difficult."
+        "title": "Warden’s Office: power pole",
+        "body": "At Speed Cola, look through the nearby rear window. Aim at the upper-left crossbar of the wooden utility pole outside and throw the Retriever. Listen for the pickup response before moving on.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/mob-of-the-dead/",
+        "images": [
+          {
+            "src": "./assets/mob-skull-office.webp",
+            "alt": "Warden’s Office: power pole skull target.",
+            "caption": "Warden’s Office: power pole.",
+            "source": "https://www.codzombieguides.com/mob-of-the-dead",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          }
+        ]
       },
       {
-        "title": "Roof skull",
-        "body": "On the roof, go toward the far-left corner away from the stair entrance and throw the Retriever at the skull on the outer ledge. The five-skull completion produces a demonic laugh."
+        "title": "Docks: distant pier",
+        "body": "At the lower Docks by the Mystery Box/tower end, look across the water at the inaccessible wooden pier. Throw at the top of its third supporting post; use the photo to identify the correct post. Listen for the pickup response before moving on.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/mob-of-the-dead/",
+        "images": [
+          {
+            "src": "./assets/mob-skull-pier.webp",
+            "alt": "Docks: distant pier skull target.",
+            "caption": "Docks: distant pier.",
+            "source": "https://www.codzombieguides.com/mob-of-the-dead",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          }
+        ]
+      },
+      {
+        "title": "Juggernog: raised lamp",
+        "body": "Face Juggernog, turn around toward the barrier, then look up to the lamp above its left corner. Throw at the lamp head. A jump from the nearby corner or a gondola ride can help with the angle. Listen for the pickup response before moving on.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/mob-of-the-dead/",
+        "images": [
+          {
+            "src": "./assets/mob-skull-jug-lamp.webp",
+            "alt": "Juggernog: raised lamp skull target.",
+            "caption": "Juggernog: raised lamp.",
+            "source": "https://www.codzombieguides.com/mob-of-the-dead",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          }
+        ]
+      },
+      {
+        "title": "Roof: outer corner",
+        "body": "Walk to the back-left roof edge, toward the distant fireworks. Throw at the projecting corner/metal lamp on the adjoining roof shown in the photo. Listen for the pickup response before moving on.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/mob-of-the-dead/",
+        "images": [
+          {
+            "src": "./assets/mob-skull-roof.webp",
+            "alt": "Roof: outer corner skull target.",
+            "caption": "Roof: outer corner.",
+            "source": "https://www.codzombieguides.com/mob-of-the-dead",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          }
+        ]
       },
       {
         "title": "Collect the Blundergat",
-        "body": "Return to the Warden's Office and interact with the Blundergat on the desk near Speed Cola. The hidden skulls can be collected before they are normally visible by aiming at their known positions. This is a single team reward; decide who takes it before swapping an important weapon."
+        "body": "After all five skulls, return to the Warden’s desk beside Speed Cola. The desk burns and a Blundergat appears above it. Interact while holding the gun you are willing to replace. This is one shared free gun, so agree who takes it. Collecting the skulls is part of the story route; a Golden Spork or Redeemer is not required for that route.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g5p307/",
+        "images": [
+          {
+            "src": "./assets/mob-free-blundergat-desk.webp",
+            "alt": "Blundergat floating over the burning Warden’s desk.",
+            "caption": "Five skulls produce one shared free Blundergat.",
+            "source": "https://www.codzombieguides.com/mob-of-the-dead",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          }
+        ]
       }
     ],
     "sources": [
       {
-        "title": "r/CODZombies — Retriever and five free-Blundergat skulls",
+        "title": "r/CODZombies — five-skull route",
         "url": "https://www.reddit.com/r/CODZombies/wiki/mob-of-the-dead/"
+      },
+      {
+        "title": "JokerAlex 21 — five target demonstrations",
+        "url": "https://www.youtube.com/watch?v=o2nOLQ3O16w"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-17",
+    "relatedGuideIds": [
+      "bo2-mob-of-the-dead-community-mob-of-the-dead-special-weapons-hell-s-retriever",
+      "bo2-mob-of-the-dead-community-mob-of-the-dead-buildables-acid-gat-kit",
+      "bo2-mob-of-the-dead-pop-goes-the-weasel"
+    ],
+    "sourceQuote": null
   },
   {
     "id": "bo3-shangri-la-time-travel-will-tell",
@@ -3906,8 +4325,9 @@
     "players": "Solo or co-op",
     "summary": "Complete the Golden Scalpel route, then perform the Catwalk Warden kill omitted by the old wiki.",
     "requirements": [
-      "Golden Scalpel: follow Spoon → Golden Spork → Golden Scalpel first",
-      "Ethereal Razor and Sword Flay help with the knife kill"
+      "Classic Standard on Normal or higher. Use a quest-enabled game; this is not a Casual or Custom Mutations route.",
+      "Golden Scalpel: follow Spoon → Golden Spork → Golden Scalpel first.",
+      "Ethereal Razor and Sword Flay help with the knife kill; they are not mandatory quest items."
     ],
     "reward": "Golden Sporknife.",
     "steps": [
@@ -3938,7 +4358,12 @@
         "url": "https://www.reddit.com/r/CODZombies/comments/ffm21v/"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-16",
+    "relatedGuideIds": [
+      "bo4-blood-of-the-dead-community-blood-of-the-dead-map-features-golden-scalpel",
+      "bo4-blood-of-the-dead-community-blood-of-the-dead-map-features-golden-spork",
+      "bo4-blood-of-the-dead-community-blood-of-the-dead-map-features-hell-s-redeemer"
+    ]
   },
   {
     "id": "bo3-zetsubou-no-shima-samantha-melody-bulbs",

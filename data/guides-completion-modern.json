@@ -1341,88 +1341,287 @@
     "category": "weapon",
     "difficulty": "Medium",
     "players": "1–4 players",
-    "summary": "Recover Klaus's hands and battery, then complete his defense and both floppy-disk upgrades.",
+    "summary": "Build Klaus, use the green station monitor for his first defense, then find two marked disks among six pictured boxes.",
     "requirements": [
-      "Power on",
-      "Brain Rot Ammo Mod",
-      "Krasny Soldat battery, normally available from the round-10 Soldat",
-      "Satellite dish from the Death Strip dig piles"
+      "Standard Mauer der Toten; power on and Pack-a-Punch available for Brain Rot.",
+      "Brain Rot on an ordinary gun; Klaus's hands and the first Krasny Soldat's battery.",
+      "The Death Strip dish is for upgrading Klaus, not an extra part needed to assemble him.",
+      "For the main quest, only his first station defense is required. The two disk upgrades are optional."
     ],
-    "reward": "Fully upgraded Klaus with stronger weapon and changed appearance",
+    "reward": "Klaus's first weapon upgrade, followed by two further station upgrades and changed appearance.",
     "steps": [
       {
-        "title": "Open Room 305 and take Klaus's hands",
-        "body": "Use a Brain Rot gun to turn a zombie near the boarded-up Hotel Room 305. Let it tear the door open, then take the robot hands from the corpse on the bed. Kill a Krasny Soldat for its battery."
-      },
-      {
-        "title": "Activate Klaus in the Safe House",
-        "body": "Install the hands and battery into the seated robot below the streets. His remote lets you command a destination; once his active period ends, call him back for points."
-      },
-      {
-        "title": "Repair the Garment Factory upgrade station",
-        "body": "Dig the Death Strip piles by Pack-a-Punch until you find the satellite dish. Install it at the Garment Factory's Klaus upgrade station.",
+        "title": "Hands: Hotel Room 305",
+        "body": "Apply Brain Rot to a gun at Pack-a-Punch. Turn a zombie beside the boarded bedroom in Hotel Room 305 and let it break the barrier. Interact with the hands on the corpse's neck.",
+        "researchSource": "https://tracker.gg/cold-war/articles/black-ops-cold-war-zombies-mauer-der-toten-klaus-guide",
+        "tip": "If the turned zombie leaves without opening it, try another zombie close to the barrier.",
         "images": [
           {
-            "src": "./assets/modern-coldwar-mauer-der-toten-klaus_ee-upgradestation.webp",
-            "alt": "Garment Factory: Klaus upgrade station",
-            "caption": "Garment Factory: Klaus upgrade station",
-            "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
-            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/mauer_der_toten_guide"
+            "src": "./assets/batch8-mauer-klaus_ee-room305.webp",
+            "alt": "Hotel Room 305 entrance.",
+            "caption": "Hotel Room 305 entrance.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/klaus_ee/room305.webp"
+          },
+          {
+            "src": "./assets/batch8-mauer-klaus_ee-barricadeddoor.webp",
+            "alt": "Brain Rot bedroom barrier in Hotel Room 305.",
+            "caption": "Brain Rot bedroom barrier in Hotel Room 305.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/klaus_ee/barricadeddoor.webp"
+          },
+          {
+            "src": "./assets/batch8-mauer-klaus_ee-corpse.webp",
+            "alt": "Klaus's hands on the bedroom corpse; this is not the A Handful audio-log pickup.",
+            "caption": "Klaus's hands on the bedroom corpse; this is not the A Handful audio-log pickup.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/klaus_ee/corpse.webp"
           }
         ]
       },
       {
-        "title": "Feed Klaus kills, then defend his first upgrade",
-        "body": "Let Klaus kill roughly 50 zombies. When the upgrade station's screen turns green, command him inside and defend him through its one-minute lockdown. Completing this defense gives his first weapon upgrade.",
-        "tip": "If the screen stays red, let Klaus get more kills. Your own kills do not replace his."
+        "title": "Battery: first Krasny Soldat",
+        "body": "Kill the first Krasny Soldat and collect its dropped Battery. In standard play the first one normally arrives on round 10.",
+        "researchSource": "https://tracker.gg/cold-war/articles/black-ops-cold-war-zombies-mauer-der-toten-klaus-guide",
+        "images": [
+          {
+            "src": "./assets/batch8-mauer-klaus_ee-battery.webp",
+            "alt": "The dropped Battery is a Klaus assembly part.",
+            "caption": "The dropped Battery is a Klaus assembly part.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/klaus_ee/battery.webp"
+          }
+        ]
       },
       {
-        "title": "Take the UV light from locker zero",
-        "body": "Command Klaus to punch the numbered-0 locker in Switch Control Room. Pick up its blacklight and use it to inspect the marked boxes.",
+        "title": "Build in the Safe House",
+        "body": "Reach the underground Safe House and interact with the seated Klaus to install both parts. Collect his remote and use your Tactical Equipment control to place a destination marker.",
+        "researchSource": "https://tracker.gg/cold-war/articles/black-ops-cold-war-zombies-mauer-der-toten-klaus-guide",
+        "tip": "Klaus replaces the held tactical slot. After his active period, recall him from his chair or a Klaus radio when the prompt becomes available.",
+        "images": [
+          {
+            "src": "./assets/batch8-mauer-klaus_ee-safehouse.webp",
+            "alt": "Safe House approach beneath the streets.",
+            "caption": "Safe House approach beneath the streets.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/klaus_ee/safehouse.webp"
+          },
+          {
+            "src": "./assets/batch8-mauer-klaus_ee-klaussitting.webp",
+            "alt": "Seated Klaus: install the hands and battery here.",
+            "caption": "Seated Klaus: install the hands and battery here.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/klaus_ee/klaussitting.webp"
+          }
+        ]
+      },
+      {
+        "title": "Open the UV locker",
+        "body": "Command Klaus directly in front of locker 0 in Switch Control Room. After he punches it open, pick up the UV light.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/okwoz3/mauer_der_toten_easter_egg_hunt_general_map/",
+        "tip": "Use the blacklight to inspect safe-code walls and the disk boxes.",
         "images": [
           {
             "src": "./assets/modern-coldwar-mauer-der-toten-klaus_ee-locker.webp",
-            "alt": "Switch Control Room: locker containing the UV light",
-            "caption": "Switch Control Room: locker containing the UV light",
-            "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
-            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/mauer_der_toten_guide"
+            "alt": "Switch Control Room locker 0 contains the UV light.",
+            "caption": "Switch Control Room locker 0 contains the UV light.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/klaus_ee/locker.webp"
           }
         ]
       },
       {
-        "title": "Find the two marked floppy-disk boxes",
-        "body": "Check the dark-green boxes in Hotel Lounge, 5th Floor Apartments, Blasted Suite, West Berlin Street under Wunderfizz, Ghost Station by Service Passage and Maintenance Tunnel by the Safe House. Only two show Klaus's face under the UV light. Command Klaus to punch those two boxes and collect their disks.",
+        "title": "Fit the dish at the station",
+        "body": "Dig the Death Strip dirt piles until the Microwave / Satellite Dish appears. Take it to the Garment Factory upgrade station and install it.",
+        "researchSource": "https://tracker.gg/checkpoint/articles/black-ops-cold-war-zombies-mauer-der-toten-klaus-upgrade-guide",
+        "images": [
+          {
+            "src": "./assets/batch8-mauer-klaus_ee-deathstrip.webp",
+            "alt": "Death Strip dig-pile area beside Checkpoint Charlie.",
+            "caption": "Death Strip dig-pile area beside Checkpoint Charlie.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/klaus_ee/deathstrip.webp"
+          },
+          {
+            "src": "./assets/batch8-mauer-klaus_ee-dish.webp",
+            "alt": "The dish uncovered by digging.",
+            "caption": "The dish uncovered by digging.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/klaus_ee/dish.webp"
+          },
+          {
+            "src": "./assets/modern-coldwar-mauer-der-toten-klaus_ee-upgradestation.webp",
+            "alt": "Garment Factory: fit the dish to Klaus's upgrade station.",
+            "caption": "Garment Factory: fit the dish to Klaus's upgrade station.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/klaus_ee/upgradestation.webp"
+          }
+        ]
+      },
+      {
+        "title": "Wait for the green monitor",
+        "body": "Let Klaus kill zombies. Recheck the Garment Factory station until its monitor turns green, then command him onto the station's pad.",
+        "researchSource": "https://tracker.gg/checkpoint/articles/black-ops-cold-war-zombies-mauer-der-toten-klaus-upgrade-guide",
+        "tip": "Use the green ready state rather than a fixed kill count; published routes disagree.",
+        "images": [
+          {
+            "src": "./assets/batch8-mauer-klaus_ee-monitor.webp",
+            "alt": "Green station monitor: the useful readiness signal for the first defense.",
+            "caption": "Green station monitor: the useful readiness signal for the first defense.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/klaus_ee/monitor.webp"
+          }
+        ]
+      },
+      {
+        "title": "Defend the first upgrade",
+        "body": "Protect Klaus for the full one-minute defense. Kill the attackers before they destroy him. On success he leaves with his first upgraded gun.",
+        "researchSource": "https://tracker.gg/checkpoint/articles/black-ops-cold-war-zombies-mauer-der-toten-klaus-upgrade-guide",
+        "tip": "If the defense fails, recall Klaus when available, check the station's ready state and attempt the defense again. Full disk upgrades are not needed to stop the quest train."
+      },
+      {
+        "title": "Identify the two marked boxes",
+        "body": "After the first upgrade, shine the UV light beside the six dark-green boxes in the following chapters. Only two locations show Klaus's face in this match. Command Klaus close to those marked boxes, then collect the exposed disks.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/okorkq/upgraded_klaus/",
+        "tip": "An unmarked box is a candidate to check, not a third required disk.",
         "images": [
           {
             "src": "./assets/modern-coldwar-mauer-der-toten-klaus_ee-klaussymbol.webp",
-            "alt": "The UV-visible Klaus face marks a box containing a disk",
-            "caption": "The UV-visible Klaus face marks a box containing a disk",
-            "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
-            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/mauer_der_toten_guide"
+            "alt": "UV-visible Klaus face beside a box; this marks a disk location for that match.",
+            "caption": "UV-visible Klaus face beside a box; this marks a disk location for that match.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/klaus_ee/klaussymbol.webp"
           }
         ]
       },
       {
-        "title": "Install both disks on separate visits",
-        "body": "Return Klaus to the Garment Factory station and insert one disk for the next upgrade. Call him back and use the station again with the second disk, advancing a round if the station is not yet ready. These disk upgrades change his appearance and finish the full upgrade chain.",
-        "tip": "The first defense is the combat lockdown; the later disk installations do not repeat that same defense."
+        "title": "Disk candidate: 5th Floor",
+        "body": "Check the dark-green wall box in 5th Floor Apartments. Look beside it with the UV light before calling Klaus over.",
+        "researchSource": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/klaus_ee/apartments.webp",
+        "images": [
+          {
+            "src": "./assets/batch8-mauer-klaus_ee-apartments.webp",
+            "alt": "5th Floor Apartments disk-box candidate; the symbol varies by match.",
+            "caption": "5th Floor Apartments disk-box candidate; the symbol varies by match.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/klaus_ee/apartments.webp"
+          }
+        ]
+      },
+      {
+        "title": "Disk candidate: Hotel Lounge",
+        "body": "Check the dark-green box in Hotel Lounge. Open it with Klaus only if the UV face is present.",
+        "researchSource": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/klaus_ee/hotel.webp",
+        "images": [
+          {
+            "src": "./assets/batch8-mauer-klaus_ee-hotel.webp",
+            "alt": "Hotel Lounge disk-box candidate.",
+            "caption": "Hotel Lounge disk-box candidate.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/klaus_ee/hotel.webp"
+          }
+        ]
+      },
+      {
+        "title": "Disk candidate: Blasted Suite",
+        "body": "Inspect the Blasted Suite wall box and the space beside it with the UV light.",
+        "researchSource": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/klaus_ee/blastedsuite.webp",
+        "images": [
+          {
+            "src": "./assets/batch8-mauer-klaus_ee-blastedsuite.webp",
+            "alt": "Blasted Suite disk-box candidate.",
+            "caption": "Blasted Suite disk-box candidate.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/klaus_ee/blastedsuite.webp"
+          }
+        ]
+      },
+      {
+        "title": "Disk candidate: West Berlin",
+        "body": "Check the street-level box beneath the Department Store / Wunderfizz area.",
+        "researchSource": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/klaus_ee/westberlinstreet.webp",
+        "images": [
+          {
+            "src": "./assets/batch8-mauer-klaus_ee-westberlinstreet.webp",
+            "alt": "West Berlin Street disk-box candidate beneath the Wunderfizz building.",
+            "caption": "West Berlin Street disk-box candidate beneath the Wunderfizz building.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/klaus_ee/westberlinstreet.webp"
+          }
+        ]
+      },
+      {
+        "title": "Disk candidate: Ghost Station",
+        "body": "Check the platform box near the Service Passage entrance.",
+        "researchSource": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/klaus_ee/ghoststation.webp",
+        "images": [
+          {
+            "src": "./assets/batch8-mauer-klaus_ee-ghoststation.webp",
+            "alt": "Ghost Station disk-box candidate near Service Passage.",
+            "caption": "Ghost Station disk-box candidate near Service Passage.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/klaus_ee/ghoststation.webp"
+          }
+        ]
+      },
+      {
+        "title": "Disk candidate: Maintenance",
+        "body": "Check the box in Maintenance Tunnel beside the Safe House route.",
+        "researchSource": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/klaus_ee/maintenancetunnel.webp",
+        "images": [
+          {
+            "src": "./assets/batch8-mauer-klaus_ee-maintenancetunnel.webp",
+            "alt": "Maintenance Tunnel disk-box candidate near Klaus's Safe House.",
+            "caption": "Maintenance Tunnel disk-box candidate near Klaus's Safe House.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/klaus_ee/maintenancetunnel.webp"
+          }
+        ]
+      },
+      {
+        "title": "Install disk one",
+        "body": "Return active Klaus to the Garment Factory station. When he steps inside, use the disk prompt to install the first disk. Wait for the upgrade and appearance change.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/okorkq/upgraded_klaus/"
+      },
+      {
+        "title": "Install disk two next round",
+        "body": "Advance to the next round, recall Klaus when available and repeat at the same station with the second disk.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/okorkq/upgraded_klaus/",
+        "tip": "The later disk installations do not repeat the first combat-defense challenge. The exact current activation cooldown is not a fixed timer in this checklist."
       }
     ],
     "sources": [
       {
-        "title": "r/CODZombies: Klaus, safe and bunny community walkthrough",
-        "url": "https://www.reddit.com/r/CODZombies/comments/okwoz3/mauer_der_toten_easter_egg_hunt_general_map/"
+        "title": "West-Wait-6226 — firsthand three-stage upgrade discovery",
+        "url": "https://www.reddit.com/r/CODZombies/comments/okorkq/upgraded_klaus/"
       },
       {
-        "title": "r/CODZombies: Klaus assembly",
-        "url": "https://www.reddit.com/r/CODZombies/comments/okml4b/guide_for_klaus/"
+        "title": "DaRkShAdOwYlaf — assembly, green readiness and first defense",
+        "url": "https://www.reddit.com/r/CODZombies/comments/orzsnv/the_ultimate_ee_guides_mauer_der_toten/"
       },
       {
-        "title": "mmmrkennedy: upgrade station and UV screenshots",
+        "title": "Ethan C — assembly parts and remote / recall radios",
+        "url": "https://tracker.gg/cold-war/articles/black-ops-cold-war-zombies-mauer-der-toten-klaus-guide"
+      },
+      {
+        "title": "Ethan C — station readiness and six disk candidates",
+        "url": "https://tracker.gg/checkpoint/articles/black-ops-cold-war-zombies-mauer-der-toten-klaus-upgrade-guide"
+      },
+      {
+        "title": "Treyarch — July 22 first-defense skip fix",
+        "url": "https://www.treyarch.com/game-intel/2021/07/Free_Access_Week_is_Here"
+      },
+      {
+        "title": "mmmrkennedy — visually reviewed station, hands and box photographs",
         "url": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/mauer_der_toten_guide"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-16",
+    "relatedGuideIds": [
+      "coldwar-mauer-free-crbrs-variants",
+      "coldwar-mauer-der-toten-main",
+      "coldwar-mauer-hacking-helm"
+    ]
   },
   {
     "id": "coldwar-mauer-free-crbrs-variants",
@@ -1430,155 +1629,298 @@
     "title": "Free CRBR-S safe and all three Mod Kits",
     "category": "weapon",
     "difficulty": "Medium",
-    "players": "1–4 players",
+    "players": "1–4 players; one shared safe pickup per match",
     "summary": "Read this match's three blacklight codes to open Room 305's safe, then change the CRBR-S through dropped kits.",
     "requirements": [
-      "Klaus assembled",
-      "UV light from locker 0 in Switch Control Room",
-      "Access to Garment Factory, Service Passage, Grocery Store and Hotel Room 305"
+      "Standard online Mauer der Toten for the quest route.",
+      "Power, Brain Rot, Klaus assembled and Hotel Room 305's hidden bedroom opened.",
+      "UV light from locker 0 in Switch Control Room; access to all three code rooms."
     ],
-    "reward": "Free CRBR-S and access to Blazer, Swarm and Diffuser variants",
+    "reward": "One shared free CRBR-S; Blazer, Swarm and Diffuser drop kits change its firing mode.",
     "steps": [
       {
-        "title": "Get the blacklight",
-        "body": "Command Klaus at the Switch Control Room locker marked 0 so he punches it open. Collect the UV flashlight."
+        "title": "Take the UV light",
+        "body": "Command Klaus to locker 0 in Switch Control Room, then collect the blacklight he exposes.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/okwoz3/mauer_der_toten_easter_egg_hunt_general_map/",
+        "images": [
+          {
+            "src": "./assets/modern-coldwar-mauer-der-toten-klaus_ee-locker.webp",
+            "alt": "Locker 0: command Klaus here, then collect the UV light.",
+            "caption": "Locker 0: command Klaus here, then collect the UV light.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/klaus_ee/locker.webp"
+          }
+        ]
       },
       {
-        "title": "Read code one in Garment Factory",
-        "body": "Find the room's painted 1 marker and scan the walls for its two-digit UV code: check above the doorway, the wall under the I Can End This graffiti and the chalkboard. Record the revealed digits.",
+        "title": "Code 1: Garment Factory",
+        "body": "Scan close to the walls for one two-digit UV number. Check the chalkboard behind the dress rack, above the door near the Ammo Crate, and below the I Can End This graffiti beside the short stairs. Record it as code 1.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/ol56uq/all_locations_for_the_numbers_for_the_crbrs/",
+        "tip": "The pictures show candidates, not a reusable solution. The chosen position and digits change by match.",
         "images": [
           {
             "src": "./assets/modern-coldwar-mauer-der-toten-cbrss-garment_chalkboard.webp",
-            "alt": "One possible Garment Factory code position",
-            "caption": "One possible Garment Factory code position",
-            "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
-            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/mauer_der_toten_guide"
+            "alt": "Garment candidate: chalkboard behind the dress rack.",
+            "caption": "Garment candidate: chalkboard behind the dress rack.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/cbrss/garment_chalkboard.webp"
+          },
+          {
+            "src": "./assets/batch8-mauer-cbrss-garment_doorway.webp",
+            "alt": "Garment candidate: above the doorway near the Ammo Crate.",
+            "caption": "Garment candidate: above the doorway near the Ammo Crate.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/cbrss/garment_doorway.webp"
+          },
+          {
+            "src": "./assets/batch8-mauer-cbrss-garment_graffiti.webp",
+            "alt": "Garment candidate: wall beside the small stairs / graffiti.",
+            "caption": "Garment candidate: wall beside the small stairs / graffiti.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/cbrss/garment_graffiti.webp"
           }
         ]
       },
       {
-        "title": "Read codes two and three",
-        "body": "For 2, scan Service Passage by the ladder, including beneath its pipe and above the connecting doorway. For 3, scan Grocery Store's walls by the posters, shelf and cooler. Each room's code position and value can vary.",
+        "title": "Code 2: Service Passage",
+        "body": "Scan above the large doorway in the ladder room, beneath the two pipes, and above the electrical box in the hallway toward Deadshot. Record the revealed pair as code 2.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/ol56uq/all_locations_for_the_numbers_for_the_crbrs/",
         "images": [
           {
+            "src": "./assets/batch8-mauer-cbrss-passage_doorway.webp",
+            "alt": "Service Passage candidate: above the large doorway.",
+            "caption": "Service Passage candidate: above the large doorway.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/cbrss/passage_doorway.webp"
+          },
+          {
             "src": "./assets/modern-coldwar-mauer-der-toten-cbrss-passage_pipes.webp",
-            "alt": "One possible Service Passage code position",
-            "caption": "One possible Service Passage code position",
-            "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
-            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/mauer_der_toten_guide"
+            "alt": "Service Passage candidate: beneath the two pipes.",
+            "caption": "Service Passage candidate: beneath the two pipes.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/cbrss/passage_pipes.webp"
+          },
+          {
+            "src": "./assets/batch8-mauer-cbrss-passage_electricalbox.webp",
+            "alt": "Service Passage candidate: above the electrical box. The screenshot's overlay partly covers the number; use the wall position.",
+            "caption": "Service Passage candidate: above the electrical box. The screenshot's overlay partly covers the number; use the wall position.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/cbrss/passage_electricalbox.webp"
+          }
+        ]
+      },
+      {
+        "title": "Code 3: Grocery Store",
+        "body": "Check the bottle-shelf end facing the produce, the wall between the left entrance door and window, and the rear corner beneath the posters / above the sacks. Record the revealed pair as code 3.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/ol56uq/all_locations_for_the_numbers_for_the_crbrs/",
+        "images": [
+          {
+            "src": "./assets/batch8-mauer-cbrss-store_shelf.webp",
+            "alt": "Grocery candidate: the shelf end facing the produce.",
+            "caption": "Grocery candidate: the shelf end facing the produce.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/cbrss/store_shelf.webp"
+          },
+          {
+            "src": "./assets/batch8-mauer-cbrss-store_watermelon.webp",
+            "alt": "Grocery candidate: wall beside the entrance window and produce.",
+            "caption": "Grocery candidate: wall beside the entrance window and produce.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/cbrss/store_watermelon.webp"
           },
           {
             "src": "./assets/modern-coldwar-mauer-der-toten-cbrss-store_mugsposter.webp",
-            "alt": "One possible Grocery Store code position",
-            "caption": "One possible Grocery Store code position",
-            "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
-            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/mauer_der_toten_guide"
+            "alt": "Grocery candidate: rear wall beneath the posters, above the sacks.",
+            "caption": "Grocery candidate: rear wall beneath the posters, above the sacks.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/cbrss/store_mugsposter.webp"
           }
         ]
       },
       {
-        "title": "Open the Room 305 safe",
-        "body": "Set the safe's first dial to room 1's number, its second to room 2's and its third to room 3's. Confirm and take the CRBR-S.",
-        "tip": "A number from a different match will not work. Double-check the room order if the safe stays locked."
+        "title": "Open Hotel Room 305's safe",
+        "body": "Set the safe's left, middle and right dials to codes 1, 2 and 3 respectively. Use the displayed controls to confirm, then collect the CRBR-S.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/orzsnv/the_ultimate_ee_guides_mauer_der_toten/",
+        "tip": "There is one safe weapon for the squad. Other players can roll the Box or Legendary Trials for another; neither random route guarantees one.",
+        "images": [
+          {
+            "src": "./assets/batch8-mauer-cbrss-closedsafe.webp",
+            "alt": "Safe in Hotel Room 305's hidden bedroom. Enter this match's three code pairs.",
+            "caption": "Safe in Hotel Room 305's hidden bedroom. Enter this match's three code pairs.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/cbrss/closedsafe.webp"
+          }
+        ]
       },
       {
-        "title": "Pick up a Mod Kit with the CRBR-S equipped",
-        "body": "While killing enemies with the CRBR-S in your inventory, watch for dropped Blazer, Swarm or Diffuser kits. Collect one to replace its firing mode. Blazer fires the continuous laser needed for the Secret Lab wall; Swarm fires homing rockets; Diffuser fires a spreading multi-beam burst."
+        "title": "Find the Blazer kit",
+        "body": "Kill enemies with the CRBR-S and watch for a dropped Blazer Mod Kit. Pick it up to equip the continuous laser. Use that beam to melt the Secret Lab's metal wall after Klaus punches away the brickwork.",
+        "researchSource": "https://www.gamespot.com/articles/how-to-obtain-and-upgrade-crbr-s-wonder-weapon-in-cod-black-ops-cold-wars-zombies-mauer-der-toten/1100-6494008/",
+        "tip": "A kit is a random drop, not a buildable recipe. Keep killing rather than searching for extra elemental ingredients."
       },
       {
-        "title": "Return to the base gun when kit ammo ends",
-        "body": "A variant has its own limited ammunition. When it runs out, the CRBR-S returns to its original pistol form. Collect another kit to switch again; a kit is a drop, not a separate craftable upgrade puzzle."
+        "title": "Use the Swarm kit",
+        "body": "Collect a Swarm Mod Kit to replace the base firing mode with homing micro-missiles.",
+        "researchSource": "https://www.gamespot.com/articles/how-to-obtain-and-upgrade-crbr-s-wonder-weapon-in-cod-black-ops-cold-wars-zombies-mauer-der-toten/1100-6494008/"
+      },
+      {
+        "title": "Use the Diffuser kit",
+        "body": "Collect a Diffuser Mod Kit for a close-range spread attack, useful like a shotgun.",
+        "researchSource": "https://www.gamespot.com/articles/how-to-obtain-and-upgrade-crbr-s-wonder-weapon-in-cod-black-ops-cold-wars-zombies-mauer-der-toten/1100-6494008/"
+      },
+      {
+        "title": "Return to the base CRBR-S",
+        "body": "Spend a kit's ammunition to return to the original pistol. A new dropped kit can change the mode again. Reverting from a kit does not require opening the safe again.",
+        "researchSource": "https://www.gamespot.com/articles/how-to-obtain-and-upgrade-crbr-s-wonder-weapon-in-cod-black-ops-cold-wars-zombies-mauer-der-toten/1100-6494008/",
+        "tip": "Pack-a-Punch is separate from these kits. Use the base CRBR-S when shooting the three Hacking Helm targets."
+      },
+      {
+        "title": "Try Box or Legendary Trials",
+        "body": "For another CRBR-S, use the Box or build an unclaimed Trial reward to Legendary before claiming it. Repeat if the random reward is something else.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/vtlhw8/",
+        "tip": "The July 20, 2021 patch removed the safe weapon's old timeout despawn. Do not treat a launch-video pickup timer as a current rule."
       }
     ],
     "sources": [
       {
-        "title": "r/CODZombies: Klaus, safe and bunny community walkthrough",
-        "url": "https://www.reddit.com/r/CODZombies/comments/okwoz3/mauer_der_toten_easter_egg_hunt_general_map/"
+        "title": "Vengance183 — all nine code positions and shared-safe limit",
+        "url": "https://www.reddit.com/r/CODZombies/comments/ol56uq/all_locations_for_the_numbers_for_the_crbrs/"
       },
       {
-        "title": "r/CODZombies: free safe code walkthrough",
-        "url": "https://www.reddit.com/r/CODZombies/comments/okmju6/guide_to_the_free_wonder_weapon_quest/"
+        "title": "DaRkShAdOwYlaf — UV locker / ordered dials",
+        "url": "https://www.reddit.com/r/CODZombies/comments/orzsnv/the_ultimate_ee_guides_mauer_der_toten/"
       },
       {
-        "title": "mmmrkennedy: code-position screenshots",
+        "title": "S.E. Doster — firsthand CRBR-S kit functions and ammo reversion",
+        "url": "https://www.gamespot.com/articles/how-to-obtain-and-upgrade-crbr-s-wonder-weapon-in-cod-black-ops-cold-wars-zombies-mauer-der-toten/1100-6494008/"
+      },
+      {
+        "title": "Treyarch — three drop kits at launch",
+        "url": "https://www.treyarch.com/game-intel/2021/07/Season_Four_Reloaded_Intel"
+      },
+      {
+        "title": "Treyarch — July 20 safe timeout fix",
+        "url": "https://www.treyarch.com/game-intel/2021/07/July_20_2021_Patch_Notes"
+      },
+      {
+        "title": "Firsthand co-op extra CRBR-S / Box / Trials reports",
+        "url": "https://www.reddit.com/r/CODZombies/comments/vtlhw8/"
+      },
+      {
+        "title": "mmmrkennedy — all nine code-position photographs",
         "url": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/mauer_der_toten_guide"
-      }
-    ],
-    "checked": "2026-10-13"
-  },
-  {
-    "id": "coldwar-mauer-amoeba",
-    "mapId": "coldwar-mauer-der-toten",
-    "title": "Amoeba and Mauer's encounter music",
-    "category": "music",
-    "difficulty": "Easy",
-    "players": "1–4 players",
-    "summary": "Play the three-cassette song and identify Mauer's ambient, nightclub and boss tracks.",
-    "requirements": [
-      "Access to Garment Factory, Electronics Store and Blasted Suite",
-      "Power for the ambient Hotel Lounge and Bar songs"
-    ],
-    "reward": "Amoeba plays in the match; the other named tracks play during their map encounters.",
-    "steps": [
-      {
-        "title": "Collect the Garment Factory tape",
-        "body": "Interact with the tape on the neck of the headless mannequin by the power-direction arrow.",
-        "images": [
-          {
-            "src": "./assets/modern-coldwar-mauer-der-toten-song_ee-tape1.webp",
-            "alt": "Garment Factory cassette",
-            "caption": "Garment Factory cassette",
-            "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
-            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/mauer_der_toten_guide"
-          }
-        ]
-      },
-      {
-        "title": "Collect the store and suite tapes",
-        "body": "Take the tape on Electronics Store's shelf nearest the south door, then the tape beside the flower vase on the Blasted Suite table near its crafting bench. The third pickup starts Amoeba.",
-        "images": [
-          {
-            "src": "./assets/modern-coldwar-mauer-der-toten-song_ee-tape2.webp",
-            "alt": "Electronics Store cassette",
-            "caption": "Electronics Store cassette",
-            "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
-            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/mauer_der_toten_guide"
-          },
-          {
-            "src": "./assets/modern-coldwar-mauer-der-toten-song_ee-tape3.webp",
-            "alt": "Blasted Suite cassette",
-            "caption": "Blasted Suite cassette",
-            "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
-            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/mauer_der_toten_guide"
-          }
-        ]
-      },
-      {
-        "title": "Hear the other tracks during their encounters",
-        "body": "After power, listen in Hotel Lounge for Berlin 1985 and in the Bar for What Awaits. The bunny nightclub plays Acid Bunny; Valentina's main-quest fight plays Wrath. These describe their map encounters. Non-Battle-Pass Music Player tracks were unlocked globally in November 2021.",
-        "tip": "You can select available menu tracks through Barracks → Music Player without replaying their original encounter unlock."
-      }
-    ],
-    "sources": [
-      {
-        "title": "r/CODZombies: Amoeba's three exact tape positions",
-        "url": "https://www.reddit.com/r/CODZombies/comments/okrj0n/"
-      },
-      {
-        "title": "r/CODZombies: all Mauer music-player unlocks",
-        "url": "https://www.reddit.com/r/CODZombies/comments/ol7dfd/"
-      },
-      {
-        "title": "mmmrkennedy: cassette screenshots",
-        "url": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/mauer_der_toten_guide"
-      },
-      {
-        "title": "November 2021 Music Player unlock announcement",
-        "url": "https://www.reddit.com/r/blackopscoldwar/comments/qmawdn/"
       }
     ],
     "checked": "2026-10-16",
     "relatedGuideIds": [
+      "coldwar-mauer-klaus-full-upgrades",
+      "coldwar-mauer-trials",
+      "coldwar-mauer-weapons-upgrades",
+      "coldwar-mauer-hacking-helm",
+      "coldwar-mauer-der-toten-main"
+    ]
+  },
+  {
+    "id": "coldwar-mauer-amoeba",
+    "mapId": "coldwar-mauer-der-toten",
+    "title": "Amoeba: three tapes and encounter music",
+    "category": "music",
+    "difficulty": "Easy",
+    "players": "1–4 players",
+    "summary": "Find each cassette separately, then locate Mauer's four other named encounter tracks.",
+    "requirements": [
+      "Reach Garment Factory, Electronics Store and Blasted Suite.",
+      "Power on for the Hotel Lounge / Bar ambient encounters; bunny and main-quest progress for their music."
+    ],
+    "reward": "Amoeba plays after the third cassette; the other tracks play during their associated encounters.",
+    "steps": [
+      {
+        "title": "Tape: Garment Factory",
+        "body": "Interact with the cassette on the neck of the headless mannequin beside the power-direction arrow.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/okrj0n/mauer_der_toten_easter_egg_song_locations/",
+        "images": [
+          {
+            "src": "./assets/modern-coldwar-mauer-der-toten-song_ee-tape1.webp",
+            "alt": "Garment Factory: cassette on the headless mannequin's neck.",
+            "caption": "Garment Factory: cassette on the headless mannequin's neck.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/song_ee/tape1.webp"
+          }
+        ]
+      },
+      {
+        "title": "Tape: Electronics Store",
+        "body": "Interact with the cassette on the middle shelf nearest the south entrance of Electronics Store.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/okrj0n/mauer_der_toten_easter_egg_song_locations/",
+        "tip": "This screenshot looks into the shop from the street; its street HUD label is not a different cassette location.",
+        "images": [
+          {
+            "src": "./assets/modern-coldwar-mauer-der-toten-song_ee-tape2.webp",
+            "alt": "Electronics Store: cassette on the shelving just inside the entrance.",
+            "caption": "Electronics Store: cassette on the shelving just inside the entrance.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/song_ee/tape2.webp"
+          }
+        ]
+      },
+      {
+        "title": "Tape: Blasted Suite",
+        "body": "Interact with the cassette beside the flower vase on the Blasted Suite table near the crafting bench. Collecting the last of the three tapes starts Amoeba.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/okrj0n/mauer_der_toten_easter_egg_song_locations/",
+        "images": [
+          {
+            "src": "./assets/modern-coldwar-mauer-der-toten-song_ee-tape3.webp",
+            "alt": "Blasted Suite: cassette beside the flower vase.",
+            "caption": "Blasted Suite: cassette beside the flower vase.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/song_ee/tape3.webp"
+          }
+        ]
+      },
+      {
+        "title": "Hotel Lounge: Berlin 1985",
+        "body": "After restoring power, enter Hotel Lounge to hear Berlin 1985.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/ol7dfd/new_music_added_to_the_music_player_from_mauer/"
+      },
+      {
+        "title": "Bar: What Awaits",
+        "body": "After restoring power, enter the Bar to hear What Awaits.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/ol7dfd/new_music_added_to_the_music_player_from_mauer/"
+      },
+      {
+        "title": "Nightclub: Acid Bunny",
+        "body": "Complete the six bunny-piece collection to enter the nightclub encounter, which plays Acid Bunny. Use the linked bunny guide for the full route.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/ol7dfd/new_music_added_to_the_music_player_from_mauer/"
+      },
+      {
+        "title": "Boss: Wrath",
+        "body": "Start Valentina's main-quest fight to hear Wrath. The linked main guide covers the prerequisites and full ending.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/ol7dfd/new_music_added_to_the_music_player_from_mauer/",
+        "tip": "Updated Cold War unlocked non-Battle-Pass Music Player tracks globally in November 2021. Available menu tracks can be selected in Barracks → Music Player without repeating their original encounter unlock."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Beanstalk3r — firsthand exact cassette locations",
+        "url": "https://www.reddit.com/r/CODZombies/comments/okrj0n/mauer_der_toten_easter_egg_song_locations/"
+      },
+      {
+        "title": "Community encounter-to-track list",
+        "url": "https://www.reddit.com/r/CODZombies/comments/ol7dfd/new_music_added_to_the_music_player_from_mauer/"
+      },
+      {
+        "title": "November 2021 Music Player announcement",
+        "url": "https://www.reddit.com/r/blackopscoldwar/comments/qmawdn/"
+      },
+      {
+        "title": "mmmrkennedy — visually reviewed cassette photographs",
+        "url": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/mauer_der_toten_guide"
+      }
+    ],
+    "checked": "2026-10-16",
+    "relatedGuideIds": [
+      "coldwar-mauer-bunny-nightclub",
+      "coldwar-mauer-der-toten-main",
       "coldwar-outbreak-music-player"
     ]
   },
@@ -1589,51 +1931,166 @@
     "category": "side",
     "difficulty": "Medium",
     "players": "1–4 players",
-    "summary": "Collect six bunny pieces, survive three nightclub waves and choose a reward door.",
+    "summary": "Collect six pictured pieces, clear the hidden-time-limit fight, choose a door and check the Hasenbau window for a later visit.",
     "requirements": [
-      "Access to both street sides, Sewer Access and Hotel Room 304",
-      "Upgraded gun, armor and ammunition before collecting the sixth part"
+      "Standard Mauer der Toten, with power restored for Grocery Store access.",
+      "Reach Grocery Store, Bar, Sewer Access, Hotel Room 304, Department Store and Alley.",
+      "Prepare a strong weapon, armor and ammunition before the sixth pickup: it starts the encounter for the squad."
     ],
-    "reward": "Random reward-room loot, possible CRBR-S and perk; Acid Bunny music unlock",
+    "reward": "Random reward-door loot; a possible Grand Prize with a gold chest and hovering CRBR-S. Acid Bunny plays during the encounter.",
     "steps": [
       {
-        "title": "Collect the six bunny pieces",
-        "body": "Take the part on the Grocery Store shelf; the part on the chair left of Juggernog in the Bar; the Sewer Access part by the pallet / box near the Ghost Station stairs; the Hotel Room 304 desk part; the Department Store shelf part right of Wunderfizz; and the Alley corner part behind the tires and pallets.",
-        "tip": "The sixth pickup teleports the squad immediately, so finish preparation before taking it."
+        "title": "Piece: Grocery Store",
+        "body": "Interact with the bunny part on the Grocery Store shelf.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/okwoz3/mauer_der_toten_easter_egg_hunt_general_map/",
+        "images": [
+          {
+            "src": "./assets/batch8-mauer-nightclub_ee-store.webp",
+            "alt": "Grocery Store: bunny piece on the shelf.",
+            "caption": "Grocery Store: bunny piece on the shelf.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/nightclub_ee/store.webp"
+          }
+        ]
       },
       {
-        "title": "Survive all three nightclub waves",
-        "body": "Fight the attacking zombies and specials until the three waves are complete and Mr. Peeks leaves his stage."
+        "title": "Piece: Bar chair",
+        "body": "Take the piece on the chair to the left of Jugger-Nog in the Bar.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/okwoz3/mauer_der_toten_easter_egg_hunt_general_map/",
+        "images": [
+          {
+            "src": "./assets/batch8-mauer-nightclub_ee-jug.webp",
+            "alt": "Bar: bunny piece on the chair beside Jugger-Nog.",
+            "caption": "Bar: bunny piece on the chair beside Jugger-Nog.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/nightclub_ee/jug.webp"
+          }
+        ]
       },
       {
-        "title": "Choose one of the three doors",
-        "body": "Go up to the stage and pick one reward door before the return timer expires. Loot its room. The best room is random; a numbered door does not guarantee the top chest."
+        "title": "Piece: Sewer Access",
+        "body": "Take the part by the pallet / wooden crate near the stairs leading toward Ghost Station.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/okwoz3/mauer_der_toten_easter_egg_hunt_general_map/",
+        "images": [
+          {
+            "src": "./assets/batch8-mauer-nightclub_ee-sewer.webp",
+            "alt": "Sewer Access: bunny piece by the crate and pallet near the stairs.",
+            "caption": "Sewer Access: bunny piece by the crate and pallet near the stairs.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/nightclub_ee/sewer.webp"
+          }
+        ]
       },
       {
-        "title": "Return after fifteen rounds",
-        "body": "After 15 more rounds, go to East Berlin Streets and shoot Mr. Peeks on the Hasenbau building's window ledge. This reopens the nightclub encounter, allowing another three-wave attempt and another door choice.",
+        "title": "Piece: Hotel Room 304",
+        "body": "Take the bunny piece from the desk in Hotel Room 304.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/okwoz3/mauer_der_toten_easter_egg_hunt_general_map/",
+        "tip": "This part is in Room 304; the free CRBR-S safe is in Room 305.",
+        "images": [
+          {
+            "src": "./assets/batch8-mauer-nightclub_ee-hotel.webp",
+            "alt": "Hotel Room 304: bunny piece on the desk.",
+            "caption": "Hotel Room 304: bunny piece on the desk.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/nightclub_ee/hotel.webp"
+          }
+        ]
+      },
+      {
+        "title": "Piece: Department Store",
+        "body": "Take the part on the shelf to the right of Wunderfizz.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/okwoz3/mauer_der_toten_easter_egg_hunt_general_map/",
+        "images": [
+          {
+            "src": "./assets/batch8-mauer-nightclub_ee-departmentstore.webp",
+            "alt": "Department Store: bunny piece on shelving beside Wunderfizz.",
+            "caption": "Department Store: bunny piece on shelving beside Wunderfizz.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/nightclub_ee/departmentstore.webp"
+          }
+        ]
+      },
+      {
+        "title": "Piece: Alley",
+        "body": "Collect the piece behind the tires / pallets in the Alley.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/okwoz3/mauer_der_toten_easter_egg_hunt_general_map/",
+        "tip": "Any order works. Whichever part is your sixth causes the squad teleport, so finish preparation first.",
+        "images": [
+          {
+            "src": "./assets/batch8-mauer-nightclub_ee-alley.webp",
+            "alt": "Alley: bunny piece in the corner behind the tires and pallets.",
+            "caption": "Alley: bunny piece in the corner behind the tires and pallets.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/nightclub_ee/alley.webp"
+          }
+        ]
+      },
+      {
+        "title": "Clear the three waves promptly",
+        "body": "Kill the nightclub's attackers through all three waves. The encounter has a hidden overall time limit. Normal kills here do not award Essence; a Max Ammo signals success or the time limit expiring.",
+        "researchSource": "https://www.callofduty.com/au/en/blog/2021/07/prestige-primer-34-season-four-mauer-der-toten-challenge",
+        "tip": "A teleport out before reaching the reward stage is not proof all three waves were cleared. Bring enough damage to finish promptly."
+      },
+      {
+        "title": "Choose and loot one door",
+        "body": "When Mr. Peeks leaves the stage, go to it and open one of the three numbered doors. Collect the offered loot before the return countdown runs out.",
+        "researchSource": "https://www.callofduty.com/au/en/blog/2021/07/prestige-primer-34-season-four-mauer-der-toten-challenge",
+        "tip": "The best door is random. The door number does not encode a guaranteed top reward."
+      },
+      {
+        "title": "Recognize the Grand Prize",
+        "body": "For the Grand Prize result, look for the gold chest together with the CRBR-S hovering above it. A gold chest alone is not the same result.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/om78pf/for_anyone_who_didnt_know_the_bunny_ee_can_be/",
+        "tip": "Firsthand reports award the Grand Prize calling card to the player who opens that door. Do not assume the entire squad receives it."
+      },
+      {
+        "title": "Check the Hasenbau window later",
+        "body": "After roughly 15 additional rounds, look from East Berlin Streets at the Hasenbau building's window shown here. If Mr. Peeks is present, shoot him to start another nightclub visit and repeat the three-wave / door process.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/om78pf/for_anyone_who_didnt_know_the_bunny_ee_can_be/",
+        "tip": "If the window is empty at the expected boundary, check again after the next round. Players report both 15- and 16-round spacing; the exact boundary and maximum number of repeat visits remain unresolved across builds. Do not plan on unlimited retries.",
         "images": [
           {
             "src": "./assets/modern-coldwar-mauer-der-toten-nightclub_ee-bunny_window.webp",
-            "alt": "Hasenbau window bunny used for repeat visits",
-            "caption": "Hasenbau window bunny used for repeat visits",
-            "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
-            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/mauer_der_toten_guide"
+            "alt": "Hasenbau repeat-entry window: Mr. Peeks appears on the window ledge. Shoot the visible bunny.",
+            "caption": "Hasenbau repeat-entry window: Mr. Peeks appears on the window ledge. Shoot the visible bunny.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/nightclub_ee/bunny_window.webp"
           }
         ]
       }
     ],
     "sources": [
       {
-        "title": "r/CODZombies: Klaus, safe and bunny community walkthrough",
+        "title": "Firsthand map-hunt thread — six bunny locations",
         "url": "https://www.reddit.com/r/CODZombies/comments/okwoz3/mauer_der_toten_easter_egg_hunt_general_map/"
       },
       {
-        "title": "mmmrkennedy: repeat-entry window and fifteen-round rule",
+        "title": "Activision — three waves, hidden time limit, Essence and reward doors",
+        "url": "https://www.callofduty.com/au/en/blog/2021/07/prestige-primer-34-season-four-mauer-der-toten-challenge"
+      },
+      {
+        "title": "Swkingll — filmed repeat entry and Grand Prize / opener reports",
+        "url": "https://www.reddit.com/r/CODZombies/comments/om78pf/for_anyone_who_didnt_know_the_bunny_ee_can_be/"
+      },
+      {
+        "title": "Firsthand repeat-round / visit-count conflicts",
+        "url": "https://www.reddit.com/r/CODZombies/comments/pfvcpc/mauer_der_toten_bunny_easter_egg_multiple_times/"
+      },
+      {
+        "title": "Treyarch — August 26 nightclub stability update",
+        "url": "https://www.treyarch.com/game-intel/2021/08/August_26_2021_Patch_Notes"
+      },
+      {
+        "title": "mmmrkennedy — six parts and return-window photos",
         "url": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/mauer_der_toten_guide"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-16",
+    "relatedGuideIds": [
+      "coldwar-mauer-power-pack-setup",
+      "coldwar-mauer-free-crbrs-variants",
+      "coldwar-mauer-amoeba"
+    ]
   },
   {
     "id": "coldwar-mauer-rooftop-aether-tool",
@@ -1644,59 +2101,157 @@
     "players": "1–4 players",
     "summary": "Hit five distant moving targets for a rarity upgrade. There is one attempt per match.",
     "requirements": [
-      "Power on",
-      "An accurate ranged weapon with ammunition; an optic helps",
-      "Hold the weapon you want upgraded when collecting the reward"
+      "Power on; an accurate ranged gun and enough ammunition.",
+      "An optic helps spot the distant targets. A teammate can cover nearby zombies.",
+      "Use a weapon below Legendary rarity if you want to benefit from the tool."
     ],
-    "reward": "Aether Tool weapon-rarity upgrade",
+    "reward": "An Aether Tool that raises the held ordinary weapon by one rarity level; Pack-a-Punch is separate.",
     "steps": [
       {
-        "title": "Start at the Apartment Rooftop folder",
-        "body": "Locate the manila folder in the street-facing corner of the spawn Apartment Rooftop. Interact only when you are ready: the target sequence begins immediately.",
+        "title": "Start at the rooftop folder",
+        "body": "On the spawn Apartment Rooftop, find the manila folder at the street-facing corner and interact when ready. The moving-target sequence starts immediately.",
+        "researchSource": "https://tracker.gg/cold-war/articles/black-ops-cold-war-zombies-mauer-der-toten-aether-tool-guide",
         "images": [
           {
             "src": "./assets/modern-coldwar-mauer-der-toten-aether_tool_ee-folder.webp",
-            "alt": "Folder starting the rooftop target sequence",
-            "caption": "Folder starting the rooftop target sequence",
-            "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
-            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/mauer_der_toten_guide"
+            "alt": "Apartment Rooftop: folder starts the single target-practice attempt.",
+            "caption": "Apartment Rooftop: folder starts the single target-practice attempt.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/aether_tool_ee/folder.webp"
           }
         ]
       },
       {
-        "title": "Hit five targets before they vanish",
-        "body": "Shoot the left-to-right targets in this order: Königshaus sign; Königshaus building windows below it; Korber sign; Der Dozent building's illuminated upper windows; Der Dozent sign. Each target appears after the previous one is hit.",
-        "tip": "Missing one ends the single attempt. Have a teammate cover the rooftop zombies.",
+        "title": "1: Königshaus sign",
+        "body": "Shoot the moving target at the Königshaus sign.",
+        "researchSource": "https://tracker.gg/cold-war/articles/black-ops-cold-war-zombies-mauer-der-toten-aether-tool-guide",
+        "tip": "Each new target appears after the previous one is hit. A bullet miss is recoverable while that target is still present; letting it escape fails the attempt.",
         "images": [
           {
             "src": "./assets/modern-coldwar-mauer-der-toten-aether_tool_ee-target1_zoomout.webp",
-            "alt": "First target: distant Königshaus sign",
-            "caption": "First target: distant Königshaus sign",
-            "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
-            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/mauer_der_toten_guide"
+            "alt": "First target: Königshaus sign. Wide view.",
+            "caption": "First target: Königshaus sign. Wide view.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/aether_tool_ee/target1_zoomout.webp"
+          },
+          {
+            "src": "./assets/batch8-mauer-aether_tool_ee-target1_zoomin.webp",
+            "alt": "First target: Königshaus sign. Closer view.",
+            "caption": "First target: Königshaus sign. Closer view.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/aether_tool_ee/target1_zoomin.webp"
           }
         ]
       },
       {
-        "title": "Collect the tool with your intended gun",
-        "body": "Take the spawned Aether Tool while holding the weapon whose rarity you want increased. Pack-a-Punch tier is separate from this rarity reward."
+        "title": "2: Königshaus windows",
+        "body": "Look below that sign and shoot the next target moving across the Königshaus windows.",
+        "researchSource": "https://tracker.gg/cold-war/articles/black-ops-cold-war-zombies-mauer-der-toten-aether-tool-guide",
+        "images": [
+          {
+            "src": "./assets/batch8-mauer-aether_tool_ee-target2_zoomout.webp",
+            "alt": "Second target: Königshaus windows below the sign. Wide view.",
+            "caption": "Second target: Königshaus windows below the sign. Wide view.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/aether_tool_ee/target2_zoomout.webp"
+          },
+          {
+            "src": "./assets/batch8-mauer-aether_tool_ee-target2_zoomin.webp",
+            "alt": "Second target: Königshaus windows below the sign. Closer view.",
+            "caption": "Second target: Königshaus windows below the sign. Closer view.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/aether_tool_ee/target2_zoomin.webp"
+          }
+        ]
+      },
+      {
+        "title": "3: Korber sign",
+        "body": "Turn toward the Korber sign and hit the next moving target.",
+        "researchSource": "https://tracker.gg/cold-war/articles/black-ops-cold-war-zombies-mauer-der-toten-aether-tool-guide",
+        "images": [
+          {
+            "src": "./assets/batch8-mauer-aether_tool_ee-target3_zoomout.webp",
+            "alt": "Third target: Korber sign. Wide view.",
+            "caption": "Third target: Korber sign. Wide view.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/aether_tool_ee/target3_zoomout.webp"
+          },
+          {
+            "src": "./assets/batch8-mauer-aether_tool_ee-target3_zoomin.webp",
+            "alt": "Third target: Korber sign. Closer view.",
+            "caption": "Third target: Korber sign. Closer view.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/aether_tool_ee/target3_zoomin.webp"
+          }
+        ]
+      },
+      {
+        "title": "4: Der Dozent upper windows",
+        "body": "Watch the illuminated upper windows of the Der Dozent building and shoot the fourth target.",
+        "researchSource": "https://tracker.gg/cold-war/articles/black-ops-cold-war-zombies-mauer-der-toten-aether-tool-guide",
+        "images": [
+          {
+            "src": "./assets/batch8-mauer-aether_tool_ee-target4_zoomout.webp",
+            "alt": "Fourth target: the Der Dozent building's upper windows. Wide view.",
+            "caption": "Fourth target: the Der Dozent building's upper windows. Wide view.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/aether_tool_ee/target4_zoomout.webp"
+          },
+          {
+            "src": "./assets/batch8-mauer-aether_tool_ee-target4_zoomin.webp",
+            "alt": "Fourth target: the Der Dozent building's upper windows. Closer view.",
+            "caption": "Fourth target: the Der Dozent building's upper windows. Closer view.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/aether_tool_ee/target4_zoomin.webp"
+          }
+        ]
+      },
+      {
+        "title": "5: Der Dozent sign",
+        "body": "Hit the final target moving across the Der Dozent sign.",
+        "researchSource": "https://tracker.gg/cold-war/articles/black-ops-cold-war-zombies-mauer-der-toten-aether-tool-guide",
+        "images": [
+          {
+            "src": "./assets/batch8-mauer-aether_tool_ee-target5_zoomout.webp",
+            "alt": "Fifth target: Der Dozent sign. Wide view.",
+            "caption": "Fifth target: Der Dozent sign. Wide view.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/aether_tool_ee/target5_zoomout.webp"
+          },
+          {
+            "src": "./assets/batch8-mauer-aether_tool_ee-target5_zoomin.webp",
+            "alt": "Fifth target: Der Dozent sign. Closer view.",
+            "caption": "Fifth target: Der Dozent sign. Closer view.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/aether_tool_ee/target5_zoomin.webp"
+          }
+        ]
+      },
+      {
+        "title": "Collect the one-tier rarity tool",
+        "body": "After hitting all five targets, hold the ordinary gun you want improved and collect the spawned Aether Tool. It raises that gun's rarity by one level, rather than automatically making every gun Legendary.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/olbduy/",
+        "tip": "There is one target-practice attempt per match. If a target escapes, restart the match for a fresh attempt."
       }
     ],
     "sources": [
       {
-        "title": "Cold War Tracker: five-target order and single-attempt rule",
+        "title": "Ethan C — five targets, order and one attempt",
         "url": "https://tracker.gg/cold-war/articles/black-ops-cold-war-zombies-mauer-der-toten-aether-tool-guide"
       },
       {
-        "title": "r/CODZombies: weapon-tier effect",
+        "title": "Firsthand weapon-tier effect discussion",
         "url": "https://www.reddit.com/r/CODZombies/comments/olbduy/"
       },
       {
-        "title": "mmmrkennedy: starting folder screenshot",
+        "title": "mmmrkennedy — five visually reviewed wide / close target views",
         "url": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/mauer_der_toten_guide"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-16",
+    "relatedGuideIds": [
+      "coldwar-mauer-weapons-upgrades"
+    ]
   },
   {
     "id": "coldwar-mauer-sewer-loot",
@@ -1707,36 +2262,54 @@
     "players": "1–4 players",
     "summary": "Throw explosives into an open East Berlin sewer to shake loose hidden rewards.",
     "requirements": [
-      "Explosive equipment or an explosive weapon"
+      "Access to East Berlin Streets.",
+      "Grenades or another explosive attack; enough supplies to try more than one blast."
     ],
-    "reward": "Random loot, up to three times per match",
+    "reward": "Random loot from up to three successful drops per match. A Kazimir / perk is a possible result, not a guaranteed first reward.",
     "steps": [
       {
-        "title": "Locate the open sewer beside the vehicle",
-        "body": "Go to East Berlin Streets and find the exposed sewer opening in the road near the military vehicle.",
+        "title": "Find the East Berlin hole",
+        "body": "In East Berlin Streets, locate the open sewer beside the military vehicle shown in the photo.",
+        "researchSource": "https://tracker.gg/cold-war/articles/black-ops-cold-war-zombies-mauer-der-toten-free-lt53-kazimir-loot-guide",
+        "tip": "This is the street opening, not the large grate in the underground Sewer Access room.",
         "images": [
           {
             "src": "./assets/modern-coldwar-mauer-der-toten-gersh_device_ee-hole.webp",
-            "alt": "East Berlin's exposed sewer loot hole",
-            "caption": "East Berlin's exposed sewer loot hole",
-            "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
-            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/mauer_der_toten_guide"
+            "alt": "East Berlin Streets: exposed sewer hole beside the military vehicle.",
+            "caption": "East Berlin Streets: exposed sewer hole beside the military vehicle.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/gersh_device_ee/hole.webp"
           }
         ]
       },
       {
-        "title": "Use explosives and collect the drop",
-        "body": "Throw a grenade or fire an explosive down the hole until loot appears. Pick it up and repeat, up to three successful drops in the match.",
-        "tip": "Avoid standing over your own explosive. Ordinary bullet hits do not trigger this reward."
+        "title": "Send explosives into it",
+        "body": "Throw explosives into the opening until it produces loot. Collect the drop without standing on your own blast.",
+        "researchSource": "https://tracker.gg/cold-war/articles/black-ops-cold-war-zombies-mauer-der-toten-free-lt53-kazimir-loot-guide",
+        "tip": "The evidence does not justify an exact two-grenade requirement. Keep equipment landing inside the hole."
+      },
+      {
+        "title": "Repeat for up to three drops",
+        "body": "Use more explosives and collect further rewards, up to three successful drops in the match.",
+        "researchSource": "https://tracker.gg/cold-war/articles/black-ops-cold-war-zombies-mauer-der-toten-free-lt53-kazimir-loot-guide",
+        "tip": "The loot is random. Ordinary bullets are not the documented trigger."
       }
     ],
     "sources": [
       {
-        "title": "mmmrkennedy: sewer-hole trigger and three-use limit",
+        "title": "Ethan C — original East Berlin explosive-hole route and possible loot",
+        "url": "https://tracker.gg/cold-war/articles/black-ops-cold-war-zombies-mauer-der-toten-free-lt53-kazimir-loot-guide"
+      },
+      {
+        "title": "mmmrkennedy — hole photo and three-drop route",
         "url": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/mauer_der_toten_guide"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-16",
+    "relatedGuideIds": [
+      "coldwar-mauer-power-pack-setup",
+      "coldwar-mauer-weapons-upgrades"
+    ]
   },
   {
     "id": "coldwar-forsaken-pizza-deliveries",

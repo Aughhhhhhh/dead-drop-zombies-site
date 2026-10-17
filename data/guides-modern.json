@@ -1641,97 +1641,345 @@
     "title": "Tin Man Heart: Mauer der Toten main quest",
     "category": "main",
     "difficulty": "Hard",
-    "players": "1–4 players, online",
-    "summary": "Repair Klaus, fill three essence canisters, stop a train, cleanse uranium and stop Valentina.",
+    "players": "1–4 players, standard online Mauer der Toten",
+    "summary": "Use the setup companions, fill three canisters, stop the train, collide two pairs of Uranium Devices, capture Valentina and finish Klaus's escort.",
     "requirements": [
-      "Power and Pack-a-Punch",
-      "Brain Rot ammo mod",
-      "CRBR-S and its Blazer mod kit",
-      "Klaus upgraded once",
-      "A complete boss loadout before depositing the second cleansed uranium"
+      "Standard online Solo, Private or Public Mauer der Toten; the Local/offline mode does not provide the complete main-quest route.",
+      "Power, Pack-a-Punch and Brain Rot for Klaus's hands.",
+      "Klaus assembled; first station-defense upgrade before the train. The two disk upgrades are optional.",
+      "CRBR-S, including a dropped Blazer kit for the Secret Lab wall and base pistol for the Helm targets.",
+      "Armor, upgraded weapons, perks and ammunition before depositing the second Cleansed Uranium."
     ],
-    "reward": "Tin Man Heart completion and ending cinematic",
+    "reward": "Tin Man Heart Dark Ops completion / calling card and the ending cinematic after the final escort.",
     "steps": [
       {
-        "title": "Restore power and unlock Pack-a-Punch",
-        "body": "Follow the power arrows from the rooftops to the underground Power Room. Attempt the power switch, then kill the two waypoint-marked Tempests and collect their fuses. Install both fuses and pull the switch again. At Checkpoint Charlie, interact with Pack-a-Punch and kill the Disciple protecting it."
+        "title": "Restore power",
+        "body": "Once in the power room you will notice that pulling the lever to turn the power on will not work since it will blow the fuses. You will need to collect 2 new fuses.\n\nIf you've already killed the other tempest to collect the 2nd fuse then head back to the power room and insert the fuses, pulling the lever to turn on the power (the 2nd fuse will be with a tempest either on the train tracks or in the pub on the right side of the East Berlin streets - basically in the area you haven't yet opened up).",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/orzsnv/the_ultimate_ee_guides_mauer_der_toten/",
+        "html": "<p>Once in the power room you will notice that pulling the lever to turn the power on will not work since it will blow the fuses. You will need to collect 2 new fuses.</p>\n<p>If you&#39;ve already killed the other tempest to collect the 2nd fuse then head back to the power room and insert the fuses, pulling the lever to turn on the power (the 2nd fuse will be with a tempest either on the train tracks or in the pub on the right side of the East Berlin streets - basically in the area you haven&#39;t yet opened up).</p>"
       },
       {
-        "title": "Repair Klaus",
-        "body": "Buy Brain Rot at Pack-a-Punch and turn a zombie inside Hotel Room 305. It breaks the boarded bedroom door; take Klaus's hands from the corpse. Kill the first Krasny Soldat, which normally arrives on round 10, and collect its battery. Install the hands and battery on Klaus in the underground Safe House."
+        "title": "Unlock Pack-a-Punch",
+        "body": "From here, head to Checkpoint Charlie (where PAP is) and interact with the machine. A Disciple will summon a horde of Zombies to attack you and all you need to do is kill the Disciple and then Pack A Punch will be available for you to use.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/orzsnv/the_ultimate_ee_guides_mauer_der_toten/",
+        "html": "<p>From here, head to Checkpoint Charlie (where PAP is) and interact with the machine. A Disciple will summon a horde of Zombies to attack you and all you need to do is kill the Disciple and then Pack A Punch will be available for you to use.</p>"
       },
       {
-        "title": "Get the free CRBR-S",
-        "body": "Command Klaus to the locker in Switch Control Room; he opens it and exposes a blacklight. Collect it. Read three two-digit codes with the blacklight: Garment Factory first, Service Passage second, Grocery Store third. Check the walls, chalkboard and shelf ends until each hidden pair appears. Enter those pairs into the corresponding three dials on the safe in Room 305's hidden bedroom and collect the CRBR-S.",
-        "tip": "The code varies each match. If you already obtained a CRBR-S from the box or Legendary Trials, you can skip this safe route."
+        "title": "Build Klaus and get the CRBR-S",
+        "body": "Use the linked Klaus and free CRBR-S guides before continuing. You need the assembled robot and the CRBR-S.",
+        "researchSource": "https://tracker.gg/cold-war/articles/black-ops-cold-war-zombies-mauer-der-toten-klaus-guide",
+        "tip": "Box / Legendary Trial CRBR-S drops can replace the safe pickup. Only one station-defense upgrade is required before the train.",
+        "original": true
       },
       {
-        "title": "Upgrade Klaus once",
-        "body": "Dig the Death Strip piles beneath the guard towers until you find the Microwave Dish. Install it at the Garment Factory upgrade station. Let Klaus kill zombies until the station's light turns green, then command him in front of it. Defend him for the full one-minute upgrade. The later floppy-disk upgrades are optional."
+        "title": "Punch open the lab's brickwork",
+        "body": "Once Klaus is activate you will have a control you can use with LB/L1 to move Klaus wherever you want. I would advise that when you have him first active, go to the sewer access and you will see a wall at the back of the room. Take Klaus to this wall and he will use his fist to smash this wall down.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/orzsnv/the_ultimate_ee_guides_mauer_der_toten/",
+        "tip": "Use your own Tactical Equipment binding. Open this wall during Klaus's first activation to avoid conflicting upgrade-order advice in older routes.",
+        "images": [
+          {
+            "src": "./assets/batch8-mauer-main_ee-brickwall.webp",
+            "alt": "Sewer Access: command Klaus at this brick wall to reveal the metal barrier.",
+            "caption": "Sewer Access: command Klaus at this brick wall to reveal the metal barrier.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/main_ee/brickwall.webp"
+          }
+        ],
+        "html": "<p>Once Klaus is activate you will have a control you can use with LB/L1 to move Klaus wherever you want. I would advise that when you have him first active, go to the sewer access and you will see a wall at the back of the room. Take Klaus to this wall and he will use his fist to smash this wall down.</p>"
       },
       {
-        "title": "Open the Secret Lab",
-        "body": "Command Klaus at the suspicious wall at the back of Sewer Access so he punches it open. Kill enemies with the CRBR-S until they drop a Blazer mod kit, pick it up and use the laser mode to melt the revealed metal door. Enter the lab, clear its enemies and advance a round if the orange protective fields still cover the equipment."
+        "title": "Complete Klaus's first defense",
+        "body": "Use the linked Klaus station route: fit the dish, let Klaus get kills until the monitor is green, then defend him for one minute. The two disk upgrades are optional.",
+        "researchSource": "https://tracker.gg/checkpoint/articles/black-ops-cold-war-zombies-mauer-der-toten-klaus-upgrade-guide",
+        "tip": "Use the green monitor rather than an approximate kill total.",
+        "original": true
       },
       {
-        "title": "Fill the three essence canisters",
-        "body": "Take the three canisters from the Secret Lab's central device. Shoot the lure dispenser with the CRBR-S and take an Endstation Lure. Search the seven harvester candidates: Sewer Access, Ghost Station, Destroyed Penthouse, Korber Rooftop, the alley by the dumpster, East Berlin Streets between the bar and Electronics Store, and West Berlin Street beside the small metal shed. Three harvesters are active per match. Place a canister in one, throw its lure nearby and kill the spawned Tempests near it. Return the filled canister to the lab. Repeat for the other two, taking fresh lures.",
-        "tip": "The filled canister slows you and its pulse attack can clear your path. Refill armor and move carefully during each return."
+        "title": "Melt the exposed metal wall",
+        "body": "Now you will need to kill Zombies with the CRBR-S until they drop the Laser variant of the weapon. Collect this and then go down to the door in the sewer access and shoot it using the Laser variant of the CRBR-S until it melts the door down and you are able to enter the room.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/orzsnv/the_ultimate_ee_guides_mauer_der_toten/",
+        "tip": "Blazer is the laser Mod Kit.",
+        "html": "<p>Now you will need to kill Zombies with the CRBR-S until they drop the Laser variant of the weapon. Collect this and then go down to the door in the sewer access and shoot it using the Laser variant of the CRBR-S until it melts the door down and you are able to enter the room.</p>"
       },
       {
-        "title": "Build Klaus's hacking headgear",
-        "body": "Using the CRBR-S, shoot the antenna tower at rooftop spawn, the green electrical box on the Ghost Station platform opposite Mule Kick, and the radios in Electronics Store. Collect the part released at each location and interact with Klaus's head in the Safe House to install the hacking helm."
+        "title": "Clear the Tormentor round",
+        "body": "Enter the Secret Lab and finish the triggered Tormentor round. Once that round ends, the orange protective fields drop from the lab equipment.",
+        "researchSource": "https://www.treyarch.com/game-intel/2021/07/July_20_2021_Patch_Notes",
+        "tip": "If you entered between rounds and the equipment remains shielded, finish the active Tormentor round before attempting pickups.",
+        "original": true
       },
       {
-        "title": "Stop the train and take both items",
-        "body": "With an upgraded Klaus active, flip the train-track switch in Switch Control Room and command Klaus onto the track furthest from Mule Kick, near the ticket booth. His stopping stance confirms the placement. When he stops the train, quickly board it and take Rico's Keycard from the seated corpse and the Warhead from the central crate. Put the Warhead into the Secret Lab's central device.",
-        "tip": "If the train passes or Klaus deactivates, wait for his next activation, switch the tracks again and repeat. You need both train items."
+        "title": "Take canisters and a lure",
+        "body": "Now that the orbs have vanished from the Secret Lab, you'll need to collect the 3 cannisters from the centre. Then, with your CRBR-S you will want to shoot the essence trap container to release an essence trap for collection (this is located right next to the canisters, it was the other item in the room trapped by the orb originally).",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/orzsnv/the_ultimate_ee_guides_mauer_der_toten/",
+        "tip": "The Endstation Lure uses the tactical slot. Take a fresh lure for each harvester.",
+        "images": [
+          {
+            "src": "./assets/batch8-mauer-main_ee-conversionunit.webp",
+            "alt": "Secret Lab central conversion unit: take the canisters after its field drops.",
+            "caption": "Secret Lab central conversion unit: take the canisters after its field drops.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/main_ee/conversionunit.webp"
+          },
+          {
+            "src": "./assets/batch8-mauer-main_ee-luremachine.webp",
+            "alt": "Secret Lab lure dispenser: shoot it with the CRBR-S and collect the lure.",
+            "caption": "Secret Lab lure dispenser: shoot it with the CRBR-S and collect the lure.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/main_ee/luremachine.webp"
+          }
+        ],
+        "html": "<p>Now that the orbs have vanished from the Secret Lab, you&#39;ll need to collect the 3 cannisters from the centre. Then, with your CRBR-S you will want to shoot the essence trap container to release an essence trap for collection (this is located right next to the canisters, it was the other item in the room trapped by the orb originally).</p>"
       },
       {
-        "title": "Prepare the uranium route, then activate the satellite",
-        "body": "Insert Rico's card at the Safe House computer and browse its files until the disruptor-satellite sequence is unlocked. When its screen goes red, go to the computer in the West Berlin Street tent to the right of the Trials machine and activate the satellite. Kill the marked Megaton and its split halves, then collect the two uranium rocks. At a tent's special workbench, turn each rock into a Uranium Device before taking it to the roof zipline. Complete both deliveries within the on-screen five-minute window.",
-        "tip": "Finish perks, armor and route planning before activating the satellite. The failure timer ends the match. Published sources disagree about its exact trigger, so do not wait for the Megaton to die before treating this as timed."
+        "title": "Find an active harvester",
+        "body": "Place the canisters at 3 of the machines with green lights around the map and throw the lure down to spawn Tempests.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/ol0r28/mauer_der_toten_main_ee_guide/",
+        "tip": "The candidates cover Ghost Station, Sewer Access, Destroyed Penthouse, Korber Rooftop, Alley and both street sides. A candidate without an active collector is not a missing quest part.",
+        "html": "<p>Place the canisters at 3 of the machines with green lights around the map and throw the lure down to spawn Tempests.</p>"
       },
       {
-        "title": "Collide two Uranium Devices",
-        "body": "Take one rock to the special workbench in a street tent and craft its device. Put it on one end of the zipline linking the Destroyed Penthouse rooftop above Grocery Store to Korber Rooftop. Craft the other rock and put it on the opposite end. The devices collide, stopping the timer and dropping Cleansed Uranium into the street. Pick it up and deposit it in the Secret Lab device."
+        "title": "Fill and return all three",
+        "body": "Kill the Tempests to charge the canister and then pick it up and bring it back to the machine in the lab where you originally got the canisters.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/ol0r28/mauer_der_toten_main_ee_guide/",
+        "tip": "If a canister is not charged, collect a replacement lure and summon more Tempests beside that same collector. Sources disagree on a fixed kill count; use the charged state / pickup prompt. Carrying slows you, and the temporary pulse ability helps clear the return route.",
+        "html": "<p>Kill the Tempests to charge the canister and then pick it up and bring it back to the machine in the lab where you originally got the canisters.</p>"
       },
       {
-        "title": "Repeat uranium, then start Valentina",
-        "body": "Advance as prompted, activate the satellite again and repeat the Megaton, crafting and zipline collision process. Obtain the second Cleansed Uranium. Finish buying armor, perks and ammunition before depositing it: that second deposit starts the boss encounter."
+        "title": "Fit Klaus's Hacking Helm",
+        "body": "Now you have all 3 parts, you'll need to go down to the safe house and craft them onto Klaus. This will complete the step and you'll be given a quote by Klaus to confirm this.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/orzsnv/the_ultimate_ee_guides_mauer_der_toten/",
+        "tip": "See the Hacking Helm companion for all three targets.",
+        "html": "<p>Now you have all 3 parts, you&#39;ll need to go down to the safe house and craft them onto Klaus. This will complete the step and you&#39;ll be given a quote by Klaus to confirm this.</p>"
       },
       {
-        "title": "Fight through Valentina's locations",
-        "body": "Shoot her blue shield down, then damage her exposed body. Kill the floating zombies she summons to heal herself. Move behind solid cover when a blue haze appears on your screen, because her charged blast can instantly down you. Follow her between Secret Lab, the streets and Destroyed Penthouse, repairing armor between phases. Keep repeating shield break and health damage until the final lab phase ends."
+        "title": "Stop the train",
+        "body": "Switch the train tracks at the room near the train station where you can get the blacklight. Send Klaus onto the tracks opposite from the room and he will stop the train. Enter the train and pick up BOTH the keycard from the zombie and the payload from the briefcase.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/ol0r28/mauer_der_toten_main_ee_guide/",
+        "tip": "Use the far track, away from Mule Kick, near the M16 / ticket booth. Look for Klaus's arms-out stopping stance. If he misses it, recall him when available, flip the lever again and re-place him.",
+        "images": [
+          {
+            "src": "./assets/batch8-mauer-main_ee-railwayswitch.webp",
+            "alt": "Switch Control Room: train-track lever.",
+            "caption": "Switch Control Room: train-track lever.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/main_ee/railwayswitch.webp"
+          },
+          {
+            "src": "./assets/batch8-mauer-main_ee-klaus_on_tracks.webp",
+            "alt": "Klaus's stopping stance on the far track is the placement confirmation.",
+            "caption": "Klaus's stopping stance on the far track is the placement confirmation.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/main_ee/klaus_on_tracks.webp"
+          }
+        ],
+        "html": "<p>Switch the train tracks at the room near the train station where you can get the blacklight. Send Klaus onto the tracks opposite from the room and he will stop the train. Enter the train and pick up BOTH the keycard from the zombie and the payload from the briefcase.</p>"
       },
       {
-        "title": "Protect Klaus during the portal delivery",
-        "body": "After the scene, Klaus carries the Warhead toward the portal. Kill zombies, Tormentors and Mimics approaching him until he reaches it and says goodbye. This last escort completes the quest; losing it can end the run."
+        "title": "Board and take both quest items",
+        "body": "Once onto the train, collect the ID Card on the chair and the Warhead in the centre in an open box.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/orzsnv/the_ultimate_ee_guides_mauer_der_toten/",
+        "tip": "Also collect Rico's Note inside the stopped carriage.",
+        "images": [
+          {
+            "src": "./assets/batch8-mauer-main_ee-train_keycard.webp",
+            "alt": "Stopped carriage: Rico's Keycard by the seated body. This is not a close-up of Rico's Note.",
+            "caption": "Stopped carriage: Rico's Keycard by the seated body. This is not a close-up of Rico's Note.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/main_ee/train_keycard.webp"
+          },
+          {
+            "src": "./assets/batch8-mauer-main_ee-train_bomb.webp",
+            "alt": "Stopped carriage: Warhead in its open central crate.",
+            "caption": "Stopped carriage: Warhead in its open central crate.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/main_ee/train_bomb.webp"
+          }
+        ],
+        "html": "<p>Once onto the train, collect the ID Card on the chair and the Warhead in the centre in an open box.</p>"
+      },
+      {
+        "title": "Fit the Warhead and read files",
+        "body": "Put the Warhead into the Secret Lab's conversion unit. Insert Rico's Keycard at the Safe House computer and browse its files until the satellite option is unlocked. The computer also supplies three Requiem documents.",
+        "researchSource": "https://www.pcgamer.com/cod-cold-war-mauer-der-toten-easter-egg-wonder-weapon/",
+        "tip": "For this documented route, leave satellite activation for the street-tent computer rather than choosing it at the Safe House.",
+        "images": [
+          {
+            "src": "./assets/batch8-mauer-main_ee-safehouse_computer.webp",
+            "alt": "Safe House computer: insert the card and browse its files after fitting the Warhead.",
+            "caption": "Safe House computer: insert the card and browse its files after fitting the Warhead.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/main_ee/safehouse_computer.webp"
+          }
+        ],
+        "original": true
+      },
+      {
+        "title": "Activate at the West Berlin tent",
+        "body": "Prepare both roof routes, armor and ammunition first. At the computer in the West Berlin tent beside the Trials area, choose Activate the Disruptor Satellite. Follow the beam / HVT marker.",
+        "researchSource": "https://www.pcgamer.com/cod-cold-war-mauer-der-toten-easter-egg-wonder-weapon/",
+        "tip": "Treat the entire event as timed from activation. Sources disagree on the precise trigger and duration; follow the actual on-screen countdown. Letting it expire ends the match.",
+        "original": true
+      },
+      {
+        "title": "Defeat the marked Megaton",
+        "body": "Kill the marked Megaton and both split halves, then find the two dropped Corrupted Uranium pieces.",
+        "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=2955764069",
+        "original": true
+      },
+      {
+        "title": "Craft and place device one",
+        "body": "At a special uranium bench in either street tent, craft one Corrupted Uranium into a Uranium Device. Carry it to one end of the zipline between Korber Rooftop and the Destroyed Penthouse roof above Grocery Store, then attach it.",
+        "researchSource": "https://www.pcgamer.com/cod-cold-war-mauer-der-toten-easter-egg-wonder-weapon/",
+        "tip": "In solo, complete the two deliveries one after the other. Two simultaneous players are not required.",
+        "images": [
+          {
+            "src": "./assets/batch8-mauer-main_ee-west_bench.webp",
+            "alt": "West Berlin Street tent: special uranium workbench.",
+            "caption": "West Berlin Street tent: special uranium workbench.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/main_ee/west_bench.webp"
+          },
+          {
+            "src": "./assets/batch8-mauer-main_ee-east_bench.webp",
+            "alt": "East Berlin Street tent: alternative special uranium workbench.",
+            "caption": "East Berlin Street tent: alternative special uranium workbench.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/main_ee/east_bench.webp"
+          },
+          {
+            "src": "./assets/batch8-mauer-main_ee-korber_zipline.webp",
+            "alt": "Korber Rooftop: one endpoint of the collision zipline.",
+            "caption": "Korber Rooftop: one endpoint of the collision zipline.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/main_ee/korber_zipline.webp"
+          }
+        ],
+        "original": true
+      },
+      {
+        "title": "Place device two on the other end",
+        "body": "Craft the other Uranium Device and place it on the opposite endpoint. The devices travel together and collide, stopping the timer and dropping Cleansed Uranium into West Berlin Street.",
+        "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=2955764069",
+        "tip": "Carried uranium drains health; put it down if you need to recover, while watching the event countdown.",
+        "images": [
+          {
+            "src": "./assets/batch8-mauer-main_ee-penthouse_zipline.webp",
+            "alt": "Destroyed Penthouse endpoint: place the other device on this side of the same zipline.",
+            "caption": "Destroyed Penthouse endpoint: place the other device on this side of the same zipline.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/main_ee/penthouse_zipline.webp"
+          }
+        ],
+        "original": true
+      },
+      {
+        "title": "Deposit the first cleansed piece",
+        "body": "You will need to collect this uranium from the West Berlin Street and then place it in the canister holder, inside the Secret Lab.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/orzsnv/the_ultimate_ee_guides_mauer_der_toten/",
+        "html": "<p>You will need to collect this uranium from the West Berlin Street and then place it in the canister holder, inside the Secret Lab.</p>"
+      },
+      {
+        "title": "Complete the second uranium cycle",
+        "body": "Advance to the next round / follow the renewed quest prompt, then reactivate the West Berlin tent computer. Follow the second HVT marker, defeat its Megaton, craft both devices and collide them across the same roof zipline.",
+        "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=2955764069",
+        "tip": "The second marker is commonly on Apartment Rooftop. Use this match's marker rather than waiting at the first beam site.",
+        "original": true
+      },
+      {
+        "title": "Prepare before the second deposit",
+        "body": "Buy armor, perks, upgrades and ammunition before inserting the second Cleansed Uranium into the Secret Lab conversion unit. That deposit starts Valentina's fight.",
+        "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=2955764069",
+        "tip": "The second cycle's collision stops its countdown, so use that preparation window before the deposit.",
+        "original": true
+      },
+      {
+        "title": "Break shield, then damage Valentina",
+        "body": "The Boss Fight is broken up into 5 stages.\n\nThe fight will begin in the Secret Lab and also end in the Secret Lab.\n\nHere are all the locations that Valentina will go to after retreating;\n\n* Middle of West Berlin Streets\n* Middle of East Berlin Streets\n* On the top portion of the Destroyed Penthouse\n\nNote: This could be in any order but she will have visited all 3 locations by the last stage of the Boss Fight.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/orzsnv/the_ultimate_ee_guides_mauer_der_toten/",
+        "tip": "Break her shield, then damage her. Refill between retreats before the fight teleports you.",
+        "html": "<p>The Boss Fight is broken up into 5 stages.</p><p>The fight will begin in the Secret Lab and also end in the Secret Lab.</p><p>Here are all the locations that Valentina will go to after retreating;</p><ul><li>Middle of West Berlin Streets</li><li>Middle of East Berlin Streets</li><li>On the top portion of the Destroyed Penthouse</li></ul><p>Note: This could be in any order but she will have visited all 3 locations by the last stage of the Boss Fight.</p>"
+      },
+      {
+        "title": "Counter healing and charged blasts",
+        "body": "For all of the stages, at certain points Valentina will spawn Zombies around her in a ring to try and heal herself. You must kill them quickly or she will heal all the damage you took off her in an instant.\n\nValentina will build up power and you will notice a blue mist on your screen, make sure to stand behind cover because when Valentina outputs this attack (as a blast of energy), it can instantly down you, so be very careful!",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/orzsnv/the_ultimate_ee_guides_mauer_der_toten/",
+        "tip": "Respond to the blue warning in any phase; a later firsthand correction disputes the original phase-3 restriction.",
+        "html": "<p>For all of the stages, at certain points Valentina will spawn Zombies around her in a ring to try and heal herself. You must kill them quickly or she will heal all the damage you took off her in an instant.</p>\n<p>Valentina will build up power and you will notice a blue mist on your screen, make sure to stand behind cover because when Valentina outputs this attack (as a blast of energy), it can instantly down you, so be very careful!</p>"
+      },
+      {
+        "title": "Capture Valentina",
+        "body": "Killing Valentina will cause her crystal throne to break and she will fall to the floor giving you a prompt to capture her.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/orzsnv/the_ultimate_ee_guides_mauer_der_toten/",
+        "html": "<p>Killing Valentina will cause her crystal throne to break and she will fall to the floor giving you a prompt to capture her.</p>"
+      },
+      {
+        "title": "Finish Klaus's portal escort",
+        "body": "All you need to do now is protect Klaus while he walks towards the portal carrying all the canisters. Zombies, Tormentors and Mimic's will spawn during this so make sure to wipe them all out while Klaus is making his way to the portal.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/orzsnv/the_ultimate_ee_guides_mauer_der_toten/",
+        "html": "<p>All you need to do now is protect Klaus while he walks towards the portal carrying all the canisters. Zombies, Tormentors and Mimic&#39;s will spawn during this so make sure to wipe them all out while Klaus is making his way to the portal.</p>"
       }
     ],
     "sources": [
       {
-        "title": "Community detailed guide: Mauer der Toten",
+        "title": "u/DaRkShAdOwYlaf — attributed route excerpts; solo and four-player completions",
         "url": "https://www.reddit.com/r/CODZombies/comments/orzsnv/the_ultimate_ee_guides_mauer_der_toten/"
       },
       {
-        "title": "Community main-quest guide: train and uranium details",
+        "title": "DeltaIn3D — firsthand lab, train and canister route",
         "url": "https://www.reddit.com/r/CODZombies/comments/ol0r28/mauer_der_toten_main_ee_guide/"
       },
       {
-        "title": "GameSpot: train-switch instructions",
-        "url": "https://www.gamespot.com/articles/how-to-complete-mauer-der-toten-main-easter-egg-in-cod-black-ops-cold-wars-zombies/1100-6494140/"
+        "title": "Ethan C — Klaus assembly / remote",
+        "url": "https://tracker.gg/cold-war/articles/black-ops-cold-war-zombies-mauer-der-toten-klaus-guide"
       },
       {
-        "title": "Bradley Yeager — firsthand Mauer route, seven harvester locations",
-        "url": "https://sites.google.com/view/bradleyyeager/cold-war/mauer-der-toten/mauer-der-toten-easter-egg"
+        "title": "Ethan C — station upgrade readiness",
+        "url": "https://tracker.gg/checkpoint/articles/black-ops-cold-war-zombies-mauer-der-toten-klaus-upgrade-guide"
       },
       {
-        "title": "GamesRadar creator walkthrough — red screen and tent computer",
-        "url": "https://www.gamesradar.com/cold-war-mauer-der-toten-easter-egg-guide/"
+        "title": "Treyarch — July 20 Tormentor-round fix",
+        "url": "https://www.treyarch.com/game-intel/2021/07/July_20_2021_Patch_Notes"
+      },
+      {
+        "title": "Emma Matthews — firsthand two-computer / solo uranium route",
+        "url": "https://www.pcgamer.com/cod-cold-war-mauer-der-toten-easter-egg-wonder-weapon/"
+      },
+      {
+        "title": "Steam creator — second cycle and uranium carrier recovery",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2955764069"
+      },
+      {
+        "title": "Firsthand train-placement retry discussion",
+        "url": "https://www.reddit.com/r/ColdWarZombies/comments/1em6qib"
+      },
+      {
+        "title": "Firsthand Local/offline headgear gate report",
+        "url": "https://www.reddit.com/r/ColdWarZombies/comments/1abwnih"
+      },
+      {
+        "title": "Ricerat477 / community — train note and three PC documents",
+        "url": "https://www.reddit.com/r/CODZombies/comments/okvpel/complete_list_of_all_intelseason_4_reloaded_mauer/"
+      },
+      {
+        "title": "Treyarch — August canister ability exploit / boss movement fixes",
+        "url": "https://www.treyarch.com/game-intel/2021/08/Your_Guide_to_Season_Five"
       }
     ],
-    "checked": "2026-10-16"
+    "checked": "2026-10-16",
+    "sourceQuote": "https://www.reddit.com/r/CODZombies/comments/orzsnv/the_ultimate_ee_guides_mauer_der_toten/",
+    "sourceOmissions": [
+      "Quoted excerpts are from u/DaRkShAdOwYlaf's community route. Its incomplete harvester list, approximate Klaus kill count, fixed boss-attack phase and ambiguous satellite wording are replaced by the linked companion routes / field notes."
+    ],
+    "relatedGuideIds": [
+      "coldwar-mauer-power-pack-setup",
+      "coldwar-mauer-klaus-full-upgrades",
+      "coldwar-mauer-free-crbrs-variants",
+      "coldwar-mauer-essence-harvester-locations",
+      "coldwar-mauer-hacking-helm",
+      "coldwar-mauer-weapons-upgrades",
+      "coldwar-mauer-der-toten-intel-season-4-reloaded"
+    ]
   },
   {
     "id": "coldwar-forsaken-chrysalax",

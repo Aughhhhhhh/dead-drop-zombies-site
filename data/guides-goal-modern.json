@@ -1155,101 +1155,472 @@
   {
     "id": "coldwar-mauer-der-toten-intel-season-4-reloaded",
     "mapId": "coldwar-mauer-der-toten",
-    "title": "Mauer intel: all 48 release collectibles",
+    "title": "Mauer intel: 48 individual release collectibles",
     "category": "side",
     "difficulty": "Medium",
-    "players": "1–4 players, online; progress is per account",
-    "summary": "A map-specific selection from Ricerat477's firsthand seasonal intel list, with fixed pickup locations and the acquisition methods for repeatable rewards.",
+    "players": "1–4 players, profile-connected online match; check your own Barracks → Intel",
+    "summary": "Check every named Mauer launch collectible separately: eight fixed audio logs, documents, five Omega radios, Trial intel and eleven quest artifacts.",
     "requirements": [
-      "Use Barracks → Intel to check the map, faction and season before looking for a missing entry.",
-      "Follow the companion main-quest / Wonder Weapon routes for entries marked Main EE; physical pickups still require interaction.",
-      "Radio transmissions require new matches to hear the next entries. Check dropped document pickups after special / elite kills; do intel Trials for Dark Aether logs, documents and transmissions.",
-      "Activision lists 21 Requiem, 16 Omega and 11 Dark Aether pieces for the Mauer report; this checklist follows those 48 entries."
+      "Use Barracks → Intel to check map, faction and Season Four before hunting a missing entry. The release inventory has 21 Requiem, 16 Omega and 11 Dark Aether pieces.",
+      "Fixed pickups require interaction. Use the linked Klaus / CRBR-S / Hacking Helm / main routes for gated rooms and quest artifacts.",
+      "Random documents come from special / elite enemy drops on Mauer. The Outbreak golden-chest clause in the original multi-map source is omitted here.",
+      "Historical firsthand Mauer reports limit random enemy document drops to one per match and Trial intel to three per match. These limits do not describe the fixed computer / train documents. If the next random reward stops appearing, begin a new match; the precise current retail limits have not been play-tested here.",
+      "The East Berlin military-tent radio gives one new Omega transmission per game. Intel Trials are collected at their computer's separate Intel Available prompt, not from a normal reward podium."
     ],
-    "reward": "The listed lore collectibles recorded in Barracks → Intel.",
+    "reward": "The listed lore entries in Barracks → Intel; this checklist does not award a separate weapon or guarantee random documents on demand.",
     "steps": [
       {
-        "title": "Requiem: audio logs",
-        "body": "Audio Logs\n\n* \"Lost in Transit\"- On Mauer, in the Ghost Station. Laying next to a pillar on the side the Mule Kick machine is.\n\n* \"Who's Laughing Now?\"- On Mauer, in the Safe House. On a desk to the left of a door.\n\n* \"Final Order\"- on Mauer, inside the secret lab accessed during the main ee. On a table behind the pedestal used during the ee.\n\n* \"A Handful\"- On Mauer, inside the hidden area of Hotel Room 305.\n\n* \"Bad Days\"- On Mauer, inside the Safehouse inside a locker. Only appears after Klaus has been built.",
-        "html": "<p>Audio Logs</p>\r\n<ul>\r\n<li>&quot;Lost in Transit&quot;- On Mauer, in the Ghost Station. Laying next to a pillar on the side the Mule Kick machine is.</li>\r\n<li>&quot;Who&#39;s Laughing Now?&quot;- On Mauer, in the Safe House. On a desk to the left of a door.</li>\r\n<li>&quot;Final Order&quot;- on Mauer, inside the secret lab accessed during the main ee. On a table behind the pedestal used during the ee.</li>\r\n<li>&quot;A Handful&quot;- On Mauer, inside the hidden area of Hotel Room 305.</li>\r\n<li>&quot;Bad Days&quot;- On Mauer, inside the Safehouse inside a locker. Only appears after Klaus has been built.</li>\r\n</ul>"
+        "title": "Requiem audio: Lost in Transit",
+        "body": "\"Lost in Transit\"- On Mauer, in the Ghost Station. Laying next to a pillar on the side the Mule Kick machine is.",
+        "html": "<p>&quot;Lost in Transit&quot;- On Mauer, in the Ghost Station. Laying next to a pillar on the side the Mule Kick machine is.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/okvpel/complete_list_of_all_intelseason_4_reloaded_mauer/",
+        "images": [
+          {
+            "src": "./assets/batch8-mauer-intel-lost-in-transit.webp",
+            "alt": "Ghost Station: reel at the pillar base.",
+            "caption": "Ghost Station: reel at the pillar base. Frame from AC OMEGA's annotated video published July 16, 2021.",
+            "credit": "Gameplay recording and on-screen labels: AC OMEGA (published July 16, 2021); Black Ops Cold War © Activision",
+            "source": "https://www.youtube.com/watch?v=9Jb9DFzaoAI&t=44s"
+          }
+        ]
       },
       {
-        "title": "Requiem: documents",
-        "body": "Documents\n\nDrops from Special or Elite enemies, or golden chests in Outbreak.\n\n* \"CRPR-S Blueprint\"(Mauer)\n\n* \"Berlin Outbreak Report\"(Mauer)\n\n* \"Klaus Blueprint\"(Mauer)\n\n* \"EE-1 Harvester Blueprint\"(Mauer)\n\n* \"EE-1 Conversion Blueprint\"(Mauer)\n\n* \"Rico's Note\"(Mauer, Main EE)\n\n* \"Subject: Strange Communique\"(Mauer Main EE)\n\n* \"Subject: Urgent\"(Mauer Main EE)\n\n* \"J Cipher 2\"(Mauer Main EE)\n\n* \"Vogel's Letter\"(Mauer)",
-        "html": "<p>Documents</p>\r\n<p>Drops from Special or Elite enemies, or golden chests in Outbreak.</p>\r\n<ul>\r\n<li>&quot;CRPR-S Blueprint&quot;(Mauer)</li>\r\n<li>&quot;Berlin Outbreak Report&quot;(Mauer)</li>\r\n<li>&quot;Klaus Blueprint&quot;(Mauer)</li>\r\n<li>&quot;EE-1 Harvester Blueprint&quot;(Mauer)</li>\r\n<li>&quot;EE-1 Conversion Blueprint&quot;(Mauer)</li>\r\n<li>&quot;Rico&#39;s Note&quot;(Mauer, Main EE)</li>\r\n<li>&quot;Subject: Strange Communique&quot;(Mauer Main EE)</li>\r\n<li>&quot;Subject: Urgent&quot;(Mauer Main EE)</li>\r\n<li>&quot;J Cipher 2&quot;(Mauer Main EE)</li>\r\n<li>&quot;Vogel&#39;s Letter&quot;(Mauer)</li>\r\n</ul>",
-        "tip": "The source marks four documents as Main EE pickups. Check the stopped train carefully for its intel as well as Rico's card, then browse the Safe House computer's files during the satellite sequence. CRPR-S in the quoted title is a source typo for CRBR-S."
+        "title": "Requiem audio: Who's Laughing Now?",
+        "body": "\"Who's Laughing Now?\"- On Mauer, in the Safe House. On a desk to the left of a door.",
+        "html": "<p>&quot;Who&#39;s Laughing Now?&quot;- On Mauer, in the Safe House. On a desk to the left of a door.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/okvpel/complete_list_of_all_intelseason_4_reloaded_mauer/",
+        "images": [
+          {
+            "src": "./assets/batch8-mauer-intel-whos-laughing-now.webp",
+            "alt": "Safe House: reel on the desk left of the doorway.",
+            "caption": "Safe House: reel on the desk left of the doorway. Frame from AC OMEGA's annotated video published July 16, 2021.",
+            "credit": "Gameplay recording and on-screen labels: AC OMEGA (published July 16, 2021); Black Ops Cold War © Activision",
+            "source": "https://www.youtube.com/watch?v=9Jb9DFzaoAI&t=64s"
+          }
+        ]
       },
       {
-        "title": "Requiem: artifacts",
-        "body": "Artifacts\n\n* \" CRBR-S\"-Obtain the CRBR-S in Mauer.\n\n* \"Hacking Helm\"- Crafted onto Klaus in Mauer.\n\n* \"Warhead\"- Main EE of Mauer\n\n* \"Rico's Keycard\"- Main EE of Mauer\n\n* \"Improvised Collider\"- main EE of Mauer\n\n* \"Klaus' Hands\"- part of the free CRBR-S Easter egg.",
-        "html": "<p>Artifacts</p>\r\n<ul>\r\n<li>&quot; CRBR-S&quot;-Obtain the CRBR-S in Mauer.</li>\r\n<li>&quot;Hacking Helm&quot;- Crafted onto Klaus in Mauer.</li>\r\n<li>&quot;Warhead&quot;- Main EE of Mauer</li>\r\n<li>&quot;Rico&#39;s Keycard&quot;- Main EE of Mauer</li>\r\n<li>&quot;Improvised Collider&quot;- main EE of Mauer</li>\r\n<li>&quot;Klaus&#39; Hands&quot;- part of the free CRBR-S Easter egg.</li>\r\n</ul>"
+        "title": "Requiem audio: Final Order",
+        "body": "\"Final Order\"- on Mauer, inside the secret lab accessed during the main ee. On a table behind the pedestal used during the ee.",
+        "html": "<p>&quot;Final Order&quot;- on Mauer, inside the secret lab accessed during the main ee. On a table behind the pedestal used during the ee.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/okvpel/complete_list_of_all_intelseason_4_reloaded_mauer/",
+        "images": [
+          {
+            "src": "./assets/batch8-mauer-intel-final-order.webp",
+            "alt": "Secret Lab: reel on the lower table.",
+            "caption": "Secret Lab: reel on the lower table. Frame from AC OMEGA's annotated video published July 16, 2021.",
+            "credit": "Gameplay recording and on-screen labels: AC OMEGA (published July 16, 2021); Black Ops Cold War © Activision",
+            "source": "https://www.youtube.com/watch?v=9Jb9DFzaoAI&t=313s"
+          }
+        ]
       },
       {
-        "title": "Omega: audio logs",
-        "body": "Audio Logs\n\n* \"The Letter\"-On Mauer, in the Blasted Suite. Under the bed.\n\n* \"A Decent Proposal\"-On Mauer, in the Sewer Access area. In between a Staircase and the rappel point to the West Berlin Streets.\n\n* \"The Turn\"- On Mauer, in the \"Death Strip\". Sitting on top of a guard tower, can be shot down from the Destroyed Penthouse.",
-        "html": "<p>Audio Logs</p>\r\n<ul>\r\n<li>&quot;The Letter&quot;-On Mauer, in the Blasted Suite. Under the bed.</li>\r\n<li>&quot;A Decent Proposal&quot;-On Mauer, in the Sewer Access area. In between a Staircase and the rappel point to the West Berlin Streets.</li>\r\n<li>&quot;The Turn&quot;- On Mauer, in the &quot;Death Strip&quot;. Sitting on top of a guard tower, can be shot down from the Destroyed Penthouse.</li>\r\n</ul>"
+        "title": "Requiem audio: A Handful",
+        "body": "A Handful: Hotel Room 305, it's in the room that can be accessed by using brain rot to turn a zombie in front of the door and having that zombie tear away the barrier",
+        "html": "<p>A Handful: Hotel Room 305, it&#39;s in the room that can be accessed by using brain rot to turn a zombie in front of the door and having that zombie tear away the barrier</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/okvpel/complete_list_of_all_intelseason_4_reloaded_mauer/",
+        "images": [
+          {
+            "src": "./assets/batch8-mauer-klaus_ee-corpse.webp",
+            "alt": "Hotel Room 305 bedroom access reference; the A Handful reel is not identified in this photo.",
+            "caption": "Hotel Room 305 bedroom access reference; the A Handful reel is not identified in this photo.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/klaus_ee/corpse.webp"
+          }
+        ]
       },
       {
-        "title": "Omega: documents",
-        "body": "Documents\n\nDrops from Special or Elite enemies, or golden chests in Outbreak.\n\n* \"Operation Baldr Approval\"(Mauer)\n\n* \"Angelika Vogel Summary\" (Mauer)\n\n* \"Valentina Diary 15-07-83\"(Mauer)\n\n* \"LT53 Kazimir Blueprint\"(Mauer)\n\n* \"Statement of Intent\"(Mauer)\n\n* \"F Cipher\"(Mauer)",
-        "html": "<p>Documents</p>\r\n<p>Drops from Special or Elite enemies, or golden chests in Outbreak.</p>\r\n<ul>\r\n<li>&quot;Operation Baldr Approval&quot;(Mauer)</li>\r\n<li>&quot;Angelika Vogel Summary&quot; (Mauer)</li>\r\n<li>&quot;Valentina Diary 15-07-83&quot;(Mauer)</li>\r\n<li>&quot;LT53 Kazimir Blueprint&quot;(Mauer)</li>\r\n<li>&quot;Statement of Intent&quot;(Mauer)</li>\r\n<li>&quot;F Cipher&quot;(Mauer)</li>\r\n</ul>"
+        "title": "Requiem audio: Bad Days",
+        "body": "\"Bad Days\"- On Mauer, inside the Safehouse inside a locker. Only appears after Klaus has been built.",
+        "html": "<p>&quot;Bad Days&quot;- On Mauer, inside the Safehouse inside a locker. Only appears after Klaus has been built.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/okvpel/complete_list_of_all_intelseason_4_reloaded_mauer/",
+        "images": [
+          {
+            "src": "./assets/batch8-mauer-intel-bad-days.webp",
+            "alt": "Safe House: reel in the open white locker after building Klaus.",
+            "caption": "Safe House: reel in the open white locker after building Klaus. Frame from AC OMEGA's annotated video published July 16, 2021.",
+            "credit": "Gameplay recording and on-screen labels: AC OMEGA (published July 16, 2021); Black Ops Cold War © Activision",
+            "source": "https://www.youtube.com/watch?v=9Jb9DFzaoAI&t=240s"
+          }
+        ]
       },
       {
-        "title": "Omega: radio transmissions",
-        "body": "Radio Transmissions\n\n* \"Your Problem Now\"(Mauer)\n\n* \"Secrets Harbored\"(Mauer)\n\n* \"5-Star Treatment\"(Mauer)\n\n* \"Not For Me\" (Mauer)\n\n* \"Leverage\" (Mauer)",
-        "html": "<p>Radio Transmissions</p>\r\n<ul>\r\n<li>&quot;Your Problem Now&quot;(Mauer)</li>\r\n<li>&quot;Secrets Harbored&quot;(Mauer)</li>\r\n<li>&quot;5-Star Treatment&quot;(Mauer)</li>\r\n<li>&quot;Not For Me&quot; (Mauer)</li>\r\n<li>&quot;Leverage&quot; (Mauer)</li>\r\n</ul>",
-        "tip": "Use the radio inside the military tent in East Berlin. Interact once each new game to hear the next available Omega transmission, as Activision's map challenge guide explains."
+        "title": "Requiem document: CRBR-S Blueprint",
+        "body": "Drops from Special or Elite enemies […]\n\n\"CRPR-S Blueprint\"(Mauer)",
+        "html": "<p>Drops from Special or Elite enemies […]</p>\n<p>&quot;CRPR-S Blueprint&quot;(Mauer)</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/okvpel/complete_list_of_all_intelseason_4_reloaded_mauer/",
+        "tip": "The quoted CRPR-S spelling is a source typo for CRBR-S."
       },
       {
-        "title": "Omega: artifacts",
-        "body": "Artifacts\n\n* \"Battery\"-Dropped from the first Krazny killed in Mauer.\n\n* \"Endstation Lure\"- On Mauer, Enter the Secret Lab and shoot the machine(https://m.imgur.com/9DqyoOh ) with the CRBR-S.",
-        "html": "<p>Artifacts</p>\r\n<ul>\r\n<li>&quot;Battery&quot;-Dropped from the first Krazny killed in Mauer.</li>\r\n<li>&quot;Endstation Lure&quot;- On Mauer, Enter the Secret Lab and shoot the machine(https://m.imgur.com/9DqyoOh ) with the CRBR-S.</li>\r\n</ul>"
+        "title": "Requiem document: Berlin Outbreak Report",
+        "body": "Drops from Special or Elite enemies […]\n\n\"Berlin Outbreak Report\"(Mauer)",
+        "html": "<p>Drops from Special or Elite enemies […]</p>\n<p>&quot;Berlin Outbreak Report&quot;(Mauer)</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/okvpel/complete_list_of_all_intelseason_4_reloaded_mauer/"
       },
       {
-        "title": "Dark Aether: audio logs",
-        "body": "Audio Logs\n\n* \"Lost Souls: Valentina 1\"\n\n* \"Lost Souls: Valentina 2\"\n\n* \"Lost Souls: Valentina 3\"",
-        "html": "<p>Audio Logs</p>\r\n<ul>\r\n<li>&quot;Lost Souls: Valentina 1&quot;</li>\r\n<li>&quot;Lost Souls: Valentina 2&quot;</li>\r\n<li>&quot;Lost Souls: Valentina 3&quot;</li>\r\n</ul>",
-        "tip": "Earn these through intel Trials and collect the intel at the Trial terminal. This method does not apply to the separate artifact pickups."
+        "title": "Requiem document: Klaus Blueprint",
+        "body": "Drops from Special or Elite enemies […]\n\n\"Klaus Blueprint\"(Mauer)",
+        "html": "<p>Drops from Special or Elite enemies […]</p>\n<p>&quot;Klaus Blueprint&quot;(Mauer)</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/okvpel/complete_list_of_all_intelseason_4_reloaded_mauer/"
       },
       {
-        "title": "Dark Aether: documents",
-        "body": "Documents\n\n* \"Day 4,527\"\n\n* \"Day 4,771\"\n\n* \"Day 5,169\"",
-        "html": "<p>Documents</p>\r\n<ul>\r\n<li>&quot;Day 4,527&quot;</li>\r\n<li>&quot;Day 4,771&quot;</li>\r\n<li>&quot;Day 5,169&quot;</li>\r\n</ul>",
-        "tip": "Earn these through intel Trials and collect the intel at the Trial terminal. This method does not apply to the separate artifact pickups."
+        "title": "Requiem document: EE-1 Harvester Blueprint",
+        "body": "Drops from Special or Elite enemies […]\n\n\"EE-1 Harvester Blueprint\"(Mauer)",
+        "html": "<p>Drops from Special or Elite enemies […]</p>\n<p>&quot;EE-1 Harvester Blueprint&quot;(Mauer)</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/okvpel/complete_list_of_all_intelseason_4_reloaded_mauer/"
       },
       {
-        "title": "Dark Aether: radio transmissions",
-        "body": "Radio Transmissions\n\n* \"The Forsaken\"\n\n* \"Consumed\"",
-        "html": "<p>Radio Transmissions</p>\r\n<ul>\r\n<li>&quot;The Forsaken&quot;</li>\r\n<li>&quot;Consumed&quot;</li>\r\n</ul>",
-        "tip": "Earn these through intel Trials and collect the intel at the Trial terminal. This method does not apply to the separate artifact pickups."
+        "title": "Requiem document: EE-1 Conversion Blueprint",
+        "body": "Drops from Special or Elite enemies […]\n\n\"EE-1 Conversion Blueprint\"(Mauer)",
+        "html": "<p>Drops from Special or Elite enemies […]</p>\n<p>&quot;EE-1 Conversion Blueprint&quot;(Mauer)</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/okvpel/complete_list_of_all_intelseason_4_reloaded_mauer/"
       },
       {
-        "title": "Dark Aether: artifacts",
-        "body": "Artifacts\n\n* \"Electrical Fuse\"-Drops from a tempest on Mauer.\n\n* \"Tempest Essence\"- Main EE of Mauer\n\n* \"Corrupted Uranium\"- Main EE of Mauer",
-        "html": "<p>Artifacts</p>\r\n<ul>\r\n<li>&quot;Electrical Fuse&quot;-Drops from a tempest on Mauer.</li>\r\n<li>&quot;Tempest Essence&quot;- Main EE of Mauer</li>\r\n<li>&quot;Corrupted Uranium&quot;- Main EE of Mauer</li>\r\n</ul>"
+        "title": "Requiem document: Vogel's Letter",
+        "body": "Drops from Special or Elite enemies […]\n\n\"Vogel's Letter\"(Mauer)",
+        "html": "<p>Drops from Special or Elite enemies […]</p>\n<p>&quot;Vogel&#39;s Letter&quot;(Mauer)</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/okvpel/complete_list_of_all_intelseason_4_reloaded_mauer/"
+      },
+      {
+        "title": "Requiem document: Rico's Note",
+        "body": "\"Rico's Note\"(Mauer, Main EE)",
+        "html": "<p>&quot;Rico&#39;s Note&quot;(Mauer, Main EE)</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/okvpel/complete_list_of_all_intelseason_4_reloaded_mauer/",
+        "tip": "During the stopped-train visit, take the separate note inside the carriage. Rico's Keycard is a different collectible; use the main companion for the train."
+      },
+      {
+        "title": "Requiem document: Subject: Strange Communique",
+        "body": "\"Subject: Strange Communique\"(Mauer Main EE)\n\nAll from the acces terminal in the safe house during the EE quest",
+        "html": "<p>&quot;Subject: Strange Communique&quot;(Mauer Main EE)</p>\n<p>All from the acces terminal in the safe house during the EE quest</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/okvpel/complete_list_of_all_intelseason_4_reloaded_mauer/",
+        "tip": "Use Rico's card after fitting the Warhead, then browse the Safe House computer's available files."
+      },
+      {
+        "title": "Requiem document: Subject: Urgent",
+        "body": "\"Subject: Urgent\"(Mauer Main EE)\n\nAll from the acces terminal in the safe house during the EE quest",
+        "html": "<p>&quot;Subject: Urgent&quot;(Mauer Main EE)</p>\n<p>All from the acces terminal in the safe house during the EE quest</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/okvpel/complete_list_of_all_intelseason_4_reloaded_mauer/",
+        "tip": "Continue browsing the Safe House computer's available files."
+      },
+      {
+        "title": "Requiem document: J Cipher 2",
+        "body": "\"J Cipher 2\"(Mauer Main EE)\n\nAll from the acces terminal in the safe house during the EE quest",
+        "html": "<p>&quot;J Cipher 2&quot;(Mauer Main EE)</p>\n<p>All from the acces terminal in the safe house during the EE quest</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/okvpel/complete_list_of_all_intelseason_4_reloaded_mauer/",
+        "tip": "Continue browsing the Safe House computer's available files."
+      },
+      {
+        "title": "Requiem artifact: CRBR-S",
+        "body": "Once you have all 3 sets of numbers in this order, head to the secret room in Room 305 and using LB/L1 & RB/R2 input your numbers and then open the safe to collect the CRBR-S.",
+        "html": "<p>Once you have all 3 sets of numbers in this order, head to the secret room in Room 305 and using LB/L1 &amp; RB/R2 input your numbers and then open the safe to collect the CRBR-S.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/orzsnv/the_ultimate_ee_guides_mauer_der_toten/"
+      },
+      {
+        "title": "Requiem artifact: Hacking Helm",
+        "body": "Now you have all 3 parts, you'll need to go down to the safe house and craft them onto Klaus. This will complete the step and you'll be given a quote by Klaus to confirm this.",
+        "html": "<p>Now you have all 3 parts, you&#39;ll need to go down to the safe house and craft them onto Klaus. This will complete the step and you&#39;ll be given a quote by Klaus to confirm this.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/orzsnv/the_ultimate_ee_guides_mauer_der_toten/",
+        "tip": "Use the Hacking Helm companion for all three component targets."
+      },
+      {
+        "title": "Requiem artifact: Warhead",
+        "body": "Once onto the train, collect the ID Card on the chair and the Warhead in the centre in an open box.",
+        "html": "<p>Once onto the train, collect the ID Card on the chair and the Warhead in the centre in an open box.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/orzsnv/the_ultimate_ee_guides_mauer_der_toten/",
+        "images": [
+          {
+            "src": "./assets/batch8-mauer-main_ee-train_bomb.webp",
+            "alt": "Warhead in the stopped carriage's central crate.",
+            "caption": "Warhead in the stopped carriage's central crate.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/main_ee/train_bomb.webp"
+          }
+        ]
+      },
+      {
+        "title": "Requiem artifact: Rico's Keycard",
+        "body": "Once onto the train, collect the ID Card on the chair and the Warhead in the centre in an open box.",
+        "html": "<p>Once onto the train, collect the ID Card on the chair and the Warhead in the centre in an open box.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/orzsnv/the_ultimate_ee_guides_mauer_der_toten/",
+        "images": [
+          {
+            "src": "./assets/batch8-mauer-main_ee-train_keycard.webp",
+            "alt": "Rico's Keycard at the seated body; this photo does not show Rico's Note.",
+            "caption": "Rico's Keycard at the seated body; this photo does not show Rico's Note.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/main_ee/train_keycard.webp"
+          }
+        ]
+      },
+      {
+        "title": "Requiem artifact: Improvised Collider",
+        "body": "Once both crafted uranium pieces are on the ziplines they will collide to create 'pure' uranium. This will also stop the timer.",
+        "html": "<p>Once both crafted uranium pieces are on the ziplines they will collide to create &#39;pure&#39; uranium. This will also stop the timer.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/orzsnv/the_ultimate_ee_guides_mauer_der_toten/",
+        "tip": "Collect the resulting Cleansed Uranium after the roof-zipline collision. Follow both device deliveries in the main guide."
+      },
+      {
+        "title": "Requiem artifact: Klaus' Hands",
+        "body": "Use a Brain Rot zombie to break down the door in the hotel near Stamin-up. Pick up the hands from the zombie on the bed.",
+        "html": "<p>Use a Brain Rot zombie to break down the door in the hotel near Stamin-up. Pick up the hands from the zombie on the bed.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/ol0r28/mauer_der_toten_main_ee_guide/"
+      },
+      {
+        "title": "Omega audio: The Letter",
+        "body": "\"The Letter\"-On Mauer, in the Blasted Suite. Under the bed.",
+        "html": "<p>&quot;The Letter&quot;-On Mauer, in the Blasted Suite. Under the bed.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/okvpel/complete_list_of_all_intelseason_4_reloaded_mauer/",
+        "images": [
+          {
+            "src": "./assets/batch8-mauer-intel-the-letter.webp",
+            "alt": "Blasted Suite: reel beneath the bed.",
+            "caption": "Blasted Suite: reel beneath the bed. Frame from AC OMEGA's annotated video published July 16, 2021.",
+            "credit": "Gameplay recording and on-screen labels: AC OMEGA (published July 16, 2021); Black Ops Cold War © Activision",
+            "source": "https://www.youtube.com/watch?v=9Jb9DFzaoAI&t=104s"
+          }
+        ]
+      },
+      {
+        "title": "Omega audio: A Decent Proposal",
+        "body": "\"A Decent Proposal\"-On Mauer, in the Sewer Access area. In between a Staircase and the rappel point to the West Berlin Streets.",
+        "html": "<p>&quot;A Decent Proposal&quot;-On Mauer, in the Sewer Access area. In between a Staircase and the rappel point to the West Berlin Streets.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/okvpel/complete_list_of_all_intelseason_4_reloaded_mauer/",
+        "images": [
+          {
+            "src": "./assets/batch8-mauer-intel-a-decent-proposal.webp",
+            "alt": "Sewer Access: reel between the stairs and street rappel.",
+            "caption": "Sewer Access: reel between the stairs and street rappel. Frame from AC OMEGA's annotated video published July 16, 2021.",
+            "credit": "Gameplay recording and on-screen labels: AC OMEGA (published July 16, 2021); Black Ops Cold War © Activision",
+            "source": "https://www.youtube.com/watch?v=9Jb9DFzaoAI&t=92s"
+          }
+        ]
+      },
+      {
+        "title": "Omega audio: The Turn",
+        "body": "\"The Turn\"- On Mauer, in the \"Death Strip\". Sitting on top of a guard tower, can be shot down from the Destroyed Penthouse.",
+        "html": "<p>&quot;The Turn&quot;- On Mauer, in the &quot;Death Strip&quot;. Sitting on top of a guard tower, can be shot down from the Destroyed Penthouse.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/okvpel/complete_list_of_all_intelseason_4_reloaded_mauer/",
+        "tip": "The video also shows a Department Store shooting angle. Shoot the reel down, then collect it in Death Strip.",
+        "images": [
+          {
+            "src": "./assets/batch8-mauer-intel-the-turn-target.webp",
+            "alt": "Death Strip tower reel viewed from Department Store.",
+            "caption": "Death Strip tower reel viewed from Department Store. Frame from AC OMEGA's annotated video published July 16, 2021.",
+            "credit": "Gameplay recording and on-screen labels: AC OMEGA (published July 16, 2021); Black Ops Cold War © Activision",
+            "source": "https://www.youtube.com/watch?v=9Jb9DFzaoAI&t=128s"
+          }
+        ]
+      },
+      {
+        "title": "Omega document: Operation Baldr Approval",
+        "body": "Drops from Special or Elite enemies […]\n\n\"Operation Baldr Approval\"(Mauer)",
+        "html": "<p>Drops from Special or Elite enemies […]</p>\n<p>&quot;Operation Baldr Approval&quot;(Mauer)</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/okvpel/complete_list_of_all_intelseason_4_reloaded_mauer/"
+      },
+      {
+        "title": "Omega document: Angelika Vogel Summary",
+        "body": "Drops from Special or Elite enemies […]\n\n\"Angelika Vogel Summary\"(Mauer)",
+        "html": "<p>Drops from Special or Elite enemies […]</p>\n<p>&quot;Angelika Vogel Summary&quot;(Mauer)</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/okvpel/complete_list_of_all_intelseason_4_reloaded_mauer/"
+      },
+      {
+        "title": "Omega document: Valentina Diary 15-07-83",
+        "body": "Drops from Special or Elite enemies […]\n\n\"Valentina Diary 15-07-83\"(Mauer)",
+        "html": "<p>Drops from Special or Elite enemies […]</p>\n<p>&quot;Valentina Diary 15-07-83&quot;(Mauer)</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/okvpel/complete_list_of_all_intelseason_4_reloaded_mauer/"
+      },
+      {
+        "title": "Omega document: LT53 Kazimir Blueprint",
+        "body": "Drops from Special or Elite enemies […]\n\n\"LT53 Kazimir Blueprint\"(Mauer)",
+        "html": "<p>Drops from Special or Elite enemies […]</p>\n<p>&quot;LT53 Kazimir Blueprint&quot;(Mauer)</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/okvpel/complete_list_of_all_intelseason_4_reloaded_mauer/"
+      },
+      {
+        "title": "Omega document: Statement of Intent",
+        "body": "Drops from Special or Elite enemies […]\n\n\"Statement of Intent\"(Mauer)",
+        "html": "<p>Drops from Special or Elite enemies […]</p>\n<p>&quot;Statement of Intent&quot;(Mauer)</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/okvpel/complete_list_of_all_intelseason_4_reloaded_mauer/"
+      },
+      {
+        "title": "Omega document: F Cipher",
+        "body": "Drops from Special or Elite enemies […]\n\n\"F Cipher\"(Mauer)",
+        "html": "<p>Drops from Special or Elite enemies […]</p>\n<p>&quot;F Cipher&quot;(Mauer)</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/okvpel/complete_list_of_all_intelseason_4_reloaded_mauer/"
+      },
+      {
+        "title": "Omega radio: Your Problem Now",
+        "body": "\"Your Problem Now\"(Mauer)",
+        "html": "<p>&quot;Your Problem Now&quot;(Mauer)</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/okvpel/complete_list_of_all_intelseason_4_reloaded_mauer/",
+        "images": [
+          {
+            "src": "./assets/batch8-mauer-intel-omega-radio.webp",
+            "alt": "East Berlin military tent: interact with the table radio.",
+            "caption": "East Berlin military tent: interact with the table radio. Frame from AC OMEGA's annotated video published July 16, 2021.",
+            "credit": "Gameplay recording and on-screen labels: AC OMEGA (published July 16, 2021); Black Ops Cold War © Activision",
+            "source": "https://www.youtube.com/watch?v=9Jb9DFzaoAI&t=28s"
+          }
+        ]
+      },
+      {
+        "title": "Omega radio: Secrets Harbored",
+        "body": "\"Secrets Harbored\"(Mauer)",
+        "html": "<p>&quot;Secrets Harbored&quot;(Mauer)</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/okvpel/complete_list_of_all_intelseason_4_reloaded_mauer/"
+      },
+      {
+        "title": "Omega radio: 5-Star Treatment",
+        "body": "\"5-Star Treatment\"(Mauer)",
+        "html": "<p>&quot;5-Star Treatment&quot;(Mauer)</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/okvpel/complete_list_of_all_intelseason_4_reloaded_mauer/"
+      },
+      {
+        "title": "Omega radio: Not For Me",
+        "body": "\"Not For Me\"(Mauer)",
+        "html": "<p>&quot;Not For Me&quot;(Mauer)</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/okvpel/complete_list_of_all_intelseason_4_reloaded_mauer/"
+      },
+      {
+        "title": "Omega radio: Leverage",
+        "body": "\"Leverage\"(Mauer)",
+        "html": "<p>&quot;Leverage&quot;(Mauer)</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/okvpel/complete_list_of_all_intelseason_4_reloaded_mauer/"
+      },
+      {
+        "title": "Omega artifact: Battery",
+        "body": "\"Battery\"-Dropped from the first Krazny killed in Mauer.",
+        "html": "<p>&quot;Battery&quot;-Dropped from the first Krazny killed in Mauer.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/okvpel/complete_list_of_all_intelseason_4_reloaded_mauer/"
+      },
+      {
+        "title": "Omega artifact: Endstation Lure",
+        "body": "\"Endstation Lure\"- On Mauer, Enter the Secret Lab and shoot the machine(https://m.imgur.com/9DqyoOh ) with the CRBR-S.",
+        "html": "<p>&quot;Endstation Lure&quot;- On Mauer, Enter the Secret Lab and shoot the machine(https://m.imgur.com/9DqyoOh ) with the CRBR-S.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/okvpel/complete_list_of_all_intelseason_4_reloaded_mauer/",
+        "images": [
+          {
+            "src": "./assets/batch8-mauer-main_ee-luremachine.webp",
+            "alt": "Secret Lab lure dispenser; the original source's linked image is not required to use this local photo.",
+            "caption": "Secret Lab lure dispenser; the original source's linked image is not required to use this local photo.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/main_ee/luremachine.webp"
+          }
+        ]
+      },
+      {
+        "title": "Dark Aether audio: Lost Souls: Valentina 1",
+        "body": "All Received from trials.\n\n\"Lost Souls: Valentina 1\"",
+        "html": "<p>All Received from trials.</p>\n<p>&quot;Lost Souls: Valentina 1&quot;</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/okvpel/complete_list_of_all_intelseason_4_reloaded_mauer/"
+      },
+      {
+        "title": "Dark Aether audio: Lost Souls: Valentina 2",
+        "body": "All Received from trials.\n\n\"Lost Souls: Valentina 2\"",
+        "html": "<p>All Received from trials.</p>\n<p>&quot;Lost Souls: Valentina 2&quot;</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/okvpel/complete_list_of_all_intelseason_4_reloaded_mauer/"
+      },
+      {
+        "title": "Dark Aether audio: Lost Souls: Valentina 3",
+        "body": "All Received from trials.\n\n\"Lost Souls: Valentina 3\"",
+        "html": "<p>All Received from trials.</p>\n<p>&quot;Lost Souls: Valentina 3&quot;</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/okvpel/complete_list_of_all_intelseason_4_reloaded_mauer/"
+      },
+      {
+        "title": "Dark Aether document: Day 4,527",
+        "body": "All Received from trials.\n\n\"Day 4,527\"",
+        "html": "<p>All Received from trials.</p>\n<p>&quot;Day 4,527&quot;</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/okvpel/complete_list_of_all_intelseason_4_reloaded_mauer/"
+      },
+      {
+        "title": "Dark Aether document: Day 4,771",
+        "body": "All Received from trials.\n\n\"Day 4,771\"",
+        "html": "<p>All Received from trials.</p>\n<p>&quot;Day 4,771&quot;</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/okvpel/complete_list_of_all_intelseason_4_reloaded_mauer/"
+      },
+      {
+        "title": "Dark Aether document: Day 5,169",
+        "body": "All Received from trials.\n\n\"Day 5,169\"",
+        "html": "<p>All Received from trials.</p>\n<p>&quot;Day 5,169&quot;</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/okvpel/complete_list_of_all_intelseason_4_reloaded_mauer/"
+      },
+      {
+        "title": "Dark Aether radio: The Forsaken",
+        "body": "All Received from trials.\n\n\"The Forsaken\"",
+        "html": "<p>All Received from trials.</p>\n<p>&quot;The Forsaken&quot;</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/okvpel/complete_list_of_all_intelseason_4_reloaded_mauer/"
+      },
+      {
+        "title": "Dark Aether radio: Consumed",
+        "body": "All Received from trials.\n\n\"Consumed\"",
+        "html": "<p>All Received from trials.</p>\n<p>&quot;Consumed&quot;</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/okvpel/complete_list_of_all_intelseason_4_reloaded_mauer/"
+      },
+      {
+        "title": "Dark Aether artifact: Electrical Fuse",
+        "body": "\"Electrical Fuse\"-Drops from a tempest on Mauer.",
+        "html": "<p>&quot;Electrical Fuse&quot;-Drops from a tempest on Mauer.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/okvpel/complete_list_of_all_intelseason_4_reloaded_mauer/"
+      },
+      {
+        "title": "Dark Aether artifact: Tempest Essence",
+        "body": "\"Tempest Essence\"- Main EE of Mauer",
+        "html": "<p>&quot;Tempest Essence&quot;- Main EE of Mauer</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/okvpel/complete_list_of_all_intelseason_4_reloaded_mauer/",
+        "tip": "Fill an active harvester and collect its charged canister. Use the main / seven-location companions."
+      },
+      {
+        "title": "Dark Aether artifact: Corrupted Uranium",
+        "body": "\"Corrupted Uranium\"- Main EE of Mauer",
+        "html": "<p>&quot;Corrupted Uranium&quot;- Main EE of Mauer</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/okvpel/complete_list_of_all_intelseason_4_reloaded_mauer/",
+        "tip": "Collect a Megaton's uranium drop during the satellite event. The main companion covers its timer and safe delivery route."
       }
     ],
     "sources": [
       {
-        "title": "u/Ricerat477 — seasonal intel list and community location reports",
-        "url": "https://www.reddit.com/r/CODZombies/comments/okvpel/"
+        "title": "u/Ricerat477 and firsthand commenters — quoted release inventory / pickup reports / match caps",
+        "url": "https://www.reddit.com/r/CODZombies/comments/okvpel/complete_list_of_all_intelseason_4_reloaded_mauer/"
       },
       {
-        "title": "Activision — Mauer report intel totals and Omega radio location",
+        "title": "AC OMEGA — illustrated July 16, 2021 all-intel acquisition footage",
+        "url": "https://www.youtube.com/watch?v=9Jb9DFzaoAI"
+      },
+      {
+        "title": "Activision — map totals and once-per-game East Berlin radio",
         "url": "https://www.callofduty.com/au/en/blog/2021/07/prestige-primer-34-season-four-mauer-der-toten-challenge"
       },
       {
-        "title": "Gamepur creator walkthrough — stopped train intel beside the quest card",
-        "url": "https://www.gamepur.com/GUIDES/MAUER-DER-TOTEN-MAIN-EASTER-EGG-QUEST-GUIDE-IN-CALL-OF-DUTY-BLACK-OPS-COLD-WAR-ZOMBIES"
+        "title": "u/DaRkShAdOwYlaf — quoted quest-artifact actions",
+        "url": "https://www.reddit.com/r/CODZombies/comments/orzsnv/the_ultimate_ee_guides_mauer_der_toten/"
+      },
+      {
+        "title": "Firsthand later round-based document-cap report",
+        "url": "https://www.reddit.com/r/CODZombies/comments/qk8m9v/"
+      },
+      {
+        "title": "Richkiller — J Cipher 2 solver",
+        "url": "https://www.reddit.com/r/CODZombies/comments/ol0hb5/second_j_cipher_solved/"
+      },
+      {
+        "title": "OriginWormy — F Cipher solver",
+        "url": "https://www.reddit.com/r/CODZombies/comments/om6go9/solved_the_f_cipher/"
       }
     ],
-    "sourceQuote": "https://www.reddit.com/r/CODZombies/comments/okvpel/",
+    "sourceQuote": "https://www.reddit.com/r/CODZombies/comments/okvpel/complete_list_of_all_intelseason_4_reloaded_mauer/",
     "sourceOmissions": [
-      "Entries for the other map / mode in this multi-map release post are omitted from this map's checklist."
+      "Only Mauer der Toten's 48 release entries are included; Outbreak locations and golden-chest instructions are omitted.",
+      "The original source's CRPR-S typo is retained only in its attributed quotation and explained beside the corrected title.",
+      "Some quest actions are separately attributed quotations from the detailed main-quest source. The original four-computer-documents comment is superseded by the later firsthand correction locating Rico's Note in the train."
     ],
     "checked": "2026-10-16",
     "relatedGuideIds": [
-      "coldwar-mauer-der-toten-main"
+      "coldwar-mauer-klaus-full-upgrades",
+      "coldwar-mauer-free-crbrs-variants",
+      "coldwar-mauer-hacking-helm",
+      "coldwar-mauer-essence-harvester-locations",
+      "coldwar-mauer-der-toten-main",
+      "coldwar-mauer-trials",
+      "coldwar-mauer-intel-ciphers"
     ]
   },
   {
@@ -5510,6 +5881,750 @@
     "relatedGuideIds": [
       "coldwar-firebase-z-power-pack-assault",
       "coldwar-firebase-z-main"
+    ],
+    "checked": "2026-10-16"
+  },
+  {
+    "id": "coldwar-mauer-power-pack-setup",
+    "mapId": "coldwar-mauer-der-toten",
+    "title": "Power and Pack-a-Punch opening route",
+    "category": "side",
+    "difficulty": "Easy",
+    "players": "1–4 players",
+    "summary": "Reach the Power Room, recover both Tempest fuses and clear the Disciple ritual.",
+    "requirements": [
+      "Standard Mauer der Toten; Essence to open the rooftop / underground barriers.",
+      "Follow this match's objective markers if a Tempest appears before reaching the switch."
+    ],
+    "reward": "Powered machines / rappel routes and usable Checkpoint Charlie Pack-a-Punch.",
+    "steps": [
+      {
+        "title": "Choose the penthouse route",
+        "body": "At spawn Apartment Rooftop, buy the zipline to Destroyed Penthouse. From there buy the crossing to Korber Rooftop and enter Garment Factory.",
+        "researchSource": "https://www.callofduty.com/blog/2021/07/black-ops-cold-war-season-four-mauer-der-toten-zombies-tips",
+        "original": true
+      },
+      {
+        "title": "Descend through the factory",
+        "body": "Once in the Garment Factory enter through the door taking you down the steps into the East Berlin Street. From here, you can take either the ladder or the stairs entry towards the Ghost Station.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/orzsnv/the_ultimate_ee_guides_mauer_der_toten/",
+        "html": "<p>Once in the Garment Factory enter through the door taking you down the steps into the East Berlin Street. From here, you can take either the ladder or the stairs entry towards the Ghost Station.</p>"
+      },
+      {
+        "title": "Reach the Power Room",
+        "body": "Cross the tracks once the train passes and on the right side of the tracks (Mule Kick side) go to the far right door to take you to the sewer access. Then take the next door to the right of the armour station to take you into the power room.",
+        "html": "<p>Cross the tracks once the train passes and on the right side of the tracks (Mule Kick side) go to the far right door to take you to the sewer access. Then take the next door to the right of the armour station to take you into the power room.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/orzsnv/the_ultimate_ee_guides_mauer_der_toten/"
+      },
+      {
+        "title": "Recover both Electrical Fuses",
+        "body": "Once in the power room you will notice that pulling the lever to turn the power on will not work since it will blow the fuses. You will need to collect 2 new fuses.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/orzsnv/the_ultimate_ee_guides_mauer_der_toten/",
+        "tip": "Follow both Tempest markers, kill each and collect its fuse.",
+        "html": "<p>Once in the power room you will notice that pulling the lever to turn the power on will not work since it will blow the fuses. You will need to collect 2 new fuses.</p>"
+      },
+      {
+        "title": "Install fuses and power up",
+        "body": "head back to the power room and insert the fuses, pulling the lever to turn on the power",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/orzsnv/the_ultimate_ee_guides_mauer_der_toten/",
+        "html": "<p>head back to the power room and insert the fuses, pulling the lever to turn on the power</p>"
+      },
+      {
+        "title": "Open Checkpoint Charlie's machine",
+        "body": "From here, head to Checkpoint Charlie (where PAP is) and interact with the machine. A Disciple will summon a horde of Zombies to attack you and all you need to do is kill the Disciple and then Pack A Punch will be available for you to use.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/orzsnv/the_ultimate_ee_guides_mauer_der_toten/",
+        "html": "<p>From here, head to Checkpoint Charlie (where PAP is) and interact with the machine. A Disciple will summon a horde of Zombies to attack you and all you need to do is kill the Disciple and then Pack A Punch will be available for you to use.</p>"
+      },
+      {
+        "title": "Begin your quest setup",
+        "body": "Use Pack-a-Punch's Ammo Mods tab to put Brain Rot on an ordinary gun for Hotel Room 305. Use the linked weapon-upgrade guide for exact PaP / rarity costs and the Klaus route for the hands.",
+        "researchSource": "https://www.reddit.com/r/blackopscoldwar/comments/luudkh/",
+        "original": true
+      }
+    ],
+    "sources": [
+      {
+        "title": "Activision — original Mauer layout, power route and perk locations",
+        "url": "https://www.callofduty.com/blog/2021/07/black-ops-cold-war-season-four-mauer-der-toten-zombies-tips"
+      },
+      {
+        "title": "DaRkShAdOwYlaf — firsthand main quest and solo / co-op completion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/orzsnv/the_ultimate_ee_guides_mauer_der_toten/"
+      },
+      {
+        "title": "Firsthand Ammo Mods menu and 2,000-Essence cost",
+        "url": "https://www.reddit.com/r/blackopscoldwar/comments/luudkh/"
+      }
+    ],
+    "relatedGuideIds": [
+      "coldwar-mauer-weapons-upgrades",
+      "coldwar-mauer-klaus-full-upgrades",
+      "coldwar-mauer-der-toten-main"
+    ],
+    "checked": "2026-10-16",
+    "sourceQuote": "https://www.reddit.com/r/CODZombies/comments/orzsnv/the_ultimate_ee_guides_mauer_der_toten/"
+  },
+  {
+    "id": "coldwar-mauer-essence-harvester-locations",
+    "mapId": "coldwar-mauer-der-toten",
+    "title": "Essence harvesters: all seven candidates",
+    "category": "side",
+    "difficulty": "Medium",
+    "players": "1–4 players, standard online quest",
+    "summary": "Find the three active green collectors without searching an incomplete six-location list.",
+    "requirements": [
+      "Online main-quest progress: open Secret Lab, clear its Tormentor round and collect its three canisters.",
+      "Shoot the lab dispenser with the CRBR-S and take an Endstation Lure."
+    ],
+    "reward": "Three charged essence canisters for the main quest.",
+    "steps": [
+      {
+        "title": "Look for three active collectors",
+        "body": "Only three of these seven candidates have active green-lit collectors in a match. Check the pictured positions; an inactive candidate is not an extra required step.",
+        "researchSource": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/mauer_der_toten_guide",
+        "original": true
+      },
+      {
+        "title": "West Berlin Street",
+        "body": "Beside the small metal outbuilding / Café Müller frontage near the fence.",
+        "researchSource": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/main_ee/harvesters_westberlin.webp",
+        "images": [
+          {
+            "src": "./assets/batch8-mauer-main_ee-harvesters_westberlin.webp",
+            "alt": "West Berlin Street: harvester candidate. The active three vary by match.",
+            "caption": "West Berlin Street: harvester candidate. The active three vary by match.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/main_ee/harvesters_westberlin.webp"
+          }
+        ],
+        "original": true
+      },
+      {
+        "title": "Destroyed Penthouse",
+        "body": "On the lower penthouse level beneath Quick Revive, near the Grocery Store rappel side.",
+        "researchSource": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/main_ee/harvesters_penthouse.webp",
+        "images": [
+          {
+            "src": "./assets/batch8-mauer-main_ee-harvesters_penthouse.webp",
+            "alt": "Destroyed Penthouse: harvester candidate. The active three vary by match.",
+            "caption": "Destroyed Penthouse: harvester candidate. The active three vary by match.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/main_ee/harvesters_penthouse.webp"
+          }
+        ],
+        "original": true
+      },
+      {
+        "title": "East Berlin Streets",
+        "body": "Between the Bar and Electronics Store fronts.",
+        "researchSource": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/main_ee/harvesters_eastberlin.webp",
+        "images": [
+          {
+            "src": "./assets/batch8-mauer-main_ee-harvesters_eastberlin.webp",
+            "alt": "East Berlin Streets: harvester candidate. The active three vary by match.",
+            "caption": "East Berlin Streets: harvester candidate. The active three vary by match.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/main_ee/harvesters_eastberlin.webp"
+          }
+        ],
+        "original": true
+      },
+      {
+        "title": "Korber Rooftop",
+        "body": "On the roof by the Speed Cola / Garment Factory building.",
+        "researchSource": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/main_ee/harvesters_korber.webp",
+        "images": [
+          {
+            "src": "./assets/batch8-mauer-main_ee-harvesters_korber.webp",
+            "alt": "Korber Rooftop: harvester candidate. The active three vary by match.",
+            "caption": "Korber Rooftop: harvester candidate. The active three vary by match.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/main_ee/harvesters_korber.webp"
+          }
+        ],
+        "original": true
+      },
+      {
+        "title": "Alley",
+        "body": "By the bin / pallet area near the rooftop rappel.",
+        "researchSource": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/main_ee/harvesters_alley.webp",
+        "images": [
+          {
+            "src": "./assets/batch8-mauer-main_ee-harvesters_alley.webp",
+            "alt": "Alley: harvester candidate. The active three vary by match.",
+            "caption": "Alley: harvester candidate. The active three vary by match.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/main_ee/harvesters_alley.webp"
+          }
+        ],
+        "original": true
+      },
+      {
+        "title": "Sewer Access",
+        "body": "Near the lab approach and stairs, opposite the large circular grate.",
+        "researchSource": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/main_ee/harvesters_sewer.webp",
+        "images": [
+          {
+            "src": "./assets/batch8-mauer-main_ee-harvesters_sewer.webp",
+            "alt": "Sewer Access: harvester candidate. The active three vary by match.",
+            "caption": "Sewer Access: harvester candidate. The active three vary by match.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/main_ee/harvesters_sewer.webp"
+          }
+        ],
+        "original": true
+      },
+      {
+        "title": "Ghost Station",
+        "body": "At the far platform end near the red ticket booth / M16 wall buy.",
+        "researchSource": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/main_ee/harvesters_ghost.webp",
+        "images": [
+          {
+            "src": "./assets/batch8-mauer-main_ee-harvesters_ghost.webp",
+            "alt": "Ghost Station: harvester candidate. The active three vary by match.",
+            "caption": "Ghost Station: harvester candidate. The active three vary by match.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/main_ee/harvesters_ghost.webp"
+          }
+        ],
+        "original": true
+      },
+      {
+        "title": "Charge and return a canister",
+        "body": "Place the canisters at 3 of the machines with green lights around the map and throw the lure down to spawn Tempests. Kill the Tempests to charge the canister and then pick it up and bring it back to the machine in the lab where you originally got the canisters.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/ol0r28/mauer_der_toten_main_ee_guide/",
+        "tip": "Do one collector at a time in solo. If it is not charged, get a fresh lure and kill more summoned Tempests beside it. Use the charged pickup prompt rather than a fixed Tempest count.",
+        "html": "<p>Place the canisters at 3 of the machines with green lights around the map and throw the lure down to spawn Tempests. Kill the Tempests to charge the canister and then pick it up and bring it back to the machine in the lab where you originally got the canisters.</p>"
+      }
+    ],
+    "sources": [
+      {
+        "title": "DeltaIn3D — firsthand Secret Lab, canisters and train route",
+        "url": "https://www.reddit.com/r/CODZombies/comments/ol0r28/mauer_der_toten_main_ee_guide/"
+      },
+      {
+        "title": "DaRkShAdOwYlaf — firsthand main quest and solo / co-op completion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/orzsnv/the_ultimate_ee_guides_mauer_der_toten/"
+      },
+      {
+        "title": "mmmrkennedy — illustrated locations and component photographs",
+        "url": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/mauer_der_toten_guide"
+      },
+      {
+        "title": "DETONATED — illustrated seven-harvester location reference",
+        "url": "https://detonated.com/updated-2023-full-mauer-der-toten-main-easter-egg-guide-cold-war-zombies/"
+      }
+    ],
+    "relatedGuideIds": [
+      "coldwar-mauer-der-toten-main",
+      "coldwar-mauer-free-crbrs-variants",
+      "coldwar-mauer-der-toten-intel-season-4-reloaded"
+    ],
+    "checked": "2026-10-16",
+    "sourceQuote": "https://www.reddit.com/r/CODZombies/comments/ol0r28/mauer_der_toten_main_ee_guide/"
+  },
+  {
+    "id": "coldwar-mauer-hacking-helm",
+    "mapId": "coldwar-mauer-der-toten",
+    "title": "Hacking Helm: three CRBR-S targets",
+    "category": "weapon",
+    "difficulty": "Easy",
+    "players": "1–4 players, standard online quest",
+    "summary": "Collect the antenna, board and transistor, including all three possible shop radios.",
+    "requirements": [
+      "Standard online Mauer der Toten main-quest route; Klaus assembled.",
+      "Base CRBR-S pistol. If a Mod Kit is active, spend its ammunition to return to the base gun."
+    ],
+    "reward": "Klaus's Hacking Helm and its Requiem artifact entry.",
+    "steps": [
+      {
+        "title": "Antenna: spawn rooftop",
+        "body": "Shoot the antenna in the spawn room with the WW",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/ol0r28/mauer_der_toten_main_ee_guide/",
+        "tip": "Use the base CRBR-S and collect the Antenna it drops.",
+        "html": "<p>Shoot the antenna in the spawn room with the WW</p>",
+        "images": [
+          {
+            "src": "./assets/batch8-mauer-main_ee-helm_rooftop.webp",
+            "alt": "Apartment Rooftop antenna: shoot this tower and take the dropped component.",
+            "caption": "Apartment Rooftop antenna: shoot this tower and take the dropped component.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/main_ee/helm_rooftop.webp"
+          }
+        ]
+      },
+      {
+        "title": "Board: Ghost Station",
+        "body": "Shoot the green box on the wall in the train station with the WW",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/ol0r28/mauer_der_toten_main_ee_guide/",
+        "tip": "Use the base CRBR-S, then take the Electronic Board from the panel opposite Mule Kick.",
+        "html": "<p>Shoot the green box on the wall in the train station with the WW</p>",
+        "images": [
+          {
+            "src": "./assets/batch8-mauer-main_ee-helm_station.webp",
+            "alt": "Ghost Station: green panel on the platform opposite Mule Kick.",
+            "caption": "Ghost Station: green panel on the platform opposite Mule Kick.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/main_ee/helm_station.webp"
+          }
+        ]
+      },
+      {
+        "title": "Transistor: Electronics Store",
+        "body": "Shoot the boomboxes in the Electronics store near Jug with the WW. One of them will drop the third part.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/ol0r28/mauer_der_toten_main_ee_guide/",
+        "tip": "Use the base CRBR-S and check the three pictured radios until the Transistor drops. Pick up the part.",
+        "html": "<p>Shoot the boomboxes in the Electronics store near Jug with the WW. One of them will drop the third part.</p>",
+        "images": [
+          {
+            "src": "./assets/batch8-mauer-main_ee-helm_store_loc1.webp",
+            "alt": "Electronics Store radio candidate 1.",
+            "caption": "Electronics Store radio candidate 1.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/main_ee/helm_store_loc1.webp"
+          },
+          {
+            "src": "./assets/batch8-mauer-main_ee-helm_store_loc2.webp",
+            "alt": "Electronics Store radio candidate 2.",
+            "caption": "Electronics Store radio candidate 2.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/main_ee/helm_store_loc2.webp"
+          },
+          {
+            "src": "./assets/batch8-mauer-main_ee-helm_store_loc3.webp",
+            "alt": "Electronics Store radio candidate 3.",
+            "caption": "Electronics Store radio candidate 3.",
+            "credit": "Gameplay screenshot / location reference: mmmrkennedy; Black Ops Cold War © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/pictures/main_ee/helm_store_loc3.webp"
+          }
+        ]
+      },
+      {
+        "title": "Fit all parts to Klaus",
+        "body": "Now you have all 3 parts, you'll need to go down to the safe house and craft them onto Klaus. This will complete the step and you'll be given a quote by Klaus to confirm this.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/orzsnv/the_ultimate_ee_guides_mauer_der_toten/",
+        "tip": "Return to his chair and interact at his head. The helm is separate from the Garment Factory weapon-upgrade station.",
+        "html": "<p>Now you have all 3 parts, you&#39;ll need to go down to the safe house and craft them onto Klaus. This will complete the step and you&#39;ll be given a quote by Klaus to confirm this.</p>"
+      }
+    ],
+    "sources": [
+      {
+        "title": "DeltaIn3D — firsthand Secret Lab, canisters and train route",
+        "url": "https://www.reddit.com/r/CODZombies/comments/ol0r28/mauer_der_toten_main_ee_guide/"
+      },
+      {
+        "title": "DaRkShAdOwYlaf — firsthand main quest and solo / co-op completion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/orzsnv/the_ultimate_ee_guides_mauer_der_toten/"
+      },
+      {
+        "title": "mmmrkennedy — illustrated locations and component photographs",
+        "url": "https://mmmrkennedy.com/games/BO_CW/mauer_der_toten/mauer_der_toten_guide"
+      },
+      {
+        "title": "Firsthand Local / offline Hacking Helm limitation",
+        "url": "https://www.reddit.com/r/ColdWarZombies/comments/1abwnih"
+      }
+    ],
+    "relatedGuideIds": [
+      "coldwar-mauer-der-toten-main",
+      "coldwar-mauer-klaus-full-upgrades",
+      "coldwar-mauer-free-crbrs-variants",
+      "coldwar-mauer-der-toten-intel-season-4-reloaded"
+    ],
+    "checked": "2026-10-16",
+    "sourceQuote": "https://www.reddit.com/r/CODZombies/comments/orzsnv/the_ultimate_ee_guides_mauer_der_toten/"
+  },
+  {
+    "id": "coldwar-mauer-weapons-upgrades",
+    "mapId": "coldwar-mauer-der-toten",
+    "title": "Weapons, armor and upgrade costs",
+    "category": "weapon",
+    "difficulty": "Easy",
+    "players": "1–4 players",
+    "summary": "Keep three Pack-a-Punch tiers, ordinary weapon rarity and CRBR-S kits separate.",
+    "requirements": [
+      "Power and Checkpoint Charlie Pack-a-Punch unlocked.",
+      "Essence, Common Salvage and High-End Salvage; the two Salvage currencies are separate.",
+      "An ordinary gun for Arsenal rarity / Ammo Mod upgrades; a CRBR-S for its own PaP / kit functions."
+    ],
+    "reward": "A stronger loadout, armor, Ammo Mods and optional camo control.",
+    "steps": [
+      {
+        "title": "Pack-a-Punch: 5K / 15K / 30K",
+        "body": "At Checkpoint Charlie, hold the weapon to upgrade. Buy PaP tier I for 5,000 Essence, tier II for another 15,000 and tier III for another 30,000: 50,000 total from unpacked.",
+        "researchSource": "https://www.callofduty.com/blog/2021/07/black-ops-cold-war-zombies-mauer-der-toten-tips",
+        "tip": "These damage upgrades are separate from ordinary weapon rarity and apply to the CRBR-S too."
+      },
+      {
+        "title": "Arsenal: green and blue rarity",
+        "body": "At an Arsenal, open the ordinary weapon's upgrade tab. Common / red → Uncommon / green costs 500 Common Salvage. Green → Rare / blue costs another 1,000 Common Salvage.",
+        "researchSource": "https://www.reddit.com/r/ColdWarZombies/comments/nlv53d/"
+      },
+      {
+        "title": "Arsenal: purple and orange rarity",
+        "body": "Rare / blue → Epic / purple costs 500 High-End Salvage; purple → Legendary / orange costs another 1,000 High-End. PaP does not change those costs.",
+        "researchSource": "https://www.reddit.com/r/ColdWarZombies/comments/nlv53d/",
+        "tip": "Wonder Weapons already have their own rarity; do not budget an extra ordinary rarity ladder for the CRBR-S."
+      },
+      {
+        "title": "Buy and repair armor",
+        "body": "At an Arsenal, armor I costs 500 Common Salvage, armor II another 1,000 Common and armor III 250 High-End. Use the armor tab's repair option when damaged.",
+        "researchSource": "https://www.reddit.com/r/ColdWarZombies/comments/nei9g8/",
+        "tip": "An accessible Arsenal is in Sewer Access; revisit it before timed quest steps."
+      },
+      {
+        "title": "Ammo Mods: 2,000 Essence",
+        "body": "Open Pack-a-Punch's Ammo Mods tab on an ordinary weapon and buy the desired mod for 2,000 Essence. Brain Rot opens Hotel Room 305 for Klaus's hands.",
+        "researchSource": "https://www.reddit.com/r/blackopscoldwar/comments/luudkh/",
+        "tip": "Ammo Mods are separate from PaP and the three CRBR-S drop kits."
+      },
+      {
+        "title": "CRBR-S: safe, Box or Trials",
+        "body": "Use the linked deterministic safe route for one shared gun. For more copies, use the Box or claim Legendary Trial rewards; both are random. The linked weapon guide covers Blazer, Swarm and Diffuser kits.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/vtlhw8/",
+        "tip": "PaP the CRBR-S for damage. Equipping its three dropped kits is a firing-mode change, not three separate ingredient quests."
+      },
+      {
+        "title": "Ray Gun: roll the Mystery Box",
+        "body": "Use the Mystery Box for a chance at the Ray Gun. A failed pull is an ordinary random result, not evidence that collecting a CRBR-S locked it out.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/oz3ujn/",
+        "tip": "There is no guaranteed Ray Gun recipe in this checklist. Conflicting reports about other loot pools are not a reason to promise a Trial or nightclub Ray Gun."
+      },
+      {
+        "title": "Use the free rarity Tool",
+        "body": "The rooftop target-practice companion rewards an Aether Tool. Collect it while holding the ordinary gun whose rarity you want raised by one level.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/olbduy/"
+      },
+      {
+        "title": "Optional: lock the PaP camo",
+        "body": "Melee Pack-a-Punch before buying an upgrade to keep your weapon's current camo. To keep PaP tier I or II's camo through later packs, melee the machine after reaching that preferred tier.",
+        "researchSource": "https://www.treyarch.com/game-intel/2021/08/August_17_2021_Patch_Notes",
+        "tip": "This is the August 2021 camo-lock feature. Use the machine interaction carefully rather than assuming a launch video shows the later behavior."
+      },
+      {
+        "title": "Craft a Kazimir for 1,500 Salvage",
+        "body": "At a Crafting Table, use the tactical-equipment tab to craft an LT53 Kazimir for 1,500 Common Salvage on the updated game.",
+        "researchSource": "https://www.treyarch.com/game-intel/2021/08/August_17_2021_Patch_Notes",
+        "tip": "The original July price was 2,000; Treyarch reduced it on August 12, 2021. Do not use the launch article's price for the updated game."
+      },
+      {
+        "title": "Jump into its active portal",
+        "body": "Throw the LT53 Kazimir to create its temporary black-hole rift. Jump into the active rift to teleport to another location.",
+        "researchSource": "https://www.treyarch.com/game-intel/2021/07/Season_Four_Reloaded_Intel",
+        "tip": "This is an escape / crowd-control interaction, not an ingredient needed for the main quest."
+      },
+      {
+        "title": "Permanent skills and starting rarity",
+        "body": "Spend Aetherium Crystals on account skill tiers between matches. For the separate permanent starting-weapon rarity reward, use Outbreak's The Pact companion; Mauer's completed main quest contributes to the six-quest progression.",
+        "researchSource": "https://www.treyarch.com/game-intel/2022/04/Treyarch_Content_in_2022"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Activision — Pack-a-Punch tiers and permanent skill system",
+        "url": "https://www.callofduty.com/blog/2021/07/black-ops-cold-war-zombies-mauer-der-toten-tips"
+      },
+      {
+        "title": "Firsthand Arsenal weapon-rarity costs",
+        "url": "https://www.reddit.com/r/ColdWarZombies/comments/nlv53d/"
+      },
+      {
+        "title": "Firsthand Common / High-End Salvage and armor costs",
+        "url": "https://www.reddit.com/r/ColdWarZombies/comments/nei9g8/"
+      },
+      {
+        "title": "Firsthand Ammo Mods menu and 2,000-Essence cost",
+        "url": "https://www.reddit.com/r/blackopscoldwar/comments/luudkh/"
+      },
+      {
+        "title": "Firsthand extra co-op CRBR-S via Box / Legendary Trials",
+        "url": "https://www.reddit.com/r/CODZombies/comments/vtlhw8/"
+      },
+      {
+        "title": "Firsthand Mauer Ray Gun acquisition reports",
+        "url": "https://www.reddit.com/r/CODZombies/comments/oz3ujn/"
+      },
+      {
+        "title": "Firsthand Aether Tool rarity effect",
+        "url": "https://www.reddit.com/r/CODZombies/comments/olbduy/"
+      },
+      {
+        "title": "Treyarch — August 17 camo controls and Kazimir cost reduction",
+        "url": "https://www.treyarch.com/game-intel/2021/08/August_17_2021_Patch_Notes"
+      },
+      {
+        "title": "Treyarch — 2022 permanent six-quest reward",
+        "url": "https://www.treyarch.com/game-intel/2022/04/Treyarch_Content_in_2022"
+      },
+      {
+        "title": "Treyarch — Kazimir portal / jump interaction",
+        "url": "https://www.treyarch.com/game-intel/2021/07/Season_Four_Reloaded_Intel"
+      }
+    ],
+    "relatedGuideIds": [
+      "coldwar-mauer-power-pack-setup",
+      "coldwar-mauer-free-crbrs-variants",
+      "coldwar-mauer-klaus-full-upgrades",
+      "coldwar-mauer-rooftop-aether-tool",
+      "coldwar-mauer-trials",
+      "coldwar-outbreak-the-pact"
+    ],
+    "checked": "2026-10-16"
+  },
+  {
+    "id": "coldwar-mauer-trials",
+    "mapId": "coldwar-mauer-der-toten",
+    "title": "Trials: Legendary loot and intel",
+    "category": "side",
+    "difficulty": "Easy",
+    "players": "1–4 players",
+    "summary": "Build a normal reward to Legendary, or collect a separate Dark Aether intel opportunity.",
+    "requirements": [
+      "Reach the Trials computer in West Berlin Streets near Checkpoint Charlie.",
+      "Essence for the price shown by the terminal; access to rooms named by its objective.",
+      "For lore, check your own Barracks → Intel and use the computer's intel prompt."
+    ],
+    "reward": "Random Trial loot, a possible CRBR-S at Legendary, and eligible Dark Aether lore.",
+    "steps": [
+      {
+        "title": "Start at the West Berlin computer",
+        "body": "Pay the displayed price at the Trials computer near Checkpoint Charlie. Complete the HUD's objective before its countdown expires.",
+        "researchSource": "https://www.callofduty.com/blog/2021/07/black-ops-cold-war-season-four-mauer-der-toten-zombies-tips",
+        "tip": "Open access to the named room if a location Trial requires it.",
+        "original": true
+      },
+      {
+        "title": "Leave normal rewards unclaimed",
+        "body": "After an early Trial, leave your normal reward podium alone. Start another Trial and complete its objective to keep raising that accumulated reward. Wait until the HUD says Legendary before claiming.",
+        "researchSource": "https://www.reddit.com/r/ColdWarZombies/comments/praivp",
+        "original": true
+      },
+      {
+        "title": "Claim your Legendary result",
+        "body": "Use your reward podium and take its offered item. A Legendary reward can be a CRBR-S, but it is not guaranteed. Start a fresh reward chain if you want another roll.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/vtlhw8/",
+        "tip": "Each co-op player develops and claims their own normal reward; the safe route gives one shared free gun.",
+        "original": true
+      },
+      {
+        "title": "Watch for intel opportunities",
+        "body": "All Received from trials.\n\nWhat I do know is it is possible to get 2 from one challenge, if you are quick enough and grab the first Intel before the challenge ends. 3 max per game though.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/okvpel/complete_list_of_all_intelseason_4_reloaded_mauer/",
+        "tip": "Use the computer's Intel Available prompt. The quoted three-per-match cap is a historical firsthand report, not a current play-test.",
+        "html": "<p>All Received from trials.</p>\n<p>What I do know is it is possible to get 2 from one challenge, if you are quick enough and grab the first Intel before the challenge ends. 3 max per game though.</p>"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Activision — original Mauer layout, power route and perk locations",
+        "url": "https://www.callofduty.com/blog/2021/07/black-ops-cold-war-season-four-mauer-der-toten-zombies-tips"
+      },
+      {
+        "title": "JaxxxAttacks — firsthand Trial stacking and perk-machine change",
+        "url": "https://www.reddit.com/r/ColdWarZombies/comments/praivp"
+      },
+      {
+        "title": "Firsthand extra co-op CRBR-S via Box / Legendary Trials",
+        "url": "https://www.reddit.com/r/CODZombies/comments/vtlhw8/"
+      },
+      {
+        "title": "Ricerat477 and commenters — Mauer release intel inventory and match limits",
+        "url": "https://www.reddit.com/r/CODZombies/comments/okvpel/complete_list_of_all_intelseason_4_reloaded_mauer/"
+      }
+    ],
+    "relatedGuideIds": [
+      "coldwar-mauer-free-crbrs-variants",
+      "coldwar-mauer-weapons-upgrades",
+      "coldwar-mauer-der-toten-intel-season-4-reloaded"
+    ],
+    "checked": "2026-10-16",
+    "sourceQuote": "https://www.reddit.com/r/CODZombies/comments/okvpel/complete_list_of_all_intelseason_4_reloaded_mauer/"
+  },
+  {
+    "id": "coldwar-mauer-rampage-inducer",
+    "mapId": "coldwar-mauer-der-toten",
+    "title": "Rampage Inducer: location and controls",
+    "category": "side",
+    "difficulty": "Easy",
+    "players": "1–4 players",
+    "summary": "Find the starting-apartment canister and control faster spawns and movement.",
+    "requirements": [
+      "Standard round-based Mauer der Toten.",
+      "Updated Cold War: added in September 2021; Local/offline support added October 7, 2021.",
+      "Solo activation needs one player; co-op activation and deactivation require every player's approval."
+    ],
+    "reward": "Faster and more aggressive rounds while enabled, through the updated Round 55 limit.",
+    "steps": [
+      {
+        "title": "Find the starting-apartment table",
+        "body": "Drop from Apartment Rooftop into 5th Floor Apartments. Find the orange canister on the table left of the room containing the vertical rappel / zipline.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/pjamro/comment/hcmakw8/",
+        "tip": "It is below the infill roof near the Tombstone starting area. Read its RAMPAGE INDUCER prompt to identify the correct canister."
+      },
+      {
+        "title": "Activate and approve",
+        "body": "Interact with the canister using your displayed binding. Solo players activate it directly; in co-op, every player must accept the vote before it enables faster zombie spawns / movement.",
+        "researchSource": "https://www.treyarch.com/game-intel/2021/09/Incoming_Season_Five_Reloaded"
+      },
+      {
+        "title": "Switch off at the same canister",
+        "body": "Return and interact again to request normal pacing. Every co-op player must approve deactivation too. If the request is unavailable, finish the round and try again.",
+        "researchSource": "https://www.treyarch.com/game-intel/2021/09/Incoming_Season_Five_Reloaded",
+        "tip": "Treyarch documented toggling as often as once per round at launch. A universal current same-round solo cooldown is unresolved; do not rely on a fixed seconds-long timer."
+      },
+      {
+        "title": "Use the updated round window",
+        "body": "Updated Cold War permits Rampage through Round 55. This is the match round, not 55 extra rounds after you enabled it.",
+        "researchSource": "https://www.treyarch.com/game-intel/2021/11/November_2nd_Update",
+        "tip": "The original September 2021 cap was Round 20. Older videos / installations may show that historical limit."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Knife_Kitten — exact starting-apartment Rampage location",
+        "url": "https://www.reddit.com/r/CODZombies/comments/pjamro/comment/hcmakw8/"
+      },
+      {
+        "title": "Firsthand Mauer Rampage location and activation",
+        "url": "https://www.reddit.com/r/CODZombies/comments/pl6ew8/"
+      },
+      {
+        "title": "Treyarch — September Rampage launch and voting rules",
+        "url": "https://www.treyarch.com/game-intel/2021/09/Incoming_Season_Five_Reloaded"
+      },
+      {
+        "title": "Treyarch — October Local / offline Rampage support",
+        "url": "https://www.treyarch.com/game-intel/2021/10/Season_Six_Arrives_Oct_7"
+      },
+      {
+        "title": "Treyarch — November Round 55 cap",
+        "url": "https://www.treyarch.com/game-intel/2021/11/November_2nd_Update"
+      }
+    ],
+    "relatedGuideIds": [
+      "coldwar-mauer-power-pack-setup",
+      "coldwar-mauer-der-toten-main"
+    ],
+    "checked": "2026-10-16"
+  },
+  {
+    "id": "coldwar-mauer-loose-change",
+    "mapId": "coldwar-mauer-der-toten",
+    "title": "Loose change: perk-machine Essence",
+    "category": "side",
+    "difficulty": "Easy",
+    "players": "1–4 players; a machine's bonus is shared / first claimant",
+    "summary": "Go prone at unclaimed perk machines for small setup bonuses.",
+    "requirements": [
+      "Reach the machine you want to check; the first player to take its bonus removes that opportunity for the squad."
+    ],
+    "reward": "100 Essence from each eligible unclaimed machine.",
+    "steps": [
+      {
+        "title": "Go prone in front of a machine",
+        "body": "Move close to the front of a perk machine and lie prone. A successful unclaimed machine awards 100 Essence; you do not need to purchase its perk first.",
+        "researchSource": "https://www.reddit.com/r/ColdWarZombies/comments/praivp",
+        "tip": "One player can claim a given machine's bonus. An empty machine is not a repeatable source of 100 Essence every round."
+      },
+      {
+        "title": "Check the rooftop machines",
+        "body": "Check Tombstone in Apartment 503, Quick Revive at Destroyed Penthouse, Stamin-Up in Hotel Lounge and Speed Cola on the Korber / Garment Factory rooftop.",
+        "researchSource": "https://www.callofduty.com/blog/2021/07/black-ops-cold-war-season-four-mauer-der-toten-zombies-tips"
+      },
+      {
+        "title": "Check street and underground machines",
+        "body": "Check Jugger-Nog in the Bar, Deadshot in the Service Passage boiler room, Mule Kick in Ghost Station and Elemental Pop in the Power Room.",
+        "researchSource": "https://www.callofduty.com/blog/2021/07/black-ops-cold-war-season-four-mauer-der-toten-zombies-tips",
+        "tip": "These are location checks, not a promised per-match total; a teammate may already have claimed a machine."
+      }
+    ],
+    "sources": [
+      {
+        "title": "JaxxxAttacks — firsthand prone / 100 Essence / one-player rule",
+        "url": "https://www.reddit.com/r/ColdWarZombies/comments/praivp"
+      },
+      {
+        "title": "Firsthand round-based recovery using unclaimed perk-machine change",
+        "url": "https://www.reddit.com/r/ColdWarZombies/comments/1cesx4z"
+      },
+      {
+        "title": "Activision — original Mauer perk-machine locations",
+        "url": "https://www.callofduty.com/blog/2021/07/black-ops-cold-war-season-four-mauer-der-toten-zombies-tips"
+      }
+    ],
+    "relatedGuideIds": [
+      "coldwar-mauer-power-pack-setup",
+      "coldwar-mauer-weapons-upgrades"
+    ],
+    "checked": "2026-10-16"
+  },
+  {
+    "id": "coldwar-mauer-intel-ciphers",
+    "mapId": "coldwar-mauer-der-toten",
+    "title": "J Cipher 2 and F Cipher: acquisition and solutions",
+    "category": "side",
+    "difficulty": "Medium",
+    "players": "1–4 players; lore documents on your profile",
+    "summary": "Get both encoded documents, then read the original solvers' keys and decoded lore.",
+    "requirements": [
+      "Online intel collection; progress through the train / Safe House computer for J Cipher 2.",
+      "Special / elite enemy document drops for F Cipher; use the intel companion's historical one-random-document-per-match warning."
+    ],
+    "reward": "Two lore documents and their published plaintext; decoding does not add a separate in-match weapon or boss step.",
+    "sourceQuote": "https://www.reddit.com/r/CODZombies/comments/ol0hb5/second_j_cipher_solved/",
+    "steps": [
+      {
+        "title": "Collect J Cipher 2",
+        "body": "Fit the Warhead, use Rico's Keycard at the Safe House computer and browse through its files until you receive J Cipher 2. This is one of three computer documents; Rico's Note is instead inside the stopped train.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/omynyq/anybody_managed_to_decipher_mauer_der_toten_f/",
+        "original": true
+      },
+      {
+        "title": "Collect F Cipher",
+        "body": "Kill special / elite enemies and interact with their random document drops in new matches until F Cipher is collected. It is an Omega document, not a fixed wall cipher to shoot.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/omynyq/anybody_managed_to_decipher_mauer_der_toten_f/",
+        "original": true
+      },
+      {
+        "title": "J Cipher 2: Richkiller's solution",
+        "body": "From Requiem to Klaus:\nSubject, complete your mission. You have your orders, the security of project Janus is your top priority.\nContain this situation, find and destroy the intercepted communique, then tie up all loose ends. We cannot allow this get out.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/ol0hb5/second_j_cipher_solved/",
+        "tip": "Richkiller identifies a Nihilist cipher, alphabet ITSDQWUREOCPVFLYXBNAKMHGZ, periodic key AGENTRICO. The linked original solve includes the numeric ciphertext.",
+        "html": "<p>From Requiem to Klaus:\nSubject, complete your mission. You have your orders, the security of project Janus is your top priority.\nContain this situation, find and destroy the intercepted communique, then tie up all loose ends. We cannot allow this get out.</p>"
+      },
+      {
+        "title": "F Cipher: OriginWormy's solution",
+        "body": "Colonel We're going about this the wrong way. We shouldn't be trying to kill the forsaken. We should be trying to capture it. Think about it, this could be the most powerful creature from their reality. It is an elder god it has power beyond anything we can comprehend. Who knows what could be gained from harvesting it. Zykov says he can help. All he wants from us is to break him free. We should act fast before requiem takes him upon his offer -P",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/om6go9/solved_the_f_cipher/",
+        "tip": "OriginWormy identifies ADFGX, alphabet NEMAYQOLUDVXFCHIRPBTZKSGW (found by Richkiller) and transposition key ADFEBC. The linked solve includes the full ciphertext.",
+        "html": "<p>Colonel We&#39;re going about this the wrong way. We shouldn&#39;t be trying to kill the forsaken. We should be trying to capture it. Think about it, this could be the most powerful creature from their reality. It is an elder god it has power beyond anything we can comprehend. Who knows what could be gained from harvesting it. Zykov says he can help. All he wants from us is to break him free. We should act fast before requiem takes him upon his offer -P</p>"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Giangis — firsthand F drop / J computer acquisition",
+        "url": "https://www.reddit.com/r/CODZombies/comments/omynyq/anybody_managed_to_decipher_mauer_der_toten_f/"
+      },
+      {
+        "title": "Richkiller — original J Cipher 2 solution",
+        "url": "https://www.reddit.com/r/CODZombies/comments/ol0hb5/second_j_cipher_solved/"
+      },
+      {
+        "title": "OriginWormy / Richkiller — original F Cipher solution",
+        "url": "https://www.reddit.com/r/CODZombies/comments/om6go9/solved_the_f_cipher/"
+      },
+      {
+        "title": "r/CODZombies cipher archive — corroborating alphabets and keys",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/treyarch-ciphers/"
+      },
+      {
+        "title": "Ricerat477 — later correction locating Rico's Note in the train",
+        "url": "https://www.reddit.com/r/CODZombies/comments/okvpel/complete_list_of_all_intelseason_4_reloaded_mauer/"
+      }
+    ],
+    "relatedGuideIds": [
+      "coldwar-mauer-der-toten-intel-season-4-reloaded",
+      "coldwar-mauer-der-toten-main"
     ],
     "checked": "2026-10-16"
   }

@@ -1963,5 +1963,678 @@
       "bo2-die-rise-we-all-fall-down"
     ],
     "checked": "2026-10-16"
+  },
+  {
+    "id": "bo2-mob-of-the-dead-golden-spork",
+    "mapId": "bo2-mob-of-the-dead",
+    "title": "Golden Spork",
+    "category": "weapon",
+    "difficulty": "Medium",
+    "players": "1–4 players",
+    "summary": "Turn your silver spoon into the blood-bath melee reward.",
+    "requirements": [
+      "Complete your Silver Spoon pickup.",
+      "Acid Gat or Vitriolic Withering.",
+      "Each player must stir and claim their own spoon."
+    ],
+    "reward": "Golden Spork replaces your melee weapon.",
+    "steps": [
+      {
+        "title": "Stir the blood bath",
+        "body": "In the infirmary room with a Mystery Box location, find the single blood-filled bathtub. Interact with it after collecting your silver spoon. The spoon appears and stirs the blood. Each player attempting the upgrade must perform this interaction.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/mob-of-the-dead/",
+        "images": [
+          {
+            "src": "./assets/mob-blood-bath.webp",
+            "alt": "Blood-filled infirmary bathtub for Golden Spork.",
+            "caption": "Use this bath after your cafeteria spoon pickup.",
+            "source": "https://www.codzombieguides.com/mob-of-the-dead",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          }
+        ]
+      },
+      {
+        "title": "Earn acid-weapon kills in the Showers",
+        "body": "Stay in the Showers and kill zombies with Acid Gat or Vitriolic Withering. The commonly documented requirement is roughly 75 kills; the demonic laugh is the completion cue. Continue until you hear it rather than leaving because an estimated counter has been reached.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/mob-of-the-dead/",
+        "images": [
+          {
+            "src": "./assets/mob-spork-showers.webp",
+            "alt": "Acid weapon kills in the Showers.",
+            "caption": "Use the acid weapon in this room until the completion sound.",
+            "source": "https://www.codzombieguides.com/mob-of-the-dead",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          }
+        ]
+      },
+      {
+        "title": "Take the spork from the hand",
+        "body": "Return to the same blood bath and interact. A zombie hand rises holding the Golden Spork; interact with the raised reward to take it. Check your melee weapon. The upgrade is optional for the main quest, and it is not the separate BO4 Sporknife chain.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/mob-of-the-dead/",
+        "images": [
+          {
+            "src": "./assets/mob-spork-claim.webp",
+            "alt": "Golden Spork hand emerging from the blood bath.",
+            "caption": "Interact again with the reward in the hand.",
+            "source": "https://www.codzombieguides.com/mob-of-the-dead",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          }
+        ]
+      },
+      {
+        "title": "Recover it after bleeding out",
+        "body": "If you bleed out and lose the melee upgrade, repeat your cafeteria silver-spoon pickup and the personal bath/Showers/claim sequence. A normal teammate revive and a full bleed-out are different outcomes; finish the upgrade before risking a complete death.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/mob-of-the-dead/"
+      }
+    ],
+    "sources": [
+      {
+        "title": "r/CODZombies — Golden Spork route and recovery",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/mob-of-the-dead/"
+      },
+      {
+        "title": "JokerAlex 21 — bath, Showers and reward footage",
+        "url": "https://www.youtube.com/watch?v=gcl1j6uVuQc"
+      }
+    ],
+    "relatedGuideIds": [
+      "bo2-mob-of-the-dead-community-mob-of-the-dead-special-weapons-silver-spoon",
+      "bo2-mob-of-the-dead-community-mob-of-the-dead-buildables-acid-gat-kit",
+      "bo2-mob-of-the-dead-pop-goes-the-weasel"
+    ],
+    "checked": "2026-10-17"
+  },
+  {
+    "id": "bo2-mob-of-the-dead-hell-pit-grenade-points",
+    "mapId": "bo2-mob-of-the-dead",
+    "title": "Hell pit — 20 points per grenade",
+    "category": "side",
+    "difficulty": "Easy",
+    "players": "1–4 players",
+    "summary": "Trade spare grenades for a small score bonus under Broadway.",
+    "requirements": [
+      "Reach the first Broadway dog and carry frag grenades."
+    ],
+    "reward": "20 points for each grenade accepted by the pit.",
+    "steps": [
+      {
+        "title": "Find the opening below the dog",
+        "body": "At the Broadway dog near the B23R, look below the walkway railing into the large burning pit. Stand back from the edge; the grenade needs to fall into the fire.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=becl4a2lUUw&t=6s",
+        "images": [
+          {
+            "src": "./assets/mob-redeemer-pit.webp",
+            "alt": "Burning hell pit beneath the Broadway railing.",
+            "caption": "The grenade target is the pit below the first dog.",
+            "source": "https://www.codzombieguides.com/mob-of-the-dead",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          }
+        ]
+      },
+      {
+        "title": "Throw spare grenades into the fire",
+        "body": "Throw a frag down into the pit and watch your score. The original creator showcase visibly awards +20. Repeat with spare grenades if desired; this consumes those grenades and does not award a weapon or advance the main quest.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=becl4a2lUUw&t=25s",
+        "images": [
+          {
+            "src": "./assets/mob-grenade-points.webp",
+            "alt": "A visible +20 score notification after a grenade is thrown into the hell pit.",
+            "caption": "Actual +20 notification in the original-map showcase.",
+            "source": "https://www.youtube.com/watch?v=becl4a2lUUw&t=25s",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "JokerAlex 21 — grenade input and visible score showcase",
+        "url": "https://www.youtube.com/watch?v=becl4a2lUUw"
+      }
+    ],
+    "checked": "2026-10-17"
+  },
+  {
+    "id": "bo2-mob-of-the-dead-115-warden-response",
+    "mapId": "bo2-mob-of-the-dead",
+    "title": "115 — Warden’s number-pad response",
+    "category": "side",
+    "difficulty": "Easy",
+    "players": "1–4 players",
+    "summary": "Hear the optional Warden response at the Citadel keypad.",
+    "requirements": [
+      "Warden’s Key; open the small number-pad cage.",
+      "One Afterlife charge."
+    ],
+    "reward": "A short Warden voice response; no main-quest requirement.",
+    "steps": [
+      {
+        "title": "Unlock the number pad",
+        "body": "Use the key on the cabinet at the bottom of the Citadel spiral staircase. Enter Afterlife using the box at the top, then descend to the panel.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=3TWKlr8_Jgk&t=12s"
+      },
+      {
+        "title": "Shock in 115",
+        "body": "Set the three digits to 1, 1, 5 from left to right and let the input register. Listen for the Warden’s rejection, then revive your body before the meter expires. This optional response and the 935 song are separate from the four inmate codes used later by the main quest.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=3TWKlr8_Jgk&t=35s",
+        "images": [
+          {
+            "src": "./assets/mob-115-panel.webp",
+            "alt": "Citadel number panel showing 115 during Afterlife.",
+            "caption": "115 triggers the short response; use 935 for the song.",
+            "source": "https://www.youtube.com/watch?v=3TWKlr8_Jgk&t=45s",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "JokerAlex 21 — 115 demonstration and spoken response",
+        "url": "https://www.youtube.com/watch?v=3TWKlr8_Jgk"
+      },
+      {
+        "title": "Hadi — optional codes are not main-quest steps",
+        "url": "https://www.reddit.com/r/CODZombies/comments/g5p307/"
+      }
+    ],
+    "relatedGuideIds": [
+      "bo2-mob-of-the-dead-community-mob-of-the-dead-map-walkthrough-pack-a-punch",
+      "bo2-mob-of-the-dead-pop-goes-the-weasel",
+      "bo2-mob-of-the-dead-community-mob-of-the-dead-easter-eggs-hidden-song-where-are-we-going"
+    ],
+    "checked": "2026-10-17"
+  },
+  {
+    "id": "bo2-mob-of-the-dead-rooftop-sniper-jumpscare",
+    "mapId": "bo2-mob-of-the-dead",
+    "title": "Rooftop sniper jumpscare",
+    "category": "side",
+    "difficulty": "Easy",
+    "players": "1–4 players",
+    "summary": "Scope the distant fireworks from the left side of the Roof.",
+    "requirements": [
+      "Open the Roof through Afterlife.",
+      "Obtain a scoped sniper rifle from the Mystery Box."
+    ],
+    "reward": "A brief image and loud scream; the ordinary trigger is once per match.",
+    "steps": [
+      {
+        "title": "Walk beyond the plane",
+        "body": "With a sniper equipped, pass Icarus and walk to the back-left edge of the Roof. Face outward toward the distant fireworks.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=r6sQcO0ytIQ&t=17s",
+        "images": [
+          {
+            "src": "./assets/mob-jumpscare-roof.webp",
+            "alt": "Rooftop approach past Icarus with a sniper rifle equipped.",
+            "caption": "Pass the plane and turn toward the back-left outer edge.",
+            "source": "https://www.youtube.com/watch?v=r6sQcO0ytIQ&t=20s",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          },
+          {
+            "src": "./assets/mob-skull-roof.webp",
+            "alt": "Outer roof corner toward the distant fireworks.",
+            "caption": "The free-skull roof corner also helps identify this side of the roof.",
+            "source": "https://www.codzombieguides.com/mob-of-the-dead",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          }
+        ]
+      },
+      {
+        "title": "Scope the fireworks",
+        "body": "Aim down the sniper scope at the fireworks outside the playable area. The scary image and scream appear briefly. You do not need to shoot or launch the plane for this input. The reported rare second scare has separate, unresolved conditions; it is not promised by repeating this normal trigger.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=r6sQcO0ytIQ&t=22s"
+      }
+    ],
+    "sources": [
+      {
+        "title": "JokerAlex 21 — original rooftop trigger",
+        "url": "https://www.youtube.com/watch?v=r6sQcO0ytIQ"
+      }
+    ],
+    "checked": "2026-10-17"
+  },
+  {
+    "id": "bo2-mob-of-the-dead-docks-perks-noticeboard",
+    "mapId": "bo2-mob-of-the-dead",
+    "title": "Distant perks and Warden’s noticeboard",
+    "category": "side",
+    "difficulty": "Easy",
+    "players": "1–4 players",
+    "summary": "Inspect two scenery details without treating them as obtainable upgrades.",
+    "requirements": [
+      "Open the Docks and Warden’s Office."
+    ],
+    "reward": "Scenery and story references; no hidden equipment reward.",
+    "steps": [
+      {
+        "title": "Distant Mule Kick and PhD machines",
+        "body": "From the Docks, look across the water at the inaccessible pier with the Mule Kick and PhD Flopper machines. Standard Mob has no legal purchase route to those distant props. Their usable Cell Block Grief versions belong to that separate mode.",
+        "original": true,
+        "researchSource": "https://www.codzombieguides.com/mob-of-the-dead",
+        "images": [
+          {
+            "src": "./assets/mob-skull-pier.webp",
+            "alt": "Inaccessible pier across the water from the lower Docks.",
+            "caption": "Look across the water; the far pier is outside the Standard play area.",
+            "source": "https://www.codzombieguides.com/mob-of-the-dead",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          }
+        ]
+      },
+      {
+        "title": "Office noticeboard",
+        "body": "Inspect the Warden’s Office wall board for prison-event pictures and Afterlife imagery. This is readable scenery, with no special activation or equipment reward.",
+        "original": true,
+        "researchSource": "https://www.codzombieguides.com/mob-of-the-dead",
+        "images": [
+          {
+            "src": "./assets/mob-noticeboard.webp",
+            "alt": "Warden’s Office noticeboard showing Alcatraz event clippings and images.",
+            "caption": "Warden’s Office noticeboard.",
+            "source": "https://www.codzombieguides.com/mob-of-the-dead",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "JokerAlex 21 — scenery locations and mode distinction",
+        "url": "https://www.codzombieguides.com/mob-of-the-dead"
+      },
+      {
+        "title": "JokerAlex 21 — distant perk demonstration",
+        "url": "https://www.youtube.com/watch?v=kRy_s6f3F3I"
+      }
+    ],
+    "checked": "2026-10-17"
+  },
+  {
+    "id": "bo2-mob-of-the-dead-opening-afterlife-gameover-music",
+    "mapId": "bo2-mob-of-the-dead",
+    "title": "Opening Afterlife — alternate game-over music",
+    "category": "music",
+    "difficulty": "Easy",
+    "players": "1 player — Solo",
+    "summary": "Hear the alternate ending cue by letting the opening Afterlife expire in a fresh solo game.",
+    "requirements": [
+      "Start a fresh Solo Standard match.",
+      "This deliberately ends that match. Do it in a disposable run before building or collecting anything."
+    ],
+    "reward": "Alternate game-over music and presentation; no persistent item.",
+    "steps": [
+      {
+        "title": "Stay in the opening Afterlife",
+        "body": "At the start, leave your character in the initial Afterlife state. Do not revive the body; allow the blue meter to run out. This is the documented opening-state trigger, not a method for preserving an ongoing run.",
+        "original": true,
+        "researchSource": "https://www.codzombieguides.com/mob-of-the-dead",
+        "images": [
+          {
+            "src": "./assets/mob-afterlife-symbol.webp",
+            "alt": "Blue Afterlife symbol on a prison wall.",
+            "caption": "Afterlife reference image; letting the opening meter expire ends the match.",
+            "source": "https://www.codzombieguides.com/mob-of-the-dead",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          }
+        ]
+      },
+      {
+        "title": "Listen on the game-over screen",
+        "body": "The game ends and the alternate cue plays. The creator labels it History Repeats Itself, a remix of Samantha’s Lullaby. Start a new match when finished listening; you cannot continue the ended run.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=5M-85K1V-2A",
+        "images": [
+          {
+            "src": "./assets/mob-opening-afterlife-gameover.webp",
+            "alt": "Original Mob of the Dead Game Over screen after the opening Afterlife expires.",
+            "caption": "The opening-state demonstration ends the match; plan this as a disposable solo run.",
+            "source": "https://www.youtube.com/watch?v=5M-85K1V-2A&t=40s",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "JokerAlex 21 — opening-state instructions",
+        "url": "https://www.codzombieguides.com/mob-of-the-dead"
+      },
+      {
+        "title": "JokerAlex 21 — alternate game-over showcase and track label",
+        "url": "https://www.youtube.com/watch?v=5M-85K1V-2A"
+      }
+    ],
+    "checked": "2026-10-17"
+  },
+  {
+    "id": "bo2-mob-of-the-dead-cipher-decoding-reference",
+    "mapId": "bo2-mob-of-the-dead",
+    "title": "Loading screen and cell ciphers — reference",
+    "category": "side",
+    "difficulty": "Easy",
+    "players": "1–4 players",
+    "summary": "Read the loading-screen key and four illustrated cell letters with direct route references.",
+    "requirements": [
+      "These are static story clues, not equipment pickups.",
+      "This reference illustrates four cell notes; their exact numbered cells and complete written walking circuit are still being checked."
+    ],
+    "reward": "Decoded story context; no claim of a separate weapon or quest unlock.",
+    "steps": [
+      {
+        "title": "Loading-screen ADFGX",
+        "body": "Read the ADFGX column beside the portal sketch. The community solution removes one repeated FDGFFG line, uses transposition key ZOMBIE, then applies its substitution mapping. The decoded German message warns that the giant is in France.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/treyarch-ciphers/",
+        "images": [
+          {
+            "src": "./assets/mob-cipher-loading-adfgx.webp",
+            "alt": "ADFGX letter column on the Mob loading screen.",
+            "caption": "Loading-screen ADFGX column.",
+            "source": "https://www.youtube.com/watch?v=gyeNXdF9Vm4&t=30s",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          }
+        ]
+      },
+      {
+        "title": "Loading-screen number grid",
+        "body": "Read the 4×4 grid row by row: 13 15 2 15 / 6 20 8 5 / 4 5 1 4 / 1 2 3 4. With A=1, it yields MOBOFTHEDEADABCD, the key for the four cell letters’ mod-41 Hill cipher.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/treyarch-ciphers/",
+        "images": [
+          {
+            "src": "./assets/mob-cipher-loading-grid.webp",
+            "alt": "Four-by-four number grid on the loading screen.",
+            "caption": "Read rows to obtain the letter-cipher key.",
+            "source": "https://www.youtube.com/watch?v=gyeNXdF9Vm4&t=40s",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          }
+        ]
+      },
+      {
+        "title": "Cell letter 1",
+        "body": "Find the small rectangular note above the cell’s plumbing shown in the photo. The letter discusses Chicago police and preserving an alliance with the north-side gangs. Use the direct step reference for the creator’s approach to this cell.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=gyeNXdF9Vm4&t=44s",
+        "images": [
+          {
+            "src": "./assets/mob-cipher-letter-1.webp",
+            "alt": "Cipher letter 1 attached to a cell wall above plumbing.",
+            "caption": "Letter 1 — match the note and surrounding fixtures.",
+            "source": "https://www.youtube.com/watch?v=gyeNXdF9Vm4&t=50s",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          }
+        ]
+      },
+      {
+        "title": "Cell letter 2",
+        "body": "Find the small rectangular note above the cell’s plumbing shown in the photo. The writer refuses Angela a divorce. Use the direct step reference for the creator’s approach to this cell.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=gyeNXdF9Vm4&t=64s",
+        "images": [
+          {
+            "src": "./assets/mob-cipher-letter-2.webp",
+            "alt": "Cipher letter 2 attached to a cell wall above plumbing.",
+            "caption": "Letter 2 — match the note and surrounding fixtures.",
+            "source": "https://www.youtube.com/watch?v=gyeNXdF9Vm4&t=75s",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          }
+        ]
+      },
+      {
+        "title": "Cell letter 3",
+        "body": "Find the small rectangular note above the cell’s plumbing shown in the photo. The writer reports success in the city and plans time away. Use the direct step reference for the creator’s approach to this cell.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=gyeNXdF9Vm4&t=89s",
+        "images": [
+          {
+            "src": "./assets/mob-cipher-letter-3.webp",
+            "alt": "Cipher letter 3 attached to a cell wall above plumbing.",
+            "caption": "Letter 3 — match the note and surrounding fixtures.",
+            "source": "https://www.youtube.com/watch?v=gyeNXdF9Vm4&t=100s",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          }
+        ]
+      },
+      {
+        "title": "Cell letter 4",
+        "body": "Find the small rectangular note above the cell’s plumbing shown in the photo. Albert Arlington asks an editor to reconsider Icarus from Mars. Use the direct step reference for the creator’s approach to this cell.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=gyeNXdF9Vm4&t=118s",
+        "images": [
+          {
+            "src": "./assets/mob-cipher-letter-4.webp",
+            "alt": "Cipher letter 4 attached to a cell wall above plumbing.",
+            "caption": "Letter 4 — match the note and surrounding fixtures.",
+            "source": "https://www.youtube.com/watch?v=gyeNXdF9Vm4&t=130s",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "r/CODZombies — solver credits, methods and decoded messages",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/treyarch-ciphers/"
+      },
+      {
+        "title": "JokerAlex 21 — loading screen and four-cell circuit",
+        "url": "https://www.youtube.com/watch?v=gyeNXdF9Vm4"
+      }
+    ],
+    "checked": "2026-10-17"
+  },
+  {
+    "id": "bo2-mob-of-the-dead-weasel-comic-scraps",
+    "mapId": "bo2-mob-of-the-dead",
+    "title": "Weasel’s comic — twelve photographed scraps",
+    "category": "side",
+    "difficulty": "Easy",
+    "players": "1–4 players",
+    "summary": "A numbered scenery circuit for the torn comic-page pieces.",
+    "requirements": [
+      "Open the prison, Roof, Citadel and Docks.",
+      "These are photographed scenery pieces. Exact numbered-cell wayfinding and the small stairwell/floor targets still need a closer on-map pass."
+    ],
+    "reward": "Weasel’s comic artwork and editor notes; no equipment reward is asserted.",
+    "steps": [
+      {
+        "title": "1. Cell near the Library",
+        "body": "Inspect the toilet inside the pictured ground-floor cell outside the Library.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=wxmzPlnx3ls&t=30s",
+        "images": [
+          {
+            "src": "./assets/mob-comic-1.webp",
+            "alt": "Cell near the Library comic scrap reference.",
+            "caption": "Scrap 1.",
+            "source": "https://www.youtube.com/watch?v=wxmzPlnx3ls&t=30s",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          }
+        ]
+      },
+      {
+        "title": "2. Stairwell pipes",
+        "body": "At the narrow stairwell, inspect the pipes and rail beside the stone wall.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=wxmzPlnx3ls&t=45s",
+        "images": [
+          {
+            "src": "./assets/mob-comic-2.webp",
+            "alt": "Stairwell pipes comic scrap reference.",
+            "caption": "Scrap 2.",
+            "source": "https://www.youtube.com/watch?v=wxmzPlnx3ls&t=45s",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          }
+        ]
+      },
+      {
+        "title": "3. Warden’s Office floor",
+        "body": "Look on the rug beside the desk chair, among the loose papers.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=wxmzPlnx3ls&t=60s",
+        "images": [
+          {
+            "src": "./assets/mob-comic-3.webp",
+            "alt": "Warden’s Office floor comic scrap reference.",
+            "caption": "Scrap 3.",
+            "source": "https://www.youtube.com/watch?v=wxmzPlnx3ls&t=60s",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          }
+        ]
+      },
+      {
+        "title": "4. Office-side cell wall",
+        "body": "Outside the Office/Michigan junction, inspect the small scrap attached inside the pictured cell.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=wxmzPlnx3ls&t=70s",
+        "images": [
+          {
+            "src": "./assets/mob-comic-4.webp",
+            "alt": "Office-side cell wall comic scrap reference.",
+            "caption": "Scrap 4.",
+            "source": "https://www.youtube.com/watch?v=wxmzPlnx3ls&t=70s",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          }
+        ]
+      },
+      {
+        "title": "5. Cafeteria wall",
+        "body": "Inspect the Cafeteria wall beside the burning kitchen and barred-window side.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=wxmzPlnx3ls&t=85s",
+        "images": [
+          {
+            "src": "./assets/mob-comic-5.webp",
+            "alt": "Cafeteria wall comic scrap reference.",
+            "caption": "Scrap 5.",
+            "source": "https://www.youtube.com/watch?v=wxmzPlnx3ls&t=85s",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          }
+        ]
+      },
+      {
+        "title": "6. Infirmary bed cage",
+        "body": "Near Deadshot, inspect the floor under the barred hospital-bed area.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=wxmzPlnx3ls&t=95s",
+        "images": [
+          {
+            "src": "./assets/mob-comic-6.webp",
+            "alt": "Infirmary bed cage comic scrap reference.",
+            "caption": "Scrap 6.",
+            "source": "https://www.youtube.com/watch?v=wxmzPlnx3ls&t=95s",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          }
+        ]
+      },
+      {
+        "title": "7. Roof lumber",
+        "body": "Inspect the ground beside the Roof stair housing and stacked timber.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=wxmzPlnx3ls&t=115s",
+        "images": [
+          {
+            "src": "./assets/mob-comic-7.webp",
+            "alt": "Roof lumber comic scrap reference.",
+            "caption": "Scrap 7.",
+            "source": "https://www.youtube.com/watch?v=wxmzPlnx3ls&t=115s",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          }
+        ]
+      },
+      {
+        "title": "8. Showers trolley",
+        "body": "Look inside the wheeled laundry cart behind the Showers chain-link partition.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=wxmzPlnx3ls&t=125s",
+        "images": [
+          {
+            "src": "./assets/mob-comic-8.webp",
+            "alt": "Showers trolley comic scrap reference.",
+            "caption": "Scrap 8.",
+            "source": "https://www.youtube.com/watch?v=wxmzPlnx3ls&t=125s",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          }
+        ]
+      },
+      {
+        "title": "9. Retriever chamber candles",
+        "body": "Inspect the floor among candles and cups inside the Retriever chamber.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=wxmzPlnx3ls&t=140s",
+        "images": [
+          {
+            "src": "./assets/mob-comic-9.webp",
+            "alt": "Retriever chamber candles comic scrap reference.",
+            "caption": "Scrap 9.",
+            "source": "https://www.youtube.com/watch?v=wxmzPlnx3ls&t=140s",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          }
+        ]
+      },
+      {
+        "title": "10. Citadel rubble barrier",
+        "body": "Look beyond the broken barrier at the scrap among the large tunnel rocks.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=wxmzPlnx3ls&t=155s",
+        "images": [
+          {
+            "src": "./assets/mob-comic-10.webp",
+            "alt": "Citadel rubble barrier comic scrap reference.",
+            "caption": "Scrap 10.",
+            "source": "https://www.youtube.com/watch?v=wxmzPlnx3ls&t=155s",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          }
+        ]
+      },
+      {
+        "title": "11. Generator Room floor",
+        "body": "Inspect the floor between the large generators; use the timestamped approach.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=wxmzPlnx3ls&t=170s",
+        "images": [
+          {
+            "src": "./assets/mob-comic-11.webp",
+            "alt": "Generator Room floor comic scrap reference.",
+            "caption": "Scrap 11.",
+            "source": "https://www.youtube.com/watch?v=wxmzPlnx3ls&t=170s",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          }
+        ]
+      },
+      {
+        "title": "12. Docks barrel",
+        "body": "Look on the ground beside the barrel by the Docks fence.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=wxmzPlnx3ls&t=185s",
+        "images": [
+          {
+            "src": "./assets/mob-comic-12.webp",
+            "alt": "Docks barrel comic scrap reference.",
+            "caption": "Scrap 12.",
+            "source": "https://www.youtube.com/watch?v=wxmzPlnx3ls&t=185s",
+            "credit": "JokerAlex 21 / Activision — original BO2"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "JokerAlex 21 — twelve-piece route and reconstruction",
+        "url": "https://www.youtube.com/watch?v=wxmzPlnx3ls"
+      }
+    ],
+    "checked": "2026-10-17"
   }
 ]
