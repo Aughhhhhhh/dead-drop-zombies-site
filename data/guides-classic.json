@@ -4694,64 +4694,129 @@
     "title": "Samantha’s Lullaby: melody bulbs",
     "category": "music",
     "difficulty": "Easy",
-    "players": "1–4 players",
-    "summary": "Tune the six bulbs with purple water to play the second hidden song.",
+    "players": "Player-count limits unverified",
+    "summary": "Tune six purple-water bulbs, then use the seventh to play Samantha’s Lullaby.",
     "requirements": [
       "A bucket",
       "Access to the Bunker’s purple-water room"
     ],
-    "reward": "Samantha’s Lullaby (Magic Mix)",
+    "reward": "Samantha’s Lullaby",
     "steps": [
       {
-        "title": "Find the melody wall",
-        "body": "Fill your bucket at the purple-water source. Face the seven bulbs on the neighboring wall."
+        "title": "Find the seven bulbs",
+        "body": "Take a bucket to the purple-water room in the Bunker. The seven melody bulbs are beside the water source.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=tFdZED2Uads",
+        "images": [
+          {
+            "src": "./assets/batch21-zets-samantha-020.webp",
+            "alt": "Bulb wall",
+            "caption": "Bulb wall.",
+            "source": "https://www.youtube.com/watch?v=tFdZED2Uads&t=20s",
+            "credit": "YourHowToGame",
+            "width": 1280,
+            "height": 720
+          }
+        ]
       },
       {
-        "title": "Measure six different amounts",
-        "body": "From left to right, pour water into the first six bulbs 1, 3, 5, 6, 7 and 5 times respectively. Refill as needed. These are amounts for individual bulbs. If you overfill one, knife it to reset and refill it."
+        "title": "Count each pour",
+        "body": "Facing the wall, fill the first six bulbs from left to right with 1, 3, 5, 6, 7 and 5 pours. Refill your bucket as needed; these are individual totals, not running totals.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=tFdZED2Uads",
+        "tip": "hMFgClan says one full bucket provides three pours and six use two buckets. Derived arithmetic: seven pours use two full buckets plus one pour.",
+        "images": [
+          {
+            "src": "./assets/batch21-zets-samantha-045.webp",
+            "alt": "Bulb sequence",
+            "caption": "Bulb sequence.",
+            "source": "https://www.youtube.com/watch?v=tFdZED2Uads&t=45s",
+            "credit": "YourHowToGame",
+            "width": 1280,
+            "height": 720
+          }
+        ]
       },
       {
-        "title": "Press the play bulb",
-        "body": "Interact with the seventh bulb at the right end. The tuned bulbs play the hidden song."
+        "title": "Use the play bulb",
+        "body": "Interact with the seventh bulb, at the right end, after tuning the first six.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=tFdZED2Uads",
+        "tip": "Knife-reset, replay and per-player rules have not been independently confirmed in this review."
       }
     ],
     "sources": [
       {
         "title": "FreeMetal: firsthand Zetsubou guide",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=693187248"
+      },
+      {
+        "title": "YourHowToGame: melody-bulb instructions",
+        "url": "https://www.youtube.com/watch?v=tFdZED2Uads"
+      },
+      {
+        "title": "hMFgClan: original bucket quantities",
+        "url": "https://nextgenupdate.com/forums/black-ops-3-zombie-chronicles/904487-zetsubou-no-shima-how-play-2nd-melody-bulbs-easter-egg-song.html"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-18",
+    "relatedGuideIds": [
+      "bo3-zetsubou-no-shima-community-zetsubou-no-shima-plants-plants-breakdown"
+    ]
   },
   {
     "id": "bo3-zetsubou-no-shima-distant-monster",
     "mapId": "bo3-zetsubou-no-shima",
-    "title": "The distant monster at round 50",
+    "title": "Distant monster beyond Lab B",
     "category": "side",
-    "difficulty": "Easy",
-    "players": "1–4 players",
-    "summary": "See the enormous creature moving beyond the playable island.",
+    "difficulty": "Round 50 survival",
+    "players": "Player-count limits unverified",
+    "summary": "Look for the brief distant creature sighting associated with round 50.",
     "requirements": [
-      "Reach round 50"
+      "Survive to round 50.",
+      "Exact trigger, timing and equipment conditions remain under review."
     ],
     "reward": "A distant creature sighting",
     "steps": [
       {
-        "title": "Listen at round 50",
-        "body": "Reach round 50 and listen for a roar beyond the island."
+        "title": "Prepare before round 50",
+        "body": "The original guide associates the sighting with round 50 and a distant roar. MrDalekJD describes a brief appearance sometime after round 50; an exact trigger is not established by the description alone.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=nH17M9yikRo"
       },
       {
-        "title": "Look beyond Lab B",
-        "body": "Head to the Lab B viewing area and watch the distant tree line outside the map. A giant silhouette moves between the trees."
+        "title": "Watch beyond Lab B",
+        "body": "The creator hub places the viewpoint beside the green water near Lab B. Watch outside the playable area. Sniper viewing is described there, but a required scope or weapon has not been independently proved.",
+        "original": true,
+        "researchSource": "https://www.codzombieguides.com/zetsubou-no-shima",
+        "images": [
+          {
+            "src": "./assets/batch21-zets-monster-175.webp",
+            "alt": "Island lookout — context",
+            "caption": "Island lookout — context.",
+            "source": "https://www.youtube.com/watch?v=nH17M9yikRo&t=175s",
+            "credit": "MrDalekJD",
+            "width": 1280,
+            "height": 720
+          }
+        ]
       }
     ],
     "sources": [
       {
         "title": "FreeMetal: firsthand Zetsubou guide",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=693187248"
+      },
+      {
+        "title": "MrDalekJD: distant-monster guide",
+        "url": "https://www.youtube.com/watch?v=nH17M9yikRo"
+      },
+      {
+        "title": "Cod Zombie Guides: viewpoint",
+        "url": "https://www.codzombieguides.com/zetsubou-no-shima"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-18"
   },
   {
     "id": "bo3-zetsubou-no-shima-bloody-hallucinations",
@@ -4759,30 +4824,50 @@
     "title": "Bloody laboratory hallucinations",
     "category": "side",
     "difficulty": "Easy",
-    "players": "1–4 players",
-    "summary": "Trigger the spore effect, then visit the three changing laboratory scenes.",
+    "players": "Player-count limits unverified",
+    "summary": "Compare the reported laboratory hallucinations; their full trigger remains under review.",
     "requirements": [
-      "Access to both labs and the Bunker test-subject room",
-      "Trigger the spore audio cue before visiting the scenes"
+      "Access to both labs and the Bunker test-subject room.",
+      "The historical spore method has not been independently reconfirmed."
     ],
     "reward": "Hallucinated scenery and audio",
     "steps": [
       {
-        "title": "Trigger the spore effect",
-        "body": "Knife a spore and remain in its gas until the special sound plays."
+        "title": "Historical spore method",
+        "body": "The historical Nx2000Mx route says to knife a spore and remain in its gas until a special sound plays. These instructions have not been independently confirmed.",
+        "original": true,
+        "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=688651133"
       },
       {
-        "title": "Visit all three scenes",
-        "body": "Visit the Lab A workbench room, the Bunker vial/test-subject room and Lab B. The labs become bloody; the test-chamber vials change from yellow to red. Listen for the accompanying sounds."
+        "title": "Reported changing rooms",
+        "body": "That route lists the Lab A workbench room, Bunker test-subject/vial room and Lab B. It describes blood appearing in the labs and yellow vials turning red. GlitchingQueen’s original description reports four locations, so this three-room list is incomplete.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=097t0szUuvY",
+        "tip": "The fourth landmark remains unverified. No additional hidden quest is established here.",
+        "images": [
+          {
+            "src": "./assets/batch21-zets-hallucinations-090.webp",
+            "alt": "Bloody room",
+            "caption": "Bloody room.",
+            "source": "https://www.youtube.com/watch?v=097t0szUuvY&t=90s",
+            "credit": "Glitching Queen",
+            "width": 1280,
+            "height": 720
+          }
+        ]
       }
     ],
     "sources": [
       {
         "title": "Nx2000Mx: firsthand Zetsubou guide",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=688651133"
+      },
+      {
+        "title": "GlitchingQueen: hallucination discovery report",
+        "url": "https://www.youtube.com/watch?v=097t0szUuvY"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-18"
   },
   {
     "id": "bo3-zetsubou-no-shima-ambient-audio",
@@ -4790,33 +4875,45 @@
     "title": "The crying tree, banging door & distant horn",
     "category": "side",
     "difficulty": "Easy",
-    "players": "1–4 players",
-    "summary": "Find three small ambient audio secrets around the island.",
+    "players": "Player-count limits unverified",
+    "summary": "Find the spawn-tree sound and distinguish the two historical ambient-audio reports.",
     "requirements": [
-      "Access to spawn and the Lab B sewer exit"
+      "Access to spawn and the Lab B sewer exit.",
+      "The door and horn procedures remain historical reports awaiting independent confirmation."
     ],
     "reward": "Hidden environmental sounds",
     "steps": [
       {
-        "title": "Interact with the spawn tree",
-        "body": "Use the central tree beside the GobbleGum machine in spawn. Listen for the falling-tree and crying/laughing sounds."
+        "title": "Interact at the spawn tree",
+        "body": "Use Interact at the roots of the central spawn tree beside GobbleGum. Players reporting this sound identify holding Square on the tree as the input.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/1kwej5m/",
+        "tip": "The linked report describes a scream. The complete sound sequence and repeat limit are not independently established."
       },
       {
-        "title": "Use the Division 9 door",
-        "body": "Interact with the metal Division 9 door at the sewer exit near Lab B. Banging and screaming can be heard behind it."
+        "title": "Reported Division 9 door",
+        "body": "The historical Nx2000Mx guide places banging and screaming behind the metal Division 9 door at the Lab B sewer exit, activated with Interact. These instructions have not been independently confirmed.",
+        "original": true,
+        "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=688651133"
       },
       {
-        "title": "Wait by the water’s edge",
-        "body": "Stand in the water at the outer edge of spawn and listen for the distant horn. The source does not establish whether the spore hallucination effect is required, so this trigger remains uncertain."
+        "title": "Reported distant horn",
+        "body": "The same historical guide says to wait in the water at the outer edge of spawn. It explicitly leaves the spore prerequisite uncertain. Exact position, delay and repeatability remain unresolved.",
+        "original": true,
+        "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=688651133"
       }
     ],
     "sources": [
       {
         "title": "Nx2000Mx: firsthand Zetsubou guide",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=688651133"
+      },
+      {
+        "title": "Spawn-tree player report and input replies",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1kwej5m/"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-18"
   },
   {
     "id": "iw-rave-puppet-strings-full",
@@ -5014,5 +5111,110 @@
       "iw-rave-in-the-redwoods-community-rave-in-the-redwoods-map-walkthrough-power",
       "iw-rave-in-the-redwoods-community-rave-in-the-redwoods-map-walkthrough-rave-vision"
     ]
+  },
+  {
+    "id": "bo3-zetsubou-no-shima-transport-workbenches",
+    "mapId": "bo3-zetsubou-no-shima",
+    "title": "Transport & workbenches: labs, Docks and Bunker",
+    "category": "side",
+    "difficulty": "Map utility",
+    "players": "1–4 players",
+    "summary": "Use the documented zipline, sewer and AA-room escape route, and distinguish normal build tables from the KT-4 chemistry stations.",
+    "requirements": [
+      "Open the endpoint you want to use and keep points for the displayed fare.",
+      "For crafting, collect the correct three parts before using the appropriate bench."
+    ],
+    "reward": "Travel between setup regions and find the correct type of crafting station.",
+    "sourceQuote": "https://www.reddit.com/r/CODZombies/wiki/zetsubou-no-shima/",
+    "sharedSource": false,
+    "checked": "2026-10-18",
+    "steps": [
+      {
+        "title": "Zipline — Lab A roof and lower Docks",
+        "body": "Zip-Line | Lab A (Inside/Ontop) | Dock Area/Lower Bunker | 250 Points\nZip-Line | Dock Area/Lower Bunker | Lab A (Inside/Ontop) | 250 Points",
+        "html": "<table><tbody><tr><td>Zip-Line</td><td>Lab A (Inside/Ontop)</td><td>Dock Area/Lower Bunker</td><td>250 Points</td></tr><tr><td>Zip-Line</td><td>Dock Area/Lower Bunker</td><td>Lab A (Inside/Ontop)</td><td>250 Points</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/zetsubou-no-shima/",
+        "tip": "The wiki lists 250 per direction. Use the displayed fare: MrRoflWaffles’s 2016 co-op footage shows a 125-point prompt.",
+        "images": [
+          {
+            "src": "./assets/batch21-zets-main-zipline-520.webp",
+            "alt": "Displayed zipline fare",
+            "caption": "Displayed zipline fare.",
+            "source": "https://www.youtube.com/watch?v=xOD8HHWMrKU&t=519s",
+            "credit": "MrRoflWaffles",
+            "width": 1280,
+            "height": 720
+          }
+        ]
+      },
+      {
+        "title": "Sewer — lower Bunker toward green water",
+        "body": "Sewer System | Lower Bunker | Lab B (Outside)/Green Water | 500 Points",
+        "html": "<table><tbody><tr><td>Sewer System</td><td>Lower Bunker</td><td>Lab B (Outside)/Green Water</td><td>500 Points</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/zetsubou-no-shima/",
+        "tip": "The table documents this direction. For Masamune, carry a bucket and follow the separate rainbow-water interaction during the ride; a plain sewer trip does not automatically collect it."
+      },
+      {
+        "title": "AA-room wooden barrier — escape toward Lab B",
+        "body": "Along the walls to the right when you enter the room there is a 500 point barrier you can release that will lead out toward lab b.",
+        "html": "<p>Along the walls to the right when you enter the room there is a 500 point barrier you can release that will lead out toward lab b.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/e2jhw0/things_people_may_not_know_about_zetsubou/",
+        "tip": "I_Play_Zetsubou identifies the room as the AA-gun room. It is the first room on the right after entering the main Bunker; the wiki describes wood in the wall near the shield-part region."
+      },
+      {
+        "title": "Normal buildable tables — Shield and Gas Mask",
+        "body": "There are three buildable tables in total, located at:\n\nSection | Location\nLab A | Inside the lab\nLab B | Inside the lab\nBunker | Inside the Bunker",
+        "html": "<p>There are three buildable tables in total, located at:</p><table><tbody><tr><td>Section</td><td>Location</td></tr><tr><td>Lab A</td><td>Inside the lab</td></tr><tr><td>Lab B</td><td>Inside the lab</td></tr><tr><td>Bunker</td><td>Inside the Bunker</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/zetsubou-no-shima/",
+        "tip": "Use an ordinary table for the Shield or Gas Mask and remember your chosen shield bench for replacements. These are region locators; precise bench close-ups are still pending."
+      },
+      {
+        "title": "Special chemistry stations — KT-4 and Masamune",
+        "body": "Once you have all of the parts for the KT-4, you will notice a specialised workbench for the KT-4 near the Mule Kick area.",
+        "html": "<p>Once you have all of the parts for the KT-4, you will notice a specialised workbench for the KT-4 near the Mule Kick area.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/zetsubou-no-shima/",
+        "tip": "The Masamune upgrade uses the other special station adjacent to the original construction point. Follow the KT-4 and Masamune cards rather than taking their ingredients to a normal build table.",
+        "images": [
+          {
+            "src": "./assets/batch21-zets-kt4-185.webp",
+            "alt": "Chemistry bench",
+            "caption": "Chemistry bench.",
+            "source": "https://www.youtube.com/watch?v=LXF6tgohM7s&t=185s",
+            "credit": "MrRoflWaffles",
+            "width": 1280,
+            "height": 720
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "chrisd848 — quoted Zetsubou community wiki",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/zetsubou-no-shima/"
+      },
+      {
+        "title": "I_Play_Zetsubou / pizayumyum — original player observations",
+        "url": "https://www.reddit.com/r/CODZombies/comments/e2jhw0/things_people_may_not_know_about_zetsubou/"
+      },
+      {
+        "title": "MrRoflWaffles — historical zipline price prompt",
+        "url": "https://www.youtube.com/watch?v=xOD8HHWMrKU"
+      },
+      {
+        "title": "MrRoflWaffles: footage",
+        "url": "https://www.youtube.com/watch?v=LXF6tgohM7s"
+      }
+    ],
+    "relatedGuideIds": [
+      "bo3-zetsubou-no-shima-community-zetsubou-no-shima-buildables-gas-mask",
+      "bo3-zetsubou-no-shima-community-zetsubou-no-shima-buildables-zombie-shield",
+      "bo3-zetsubou-no-shima-community-zetsubou-no-shima-special-weapons-the-kt-4",
+      "bo3-zetsubou-no-shima-community-zetsubou-no-shima-special-weapons-kt-4-upgrade-masamune",
+      "bo3-zetsubou-no-shima-community-zetsubou-no-shima-easter-eggs-main-easter-egg"
+    ],
+    "sourceOmissions": [
+      "No reverse sewer trip, reverse wooden-slide trip or Flinger trap is inferred from the source’s generic wording. Interior door prices, discounted fares and exact bench photographs require separate checks."
+    ],
+    "supplementNote": "Travel fares and bench regions are credited community instructions, not current retail-price measurements. The AA escape route also has an attributed original player report."
   }
 ]
