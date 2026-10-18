@@ -2,48 +2,127 @@
   {
     "id": "bo3-the-giant-fly-trap",
     "mapId": "bo3-the-giant",
-    "title": "Fly Trap: unlock the Annihilator",
+    "title": "Fly Trap — three toys & Annihilator",
     "category": "main",
-    "difficulty": "Easy",
-    "players": "1–4 players",
-    "summary": "A short shooting challenge that awards a rechargeable specialist pistol. This is The Giant's main quest; it has no ending cutscene.",
+    "difficulty": "Medium",
+    "players": "1–4",
+    "summary": "Upgrade a bullet gun, start the distant panel, shoot three toys, then claim the Garage specialist weapon.",
     "requirements": [
-      "Power on",
-      "Pack-a-Punch unlocked",
-      "A Pack-a-Punched bullet weapon, such as a rifle or SMG"
+      "BO3 The Giant; solo or co-op in the same match.",
+      "Power, all three teleporter links, and a Pack-a-Punched conventional bullet weapon."
     ],
-    "reward": "Annihilator specialist weapon and main-quest completion",
+    "reward": "Annihilator specialist weapon for each player who claims it; no ending cutscene.",
     "steps": [
       {
-        "title": "Link all three teleporters",
-        "body": "Reach the power switch in the central courtyard and turn it on. At teleporters A, B and C, interact with the pad to start a 30-second countdown, then return to the Mainframe in spawn and interact with its pad. Repeat for all three. The Pack-a-Punch gate opens; upgrade a firearm for 5,000 points.",
-        "tip": "A teammate can wait at the Mainframe to finish each link. Missing a countdown only requires trying that teleporter again."
+        "title": "Prepare an upgraded bullet weapon",
+        "body": "Turn on power, complete all three teleporter links and Pack-a-Punch a conventional bullet gun for 5,000. Keep it equipped for the distant starting panel.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
       },
       {
-        "title": "Shoot the distant control panel",
-        "body": "Go through the left spawn door to the L-CAR 9 wall buy. Look through the nearby zombie window: a small panel sits on a pillar beyond the playable area. Shoot that panel with your upgraded gun until the voice begins and a cluster of objects rises into a green glow."
+        "title": "Shoot the panel beyond the L-CAR window",
+        "body": "Take the left spawn route to the L-CAR 9. Look through its nearby zombie barrier and shoot the small distant panel on a pillar with the upgraded gun. Green objects rise and Maxis begins speaking.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=ThcHUi771cw&t=32s",
+        "images": [
+          {
+            "src": "./assets/classic-batch15-giant-flytrap-panel.webp",
+            "alt": "Distant panel beyond L-CAR window.",
+            "caption": "Aim through this barrier.",
+            "source": "https://www.youtube.com/watch?v=ThcHUi771cw&t=40s",
+            "credit": "JokerAlex 21 / Activision"
+          }
+        ],
+        "tip": "If nothing happens, adjust your aim to the panel itself and try again; the green launch and voice confirm the start."
       },
       {
-        "title": "Find all three toys",
-        "body": "Shoot the Monkey Bomb in the unlit coal furnace beneath the left-side Teleporter A route. Next, stand near the power switch and shoot the teddy bear on the high fire-escape balcony outside the map. Finally, visit the cooling-vat room beside right-side Teleporter B and shoot the teddy bear inside the left vat; jump to get a clear line of sight.",
-        "tip": "Listen for the spoken confirmation after each hit. If it does not play, adjust your aim rather than moving on."
+        "title": "Toy: unlit furnace below Teleporter A",
+        "body": "Go beneath the left-side Teleporter A route. Shoot the Monkey Bomb in the open, unlit coal furnace. Listen for the next voice cue.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=ThcHUi771cw&t=72s",
+        "images": [
+          {
+            "src": "./assets/classic-batch15-giant-flytrap-furnace.webp",
+            "alt": "Unlit furnace beneath Teleporter A.",
+            "caption": "First toy furnace.",
+            "source": "https://www.youtube.com/watch?v=ThcHUi771cw&t=85s",
+            "credit": "JokerAlex 21 / Activision"
+          }
+        ]
       },
       {
-        "title": "Collect the specialist weapon",
-        "body": "Return to the furnace room behind the VMP wall buy on the right route from spawn. Interact with the glowing furnace to take the Annihilator. It uses your specialist slot and recharges through kills."
+        "title": "Toy: high balcony outside power",
+        "body": "From the generator/power courtyard or nearby bridge, aim toward the high fire-escape balcony outside the playable area. Shoot the teddy bear there and listen for its cue.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=ThcHUi771cw&t=101s",
+        "images": [
+          {
+            "src": "./assets/classic-batch15-giant-flytrap-balcony.webp",
+            "alt": "High balcony outside power courtyard.",
+            "caption": "Aim at the balcony.",
+            "source": "https://www.youtube.com/watch?v=ThcHUi771cw&t=107s",
+            "credit": "JokerAlex 21 / Activision"
+          }
+        ]
+      },
+      {
+        "title": "Toy: left cooling vat beside Teleporter B",
+        "body": "Go to the two orange-lit cooling vats beside right-side Teleporter B. Jump at the left vat’s edge and shoot down at the teddy bear inside. This is B, not the rear C platform.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=ThcHUi771cw&t=121s",
+        "images": [
+          {
+            "src": "./assets/classic-batch15-giant-flytrap-vat.webp",
+            "alt": "Left cooling vat beside Teleporter B.",
+            "caption": "Jump for this angle.",
+            "source": "https://www.youtube.com/watch?v=ThcHUi771cw&t=148s",
+            "credit": "JokerAlex 21 / Activision"
+          }
+        ]
+      },
+      {
+        "title": "Confirm all three toys were hit",
+        "body": "The three toys can be shot in any order. Each successful hit removes its toy and prompts a voice line. If the reward is absent, revisit whichever toy has not registered; do not restart the panel hunt unnecessarily.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+      },
+      {
+        "title": "Collect from the lit Garage furnace",
+        "body": "Return to the lit furnace behind the VMP Garage wall buy, on the right spawn route. Hold Interact on the glowing Annihilator. Each player can collect their own specialist pistol.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=ThcHUi771cw&t=188s",
+        "images": [
+          {
+            "src": "./assets/classic-batch15-giant-annihilator-claim.webp",
+            "alt": "Glowing Annihilator in garage furnace.",
+            "caption": "Interact to collect it.",
+            "source": "https://www.youtube.com/watch?v=ThcHUi771cw&t=188s",
+            "credit": "JokerAlex 21 / Activision"
+          }
+        ],
+        "tip": "This glowing reward furnace is different from the unlit Teleporter A toy furnace. See the Annihilator card for equipping and recharge."
       }
     ],
     "sources": [
       {
-        "title": "r/CODZombies community breakdown: The Giant",
+        "title": "r/CODZombies — The Giant map guide",
         "url": "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
       },
       {
-        "title": "Steam community walkthrough: corrected teddy / cooling-vat location",
-        "url": "https://www.steamsolo.com/guide/easter-eggs-refresher-and-for-new-people-call-of-duty-black-ops-iii/"
+        "title": "JokerAlex 21 — full BO3 Fly Trap route",
+        "url": "https://www.youtube.com/watch?v=ThcHUi771cw"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-17",
+    "relatedGuideIds": [
+      "bo3-the-giant-community-the-giant-map-walkthrough-power",
+      "bo3-the-giant-community-the-giant-map-walkthrough-pack-a-punch",
+      "bo3-the-giant-community-the-giant-special-weapons-annihilator-pistol"
+    ],
+    "sourceQuote": null,
+    "sourceOmissions": [],
+    "sharedSource": false,
+    "supplementNote": "Original BO3 instructions checked against the linked map guide and firsthand footage. Photos identify the shown locations; this is source research, not an independent retail replay."
   },
   {
     "id": "bo3-der-eisendrache-lightning-bow",
@@ -3357,35 +3436,79 @@
   {
     "id": "bo3-the-giant-music",
     "mapId": "bo3-the-giant",
-    "title": "Play Beauty of Annihilation Remix",
+    "title": "Beauty of Annihilation Remix — three specimen jars",
     "category": "music",
     "difficulty": "Easy",
-    "players": "1–4 players",
-    "summary": "Interact with three jars containing biological specimens to start The Giant's hidden song.",
+    "players": "1–4",
+    "summary": "Two jars in the Kuda laboratory and one by Teleporter B; the high shelf requires a jumping interaction.",
     "requirements": [
-      "Doors opened to the Kuda room and Teleporter B"
+      "BO3 The Giant; open the routes to the Kuda laboratory and Teleporter B.",
+      "Use Interact on all three jars; no special weapon required."
     ],
-    "reward": "Beauty of Annihilation Remix plays once during the match",
+    "reward": "Beauty of Annihilation Remix plays once during the match.",
     "steps": [
       {
-        "title": "Activate the specimen on the Kuda-room shelf",
-        "body": "From the left route out of spawn, reach the room with the Kuda wall buy before Teleporter A. Interact with the specimen jar on its shelf until the confirmation sound plays."
+        "title": "Kuda room — high shelf",
+        "body": "Take the left spawn route into the Kuda/Animal Testing laboratory. Face the specimen shelf, jump and hold Interact while close to its high jar. Listen for the confirmation cue.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=OcykYUJQi1I&t=10s",
+        "images": [
+          {
+            "src": "./assets/classic-batch15-giant-song-shelf.webp",
+            "alt": "High specimen shelf in Kuda room.",
+            "caption": "Jump and hold Interact.",
+            "source": "https://www.youtube.com/watch?v=OcykYUJQi1I&t=20s",
+            "credit": "JokerAlex 21 / Activision"
+          }
+        ]
       },
       {
-        "title": "Activate the second jar in the same room",
-        "body": "Check the table on the opposite side of that Kuda room. Interact with the second specimen jar and listen for its sound."
+        "title": "Kuda room — opposite table",
+        "body": "In the same room, turn to the opposite counter beside the chemistry equipment. Hold Interact beside the second specimen jar until its cue plays.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=OcykYUJQi1I&t=25s",
+        "images": [
+          {
+            "src": "./assets/classic-batch15-giant-song-table.webp",
+            "alt": "Second specimen beside chemistry equipment.",
+            "caption": "Opposite the high shelf.",
+            "source": "https://www.youtube.com/watch?v=OcykYUJQi1I&t=30s",
+            "credit": "JokerAlex 21 / Activision"
+          }
+        ]
       },
       {
-        "title": "Activate the Teleporter B specimen",
-        "body": "Visit Teleporter B's room on the right route, near the HVK-30 and grenade wall buys. Interact with the specimen jar on its table. The third confirmed interaction starts the remix; the jars can be activated in any order."
+        "title": "Teleporter B — specimen table",
+        "body": "Visit the right-side cooling-vat/Teleporter B area. Use the specimen jar on the table near the HVK-30 and grenade wall buys. Any order works; the third confirmed jar starts the remix once this match.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=OcykYUJQi1I&t=34s",
+        "images": [
+          {
+            "src": "./assets/classic-batch15-giant-song-b.webp",
+            "alt": "Specimen table near Teleporter B.",
+            "caption": "Third jar location.",
+            "source": "https://www.youtube.com/watch?v=OcykYUJQi1I&t=45s",
+            "credit": "JokerAlex 21 / Activision"
+          }
+        ],
+        "tip": "No song? Revisit any jar whose cue you missed; jump for the high shelf. Power, Pack-a-Punch and Monkey Bombs are not part of this trigger."
       }
     ],
     "sources": [
       {
-        "title": "r/CODZombies community breakdown: The Giant song jars",
+        "title": "r/CODZombies — The Giant map guide",
         "url": "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+      },
+      {
+        "title": "JokerAlex 21 — three BO3 song jars",
+        "url": "https://www.youtube.com/watch?v=OcykYUJQi1I"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-17",
+    "relatedGuideIds": [],
+    "sourceQuote": null,
+    "sourceOmissions": [],
+    "sharedSource": false,
+    "supplementNote": "Original BO3 instructions checked against the linked map guide and firsthand footage. Photos identify the shown locations; this is source research, not an independent retail replay."
   }
 ]

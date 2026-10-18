@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-17",
+  "asOf": "2026-10-18",
   "status": "Audit in progress; no exhaustive correctness certificate",
   "limitations": [
     "Reported source comparisons cover different fields and scopes; they are not interchangeable with a full-guide verification.",
@@ -8,8 +8,8 @@
     "Newly authored guides may have source research without a separate recorded full audit. Guide counts and passing software checks do not establish gameplay accuracy."
   ],
   "catalogEntries": 160,
-  "runtimeGuides": 1505,
-  "guidesWithRecordedSourceReview": 686,
+  "runtimeGuides": 1509,
+  "guidesWithRecordedSourceReview": 710,
   "guidesCertifiedFullyVerified": 0,
   "batches": [
     {
@@ -279,6 +279,18 @@
     {
       "batch": "coldwar-outbreak-echo-source-budget-follow-up",
       "rowsWithRecordedReview": 1
+    },
+    {
+      "batch": "coldwar-outbreak-launch-artifacts-and-collection-methods",
+      "rowsWithRecordedReview": 2
+    },
+    {
+      "batch": "bo3-shadows-shield-mask-songs-and-servant",
+      "rowsWithRecordedReview": 5
+    },
+    {
+      "batch": "bo3-giant-quests-weapons-and-native-locations",
+      "rowsWithRecordedReview": 18
     }
   ],
   "guideReviews": [
@@ -21124,6 +21136,2012 @@
           "evidenceUrls": [
             "https://github.com/JezuzLizard/Recompilable-gscs-for-BO2-zombies-and-multiplayer/blob/d02a9efd4382689180aaadcb609452babf5dc4c8/ZM/Maps/Origins/maps/mp/zm_tomb_dig.gsc",
             "https://www.reddit.com/r/CODZombies/comments/1vr8lve/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-shadows-of-evil-community-shadows-of-evil-buildables-apothicon-servant",
+      "mapId": "bo3-shadows-of-evil",
+      "reviews": [
+        {
+          "batch": "bo3-shadows-shield-mask-songs-and-servant",
+          "reportedStatus": "Bounded documentary correction and native location images reviewed; not independently playtested",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Replaced the full selected card with source-linked original chapters; cleared inherited quoted attribution only for those rewritten cards."
+          ],
+          "unverified": [
+            "The remaining twenty-three Shadows cards, including both main-route presentations, full swords / flags / finale, basic part/fuse candidate pictures, upgraded Trip Mine variants, Lil Arnies, Noire, jump-scare and small interactions, were read for census only and are not certified by this five-card pass.",
+            "No independent retail gameplay or all-platform test. Last-generation BO3 behavior, co-op mask pickup sharing / retention and patched edge cases remain unverified.",
+            "The exact minimum heart-spawn prerequisite is unresolved: Noah’s original demonstration used Pack-a-Punch and an upgraded sword but explicitly says the gate may differ. It is not turned into an absolute setup rule.",
+            "The first two and last heart images are soft 2015 footage; the landmark and direct source timestamp are supplied. Ruby, Burlesque and Nero images show the location after the player equipped a mask; only the gym view shows the active pickup prompt.",
+            "Permanent Goddard retention, upgraded-shield bench repair pricing and all replacement behavior after the upgraded shield breaks are not established; normal pre-upgrade break / replacement does not reset the streak in the reviewed 2020 demonstration.",
+            "Song replay limits and all music / paused-track combinations were not established. No lyrics are copied.",
+            "Servant drop rates, guaranteed drop rounds, co-op recovery/duplication and every old glitch are not promised. The equipped-weapon image does not itself validate the collection mechanics.",
+            "Full Shadows cipher / scrap-paper routes, ordinary firearm inventory and complete lore remain pending; the existing broad map reference is not a completeness certificate."
+          ],
+          "wholeGuideTextRead": true,
+          "allExistingStepsRead": true,
+          "originalStepCount": 4,
+          "stepChecks": [
+            {
+              "index": 1,
+              "title": "Take a Fumigator",
+              "canonicalStepSha256": "80006ee3b1b2258bb9a01027a549f334fd87e42b3d7242b2eb304ca9e8a9678c",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/shadows-of-evil/"
+              ]
+            },
+            {
+              "index": 2,
+              "title": "Collect a Margwa Heart",
+              "canonicalStepSha256": "c73bb4e391a6df411cfcd69e84a928c62cf7fce20aa4448e350fc0dad91bfaea",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/3uw4v6/shadows_of_evil_complete_map_breakdown/"
+              ]
+            },
+            {
+              "index": 3,
+              "title": "Harvest a purple pod",
+              "canonicalStepSha256": "64bc8d203c7170579e9422229c0c5a8310aa14ee8ece97b1f1c35f8eb3198dc2",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/3uw4v6/shadows_of_evil_complete_map_breakdown/"
+              ]
+            },
+            {
+              "index": 4,
+              "title": "Collect Xenomatter",
+              "canonicalStepSha256": "5dcc0c2c40b25fb495d586d2ee642ab0f75e1451f61b85d474bb256f2545e0e1",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/3uw4v6/shadows_of_evil_complete_map_breakdown/"
+              ]
+            },
+            {
+              "index": 5,
+              "title": "Build at a workbench",
+              "canonicalStepSha256": "b3cc57062fec07a8667d6eba3a03dbe6cac27bba696de96a9ff6624ba556cc5e",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/3uw4v6/shadows_of_evil_complete_map_breakdown/"
+              ]
+            },
+            {
+              "index": 6,
+              "title": "Claim the Servant",
+              "canonicalStepSha256": "d223c2b4d5ceec0c29ca0504d4a33f320a9603e5f31decb4f94149d1afe62dda",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/shadows-of-evil/"
+              ]
+            },
+            {
+              "index": 7,
+              "title": "Keep its map-specific limit",
+              "canonicalStepSha256": "15c090b254513fb9c16faa0460c02e3256f01d53ee0350b9fb8c2baa0491dff0",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/3uw4v6/shadows_of_evil_complete_map_breakdown/"
+              ]
+            }
+          ],
+          "requirementsAndRewardReviewed": true,
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/3uw4v6/shadows_of_evil_complete_map_breakdown/",
+            "https://www.reddit.com/r/CODZombies/wiki/shadows-of-evil/",
+            "https://www.youtube.com/watch?v=y-TNAAYqRtw"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-shadows-of-evil-community-shadows-of-evil-buildables-upgraded-shield-goddard-apparatus",
+      "mapId": "bo3-shadows-of-evil",
+      "reviews": [
+        {
+          "batch": "bo3-shadows-shield-mask-songs-and-servant",
+          "reportedStatus": "Bounded documentary correction and native location images reviewed; not independently playtested",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Replaced the full selected card with source-linked original chapters; cleared inherited quoted attribution only for those rewritten cards."
+          ],
+          "unverified": [
+            "The remaining twenty-three Shadows cards, including both main-route presentations, full swords / flags / finale, basic part/fuse candidate pictures, upgraded Trip Mine variants, Lil Arnies, Noire, jump-scare and small interactions, were read for census only and are not certified by this five-card pass.",
+            "No independent retail gameplay or all-platform test. Last-generation BO3 behavior, co-op mask pickup sharing / retention and patched edge cases remain unverified.",
+            "The exact minimum heart-spawn prerequisite is unresolved: Noah’s original demonstration used Pack-a-Punch and an upgraded sword but explicitly says the gate may differ. It is not turned into an absolute setup rule.",
+            "The first two and last heart images are soft 2015 footage; the landmark and direct source timestamp are supplied. Ruby, Burlesque and Nero images show the location after the player equipped a mask; only the gym view shows the active pickup prompt.",
+            "Permanent Goddard retention, upgraded-shield bench repair pricing and all replacement behavior after the upgraded shield breaks are not established; normal pre-upgrade break / replacement does not reset the streak in the reviewed 2020 demonstration.",
+            "Song replay limits and all music / paused-track combinations were not established. No lyrics are copied.",
+            "Servant drop rates, guaranteed drop rounds, co-op recovery/duplication and every old glitch are not promised. The equipped-weapon image does not itself validate the collection mechanics.",
+            "Full Shadows cipher / scrap-paper routes, ordinary firearm inventory and complete lore remain pending; the existing broad map reference is not a completeness certificate."
+          ],
+          "wholeGuideTextRead": true,
+          "allExistingStepsRead": true,
+          "originalStepCount": 1,
+          "stepChecks": [
+            {
+              "index": 1,
+              "title": "Start with the Rocket Shield",
+              "canonicalStepSha256": "a233462b94319b0506a882f70e55b02ccc46a775d0228fe43eb954422beaf556",
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=aGMgUYEYTRY&t=190s"
+              ]
+            },
+            {
+              "index": 2,
+              "title": "Line up at least ten zombies",
+              "canonicalStepSha256": "e67743eabb8db9e4932feec5b034f63dcb69e145715200fe8a8b39d8b9e82e9f",
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=aGMgUYEYTRY&t=40s"
+              ]
+            },
+            {
+              "index": 3,
+              "title": "Listen for a strike",
+              "canonicalStepSha256": "0191229309ad6345ca8805b24999d909a514de88dbafd9a68e39821b7b6079ed",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/3upzca/first_in_the_world_goddard_apparatus_shield/"
+              ]
+            },
+            {
+              "index": 4,
+              "title": "Reach twelve consecutive strikes",
+              "canonicalStepSha256": "32afd4aa6771ba5c5b00ef2c7d6414f585c50b17ebb8e5ed8db9648b0208e160",
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=aGMgUYEYTRY&t=40s"
+              ]
+            },
+            {
+              "index": 5,
+              "title": "Restart after a weak boost",
+              "canonicalStepSha256": "120001e4640a75423d0112d078ff3e6ef93270af33cbba542087748dcfeb5c52",
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=aGMgUYEYTRY&t=75s"
+              ]
+            },
+            {
+              "index": 6,
+              "title": "Replace a broken base shield",
+              "canonicalStepSha256": "5130b4a72e410648184a790fa8dcd3e9b0e436c224b1e3e6504e780a3e496c3a",
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=aGMgUYEYTRY&t=100s"
+              ]
+            },
+            {
+              "index": 7,
+              "title": "Confirm Goddard Apparatus",
+              "canonicalStepSha256": "a53e741d9ce0e81841969217e42f0036d7016e62190cb568efd30d8bcb7206c9",
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=aGMgUYEYTRY&t=130s"
+              ]
+            },
+            {
+              "index": 8,
+              "title": "Check a replacement’s name",
+              "canonicalStepSha256": "a0651fb49ff3c6d24b8211100a6fc2dcbb433e26161cd05573df52306d339224",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/3upzca/first_in_the_world_goddard_apparatus_shield/"
+              ]
+            }
+          ],
+          "requirementsAndRewardReviewed": true,
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/3upzca/first_in_the_world_goddard_apparatus_shield/",
+            "https://www.youtube.com/watch?v=aGMgUYEYTRY"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-shadows-of-evil-community-shadows-of-evil-easter-eggs-quests-cold-hard-cash-music-easter-egg",
+      "mapId": "bo3-shadows-of-evil",
+      "reviews": [
+        {
+          "batch": "bo3-shadows-shield-mask-songs-and-servant",
+          "reportedStatus": "Bounded documentary correction and native location images reviewed; not independently playtested",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Replaced the full selected card with source-linked original chapters; cleared inherited quoted attribution only for those rewritten cards."
+          ],
+          "unverified": [
+            "The remaining twenty-three Shadows cards, including both main-route presentations, full swords / flags / finale, basic part/fuse candidate pictures, upgraded Trip Mine variants, Lil Arnies, Noire, jump-scare and small interactions, were read for census only and are not certified by this five-card pass.",
+            "No independent retail gameplay or all-platform test. Last-generation BO3 behavior, co-op mask pickup sharing / retention and patched edge cases remain unverified.",
+            "The exact minimum heart-spawn prerequisite is unresolved: Noah’s original demonstration used Pack-a-Punch and an upgraded sword but explicitly says the gate may differ. It is not turned into an absolute setup rule.",
+            "The first two and last heart images are soft 2015 footage; the landmark and direct source timestamp are supplied. Ruby, Burlesque and Nero images show the location after the player equipped a mask; only the gym view shows the active pickup prompt.",
+            "Permanent Goddard retention, upgraded-shield bench repair pricing and all replacement behavior after the upgraded shield breaks are not established; normal pre-upgrade break / replacement does not reset the streak in the reviewed 2020 demonstration.",
+            "Song replay limits and all music / paused-track combinations were not established. No lyrics are copied.",
+            "Servant drop rates, guaranteed drop rounds, co-op recovery/duplication and every old glitch are not promised. The equipped-weapon image does not itself validate the collection mechanics.",
+            "Full Shadows cipher / scrap-paper routes, ordinary firearm inventory and complete lore remain pending; the existing broad map reference is not a completeness certificate."
+          ],
+          "wholeGuideTextRead": true,
+          "allExistingStepsRead": true,
+          "originalStepCount": 1,
+          "stepChecks": [
+            {
+              "index": 1,
+              "title": "Open the rooms and Rift",
+              "canonicalStepSha256": "341a9de611d1ac7b6ce13de71bc95e58daa3065d1387793aec951eb03040099a",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/shadows-of-evil/"
+              ]
+            },
+            {
+              "index": 2,
+              "title": "Stand: Nero’s Workshop",
+              "canonicalStepSha256": "e73f444cc1d2ac119011d03b9e75217da918126cedb959d27a8c1f8957911e25",
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=V8brdaqx-S4&t=35s"
+              ]
+            },
+            {
+              "index": 3,
+              "title": "Cable: under the Canals stairs",
+              "canonicalStepSha256": "0a640d5c4f4bbec0a6809b123ae06af5ea0be4359bf78fa13aa7bdafe4b1e0f8",
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=V8brdaqx-S4&t=50s"
+              ]
+            },
+            {
+              "index": 4,
+              "title": "Microphone: Rift bench",
+              "canonicalStepSha256": "de11b4e2ad72d2600e1a5fca4181041f7d7c01604b0e20624e2bf2bb82dd08a1",
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=V8brdaqx-S4&t=80s"
+              ]
+            },
+            {
+              "index": 5,
+              "title": "Activate the Burlesque microphone",
+              "canonicalStepSha256": "390cde4f6c9aa6c991c3908114491f8d08e2472ca3449fbe2f029ea988b86c65",
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=V8brdaqx-S4&t=95s"
+              ]
+            }
+          ],
+          "requirementsAndRewardReviewed": true,
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/wiki/shadows-of-evil/",
+            "https://www.youtube.com/watch?v=V8brdaqx-S4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-shadows-of-evil-community-shadows-of-evil-easter-eggs-quests-margwa-mask",
+      "mapId": "bo3-shadows-of-evil",
+      "reviews": [
+        {
+          "batch": "bo3-shadows-shield-mask-songs-and-servant",
+          "reportedStatus": "Bounded documentary correction and native location images reviewed; not independently playtested",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Replaced the full selected card with source-linked original chapters; cleared inherited quoted attribution only for those rewritten cards."
+          ],
+          "unverified": [
+            "The remaining twenty-three Shadows cards, including both main-route presentations, full swords / flags / finale, basic part/fuse candidate pictures, upgraded Trip Mine variants, Lil Arnies, Noire, jump-scare and small interactions, were read for census only and are not certified by this five-card pass.",
+            "No independent retail gameplay or all-platform test. Last-generation BO3 behavior, co-op mask pickup sharing / retention and patched edge cases remain unverified.",
+            "The exact minimum heart-spawn prerequisite is unresolved: Noah’s original demonstration used Pack-a-Punch and an upgraded sword but explicitly says the gate may differ. It is not turned into an absolute setup rule.",
+            "The first two and last heart images are soft 2015 footage; the landmark and direct source timestamp are supplied. Ruby, Burlesque and Nero images show the location after the player equipped a mask; only the gym view shows the active pickup prompt.",
+            "Permanent Goddard retention, upgraded-shield bench repair pricing and all replacement behavior after the upgraded shield breaks are not established; normal pre-upgrade break / replacement does not reset the streak in the reviewed 2020 demonstration.",
+            "Song replay limits and all music / paused-track combinations were not established. No lyrics are copied.",
+            "Servant drop rates, guaranteed drop rounds, co-op recovery/duplication and every old glitch are not promised. The equipped-weapon image does not itself validate the collection mechanics.",
+            "Full Shadows cipher / scrap-paper routes, ordinary firearm inventory and complete lore remain pending; the existing broad map reference is not a completeness certificate."
+          ],
+          "wholeGuideTextRead": true,
+          "allExistingStepsRead": true,
+          "originalStepCount": 1,
+          "stepChecks": [
+            {
+              "index": 1,
+              "title": "Check the visible hearts",
+              "canonicalStepSha256": "7a7cf0daec2ff31584beeafa2765fa1c2c1e9e18a7fca34e8a862e90a8e41177",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/qlkiff/"
+              ]
+            },
+            {
+              "index": 2,
+              "title": "Plan the tram route",
+              "canonicalStepSha256": "2b76208ac18581bfdfb3f892df0a8bc4e12f39febcedae72471baafa079eb394",
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=0dg9iJ9BTXc&t=43s"
+              ]
+            },
+            {
+              "index": 3,
+              "title": "Heart 1",
+              "canonicalStepSha256": "0a2ca93fa712a24987e8e43029cdaa5017fcbb4bbba71f2298d7565612a90520",
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=0dg9iJ9BTXc&t=80s"
+              ]
+            },
+            {
+              "index": 4,
+              "title": "Heart 2",
+              "canonicalStepSha256": "689f906fb2b50ec8a875284ffac8734b0a53fb526218f4d726da8e44f20b83ad",
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=0dg9iJ9BTXc&t=86s"
+              ]
+            },
+            {
+              "index": 5,
+              "title": "Heart 3",
+              "canonicalStepSha256": "c36534aca23c6f63a530aec5eafd6accc59468cb1d4784ada81aab1e5e353693",
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=0dg9iJ9BTXc&t=99s"
+              ]
+            },
+            {
+              "index": 6,
+              "title": "Heart 4",
+              "canonicalStepSha256": "91469d16ac23e5aa6d9ce245e49ad26a83d3e488c09e28f6b9f55cc7de335037",
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=0dg9iJ9BTXc&t=110s"
+              ]
+            },
+            {
+              "index": 7,
+              "title": "Heart 5",
+              "canonicalStepSha256": "f9e1fc539eb47d672f1a7b71a62c922543cd06b2b3a2a442e4456863840ba782",
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=0dg9iJ9BTXc&t=145s"
+              ]
+            },
+            {
+              "index": 8,
+              "title": "Heart 6",
+              "canonicalStepSha256": "4de1793476b697a1cf858017da0edfca982a35c170dfd953bc198ad9bafd5ece",
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=0dg9iJ9BTXc&t=175s"
+              ]
+            },
+            {
+              "index": 9,
+              "title": "Stay within two rides",
+              "canonicalStepSha256": "d4d3392254ad645cca5602df48ab90d9b7a6cbfefc4c88f35953d99a70f269ca",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/qlkiff/"
+              ]
+            },
+            {
+              "index": 10,
+              "title": "Gym pickup",
+              "canonicalStepSha256": "1a373c3101e4979b31fdf3ca55011ebf3aa0b863125def9404a7d70c09a08fe4",
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=0dg9iJ9BTXc&t=215s"
+              ]
+            },
+            {
+              "index": 11,
+              "title": "Ruby pickup",
+              "canonicalStepSha256": "2a6090b64c1fa5f033ad22b88bb7329ff0db1ad1e85abdc5ebed0da158e10443",
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=0dg9iJ9BTXc&t=255s"
+              ]
+            },
+            {
+              "index": 12,
+              "title": "Burlesque pickup",
+              "canonicalStepSha256": "a0f39d7c5716e79e87e79ee1a33ec83acd9b749d423e4b6871df54609dbea5b2",
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=0dg9iJ9BTXc&t=270s"
+              ]
+            },
+            {
+              "index": 13,
+              "title": "Nero pickup",
+              "canonicalStepSha256": "a09f3e6ba746c5ec26275ab3fde24dea2927730d5fcf0b2e9df2d740b685f87a",
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=0dg9iJ9BTXc&t=275s"
+              ]
+            },
+            {
+              "index": 14,
+              "title": "Equip and confirm your mask",
+              "canonicalStepSha256": "a3f5ebb46386f11cad3a7d647ee3795c98845445ebac7a01883ca73d75bb3ef0",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/qlkiff/"
+              ]
+            }
+          ],
+          "requirementsAndRewardReviewed": true,
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/qlkiff/",
+            "https://www.youtube.com/watch?v=0dg9iJ9BTXc"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-shadows-of-evil-community-shadows-of-evil-easter-eggs-quests-snakeskin-boots-music-easter-egg",
+      "mapId": "bo3-shadows-of-evil",
+      "reviews": [
+        {
+          "batch": "bo3-shadows-shield-mask-songs-and-servant",
+          "reportedStatus": "Bounded documentary correction and native location images reviewed; not independently playtested",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Replaced the full selected card with source-linked original chapters; cleared inherited quoted attribution only for those rewritten cards."
+          ],
+          "unverified": [
+            "The remaining twenty-three Shadows cards, including both main-route presentations, full swords / flags / finale, basic part/fuse candidate pictures, upgraded Trip Mine variants, Lil Arnies, Noire, jump-scare and small interactions, were read for census only and are not certified by this five-card pass.",
+            "No independent retail gameplay or all-platform test. Last-generation BO3 behavior, co-op mask pickup sharing / retention and patched edge cases remain unverified.",
+            "The exact minimum heart-spawn prerequisite is unresolved: Noah’s original demonstration used Pack-a-Punch and an upgraded sword but explicitly says the gate may differ. It is not turned into an absolute setup rule.",
+            "The first two and last heart images are soft 2015 footage; the landmark and direct source timestamp are supplied. Ruby, Burlesque and Nero images show the location after the player equipped a mask; only the gym view shows the active pickup prompt.",
+            "Permanent Goddard retention, upgraded-shield bench repair pricing and all replacement behavior after the upgraded shield breaks are not established; normal pre-upgrade break / replacement does not reset the streak in the reviewed 2020 demonstration.",
+            "Song replay limits and all music / paused-track combinations were not established. No lyrics are copied.",
+            "Servant drop rates, guaranteed drop rounds, co-op recovery/duplication and every old glitch are not promised. The equipped-weapon image does not itself validate the collection mechanics.",
+            "Full Shadows cipher / scrap-paper routes, ordinary firearm inventory and complete lore remain pending; the existing broad map reference is not a completeness certificate."
+          ],
+          "wholeGuideTextRead": true,
+          "allExistingStepsRead": true,
+          "originalStepCount": 1,
+          "stepChecks": [
+            {
+              "index": 1,
+              "title": "Open the three areas",
+              "canonicalStepSha256": "45cf141ac307a22a4b494c27800ee2af844976168efb060919cefec567d71cde",
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=5tkNiBDSUPE&t=11s"
+              ]
+            },
+            {
+              "index": 2,
+              "title": "Canals: Ruby Rabbit radio",
+              "canonicalStepSha256": "53e04de7d4c0cf6e0a2ea5d4529e7daef53831666bf78abc0a00323300e8ceda",
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=5tkNiBDSUPE&t=25s"
+              ]
+            },
+            {
+              "index": 3,
+              "title": "Waterfront: gym office radio",
+              "canonicalStepSha256": "c7e63f5d9598d6976117d0e9ab9e69f98cef48ee84eb32f1175877159823a588",
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=5tkNiBDSUPE&t=45s"
+              ]
+            },
+            {
+              "index": 4,
+              "title": "Footlight: station bench radio",
+              "canonicalStepSha256": "67f47147abeb11465511b40013dc93e8d837c0c8ef9cbd357d3bba1c90794ee3",
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=5tkNiBDSUPE&t=65s"
+              ]
+            },
+            {
+              "index": 5,
+              "title": "Complete all three activations",
+              "canonicalStepSha256": "a031df35f2d033868485836a42f914a5aa5205c6c4a7663c445085c169283447",
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=5tkNiBDSUPE&t=67s"
+              ]
+            }
+          ],
+          "requirementsAndRewardReviewed": true,
+          "evidenceUrls": [
+            "https://www.youtube.com/watch?v=5tkNiBDSUPE"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-the-giant-community-the-giant-easter-eggs-beauty-of-annihilation-remix-music-easter-egg",
+      "mapId": "bo3-the-giant",
+      "reviews": [
+        {
+          "batch": "bo3-giant-quests-weapons-and-native-locations",
+          "reportedStatus": "BO3 route source-compared and native images reviewed within recorded limits; not independently playtested",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Three jar locations and any-order Interact trigger.",
+            "Jump/hold at high shelf, three confirmation cues and one playback per match.",
+            "BO3 remix scope; no lyrics or WaW-only song trigger imported."
+          ],
+          "wholeGuideTextRead": true,
+          "allExistingStepsRead": true,
+          "originalStepCount": 1,
+          "stepChecks": [
+            {
+              "index": 1,
+              "title": "Kuda room — high shelf",
+              "bodySha256": "74a7fed87bb4207c73297a2e0732650fd7c4def7f09bd9712d8cc6b28e835f6e",
+              "canonicalStepSha256": "d8aab7bab9c2c2c494023f9983e077731b6bdadc2d88aba50329059f8c70cd25",
+              "status": "source_supported_not_retail_replay_tested",
+              "evidence": [
+                "https://www.youtube.com/watch?v=OcykYUJQi1I&t=10s"
+              ],
+              "imageCount": 1,
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=OcykYUJQi1I&t=10s"
+              ]
+            },
+            {
+              "index": 2,
+              "title": "Kuda room — opposite table",
+              "bodySha256": "b582d73dfad2babcb668e60b4f666734d872d84218b4dae00c4f1f75474691b6",
+              "canonicalStepSha256": "6d9e6f1b04590d9a2986241f713022eccdea2466c3d066ed806140061104a5b5",
+              "status": "source_supported_not_retail_replay_tested",
+              "evidence": [
+                "https://www.youtube.com/watch?v=OcykYUJQi1I&t=25s"
+              ],
+              "imageCount": 1,
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=OcykYUJQi1I&t=25s"
+              ]
+            },
+            {
+              "index": 3,
+              "title": "Teleporter B — specimen table",
+              "bodySha256": "ad3091e6c14bc6f47de27911e391692fb46747b5ce5c51a3a0fe1707170675a6",
+              "canonicalStepSha256": "b0bc3f6113d328b7eba7d0f4e11b464119925f0f7504d00023a2fe67ed35a119",
+              "status": "source_supported_not_retail_replay_tested",
+              "evidence": [
+                "https://www.youtube.com/watch?v=OcykYUJQi1I&t=34s"
+              ],
+              "imageCount": 1,
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=OcykYUJQi1I&t=34s"
+              ]
+            }
+          ],
+          "requirementsAndRewardReviewed": true,
+          "imageReview": {
+            "inlineImageCount": 3,
+            "selectedNewImageCount": 3,
+            "status": "Researcher inspected selected native frames and retained radio photos; no generated game imagery."
+          },
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/wiki/the-giant/",
+            "https://www.youtube.com/watch?v=OcykYUJQi1I"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-the-giant-community-the-giant-easter-eggs-jump-scare",
+      "mapId": "bo3-the-giant",
+      "reviews": [
+        {
+          "batch": "bo3-giant-quests-weapons-and-native-locations",
+          "reportedStatus": "BO3 route source-compared and native images reviewed within recorded limits; not independently playtested",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Native 895.5547s shows both portraits during a BO3 teleport transition.",
+            "Power/link/normal paid teleporter route; no prerequisite inferred from hidden-perk quest."
+          ],
+          "unverified": [
+            "Exact trigger predicate, probability, count and whether any specific Monkeys route affects it remain unverified."
+          ],
+          "wholeGuideTextRead": true,
+          "allExistingStepsRead": true,
+          "originalStepCount": 1,
+          "stepChecks": [
+            {
+              "index": 1,
+              "title": "Take a linked teleporter ride",
+              "bodySha256": "6bf011e99525afede32dec48942f8bef60fa6a323c34bd149a2bb02abef36785",
+              "canonicalStepSha256": "7a84d5094de65a4a1489fd2d67229f9d92a967242839e4929f0b5424fe456f32",
+              "status": "source_supported_not_retail_replay_tested",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+              ],
+              "imageCount": 0,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+              ]
+            },
+            {
+              "index": 2,
+              "title": "Watch the portrait overlay",
+              "bodySha256": "eb06ff915948147f01183bf09571c423e6401ae15d9d4d1546bdb1ce78f1dd3b",
+              "canonicalStepSha256": "09d2b4a1ecab050c751f65a0d633dba8804a1e2015a8ce771ca923e8908392d8",
+              "status": "source_supported_not_retail_replay_tested",
+              "evidence": [
+                "https://www.youtube.com/watch?v=WRh_bqE7V_A&t=895s"
+              ],
+              "imageCount": 1,
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=WRh_bqE7V_A&t=895s"
+              ]
+            }
+          ],
+          "requirementsAndRewardReviewed": true,
+          "imageReview": {
+            "inlineImageCount": 1,
+            "selectedNewImageCount": 1,
+            "status": "Researcher inspected selected native frames and retained radio photos; no generated game imagery."
+          },
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/wiki/the-giant/",
+            "https://www.youtube.com/watch?v=WRh_bqE7V_A"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-the-giant-community-the-giant-easter-eggs-main-easter-egg",
+      "mapId": "bo3-the-giant",
+      "reviews": [
+        {
+          "batch": "bo3-giant-quests-weapons-and-native-locations",
+          "reportedStatus": "BO3 route source-compared and native images reviewed within recorded limits; not independently playtested",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Power/PaP setup and upgraded-bullet starting-panel interaction.",
+            "Green launch/voice confirmation.",
+            "A unlit-furnace Monkey, power-balcony teddy, B left-vat teddy.",
+            "Any toy order, per-hit cues, missed-target recovery and lit-VMP-Garage reward.",
+            "Each-player Annihilator claim; no WaW trophy imported."
+          ],
+          "unverified": [
+            "Exact menu-icon persistence across offline/profile/platform variants was not established; no XP amount or trophy guarantee is asserted.",
+            "Alternative damage sources against toys and specialist/melee-only panel attempts were not replay-tested."
+          ],
+          "wholeGuideTextRead": true,
+          "allExistingStepsRead": true,
+          "originalStepCount": 6,
+          "stepChecks": [
+            {
+              "index": 1,
+              "title": "Prepare an upgraded bullet weapon",
+              "bodySha256": "436ab9d3df3b0f95b4b0660ffd917601909d7621e52e0338013d90aad5e48631",
+              "canonicalStepSha256": "e16bc9faf2b1122fc870d3487d3b61b79eb0af55d0f22de7b25fb6f0e29d4016",
+              "status": "source_supported_not_retail_replay_tested",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+              ],
+              "imageCount": 0,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+              ]
+            },
+            {
+              "index": 2,
+              "title": "Shoot the panel beyond the L-CAR window",
+              "bodySha256": "4d2d1d3414547986102781bbffd0ea1e11a08a02136c217ab9734d7a20a87b75",
+              "canonicalStepSha256": "3afdcb64cd9bc8dbda9f3a0bb6ab21f39f514a0ccd750a1d0cb092c66f9d9299",
+              "status": "source_supported_not_retail_replay_tested",
+              "evidence": [
+                "https://www.youtube.com/watch?v=ThcHUi771cw&t=32s"
+              ],
+              "imageCount": 1,
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=ThcHUi771cw&t=32s"
+              ]
+            },
+            {
+              "index": 3,
+              "title": "Toy: unlit furnace below Teleporter A",
+              "bodySha256": "0f3e5b261bd12dfdd29b84f7c98b26b57639262231e18a3f0aa5bd5571ac917c",
+              "canonicalStepSha256": "37d12cd52e7ff6abf9525d2d81132369db69b6cbc4a90ef797421ee3a088819b",
+              "status": "source_supported_not_retail_replay_tested",
+              "evidence": [
+                "https://www.youtube.com/watch?v=ThcHUi771cw&t=72s"
+              ],
+              "imageCount": 1,
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=ThcHUi771cw&t=72s"
+              ]
+            },
+            {
+              "index": 4,
+              "title": "Toy: high balcony outside power",
+              "bodySha256": "0c43d0ba2a170901ac1f723203d11c48ac56bb62cbb4e9c6c5b065d8f5e14d55",
+              "canonicalStepSha256": "a1e80120b8860222fc85ed0307653028677d47e48ade4f9f8c77ad64be4ac54c",
+              "status": "source_supported_not_retail_replay_tested",
+              "evidence": [
+                "https://www.youtube.com/watch?v=ThcHUi771cw&t=101s"
+              ],
+              "imageCount": 1,
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=ThcHUi771cw&t=101s"
+              ]
+            },
+            {
+              "index": 5,
+              "title": "Toy: left cooling vat beside Teleporter B",
+              "bodySha256": "1020876302e0f2c63e1df2b5add913fc016d0ef1c726bdd32e636565d023dda9",
+              "canonicalStepSha256": "542b182eb1979667594672a0b7cef6cf77b4015e889b90b6701d671e78cfcc5e",
+              "status": "source_supported_not_retail_replay_tested",
+              "evidence": [
+                "https://www.youtube.com/watch?v=ThcHUi771cw&t=121s"
+              ],
+              "imageCount": 1,
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=ThcHUi771cw&t=121s"
+              ]
+            },
+            {
+              "index": 6,
+              "title": "Confirm all three toys were hit",
+              "bodySha256": "3dd523b264a7ee665419fdb6bc003d3cf67f53cbc89195695d8746ad8c1d8893",
+              "canonicalStepSha256": "6e91f14038e973e2233385ec289d59c7d0a4e81fa0da1da8f8422bf786338a61",
+              "status": "source_supported_not_retail_replay_tested",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+              ],
+              "imageCount": 0,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+              ]
+            },
+            {
+              "index": 7,
+              "title": "Collect from the lit Garage furnace",
+              "bodySha256": "2be4033f9e3c94c598046ebc45c56012c59c1a91b7083b3f8b82287ef2dc49de",
+              "canonicalStepSha256": "d65c8bad6bc5fa50f37b6e519277de1ab0b1bba2fd38a0a773062354ce51e388",
+              "status": "source_supported_not_retail_replay_tested",
+              "evidence": [
+                "https://www.youtube.com/watch?v=ThcHUi771cw&t=188s"
+              ],
+              "imageCount": 1,
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=ThcHUi771cw&t=188s"
+              ]
+            }
+          ],
+          "requirementsAndRewardReviewed": true,
+          "imageReview": {
+            "inlineImageCount": 5,
+            "selectedNewImageCount": 5,
+            "status": "Researcher inspected selected native frames and retained radio photos; no generated game imagery."
+          },
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/wiki/the-giant/",
+            "https://www.youtube.com/watch?v=ThcHUi771cw"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-the-giant-community-the-giant-easter-eggs-sixth-perk",
+      "mapId": "bo3-the-giant",
+      "reviews": [
+        {
+          "batch": "bo3-giant-quests-weapons-and-native-locations",
+          "reportedStatus": "BO3 route source-compared and native images reviewed within recorded limits; not independently playtested",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Power, linked teleporters, Monkey supply and normal ride prices.",
+            "One registration per A/B/C, three green lamps, console interaction and fixed snow-pile reward location.",
+            "Random Stamin-Up/Deadshot machine rather than free perk or added default slot."
+          ],
+          "unverified": [
+            "Exact registration timing tolerance, no-cost/discount GobbleGum combinations and machine-selection RNG were not tested."
+          ],
+          "wholeGuideTextRead": true,
+          "allExistingStepsRead": true,
+          "originalStepCount": 4,
+          "stepChecks": [
+            {
+              "index": 1,
+              "title": "Check the console before starting",
+              "bodySha256": "e54aab1daf3c83ae27dd8df5d8d9052d635ecf831fc788df00a556e4e0049dac",
+              "canonicalStepSha256": "bec7dada8bb1349897864ef0099163387fdd6b67aff14d33470566e6d22080c3",
+              "status": "source_supported_not_retail_replay_tested",
+              "evidence": [
+                "https://www.youtube.com/watch?v=NsXkIhCxyBU&t=58s"
+              ],
+              "imageCount": 0,
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=NsXkIhCxyBU&t=58s"
+              ]
+            },
+            {
+              "index": 2,
+              "title": "Throw a Monkey onto a linked pad",
+              "bodySha256": "4f28aff572ebaaf8c29bab72bba8b9e8d4980574c359a8e00c956db985e69d3e",
+              "canonicalStepSha256": "d5b496739856f06f7f65c7286d31cc8eb86eacde7f3adf0104efe04cc518cbe1",
+              "status": "source_supported_not_retail_replay_tested",
+              "evidence": [
+                "https://www.youtube.com/watch?v=NsXkIhCxyBU&t=34s"
+              ],
+              "imageCount": 1,
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=NsXkIhCxyBU&t=34s"
+              ]
+            },
+            {
+              "index": 3,
+              "title": "Repeat at the other two pads",
+              "bodySha256": "f72a9bbdf023254fd2f0f7e9b7e62112a54f6095b1b6127af79a4f068df5b30b",
+              "canonicalStepSha256": "5646565884d1e1ee920168f09ae059b5038f0ee94cd01eb0ed5b66a15fc614b3",
+              "status": "source_supported_not_retail_replay_tested",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+              ],
+              "imageCount": 0,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+              ]
+            },
+            {
+              "index": 4,
+              "title": "Retry only a pad that did not register",
+              "bodySha256": "9450365cf104f3a43152630c29c4acb07c475c08936611c9deff103275525bea",
+              "canonicalStepSha256": "59cd906c98077def5d5204b1ad9a2d2454a13e98371388f02a512da327751ff2",
+              "status": "source_supported_not_retail_replay_tested",
+              "evidence": [
+                "https://www.youtube.com/watch?v=NsXkIhCxyBU&t=108s"
+              ],
+              "imageCount": 1,
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=NsXkIhCxyBU&t=108s"
+              ]
+            },
+            {
+              "index": 5,
+              "title": "Press the Mainframe console",
+              "bodySha256": "fe16995d1bdb3a138e4e5f2a8cfdbe3a9f6424d0fb2c9ba02c04934c55dcb67b",
+              "canonicalStepSha256": "4b197b98df903413d34604ed7fbd61b815fc15a1f16c7210752fdf6e0f968802",
+              "status": "source_supported_not_retail_replay_tested",
+              "evidence": [
+                "https://www.youtube.com/watch?v=NsXkIhCxyBU&t=96s"
+              ],
+              "imageCount": 0,
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=NsXkIhCxyBU&t=96s"
+              ]
+            },
+            {
+              "index": 6,
+              "title": "Buy the machine that appeared",
+              "bodySha256": "6a5fadf7846242e8b0692e1f8623a1b22bcad98c5eb90a7b9139726893804120",
+              "canonicalStepSha256": "632124644b2772548bf06e098520f5bfacf93f987053d4b3ac987de61e11b2ba",
+              "status": "source_supported_not_retail_replay_tested",
+              "evidence": [
+                "https://www.youtube.com/watch?v=NsXkIhCxyBU&t=128s"
+              ],
+              "imageCount": 1,
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=NsXkIhCxyBU&t=128s"
+              ]
+            }
+          ],
+          "requirementsAndRewardReviewed": true,
+          "imageReview": {
+            "inlineImageCount": 3,
+            "selectedNewImageCount": 3,
+            "status": "Researcher inspected selected native frames and retained radio photos; no generated game imagery."
+          },
+          "evidenceUrls": [
+            "https://www.codzombieguides.com/the-giant",
+            "https://www.reddit.com/r/CODZombies/wiki/the-giant/",
+            "https://www.youtube.com/watch?v=NsXkIhCxyBU"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-the-giant-community-the-giant-map-walkthrough-dog-rounds",
+      "mapId": "bo3-the-giant",
+      "reviews": [
+        {
+          "batch": "bo3-giant-quests-weapons-and-native-locations",
+          "reportedStatus": "BO3 route source-compared and native images reviewed within recorded limits; not independently playtested",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Hellhound-wave presentation and final Max Ammo reward.",
+            "Reload-first is a practical collection instruction; no dog health, spawn count or exact drop lifetime asserted."
+          ],
+          "unverified": [
+            "Exact first-wave/succeeding-wave scheduling and mixed late-round dog rules were not independently checked."
+          ],
+          "wholeGuideTextRead": true,
+          "allExistingStepsRead": true,
+          "originalStepCount": 1,
+          "stepChecks": [
+            {
+              "index": 1,
+              "title": "Fight the foggy Hellhound wave",
+              "bodySha256": "23a2365d3980f6f411bbfe01594a5dbb1c93428e62926e6970cbf89cdaead440",
+              "canonicalStepSha256": "b29e23e470acd6b3372b014525e3111b2fbcd6915dbf8b390db16e6228ab9ace",
+              "status": "source_supported_not_retail_replay_tested",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+              ],
+              "imageCount": 0,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+              ]
+            },
+            {
+              "index": 2,
+              "title": "Collect the final Max Ammo",
+              "bodySha256": "ce1219bd90dcebf285d79bb9c9983b1a81f102af5a23ce2b997632d0b33cda7d",
+              "canonicalStepSha256": "055498853e737b440db235bafc500377d911e362ee403255f505f585860a93de",
+              "status": "source_supported_not_retail_replay_tested",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+              ],
+              "imageCount": 0,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+              ]
+            }
+          ],
+          "requirementsAndRewardReviewed": true,
+          "imageReview": {
+            "inlineImageCount": 0,
+            "selectedNewImageCount": 0,
+            "status": "Researcher inspected selected native frames and retained radio photos; no generated game imagery."
+          },
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-the-giant-community-the-giant-map-walkthrough-pack-a-punch",
+      "mapId": "bo3-the-giant",
+      "reviews": [
+        {
+          "batch": "bo3-giant-quests-weapons-and-native-locations",
+          "reportedStatus": "BO3 route source-compared and native images reviewed within recorded limits; not independently playtested",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Power prerequisite and 30-second link/teammate completion.",
+            "A left laboratory, B right cooling vats, C rear platform.",
+            "Gate bulbs, timeout retry, 5,000 first upgrade and 2,500 eligible AAT rolls."
+          ],
+          "unverified": [
+            "No complete current-patch firearm/attachment roster was established; AAT per-effect proc/drop behavior is not certified."
+          ],
+          "wholeGuideTextRead": true,
+          "allExistingStepsRead": true,
+          "originalStepCount": 1,
+          "stepChecks": [
+            {
+              "index": 1,
+              "title": "Turn on power; learn the common link action",
+              "bodySha256": "1f1ff0d88b542c9a72031c50441d455373ad1056599fb6954e4716ef49e8b622",
+              "canonicalStepSha256": "7a1779f7cb3f8dd31236e83b8db9534a021b821a7bedee38989d08ce43818b1e",
+              "status": "source_supported_not_retail_replay_tested",
+              "evidence": [
+                "https://www.youtube.com/watch?v=FGQgPX0FbUE&t=81s"
+              ],
+              "imageCount": 1,
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=FGQgPX0FbUE&t=81s"
+              ]
+            },
+            {
+              "index": 2,
+              "title": "Link A — left Animal Testing route",
+              "bodySha256": "5913483b301bd9003e03efaed9fde80db0236779d693556efedc505319a9e2a8",
+              "canonicalStepSha256": "8c11baaced3ab4d75a5665098a931a582137b24dd62b303cdd85abe5976f0bc6",
+              "status": "source_supported_not_retail_replay_tested",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+              ],
+              "imageCount": 0,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+              ]
+            },
+            {
+              "index": 3,
+              "title": "Link B — right cooling-vat route",
+              "bodySha256": "3526e5cddd420d0a45c2e01048d52848c670a7fa80aa9a75cb6854d468b5b01d",
+              "canonicalStepSha256": "395ae6054b29cc3f591383c4679c226f80c29bc1be0ce7124e7e32387c015d1f",
+              "status": "source_supported_not_retail_replay_tested",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+              ],
+              "imageCount": 0,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+              ]
+            },
+            {
+              "index": 4,
+              "title": "Link C — rear raised platform",
+              "bodySha256": "09933daee347067a0e0acdff26ae6b803cf7c463149831cf47c0cf9b59de13b9",
+              "canonicalStepSha256": "c8d6e2d2c8c6eae0c0ae82d584455ae529edcc9e047480a8d925ae076644565a",
+              "status": "source_supported_not_retail_replay_tested",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+              ],
+              "imageCount": 0,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+              ]
+            },
+            {
+              "index": 5,
+              "title": "Check the three bulbs; retry a missed link",
+              "bodySha256": "aef402b4ecbb2a46c0b1a0af485416f1e17baf3059641d96e71f6bfc7a683651",
+              "canonicalStepSha256": "1b10507d6c0a8a34e31046610e66592e4e698eed22be01c57e6645eb663a6387",
+              "status": "source_supported_not_retail_replay_tested",
+              "evidence": [
+                "https://www.youtube.com/watch?v=FGQgPX0FbUE&t=175s"
+              ],
+              "imageCount": 1,
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=FGQgPX0FbUE&t=175s"
+              ]
+            },
+            {
+              "index": 6,
+              "title": "Upgrade, then reclaim the returned gun",
+              "bodySha256": "aea10543ee7a88f064f322a46f5792340ff1cdf5728750b6298e2e365f475cec",
+              "canonicalStepSha256": "37cd6d39a758da7149afc8038e99ced9b254005bf5fe8757cc040b73eb401c29",
+              "status": "source_supported_not_retail_replay_tested",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+              ],
+              "imageCount": 0,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+              ]
+            },
+            {
+              "index": 7,
+              "title": "Eligible firearms: add or reroll an ammo effect",
+              "bodySha256": "93edde6f74dffd6255216fdd301ee8a0035a58c5c094067825abad831b138e88",
+              "canonicalStepSha256": "3cc1075a5101924cf1461328448b03ddba241b3f73edbd2c8eb2d25668c738c1",
+              "status": "source_supported_not_retail_replay_tested",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/comments/so33kt/"
+              ],
+              "imageCount": 0,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/so33kt/"
+              ]
+            }
+          ],
+          "requirementsAndRewardReviewed": true,
+          "imageReview": {
+            "inlineImageCount": 2,
+            "selectedNewImageCount": 2,
+            "status": "Researcher inspected selected native frames and retained radio photos; no generated game imagery."
+          },
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/so33kt/",
+            "https://www.reddit.com/r/CODZombies/wiki/the-giant/",
+            "https://www.youtube.com/watch?v=FGQgPX0FbUE"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-the-giant-community-the-giant-map-walkthrough-power",
+      "mapId": "bo3-the-giant",
+      "reviews": [
+        {
+          "batch": "bo3-giant-quests-weapons-and-native-locations",
+          "reportedStatus": "BO3 route source-compared and native images reviewed within recorded limits; not independently playtested",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Left spawn/LCAR/Kuda/stairs route.",
+            "Generator-fence lever, free switch and separate three-link PaP requirement."
+          ],
+          "unverified": [
+            "Every individual door price was not pixel-checked; no exact total route budget is asserted."
+          ],
+          "wholeGuideTextRead": true,
+          "allExistingStepsRead": true,
+          "originalStepCount": 1,
+          "stepChecks": [
+            {
+              "index": 1,
+              "title": "Follow the left spawn route",
+              "bodySha256": "daf4fe854e442aba1ee719624c4166906acde2e1e39ccaac0d30d6896d90ffbf",
+              "canonicalStepSha256": "bd7171014118c5eab30fe0e67e87d77e21741b0b9a2bdff681516628042e5a55",
+              "status": "source_supported_not_retail_replay_tested",
+              "evidence": [
+                "https://www.youtube.com/watch?v=FGQgPX0FbUE&t=6s"
+              ],
+              "imageCount": 0,
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=FGQgPX0FbUE&t=6s"
+              ]
+            },
+            {
+              "index": 2,
+              "title": "Use the lever behind the generator",
+              "bodySha256": "8b17d64192d9c214e0ccc8f07f7d4e3ae58ecaf74d3d6195afc8684aa9013a11",
+              "canonicalStepSha256": "6e3e5a58db20e095fa2a03c386e8c52e13c6d9183d56dd15963b908e35a6c4fe",
+              "status": "source_supported_not_retail_replay_tested",
+              "evidence": [
+                "https://www.codzombieguides.com/the-giant#power"
+              ],
+              "imageCount": 1,
+              "evidenceUrls": [
+                "https://www.codzombieguides.com/the-giant#power"
+              ]
+            }
+          ],
+          "requirementsAndRewardReviewed": true,
+          "imageReview": {
+            "inlineImageCount": 1,
+            "selectedNewImageCount": 1,
+            "status": "Researcher inspected selected native frames and retained radio photos; no generated game imagery."
+          },
+          "evidenceUrls": [
+            "https://www.codzombieguides.com/the-giant",
+            "https://www.reddit.com/r/CODZombies/wiki/the-giant/",
+            "https://www.youtube.com/watch?v=FGQgPX0FbUE"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-the-giant-community-the-giant-map-walkthrough-traps",
+      "mapId": "bo3-the-giant",
+      "reviews": [
+        {
+          "batch": "bo3-giant-quests-weapons-and-native-locations",
+          "reportedStatus": "BO3 route source-compared and native images reviewed within recorded limits; not independently playtested",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Three doorway landmarks and 1,000-point normal cost.",
+            "Power requirement, activation switch, beam hazard and cooldown retry."
+          ],
+          "unverified": [
+            "Exact activation/cooldown seconds, chaining cap and Juggernog-dependent damage timing were not verified and are omitted."
+          ],
+          "wholeGuideTextRead": true,
+          "allExistingStepsRead": true,
+          "originalStepCount": 1,
+          "stepChecks": [
+            {
+              "index": 1,
+              "title": "Find a trap doorway",
+              "bodySha256": "c47113a13ed35a24529362eb1b6bd215d75806a6146c40d579f004cd97114b9e",
+              "canonicalStepSha256": "14687f440a8c1ae933a1091f83bac48e933ae0167cc31dd88cdd3a96f3467cf2",
+              "status": "source_supported_not_retail_replay_tested",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+              ],
+              "imageCount": 0,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+              ]
+            },
+            {
+              "index": 2,
+              "title": "Clear teammates, then activate",
+              "bodySha256": "7c93da72250cc6232c01f46acb941a7d79f71c90996e271e2451ea166bbae3fd",
+              "canonicalStepSha256": "638e1339b7db1dc6ae5fcf0b2be2b852f3ce042846134293178baa7b64b0d865",
+              "status": "source_supported_not_retail_replay_tested",
+              "evidence": [
+                "https://www.youtube.com/watch?v=IlJGZWYzeMQ&t=130s"
+              ],
+              "imageCount": 1,
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=IlJGZWYzeMQ&t=130s"
+              ]
+            },
+            {
+              "index": 3,
+              "title": "Wait before using the switch again",
+              "bodySha256": "1f8ee6056b70cdb24ed54fa556726ac975cbf127548e9242bcee46dafdde31a7",
+              "canonicalStepSha256": "9db3bf1afccf4c26c9f9c7c75c0e0e7f5ec43e45d40fda147a2632156ce54c91",
+              "status": "source_supported_not_retail_replay_tested",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+              ],
+              "imageCount": 0,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+              ]
+            }
+          ],
+          "requirementsAndRewardReviewed": true,
+          "imageReview": {
+            "inlineImageCount": 1,
+            "selectedNewImageCount": 1,
+            "status": "Researcher inspected selected native frames and retained radio photos; no generated game imagery."
+          },
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/wiki/the-giant/",
+            "https://www.youtube.com/watch?v=IlJGZWYzeMQ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-the-giant-community-the-giant-special-weapons-annihilator-pistol",
+      "mapId": "bo3-the-giant",
+      "reviews": [
+        {
+          "batch": "bo3-giant-quests-weapons-and-native-locations",
+          "reportedStatus": "BO3 route source-compared and native images reviewed within recorded limits; not independently playtested",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Glowing VMP-Garage furnace pickup and each-player collection.",
+            "Specialist slot, 18 shots, recharge by kills, Max Ammo exception and no PaP route."
+          ],
+          "unverified": [
+            "Exact recharge-kill count, damage falloff and late-round one-shot limits were not tested."
+          ],
+          "wholeGuideTextRead": true,
+          "allExistingStepsRead": true,
+          "originalStepCount": 1,
+          "stepChecks": [
+            {
+              "index": 1,
+              "title": "Claim your own pistol",
+              "bodySha256": "214b44cdf02ba0133871564ecfb2167beb3f5f8a7fd0dad73f9833b37dc3ac65",
+              "canonicalStepSha256": "1489624d08c3948031c46d513a87ac07b0ced21de64c9d6e13344a788d0c8ecc",
+              "status": "source_supported_not_retail_replay_tested",
+              "evidence": [
+                "https://www.youtube.com/watch?v=ThcHUi771cw&t=188s"
+              ],
+              "imageCount": 1,
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=ThcHUi771cw&t=188s"
+              ]
+            },
+            {
+              "index": 2,
+              "title": "Equip through the specialist binding",
+              "bodySha256": "8d0f898fdf2ab508cb0e5caa48011a26016ba325741881b18537c1514bae102c",
+              "canonicalStepSha256": "8a01ad239bb0f87f15ba2318a1cf1cf2253a927962c895b65a01e922535e06fa",
+              "status": "source_supported_not_retail_replay_tested",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+              ],
+              "imageCount": 0,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+              ]
+            },
+            {
+              "index": 3,
+              "title": "Recharge",
+              "bodySha256": "47c00130006d264fdd4f7b7737afd7a665998b2d7ea5c60d73799973ddc7dfce",
+              "canonicalStepSha256": "e16f7060c6ada495520704998df6bf1c7d9f1cd2d22ce89ba0a11a1fa31fb8d8",
+              "status": "source_supported_not_retail_replay_tested",
+              "evidence": [
+                "https://steamcommunity.com/sharedfiles/filedetails/?id=587512788"
+              ],
+              "imageCount": 0,
+              "evidenceUrls": [
+                "https://steamcommunity.com/sharedfiles/filedetails/?id=587512788"
+              ]
+            }
+          ],
+          "requirementsAndRewardReviewed": true,
+          "imageReview": {
+            "inlineImageCount": 1,
+            "selectedNewImageCount": 1,
+            "status": "Researcher inspected selected native frames and retained radio photos; no generated game imagery."
+          },
+          "evidenceUrls": [
+            "https://steamcommunity.com/sharedfiles/filedetails/?id=587512788",
+            "https://www.reddit.com/r/CODZombies/wiki/the-giant/",
+            "https://www.youtube.com/watch?v=ThcHUi771cw"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-the-giant-community-the-giant-special-weapons-monkey-bombs",
+      "mapId": "bo3-the-giant",
+      "reviews": [
+        {
+          "batch": "bo3-giant-quests-weapons-and-native-locations",
+          "reportedStatus": "BO3 route source-compared and native images reviewed within recorded limits; not independently playtested",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Mystery Box acquisition and arming animation.",
+            "Playable-floor distraction, out-of-bounds failure and two map-specific interactions."
+          ],
+          "unverified": [
+            "Exact distraction seconds, blast damage and refill exceptions were not measured."
+          ],
+          "wholeGuideTextRead": true,
+          "allExistingStepsRead": true,
+          "originalStepCount": 1,
+          "stepChecks": [
+            {
+              "index": 1,
+              "title": "Arm and throw onto playable floor",
+              "bodySha256": "078b9ba8fb0686d1fc72cc3154c4f6bc4153ea7c5fd4cff888f8c4a451d16763",
+              "canonicalStepSha256": "401a0e36295a9564f13fe6f544f9ffce65afb3c20fbdbeb9317c0857774b5a88",
+              "status": "source_supported_not_retail_replay_tested",
+              "evidence": [
+                "https://www.youtube.com/watch?v=NsXkIhCxyBU&t=50s"
+              ],
+              "imageCount": 1,
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=NsXkIhCxyBU&t=50s"
+              ]
+            },
+            {
+              "index": 2,
+              "title": "Choose its ordinary or quest use",
+              "bodySha256": "a66249b578d00fe2c1ea12ac8d89cc411912d340fff0d572a4d4d32652504588",
+              "canonicalStepSha256": "5f8576181eac9ab8fd4198895955555fc2600bb92002206fb8a288384051d25c",
+              "status": "source_supported_not_retail_replay_tested",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+              ],
+              "imageCount": 0,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+              ]
+            }
+          ],
+          "requirementsAndRewardReviewed": true,
+          "imageReview": {
+            "inlineImageCount": 1,
+            "selectedNewImageCount": 1,
+            "status": "Researcher inspected selected native frames and retained radio photos; no generated game imagery."
+          },
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/g8orbw/",
+            "https://www.reddit.com/r/CODZombies/wiki/the-giant/",
+            "https://www.youtube.com/watch?v=NsXkIhCxyBU"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-the-giant-community-the-giant-special-weapons-wunderwaffe-dg-2",
+      "mapId": "bo3-the-giant",
+      "reviews": [
+        {
+          "batch": "bo3-giant-quests-weapons-and-native-locations",
+          "reportedStatus": "BO3 route source-compared and native images reviewed within recorded limits; not independently playtested",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Map-specific Mystery Box acquisition and ordinary random-roll cost.",
+            "BO3 DG-2 HUD 3/15, practical clustered targets, held-weapon replacement."
+          ],
+          "unverified": [
+            "Co-op ownership with GobbleGum and all patch-specific Box exceptions were not replay-tested; no exclusive single-owner assertion retained."
+          ],
+          "wholeGuideTextRead": true,
+          "allExistingStepsRead": true,
+          "originalStepCount": 1,
+          "stepChecks": [
+            {
+              "index": 1,
+              "title": "Roll the active Mystery Box",
+              "bodySha256": "cc4ac0eab4b224612e7fe2b22a8ee203abcda3023bb91ba3c337d07423ddb5e0",
+              "canonicalStepSha256": "280197fc41ac42fdbfcbf1adaca25f6ccfd7517c44b224e2470e92d557080fd2",
+              "status": "source_supported_not_retail_replay_tested",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+              ],
+              "imageCount": 0,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+              ]
+            },
+            {
+              "index": 2,
+              "title": "Use the electrical chain; save ammunition",
+              "bodySha256": "877dd8f021d7cc5b36b4328ff54a0bc626727323b6c9d2a51e788dcdcb025e48",
+              "canonicalStepSha256": "18862eba4f71dca1d88589a2ba5ab99a011fe477fd68fdd4070cf63465164e60",
+              "status": "source_supported_not_retail_replay_tested",
+              "evidence": [
+                "https://www.youtube.com/watch?v=XFL0o5SiG9o&t=150s"
+              ],
+              "imageCount": 1,
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=XFL0o5SiG9o&t=150s"
+              ]
+            }
+          ],
+          "requirementsAndRewardReviewed": true,
+          "imageReview": {
+            "inlineImageCount": 1,
+            "selectedNewImageCount": 1,
+            "status": "Researcher inspected selected native frames and retained radio photos; no generated game imagery."
+          },
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/wiki/the-giant/",
+            "https://www.youtube.com/watch?v=XFL0o5SiG9o"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-the-giant-community-the-giant-special-weapons-wunderwaffe-dg-2-upgrade",
+      "mapId": "bo3-the-giant",
+      "reviews": [
+        {
+          "batch": "bo3-giant-quests-weapons-and-native-locations",
+          "reportedStatus": "BO3 route source-compared and native images reviewed within recorded limits; not independently playtested",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Native 150s DG-2 3/15 with 5,840 points; 160s DG-3 JZ 6/30 with 840 points.",
+            "Upgrade name, normal 5,000-point machine route and collection."
+          ],
+          "unverified": [
+            "No numerical damage, chain cap or late-round limit was measured; no infinite-damage or timed impairment claim made."
+          ],
+          "wholeGuideTextRead": true,
+          "allExistingStepsRead": true,
+          "originalStepCount": 1,
+          "stepChecks": [
+            {
+              "index": 1,
+              "title": "Insert the DG-2 at the Mainframe",
+              "bodySha256": "e02f8fd0f944b34b9fd10fc352c72a8e82c34adc96e64447dfee5215fca41bbb",
+              "canonicalStepSha256": "bf3b1d75dbd11a34e47e4da3b47bec59108ad012e87a16b007706b6686a30f1c",
+              "status": "source_supported_not_retail_replay_tested",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+              ],
+              "imageCount": 0,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+              ]
+            },
+            {
+              "index": 2,
+              "title": "Take the DG-3 JZ back",
+              "bodySha256": "3441bac2143b77e00d91e7c1d78fa56d1be82cf720ef25ab97e9d5c69875638f",
+              "canonicalStepSha256": "cf1e851fe68237d3b17d9ef0f63c300e59bbb2e81c7d940ed830a1a792393e7f",
+              "status": "source_supported_not_retail_replay_tested",
+              "evidence": [
+                "https://www.youtube.com/watch?v=XFL0o5SiG9o&t=160s"
+              ],
+              "imageCount": 1,
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=XFL0o5SiG9o&t=160s"
+              ]
+            }
+          ],
+          "requirementsAndRewardReviewed": true,
+          "imageReview": {
+            "inlineImageCount": 1,
+            "selectedNewImageCount": 1,
+            "status": "Researcher inspected selected native frames and retained radio photos; no generated game imagery."
+          },
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/wiki/the-giant/",
+            "https://www.youtube.com/watch?v=XFL0o5SiG9o"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-the-giant-fly-trap",
+      "mapId": "bo3-the-giant",
+      "reviews": [
+        {
+          "batch": "bo3-giant-quests-weapons-and-native-locations",
+          "reportedStatus": "BO3 route source-compared and native images reviewed within recorded limits; not independently playtested",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Power/PaP setup and upgraded-bullet starting-panel interaction.",
+            "Green launch/voice confirmation.",
+            "A unlit-furnace Monkey, power-balcony teddy, B left-vat teddy.",
+            "Any toy order, per-hit cues, missed-target recovery and lit-VMP-Garage reward.",
+            "Each-player Annihilator claim; no WaW trophy imported."
+          ],
+          "unverified": [
+            "Exact menu-icon persistence across offline/profile/platform variants was not established; no XP amount or trophy guarantee is asserted.",
+            "Alternative damage sources against toys and specialist/melee-only panel attempts were not replay-tested."
+          ],
+          "wholeGuideTextRead": true,
+          "allExistingStepsRead": true,
+          "originalStepCount": 4,
+          "stepChecks": [
+            {
+              "index": 1,
+              "title": "Prepare an upgraded bullet weapon",
+              "bodySha256": "436ab9d3df3b0f95b4b0660ffd917601909d7621e52e0338013d90aad5e48631",
+              "canonicalStepSha256": "e16bc9faf2b1122fc870d3487d3b61b79eb0af55d0f22de7b25fb6f0e29d4016",
+              "status": "source_supported_not_retail_replay_tested",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+              ],
+              "imageCount": 0,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+              ]
+            },
+            {
+              "index": 2,
+              "title": "Shoot the panel beyond the L-CAR window",
+              "bodySha256": "4d2d1d3414547986102781bbffd0ea1e11a08a02136c217ab9734d7a20a87b75",
+              "canonicalStepSha256": "3afdcb64cd9bc8dbda9f3a0bb6ab21f39f514a0ccd750a1d0cb092c66f9d9299",
+              "status": "source_supported_not_retail_replay_tested",
+              "evidence": [
+                "https://www.youtube.com/watch?v=ThcHUi771cw&t=32s"
+              ],
+              "imageCount": 1,
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=ThcHUi771cw&t=32s"
+              ]
+            },
+            {
+              "index": 3,
+              "title": "Toy: unlit furnace below Teleporter A",
+              "bodySha256": "0f3e5b261bd12dfdd29b84f7c98b26b57639262231e18a3f0aa5bd5571ac917c",
+              "canonicalStepSha256": "37d12cd52e7ff6abf9525d2d81132369db69b6cbc4a90ef797421ee3a088819b",
+              "status": "source_supported_not_retail_replay_tested",
+              "evidence": [
+                "https://www.youtube.com/watch?v=ThcHUi771cw&t=72s"
+              ],
+              "imageCount": 1,
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=ThcHUi771cw&t=72s"
+              ]
+            },
+            {
+              "index": 4,
+              "title": "Toy: high balcony outside power",
+              "bodySha256": "0c43d0ba2a170901ac1f723203d11c48ac56bb62cbb4e9c6c5b065d8f5e14d55",
+              "canonicalStepSha256": "a1e80120b8860222fc85ed0307653028677d47e48ade4f9f8c77ad64be4ac54c",
+              "status": "source_supported_not_retail_replay_tested",
+              "evidence": [
+                "https://www.youtube.com/watch?v=ThcHUi771cw&t=101s"
+              ],
+              "imageCount": 1,
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=ThcHUi771cw&t=101s"
+              ]
+            },
+            {
+              "index": 5,
+              "title": "Toy: left cooling vat beside Teleporter B",
+              "bodySha256": "1020876302e0f2c63e1df2b5add913fc016d0ef1c726bdd32e636565d023dda9",
+              "canonicalStepSha256": "542b182eb1979667594672a0b7cef6cf77b4015e889b90b6701d671e78cfcc5e",
+              "status": "source_supported_not_retail_replay_tested",
+              "evidence": [
+                "https://www.youtube.com/watch?v=ThcHUi771cw&t=121s"
+              ],
+              "imageCount": 1,
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=ThcHUi771cw&t=121s"
+              ]
+            },
+            {
+              "index": 6,
+              "title": "Confirm all three toys were hit",
+              "bodySha256": "3dd523b264a7ee665419fdb6bc003d3cf67f53cbc89195695d8746ad8c1d8893",
+              "canonicalStepSha256": "6e91f14038e973e2233385ec289d59c7d0a4e81fa0da1da8f8422bf786338a61",
+              "status": "source_supported_not_retail_replay_tested",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+              ],
+              "imageCount": 0,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+              ]
+            },
+            {
+              "index": 7,
+              "title": "Collect from the lit Garage furnace",
+              "bodySha256": "2be4033f9e3c94c598046ebc45c56012c59c1a91b7083b3f8b82287ef2dc49de",
+              "canonicalStepSha256": "d65c8bad6bc5fa50f37b6e519277de1ab0b1bba2fd38a0a773062354ce51e388",
+              "status": "source_supported_not_retail_replay_tested",
+              "evidence": [
+                "https://www.youtube.com/watch?v=ThcHUi771cw&t=188s"
+              ],
+              "imageCount": 1,
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=ThcHUi771cw&t=188s"
+              ]
+            }
+          ],
+          "requirementsAndRewardReviewed": true,
+          "imageReview": {
+            "inlineImageCount": 5,
+            "selectedNewImageCount": 5,
+            "status": "Researcher inspected selected native frames and retained radio photos; no generated game imagery."
+          },
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/wiki/the-giant/",
+            "https://www.youtube.com/watch?v=ThcHUi771cw"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-the-giant-garage-audio",
+      "mapId": "bo3-the-giant",
+      "reviews": [
+        {
+          "batch": "bo3-giant-quests-weapons-and-native-locations",
+          "reportedStatus": "BO3 route source-compared and native images reviewed within recorded limits; not independently playtested",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Original authored helper; requirements, reward, steps, companion links and selected native photos checked."
+          ],
+          "unverified": [
+            "No independent retail replay; no claim of exhaustive map, current-patch or all-platform behavior."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": [
+            {
+              "index": 1,
+              "title": "Listen by the back barrier",
+              "bodySha256": "9de204bcac25ad1418e50b3ba52eab6f6f83b244575ee3c7b551b1b363099b98",
+              "canonicalStepSha256": "37c8e5154b8544cb60f9d8d974ae2dceeec1a8f8e3926ed4ae439b692d8028ee",
+              "status": "source_supported_not_retail_replay_tested",
+              "evidence": [
+                "https://www.codzombieguides.com/the-giant#samanthacrying"
+              ],
+              "imageCount": 1,
+              "evidenceUrls": [
+                "https://www.codzombieguides.com/the-giant#samanthacrying"
+              ]
+            },
+            {
+              "index": 2,
+              "title": "Throw a Monkey into the lit furnace",
+              "bodySha256": "299ebb1e7b1382ee2425aa5cba7c3dd9df5a1ebb3f83820099b2f10fe366d3cc",
+              "canonicalStepSha256": "2eb2da8bf0ecc82556b281914283f77963d2a4b8bd73b7623c587dd0e1f342d9",
+              "status": "source_supported_not_retail_replay_tested",
+              "evidence": [
+                "https://www.youtube.com/watch?v=WRh_bqE7V_A&t=875s"
+              ],
+              "imageCount": 1,
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=WRh_bqE7V_A&t=875s"
+              ]
+            }
+          ],
+          "requirementsAndRewardReviewed": true,
+          "imageReview": {
+            "inlineImageCount": 2,
+            "selectedNewImageCount": 2,
+            "status": "Researcher inspected selected native frames and retained radio photos; no generated game imagery."
+          },
+          "evidenceUrls": [
+            "https://www.codzombieguides.com/the-giant",
+            "https://www.reddit.com/r/CODZombies/comments/g8orbw/",
+            "https://www.reddit.com/r/CODZombies/wiki/the-giant/",
+            "https://www.youtube.com/watch?v=WRh_bqE7V_A"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-the-giant-music",
+      "mapId": "bo3-the-giant",
+      "reviews": [
+        {
+          "batch": "bo3-giant-quests-weapons-and-native-locations",
+          "reportedStatus": "BO3 route source-compared and native images reviewed within recorded limits; not independently playtested",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Three jar locations and any-order Interact trigger.",
+            "Jump/hold at high shelf, three confirmation cues and one playback per match.",
+            "BO3 remix scope; no lyrics or WaW-only song trigger imported."
+          ],
+          "wholeGuideTextRead": true,
+          "allExistingStepsRead": true,
+          "originalStepCount": 3,
+          "stepChecks": [
+            {
+              "index": 1,
+              "title": "Kuda room — high shelf",
+              "bodySha256": "74a7fed87bb4207c73297a2e0732650fd7c4def7f09bd9712d8cc6b28e835f6e",
+              "canonicalStepSha256": "d8aab7bab9c2c2c494023f9983e077731b6bdadc2d88aba50329059f8c70cd25",
+              "status": "source_supported_not_retail_replay_tested",
+              "evidence": [
+                "https://www.youtube.com/watch?v=OcykYUJQi1I&t=10s"
+              ],
+              "imageCount": 1,
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=OcykYUJQi1I&t=10s"
+              ]
+            },
+            {
+              "index": 2,
+              "title": "Kuda room — opposite table",
+              "bodySha256": "b582d73dfad2babcb668e60b4f666734d872d84218b4dae00c4f1f75474691b6",
+              "canonicalStepSha256": "6d9e6f1b04590d9a2986241f713022eccdea2466c3d066ed806140061104a5b5",
+              "status": "source_supported_not_retail_replay_tested",
+              "evidence": [
+                "https://www.youtube.com/watch?v=OcykYUJQi1I&t=25s"
+              ],
+              "imageCount": 1,
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=OcykYUJQi1I&t=25s"
+              ]
+            },
+            {
+              "index": 3,
+              "title": "Teleporter B — specimen table",
+              "bodySha256": "ad3091e6c14bc6f47de27911e391692fb46747b5ce5c51a3a0fe1707170675a6",
+              "canonicalStepSha256": "b0bc3f6113d328b7eba7d0f4e11b464119925f0f7504d00023a2fe67ed35a119",
+              "status": "source_supported_not_retail_replay_tested",
+              "evidence": [
+                "https://www.youtube.com/watch?v=OcykYUJQi1I&t=34s"
+              ],
+              "imageCount": 1,
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=OcykYUJQi1I&t=34s"
+              ]
+            }
+          ],
+          "requirementsAndRewardReviewed": true,
+          "imageReview": {
+            "inlineImageCount": 3,
+            "selectedNewImageCount": 3,
+            "status": "Researcher inspected selected native frames and retained radio photos; no generated game imagery."
+          },
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/wiki/the-giant/",
+            "https://www.youtube.com/watch?v=OcykYUJQi1I"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-the-giant-perk-machine-bonus",
+      "mapId": "bo3-the-giant",
+      "reviews": [
+        {
+          "batch": "bo3-giant-quests-weapons-and-native-locations",
+          "reportedStatus": "BO3 route source-compared and native images reviewed within recorded limits; not independently playtested",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Original authored helper; requirements, reward, steps, companion links and selected native photos checked."
+          ],
+          "unverified": [
+            "No independent retail replay; no claim of exhaustive map, current-patch or all-platform behavior."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": [
+            {
+              "index": 1,
+              "title": "Lie down directly in front",
+              "bodySha256": "9aab0211882cf14f9e5646c70137f76665e5703b19482fbb1861c85fd6ba3a62",
+              "canonicalStepSha256": "db862b7bfe3a4c922134155fa4c6455f2c7045a2c24d442841a441ac8e0747ce",
+              "status": "source_supported_not_retail_replay_tested",
+              "evidence": [
+                "https://www.codzombieguides.com/the-giant#100freepointsfromperkmachines"
+              ],
+              "imageCount": 1,
+              "evidenceUrls": [
+                "https://www.codzombieguides.com/the-giant#100freepointsfromperkmachines"
+              ]
+            },
+            {
+              "index": 2,
+              "title": "Check the other machines",
+              "bodySha256": "a59f624d864b011ef9884e2cf5a7999ab6ec084aff015513c240c8dd956f490c",
+              "canonicalStepSha256": "8764601f0ded768783928c85ae8a7145d1b96d58cf9da7287d5e0ef2cad1affd",
+              "status": "source_supported_not_retail_replay_tested",
+              "evidence": [
+                "https://www.codzombieguides.com/the-giant#100freepointsfromperkmachines"
+              ],
+              "imageCount": 0,
+              "evidenceUrls": [
+                "https://www.codzombieguides.com/the-giant#100freepointsfromperkmachines"
+              ]
+            }
+          ],
+          "requirementsAndRewardReviewed": true,
+          "imageReview": {
+            "inlineImageCount": 1,
+            "selectedNewImageCount": 1,
+            "status": "Researcher inspected selected native frames and retained radio photos; no generated game imagery."
+          },
+          "evidenceUrls": [
+            "https://www.codzombieguides.com/the-giant",
+            "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-the-giant-radio-locations",
+      "mapId": "bo3-the-giant",
+      "reviews": [
+        {
+          "batch": "bo3-giant-quests-weapons-and-native-locations",
+          "reportedStatus": "BO3 route source-compared and native images reviewed within recorded limits; not independently playtested",
+          "independentlyPlaytested": false,
+          "checks": [
+            "All eight receiver locations and their existing photos.",
+            "Receivers 1–5 shared; receiver 6 bridge/Richtofen/Nikolai, 7 broken floor/Richtofen/Dempsey, 8 platform rail/Richtofen/Takeo.",
+            "Retained HTML source image immediately precedes its character-specific message; native pixels match the corrected landmark.",
+            "Hold Interact and allow one recording to finish."
+          ],
+          "unverified": [
+            "Audio was not independently replayed as all four characters in a retail game; character conditions are the retained creator’s firsthand documentation."
+          ],
+          "wholeGuideTextRead": true,
+          "allExistingStepsRead": true,
+          "originalStepCount": 8,
+          "stepChecks": [
+            {
+              "index": 1,
+              "title": "Mainframe courtyard",
+              "bodySha256": "c6811ad3fe173a3bb3c5d1d627a843cbd3f9d79ff04a08208091c8176f675cab",
+              "canonicalStepSha256": "a81fec1d6d0689bc7b40bff44a836ca74f5df36d5aad6fe513b8c5cdcfdd3392",
+              "status": "source_supported_not_retail_replay_tested",
+              "evidence": [
+                "https://steamcommunity.com/sharedfiles/filedetails/?id=587512788"
+              ],
+              "imageCount": 1,
+              "evidenceUrls": [
+                "https://steamcommunity.com/sharedfiles/filedetails/?id=587512788"
+              ]
+            },
+            {
+              "index": 2,
+              "title": "Teleporter A stairs",
+              "bodySha256": "5b8c2ea1f11852be5d628204b8837193360c0b0293dcdf41a4db53e7691d3d89",
+              "canonicalStepSha256": "3c049a3c81d51ba050a04f97fb9b8f6ec128fb35485f500e6d743a2abd80f1dd",
+              "status": "source_supported_not_retail_replay_tested",
+              "evidence": [
+                "https://steamcommunity.com/sharedfiles/filedetails/?id=587512788"
+              ],
+              "imageCount": 1,
+              "evidenceUrls": [
+                "https://steamcommunity.com/sharedfiles/filedetails/?id=587512788"
+              ]
+            },
+            {
+              "index": 3,
+              "title": "Furnace Room",
+              "bodySha256": "256240abaca868f24218cab232e8272dcc87700e0cf086e56594ab696f08d096",
+              "canonicalStepSha256": "5f84d13d76aa6ec1f74749b84cbc38502d8f2315614995fae605623cdc70d7ba",
+              "status": "source_supported_not_retail_replay_tested",
+              "evidence": [
+                "https://steamcommunity.com/sharedfiles/filedetails/?id=587512788"
+              ],
+              "imageCount": 1,
+              "evidenceUrls": [
+                "https://steamcommunity.com/sharedfiles/filedetails/?id=587512788"
+              ]
+            },
+            {
+              "index": 4,
+              "title": "Teleporter B",
+              "bodySha256": "708e7327cd6198341db5ae83b4f6778fc72178c7aec444b9c1e99581a6cb2f8c",
+              "canonicalStepSha256": "dfee18c968476c3bc2beee16acdf307a0f97785500e93b7003ded7617c00fe94",
+              "status": "source_supported_not_retail_replay_tested",
+              "evidence": [
+                "https://steamcommunity.com/sharedfiles/filedetails/?id=587512788"
+              ],
+              "imageCount": 1,
+              "evidenceUrls": [
+                "https://steamcommunity.com/sharedfiles/filedetails/?id=587512788"
+              ]
+            },
+            {
+              "index": 5,
+              "title": "Animal Testing",
+              "bodySha256": "4ca736533d8c50122aab0f98b090b4af59285a3f6020f0c743f1b252035f7821",
+              "canonicalStepSha256": "d808a847946729895c12fb7522d7eebd41542522dc4fa4f30d58ce6d9da5bdfe",
+              "status": "source_supported_not_retail_replay_tested",
+              "evidence": [
+                "https://steamcommunity.com/sharedfiles/filedetails/?id=587512788"
+              ],
+              "imageCount": 1,
+              "evidenceUrls": [
+                "https://steamcommunity.com/sharedfiles/filedetails/?id=587512788"
+              ]
+            },
+            {
+              "index": 6,
+              "title": "Upstairs bridge",
+              "bodySha256": "3dafe3567f6749fd001d2329dc1f30064a0b5a6baa616b068229c070e6787346",
+              "canonicalStepSha256": "20fa3fc08f08932d3b4895d41f4e4716f438d393aa350996046a12a13b682b6b",
+              "status": "source_supported_not_retail_replay_tested",
+              "evidence": [
+                "https://steamcommunity.com/sharedfiles/filedetails/?id=587512788"
+              ],
+              "imageCount": 1,
+              "evidenceUrls": [
+                "https://steamcommunity.com/sharedfiles/filedetails/?id=587512788"
+              ]
+            },
+            {
+              "index": 7,
+              "title": "Broken floor by Teleporter C",
+              "bodySha256": "1a147282ab9fc6f4ec5d13eb5c71e7969c067b0f896c3696795178fb04a31f2f",
+              "canonicalStepSha256": "d4dd87e4972c71c6cc85fe4fb8442f60237ce1da85a983dfa0dcf1063497d010",
+              "status": "source_supported_not_retail_replay_tested",
+              "evidence": [
+                "https://steamcommunity.com/sharedfiles/filedetails/?id=587512788"
+              ],
+              "imageCount": 1,
+              "evidenceUrls": [
+                "https://steamcommunity.com/sharedfiles/filedetails/?id=587512788"
+              ]
+            },
+            {
+              "index": 8,
+              "title": "Teleporter C platform rail",
+              "bodySha256": "fa287d719310c1558da88b0874b2fa600afa14ac8e53d0cb81ba4b559864552e",
+              "canonicalStepSha256": "a0c26f3c3f2f2adb7be1bad1bf68a6721b48732c7358795c3572c304b2d67245",
+              "status": "source_supported_not_retail_replay_tested",
+              "evidence": [
+                "https://steamcommunity.com/sharedfiles/filedetails/?id=587512788"
+              ],
+              "imageCount": 1,
+              "evidenceUrls": [
+                "https://steamcommunity.com/sharedfiles/filedetails/?id=587512788"
+              ]
+            }
+          ],
+          "requirementsAndRewardReviewed": true,
+          "imageReview": {
+            "inlineImageCount": 9,
+            "selectedNewImageCount": 0,
+            "status": "Researcher inspected selected native frames and retained radio photos; no generated game imagery."
+          },
+          "evidenceUrls": [
+            "https://steamcommunity.com/sharedfiles/filedetails/?id=587512788",
+            "https://www.reddit.com/r/CODZombies/wiki/the-giant/",
+            "https://www.youtube.com/watch?v=PTPcbdAwbYw"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-the-giant-ray-gun",
+      "mapId": "bo3-the-giant",
+      "reviews": [
+        {
+          "batch": "bo3-giant-quests-weapons-and-native-locations",
+          "reportedStatus": "BO3 route source-compared and native images reviewed within recorded limits; not independently playtested",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Original authored helper; requirements, reward, steps, companion links and selected native photos checked."
+          ],
+          "unverified": [
+            "No independent retail replay; no claim of exhaustive map, current-patch or all-platform behavior."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": [
+            {
+              "index": 1,
+              "title": "Obtain the Ray Gun from the Box",
+              "bodySha256": "cf0ef51f8ab8b9be7d4cb6a3de055d600254ca9b89dde7a02625d8c8cbd07fb9",
+              "canonicalStepSha256": "5076d41c13a8a33108065a6923d70481fb951675aa74bb0f85e44e15c787ecf8",
+              "status": "source_supported_not_retail_replay_tested",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+              ],
+              "imageCount": 0,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+              ]
+            },
+            {
+              "index": 2,
+              "title": "Upgrade at the Mainframe",
+              "bodySha256": "68f0b2a27bdb1740125d3a844e1a74ee22cdad62c312d509b73c296317bf795b",
+              "canonicalStepSha256": "a8017ffafb88accd5f616d199f05837d432fbc51b4e699bbcb16ea3fb3fe22fc",
+              "status": "source_supported_not_retail_replay_tested",
+              "evidence": [
+                "https://www.youtube.com/watch?v=operoed5H0Y&t=10s"
+              ],
+              "imageCount": 1,
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=operoed5H0Y&t=10s"
+              ]
+            },
+            {
+              "index": 3,
+              "title": "Keep space from the blast",
+              "bodySha256": "c225693c161d97c2525412c8e051b66af00eeed59ac1825322e4214cd66ee1eb",
+              "canonicalStepSha256": "14baf4f220570ad6755391c4073f9ea95c511b99c6392b209d8a4ec76a69417d",
+              "status": "source_supported_not_retail_replay_tested",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+              ],
+              "imageCount": 0,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+              ]
+            }
+          ],
+          "requirementsAndRewardReviewed": true,
+          "imageReview": {
+            "inlineImageCount": 1,
+            "selectedNewImageCount": 1,
+            "status": "Researcher inspected selected native frames and retained radio photos; no generated game imagery."
+          },
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/wiki/the-giant/",
+            "https://www.youtube.com/watch?v=operoed5H0Y"
           ]
         }
       ]
@@ -46317,6 +48335,97 @@
       ]
     },
     {
+      "id": "coldwar-outbreak-intel-collection",
+      "mapId": "coldwar-outbreak",
+      "reviews": [
+        {
+          "batch": "coldwar-outbreak-launch-artifacts-and-collection-methods",
+          "reportedStatus": "Launch artifacts / collection methods source-reviewed within recorded limits",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Parent read the complete proposed launch route and helper, source-depth records, ten unresolved boundaries, and individually viewed all thirteen final images. Eight later seasonal cards receive navigation links only."
+          ],
+          "unverified": [
+            "Eight later-release cards (87 inherited chapters) were read in full for census and navigation only. Their physical pickups, all faction radios, quest records, image gaps and current-build behavior are not newly fact-certified.",
+            "Reusable Requiem / Omega / Maxis radio floor / access routes across all regions still need a dedicated firsthand pass. Some inherited lists say “same locations” and the Season 2 Reloaded Maxis chapter has no Ruka address. The new helper does not claim to supply these routes.",
+            "Special / elite and golden-chest document methods are supported. Exact current regional / match caps, enemy-specific limits, drop rates and co-op distribution remain unresolved; the helper avoids a numeric document-cap promise.",
+            "Region difficulty 2 and a three-Trial-intel match plan have community support. They are not a current-retail / offline / special-playlist certification. Multiple intel can be collected from one Trial; do not mistake the match plan for three Trial tasks.",
+            "Collectors report Intel icons / Legendary gear without another record when the available Trial pool or match limit is exhausted. A single failed reward does not prove a specific permanent bug or a guaranteed fix.",
+            "The guide supports original 1–4-player Outbreak, but per-player versus shared artifact credit / pickup visibility and current co-op count distribution were not independently tested. Check each account’s own Intel record.",
+            "Selected footage is February 26, 2021. It includes a now-obsolete /25 launch counter and the old Defend Zombie Head chapter. The source’s March 4 update removes that head from tracked intel; the payload lists eleven field artifacts, not twelve.",
+            "Native source description / date / chapters and selected location frames reviewed. Native subtitles unavailable; no transcript or full audio account claimed. Every movement of the continuous six-minute route was not independently watched, nor was any jump reproduced in game.",
+            "Some selected frames show access context or the surface immediately after collection (Bunny bed / church ledge / Canister banner), rather than the object still present. Captions and manifest distinguish this; no claim of a current-build screenshot.",
+            "No gameplay test or complete Outbreak intel / lore census certification. The bounded artifact route is source-backed; later-release typos / exact names such as Jaeger’s “ID Bade” remain candidates for direct in-game confirmation."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": [
+            {
+              "index": 1,
+              "title": "Check the missing record’s method",
+              "canonicalStepSha256": "ec2bdc951996ef1c4391415dc2aec662221076b6164c7f9c29ef6e8c0defc981",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/ngj7vh/"
+              ],
+              "status": "Documentary source review; not independently playtested"
+            },
+            {
+              "index": 2,
+              "title": "Collect a special / elite document drop",
+              "canonicalStepSha256": "5cc0d466b8746d0d2eeee952c88328d662ba82d9b047e4722616f9e78b298f36",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/lrllwd/"
+              ],
+              "status": "Documentary source review; not independently playtested"
+            },
+            {
+              "index": 3,
+              "title": "Inspect golden-chest rewards",
+              "canonicalStepSha256": "54e1f08fbc768d8106947f62f6df14de97f3f60f6c656fda286f8c669c459d0a",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/ngj7vh/"
+              ],
+              "status": "Documentary source review; not independently playtested"
+            },
+            {
+              "index": 4,
+              "title": "Start a folder-marked Trial",
+              "canonicalStepSha256": "d418ce612683a1f030a5bf8d05f074d308daf4db3465f7e7679cba3a24089c27",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/qmb7d4/"
+              ],
+              "status": "Documentary source review; not independently playtested"
+            },
+            {
+              "index": 5,
+              "title": "Claim Intel at the computer",
+              "canonicalStepSha256": "ebe4d3470539f6194bbdacd23861c9cb92283c65fe3b2fa12b7354f3a8d3ce7b",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/blackopscoldwar/comments/m2op7z/"
+              ],
+              "status": "Documentary source review; not independently playtested"
+            },
+            {
+              "index": 6,
+              "title": "Track intel separately from gear",
+              "canonicalStepSha256": "a9177449d3c83b222b4143fe52a6f7ebb8ba4a942c2d9cc277b1d4f59c471a85",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/11v0rv2/"
+              ],
+              "status": "Documentary source review; not independently playtested"
+            }
+          ],
+          "requirementsAndRewardReviewed": true,
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/11v0rv2/",
+            "https://www.reddit.com/r/CODZombies/comments/lrllwd/",
+            "https://www.reddit.com/r/CODZombies/comments/ngj7vh/",
+            "https://www.reddit.com/r/CODZombies/comments/qmb7d4/",
+            "https://www.reddit.com/r/blackopscoldwar/comments/m2op7z/"
+          ]
+        }
+      ]
+    },
+    {
       "id": "coldwar-outbreak-intel-season-2",
       "mapId": "coldwar-outbreak",
       "reviews": [
@@ -46336,6 +48445,171 @@
           ],
           "evidenceUrls": [
             "https://www.reddit.com/r/CODZombies/comments/lrllwd/"
+          ]
+        },
+        {
+          "batch": "coldwar-outbreak-launch-artifacts-and-collection-methods",
+          "reportedStatus": "Launch artifacts / collection methods source-reviewed within recorded limits",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Parent read the complete proposed launch route and helper, source-depth records, ten unresolved boundaries, and individually viewed all thirteen final images. Eight later seasonal cards receive navigation links only."
+          ],
+          "unverified": [
+            "Eight later-release cards (87 inherited chapters) were read in full for census and navigation only. Their physical pickups, all faction radios, quest records, image gaps and current-build behavior are not newly fact-certified.",
+            "Reusable Requiem / Omega / Maxis radio floor / access routes across all regions still need a dedicated firsthand pass. Some inherited lists say “same locations” and the Season 2 Reloaded Maxis chapter has no Ruka address. The new helper does not claim to supply these routes.",
+            "Special / elite and golden-chest document methods are supported. Exact current regional / match caps, enemy-specific limits, drop rates and co-op distribution remain unresolved; the helper avoids a numeric document-cap promise.",
+            "Region difficulty 2 and a three-Trial-intel match plan have community support. They are not a current-retail / offline / special-playlist certification. Multiple intel can be collected from one Trial; do not mistake the match plan for three Trial tasks.",
+            "Collectors report Intel icons / Legendary gear without another record when the available Trial pool or match limit is exhausted. A single failed reward does not prove a specific permanent bug or a guaranteed fix.",
+            "The guide supports original 1–4-player Outbreak, but per-player versus shared artifact credit / pickup visibility and current co-op count distribution were not independently tested. Check each account’s own Intel record.",
+            "Selected footage is February 26, 2021. It includes a now-obsolete /25 launch counter and the old Defend Zombie Head chapter. The source’s March 4 update removes that head from tracked intel; the payload lists eleven field artifacts, not twelve.",
+            "Native source description / date / chapters and selected location frames reviewed. Native subtitles unavailable; no transcript or full audio account claimed. Every movement of the continuous six-minute route was not independently watched, nor was any jump reproduced in game.",
+            "Some selected frames show access context or the surface immediately after collection (Bunny bed / church ledge / Canister banner), rather than the object still present. Captions and manifest distinguish this; no claim of a current-build screenshot.",
+            "No gameplay test or complete Outbreak intel / lore census certification. The bounded artifact route is source-backed; later-release typos / exact names such as Jaeger’s “ID Bade” remain candidates for direct in-game confirmation."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": [
+            {
+              "index": 1,
+              "title": "Alpine: Frost Blast Canister",
+              "canonicalStepSha256": "87aa19082c50b0ecdfdf43d8af969bc07c7e00da78fda861c8a6600db3bf44f3",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/lrllwd/"
+              ],
+              "status": "Documentary source review; not independently playtested"
+            },
+            {
+              "index": 2,
+              "title": "Alpine: Mystery Box Bunny",
+              "canonicalStepSha256": "0b51e0ffd7d6731dadfa92341621ec71dff2069f8c2015cf08f9848b258cadbd",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/lrllwd/"
+              ],
+              "status": "Documentary source review; not independently playtested"
+            },
+            {
+              "index": 3,
+              "title": "Alpine: Empty Juggernog",
+              "canonicalStepSha256": "51d84f3503785429f82de9942c0c3d7abb8e6155abcd378cd109dc3665f61d5a",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/lrllwd/"
+              ],
+              "status": "Documentary source review; not independently playtested"
+            },
+            {
+              "index": 4,
+              "title": "Golova: Aetherium Canister",
+              "canonicalStepSha256": "0ba2fb65dc597813fee6ff501c0b93ab3a6d2ecba00d0a1447b8745dbf4065e7",
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=hGGBRlS4ly0&t=280s"
+              ],
+              "status": "Documentary source review; not independently playtested"
+            },
+            {
+              "index": 5,
+              "title": "Golova: Endstation Video Tape",
+              "canonicalStepSha256": "b9681493c3fceaf6d40d9bbd098abbb0d28acb41a8504d28621622eed755d042",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/lrllwd/"
+              ],
+              "status": "Documentary source review; not independently playtested"
+            },
+            {
+              "index": 6,
+              "title": "Golova: Maxis BND Badge",
+              "canonicalStepSha256": "d0817b13bc6ddaaecdb3252b490769412bf28601bc81091fcd30e15ff957f2e3",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/lrllwd/"
+              ],
+              "status": "Documentary source review; not independently playtested"
+            },
+            {
+              "index": 7,
+              "title": "Golova: Cymbal Monkey Toy",
+              "canonicalStepSha256": "d209cfde8631474283d594a0a77d0c92d8511bcd8863833e94089a3648250c86",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/lrllwd/"
+              ],
+              "status": "Documentary source review; not independently playtested"
+            },
+            {
+              "index": 8,
+              "title": "Ruka: Aetherium Crystal Shard",
+              "canonicalStepSha256": "fdd2a6be6de66dd9a88e31d60c3c650e2cd80d6e518bbbfc82dd2c1ec9b368d5",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/lrllwd/"
+              ],
+              "status": "Documentary source review; not independently playtested"
+            },
+            {
+              "index": 9,
+              "title": "Ruka: Kravchenko’s Knife",
+              "canonicalStepSha256": "f9ad758d6443c864ddc077bd4d5e0ae1a63fbc533915eef6df233b611da9c12f",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/lrllwd/"
+              ],
+              "status": "Documentary source review; not independently playtested"
+            },
+            {
+              "index": 10,
+              "title": "Ruka: Omega Group Patch",
+              "canonicalStepSha256": "fb808fcefd3568aab12f02ca3d57b3d76c31e79e36644fec036c631329f48921",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/lrllwd/"
+              ],
+              "status": "Documentary source review; not independently playtested"
+            },
+            {
+              "index": 11,
+              "title": "Ruka: Ivan’s Head",
+              "canonicalStepSha256": "9389f4e48235b310aa04f86fb618779f0806f8c7951d269d53ee0d2bd88bfb4f",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/lrllwd/"
+              ],
+              "status": "Documentary source review; not independently playtested"
+            },
+            {
+              "index": 12,
+              "title": "Requiem: documents",
+              "canonicalStepSha256": "ffc77410b341f41624ec0c7ab8c8b9d4cd21210b35b6fb5d35de62d909dee7f0",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/lrllwd/"
+              ],
+              "status": "Documentary source review; not independently playtested"
+            },
+            {
+              "index": 13,
+              "title": "Omega: documents",
+              "canonicalStepSha256": "d8aa377726eaf0beb49ecc481919ae1cdcec2489124ea769f532275b455dc21c",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/lrllwd/"
+              ],
+              "status": "Documentary source review; not independently playtested"
+            },
+            {
+              "index": 14,
+              "title": "Maxis: documents",
+              "canonicalStepSha256": "1f77955d3ea5eb1a4208fa3639ee16d4c5f60d6cffb5401d533be826d2d0490d",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/lrllwd/"
+              ],
+              "status": "Documentary source review; not independently playtested"
+            },
+            {
+              "index": 15,
+              "title": "Dark Aether: documents",
+              "canonicalStepSha256": "090d396af35d419e42577c20362274585f8a9a93aecb92672ceb704f679baf16",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/lrllwd/"
+              ],
+              "status": "Documentary source review; not independently playtested"
+            }
+          ],
+          "requirementsAndRewardReviewed": true,
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/lrllwd/",
+            "https://www.reddit.com/r/CODZombies/comments/qmb7d4/",
+            "https://www.reddit.com/r/blackopscoldwar/comments/m2op7z/",
+            "https://www.youtube.com/watch?v=hGGBRlS4ly0"
           ]
         }
       ]
@@ -58600,12 +60874,9 @@
     "bo3-revelations-community-revelations-special-weapons-ragnarok-dg-4",
     "bo3-revelations-community-revelations-special-weapons-thundergun",
     "bo3-revelations-community-revelations-special-weapons-thundergun-upgrade",
-    "bo3-shadows-of-evil-community-shadows-of-evil-buildables-apothicon-servant",
     "bo3-shadows-of-evil-community-shadows-of-evil-buildables-rocket-shield",
     "bo3-shadows-of-evil-community-shadows-of-evil-buildables-unlocking-civil-protector",
-    "bo3-shadows-of-evil-community-shadows-of-evil-buildables-upgraded-shield-goddard-apparatus",
     "bo3-shadows-of-evil-community-shadows-of-evil-easter-eggs-quests-500-points-easter-egg",
-    "bo3-shadows-of-evil-community-shadows-of-evil-easter-eggs-quests-cold-hard-cash-music-easter-egg",
     "bo3-shadows-of-evil-community-shadows-of-evil-easter-eggs-quests-free-mega-gobblegum-easter-egg",
     "bo3-shadows-of-evil-community-shadows-of-evil-easter-eggs-quests-jump-scare",
     "bo3-shadows-of-evil-community-shadows-of-evil-easter-eggs-quests-main-easter-egg-2-the-sword-in-the-stone",
@@ -58614,9 +60885,7 @@
     "bo3-shadows-of-evil-community-shadows-of-evil-easter-eggs-quests-main-easter-egg-5-finish-him-4-player-only",
     "bo3-shadows-of-evil-community-shadows-of-evil-easter-eggs-quests-main-quest",
     "bo3-shadows-of-evil-community-shadows-of-evil-easter-eggs-quests-main-quest-1-the-beginning-of-the-end",
-    "bo3-shadows-of-evil-community-shadows-of-evil-easter-eggs-quests-margwa-mask",
     "bo3-shadows-of-evil-community-shadows-of-evil-easter-eggs-quests-noire-mode-filter-easter-egg",
-    "bo3-shadows-of-evil-community-shadows-of-evil-easter-eggs-quests-snakeskin-boots-music-easter-egg",
     "bo3-shadows-of-evil-community-shadows-of-evil-easter-eggs-quests-upgraded-lil-arnies",
     "bo3-shadows-of-evil-community-shadows-of-evil-easter-eggs-quests-upgraded-trip-mines",
     "bo3-shadows-of-evil-community-shadows-of-evil-game-features-mystery-box-locations",
@@ -58635,21 +60904,6 @@
     "bo3-shi-no-numa-community-shi-no-numa-easter-eggs-hidden-song-the-one",
     "bo3-shi-no-numa-community-shi-no-numa-easter-eggs-samantha-s-lullaby-zombies-chronicles",
     "bo3-shi-no-numa-community-shi-no-numa-map-walkthrough-traps",
-    "bo3-the-giant-community-the-giant-easter-eggs-beauty-of-annihilation-remix-music-easter-egg",
-    "bo3-the-giant-community-the-giant-easter-eggs-jump-scare",
-    "bo3-the-giant-community-the-giant-easter-eggs-main-easter-egg",
-    "bo3-the-giant-community-the-giant-easter-eggs-sixth-perk",
-    "bo3-the-giant-community-the-giant-map-walkthrough-dog-rounds",
-    "bo3-the-giant-community-the-giant-map-walkthrough-pack-a-punch",
-    "bo3-the-giant-community-the-giant-map-walkthrough-power",
-    "bo3-the-giant-community-the-giant-map-walkthrough-traps",
-    "bo3-the-giant-community-the-giant-special-weapons-annihilator-pistol",
-    "bo3-the-giant-community-the-giant-special-weapons-monkey-bombs",
-    "bo3-the-giant-community-the-giant-special-weapons-wunderwaffe-dg-2",
-    "bo3-the-giant-community-the-giant-special-weapons-wunderwaffe-dg-2-upgrade",
-    "bo3-the-giant-fly-trap",
-    "bo3-the-giant-music",
-    "bo3-the-giant-radio-locations",
     "bo3-verruckt-community-verruckt-easter-eggs-hidden-song-lullaby-of-a-deadman",
     "bo3-verruckt-community-verruckt-easter-eggs-samantha-s-lullaby-zombies-chronicles",
     "bo3-verruckt-community-verruckt-easter-eggs-screaming-man-ee",
@@ -61504,25 +63758,43 @@
         "coldwar-outbreak"
       ],
       "note": "Fury Crystal, Black Chest and the ordinary purple orb now have expanded event routes; Demented Echo and Omega supply-crate helpers add twelve images. Exact co-op Tool distribution, Black Chest numeric protection/cooldowns, every Echo marker floor and fixed Omega drops remain unresolved. The Echo maps show documented candidates, not guaranteed current-build spawns."
+    },
+    {
+      "mapIds": [
+        "coldwar-outbreak"
+      ],
+      "note": "Launch intel now separates eleven physical artifacts with thirteen historical location/access photos and links document/Trial collection methods. Eight later seasonal cards received navigation links only. Their 87 chapters, complete reusable radio routes, current co-op credit, exact drop limits and retail behavior remain unverified."
+    },
+    {
+      "mapIds": [
+        "bo3-shadows-of-evil"
+      ],
+      "note": "Five cards now have thirty-nine practical chapters and nineteen native pictures: Goddard shield, six-heart Margwa Mask, both songs and the Servant. Twenty-three other inherited cards / main routes are census-read only. Exact mask spawn gate, shield retention/repair edges, song replay rules, full cipher/firearm inventory and every-platform gameplay remain unresolved."
+    },
+    {
+      "mapIds": [
+        "bo3-the-giant"
+      ],
+      "note": "The Giant: all fifteen inherited cards and thirty-five baseline steps were source-compared. Fifteen scoped revisions provide fifty-nine steps; Ray Gun, perk-floor points and Garage audio add three helpers/seven steps and twenty-two native BO3 images. The ordinary firearm roster, Bowie/Trip Mine/GobbleGum edge cases, complete cipher/blueprint/scenery location routes, exact portrait trigger and platform/profile persistence remain unresolved. TG4 local decryption reproduces a published transcription only; original texture authentication and official solve status are not established. No exhaustive or independent retail gameplay certificate."
     }
   ],
   "dataHashFormat": "SHA-256 of UTF-8 JSON files with LF line endings, matching Git and GitHub Pages.",
   "dataSha256": {
     "catalog.json": "1d06d2aa4a42db59b97868073ddbab1d6a33b3ffb4167f2ebe71ceed09eddf2d",
-    "community-corrections.json": "9b21e5e599a6307259a4f839172c930a557452a0cb5f62d834e11d361ddc2ef2",
-    "coverage-gaps.json": "0bcbe83e4e780ce1772078db1cff2badc142bba217fdce88c7438c211b3ed132",
+    "community-corrections.json": "e7f8ebb24c9fa5af2a8d5d1702ae71b470c045808a4966df9a3be482b9ce2d3c",
+    "coverage-gaps.json": "6310a809eb5f1c7843c26b177a55e57b5c6d23cbe13b4f7db6ef3b3cd5064f59",
     "guides-aw.json": "b5a7e5fb7d83e776452f77060d0714c13f63ae8eeb6e367272c0d00a38cc3855",
     "guides-classic.json": "adfcf8a0e55f347da12fc3632c9c04406f3bc65315763f0193aa3be754916f0d",
-    "guides-community.json": "9584b448f7bac9e5fd537c69835521cba84bd506f9efaadbfde043796ab2abe0",
+    "guides-community.json": "fb55e9b24026ee22ed2606a83ef74ffcf9c46400dcea6b709339c77c8f0eb65b",
     "guides-completion-classic.json": "ed538054e7aeb5575de95dc78a345deb25a4111b47049bbd73fd29de06905c7a",
     "guides-completion-modern.json": "9812513da53701a1eaeffceeaebd2dfd92cacf7cb5208c84ab9f2b49cac6af20",
     "guides-completion-modes.json": "7661fccf1e3b1fe4466e8a1f7219706fa1851d6b609c826fa045207810ad3bc5",
     "guides-extra.json": "8e5fe1cccee16df3c91298faa20187f2d39890f2acc074d77487208f2d729165",
-    "guides-goal-classic.json": "1688b3d2eea13ba833df8c44dd9273bda97c03a9a738d75df0da1b69c4cec5b4",
-    "guides-goal-modern.json": "a077eb045683c0202a1337b76d2a8dea4788981c5993aef2f6ddb9402bae9379",
+    "guides-goal-classic.json": "5621ad45c8750da623b7c48c4fbbb023c358c9853375d50d29e2fedba3b176dd",
+    "guides-goal-modern.json": "f41b3c801b1f600012842eaba9260f4a755577a38b9df792b9ee9650361126c2",
     "guides-goal-modes.json": "7d656ffc3b52759d60e4b140e461917319a43dad38e0f7fb200259a4805c3826",
-    "guides-goal-root.json": "47ddbf781c275e0f44ca2b4744362f89ec8f9d45ad5d562c62e9092ac7752674",
-    "guides-modern.json": "15ca124c349ad2b870428cea23435a1b0c0f00419bee1957ffb03efad339351d",
+    "guides-goal-root.json": "07bf0f2fc1b46997a8d02c86cd867f274b26499e0e61081cb77dc7afc09552d1",
+    "guides-modern.json": "c436dc974a03e038f645380100732e4821ddbf307fd145c527fa07ea86d17738",
     "guides-super-ee-doa4.json": "1d038197c8325f946290b8886d95fce8889291c193a5e8ec6f54124033a17a4a",
     "media-completion.json": "58882d44af4bbe2e09648819c06547084fc33caf994cace9122d512163c22366",
     "media.json": "f22bbfebd1a714ffb9a5e4412766591c0f9749d3acc9ba600f7d05892a9bd06d",
@@ -61621,8 +63893,11 @@
       "Rave Deer bow helper opens its related-route disclosure and links to both base Vlad and the shared charged-statuette setup",
       "Outbreak Demented Echo twelve-chapter helper jumps to Armada with focus, twelve direct references and its loaded 1298px candidate map; no desktop overflow",
       "Outbreak Omega helicopter four-chapter helper jumps to the genuine Zoo salvage photo with focus and four direct references; no desktop overflow",
-      "Outbreak Black Chest route displays shared team protection, regional duration and the cooldown qualifier beside its official source reference"
+      "Outbreak Black Chest route displays shared team protection, regional duration and the cooldown qualifier beside its official source reference",
+      "Shadows Margwa Mask fourteen-chapter route jumps to Gym pickup with focus, fourteen direct references and its loaded 863px native photo; Sources shortcut focuses the source panel; no desktop overflow at 1280x720",
+      "Giant hidden-machine six-chapter route jumps to its final purchase chapter with focus, six direct references and its loaded 1242px Deadshot photo; no desktop overflow and the normal-purchase qualifier is visible",
+      "Outbreak launch-intel fifteen-chapter menu renders all eleven separate physical pickups, the corrected Canister title, historical-photo qualifier and four document lists"
     ],
-    "currentBatchResponsiveLimit": "The current in-app browser viewport override did not change the actual 1280x720 viewport. Batch12 desktop checks passed; its narrow-screen recheck remains unverified. Earlier recorded mobile checks retain their original scope."
+    "currentBatchResponsiveLimit": "The in-app browser viewport override did not change the actual 1280x720 viewport during these batches. Current recorded checks are desktop-only; a narrow-screen recheck remains unverified. Earlier recorded mobile checks retain their original scope."
   }
 }

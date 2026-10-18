@@ -484,7 +484,8 @@
     "checked": "2026-10-16",
     "relatedGuideIds": [
       "coldwar-outbreak-legion-main",
-      "coldwar-outbreak-operation-excision"
+      "coldwar-outbreak-operation-excision",
+      "coldwar-outbreak-intel-collection"
     ]
   },
   {
@@ -585,7 +586,8 @@
     "relatedGuideIds": [
       "coldwar-outbreak-legion-main",
       "coldwar-outbreak-operation-excision",
-      "coldwar-outbreak-intel-season-2-reloaded"
+      "coldwar-outbreak-intel-season-2-reloaded",
+      "coldwar-outbreak-intel-collection"
     ]
   },
   {
@@ -681,7 +683,8 @@
     "relatedGuideIds": [
       "coldwar-outbreak-legion-main",
       "coldwar-outbreak-operation-excision",
-      "coldwar-outbreak-intel-season-2-reloaded"
+      "coldwar-outbreak-intel-season-2-reloaded",
+      "coldwar-outbreak-intel-collection"
     ]
   },
   {
@@ -782,7 +785,8 @@
     "relatedGuideIds": [
       "coldwar-outbreak-legion-main",
       "coldwar-outbreak-operation-excision",
-      "coldwar-outbreak-intel-season-2-reloaded"
+      "coldwar-outbreak-intel-season-2-reloaded",
+      "coldwar-outbreak-intel-collection"
     ]
   },
   {
@@ -858,7 +862,8 @@
     "relatedGuideIds": [
       "coldwar-outbreak-legion-main",
       "coldwar-outbreak-operation-excision",
-      "coldwar-outbreak-intel-season-2-reloaded"
+      "coldwar-outbreak-intel-season-2-reloaded",
+      "coldwar-outbreak-intel-collection"
     ]
   },
   {
@@ -954,7 +959,8 @@
     "relatedGuideIds": [
       "coldwar-outbreak-legion-main",
       "coldwar-outbreak-operation-excision",
-      "coldwar-outbreak-intel-season-2-reloaded"
+      "coldwar-outbreak-intel-season-2-reloaded",
+      "coldwar-outbreak-intel-collection"
     ]
   },
   {
@@ -1085,71 +1091,258 @@
     "category": "side",
     "difficulty": "Medium",
     "players": "1–4 players, online; progress is per account",
-    "summary": "A map-specific selection from Ricerat477's firsthand seasonal intel list, with fixed pickup locations and the acquisition methods for repeatable rewards.",
+    "summary": "Eleven launch artifact pickups, grouped by region, followed by the release’s document checklists.",
     "requirements": [
-      "Use Barracks → Intel to check the map, faction and season before looking for a missing entry.",
-      "Follow the companion main-quest / Wonder Weapon routes for entries marked Main EE; physical pickups still require interaction.",
-      "Radio transmissions require new matches to hear the next entries. Check dropped document pickups after special / elite kills; do intel Trials for Dark Aether logs, documents and transmissions."
+      "Use original Black Ops Cold War Standard Outbreak. Check Barracks → Intel for the missing faction, season and record type.",
+      "Collect the physical artifacts when Alpine, Golova or Ruka appears. Keep away from the damaging outer Phase while searching near boundaries.",
+      "Photos date from February 2021; their old /25 counters are historical. Follow the eleven named artifact pickups below.",
+      "Use the linked drops / intel-Trials helper for documents. Later-release logs and reusable radios are in the separate seasonal cards."
     ],
-    "reward": "The listed lore collectibles recorded in Barracks → Intel.",
+    "reward": "The eleven listed field artifacts and the listed document intel entries in your collection.",
     "steps": [
       {
-        "title": "Requiem: documents",
-        "body": "Documents:\n\nLocation: Elite drops. 3 from Firebase, 4 from Outbreak\n\n* \"Operation Threshold Authorization\" (Outbreak)\n\n* \"Domino Effect\" (Outbreak)\n\n* \"Recon Rover Blueprint\" (Outbreak)\n\n* \"Disruptor Satellite Blueprint\"(Outbreak)",
-        "html": "<p>Documents:</p>\r\n<p>Location: Elite drops. 3 from Firebase, 4 from Outbreak</p>\r\n<ul>\r\n<li>&quot;Operation Threshold Authorization&quot; (Outbreak)</li>\r\n<li>&quot;Domino Effect&quot; (Outbreak)</li>\r\n<li>&quot;Recon Rover Blueprint&quot; (Outbreak)</li>\r\n<li>&quot;Disruptor Satellite Blueprint&quot;(Outbreak)</li>\r\n</ul>"
+        "title": "Alpine: Frost Blast Canister",
+        "body": "\"Frost Blast Canister\"-Base Landing on Alpine: Look for the circular ski lift station on the western side of the map near the Lodge and the Pro Shop. Climb on top of the office shed next to the lift station; this will enable you to vault on top of the lift station. The Artifact is on the edge of the red framework for the station (it's specifically on the frontmost framework on the right-hand side when looking straight along the path of the ski lift). (Outbreak)",
+        "html": "<p>&quot;Frost Blast Canister&quot;-Base Landing on Alpine: Look for the circular ski lift station on the western side of the map near the Lodge and the Pro Shop. Climb on top of the office shed next to the lift station; this will enable you to vault on top of the lift station. The Artifact is on the edge of the red framework for the station (it&#39;s specifically on the frontmost framework on the right-hand side when looking straight along the path of the ski lift). (Outbreak)</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lrllwd/",
+        "tip": "You can also parachute onto the framework from a jump pad.",
+        "images": [
+          {
+            "src": "./assets/batch12-outbreak-frost-blast-beam.webp",
+            "alt": "Alpine: chairlift beam.",
+            "caption": "Alpine: chairlift beam.",
+            "credit": "Gameplay / annotation: AC OMEGA; Black Ops Cold War © Activision / Treyarch.",
+            "source": "https://www.youtube.com/watch?v=hGGBRlS4ly0&t=115s"
+          }
+        ]
       },
       {
-        "title": "Requiem: artifacts",
-        "body": "Artifacts:\n\n* \"Frost Blast Canister\"-Base Landing on Alpine: Look for the circular ski lift station on the western side of the map near the Lodge and the Pro Shop. Climb on top of the office shed next to the lift station; this will enable you to vault on top of the lift station. The Artifact is on the edge of the red framework for the station (it's specifically on the frontmost framework on the right-hand side when looking straight along the path of the ski lift). (Outbreak)\n\n* \"Aetherium Container\"- in the Train Loading section of the Golova map. Climb the building, then head toward the red silos via the pipes. The artifact will be at the base of the pipes when you drop down. (Outbreak)\n\n* \"Aetherium Crystal Shard\"- in Ruka, in the burnt forest section, right up against the egde of the map about halfway down. It's on top of a big rock. (Outbreak)",
-        "html": "<p>Artifacts:</p>\r\n<ul>\r\n<li>&quot;Frost Blast Canister&quot;-Base Landing on Alpine: Look for the circular ski lift station on the western side of the map near the Lodge and the Pro Shop. Climb on top of the office shed next to the lift station; this will enable you to vault on top of the lift station. The Artifact is on the edge of the red framework for the station (it&#39;s specifically on the frontmost framework on the right-hand side when looking straight along the path of the ski lift). (Outbreak)</li>\r\n<li>&quot;Aetherium Container&quot;- in the Train Loading section of the Golova map. Climb the building, then head toward the red silos via the pipes. The artifact will be at the base of the pipes when you drop down. (Outbreak)</li>\r\n<li>&quot;Aetherium Crystal Shard&quot;- in Ruka, in the burnt forest section, right up against the egde of the map about halfway down. It&#39;s on top of a big rock. (Outbreak)</li>\r\n</ul>"
+        "title": "Alpine: Mystery Box Bunny",
+        "body": "“Mystery Box Bunny”- on a bed in Base Suites section of the Alpine area. It's the third building from the bottom. (Outbreak)",
+        "html": "<p>“Mystery Box Bunny”- on a bed in Base Suites section of the Alpine area. It&#39;s the third building from the bottom. (Outbreak)</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lrllwd/",
+        "tip": "Look in the upstairs bedroom.",
+        "images": [
+          {
+            "src": "./assets/batch12-outbreak-bunny-cabin.webp",
+            "alt": "Alpine: Base Suites cabin.",
+            "caption": "Alpine: Base Suites cabin.",
+            "credit": "Gameplay / annotation: AC OMEGA; Black Ops Cold War © Activision / Treyarch.",
+            "source": "https://www.youtube.com/watch?v=hGGBRlS4ly0&t=35s"
+          },
+          {
+            "src": "./assets/batch12-outbreak-bunny-bed.webp",
+            "alt": "Alpine: Bunny’s bedroom.",
+            "caption": "Alpine: Bunny’s bedroom.",
+            "credit": "Gameplay / annotation: AC OMEGA; Black Ops Cold War © Activision / Treyarch.",
+            "source": "https://www.youtube.com/watch?v=hGGBRlS4ly0&t=50s"
+          }
+        ]
+      },
+      {
+        "title": "Alpine: Empty Juggernog",
+        "body": "\"Empty Juggernog\"- on the roof of the Large Sauna building in the Alpine area. It's where the Holdout objective takes place. (Outbreak)",
+        "html": "<p>&quot;Empty Juggernog&quot;- on the roof of the Large Sauna building in the Alpine area. It&#39;s where the Holdout objective takes place. (Outbreak)</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lrllwd/",
+        "tip": "Use a jump pad to reach the roof; search beside its chimney.",
+        "images": [
+          {
+            "src": "./assets/batch12-outbreak-empty-juggernog.webp",
+            "alt": "Alpine: can beside chimney.",
+            "caption": "Alpine: can beside chimney.",
+            "credit": "Gameplay / annotation: AC OMEGA; Black Ops Cold War © Activision / Treyarch.",
+            "source": "https://www.youtube.com/watch?v=hGGBRlS4ly0&t=90s"
+          }
+        ]
+      },
+      {
+        "title": "Golova: Aetherium Canister",
+        "body": "At Train Loading, climb the building and cross the pipes toward the red tanks. Drop beside the pipe junction and interact to collect Aetherium Canister.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=hGGBRlS4ly0&t=280s",
+        "images": [
+          {
+            "src": "./assets/batch12-outbreak-aetherium-container-access.webp",
+            "alt": "Golova: Train Loading pipes.",
+            "caption": "Golova: Train Loading pipes.",
+            "credit": "Gameplay / annotation: AC OMEGA; Black Ops Cold War © Activision / Treyarch.",
+            "source": "https://www.youtube.com/watch?v=hGGBRlS4ly0&t=290s"
+          },
+          {
+            "src": "./assets/batch12-outbreak-aetherium-canister.webp",
+            "alt": "Golova: pipe-base collection.",
+            "caption": "Golova: pipe-base collection.",
+            "credit": "Gameplay / annotation: AC OMEGA; Black Ops Cold War © Activision / Treyarch.",
+            "source": "https://www.youtube.com/watch?v=hGGBRlS4ly0&t=285s"
+          }
+        ]
+      },
+      {
+        "title": "Golova: Endstation Video Tape",
+        "body": "“Endstation Video Tape”-Found in a room in Lower East Town on an end table by a bed on Golova (Outbreak)",
+        "html": "<p>“Endstation Video Tape”-Found in a room in Lower East Town on an end table by a bed on Golova (Outbreak)</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lrllwd/",
+        "images": [
+          {
+            "src": "./assets/batch12-outbreak-endstation-tape.webp",
+            "alt": "Golova: bedroom bedside table.",
+            "caption": "Golova: bedroom bedside table.",
+            "credit": "Gameplay / annotation: AC OMEGA; Black Ops Cold War © Activision / Treyarch.",
+            "source": "https://www.youtube.com/watch?v=hGGBRlS4ly0&t=266s"
+          }
+        ]
+      },
+      {
+        "title": "Golova: Maxis BND Badge",
+        "body": "\"Maxis BND Badge\"- on Golova, behind some sandbags, very close to the edge of the map, in the Industrial Park location. (Outbreak)",
+        "html": "<p>&quot;Maxis BND Badge&quot;- on Golova, behind some sandbags, very close to the edge of the map, in the Industrial Park location. (Outbreak)</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lrllwd/",
+        "tip": "Search beneath the sandbags beside the yellow bus.",
+        "images": [
+          {
+            "src": "./assets/batch12-outbreak-maxis-bnd-badge.webp",
+            "alt": "Golova: badge below sandbags.",
+            "caption": "Golova: badge below sandbags.",
+            "credit": "Gameplay / annotation: AC OMEGA; Black Ops Cold War © Activision / Treyarch.",
+            "source": "https://www.youtube.com/watch?v=hGGBRlS4ly0&t=345s"
+          }
+        ]
+      },
+      {
+        "title": "Golova: Cymbal Monkey Toy",
+        "body": "\"Cymbal Monkey Toy\"- on the church in Golova. Climb the scaffolding in the middle of the church, then jump out onto the roof. The artifact is one the leftmost tower.(Outbreak)",
+        "html": "<p>&quot;Cymbal Monkey Toy&quot;- on the church in Golova. Climb the scaffolding in the middle of the church, then jump out onto the roof. The artifact is one the leftmost tower.(Outbreak)</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lrllwd/",
+        "tip": "Use the northwest tower’s outside ledge.",
+        "images": [
+          {
+            "src": "./assets/batch12-outbreak-monkey-toy-ledge.webp",
+            "alt": "Golova: post-pickup roof ledge.",
+            "caption": "Golova: post-pickup roof ledge.",
+            "credit": "Gameplay / annotation: AC OMEGA; Black Ops Cold War © Activision / Treyarch.",
+            "source": "https://www.youtube.com/watch?v=hGGBRlS4ly0&t=325s"
+          }
+        ]
+      },
+      {
+        "title": "Ruka: Aetherium Crystal Shard",
+        "body": "\"Aetherium Crystal Shard\"- in Ruka, in the burnt forest section, right up against the egde of the map about halfway down. It's on top of a big rock. (Outbreak)",
+        "html": "<p>&quot;Aetherium Crystal Shard&quot;- in Ruka, in the burnt forest section, right up against the egde of the map about halfway down. It&#39;s on top of a big rock. (Outbreak)</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lrllwd/",
+        "images": [
+          {
+            "src": "./assets/batch12-outbreak-aetherium-shard.webp",
+            "alt": "Ruka: Burnt Forest shard.",
+            "caption": "Ruka: Burnt Forest shard.",
+            "credit": "Gameplay / annotation: AC OMEGA; Black Ops Cold War © Activision / Treyarch.",
+            "source": "https://www.youtube.com/watch?v=hGGBRlS4ly0&t=175s"
+          }
+        ]
+      },
+      {
+        "title": "Ruka: Kravchenko’s Knife",
+        "body": "\"Kravchenko's Knife\"- Found in the Missile Silos on Ruka: Look for a green lookout tower in the southwest corner of the Missile Silos and climb up the ladder; the artifact will be on the corner of the windowsill to the player's right immediately after climbing the ladder. (Outbreak)",
+        "html": "<p>&quot;Kravchenko&#39;s Knife&quot;- Found in the Missile Silos on Ruka: Look for a green lookout tower in the southwest corner of the Missile Silos and climb up the ladder; the artifact will be on the corner of the windowsill to the player&#39;s right immediately after climbing the ladder. (Outbreak)</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lrllwd/",
+        "images": [
+          {
+            "src": "./assets/batch12-outbreak-kravchenko-knife.webp",
+            "alt": "Ruka: lookout windowsill.",
+            "caption": "Ruka: lookout windowsill.",
+            "credit": "Gameplay / annotation: AC OMEGA; Black Ops Cold War © Activision / Treyarch.",
+            "source": "https://www.youtube.com/watch?v=hGGBRlS4ly0&t=200s"
+          }
+        ]
+      },
+      {
+        "title": "Ruka: Omega Group Patch",
+        "body": "\"Omega Group Patch\" - Found in the obstacle course in Ruka: climb the net, and the patch is on one of the poles the ropes behind the net are attached to. (Outbreak)",
+        "html": "<p>&quot;Omega Group Patch&quot; - Found in the obstacle course in Ruka: climb the net, and the patch is on one of the poles the ropes behind the net are attached to. (Outbreak)</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lrllwd/",
+        "images": [
+          {
+            "src": "./assets/batch12-outbreak-omega-patch-pole.webp",
+            "alt": "Ruka: rope support pole.",
+            "caption": "Ruka: rope support pole.",
+            "credit": "Gameplay / annotation: AC OMEGA; Black Ops Cold War © Activision / Treyarch.",
+            "source": "https://www.youtube.com/watch?v=hGGBRlS4ly0&t=235s"
+          }
+        ]
+      },
+      {
+        "title": "Ruka: Ivan’s Head",
+        "body": "\"Ivan's Head\"- Head to the Train Trestle bridge In Ruka. Go to the rappel point, but instead of rappelling, parachute off the bridge to the telephone pole. The artifact is on top. (Outbreak)",
+        "html": "<p>&quot;Ivan&#39;s Head&quot;- Head to the Train Trestle bridge In Ruka. Go to the rappel point, but instead of rappelling, parachute off the bridge to the telephone pole. The artifact is on top. (Outbreak)</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lrllwd/",
+        "images": [
+          {
+            "src": "./assets/batch12-outbreak-ivans-head.webp",
+            "alt": "Ruka: pole below trestle.",
+            "caption": "Ruka: pole below trestle.",
+            "credit": "Gameplay / annotation: AC OMEGA; Black Ops Cold War © Activision / Treyarch.",
+            "source": "https://www.youtube.com/watch?v=hGGBRlS4ly0&t=145s"
+          }
+        ]
+      },
+      {
+        "title": "Requiem: documents",
+        "body": "Documents:\n\n* \"Operation Threshold Authorization\" (Outbreak)\n\n* \"Domino Effect\" (Outbreak)\n\n* \"Recon Rover Blueprint\" (Outbreak)\n\n* \"Disruptor Satellite Blueprint\"(Outbreak)",
+        "html": "<p>Documents:</p>\r\n<ul>\r\n<li>&quot;Operation Threshold Authorization&quot; (Outbreak)</li>\r\n<li>&quot;Domino Effect&quot; (Outbreak)</li>\r\n<li>&quot;Recon Rover Blueprint&quot; (Outbreak)</li>\r\n<li>&quot;Disruptor Satellite Blueprint&quot;(Outbreak)</li>\r\n</ul>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lrllwd/",
+        "tip": "Check special / elite document drops and use the linked collection helper."
       },
       {
         "title": "Omega: documents",
         "body": "Documents\n\nLocation: Outbreak, Elite Drops.\n\n* \"New Frontiers\"\n\n* \"Omega Staffing Report\"\n\n* \"Omega Records Review\"",
-        "html": "<p>Documents</p>\r\n<p>Location: Outbreak, Elite Drops.</p>\r\n<ul>\r\n<li>&quot;New Frontiers&quot;</li>\r\n<li>&quot;Omega Staffing Report&quot;</li>\r\n<li>&quot;Omega Records Review&quot;</li>\r\n</ul>"
-      },
-      {
-        "title": "Omega: artifacts",
-        "body": "Artifacts\n\n* \"Kravchenko's Knife\"- Found in the Missile Silos on Ruka: Look for a green lookout tower in the southwest corner of the Missile Silos and climb up the ladder; the artifact will be on the corner of the windowsill to the player's right immediately after climbing the ladder. (Outbreak)\n\n* \"Omega Group Patch\" - Found in the obstacle course in Ruka: climb the net, and the patch is on one of the poles the ropes behind the net are attached to. (Outbreak)",
-        "html": "<p>Artifacts</p>\r\n<ul>\r\n<li>&quot;Kravchenko&#39;s Knife&quot;- Found in the Missile Silos on Ruka: Look for a green lookout tower in the southwest corner of the Missile Silos and climb up the ladder; the artifact will be on the corner of the windowsill to the player&#39;s right immediately after climbing the ladder. (Outbreak)</li>\r\n<li>&quot;Omega Group Patch&quot; - Found in the obstacle course in Ruka: climb the net, and the patch is on one of the poles the ropes behind the net are attached to. (Outbreak)</li>\r\n</ul>"
+        "html": "<p>Documents</p>\r\n<p>Location: Outbreak, Elite Drops.</p>\r\n<ul>\r\n<li>&quot;New Frontiers&quot;</li>\r\n<li>&quot;Omega Staffing Report&quot;</li>\r\n<li>&quot;Omega Records Review&quot;</li>\r\n</ul>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lrllwd/",
+        "tip": "Check special / elite document drops and use the linked collection helper."
       },
       {
         "title": "Maxis: documents",
         "body": "Documents\n\nLocation: Outbreak, from Elite Kills\n\n* \"Maxis Status Report\" (Outbreak)\n\n* \"Maxis Diary Entry\" (Outbreak)",
-        "html": "<p>Documents</p>\r\n<p>Location: Outbreak, from Elite Kills</p>\r\n<ul>\r\n<li>&quot;Maxis Status Report&quot; (Outbreak)</li>\r\n<li>&quot;Maxis Diary Entry&quot; (Outbreak)</li>\r\n</ul>"
-      },
-      {
-        "title": "Maxis: artifacts",
-        "body": "Artifacts\n\n* “Endstation Video Tape”-Found in a room in Lower East Town on an end table by a bed on Golova (Outbreak)\n\n* \"Maxis BND Badge\"- on Golova, behind some sandbags, very close to the edge of the map, in the Industrial Park location. (Outbreak)",
-        "html": "<p>Artifacts</p>\r\n<ul>\r\n<li>“Endstation Video Tape”-Found in a room in Lower East Town on an end table by a bed on Golova (Outbreak)</li>\r\n<li>&quot;Maxis BND Badge&quot;- on Golova, behind some sandbags, very close to the edge of the map, in the Industrial Park location. (Outbreak)</li>\r\n</ul>"
+        "html": "<p>Documents</p>\r\n<p>Location: Outbreak, from Elite Kills</p>\r\n<ul>\r\n<li>&quot;Maxis Status Report&quot; (Outbreak)</li>\r\n<li>&quot;Maxis Diary Entry&quot; (Outbreak)</li>\r\n</ul>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lrllwd/",
+        "tip": "Check special / elite document drops and use the linked collection helper."
       },
       {
         "title": "Dark Aether: documents",
         "body": "Documents\n\n* \"Hello Again\" (Outbreak)\n\n* \"Divided World\" (Outbreak)\n\n* \"Trust Me\" (Outbreak)\n\n* \"More To Follow\" (Outbreak)",
         "html": "<p>Documents</p>\r\n<ul>\r\n<li>&quot;Hello Again&quot; (Outbreak)</li>\r\n<li>&quot;Divided World&quot; (Outbreak)</li>\r\n<li>&quot;Trust Me&quot; (Outbreak)</li>\r\n<li>&quot;More To Follow&quot; (Outbreak)</li>\r\n</ul>",
-        "tip": "Earn these through intel Trials and collect the intel at the Trial terminal. This method does not apply to the separate artifact pickups."
-      },
-      {
-        "title": "Dark Aether: artifacts",
-        "body": "Artifacts\n\n* “Mystery Box Bunny”- on a bed in Base Suites section of the Alpine area. It's the third building from the bottom. (Outbreak)\n\n* \"Empty Juggernog\"- on the roof of the Large Sauna building in the Alpine area. It's where the Holdout objective takes place. (Outbreak)\n\n* \"Cymbal Monkey Toy\"- on the church in Golova. Climb the scaffolding in the middle of the church, then jump out onto the roof. The artifact is one the leftmost tower.(Outbreak)\n\n* \"Ivan's Head\"- Head to the Train Trestle bridge In Ruka. Go to the rappel point, but instead of rappelling, parachute off the bridge to the telephone pole. The artifact is on top. (Outbreak)",
-        "html": "<p>Artifacts</p>\r\n<ul>\r\n<li>“Mystery Box Bunny”- on a bed in Base Suites section of the Alpine area. It&#39;s the third building from the bottom. (Outbreak)</li>\r\n<li>&quot;Empty Juggernog&quot;- on the roof of the Large Sauna building in the Alpine area. It&#39;s where the Holdout objective takes place. (Outbreak)</li>\r\n<li>&quot;Cymbal Monkey Toy&quot;- on the church in Golova. Climb the scaffolding in the middle of the church, then jump out onto the roof. The artifact is one the leftmost tower.(Outbreak)</li>\r\n<li>&quot;Ivan&#39;s Head&quot;- Head to the Train Trestle bridge In Ruka. Go to the rappel point, but instead of rappelling, parachute off the bridge to the telephone pole. The artifact is on top. (Outbreak)</li>\r\n</ul>"
+        "tip": "Earn these through intel Trials, then claim the Intel at the Trial Computer. Use the linked drops / Trials helper.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lrllwd/"
       }
     ],
     "sources": [
       {
-        "title": "u/Ricerat477 — seasonal intel list and community location reports",
+        "title": "u/Ricerat477 and firsthand discoverers: launch intel, locations and removed Zombie Head",
         "url": "https://www.reddit.com/r/CODZombies/comments/lrllwd/"
+      },
+      {
+        "title": "AC OMEGA: public native artifact demonstration, February 26, 2021",
+        "url": "https://www.youtube.com/watch?v=hGGBRlS4ly0"
+      },
+      {
+        "title": "u/Paradox949: multiple Outbreak Intel claims from the Trial Computer",
+        "url": "https://www.reddit.com/r/blackopscoldwar/comments/m2op7z/"
+      },
+      {
+        "title": "Outbreak collectors: difficulty 2 intel Trials, three-per-match plan and artifact exception",
+        "url": "https://www.reddit.com/r/CODZombies/comments/qmb7d4/"
       }
     ],
     "sourceQuote": "https://www.reddit.com/r/CODZombies/comments/lrllwd/",
     "sourceOmissions": [
-      "Entries for the other map / mode in this multi-map release post are omitted from this map's checklist."
+      "Entries for the other map / mode in this multi-map release post are omitted from this map's checklist.",
+      "The Firebase-specific document-count introduction is omitted.",
+      "The Defend objective’s Zombie Head was removed from intel tracking according to the source’s March 4, 2021 update and is not added as a twelfth pickup."
     ],
-    "checked": "2026-10-16",
+    "checked": "2026-10-17",
     "relatedGuideIds": [
       "coldwar-outbreak-legion-main",
       "coldwar-outbreak-operation-excision",
-      "coldwar-outbreak-intel-season-2-reloaded"
+      "coldwar-outbreak-intel-season-2-reloaded",
+      "coldwar-outbreak-intel-collection"
     ]
   },
   {
@@ -1693,7 +1886,8 @@
     "relatedGuideIds": [
       "coldwar-outbreak-legion-main",
       "coldwar-outbreak-operation-excision",
-      "coldwar-outbreak-intel-season-2-reloaded"
+      "coldwar-outbreak-intel-season-2-reloaded",
+      "coldwar-outbreak-intel-collection"
     ]
   },
   {
@@ -2026,7 +2220,8 @@
     "relatedGuideIds": [
       "coldwar-outbreak-legion-main",
       "coldwar-outbreak-operation-excision",
-      "coldwar-outbreak-intel-season-2-reloaded"
+      "coldwar-outbreak-intel-season-2-reloaded",
+      "coldwar-outbreak-intel-collection"
     ]
   },
   {
@@ -7876,6 +8071,89 @@
       {
         "title": "Treyarch: regional lost-soul protection, shared squad effect and cooldown",
         "url": "https://www.treyarch.com/game-intel/2021/09/Incoming_Season_Five_Reloaded"
+      }
+    ],
+    "checked": "2026-10-17"
+  },
+  {
+    "id": "coldwar-outbreak-intel-collection",
+    "mapId": "coldwar-outbreak",
+    "title": "Intel collection: document drops and Trial rewards",
+    "category": "side",
+    "difficulty": "Medium",
+    "players": "1–4 players; solo supported",
+    "summary": "Choose the right collection method, find document drops and claim Dark Aether intel at the Trial Computer.",
+    "requirements": [
+      "Original Black Ops Cold War Standard Outbreak; check your own Barracks → Intel collection.",
+      "Use the seasonal card for physical pickup locations and quest-only entries. This helper covers ordinary document drops and non-artifact Dark Aether Trial rewards.",
+      "For intel Trials, complete the first region and warp to difficulty 2 or later."
+    ],
+    "reward": "Missing ordinary document and Trial intel entries; regular Trial equipment is a separate reward.",
+    "relatedGuideIds": [
+      "coldwar-outbreak-intel-season-2",
+      "coldwar-outbreak-intel-season-2-reloaded",
+      "coldwar-outbreak-golden-chest",
+      "coldwar-outbreak-legion-main",
+      "coldwar-outbreak-operation-excision"
+    ],
+    "steps": [
+      {
+        "title": "Check the missing record’s method",
+        "body": "Use the seasonal checklist to distinguish fixed artifacts, quest items, ordinary documents and Trial intel. A quest document such as Aetherium Warhead Blueprint still requires its main-quest interaction; repeated random drops do not replace that route.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/ngj7vh/"
+      },
+      {
+        "title": "Collect a special / elite document drop",
+        "body": "Kill specials or elites such as Manglers and Tempests, then inspect the ground for a document pickup and interact with it. Collect promptly rather than leaving it behind. If a region stops supplying documents, warp and search again in another region.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lrllwd/"
+      },
+      {
+        "title": "Inspect golden-chest rewards",
+        "body": "Golden Challenge Chests can also give ordinary faction documents. Clear the chest’s guardians, open it and inspect its loot for an intel pickup. Use the companion Golden Chest route for the event itself.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/ngj7vh/"
+      },
+      {
+        "title": "Start a folder-marked Trial",
+        "body": "From region difficulty 2, visit the Trial Computer and check its screen. A folder icon identifies an intel Trial. Start it and perform the displayed task; Dark Aether artifacts keep their separate physical or quest pickup routes.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/qmb7d4/"
+      },
+      {
+        "title": "Claim Intel at the computer",
+        "body": "When Reward Available: Intel appears, return to the Trial Computer and claim it there. The ordinary equipment podium is separate. More than one intel can become ready during a Trial, so collect it when offered and continue the task.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/blackopscoldwar/comments/m2op7z/"
+      },
+      {
+        "title": "Track intel separately from gear",
+        "body": "A Legendary equipment reward does not guarantee another intel record. Plan for up to three Trial intel in a match, then start a fresh match for more. If none arrives in a fresh run, check whether the missing item is actually a field artifact or another collection type.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/11v0rv2/"
+      }
+    ],
+    "sources": [
+      {
+        "title": "u/Ricerat477 and firsthand discoverers: launch intel, locations and removed Zombie Head",
+        "url": "https://www.reddit.com/r/CODZombies/comments/lrllwd/"
+      },
+      {
+        "title": "u/Ricerat477 / firsthand quest collectors: document drops, golden chests and quest exceptions",
+        "url": "https://www.reddit.com/r/CODZombies/comments/ngj7vh/"
+      },
+      {
+        "title": "Outbreak collectors: difficulty 2 intel Trials, three-per-match plan and artifact exception",
+        "url": "https://www.reddit.com/r/CODZombies/comments/qmb7d4/"
+      },
+      {
+        "title": "u/Paradox949: multiple Outbreak Intel claims from the Trial Computer",
+        "url": "https://www.reddit.com/r/blackopscoldwar/comments/m2op7z/"
+      },
+      {
+        "title": "Outbreak collector reports: Legendary gear without intel and the match limit",
+        "url": "https://www.reddit.com/r/CODZombies/comments/11v0rv2/"
       }
     ],
     "checked": "2026-10-17"

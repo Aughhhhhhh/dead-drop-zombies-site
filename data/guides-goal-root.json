@@ -8,8 +8,8 @@
     "players": "1–4 players",
     "summary": "Find every receiver and hear the character-dependent messages.",
     "requirements": [
-      "Open the connecting doors. Hold Interact beside each receiver.",
-      "The first five play shared Maxis recordings. Replay as the indicated characters for all eleven messages."
+      "Open doors; hold Interact beside receivers.",
+      "Use named characters at 6–8; let messages finish."
     ],
     "reward": "Eleven story recordings across eight receivers.",
     "images": [
@@ -33,7 +33,9 @@
             "alt": "Radio 1 location",
             "caption": "Radio 1"
           }
-        ]
+        ],
+        "original": true,
+        "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=587512788"
       },
       {
         "title": "Teleporter A stairs",
@@ -46,7 +48,9 @@
             "alt": "Radio 2 location",
             "caption": "Radio 2"
           }
-        ]
+        ],
+        "original": true,
+        "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=587512788"
       },
       {
         "title": "Furnace Room",
@@ -59,7 +63,9 @@
             "alt": "Radio 3 location",
             "caption": "Radio 3"
           }
-        ]
+        ],
+        "original": true,
+        "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=587512788"
       },
       {
         "title": "Teleporter B",
@@ -72,7 +78,9 @@
             "alt": "Radio 4 location",
             "caption": "Radio 4"
           }
-        ]
+        ],
+        "original": true,
+        "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=587512788"
       },
       {
         "title": "Animal Testing",
@@ -85,7 +93,9 @@
             "alt": "Radio 5 location",
             "caption": "Radio 5"
           }
-        ]
+        ],
+        "original": true,
+        "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=587512788"
       },
       {
         "title": "Upstairs bridge",
@@ -98,11 +108,13 @@
             "alt": "Radio 6 location",
             "caption": "Radio 6"
           }
-        ]
+        ],
+        "original": true,
+        "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=587512788"
       },
       {
-        "title": "Teleporter C platform",
-        "body": "Check behind the platform railing. Richtofen hears Maxis; Dempsey hears himself.",
+        "title": "Broken floor by Teleporter C",
+        "body": "Near Teleporter C, look beneath the floorboards. Richtofen hears Maxis; Dempsey hears himself.",
         "images": [
           {
             "src": "./assets/the-giant-radio-8.jpg",
@@ -111,11 +123,13 @@
             "alt": "Radio 7 location",
             "caption": "Radio 7"
           }
-        ]
+        ],
+        "original": true,
+        "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=587512788"
       },
       {
-        "title": "Broken floor",
-        "body": "Near Teleporter C, look beneath the floorboards. Richtofen hears Maxis; Takeo hears himself.",
+        "title": "Teleporter C platform rail",
+        "body": "Check behind the platform railing. Richtofen hears Maxis; Takeo hears himself.",
         "images": [
           {
             "src": "./assets/the-giant-radio-9.jpg",
@@ -124,7 +138,9 @@
             "alt": "Radio 8 location",
             "caption": "Radio 8"
           }
-        ]
+        ],
+        "original": true,
+        "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=587512788"
       }
     ],
     "sources": [
@@ -141,7 +157,11 @@
         "url": "https://www.youtube.com/watch?v=PTPcbdAwbYw"
       }
     ],
-    "checked": "2026-10-16"
+    "checked": "2026-10-17",
+    "relatedGuideIds": [
+      "bo3-the-giant-community-the-giant-map-walkthrough-power"
+    ],
+    "supplementNote": "Radio 7/8 landmarks corrected; existing images preserved. Source read locally from the retained BO3 creator guide. No fresh request to the stopped host."
   },
   {
     "id": "bo1-nacht-der-untoten-undone",

@@ -1024,7 +1024,66 @@
     ],
     "supplementNote": "An original practical instruction replaces the source’s incorrect 30-second statistic. Independent original Black Ops player guides describe about eight seconds; the shared card avoids imposing one exact timer on every edition.",
     "checked": "2026-10-16",
-    "sourceQuote": null
+    "sourceQuote": null,
+    "mapOverrides": {
+      "bo3-the-giant": {
+        "title": "Monkey Bombs — obtain, throw & quest uses",
+        "category": "weapon",
+        "difficulty": "Easy",
+        "players": "1–4",
+        "summary": "A distraction grenade from the Box, also used for the hidden machine and garage audio.",
+        "requirements": [
+          "BO3 The Giant; obtain Monkey Bombs from the Mystery Box."
+        ],
+        "reward": "Monkey Bomb tactical grenades and access to their linked side interactions.",
+        "steps": [
+          {
+            "title": "Arm and throw onto playable floor",
+            "body": "Equip the Monkey Bomb, finish its arming animation and throw it onto a reachable floor. Ordinary zombies gather around it before it explodes. Throw early enough to create room for a revive or escape.",
+            "original": true,
+            "researchSource": "https://www.youtube.com/watch?v=NsXkIhCxyBU&t=50s",
+            "images": [
+              {
+                "src": "./assets/classic-batch15-giant-monkey-arming.webp",
+                "alt": "Monkey Bomb being armed on pad.",
+                "caption": "Throw before paying.",
+                "source": "https://www.youtube.com/watch?v=NsXkIhCxyBU&t=50s",
+                "credit": "JokerAlex 21 / Activision"
+              }
+            ]
+          },
+          {
+            "title": "Choose its ordinary or quest use",
+            "body": "A throw outside the playable area can fail. For the hidden machine, put one on each teleporter pad and ride with it. For the furnace audio, use the lit Garage furnace; follow the linked guides for those exceptions.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+          }
+        ],
+        "sources": [
+          {
+            "title": "r/CODZombies — The Giant map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+          },
+          {
+            "title": "JokerAlex 21 — BO3 Monkey Bomb and hidden-machine footage",
+            "url": "https://www.youtube.com/watch?v=NsXkIhCxyBU"
+          },
+          {
+            "title": "Giant players — correct burning-Monkey furnace",
+            "url": "https://www.reddit.com/r/CODZombies/comments/g8orbw/"
+          }
+        ],
+        "relatedGuideIds": [
+          "bo3-the-giant-community-the-giant-easter-eggs-sixth-perk",
+          "bo3-the-giant-garage-audio"
+        ],
+        "checked": "2026-10-17",
+        "sourceQuote": null,
+        "sourceOmissions": [],
+        "sharedSource": false,
+        "supplementNote": "Original BO3 instructions checked against the linked map guide and firsthand footage. Photos identify the shown locations; this is source research, not an independent retail replay."
+      }
+    }
   },
   "origins-easter-eggs-main-easter-egg": {
     "steps": [
@@ -28233,5 +28292,1382 @@
       "iw-rave-directors-cut-talisman"
     ],
     "supplementNote": "Source instructions are quoted; short field notes are separately authored supplements."
+  },
+  "shadows-of-evil-buildables-upgraded-shield-goddard-apparatus": {
+    "title": "Goddard Apparatus: twelve-strike shield upgrade",
+    "difficulty": "Medium",
+    "players": "1–4 players; solo supported",
+    "summary": "Build a streak of successful rocket boosts, recognize its reset cue and confirm the upgraded shield.",
+    "requirements": [
+      "Build and claim the ordinary Rocket Shield first; use the related shield-parts guide.",
+      "Keep enough space to gather a group of at least ten zombies and escape after boosting."
+    ],
+    "reward": "Goddard Apparatus: four rocket boosts per fresh upgraded shield and greater durability.",
+    "steps": [
+      {
+        "title": "Start with the Rocket Shield",
+        "body": "Equip the built shield and check its boost charges. The ordinary shield starts with three; the upgrade increases that supply to four.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=aGMgUYEYTRY&t=190s"
+      },
+      {
+        "title": "Line up at least ten zombies",
+        "body": "Gather ten or more zombies into a tight group. Equip the shield, face the group and use its rocket boost through them.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=aGMgUYEYTRY&t=40s"
+      },
+      {
+        "title": "Listen for a strike",
+        "body": "A successful ten-zombie boost gives a bowling-strike sound and cheering. Count that successful boost once, rather than counting each zombie as a separate strike.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/3upzca/first_in_the_world_goddard_apparatus_shield/"
+      },
+      {
+        "title": "Reach twelve consecutive strikes",
+        "body": "Repeat until you have twelve successful boosts in the streak. The required total is twelve ten-zombie strikes, not three boosts or twelve individual kills.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=aGMgUYEYTRY&t=40s"
+      },
+      {
+        "title": "Restart after a weak boost",
+        "body": "A boost that kills fewer than ten zombies breaks the streak. Start counting successful strikes again after that failed attempt.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=aGMgUYEYTRY&t=75s"
+      },
+      {
+        "title": "Replace a broken base shield",
+        "body": "You will need more than one ordinary shield’s charges. If the base shield breaks while you are building the streak, collect another at its crafting bench; that replacement alone does not reset the streak.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=aGMgUYEYTRY&t=100s"
+      },
+      {
+        "title": "Confirm Goddard Apparatus",
+        "body": "After the final strike, check the displayed shield name: Goddard Apparatus. A fresh upgraded shield has four boosts. The reference shows the named upgraded shield during use.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=aGMgUYEYTRY&t=130s",
+        "images": [
+          {
+            "src": "./assets/root-batch12-shadows-goddard-four-boosts.webp",
+            "alt": "Named upgraded shield.",
+            "caption": "Named upgraded shield.",
+            "source": "https://www.youtube.com/watch?v=aGMgUYEYTRY&t=210s",
+            "credit": "Gameplay: MysteryHQ; Black Ops III © Activision / Treyarch."
+          }
+        ]
+      },
+      {
+        "title": "Check a replacement’s name",
+        "body": "If an upgraded shield later breaks, return to its bench and inspect the replacement’s name. Early reports differ from later guides; permanent retention after an upgraded shield breaks has not been established for every build.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/3upzca/first_in_the_world_goddard_apparatus_shield/"
+      }
+    ],
+    "sources": [
+      {
+        "title": "justexhale and original shield discoverers: strike count and reset reports",
+        "url": "https://www.reddit.com/r/CODZombies/comments/3upzca/first_in_the_world_goddard_apparatus_shield/"
+      },
+      {
+        "title": "MysteryHQ: native twelve-strike, replacement and four-boost demonstration, 2020",
+        "url": "https://www.youtube.com/watch?v=aGMgUYEYTRY"
+      }
+    ],
+    "relatedGuideIds": [
+      "bo3-shadows-of-evil-community-shadows-of-evil-buildables-rocket-shield"
+    ],
+    "sourceQuote": null,
+    "sourceOmissions": [],
+    "checked": "2026-10-17"
+  },
+  "shadows-of-evil-easter-eggs-quests-margwa-mask": {
+    "title": "Margwa Mask: six tram hearts and four pickup sites",
+    "difficulty": "Medium",
+    "players": "1–4 players; solo supported",
+    "summary": "Follow the tram targets, collect a head and recognize the mask’s protection limits.",
+    "requirements": [
+      "Have a firearm and enough points for the tram route. Study the six views before boarding.",
+      "The 2015 demonstration used Pack-a-Punch and an upgraded sword; the exact heart-spawn prerequisite remains unresolved.",
+      "Original footage is soft. Each pictured landmark links directly to its video moment; three pickup photos show the site after equipping."
+    ],
+    "reward": "A visible Margwa Head and reduced damage from Margwa slams.",
+    "steps": [
+      {
+        "title": "Check the visible hearts",
+        "body": "Six building-mounted hearts must be shot from the moving tram within two rides. Inspect the locations before attempting the route. The mask’s six targets are separate from the Margwa Heart used to craft the Servant.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/qlkiff/"
+      },
+      {
+        "title": "Plan the tram route",
+        "body": "Use Waterfront → Footlight → Canals; view targets in that order. Listen for a growl after the final hit.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=0dg9iJ9BTXc&t=43s"
+      },
+      {
+        "title": "Heart 1",
+        "body": "Leaving Waterfront, shoot the first left-hand sign’s heart.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=0dg9iJ9BTXc&t=80s",
+        "images": [
+          {
+            "src": "./assets/root-batch12-shadows-mask-heart-1.webp",
+            "alt": "First sign.",
+            "caption": "Sign.",
+            "source": "https://www.youtube.com/watch?v=0dg9iJ9BTXc&t=80s",
+            "credit": "Gameplay: NoahJ456; Black Ops III © Activision / Treyarch."
+          }
+        ]
+      },
+      {
+        "title": "Heart 2",
+        "body": "Keep looking left; hit the next wall’s heart.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=0dg9iJ9BTXc&t=86s",
+        "images": [
+          {
+            "src": "./assets/root-batch12-shadows-mask-heart-2.webp",
+            "alt": "Second wall.",
+            "caption": "Wall.",
+            "source": "https://www.youtube.com/watch?v=0dg9iJ9BTXc&t=86s",
+            "credit": "Gameplay: NoahJ456; Black Ops III © Activision / Treyarch."
+          }
+        ]
+      },
+      {
+        "title": "Heart 3",
+        "body": "Left: top-left corner of the left billboard pair.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=0dg9iJ9BTXc&t=99s",
+        "images": [
+          {
+            "src": "./assets/root-batch12-shadows-mask-heart-3.webp",
+            "alt": "Paired billboards.",
+            "caption": "Billboards.",
+            "source": "https://www.youtube.com/watch?v=0dg9iJ9BTXc&t=99s",
+            "credit": "Gameplay: NoahJ456; Black Ops III © Activision / Treyarch."
+          }
+        ]
+      },
+      {
+        "title": "Heart 4",
+        "body": "Right: shoot the heart on the tall THEATER sign.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=0dg9iJ9BTXc&t=110s",
+        "images": [
+          {
+            "src": "./assets/root-batch12-shadows-mask-heart-4.webp",
+            "alt": "THEATER sign.",
+            "caption": "THEATER.",
+            "source": "https://www.youtube.com/watch?v=0dg9iJ9BTXc&t=110s",
+            "credit": "Gameplay: NoahJ456; Black Ops III © Activision / Treyarch."
+          }
+        ]
+      },
+      {
+        "title": "Heart 5",
+        "body": "Right: above the small red sign beside HOTEL / CLUB.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=0dg9iJ9BTXc&t=145s",
+        "images": [
+          {
+            "src": "./assets/root-batch12-shadows-mask-heart-5.webp",
+            "alt": "HOTEL / CLUB.",
+            "caption": "HOTEL/CLUB.",
+            "source": "https://www.youtube.com/watch?v=0dg9iJ9BTXc&t=145s",
+            "credit": "Gameplay: NoahJ456; Black Ops III © Activision / Treyarch."
+          }
+        ]
+      },
+      {
+        "title": "Heart 6",
+        "body": "Approaching Canals, aim high at the Ruby Rabbit sign.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=0dg9iJ9BTXc&t=175s",
+        "images": [
+          {
+            "src": "./assets/root-batch12-shadows-mask-heart-6.webp",
+            "alt": "Ruby Rabbit.",
+            "caption": "Ruby Rabbit.",
+            "source": "https://www.youtube.com/watch?v=0dg9iJ9BTXc&t=175s",
+            "credit": "Gameplay: NoahJ456; Black Ops III © Activision / Treyarch."
+          }
+        ]
+      },
+      {
+        "title": "Stay within two rides",
+        "body": "Finish the six shots within the two-trip attempt. Retry missed hearts 3 or 5 during your second trip. If the attempt fails, begin the route again instead of expecting partial hits to remain through unlimited tram journeys.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/qlkiff/"
+      },
+      {
+        "title": "Gym pickup",
+        "body": "Search the back-room lockers, at the bottom of the middle locker.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=0dg9iJ9BTXc&t=215s",
+        "images": [
+          {
+            "src": "./assets/root-batch12-shadows-mask-pickup-lockers.webp",
+            "alt": "Gym lockers.",
+            "caption": "Lockers.",
+            "source": "https://www.youtube.com/watch?v=0dg9iJ9BTXc&t=215s",
+            "credit": "Gameplay: NoahJ456; Black Ops III © Activision / Treyarch."
+          }
+        ]
+      },
+      {
+        "title": "Ruby pickup",
+        "body": "Check the outside corner of Ruby Rabbit’s upper balcony.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=0dg9iJ9BTXc&t=255s",
+        "images": [
+          {
+            "src": "./assets/root-batch12-shadows-mask-pickup-ruby.webp",
+            "alt": "Upper balcony.",
+            "caption": "Balcony.",
+            "source": "https://www.youtube.com/watch?v=0dg9iJ9BTXc&t=255s",
+            "credit": "Gameplay: NoahJ456; Black Ops III © Activision / Treyarch."
+          }
+        ]
+      },
+      {
+        "title": "Burlesque pickup",
+        "body": "Face the stage and search its left-hand floor.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=0dg9iJ9BTXc&t=270s",
+        "images": [
+          {
+            "src": "./assets/root-batch12-shadows-mask-pickup-burlesque.webp",
+            "alt": "Stage floor.",
+            "caption": "Stage.",
+            "source": "https://www.youtube.com/watch?v=0dg9iJ9BTXc&t=270s",
+            "credit": "Gameplay: NoahJ456; Black Ops III © Activision / Treyarch."
+          }
+        ]
+      },
+      {
+        "title": "Nero pickup",
+        "body": "Search the table beside the book, candles and jars.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=0dg9iJ9BTXc&t=275s",
+        "images": [
+          {
+            "src": "./assets/root-batch12-shadows-mask-pickup-nero.webp",
+            "alt": "Nero’s table.",
+            "caption": "Table.",
+            "source": "https://www.youtube.com/watch?v=0dg9iJ9BTXc&t=275s",
+            "credit": "Gameplay: NoahJ456; Black Ops III © Activision / Treyarch."
+          }
+        ]
+      },
+      {
+        "title": "Equip and confirm your mask",
+        "body": "Find a twinkle at any pickup site; hold Interact. The head appears on your character model, with no new HUD badge. It reduces slam damage; it does not make Margwa attacks harmless.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/qlkiff/"
+      }
+    ],
+    "sources": [
+      {
+        "title": "NoahJ456: six-heart route and four pickup sites, November 2015; locations credited to SmartGuy",
+        "url": "https://www.youtube.com/watch?v=0dg9iJ9BTXc"
+      },
+      {
+        "title": "u/IcarusTE: firsthand mask collection and damage / HUD observations",
+        "url": "https://www.reddit.com/r/CODZombies/comments/qlkiff/"
+      }
+    ],
+    "relatedGuideIds": [
+      "bo3-shadows-of-evil-main",
+      "bo3-shadows-of-evil-community-shadows-of-evil-buildables-apothicon-servant"
+    ],
+    "sourceQuote": null,
+    "sourceOmissions": [],
+    "checked": "2026-10-17"
+  },
+  "shadows-of-evil-easter-eggs-quests-snakeskin-boots-music-easter-egg": {
+    "title": "Snakeskin Boots Instrumental: three radios",
+    "difficulty": "Easy",
+    "players": "1–4 players; solo supported",
+    "summary": "Find each wooden radio and activate the instrumental song.",
+    "requirements": [
+      "Open all three districts and their listed rooms."
+    ],
+    "reward": "Snakeskin Boots Instrumental.",
+    "steps": [
+      {
+        "title": "Open the three areas",
+        "body": "Reach Ruby Rabbit in Canals, the Boxing Gym in Waterfront and the Footlight tram station. Use Beast Mode to open their access where needed. You are looking for wooden radios; hold Interact beside each one.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=5tkNiBDSUPE&t=11s"
+      },
+      {
+        "title": "Canals: Ruby Rabbit radio",
+        "body": "Enter Ruby Rabbit and turn left. Activate the wooden radio on the table beside the lamp, bottles and red curtains.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=5tkNiBDSUPE&t=25s",
+        "images": [
+          {
+            "src": "./assets/root-batch12-shadows-song-radio-ruby.webp",
+            "alt": "Ruby Rabbit radio.",
+            "caption": "Ruby Rabbit radio.",
+            "source": "https://www.youtube.com/watch?v=5tkNiBDSUPE&t=25s",
+            "credit": "Gameplay: JokerAlex 21; Black Ops III © Activision / Treyarch."
+          }
+        ]
+      },
+      {
+        "title": "Waterfront: gym office radio",
+        "body": "Inside the Boxing Gym, climb the stairs to the upper office. Activate the small radio on the desk under the boxing poster, beside the photographs.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=5tkNiBDSUPE&t=45s",
+        "images": [
+          {
+            "src": "./assets/root-batch12-shadows-song-radio-gym.webp",
+            "alt": "Gym desk radio.",
+            "caption": "Gym desk radio.",
+            "source": "https://www.youtube.com/watch?v=5tkNiBDSUPE&t=45s",
+            "credit": "Gameplay: JokerAlex 21; Black Ops III © Activision / Treyarch."
+          }
+        ]
+      },
+      {
+        "title": "Footlight: station bench radio",
+        "body": "Enter the Footlight tram waiting area. Find the bench between the window barrier and the GobbleGum machine, then activate the wooden radio resting on it.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=5tkNiBDSUPE&t=65s",
+        "images": [
+          {
+            "src": "./assets/root-batch12-shadows-song-radio-footlight.webp",
+            "alt": "Footlight bench radio.",
+            "caption": "Footlight bench radio.",
+            "source": "https://www.youtube.com/watch?v=5tkNiBDSUPE&t=65s",
+            "credit": "Gameplay: JokerAlex 21; Black Ops III © Activision / Treyarch."
+          }
+        ]
+      },
+      {
+        "title": "Complete all three activations",
+        "body": "After all three radios have been activated, Snakeskin Boots Instrumental plays. These triggers select the instrumental track; the vocal trailer recording is a separate recording.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=5tkNiBDSUPE&t=67s"
+      }
+    ],
+    "sources": [
+      {
+        "title": "JokerAlex 21: original three-radio location tutorial, April 14, 2023",
+        "url": "https://www.youtube.com/watch?v=5tkNiBDSUPE"
+      }
+    ],
+    "relatedGuideIds": [
+      "bo3-shadows-of-evil-community-shadows-of-evil-map-features-beast-mode",
+      "bo3-shadows-of-evil-community-shadows-of-evil-easter-eggs-quests-cold-hard-cash-music-easter-egg"
+    ],
+    "sourceQuote": null,
+    "sourceOmissions": [],
+    "checked": "2026-10-17"
+  },
+  "shadows-of-evil-easter-eggs-quests-cold-hard-cash-music-easter-egg": {
+    "title": "Cold Hard Cash: microphone parts and stage",
+    "difficulty": "Easy",
+    "players": "1–4 players; solo supported",
+    "summary": "Collect the stand, cable and microphone, then activate the finished stage microphone.",
+    "requirements": [
+      "Open Nero’s Workshop, the lower Canals, the Rift and the Burlesque."
+    ],
+    "reward": "Cold Hard Cash plays.",
+    "steps": [
+      {
+        "title": "Open the rooms and Rift",
+        "body": "Open Nero’s Workshop, the lower Canals walkway, the underground Rift and the Footlight Burlesque. Use Beast Mode to break a district’s Rift door, then enter its portal in human form.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/shadows-of-evil/"
+      },
+      {
+        "title": "Stand: Nero’s Workshop",
+        "body": "In Nero’s room, search against the wall between the large circular saw prop and the bookcase. Hold Interact beside the thin microphone stand.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=V8brdaqx-S4&t=35s",
+        "images": [
+          {
+            "src": "./assets/root-batch12-shadows-song-cash-stand.webp",
+            "alt": "Workshop stand location.",
+            "caption": "Workshop stand location.",
+            "source": "https://www.youtube.com/watch?v=V8brdaqx-S4&t=35s",
+            "credit": "Gameplay: JokerAlex 21; Black Ops III © Activision / Treyarch."
+          }
+        ]
+      },
+      {
+        "title": "Cable: under the Canals stairs",
+        "body": "Go down into Canals and search the low slab under the wooden stairs, near the ritual badge area. Hold Interact over the microphone cable on that shelf.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=V8brdaqx-S4&t=50s",
+        "images": [
+          {
+            "src": "./assets/root-batch12-shadows-song-cash-cable.webp",
+            "alt": "Canals cable shelf.",
+            "caption": "Canals cable shelf.",
+            "source": "https://www.youtube.com/watch?v=V8brdaqx-S4&t=50s",
+            "credit": "Gameplay: JokerAlex 21; Black Ops III © Activision / Treyarch."
+          }
+        ]
+      },
+      {
+        "title": "Microphone: Rift bench",
+        "body": "In the upper Rift, search beside the bench and bin near the Waterfront portal. Hold Interact to take the microphone.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=V8brdaqx-S4&t=80s",
+        "images": [
+          {
+            "src": "./assets/root-batch12-shadows-song-cash-microphone.webp",
+            "alt": "Rift bench location.",
+            "caption": "Rift bench location.",
+            "source": "https://www.youtube.com/watch?v=V8brdaqx-S4&t=80s",
+            "credit": "Gameplay: JokerAlex 21; Black Ops III © Activision / Treyarch."
+          }
+        ]
+      },
+      {
+        "title": "Activate the Burlesque microphone",
+        "body": "With all three pieces collected, return to the Burlesque stage in Footlight. Hold Interact at its front microphone to assemble / activate it and start Cold Hard Cash.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=V8brdaqx-S4&t=95s",
+        "images": [
+          {
+            "src": "./assets/root-batch12-shadows-song-cash-stage.webp",
+            "alt": "Burlesque stage microphone.",
+            "caption": "Burlesque stage microphone.",
+            "source": "https://www.youtube.com/watch?v=V8brdaqx-S4&t=95s",
+            "credit": "Gameplay: JokerAlex 21; Black Ops III © Activision / Treyarch."
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "JokerAlex 21: original microphone-part and stage tutorial, April 16, 2023",
+        "url": "https://www.youtube.com/watch?v=V8brdaqx-S4"
+      },
+      {
+        "title": "r/CODZombies: district and Rift access reference",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/shadows-of-evil/"
+      }
+    ],
+    "relatedGuideIds": [
+      "bo3-shadows-of-evil-community-shadows-of-evil-map-features-beast-mode",
+      "bo3-shadows-of-evil-community-shadows-of-evil-easter-eggs-quests-snakeskin-boots-music-easter-egg"
+    ],
+    "sourceQuote": null,
+    "sourceOmissions": [],
+    "checked": "2026-10-17"
+  },
+  "shadows-of-evil-buildables-apothicon-servant": {
+    "title": "Apothicon Servant: three parts and crafting",
+    "difficulty": "Medium",
+    "players": "1–4 players; solo supported",
+    "summary": "Collect the heart, tentacle and Xenomatter, then craft the wonder weapon.",
+    "requirements": [
+      "Collect a Fumigator and open a crafting-bench route."
+    ],
+    "reward": "One buildable Apothicon Servant.",
+    "steps": [
+      {
+        "title": "Take a Fumigator",
+        "body": "Collect a Fumigator before opening pods. The related Fumigator guide lists its possible locations.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/shadows-of-evil/"
+      },
+      {
+        "title": "Collect a Margwa Heart",
+        "body": "Kill a Margwa by destroying its glowing open mouths. Pick up the yellow heart it drops; later Margwas can drop another until it is collected.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/3uw4v6/shadows_of_evil_complete_map_breakdown/"
+      },
+      {
+        "title": "Harvest a purple pod",
+        "body": "Allow a pod to reach purple / pink, then harvest it with the Fumigator. The tentacle is random; try another mature pod if it does not drop.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/3uw4v6/shadows_of_evil_complete_map_breakdown/"
+      },
+      {
+        "title": "Collect Xenomatter",
+        "body": "Kill Parasites or rolling meatballs and inspect their drops for bright green Xenomatter. Both enemy types can supply it. Keep progressing if it has not appeared.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/3uw4v6/shadows_of_evil_complete_map_breakdown/"
+      },
+      {
+        "title": "Build at a workbench",
+        "body": "With all three parts, use a crafting bench: upper Waterfront by HVK-30, rear Footlight walkway by HVK-30, or rear Canals by the tram stairs and M8A7.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/3uw4v6/shadows_of_evil_complete_map_breakdown/"
+      },
+      {
+        "title": "Claim the Servant",
+        "body": "Take the completed weapon, choosing which gun to replace. It occupies a firearm slot and only one player normally holds it at a time.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/shadows-of-evil/",
+        "images": [
+          {
+            "src": "./assets/root-batch12-shadows-servant-equipped.webp",
+            "alt": "Servant equipped.",
+            "caption": "Servant equipped in 2015 footage.",
+            "source": "https://www.youtube.com/watch?v=y-TNAAYqRtw&t=170s",
+            "credit": "Gameplay: MrDalekJD; Black Ops III © Activision / Treyarch."
+          }
+        ]
+      },
+      {
+        "title": "Keep its map-specific limit",
+        "body": "The Servant has no normal Pack-a-Punch upgrade on Shadows of Evil. Its Revelations upgrade route belongs to that different map.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/3uw4v6/shadows_of_evil_complete_map_breakdown/"
+      }
+    ],
+    "sources": [
+      {
+        "title": "u/chrisd848: original three-part and workbench breakdown",
+        "url": "https://www.reddit.com/r/CODZombies/comments/3uw4v6/shadows_of_evil_complete_map_breakdown/"
+      },
+      {
+        "title": "r/CODZombies Shadows of Evil community reference",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/shadows-of-evil/"
+      },
+      {
+        "title": "MrDalekJD: original equipped-weapon footage, November 6, 2015",
+        "url": "https://www.youtube.com/watch?v=y-TNAAYqRtw"
+      }
+    ],
+    "relatedGuideIds": [
+      "bo3-shadows-of-evil-community-shadows-of-evil-map-features-fumigator",
+      "bo3-shadows-of-evil-community-shadows-of-evil-map-features-pods"
+    ],
+    "sourceQuote": null,
+    "sourceOmissions": [],
+    "checked": "2026-10-17"
+  },
+  "the-giant-map-walkthrough-traps": {
+    "mapOverrides": {
+      "bo3-the-giant": {
+        "title": "Electric traps — locations & safe activation",
+        "category": "side",
+        "difficulty": "Easy",
+        "players": "1–4",
+        "summary": "Find the three electric doorways and use their switches without crossing the active beam.",
+        "requirements": [
+          "BO3 The Giant; power on.",
+          "1,000 points for a normal activation; keep a clear route around the trap."
+        ],
+        "reward": "A temporary electric barrier that kills passing zombies.",
+        "steps": [
+          {
+            "title": "Find a trap doorway",
+            "body": "The three traps are at the L-CAR 9 doorway, the KRM-262/Garage doorway, and underneath the bridge beside the power courtyard.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+          },
+          {
+            "title": "Clear teammates, then activate",
+            "body": "Keep everyone clear of the doorway. Use its red wall switch and pay 1,000. Lead zombies through the beam while you stay on the safe side.",
+            "original": true,
+            "researchSource": "https://www.youtube.com/watch?v=IlJGZWYzeMQ&t=130s",
+            "images": [
+              {
+                "src": "./assets/classic-batch15-giant-trap-cost.webp",
+                "alt": "Electric trap activation prompt.",
+                "caption": "Normal trap price: 1,000.",
+                "source": "https://www.youtube.com/watch?v=IlJGZWYzeMQ&t=130s",
+                "credit": "iowagaming / Activision"
+              }
+            ]
+          },
+          {
+            "title": "Wait before using the switch again",
+            "body": "Do not cross an active beam. When it shuts off, wait for the switch to become available before paying again. Use a different escape path if it is still cooling down.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+          }
+        ],
+        "sources": [
+          {
+            "title": "r/CODZombies — The Giant map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+          },
+          {
+            "title": "iowagaming — original 2015 Giant gameplay and trap prompt",
+            "url": "https://www.youtube.com/watch?v=IlJGZWYzeMQ"
+          }
+        ],
+        "relatedGuideIds": [
+          "bo3-the-giant-community-the-giant-map-walkthrough-power"
+        ],
+        "checked": "2026-10-17",
+        "sourceQuote": null,
+        "sourceOmissions": [],
+        "sharedSource": false,
+        "supplementNote": "Original BO3 instructions checked against the linked map guide and firsthand footage. Photos identify the shown locations; this is source research, not an independent retail replay."
+      }
+    }
+  },
+  "the-giant-map-walkthrough-power": {
+    "mapOverrides": {
+      "bo3-the-giant": {
+        "title": "Power — reach the generator switch",
+        "category": "side",
+        "difficulty": "Easy",
+        "players": "1–4",
+        "summary": "A concrete route from spawn to the free red power lever.",
+        "requirements": [
+          "BO3 The Giant; enough points to open the connecting doors."
+        ],
+        "reward": "Power for perk machines, traps and teleporter linking.",
+        "steps": [
+          {
+            "title": "Follow the left spawn route",
+            "body": "Face away from Pack-a-Punch. Open the left route past the L-CAR 9, then continue into the Animal Testing/Kuda laboratory. Climb the back stairs and open the upstairs debris.",
+            "original": true,
+            "researchSource": "https://www.youtube.com/watch?v=FGQgPX0FbUE&t=6s"
+          },
+          {
+            "title": "Use the lever behind the generator",
+            "body": "From the upper walkway, drop into the generator courtyard. Hold Interact on the red lever outside its fence. The switch is free.",
+            "original": true,
+            "researchSource": "https://www.codzombieguides.com/the-giant#power",
+            "images": [
+              {
+                "src": "./assets/classic-batch15-giant-power-switch.webp",
+                "alt": "Power switch beside generator fence.",
+                "caption": "Free power lever.",
+                "source": "https://www.codzombieguides.com/the-giant#power",
+                "credit": "JokerAlex 21 / Cod Zombie Guides"
+              }
+            ],
+            "tip": "Power alone does not open Pack-a-Punch. Use the three-link guide next."
+          }
+        ],
+        "sources": [
+          {
+            "title": "r/CODZombies — The Giant map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+          },
+          {
+            "title": "JokerAlex 21 — power and Pack-a-Punch footage",
+            "url": "https://www.youtube.com/watch?v=FGQgPX0FbUE"
+          },
+          {
+            "title": "JokerAlex 21 — Giant location guide with native power clip",
+            "url": "https://www.codzombieguides.com/the-giant"
+          }
+        ],
+        "relatedGuideIds": [
+          "bo3-the-giant-community-the-giant-map-walkthrough-pack-a-punch"
+        ],
+        "checked": "2026-10-17",
+        "sourceQuote": null,
+        "sourceOmissions": [],
+        "sharedSource": false,
+        "supplementNote": "Original BO3 instructions checked against the linked map guide and firsthand footage. Photos identify the shown locations; this is source research, not an independent retail replay."
+      }
+    }
+  },
+  "the-giant-map-walkthrough-pack-a-punch": {
+    "mapOverrides": {
+      "bo3-the-giant": {
+        "title": "Pack-a-Punch — all three links & upgrade prices",
+        "category": "weapon",
+        "difficulty": "Easy",
+        "players": "1–4",
+        "summary": "Power → A/B/C link attempts → Mainframe confirmation → first upgrade; includes the ordinary-firearm re-Pack rule.",
+        "requirements": [
+          "BO3 The Giant; power on and doors to all three teleporters opened.",
+          "5,000 points for a first weapon upgrade; 2,500 for an eligible ordinary firearm’s alternate-ammo roll."
+        ],
+        "reward": "Permanent access to the Mainframe Pack-a-Punch machine for this match.",
+        "steps": [
+          {
+            "title": "Turn on power; learn the common link action",
+            "body": "At each teleporter, stand on its pad and hold Interact to start linking. Within 30 seconds, reach the Mainframe pad in spawn and hold Interact there. A teammate may wait at the Mainframe.",
+            "original": true,
+            "researchSource": "https://www.youtube.com/watch?v=FGQgPX0FbUE&t=81s",
+            "images": [
+              {
+                "src": "./assets/classic-batch15-giant-pap-countdown.webp",
+                "alt": "Teleporter link countdown on HUD.",
+                "caption": "Return to the Mainframe.",
+                "source": "https://www.youtube.com/watch?v=FGQgPX0FbUE&t=105s",
+                "credit": "JokerAlex 21 / Activision"
+              }
+            ]
+          },
+          {
+            "title": "Link A — left Animal Testing route",
+            "body": "From spawn, use the L-CAR 9 side and the Kuda laboratory stairs. Reach Teleporter A above the unlit furnace room, start its link, then confirm at the Mainframe.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+          },
+          {
+            "title": "Link B — right cooling-vat route",
+            "body": "Use the right spawn/Garage route. Continue to the room with two large cooling vats, the HVK-30 and grenade wall buys. Start Teleporter B’s link and confirm at the Mainframe.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+          },
+          {
+            "title": "Link C — rear raised platform",
+            "body": "From the power courtyard, follow the rear stairs and catwalk toward the KN-44 area. Reach the raised Teleporter C platform, start its link and confirm at the Mainframe.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+          },
+          {
+            "title": "Check the three bulbs; retry a missed link",
+            "body": "Each successful link lights a bulb above Pack-a-Punch and lowers its gate. If the timer expires, return to that teleporter and restart its link. All three bulbs open the gate for the match.",
+            "original": true,
+            "researchSource": "https://www.youtube.com/watch?v=FGQgPX0FbUE&t=175s",
+            "images": [
+              {
+                "src": "./assets/classic-batch15-giant-pap-open.webp",
+                "alt": "Open Mainframe Pack-a-Punch gate.",
+                "caption": "All three links completed.",
+                "source": "https://www.youtube.com/watch?v=FGQgPX0FbUE&t=175s",
+                "credit": "JokerAlex 21 / Activision"
+              }
+            ]
+          },
+          {
+            "title": "Upgrade, then reclaim the returned gun",
+            "body": "Hold the gun you want to upgrade, pay 5,000 at Pack-a-Punch and take it back promptly. The Wunderwaffe and Ray Gun have their own upgrade cards.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+          },
+          {
+            "title": "Eligible firearms: add or reroll an ammo effect",
+            "body": "Reinsert an eligible upgraded ordinary firearm for 2,500 to add or change an alternate ammo effect. Repeating this changes the effect; it is not another permanent damage tier.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/so33kt/"
+          }
+        ],
+        "sources": [
+          {
+            "title": "r/CODZombies — The Giant map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+          },
+          {
+            "title": "JokerAlex 21 — power and three teleporter links",
+            "url": "https://www.youtube.com/watch?v=FGQgPX0FbUE"
+          },
+          {
+            "title": "Giant players — first PaP and alternate-ammo rerolls",
+            "url": "https://www.reddit.com/r/CODZombies/comments/so33kt/"
+          }
+        ],
+        "relatedGuideIds": [
+          "bo3-the-giant-community-the-giant-map-walkthrough-power",
+          "bo3-the-giant-community-the-giant-special-weapons-wunderwaffe-dg-2",
+          "bo3-the-giant-community-the-giant-special-weapons-wunderwaffe-dg-2-upgrade",
+          "bo3-the-giant-ray-gun",
+          "bo3-the-giant-fly-trap"
+        ],
+        "checked": "2026-10-17",
+        "sourceQuote": null,
+        "sourceOmissions": [],
+        "sharedSource": false,
+        "supplementNote": "Original BO3 instructions checked against the linked map guide and firsthand footage. Photos identify the shown locations; this is source research, not an independent retail replay."
+      }
+    }
+  },
+  "the-giant-map-walkthrough-dog-rounds": {
+    "mapOverrides": {
+      "bo3-the-giant": {
+        "title": "Hellhound rounds — survive for Max Ammo",
+        "category": "side",
+        "difficulty": "Easy",
+        "players": "1–4",
+        "summary": "Recognize the special wave and collect its final ammunition reward.",
+        "requirements": [
+          "BO3 The Giant; a loaded weapon and space to move."
+        ],
+        "reward": "A Max Ammo after the final Hellhound of the special wave.",
+        "steps": [
+          {
+            "title": "Fight the foggy Hellhound wave",
+            "body": "The special wave announces itself with fog and the Hellhound audio cue. Watch the dogs as they materialize; keep a loaded weapon ready and avoid being trapped against a wall.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+          },
+          {
+            "title": "Collect the final Max Ammo",
+            "body": "Kill the last Hellhound, reload and collect its Max Ammo before leaving the drop behind. Call it out in co-op so teammates can reload too.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+          }
+        ],
+        "sources": [
+          {
+            "title": "r/CODZombies — The Giant map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+          }
+        ],
+        "relatedGuideIds": [
+          "bo3-the-giant-community-the-giant-map-walkthrough-pack-a-punch"
+        ],
+        "checked": "2026-10-17",
+        "sourceQuote": null,
+        "sourceOmissions": [],
+        "sharedSource": false,
+        "supplementNote": "Original BO3 instructions checked against the linked map guide and firsthand footage. Photos identify the shown locations; this is source research, not an independent retail replay."
+      }
+    }
+  },
+  "the-giant-special-weapons-wunderwaffe-dg-2": {
+    "mapOverrides": {
+      "bo3-the-giant": {
+        "title": "Wunderwaffe DG-2 — Mystery Box acquisition",
+        "category": "weapon",
+        "difficulty": "Easy",
+        "players": "1–4",
+        "summary": "The Giant’s electric wonder weapon, with an actual BO3 ammunition HUD and its upgrade companion.",
+        "requirements": [
+          "BO3 The Giant; access to the active Mystery Box.",
+          "Normally 950 points per random Box roll; a roll does not guarantee this weapon."
+        ],
+        "reward": "Wunderwaffe DG-2: 3 loaded shots and 15 in reserve.",
+        "steps": [
+          {
+            "title": "Roll the active Mystery Box",
+            "body": "Find the Box by its blue sky beam or its marked locations. Pay for a roll and take the Wunderwaffe if it appears. At your weapon limit, it replaces the gun you are holding.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+          },
+          {
+            "title": "Use the electrical chain; save ammunition",
+            "body": "Fire at a clustered group to let the electrical effect spread between nearby zombies. The normal unupgraded HUD is 3/15. Keep another gun for routine shooting and use the upgrade guide for 6/30.",
+            "original": true,
+            "researchSource": "https://www.youtube.com/watch?v=XFL0o5SiG9o&t=150s",
+            "images": [
+              {
+                "src": "./assets/classic-batch15-giant-wunderwaffe-base.webp",
+                "alt": "Wunderwaffe DG-2 with 3/15 ammunition.",
+                "caption": "Original BO3 result.",
+                "source": "https://www.youtube.com/watch?v=XFL0o5SiG9o&t=150s",
+                "credit": "UnknownPlayer / Activision"
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "title": "r/CODZombies — The Giant map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+          },
+          {
+            "title": "UnknownPlayer — original 2015 DG-2 to DG-3 JZ gameplay",
+            "url": "https://www.youtube.com/watch?v=XFL0o5SiG9o"
+          }
+        ],
+        "relatedGuideIds": [
+          "bo3-the-giant-community-the-giant-map-walkthrough-pack-a-punch",
+          "bo3-the-giant-community-the-giant-special-weapons-wunderwaffe-dg-2-upgrade"
+        ],
+        "checked": "2026-10-17",
+        "sourceQuote": null,
+        "sourceOmissions": [],
+        "sharedSource": false,
+        "supplementNote": "Original BO3 instructions checked against the linked map guide and firsthand footage. Photos identify the shown locations; this is source research, not an independent retail replay."
+      }
+    }
+  },
+  "the-giant-special-weapons-wunderwaffe-dg-2-upgrade": {
+    "mapOverrides": {
+      "bo3-the-giant": {
+        "title": "Wunderwaffe DG-3 JZ — Pack-a-Punch upgrade",
+        "category": "weapon",
+        "difficulty": "Easy",
+        "players": "1–4",
+        "summary": "One 5,000-point upgrade increases the Wunderwaffe’s loaded and reserve ammunition.",
+        "requirements": [
+          "Wunderwaffe DG-2 in hand.",
+          "Power on, all three teleporter links complete, and 5,000 points."
+        ],
+        "reward": "Wunderwaffe DG-3 JZ: 6 loaded shots and 30 in reserve.",
+        "steps": [
+          {
+            "title": "Insert the DG-2 at the Mainframe",
+            "body": "Open Pack-a-Punch with the linked setup guide. Equip the Wunderwaffe DG-2 and pay 5,000 to insert it.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+          },
+          {
+            "title": "Take the DG-3 JZ back",
+            "body": "Reclaim the returned Wunderwaffe DG-3 JZ. Its full BO3 ammunition is 6/30 instead of 3/15. This is the weapon’s upgrade; no elemental-staff puzzle or additional damage-tier route is needed.",
+            "original": true,
+            "researchSource": "https://www.youtube.com/watch?v=XFL0o5SiG9o&t=160s",
+            "images": [
+              {
+                "src": "./assets/classic-batch15-giant-wunderwaffe-upgrade.webp",
+                "alt": "Wunderwaffe DG-3 JZ with 6/30 ammunition.",
+                "caption": "First upgrade: 5,000 points.",
+                "source": "https://www.youtube.com/watch?v=XFL0o5SiG9o&t=160s",
+                "credit": "UnknownPlayer / Activision"
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "title": "r/CODZombies — The Giant map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+          },
+          {
+            "title": "UnknownPlayer — 5,000-point purchase and 6/30 result",
+            "url": "https://www.youtube.com/watch?v=XFL0o5SiG9o"
+          }
+        ],
+        "relatedGuideIds": [
+          "bo3-the-giant-community-the-giant-map-walkthrough-pack-a-punch",
+          "bo3-the-giant-community-the-giant-special-weapons-wunderwaffe-dg-2"
+        ],
+        "checked": "2026-10-17",
+        "sourceQuote": null,
+        "sourceOmissions": [],
+        "sharedSource": false,
+        "supplementNote": "Original BO3 instructions checked against the linked map guide and firsthand footage. Photos identify the shown locations; this is source research, not an independent retail replay."
+      }
+    }
+  },
+  "the-giant-special-weapons-annihilator-pistol": {
+    "mapOverrides": {
+      "bo3-the-giant": {
+        "title": "Annihilator — claim, equip & recharge",
+        "category": "weapon",
+        "difficulty": "Easy",
+        "players": "1–4",
+        "summary": "Use the Fly Trap companion to unlock the glowing specialist pistol, then manage its separate charge.",
+        "requirements": [
+          "Complete the BO3 Fly Trap hunt in this match.",
+          "Reach the lit furnace behind the VMP Garage wall buy."
+        ],
+        "reward": "An Annihilator specialist weapon, separate from your ordinary gun slots.",
+        "steps": [
+          {
+            "title": "Claim your own pistol",
+            "body": "After all three Fly Trap toys are shot, approach the glowing lit furnace in the Garage behind the VMP wall buy. Hold Interact to collect the Annihilator. Each teammate can claim their own.",
+            "original": true,
+            "researchSource": "https://www.youtube.com/watch?v=ThcHUi771cw&t=188s",
+            "images": [
+              {
+                "src": "./assets/classic-batch15-giant-annihilator-claim.webp",
+                "alt": "Glowing Annihilator in garage furnace.",
+                "caption": "Interact to collect it.",
+                "source": "https://www.youtube.com/watch?v=ThcHUi771cw&t=188s",
+                "credit": "JokerAlex 21 / Activision"
+              }
+            ]
+          },
+          {
+            "title": "Equip through the specialist binding",
+            "body": "Use the specialist-weapon input shown on your HUD, rather than swapping an ordinary gun. The charged Annihilator provides 18 shots and does not occupy a regular weapon slot.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+          },
+          {
+            "title": "Recharge",
+            "body": "Kills recharge it; Max Ammo does not. It cannot be Pack-a-Punched.",
+            "original": true,
+            "researchSource": "https://steamcommunity.com/sharedfiles/filedetails/?id=587512788"
+          }
+        ],
+        "sources": [
+          {
+            "title": "r/CODZombies — The Giant map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+          },
+          {
+            "title": "JokerAlex 21 — Fly Trap claim and reward",
+            "url": "https://www.youtube.com/watch?v=ThcHUi771cw"
+          },
+          {
+            "title": "°Phil° — retained BO3 Annihilator handling notes",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=587512788"
+          }
+        ],
+        "relatedGuideIds": [
+          "bo3-the-giant-fly-trap"
+        ],
+        "checked": "2026-10-17",
+        "sourceQuote": null,
+        "sourceOmissions": [],
+        "sharedSource": false,
+        "supplementNote": "Original BO3 instructions checked against the linked map guide and firsthand footage. Photos identify the shown locations; this is source research, not an independent retail replay."
+      }
+    }
+  },
+  "the-giant-easter-eggs-jump-scare": {
+    "mapOverrides": {
+      "bo3-the-giant": {
+        "title": "Teleportation portraits — Richtofen overlay",
+        "category": "side",
+        "difficulty": "Easy",
+        "players": "1–4",
+        "summary": "Watch for the brief normal and zombified Richtofen portraits during teleportation.",
+        "requirements": [
+          "BO3 The Giant; power and a linked teleporter.",
+          "1,500 points for a normal paid teleport."
+        ],
+        "reward": "A brief visual overlay during the teleport; no item to collect.",
+        "steps": [
+          {
+            "title": "Take a linked teleporter ride",
+            "body": "Stand on a linked A, B or C pad and pay for a normal teleport to the Mainframe. Watch the transition before you reappear in spawn.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+          },
+          {
+            "title": "Watch the portrait overlay",
+            "body": "Normal and zombified Richtofen faces can briefly appear over the teleport effect. A specific trip is not guaranteed here; do not spend Monkey Bombs trying to force a third-trip trigger.",
+            "original": true,
+            "researchSource": "https://www.youtube.com/watch?v=WRh_bqE7V_A&t=895s",
+            "images": [
+              {
+                "src": "./assets/classic-batch15-giant-teleport-portraits.webp",
+                "alt": "Richtofen portraits during teleportation.",
+                "caption": "A brief visual overlay.",
+                "source": "https://www.youtube.com/watch?v=WRh_bqE7V_A&t=896s",
+                "credit": "MrWilliamThor / Activision"
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "title": "r/CODZombies — The Giant map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+          },
+          {
+            "title": "MrWilliamThor — original BO3 teleport portrait scene",
+            "url": "https://www.youtube.com/watch?v=WRh_bqE7V_A"
+          }
+        ],
+        "relatedGuideIds": [
+          "bo3-the-giant-community-the-giant-map-walkthrough-pack-a-punch"
+        ],
+        "checked": "2026-10-17",
+        "sourceQuote": null,
+        "sourceOmissions": [],
+        "sharedSource": false,
+        "supplementNote": "Original BO3 instructions checked against the linked map guide and firsthand footage. Photos identify the shown locations; this is source research, not an independent retail replay."
+      }
+    }
+  },
+  "the-giant-easter-eggs-beauty-of-annihilation-remix-music-easter-egg": {
+    "mapOverrides": {
+      "bo3-the-giant": {
+        "title": "Beauty of Annihilation Remix — three specimen jars",
+        "category": "music",
+        "difficulty": "Easy",
+        "players": "1–4",
+        "summary": "Two jars in the Kuda laboratory and one by Teleporter B; the high shelf requires a jumping interaction.",
+        "requirements": [
+          "BO3 The Giant; open the routes to the Kuda laboratory and Teleporter B.",
+          "Use Interact on all three jars; no special weapon required."
+        ],
+        "reward": "Beauty of Annihilation Remix plays once during the match.",
+        "steps": [
+          {
+            "title": "Kuda room — high shelf",
+            "body": "Take the left spawn route into the Kuda/Animal Testing laboratory. Face the specimen shelf, jump and hold Interact while close to its high jar. Listen for the confirmation cue.",
+            "original": true,
+            "researchSource": "https://www.youtube.com/watch?v=OcykYUJQi1I&t=10s",
+            "images": [
+              {
+                "src": "./assets/classic-batch15-giant-song-shelf.webp",
+                "alt": "High specimen shelf in Kuda room.",
+                "caption": "Jump and hold Interact.",
+                "source": "https://www.youtube.com/watch?v=OcykYUJQi1I&t=20s",
+                "credit": "JokerAlex 21 / Activision"
+              }
+            ]
+          },
+          {
+            "title": "Kuda room — opposite table",
+            "body": "In the same room, turn to the opposite counter beside the chemistry equipment. Hold Interact beside the second specimen jar until its cue plays.",
+            "original": true,
+            "researchSource": "https://www.youtube.com/watch?v=OcykYUJQi1I&t=25s",
+            "images": [
+              {
+                "src": "./assets/classic-batch15-giant-song-table.webp",
+                "alt": "Second specimen beside chemistry equipment.",
+                "caption": "Opposite the high shelf.",
+                "source": "https://www.youtube.com/watch?v=OcykYUJQi1I&t=30s",
+                "credit": "JokerAlex 21 / Activision"
+              }
+            ]
+          },
+          {
+            "title": "Teleporter B — specimen table",
+            "body": "Visit the right-side cooling-vat/Teleporter B area. Use the specimen jar on the table near the HVK-30 and grenade wall buys. Any order works; the third confirmed jar starts the remix once this match.",
+            "original": true,
+            "researchSource": "https://www.youtube.com/watch?v=OcykYUJQi1I&t=34s",
+            "images": [
+              {
+                "src": "./assets/classic-batch15-giant-song-b.webp",
+                "alt": "Specimen table near Teleporter B.",
+                "caption": "Third jar location.",
+                "source": "https://www.youtube.com/watch?v=OcykYUJQi1I&t=45s",
+                "credit": "JokerAlex 21 / Activision"
+              }
+            ],
+            "tip": "No song? Revisit any jar whose cue you missed; jump for the high shelf. Power, Pack-a-Punch and Monkey Bombs are not part of this trigger."
+          }
+        ],
+        "sources": [
+          {
+            "title": "r/CODZombies — The Giant map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+          },
+          {
+            "title": "JokerAlex 21 — three BO3 song jars",
+            "url": "https://www.youtube.com/watch?v=OcykYUJQi1I"
+          }
+        ],
+        "relatedGuideIds": [],
+        "checked": "2026-10-17",
+        "sourceQuote": null,
+        "sourceOmissions": [],
+        "sharedSource": false,
+        "supplementNote": "Original BO3 instructions checked against the linked map guide and firsthand footage. Photos identify the shown locations; this is source research, not an independent retail replay."
+      }
+    }
+  },
+  "the-giant-easter-eggs-sixth-perk": {
+    "mapOverrides": {
+      "bo3-the-giant": {
+        "title": "Hidden perk machine — three Monkey teleports",
+        "category": "side",
+        "difficulty": "Medium",
+        "players": "1–4",
+        "summary": "Register one Monkey at each linked teleporter, then fire the Mainframe console’s snow-melting laser.",
+        "requirements": [
+          "BO3 The Giant; power on and all three teleporter links complete.",
+          "Monkey Bombs from the Mystery Box: one for each pad.",
+          "Budget 4,500 for three normal 1,500-point rides, plus the revealed perk’s purchase price."
+        ],
+        "reward": "A buyable Stamin-Up or Deadshot Daiquiri machine beside the L-CAR 9 snow pile.",
+        "steps": [
+          {
+            "title": "Check the console before starting",
+            "body": "Find the small three-lamp console beside the Mainframe/Pack-a-Punch in spawn. Each green lamp records a successful Monkey teleport from one of A, B and C.",
+            "original": true,
+            "researchSource": "https://www.youtube.com/watch?v=NsXkIhCxyBU&t=58s"
+          },
+          {
+            "title": "Throw a Monkey onto a linked pad",
+            "body": "Stand at one linked teleporter. Arm and throw a Monkey onto its floor circle, then activate the paid ride while the Monkey is still there. Travel back to the Mainframe with it.",
+            "original": true,
+            "researchSource": "https://www.youtube.com/watch?v=NsXkIhCxyBU&t=34s",
+            "images": [
+              {
+                "src": "./assets/classic-batch15-giant-monkey-arming.webp",
+                "alt": "Monkey Bomb being armed on pad.",
+                "caption": "Throw before paying.",
+                "source": "https://www.youtube.com/watch?v=NsXkIhCxyBU&t=50s",
+                "credit": "JokerAlex 21 / Activision"
+              }
+            ]
+          },
+          {
+            "title": "Repeat at the other two pads",
+            "body": "Use a fresh Monkey at each other teleporter; A, B and C may be completed in any order. Check for another green lamp after each return. Three normal rides cost 4,500 in total.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+          },
+          {
+            "title": "Retry only a pad that did not register",
+            "body": "If a lamp stays red, revisit its teleporter after it is ready and repeat the Monkey-and-ride action. Replace any spent Monkeys before retrying; do not press the final console until all three lamps are green.",
+            "original": true,
+            "researchSource": "https://www.youtube.com/watch?v=NsXkIhCxyBU&t=108s",
+            "images": [
+              {
+                "src": "./assets/classic-batch15-giant-hidden-console.webp",
+                "alt": "Three green lamps beside Mainframe.",
+                "caption": "All three pads registered.",
+                "source": "https://www.youtube.com/watch?v=NsXkIhCxyBU&t=108s",
+                "credit": "JokerAlex 21 / Activision"
+              }
+            ]
+          },
+          {
+            "title": "Press the Mainframe console",
+            "body": "With three green lamps, hold Interact on the console. The robot-head laser reflects off the sign and melts the snow pile by the L-CAR 9 route.",
+            "original": true,
+            "researchSource": "https://www.youtube.com/watch?v=NsXkIhCxyBU&t=96s"
+          },
+          {
+            "title": "Buy the machine that appeared",
+            "body": "Walk to the melted snow beside the L-CAR 9. This match reveals either Stamin-Up or Deadshot Daiquiri. Buy it normally; revealing the machine gives neither a free perk nor an extra standard perk slot.",
+            "original": true,
+            "researchSource": "https://www.youtube.com/watch?v=NsXkIhCxyBU&t=128s",
+            "images": [
+              {
+                "src": "./assets/classic-batch15-giant-hidden-perk.webp",
+                "alt": "Deadshot machine revealed beside snow.",
+                "caption": "This match revealed Deadshot.",
+                "source": "https://www.youtube.com/watch?v=NsXkIhCxyBU&t=128s",
+                "credit": "JokerAlex 21 / Activision"
+              }
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "title": "r/CODZombies — The Giant map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+          },
+          {
+            "title": "JokerAlex 21 — all three pads, green lamps and laser reward",
+            "url": "https://www.youtube.com/watch?v=NsXkIhCxyBU"
+          },
+          {
+            "title": "JokerAlex 21 — hidden-machine walkthrough",
+            "url": "https://www.codzombieguides.com/the-giant"
+          }
+        ],
+        "relatedGuideIds": [
+          "bo3-the-giant-community-the-giant-map-walkthrough-power",
+          "bo3-the-giant-community-the-giant-map-walkthrough-pack-a-punch",
+          "bo3-the-giant-community-the-giant-special-weapons-monkey-bombs",
+          "bo3-the-giant-perk-machine-bonus"
+        ],
+        "checked": "2026-10-17",
+        "sourceQuote": null,
+        "sourceOmissions": [],
+        "sharedSource": false,
+        "supplementNote": "Original BO3 instructions checked against the linked map guide and firsthand footage. Photos identify the shown locations; this is source research, not an independent retail replay."
+      }
+    }
+  },
+  "the-giant-easter-eggs-main-easter-egg": {
+    "mapOverrides": {
+      "bo3-the-giant": {
+        "title": "Fly Trap — three toys & Annihilator",
+        "category": "main",
+        "difficulty": "Medium",
+        "players": "1–4",
+        "summary": "Upgrade a bullet gun, start the distant panel, shoot three toys, then claim the Garage specialist weapon.",
+        "requirements": [
+          "BO3 The Giant; solo or co-op in the same match.",
+          "Power, all three teleporter links, and a Pack-a-Punched conventional bullet weapon."
+        ],
+        "reward": "Annihilator specialist weapon for each player who claims it; no ending cutscene.",
+        "steps": [
+          {
+            "title": "Prepare an upgraded bullet weapon",
+            "body": "Turn on power, complete all three teleporter links and Pack-a-Punch a conventional bullet gun for 5,000. Keep it equipped for the distant starting panel.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+          },
+          {
+            "title": "Shoot the panel beyond the L-CAR window",
+            "body": "Take the left spawn route to the L-CAR 9. Look through its nearby zombie barrier and shoot the small distant panel on a pillar with the upgraded gun. Green objects rise and Maxis begins speaking.",
+            "original": true,
+            "researchSource": "https://www.youtube.com/watch?v=ThcHUi771cw&t=32s",
+            "images": [
+              {
+                "src": "./assets/classic-batch15-giant-flytrap-panel.webp",
+                "alt": "Distant panel beyond L-CAR window.",
+                "caption": "Aim through this barrier.",
+                "source": "https://www.youtube.com/watch?v=ThcHUi771cw&t=40s",
+                "credit": "JokerAlex 21 / Activision"
+              }
+            ],
+            "tip": "If nothing happens, adjust your aim to the panel itself and try again; the green launch and voice confirm the start."
+          },
+          {
+            "title": "Toy: unlit furnace below Teleporter A",
+            "body": "Go beneath the left-side Teleporter A route. Shoot the Monkey Bomb in the open, unlit coal furnace. Listen for the next voice cue.",
+            "original": true,
+            "researchSource": "https://www.youtube.com/watch?v=ThcHUi771cw&t=72s",
+            "images": [
+              {
+                "src": "./assets/classic-batch15-giant-flytrap-furnace.webp",
+                "alt": "Unlit furnace beneath Teleporter A.",
+                "caption": "First toy furnace.",
+                "source": "https://www.youtube.com/watch?v=ThcHUi771cw&t=85s",
+                "credit": "JokerAlex 21 / Activision"
+              }
+            ]
+          },
+          {
+            "title": "Toy: high balcony outside power",
+            "body": "From the generator/power courtyard or nearby bridge, aim toward the high fire-escape balcony outside the playable area. Shoot the teddy bear there and listen for its cue.",
+            "original": true,
+            "researchSource": "https://www.youtube.com/watch?v=ThcHUi771cw&t=101s",
+            "images": [
+              {
+                "src": "./assets/classic-batch15-giant-flytrap-balcony.webp",
+                "alt": "High balcony outside power courtyard.",
+                "caption": "Aim at the balcony.",
+                "source": "https://www.youtube.com/watch?v=ThcHUi771cw&t=107s",
+                "credit": "JokerAlex 21 / Activision"
+              }
+            ]
+          },
+          {
+            "title": "Toy: left cooling vat beside Teleporter B",
+            "body": "Go to the two orange-lit cooling vats beside right-side Teleporter B. Jump at the left vat’s edge and shoot down at the teddy bear inside. This is B, not the rear C platform.",
+            "original": true,
+            "researchSource": "https://www.youtube.com/watch?v=ThcHUi771cw&t=121s",
+            "images": [
+              {
+                "src": "./assets/classic-batch15-giant-flytrap-vat.webp",
+                "alt": "Left cooling vat beside Teleporter B.",
+                "caption": "Jump for this angle.",
+                "source": "https://www.youtube.com/watch?v=ThcHUi771cw&t=148s",
+                "credit": "JokerAlex 21 / Activision"
+              }
+            ]
+          },
+          {
+            "title": "Confirm all three toys were hit",
+            "body": "The three toys can be shot in any order. Each successful hit removes its toy and prompts a voice line. If the reward is absent, revisit whichever toy has not registered; do not restart the panel hunt unnecessarily.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+          },
+          {
+            "title": "Collect from the lit Garage furnace",
+            "body": "Return to the lit furnace behind the VMP Garage wall buy, on the right spawn route. Hold Interact on the glowing Annihilator. Each player can collect their own specialist pistol.",
+            "original": true,
+            "researchSource": "https://www.youtube.com/watch?v=ThcHUi771cw&t=188s",
+            "images": [
+              {
+                "src": "./assets/classic-batch15-giant-annihilator-claim.webp",
+                "alt": "Glowing Annihilator in garage furnace.",
+                "caption": "Interact to collect it.",
+                "source": "https://www.youtube.com/watch?v=ThcHUi771cw&t=188s",
+                "credit": "JokerAlex 21 / Activision"
+              }
+            ],
+            "tip": "This glowing reward furnace is different from the unlit Teleporter A toy furnace. See the Annihilator card for equipping and recharge."
+          }
+        ],
+        "sources": [
+          {
+            "title": "r/CODZombies — The Giant map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/the-giant/"
+          },
+          {
+            "title": "JokerAlex 21 — full BO3 Fly Trap route",
+            "url": "https://www.youtube.com/watch?v=ThcHUi771cw"
+          }
+        ],
+        "relatedGuideIds": [
+          "bo3-the-giant-community-the-giant-map-walkthrough-power",
+          "bo3-the-giant-community-the-giant-map-walkthrough-pack-a-punch",
+          "bo3-the-giant-community-the-giant-special-weapons-annihilator-pistol"
+        ],
+        "checked": "2026-10-17",
+        "sourceQuote": null,
+        "sourceOmissions": [],
+        "sharedSource": false,
+        "supplementNote": "Original BO3 instructions checked against the linked map guide and firsthand footage. Photos identify the shown locations; this is source research, not an independent retail replay."
+      }
+    }
   }
 }
