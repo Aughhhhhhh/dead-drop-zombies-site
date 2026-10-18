@@ -552,17 +552,102 @@
     "category": "side",
     "difficulty": "Easy",
     "players": "1–4 players",
-    "summary": "Claim the account reward for completing Cold War's six story quests at Zoo's Ritual Site.",
+    "summary": "Check all six quest completions, use any region’s tiger mask to reach Zoo, and claim or update your starting-weapon rarity.",
     "requirements": [
-      "At least two of Die Maschine, Firebase Z, Mauer der Toten, Forsaken and the two Outbreak main quests completed online",
-      "Outbreak's Zoo region; quest completion must be recorded on your account"
+      "Standard Black Ops Cold War Outbreak, connected to the account that earned the quest completions.",
+      "At least two completed story quests are needed to make the Pact. All six are needed for the Epic starting-weapon tier.",
+      "Touch one regional tiger mask, complete that region’s main objective, then choose Warp to reach Zoo."
     ],
-    "reward": "Starting loadout rarity: Uncommon at two quests, Rare at four, Epic at all six; related emblems, watch and completion calling card",
+    "reward": "Future starting-loadout rarity: Uncommon at two quests, Rare at four, Epic at six. The full Pact also includes twelve portrait emblems, the Dark Deeds watch and The Pact Dark Ops calling card.",
     "steps": [
       {
+        "title": "Check the six story quests",
+        "body": "The six completions are Die Maschine, Firebase Z, Mauer der Toten, Forsaken, Outbreak’s Ravenov Implications / Legion, and Outbreak’s Operation Excision. The related guides below open each route. These are story clears; ordinary region objectives and side events do not replace them.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/1bq3uyz/",
+        "tip": "Use the account that earned the clears. A calling card alone may not resolve a missing pillar: players have reported quest-tracking mismatches."
+      },
+      {
         "title": "Reach Zoo",
-        "body": "Warp through Outbreak until Zoo appears. You can force the next region to Zoo by interacting with a tiger mask in a different region. The Ritual Site is on Zoo's northeastern Foothills.",
-        "tip": "You can enter the ritual area without all six quests, but fewer than two completed quests cannot claim the weapon reward.",
+        "body": "If you are already in Zoo, go to the Ritual Site chapter. Otherwise, touch the tiger mask for your current region. Listen for its acknowledgement, complete the regional objective, and choose Warp at the beacon. The next region will be Zoo.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=B0KHJH_e3EM&t=30s",
+        "tip": "You need one mask interaction, not all seven. Exfil ends the run.",
+        "images": [
+          {
+            "src": "./assets/batch13-pact-mask-checklist.svg",
+            "alt": "Seven tiger-mask landmarks — original reference diagram",
+            "caption": "Seven tiger-mask landmarks · Reference diagram, not gameplay.",
+            "source": "https://www.reddit.com/r/CODZombies/comments/ubpwxe/the_super_ee_rewards/",
+            "credit": "Dead Drop · original reference diagram"
+          }
+        ]
+      },
+      {
+        "title": "Ruka: Obstacle Course mask",
+        "body": "Search the Obstacle Course for the tiger mask and interact with it. This is Ruka’s Zoo-routing mask; it is separate from the burned-forest D.I.E. case.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/ubpwxe/the_super_ee_rewards/"
+      },
+      {
+        "title": "Golova: Town Center statue mask",
+        "body": "Go to Town Center and look on the ground at the base of the large Lenin statue. Face the plaque and flowers; the mask sits immediately below the plaque. Interact when Touch Mask appears.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=B0KHJH_e3EM&t=115s",
+        "images": [
+          {
+            "src": "./assets/batch13-pact-mask-closeup.webp",
+            "alt": "Golova: mask beneath the statue plaque.",
+            "caption": "Golova: mask beneath the statue plaque.",
+            "source": "https://www.youtube.com/watch?v=B0KHJH_e3EM&t=115s",
+            "credit": "Spesh · 2022 gameplay; Call of Duty © Activision"
+          }
+        ]
+      },
+      {
+        "title": "Alpine: Lower Chairlift mask",
+        "body": "Go below the Lower Chairlift and look for the tiger mask. Interact with that mask before completing the region and using the beacon to warp.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/ubpwxe/the_super_ee_rewards/"
+      },
+      {
+        "title": "Duga: Unused Lot mask",
+        "body": "Check the bus-stop bench in the Unused Lot. Touch the tiger mask on the bench to set Zoo as the next region.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/ubpwxe/the_super_ee_rewards/"
+      },
+      {
+        "title": "Sanatorium: pool-floor mask",
+        "body": "Enter Sanatorium Pool and swim to its bottom. Look for the tiger mask on the tiled pool floor and interact with it, then return to your regional objective.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=B0KHJH_e3EM&t=125s",
+        "images": [
+          {
+            "src": "./assets/batch13-pact-pool.webp",
+            "alt": "Sanatorium: submerged pool-floor reference.",
+            "caption": "Sanatorium: submerged pool-floor reference.",
+            "source": "https://www.youtube.com/watch?v=B0KHJH_e3EM&t=130s",
+            "credit": "Spesh · 2022 gameplay; Call of Duty © Activision"
+          }
+        ]
+      },
+      {
+        "title": "Collateral: Warehouse mask",
+        "body": "At the Warehouse opposite Pack-a-Punch, check the right entrance for the tiger mask. Interact with it before using the normal objective-and-warp route.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/ubpwxe/the_super_ee_rewards/"
+      },
+      {
+        "title": "Armada: Control Room mask",
+        "body": "Board the central ship and check its Control Room for the tiger mask. Interact with it; you still need to complete the current objective before warping to Zoo.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/ubpwxe/the_super_ee_rewards/"
+      },
+      {
+        "title": "Zoo: find the northeastern Ritual Site",
+        "body": "Go to Foothills on Zoo’s northeastern edge. Look for the six stone pillars surrounding a low central altar. This is the Ritual Site, away from the main animal enclosures.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/ubpwxe/the_super_ee_rewards/",
         "images": [
           {
             "src": "./assets/modern-coldwar-outbreak-pact-pact_map.webp",
@@ -570,33 +655,62 @@
             "caption": "Zoo: northeastern Ritual Site",
             "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
             "source": "https://mmmrkennedy.com/games/BO_CW/outbreak/outbreak_CW_guide"
+          },
+          {
+            "src": "./assets/batch13-pact-altar.webp",
+            "alt": "Zoo: central altar and surrounding pillars.",
+            "caption": "Zoo: central altar and surrounding pillars.",
+            "source": "https://www.youtube.com/watch?v=B0KHJH_e3EM&t=80s",
+            "credit": "Spesh · 2022 gameplay; Call of Duty © Activision"
           }
         ]
       },
       {
         "title": "Inspect the six pillars and make the pact",
-        "body": "Each lit pillar corresponds to a completed story quest. Interact with the central altar to claim the reward at your current completion tier. At two, four or six quests, future starting loadout guns begin at green, blue or purple rarity."
+        "body": "Each glowing pillar represents a recorded story clear. With at least two clears, use Make the Pact at the central altar and let the sequence finish. Your reward tier follows the total: two or three quests → green; four or five → blue; six → purple.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/ubpwxe/the_super_ee_rewards/",
+        "tip": "Check the actual interaction text. Break the Pact means the starting-weapon benefit is already enabled."
       },
       {
         "title": "Return after additional quests",
-        "body": "If you complete more story quests later, revisit the altar to update your reward. Interacting again can also toggle the starting-weapon benefit off; check the altar prompt so you keep the setting you intend."
+        "body": "After earning more clears, return to update the reward. If needed, use Break the Pact, then Make the Pact again. Breaking disables the future starting-weapon rarity benefit; making it again restores the tier supported by your recorded completions.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/ColdWarZombies/comments/uejvdc/",
+        "tip": "Confirm your starting weapon’s rarity when you launch the next match. The Pact does not Pack-a-Punch that gun."
       }
     ],
     "sources": [
       {
-        "title": "r/CODZombies: The Pact conditions and reward thresholds",
+        "title": "u/Kalinine — reward tiers and all seven mask landmarks",
         "url": "https://www.reddit.com/r/CODZombies/comments/ubpwxe/the_super_ee_rewards/"
       },
       {
-        "title": "r/CODZombies: pillar tracking and toggling the benefit",
+        "title": "Spesh — Golova, Sanatorium and make / break gameplay (April 2022)",
+        "url": "https://www.youtube.com/watch?v=B0KHJH_e3EM"
+      },
+      {
+        "title": "Players — pillar tracking and account mismatches",
         "url": "https://www.reddit.com/r/CODZombies/comments/1bq3uyz/"
       },
       {
-        "title": "mmmrkennedy: Ritual Site map",
+        "title": "Firsthand — returning to break and remake the Pact",
+        "url": "https://www.reddit.com/r/ColdWarZombies/comments/uejvdc/"
+      },
+      {
+        "title": "Inherited Ritual Site map attribution",
         "url": "https://mmmrkennedy.com/games/BO_CW/outbreak/outbreak_CW_guide"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-18",
+    "relatedGuideIds": [
+      "coldwar-die-maschine-main",
+      "coldwar-firebase-z-main",
+      "coldwar-mauer-der-toten-main",
+      "coldwar-forsaken-main",
+      "coldwar-outbreak-legion-main",
+      "coldwar-outbreak-operation-excision"
+    ]
   },
   {
     "id": "coldwar-outbreak-die-elements",
@@ -605,72 +719,152 @@
     "category": "weapon",
     "difficulty": "Easy",
     "players": "1–4 players",
-    "summary": "Swap a D.I.E. Shockwave into its elemental forms through four region-specific cases.",
+    "summary": "Find the four fixed elemental cases, with a separate map and crate photograph for each region.",
     "requirements": [
-      "Obtain and hold a D.I.E. from the Mystery Box, a Legendary Trial reward or loot",
-      "Reach the region containing the element you want; no Die Maschine upgrade ritual is needed"
+      "Standard Black Ops Cold War Outbreak; acquire a D.I.E. from a random weapon / loot reward first.",
+      "The four cases exchange an owned D.I.E.; they do not award the base weapon. No Die Maschine elemental ritual is required.",
+      "Pack-a-Punch support requires the Season Six update or later."
     ],
-    "reward": "Electrobolt, Nova-5, Cryo-Emitter or Thermophasic D.I.E. form",
+    "reward": "Four reusable elemental exchanges: Electrobolt, Cryo-Emitter, NOVA-5 and Thermophasic. Pack-a-Punch damage upgrades are separate.",
     "steps": [
       {
         "title": "Find the case matching your region",
-        "body": "Duga: top of the large Primary Array tower, Electrobolt. Golova: atop the cylindrical train-loading silo near the western boundary, Nova-5. Alpine: frozen pond by the Upper Highway near the southern boundary, Cryo-Emitter. Ruka: southwest burned forest near a hollow tree, Thermophasic.",
-        "tip": "The attached maps mark the cases; they are fixed locations.",
+        "body": "Acquire a D.I.E. through the Mystery Box, a Legendary Trial reward or a lucky loot drop. Keep it equipped when approaching a case. Use the region chapters below; the cases are not four parts that you must collect in one match.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/ColdWarZombies/comments/1fg9fg3/",
+        "tip": "These four locations apply to Outbreak. Die Maschine uses a separate upgrade quest."
+      },
+      {
+        "title": "Duga: Electrobolt",
+        "body": "Go to the top walkway of the enormous Primary Array. At the end beside its tower, interact with the crate for Electrobolt.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=BKPl1V7xUhk&t=45s",
         "images": [
           {
             "src": "./assets/modern-coldwar-outbreak-die-electro_box_map.webp",
-            "alt": "D.I.E. case location: electro box map",
-            "caption": "D.I.E. case location: electro box map",
+            "alt": "Duga: Electrobolt case marker.",
+            "caption": "Duga: Electrobolt case marker.",
             "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
             "source": "https://mmmrkennedy.com/games/BO_CW/outbreak/outbreak_CW_guide"
           },
           {
-            "src": "./assets/modern-coldwar-outbreak-die-nova_box_map.webp",
-            "alt": "D.I.E. case location: nova box map",
-            "caption": "D.I.E. case location: nova box map",
-            "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
-            "source": "https://mmmrkennedy.com/games/BO_CW/outbreak/outbreak_CW_guide"
-          },
+            "src": "./assets/batch13-die-duga.webp",
+            "alt": "Duga: Primary Array exchange crate.",
+            "caption": "Duga: Primary Array exchange crate.",
+            "source": "https://www.youtube.com/watch?v=BKPl1V7xUhk&t=60s",
+            "credit": "Spesh · 2021 gameplay; Call of Duty © Activision"
+          }
+        ]
+      },
+      {
+        "title": "Alpine: Cryo-Emitter",
+        "body": "Go to the small frozen pond beside Upper Highway on the southern edge. The case on the ice equips Cryo-Emitter.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=BKPl1V7xUhk&t=75s",
+        "images": [
           {
             "src": "./assets/modern-coldwar-outbreak-die-cryo_map.webp",
-            "alt": "D.I.E. case location: cryo map",
-            "caption": "D.I.E. case location: cryo map",
+            "alt": "Alpine: Cryo-Emitter case marker.",
+            "caption": "Alpine: Cryo-Emitter case marker.",
             "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
             "source": "https://mmmrkennedy.com/games/BO_CW/outbreak/outbreak_CW_guide"
           },
           {
-            "src": "./assets/modern-coldwar-outbreak-die-thermo_map.webp",
-            "alt": "D.I.E. case location: thermo map",
-            "caption": "D.I.E. case location: thermo map",
+            "src": "./assets/batch13-die-alpine.webp",
+            "alt": "Alpine: case on the frozen pond.",
+            "caption": "Alpine: case on the frozen pond.",
+            "source": "https://www.youtube.com/watch?v=BKPl1V7xUhk&t=80s",
+            "credit": "Spesh · 2021 gameplay; Call of Duty © Activision"
+          }
+        ]
+      },
+      {
+        "title": "Golova: NOVA-5",
+        "body": "Go to western Train Loading, climb the cylindrical silo and check the case on top, beside its central pipe, for NOVA-5.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=BKPl1V7xUhk&t=110s",
+        "images": [
+          {
+            "src": "./assets/modern-coldwar-outbreak-die-nova_box_map.webp",
+            "alt": "Golova: NOVA-5 case marker.",
+            "caption": "Golova: NOVA-5 case marker.",
             "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
             "source": "https://mmmrkennedy.com/games/BO_CW/outbreak/outbreak_CW_guide"
+          },
+          {
+            "src": "./assets/batch13-die-golova.webp",
+            "alt": "Golova: Train Loading silo crate.",
+            "caption": "Golova: Train Loading silo crate.",
+            "source": "https://www.youtube.com/watch?v=BKPl1V7xUhk&t=110s",
+            "credit": "Spesh · 2021 gameplay; Call of Duty © Activision"
+          }
+        ]
+      },
+      {
+        "title": "Ruka: Thermophasic",
+        "body": "Go to the southeast edge of Burnt Forest. Check beside the hollow tree at the phase boundary for Thermophasic.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=BKPl1V7xUhk&t=150s",
+        "tip": "Stay inside the playable boundary while searching.",
+        "images": [
+          {
+            "src": "./assets/modern-coldwar-outbreak-die-thermo_map.webp",
+            "alt": "Ruka: southeast Thermophasic case marker.",
+            "caption": "Ruka: southeast Thermophasic case marker.",
+            "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/outbreak/outbreak_CW_guide"
+          },
+          {
+            "src": "./assets/batch13-die-ruka.webp",
+            "alt": "Ruka: Burnt Forest exchange crate.",
+            "caption": "Ruka: Burnt Forest exchange crate.",
+            "source": "https://www.youtube.com/watch?v=BKPl1V7xUhk&t=155s",
+            "credit": "Spesh · 2021 gameplay; Call of Duty © Activision"
           }
         ]
       },
       {
         "title": "Interact while holding the D.I.E.",
-        "body": "Approach the case with your D.I.E. selected and interact to swap its element. The region case handles the swap immediately; you do not have to build an Aetherscope or collect elemental parts here."
+        "body": "Select your D.I.E. and use the case interaction. Confirm the displayed variant before leaving. These cases work directly; Outbreak does not require the Aetherscope, flask or canister procedures from Die Maschine.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/ColdWarZombies/comments/1fg9fg3/"
       },
       {
         "title": "Keep or change the form later",
-        "body": "Carry the weapon through warps and switch at another region's case when you want a different element. Pack-a-Punch upgrades are separate from the elemental swap; use a machine for damage upgrades."
+        "body": "The chosen element travels with you through region warps. Swap again at another elemental case when needed. Zoo, Collateral, Armada and Sanatorium do not add alternative locations for these four cases.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/ColdWarZombies/comments/1fg9fg3/"
+      },
+      {
+        "title": "Use Pack-a-Punch for damage upgrades",
+        "body": "On the updated game, take the D.I.E. or its chosen elemental form to Pack-a-Punch. Elemental swapping and Pack-a-Punch damage tiers are separate upgrades; old launch videos saying it cannot be packed predate Season Six.",
+        "original": true,
+        "researchSource": "https://www.treyarch.com/game-intel/2021/10/Season_Six_Arrives_Oct_7"
       }
     ],
     "sources": [
       {
-        "title": "r/ColdWarZombies: exact region cases and direct swaps",
+        "title": "Spesh — original four-case gameplay (April 22, 2021)",
+        "url": "https://www.youtube.com/watch?v=BKPl1V7xUhk"
+      },
+      {
+        "title": "2024 players — exact cases, direct swaps and region persistence",
         "url": "https://www.reddit.com/r/ColdWarZombies/comments/1fg9fg3/"
       },
       {
-        "title": "r/CODZombies: Duga, Ruka, Golova and Alpine case clarification",
-        "url": "https://www.reddit.com/r/CODZombies/comments/s7vo1s/"
+        "title": "Treyarch — Season Six D.I.E. Pack-a-Punch support",
+        "url": "https://www.treyarch.com/game-intel/2021/10/Season_Six_Arrives_Oct_7"
       },
       {
-        "title": "mmmrkennedy: elemental-case maps",
+        "title": "Inherited elemental-case map attribution",
         "url": "https://mmmrkennedy.com/games/BO_CW/outbreak/outbreak_CW_guide"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-18",
+    "relatedGuideIds": [
+      "coldwar-die-maschine-die-upgrades",
+      "coldwar-outbreak-orda-omega"
+    ]
   },
   {
     "id": "coldwar-outbreak-unknown-signal",
@@ -681,113 +875,175 @@
     "players": "1–4 players",
     "summary": "Tune an ordinary radio's three amplifiers. This remains a side event, while its original permanent music unlock is no longer a required grind.",
     "requirements": [
-      "Standard Outbreak; enable subtitles",
-      "Use the orange radio-icon event, distinct from Maxis's unmarked main-quest radio"
+      "Standard Black Ops Cold War Outbreak; enable subtitles so the numbered static can be read.",
+      "Use the ordinary antenna-icon radio event. Maxis’s unmarked radio belongs to the linked Legion main quest."
     ],
-    "reward": "Match essence and the event's cassette drop. Non-Battle-Pass menu tracks were unlocked globally in November 2021.",
+    "reward": "Match essence / cassette loot. Account music access should be checked in Music Player; seasonal Battle Pass mixtapes are separate.",
     "steps": [
       {
         "title": "Find and activate an Unknown Signal radio",
-        "body": "Search the region for a radio whose nearby minimap icon looks like an antenna. Interact to start its defense. Kill the spawned enemies, then listen to the numbered static signal or read its subtitle.",
-        "images": [
-          {
-            "src": "./assets/outbreak-ordinary-music-radio-alpine.webp",
-            "alt": "Alpine ordinary music-radio candidate map",
-            "caption": "Alpine: ordinary music radio and amplifier candidates · Red triangles: radios; yellow triangles: amplifiers.",
-            "source": "https://guiascodzombies.com/black-ops-cold-war/outbreak-cw/radio-de-musica/",
-            "credit": "Tracker Network / Guías COD Zombies"
-          },
-          {
-            "src": "./assets/outbreak-ordinary-music-radio-duga.webp",
-            "alt": "Duga ordinary music-radio candidate map",
-            "caption": "Duga: ordinary music radio and amplifier candidates · Red triangles: radios; yellow triangles: amplifiers.",
-            "source": "https://guiascodzombies.com/black-ops-cold-war/outbreak-cw/radio-de-musica/",
-            "credit": "Tracker Network / Guías COD Zombies"
-          },
-          {
-            "src": "./assets/outbreak-ordinary-music-radio-golova.webp",
-            "alt": "Golova ordinary music-radio candidate map",
-            "caption": "Golova: ordinary music radio and amplifier candidates · Red triangles: radios; yellow triangles: amplifiers.",
-            "source": "https://guiascodzombies.com/black-ops-cold-war/outbreak-cw/radio-de-musica/",
-            "credit": "Tracker Network / Guías COD Zombies"
-          },
-          {
-            "src": "./assets/outbreak-ordinary-music-radio-ruka.webp",
-            "alt": "Ruka ordinary music-radio candidate map",
-            "caption": "Ruka: ordinary music radio and amplifier candidates · Red triangles: radios; yellow triangles: amplifiers.",
-            "source": "https://guiascodzombies.com/black-ops-cold-war/outbreak-cw/radio-de-musica/",
-            "credit": "Tracker Network / Guías COD Zombies"
-          },
-          {
-            "src": "./assets/outbreak-ordinary-music-radio-sanatorium.webp",
-            "alt": "Sanatorium ordinary music-radio candidate map",
-            "caption": "Sanatorium: ordinary music radio and amplifier candidates · Red triangles: radios; yellow triangles: amplifiers.",
-            "source": "https://guiascodzombies.com/black-ops-cold-war/outbreak-cw/radio-de-musica/",
-            "credit": "Tracker Network / Guías COD Zombies"
-          },
-          {
-            "src": "./assets/outbreak-ordinary-music-radio-zoo.webp",
-            "alt": "Zoo ordinary music-radio candidate map",
-            "caption": "Zoo: ordinary music radio and amplifier candidates · Red triangles: radios; yellow triangles: amplifiers.",
-            "source": "https://guiascodzombies.com/black-ops-cold-war/outbreak-cw/radio-de-musica/",
-            "credit": "Tracker Network / Guías COD Zombies"
-          },
-          {
-            "src": "./assets/outbreak-ordinary-music-radio-collateral.webp",
-            "alt": "Collateral ordinary music-radio candidate map",
-            "caption": "Collateral: ordinary music radio and amplifier candidates · Match amplifier arrows to the same-color radio icon.",
-            "source": "https://guiascodzombies.com/black-ops-cold-war/outbreak-cw/radio-de-musica/",
-            "credit": "Guías COD Zombies"
-          },
-          {
-            "src": "./assets/outbreak-ordinary-music-radio-armada.webp",
-            "alt": "Armada ordinary music-radio candidate map",
-            "caption": "Armada: ordinary music radio and amplifier candidates · Match amplifier arrows to the same-color radio icon.",
-            "source": "https://guiascodzombies.com/black-ops-cold-war/outbreak-cw/radio-de-musica/",
-            "credit": "Guías COD Zombies"
-          }
-        ],
-        "tip": "Choose your current region’s candidate map below. Search the ordinary radio markers and its nearby amplifier cluster; open the image for full size."
+        "body": "Find the ordinary radio event using the nearby antenna icon and audible static. Interact, kill the enemies it summons, then listen to the main radio’s active static. Enable subtitles and remember its signal number.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/mnvr8t/",
+        "tip": "Maxis’s unmarked main-quest radio is a separate objective. Use the eight region chapters for ordinary-radio candidates."
       },
       {
         "title": "Tune three local amplifiers",
-        "body": "Search the surrounding buildings and outdoor props for the three smaller radios. Interact repeatedly with each until its active-static number matches the main radio. If a feedback tone summons enemies, finish that wave and continue tuning."
+        "body": "Find the three smaller amplifiers near the active radio. Cycle each until its static matches the main signal. For example, a main signal numbered 4 requires all three amplifiers to play 4. A feedback wave can interrupt tuning; clear it and continue.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/mnvr8t/"
       },
       {
         "title": "Return and take the music drop",
-        "body": "Once all three amplifiers match, interact with the main radio again and collect its essence / cassette drop. This was the original route for Music Player unlocks. Since the November 2021 global track unlock, check Barracks → Music Player before repeating the event for a supposedly missing non-Battle-Pass song.",
-        "tip": "The random pool is not a way to obtain seasonal Battle Pass mixtapes. Different reports still describe cassette drops after the global unlock; the menu playlist is the useful check of account music access."
+        "body": "Return to the main radio after all three amplifiers match, interact and collect the dropped match loot / cassette. The cassette originally unlocked account music. Check the linked Music Player first: the November 2021 announcement unlocked previously locked non-War-Track menu music.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/blackopscoldwar/comments/qmawdn/",
+        "tip": "Radio completion remains a match activity. It does not grant an old seasonal Battle Pass mixtape."
+      },
+      {
+        "title": "Alpine: radio candidates",
+        "body": "Candidates lie north, west and southeast; check the red markers.",
+        "original": true,
+        "researchSource": "https://guiascodzombies.com/black-ops-cold-war/outbreak-cw/radio-de-musica/",
+        "images": [
+          {
+            "src": "./assets/outbreak-ordinary-music-radio-alpine.webp",
+            "alt": "Alpine radio candidates",
+            "caption": "Alpine: red radios; yellow amplifiers.",
+            "source": "https://guiascodzombies.com/black-ops-cold-war/outbreak-cw/radio-de-musica/",
+            "credit": "Tracker Network / Guías COD Zombies"
+          }
+        ],
+        "tip": "These overview maps omit floors and exact heights. Alpine’s southeast cluster shows only two amplifier markers; its third amplifier is not located here."
+      },
+      {
+        "title": "Duga: radio candidates",
+        "body": "Check the northern compound, central buildings or southern complex.",
+        "original": true,
+        "researchSource": "https://guiascodzombies.com/black-ops-cold-war/outbreak-cw/radio-de-musica/",
+        "images": [
+          {
+            "src": "./assets/outbreak-ordinary-music-radio-duga.webp",
+            "alt": "Duga radio candidates",
+            "caption": "Duga: red radios; yellow amplifiers.",
+            "source": "https://guiascodzombies.com/black-ops-cold-war/outbreak-cw/radio-de-musica/",
+            "credit": "Tracker Network / Guías COD Zombies"
+          }
+        ]
+      },
+      {
+        "title": "Golova: radio candidates",
+        "body": "Check the northwest compound or eastern town-center cluster.",
+        "original": true,
+        "researchSource": "https://guiascodzombies.com/black-ops-cold-war/outbreak-cw/radio-de-musica/",
+        "images": [
+          {
+            "src": "./assets/outbreak-ordinary-music-radio-golova.webp",
+            "alt": "Golova radio candidates",
+            "caption": "Golova: red radios; yellow amplifiers.",
+            "source": "https://guiascodzombies.com/black-ops-cold-war/outbreak-cw/radio-de-musica/",
+            "credit": "Tracker Network / Guías COD Zombies"
+          }
+        ]
+      },
+      {
+        "title": "Ruka: radio candidates",
+        "body": "Check the western riverside cluster or buildings by the central bridge.",
+        "original": true,
+        "researchSource": "https://guiascodzombies.com/black-ops-cold-war/outbreak-cw/radio-de-musica/",
+        "images": [
+          {
+            "src": "./assets/outbreak-ordinary-music-radio-ruka.webp",
+            "alt": "Ruka radio candidates",
+            "caption": "Ruka: red radios; yellow amplifiers.",
+            "source": "https://guiascodzombies.com/black-ops-cold-war/outbreak-cw/radio-de-musica/",
+            "credit": "Tracker Network / Guías COD Zombies"
+          }
+        ]
+      },
+      {
+        "title": "Sanatorium: radio candidates",
+        "body": "Check the northern complex or the southeast houses.",
+        "original": true,
+        "researchSource": "https://guiascodzombies.com/black-ops-cold-war/outbreak-cw/radio-de-musica/",
+        "images": [
+          {
+            "src": "./assets/outbreak-ordinary-music-radio-sanatorium.webp",
+            "alt": "Sanatorium radio candidates",
+            "caption": "Sanatorium: red radios; yellow amplifiers.",
+            "source": "https://guiascodzombies.com/black-ops-cold-war/outbreak-cw/radio-de-musica/",
+            "credit": "Tracker Network / Guías COD Zombies"
+          }
+        ]
+      },
+      {
+        "title": "Zoo: radio candidates",
+        "body": "Check western buildings, northeast houses or the southern building cluster.",
+        "original": true,
+        "researchSource": "https://guiascodzombies.com/black-ops-cold-war/outbreak-cw/radio-de-musica/",
+        "images": [
+          {
+            "src": "./assets/outbreak-ordinary-music-radio-zoo.webp",
+            "alt": "Zoo radio candidates",
+            "caption": "Zoo: match same-color radios and arrows.",
+            "source": "https://guiascodzombies.com/black-ops-cold-war/outbreak-cw/radio-de-musica/",
+            "credit": "Gabriel Torres / Guías COD Zombies"
+          }
+        ]
+      },
+      {
+        "title": "Collateral: radio candidates",
+        "body": "Check the western rock formations or eastern buildings.",
+        "original": true,
+        "researchSource": "https://guiascodzombies.com/black-ops-cold-war/outbreak-cw/radio-de-musica/",
+        "images": [
+          {
+            "src": "./assets/outbreak-ordinary-music-radio-collateral.webp",
+            "alt": "Collateral radio candidates",
+            "caption": "Collateral: match same-color radios and arrows.",
+            "source": "https://guiascodzombies.com/black-ops-cold-war/outbreak-cw/radio-de-musica/",
+            "credit": "Gabriel Torres / Guías COD Zombies"
+          }
+        ]
+      },
+      {
+        "title": "Armada: radio candidates",
+        "body": "Check the central ship or the small southern vessel.",
+        "original": true,
+        "researchSource": "https://guiascodzombies.com/black-ops-cold-war/outbreak-cw/radio-de-musica/",
+        "images": [
+          {
+            "src": "./assets/outbreak-ordinary-music-radio-armada.webp",
+            "alt": "Armada radio candidates",
+            "caption": "Armada: match same-color radios and arrows.",
+            "source": "https://guiascodzombies.com/black-ops-cold-war/outbreak-cw/radio-de-musica/",
+            "credit": "Gabriel Torres / Guías COD Zombies"
+          }
+        ]
       }
     ],
     "sources": [
       {
-        "title": "r/CODZombies: Unknown Signal matching and random music pool",
+        "title": "u/Kalinine — three-amplifier procedure and original reward",
         "url": "https://www.reddit.com/r/CODZombies/comments/mnvr8t/"
       },
       {
-        "title": "Cold War Tracker: radio and amplifier procedure",
-        "url": "https://tracker.gg/checkpoint/articles/black-ops-cold-war-zombies-outbreak-music-unlock-guide"
-      },
-      {
-        "title": "r/CODZombies: region signal maps",
-        "url": "https://www.reddit.com/r/CODZombies/comments/mhbi5l/"
-      },
-      {
-        "title": "Guías COD Zombies: ordinary radio candidate maps for all eight regions",
+        "title": "Retained regional map images — Tracker Network / Gabriel Torres / Guías COD Zombies credits",
         "url": "https://guiascodzombies.com/black-ops-cold-war/outbreak-cw/radio-de-musica/"
       },
       {
-        "title": "November 2021 unlock announcement screenshot and player reports",
+        "title": "Archived sound-designer announcement and firsthand music-unlock reports",
         "url": "https://www.reddit.com/r/blackopscoldwar/comments/qmawdn/"
       },
       {
-        "title": "Firsthand confirmation of non-Battle-Pass global music unlock",
+        "title": "Players — non-Battle-Pass music was globally unlocked",
         "url": "https://www.reddit.com/r/blackopscoldwar/comments/u9cbxi/"
       }
     ],
-    "checked": "2026-10-16",
+    "checked": "2026-10-18",
     "relatedGuideIds": [
-      "coldwar-outbreak-music-player"
+      "coldwar-outbreak-music-player",
+      "coldwar-outbreak-legion-main"
     ]
   },
   {
@@ -2528,31 +2784,48 @@
     "title": "Samantha's Ballad: bunny drops and Bubby's defense",
     "category": "music",
     "difficulty": "Medium",
-    "players": "1–4 players",
-    "summary": "Use PhD’s falling explosion on the three marks, then protect Bubby to unlock Samantha’s Ballad.",
+    "players": "1–4 players; Standard Forsaken",
+    "summary": "Find the Aether Bunny with PhD Slider, protect Bubby and collect the cassette to play Samantha’s Ballad in the match.",
     "requirements": [
-      "Standard Forsaken; PhD Slider Tier V is needed for the large falling explosion.",
-      "Have armor and a strong weapon ready before inserting the bunny."
+      "Standard Forsaken, 1–4 players. Local / offline and alternate modes have not been verified for this route.",
+      "Upgrade PhD Slider to Tier V in Skills, lift lockdown, then buy PhD in Observation Tower.",
+      "Prepare armor, perks, ammunition and crowd control before inserting the bunny."
     ],
-    "reward": "Samantha’s Ballad cassette / Music Player unlock, plus a golden loot chest after Bubby survives.",
+    "reward": "Samantha’s Ballad playback and a Large Loot Chest; menu listening is explained separately below.",
     "steps": [
       {
         "title": "Find the three black marks",
-        "body": "The bunny can come from one of three PhD landing sites. Stand above a black scorch mark, then jump / drop so Tier V’s falling explosion lands directly on it. Check another site if a power-up appears instead.",
-        "original": true,
-        "researchSource": "https://tracker.gg/cold-war/articles/black-ops-cold-war-zombies-forsaken-samanthas-ballad-music-guide",
-        "tip": "A slide is not an extra requirement: the landing explosion must hit the mark. Approach far enough back to clear the railing."
-      },
-      {
-        "title": "Mark: below Bar Rooftop",
-        "body": "From Bar Rooftop in Anytown East, find the dark street mark below and land PhD’s explosion on it.",
+        "body": "With PhD active, land its Tier V falling explosion on a black scorch mark. A site can produce a power-up instead of the Aether Bunny; inspect the other sites until you collect the blue plush. Follow the three pictured landing routes below.",
+        "tip": "Jumping can work without sliding; the explosion must reach the mark. You do not need to complete the three Arcade games.",
         "original": true,
         "researchSource": "https://tracker.gg/cold-war/articles/black-ops-cold-war-zombies-forsaken-samanthas-ballad-music-guide",
         "images": [
           {
+            "src": "./assets/modern-coldwar-forsaken-song_ee-scorchedfloor_closeup.webp",
+            "alt": "TV-shop scorch mark.",
+            "caption": "TV-shop scorch mark.",
+            "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
+            "source": "https://mmmrkennedy.com/games/BO_CW/forsaken/forsaken_guide"
+          },
+          {
+            "src": "./assets/batch14-forsaken-aether-bunny.webp",
+            "alt": "The blue Aether Bunny.",
+            "caption": "The blue Aether Bunny.",
+            "credit": "Native gameplay frame: JokerAlex 21 (2021); game © Activision / Treyarch.",
+            "source": "https://www.youtube.com/watch?v=wiRqKtDbZMY&t=35s"
+          }
+        ]
+      },
+      {
+        "title": "Mark: below Bar Rooftop",
+        "body": "From Bar Rooftop above Deadshot, face the TV shop opposite Burger Town. Land on the circular scorch mark on the pavement below.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=wiRqKtDbZMY&t=46s",
+        "images": [
+          {
             "src": "./assets/modern-coldwar-forsaken-song_ee-scorched_barrooftop.webp",
-            "alt": "Bar Rooftop launch view: look down for the Anytown East street mark.",
-            "caption": "Bar Rooftop launch view: look down for the Anytown East street mark.",
+            "alt": "Bar Rooftop landing view.",
+            "caption": "Bar Rooftop landing view.",
             "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
             "source": "https://mmmrkennedy.com/games/BO_CW/forsaken/forsaken_guide"
           }
@@ -2560,14 +2833,14 @@
       },
       {
         "title": "Mark: Anytown West barrier",
-        "body": "From Video Store Rooftop, drop onto the mark by the Anytown West street barrier beside the photo shop.",
+        "body": "From Video Store Rooftop, aim for the mark beside the photo-shop barrier. The video also demonstrates jumping from the raised sand containers by that barrier.",
         "original": true,
-        "researchSource": "https://tracker.gg/cold-war/articles/black-ops-cold-war-zombies-forsaken-samanthas-ballad-music-guide",
+        "researchSource": "https://www.youtube.com/watch?v=wiRqKtDbZMY&t=67s",
         "images": [
           {
             "src": "./assets/modern-coldwar-forsaken-song_ee-scorched_videostore.webp",
-            "alt": "Video Store Rooftop launch view toward the Anytown West barrier and mark.",
-            "caption": "Video Store Rooftop launch view toward the Anytown West barrier and mark.",
+            "alt": "Photo-shop barrier landing view.",
+            "caption": "Photo-shop barrier landing view.",
             "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
             "source": "https://mmmrkennedy.com/games/BO_CW/forsaken/forsaken_guide"
           }
@@ -2575,14 +2848,14 @@
       },
       {
         "title": "Mark: beside Cinema",
-        "body": "From the Anytown rooftops above Cinema, jump beyond the railing / sandbags onto the mark near the Cinema frontage.",
+        "body": "From Anytown Rooftops near Speed Cola, clear the sandbags and railing to reach the scorch mark in front of Cinema.",
         "original": true,
         "researchSource": "https://tracker.gg/cold-war/articles/black-ops-cold-war-zombies-forsaken-samanthas-ballad-music-guide",
         "images": [
           {
             "src": "./assets/modern-coldwar-forsaken-song_ee-scorched_anytown.webp",
-            "alt": "Anytown rooftop launch view toward the Cinema landing mark.",
-            "caption": "Anytown rooftop launch view toward the Cinema landing mark.",
+            "alt": "Cinema landing view.",
+            "caption": "Cinema landing view.",
             "credit": "Screenshot / location reference: mmmrkennedy; game © Activision",
             "source": "https://mmmrkennedy.com/games/BO_CW/forsaken/forsaken_guide"
           }
@@ -2590,49 +2863,99 @@
       },
       {
         "title": "Open Bubby’s back panel",
-        "body": "Collect the dropped Aether Bunny. Go behind the large Bubby mascot outside Burger Town. Interact once to open his back access panel, then interact again to insert the bunny.",
+        "body": "Take the Aether Bunny to Bubby outside Burger Town in Anytown East. Go behind the mascot, interact to open the access panel, then interact again to insert the bunny. The insertion begins the defense, so finish your preparation first.",
         "original": true,
-        "researchSource": "https://www.reddit.com/r/CODZombies/comments/q30mrr/forsaken_easter_egg_hunt_general_map_discussion/"
+        "researchSource": "https://tracker.gg/cold-war/articles/black-ops-cold-war-zombies-forsaken-samanthas-ballad-music-guide",
+        "images": [
+          {
+            "src": "./assets/batch14-forsaken-bubby-panel.webp",
+            "alt": "Bubby’s open rear hatch.",
+            "caption": "Bubby’s open rear hatch.",
+            "credit": "Native gameplay frame: JokerAlex 21 (2021); game © Activision / Treyarch.",
+            "source": "https://www.youtube.com/watch?v=wiRqKtDbZMY&t=117s"
+          }
+        ]
       },
       {
         "title": "Keep Bubby alive",
-        "body": "Defend Bubby through the two-minute attack. Kill the zombies and special enemies damaging him. Your normal health regeneration is disabled; collect the dropped burgers to heal.",
+        "body": "Stay inside the green boundary and protect Bubby until the two-minute timer ends. Watch his health meter; enemies attacking him can destroy him. Your health will not regenerate normally during the challenge, so pick up dropped burgers when hurt.",
+        "tip": "Prioritize the Krasny Soldat and kill Tormentors away from Bubby. In co-op, cover both streets while someone stays by him. Failure requires a new match.",
         "original": true,
         "researchSource": "https://www.reddit.com/r/CODZombies/comments/q30mrr/forsaken_easter_egg_hunt_general_map_discussion/",
-        "tip": "Prepare before inserting the bunny. If Bubby is destroyed, this defense is lost for the match."
+        "images": [
+          {
+            "src": "./assets/batch14-forsaken-bubby-defense.webp",
+            "alt": "Bubby health and countdown.",
+            "caption": "Bubby health and countdown.",
+            "credit": "Native gameplay frame: JokerAlex 21 (2021); game © Activision / Treyarch.",
+            "source": "https://www.youtube.com/watch?v=wiRqKtDbZMY&t=190s"
+          }
+        ]
       },
       {
         "title": "Collect the cassette and loot",
-        "body": "After the defense, collect the golden cassette by Bubby / the reward chest and open the chest for its other loot. On the first unlock, the cassette adds Samantha’s Ballad to the Music Player.",
+        "body": "After the defense, find the golden cassette and Large Loot Chest in front of Bubby. Interact with the cassette labelled Samantha’s Ballad to start the song, then open the chest.",
+        "tip": "Loot is random; a Wonder Weapon is possible, with no guaranteed Chrysalax.",
         "original": true,
-        "researchSource": "https://www.reddit.com/r/CODZombies/comments/q30mrr/forsaken_easter_egg_hunt_general_map_discussion/"
+        "researchSource": "https://www.youtube.com/watch?v=wiRqKtDbZMY&t=265s",
+        "images": [
+          {
+            "src": "./assets/batch14-forsaken-ballad-cassette.webp",
+            "alt": "Samantha’s Ballad cassette pickup.",
+            "caption": "Samantha’s Ballad cassette pickup.",
+            "credit": "Native gameplay frame: JokerAlex 21 (2021); game © Activision / Treyarch.",
+            "source": "https://www.youtube.com/watch?v=wiRqKtDbZMY&t=265s"
+          }
+        ]
+      },
+      {
+        "title": "Listen in the menu",
+        "body": "Bubby’s cassette was a Music Player unlock at launch. The November 2021 announcement opened previously locked tracks except War Tracks from the Battle Pass, and players reported the change afterward. You can check Samantha’s Ballad in Barracks → Music Player before doing this quest. Completing the defense still gives the in-match cassette and loot.",
+        "tip": "The announcement documents the historical unlock change. This guide has not tested today’s account, platform or offline Music Player behavior.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/blackopscoldwar/comments/qmawdn/"
       }
     ],
     "sources": [
       {
-        "title": "u/Fever308 discovery report and Bubby defense discussion",
-        "url": "https://www.reddit.com/r/CODZombies/comments/q30mrr/forsaken_easter_egg_hunt_general_map_discussion/"
+        "title": "JokerAlex 21: native Bubby walkthrough, three drop routes, defense and labelled cassette (October 13, 2021)",
+        "url": "https://www.youtube.com/watch?v=wiRqKtDbZMY"
       },
       {
-        "title": "u/Noksdoks reference-guide comments: jumping is sufficient",
-        "url": "https://www.reddit.com/r/CODZombies/comments/qbx4hz/forsaken_reference_guide_better_late_than_never/"
-      },
-      {
-        "title": "Ethan C: three illustrated PhD landing sites and cassette route",
+        "title": "Ethan C: three PhD landing sites and the two-interaction hatch (October 8, 2021)",
         "url": "https://tracker.gg/cold-war/articles/black-ops-cold-war-zombies-forsaken-samanthas-ballad-music-guide"
       },
       {
-        "title": "Treyarch: PhD Slider Tier V is a large falling explosion",
-        "url": "https://www.treyarch.com/game-intel/2021/10/Season_Six_Arrives_Oct_7"
+        "title": "u/Fever308: corrected discovery report, two-minute defense and burger healing",
+        "url": "https://www.reddit.com/r/CODZombies/comments/q30mrr/forsaken_easter_egg_hunt_general_map_discussion/"
       },
       {
-        "title": "Inherited three launch-view photographs; local pixels reviewed",
+        "title": "u/Noksdoks: jumping is sufficient; sliding is not an extra requirement",
+        "url": "https://www.reddit.com/r/CODZombies/comments/qbx4hz/forsaken_reference_guide_better_late_than_never/"
+      },
+      {
+        "title": "Archived November 2021 Music Player announcement and firsthand unlock reports",
+        "url": "https://www.reddit.com/r/blackopscoldwar/comments/qmawdn/"
+      },
+      {
+        "title": "April 2022 player reports: unlockable songs opened the previous November",
+        "url": "https://www.reddit.com/r/blackopscoldwar/comments/u9cbxi/"
+      },
+      {
+        "title": "CharlieIntel: Barracks → Music Player menu route",
+        "url": "https://www.charlieintel.com/black-ops-cold-war/how-to-use-the-black-ops-cold-war-music-player-86502/"
+      },
+      {
+        "title": "Inherited landing photographs: local pixels inspected; source host not reopened",
         "url": "https://mmmrkennedy.com/games/BO_CW/forsaken/forsaken_guide"
       }
     ],
-    "checked": "2026-10-17",
+    "checked": "2026-10-18",
     "relatedGuideIds": [
-      "coldwar-forsaken-perks-trials-utilities"
+      "coldwar-forsaken-lockdown-pack-a-punch",
+      "coldwar-forsaken-perks-trials-utilities",
+      "coldwar-forsaken-chrysalax",
+      "coldwar-outbreak-music-player"
     ]
   },
   {
@@ -4548,37 +4871,71 @@
     "category": "side",
     "difficulty": "Medium",
     "players": "1–4 players",
-    "summary": "Use the fallen crew's radio to mark its attackers, then eliminate the entire patrol.",
+    "summary": "Follow the three-skulls event from the fallen crew to the marked enemy group, then collect its random perk.",
     "requirements": [
-      "A three-skulls event icon in the current region.",
-      "Weapons suitable for the marked special / Elite enemies."
+      "Standard Black Ops Cold War Outbreak; a three-skulls Revenge event in the current region.",
+      "Bring armor and weapons suitable for special / Elite enemies before triggering the radio."
     ],
     "reward": "A free random perk plus Essence and enemy loot.",
     "steps": [
       {
-        "title": "Find the fallen crew's radio",
-        "body": "Follow the three-skulls icon. Inspect the dead Requiem crew members for the radio emitting static and interact to trigger the Revenge event."
+        "title": "Find the fallen crew’s radio",
+        "body": "Follow the three-skulls marker to the dead Requiem crew. Find the radio emitting static and interact to play its recording.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=mHWIVO_uWg4&t=220s",
+        "images": [
+          {
+            "src": "./assets/batch13-revenge-crew.webp",
+            "alt": "Revenge: fallen crew beside the radio site.",
+            "caption": "Revenge: fallen crew beside the radio site.",
+            "source": "https://www.youtube.com/watch?v=mHWIVO_uWg4&t=225s",
+            "credit": "MrDalekJD · 2021 gameplay; Call of Duty © Activision"
+          }
+        ]
       },
       {
         "title": "Track the marked enemies",
-        "body": "Wait for the patrol marker to appear, then go to that location. The encounter includes tougher special / Elite enemies and their escorts; clear threats around the targets without losing track of the final patrol member."
+        "body": "After the recording, look for the relocated skull marker and beams marking the enemy group. Travel to that location; the targets may appear away from the fallen crew.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=mHWIVO_uWg4&t=230s"
       },
       {
         "title": "Finish the whole group",
-        "body": "Kill all marked enemies, including every split Megaton half if present. The final kill releases the perk reward. Collect it before warping; this is a random perk and does not require you to buy the corresponding machine first."
+        "body": "Eliminate every event target. Specials and Elites vary with the encounter; if a Megaton splits, finish both halves. Keep checking the marker if the reward has not appeared.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/lrfbd4/"
+      },
+      {
+        "title": "Collect the final perk reward",
+        "body": "The final target drops the random-perk reward and other loot. Collect it and check your perk HUD before leaving the region. The pictured Elemental Pop can is one result, not a fixed reward.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=mHWIVO_uWg4&t=255s",
+        "images": [
+          {
+            "src": "./assets/batch13-revenge-perk.webp",
+            "alt": "Revenge: Random Perk reward animation.",
+            "caption": "Revenge: Random Perk reward animation.",
+            "source": "https://www.youtube.com/watch?v=mHWIVO_uWg4&t=260s",
+            "credit": "MrDalekJD · 2021 gameplay; Call of Duty © Activision"
+          }
+        ]
       }
     ],
     "sources": [
       {
-        "title": "Timerstone's community Outbreak guide: fallen crew and free perk",
+        "title": "MrDalekJD — fallen crew, enemy markers and final random-perk footage (February 2021)",
+        "url": "https://www.youtube.com/watch?v=mHWIVO_uWg4"
+      },
+      {
+        "title": "u/Timerstone — downed crew event and last-kill reward",
         "url": "https://www.reddit.com/r/CODZombies/comments/lrfbd4/"
       },
       {
-        "title": "Community Outbreak event / loot explanation",
+        "title": "Firsthand players — Horde enemies and perk reward",
         "url": "https://www.reddit.com/r/CODZombies/comments/q6cxff/"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-18"
   },
   {
     "id": "coldwar-outbreak-aethereal-orb",
@@ -4662,43 +5019,88 @@
     "players": "1–4 players",
     "summary": "Fish for loot or recognize the rare punk zombie that drops a Ray Gun. Neither has a guaranteed spawn route.",
     "requirements": [
-      "Explore waterfront fishing spots or random regional zombie spawns.",
-      "Protect the player using a fishing rod; it temporarily occupies your hands."
+      "Standard Black Ops Cold War Outbreak; search waterfronts for a seated corpse with a fishing rod.",
+      "Clear nearby enemies before casting. A fishing animation occupies your weapon hands."
     ],
     "reward": "Random fishing loot; killing Ronald Raygun drops a Ray Gun.",
     "steps": [
       {
         "title": "Locate a waterfront fishing rod",
-        "body": "Look along lakes, rivers and shorelines for a dead seated zombie holding a rod. A nearby fishing-rod minimap icon and radio audio help locate it. Interact to cast the line."
+        "body": "Explore lakeshores, rivers and docks. Look for a seated corpse with a rod and small radio; the nearby minimap fishing icon helps. Interact using the displayed button to cast.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=VUUiC_qDBW8&t=40s",
+        "images": [
+          {
+            "src": "./assets/batch13-fishing-riverside-west.webp",
+            "alt": "Riverside West fishing rod.",
+            "caption": "Riverside West fishing rod.",
+            "source": "https://www.youtube.com/watch?v=VUUiC_qDBW8&t=40s",
+            "credit": "Fili Zi · 2021 gameplay; Call of Duty © Activision"
+          }
+        ]
       },
       {
         "title": "Reel when the float submerges",
-        "body": "Watch the float. As soon as it dips underwater, press the fire / reel button shown on screen. Collect the item thrown onto shore. A rod supports up to three attempts before it disappears; another fishing spot can still be used."
+        "body": "Watch the float. When it splashes / dips, use the displayed Reel In input. Controller vibration can also signal a bite. Pick up the catch from the shore.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=VUUiC_qDBW8&t=115s",
+        "images": [
+          {
+            "src": "./assets/batch13-fishing-reel.webp",
+            "alt": "Lakeside Slopes: Reel In prompt.",
+            "caption": "Lakeside Slopes: Reel In prompt.",
+            "source": "https://www.youtube.com/watch?v=VUUiC_qDBW8&t=120s",
+            "credit": "Fili Zi · 2021 gameplay; Call of Duty © Activision"
+          }
+        ]
       },
       {
         "title": "Check catches for danger",
-        "body": "Fishing can produce Essence, salvage, gear, weapons or upgrade items. A caught boot can transform into a Mimic, so remain ready to move and shoot. Wonder-weapon catches are random."
+        "body": "Catches can include essence, salvage, armor, equipment, perks and random weapons. A boot can become a Mimic, so be ready to fight. A particular Wonder Weapon is not guaranteed.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=VUUiC_qDBW8&t=130s"
+      },
+      {
+        "title": "Move on when the rod is exhausted",
+        "body": "Fishing spots have limited attempts. Early reeling or cancelling can consume an attempt, so clear threats before casting again. When the rod is no longer usable, search another spot.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=VUUiC_qDBW8&t=190s",
+        "tip": "Reports differ on three versus four tries; the current limit remains unverified."
       },
       {
         "title": "Recognize Ronald Raygun",
-        "body": "While exploring, watch for a zombie with a pink mohawk and a black leather jacket covered in pins. Kill this rare named punk zombie and collect its Ray Gun. Ronald's appearance is random, with no known reliable location, round requirement or action that forces him to spawn."
+        "body": "While exploring, watch for the rare punk zombie with a pink mohawk and studded leather jacket. Kill Ronald Raygun and collect the Ray Gun he drops. He can appear in the first region, but a fixed location or action that forces a spawn is not established.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/p4luw4/",
+        "tip": "This is the random Outbreak enemy. Forsaken’s Ronald pizza-delivery quest is a different interaction."
       }
     ],
     "sources": [
       {
-        "title": "Gamepur: fishing location, input, three uses and hostile catch",
-        "url": "https://www.gamepur.com/guides/how-to-go-fishing-in-outbreak-in-call-of-duty-black-ops-cold-war-zombies"
+        "title": "Fili Zi — original fishing inputs, example spots, catches and limited-use footage (May 2021)",
+        "url": "https://www.youtube.com/watch?v=VUUiC_qDBW8"
       },
       {
-        "title": "Community: Ronald's random spawn and guaranteed kill drop",
+        "title": "Original shared fishing gameplay and firsthand catch reports",
+        "url": "https://www.reddit.com/r/CODZombies/comments/ngr62h/"
+      },
+      {
+        "title": "Treyarch — pink-mohawk enemy / Ray Gun update",
+        "url": "https://www.treyarch.com/game-intel/2021/04/April_23_2021_Patch_Notes"
+      },
+      {
+        "title": "Players — Ronald Raygun drop and random spawn",
         "url": "https://www.reddit.com/r/CODZombies/comments/p4luw4/"
       },
       {
-        "title": "Community: Ronald is random rather than a guaranteed regional spawn",
+        "title": "Firsthand — random first-region Ronald encounter",
         "url": "https://www.reddit.com/r/CODZombies/comments/u5hr99/"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-18",
+    "relatedGuideIds": [
+      "coldwar-outbreak-orda-omega"
+    ]
   },
   {
     "id": "coldwar-outbreak-orda-omega",

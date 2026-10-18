@@ -140,42 +140,89 @@
     "steps": [
       {
         "title": "Feed the three dragons",
-        "body": "Turn on power in the Armory beside Stamin-Up. Kill zombies close to the dragon heads in the lower courtyard, Mission Control church and Undercroft pyramid room. Feed each head eight souls, waiting for it to finish eating before the next kill. When all three crumble, take the Wrath of the Ancients from the Family Crypt between the church and Undercroft."
+        "body": "Turn on power in the Armory beside Stamin-Up. Kill zombies close to the dragon heads in the lower courtyard, Mission Control church and Undercroft pyramid room. Wait for each head to finish eating before the next kill. When all three crumble, take the Wrath of the Ancients from the Family Crypt between the church and Undercroft.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
       },
       {
         "title": "Take the broken lightning arrow",
-        "body": "From the Bastion near the Death Ray, shoot the dragon-shaped weather vane above the castle with a charged bow shot. A wall beneath it breaks; pick up the blue broken arrow."
+        "body": "From the Bastion near the Death Ray, shoot the dragon-shaped weather vane above the castle with a charged bow shot. A wall beneath it breaks; pick up the blue broken arrow.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
       },
       {
         "title": "Light three distant bonfires",
         "body": "Use charged shots to ignite the wood piles outside the map: one beyond the Clock Tower, one far across the ravine visible from the castle near the Double Tap route, and one high on the mountains at the Rocket Test Site. You should see fire at each pile before continuing.",
-        "tip": "Charge fully and compensate for the arrow's drop. A missed shot consumes ammo but does not reset the quest."
+        "tip": "Charge fully and compensate for the arrow's drop. A missed shot consumes ammo but does not reset the quest.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+        "images": [
+          {
+            "src": "./assets/classic-batch16-de-lightning-bonfire-clock.webp",
+            "alt": "Clock bonfire",
+            "caption": "Clock bonfire",
+            "source": "https://www.youtube.com/watch?v=cMRBJ2p_2KE&t=35s",
+            "credit": "MrRoflWaffles / Activision"
+          },
+          {
+            "src": "./assets/classic-batch16-de-lightning-bonfire-rocket.webp",
+            "alt": "Mountain bonfire",
+            "caption": "Mountain bonfire",
+            "source": "https://www.youtube.com/watch?v=cMRBJ2p_2KE&t=60s",
+            "credit": "MrRoflWaffles / Activision"
+          }
+        ]
       },
       {
         "title": "Touch all five wind symbols in one wall run",
-        "body": "In the Undercroft, stand on each of the four pressure plates around the pyramid until it glows blue. During an anti-gravity cycle, wall-run across the five wind-symbol tiles without touching the floor. The completion sound confirms the run. If you land early, start the entire five-symbol run again during the next cycle."
+        "body": "In the Undercroft, stand on each of the four pressure plates around the pyramid until it glows blue. During an anti-gravity cycle, wall-run across the five wind-symbol tiles without touching the floor. The completion sound confirms the run. If you land early, start the entire five-symbol run again during the next cycle.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+        "images": [
+          {
+            "src": "./assets/classic-batch16-de-lightning-wind-panel.webp",
+            "alt": "Undercroft wallrun",
+            "caption": "Undercroft wallrun",
+            "source": "https://www.youtube.com/watch?v=cMRBJ2p_2KE&t=105s",
+            "credit": "MrRoflWaffles / Activision"
+          }
+        ]
       },
       {
         "title": "Charge the three urns",
-        "body": "Get five nearby zombie kills at each urn: under the Clock Tower stairs, in the room above Double Tap, and in the Rocket Test Site tunnel. At a filled urn, hold a fully charged bow shot until electricity enters the arrow. Keep the bow drawn and use that electric arrow to hit the corresponding bonfire: Clock Tower urn to its nearby exterior fire, Double Tap urn to the distant ravine fire, Rocket tunnel urn to the mountain fire.",
-        "tip": "If an electric shot misses, draw another charged shot at the urn and try again."
+        "body": "Fill the urns with nearby kills: under Clock Tower stairs, above Double Tap, and inside the rocket tunnel. At each full urn, draw a charged shot until the arrow electrifies, then keep it drawn to its fire. Pair Clock Tower→near fire, Double Tap→ravine, rocket→mountain. If you miss, electrify another arrow at the urn.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=cMRBJ2p_2KE&t=125s"
       },
       {
         "title": "Repair the arrow",
-        "body": "Return to the broken weather-vane wall at the Death Ray and interact with the blue smoke. Wait for the repair animation, then pick up the reforged arrow."
+        "body": "Return to the broken weather-vane wall at the Death Ray and interact with the blue smoke. Wait for the repair animation, then pick up the reforged arrow.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
       },
       {
         "title": "Fill the blue bow pedestal",
-        "body": "Place the arrow into the blue pedestal around the pyramid. Take its Max Ammo, then kill zombies near the pyramid until souls stop entering the arrow and it glows white. Interact with the pedestal to deposit your bow, wait for the upgrade, then collect the Lightning Bow."
+        "body": "Place the arrow into the blue pedestal around the pyramid. Take its Max Ammo, then kill zombies near the pyramid until souls stop entering the arrow and it glows white. Interact with the pedestal to deposit your bow, wait for the upgrade, then collect the Lightning Bow.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
       }
     ],
     "sources": [
       {
-        "title": "r/CODZombies community breakdown: Der Eisendrache",
+        "title": "r/CODZombies map breakdown",
         "url": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
+      },
+      {
+        "title": "MrRoflWaffles: original Lightning Bow demonstration",
+        "url": "https://www.youtube.com/watch?v=cMRBJ2p_2KE"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-18",
+    "relatedGuideIds": [
+      "bo3-der-eisendrache-community-der-eisendrache-main-quest-lightning-storm-bow",
+      "bo3-der-eisendrache-community-der-eisendrache-main-quest-wrath-of-the-ancients",
+      "bo3-der-eisendrache-main"
+    ]
   },
   {
     "id": "bo3-der-eisendrache-main",
@@ -183,78 +230,166 @@
     "title": "My Brother's Keeper: main quest",
     "category": "main",
     "difficulty": "Hard",
-    "players": "1–4 players; ranked needs one upgraded bow per player",
+    "players": "1–4 players; read the online/local bow setup",
     "summary": "Travel into the past, bring Dempsey's capsule down, escort a Keeper and defeat its corrupted form.",
     "requirements": [
-      "Power and anti-gravity enabled",
-      "Upgraded bows: one per player in a ranked match; all four in unranked/offline",
-      "Ragnarok DG-4 built and charged for every player",
-      "500 points for each time-travel teleport"
+      "Power and anti-gravity enabled; Wrath of the Ancients collected.",
+      "Online Solo: one upgraded bow. Local/offline or unranked: prepare all four upgrades.",
+      "For a normal ranked co-op route, prepare one upgraded bow per player. Avoid beginning extra bow quests; follow the Keeper’s actual requested colors.",
+      "Build and charge the Ragnarok DG-4 for every player; keep 500 points for each time-travel teleport."
     ],
-    "reward": "My Brother's Keeper completion, ending cutscene and map gateworm",
+    "reward": "The completed main quest and ending sequence.",
     "steps": [
       {
         "title": "Prepare bows and the Ragnarok DG-4",
-        "body": "Use the Lightning Bow guide on this map for a solo run. Build the DG-4 using the part dropped by a Panzer, the floating part revealed by activating the Death Ray and collected with the appropriate Wundersphere, and the Rocket Test Site part. For the rocket part, flip the lever underneath the exterior stairs when the rocket test begins, get inside the closing blast doors, and interact with the panel by the teleporter when its lights turn green. Collect the part inside the teleporter before it disappears, then assemble the DG-4 at a workbench.",
-        "tip": "For co-op, prepare the additional bow variants before the Keeper escort; its required colors depend on the bows available."
+        "body": "Turn on power beside Stamin-Up. Feed the dragons in the lower courtyard, church and pyramid room, waiting for each eating animation; when all crumble, collect the original bow in the Family Crypt. Upgrade the bows for your mode using the linked variants. Build the DG-4 using the part dropped by a Panzer, the floating part revealed by activating the Death Ray and collected with the appropriate Wundersphere, and the Rocket Test Site part. For the rocket part, flip the lever underneath the exterior stairs when the rocket test begins, get inside the closing blast doors, and interact with the panel by the teleporter when its lights turn green. Collect the part inside the teleporter before it disappears, then assemble the DG-4 at a workbench.",
+        "tip": "Online Solo and ranked private matches follow the reduced-bow route. Local/unranked needs all four; extra bow quests can add requested colors.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
       },
       {
         "title": "Arm the wisp hunt with the unupgraded bow",
-        "body": "Take the original Wrath of the Ancients and shoot the six prongs above the Undercroft teleporter until they turn gold. Listen for the growl. Switch back to an upgraded bow."
+        "body": "Take the original Wrath of the Ancients and shoot the six prongs above the Undercroft teleporter until they turn gold. Listen for the growl. Switch back to an upgraded bow.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
       },
       {
         "title": "Shoot four blue wisps in the same round",
         "body": "Check these eight objects: the telephone by Quick Revive in spawn; the tire of the car by Double Tap; the boxes in the room above Double Tap; the clock at the Barracks stairs; the telephone near the power switch; the globe by Samantha's bedroom; the church wall clock; and the church radio. Shoot only the object actively sparking blue with an upgraded bow. Each successful hit moves the wisp. Find and hit four before the timer expires.",
-        "tip": "An alarm means failure. Wait for the next round and restart the hunt. Avoid stray shots and Widow's Wine explosions near inactive wisp objects."
+        "tip": "An alarm means failure. Wait for the next round and restart the hunt. Avoid stray shots and Widow's Wine explosions near inactive wisp objects.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+        "images": [
+          {
+            "src": "./assets/classic-batch16-de-main-wisp-clock.webp",
+            "alt": "Barracks clock",
+            "caption": "Barracks clock",
+            "source": "https://www.youtube.com/watch?v=NhDv6R5YPEs&t=130s",
+            "credit": "CodeNamePizza / Activision"
+          }
+        ]
       },
       {
         "title": "Travel back and record the safe code",
         "body": "When the teleporter glows purple, gather the team and activate it for 500 points. In the past, collect the blue soul canister and fuse from the room, then watch Dr. Groph enter three symbols into the safe. Record their order. On your return at the Rocket Test Site, deal with the Panzer and keep the round unchanged until you use that code.",
-        "tip": "The safe code changes with the round. If you lose it, repeat the wisp hunt and watch a fresh code."
+        "tip": "The safe code changes with the round. If you lose it, repeat the wisp hunt and watch a fresh code.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+        "images": [
+          {
+            "src": "./assets/classic-batch16-de-main-groph-safe.webp",
+            "alt": "Groph’s safe",
+            "caption": "Groph’s safe",
+            "source": "https://www.youtube.com/watch?v=NhDv6R5YPEs&t=161s",
+            "credit": "CodeNamePizza / Activision"
+          }
+        ]
       },
       {
         "title": "Open the safe",
-        "body": "Activate the Death Ray trap at least once, insert the fuse into its console, and switch it to Protect. At the computer beside the Clock Tower, select the three recorded symbols in order. Return to the Undercroft safe and take the floppy disk and two electrical rods."
+        "body": "Activate the Death Ray trap at least once, insert the fuse into its console, and switch it to Protect. At the computer beside the Clock Tower, select the three recorded symbols in order. Return to the Undercroft safe and take the floppy disk and two electrical rods.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
       },
       {
         "title": "Charge both Death Ray towers",
         "body": "Install a rod in each tower beside the Death Ray and switch the console back to Destroy. Insert the disk at the Clock Tower computer. Memorize which symbol appears on each small screen, then press the screen matching the symbol shown by the large screen. Complete the sequence there and at the Rocket Test Site computer. When both towers are charged, press the green button on the back of the Death Ray console to bring down the capsule.",
-        "tip": "Hellhounds keep spawning during the computer challenge. Have a teammate cover the player entering symbols."
+        "tip": "Hellhounds keep spawning during the computer challenge. Have a teammate cover the player entering symbols. A failed second computer requires repeating both. Retry in the same round; both Death Ray towers must glow.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
       },
       {
         "title": "Collect the Keeper tablet on a second trip",
-        "body": "Advance to the next round and complete another four-wisp hunt. Teleport into the past again. Interact with the small control box to the right of the teleporter as you face into the room; the nearby chest opens. Take the Keeper tablet before returning."
+        "body": "Advance to the next round and complete another four-wisp hunt. Teleport into the past again. Interact with the small control box to the right of the teleporter as you face into the room; the nearby chest opens. Take the Keeper tablet before returning.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
       },
       {
         "title": "Escort and charge the Keeper",
         "body": "Take the Golden Rod from the crashed capsule in the upper courtyard and insert it into the Family Crypt where the original bow appeared. Follow the Keeper to the upper courtyard, Mule Kick, the knight-statue corridor, and the Double Tap / castle-gate area. At each stop, stand inside its circle and get kills with the bow matching the HUD tint: dark blue Lightning, purple Void, orange Fire, pale blue Wolf. At the Double Tap stop, place the Keeper tablet into the wall recess first. Continue until the Keeper returns to the pyramid.",
-        "tip": "Kills outside the circle or with the wrong bow do not feed it. Keep the current bow carrier inside the circle while teammates protect them."
+        "tip": "Kills outside the circle or with the wrong bow do not feed it. Keep the current bow carrier inside the circle while teammates protect them. Recheck the tint as you fill a stop; do not keep firing a different bow if the requested color changes. If a filled circle stops taking souls but the Keeper waits, finish the current round; it can wait for the round boundary before moving.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
       },
       {
         "title": "Open the MPD and enter the arena",
-        "body": "After the Keeper changes the pyramid, insert the blue soul canister into its missing corner. Refill ammo and perks. Every player must have a charged DG-4. Stand on separate blue pressure plates around the pyramid and plant the DG-4s together to teleport into the boss arena."
+        "body": "After the Keeper changes the pyramid, insert the blue soul canister into its missing corner. Refill ammo and perks. Every player must have a charged DG-4. Stand on separate blue pressure plates around the pyramid and plant the DG-4s together to teleport into the boss arena.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
       },
       {
         "title": "Expose the Keeper's chest",
         "body": "Keep moving around the arena and avoid fiery floor patches, homing skulls and dogs. When a bright electrical orb appears in the center, have one player plant a charged DG-4 directly beneath it. Shoot the exposed glowing emblem in the Keeper's chest during the damage window. Clear the intervening Panzer waves and repeat this center-orb damage cycle through all three Keeper phases.",
-        "tip": "If nobody has a charged DG-4 when the orb appears, hide behind a stone pillar to survive the electrical blast. Recharge through kills and wait for the next opening."
+        "tip": "If nobody has a charged DG-4 when the orb appears, hide behind a stone pillar to survive the electrical blast. Recharge through kills and wait for the next opening.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+        "images": [
+          {
+            "src": "./assets/classic-batch16-de-main-keeper-chest.webp",
+            "alt": "Keeper chest",
+            "caption": "Keeper chest",
+            "source": "https://www.youtube.com/watch?v=NhDv6R5YPEs&t=346s",
+            "credit": "CodeNamePizza / Activision"
+          }
+        ]
       },
       {
         "title": "Trigger the actual ending",
-        "body": "Back at the Undercroft, interact with the glowing front of the MPD; after it releases the Summoning Key, pick the key up. Carry it to the computer next to the Clock Tower and interact. This final console action completes the quest and starts the ending."
+        "body": "Back at the Undercroft, interact with the glowing front of the MPD; after it releases the Summoning Key, pick the key up. Carry it to the computer next to the Clock Tower and interact. This final console action completes the quest and starts the ending.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+        "images": [
+          {
+            "src": "./assets/classic-batch16-de-main-summoning-key.webp",
+            "alt": "MPD front",
+            "caption": "MPD front",
+            "source": "https://www.youtube.com/watch?v=NhDv6R5YPEs&t=390s",
+            "credit": "CodeNamePizza / Activision"
+          }
+        ]
       }
     ],
     "sources": [
       {
-        "title": "r/CODZombies community breakdown: Der Eisendrache",
+        "title": "r/CODZombies map breakdown",
         "url": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
       },
       {
-        "title": "Community walkthrough and boss phases",
+        "title": "Original community walkthrough",
         "url": "https://www.reddit.com/r/CODZombies/comments/49018w/complete_der_eisendrache_walkthroughguide/"
+      },
+      {
+        "title": "Ranked, Solo and local preparation",
+        "url": "https://www.reddit.com/r/CODZombies/comments/4avyzj/der_eisendrache_easter_egg_bow_requirements/"
+      },
+      {
+        "title": "Firsthand bow-count discussion and extra-quest caveats",
+        "url": "https://www.reddit.com/r/CODZombies/comments/q9d7cw/bo3_can_you_solo_der_eisendrache_with_one_bow/"
+      },
+      {
+        "title": "Community route: round waits and computer retries",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1ljfz2r/der_eisendrache_easter_egg_2025/"
+      },
+      {
+        "title": "CodeNamePizza: complete online Solo route (2020)",
+        "url": "https://www.youtube.com/watch?v=NhDv6R5YPEs"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-18",
+    "relatedGuideIds": [
+      "bo3-der-eisendrache-community-der-eisendrache-main-quest-lightning-storm-bow",
+      "bo3-der-eisendrache-community-der-eisendrache-main-quest-wolf-bow",
+      "bo3-der-eisendrache-community-der-eisendrache-main-quest-void-bow",
+      "bo3-der-eisendrache-community-der-eisendrache-main-quest-fire-bow",
+      "bo3-der-eisendrache-community-der-eisendrache-main-quest-wrath-of-the-ancients",
+      "bo3-der-eisendrache-community-der-eisendrache-buildables-ragnarok-dg-4-specialist-weapon",
+      "bo3-der-eisendrache-community-der-eisendrache-buildables-rocket-shield",
+      "bo3-der-eisendrache-community-der-eisendrache-map-walkthrough-pack-a-punch",
+      "bo3-der-eisendrache-community-der-eisendrache-map-walkthrough-teleporter",
+      "bo3-der-eisendrache-community-der-eisendrache-map-walkthrough-anti-gravity",
+      "bo3-der-eisendrache-community-der-eisendrache-map-walkthrough-wunderspheres",
+      "bo3-der-eisendrache-community-der-eisendrache-main-quest-main-quest"
+    ]
   },
   {
     "id": "bo3-shadows-of-evil-main",
@@ -265,72 +400,161 @@
     "players": "4 players required for the final gateworm and ending",
     "summary": "Complete the rituals, upgrade the team's swords, defend the flag, capture the Shadowman and coordinate the tram finale.",
     "requirements": [
-      "Four players present for the post-Shadowman finale",
-      "All four players' Keeper Swords",
-      "Access to all three districts and the Rift",
-      "A strong Pack-a-Punched gun; Lil' Arnies and the Apothicon Servant help"
+      "Four players are required for the normal ending; solo can progress through the Shadowman capture.",
+      "Open all districts and the underground Rift. Every player present builds and upgrades their own sword.",
+      "Prepare upgraded weapons, ammunition and shields before the flag and locked-room stages."
     ],
     "reward": "Ending cutscene, Apocalypse Averted completion and menu progression",
     "steps": [
       {
         "title": "Collect the Summoning Key and four ritual items",
-        "body": "In Beast Mode, break the box on the truck in spawn and collect the Summoning Key as a human. Shock the Junction crane box for the Lawyer's Pen. In Canals, shock the box visible through the grate near Ruby Rabbit, then break the opened canal crate for the Detective's Badge. In Footlight, grapple onto the upper balcony, jump to the ledge opposite the perk and knock down the crate for the Producer's Toupee. In Waterfront, grapple above the central square and knock down the high crate for the Championship Belt."
+        "body": "In Beast Mode, break the box on the truck in spawn and collect the Summoning Key as a human. Shock the Junction crane box for the Lawyer's Pen. In Canals, shock the box visible through the grate near Ruby Rabbit, then break the opened canal crate for the Detective's Badge. In Footlight, grapple onto the upper balcony, jump to the ledge opposite the perk and knock down the crate for the Producer's Toupee. In Waterfront, grapple above the central square and knock down the high crate for the Championship Belt.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/shadows-of-evil/",
+        "images": [
+          {
+            "src": "./assets/root-batch13-dalek-55-key.webp",
+            "alt": "Summoning Key",
+            "caption": "Summoning Key",
+            "source": "https://www.youtube.com/watch?v=yadq4Mtrm04&t=55s",
+            "credit": "MrDalekJD · 2015 gameplay; Call of Duty © Activision"
+          }
+        ]
       },
       {
         "title": "Open each ritual room and collect its Gateworm",
-        "body": "Use Beast Mode to grapple to Nero's roof and shock the staircase switch; grapple onto Ruby Rabbit and shock its downstairs switch; grapple onto the Burlesque roof and shock the switch behind its sign; and melee open the Boxing Gym doors. As a human, place the matching item and Summoning Key at each ritual table, start the ritual and keep moving until it ends. Pick up each Gateworm. A Margwa appears after every second ritual."
+        "body": "Use Beast Mode to grapple to Nero's roof and shock the staircase switch; grapple onto Ruby Rabbit and shock its downstairs switch; grapple onto the Burlesque roof and shock the switch behind its sign; and melee open the Boxing Gym doors. As a human, place the matching item and Summoning Key at each ritual table, start the ritual and keep moving until it ends. Pick up each Gateworm. A Margwa appears after every second ritual.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/shadows-of-evil/"
       },
       {
         "title": "Complete the fifth ritual for Pack-a-Punch",
-        "body": "Break open a district Rift door in Beast Mode, then open its portal as a human. Enter the underground Rift and approach the wall marked with symbols. Place the four Gateworms in the four chalices of the revealed chamber; the first placements create wall-run routes to the far side. Start the central ritual and survive until it finishes. Pack-a-Punch is now available."
+        "body": "Break open a district Rift door in Beast Mode, then open its portal as a human. Enter the underground Rift and approach the wall marked with symbols. Place the four Gateworms in the four chalices of the revealed chamber; the first placements create wall-run routes to the far side. Start the central ritual and survive until it finishes. Pack-a-Punch is now available.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/shadows-of-evil/"
       },
       {
         "title": "Read three train symbols",
-        "body": "Ride the tram through every district and note the glowing red symbols in the windows: on the Waterfront route, the Footlight route after its sharp corner, and the round window on the Canals route. In the Rift, enter Beast Mode and shock those three symbols on the sword-wall grid. The wall opens and reveals the eggs and swords."
+        "body": "Ride the tram through every district and note the glowing red symbols in the windows: on the Waterfront route, the Footlight route after its sharp corner, and the round window on the Canals route. In the Rift, enter Beast Mode and shock those three symbols on the sword-wall grid. The wall opens and reveals the eggs and swords.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/shadows-of-evil/",
+        "images": [
+          {
+            "src": "./assets/root-batch13-cnp-185-sword-grid.webp",
+            "alt": "Rift grid",
+            "caption": "Rift grid",
+            "source": "https://www.youtube.com/watch?v=7drZa5q8OEk&t=185s",
+            "credit": "CodeNamePizza · 2022 gameplay; Call of Duty © Activision"
+          }
+        ]
       },
       {
         "title": "Charge one sword egg per player",
-        "body": "Each player takes an egg from the sword shrine. Break the chained crates around the four Apothicon statues in Beast Mode: opposite the shrine in the Rift, behind Ruby Rabbit in Canals, inside the room beyond Waterfront's perk machine, and beneath the balcony by Footlight's shortcut stairs. Place your egg at each statue, kill zombies nearby until it is full, then pick it up and move to the next. Return the fully charged egg to the shrine and take the Apothicon Sword."
+        "body": "Each player takes an egg from the sword shrine. Break the chained crates around the four Apothicon statues in Beast Mode: opposite the shrine in the Rift, behind Ruby Rabbit in Canals, inside the room beyond Waterfront's perk machine, and beneath the balcony by Footlight's shortcut stairs. Place your egg at each statue, kill zombies nearby until it is full, then pick it up and move to the next. Return the fully charged egg to the shrine and take the Apothicon Sword.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/shadows-of-evil/"
       },
       {
-        "title": "Upgrade all four swords",
+        "title": "Upgrade every present player’s sword",
         "body": "Visit the ritual room belonging to your character: Nero at his landing, Jessica at Burlesque, Jackie at Ruby Rabbit, Floyd at the Boxing Gym. Take the Arch-Ovum from its Keeper. Place it in the red circles in Junction, outside the Boxing Gym, outside Ruby Rabbit and outside Burlesque. Kill the spawned Margwas at each circle. Each player can complete one circle per round. When all four circles are done, return to your character's Keeper and exchange the sword for the upgraded Keeper Sword.",
-        "tip": "The team can work on different players' upgrades in the same round, but each player's own four challenges span separate rounds."
+        "tip": "The team can work on different players' upgrades in the same round, but each player's own four challenges span separate rounds.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/3uw4v6/shadows_of_evil_complete_map_breakdown/"
       },
       {
         "title": "Defend the flag at all eight electrical spots",
         "body": "Once all swords are upgraded, interact with the book in Nero's room; it rises and floats. Take the flag from the Rift. Place it on a sparking ground marker and defend it against rolling meatballs, parasites and the Shadowman; shoot the Shadowman whenever he appears around it. A completion chime means you can move it. Charge it at a second unused marker, then deliver it to a ritual-room Keeper. Repeat four deliveries using the eight markers: two in Junction and two in each district.",
-        "tip": "If the flag breaks, pick it up again in the Rift and redo that delivery. Clear the rolling enemies before they reach it; the Shadowman's channel also damages the flag."
+        "tip": "If the flag breaks, pick it up again in the Rift and redo that delivery. Clear the rolling enemies before they reach it.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/shadows-of-evil/",
+        "images": [
+          {
+            "src": "./assets/root-batch13-cnp-335-book.webp",
+            "alt": "Nero’s book",
+            "caption": "Nero’s book",
+            "source": "https://www.youtube.com/watch?v=7drZa5q8OEk&t=335s",
+            "credit": "CodeNamePizza · 2022 gameplay; Call of Duty © Activision"
+          }
+        ]
       },
       {
         "title": "Trap the Shadowman",
-        "body": "In the Pack-a-Punch chamber, activate all four Keepers at their chalices to begin the locked-room fight. Activate them again to remove the Shadowman's shield. Keep shooting him as he teleports backward around the room. When he is directly above the central ritual table, interact with the table to capture him. If he shields again, reactivate the Keepers and repeat the damage sequence."
+        "body": "In the Pack-a-Punch chamber, ready the Keepers at their chalices to begin the locked-room fight. Reactivate them if needed to remove the Shadowman's shield. Keep shooting him as he teleports backward around the room. When he is directly above the central ritual table, interact with the table to capture him. If he shields again, reactivate the Keepers and repeat the damage sequence.",
+        "tip": "Solo: one Keeper; co-op: four. Stow Death Machines before capture.",
+        "researchSource": "https://www.youtube.com/watch?v=7drZa5q8OEk&t=439s",
+        "images": [
+          {
+            "src": "./assets/root-batch13-cnp-448-shadowman-bubble.webp",
+            "alt": "Shadowman’s bubble",
+            "caption": "Shadowman’s bubble",
+            "source": "https://www.youtube.com/watch?v=7drZa5q8OEk&t=448s",
+            "credit": "CodeNamePizza · 2022 gameplay; Call of Duty © Activision"
+          }
+        ]
       },
       {
         "title": "Assign the finale positions and keep cleansing",
-        "body": "With four players, the huge Gateworm appears and Margwas spawn. Kill a Margwa to restore access to the Beast altars. Assign one player to the overhead electrical panel at each tram station and one to the three Keepers in Junction. During this phase, regularly pass through the bright white cleansing orbs whenever the screen aura warns of infection. Avoid the purple floor hazards."
+        "body": "With four players, the huge Gateworm appears and Margwas spawn. Kill a Margwa to restore access to the Beast altars. Assign one player to the overhead electrical panel at each tram station and one to the three Keepers in Junction. During this phase, regularly pass through the bright white cleansing orbs whenever the screen aura warns of infection. Avoid the purple floor hazards.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/1egun1e/what_exactly_is_going_on_in_the_final_easter_egg_step/"
       },
       {
         "title": "Hit the Gateworm with an electrified tram",
-        "body": "Leave the tram at a station other than the one used to call it. The caller starts human at the empty station; the other two station players enter Beast Mode and keep their overhead panels blue. The caller calls the tram, immediately enters Beast Mode at the nearest altar, then shocks their station's panel. All three sets of tracks must be blue while the tram crosses Junction and removes the Gateworm."
+        "body": "Leave the tram at a station other than the one used to call it. The caller starts human at the empty station; the other two station players enter Beast Mode and keep their overhead panels blue. The caller calls the tram, immediately enters Beast Mode at the nearest altar, then shocks their station's panel. All three sets of tracks must be blue while the tram crosses Junction and removes the Gateworm.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/1egun1e/what_exactly_is_going_on_in_the_final_easter_egg_step/",
+        "images": [
+          {
+            "src": "./assets/root-batch13-noah-360-station-panel-normal.webp",
+            "alt": "Station panel",
+            "caption": "Station panel",
+            "source": "https://www.youtube.com/watch?v=DUUw4W-yjHY&t=360s",
+            "credit": "NoahJ456 · 2015 gameplay; Call of Duty © Activision"
+          }
+        ]
       },
       {
         "title": "Shock all three Junction Keepers",
         "body": "As soon as the tram hits the Gateworm, the fourth player in Beast Mode shocks each of the three Keepers in Junction. Do it while the Gateworm is absent and all three track circuits remain powered. Their joined beam triggers the ending. If the timing fails, cleanse, restore the three panels and call the tram across Junction again.",
-        "tip": "Call out the tram's approach and the Gateworm's disappearance. The Keeper window is brief; the middle player should already be in position."
+        "tip": "Call out the tram's approach and the Gateworm's disappearance. The Keeper window is brief; the middle player should already be in position.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/1egun1e/what_exactly_is_going_on_in_the_final_easter_egg_step/",
+        "images": [
+          {
+            "src": "./assets/root-batch13-noah-548-completion-beam.webp",
+            "alt": "Completion beam",
+            "caption": "Completion beam",
+            "source": "https://www.youtube.com/watch?v=DUUw4W-yjHY&t=548s",
+            "credit": "NoahJ456 · 2015 gameplay; Call of Duty © Activision"
+          }
+        ]
       }
     ],
     "sources": [
       {
-        "title": "r/CODZombies community breakdown: Shadows of Evil",
+        "title": "r/CODZombies: credited source excerpts for rituals, swords, flags and boss",
         "url": "https://www.reddit.com/r/CODZombies/wiki/shadows-of-evil/"
+      },
+      {
+        "title": "u/chrisd848: original sword-statue and four-circle breakdown",
+        "url": "https://www.reddit.com/r/CODZombies/comments/3uw4v6/shadows_of_evil_complete_map_breakdown/"
+      },
+      {
+        "title": "CodeNamePizza: 2022 walkthrough",
+        "url": "https://www.youtube.com/watch?v=7drZa5q8OEk"
+      },
+      {
+        "title": "MrDalekJD: 2015 walkthrough",
+        "url": "https://www.youtube.com/watch?v=yadq4Mtrm04"
       },
       {
         "title": "Community explanation of tram timing and cleansing",
         "url": "https://www.reddit.com/r/CODZombies/comments/1egun1e/what_exactly_is_going_on_in_the_final_easter_egg_step/"
+      },
+      {
+        "title": "NoahJ456: 2015 finale",
+        "url": "https://www.youtube.com/watch?v=DUUw4W-yjHY"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-18",
+    "relatedGuideIds": [
+      "bo3-shadows-of-evil-community-shadows-of-evil-easter-eggs-quests-main-quest",
+      "bo3-shadows-of-evil-community-shadows-of-evil-easter-eggs-quests-main-quest-1-the-beginning-of-the-end",
+      "bo3-shadows-of-evil-community-shadows-of-evil-easter-eggs-quests-main-easter-egg-2-the-sword-in-the-stone",
+      "bo3-shadows-of-evil-community-shadows-of-evil-easter-eggs-quests-main-easter-egg-3-capture-the-flag",
+      "bo3-shadows-of-evil-community-shadows-of-evil-easter-eggs-quests-main-easter-egg-4-apocalypse-averted-boss-fight",
+      "bo3-shadows-of-evil-community-shadows-of-evil-easter-eggs-quests-main-easter-egg-5-finish-him-4-player-only"
+    ]
   },
   {
     "id": "coldwar-die-maschine-main",

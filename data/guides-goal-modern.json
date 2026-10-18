@@ -2364,52 +2364,84 @@
     "summary": "Use the menu playlist, distinguish current music access from the original cassette unlocks, and identify the six Battle Pass mixtapes.",
     "requirements": [
       "Open Barracks → Music Player in Black Ops Cold War.",
-      "The November 2021 unlock announcement excluded War Tracks / Battle Pass music. This review does not establish a current route for obtaining a missed seasonal pack."
+      "The archived November 2021 announcement excluded War Tracks / Battle Pass music. A current way to acquire a missed seasonal pack has not been established by this review."
     ],
     "reward": "A custom menu / in-game playlist using the tracks available on the account.",
     "steps": [
       {
         "title": "Open the playlist and select playback",
-        "body": "Open Music Player from Barracks. Choose the tracks you want in your playlist and use the menu's play / shuffle controls. Set playback to Menu Only for lobby music, or On to allow the player during matches. The individual map song Easter eggs remain separate in-match interactions."
+        "body": "Open Music Player from Barracks. Select the songs you want, then use play-in-order or shuffle. Menu Only limits playback to menus; On also allows it during matches. Individual map song Easter eggs use their own in-match interactions.",
+        "original": true,
+        "researchSource": "https://www.charlieintel.com/black-ops-cold-war/how-to-use-the-black-ops-cold-war-music-player-86502/",
+        "images": [
+          {
+            "src": "./assets/batch13-music-player-menu.svg",
+            "alt": "Music Player menu path and playback — original reference diagram",
+            "caption": "Music Player menu path and playback · Reference diagram, not gameplay.",
+            "source": "https://www.charlieintel.com/black-ops-cold-war/how-to-use-the-black-ops-cold-war-music-player-86502/",
+            "credit": "Dead Drop · original reference diagram"
+          }
+        ]
       },
       {
         "title": "Account for the November 2021 change",
-        "body": "The announcement archived in the cited November 2021 screenshot says previously locked Music Player tracks were unlocked, except War Tracks. You do not need to farm Unknown Signal solely to gain those menu tracks. If an old walkthrough tells you to earn Alone, Lost, Amoeba or the Outbreak instrumentals for the player, check your current playlist first.",
-        "tip": "Completing a map's cassette or bunny event can still play its song / award its normal match loot. A song already available in the menu is not proof that you completed its map puzzle."
+        "body": "The archived sound-designer announcement says previously locked Music Player tracks were opened to players except War Tracks. Check your playlist before farming Unknown Signal for a menu unlock. Owning a menu song does not prove you completed its map’s song puzzle.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/blackopscoldwar/comments/qmawdn/",
+        "tip": "If a track is absent, first distinguish ordinary unlockable music from a historical Battle Pass pack. This review does not verify a current reissue or store offer for a missed pack."
       },
       {
         "title": "Identify the first three historical mixtapes",
-        "body": "The seasonal table records these original unlocks: Season 1, tier 1 — Black Ops 1 Mixtape: Pentagon, Rooftops, 115, Damned. Season 2, tier 44 — Black Ops 2 Mixtape: Main Theme, Shadows, Adrenaline, Damned 100ae. Season 3, tier 44 — Black Ops 3 Mixtape: I Live, Ignition, Filter, Damned 3."
+        "body": "The seasonal table records these original unlocks: Season 1, tier 1 — Black Ops 1 Mixtape: Pentagon, Rooftops, 115, Damned. Season 2, tier 44 — Black Ops 2 Mixtape: Main Theme, Shadows, Adrenaline, Damned 100ae. Season 3, tier 44 — Black Ops 3 Mixtape: I Live, Ignition, Filter, Damned 3.",
+        "tip": "Archival catalog listing. This pass did not recheck every Season 1–3 track against its original reward screen; the old tiers are not current unlock instructions.",
+        "researchSource": "https://callofduty.fandom.com/wiki/Music_Player"
       },
       {
         "title": "Identify the last three historical mixtapes",
         "body": "Season 4, tier 72 — Black Ops 4 Mixtape: Inferno, Alistair's Theme, Damned 4, Reflections. Season 5, tier 72 — World at War Mixtape: Black Cats, Dog Fire, Hells Gate, Wild Card. Season 6, tier 72 — Black Ops / Treyarch Grab Bag Mixtape: Revenge, Farid, Sandcastle, This Jazz Is Classified.",
-        "tip": "These are the historical Battle Pass sources. The Unknown Signal radio does not award the seasonal mixtape packs; do not treat their old tiers as an active unlock objective."
+        "tip": "The publisher confirms the Season 4 and 5 lists and Season 6 tier 72 / two example tracks. Farid and Sandcastle remain inherited catalog entries pending a fresh original-screen check. These are historical Battle Pass sources.",
+        "researchSource": "https://callofduty.fandom.com/wiki/Music_Player"
       }
     ],
     "sources": [
       {
-        "title": "Archived November 2021 unlock announcement screenshot and firsthand player reports",
+        "title": "Archived November 2021 sound-designer announcement and firsthand reports",
         "url": "https://www.reddit.com/r/blackopscoldwar/comments/qmawdn/"
       },
       {
-        "title": "Firsthand confirmation: unlockable tracks included, Battle Pass tracks excluded",
+        "title": "Players — non-Battle-Pass unlock confirmation",
         "url": "https://www.reddit.com/r/blackopscoldwar/comments/u9cbxi/"
       },
       {
-        "title": "Activision — Season 2 Mixtape, tier44 and Music Player integration",
+        "title": "CharlieIntel — documented menu and playback controls (2021)",
+        "url": "https://www.charlieintel.com/black-ops-cold-war/how-to-use-the-black-ops-cold-war-music-player-86502/"
+      },
+      {
+        "title": "Activision — Season 1 tier and two named examples",
+        "url": "https://www.callofduty.com/ca/fr/blog/2020/12/Season-One-Announcement-coming-December-16_msm_moved_msm_moved"
+      },
+      {
+        "title": "Activision — Season 2 tier and Music Player integration",
         "url": "https://www.callofduty.com/ca/en/blog/2021/02/Breaking-Down-the-Season-Two-Battle-Pass"
       },
       {
-        "title": "Call of Duty Wiki — indexed historical Music Player acquisition table",
-        "url": "https://callofduty.fandom.com/wiki/Music_Player"
+        "title": "Activision — complete Season 4 mixtape",
+        "url": "https://www.callofduty.com/ca/en/blog/2021/06/Season-Four-Battle-Pass-System-Bundles"
       },
       {
-        "title": "CharlieIntel — Music Player settings and playback controls",
-        "url": "https://www.charlieintel.com/black-ops-cold-war/how-to-use-the-black-ops-cold-war-music-player-86502/"
+        "title": "Activision — complete Season 5 mixtape",
+        "url": "https://www.callofduty.com/ca/en/blog/2021/08/Season-Five-Battle-Pass-System-Bundles"
+      },
+      {
+        "title": "Activision — Season 6 tier and two named examples",
+        "url": "https://www.callofduty.com/blog/2021/10/black-ops-cold-war-warzone-season-six-battle-pass-bundles"
+      },
+      {
+        "title": "Inherited historical catalog attribution; not freshly accessible in this pass",
+        "url": "https://callofduty.fandom.com/wiki/Music_Player"
       }
     ],
-    "checked": "2026-10-16",
+    "checked": "2026-10-18",
     "relatedGuideIds": [
       "coldwar-outbreak-unknown-signal",
       "coldwar-die-maschine-alone-music",
