@@ -331,6 +331,10 @@
     {
       "batch": "coldwar-outbreak-season-two-reloaded-named-intel-and-photos",
       "rowsWithRecordedReview": 1
+    },
+    {
+      "batch": "iw-attack-song-controls-and-native-record-locations",
+      "rowsWithRecordedReview": 2
     }
   ],
   "guideReviews": [
@@ -56179,6 +56183,68 @@
           "evidenceUrls": [
             "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
           ]
+        },
+        {
+          "batch": "iw-attack-song-controls-and-native-record-locations",
+          "reportedStatus": "Source-compared; song controls and six native references integrated after parent review. Violet Ray remains unresolved.",
+          "independentlyPlaytested": false,
+          "findings": [
+            "Complete NGT native narration and six selected raw/final references read; controls, five landmarks, still pickup and localized car-music route supported. Menu statement is tentative, so replay/persistence/three-jukebox rules remain unresolved."
+          ],
+          "unverified": [
+            "The demonstration does not prove a required pickup order, an all-three-jukebox prerequisite, replay, or persistent menu unlock."
+          ],
+          "wholeGuideTextRead": true,
+          "allExistingStepsRead": true,
+          "originalStepCount": 2,
+          "stepChecks": [
+            {
+              "index": 1,
+              "title": "Original five vinyl locations",
+              "sha256": "570d4d8533ddfb7c2c1ee7a0e1e4e9ff6c1106ed8bb03fccb4fc374b21408d2d",
+              "allFieldsRead": true,
+              "kind": "attributed quote",
+              "source": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/",
+              "review": "Complete NGT native narration and six selected raw/final references read; controls, five landmarks, still pickup and localized car-music route supported. Menu statement is tentative, so replay/persistence/three-jukebox rules remain unresolved.",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+              ]
+            },
+            {
+              "index": 2,
+              "title": "Activate the five separate records",
+              "sha256": "2f7ebc231501cd510f79e23581860ba0f8ab9945312cc664a541d21f8c00f919",
+              "allFieldsRead": true,
+              "kind": "authored explanation",
+              "source": "https://www.youtube.com/watch?v=cQ4TrTfPR0s",
+              "review": "Complete NGT native narration and six selected raw/final references read; controls, five landmarks, still pickup and localized car-music route supported. Menu statement is tentative, so replay/persistence/three-jukebox rules remain unresolved.",
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=cQ4TrTfPR0s"
+              ]
+            },
+            {
+              "index": 3,
+              "title": "Listen near an active jukebox",
+              "sha256": "0aa466a01c87957e595e5a6c2b8a8414d379c5ae21a67193b620fd64681b0edb",
+              "allFieldsRead": true,
+              "kind": "authored explanation",
+              "source": "https://www.youtube.com/watch?v=cQ4TrTfPR0s",
+              "review": "Complete NGT native narration and six selected raw/final references read; controls, five landmarks, still pickup and localized car-music route supported. Menu statement is tentative, so replay/persistence/three-jukebox rules remain unresolved.",
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=cQ4TrTfPR0s"
+              ]
+            }
+          ],
+          "requirementsAndRewardReviewed": true,
+          "imageReview": {
+            "parentFinalReview": "output/catalog-batch17-parent-review.json",
+            "nativeReferences": 6,
+            "independentGameplayReplay": false
+          },
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/",
+            "https://www.youtube.com/watch?v=cQ4TrTfPR0s"
+          ]
         }
       ]
     },
@@ -57987,6 +58053,55 @@
           "imageReview": {
             "parentFinalReview": "output/catalog-batch16-parent-review.json",
             "limits": "The bounded set contains12 individually inspected native photos plus one explicitly authored diagram. Optional calling-card and Director’s Cut camera photos, a clear full glyph-wall row and additional fuse-route photos remain pending; no unselected raw is approved media."
+          },
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+          ]
+        },
+        {
+          "batch": "iw-attack-song-controls-and-native-record-locations",
+          "reportedStatus": "Existing part route read; basic device effect remains unresolved.",
+          "independentlyPlaytested": false,
+          "findings": [
+            "Every inherited field/chapter read. Accessible original reports did not establish the basic Violet Ray effect; no operative correction or effect claim is proposed."
+          ],
+          "unverified": [
+            "This chapter verifies the documented pickup route. Exact device damage, duration, charges, replacement rules and any further upgrade are not newly established."
+          ],
+          "wholeGuideTextRead": true,
+          "allExistingStepsRead": true,
+          "originalStepCount": 2,
+          "stepChecks": [
+            {
+              "index": 1,
+              "title": "Original blueprint and part landmarks",
+              "sha256": "cef24d8304047919dba45ee0bd73109b3f2bea479b0985fcc41141da8a6bc46e",
+              "allFieldsRead": true,
+              "kind": "attributed quote",
+              "source": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/",
+              "review": "Every inherited field/chapter read. Accessible original reports did not establish the basic Violet Ray effect; no operative correction or effect claim is proposed.",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+              ]
+            },
+            {
+              "index": 2,
+              "title": "Finish the named assembly route",
+              "sha256": "33e36a5c71771e81317dc934fc6225ec24b04fc6b94d5ea4b1c1686605d96a24",
+              "allFieldsRead": true,
+              "kind": "authored explanation",
+              "source": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/",
+              "review": "Every inherited field/chapter read. Accessible original reports did not establish the basic Violet Ray effect; no operative correction or effect claim is proposed.",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+              ]
+            }
+          ],
+          "requirementsAndRewardReviewed": true,
+          "imageReview": {
+            "parentFinalReview": "output/catalog-batch17-parent-review.json",
+            "nativeReferences": 0,
+            "independentGameplayReplay": false
           },
           "evidenceUrls": [
             "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
@@ -74294,7 +74409,7 @@
       "mapIds": [
         "iw-attack-of-the-radioactive-thing"
       ],
-      "note": "Remaining Attack checks include current device functions/upgrade statistics, Afterlife solo conditions, Soul Challenge numeric tiers, native music activation/replay details, exact Skull Hop minima/retry/reward behavior and cross-profile or Director’s Cut credit rules. Pending photo candidates are not presented as inspected assets."
+      "note": "Remaining Attack checks include current device functions/upgrade statistics, Afterlife solo conditions, Soul Challenge numeric tiers, music replay and persistent-unlock details, exact Skull Hop minima/retry/reward behavior and cross-profile or Director’s Cut credit rules. Pending photo candidates are not presented as inspected assets."
     },
     {
       "mapIds": [
@@ -74306,11 +74421,11 @@
   "dataHashFormat": "SHA-256 of UTF-8 JSON files with LF line endings, matching Git and GitHub Pages.",
   "dataSha256": {
     "catalog.json": "1d06d2aa4a42db59b97868073ddbab1d6a33b3ffb4167f2ebe71ceed09eddf2d",
-    "community-corrections.json": "1efff7dfcb0c294a75a63169d8fdfeaa1146baf1e6dbbe8e0e05f3fa1a4e8617",
-    "coverage-gaps.json": "d7c74adc7055f034ae3f5f127c02de1f0d8e3bf9a7abd7e7f229fedb3bc54e3c",
+    "community-corrections.json": "030ce407924ef8a1cb18f639ae9d678c5fd82e80c22a1d601dc6dad107f1f490",
+    "coverage-gaps.json": "0f4a4a55517b68130d7ab1aa241bd5c621b2bf8fbd859f6db4a46eebb1b88661",
     "guides-aw.json": "b5a7e5fb7d83e776452f77060d0714c13f63ae8eeb6e367272c0d00a38cc3855",
     "guides-classic.json": "adfcf8a0e55f347da12fc3632c9c04406f3bc65315763f0193aa3be754916f0d",
-    "guides-community.json": "195def76291fc27694f909fc82a5c7a50bd381528ff3eceb6c5a988f69635c4e",
+    "guides-community.json": "e7143e29b58c9001154151a2fd4991677fb798d41994c951c9a87b86ab385b43",
     "guides-completion-classic.json": "ed538054e7aeb5575de95dc78a345deb25a4111b47049bbd73fd29de06905c7a",
     "guides-completion-modern.json": "5e0086c91529a858bf011cbb6ccfe4bc469b3743f49c9175aac4e0115f460748",
     "guides-completion-modes.json": "7661fccf1e3b1fe4466e8a1f7219706fa1851d6b609c826fa045207810ad3bc5",
@@ -74322,7 +74437,7 @@
     "guides-modern.json": "1082b5feea32d0f1a1650977f1d89b6b789a2b779dcb3e0c2eec9d5cbd9b3630",
     "guides-super-ee-doa4.json": "1d038197c8325f946290b8886d95fce8889291c193a5e8ec6f54124033a17a4a",
     "media-completion.json": "58882d44af4bbe2e09648819c06547084fc33caf994cace9122d512163c22366",
-    "media.json": "a9c3cc905dd2fe7e834d317d4a586ae72525c6d256fdd035f9db4d2eb9a1ddaa",
+    "media.json": "62c1b5f8189144e6e4d380cec1d41724e0cf043bef274b9e08e8e861d80ef61d",
     "reddit-sources.json": "fd7f1c5e946d258d708cc7355e5826a2a8fc02ef9ce071c9e40a4bced6de646a",
     "references.json": "777f48a6c96af27b3e8c11ab161bdf13e6015ebcb4f18d8d24bf81397fdafe06",
     "source-gaps.json": "14803ee0797b8ad30644ff156b1197ce1328fd65a8dd95b3ce04e95ddcf16518"
@@ -74435,7 +74550,8 @@
       "Attack Skull Hop twelve-chapter guide loads both the match-specific wall-word example and credited alphabet; every quoted chapter now exposes its credited source directly beside the step.",
       "Attack five-chapter MAD upgrade loads all three native attachment panels and their prompts; Dear Diary has three direct chapter references and a working final-step jump.",
       "Outbreak Season Two Reloaded has23 direct step references; its Maxis chapter loads all four regional radio photos, and a checked chapter survives reload before temporary progress is cleared.",
-      "Updated app version tag loads the per-step quoted-source fallback; actual viewport1280x720, narrow-screen recheck remains unverified. Full evidence is output/batch16-browser-qa.json."
+      "Updated app version tag loads the per-step quoted-source fallback; actual viewport1280x720, narrow-screen recheck remains unverified. Full evidence is output/batch16-browser-qa.json.",
+      "Attack hidden-song three-chapter route has three direct step references, six loaded1920px native references, focused chapter and Sources jumps, preserved checkbox after reload and cleared temporary QA progress. No overflow at1280x720; output/batch17-browser-qa.json."
     ],
     "currentBatchResponsiveLimit": "The in-app browser viewport override did not change the actual 1280x720 viewport during these batches. Current recorded checks are desktop-only; a narrow-screen recheck remains unverified. Earlier recorded mobile checks retain their original scope."
   }
