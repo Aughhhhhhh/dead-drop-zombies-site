@@ -8,8 +8,8 @@
     "Newly authored guides may have source research without a separate recorded full audit. Guide counts and passing software checks do not establish gameplay accuracy."
   ],
   "catalogEntries": 160,
-  "runtimeGuides": 1524,
-  "guidesWithRecordedSourceReview": 835,
+  "runtimeGuides": 1526,
+  "guidesWithRecordedSourceReview": 837,
   "guidesCertifiedFullyVerified": 0,
   "batches": [
     {
@@ -351,6 +351,10 @@
     {
       "batch": "bo3-zetsubou-setup-plants-weapons-side-quests-and-native-references",
       "rowsWithRecordedReview": 34
+    },
+    {
+      "batch": "bo3-zetsubou-firearm-cipher-references-and-skull-modes",
+      "rowsWithRecordedReview": 3
     }
   ],
   "guideReviews": [
@@ -29451,6 +29455,45 @@
       ]
     },
     {
+      "id": "bo3-zetsubou-no-shima-ciphers-scraps",
+      "mapId": "bo3-zetsubou-no-shima",
+      "reviews": [
+        {
+          "batch": "bo3-zetsubou-firearm-cipher-references-and-skull-modes",
+          "reportedStatus": "Whole new reference text source-reviewed with explicit unresolved fields.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Compared full frozen proposals and parent reader text; no gameplay-completeness certificate.",
+            "Desktop chapter/source links, selected image placements and saved checklist progress passed.",
+            "All21 JSON values survived full importer regeneration."
+          ],
+          "unverified": [
+            "No independent retail playtest.",
+            "Five radio routes, several cipher decoding/physical-location details, exact wall mounts and ammunition checks remain incomplete."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 14,
+            "directReferences": 14,
+            "newInlineImagePlacements": 5
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "All9 final WebPs viewed; native stills establish selected labels/objects, not uninterrupted procedures.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/4ff0jp/zns_base64_cipher_solvedspoiler/",
+            "https://www.reddit.com/r/CODZombies/comments/4fiue7/spoilerzns_resnov_cipher_solved/",
+            "https://www.reddit.com/r/CODZombies/comments/4fqyad/zns_permanent_power_cipher_solvedspoiler/",
+            "https://www.reddit.com/r/CODZombies/comments/4l39fz/zns_papers_codes_solved/",
+            "https://www.reddit.com/r/CODZombies/comments/9d8twb/",
+            "https://www.reddit.com/r/CODZombies/comments/aq7035/cipher_update_revelations_transcripts_new_chaos/",
+            "https://www.reddit.com/r/CODZombies/wiki/treyarch-ciphers/",
+            "https://www.reddit.com/r/CODZombies/wiki/zetsubou-no-shima/",
+            "https://www.youtube.com/watch?v=wAZe6K2S3JY"
+          ]
+        }
+      ]
+    },
+    {
       "id": "bo3-zetsubou-no-shima-community-zetsubou-no-shima-buildables-electrified-shield",
       "mapId": "bo3-zetsubou-no-shima",
       "reviews": [
@@ -30389,6 +30432,36 @@
             "https://www.reddit.com/r/CODZombies/wiki/zetsubou-no-shima/",
             "https://www.youtube.com/watch?v=6pxC9-9LzTo"
           ]
+        },
+        {
+          "batch": "bo3-zetsubou-firearm-cipher-references-and-skull-modes",
+          "reportedStatus": "Focused native Skull mode-label correction; existing source text preserved.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Compared full frozen proposals and parent reader text; no gameplay-completeness certificate.",
+            "Desktop chapter/source links, selected image placements and saved checklist progress passed.",
+            "All21 JSON values survived full importer regeneration."
+          ],
+          "unverified": [
+            "No independent retail playtest.",
+            "Five radio routes, several cipher decoding/physical-location details, exact wall mounts and ammunition checks remain incomplete."
+          ],
+          "wholeGuideTextRead": true,
+          "originalStepCount": 7,
+          "stepChecks": {
+            "chapters": 7,
+            "directReferences": 7,
+            "newInlineImagePlacements": 1
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "All9 final WebPs viewed; native stills establish selected labels/objects, not uninterrupted procedures.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/1338amo/skull_in_zetsubou/",
+            "https://www.reddit.com/r/CODZombies/comments/4fgopr/zetsubou_no_shima_easter_egg_megathread/",
+            "https://www.reddit.com/r/CODZombies/wiki/zetsubou-no-shima/",
+            "https://www.youtube.com/watch?v=6pxC9-9LzTo",
+            "https://www.youtube.com/watch?v=wAZe6K2S3JY"
+          ]
         }
       ]
     },
@@ -30492,6 +30565,50 @@
             "https://steamcommunity.com/sharedfiles/filedetails/?id=693187248",
             "https://www.codzombieguides.com/zetsubou-no-shima",
             "https://www.youtube.com/watch?v=nH17M9yikRo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-zetsubou-no-shima-ordinary-pack-a-punch-inventory",
+      "mapId": "bo3-zetsubou-no-shima",
+      "reviews": [
+        {
+          "batch": "bo3-zetsubou-firearm-cipher-references-and-skull-modes",
+          "reportedStatus": "Whole new reference text source-reviewed with explicit unresolved fields.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Compared full frozen proposals and parent reader text; no gameplay-completeness certificate.",
+            "Desktop chapter/source links, selected image placements and saved checklist progress passed.",
+            "All21 JSON values survived full importer regeneration."
+          ],
+          "unverified": [
+            "No independent retail playtest.",
+            "Five radio routes, several cipher decoding/physical-location details, exact wall mounts and ammunition checks remain incomplete."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 36,
+            "directReferences": 36,
+            "newInlineImagePlacements": 4
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "All9 final WebPs viewed; native stills establish selected labels/objects, not uninterrupted procedures.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/1qk5shs/bo3_how_do_you_all_feel_about_this_gun/",
+            "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+            "https://www.reddit.com/r/CODZombies/comments/4fgopr/zetsubou_no_shima_easter_egg_megathread/",
+            "https://www.reddit.com/r/CODZombies/comments/4fv3ox/zns_full_plant_growing_guide/",
+            "https://www.reddit.com/r/CODZombies/comments/4g62h8/",
+            "https://www.reddit.com/r/CODZombies/comments/4gr5vz/complete_plant_growing_guide/",
+            "https://www.reddit.com/r/CODZombies/comments/4kl7kr/zetsubou_no_shima_complete_map_breakdown/",
+            "https://www.reddit.com/r/CODZombies/comments/4kp6vp/gobblegum_perks_weapon_kits_game_features/",
+            "https://www.reddit.com/r/CODZombies/comments/qgyxoj/beginner_question_bo3/",
+            "https://www.reddit.com/r/CODZombies/wiki/zetsubou-no-shima/",
+            "https://www.youtube.com/watch?v=8CwF6YvvVeY",
+            "https://www.youtube.com/watch?v=kQ43EprIE8M",
+            "https://www.youtube.com/watch?v=m7RLTUWjpTQ",
+            "https://www.youtube.com/watch?v=wAZe6K2S3JY"
           ]
         }
       ]
@@ -76764,21 +76881,21 @@
       "mapIds": [
         "bo3-zetsubou-no-shima"
       ],
-      "note": "Five radios, twelve ciphers and two scraps still need location guides. Some alternative part spawns and historical trigger, control and reward details remain unverified; check the notes in each guide."
+      "note": "Five radio locations and activation procedures still need guides. Cipher and scrap methods are documented, but several locations and decoding details remain unresolved. Exact weapon mounts, ammunition data, some alternative part spawns and historical trigger or reward details are still being checked."
     }
   ],
   "dataHashFormat": "SHA-256 of UTF-8 JSON files with LF line endings, matching Git and GitHub Pages.",
   "dataSha256": {
     "catalog.json": "1d06d2aa4a42db59b97868073ddbab1d6a33b3ffb4167f2ebe71ceed09eddf2d",
-    "community-corrections.json": "07196b52abcd5f00ec2863a10140f23c2339e33aa9ea33faefc367a148016cfd",
-    "coverage-gaps.json": "06fb08d57d72eabbbd1fe54b19c257b7f04bc55d56766c6c4944edd7d1a03dd0",
+    "community-corrections.json": "5ccebe35bf9c23606faf9f8b4db7f514dabea48487b9559aa61d66b779be6beb",
+    "coverage-gaps.json": "fd32ce7675bfc452025a001322ba3dc8b101ba28cd130a6be23540689af2c879",
     "guides-aw.json": "b5a7e5fb7d83e776452f77060d0714c13f63ae8eeb6e367272c0d00a38cc3855",
-    "guides-classic.json": "48f8fe9aad4cfddd1f238610f8cbdd78b98d8c40e4f8bdca5238e95e784fdae3",
-    "guides-community.json": "c23ead6932e33b5629237c49dd32a549dd2b756b2598e072406bdeb40b535185",
+    "guides-classic.json": "1bbc31b98a8b896e7b6ed88f9829ffa6f2217a23d9fef8fa24de97d0f1c2e542",
+    "guides-community.json": "b2a6f49469df819d26ab1b315a879ce94f84ab34f7e55123db2ba6c299adcf8e",
     "guides-completion-classic.json": "ed538054e7aeb5575de95dc78a345deb25a4111b47049bbd73fd29de06905c7a",
     "guides-completion-modern.json": "5e0086c91529a858bf011cbb6ccfe4bc469b3743f49c9175aac4e0115f460748",
     "guides-completion-modes.json": "7661fccf1e3b1fe4466e8a1f7219706fa1851d6b609c826fa045207810ad3bc5",
-    "guides-extra.json": "6476885bba33dfae5f089dc6c8b3bdeb616a22da75e841051248feede0a9f857",
+    "guides-extra.json": "5850b39beeb93212a261a429aa6464138237c8396e5b3e1964da5e0184905f11",
     "guides-goal-classic.json": "5621ad45c8750da623b7c48c4fbbb023c358c9853375d50d29e2fedba3b176dd",
     "guides-goal-modern.json": "e2e88076d73c606934b7058c0c84ebeca2a6850f5b635af941f9ce46dafc43dc",
     "guides-goal-modes.json": "a063eeb0db74f9c40a3edecc71cd08853a01dc83c7a4c0f6ef88bde5e202a86c",
@@ -76903,9 +77020,10 @@
       "Attack hidden-song three-chapter route has three direct step references, six loaded1920px native references, focused chapter and Sources jumps, preserved checkbox after reload and cleared temporary QA progress. No overflow at1280x720; output/batch17-browser-qa.json.",
       "DE ordinary-weapon reference has32 chapters and32 direct step references. Chapter6,13 and31 jumps focus their sections; all three1200px wall-outline photos load. Sources jump focuses correctly; checkbox survives reload and temporary progress is cleared. No overflow at1280x720; mobile remains unverified. Evidence: output/batch18-browser-qa.json.",
       "Outbreak Season Three launch/reloaded have33/26 chapters and direct references; radio photos appear under faction-radio steps, native pickup aliases and the context-only Blueprint caption are visible, selected images load and jumps/Sources focus correctly. Checked progress survives reload and temporary progress is cleared. DE shield has five chapters, four preserved quote blocks and a separate attributed refill chapter. No desktop overflow at1280x720; mobile remains unverified. Evidence: output/batch19-browser-qa.json.",
-      "All34 revised/new Zetsubou pages render181 chapters with181 direct references and focused chapter jumps. Selected native images load; authored plants/side routes have no quoted-source banner. Main-quest checkbox survives reload and QA progress is restored; Sources focuses guide-sources. Widow’s Wine links to the Spider-Boss prerequisite and labels its image as context. The map shows34 guides and its expanded research-gap disclosure. No overflow at1280x720; mobile remains unverified. Evidence: output/batch20-browser-qa.json."
+      "All34 revised/new Zetsubou pages render181 chapters with181 direct references and focused chapter jumps. Selected native images load; authored plants/side routes have no quoted-source banner. Main-quest checkbox survives reload and QA progress is restored; Sources focuses guide-sources. Widow’s Wine links to the Spider-Boss prerequisite and labels its image as context. The map shows34 guides and its expanded research-gap disclosure. No overflow at1280x720; mobile remains unverified. Evidence: output/batch20-browser-qa.json.",
+      "Zetsubou firearm/cipher references and Skull update render36/14/7 chapters with57 direct step references. All10 new placements load9 native WebPs;30 weapon tables and30 upgrade-name links render. Chapter/Sources focus, saved/restored checklist progress, related PaP link and36-guide map roster pass at1280x720 with no horizontal overflow. Mobile remains unverified. Evidence: output/batch21-browser-qa.json."
     ],
     "currentBatchResponsiveLimit": "The in-app browser viewport override did not change the actual 1280x720 viewport during these batches. Current recorded checks are desktop-only; a narrow-screen recheck remains unverified. Earlier recorded mobile checks retain their original scope.",
-    "importerChecks": "Complete importer passed against an isolated changed-output fixture and its unchanged rerun:866 community topics, exact regenerated bytes, preserved five-chapter DE correction and no unnecessary rewrite. Evidence: output/batch19-import-check.json. Zetsubou’s29 imported revisions also survive full regeneration with their authored quotation flags,67 new image placements and all21 JSON values unchanged;3231 imported checklist sections. Evidence: output/batch20-semantic-diff.json."
+    "importerChecks": "Complete importer passed against an isolated changed-output fixture and its unchanged rerun:866 community topics, exact regenerated bytes, preserved five-chapter DE correction and no unnecessary rewrite. Evidence: output/batch19-import-check.json. Zetsubou’s29 imported revisions also survive full regeneration with their authored quotation flags,67 new image placements and all21 JSON values unchanged;3231 imported checklist sections. Evidence: output/batch20-semantic-diff.json. Final Zetsubou Skull correction and two new references preserve all21 JSON values after full regeneration. Evidence: output/batch21-final-import-check.json and output/batch21-semantic-diff.json."
   }
 }

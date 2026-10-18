@@ -5216,5 +5216,217 @@
       "No reverse sewer trip, reverse wooden-slide trip or Flinger trap is inferred from the source’s generic wording. Interior door prices, discounted fares and exact bench photographs require separate checks."
     ],
     "supplementNote": "Travel fares and bench regions are credited community instructions, not current retail-price measurements. The AA escape route also has an attributed original player report."
+  },
+  {
+    "id": "bo3-zetsubou-no-shima-ciphers-scraps",
+    "mapId": "bo3-zetsubou-no-shima",
+    "title": "Ciphers, scraps & lore decoding",
+    "category": "side",
+    "difficulty": "Decoding reference",
+    "players": "Player-count limits unverified",
+    "summary": "Methods, keys and brief lore summaries for twelve ciphers and paired scraps; some decoding steps and locations remain unresolved.",
+    "requirements": [
+      "Open the areas you want to inspect; the permanent-power writing is in the Bunker.",
+      "Several room names, viewing positions and the full two-scrap walking route remain unverified."
+    ],
+    "reward": "Story context; no additional gameplay reward established.",
+    "steps": [
+      {
+        "title": "Use the written numbering",
+        "body": "Numbers follow the written wiki; the video uses another order. Match the object and cipher type before choosing a key.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/zetsubou-no-shima/",
+        "tip": "For Vigenère, number the stated alphabet 0–25; ordinary A=0 through Z=25. Repeat the key across letters. Subtract each key value from its cipher value, add 26 if negative, then convert back with the same alphabet. Preserve original spacing for transposition."
+      },
+      {
+        "title": "1. Phone-keypad code",
+        "body": "Standard keypad groups are 2=ABC, 3=DEF, 4=GHI, 5=JKL, 6=MNO, 7=PQRS, 8=TUV, 9=WXYZ. Each listed key offers possible letters; compare word patterns. Segmentation remains unverified. The message concerns two brothers in Report 44. Solver: Dopplegänger.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/zetsubou-no-shima/",
+        "tip": "CRT by equipment and fan.",
+        "images": [
+          {
+            "src": "./assets/batch22-zets-cipher-01-055.webp",
+            "alt": "Keypad CRT",
+            "caption": "Keypad CRT.",
+            "source": "https://www.youtube.com/watch?v=wAZe6K2S3JY&t=55s",
+            "credit": "JokerAlex21",
+            "width": 1280,
+            "height": 720
+          }
+        ]
+      },
+      {
+        "title": "2. Base64 screen",
+        "body": "Decode each Base64 group, keeping its = padding where present. Certainpersonio repairs the third group’s SXZ start to SXQn to restore alignment. His final ZQ== to ZS4= edit only adds a period; it is optional punctuation, not the original text. The message describes power failures and unexplained voices.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/4ff0jp/zns_base64_cipher_solvedspoiler/",
+        "tip": "CRT by wall gun and cubbies.",
+        "images": [
+          {
+            "src": "./assets/batch22-zets-cipher-02-075.webp",
+            "alt": "Base64 CRT",
+            "caption": "Base64 CRT.",
+            "source": "https://www.youtube.com/watch?v=wAZe6K2S3JY&t=75s",
+            "credit": "JokerAlex21",
+            "width": 1280,
+            "height": 720
+          }
+        ]
+      },
+      {
+        "title": "3. ASCENSION note",
+        "body": "Use Vigenère with ASCENSION. Gersh describes drifting before recognizing a burning city. Solver: Zonchi.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/zetsubou-no-shima/",
+        "tip": "Possible match: torn sheet on valve pipe."
+      },
+      {
+        "title": "4. MOTHER note",
+        "body": "Use Vigenère with MOTHER. Its letter concerns stolen Group 935 weapon plans. Solver: certainpersonio.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/4fiue7/spoilerzns_resnov_cipher_solved/",
+        "tip": "The original solver places it through a window; the named room remains unconfirmed."
+      },
+      {
+        "title": "5. Number-pair board",
+        "body": "Split numbers into pairs and map 01=A through 26=Z. It discusses alternate selves, immunity and a withheld secret. Solver: Lizizadolphin.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/zetsubou-no-shima/",
+        "tip": "Large number board."
+      },
+      {
+        "title": "6. Hexadecimal screens",
+        "body": "Treat each pair of hexadecimal digits as one byte; convert the byte to its ASCII character. It reports a failed SOPHIA integrity check. Solver: Kalinine.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/9d8twb/",
+        "tip": "Four-screen CRT panel.",
+        "images": [
+          {
+            "src": "./assets/batch22-zets-cipher-05-150.webp",
+            "alt": "Hexadecimal panel",
+            "caption": "Hexadecimal panel.",
+            "source": "https://www.youtube.com/watch?v=wAZe6K2S3JY&t=150s",
+            "credit": "JokerAlex21",
+            "width": 1280,
+            "height": 720
+          }
+        ]
+      },
+      {
+        "title": "7. Supply-note substitution",
+        "body": "Solve the letter substitution by matching repeated-letter patterns. Its message describes supply cuts. Solver: Lizizadolphin.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/9d8twb/",
+        "tip": "Current index: keyed Caesar, shift 15, key AURORABOREALIS."
+      },
+      {
+        "title": "8. Permanent-power writing",
+        "body": "Use Skip with parameter 25, bypassing the first 5 letters. Richkiller corrected the older modified-columnar explanation; preserve the source’s spacing.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/aq7035/cipher_update_revelations_transcripts_new_chaos/",
+        "tip": "Power-room writing above wall telephone.",
+        "images": [
+          {
+            "src": "./assets/batch22-zets-cipher-12-345.webp",
+            "alt": "Reveal-mode prerequisite",
+            "caption": "Reveal-mode prerequisite.",
+            "source": "https://www.youtube.com/watch?v=wAZe6K2S3JY&t=345s",
+            "credit": "JokerAlex21",
+            "width": 1280,
+            "height": 720
+          }
+        ]
+      },
+      {
+        "title": "9. Binary-letter document",
+        "body": "Replace G/T with 1 and a/c with 0. Bit grouping remains unverified here. Its lore concerns missing asylum specimens. Solver: waterkh.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/9d8twb/",
+        "tip": "Candidate: floor sheet beside green cylinders."
+      },
+      {
+        "title": "10. Crossword",
+        "body": "Use the crossword and both supporting papers. Extraction details remain unverified. Its message concerns Brock and Gary’s expedition. Solvers: waterkh, certainpersonio.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/9d8twb/",
+        "tip": "Crossword-grid paper.",
+        "images": [
+          {
+            "src": "./assets/batch22-zets-cipher-08-225.webp",
+            "alt": "Crossword grid",
+            "caption": "Crossword grid.",
+            "source": "https://www.youtube.com/watch?v=wAZe6K2S3JY&t=225s",
+            "credit": "JokerAlex21",
+            "width": 1280,
+            "height": 720
+          }
+        ]
+      },
+      {
+        "title": "11. Rail Fence note",
+        "body": "Rail Fence: 15 rows, offset 5. Exact spacing/offset convention remains unverified. Its lore concerns control collars for engineered specimens. Solver: DCRevolutionGaming.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/9d8twb/",
+        "tip": "Wall sheet."
+      },
+      {
+        "title": "12. SHINONUMA note",
+        "body": "Use keyed Vigenère with SHINONUMA and alphabet AMUNOIHSZYXWVTRQPLKJGFEDCB in exactly this order. Apply the introductory subtraction rule using this alphabet for both text and key. The Emperor approves another island lab. Solver: waterkh.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/9d8twb/",
+        "tip": "Sheet beginning Kvxga."
+      },
+      {
+        "title": "Overlap the two prime-number scraps",
+        "body": "Overlap both sheets. Follow prime numbers 2, 3, 5, 7, 11 and onward, writing each associated letter; ignore nonprimes and circles. The message requests coordinates and blood samples. Solve: TimJJacques; assembly: FilipJDM.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/4l39fz/zns_papers_codes_solved/",
+        "tip": "The full two-scrap walking route remains unverified."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Original map inventory",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/zetsubou-no-shima/"
+      },
+      {
+        "title": "Kalinine: cipher compilation",
+        "url": "https://www.reddit.com/r/CODZombies/comments/9d8twb/"
+      },
+      {
+        "title": "certainpersonio: Base64 solve",
+        "url": "https://www.reddit.com/r/CODZombies/comments/4ff0jp/zns_base64_cipher_solvedspoiler/"
+      },
+      {
+        "title": "certainpersonio: MOTHER solve",
+        "url": "https://www.reddit.com/r/CODZombies/comments/4fiue7/spoilerzns_resnov_cipher_solved/"
+      },
+      {
+        "title": "certainpersonio: power-room solve",
+        "url": "https://www.reddit.com/r/CODZombies/comments/4fqyad/zns_permanent_power_cipher_solvedspoiler/"
+      },
+      {
+        "title": "Richkiller: Skip correction",
+        "url": "https://www.reddit.com/r/CODZombies/comments/aq7035/cipher_update_revelations_transcripts_new_chaos/"
+      },
+      {
+        "title": "TimJJacques: paired scraps",
+        "url": "https://www.reddit.com/r/CODZombies/comments/4l39fz/zns_papers_codes_solved/"
+      },
+      {
+        "title": "Community cipher index",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/treyarch-ciphers/"
+      },
+      {
+        "title": "JokerAlex21: object references",
+        "url": "https://www.youtube.com/watch?v=wAZe6K2S3JY"
+      }
+    ],
+    "relatedGuideIds": [
+      "bo3-zetsubou-no-shima-community-zetsubou-no-shima-map-walkthrough-power-permanent",
+      "bo3-zetsubou-no-shima-community-zetsubou-no-shima-special-weapons-skull-of-nan-sapwe"
+    ],
+    "checked": "2026-10-18"
   }
 ]
