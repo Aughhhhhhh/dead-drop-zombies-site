@@ -8,8 +8,8 @@
     "Newly authored guides may have source research without a separate recorded full audit. Guide counts and passing software checks do not establish gameplay accuracy."
   ],
   "catalogEntries": 160,
-  "runtimeGuides": 1522,
-  "guidesWithRecordedSourceReview": 800,
+  "runtimeGuides": 1523,
+  "guidesWithRecordedSourceReview": 801,
   "guidesCertifiedFullyVerified": 0,
   "batches": [
     {
@@ -335,6 +335,10 @@
     {
       "batch": "iw-attack-song-controls-and-native-record-locations",
       "rowsWithRecordedReview": 2
+    },
+    {
+      "batch": "bo3-der-eisendrache-ordinary-weapon-names-and-wall-references",
+      "rowsWithRecordedReview": 1
     }
   ],
   "guideReviews": [
@@ -24898,6 +24902,1097 @@
             "https://www.reddit.com/r/CODZombies/comments/q9d7cw/bo3_can_you_solo_der_eisendrache_with_one_bow/",
             "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
             "https://www.youtube.com/watch?v=NhDv6R5YPEs"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-der-eisendrache-ordinary-pack-a-punch-inventory",
+      "mapId": "bo3-der-eisendrache",
+      "reviews": [
+        {
+          "batch": "bo3-der-eisendrache-ordinary-weapon-names-and-wall-references",
+          "reportedStatus": "Source-compared ordinary-firearm reference with explicit remaining checks; not independently playtested",
+          "independentlyPlaytested": false,
+          "unverified": [
+            "A matched current-DE native starter-to-upgrade sequence and controlled ammunition-capacity test remain pending.",
+            "Current Der Eisendrache retail upgrade behavior, ammunition capacity/refill and attachment assumptions are not independently playtested for this firearm.",
+            "Retained wall location blank; exact primary locator still pending.",
+            "Retained price held for a primary purchase-prompt check; no correction from memory.",
+            "Native footage corroborates this wall outline, but no purchase prompt or current-retail price is visible.",
+            "Readable native photos of the hidden BRM outline and its purchase/refill prompts remain pending; the textual location and cost follow the reviewed companion sources.",
+            "The 25/115 HUD is a partially used combat observation, not a capacity measurement.",
+            "No new generic re-Pack refill claim or complete per-gun AAT eligibility certificate.",
+            "Maximum loaded/reserve ammunition and attachment-dependent capacities remain pending for all 26 firearms.",
+            "Generic first-upgrade refill and second-upgrade ammunition preservation behavior have not been established by a controlled native sequence.",
+            "Bowie and Trip Mines prices, equipment upgrade eligibility and Ray Gun ammo figures are not certified here."
+          ],
+          "wholeGuideTextRead": true,
+          "allExistingStepsRead": true,
+          "stepChecks": [
+            {
+              "index": 1,
+              "title": "Read the route and evidence labels",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "https://www.reddit.com/r/CODZombies/comments/gsbdym/",
+                "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "https://www.youtube.com/watch?v=m7RLTUWjpTQ"
+              ],
+              "treatment": "New original prose; retained table facts and native HUD observations distinguished in the evidence ledger.",
+              "unresolved": [],
+              "bodySha256": "7a2d1426c972111b14b2ea18d05d4019acba60145539b2e60bb209bd741d8975",
+              "canonicalStepSha256": "0fc413a5a23104423ff95675d9a442099ffa587409b7bd927fe4e010b17dbffa",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "https://www.reddit.com/r/CODZombies/comments/gsbdym/",
+                "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "https://www.youtube.com/watch?v=m7RLTUWjpTQ"
+              ]
+            },
+            {
+              "index": 2,
+              "title": "Assemble the machine, then pay 5,000 and collect your gun",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/comments/qgyxoj/",
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "https://www.reddit.com/r/CODZombies/comments/43so4y/"
+              ],
+              "treatment": "New original prose; retained table facts and native HUD observations distinguished in the evidence ledger.",
+              "unresolved": [],
+              "bodySha256": "88926e6c12dbb9619cc570bb91c600c765bf9a6981805246e50054a64297761b",
+              "canonicalStepSha256": "0b624f1b36e3307f6d96e46ba691da0490690a1790eea2c4e1d88cc6dde1ad21",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/qgyxoj/",
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "https://www.reddit.com/r/CODZombies/comments/43so4y/"
+              ]
+            },
+            {
+              "index": 3,
+              "title": "MR6 → Death & Taxes",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "https://www.reddit.com/r/CODZombies/comments/qgyxoj/",
+                "https://www.reddit.com/r/CODZombies/comments/gsbdym/",
+                "https://www.youtube.com/watch?v=m7RLTUWjpTQ"
+              ],
+              "treatment": "New original prose; retained table facts and native HUD observations distinguished in the evidence ledger.",
+              "unresolved": [
+                "A matched current-DE native starter-to-upgrade sequence and controlled ammunition-capacity test remain pending.",
+                "Current Der Eisendrache retail upgrade behavior, ammunition capacity/refill and attachment assumptions are not independently playtested for this firearm."
+              ],
+              "factSupport": {
+                "reportedNamePair": "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "mapAvailability": "https://www.reddit.com/r/CODZombies/comments/gsbdym/",
+                "sharedFirstUpgrade": "https://www.reddit.com/r/CODZombies/comments/qgyxoj/",
+                "wallLocator": null,
+                "basePrice": null,
+                "nativeLabelCorroboration": "https://www.youtube.com/watch?v=m7RLTUWjpTQ",
+                "nativeBeforeAfterHudPairMatched": false,
+                "nativeScope": "The Giant common BO3 names only; no Der Eisendrache availability, wall-price or capacity inference.",
+                "sourceSpellingNote": null,
+                "nativeEvidenceFiles": [
+                  "output/classic-batch19-assets/research/cnp-upgrade-037.png",
+                  "output/classic-batch19-assets/research/cnp-upgrade-037.json",
+                  "output/classic-batch19-assets/research/cnp-upgrade-052.png",
+                  "output/classic-batch19-assets/research/cnp-upgrade-052.json"
+                ]
+              },
+              "bodySha256": "baa7c6e609caf5128893078a4aecf86eaa319b9908901ce4992319ce4c89b138",
+              "canonicalStepSha256": "b365343576ee794b5376798c6edbf99048f69ccfe0afcecc021b3f46a039cc50",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "https://www.reddit.com/r/CODZombies/comments/qgyxoj/",
+                "https://www.reddit.com/r/CODZombies/comments/gsbdym/",
+                "https://www.youtube.com/watch?v=m7RLTUWjpTQ"
+              ]
+            },
+            {
+              "index": 4,
+              "title": "RK5 → Rex-Kalibur 115",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "https://www.reddit.com/r/CODZombies/comments/qgyxoj/"
+              ],
+              "treatment": "New original prose; retained table facts and native HUD observations distinguished in the evidence ledger.",
+              "unresolved": [
+                "Current Der Eisendrache retail upgrade behavior, ammunition capacity/refill and attachment assumptions are not independently playtested for this firearm."
+              ],
+              "factSupport": {
+                "reportedNamePair": "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "mapAvailability": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "sharedFirstUpgrade": "https://www.reddit.com/r/CODZombies/comments/qgyxoj/",
+                "wallLocator": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "basePrice": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "nativeLabelCorroboration": null,
+                "nativeBeforeAfterHudPairMatched": false,
+                "nativeScope": "The Giant common BO3 names only; no Der Eisendrache availability, wall-price or capacity inference.",
+                "sourceSpellingNote": null,
+                "nativeEvidenceFiles": []
+              },
+              "bodySha256": "734b6aeca36559d35ea578b64b1a043386bd9af198077ca041d335b36fa446a6",
+              "canonicalStepSha256": "8ab02f59f2a8a982912c0d68a6f3a3f9c24b7aca5d575c6bb473072a49c5ac2d",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "https://www.reddit.com/r/CODZombies/comments/qgyxoj/"
+              ]
+            },
+            {
+              "index": 5,
+              "title": "L-CAR 9 → Flux Collider 935",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "https://www.reddit.com/r/CODZombies/comments/qgyxoj/"
+              ],
+              "treatment": "New original prose; retained table facts and native HUD observations distinguished in the evidence ledger.",
+              "unresolved": [
+                "Retained wall location blank; exact primary locator still pending.",
+                "Current Der Eisendrache retail upgrade behavior, ammunition capacity/refill and attachment assumptions are not independently playtested for this firearm."
+              ],
+              "factSupport": {
+                "reportedNamePair": "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "mapAvailability": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "sharedFirstUpgrade": "https://www.reddit.com/r/CODZombies/comments/qgyxoj/",
+                "wallLocator": null,
+                "basePrice": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "nativeLabelCorroboration": null,
+                "nativeBeforeAfterHudPairMatched": false,
+                "nativeScope": "The Giant common BO3 names only; no Der Eisendrache availability, wall-price or capacity inference.",
+                "sourceSpellingNote": null,
+                "nativeEvidenceFiles": []
+              },
+              "bodySha256": "71b07aac8153226ab29d77c58a9aa5dc27f52a10a5194b9966458995fd2ef16e",
+              "canonicalStepSha256": "f52f37bc258f312be2ff30bedd3b4b18fdcfd14f238e73ddbde4c2ef1efd6f85",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "https://www.reddit.com/r/CODZombies/comments/qgyxoj/"
+              ]
+            },
+            {
+              "index": 6,
+              "title": "VMP → The Impaler",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "https://www.reddit.com/r/CODZombies/comments/qgyxoj/",
+                "https://www.youtube.com/watch?v=_Q8F6zPib98"
+              ],
+              "treatment": "New original prose; retained table facts and native HUD observations distinguished in the evidence ledger.",
+              "unresolved": [
+                "Retained price held for a primary purchase-prompt check; no correction from memory.",
+                "Native footage corroborates this wall outline, but no purchase prompt or current-retail price is visible.",
+                "Current Der Eisendrache retail upgrade behavior, ammunition capacity/refill and attachment assumptions are not independently playtested for this firearm."
+              ],
+              "factSupport": {
+                "reportedNamePair": "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "mapAvailability": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "sharedFirstUpgrade": "https://www.reddit.com/r/CODZombies/comments/qgyxoj/",
+                "wallLocator": "https://www.youtube.com/watch?v=_Q8F6zPib98",
+                "basePrice": null,
+                "nativeLabelCorroboration": null,
+                "nativeBeforeAfterHudPairMatched": false,
+                "nativeScope": "The Giant common BO3 names only; no Der Eisendrache availability, wall-price or capacity inference.",
+                "sourceSpellingNote": null,
+                "nativeEvidenceFiles": []
+              },
+              "bodySha256": "d58714151b9e19751ce501573529ee8e08a471db46d68f16fb986b35e742fa6a",
+              "canonicalStepSha256": "8a9729f7a391f881243f4107e5294f4b8a0a72134f9c48b2e1cbeb5df074393f",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "https://www.reddit.com/r/CODZombies/comments/qgyxoj/",
+                "https://www.youtube.com/watch?v=_Q8F6zPib98"
+              ]
+            },
+            {
+              "index": 7,
+              "title": "KRM-262 → Dagon's Glare",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "https://www.reddit.com/r/CODZombies/comments/qgyxoj/"
+              ],
+              "treatment": "New original prose; retained table facts and native HUD observations distinguished in the evidence ledger.",
+              "unresolved": [
+                "Retained wall location blank; exact primary locator still pending.",
+                "Current Der Eisendrache retail upgrade behavior, ammunition capacity/refill and attachment assumptions are not independently playtested for this firearm."
+              ],
+              "factSupport": {
+                "reportedNamePair": "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "mapAvailability": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "sharedFirstUpgrade": "https://www.reddit.com/r/CODZombies/comments/qgyxoj/",
+                "wallLocator": null,
+                "basePrice": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "nativeLabelCorroboration": null,
+                "nativeBeforeAfterHudPairMatched": false,
+                "nativeScope": "The Giant common BO3 names only; no Der Eisendrache availability, wall-price or capacity inference.",
+                "sourceSpellingNote": "Ravnos13 base row says KRM2623. The retained DE roster and linked original research both identify KRM-262. Upgrade is Dagon’s Glare, with no R in Dagon.",
+                "nativeEvidenceFiles": []
+              },
+              "bodySha256": "71b07aac8153226ab29d77c58a9aa5dc27f52a10a5194b9966458995fd2ef16e",
+              "canonicalStepSha256": "bd28d7ddf7fe3d172dd26ccc8c6f4f271b018a1f4262fe34e9afb1ab59fdc530",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "https://www.reddit.com/r/CODZombies/comments/qgyxoj/"
+              ]
+            },
+            {
+              "index": 8,
+              "title": "Kuda → Crocuta",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "https://www.reddit.com/r/CODZombies/comments/qgyxoj/"
+              ],
+              "treatment": "New original prose; retained table facts and native HUD observations distinguished in the evidence ledger.",
+              "unresolved": [
+                "Retained price held for a primary purchase-prompt check; no correction from memory.",
+                "Current Der Eisendrache retail upgrade behavior, ammunition capacity/refill and attachment assumptions are not independently playtested for this firearm."
+              ],
+              "factSupport": {
+                "reportedNamePair": "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "mapAvailability": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "sharedFirstUpgrade": "https://www.reddit.com/r/CODZombies/comments/qgyxoj/",
+                "wallLocator": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "basePrice": null,
+                "nativeLabelCorroboration": null,
+                "nativeBeforeAfterHudPairMatched": false,
+                "nativeScope": "The Giant common BO3 names only; no Der Eisendrache availability, wall-price or capacity inference.",
+                "sourceSpellingNote": null,
+                "nativeEvidenceFiles": []
+              },
+              "bodySha256": "4c14c5cdd881888850d329b866c520466e4636841bc78d0c5b473c2092887dee",
+              "canonicalStepSha256": "c0be0af197b665d033a551a2d221f4583b5b28d6215faf494c50b362952fcfbf",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "https://www.reddit.com/r/CODZombies/comments/qgyxoj/"
+              ]
+            },
+            {
+              "index": 9,
+              "title": "Vesper → Infernus",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "https://www.reddit.com/r/CODZombies/comments/qgyxoj/"
+              ],
+              "treatment": "New original prose; retained table facts and native HUD observations distinguished in the evidence ledger.",
+              "unresolved": [
+                "Retained price held for a primary purchase-prompt check; no correction from memory.",
+                "Retained wall location blank; exact primary locator still pending.",
+                "Current Der Eisendrache retail upgrade behavior, ammunition capacity/refill and attachment assumptions are not independently playtested for this firearm."
+              ],
+              "factSupport": {
+                "reportedNamePair": "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "mapAvailability": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "sharedFirstUpgrade": "https://www.reddit.com/r/CODZombies/comments/qgyxoj/",
+                "wallLocator": null,
+                "basePrice": null,
+                "nativeLabelCorroboration": null,
+                "nativeBeforeAfterHudPairMatched": false,
+                "nativeScope": "The Giant common BO3 names only; no Der Eisendrache availability, wall-price or capacity inference.",
+                "sourceSpellingNote": null,
+                "nativeEvidenceFiles": []
+              },
+              "bodySha256": "99606e2155e5978c949f857300afa73401a0faf5cefdfdfa8d57e96fe10b31bd",
+              "canonicalStepSha256": "8a90c1103ec1340a731fc02d0f00e0fd6f10f4fe71b180176031ab4baa31cf88",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "https://www.reddit.com/r/CODZombies/comments/qgyxoj/"
+              ]
+            },
+            {
+              "index": 10,
+              "title": "Sheiva → Cumulus Struggle",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "https://www.reddit.com/r/CODZombies/comments/qgyxoj/"
+              ],
+              "treatment": "New original prose; retained table facts and native HUD observations distinguished in the evidence ledger.",
+              "unresolved": [
+                "Current Der Eisendrache retail upgrade behavior, ammunition capacity/refill and attachment assumptions are not independently playtested for this firearm."
+              ],
+              "factSupport": {
+                "reportedNamePair": "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "mapAvailability": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "sharedFirstUpgrade": "https://www.reddit.com/r/CODZombies/comments/qgyxoj/",
+                "wallLocator": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "basePrice": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "nativeLabelCorroboration": null,
+                "nativeBeforeAfterHudPairMatched": false,
+                "nativeScope": "The Giant common BO3 names only; no Der Eisendrache availability, wall-price or capacity inference.",
+                "sourceSpellingNote": null,
+                "nativeEvidenceFiles": []
+              },
+              "bodySha256": "916a0b1dc3c47f312e31dd73e8e74671071c1104592b0fb6031d008dd17240b4",
+              "canonicalStepSha256": "78ccd28e38e9cc7622a53a2130f2ac5fc96bdf2fadd851874491ed6050debded",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "https://www.reddit.com/r/CODZombies/comments/qgyxoj/"
+              ]
+            },
+            {
+              "index": 11,
+              "title": "HVK-30 → High Velocity Kicker",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "https://www.reddit.com/r/CODZombies/comments/qgyxoj/"
+              ],
+              "treatment": "New original prose; retained table facts and native HUD observations distinguished in the evidence ledger.",
+              "unresolved": [
+                "Current Der Eisendrache retail upgrade behavior, ammunition capacity/refill and attachment assumptions are not independently playtested for this firearm."
+              ],
+              "factSupport": {
+                "reportedNamePair": "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "mapAvailability": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "sharedFirstUpgrade": "https://www.reddit.com/r/CODZombies/comments/qgyxoj/",
+                "wallLocator": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "basePrice": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "nativeLabelCorroboration": null,
+                "nativeBeforeAfterHudPairMatched": false,
+                "nativeScope": "The Giant common BO3 names only; no Der Eisendrache availability, wall-price or capacity inference.",
+                "sourceSpellingNote": null,
+                "nativeEvidenceFiles": []
+              },
+              "bodySha256": "0145526fe2416d3433695c783d9f8c1986081225738c04c5423e9a46e9ab9927",
+              "canonicalStepSha256": "4dc90c5d83d59cb744c59932640b81ddae54f364e73cd35efc0f686333fd19f0",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "https://www.reddit.com/r/CODZombies/comments/qgyxoj/"
+              ]
+            },
+            {
+              "index": 12,
+              "title": "KN-44 → Anointed Avenger",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "https://www.reddit.com/r/CODZombies/comments/qgyxoj/"
+              ],
+              "treatment": "New original prose; retained table facts and native HUD observations distinguished in the evidence ledger.",
+              "unresolved": [
+                "Current Der Eisendrache retail upgrade behavior, ammunition capacity/refill and attachment assumptions are not independently playtested for this firearm."
+              ],
+              "factSupport": {
+                "reportedNamePair": "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "mapAvailability": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "sharedFirstUpgrade": "https://www.reddit.com/r/CODZombies/comments/qgyxoj/",
+                "wallLocator": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "basePrice": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "nativeLabelCorroboration": null,
+                "nativeBeforeAfterHudPairMatched": false,
+                "nativeScope": "The Giant common BO3 names only; no Der Eisendrache availability, wall-price or capacity inference.",
+                "sourceSpellingNote": null,
+                "nativeEvidenceFiles": []
+              },
+              "bodySha256": "82d4f5ffd440c1341e7a33483352d2dacae8ed01f14009eb0a493f858176a7ab",
+              "canonicalStepSha256": "b4710abb40a27128279f48e9130bc4dc81c5cf711d21caf1bf4e9bb2f4050e53",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "https://www.reddit.com/r/CODZombies/comments/qgyxoj/"
+              ]
+            },
+            {
+              "index": 13,
+              "title": "M8A7 → The Unspeakable",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "https://www.reddit.com/r/CODZombies/comments/qgyxoj/",
+                "https://www.youtube.com/watch?v=_Q8F6zPib98"
+              ],
+              "treatment": "New original prose; retained table facts and native HUD observations distinguished in the evidence ledger.",
+              "unresolved": [
+                "Retained price held for a primary purchase-prompt check; no correction from memory.",
+                "Native footage corroborates this wall outline, but no purchase prompt or current-retail price is visible.",
+                "Current Der Eisendrache retail upgrade behavior, ammunition capacity/refill and attachment assumptions are not independently playtested for this firearm."
+              ],
+              "factSupport": {
+                "reportedNamePair": "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "mapAvailability": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "sharedFirstUpgrade": "https://www.reddit.com/r/CODZombies/comments/qgyxoj/",
+                "wallLocator": "https://www.youtube.com/watch?v=_Q8F6zPib98",
+                "basePrice": null,
+                "nativeLabelCorroboration": null,
+                "nativeBeforeAfterHudPairMatched": false,
+                "nativeScope": "The Giant common BO3 names only; no Der Eisendrache availability, wall-price or capacity inference.",
+                "sourceSpellingNote": null,
+                "nativeEvidenceFiles": []
+              },
+              "bodySha256": "954d25e7c0a35605d990dea24bd77fa37eb22c10fb8fc9f91df212113477c790",
+              "canonicalStepSha256": "7075e404549621ec45ccd7e6e8ed4b8ad13f256bb500cb4fbedc7c94011f1b65",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "https://www.reddit.com/r/CODZombies/comments/qgyxoj/",
+                "https://www.youtube.com/watch?v=_Q8F6zPib98"
+              ]
+            },
+            {
+              "index": 14,
+              "title": "Pharo → Whispering Regurgitator",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "https://www.reddit.com/r/CODZombies/comments/qgyxoj/"
+              ],
+              "treatment": "New original prose; retained table facts and native HUD observations distinguished in the evidence ledger.",
+              "unresolved": [
+                "Current Der Eisendrache retail upgrade behavior, ammunition capacity/refill and attachment assumptions are not independently playtested for this firearm."
+              ],
+              "factSupport": {
+                "reportedNamePair": "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "mapAvailability": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "sharedFirstUpgrade": "https://www.reddit.com/r/CODZombies/comments/qgyxoj/",
+                "wallLocator": null,
+                "basePrice": null,
+                "nativeLabelCorroboration": null,
+                "nativeBeforeAfterHudPairMatched": false,
+                "nativeScope": "The Giant common BO3 names only; no Der Eisendrache availability, wall-price or capacity inference.",
+                "sourceSpellingNote": null,
+                "nativeEvidenceFiles": []
+              },
+              "bodySha256": "a3b5e57dbb8a245253eeb0999f8374fdc291bfef94e866000d0b4bf5ed3697fb",
+              "canonicalStepSha256": "58a7a8275ffc74aabc39f3f70b41e98ee30dc46bf16ab08f94c2e7a505464c2b",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "https://www.reddit.com/r/CODZombies/comments/qgyxoj/"
+              ]
+            },
+            {
+              "index": 15,
+              "title": "ICR-1 → Illuminated Deanimator",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "https://www.reddit.com/r/CODZombies/comments/qgyxoj/",
+                "https://www.youtube.com/watch?v=m7RLTUWjpTQ"
+              ],
+              "treatment": "New original prose; retained table facts and native HUD observations distinguished in the evidence ledger.",
+              "unresolved": [
+                "Current Der Eisendrache retail upgrade behavior, ammunition capacity/refill and attachment assumptions are not independently playtested for this firearm."
+              ],
+              "factSupport": {
+                "reportedNamePair": "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "mapAvailability": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "sharedFirstUpgrade": "https://www.reddit.com/r/CODZombies/comments/qgyxoj/",
+                "wallLocator": null,
+                "basePrice": null,
+                "nativeLabelCorroboration": "https://www.youtube.com/watch?v=m7RLTUWjpTQ",
+                "nativeBeforeAfterHudPairMatched": false,
+                "nativeScope": "The Giant common BO3 names only; no Der Eisendrache availability, wall-price or capacity inference.",
+                "sourceSpellingNote": null,
+                "nativeEvidenceFiles": [
+                  "output/classic-batch19-assets/research/cnp-upgrade-137.png",
+                  "output/classic-batch19-assets/research/cnp-upgrade-137.json",
+                  "output/classic-batch19-assets/research/cnp-upgrade-147.png",
+                  "output/classic-batch19-assets/research/cnp-upgrade-147.json"
+                ]
+              },
+              "bodySha256": "a3b5e57dbb8a245253eeb0999f8374fdc291bfef94e866000d0b4bf5ed3697fb",
+              "canonicalStepSha256": "e04cdb3458a5f390bc7d81b3a7335074968b96c7a4e1f71629870b1dbf3a4156",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "https://www.reddit.com/r/CODZombies/comments/qgyxoj/",
+                "https://www.youtube.com/watch?v=m7RLTUWjpTQ"
+              ]
+            },
+            {
+              "index": 16,
+              "title": "Argus → Ancient Messenger",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "https://www.reddit.com/r/CODZombies/comments/qgyxoj/",
+                "https://www.youtube.com/watch?v=m7RLTUWjpTQ"
+              ],
+              "treatment": "New original prose; retained table facts and native HUD observations distinguished in the evidence ledger.",
+              "unresolved": [
+                "Current Der Eisendrache retail upgrade behavior, ammunition capacity/refill and attachment assumptions are not independently playtested for this firearm."
+              ],
+              "factSupport": {
+                "reportedNamePair": "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "mapAvailability": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "sharedFirstUpgrade": "https://www.reddit.com/r/CODZombies/comments/qgyxoj/",
+                "wallLocator": null,
+                "basePrice": null,
+                "nativeLabelCorroboration": "https://www.youtube.com/watch?v=m7RLTUWjpTQ",
+                "nativeBeforeAfterHudPairMatched": false,
+                "nativeScope": "The Giant common BO3 names only; no Der Eisendrache availability, wall-price or capacity inference.",
+                "sourceSpellingNote": null,
+                "nativeEvidenceFiles": [
+                  "output/classic-batch19-assets/research/cnp-upgrade-157.png",
+                  "output/classic-batch19-assets/research/cnp-upgrade-157.json",
+                  "output/classic-batch19-assets/research/cnp-upgrade-172.png",
+                  "output/classic-batch19-assets/research/cnp-upgrade-172.json"
+                ]
+              },
+              "bodySha256": "a3b5e57dbb8a245253eeb0999f8374fdc291bfef94e866000d0b4bf5ed3697fb",
+              "canonicalStepSha256": "c2c4ffc869bab888e419a465951c0ccbddd25408e0944640ee35ad6a56aef07f",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "https://www.reddit.com/r/CODZombies/comments/qgyxoj/",
+                "https://www.youtube.com/watch?v=m7RLTUWjpTQ"
+              ]
+            },
+            {
+              "index": 17,
+              "title": "Weevil → Barrage",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "https://www.reddit.com/r/CODZombies/comments/qgyxoj/",
+                "https://www.youtube.com/watch?v=m7RLTUWjpTQ"
+              ],
+              "treatment": "New original prose; retained table facts and native HUD observations distinguished in the evidence ledger.",
+              "unresolved": [
+                "Current Der Eisendrache retail upgrade behavior, ammunition capacity/refill and attachment assumptions are not independently playtested for this firearm."
+              ],
+              "factSupport": {
+                "reportedNamePair": "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "mapAvailability": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "sharedFirstUpgrade": "https://www.reddit.com/r/CODZombies/comments/qgyxoj/",
+                "wallLocator": null,
+                "basePrice": null,
+                "nativeLabelCorroboration": "https://www.youtube.com/watch?v=m7RLTUWjpTQ",
+                "nativeBeforeAfterHudPairMatched": true,
+                "nativeScope": "The Giant common BO3 names only; no Der Eisendrache availability, wall-price or capacity inference.",
+                "sourceSpellingNote": null,
+                "nativeEvidenceFiles": [
+                  "output/classic-batch19-assets/research/cnp-base-322.png",
+                  "output/classic-batch19-assets/research/cnp-base-322.json",
+                  "output/classic-batch19-assets/research/cnp-upgrade-332.png",
+                  "output/classic-batch19-assets/research/cnp-upgrade-332.json"
+                ]
+              },
+              "bodySha256": "a3b5e57dbb8a245253eeb0999f8374fdc291bfef94e866000d0b4bf5ed3697fb",
+              "canonicalStepSha256": "0b84471e7d15f453fde5013429e0e819c90206ab27f6750789487a32565dce03",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "https://www.reddit.com/r/CODZombies/comments/qgyxoj/",
+                "https://www.youtube.com/watch?v=m7RLTUWjpTQ"
+              ]
+            },
+            {
+              "index": 18,
+              "title": "BRM → Blight Oblivion",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "https://www.reddit.com/r/CODZombies/comments/qgyxoj/",
+                "https://www.powerpyx.com/guides/call-of-duty-black-ops-3-trophy-guide.html",
+                "https://www.reddit.com/r/CODZombies/comments/g9qoj3/first_try_to_get_high_round_on_der_eisendrache/"
+              ],
+              "treatment": "New original prose; retained table facts and native HUD observations distinguished in the evidence ledger.",
+              "unresolved": [
+                "Readable native photos of the hidden BRM outline and its purchase/refill prompts remain pending; the textual location and cost follow the reviewed companion sources.",
+                "Current Der Eisendrache retail upgrade behavior, ammunition capacity/refill and attachment assumptions are not independently playtested for this firearm."
+              ],
+              "factSupport": {
+                "reportedNamePair": "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "mapAvailability": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "sharedFirstUpgrade": "https://www.reddit.com/r/CODZombies/comments/qgyxoj/",
+                "wallLocator": "https://www.powerpyx.com/guides/call-of-duty-black-ops-3-trophy-guide.html",
+                "basePrice": "https://www.powerpyx.com/guides/call-of-duty-black-ops-3-trophy-guide.html",
+                "nativeLabelCorroboration": null,
+                "nativeBeforeAfterHudPairMatched": false,
+                "nativeScope": "The Giant common BO3 names only; no Der Eisendrache availability, wall-price or capacity inference.",
+                "sourceSpellingNote": null,
+                "nativeEvidenceFiles": []
+              },
+              "bodySha256": "13c2bf2337e964081d5b06683166ff35d1b2f5df7a2157876a4e1f6a86bfcad6",
+              "canonicalStepSha256": "42d5d7dd90c98cbbaba52b2e50ce484301b7a25d624ccf7b5b26e65360a913d5",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "https://www.reddit.com/r/CODZombies/comments/qgyxoj/",
+                "https://www.powerpyx.com/guides/call-of-duty-black-ops-3-trophy-guide.html",
+                "https://www.reddit.com/r/CODZombies/comments/g9qoj3/first_try_to_get_high_round_on_der_eisendrache/"
+              ]
+            },
+            {
+              "index": 19,
+              "title": "Dingo → Dire Wolf",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "https://www.reddit.com/r/CODZombies/comments/qgyxoj/",
+                "https://www.youtube.com/watch?v=m7RLTUWjpTQ"
+              ],
+              "treatment": "New original prose; retained table facts and native HUD observations distinguished in the evidence ledger.",
+              "unresolved": [
+                "Current Der Eisendrache retail upgrade behavior, ammunition capacity/refill and attachment assumptions are not independently playtested for this firearm."
+              ],
+              "factSupport": {
+                "reportedNamePair": "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "mapAvailability": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "sharedFirstUpgrade": "https://www.reddit.com/r/CODZombies/comments/qgyxoj/",
+                "wallLocator": null,
+                "basePrice": null,
+                "nativeLabelCorroboration": "https://www.youtube.com/watch?v=m7RLTUWjpTQ",
+                "nativeBeforeAfterHudPairMatched": false,
+                "nativeScope": "The Giant common BO3 names only; no Der Eisendrache availability, wall-price or capacity inference.",
+                "sourceSpellingNote": null,
+                "nativeEvidenceFiles": [
+                  "output/classic-batch19-assets/research/cnp-upgrade-402.png",
+                  "output/classic-batch19-assets/research/cnp-upgrade-402.json",
+                  "output/classic-batch19-assets/research/cnp-upgrade-407.png",
+                  "output/classic-batch19-assets/research/cnp-upgrade-407.json"
+                ]
+              },
+              "bodySha256": "a3b5e57dbb8a245253eeb0999f8374fdc291bfef94e866000d0b4bf5ed3697fb",
+              "canonicalStepSha256": "f79554c565418b9da306eb1cc35f2a8909ce1602e9459e1ab8c30fd976c2110c",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "https://www.reddit.com/r/CODZombies/comments/qgyxoj/",
+                "https://www.youtube.com/watch?v=m7RLTUWjpTQ"
+              ]
+            },
+            {
+              "index": 20,
+              "title": "48 Dredge → Trapezohedron Shard",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "https://www.reddit.com/r/CODZombies/comments/qgyxoj/",
+                "https://www.youtube.com/watch?v=m7RLTUWjpTQ"
+              ],
+              "treatment": "New original prose; retained table facts and native HUD observations distinguished in the evidence ledger.",
+              "unresolved": [
+                "Current Der Eisendrache retail upgrade behavior, ammunition capacity/refill and attachment assumptions are not independently playtested for this firearm."
+              ],
+              "factSupport": {
+                "reportedNamePair": "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "mapAvailability": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "sharedFirstUpgrade": "https://www.reddit.com/r/CODZombies/comments/qgyxoj/",
+                "wallLocator": null,
+                "basePrice": null,
+                "nativeLabelCorroboration": "https://www.youtube.com/watch?v=m7RLTUWjpTQ",
+                "nativeBeforeAfterHudPairMatched": false,
+                "nativeScope": "The Giant common BO3 names only; no Der Eisendrache availability, wall-price or capacity inference.",
+                "sourceSpellingNote": null,
+                "nativeEvidenceFiles": [
+                  "output/classic-batch19-assets/research/cnp-upgrade-187.png",
+                  "output/classic-batch19-assets/research/cnp-upgrade-187.json"
+                ]
+              },
+              "bodySha256": "a3b5e57dbb8a245253eeb0999f8374fdc291bfef94e866000d0b4bf5ed3697fb",
+              "canonicalStepSha256": "0c5daec7a95ff156da70c6845b63ec9c830b0f0f022469921676f92ce8167f77",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "https://www.reddit.com/r/CODZombies/comments/qgyxoj/",
+                "https://www.youtube.com/watch?v=m7RLTUWjpTQ"
+              ]
+            },
+            {
+              "index": 21,
+              "title": "Gorgon → Athena's Spear",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "https://www.reddit.com/r/CODZombies/comments/qgyxoj/",
+                "https://www.youtube.com/watch?v=m7RLTUWjpTQ"
+              ],
+              "treatment": "New original prose; retained table facts and native HUD observations distinguished in the evidence ledger.",
+              "unresolved": [
+                "Current Der Eisendrache retail upgrade behavior, ammunition capacity/refill and attachment assumptions are not independently playtested for this firearm."
+              ],
+              "factSupport": {
+                "reportedNamePair": "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "mapAvailability": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "sharedFirstUpgrade": "https://www.reddit.com/r/CODZombies/comments/qgyxoj/",
+                "wallLocator": null,
+                "basePrice": null,
+                "nativeLabelCorroboration": "https://www.youtube.com/watch?v=m7RLTUWjpTQ",
+                "nativeBeforeAfterHudPairMatched": true,
+                "nativeScope": "The Giant common BO3 names only; no Der Eisendrache availability, wall-price or capacity inference.",
+                "sourceSpellingNote": null,
+                "nativeEvidenceFiles": [
+                  "output/classic-batch19-assets/research/cnp-upgrade-362.png",
+                  "output/classic-batch19-assets/research/cnp-upgrade-362.json",
+                  "output/classic-batch19-assets/research/cnp-upgrade-377.png",
+                  "output/classic-batch19-assets/research/cnp-upgrade-377.json",
+                  "output/classic-batch19-assets/research/cnp-upgrade-382.png",
+                  "output/classic-batch19-assets/research/cnp-upgrade-382.json",
+                  "output/classic-batch19-assets/research/cnp-upgrade-387.png",
+                  "output/classic-batch19-assets/research/cnp-upgrade-387.json"
+                ]
+              },
+              "bodySha256": "a3b5e57dbb8a245253eeb0999f8374fdc291bfef94e866000d0b4bf5ed3697fb",
+              "canonicalStepSha256": "ad68f431bdce9eadec1ae66fe311d576a406c2cd68c785247ec0ef6f25c6d59f",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "https://www.reddit.com/r/CODZombies/comments/qgyxoj/",
+                "https://www.youtube.com/watch?v=m7RLTUWjpTQ"
+              ]
+            },
+            {
+              "index": 22,
+              "title": "Locus → Arrhythmic Dirge",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "https://www.reddit.com/r/CODZombies/comments/qgyxoj/",
+                "https://www.youtube.com/watch?v=m7RLTUWjpTQ"
+              ],
+              "treatment": "New original prose; retained table facts and native HUD observations distinguished in the evidence ledger.",
+              "unresolved": [
+                "Current Der Eisendrache retail upgrade behavior, ammunition capacity/refill and attachment assumptions are not independently playtested for this firearm."
+              ],
+              "factSupport": {
+                "reportedNamePair": "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "mapAvailability": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "sharedFirstUpgrade": "https://www.reddit.com/r/CODZombies/comments/qgyxoj/",
+                "wallLocator": null,
+                "basePrice": null,
+                "nativeLabelCorroboration": "https://www.youtube.com/watch?v=m7RLTUWjpTQ",
+                "nativeBeforeAfterHudPairMatched": false,
+                "nativeScope": "The Giant common BO3 names only; no Der Eisendrache availability, wall-price or capacity inference.",
+                "sourceSpellingNote": "Original table and linked theory spell Arrythmic; native upgraded HUD262 reads Arrhythmic Dirge. Adopt native spelling.",
+                "nativeEvidenceFiles": [
+                  "output/classic-batch19-assets/research/cnp-upgrade-262.png",
+                  "output/classic-batch19-assets/research/cnp-upgrade-262.json"
+                ]
+              },
+              "bodySha256": "a3b5e57dbb8a245253eeb0999f8374fdc291bfef94e866000d0b4bf5ed3697fb",
+              "canonicalStepSha256": "894e711c8c8d9b0546074d44251f09ff8ec8663ec22e256a4c2a72bdaefeff1a",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "https://www.reddit.com/r/CODZombies/comments/qgyxoj/",
+                "https://www.youtube.com/watch?v=m7RLTUWjpTQ"
+              ]
+            },
+            {
+              "index": 23,
+              "title": "Drakon → Bahamut",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "https://www.reddit.com/r/CODZombies/comments/qgyxoj/",
+                "https://www.youtube.com/watch?v=m7RLTUWjpTQ"
+              ],
+              "treatment": "New original prose; retained table facts and native HUD observations distinguished in the evidence ledger.",
+              "unresolved": [
+                "Current Der Eisendrache retail upgrade behavior, ammunition capacity/refill and attachment assumptions are not independently playtested for this firearm."
+              ],
+              "factSupport": {
+                "reportedNamePair": "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "mapAvailability": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "sharedFirstUpgrade": "https://www.reddit.com/r/CODZombies/comments/qgyxoj/",
+                "wallLocator": null,
+                "basePrice": null,
+                "nativeLabelCorroboration": "https://www.youtube.com/watch?v=m7RLTUWjpTQ",
+                "nativeBeforeAfterHudPairMatched": false,
+                "nativeScope": "The Giant common BO3 names only; no Der Eisendrache availability, wall-price or capacity inference.",
+                "sourceSpellingNote": null,
+                "nativeEvidenceFiles": [
+                  "output/classic-batch19-assets/research/cnp-upgrade-067.png",
+                  "output/classic-batch19-assets/research/cnp-upgrade-067.json"
+                ]
+              },
+              "bodySha256": "a3b5e57dbb8a245253eeb0999f8374fdc291bfef94e866000d0b4bf5ed3697fb",
+              "canonicalStepSha256": "84f7349ad704c32a4634a232a737e621dc5fb424d6e70b4a5857968a6c2e23ad",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "https://www.reddit.com/r/CODZombies/comments/qgyxoj/",
+                "https://www.youtube.com/watch?v=m7RLTUWjpTQ"
+              ]
+            },
+            {
+              "index": 24,
+              "title": "SVG-100 → Ikken Hissatsu",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "https://www.reddit.com/r/CODZombies/comments/qgyxoj/",
+                "https://www.youtube.com/watch?v=m7RLTUWjpTQ"
+              ],
+              "treatment": "New original prose; retained table facts and native HUD observations distinguished in the evidence ledger.",
+              "unresolved": [
+                "Current Der Eisendrache retail upgrade behavior, ammunition capacity/refill and attachment assumptions are not independently playtested for this firearm."
+              ],
+              "factSupport": {
+                "reportedNamePair": "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "mapAvailability": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "sharedFirstUpgrade": "https://www.reddit.com/r/CODZombies/comments/qgyxoj/",
+                "wallLocator": null,
+                "basePrice": null,
+                "nativeLabelCorroboration": "https://www.youtube.com/watch?v=m7RLTUWjpTQ",
+                "nativeBeforeAfterHudPairMatched": false,
+                "nativeScope": "The Giant common BO3 names only; no Der Eisendrache availability, wall-price or capacity inference.",
+                "sourceSpellingNote": null,
+                "nativeEvidenceFiles": [
+                  "output/classic-batch19-assets/research/cnp-upgrade-127.png",
+                  "output/classic-batch19-assets/research/cnp-upgrade-127.json"
+                ]
+              },
+              "bodySha256": "a3b5e57dbb8a245253eeb0999f8374fdc291bfef94e866000d0b4bf5ed3697fb",
+              "canonicalStepSha256": "51f423be52daa06ad9d51f11f3e152e00e122c3b34bc64e0d76c444f06feca7b",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "https://www.reddit.com/r/CODZombies/comments/qgyxoj/",
+                "https://www.youtube.com/watch?v=m7RLTUWjpTQ"
+              ]
+            },
+            {
+              "index": 25,
+              "title": "Man-O-War → Dread Armada",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "https://www.reddit.com/r/CODZombies/comments/qgyxoj/",
+                "https://www.youtube.com/watch?v=m7RLTUWjpTQ"
+              ],
+              "treatment": "New original prose; retained table facts and native HUD observations distinguished in the evidence ledger.",
+              "unresolved": [
+                "Current Der Eisendrache retail upgrade behavior, ammunition capacity/refill and attachment assumptions are not independently playtested for this firearm."
+              ],
+              "factSupport": {
+                "reportedNamePair": "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "mapAvailability": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "sharedFirstUpgrade": "https://www.reddit.com/r/CODZombies/comments/qgyxoj/",
+                "wallLocator": null,
+                "basePrice": null,
+                "nativeLabelCorroboration": "https://www.youtube.com/watch?v=m7RLTUWjpTQ",
+                "nativeBeforeAfterHudPairMatched": false,
+                "nativeScope": "The Giant common BO3 names only; no Der Eisendrache availability, wall-price or capacity inference.",
+                "sourceSpellingNote": null,
+                "nativeEvidenceFiles": [
+                  "output/classic-batch19-assets/research/cnp-upgrade-317.png",
+                  "output/classic-batch19-assets/research/cnp-upgrade-317.json"
+                ]
+              },
+              "bodySha256": "31cb18dcda5adcc6c5e39780272fc494a4e0c1fcdd3c500ff71606a431a866d5",
+              "canonicalStepSha256": "e41a3b492e5f144fa46472df74e4b3d3a5d6ac142132f1ae9d2e16ff8b9b1353",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "https://www.reddit.com/r/CODZombies/comments/qgyxoj/",
+                "https://www.youtube.com/watch?v=m7RLTUWjpTQ"
+              ]
+            },
+            {
+              "index": 26,
+              "title": "205 Brecci → Stellar Screech",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "https://www.reddit.com/r/CODZombies/comments/qgyxoj/",
+                "https://www.youtube.com/watch?v=m7RLTUWjpTQ"
+              ],
+              "treatment": "New original prose; retained table facts and native HUD observations distinguished in the evidence ledger.",
+              "unresolved": [
+                "Current Der Eisendrache retail upgrade behavior, ammunition capacity/refill and attachment assumptions are not independently playtested for this firearm."
+              ],
+              "factSupport": {
+                "reportedNamePair": "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "mapAvailability": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "sharedFirstUpgrade": "https://www.reddit.com/r/CODZombies/comments/qgyxoj/",
+                "wallLocator": null,
+                "basePrice": null,
+                "nativeLabelCorroboration": "https://www.youtube.com/watch?v=m7RLTUWjpTQ",
+                "nativeBeforeAfterHudPairMatched": false,
+                "nativeScope": "The Giant common BO3 names only; no Der Eisendrache availability, wall-price or capacity inference.",
+                "sourceSpellingNote": null,
+                "nativeEvidenceFiles": [
+                  "output/classic-batch19-assets/research/cnp-upgrade-347.png",
+                  "output/classic-batch19-assets/research/cnp-upgrade-347.json"
+                ]
+              },
+              "bodySha256": "a3b5e57dbb8a245253eeb0999f8374fdc291bfef94e866000d0b4bf5ed3697fb",
+              "canonicalStepSha256": "c62fdc5b5abd9bfaa7d6eae50e7e2065da2438e764297c06259dffabc8f575ee",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "https://www.reddit.com/r/CODZombies/comments/qgyxoj/",
+                "https://www.youtube.com/watch?v=m7RLTUWjpTQ"
+              ]
+            },
+            {
+              "index": 27,
+              "title": "Haymaker 12 → Shoeshining 100",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "https://www.reddit.com/r/CODZombies/comments/qgyxoj/",
+                "https://www.youtube.com/watch?v=m7RLTUWjpTQ"
+              ],
+              "treatment": "New original prose; retained table facts and native HUD observations distinguished in the evidence ledger.",
+              "unresolved": [
+                "The 25/115 HUD is a partially used combat observation, not a capacity measurement.",
+                "Current Der Eisendrache retail upgrade behavior, ammunition capacity/refill and attachment assumptions are not independently playtested for this firearm."
+              ],
+              "factSupport": {
+                "reportedNamePair": "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "mapAvailability": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "sharedFirstUpgrade": "https://www.reddit.com/r/CODZombies/comments/qgyxoj/",
+                "wallLocator": null,
+                "basePrice": null,
+                "nativeLabelCorroboration": "https://www.youtube.com/watch?v=m7RLTUWjpTQ",
+                "nativeBeforeAfterHudPairMatched": false,
+                "nativeScope": "The Giant common BO3 names only; no Der Eisendrache availability, wall-price or capacity inference.",
+                "sourceSpellingNote": null,
+                "nativeEvidenceFiles": [
+                  "output/classic-batch19-assets/research/cnp-upgrade-302.png",
+                  "output/classic-batch19-assets/research/cnp-upgrade-302.json"
+                ]
+              },
+              "bodySha256": "31cb18dcda5adcc6c5e39780272fc494a4e0c1fcdd3c500ff71606a431a866d5",
+              "canonicalStepSha256": "6ad288f61de3f091021dd42427a9416e6780f6f5cc4d63b013057be0a480bbf5",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "https://www.reddit.com/r/CODZombies/comments/qgyxoj/",
+                "https://www.youtube.com/watch?v=m7RLTUWjpTQ"
+              ]
+            },
+            {
+              "index": 28,
+              "title": "XM-53 → Heliacal Incandescence",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "https://www.reddit.com/r/CODZombies/comments/qgyxoj/",
+                "https://www.youtube.com/watch?v=m7RLTUWjpTQ"
+              ],
+              "treatment": "New original prose; retained table facts and native HUD observations distinguished in the evidence ledger.",
+              "unresolved": [
+                "Current Der Eisendrache retail upgrade behavior, ammunition capacity/refill and attachment assumptions are not independently playtested for this firearm."
+              ],
+              "factSupport": {
+                "reportedNamePair": "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "mapAvailability": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "sharedFirstUpgrade": "https://www.reddit.com/r/CODZombies/comments/qgyxoj/",
+                "wallLocator": null,
+                "basePrice": null,
+                "nativeLabelCorroboration": "https://www.youtube.com/watch?v=m7RLTUWjpTQ",
+                "nativeBeforeAfterHudPairMatched": false,
+                "nativeScope": "The Giant common BO3 names only; no Der Eisendrache availability, wall-price or capacity inference.",
+                "sourceSpellingNote": null,
+                "nativeEvidenceFiles": [
+                  "output/classic-batch19-assets/research/cnp-upgrade-082.png",
+                  "output/classic-batch19-assets/research/cnp-upgrade-082.json"
+                ]
+              },
+              "bodySha256": "a3b5e57dbb8a245253eeb0999f8374fdc291bfef94e866000d0b4bf5ed3697fb",
+              "canonicalStepSha256": "9d1bdb7b8380418613e7e9375fb8caa48a0cb2cd44735b4c19905c84f11c9745",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+                "https://www.reddit.com/r/CODZombies/comments/qgyxoj/",
+                "https://www.youtube.com/watch?v=m7RLTUWjpTQ"
+              ]
+            },
+            {
+              "index": 29,
+              "title": "Re-Pack eligible guns for alternate ammo",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/comments/4kp6vp/gobblegum_perks_weapon_kits_game_features/"
+              ],
+              "treatment": "New original prose; retained table facts and native HUD observations distinguished in the evidence ledger.",
+              "unresolved": [
+                "No new generic re-Pack refill claim or complete per-gun AAT eligibility certificate."
+              ],
+              "bodySha256": "f9dddf87453a9572678c1c292457e556afe8868273802b844120a6a793b5fa46",
+              "canonicalStepSha256": "de7adac8b680dfc79e96aab61650d408444dd416d5cef911f400f49f6154711e",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/4kp6vp/gobblegum_perks_weapon_kits_game_features/"
+              ]
+            },
+            {
+              "index": 30,
+              "title": "Ammunition — distinguish a refill from an observed HUD",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/comments/g9qoj3/first_try_to_get_high_round_on_der_eisendrache/"
+              ],
+              "treatment": "New original prose; retained table facts and native HUD observations distinguished in the evidence ledger.",
+              "unresolved": [
+                "Maximum loaded/reserve ammunition and attachment-dependent capacities remain pending for all 26 firearms.",
+                "Generic first-upgrade refill and second-upgrade ammunition preservation behavior have not been established by a controlled native sequence."
+              ],
+              "bodySha256": "d87cab3d5318b037e536a8660a1cc22d18ca681d054fe0649e3adf350b545f58",
+              "canonicalStepSha256": "a2f975284408b804a126449233bdcf8755834559ed30ad4d8b3e141e2eb69403",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/g9qoj3/first_try_to_get_high_round_on_der_eisendrache/"
+              ]
+            },
+            {
+              "index": 31,
+              "title": "Bowie Knife, Trip Mines, Monkey Bombs, Ray Gun and bows",
+              "evidence": [
+                "https://www.youtube.com/watch?v=_Q8F6zPib98",
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
+              ],
+              "treatment": "New original prose; retained table facts and native HUD observations distinguished in the evidence ledger.",
+              "unresolved": [
+                "Bowie and Trip Mines prices, equipment upgrade eligibility and Ray Gun ammo figures are not certified here."
+              ],
+              "bodySha256": "d355fb8889a4b34ecafa5fa1245c8621c77656301777901629e5bd4259292475",
+              "canonicalStepSha256": "b320fdf6d751c3485da5e18923e7ca4131303fd105846d5bf7eec4906dad7d55",
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=_Q8F6zPib98",
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
+              ]
+            },
+            {
+              "index": 32,
+              "title": "Remaining checks for this weapon reference",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
+              ],
+              "treatment": "New original prose; retained table facts and native HUD observations distinguished in the evidence ledger.",
+              "unresolved": [],
+              "bodySha256": "2306a35b541cda8aa46ff410c600727e97a174f1d4010bc13c8d278b8c0b1ac8",
+              "canonicalStepSha256": "2ee746301786cc23d67939bbe2060275da0002a8e411786a44b92fd4e6a636b1",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
+              ]
+            }
+          ],
+          "requirementsAndRewardReviewed": true,
+          "imageReview": {
+            "images": 3,
+            "nativeFrames": 3,
+            "originalDiagrams": 0,
+            "allSelectedAssetsPixelReviewed": true,
+            "limits": "VMP/Bowie/M8A7 outline locators only. No visible price prompt or ammunition maximum. Blurry Trip Mines and buffering frames excluded."
+          },
+          "evidenceUrls": [
+            "https://www.powerpyx.com/guides/call-of-duty-black-ops-3-trophy-guide.html",
+            "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+            "https://www.reddit.com/r/CODZombies/comments/43so4y/",
+            "https://www.reddit.com/r/CODZombies/comments/4kp6vp/gobblegum_perks_weapon_kits_game_features/",
+            "https://www.reddit.com/r/CODZombies/comments/g9qoj3/first_try_to_get_high_round_on_der_eisendrache/",
+            "https://www.reddit.com/r/CODZombies/comments/gsbdym/",
+            "https://www.reddit.com/r/CODZombies/comments/qgyxoj/",
+            "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+            "https://www.youtube.com/watch?v=_Q8F6zPib98",
+            "https://www.youtube.com/watch?v=m7RLTUWjpTQ"
           ]
         }
       ]
@@ -74395,12 +75490,6 @@
     },
     {
       "mapIds": [
-        "bo3-der-eisendrache"
-      ],
-      "note": "Reviewed material covers both main routes, four community bow upgrades, practical setup utilities, shield/Ragnarok, the Dead Again song, earlier side quests and their selected images. New supplements add the music box, three gramophones, free Death Machine wall trigger, globe disco and five lore radios with full transcripts and 13 native frames, plus eleven cipher messages and Takeo’s letter with six original decoder diagrams and ten checked supplied-input methods/postprocessing. Remaining work: complete physical routes and readable native images for every cipher and scrap fragment; formula-board inputs/plots and independent Japanese/fragment review; complete weapon inventory, wall locations/prices and weapon-specific upgraded names/ammo; shield refill-prop mechanics and remaining ambient-prop leads. Some timing, repeatability, co-op/offline and weapon-compatibility details remain untested. These bounded reviews do not certify every map secret or independent retail gameplay."
-    },
-    {
-      "mapIds": [
         "iw-attack-of-the-radioactive-thing"
       ],
       "note": "Attack: all 23 inherited cards and 49 original chapters have now been read across the main/chemistry and remaining-map revisions. The remaining 21 source cards now have 70 chapters, with a distinct Dear Diary route adding 3. Original-source limits remain; this is documentary coverage, not exhaustive gameplay certification."
@@ -74416,20 +75505,26 @@
         "coldwar-outbreak"
       ],
       "note": "Season Two Reloaded’s 31 source-listed records have 23 chapters and 29 historical location photos, covering 17 recorders and twelve regional faction-radio stations. Current retail unlock behavior, complete in-game name spelling and later releases remain outside this review."
+    },
+    {
+      "mapIds": [
+        "bo3-der-eisendrache"
+      ],
+      "note": "Reviewed material covers both main routes, four community bow upgrades, practical setup utilities, shield/Ragnarok, the Dead Again song, earlier side quests and their selected images. New supplements add the music box, three gramophones, free Death Machine wall trigger, globe disco and five lore radios with full transcripts and 13 native frames, plus eleven cipher messages and Takeo’s letter with six original decoder diagrams and ten checked supplied-input methods/postprocessing. Remaining work: complete physical routes and readable native images for every cipher and scrap fragment; formula-board inputs/plots and independent Japanese/fragment review; complete wall locations/prices and controlled weapon ammunition/refill checks; shield refill-prop mechanics and remaining ambient-prop leads. Some timing, repeatability, co-op/offline and weapon-compatibility details remain untested. These bounded reviews do not certify every map secret or independent retail gameplay. An ordinary-firearm reference now documents 26 base weapons and 26 attributed upgrade names, shared upgrade costs/behavior and three native wall-outline locators. Fourteen names have native-label corroboration and two have matched before/after HUD captures; capacities/current wall prices remain unverified."
     }
   ],
   "dataHashFormat": "SHA-256 of UTF-8 JSON files with LF line endings, matching Git and GitHub Pages.",
   "dataSha256": {
     "catalog.json": "1d06d2aa4a42db59b97868073ddbab1d6a33b3ffb4167f2ebe71ceed09eddf2d",
     "community-corrections.json": "030ce407924ef8a1cb18f639ae9d678c5fd82e80c22a1d601dc6dad107f1f490",
-    "coverage-gaps.json": "0f4a4a55517b68130d7ab1aa241bd5c621b2bf8fbd859f6db4a46eebb1b88661",
+    "coverage-gaps.json": "0b273360a7db902b7bde48f47bd798291ee5f50aeaccf23033b8d0fb758d2183",
     "guides-aw.json": "b5a7e5fb7d83e776452f77060d0714c13f63ae8eeb6e367272c0d00a38cc3855",
     "guides-classic.json": "adfcf8a0e55f347da12fc3632c9c04406f3bc65315763f0193aa3be754916f0d",
     "guides-community.json": "e7143e29b58c9001154151a2fd4991677fb798d41994c951c9a87b86ab385b43",
     "guides-completion-classic.json": "ed538054e7aeb5575de95dc78a345deb25a4111b47049bbd73fd29de06905c7a",
     "guides-completion-modern.json": "5e0086c91529a858bf011cbb6ccfe4bc469b3743f49c9175aac4e0115f460748",
     "guides-completion-modes.json": "7661fccf1e3b1fe4466e8a1f7219706fa1851d6b609c826fa045207810ad3bc5",
-    "guides-extra.json": "7935b60aad43f902f44be83e741a756f62243eec626493754309db872e4dfa7c",
+    "guides-extra.json": "6476885bba33dfae5f089dc6c8b3bdeb616a22da75e841051248feede0a9f857",
     "guides-goal-classic.json": "5621ad45c8750da623b7c48c4fbbb023c358c9853375d50d29e2fedba3b176dd",
     "guides-goal-modern.json": "c8a852b8ab0147729e8ffe1d18ee290fdee25680b1c043cc1c87999406e9d49f",
     "guides-goal-modes.json": "a063eeb0db74f9c40a3edecc71cd08853a01dc83c7a4c0f6ef88bde5e202a86c",
@@ -74551,7 +75646,8 @@
       "Attack five-chapter MAD upgrade loads all three native attachment panels and their prompts; Dear Diary has three direct chapter references and a working final-step jump.",
       "Outbreak Season Two Reloaded has23 direct step references; its Maxis chapter loads all four regional radio photos, and a checked chapter survives reload before temporary progress is cleared.",
       "Updated app version tag loads the per-step quoted-source fallback; actual viewport1280x720, narrow-screen recheck remains unverified. Full evidence is output/batch16-browser-qa.json.",
-      "Attack hidden-song three-chapter route has three direct step references, six loaded1920px native references, focused chapter and Sources jumps, preserved checkbox after reload and cleared temporary QA progress. No overflow at1280x720; output/batch17-browser-qa.json."
+      "Attack hidden-song three-chapter route has three direct step references, six loaded1920px native references, focused chapter and Sources jumps, preserved checkbox after reload and cleared temporary QA progress. No overflow at1280x720; output/batch17-browser-qa.json.",
+      "DE ordinary-weapon reference has32 chapters and32 direct step references. Chapter6,13 and31 jumps focus their sections; all three1200px wall-outline photos load. Sources jump focuses correctly; checkbox survives reload and temporary progress is cleared. No overflow at1280x720; mobile remains unverified. Evidence: output/batch18-browser-qa.json."
     ],
     "currentBatchResponsiveLimit": "The in-app browser viewport override did not change the actual 1280x720 viewport during these batches. Current recorded checks are desktop-only; a narrow-screen recheck remains unverified. Earlier recorded mobile checks retain their original scope."
   }
