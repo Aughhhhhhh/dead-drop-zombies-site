@@ -429,63 +429,449 @@
     "category": "side",
     "difficulty": "Medium",
     "players": "1–4 players, online; progress is per account",
-    "summary": "Ricerat477's attributed collectible checklist for this release. The named map areas identify fixed pickups; document drops, transmissions and intel Trials take repeated runs.",
+    "summary": "Track all 31 Season Two Reloaded additions: 17 fixed audio logs, 12 faction-radio transmissions and two Dark Aether Trial transmissions.",
     "requirements": [
-      "This is the Season 2 Reloaded release checklist, not a claim that later additions are absent.",
-      "Open the map and keep the matching main-quest / Wonder Weapon guide available for quest artifacts.",
-      "Check Barracks → Intel to select the faction and season still missing. Interact with physical logs and artifacts; finish intel Trials and collect their terminal reward.",
-      "The Trials method applies to the listed Dark Aether logs, documents and transmissions; artifacts retain the individual pickup instructions shown below."
+      "Original Black Ops Cold War Standard Outbreak, online; solo and co-op use the same regional checklist. Local / offline collection is not certified here.",
+      "This is the March 2021 Season Two Reloaded addition set across Ruka, Alpine, Sanatorium and Golova. The launch set and later seasons have separate cards.",
+      "Check your own Barracks → Intel collection. This release adds audio logs and transmissions, with no new document-drop or artifact route in its 31-entry list.",
+      "Interact with fixed recorders. For faction transmissions, plan fresh matches; for the two Dark Aether entries, use intel Trials and claim at the Trial Computer."
     ],
-    "reward": "The listed collectible entries and their recorded lore in Barracks → Intel.",
+    "reward": "The 31 listed lore entries recorded in your Intel collection; this is a release checklist, not an extra weapon or main-quest reward.",
     "steps": [
       {
-        "title": "Requiem: audio logs",
-        "body": "Audio Logs\n\n  * \"Killer Crystals\" - On Alpine, In Ski Patrol in the big building in the smaller side room on a table.\n\n  * \"A Grisly Affair\"- On Alpine, in Base Cabins on the back of a truck behind the cabins.\n  * \"Recon Rover Blues\"- On Ruka in the big building of the Old Farm location.\n\n  * \"Like Flies to Honey\"- On Ruka in the Base Headquarters location on a long table.\n\n  * \"I See A Hierarchy\"- In Golova, on the top of the water tower near the gas station at the edge of the village proper.\n\n  * \"Quantum Entanglement\"- on Sanitorium, on the pier in the back room of the building at the end.",
-        "html": "<p>Audio Logs</p>\r\n<ul>\r\n<li>&quot;Killer Crystals&quot; - On Alpine, In Ski Patrol in the big building in the smaller side room on a table.</li>\r\n<li>&quot;A Grisly Affair&quot;- On Alpine, in Base Cabins on the back of a truck behind the cabins.</li>\r\n<li>&quot;Recon Rover Blues&quot;- On Ruka in the big building of the Old Farm location.</li>\r\n<li>&quot;Like Flies to Honey&quot;- On Ruka in the Base Headquarters location on a long table.</li>\r\n<li>&quot;I See A Hierarchy&quot;- In Golova, on the top of the water tower near the gas station at the edge of the village proper.</li>\r\n<li>&quot;Quantum Entanglement&quot;- on Sanitorium, on the pier in the back room of the building at the end.</li>\r\n</ul>"
+        "title": "Start with the 31-entry release checklist",
+        "body": "Collect any missing fixed recorder when its region appears. Each named recorder has its own chapter below. Use the faction-radio chapters for their shared transmitter alternatives; the six Maxis records do not mean six different radios. The two Dark Aether transmissions use Trials instead.",
+        "tip": "The 31 additions split into Requiem 9, Omega 10, Maxis 10 and Dark Aether 2. Launch and later-season entries are outside this card. Use native faction labels; some editor icons are incorrect.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/mgd49k/"
+      },
+      {
+        "title": "Ruka: Recon Rover Blues",
+        "body": "\"Recon Rover Blues\"- On Ruka in the big building of the Old Farm location.",
+        "html": "<p>&quot;Recon Rover Blues&quot;- On Ruka in the big building of the Old Farm location.</p><p>— <a href=\"https://www.reddit.com/r/CODZombies/comments/mgd49k/\">u/Ricerat477</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/mgd49k/",
+        "tip": "Farmhouse near the ladder; the source’s floor-number note is uncertain.",
+        "images": [
+          {
+            "src": "./assets/batch15-s2r-ruka-old-farm.webp",
+            "alt": "Farm recorder",
+            "caption": "Farm recorder",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=bREGPHgXe6o&t=79.130661"
+          }
+        ]
+      },
+      {
+        "title": "Ruka: Like Flies to Honey",
+        "body": "\"Like Flies to Honey\"- On Ruka in the Base Headquarters location on a long table.",
+        "html": "<p>&quot;Like Flies to Honey&quot;- On Ruka in the Base Headquarters location on a long table.</p><p>— <a href=\"https://www.reddit.com/r/CODZombies/comments/mgd49k/\">u/Ricerat477</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/mgd49k/",
+        "tip": "Go upstairs in Base Headquarters and check the long table.",
+        "images": [
+          {
+            "src": "./assets/batch15-s2r-ruka-base-headquarters.webp",
+            "alt": "Headquarters recorder",
+            "caption": "Headquarters recorder",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=bREGPHgXe6o&t=95.130647"
+          }
+        ]
+      },
+      {
+        "title": "Ruka: In The Wild",
+        "body": "\"In The Wild\"- On Ruka, in the middle of the Missile Silos on a shelf. near the ammo crate.",
+        "html": "<p>&quot;In The Wild&quot;- On Ruka, in the middle of the Missile Silos on a shelf. near the ammo crate.</p><p>— <a href=\"https://www.reddit.com/r/CODZombies/comments/mgd49k/\">u/Ricerat477</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/mgd49k/",
+        "tip": "Look under the tin-roof shelter in the silo compound, on the shelf near the ammo crate.",
+        "images": [
+          {
+            "src": "./assets/batch15-s2r-ruka-missile-silos.webp",
+            "alt": "Silo shelf",
+            "caption": "Silo shelf",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=bREGPHgXe6o&t=64.130661"
+          }
+        ]
+      },
+      {
+        "title": "Ruka: Lightning Bugs",
+        "body": "\"Lightning Bugs\"- On Ruka, on a table near the edge of the Mobile ICBM Site.",
+        "html": "<p>&quot;Lightning Bugs&quot;- On Ruka, on a table near the edge of the Mobile ICBM Site.</p><p>— <a href=\"https://www.reddit.com/r/CODZombies/comments/mgd49k/\">u/Ricerat477</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/mgd49k/",
+        "images": [
+          {
+            "src": "./assets/batch15-s2r-ruka-mobile-icbm.webp",
+            "alt": "ICBM table",
+            "caption": "ICBM table",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=bREGPHgXe6o&t=108.130644"
+          }
+        ]
+      },
+      {
+        "title": "Ruka: Call Me Mac",
+        "body": "\"Call Me Mac\"- In Ruka, In the small cabin in the Backwoods.",
+        "html": "<p>&quot;Call Me Mac&quot;- In Ruka, In the small cabin in the Backwoods.</p><p>— <a href=\"https://www.reddit.com/r/CODZombies/comments/mgd49k/\">u/Ricerat477</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/mgd49k/",
+        "tip": "Check the Backwoods cabin’s ground-floor desk beside the map and pink lamp.",
+        "images": [
+          {
+            "src": "./assets/batch15-s2r-ruka-backwoods.webp",
+            "alt": "Backwoods desk",
+            "caption": "Backwoods desk",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=bREGPHgXe6o&t=51.130662"
+          }
+        ]
+      },
+      {
+        "title": "Alpine: Killer Crystals",
+        "body": "\"Killer Crystals\" - On Alpine, In Ski Patrol in the big building in the smaller side room on a table.",
+        "html": "<p>&quot;Killer Crystals&quot; - On Alpine, In Ski Patrol in the big building in the smaller side room on a table.</p><p>— <a href=\"https://www.reddit.com/r/CODZombies/comments/mgd49k/\">u/Ricerat477</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/mgd49k/",
+        "images": [
+          {
+            "src": "./assets/batch15-s2r-alpine-ski-patrol.webp",
+            "alt": "Patrol recorder",
+            "caption": "Patrol recorder",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=bREGPHgXe6o&t=154.130631"
+          }
+        ]
+      },
+      {
+        "title": "Alpine: A Grisly Affair",
+        "body": "\"A Grisly Affair\"- On Alpine, in Base Cabins on the back of a truck behind the cabins.",
+        "html": "<p>&quot;A Grisly Affair&quot;- On Alpine, in Base Cabins on the back of a truck behind the cabins.</p><p>— <a href=\"https://www.reddit.com/r/CODZombies/comments/mgd49k/\">u/Ricerat477</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/mgd49k/",
+        "images": [
+          {
+            "src": "./assets/batch15-s2r-alpine-base-cabins.webp",
+            "alt": "Truck recorder",
+            "caption": "Truck recorder",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=bREGPHgXe6o&t=171.130631"
+          }
+        ]
+      },
+      {
+        "title": "Alpine: Do What You Must",
+        "body": "\"Do What You Must\"- On Alpine, on a little table on the balcony in the Chalet area.",
+        "html": "<p>&quot;Do What You Must&quot;- On Alpine, on a little table on the balcony in the Chalet area.</p><p>— <a href=\"https://www.reddit.com/r/CODZombies/comments/mgd49k/\">u/Ricerat477</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/mgd49k/",
+        "images": [
+          {
+            "src": "./assets/batch15-s2r-alpine-chalet.webp",
+            "alt": "Chalet balcony",
+            "caption": "Chalet balcony",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=bREGPHgXe6o&t=139.130631"
+          }
+        ]
+      },
+      {
+        "title": "Alpine: My Reputation Precedes Me",
+        "body": "\"My Reputation Precedes Me\"- Inside the Red building's office area, in Maintenance on Alpine.",
+        "html": "<p>&quot;My Reputation Precedes Me&quot;- Inside the Red building&#x27;s office area, in Maintenance on Alpine.</p><p>— <a href=\"https://www.reddit.com/r/CODZombies/comments/mgd49k/\">u/Ricerat477</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/mgd49k/",
+        "tip": "Use the Maintenance area in Alpine’s northeast; enter its red building and check the office.",
+        "images": [
+          {
+            "src": "./assets/batch15-s2r-alpine-maintenance.webp",
+            "alt": "Maintenance desk",
+            "caption": "Maintenance desk",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=bREGPHgXe6o&t=126.130631"
+          }
+        ]
+      },
+      {
+        "title": "Sanatorium: Quantum Entanglement",
+        "body": "\"Quantum Entanglement\"- on Sanitorium, on the pier in the back room of the building at the end.",
+        "html": "<p>&quot;Quantum Entanglement&quot;- on Sanitorium, on the pier in the back room of the building at the end.</p><p>— <a href=\"https://www.reddit.com/r/CODZombies/comments/mgd49k/\">u/Ricerat477</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/mgd49k/",
+        "tip": "Enter the pier’s back kitchen; check the lower wall shelf among bottles and jars.",
+        "images": [
+          {
+            "src": "./assets/batch15-s2r-sanatorium-pier-kiosk.webp",
+            "alt": "Pier shelf",
+            "caption": "Pier shelf",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=bREGPHgXe6o&t=203.130631"
+          }
+        ]
+      },
+      {
+        "title": "Sanatorium: Proposed Targets",
+        "body": "\"Proposed Targets\"- On Sanitorium, in the main Sanitorium building on the first floor in a side room to the right of the statue.",
+        "html": "<p>&quot;Proposed Targets&quot;- On Sanitorium, in the main Sanitorium building on the first floor in a side room to the right of the statue.</p><p>— <a href=\"https://www.reddit.com/r/CODZombies/comments/mgd49k/\">u/Ricerat477</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/mgd49k/",
+        "tip": "From the main entrance, turn right into the side room and check the desk.",
+        "images": [
+          {
+            "src": "./assets/batch15-s2r-sanatorium-sanatorium-ground-floor.webp",
+            "alt": "Desk recorder",
+            "caption": "Desk recorder",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=bREGPHgXe6o&t=219.230553"
+          }
+        ]
+      },
+      {
+        "title": "Sanatorium: Something I can Use",
+        "body": "\"Something I can Use\"- On sanitorium in the main Sanitorium building on the second floor, in a side room attached to the big open room with the long oval table.",
+        "html": "<p>&quot;Something I can Use&quot;- On sanitorium in the main Sanitorium building on the second floor, in a side room attached to the big open room with the long oval table.</p><p>— <a href=\"https://www.reddit.com/r/CODZombies/comments/mgd49k/\">u/Ricerat477</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/mgd49k/",
+        "tip": "Use the second floor and the Hauer wall-buy room; older sixth-floor directions were corrected by the collector.",
+        "images": [
+          {
+            "src": "./assets/batch15-s2r-sanatorium-sanatorium-second-floor.webp",
+            "alt": "Lounge recorder",
+            "caption": "Lounge recorder",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=bREGPHgXe6o&t=233.130631"
+          }
+        ]
+      },
+      {
+        "title": "Sanatorium: We've Both Been to Hell",
+        "body": "\"We've Both Been to Hell\"- On Sanitorium, in the little reception area of the biggest building in the maintenance area.",
+        "html": "<p>&quot;We&#x27;ve Both Been to Hell&quot;- On Sanitorium, in the little reception area of the biggest building in the maintenance area.</p><p>— <a href=\"https://www.reddit.com/r/CODZombies/comments/mgd49k/\">u/Ricerat477</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/mgd49k/",
+        "tip": "This is the Maxis log. An early community map labelled it as Requiem by mistake.",
+        "images": [
+          {
+            "src": "./assets/batch15-s2r-sanatorium-maintenance.webp",
+            "alt": "Maintenance office",
+            "caption": "Maintenance office",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=bREGPHgXe6o&t=186.130631"
+          }
+        ]
+      },
+      {
+        "title": "Golova: I See A Hierarchy",
+        "body": "\"I See A Hierarchy\"- In Golova, on the top of the water tower near the gas station at the edge of the village proper.",
+        "html": "<p>&quot;I See A Hierarchy&quot;- In Golova, on the top of the water tower near the gas station at the edge of the village proper.</p><p>— <a href=\"https://www.reddit.com/r/CODZombies/comments/mgd49k/\">u/Ricerat477</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/mgd49k/",
+        "images": [
+          {
+            "src": "./assets/batch15-s2r-golova-water-tower.webp",
+            "alt": "Tower recorder",
+            "caption": "Tower recorder",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=bREGPHgXe6o&t=280.130629"
+          }
+        ]
+      },
+      {
+        "title": "Golova: Off The Hook",
+        "body": "\"Off The Hook\"- on Golova, in the Wonderfizz building, in one of the side rooms.",
+        "html": "<p>&quot;Off The Hook&quot;- on Golova, in the Wonderfizz building, in one of the side rooms.</p><p>— <a href=\"https://www.reddit.com/r/CODZombies/comments/mgd49k/\">u/Ricerat477</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/mgd49k/",
+        "tip": "The building with Der Wunderfizz is the Train Station; look in a side room.",
+        "images": [
+          {
+            "src": "./assets/batch15-s2r-golova-train-station.webp",
+            "alt": "Office recorder",
+            "caption": "Office recorder",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=bREGPHgXe6o&t=264.13063"
+          }
+        ]
+      },
+      {
+        "title": "Golova: Ghost Stories",
+        "body": "\"Ghost Stories\"- On Golova, in the big building in the little cemetary's office room.",
+        "html": "<p>&quot;Ghost Stories&quot;- On Golova, in the big building in the little cemetary&#x27;s office room.</p><p>— <a href=\"https://www.reddit.com/r/CODZombies/comments/mgd49k/\">u/Ricerat477</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/mgd49k/",
+        "images": [
+          {
+            "src": "./assets/batch15-s2r-golova-cemetery.webp",
+            "alt": "Cemetery recorder",
+            "caption": "Cemetery recorder",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=bREGPHgXe6o&t=294.130615"
+          }
+        ]
+      },
+      {
+        "title": "Golova: It's All Relative",
+        "body": "\"It's All Relative\"- In Golova, in the little barn next to the 4 silos in Lower Farmstead.",
+        "html": "<p>&quot;It&#x27;s All Relative&quot;- In Golova, in the little barn next to the 4 silos in Lower Farmstead.</p><p>— <a href=\"https://www.reddit.com/r/CODZombies/comments/mgd49k/\">u/Ricerat477</a></p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/mgd49k/",
+        "images": [
+          {
+            "src": "./assets/batch15-s2r-golova-lower-farmstead.webp",
+            "alt": "Loft recorder",
+            "caption": "Loft recorder",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=bREGPHgXe6o&t=248.130631"
+          }
+        ]
+      },
+      {
+        "title": "Plan fresh matches for faction transmissions",
+        "body": "Interact with a Requiem, Omega or Maxis intel radio to receive that faction’s next available transmission. Collector reports limit this to one transmission per faction per match; warping to another region does not provide another from the same faction. Use a fresh match when the faction radio no longer offers another record.",
+        "tip": "These are intel radios, rather than the Unknown Signal music challenge or the main quest’s amplifier puzzle.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/mgjtqo/"
       },
       {
         "title": "Requiem: radio transmissions",
         "body": "Radio Transmissions Found in Alpine, in the Bathhouse reception area. Also found on Sanitorium in the Left Most Vacation Home, on a desk. Golova's location is on top of the Silo's in the Granary. Ruka's location is in the building of the Cargo Platform.\n\n  * \"Race Against Time\"\n\n  * \"How We Win\"\n\n  * \"Under Observation\"",
-        "html": "<p>Radio Transmissions Found in Alpine, in the Bathhouse reception area. Also found on Sanitorium in the Left Most Vacation Home, on a desk. Golova&#39;s location is on top of the Silo&#39;s in the Granary. Ruka&#39;s location is in the building of the Cargo Platform.</p>\r\n<ul>\r\n<li>&quot;Race Against Time&quot;</li>\r\n<li>&quot;How We Win&quot;</li>\r\n<li>&quot;Under Observation&quot;</li>\r\n</ul>"
-      },
-      {
-        "title": "Omega: audio logs",
-        "body": "Audio Logs\n\n  * \"Do What You Must\"- On Alpine, on a little table on the balcony in the Chalet area.\n  * \"Off The Hook\"- on Golova, in the Wonderfizz building, in one of the side rooms.\n\n  * \"Ghost Stories\"- On Golova, in the big building in the little cemetary's office room.\n\n  * \"Proposed Targets\"- On Sanitorium, in the main Sanitorium building on the first floor in a side room to the right of the statue.\n\n  * \"Something I can Use\"- On sanitorium in the main Sanitorium building on the second floor, in a side room attached to the big open room with the long oval table.\n  * \"In The Wild\"- On Ruka, in the middle of the Missile Silos on a shelf. near the ammo crate.\n\n  * \"Lightning Bugs\"- On Ruka, on a table near the edge of the Mobile ICBM Site.",
-        "html": "<p>Audio Logs</p>\r\n<ul>\r\n<li>&quot;Do What You Must&quot;- On Alpine, on a little table on the balcony in the Chalet area.</li>\r\n<li>&quot;Off The Hook&quot;- on Golova, in the Wonderfizz building, in one of the side rooms.</li>\r\n<li>&quot;Ghost Stories&quot;- On Golova, in the big building in the little cemetary&#39;s office room.</li>\r\n<li>&quot;Proposed Targets&quot;- On Sanitorium, in the main Sanitorium building on the first floor in a side room to the right of the statue.</li>\r\n<li>&quot;Something I can Use&quot;- On sanitorium in the main Sanitorium building on the second floor, in a side room attached to the big open room with the long oval table.</li>\r\n<li>&quot;In The Wild&quot;- On Ruka, in the middle of the Missile Silos on a shelf. near the ammo crate.</li>\r\n<li>&quot;Lightning Bugs&quot;- On Ruka, on a table near the edge of the Mobile ICBM Site.</li>\r\n</ul>"
+        "html": "<p>Radio Transmissions Found in Alpine, in the Bathhouse reception area. Also found on Sanitorium in the Left Most Vacation Home, on a desk. Golova&#39;s location is on top of the Silo&#39;s in the Granary. Ruka&#39;s location is in the building of the Cargo Platform.</p>\r\n<ul>\r\n<li>&quot;Race Against Time&quot;</li>\r\n<li>&quot;How We Win&quot;</li>\r\n<li>&quot;Under Observation&quot;</li>\r\n</ul>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/mgd49k/",
+        "tip": "Ruka’s transmitter is in the large Cargo Platform building near the rail bridge. These four regional radios share the Requiem transmission list.",
+        "images": [
+          {
+            "src": "./assets/batch15-s2r-radio-ruka-requiem.webp",
+            "alt": "Cargo receiver",
+            "caption": "Cargo receiver",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=bREGPHgXe6o&t=344.630601"
+          },
+          {
+            "src": "./assets/batch15-s2r-radio-alpine-requiem.webp",
+            "alt": "Bathhouse receiver",
+            "caption": "Bathhouse receiver",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=bREGPHgXe6o&t=365.630577"
+          },
+          {
+            "src": "./assets/batch15-s2r-radio-golova-requiem.webp",
+            "alt": "Granary receiver",
+            "caption": "Granary receiver",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=bREGPHgXe6o&t=403.630575"
+          },
+          {
+            "src": "./assets/batch15-s2r-radio-sanatorium-requiem.webp",
+            "alt": "Vacation receiver",
+            "caption": "Vacation receiver",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=bREGPHgXe6o&t=454.230553"
+          }
+        ]
       },
       {
         "title": "Omega: radio transmissions",
         "body": "Radio Transmissions Inside the administration building on Sanitorium, on a desk. There is also a radio on the pool table in the Pro Shop on Alpine, that gives you these. Ruka's location is in the Missle silos, in the green tent.\n\n  * \"Up to Speed\"\n\n  * \"Fiasco\"\n\n  * \"Tresspassers\"",
-        "html": "<p>Radio Transmissions Inside the administration building on Sanitorium, on a desk. There is also a radio on the pool table in the Pro Shop on Alpine, that gives you these. Ruka&#39;s location is in the Missle silos, in the green tent.</p>\r\n<ul>\r\n<li>&quot;Up to Speed&quot;</li>\r\n<li>&quot;Fiasco&quot;</li>\r\n<li>&quot;Tresspassers&quot;</li>\r\n</ul>"
-      },
-      {
-        "title": "Maxis: audio logs",
-        "body": "Audio Logs\n  * \"My Reputation Precedes Me\"- Inside the Red building's office area, in Maintenance on Alpine.\n\n  * \"We've Both Been to Hell\"- On Sanitorium, in the little reception area of the biggest building in the maintenance area.\n\n  * \"It's All Relative\"- In Golova, in the little barn next to the 4 silos in Lower Farmstead.\n\n  * \"Call Me Mac\"- In Ruka, In the small cabin in the Backwoods.",
-        "html": "<p>Audio Logs</p>\r\n<ul>\r\n<li>&quot;My Reputation Precedes Me&quot;- Inside the Red building&#39;s office area, in Maintenance on Alpine.</li>\r\n<li>&quot;We&#39;ve Both Been to Hell&quot;- On Sanitorium, in the little reception area of the biggest building in the maintenance area.</li>\r\n<li>&quot;It&#39;s All Relative&quot;- In Golova, in the little barn next to the 4 silos in Lower Farmstead.</li>\r\n<li>&quot;Call Me Mac&quot;- In Ruka, In the small cabin in the Backwoods.</li>\r\n</ul>"
+        "html": "<p>Radio Transmissions Inside the administration building on Sanitorium, on a desk. There is also a radio on the pool table in the Pro Shop on Alpine, that gives you these. Ruka&#39;s location is in the Missle silos, in the green tent.</p>\r\n<ul>\r\n<li>&quot;Up to Speed&quot;</li>\r\n<li>&quot;Fiasco&quot;</li>\r\n<li>&quot;Tresspassers&quot;</li>\r\n</ul>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/mgd49k/",
+        "tip": "Golova’s Omega radio is inside the Pack-a-Punch building; the silo radio is Requiem. Ruka’s green tent is just inside the east Missile Silos entrance.",
+        "images": [
+          {
+            "src": "./assets/batch15-s2r-radio-ruka-omega.webp",
+            "alt": "Tent receiver",
+            "caption": "Tent receiver",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=bREGPHgXe6o&t=334.630601"
+          },
+          {
+            "src": "./assets/batch15-s2r-radio-alpine-omega.webp",
+            "alt": "Billiard receiver",
+            "caption": "Billiard receiver",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=bREGPHgXe6o&t=376.630586"
+          },
+          {
+            "src": "./assets/batch15-s2r-radio-golova-omega.webp",
+            "alt": "Landing receiver",
+            "caption": "Landing receiver",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=bREGPHgXe6o&t=413.630575"
+          },
+          {
+            "src": "./assets/batch15-s2r-radio-sanatorium-omega.webp",
+            "alt": "Administration receiver",
+            "caption": "Administration receiver",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=bREGPHgXe6o&t=444.230553"
+          }
+        ]
       },
       {
         "title": "Maxis: radio transmissions",
         "body": "Radio Transmissions On Alpine, Inside the Right most bigger cabin in Hillside Cabins. On the bottom floor. Golova's location is in Rural Houses,in the bigger of the two houses on the rightmost part of the area. Sanatorium's location is in Market Square, in the white building’s backroom, on top of white crates next to a banana box.\n\n  * \"Lab Rat\"\n\n  * \"Three Out Of Four\"\n\n  * \"Both Ways\"\n\n  * \"I've Changed\"\n\n  * \"Why I Fight\"\n\n  * \"True Courage\"",
-        "html": "<p>Radio Transmissions On Alpine, Inside the Right most bigger cabin in Hillside Cabins. On the bottom floor. Golova&#39;s location is in Rural Houses,in the bigger of the two houses on the rightmost part of the area. Sanatorium&#39;s location is in Market Square, in the white building’s backroom, on top of white crates next to a banana box.</p>\r\n<ul>\r\n<li>&quot;Lab Rat&quot;</li>\r\n<li>&quot;Three Out Of Four&quot;</li>\r\n<li>&quot;Both Ways&quot;</li>\r\n<li>&quot;I&#39;ve Changed&quot;</li>\r\n<li>&quot;Why I Fight&quot;</li>\r\n<li>&quot;True Courage&quot;</li>\r\n</ul>"
+        "html": "<p>Radio Transmissions On Alpine, Inside the Right most bigger cabin in Hillside Cabins. On the bottom floor. Golova&#39;s location is in Rural Houses,in the bigger of the two houses on the rightmost part of the area. Sanatorium&#39;s location is in Market Square, in the white building’s backroom, on top of white crates next to a banana box.</p>\r\n<ul>\r\n<li>&quot;Lab Rat&quot;</li>\r\n<li>&quot;Three Out Of Four&quot;</li>\r\n<li>&quot;Both Ways&quot;</li>\r\n<li>&quot;I&#39;ve Changed&quot;</li>\r\n<li>&quot;Why I Fight&quot;</li>\r\n<li>&quot;True Courage&quot;</li>\r\n</ul>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/mgd49k/",
+        "tip": "In Ruka, use Creek Dacha’s downstairs kitchen counter.",
+        "images": [
+          {
+            "src": "./assets/batch15-s2r-radio-ruka-maxis.webp",
+            "alt": "Kitchen receiver",
+            "caption": "Kitchen receiver",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=bREGPHgXe6o&t=324.630601"
+          },
+          {
+            "src": "./assets/batch15-s2r-radio-alpine-maxis.webp",
+            "alt": "Hillside receiver",
+            "caption": "Hillside receiver",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=bREGPHgXe6o&t=359.630601"
+          },
+          {
+            "src": "./assets/batch15-s2r-radio-golova-maxis.webp",
+            "alt": "Dining receiver",
+            "caption": "Dining receiver",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=bREGPHgXe6o&t=393.630575"
+          },
+          {
+            "src": "./assets/batch15-s2r-radio-sanatorium-maxis.webp",
+            "alt": "Market receiver",
+            "caption": "Market receiver",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=bREGPHgXe6o&t=430.630566"
+          }
+        ]
       },
       {
         "title": "Dark Aether: radio transmissions",
         "body": "Radio Transmissions Both can be gotten from trials.\n\n  * \"Testing...Testing...\"\n\n  * \"New Enemies\"",
-        "html": "<p>Radio Transmissions Both can be gotten from trials.</p>\r\n<ul>\r\n<li>&quot;Testing...Testing...&quot;</li>\r\n<li>&quot;New Enemies&quot;</li>\r\n</ul>"
+        "html": "<p>Radio Transmissions Both can be gotten from trials.</p>\r\n<ul>\r\n<li>&quot;Testing...Testing...&quot;</li>\r\n<li>&quot;New Enemies&quot;</li>\r\n</ul>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/mgd49k/",
+        "tip": "Use the linked intel-collection guide for folder-marked Trials and claiming intel at the computer. Treyarch’s April 21, 2021 notes fixed these two entries not unlocking after collection; early videos showing a save failure document that old bug."
       }
     ],
     "sources": [
       {
-        "title": "u/Ricerat477 — firsthand community intel checklist",
+        "title": "u/Ricerat477 and firsthand discoverers: complete 31-entry midseason checklist and corrections",
         "url": "https://www.reddit.com/r/CODZombies/comments/mgd49k/"
+      },
+      {
+        "title": "Firsthand collector replies: pier shelf, second-floor office and one-radio-per-faction match limit",
+        "url": "https://www.reddit.com/r/CODZombies/comments/mgjtqo/"
+      },
+      {
+        "title": "u/lunaticskies: Cargo Platform radio, Backwoods cabin and Rural Houses identification",
+        "url": "https://www.reddit.com/r/CODZombies/comments/mga0ow/"
+      },
+      {
+        "title": "Treyarch: Season Two Reloaded added audio logs and radio transmissions",
+        "url": "https://www.treyarch.com/game-intel/2021/03/Season_Two_Reloaded_Arrives"
+      },
+      {
+        "title": "Treyarch: Season Three fixed the two Trial transmission unlocks",
+        "url": "https://www.treyarch.com/game-intel/2021/04/Season_Three_Begins_April_22"
+      },
+      {
+        "title": "MysteryHQ: firsthand regional video walkthrough and chapter index",
+        "url": "https://www.youtube.com/watch?v=bREGPHgXe6o"
       }
     ],
     "sourceQuote": "https://www.reddit.com/r/CODZombies/comments/mgd49k/",
-    "checked": "2026-10-16",
+    "checked": "2026-10-18",
     "relatedGuideIds": [
-      "coldwar-outbreak-legion-main",
-      "coldwar-outbreak-operation-excision",
-      "coldwar-outbreak-intel-collection"
+      "coldwar-outbreak-intel-season-2",
+      "coldwar-outbreak-intel-collection",
+      "coldwar-outbreak-unknown-signal"
+    ],
+    "supplementNote": "Quoted location lines credit u/Ricerat477 and firsthand contributors. The 29 historical gameplay stills illustrate recorder locations and regional transmitters. Current retail unlock behavior and complete menu-name spelling have not been independently tested.",
+    "sourceOmissions": [
+      "The collector’s original misspellings and capitalization are retained inside quotations. In particular, “Tresspassers” follows the source list; its exact in-game menu spelling has not been independently read."
     ]
   },
   {

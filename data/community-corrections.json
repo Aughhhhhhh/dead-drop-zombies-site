@@ -34666,5 +34666,1046 @@
       "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-map-walkthrough-melee-weapons"
     ],
     "supplementNote": "The pickup table and recipe lists retain their credited sources. Plain-text puzzle chapters and field notes are authored explanations."
+  },
+  "attack-of-the-radioactive-thing-map-walkthrough-traps": {
+    "title": "Traps: four repairs and five activations",
+    "players": "Solo or co-op; read quest conditions",
+    "summary": "Find the four repair parts, restore their traps and include the ready-built studio defense when using all five trap types.",
+    "requirements": [
+      "Turn on the single power switch first, and budget 750 points per normal trap activation.",
+      "Restore Electric, Freezer, Fuel Tank and Pool traps with their individual parts. The studio defense is a separate fifth entry."
+    ],
+    "reward": "Use all five trap types for Bait and Switch, subject to the platform’s achievement conditions.",
+    "steps": [
+      {
+        "title": "Original repair-part and activation table",
+        "body": "In Attack of the Radioactive Thing there are 4 Traps, each of which need to be repaired. Type | Ability | Part Location | Location | Cost/Activation --- | --- | --- | --- | --- Electric Trap | Electrocutes zombies that enter its radius | In a trash can next to the power station | Power Station | $750 Freezer Trap | Freezes zombies to a cold bitter death | On the left side of the gas station | Beachside Market | $750 Fuel Tank Trap | Sends out a huge flame that scorches zombies | On a picnic table in the RV Park | RV Park | $750 Pool Trap | Electrocutes zombies that enter the pool | On a white truck between the Motel and Studio | Motel Pool | $750 Defense Trap | Puts spikes on the entrances of the Studio to defend the mistress | - | Studio | $750",
+        "html": "<p>In Attack of the Radioactive Thing there are 4 Traps, each of which need to be repaired.</p>\n<table>\n<thead>\n<tr>\n<th>Type</th>\n<th>Ability</th>\n<th>Part Location</th>\n<th>Location</th>\n<th>Cost/Activation</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Electric Trap</td>\n<td>Electrocutes zombies that enter its radius</td>\n<td><a href=\"https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/\" target=\"_blank\" rel=\"noopener noreferrer\">In a trash can next to the power station (in the original source)</a></td>\n<td>Power Station</td>\n<td>$750</td>\n</tr>\n<tr>\n<td>Freezer Trap</td>\n<td>Freezes zombies to a cold bitter death</td>\n<td><a href=\"https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/\" target=\"_blank\" rel=\"noopener noreferrer\">On the left side of the gas station (in the original source)</a></td>\n<td>Beachside Market</td>\n<td>$750</td>\n</tr>\n<tr>\n<td>Fuel Tank Trap</td>\n<td>Sends out a huge flame that scorches zombies</td>\n<td><a href=\"https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/\" target=\"_blank\" rel=\"noopener noreferrer\">On a picnic table in the RV Park (in the original source)</a></td>\n<td>RV Park</td>\n<td>$750</td>\n</tr>\n<tr>\n<td>Pool Trap</td>\n<td>Electrocutes zombies that enter the pool</td>\n<td><a href=\"https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/\" target=\"_blank\" rel=\"noopener noreferrer\">On a white truck between the Motel and Studio (in the original source)</a></td>\n<td>Motel Pool</td>\n<td>$750</td>\n</tr>\n<tr>\n<td>Defense Trap</td>\n<td>Puts spikes on the entrances of the Studio to defend the mistress</td>\n<td>-</td>\n<td>Studio</td>\n<td>$750</td>\n</tr>\n</tbody>\n</table>\n<hr>",
+        "tip": "Count four repair jobs and five trap types. The Defense Trap row has no repair part; activate it at the studio after using the four repaired traps."
+      },
+      {
+        "title": "Repair each trap at its own station",
+        "body": "Bring the Power Station trash-can part to the Electric Trap, the gas-station-side part to the market Freezer Trap, the RV picnic-table part to the Fuel Tank Trap, and the white-truck part to the motel Pool Trap. Install each part at its matching activation point.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+      },
+      {
+        "title": "Use the five types and check completion",
+        "body": "Activate Electric, Freezer, Fuel Tank and Pool traps after repairing them, then activate the studio’s Defense Trap. Restore-and-use is the objective; merely picking up a part does not document that trap being used. Check the challenge or achievement notification before ending your run.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+      }
+    ],
+    "sourceOmissions": [
+      "The old opening sentence says four traps, but its table has five entries. Four require repair; the studio defense does not.",
+      "Costs and achievement behavior are documented source values, not a new current-build test."
+    ],
+    "sources": [
+      {
+        "title": "The_Beebat/bicoezbluntkid: original map breakdown",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+      },
+      {
+        "title": "Jeanmi96: original trophy route",
+        "url": "https://www.powerpyx.com/call-of-duty-infinite-warfare-absolution-dlc-trophy-guide-roadmap/"
+      }
+    ],
+    "checked": "2026-10-18",
+    "relatedGuideIds": [
+      "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-map-walkthrough-power",
+      "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-map-walkthrough-double-pack-a-punch",
+      "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-easter-eggs-skullhop"
+    ],
+    "supplementNote": "The original excerpts remain attributed. Added chapters and field notes explain their order, tools and limits."
+  },
+  "attack-of-the-radioactive-thing-map-walkthrough-power": {
+    "title": "Power: recover and install the beach lever",
+    "players": "Solo or co-op; read quest conditions",
+    "summary": "Take the missing lever from the beach and restore the map’s single power switch.",
+    "requirements": [
+      "Open a route to the beach and Power Station.",
+      "The beach lever and the complete zombie arm are different pickups; the arm requires the Seismic Wave Generator later."
+    ],
+    "reward": "Electrical power for map equipment, Elvira’s book safe and later quest setup.",
+    "steps": [
+      {
+        "title": "Original lever and switch locations",
+        "body": "To turn on power you must find the power lever on the beach next to the OSA in a zombie hand sticking out of the ground. You must put it into the power switch in the Power Station . There is only 1 power switch.",
+        "html": "<p>To turn on power you must find the power lever on the beach next to the OSA in a zombie hand sticking out of the ground. You must put it into <a href=\"https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/\" target=\"_blank\" rel=\"noopener noreferrer\">the power switch in the Power Station (in the original source)</a> . There is only 1 power switch.</p>\n<hr>"
+      },
+      {
+        "title": "Check that the switch is actually on",
+        "body": "Take the lever from the hand protruding from the beach sand near the OSA wall weapon. Install it in the empty Power Station switch and operate that switch. If the Ice Cream Parlor book safe is still closed, return here and confirm the activation before continuing.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The_Beebat/bicoezbluntkid: original map breakdown",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+      }
+    ],
+    "checked": "2026-10-18",
+    "relatedGuideIds": [
+      "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-map-walkthrough-pack-a-punch",
+      "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-map-walkthrough-seismic-wave-generator",
+      "iw-attack-of-the-radioactive-thing-main"
+    ],
+    "supplementNote": "The original excerpts remain attributed. Added chapters and field notes explain their order, tools and limits."
+  },
+  "attack-of-the-radioactive-thing-map-walkthrough-pack-a-punch": {
+    "title": "Pack-a-Punch: Elvira’s book and blood vial",
+    "players": "Solo or co-op; read quest conditions",
+    "summary": "Power the map, return the book, fill the vial with Cleaver kills and lead Elvira to the blue portal circle.",
+    "requirements": [
+      "Turn on power and collect the Cleaver from the shark in Beachside Market.",
+      "Take the book from the safe beside Skullhop in the Ice Cream Parlor, then visit Elvira at the studio."
+    ],
+    "reward": "Access to the Pack-a-Punch projector room; later portal locations can move around the map.",
+    "steps": [
+      {
+        "title": "Original book, vial and portal instructions",
+        "body": "To Pack-a-Punch you need to turn on Power and obtain Elvira's book from the safe near the Skullhop machine . Give the book to Elvira and then she will give you a blood vial. Fill up the blood vial by killing zombies with the Cleaver melee weapon. Give the vial back to Elvira and she will get up and follow you. Bring her outside the Studio next to the Mystery Wheel and she will turn a blue spiritual circle into a Pack-a-Punch portal. The Pack-a-Punch portal will then go around the map. One location is at the RV Park and the other is next to the Ice Cream shop near spawn. Look up into the sky for a big cloud to see where it is.",
+        "html": "<p>To Pack-a-Punch you need to turn on Power and <a href=\"https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/\" target=\"_blank\" rel=\"noopener noreferrer\">obtain Elvira&#x27;s book from the safe near the Skullhop machine (in the original source)</a> .</p>\n<p>Give the book to Elvira and then she will give you a blood vial. Fill up the blood vial by killing zombies with the Cleaver melee weapon.</p>\n<p>Give the vial back to Elvira and she will get up and follow you. Bring her outside the Studio next to the Mystery Wheel and she will turn a blue spiritual circle into a Pack-a-Punch portal.\nThe Pack-a-Punch portal will then go around the map. One location is at the RV Park and the other is next to the Ice Cream shop near spawn. Look up into the sky for a big cloud to see where it is.</p>\n<hr>"
+      },
+      {
+        "title": "Fill the vial with the required melee tool",
+        "body": "Give Elvira the book, take her green vial and make Cleaver kills until the vial is full. Return that filled vial to her. Ordinary gun kills are not a substitute for the specified melee step, and collecting the Cleaver alone does not complete the vial.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+      },
+      {
+        "title": "Let Elvira open the first portal",
+        "body": "After she leaves her couch, wait at the blue circle outside the studio near the Mystery Wheel so she can open it. Enter the portal to reach the projector room. For later visits, use the cloud in the sky to find the portal’s current map location.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+      }
+    ],
+    "sourceOmissions": [
+      "The source does not provide a certified current kill quota, portal duration or full rotation timetable. Follow the vial and portal feedback."
+    ],
+    "sources": [
+      {
+        "title": "The_Beebat/bicoezbluntkid: original map breakdown",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+      }
+    ],
+    "checked": "2026-10-18",
+    "relatedGuideIds": [
+      "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-map-walkthrough-power",
+      "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-map-walkthrough-melee-weapons",
+      "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-map-walkthrough-double-pack-a-punch",
+      "iw-attack-of-the-radioactive-thing-main"
+    ],
+    "supplementNote": "The original excerpts remain attributed. Added chapters and field notes explain their order, tools and limits."
+  },
+  "attack-of-the-radioactive-thing-map-walkthrough-double-pack-a-punch": {
+    "title": "Double Pack-a-Punch: retrieve and charge Alien Fuses",
+    "players": "Solo or co-op; read quest conditions",
+    "summary": "Get the RV cabinet fuses, refill Elvira’s vial, charge the fuses with the Electric Trap and install them in Pack-a-Punch.",
+    "requirements": [
+      "Open Pack-a-Punch first. Bring the Crowbar for the RV cabinet and the Cleaver for the second vial fill.",
+      "Repair the Electric Trap at the Power Station using its nearby trash-can part, and reserve its activation cost.",
+      "This describes the standard fuse route; Director’s Cut starting equipment and shortcut cards are separate conditions."
+    ],
+    "reward": "Unlock the machine’s second weapon-upgrade tier after installing the charged fuses.",
+    "steps": [
+      {
+        "title": "Original fuse and Electric Trap route",
+        "body": "After opening Pack-a-Punch head into the projector room and hit the button on the left side. You will be teleported into a closed RV and you must melee a cabinet above you to obtain Alien Fuses. Interact with them to pick them up. Gif Example Fill up Elvira's blood vial again with Cleaver melee kills and then make your way over to the Power Station. Place the fuses on the ground in the middle of where the Power Trap activates and then turn on the Electric Trap. Once the trap is finished pick up the Alien Fuses and bring them to the Pack-a-Punch.",
+        "html": "<p>After opening Pack-a-Punch head into the projector room and hit the button on the left side. You will be teleported into a closed RV and you must melee a cabinet above you to obtain Alien Fuses. Interact with them to pick them up. <a href=\"https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/\" target=\"_blank\" rel=\"noopener noreferrer\">Gif Example (in the original source)</a>\nFill up Elvira&#x27;s blood vial again with Cleaver melee kills and then make your way over to the Power Station. Place the fuses on the ground in the middle of where the Power Trap activates and then turn on the Electric Trap. Once the trap is finished pick up the Alien Fuses and bring them to the Pack-a-Punch.</p>\n<hr>"
+      },
+      {
+        "title": "Use the projector button and Crowbar cabinet",
+        "body": "Enter the Pack-a-Punch projector room, press its left-wall button and leave through the portal to reach the normally closed RV. Find the damaged overhead cabinet, hit it with the Crowbar and interact to collect the Alien Fuses. Check that you actually picked them up.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/6ljar6/attack_of_the_radioactive_thing_easter_egg_hunt/"
+      },
+      {
+        "title": "Refill the Cleaver blood meter",
+        "body": "After retrieving the fuses, switch to the Cleaver and make the melee kills needed to refill Elvira’s blood vial. Use the meter rather than a copied kill count. Keep the charged-vial stage separate from installing the Electric Trap’s own repair part.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/6ljar6/attack_of_the_radioactive_thing_easter_egg_hunt/"
+      },
+      {
+        "title": "Charge the fuses at the Power Station",
+        "body": "Place the Alien Fuses on the ground inside the Power Station Electric Trap’s active area. Activate that repaired trap and wait for its full cycle to finish. Return to the placed fuses and collect them after charging; leaving them on the ground does not install them in Pack-a-Punch.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/6ljar6/attack_of_the_radioactive_thing_easter_egg_hunt/"
+      },
+      {
+        "title": "Install the charged fuses at Pack-a-Punch",
+        "body": "Return to the Pack-a-Punch projector room with the charged fuses and interact with the machine to install them. Use its available upgrade prompt for a weapon you want to improve again. Check the displayed cost and weapon compatibility rather than assuming every gun uses the same special upgrade route.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/6ljar6/attack_of_the_radioactive_thing_easter_egg_hunt/"
+      }
+    ],
+    "sourceOmissions": [
+      "Fill the visible vial meter; no fixed Cleaver-kill quota or upgrade price is certified here.",
+      "Do not confuse Alien Fuses with the main quest’s bomb parts, gauge digits or safe-paper code."
+    ],
+    "sources": [
+      {
+        "title": "The_Beebat/bicoezbluntkid: original map breakdown",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+      }
+    ],
+    "checked": "2026-10-18",
+    "relatedGuideIds": [
+      "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-map-walkthrough-pack-a-punch",
+      "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-map-walkthrough-melee-weapons",
+      "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-map-walkthrough-traps"
+    ],
+    "supplementNote": "The original excerpts remain attributed. Added chapters and field notes explain their order, tools and limits."
+  },
+  "attack-of-the-radioactive-thing-map-walkthrough-afterlife-arcade": {
+    "title": "Afterlife Arcade: token and return prompts",
+    "players": "Solo or co-op; read quest conditions",
+    "summary": "An attributed overview of the arcade’s return-token system and playable game list.",
+    "requirements": [
+      "Use these instructions when the game actually sends you into the Afterlife Arcade.",
+      "Solo Up ’N Atoms behavior and co-op bleed-out conditions are different; check the prompts for your current mode."
+    ],
+    "reward": "A return opportunity when the game grants or lets you earn the required Self Revive Token.",
+    "steps": [
+      {
+        "title": "Original token description and game inventory",
+        "body": "If you bleed out in a co-op game or go into Last Stand in solo when you have the Up & Atoms perk you are sent to the Afterlife Arcade where you must play arcade games to acquire soul power to obtain a Self Revive Token. Once you obtain a Self Revive Token you can exit the Afterlife Arcade, but if you are in solo then you will have a Self Revive Token once you enter the arcade. Below if a breakdown of the playable games inside the Afterlife Arcade. Name | Arcade Cabinet? --- | --- Octonian Hunter | No Rings of Saturn | No Black Hole | No Cryptid Attack | No Zombie Zoom | No Bowling for Planets | No Atlantis | Yes Pitfall | Yes Grand Prix | Yes Enduro | Yes Dolphin | Yes",
+        "html": "<p>If you bleed out in a co-op game or go into Last Stand in solo when you have the Up &amp; Atoms perk you are sent to the Afterlife Arcade where you must play arcade games to acquire soul power to obtain a Self Revive Token.</p>\n<p>Once you obtain a Self Revive Token you can exit the Afterlife Arcade, but if you are in solo then you will have a Self Revive Token once you enter the arcade.</p>\n<p>Below if a breakdown of the playable games inside the Afterlife Arcade.</p>\n<table>\n<thead>\n<tr>\n<th>Name</th>\n<th>Arcade Cabinet?</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Octonian Hunter</td>\n<td>No</td>\n</tr>\n<tr>\n<td>Rings of Saturn</td>\n<td>No</td>\n</tr>\n<tr>\n<td>Black Hole</td>\n<td>No</td>\n</tr>\n<tr>\n<td>Cryptid Attack</td>\n<td>No</td>\n</tr>\n<tr>\n<td>Zombie Zoom</td>\n<td>No</td>\n</tr>\n<tr>\n<td>Bowling for Planets</td>\n<td>No</td>\n</tr>\n<tr>\n<td>Atlantis</td>\n<td>Yes</td>\n</tr>\n<tr>\n<td>Pitfall</td>\n<td>Yes</td>\n</tr>\n<tr>\n<td>Grand Prix</td>\n<td>Yes</td>\n</tr>\n<tr>\n<td>Enduro</td>\n<td>Yes</td>\n</tr>\n<tr>\n<td>Dolphin</td>\n<td>Yes</td>\n</tr>\n</tbody>\n</table>\n<hr>"
+      },
+      {
+        "title": "Check the return condition inside the arcade",
+        "body": "Once you are inside the arcade, check whether the required Self Revive Token is already available. If it is not, use the playable games to earn soul power, then follow the token and exit prompts shown in your match. The developer’s launch interview explains this general return system; it does not establish identical solo and co-op eligibility.",
+        "original": true,
+        "researchSource": "https://blog.activision.com/call-of-duty/archives/learn-all-about-call-of-duty-infinite-warfares-zombies-in-spaceland"
+      }
+    ],
+    "sourceOmissions": [
+      "The inherited solo/Last Stand wording is a general source description. Exact current solo revive counts, mode eligibility and soul-power thresholds were not independently confirmed.",
+      "The arcade table names games; it does not explain every arcade game’s scoring rules."
+    ],
+    "sources": [
+      {
+        "title": "The_Beebat/bicoezbluntkid: original map breakdown",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+      },
+      {
+        "title": "Brian Bright: Afterlife token explanation",
+        "url": "https://blog.activision.com/call-of-duty/archives/learn-all-about-call-of-duty-infinite-warfares-zombies-in-spaceland"
+      }
+    ],
+    "checked": "2026-10-18",
+    "relatedGuideIds": [
+      "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-map-walkthrough-pack-a-punch"
+    ],
+    "supplementNote": "The original excerpts remain attributed. Added chapters and field notes explain their order, tools and limits."
+  },
+  "attack-of-the-radioactive-thing-map-walkthrough-buildables": {
+    "title": "Buildables: choose a device and its blueprint route",
+    "players": "Solo or co-op; read quest conditions",
+    "summary": "Choose among the four named devices, then use its own blueprint, parts and build-table instructions.",
+    "requirements": [
+      "Collect a device’s blueprint and bring it to its build table before assembling that device’s three parts.",
+      "Use the individual device cards for the exact four pickup landmarks. These deployable devices are distinct from the M.A.D. weapon."
+    ],
+    "reward": "A crafted Seismic Wave Generator, Violet Ray Device, Hypnosis Device or Mind Control Device.",
+    "steps": [
+      {
+        "title": "Original four-device overview",
+        "body": "There are 4 buildable items around the map. You must bring the blueprints to build tables around the map in order to build them. Video Guide",
+        "html": "<p>There are 4 buildable items around the map. You must bring the blueprints to build tables around the map in order to build them.</p>\n<p><a href=\"https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/\" target=\"_blank\" rel=\"noopener noreferrer\">Video Guide (in the original source)</a></p>\n<hr>"
+      },
+      {
+        "title": "Follow one complete device route",
+        "body": "For the Seismic Wave Generator, start around the Ice Cream Parlor; for Violet Ray, use the Power Station route; for Hypnosis, search Beachside Market; for Mind Control, use the motel/pool route. Open the corresponding related card and collect its blueprint plus all three named parts before expecting a completed device.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+      }
+    ],
+    "sourceOmissions": [
+      "Damage, duration, charge/replacement behavior and possible device upgrades are not specified by the inherited location list and are not invented here."
+    ],
+    "sources": [
+      {
+        "title": "The_Beebat/bicoezbluntkid: original map breakdown",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+      }
+    ],
+    "checked": "2026-10-18",
+    "relatedGuideIds": [
+      "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-map-walkthrough-seismic-wave-generator",
+      "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-map-walkthrough-violet-ray-device",
+      "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-map-walkthrough-hypnosis-device",
+      "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-map-walkthrough-mind-control-device"
+    ],
+    "supplementNote": "The original excerpts remain attributed. Added chapters and field notes explain their order, tools and limits."
+  },
+  "attack-of-the-radioactive-thing-map-walkthrough-seismic-wave-generator": {
+    "title": "Seismic Wave Generator: blueprint and three parts",
+    "players": "Solo or co-op; read quest conditions",
+    "summary": "Its blueprint and three nearby parts, with the main-quest beach-arm use explained.",
+    "requirements": [
+      "Open access to the Ice Cream Parlor route and locate the device’s build table.",
+      "Bring the blueprint and all three parts to that device’s assembly point; the blueprint is not itself a finished device."
+    ],
+    "reward": "Raise the beach zombie arm for the main quest after crafting the device.",
+    "steps": [
+      {
+        "title": "Original blueprint and part landmarks",
+        "body": "There are 4 buildable items around the map. You must bring the blueprints to build tables around the map in order to build them. Video Guide * * * Blueprint * Outside the Ice Cream Parlor next to the backdoor Part 1 * Outside the Ice Cream Parlor on a corner of the store Part 2 * On a bench outside the Ice Cream Parlor Part 3 * Next to porta-potties in the playground",
+        "html": "<p>There are 4 buildable items around the map. You must bring the blueprints to build tables around the map in order to build them.</p>\n<p><a href=\"https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/\" target=\"_blank\" rel=\"noopener noreferrer\">Video Guide (in the original source)</a></p>\n<hr>\n<p>Blueprint</p>\n<ul>\n<li><a href=\"https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/\" target=\"_blank\" rel=\"noopener noreferrer\">Outside the Ice Cream Parlor next to the backdoor (in the original source)</a></li>\n</ul>\n<p>Part 1</p>\n<ul>\n<li><a href=\"https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/\" target=\"_blank\" rel=\"noopener noreferrer\">Outside the Ice Cream Parlor on a corner of the store (in the original source)</a></li>\n</ul>\n<p>Part 2</p>\n<ul>\n<li><a href=\"https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/\" target=\"_blank\" rel=\"noopener noreferrer\">On a bench outside the Ice Cream Parlor (in the original source)</a></li>\n</ul>\n<p>Part 3</p>\n<ul>\n<li><a href=\"https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/\" target=\"_blank\" rel=\"noopener noreferrer\">Next to porta-potties in the playground (in the original source)</a></li>\n</ul>\n<hr>"
+      },
+      {
+        "title": "Finish the named assembly route",
+        "body": "Use this route’s landmarks: Ice Cream Parlor’s back door; outer corner; nearby bench; playground portable toilets. Collect the blueprint, place it at its assembly table and add the three device parts there. Check each interaction prompt so an uncollected part or unplaced blueprint does not leave the build incomplete.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+      },
+      {
+        "title": "Raise and collect the beach arm",
+        "body": "For the main quest, deploy the completed Seismic Wave Generator beside the zombie hand protruding from the beach sand near the OSA. This is the hand that held the power lever. Let the device lift the arm and collect the released body part; removing the lever earlier did not automatically collect the arm.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+      }
+    ],
+    "sourceOmissions": [
+      "This chapter verifies the documented pickup route. Exact device damage, duration, charges, replacement rules and any further upgrade are not newly established."
+    ],
+    "sources": [
+      {
+        "title": "The_Beebat/bicoezbluntkid: original map breakdown",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+      }
+    ],
+    "checked": "2026-10-18",
+    "relatedGuideIds": [
+      "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-map-walkthrough-buildables",
+      "iw-attack-of-the-radioactive-thing-main"
+    ],
+    "supplementNote": "The original excerpts remain attributed. Added chapters and field notes explain their order, tools and limits."
+  },
+  "attack-of-the-radioactive-thing-map-walkthrough-violet-ray-device": {
+    "title": "Violet Ray Device: blueprint and three parts",
+    "players": "Solo or co-op; read quest conditions",
+    "summary": "Its blueprint and three parts around the Power Station/market route.",
+    "requirements": [
+      "Open access to the Power Station route and locate the device’s build table.",
+      "Bring the blueprint and all three parts to that device’s assembly point; the blueprint is not itself a finished device."
+    ],
+    "reward": "Craft the Violet Ray Device using its blueprint and three source-listed parts.",
+    "steps": [
+      {
+        "title": "Original blueprint and part landmarks",
+        "body": "There are 4 buildable items around the map. You must bring the blueprints to build tables around the map in order to build them. Video Guide * * * Blueprint * On a bench near the Power Station Part 1 * At the end of the roof above where the Blueprint is Part 2 * Next to a shopping cart near the Power Switch Part 3 * Behind a trash can near the backdoor of the market",
+        "html": "<p>There are 4 buildable items around the map. You must bring the blueprints to build tables around the map in order to build them.</p>\n<p><a href=\"https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/\" target=\"_blank\" rel=\"noopener noreferrer\">Video Guide (in the original source)</a></p>\n<hr>\n<p>Blueprint</p>\n<ul>\n<li><a href=\"https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/\" target=\"_blank\" rel=\"noopener noreferrer\">On a bench near the Power Station (in the original source)</a></li>\n</ul>\n<p>Part 1</p>\n<ul>\n<li><a href=\"https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/\" target=\"_blank\" rel=\"noopener noreferrer\">At the end of the roof above where the Blueprint is (in the original source)</a></li>\n</ul>\n<p>Part 2</p>\n<ul>\n<li><a href=\"https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/\" target=\"_blank\" rel=\"noopener noreferrer\">Next to a shopping cart near the Power Switch (in the original source)</a></li>\n</ul>\n<p>Part 3</p>\n<ul>\n<li><a href=\"https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/\" target=\"_blank\" rel=\"noopener noreferrer\">Behind a trash can near the backdoor of the market (in the original source)</a></li>\n</ul>\n<hr>"
+      },
+      {
+        "title": "Finish the named assembly route",
+        "body": "Use this route’s landmarks: blueprint bench; roof above that bench; nearby shopping cart; trash can behind the market. Collect the blueprint, place it at its assembly table and add the three device parts there. Check each interaction prompt so an uncollected part or unplaced blueprint does not leave the build incomplete.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+      }
+    ],
+    "sourceOmissions": [
+      "This chapter verifies the documented pickup route. Exact device damage, duration, charges, replacement rules and any further upgrade are not newly established."
+    ],
+    "sources": [
+      {
+        "title": "The_Beebat/bicoezbluntkid: original map breakdown",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+      }
+    ],
+    "checked": "2026-10-18",
+    "relatedGuideIds": [
+      "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-map-walkthrough-buildables"
+    ],
+    "supplementNote": "The original excerpts remain attributed. Added chapters and field notes explain their order, tools and limits."
+  },
+  "attack-of-the-radioactive-thing-map-walkthrough-hypnosis-device": {
+    "title": "Hypnosis Device: blueprint and three parts",
+    "players": "Solo or co-op; read quest conditions",
+    "summary": "Its blueprint and three parts inside Beachside Market.",
+    "requirements": [
+      "Open access to the Beachside Market route and locate the device’s build table.",
+      "Bring the blueprint and all three parts to that device’s assembly point; the blueprint is not itself a finished device."
+    ],
+    "reward": "Craft the Hypnosis Device using its blueprint and three source-listed parts.",
+    "steps": [
+      {
+        "title": "Original blueprint and part landmarks",
+        "body": "There are 4 buildable items around the map. You must bring the blueprints to build tables around the map in order to build them. Video Guide * * * Blueprint * On a shelf near the safe in the back of the market Part 1 * In a red crate in the backroom of the market Part 2 * Next to the vodka shelf in the market Part 3 * To the right of the Green Eggs in the market",
+        "html": "<p>There are 4 buildable items around the map. You must bring the blueprints to build tables around the map in order to build them.</p>\n<p><a href=\"https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/\" target=\"_blank\" rel=\"noopener noreferrer\">Video Guide (in the original source)</a></p>\n<hr>\n<p>Blueprint</p>\n<ul>\n<li><a href=\"https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/\" target=\"_blank\" rel=\"noopener noreferrer\">On a shelf near the safe in the back of the market (in the original source)</a></li>\n</ul>\n<p>Part 1</p>\n<ul>\n<li><a href=\"https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/\" target=\"_blank\" rel=\"noopener noreferrer\">In a red crate in the backroom of the market (in the original source)</a></li>\n</ul>\n<p>Part 2</p>\n<ul>\n<li><a href=\"https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/\" target=\"_blank\" rel=\"noopener noreferrer\">Next to the vodka shelf in the market (in the original source)</a></li>\n</ul>\n<p>Part 3</p>\n<ul>\n<li><a href=\"https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/\" target=\"_blank\" rel=\"noopener noreferrer\">To the right of the Green Eggs in the market (in the original source)</a></li>\n</ul>\n<hr>"
+      },
+      {
+        "title": "Finish the named assembly route",
+        "body": "Use this route’s landmarks: blueprint shelf by the safe; red back-room crate; vodka shelf; right of the Green Eggs. Collect the blueprint, place it at its assembly table and add the three device parts there. Check each interaction prompt so an uncollected part or unplaced blueprint does not leave the build incomplete.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+      },
+      {
+        "title": "Use the completed device to distract zombies",
+        "body": "Collect the finished Hypnosis Device and deploy it where you want nearby zombies distracted. The original solo player places it in the middle of the spawn room while entering the reanimation code, and also uses it near the Death Ray approach. Watch the remaining enemies and resume moving when the distraction ends.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/Infinitewarfare/comments/tg29uu/attack_of_the_radioactive_thing/"
+      }
+    ],
+    "sourceOmissions": [
+      "This chapter verifies the documented pickup route. Exact device damage, duration, charges, replacement rules and any further upgrade are not newly established."
+    ],
+    "sources": [
+      {
+        "title": "The_Beebat/bicoezbluntkid: original map breakdown",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+      },
+      {
+        "title": "Ww34ever: firsthand solo hypnosis use",
+        "url": "https://www.reddit.com/r/Infinitewarfare/comments/tg29uu/attack_of_the_radioactive_thing/"
+      }
+    ],
+    "checked": "2026-10-18",
+    "relatedGuideIds": [
+      "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-map-walkthrough-buildables"
+    ],
+    "supplementNote": "The original excerpts remain attributed. Added chapters and field notes explain their order, tools and limits."
+  },
+  "attack-of-the-radioactive-thing-map-walkthrough-mind-control-device": {
+    "title": "Mind Control Device: blueprint and three parts",
+    "players": "Solo or co-op; read quest conditions",
+    "summary": "Its blueprint and three parts around the motel and pool.",
+    "requirements": [
+      "Open access to the Motel route and locate the device’s build table.",
+      "Bring the blueprint and all three parts to that device’s assembly point; the blueprint is not itself a finished device."
+    ],
+    "reward": "Craft the Mind Control Device using its blueprint and three source-listed parts.",
+    "steps": [
+      {
+        "title": "Original blueprint and part landmarks",
+        "body": "There are 4 buildable items around the map. You must bring the blueprints to build tables around the map in order to build them. Video Guide * * * Blueprint * Outside the Motel room with the Crowbar/Build Table Part 1 * To the right of the TF-141 wallbuy Part 2 * Next to a pile of chairs next to the pool Part 3 * To the left of the stairs to go down from the Motel to the Studio",
+        "html": "<p>There are 4 buildable items around the map. You must bring the blueprints to build tables around the map in order to build them.</p>\n<p><a href=\"https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/\" target=\"_blank\" rel=\"noopener noreferrer\">Video Guide (in the original source)</a></p>\n<hr>\n<p>Blueprint</p>\n<ul>\n<li><a href=\"https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/\" target=\"_blank\" rel=\"noopener noreferrer\">Outside the Motel room with the Crowbar/Build Table (in the original source)</a></li>\n</ul>\n<p>Part 1</p>\n<ul>\n<li><a href=\"https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/\" target=\"_blank\" rel=\"noopener noreferrer\">To the right of the TF-141 wallbuy (in the original source)</a></li>\n</ul>\n<p>Part 2</p>\n<ul>\n<li><a href=\"https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/\" target=\"_blank\" rel=\"noopener noreferrer\">Next to a pile of chairs next to the pool (in the original source)</a></li>\n</ul>\n<p>Part 3</p>\n<ul>\n<li><a href=\"https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/\" target=\"_blank\" rel=\"noopener noreferrer\">To the left of the stairs to go down from the Motel to the Studio (in the original source)</a></li>\n</ul>\n<hr>"
+      },
+      {
+        "title": "Finish the named assembly route",
+        "body": "Use this route’s landmarks: blueprint outside the Crowbar room; right of the TF-141; pool-chair pile; stairs toward the studio. Collect the blueprint, place it at its assembly table and add the three device parts there. Check each interaction prompt so an uncollected part or unplaced blueprint does not leave the build incomplete.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+      },
+      {
+        "title": "Turn affected zombies into allies",
+        "body": "Collect and deploy the completed Mind Control Device, then let nearby zombies pass through its pulse. The original player describes the affected zombies becoming friendly and uses a small train before escorting the bomb. Check which enemies actually change behavior; the report does not establish an unlimited target count or permanent protection.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/Infinitewarfare/comments/1wow0vr/attack_is_so_stupidly_hard_for_no_reason/"
+      }
+    ],
+    "sourceOmissions": [
+      "This chapter verifies the documented pickup route. Exact device damage, duration, charges, replacement rules and any further upgrade are not newly established."
+    ],
+    "sources": [
+      {
+        "title": "The_Beebat/bicoezbluntkid: original map breakdown",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+      },
+      {
+        "title": "GDInfernoBoy: firsthand pulse use",
+        "url": "https://www.reddit.com/r/Infinitewarfare/comments/1wow0vr/attack_is_so_stupidly_hard_for_no_reason/"
+      }
+    ],
+    "checked": "2026-10-18",
+    "relatedGuideIds": [
+      "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-map-walkthrough-buildables"
+    ],
+    "supplementNote": "The original excerpts remain attributed. Added chapters and field notes explain their order, tools and limits."
+  },
+  "attack-of-the-radioactive-thing-map-walkthrough-melee-weapons": {
+    "title": "Melee tools: Cleaver and Crowbar",
+    "players": "Solo or co-op; read quest conditions",
+    "summary": "Find both tools and keep their quest interactions separate.",
+    "requirements": [
+      "Open the market and the motel room with the build table.",
+      "Use the required tool for each prompt: the Cleaver and Crowbar are not interchangeable quest keys."
+    ],
+    "reward": "Access to the two melee tools and their documented quest interactions.",
+    "steps": [
+      {
+        "title": "Original tool locations and dated damage note",
+        "body": "You can get the Cleaver from within the Market sitting in a shark Picture You can get the Crowbar from within the Motel sitting in a room with a build table Picture They will be a 1-hit kill up to Scene 9 and can last up to later rounds using the candy perk Slappy Taffy.",
+        "html": "<p>You can get the Cleaver from within the Market sitting in a shark <a href=\"https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/\" target=\"_blank\" rel=\"noopener noreferrer\">Picture (in the original source)</a></p>\n<p>You can get the Crowbar from within the Motel sitting in a room with a build table <a href=\"https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/\" target=\"_blank\" rel=\"noopener noreferrer\">Picture (in the original source)</a></p>\n<p>They will be a 1-hit kill up to Scene 9 and can last up to later rounds using the candy perk Slappy Taffy.</p>"
+      },
+      {
+        "title": "Use the Cleaver for blood and Fat",
+        "body": "Take the Cleaver from the shark carcass inside Beachside Market. It supplies the melee kills used to fill Elvira’s vial, the radioactive-zombie leg drop for the main quest, and the freezer-meat interaction that yields Fat. Those interactions require the specified tool, not simply any weapon kill.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+      },
+      {
+        "title": "Use the Crowbar for panels and breakable items",
+        "body": "Take the Crowbar from the motel room containing the build table. It opens the three M.A.D. panels and the RV fuse cabinet, breaks the required mirrors and coin/ice pickups, and operates the main-quest pressure gauges. Reacquire it when needed rather than trying those actions with the Cleaver.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+      }
+    ],
+    "sourceOmissions": [
+      "The old one-hit-through-Scene-9 statement is a dated source damage claim. It is not a new damage chart for every enemy, perk setup or mode.",
+      "Inventory-slot and replacement behavior are not newly certified. Confirm the equipped tool before attempting its interaction."
+    ],
+    "sources": [
+      {
+        "title": "The_Beebat/bicoezbluntkid: original map breakdown",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+      }
+    ],
+    "checked": "2026-10-18",
+    "relatedGuideIds": [
+      "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-map-walkthrough-pack-a-punch",
+      "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-map-walkthrough-double-pack-a-punch",
+      "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-easter-eggs-m-a-d-upgrade",
+      "iw-attack-of-the-radioactive-thing-main"
+    ],
+    "supplementNote": "The original excerpts remain attributed. Added chapters and field notes explain their order, tools and limits."
+  },
+  "attack-of-the-radioactive-thing-inventory-elvira": {
+    "title": "Elvira’s inventory: book, vial and garage pages",
+    "players": "Solo or co-op; read quest conditions",
+    "summary": "Locate the book and later pages, then use the linked Pack-a-Punch route for Elvira’s blood-vial task.",
+    "requirements": [
+      "Turn on power before collecting the book from the Ice Cream Parlor safe.",
+      "The gas-station pages are behind main-quest garage access; the initial book is a different item."
+    ],
+    "reward": "The documented Elvira inventory pickups and navigation to her portal-opening task.",
+    "steps": [
+      {
+        "title": "Original book and pages inventory",
+        "body": "Elvira's Book * In a safe next to the Skullhop machine in the Ice Cream Parlor after activating Power Pages * Inside the Gas Station (accessed by doing the Main Easter Egg)",
+        "html": "<p>Elvira&#x27;s Book</p>\n<ul>\n<li><a href=\"https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/\" target=\"_blank\" rel=\"noopener noreferrer\">In a safe next to the Skullhop machine in the Ice Cream Parlor after activating Power (in the original source)</a></li>\n</ul>\n<p>Pages</p>\n<ul>\n<li><a href=\"https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/\" target=\"_blank\" rel=\"noopener noreferrer\">Inside the Gas Station (accessed by doing the Main Easter Egg) (in the original source)</a></li>\n</ul>\n<hr>"
+      },
+      {
+        "title": "Do the initial book-and-vial exchange",
+        "body": "After restoring power, take the book from the safe next to Skullhop in the Ice Cream Parlor. Bring it to Elvira on the studio couch, receive the vial and fill it with Cleaver kills. Return the full vial and use the linked Pack-a-Punch instructions to lead her to the portal.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+      },
+      {
+        "title": "Keep the later pages separate",
+        "body": "The source lists additional pages inside the gas-station garage reached through the main quest. Treat those as a later inventory pickup, distinct from the book that starts the blood-vial task. Use the main route for opening the garage, and check the item’s interaction prompt when you reach the room.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+      }
+    ],
+    "sourceOmissions": [
+      "This source inventory locates the later pages. It does not independently establish every repeat-summon benefit or make the pages a universal prerequisite for every modern chemistry method."
+    ],
+    "sources": [
+      {
+        "title": "The_Beebat/bicoezbluntkid: original map breakdown",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+      }
+    ],
+    "checked": "2026-10-18",
+    "relatedGuideIds": [
+      "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-map-walkthrough-pack-a-punch",
+      "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-map-walkthrough-melee-weapons",
+      "iw-attack-of-the-radioactive-thing-main"
+    ],
+    "supplementNote": "The original excerpts remain attributed. Added chapters and field notes explain their order, tools and limits."
+  },
+  "attack-of-the-radioactive-thing-game-features-fate-fortune-cards": {
+    "title": "Fate & Fortune: deck setup and the three DLC3 cards",
+    "players": "Solo or co-op; read quest conditions",
+    "summary": "Use the five-card deck system and read the three card entries omitted from the original map excerpt.",
+    "requirements": [
+      "Choose a deck before starting and use only cards available to your profile.",
+      "DLC3 card availability is described by the original catalogue; it does not require buying the map just to use those cards."
+    ],
+    "reward": "The effects of the selected available cards; this is a loadout reference rather than an Easter egg reward.",
+    "steps": [
+      {
+        "title": "Original five-card deck overview",
+        "body": "Fate & Fortune Cards provide different abilities and effects to enhance gameplay. These act similar to Gobblegum. You can preset 5 cards in a deck before a game which you will receive throughout the game over time and by killing Zombies. To find out more, check out the Fate and Fortune Cards Breakdown . There were 3 new Fate & Fortune Cards added to Infinite Warfare Zombies with the release of Attack of the Radioactive Thing (DLC 3): ! To find out more, click here NOTE: You do not need to purchase the DLC in order to use DLC Fate & Fortune Cards",
+        "html": "<p>Fate &amp; Fortune Cards provide different abilities and effects to enhance gameplay. These act similar to Gobblegum. You can preset 5 cards in a deck before a game which you will receive throughout the game over time and by killing Zombies. To find out more, check out the <a href=\"https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/\" target=\"_blank\" rel=\"noopener noreferrer\">Fate and Fortune Cards Breakdown (in the original source)</a> .</p>\n<p>There were 3 new Fate &amp; Fortune Cards added to Infinite Warfare Zombies with the release of Attack of the Radioactive Thing (DLC 3): ! To find out more, <a href=\"https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/\" target=\"_blank\" rel=\"noopener noreferrer\">click here (in the original source)</a>\nNOTE: You do not need to purchase the DLC in order to use DLC Fate &amp; Fortune Cards</p>\n<hr>"
+      },
+      {
+        "title": "DLC3 cards in the original catalogue",
+        "body": "Stimulus | Shooting a Zombie releases a healing area of effect for allies. | 60 seconds | Fate | Evade | Allows the player to dodge. | 2 waves | Fortune; Legendary | Ammo Crate | Spawns a crate that refills ammo as well as the fate and fortune meter. | 60 seconds | Fortune; Rare",
+        "html": "<table><thead><tr><th>Card</th><th>Effect</th><th>Duration</th><th>Type</th></tr></thead><tbody><tr><td>Stimulus</td><td>Shooting a Zombie releases a healing area of effect for allies.</td><td>60 seconds</td><td>Fate</td></tr><tr><td>Evade</td><td>Allows the player to dodge.</td><td>2 waves</td><td>Fortune; Legendary</td></tr><tr><td>Ammo Crate</td><td>Spawns a crate that refills ammo as well as the fate and fortune meter.</td><td>60 seconds</td><td>Fortune; Rare</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/fate-and-fortune-cards/",
+        "tip": "These are the catalogue’s historical entries. Check the card displayed in your current game for its available charge and activation behavior."
+      },
+      {
+        "title": "Charge, select and restock the deck",
+        "body": "Choose your deck in the lobby. During the match, earn the kills needed to enable cards, scroll to the card you want and activate it using your current controls. The publisher’s launch advice says a used-up deck can be restocked at a Fate & Fortune Booth for a price; check the actual prompt and displayed cost.",
+        "original": true,
+        "researchSource": "https://www.callofduty.com/ca/en/blog/archives/call-of-duty-infinite-warfare-details-you-need-to-know"
+      }
+    ],
+    "sourceOmissions": [
+      "The inherited text leaves the three new cards unnamed. The added table quotes the source catalogue’s DLC3 rows.",
+      "Card ownership, consumption, balance changes and the complete cross-map card inventory are not newly tested.",
+      "The publisher’s launch advice describes the general card workflow under Zombies in Spaceland. It does not establish Attack-specific booth prices or platform controls."
+    ],
+    "sources": [
+      {
+        "title": "The_Beebat/bicoezbluntkid: original map breakdown",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+      },
+      {
+        "title": "The_Beebat: Fate and Fortune catalogue",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/fate-and-fortune-cards/"
+      },
+      {
+        "title": "Call of Duty Staff: card workflow",
+        "url": "https://www.callofduty.com/ca/en/blog/archives/call-of-duty-infinite-warfare-details-you-need-to-know"
+      }
+    ],
+    "checked": "2026-10-18",
+    "relatedGuideIds": [
+      "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-easter-eggs-skullhop",
+      "iw-attack-of-the-radioactive-thing-main"
+    ],
+    "supplementNote": "The original excerpts remain attributed. Added chapters and field notes explain their order, tools and limits."
+  },
+  "attack-of-the-radioactive-thing-game-features-attack-soul-challenges": {
+    "title": "Attack Soul Challenges: named objective checklist",
+    "players": "Solo or co-op; read quest conditions",
+    "summary": "Use the source’s thirteen named objectives as a checklist, then read your current challenge panel for required counts and tiers.",
+    "requirements": [
+      "Open the current game’s Soul Challenge panel and read the active objective.",
+      "Some objectives require the M.A.D., melee tools, buildables, traps, perk effects or main-quest completion; use the related guides for those routes."
+    ],
+    "reward": "Progress toward the displayed Attack Soul Challenges and the source’s Master challenge.",
+    "steps": [
+      {
+        "title": "Original thirteen named objective rows",
+        "body": "This is a list of every Soul Challenge specifically for Attack of the Radioactive Thing. Name | Description --- | --- Blast 'Em | Get kills with the MAD Cuts to the Bone | Get kills with the cleaver Pry them open | Get kills with the crowbar Crog-tastic | Rid Sonova Beach of the Crogs Brute-al Crog Killer | Take down the larger Crog Brutes Spellcaster | Do Elvira's bidding and get her to assist Buff-n-uff! | Upgrade Weapons in the beach town Build-a-death | Kill enemies with crafted traps Change it up | Earn a kill with all four Change Chews in a single game Repair Man | Repair all of the traps in Sonova Beach Crog-Zilla Killa | Defeat the Radioactive Thing Cracking Eggs | Shoot down those eggs MASTER ATTACK OF THE RADIOACTIVE THING CHALLENGE | Complete all Attack Challenges",
+        "html": "<p>This is a list of every Soul Challenge specifically for Attack of the Radioactive Thing.</p>\n<table>\n<thead>\n<tr>\n<th>Name</th>\n<th>Description</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Blast &#x27;Em</td>\n<td>Get kills with the MAD</td>\n</tr>\n<tr>\n<td>Cuts to the Bone</td>\n<td>Get kills with the cleaver</td>\n</tr>\n<tr>\n<td>Pry them open</td>\n<td>Get kills with the crowbar</td>\n</tr>\n<tr>\n<td>Crog-tastic</td>\n<td>Rid Sonova Beach of the Crogs</td>\n</tr>\n<tr>\n<td>Brute-al Crog Killer</td>\n<td>Take down the larger Crog Brutes</td>\n</tr>\n<tr>\n<td>Spellcaster</td>\n<td>Do Elvira&#x27;s bidding and get her to assist</td>\n</tr>\n<tr>\n<td>Buff-n-uff!</td>\n<td>Upgrade Weapons in the beach town</td>\n</tr>\n<tr>\n<td>Build-a-death</td>\n<td>Kill enemies with crafted traps</td>\n</tr>\n<tr>\n<td>Change it up</td>\n<td>Earn a kill with all four Change Chews in a single game</td>\n</tr>\n<tr>\n<td>Repair Man</td>\n<td>Repair all of the traps in Sonova Beach</td>\n</tr>\n<tr>\n<td>Crog-Zilla Killa</td>\n<td>Defeat the Radioactive Thing</td>\n</tr>\n<tr>\n<td>Cracking Eggs</td>\n<td>Shoot down those eggs</td>\n</tr>\n<tr>\n<td>MASTER ATTACK OF THE RADIOACTIVE THING CHALLENGE</td>\n<td>Complete all Attack Challenges</td>\n</tr>\n</tbody>\n</table>\n<hr>"
+      },
+      {
+        "title": "Match the required tool or activity",
+        "body": "Use the challenge panel to distinguish M.A.D., Cleaver and Crowbar kills from Crog, Crog Brute and egg objectives. Other rows concern summoning Elvira, upgrading weapons, crafted-device kills, trap repairs and the main boss. Perform the activity named by the active objective and check its progress rather than treating all kills alike.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+      },
+      {
+        "title": "Track the single-game condition separately",
+        "body": "The Change it up row specifically asks for a kill with all four Change Chews effects in one game. Keep that run’s progress together instead of assuming separate matches combine for this condition. The source does not provide a complete current tier table, so use the actual challenge panel for counts and completion feedback.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+      }
+    ],
+    "sourceOmissions": [
+      "The inherited table names objectives but omits numeric requirements, tiers and exact credit rules. It is not a certified complete current challenge table.",
+      "Cracking Eggs lacks a precise target/threshold explanation in the inherited text; no invented enemy-count rule is supplied."
+    ],
+    "sources": [
+      {
+        "title": "The_Beebat/bicoezbluntkid: original map breakdown",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+      }
+    ],
+    "checked": "2026-10-18",
+    "relatedGuideIds": [
+      "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-easter-eggs-m-a-d-upgrade",
+      "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-map-walkthrough-melee-weapons",
+      "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-map-walkthrough-buildables",
+      "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-map-walkthrough-traps",
+      "iw-attack-of-the-radioactive-thing-main"
+    ],
+    "supplementNote": "The original excerpts remain attributed. Added chapters and field notes explain their order, tools and limits."
+  },
+  "attack-of-the-radioactive-thing-easter-eggs-play-as-elvira": {
+    "title": "Play as Elvira: unlock and lobby code",
+    "players": "Solo or co-op; read quest conditions",
+    "summary": "Complete the main quest, enter Elvira’s directional code in the lobby, then start Attack with her selected.",
+    "requirements": [
+      "Complete Attack’s main quest on the profile that needs the standard character unlock.",
+      "Select Attack of the Radioactive Thing in the lobby before entering the code quickly. Director’s Cut bypass behavior is outside this standard unlock route."
+    ],
+    "reward": "Playable Elvira. The platform’s character-unlock achievement is separate from completing the main quest while playing as her.",
+    "steps": [
+      {
+        "title": "Complete the standard main-quest unlock",
+        "body": "1. Beat the Main Easter Egg",
+        "html": "<ol>\n<li>Beat the Main Easter Egg</li>\n</ol>"
+      },
+      {
+        "title": "Down, Right, Down, Left, Up, Right",
+        "body": "2. Insert the following D-Pad directions in order quickly. 1. Down 2. Right 3. Down 4. Left 5. Up 6. Right IW Zombies Easy Character Code Cheat Sheet",
+        "html": "<ol start=\"2\">\n<li>\n<p>Insert the following D-Pad directions in order quickly.</p>\n<ol>\n<li>Down</li>\n<li>Right</li>\n<li>Down</li>\n<li>Left</li>\n<li>Up</li>\n<li>Right</li>\n</ol>\n</li>\n</ol>\n<p><a href=\"https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/\" target=\"_blank\" rel=\"noopener noreferrer\">IW Zombies Easy Character Code Cheat Sheet (in the original source)</a></p>\n<hr>"
+      },
+      {
+        "title": "Enter the code in the lobby before starting",
+        "body": "After completing the standard unlock, return to the Attack lobby and quickly enter Down, Right, Down, Left, Up, Right on the directional controls. Confirm Elvira is selected before starting the next match. The code selects the character for a run; it does not itself complete another main quest.",
+        "original": true,
+        "researchSource": "https://www.powerpyx.com/call-of-duty-infinite-warfare-absolution-dlc-trophy-guide-roadmap/"
+      }
+    ],
+    "sourceOmissions": [
+      "Exact cross-profile, late-join and Director’s Cut character-credit behavior are not certified by this standard source route."
+    ],
+    "sources": [
+      {
+        "title": "The_Beebat/bicoezbluntkid: original map breakdown",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+      },
+      {
+        "title": "Jeanmi96: lobby-code context",
+        "url": "https://www.powerpyx.com/call-of-duty-infinite-warfare-absolution-dlc-trophy-guide-roadmap/"
+      }
+    ],
+    "checked": "2026-10-18",
+    "relatedGuideIds": [
+      "iw-attack-of-the-radioactive-thing-main",
+      "iw-attack-of-the-radioactive-thing-dear-diary"
+    ],
+    "supplementNote": "The original excerpts remain attributed. Added chapters and field notes explain their order, tools and limits."
+  },
+  "attack-of-the-radioactive-thing-easter-eggs-skullhop": {
+    "title": "Skull Hop: six-skull quest and arcade rules",
+    "players": "Solo or co-op; read quest conditions",
+    "summary": "Collect the six quest skulls, solve the variable word puzzle and clear the three arcade walls for the documented perk reward.",
+    "requirements": [
+      "Open the map, turn on power and prepare the repaired motel Pool Trap.",
+      "Bring a sniper or scoped weapon for distant token candidates, the Crowbar for M.A.D. panels, and an upgraded M.A.D. for the charged cabinet shot.",
+      "Keep the radioactive pump through its quest stages. The word on the Ice Cream Parlor wall and the starting glyphs can differ between matches.",
+      "The standard six-skull route is described; Director’s Cut starting resources and bypass-card effects are not assumed."
+    ],
+    "reward": "The source-reported permanent perk set, including Trail Blazers, for the current match. See the dated reward and retry limits below.",
+    "steps": [
+      {
+        "title": "Prepare for the six-skull sequence",
+        "body": "The arcade cabinet is in the Ice Cream Parlor beside the book safe. Complete its six skull objectives before attempting the arcade game. Plan access to the pump, Pool Trap, glyph wall, four portraits and upgraded M.A.D.; these are separate checks, not six copies of the hidden-token hunt.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+      },
+      {
+        "title": "Skull 1: shoot five tokens from the candidate pool",
+        "body": "Find 5 Skull Tokens around the map and shoot them. The locations are as follows: * Inside the Shack next to Power Switch * Underneath bus on the bridge * In a zombie barrier in the Studio * Behind a dumpster near the Power Station * On the Mason's Sign outside the map in the Town * Underneath a shelf in the Beachside Market * Behind the Snack Shack in the bathroom Use a Sniper to see the following * Behind the Change Chews machine near a dumpster * On a giant rock to the left of the Radioactive Thing * On the top right room of the Motel (looking from the bridge)",
+        "html": "<p>Find 5 Skull Tokens around the map and shoot them. The locations are as follows:</p>\n<ul>\n<li><a href=\"https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/\" target=\"_blank\" rel=\"noopener noreferrer\">Inside the Shack next to Power Switch (in the original source)</a></li>\n<li><a href=\"https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/\" target=\"_blank\" rel=\"noopener noreferrer\">Underneath bus on the bridge (in the original source)</a></li>\n<li><a href=\"https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/\" target=\"_blank\" rel=\"noopener noreferrer\">In a zombie barrier in the Studio (in the original source)</a></li>\n<li><a href=\"https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/\" target=\"_blank\" rel=\"noopener noreferrer\">Behind a dumpster near the Power Station (in the original source)</a></li>\n<li><a href=\"https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/\" target=\"_blank\" rel=\"noopener noreferrer\">On the Mason&#x27;s Sign outside the map in the Town (in the original source)</a></li>\n<li><a href=\"https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/\" target=\"_blank\" rel=\"noopener noreferrer\">Underneath a shelf in the Beachside Market (in the original source)</a></li>\n<li><a href=\"https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/\" target=\"_blank\" rel=\"noopener noreferrer\">Behind the Snack Shack in the bathroom (in the original source)</a></li>\n</ul>\n<p>Use a Sniper to see the following</p>\n<ul>\n<li><a href=\"https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/\" target=\"_blank\" rel=\"noopener noreferrer\">Behind the Change Chews machine near a dumpster (in the original source)</a></li>\n<li><a href=\"https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/\" target=\"_blank\" rel=\"noopener noreferrer\">On a giant rock to the left of the Radioactive Thing (in the original source)</a></li>\n<li><a href=\"https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/\" target=\"_blank\" rel=\"noopener noreferrer\">On the top right room of the Motel (looking from the bridge) (in the original source)</a></li>\n</ul>",
+        "tip": "Five tokens are needed from the ten documented candidate areas. The list is a search pool, not an instruction to find ten active tokens in every match. Use a scope for the far-away sign, rock, dumpster corner and motel balcony."
+      },
+      {
+        "title": "Skull 2: fill the radioactive pump nearby",
+        "body": "Pick up the container full of green slime outside the Gas Station , then place it down at the radiation puddle near the Ice Cream Parlor . You must now stand next to the puddle for 5 minutes until it is done. After 5 minutes you'll hear an audio queue and you can now go and pick it back up.",
+        "html": "<p>Pick up <a href=\"https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/\" target=\"_blank\" rel=\"noopener noreferrer\">the container full of green slime outside the Gas Station (in the original source)</a> , then place it down at <a href=\"https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/\" target=\"_blank\" rel=\"noopener noreferrer\">the radiation puddle near the Ice Cream Parlor (in the original source)</a> . You must now stand next to the puddle for 5 minutes until it is done. After 5 minutes you&#x27;ll hear an audio queue and you can now go and pick it back up.</p>",
+        "tip": "Stay near the puddle and wait for the completed-device beeps before picking it up. The elapsed-time reports differ, so the completion cue matters more than leaving at a copied stopwatch value."
+      },
+      {
+        "title": "Skull 3: exactly sixteen Pool Trap kills",
+        "body": "Place the container in the Pool at the motel. Now you must get exactly 16 kills within 1 use of the Pool Trap. Once the trap ends and you got exactly 16 kills you will earn the 3rd skull.",
+        "html": "<p>Place the container in the Pool at the motel. Now you must get exactly 16 kills within 1 use of the Pool Trap. Once the trap ends and you got exactly 16 kills you will earn the 3rd skull.</p>",
+        "tip": "Note the trap operator’s kill count before activation, then compare it afterward to verify exactly sixteen Pool Trap kills."
+      },
+      {
+        "title": "Skull 4: spell the wall word with the display glyphs",
+        "body": "Head over to the playground near the Ice Cream Parlor. You will see 4 symbols lying on the ground in front of swings. What you need to do is interact with the symbols and you will see symbols on the movie projection screen above you. The top symbols are for spelling out the word you see on the front of the Ice Cream Parlor (Your word will change every game). The bottom row is the current combination of letters you're using to get the top letter. Use this calculator to figure out how to input the letters for your word (this calculator is a bit hard to understand and an easier to follow one may be added in the future. Word/Wyler Language Key - https://i.imgur.com/QrGOMCa.jpg",
+        "html": "<p>Head over to the playground near the Ice Cream Parlor. You will see 4 symbols lying on the ground in front of swings.\nWhat you need to do is interact with the symbols and you will see symbols on the movie projection screen above you. The top symbols are for spelling out <a href=\"https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/\" target=\"_blank\" rel=\"noopener noreferrer\">the word you see on the front of the Ice Cream Parlor (in the original source)</a> (Your word will change every game). The bottom row is the current combination of letters you&#x27;re using to get the top letter.\n<a href=\"https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/\" target=\"_blank\" rel=\"noopener noreferrer\">Use this calculator (in the original source)</a> to figure out how to input the letters for your word (this calculator is a bit hard to understand and an easier to follow one may be added in the future.\nWord/Wyler Language Key - <a href=\"https://i.imgur.com/QrGOMCa.jpg\" target=\"_blank\" rel=\"noopener noreferrer\">https://i.imgur.com/QrGOMCa.jpg</a></p>",
+        "tip": "The four floor glyphs are inputs; the lower row tracks the selected combination, and the upper glyph is the result. Shoot the upper glyph when it matches the next required letter, then continue spelling the word."
+      },
+      {
+        "title": "Skull 5: complete all four portrait bubbles",
+        "body": "Go to the picnic table nearest to the Fuel Tank, there will be a Don't Blink note on the picnic table that you need to melee. Grab another slime container and head to 1 of the 4 Wyler portraits around the map. Interact with them and a bubble will spawn around you. You will be invincible in the bubble and zombies will move super slow. Once the bubble is there you must place the slime container on the ground and melee it. Ghostly spirits will now circle you. You now need to shoot 7 ghosts before the bubble disappears to complete it. You must do this at all the Wyler portraits around the map. Locations are as follows: * Behind the Gas Station * In the backroom of the market with the safe * In the Ice Cream Parlor * In the office of the motel",
+        "html": "<p>Go to the picnic table nearest to the Fuel Tank, there will be a <a href=\"https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/\" target=\"_blank\" rel=\"noopener noreferrer\">Don&#x27;t Blink note on the picnic table (in the original source)</a> that you need to melee.\nGrab another slime container and head to 1 of the 4 Wyler portraits around the map. Interact with them and a bubble will spawn around you. You will be invincible in the bubble and zombies will move super slow. Once the bubble is there you must place the slime container on the ground and melee it. Ghostly spirits will now circle you. You now need to shoot 7 ghosts before the bubble disappears to complete it. You must do this at all the Wyler portraits around the map. Locations are as follows:</p>\n<ul>\n<li><a href=\"https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/\" target=\"_blank\" rel=\"noopener noreferrer\">Behind the Gas Station (in the original source)</a></li>\n<li><a href=\"https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/\" target=\"_blank\" rel=\"noopener noreferrer\">In the backroom of the market with the safe (in the original source)</a></li>\n<li><a href=\"https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/\" target=\"_blank\" rel=\"noopener noreferrer\">In the Ice Cream Parlor (in the original source)</a></li>\n<li><a href=\"https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/\" target=\"_blank\" rel=\"noopener noreferrer\">In the office of the motel (in the original source)</a></li>\n</ul>",
+        "tip": "After meleeing Don’t Blink, recover the pump from the pool. Interact with a portrait, place and melee the pump inside its bubble, then shoot at least seven ghosts before it disappears. Check the success cue at each of the four portraits."
+      },
+      {
+        "title": "Skull 6: fire a charged M.A.D. shot at the cabinet",
+        "body": "Shoot the Skullhop machine with an Upgraded M.A.D. NOTE: You have to repeat this step if you fail the actual Skullhop game.",
+        "html": "<p>Shoot the Skullhop machine with an Upgraded M.A.D.</p>\n<p>NOTE: You have to repeat this step if you fail the actual Skullhop game.</p>",
+        "tip": "Hold the aim control to charge the upgraded M.A.D., then fire at Skullhop. Once the final skull registers, have the group interact with the cabinet to enter."
+      },
+      {
+        "title": "Clear three matching-color arcade walls",
+        "body": "To destroy Skulls, you need to stand on the same color of platform you see to the left and right of the skull wall. Falling off the platforms and shoot the wrong color cube at the skulls will result in a skull leaving the wall and escaping. If 3 skulls escape you will lose. You must destroy 3 skull walls in order to win. Once you win you are rewarded with all the perks on the map and Trail Blazers permanently (unless you're in solo and you will lose Up 'N Atoms upon death). As well as unlimited Fate & Fortune deck refills.",
+        "html": "<p>To destroy Skulls, you need to stand on the same color of platform you see to the left and right of the skull wall. Falling off the platforms and shoot the wrong color cube at the skulls will result in a skull leaving the wall and escaping. If 3 skulls escape you will lose. You must destroy 3 skull walls in order to win.\nOnce you win you are rewarded with all the perks on the map and Trail Blazers permanently (unless you&#x27;re in solo and you will lose Up &#x27;N Atoms upon death). As well as unlimited Fate &amp; Fortune deck refills.</p>\n<hr>",
+        "tip": "Match the side bars with your platform, collect a cube and launch it at the skulls. Three strikes end the attempt; each wall starts a fresh strike count. Hit an escaping skull with the current color to recover it before it reaches the back wall."
+      },
+      {
+        "title": "Record combinations before locking the word",
+        "body": "Record the wall word and four starting glyphs. Use the alphabet reference to read them. Test combinations and note each upper result. The lower row persists: account for its existing symbols before selecting inputs for the next letter.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=PziSWCSveqU"
+      },
+      {
+        "title": "Use the original solver as a spelling aid",
+        "body": "The source-linked solver is designed around a chosen word and four left-to-right starting symbols. Match those to your own glyphs rather than another run’s example. Its interactive output was not newly tested here, so compare each produced upper glyph with the next letter before shooting it.",
+        "original": true,
+        "researchSource": "https://www.betterredteam.com/CODZombies/Infinite%20Warfare/Attack%20Of%20The%20Radioactive%20Thing/Skull%20Hop%20Skull%20Four%20Cipher/"
+      },
+      {
+        "title": "Pull and release the arcade cubes",
+        "body": "While standing on the platform whose color matches the bars beside the skull wall, hold the firing control to pull a floating white cube toward you and release to launch it. Move to the matching platform when the required color changes. Clear the wall before it reaches the players.",
+        "original": true,
+        "researchSource": "https://www.powerpyx.com/call-of-duty-infinite-warfare-absolution-dlc-trophy-guide-roadmap/"
+      },
+      {
+        "title": "Retry only after checking the cabinet state",
+        "body": "The original procedure is to recharge the upgraded M.A.D., fire another charged shot into the cabinet and interact again after a failed arcade attempt. Check that the machine actually reactivates in your match. This historical procedure is not a promise of unlimited retries across every mode and current build.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+      }
+    ],
+    "sourceOmissions": [
+      "Pump timing and portrait quotas are source reports, not current-build tests. Follow the device and portrait completion cues.",
+      "Old tutorials describe retrying with another charged M.A.D. shot. A guaranteed unlimited retry or current bug workaround is not certified.",
+      "The source claims unlimited Fate & Fortune refills and a solo Up ’N Atoms exception. Those exact current reward/credit details were not independently tested.",
+      "The external symbol solver was readable as a source interface but not interactively tested. The old Imgur key was not opened."
+    ],
+    "sources": [
+      {
+        "title": "The_Beebat/bicoezbluntkid: original map breakdown",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+      },
+      {
+        "title": "SmartGuy (2017)",
+        "url": "https://www.youtube.com/watch?v=PziSWCSveqU"
+      },
+      {
+        "title": "Jeanmi96: arcade controls",
+        "url": "https://www.powerpyx.com/call-of-duty-infinite-warfare-absolution-dlc-trophy-guide-roadmap/"
+      },
+      {
+        "title": "ipie4fun: original spelling solver",
+        "url": "https://www.betterredteam.com/CODZombies/Infinite%20Warfare/Attack%20Of%20The%20Radioactive%20Thing/Skull%20Hop%20Skull%20Four%20Cipher/"
+      }
+    ],
+    "checked": "2026-10-18",
+    "relatedGuideIds": [
+      "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-map-walkthrough-traps",
+      "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-easter-eggs-m-a-d-upgrade",
+      "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-map-walkthrough-melee-weapons"
+    ],
+    "supplementNote": "The original excerpts remain attributed. Added chapters and field notes explain their order, tools and limits."
+  },
+  "attack-of-the-radioactive-thing-easter-eggs-m-a-d-upgrade": {
+    "title": "M.A.D.: obtain the weapon and fit all three upgrades",
+    "players": "Solo or co-op; read quest conditions",
+    "summary": "Get the M.A.D. from the Mystery Wheel, open its three panels with the Crowbar and attach the parts.",
+    "requirements": [
+      "Obtain the Modular Atomic Disintegrator from the Mystery Wheel.",
+      "Collect the Crowbar from the motel build-table room and open access to the RV restroom, studio exterior and gas-station rear.",
+      "This describes the standard part-collection route; Director’s Cut starting upgrades and special-card effects are not assumed."
+    ],
+    "reward": "The assembled three-part M.A.D. and its charged-shot use for Skull Hop; the source associates full assembly with MAD Proto.",
+    "steps": [
+      {
+        "title": "Obtain the base weapon from the Mystery Wheel",
+        "body": "1. Get the Modular Atomic Disintegrator out of the Mystery Wheel",
+        "html": "<ol>\n<li>Get the Modular Atomic Disintegrator out of the Mystery Wheel</li>\n</ol>"
+      },
+      {
+        "title": "Original three power-box locations",
+        "body": "2. Grab 3 pieces around the map located in power boxes and interact with them to add them to the M.A.D. You can open them by meleeing them with a Crowbar. Locations: * Outside the bathroom in the RV Park * Outside the Studio * Behind the Gas Station",
+        "html": "<ol start=\"2\">\n<li>Grab 3 pieces around the map located in power boxes and interact with them to add them to the M.A.D. You can open them by meleeing them with a Crowbar. Locations:</li>\n</ol>\n<ul>\n<li><a href=\"https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/\" target=\"_blank\" rel=\"noopener noreferrer\">Outside the bathroom in the RV Park (in the original source)</a></li>\n<li><a href=\"https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/\" target=\"_blank\" rel=\"noopener noreferrer\">Outside the Studio (in the original source)</a></li>\n<li><a href=\"https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/\" target=\"_blank\" rel=\"noopener noreferrer\">Behind the Gas Station (in the original source)</a></li>\n</ul>\n<hr>"
+      },
+      {
+        "title": "Fit the Crank, Grip and Plunger",
+        "body": "Use the Crowbar to open the box outside the TV Studio for the Crank, then visit the box outside the RV men’s restroom for the Grip and the box behind the gas station for the Plunger. Interact with each exposed part while you have the M.A.D. so the attachment is actually collected.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/6ljar6/attack_of_the_radioactive_thing_easter_egg_hunt/"
+      },
+      {
+        "title": "Crank and fire the upgraded charged shot",
+        "body": "After fitting the three parts, hold the aim control to crank and charge the weapon before firing. The original demonstration shows a larger blast after charging. Check your remaining ammunition and stop to refill when needed. For the separate arcade-cabinet interaction, use the linked Skull Hop route.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=Lapia5bo-dg"
+      },
+      {
+        "title": "Use the radioactive refill interaction",
+        "body": "CodeNamePizza’s original demonstration shows the upgraded M.A.D. refilling at the radioactive green orbs around the map. Use the available interaction and confirm ammunition actually increases. Exact recharge intervals and current-mode refill behavior remain unconfirmed; the video’s unlimited-ammo enthusiasm is not a guarantee that every orb is always available.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=Lapia5bo-dg"
+      }
+    ],
+    "sourceOmissions": [
+      "This route covers the three panel attachments. A separate Pack-a-Punch tier, exact part-specific stat changes, charge ammo cost and egg recharge interval are not newly certified.",
+      "Keep the M.A.D. available while collecting the panel parts, and check that each part actually attaches before leaving."
+    ],
+    "sources": [
+      {
+        "title": "The_Beebat/bicoezbluntkid: original map breakdown",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+      },
+      {
+        "title": "Original community hunt: named parts",
+        "url": "https://www.reddit.com/r/CODZombies/comments/6ljar6/attack_of_the_radioactive_thing_easter_egg_hunt/"
+      },
+      {
+        "title": "CodeNamePizza (2017)",
+        "url": "https://www.youtube.com/watch?v=Lapia5bo-dg"
+      }
+    ],
+    "checked": "2026-10-18",
+    "relatedGuideIds": [
+      "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-map-walkthrough-melee-weapons",
+      "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-easter-eggs-skullhop"
+    ],
+    "supplementNote": "The original excerpts remain attributed. Added chapters and field notes explain their order, tools and limits."
+  },
+  "attack-of-the-radioactive-thing-easter-eggs-hidden-song": {
+    "title": "Brachyura Boogie: five hidden vinyl records",
+    "players": "Solo or co-op; read quest conditions",
+    "summary": "Find the five record locations for the map’s hidden song, with the standard quest kept separate from Director’s Cut lobby music.",
+    "requirements": [
+      "Open access to the Power Station, Beachside Market, open RV, Snack Shack and motel.",
+      "Use your current game’s record interaction feedback. A separate jukebox prerequisite remains unconfirmed by the newer source route."
+    ],
+    "reward": "The Brachyura Boogie hidden-song activation described by the source.",
+    "steps": [
+      {
+        "title": "Original five vinyl locations",
+        "body": "Find all the vinyl records around the map. Locations: * Next to the Power Switch * Underneath a cash register in the Beachside Market * Underneath the table in the open RV * Underneath a blue tarp near the Snack Shack * In a trash can at the Motel You can listen to 'Brachyura Boogie' here: https://youtu.be/8BpvvCj-wDs",
+        "html": "<p>Find all the vinyl records around the map. Locations:</p>\n<ul>\n<li><a href=\"https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/\" target=\"_blank\" rel=\"noopener noreferrer\">Next to the Power Switch (in the original source)</a></li>\n<li><a href=\"https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/\" target=\"_blank\" rel=\"noopener noreferrer\">Underneath a cash register in the Beachside Market (in the original source)</a></li>\n<li><a href=\"https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/\" target=\"_blank\" rel=\"noopener noreferrer\">Underneath the table in the open RV (in the original source)</a></li>\n<li><a href=\"https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/\" target=\"_blank\" rel=\"noopener noreferrer\">Underneath a blue tarp near the Snack Shack (in the original source)</a></li>\n<li><a href=\"https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/\" target=\"_blank\" rel=\"noopener noreferrer\">In a trash can at the Motel (in the original source)</a></li>\n</ul>\n<p>You can listen to &#x27;Brachyura Boogie&#x27; here: <a href=\"https://youtu.be/8BpvvCj-wDs\" target=\"_blank\" rel=\"noopener noreferrer\">https://youtu.be/8BpvvCj-wDs</a></p>\n<hr>"
+      },
+      {
+        "title": "Search the five separate record areas",
+        "body": "Use the Power Station-side record first as a landmark, then check under a Beachside Market cash register, underneath the table in the accessible RV, beneath the blue tarp near the Snack Shack and inside the motel trash can. Count distinct records rather than revisiting one object and assuming it replaces the remaining locations.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+      }
+    ],
+    "sourceOmissions": [
+      "The original quoted list supplies five locations but does not explain the input action, prompt visibility or a full restart/replay rule. Native activation confirmation remains pending.",
+      "An early hunt version added three jukebox interactions; the later wiki omits them. They are not promoted here as a universal prerequisite."
+    ],
+    "sources": [
+      {
+        "title": "The_Beebat/bicoezbluntkid: original map breakdown",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+      }
+    ],
+    "checked": "2026-10-18",
+    "relatedGuideIds": [
+      "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-director-s-cut-extras-lobby-music"
+    ],
+    "supplementNote": "The original excerpts remain attributed. Added chapters and field notes explain their order, tools and limits."
+  },
+  "attack-of-the-radioactive-thing-easter-eggs-message-rerouted-secret-calling-card": {
+    "title": "Message Rerouted: shoot the distant cliff object",
+    "players": "Solo or co-op; read quest conditions",
+    "summary": "Use a sniper to hit the small rod-like object on the cliff near the Mason’s sign and Tuff ’Nuff area.",
+    "requirements": [
+      "Acquire a sniper rifle and reach the street near Tuff ’Nuff and the Mason’s sign.",
+      "This is a small distant target, separate from the Skull Hop tokens."
+    ],
+    "reward": "The Message Rerouted secret calling card when the shot registers.",
+    "steps": [
+      {
+        "title": "Original sniper target instruction",
+        "body": "1. Shoot a rod sticking out of a rock to the left of the Mason's sign with a sniper rifle. Upon Completion you are awarded with this Calling Card .",
+        "html": "<ol>\n<li><a href=\"https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/\" target=\"_blank\" rel=\"noopener noreferrer\">Shoot a rod sticking out of a rock to the left of the Mason&#x27;s sign with a sniper rifle. (in the original source)</a></li>\n</ol>\n<p>Upon Completion you are awarded with <a href=\"https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/\" target=\"_blank\" rel=\"noopener noreferrer\">this Calling Card (in the original source)</a> .</p>\n<hr>"
+      },
+      {
+        "title": "Confirm the calling-card completion",
+        "body": "Stand near the Tuff ’Nuff/Mason’s sign street and use the sniper scope to locate the thin object protruding from the distant rock. Shoot that object and check for the Message Rerouted completion notification. The original tutorial’s author describes the card registering from this shot; it is not a multi-part collection quest.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=JuM1yuxTnqg"
+      }
+    ],
+    "sourceOmissions": [
+      "The author-written original tutorial description supports the action. Exact native sightline and hitbox photos remain pending; no lore-transfer claim is required."
+    ],
+    "sources": [
+      {
+        "title": "The_Beebat/bicoezbluntkid: original map breakdown",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+      },
+      {
+        "title": "DizzyOP: original calling-card tutorial",
+        "url": "https://www.youtube.com/watch?v=JuM1yuxTnqg"
+      }
+    ],
+    "checked": "2026-10-18",
+    "relatedGuideIds": [
+      "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-easter-eggs-skullhop"
+    ],
+    "supplementNote": "The original excerpts remain attributed. Added chapters and field notes explain their order, tools and limits."
+  },
+  "attack-of-the-radioactive-thing-easter-eggs-make-em-squeal-secret-calling-card": {
+    "title": "Make ’Em Squeal: feed Fat to the toilet head",
+    "players": "Solo or co-op; read quest conditions",
+    "summary": "Get Fat with the Cleaver, carry it to the RV restroom and interact with the emerging head at the middle stall.",
+    "requirements": [
+      "Collect the Cleaver from the market shark, then use it on the freezer pig/meat to obtain Fat.",
+      "Carry the Fat to the RV Park restroom before attempting the head interaction."
+    ],
+    "reward": "The Make ’Em Squeal secret calling-card challenge, described as feeding the hungry.",
+    "steps": [
+      {
+        "title": "Collect Fat with the Cleaver",
+        "body": "1. Melee the left most pig body inside the freezer on the market with a Cleaver to obtain Fat.",
+        "html": "<ol>\n<li>Melee the left most pig body inside the freezer on the market with a Cleaver to obtain Fat.</li>\n</ol>"
+      },
+      {
+        "title": "Prone at the closed middle stall and interact",
+        "body": "2. Go to the bathrooms in the RV Park, in the middle stall that is closed, go prone and you will see a zombie head pop out of it. Hold square once hes fully raised out of the toilet with the Fat in your inventory and it will give the fat to the zombie. Upon Completion you are rewarded with this Calling Card .",
+        "html": "<ol start=\"2\">\n<li>Go to the bathrooms in the RV Park, in the middle stall that is closed, go prone and you will see a zombie head pop out of it. Hold square once hes fully raised out of the toilet with the Fat in your inventory and it will give the fat to the zombie.</li>\n</ol>\n<p>Upon Completion you are rewarded with <a href=\"https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/\" target=\"_blank\" rel=\"noopener noreferrer\">this Calling Card (in the original source)</a> .</p>\n<hr>"
+      },
+      {
+        "title": "Keep the Fat for the emerging head",
+        "body": "After collecting Fat from the freezer meat, go to the trailer-park bathroom and lie prone beside the closed middle stall. Wait until the zombie head rises into reach and use the interact control to feed it. Check the calling-card notification; the feeding action is the objective, not simply spotting the head.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=ILgp6cbjsig"
+      }
+    ],
+    "sourceOmissions": [
+      "The author-written original tutorial description confirms the route. A universal one-attempt rule or exact interaction window is not newly certified."
+    ],
+    "sources": [
+      {
+        "title": "The_Beebat/bicoezbluntkid: original map breakdown",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+      },
+      {
+        "title": "DizzyOP: original feeding tutorial",
+        "url": "https://www.youtube.com/watch?v=ILgp6cbjsig"
+      }
+    ],
+    "checked": "2026-10-18",
+    "relatedGuideIds": [
+      "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-map-walkthrough-melee-weapons"
+    ],
+    "supplementNote": "The original excerpts remain attributed. Added chapters and field notes explain their order, tools and limits."
+  },
+  "attack-of-the-radioactive-thing-director-s-cut-extras-lobby-music": {
+    "title": "Director’s Cut lobby music: Scene 1 camera mask",
+    "players": "Director’s Cut; Scene 1",
+    "summary": "In Director’s Cut on Scene 1, shoot the white mask inside the studio camera for three lobby tracks.",
+    "requirements": [
+      "Unlock Director’s Cut by recovering the five Soul Key pieces, and start with that mode active.",
+      "Do this on Scene 1; open a route to Elvira’s studio before advancing the scene."
+    ],
+    "reward": "The source’s Trail Blazers, Blue Bolts and Change Chews lobby tracks.",
+    "steps": [
+      {
+        "title": "Enter Director’s Cut after the Soul Key unlock",
+        "body": "1. Obtain all 5 Pieces to the Soul Key, activate Director's Cut.",
+        "html": "<ol>\n<li>Obtain all 5 Pieces to the Soul Key, activate Director&#x27;s Cut.</li>\n</ol>"
+      },
+      {
+        "title": "Shoot the studio camera’s white mask on Scene 1",
+        "body": "2. On Scene 1 and make your way to Elvira's studio and in one of the green cameras next to the MacTav wallbuy the white Talisman mask will be sitting inside it. Shoot it to obtain the new Lobby Music. After shooting the Talisman mask you will unlock the Trail Blazers. Blue Bolts, and Change Chews Lobby Music.",
+        "html": "<ol start=\"2\">\n<li>On Scene 1 and make your way to Elvira&#x27;s studio and <a href=\"https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/\" target=\"_blank\" rel=\"noopener noreferrer\">in one of the green cameras next to the MacTav wallbuy (in the original source)</a> the white Talisman mask will be sitting inside it. Shoot it to obtain the new Lobby Music.</li>\n</ol>\n<p>After shooting the Talisman mask you will unlock the Trail Blazers. Blue Bolts, and Change Chews Lobby Music.</p>\n<hr>"
+      },
+      {
+        "title": "Finish the camera interaction before ending Scene 1",
+        "body": "While Director’s Cut is active, reach the TV Studio and inspect the green camera beside the MacTav wall weapon. Look for the small white mask inside it and shoot that target while still on Scene 1. Keep this three-track unlock separate from collecting vinyl records elsewhere on the map.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+      }
+    ],
+    "sourceOmissions": [
+      "This is the Director’s Cut mask secret, separate from the five-vinyl Brachyura Boogie quest.",
+      "The source requires Scene 1. Exact cross-profile unlock persistence and current platform credit behavior remain untested."
+    ],
+    "sources": [
+      {
+        "title": "The_Beebat/bicoezbluntkid: original map breakdown",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+      }
+    ],
+    "checked": "2026-10-18",
+    "relatedGuideIds": [
+      "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-easter-eggs-hidden-song"
+    ],
+    "supplementNote": "The original excerpts remain attributed. Added chapters and field notes explain their order, tools and limits."
   }
 }

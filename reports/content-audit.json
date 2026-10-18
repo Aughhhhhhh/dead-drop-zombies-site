@@ -8,8 +8,8 @@
     "Newly authored guides may have source research without a separate recorded full audit. Guide counts and passing software checks do not establish gameplay accuracy."
   ],
   "catalogEntries": 160,
-  "runtimeGuides": 1515,
-  "guidesWithRecordedSourceReview": 772,
+  "runtimeGuides": 1522,
+  "guidesWithRecordedSourceReview": 800,
   "guidesCertifiedFullyVerified": 0,
   "batches": [
     {
@@ -319,6 +319,18 @@
     {
       "batch": "iw-attack-main-chemistry-and-native-puzzle-references",
       "rowsWithRecordedReview": 3
+    },
+    {
+      "batch": "bo3-der-eisendrache-ciphers-and-hidden-interactions",
+      "rowsWithRecordedReview": 6
+    },
+    {
+      "batch": "iw-attack-side-quests-devices-and-native-references",
+      "rowsWithRecordedReview": 22
+    },
+    {
+      "batch": "coldwar-outbreak-season-two-reloaded-named-intel-and-photos",
+      "rowsWithRecordedReview": 1
     }
   ],
   "guideReviews": [
@@ -21144,6 +21156,436 @@
       ]
     },
     {
+      "id": "bo3-der-eisendrache-cipher-decoder-reference",
+      "mapId": "bo3-der-eisendrache",
+      "reviews": [
+        {
+          "batch": "bo3-der-eisendrache-ciphers-and-hidden-interactions",
+          "reportedStatus": "Selected source-compared supplement within recorded limits; not independently playtested",
+          "independentlyPlaytested": false,
+          "unverified": [
+            "Readable native photos and a complete route to all eleven ciphers and the scrap fragments remain pending.",
+            "The full formula-board equations and plotting settings have not been transcribed or independently reproduced.",
+            "Semaphore verification covers the original solver’s letter transcription and number/separator handling; the actual flag angles were not visually checked.",
+            "Takeo’s letter is the retained community translation, with no independent Japanese translation or fragment-assembly check."
+          ],
+          "wholeGuideTextRead": true,
+          "allExistingStepsRead": true,
+          "stepChecks": [
+            {
+              "index": 1,
+              "title": "Identify a cipher by its heading or appearance",
+              "bodySha256": "3e86086748eea70b1cb646f2896ca7e40a06bf889440655fa64398a3bebde7aa",
+              "canonicalStepSha256": "e41192b03f4308e11272a8bd97bde1d501519c1a1137359081c4b6d605329bd7",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
+              ],
+              "treatment": "original explanation or labelled computed reading",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
+              ]
+            },
+            {
+              "index": 2,
+              "title": "MAXIS — find the monitor and build this square",
+              "bodySha256": "80af46cd0804f97d2378a5e07c8edf47c8f1b7a4fdecb4edce56d7dea406d01f",
+              "canonicalStepSha256": "cace0cb32f474b23cf951b8f2b42ed1ee1c56f37434b23e061c18b258fe58a79",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/comments/43yitz/der_eisendrache_maxis_cipher_decryptedspoiler/"
+              ],
+              "treatment": "original explanation or labelled computed reading",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/43yitz/der_eisendrache_maxis_cipher_decryptedspoiler/"
+              ]
+            },
+            {
+              "index": 3,
+              "title": "MAXIS — reverse the Bifid coordinates",
+              "bodySha256": "f17554404d7b247786b696340489ec1411ed5e5a942a8daefce962743f006ad7",
+              "canonicalStepSha256": "afc346dbf8ed0bcdbbe957f48671ea3a017384f0b270b13e49ef2b4c52da2246",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/comments/43yitz/der_eisendrache_maxis_cipher_decryptedspoiler/"
+              ],
+              "treatment": "original explanation or labelled computed reading",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/43yitz/der_eisendrache_maxis_cipher_decryptedspoiler/"
+              ]
+            },
+            {
+              "index": 4,
+              "title": "MAXIS — literal reading and the VV spelling",
+              "bodySha256": "360b9fafea9fbfe092c3bd58def923f33f41300346db9feed9d4f2056cbb6570",
+              "canonicalStepSha256": "88da178a47813e8f8091e234797cad1cacf898ef7c67a92dd9a49d5534e49f8b",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/comments/43yitz/der_eisendrache_maxis_cipher_decryptedspoiler/"
+              ],
+              "treatment": "attributed source quotation",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/43yitz/der_eisendrache_maxis_cipher_decryptedspoiler/"
+              ]
+            },
+            {
+              "index": 5,
+              "title": "TESTSUBJECT — use a V/W Playfair square",
+              "bodySha256": "63521e70f0f37a83f3465364b2c30f79ee6bd9917ca98e90ed8c62f054130bca",
+              "canonicalStepSha256": "f485d53900f8638db208cd58ad36cf33bce3526bf0dddedb9f75014e4edb3d2e",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/comments/43vfxw/der_eisendrache_testsubject_cipher_solvedspoiler/"
+              ],
+              "treatment": "original explanation or labelled computed reading",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/43vfxw/der_eisendrache_testsubject_cipher_solvedspoiler/"
+              ]
+            },
+            {
+              "index": 6,
+              "title": "TESTSUBJECT — preserve real Xs",
+              "bodySha256": "1ce6b2b60ec0bbf5aeef08b6b361141e01a606160eada1418eeb01c9fc3965c6",
+              "canonicalStepSha256": "69e0316571f376e92ad44284f59ce49b988cdc0617c47070de26dbf9d5df449f",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/comments/43vfxw/der_eisendrache_testsubject_cipher_solvedspoiler/"
+              ],
+              "treatment": "original explanation or labelled computed reading",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/43vfxw/der_eisendrache_testsubject_cipher_solvedspoiler/"
+              ]
+            },
+            {
+              "index": 7,
+              "title": "TESTSUBJECT — original solver’s reading",
+              "bodySha256": "5c7a18ca90d4f0c77ac9bdb9fbbc4977b665ec2bc52b7b18680d635d8628c9b0",
+              "canonicalStepSha256": "fe4f7f979dfeafdd6c57b41bab15262c72e52b69b8c0e97572f8cfcf49ad920f",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/comments/43vfxw/der_eisendrache_testsubject_cipher_solvedspoiler/"
+              ],
+              "treatment": "attributed source quotation",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/43vfxw/der_eisendrache_testsubject_cipher_solvedspoiler/"
+              ]
+            },
+            {
+              "index": 8,
+              "title": "Navajo — translate tokens rather than single characters",
+              "bodySha256": "279b34ac96230b180876bd7a1913908a8d263ff6a53ac62496a629e63e5b3903",
+              "canonicalStepSha256": "69f7691f2f85694331d2336d325d5eaf3571aacaf6bdd42d8aea09cce7e5d8f6",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/comments/44ascs/samanthas_bedroom_code_solvedspoiler/"
+              ],
+              "treatment": "original explanation or labelled computed reading",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/44ascs/samanthas_bedroom_code_solvedspoiler/"
+              ]
+            },
+            {
+              "index": 9,
+              "title": "Navajo — input and literal result",
+              "bodySha256": "96d423af4ece4f4ec7e9062bb21010bd9c8c045369551b0ffbadd74bf205fd30",
+              "canonicalStepSha256": "a6e321d1f65283da0c392d80e70159e1e384149699cd234fac4daaf972431854",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/comments/44ascs/samanthas_bedroom_code_solvedspoiler/"
+              ],
+              "treatment": "original explanation or labelled computed reading",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/44ascs/samanthas_bedroom_code_solvedspoiler/"
+              ]
+            },
+            {
+              "index": 10,
+              "title": "198346572 — keep the missing character",
+              "bodySha256": "ab1b35383ba58765682153127497670e421071fabb622904e99c51eda4e69d65",
+              "canonicalStepSha256": "3edbf8f8080565c13928a335a45bad09e97d617e73d310d431d0d4ff82316b84",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/comments/450dqp/198346572_cipher_solvedspoiler/"
+              ],
+              "treatment": "original explanation or labelled computed reading",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/450dqp/198346572_cipher_solvedspoiler/"
+              ]
+            },
+            {
+              "index": 11,
+              "title": "198346572 — original solver’s ciphertext",
+              "bodySha256": "bef5c7bd5e6d2fce1c5c9b1ac99dc831e4939185f75aede6c4a51107f42c7f82",
+              "canonicalStepSha256": "426c0d099f46387983bd6267ba877aefe7ed30ae79d1268c9dd20a0e2f8d637a",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/comments/450dqp/198346572_cipher_solvedspoiler/"
+              ],
+              "treatment": "attributed source quotation",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/450dqp/198346572_cipher_solvedspoiler/"
+              ]
+            },
+            {
+              "index": 12,
+              "title": "198346572 — rebuild the 2–1 AMSCO cells",
+              "bodySha256": "4e0cd5531812ac491e6c6952cdd86474d428ef15d4a2bbd69f144ab759aa9981",
+              "canonicalStepSha256": "e5710299c6c5babd309d8b7b1589035684fea1e351023c1b85194e02eb5a2aeb",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/comments/450dqp/198346572_cipher_solvedspoiler/"
+              ],
+              "treatment": "original explanation or labelled computed reading",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/450dqp/198346572_cipher_solvedspoiler/"
+              ]
+            },
+            {
+              "index": 13,
+              "title": "198346572 — solver’s reading, with the blank interpreted as T",
+              "bodySha256": "6f5e143b276e7e2c936bfffda1fc6d6785f2a3beebec5368aa0a16a3e90cd504",
+              "canonicalStepSha256": "ce139ce839cf2e49aa1fb383672f56eabe49d9a2a746372bd6050e690a57cf5a",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/comments/450dqp/198346572_cipher_solvedspoiler/"
+              ],
+              "treatment": "attributed source quotation",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/450dqp/198346572_cipher_solvedspoiler/"
+              ]
+            },
+            {
+              "index": 14,
+              "title": "Trithemius — subtract a growing shift",
+              "bodySha256": "a6832088c07c39bbf60f47391173b7aed227512f27752e787fb5c86e28437504",
+              "canonicalStepSha256": "d5f3e6369c6f366bd3782a8781e9ba75966a9cc2b2a2777aa83c9574e812a6d4",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
+              ],
+              "treatment": "original explanation or labelled computed reading",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
+              ]
+            },
+            {
+              "index": 15,
+              "title": "Trithemius — the Great Battle message",
+              "bodySha256": "9a6d4d8ed335c550ccf18dad18cd775ed34b4e1cbb1a7f4955bbe24f45a49c43",
+              "canonicalStepSha256": "750ee638f916bd83aa4bff0ecb8b5a132e212fa65a39cd792edc4512f4b1b5cc",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
+              ],
+              "treatment": "attributed source quotation",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
+              ]
+            },
+            {
+              "index": 16,
+              "title": "Peter’s numbers — use two-digit homophones",
+              "bodySha256": "c2b1074efc5844af07e62836bae9f8a6791c910ced55a559f5e19750feab3dc3",
+              "canonicalStepSha256": "807c5317663006d1cae1b32079a2d900c08d9617c40e3c108c2cecda9c08f1ec",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
+              ],
+              "treatment": "original explanation or labelled computed reading",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
+              ]
+            },
+            {
+              "index": 17,
+              "title": "Peter’s numbers — retained ciphertext",
+              "bodySha256": "9a43611303c4608e4ac098360677af1f497563ad9f5da62fb52a066af32c5a34",
+              "canonicalStepSha256": "b7058d60ecdf1a87659544409f0da8e7ca91fe44569f713b0c882e1e13e5bb98",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
+              ],
+              "treatment": "attributed source quotation",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
+              ]
+            },
+            {
+              "index": 18,
+              "title": "Peter’s numbers — computed reading",
+              "bodySha256": "90a6fa1e3c23e76f3408cad6d6bc7dd4ff3d641f0b8954afa98056163cfabb55",
+              "canonicalStepSha256": "8275d477e3acc4ae23f8a0ab8da078c6c82fdfadadae6ac05503f6a1de855167",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
+              ],
+              "treatment": "original explanation or labelled computed reading",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
+              ]
+            },
+            {
+              "index": 19,
+              "title": "Semaphore — keep separators and number mode separate",
+              "bodySha256": "44ff3fc093efc7f88859860b219de697661c37c67bc689819a0604cbc7cb8064",
+              "canonicalStepSha256": "619660d93bc7fbd810e62f0e94f6f8f285be3800c40d6fca6a02420cc9ffad0d",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/comments/43y3bn/spoilers_new_der_eisendrache_cipher_decoded/"
+              ],
+              "treatment": "original explanation or labelled computed reading",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/43y3bn/spoilers_new_der_eisendrache_cipher_decoded/"
+              ]
+            },
+            {
+              "index": 20,
+              "title": "Semaphore — original solver’s letter transcription",
+              "bodySha256": "fbeba2f2d7e02df181a54c667777010026fddb1f1abe7cc11593f35057de9e13",
+              "canonicalStepSha256": "6ba809335d7e7a36980c05b4713f78308d93bbdcf68199a429903f2c982a9f82",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/comments/43y3bn/spoilers_new_der_eisendrache_cipher_decoded/"
+              ],
+              "treatment": "attributed source quotation",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/43y3bn/spoilers_new_der_eisendrache_cipher_decoded/"
+              ]
+            },
+            {
+              "index": 21,
+              "title": "Semaphore — decoded Division 9 message",
+              "bodySha256": "dfda00625a3add97f77864d51444dd5d8ea6f318ee0cf80179af0378397eb52e",
+              "canonicalStepSha256": "f55cf177e2b73b243ce30b0b8150e5ee8b3499e0411c10f4c85d111528176960",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/comments/43y3bn/spoilers_new_der_eisendrache_cipher_decoded/"
+              ],
+              "treatment": "attributed source quotation",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/43y3bn/spoilers_new_der_eisendrache_cipher_decoded/"
+              ]
+            },
+            {
+              "index": 22,
+              "title": "Base64 — join the printed lines",
+              "bodySha256": "0755cfc172981139fe9c5618ada4a5c419527aa2c92a75712c5e04e01ac210df",
+              "canonicalStepSha256": "090f7aecfdcfed27ea74bd3b97222ed4679d5287fd79efb71273f05868d1c4dc",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
+              ],
+              "treatment": "original explanation or labelled computed reading",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
+              ]
+            },
+            {
+              "index": 23,
+              "title": "PURPLE — retained clocktower ciphertext",
+              "bodySha256": "0c0bdbb82d905032e796beabdc33257588bcc8e5f218500d00b398c695c0d174",
+              "canonicalStepSha256": "5b7c7d48a3021fac7d200aaf4692c5e049d9f195e7436e021f89252125057ffb",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
+              ],
+              "treatment": "attributed source quotation",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
+              ]
+            },
+            {
+              "index": 24,
+              "title": "PURPLE — reproduce the clocktower solution",
+              "bodySha256": "07a1578ded9f6855c6c2f49d039a6ce63f01641047c14170d6e646d4332e705c",
+              "canonicalStepSha256": "c53b9e4dcd369ab74fd8b0b296b3667bd1b696a4ac7ecb1ec3c21826c0179b68",
+              "evidence": [
+                "https://www.docdroid.net/d1mEjdT/der-eisendrache-clocktower-cipher-solution-pdf"
+              ],
+              "treatment": "original explanation or labelled computed reading",
+              "evidenceUrls": [
+                "https://www.docdroid.net/d1mEjdT/der-eisendrache-clocktower-cipher-solution-pdf"
+              ]
+            },
+            {
+              "index": 25,
+              "title": "PURPLE — computed reading",
+              "bodySha256": "9703a56a45671e8e398afcc511b6e9286244f18f2f9f646c5f20a40796ddf34c",
+              "canonicalStepSha256": "fde5f2593a6782ccb632520aab682623022d1cc6ddfaae9dfc81a21fd304c2ce",
+              "evidence": [
+                "https://www.docdroid.net/d1mEjdT/der-eisendrache-clocktower-cipher-solution-pdf"
+              ],
+              "treatment": "original explanation or labelled computed reading",
+              "evidenceUrls": [
+                "https://www.docdroid.net/d1mEjdT/der-eisendrache-clocktower-cipher-solution-pdf"
+              ]
+            },
+            {
+              "index": 26,
+              "title": "The Castle — preserve the spaces in this input",
+              "bodySha256": "c75ca17a4f970e8d31a54c8daf61c4c71971f476f7868ebe5e73251557dc33ae",
+              "canonicalStepSha256": "843c8057df9eaae931f0e7de687e579936430e366775738974457b952c69a450",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
+              ],
+              "treatment": "attributed source quotation",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
+              ]
+            },
+            {
+              "index": 27,
+              "title": "The Castle — reverse both columnar transpositions",
+              "bodySha256": "7ff2de7bf374d564f7991fb64df9a0aa435121a388fdd04af15ab5586c580b04",
+              "canonicalStepSha256": "bb45e8a0ecdc006cee1ac438456408c8090c80d3e0118a64d2b792239a12a3f9",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
+              ],
+              "treatment": "original explanation or labelled computed reading",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
+              ]
+            },
+            {
+              "index": 28,
+              "title": "The Castle — computed reading",
+              "bodySha256": "510ed86691a057fa6b1592398993a6e72b02d57a9175f791ee4b6f225fd6ae89",
+              "canonicalStepSha256": "5c41a688f5ed0c8c4a1f14ede5a7fd66e15e324628acda4640717791875ac272",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
+              ],
+              "treatment": "original explanation or labelled computed reading",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
+              ]
+            },
+            {
+              "index": 29,
+              "title": "Formula boards — credited decoded message",
+              "bodySha256": "64bac3a1bc5719d915e4a8dd9cb95d50c0c43266cbf44d5ea678b9f91a2a606e",
+              "canonicalStepSha256": "84d20219fc18e02cd1989dbb36500a7bfb65e24f072886437b6e0088e23fd1bb",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
+              ],
+              "treatment": "attributed source quotation",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
+              ]
+            },
+            {
+              "index": 30,
+              "title": "Takeo’s letter to the Emperor — full retained translation",
+              "bodySha256": "2ffe3ba8d9381e33945ca186b54459f71821528a6e8895546793048b4c9b2203",
+              "canonicalStepSha256": "5853de5ed5183a0589fc84be34fed9c71ebb9361a34bef62f1d05d9482177aa1",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
+              ],
+              "treatment": "attributed source quotation",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
+              ]
+            }
+          ],
+          "requirementsAndRewardReviewed": true,
+          "imageReview": {
+            "images": 6,
+            "nativeFrames": 0,
+            "originalDiagrams": 6,
+            "allSelectedAssetsPixelReviewed": true,
+            "limits": "Only the named targets shown in retained native stills are claimed photographed; diagrams are explicitly labelled."
+          },
+          "evidenceUrls": [
+            "https://pypi.org/project/purple/",
+            "https://rumkin.com/tools/cipher/ubchi/",
+            "https://www.docdroid.net/d1mEjdT/der-eisendrache-clocktower-cipher-solution-pdf",
+            "https://www.reddit.com/r/CODZombies/comments/43vfxw/der_eisendrache_testsubject_cipher_solvedspoiler/",
+            "https://www.reddit.com/r/CODZombies/comments/43y3bn/spoilers_new_der_eisendrache_cipher_decoded/",
+            "https://www.reddit.com/r/CODZombies/comments/43yitz/der_eisendrache_maxis_cipher_decryptedspoiler/",
+            "https://www.reddit.com/r/CODZombies/comments/44ascs/samanthas_bedroom_code_solvedspoiler/",
+            "https://www.reddit.com/r/CODZombies/comments/450dqp/198346572_cipher_solvedspoiler/",
+            "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
+          ]
+        }
+      ]
+    },
+    {
       "id": "bo3-der-eisendrache-community-der-eisendrache-buildables-ragnarok-dg-4-specialist-weapon",
       "mapId": "bo3-der-eisendrache",
       "reviews": [
@@ -23826,6 +24268,321 @@
       ]
     },
     {
+      "id": "bo3-der-eisendrache-five-lore-radios",
+      "mapId": "bo3-der-eisendrache",
+      "reviews": [
+        {
+          "batch": "bo3-der-eisendrache-ciphers-and-hidden-interactions",
+          "reportedStatus": "Selected source-compared supplement within recorded limits; not independently playtested",
+          "independentlyPlaytested": false,
+          "unverified": [
+            "Other reachable recorders’ Interact controls are inferred; button prompts, replay and overlapping audio remain unverified.",
+            "The bedroom image is dark room context and the inaccessible radio is photographed through fog. Community transcript wording is retained without silently repairing transcription differences."
+          ],
+          "wholeGuideTextRead": true,
+          "allExistingStepsRead": true,
+          "stepChecks": [
+            {
+              "index": 1,
+              "title": "Follow each recording with its transcript",
+              "bodySha256": "d8612039bad604177b88ad251559e861b0ab1bd46bd7790615c76431086dcedc",
+              "canonicalStepSha256": "855e25f7e139d1e5339580709613f900269680182137042b5ac76f51862347e5",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/comments/43so4y/"
+              ],
+              "treatment": "original explanation or labelled computed reading",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/43so4y/"
+              ]
+            },
+            {
+              "index": 2,
+              "title": "Bedroom — Division 9 field trials",
+              "bodySha256": "45184194bb6fdbd76106b8123c8b995508b195fa99c0cac9c868bf41919f2235",
+              "canonicalStepSha256": "ff6e92d90203263e7c4dd621632f66ec38357b215bbb8a27731136e2e26bc368",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/comments/43so4y/"
+              ],
+              "treatment": "original explanation or labelled computed reading",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/43so4y/"
+              ]
+            },
+            {
+              "index": 3,
+              "title": "Bedroom transcript — community Radio #5",
+              "bodySha256": "566f6bb4bf43a8e2b332a0dde0449348cf2238e62200449f88ce0ad665f62208",
+              "canonicalStepSha256": "aa44899a8a2704ed4d1e102b0f80d2c070120a369b9a948d1b3ebe44b349f342",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
+              ],
+              "treatment": "attributed source quotation",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
+              ]
+            },
+            {
+              "index": 4,
+              "title": "Knight-room window — shoot the radio",
+              "bodySha256": "41fc5c0cbb61c8ea56c6116e5b0f45fabbb3e19ac2852c5ff84ab9817618f1a5",
+              "canonicalStepSha256": "b22855dfdd9ebdb5c3fed32931ed6d4144f1ef741b2bf2f4fa0635f0eba3908c",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/comments/43zizx/spoilers_der_eisendrache_easter_egg_megathread/"
+              ],
+              "treatment": "original explanation or labelled computed reading",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/43zizx/spoilers_der_eisendrache_easter_egg_megathread/"
+              ]
+            },
+            {
+              "index": 5,
+              "title": "Knight-room transcript — community Radio #1",
+              "bodySha256": "32b9e0436a71688071e44e99153ece40c70b0454c352ed76ec15d60943331160",
+              "canonicalStepSha256": "f83e23b9516fcc601ec224f4109832b65ac3f049a168695c040644e3cc633931",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
+              ],
+              "treatment": "attributed source quotation",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
+              ]
+            },
+            {
+              "index": 6,
+              "title": "Bell tower — green desk screen",
+              "bodySha256": "85d8ba857ba963064744779adfdadd80a6553664f19d5f37debca710582d710c",
+              "canonicalStepSha256": "22a87decad14dc45e3e2fc0f9435c1ee4a24034c6c5bc5c74c100742fe5011cf",
+              "evidence": [
+                "https://www.youtube.com/watch?v=BWUzlG2LETU"
+              ],
+              "treatment": "original explanation or labelled computed reading",
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=BWUzlG2LETU"
+              ]
+            },
+            {
+              "index": 7,
+              "title": "Bell-tower transcript — community Radio #3",
+              "bodySha256": "4cb4f20b861fb58bb5821e42de4603400edee06013388e53c3adf19c2607fa32",
+              "canonicalStepSha256": "507daaf74c2f2d9548992ffb19ceb05e87f4e81a983e20cdb9b49e4d1bda37a0",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
+              ],
+              "treatment": "attributed source quotation",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
+              ]
+            },
+            {
+              "index": 8,
+              "title": "Teleporter lab — beside the safe",
+              "bodySha256": "09629fb1a8b7553f7557604261ecfc3e399afa53c75ed5ac2d5d60b73556131c",
+              "canonicalStepSha256": "e05a981b3207c0610e11763dd4c8ec1c2d399d9a991cf68163fd785f17e97cc7",
+              "evidence": [
+                "https://www.youtube.com/watch?v=BWUzlG2LETU"
+              ],
+              "treatment": "original explanation or labelled computed reading",
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=BWUzlG2LETU"
+              ]
+            },
+            {
+              "index": 9,
+              "title": "Teleporter-lab transcript — community Radio #4",
+              "bodySha256": "189b40802119b06fdbe6631dd11f6fb93eb914c81af71195980e0bcd80e336cd",
+              "canonicalStepSha256": "c0a4b78a04678ab856f3ba24c0fcbde0f492fc26f92b4f9d1f58093c8039697d",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
+              ],
+              "treatment": "attributed source quotation",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
+              ]
+            },
+            {
+              "index": 10,
+              "title": "Church — lamp and small table",
+              "bodySha256": "9335cf2080f85e50a5b508d5f7773cc8faa5669bdf05eb5b6983272ec1460855",
+              "canonicalStepSha256": "b10366b9e63d1c23355dbc46fc1563db84940b81cd6301f408d592016a4e2984",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/comments/43so4y/"
+              ],
+              "treatment": "original explanation or labelled computed reading",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/43so4y/"
+              ]
+            },
+            {
+              "index": 11,
+              "title": "Church transcript — community Radio #2",
+              "bodySha256": "d3e2ee5837d62c61a664871449d601dfc21699e33be19e5502bc4e48ab4aa65e",
+              "canonicalStepSha256": "1b80d50f991003a643452c147a9e32886b3374b3c5456cd39ff94ceff98aa037",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
+              ],
+              "treatment": "attributed source quotation",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
+              ]
+            }
+          ],
+          "requirementsAndRewardReviewed": true,
+          "imageReview": {
+            "images": 5,
+            "nativeFrames": 5,
+            "originalDiagrams": 0,
+            "allSelectedAssetsPixelReviewed": true,
+            "limits": "Only the named targets shown in retained native stills are claimed photographed; diagrams are explicitly labelled."
+          },
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/43so4y/",
+            "https://www.reddit.com/r/CODZombies/comments/43zizx/spoilers_der_eisendrache_easter_egg_megathread/",
+            "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+            "https://www.youtube.com/watch?v=BWUzlG2LETU"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-der-eisendrache-free-death-machine",
+      "mapId": "bo3-der-eisendrache",
+      "reviews": [
+        {
+          "batch": "bo3-der-eisendrache-ciphers-and-hidden-interactions",
+          "reportedStatus": "Selected source-compared supplement within recorded limits; not independently playtested",
+          "independentlyPlaytested": false,
+          "unverified": [
+            "The exact floating pickup is not pictured. Respawn frequency, failure resets, pickup lifetime and separate co-op behavior were not established."
+          ],
+          "wholeGuideTextRead": true,
+          "allExistingStepsRead": true,
+          "stepChecks": [
+            {
+              "index": 1,
+              "title": "Start anti-gravity in the pyramid room",
+              "bodySha256": "502f30888dfd0c628e9cd90dae1e03cd78a1d6592071dfaba748fad9d09ee3ca",
+              "canonicalStepSha256": "36d52ca7db8a816adc80346e8d0ac86f07f5e9ce7407ede7bcad3ec5b4035659",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
+              ],
+              "treatment": "original explanation or labelled computed reading",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
+              ]
+            },
+            {
+              "index": 2,
+              "title": "Touch the blue wall trigger",
+              "bodySha256": "99fd1cb2b74b8eed0b1c4f149194fa5941e475439559755af42bc7950a78bae6",
+              "canonicalStepSha256": "ab0e55d37d9fe11ae918a10872f8a9e3624a4d3e2e39edcd9b006429f881f820",
+              "evidence": [
+                "https://www.youtube.com/watch?v=BWUzlG2LETU"
+              ],
+              "treatment": "original explanation or labelled computed reading",
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=BWUzlG2LETU"
+              ]
+            },
+            {
+              "index": 3,
+              "title": "Collect the drop beside the wall",
+              "bodySha256": "a48edb264e77524ff683349b89fc36364cf119be222952636e9589aac5f01435",
+              "canonicalStepSha256": "c6b0636c411fd2dcc4daeb8ec46d6761cd596506c99b18c5235f1340e3d69ce2",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/comments/43zizx/spoilers_der_eisendrache_easter_egg_megathread/"
+              ],
+              "treatment": "original explanation or labelled computed reading",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/43zizx/spoilers_der_eisendrache_easter_egg_megathread/"
+              ]
+            }
+          ],
+          "requirementsAndRewardReviewed": true,
+          "imageReview": {
+            "images": 2,
+            "nativeFrames": 2,
+            "originalDiagrams": 0,
+            "allSelectedAssetsPixelReviewed": true,
+            "limits": "Only the named targets shown in retained native stills are claimed photographed; diagrams are explicitly labelled."
+          },
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/43so4y/",
+            "https://www.reddit.com/r/CODZombies/comments/43zizx/spoilers_der_eisendrache_easter_egg_megathread/",
+            "https://www.youtube.com/watch?v=BWUzlG2LETU"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-der-eisendrache-globe-disco",
+      "mapId": "bo3-der-eisendrache",
+      "reviews": [
+        {
+          "batch": "bo3-der-eisendrache-ciphers-and-hidden-interactions",
+          "reportedStatus": "Selected source-compared supplement within recorded limits; not independently playtested",
+          "independentlyPlaytested": false,
+          "unverified": [
+            "Exact alignment tolerance, duration, repeatability and other weapon compatibility were not tested."
+          ],
+          "wholeGuideTextRead": true,
+          "allExistingStepsRead": true,
+          "stepChecks": [
+            {
+              "index": 1,
+              "title": "Globe above the computers",
+              "bodySha256": "ae4971da7844e5ada52865fae175d55dcc578267e3a97d227cb3b1af0cacfa37",
+              "canonicalStepSha256": "4e2414dc7c2a50e21142385528c067fbf83418695fa909d839f68106dbce0468",
+              "evidence": [
+                "https://www.youtube.com/watch?v=BWUzlG2LETU"
+              ],
+              "treatment": "original explanation or labelled computed reading",
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=BWUzlG2LETU"
+              ]
+            },
+            {
+              "index": 2,
+              "title": "Stop the rocket and moon side by side",
+              "bodySha256": "0a5dd1079c9c45c995a173625e9875da771fbb7d0e757446b599a34af47f081e",
+              "canonicalStepSha256": "3bfbaf36850e450734e37d776634e297809b6e6c8ecfb7d8983d8e8536f476f1",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/comments/43zizx/spoilers_der_eisendrache_easter_egg_megathread/"
+              ],
+              "treatment": "original explanation or labelled computed reading",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/43zizx/spoilers_der_eisendrache_easter_egg_megathread/"
+              ]
+            },
+            {
+              "index": 3,
+              "title": "Watch for the disco effect",
+              "bodySha256": "53846fbedae5b04e70afef98180dbc621d493aea5caa951d3614d2a6c49ec09f",
+              "canonicalStepSha256": "f737e14a7bdc063da86e0149da9054986c6897a63ac3c973b2d688301ff585e4",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/comments/43zizx/spoilers_der_eisendrache_easter_egg_megathread/"
+              ],
+              "treatment": "original explanation or labelled computed reading",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/43zizx/spoilers_der_eisendrache_easter_egg_megathread/"
+              ]
+            }
+          ],
+          "requirementsAndRewardReviewed": true,
+          "imageReview": {
+            "images": 2,
+            "nativeFrames": 2,
+            "originalDiagrams": 0,
+            "allSelectedAssetsPixelReviewed": true,
+            "limits": "Only the named targets shown in retained native stills are claimed photographed; diagrams are explicitly labelled."
+          },
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/43zizx/spoilers_der_eisendrache_easter_egg_megathread/",
+            "https://www.youtube.com/watch?v=BWUzlG2LETU"
+          ]
+        }
+      ]
+    },
+    {
       "id": "bo3-der-eisendrache-lightning-bow",
       "mapId": "bo3-der-eisendrache",
       "reviews": [
@@ -24137,6 +24894,146 @@
             "https://www.reddit.com/r/CODZombies/comments/q9d7cw/bo3_can_you_solo_der_eisendrache_with_one_bow/",
             "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
             "https://www.youtube.com/watch?v=NhDv6R5YPEs"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-der-eisendrache-samantha-music-box",
+      "mapId": "bo3-der-eisendrache",
+      "reviews": [
+        {
+          "batch": "bo3-der-eisendrache-ciphers-and-hidden-interactions",
+          "reportedStatus": "Selected source-compared supplement within recorded limits; not independently playtested",
+          "independentlyPlaytested": false,
+          "unverified": [
+            "Exact playback duration and simultaneous-song behavior were not measured."
+          ],
+          "wholeGuideTextRead": true,
+          "allExistingStepsRead": true,
+          "stepChecks": [
+            {
+              "index": 1,
+              "title": "Find the box beside Samantha’s bed",
+              "bodySha256": "afec52a4a8287c2168fe31d907d6aecbea32d0d8fb219fc12ac48130f4e6f160",
+              "canonicalStepSha256": "cfd0c45d970796ab8d8a4237298a698f2840dcb83a9302485180bec16b5e12ed",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/comments/43zizx/spoilers_der_eisendrache_easter_egg_megathread/"
+              ],
+              "treatment": "original explanation or labelled computed reading",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/43zizx/spoilers_der_eisendrache_easter_egg_megathread/"
+              ]
+            },
+            {
+              "index": 2,
+              "title": "Hold Interact to play it",
+              "bodySha256": "a2ed5e1b67c7c8c0178adead88f8123b13a5d29990522fe0cffbbe81498ed36c",
+              "canonicalStepSha256": "736821baf1d206627c3783ba129844cc2fe4f71ce055ed8057e2029cf0d2f5d6",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/comments/43zizx/spoilers_der_eisendrache_easter_egg_megathread/"
+              ],
+              "treatment": "original explanation or labelled computed reading",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/43zizx/spoilers_der_eisendrache_easter_egg_megathread/"
+              ]
+            }
+          ],
+          "requirementsAndRewardReviewed": true,
+          "imageReview": {
+            "images": 1,
+            "nativeFrames": 1,
+            "originalDiagrams": 0,
+            "allSelectedAssetsPixelReviewed": true,
+            "limits": "Only the named targets shown in retained native stills are claimed photographed; diagrams are explicitly labelled."
+          },
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/43so4y/",
+            "https://www.reddit.com/r/CODZombies/comments/43zizx/spoilers_der_eisendrache_easter_egg_megathread/",
+            "https://www.youtube.com/watch?v=BWUzlG2LETU"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-der-eisendrache-three-gramophones",
+      "mapId": "bo3-der-eisendrache",
+      "reviews": [
+        {
+          "batch": "bo3-der-eisendrache-ciphers-and-hidden-interactions",
+          "reportedStatus": "Selected source-compared supplement within recorded limits; not independently playtested",
+          "independentlyPlaytested": false,
+          "unverified": [
+            "Track title, repeatability, exact duration and overlapping-audio behavior have not been verified."
+          ],
+          "wholeGuideTextRead": true,
+          "allExistingStepsRead": true,
+          "stepChecks": [
+            {
+              "index": 1,
+              "title": "Church — left from the courtyard entrance",
+              "bodySha256": "6bc510ccf3455731b7457ac6f82e4a36961520cc3abd41918660458e943cd864",
+              "canonicalStepSha256": "f17d42f5f1c28e8a8914c99fd3592e601b5cb7064e7619e847493779b94899cf",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/comments/43zizx/spoilers_der_eisendrache_easter_egg_megathread/"
+              ],
+              "treatment": "original explanation or labelled computed reading",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/43zizx/spoilers_der_eisendrache_easter_egg_megathread/"
+              ]
+            },
+            {
+              "index": 2,
+              "title": "Bedroom — first left after the Gatehouse bridge",
+              "bodySha256": "b9414339e38625bdc694c987ee384649ce4a1218ed90c9999991d2f83ef6daba",
+              "canonicalStepSha256": "1d5cfece82247a2da9fde2868fe61f314241a7eda2e0148cd4500ee0847ceffc",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/comments/43zizx/spoilers_der_eisendrache_easter_egg_megathread/"
+              ],
+              "treatment": "original explanation or labelled computed reading",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/43zizx/spoilers_der_eisendrache_easter_egg_megathread/"
+              ]
+            },
+            {
+              "index": 3,
+              "title": "Undercroft — debris facing the Wolf wall",
+              "bodySha256": "4936c7170d2b0a61a1651bb5e3afbcfd32c0c507adc6068ab962c54e4e33a806",
+              "canonicalStepSha256": "9e1b678a00976981b2beb32ad050f0ff905bdbbaaed00b178b045d535c1d99e6",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/comments/43zizx/spoilers_der_eisendrache_easter_egg_megathread/"
+              ],
+              "treatment": "original explanation or labelled computed reading",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/43zizx/spoilers_der_eisendrache_easter_egg_megathread/"
+              ]
+            },
+            {
+              "index": 4,
+              "title": "Listen after the third activation",
+              "bodySha256": "04edc7a7c3ddf0a4164d3a398381a38255ef8390aa4975172c312babf9a83391",
+              "canonicalStepSha256": "f6ab50587f7aea5dffbe12e1bbda40bc50b039badda7484cf18e0dd3f1e2dda0",
+              "evidence": [
+                "https://www.reddit.com/r/CODZombies/comments/43so4y/"
+              ],
+              "treatment": "original explanation or labelled computed reading",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/43so4y/"
+              ]
+            }
+          ],
+          "requirementsAndRewardReviewed": true,
+          "imageReview": {
+            "images": 3,
+            "nativeFrames": 3,
+            "originalDiagrams": 0,
+            "allSelectedAssetsPixelReviewed": true,
+            "limits": "Only the named targets shown in retained native stills are claimed photographed; diagrams are explicitly labelled."
+          },
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/43so4y/",
+            "https://www.reddit.com/r/CODZombies/comments/43zizx/spoilers_der_eisendrache_easter_egg_megathread/",
+            "https://www.youtube.com/watch?v=BWUzlG2LETU"
           ]
         }
       ]
@@ -52985,6 +53882,223 @@
           "evidenceUrls": [
             "https://www.reddit.com/r/CODZombies/comments/mgd49k/"
           ]
+        },
+        {
+          "batch": "coldwar-outbreak-season-two-reloaded-named-intel-and-photos",
+          "reportedStatus": "Integrated after parent final guide/image proof; current retail replay remains untested.",
+          "independentlyPlaytested": false,
+          "unverified": [
+            "The 29 historical stills illustrate 17 recorder locations and twelve regional transmitter stations. They do not show all31 distinct intel grants or every exact menu label.",
+            "Six selected frames show named collection toasts; the remaining23 use the visible object, native area HUD or documented location. After-pickup desk/shelf views are labelled as locations.",
+            "Current retail unlock/save behavior, offline and co-op credit, controlled radio limits and the two Trial grants were not replayed. Trial methods and the historical publisher fix retain their separate sources.",
+            "Ruka Maxis building is resolved as Creek Dacha. The lower pier shelf and Backwoods ground-floor desk replace the older field-note descriptions.",
+            "The full native description/date/chapter index was parent-reviewed. No transcript was available; no narration or uninterrupted full-game watch is claimed.",
+            "Later releases and every map Easter egg are outside this single-card review. Frozen Modern16 is a separate source audit with native media pending."
+          ],
+          "wholeGuideTextRead": true,
+          "allExistingStepsRead": true,
+          "originalStepCount": 7,
+          "stepChecks": [
+            {
+              "index": 1,
+              "title": "Start with the 31-entry release checklist",
+              "canonicalSha256": "864a3c5fdb9f8bff92fff9afbde6f16c7c94a39ebad4dbca7dc2569f2223a3c5",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/mgd49k/"
+              ]
+            },
+            {
+              "index": 2,
+              "title": "Ruka: Recon Rover Blues",
+              "canonicalSha256": "2e2617be61f102f9e3a5b962a395b471ad4ed7148078eef2aceaa551453b1af4",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/mgd49k/"
+              ]
+            },
+            {
+              "index": 3,
+              "title": "Ruka: Like Flies to Honey",
+              "canonicalSha256": "fcb6b5ef1675233b518d8ae62c79b383e1b0165124c0576c6250fa0367f3484c",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/mgd49k/"
+              ]
+            },
+            {
+              "index": 4,
+              "title": "Ruka: In The Wild",
+              "canonicalSha256": "528740601ac0fee54d947258930d826180ab3d825ab5f7a8594748af87a8f399",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/mgd49k/"
+              ]
+            },
+            {
+              "index": 5,
+              "title": "Ruka: Lightning Bugs",
+              "canonicalSha256": "57df27df22642600a19bcb9d52d4cf5925c1845c4b917607d4eca221116635a4",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/mgd49k/"
+              ]
+            },
+            {
+              "index": 6,
+              "title": "Ruka: Call Me Mac",
+              "canonicalSha256": "946bd117b1da7348765f5896f98676a27dee6255d84591bfc39e5c078252fff6",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/mgd49k/"
+              ]
+            },
+            {
+              "index": 7,
+              "title": "Alpine: Killer Crystals",
+              "canonicalSha256": "f40a98afce31182d0ba432bc0a385b798cdde9267c0089fb2b23aa2456164e9e",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/mgd49k/"
+              ]
+            },
+            {
+              "index": 8,
+              "title": "Alpine: A Grisly Affair",
+              "canonicalSha256": "1db9d45257243f6474974bf5f2576952fb48f563382c0376fbb24392971a324d",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/mgd49k/"
+              ]
+            },
+            {
+              "index": 9,
+              "title": "Alpine: Do What You Must",
+              "canonicalSha256": "e1e604cd7f3721df03e8cb27ec8cc4ab3630bdf00d2dccfe2bed1b1be755e69d",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/mgd49k/"
+              ]
+            },
+            {
+              "index": 10,
+              "title": "Alpine: My Reputation Precedes Me",
+              "canonicalSha256": "b462aafc1319c39ba4b8ff2273c10fbc48d17a45b89eab5e209597aacd62265b",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/mgd49k/"
+              ]
+            },
+            {
+              "index": 11,
+              "title": "Sanatorium: Quantum Entanglement",
+              "canonicalSha256": "0c2d2d59d862c0b72ba3f83d1182b317d2e710e7a27741b16066ef73f79493d4",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/mgd49k/"
+              ]
+            },
+            {
+              "index": 12,
+              "title": "Sanatorium: Proposed Targets",
+              "canonicalSha256": "1bb744a088d248e03b94e086bad79aeb45987237692abfcdd341b9f4fe77c996",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/mgd49k/"
+              ]
+            },
+            {
+              "index": 13,
+              "title": "Sanatorium: Something I can Use",
+              "canonicalSha256": "6a2531b092ef86d9c431a19d874f999f8f641812f64d4921d2977faf80954c33",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/mgd49k/"
+              ]
+            },
+            {
+              "index": 14,
+              "title": "Sanatorium: We've Both Been to Hell",
+              "canonicalSha256": "15b3cff69e62fa7b8ff0c94b042114981165fe33dbd51aa141012cc7eca89809",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/mgd49k/"
+              ]
+            },
+            {
+              "index": 15,
+              "title": "Golova: I See A Hierarchy",
+              "canonicalSha256": "6cd9ac95fc75edea95d2c316e780fbb3eaa4fa41eacfe3099834e68c8d646ef5",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/mgd49k/"
+              ]
+            },
+            {
+              "index": 16,
+              "title": "Golova: Off The Hook",
+              "canonicalSha256": "c2d32ade481df722227fffff77122b1a175c7c3765b486b3da75632d0b3be241",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/mgd49k/"
+              ]
+            },
+            {
+              "index": 17,
+              "title": "Golova: Ghost Stories",
+              "canonicalSha256": "9cdd7dd6fcacd1c9e79e64df5a72edb0e265820a39f6d423fe58a59b6b3c9a82",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/mgd49k/"
+              ]
+            },
+            {
+              "index": 18,
+              "title": "Golova: It's All Relative",
+              "canonicalSha256": "3f232dd7f9dcbb7cb087b37e6c0005fe17fe4ff49d6c8bb439b6f63b1d26a6a0",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/mgd49k/"
+              ]
+            },
+            {
+              "index": 19,
+              "title": "Plan fresh matches for faction transmissions",
+              "canonicalSha256": "e5ba415ee3d00bf8df8b26c98bdbfacddf83b41fc37b1e55d3cb779270f48544",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/mgjtqo/"
+              ]
+            },
+            {
+              "index": 20,
+              "title": "Requiem: radio transmissions",
+              "canonicalSha256": "aace9a7e5d7196df4ac5e240617bbbd756ee507cd2b03f464ef8d9d0155b5ada",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/mgd49k/"
+              ]
+            },
+            {
+              "index": 21,
+              "title": "Omega: radio transmissions",
+              "canonicalSha256": "f42dc284760daad39f6f088f6665297ad1d59cea9eac6a1420e35c28216b552a",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/mgd49k/"
+              ]
+            },
+            {
+              "index": 22,
+              "title": "Maxis: radio transmissions",
+              "canonicalSha256": "53b52af58db7f0977fa080e415356be5cbfa629dfb794ef227cb027b3be9de68",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/mgd49k/"
+              ]
+            },
+            {
+              "index": 23,
+              "title": "Dark Aether: radio transmissions",
+              "canonicalSha256": "7ccb8e08bee30db4bbace73e6e80f68faf3a7df9c1f0b2041aa9db614fd7356e",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/mgd49k/"
+              ]
+            }
+          ],
+          "requirementsAndRewardReviewed": true,
+          "imageReview": {
+            "nativeImagesInspectedByParent": 29,
+            "parentFinalMediaProofVerified": true,
+            "historicalSource": true,
+            "currentRetailReplay": false
+          },
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/mga0ow/",
+            "https://www.reddit.com/r/CODZombies/comments/mgd49k/",
+            "https://www.reddit.com/r/CODZombies/comments/mgjtqo/",
+            "https://www.treyarch.com/game-intel/2021/03/Season_Two_Reloaded_Arrives",
+            "https://www.treyarch.com/game-intel/2021/04/Season_Three_Begins_April_22",
+            "https://www.youtube.com/watch?v=bREGPHgXe6o"
+          ]
         }
       ]
     },
@@ -54942,6 +56056,231 @@
       ]
     },
     {
+      "id": "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-director-s-cut-extras-lobby-music",
+      "mapId": "iw-attack-of-the-radioactive-thing",
+      "reviews": [
+        {
+          "batch": "iw-attack-side-quests-devices-and-native-references",
+          "reportedStatus": "Integrated after parent complete-text and final-image review; no independent retail replay.",
+          "independentlyPlaytested": false,
+          "findings": [
+            "Both inherited Director’s Cut/Scene1/camera-mask chapters and three-track reward read against fresh source. Kept separate from vinyl song. Native camera pixels and cross-profile persistence remain unconfirmed."
+          ],
+          "unverified": [
+            "This is the Director’s Cut mask secret, separate from the five-vinyl Brachyura Boogie quest.",
+            "The source requires Scene 1. Exact cross-profile unlock persistence and current platform credit behavior remain untested."
+          ],
+          "wholeGuideTextRead": true,
+          "allExistingStepsRead": true,
+          "originalStepCount": 2,
+          "stepChecks": [
+            {
+              "index": 1,
+              "title": "Enter Director’s Cut after the Soul Key unlock",
+              "proposedStepSha256": "4ce2bb51959667f127f92d592bd3ef562d0a7983d10b5fe7320d49e404793fcb",
+              "primaryDisplayedSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/",
+              "kind": "attributed source quotation",
+              "allFieldsRead": true,
+              "review": "Both inherited Director’s Cut/Scene1/camera-mask chapters and three-track reward read against fresh source. Kept separate from vinyl song. Native camera pixels and cross-profile persistence remain unconfirmed.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+              ]
+            },
+            {
+              "index": 2,
+              "title": "Shoot the studio camera’s white mask on Scene 1",
+              "proposedStepSha256": "7d056a65e875b53dc29eeba0c43ea95546e2ab071fae033ff18429e62e2242b1",
+              "primaryDisplayedSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/",
+              "kind": "attributed source quotation",
+              "allFieldsRead": true,
+              "review": "Both inherited Director’s Cut/Scene1/camera-mask chapters and three-track reward read against fresh source. Kept separate from vinyl song. Native camera pixels and cross-profile persistence remain unconfirmed.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+              ]
+            },
+            {
+              "index": 3,
+              "title": "Finish the camera interaction before ending Scene 1",
+              "proposedStepSha256": "72017f1eba250c38ba9fe14bd948e29b7995e9aa265e870f9ccc354fbdea52bc",
+              "primaryDisplayedSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/",
+              "kind": "authored documentary explanation",
+              "allFieldsRead": true,
+              "review": "Both inherited Director’s Cut/Scene1/camera-mask chapters and three-track reward read against fresh source. Kept separate from vinyl song. Native camera pixels and cross-profile persistence remain unconfirmed.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+              ]
+            }
+          ],
+          "requirementsAndRewardReviewed": true,
+          "imageReview": {
+            "parentFinalReview": "output/catalog-batch16-parent-review.json",
+            "limits": "The bounded set contains12 individually inspected native photos plus one explicitly authored diagram. Optional calling-card and Director’s Cut camera photos, a clear full glyph-wall row and additional fuse-route photos remain pending; no unselected raw is approved media."
+          },
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-easter-eggs-hidden-song",
+      "mapId": "iw-attack-of-the-radioactive-thing",
+      "reviews": [
+        {
+          "batch": "iw-attack-side-quests-devices-and-native-references",
+          "reportedStatus": "Integrated after parent complete-text and final-image review; no independent retail replay.",
+          "independentlyPlaytested": false,
+          "findings": [
+            "Complete five-record source list read. Early hunt jukebox prerequisite conflicts with later wiki omission. Parent verified the linked Ethan/Mxtive upload is an extracted audio asset, not an activation tutorial; its saved native description was read. Activation input/prompt/replay remain unconfirmed; no guessed hold-interact rule certified."
+          ],
+          "unverified": [
+            "The original quoted list supplies five locations but does not explain the input action, prompt visibility or a full restart/replay rule. Native activation confirmation remains pending.",
+            "An early hunt version added three jukebox interactions; the later wiki omits them. They are not promoted here as a universal prerequisite."
+          ],
+          "wholeGuideTextRead": true,
+          "allExistingStepsRead": true,
+          "originalStepCount": 1,
+          "stepChecks": [
+            {
+              "index": 1,
+              "title": "Original five vinyl locations",
+              "proposedStepSha256": "570d4d8533ddfb7c2c1ee7a0e1e4e9ff6c1106ed8bb03fccb4fc374b21408d2d",
+              "primaryDisplayedSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/",
+              "kind": "attributed source quotation",
+              "allFieldsRead": true,
+              "review": "Complete five-record source list read. Early hunt jukebox prerequisite conflicts with later wiki omission. Parent verified the linked Ethan/Mxtive upload is an extracted audio asset, not an activation tutorial; its saved native description was read. Activation input/prompt/replay remain unconfirmed; no guessed hold-interact rule certified.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+              ]
+            },
+            {
+              "index": 2,
+              "title": "Search the five separate record areas",
+              "proposedStepSha256": "17cbdc90d1fc76292ee4fb5a13f508e785b22e68bb9358bb92b2ffa282837f5d",
+              "primaryDisplayedSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/",
+              "kind": "authored documentary explanation",
+              "allFieldsRead": true,
+              "review": "Complete five-record source list read. Early hunt jukebox prerequisite conflicts with later wiki omission. Parent verified the linked Ethan/Mxtive upload is an extracted audio asset, not an activation tutorial; its saved native description was read. Activation input/prompt/replay remain unconfirmed; no guessed hold-interact rule certified.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+              ]
+            }
+          ],
+          "requirementsAndRewardReviewed": true,
+          "imageReview": {
+            "parentFinalReview": "output/catalog-batch16-parent-review.json",
+            "limits": "The bounded set contains12 individually inspected native photos plus one explicitly authored diagram. Optional calling-card and Director’s Cut camera photos, a clear full glyph-wall row and additional fuse-route photos remain pending; no unselected raw is approved media."
+          },
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-easter-eggs-m-a-d-upgrade",
+      "mapId": "iw-attack-of-the-radioactive-thing",
+      "reviews": [
+        {
+          "batch": "iw-attack-side-quests-devices-and-native-references",
+          "reportedStatus": "Integrated after parent complete-text and final-image review; no independent retail replay.",
+          "independentlyPlaytested": false,
+          "findings": [
+            "Both inherited chapters and all three panel locations read. Original hunt/Jeanmi96 supply attachment names; complete CodeNamePizza native transcript confirms instant attachment, aim-trigger cranking and green-orb refill. His claimed specific order/rock-salt necessity/unlimited guarantee not promoted."
+          ],
+          "unverified": [
+            "This route covers the three panel attachments. A separate Pack-a-Punch tier, exact part-specific stat changes, charge ammo cost and egg recharge interval are not newly certified.",
+            "Keep the M.A.D. available while collecting the panel parts, and check that each part actually attaches before leaving."
+          ],
+          "wholeGuideTextRead": true,
+          "allExistingStepsRead": true,
+          "originalStepCount": 2,
+          "stepChecks": [
+            {
+              "index": 1,
+              "title": "Obtain the base weapon from the Mystery Wheel",
+              "proposedStepSha256": "12bafce0af6306ba6268f172ac907066cd0f65808b1b80d9530bd614a0143383",
+              "primaryDisplayedSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/",
+              "kind": "attributed source quotation",
+              "allFieldsRead": true,
+              "review": "Both inherited chapters and all three panel locations read. Original hunt/Jeanmi96 supply attachment names; complete CodeNamePizza native transcript confirms instant attachment, aim-trigger cranking and green-orb refill. His claimed specific order/rock-salt necessity/unlimited guarantee not promoted.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+              ]
+            },
+            {
+              "index": 2,
+              "title": "Original three power-box locations",
+              "proposedStepSha256": "931aac56a48ad160b182202888bec3e7411c665b9472db7f91bad647bf2adf04",
+              "primaryDisplayedSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/",
+              "kind": "attributed source quotation",
+              "allFieldsRead": true,
+              "review": "Both inherited chapters and all three panel locations read. Original hunt/Jeanmi96 supply attachment names; complete CodeNamePizza native transcript confirms instant attachment, aim-trigger cranking and green-orb refill. His claimed specific order/rock-salt necessity/unlimited guarantee not promoted.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+              ]
+            },
+            {
+              "index": 3,
+              "title": "Fit the Crank, Grip and Plunger",
+              "proposedStepSha256": "b7f9a01e030d3dbb9964b071df19f57072462fe748ff04ddaa418f9d90a3c252",
+              "primaryDisplayedSource": "https://www.reddit.com/r/CODZombies/comments/6ljar6/attack_of_the_radioactive_thing_easter_egg_hunt/",
+              "kind": "authored documentary explanation",
+              "allFieldsRead": true,
+              "review": "Both inherited chapters and all three panel locations read. Original hunt/Jeanmi96 supply attachment names; complete CodeNamePizza native transcript confirms instant attachment, aim-trigger cranking and green-orb refill. His claimed specific order/rock-salt necessity/unlimited guarantee not promoted.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/6ljar6/attack_of_the_radioactive_thing_easter_egg_hunt/"
+              ]
+            },
+            {
+              "index": 4,
+              "title": "Crank and fire the upgraded charged shot",
+              "proposedStepSha256": "23cc02fb0625b80ab00bac6656f932040bc5b2908666087cd34376243a9254e2",
+              "primaryDisplayedSource": "https://www.youtube.com/watch?v=Lapia5bo-dg",
+              "kind": "authored documentary explanation",
+              "allFieldsRead": true,
+              "review": "Both inherited chapters and all three panel locations read. Original hunt/Jeanmi96 supply attachment names; complete CodeNamePizza native transcript confirms instant attachment, aim-trigger cranking and green-orb refill. His claimed specific order/rock-salt necessity/unlimited guarantee not promoted.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=Lapia5bo-dg"
+              ]
+            },
+            {
+              "index": 5,
+              "title": "Use the radioactive refill interaction",
+              "proposedStepSha256": "5bc9a14d7a126609d5292d13df4e2a1d50d50f292ad7128d1a12eec156856564",
+              "primaryDisplayedSource": "https://www.youtube.com/watch?v=Lapia5bo-dg",
+              "kind": "authored documentary explanation",
+              "allFieldsRead": true,
+              "review": "Both inherited chapters and all three panel locations read. Original hunt/Jeanmi96 supply attachment names; complete CodeNamePizza native transcript confirms instant attachment, aim-trigger cranking and green-orb refill. His claimed specific order/rock-salt necessity/unlimited guarantee not promoted.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=Lapia5bo-dg"
+              ]
+            }
+          ],
+          "requirementsAndRewardReviewed": true,
+          "imageReview": {
+            "parentFinalReview": "output/catalog-batch16-parent-review.json",
+            "limits": "The bounded set contains12 individually inspected native photos plus one explicitly authored diagram. Optional calling-card and Director’s Cut camera photos, a clear full glyph-wall row and additional fuse-route photos remain pending; no unselected raw is approved media."
+          },
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/6ljar6/attack_of_the_radioactive_thing_easter_egg_hunt/",
+            "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/",
+            "https://www.youtube.com/watch?v=Lapia5bo-dg"
+          ]
+        }
+      ]
+    },
+    {
       "id": "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-easter-eggs-main-easter-egg",
       "mapId": "iw-attack-of-the-radioactive-thing",
       "reviews": [
@@ -55144,6 +56483,721 @@
       ]
     },
     {
+      "id": "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-easter-eggs-make-em-squeal-secret-calling-card",
+      "mapId": "iw-attack-of-the-radioactive-thing",
+      "reviews": [
+        {
+          "batch": "iw-attack-side-quests-devices-and-native-references",
+          "reportedStatus": "Integrated after parent complete-text and final-image review; no independent retail replay.",
+          "independentlyPlaytested": false,
+          "findings": [
+            "Both inherited Fat/toilet-head chapters read; complete original DizzyOP description supports the same method. Feed the hungry is treated as challenge description, not an invented separate quest; one-attempt/window rule not adopted from stopped hosts."
+          ],
+          "unverified": [
+            "The author-written original tutorial description confirms the route. A universal one-attempt rule or exact interaction window is not newly certified."
+          ],
+          "wholeGuideTextRead": true,
+          "allExistingStepsRead": true,
+          "originalStepCount": 2,
+          "stepChecks": [
+            {
+              "index": 1,
+              "title": "Collect Fat with the Cleaver",
+              "proposedStepSha256": "ddc09ef822e2e64a2227d895f8bb07364921f7a238187b6bb4b0032e4cea4bcb",
+              "primaryDisplayedSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/",
+              "kind": "attributed source quotation",
+              "allFieldsRead": true,
+              "review": "Both inherited Fat/toilet-head chapters read; complete original DizzyOP description supports the same method. Feed the hungry is treated as challenge description, not an invented separate quest; one-attempt/window rule not adopted from stopped hosts.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+              ]
+            },
+            {
+              "index": 2,
+              "title": "Prone at the closed middle stall and interact",
+              "proposedStepSha256": "27dfabe25a1b25822009298d736ba6e92a0f506ef9c198af0c05971c5a6244a6",
+              "primaryDisplayedSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/",
+              "kind": "attributed source quotation",
+              "allFieldsRead": true,
+              "review": "Both inherited Fat/toilet-head chapters read; complete original DizzyOP description supports the same method. Feed the hungry is treated as challenge description, not an invented separate quest; one-attempt/window rule not adopted from stopped hosts.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+              ]
+            },
+            {
+              "index": 3,
+              "title": "Keep the Fat for the emerging head",
+              "proposedStepSha256": "7c4be1e95a6343da9970357f19c485f6ef88dc073536a559eab20a16048cf8e1",
+              "primaryDisplayedSource": "https://www.youtube.com/watch?v=ILgp6cbjsig",
+              "kind": "authored documentary explanation",
+              "allFieldsRead": true,
+              "review": "Both inherited Fat/toilet-head chapters read; complete original DizzyOP description supports the same method. Feed the hungry is treated as challenge description, not an invented separate quest; one-attempt/window rule not adopted from stopped hosts.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=ILgp6cbjsig"
+              ]
+            }
+          ],
+          "requirementsAndRewardReviewed": true,
+          "imageReview": {
+            "parentFinalReview": "output/catalog-batch16-parent-review.json",
+            "limits": "The bounded set contains12 individually inspected native photos plus one explicitly authored diagram. Optional calling-card and Director’s Cut camera photos, a clear full glyph-wall row and additional fuse-route photos remain pending; no unselected raw is approved media."
+          },
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/",
+            "https://www.youtube.com/watch?v=ILgp6cbjsig"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-easter-eggs-message-rerouted-secret-calling-card",
+      "mapId": "iw-attack-of-the-radioactive-thing",
+      "reviews": [
+        {
+          "batch": "iw-attack-side-quests-devices-and-native-references",
+          "reportedStatus": "Integrated after parent complete-text and final-image review; no independent retail replay.",
+          "independentlyPlaytested": false,
+          "findings": [
+            "Original single chapter read; complete original DizzyOP author-written operational description independently supports sniper/cliff target and card notification. Native geometry/pixels pending."
+          ],
+          "unverified": [
+            "The author-written original tutorial description supports the action. Exact native sightline and hitbox photos remain pending; no lore-transfer claim is required."
+          ],
+          "wholeGuideTextRead": true,
+          "allExistingStepsRead": true,
+          "originalStepCount": 1,
+          "stepChecks": [
+            {
+              "index": 1,
+              "title": "Original sniper target instruction",
+              "proposedStepSha256": "e02d0c91852daf4562becf3dff2e9a3a1a2963f84ddfe6e3c12ea788517a07c2",
+              "primaryDisplayedSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/",
+              "kind": "attributed source quotation",
+              "allFieldsRead": true,
+              "review": "Original single chapter read; complete original DizzyOP author-written operational description independently supports sniper/cliff target and card notification. Native geometry/pixels pending.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+              ]
+            },
+            {
+              "index": 2,
+              "title": "Confirm the calling-card completion",
+              "proposedStepSha256": "7bac370c7dd401ed84118aebf99ec22be9a9bf2f31d08bc1b2347dabe013b14c",
+              "primaryDisplayedSource": "https://www.youtube.com/watch?v=JuM1yuxTnqg",
+              "kind": "authored documentary explanation",
+              "allFieldsRead": true,
+              "review": "Original single chapter read; complete original DizzyOP author-written operational description independently supports sniper/cliff target and card notification. Native geometry/pixels pending.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=JuM1yuxTnqg"
+              ]
+            }
+          ],
+          "requirementsAndRewardReviewed": true,
+          "imageReview": {
+            "parentFinalReview": "output/catalog-batch16-parent-review.json",
+            "limits": "The bounded set contains12 individually inspected native photos plus one explicitly authored diagram. Optional calling-card and Director’s Cut camera photos, a clear full glyph-wall row and additional fuse-route photos remain pending; no unselected raw is approved media."
+          },
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/",
+            "https://www.youtube.com/watch?v=JuM1yuxTnqg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-easter-eggs-play-as-elvira",
+      "mapId": "iw-attack-of-the-radioactive-thing",
+      "reviews": [
+        {
+          "batch": "iw-attack-side-quests-devices-and-native-references",
+          "reportedStatus": "Integrated after parent complete-text and final-image review; no independent retail replay.",
+          "independentlyPlaytested": false,
+          "findings": [
+            "Both original chapters and complete directional sequence read. Jeanmi96 firsthand lobby context added; standard unlock separated from Director’s Cut/cross-profile/late-join uncertainties."
+          ],
+          "unverified": [
+            "Exact cross-profile, late-join and Director’s Cut character-credit behavior are not certified by this standard source route."
+          ],
+          "wholeGuideTextRead": true,
+          "allExistingStepsRead": true,
+          "originalStepCount": 2,
+          "stepChecks": [
+            {
+              "index": 1,
+              "title": "Complete the standard main-quest unlock",
+              "proposedStepSha256": "9b9b2f3ca0741148863f3e2b7eb15ea3392572849597e577e1cfec4fa095a76b",
+              "primaryDisplayedSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/",
+              "kind": "attributed source quotation",
+              "allFieldsRead": true,
+              "review": "Both original chapters and complete directional sequence read. Jeanmi96 firsthand lobby context added; standard unlock separated from Director’s Cut/cross-profile/late-join uncertainties.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+              ]
+            },
+            {
+              "index": 2,
+              "title": "Down, Right, Down, Left, Up, Right",
+              "proposedStepSha256": "e5308911e416bd8227fc422ad8eee33ee6f1ce5f4a67b27a99e53e7621205e13",
+              "primaryDisplayedSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/",
+              "kind": "attributed source quotation",
+              "allFieldsRead": true,
+              "review": "Both original chapters and complete directional sequence read. Jeanmi96 firsthand lobby context added; standard unlock separated from Director’s Cut/cross-profile/late-join uncertainties.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+              ]
+            },
+            {
+              "index": 3,
+              "title": "Enter the code in the lobby before starting",
+              "proposedStepSha256": "7812d9983b8e65b5c8e04aba8615635ff94a76b8cf2c5f7efd45a814e03489d2",
+              "primaryDisplayedSource": "https://www.powerpyx.com/call-of-duty-infinite-warfare-absolution-dlc-trophy-guide-roadmap/",
+              "kind": "authored documentary explanation",
+              "allFieldsRead": true,
+              "review": "Both original chapters and complete directional sequence read. Jeanmi96 firsthand lobby context added; standard unlock separated from Director’s Cut/cross-profile/late-join uncertainties.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.powerpyx.com/call-of-duty-infinite-warfare-absolution-dlc-trophy-guide-roadmap/"
+              ]
+            }
+          ],
+          "requirementsAndRewardReviewed": true,
+          "imageReview": {
+            "parentFinalReview": "output/catalog-batch16-parent-review.json",
+            "limits": "The bounded set contains12 individually inspected native photos plus one explicitly authored diagram. Optional calling-card and Director’s Cut camera photos, a clear full glyph-wall row and additional fuse-route photos remain pending; no unselected raw is approved media."
+          },
+          "evidenceUrls": [
+            "https://www.powerpyx.com/call-of-duty-infinite-warfare-absolution-dlc-trophy-guide-roadmap/",
+            "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-easter-eggs-skullhop",
+      "mapId": "iw-attack-of-the-radioactive-thing",
+      "reviews": [
+        {
+          "batch": "iw-attack-side-quests-devices-and-native-references",
+          "reportedStatus": "Integrated after parent complete-text and final-image review; no independent retail replay.",
+          "independentlyPlaytested": false,
+          "findings": [
+            "All eight inherited chapters read, including ten token candidates, pump, exact16 pool kills, external spelling gap, portraits, cabinet, rules and rewards. Entire original SmartGuy transcript plus complete Jeanmi96 written route read.5-vs4-minute and7-vs6-ghost differences preserved in evidence limits; cue-based five-minute/seven-target documented procedure retained. Spelling lock, input persistence, cube controls and current-retry limits explained."
+          ],
+          "unverified": [
+            "Pump timing and portrait quotas are source reports, not current-build tests. Follow the device and portrait completion cues.",
+            "Old tutorials describe retrying with another charged M.A.D. shot. A guaranteed unlimited retry or current bug workaround is not certified.",
+            "The source claims unlimited Fate & Fortune refills and a solo Up ’N Atoms exception. Those exact current reward/credit details were not independently tested.",
+            "The external symbol solver was readable as a source interface but not interactively tested. The old Imgur key was not opened."
+          ],
+          "wholeGuideTextRead": true,
+          "allExistingStepsRead": true,
+          "originalStepCount": 8,
+          "stepChecks": [
+            {
+              "index": 1,
+              "title": "Prepare for the six-skull sequence",
+              "proposedStepSha256": "b82e2a9fa77f93eedea4d0a129edb1e333c1846a579c546bf73ccc0086358daf",
+              "primaryDisplayedSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/",
+              "kind": "authored documentary explanation",
+              "allFieldsRead": true,
+              "review": "All eight inherited chapters read, including ten token candidates, pump, exact16 pool kills, external spelling gap, portraits, cabinet, rules and rewards. Entire original SmartGuy transcript plus complete Jeanmi96 written route read.5-vs4-minute and7-vs6-ghost differences preserved in evidence limits; cue-based five-minute/seven-target documented procedure retained. Spelling lock, input persistence, cube controls and current-retry limits explained.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+              ]
+            },
+            {
+              "index": 2,
+              "title": "Skull 1: shoot five tokens from the candidate pool",
+              "proposedStepSha256": "629f7a728dfba45edb7f74043accc2d8bac2ac26f842fd40b657128f02bcbda1",
+              "primaryDisplayedSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/",
+              "kind": "attributed source quotation",
+              "allFieldsRead": true,
+              "review": "All eight inherited chapters read, including ten token candidates, pump, exact16 pool kills, external spelling gap, portraits, cabinet, rules and rewards. Entire original SmartGuy transcript plus complete Jeanmi96 written route read.5-vs4-minute and7-vs6-ghost differences preserved in evidence limits; cue-based five-minute/seven-target documented procedure retained. Spelling lock, input persistence, cube controls and current-retry limits explained.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+              ]
+            },
+            {
+              "index": 3,
+              "title": "Skull 2: fill the radioactive pump nearby",
+              "proposedStepSha256": "ebc1d75d9703094129f58fb651e72b269b600b895a1016f22cbb4817b58c1ef0",
+              "primaryDisplayedSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/",
+              "kind": "attributed source quotation",
+              "allFieldsRead": true,
+              "review": "All eight inherited chapters read, including ten token candidates, pump, exact16 pool kills, external spelling gap, portraits, cabinet, rules and rewards. Entire original SmartGuy transcript plus complete Jeanmi96 written route read.5-vs4-minute and7-vs6-ghost differences preserved in evidence limits; cue-based five-minute/seven-target documented procedure retained. Spelling lock, input persistence, cube controls and current-retry limits explained.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+              ]
+            },
+            {
+              "index": 4,
+              "title": "Skull 3: exactly sixteen Pool Trap kills",
+              "proposedStepSha256": "683aa21cf2db05da4a922db97e2c8bac8d1cd236ebe3e4b04d179bdf7197ccd6",
+              "primaryDisplayedSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/",
+              "kind": "attributed source quotation",
+              "allFieldsRead": true,
+              "review": "All eight inherited chapters read, including ten token candidates, pump, exact16 pool kills, external spelling gap, portraits, cabinet, rules and rewards. Entire original SmartGuy transcript plus complete Jeanmi96 written route read.5-vs4-minute and7-vs6-ghost differences preserved in evidence limits; cue-based five-minute/seven-target documented procedure retained. Spelling lock, input persistence, cube controls and current-retry limits explained.",
+              "extraTipEvidence": "https://www.youtube.com/watch?v=PziSWCSveqU",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+              ]
+            },
+            {
+              "index": 5,
+              "title": "Skull 4: spell the wall word with the display glyphs",
+              "proposedStepSha256": "b3cd6aa3ea507a57cf89dc8e0b26e635b4b088dd490bc6128c4b719bfe0590c1",
+              "primaryDisplayedSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/",
+              "kind": "attributed source quotation",
+              "allFieldsRead": true,
+              "review": "All eight inherited chapters read, including ten token candidates, pump, exact16 pool kills, external spelling gap, portraits, cabinet, rules and rewards. Entire original SmartGuy transcript plus complete Jeanmi96 written route read.5-vs4-minute and7-vs6-ghost differences preserved in evidence limits; cue-based five-minute/seven-target documented procedure retained. Spelling lock, input persistence, cube controls and current-retry limits explained.",
+              "extraTipEvidence": "https://www.powerpyx.com/call-of-duty-infinite-warfare-absolution-dlc-trophy-guide-roadmap/",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+              ]
+            },
+            {
+              "index": 6,
+              "title": "Skull 5: complete all four portrait bubbles",
+              "proposedStepSha256": "7c122d7d9ef91b0f2b1c68e0ac9a0af9d6bb1ac1ca564c1f0794571c64ebd8ee",
+              "primaryDisplayedSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/",
+              "kind": "attributed source quotation",
+              "allFieldsRead": true,
+              "review": "All eight inherited chapters read, including ten token candidates, pump, exact16 pool kills, external spelling gap, portraits, cabinet, rules and rewards. Entire original SmartGuy transcript plus complete Jeanmi96 written route read.5-vs4-minute and7-vs6-ghost differences preserved in evidence limits; cue-based five-minute/seven-target documented procedure retained. Spelling lock, input persistence, cube controls and current-retry limits explained.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+              ]
+            },
+            {
+              "index": 7,
+              "title": "Skull 6: fire a charged M.A.D. shot at the cabinet",
+              "proposedStepSha256": "0b947751432ed9c9fcd05f4166cef593691c5f3d6412d74300196ab32a36fd5d",
+              "primaryDisplayedSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/",
+              "kind": "attributed source quotation",
+              "allFieldsRead": true,
+              "review": "All eight inherited chapters read, including ten token candidates, pump, exact16 pool kills, external spelling gap, portraits, cabinet, rules and rewards. Entire original SmartGuy transcript plus complete Jeanmi96 written route read.5-vs4-minute and7-vs6-ghost differences preserved in evidence limits; cue-based five-minute/seven-target documented procedure retained. Spelling lock, input persistence, cube controls and current-retry limits explained.",
+              "extraTipEvidence": "https://www.youtube.com/watch?v=PziSWCSveqU",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+              ]
+            },
+            {
+              "index": 8,
+              "title": "Clear three matching-color arcade walls",
+              "proposedStepSha256": "6c72733a5fb0217cadaed113a281aa87185fc8f44053b2813364d2df4489bbef",
+              "primaryDisplayedSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/",
+              "kind": "attributed source quotation",
+              "allFieldsRead": true,
+              "review": "All eight inherited chapters read, including ten token candidates, pump, exact16 pool kills, external spelling gap, portraits, cabinet, rules and rewards. Entire original SmartGuy transcript plus complete Jeanmi96 written route read.5-vs4-minute and7-vs6-ghost differences preserved in evidence limits; cue-based five-minute/seven-target documented procedure retained. Spelling lock, input persistence, cube controls and current-retry limits explained.",
+              "extraTipEvidence": "https://www.youtube.com/watch?v=PziSWCSveqU ; https://www.powerpyx.com/call-of-duty-infinite-warfare-absolution-dlc-trophy-guide-roadmap/",
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+              ]
+            },
+            {
+              "index": 9,
+              "title": "Record combinations before locking the word",
+              "proposedStepSha256": "2a2cf5744117aa2b70335a59651655cd68854ce2a1b1da660af7e49853254f81",
+              "primaryDisplayedSource": "https://www.youtube.com/watch?v=PziSWCSveqU",
+              "kind": "authored documentary explanation",
+              "allFieldsRead": true,
+              "review": "All eight inherited chapters read, including ten token candidates, pump, exact16 pool kills, external spelling gap, portraits, cabinet, rules and rewards. Entire original SmartGuy transcript plus complete Jeanmi96 written route read.5-vs4-minute and7-vs6-ghost differences preserved in evidence limits; cue-based five-minute/seven-target documented procedure retained. Spelling lock, input persistence, cube controls and current-retry limits explained.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.youtube.com/watch?v=PziSWCSveqU"
+              ]
+            },
+            {
+              "index": 10,
+              "title": "Use the original solver as a spelling aid",
+              "proposedStepSha256": "7b9b4e939d7858e0162b6f3c50d11209870b51e018d31bd82526345bc73cb205",
+              "primaryDisplayedSource": "https://www.betterredteam.com/CODZombies/Infinite%20Warfare/Attack%20Of%20The%20Radioactive%20Thing/Skull%20Hop%20Skull%20Four%20Cipher/",
+              "kind": "authored documentary explanation",
+              "allFieldsRead": true,
+              "review": "All eight inherited chapters read, including ten token candidates, pump, exact16 pool kills, external spelling gap, portraits, cabinet, rules and rewards. Entire original SmartGuy transcript plus complete Jeanmi96 written route read.5-vs4-minute and7-vs6-ghost differences preserved in evidence limits; cue-based five-minute/seven-target documented procedure retained. Spelling lock, input persistence, cube controls and current-retry limits explained.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.betterredteam.com/CODZombies/Infinite%20Warfare/Attack%20Of%20The%20Radioactive%20Thing/Skull%20Hop%20Skull%20Four%20Cipher/"
+              ]
+            },
+            {
+              "index": 11,
+              "title": "Pull and release the arcade cubes",
+              "proposedStepSha256": "c9da65380e6607fbef53b5b2d3683e0961de22fcb5ee6e4b1327e9659fc5ab37",
+              "primaryDisplayedSource": "https://www.powerpyx.com/call-of-duty-infinite-warfare-absolution-dlc-trophy-guide-roadmap/",
+              "kind": "authored documentary explanation",
+              "allFieldsRead": true,
+              "review": "All eight inherited chapters read, including ten token candidates, pump, exact16 pool kills, external spelling gap, portraits, cabinet, rules and rewards. Entire original SmartGuy transcript plus complete Jeanmi96 written route read.5-vs4-minute and7-vs6-ghost differences preserved in evidence limits; cue-based five-minute/seven-target documented procedure retained. Spelling lock, input persistence, cube controls and current-retry limits explained.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.powerpyx.com/call-of-duty-infinite-warfare-absolution-dlc-trophy-guide-roadmap/"
+              ]
+            },
+            {
+              "index": 12,
+              "title": "Retry only after checking the cabinet state",
+              "proposedStepSha256": "1cb2493196ad27b12698c529b0521c42b2ae21f52b19df694912f36aba71335b",
+              "primaryDisplayedSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/",
+              "kind": "authored documentary explanation",
+              "allFieldsRead": true,
+              "review": "All eight inherited chapters read, including ten token candidates, pump, exact16 pool kills, external spelling gap, portraits, cabinet, rules and rewards. Entire original SmartGuy transcript plus complete Jeanmi96 written route read.5-vs4-minute and7-vs6-ghost differences preserved in evidence limits; cue-based five-minute/seven-target documented procedure retained. Spelling lock, input persistence, cube controls and current-retry limits explained.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+              ]
+            }
+          ],
+          "requirementsAndRewardReviewed": true,
+          "imageReview": {
+            "parentFinalReview": "output/catalog-batch16-parent-review.json",
+            "limits": "The bounded set contains12 individually inspected native photos plus one explicitly authored diagram. Optional calling-card and Director’s Cut camera photos, a clear full glyph-wall row and additional fuse-route photos remain pending; no unselected raw is approved media."
+          },
+          "evidenceUrls": [
+            "https://www.betterredteam.com/CODZombies/Infinite%20Warfare/Attack%20Of%20The%20Radioactive%20Thing/Skull%20Hop%20Skull%20Four%20Cipher/",
+            "https://www.powerpyx.com/call-of-duty-infinite-warfare-absolution-dlc-trophy-guide-roadmap/",
+            "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/",
+            "https://www.youtube.com/watch?v=PziSWCSveqU"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-game-features-attack-soul-challenges",
+      "mapId": "iw-attack-of-the-radioactive-thing",
+      "reviews": [
+        {
+          "batch": "iw-attack-side-quests-devices-and-native-references",
+          "reportedStatus": "Integrated after parent complete-text and final-image review; no independent retail replay.",
+          "independentlyPlaytested": false,
+          "findings": [
+            "All thirteen original objective rows read. Named activities and single-game Change Chews condition explained; numeric quotas, tiers and exact egg target remain explicitly incomplete."
+          ],
+          "unverified": [
+            "The inherited table names objectives but omits numeric requirements, tiers and exact credit rules. It is not a certified complete current challenge table.",
+            "Cracking Eggs lacks a precise target/threshold explanation in the inherited text; no invented enemy-count rule is supplied."
+          ],
+          "wholeGuideTextRead": true,
+          "allExistingStepsRead": true,
+          "originalStepCount": 1,
+          "stepChecks": [
+            {
+              "index": 1,
+              "title": "Original thirteen named objective rows",
+              "proposedStepSha256": "3020448ed74cee9474c279e5eef8a2f72ca654b30ebc778d07c0628b235bafe6",
+              "primaryDisplayedSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/",
+              "kind": "attributed source quotation",
+              "allFieldsRead": true,
+              "review": "All thirteen original objective rows read. Named activities and single-game Change Chews condition explained; numeric quotas, tiers and exact egg target remain explicitly incomplete.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+              ]
+            },
+            {
+              "index": 2,
+              "title": "Match the required tool or activity",
+              "proposedStepSha256": "beef8be8b49dd41b0dcc7a43e383b7ee01da98a4eb3ee90ef5c31f26465274eb",
+              "primaryDisplayedSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/",
+              "kind": "authored documentary explanation",
+              "allFieldsRead": true,
+              "review": "All thirteen original objective rows read. Named activities and single-game Change Chews condition explained; numeric quotas, tiers and exact egg target remain explicitly incomplete.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+              ]
+            },
+            {
+              "index": 3,
+              "title": "Track the single-game condition separately",
+              "proposedStepSha256": "47276150b2e042096107fbe33c2b04747073ce2c05ce0997920ab66d991a3b04",
+              "primaryDisplayedSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/",
+              "kind": "authored documentary explanation",
+              "allFieldsRead": true,
+              "review": "All thirteen original objective rows read. Named activities and single-game Change Chews condition explained; numeric quotas, tiers and exact egg target remain explicitly incomplete.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+              ]
+            }
+          ],
+          "requirementsAndRewardReviewed": true,
+          "imageReview": {
+            "parentFinalReview": "output/catalog-batch16-parent-review.json",
+            "limits": "The bounded set contains12 individually inspected native photos plus one explicitly authored diagram. Optional calling-card and Director’s Cut camera photos, a clear full glyph-wall row and additional fuse-route photos remain pending; no unselected raw is approved media."
+          },
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-game-features-fate-fortune-cards",
+      "mapId": "iw-attack-of-the-radioactive-thing",
+      "reviews": [
+        {
+          "batch": "iw-attack-side-quests-devices-and-native-references",
+          "reportedStatus": "Integrated after parent complete-text and final-image review; no independent retail replay.",
+          "independentlyPlaytested": false,
+          "findings": [
+            "All inherited text read, including the empty three-DLC3-card placeholder. Entire operative original card catalogue read; DLC3 Stimulus/Evade/Ammo Crate table added with attribution. Catalogue’s erroneous DLC4 label not copied. Full publisher article read: launch-era lobby/kill/select/activate/restock workflow added with its general Spaceland context and no Attack-specific booth cost or platform controls."
+          ],
+          "unverified": [
+            "The inherited text leaves the three new cards unnamed. The added table quotes the source catalogue’s DLC3 rows.",
+            "Card ownership, consumption, balance changes and the complete cross-map card inventory are not newly tested.",
+            "The publisher’s launch advice describes the general card workflow under Zombies in Spaceland. It does not establish Attack-specific booth prices or platform controls."
+          ],
+          "wholeGuideTextRead": true,
+          "allExistingStepsRead": true,
+          "originalStepCount": 1,
+          "stepChecks": [
+            {
+              "index": 1,
+              "title": "Original five-card deck overview",
+              "proposedStepSha256": "f3af1ca057b1ca2a0c28fc840650c0c32b71d6cc361cc447e3340c4160a8038c",
+              "primaryDisplayedSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/",
+              "kind": "attributed source quotation",
+              "allFieldsRead": true,
+              "review": "All inherited text read, including the empty three-DLC3-card placeholder. Entire operative original card catalogue read; DLC3 Stimulus/Evade/Ammo Crate table added with attribution. Catalogue’s erroneous DLC4 label not copied. Full publisher article read: launch-era lobby/kill/select/activate/restock workflow added with its general Spaceland context and no Attack-specific booth cost or platform controls.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+              ]
+            },
+            {
+              "index": 2,
+              "title": "DLC3 cards in the original catalogue",
+              "proposedStepSha256": "b288f95771363c096b56b2afbd01cccff800e0fa5b0fe8d7a85e672983a194e8",
+              "primaryDisplayedSource": "https://www.reddit.com/r/CODZombies/wiki/fate-and-fortune-cards/",
+              "kind": "attributed source quotation",
+              "allFieldsRead": true,
+              "review": "All inherited text read, including the empty three-DLC3-card placeholder. Entire operative original card catalogue read; DLC3 Stimulus/Evade/Ammo Crate table added with attribution. Catalogue’s erroneous DLC4 label not copied. Full publisher article read: launch-era lobby/kill/select/activate/restock workflow added with its general Spaceland context and no Attack-specific booth cost or platform controls.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/fate-and-fortune-cards/"
+              ]
+            },
+            {
+              "index": 3,
+              "title": "Charge, select and restock the deck",
+              "proposedStepSha256": "3b61963983c0d2ff67ad95939ad3015b513f3a5de6716e6b8d7852b035abc880",
+              "primaryDisplayedSource": "https://www.callofduty.com/ca/en/blog/archives/call-of-duty-infinite-warfare-details-you-need-to-know",
+              "kind": "authored documentary explanation",
+              "allFieldsRead": true,
+              "review": "All inherited text read, including the empty three-DLC3-card placeholder. Entire operative original card catalogue read; DLC3 Stimulus/Evade/Ammo Crate table added with attribution. Catalogue’s erroneous DLC4 label not copied. Full publisher article read: launch-era lobby/kill/select/activate/restock workflow added with its general Spaceland context and no Attack-specific booth cost or platform controls.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.callofduty.com/ca/en/blog/archives/call-of-duty-infinite-warfare-details-you-need-to-know"
+              ]
+            }
+          ],
+          "requirementsAndRewardReviewed": true,
+          "imageReview": {
+            "parentFinalReview": "output/catalog-batch16-parent-review.json",
+            "limits": "The bounded set contains12 individually inspected native photos plus one explicitly authored diagram. Optional calling-card and Director’s Cut camera photos, a clear full glyph-wall row and additional fuse-route photos remain pending; no unselected raw is approved media."
+          },
+          "evidenceUrls": [
+            "https://www.callofduty.com/ca/en/blog/archives/call-of-duty-infinite-warfare-details-you-need-to-know",
+            "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/",
+            "https://www.reddit.com/r/CODZombies/wiki/fate-and-fortune-cards/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-inventory-elvira",
+      "mapId": "iw-attack-of-the-radioactive-thing",
+      "reviews": [
+        {
+          "batch": "iw-attack-side-quests-devices-and-native-references",
+          "reportedStatus": "Integrated after parent complete-text and final-image review; no independent retail replay.",
+          "independentlyPlaytested": false,
+          "findings": [
+            "Both book and garage-pages locations read. Initial vial/portal route corroborated by Joltz; page inventory retained without claiming every later summon benefit or universal chemistry gating."
+          ],
+          "unverified": [
+            "This source inventory locates the later pages. It does not independently establish every repeat-summon benefit or make the pages a universal prerequisite for every modern chemistry method."
+          ],
+          "wholeGuideTextRead": true,
+          "allExistingStepsRead": true,
+          "originalStepCount": 1,
+          "stepChecks": [
+            {
+              "index": 1,
+              "title": "Original book and pages inventory",
+              "proposedStepSha256": "1e552ee227c17c304c5a3a4e9421ae424f46e95fb8ea15be6b12a7dbe8293816",
+              "primaryDisplayedSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/",
+              "kind": "attributed source quotation",
+              "allFieldsRead": true,
+              "review": "Both book and garage-pages locations read. Initial vial/portal route corroborated by Joltz; page inventory retained without claiming every later summon benefit or universal chemistry gating.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+              ]
+            },
+            {
+              "index": 2,
+              "title": "Do the initial book-and-vial exchange",
+              "proposedStepSha256": "ae6ee18d7243d0c69c24befbd59ff7bd8077e2a9d7f6fcd164a0eded2a314e6e",
+              "primaryDisplayedSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/",
+              "kind": "authored documentary explanation",
+              "allFieldsRead": true,
+              "review": "Both book and garage-pages locations read. Initial vial/portal route corroborated by Joltz; page inventory retained without claiming every later summon benefit or universal chemistry gating.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+              ]
+            },
+            {
+              "index": 3,
+              "title": "Keep the later pages separate",
+              "proposedStepSha256": "05eb32713a3ce8356b4ed5e16d520b7d5337d1e33d4b9c0e63504040143bbeea",
+              "primaryDisplayedSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/",
+              "kind": "authored documentary explanation",
+              "allFieldsRead": true,
+              "review": "Both book and garage-pages locations read. Initial vial/portal route corroborated by Joltz; page inventory retained without claiming every later summon benefit or universal chemistry gating.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+              ]
+            }
+          ],
+          "requirementsAndRewardReviewed": true,
+          "imageReview": {
+            "parentFinalReview": "output/catalog-batch16-parent-review.json",
+            "limits": "The bounded set contains12 individually inspected native photos plus one explicitly authored diagram. Optional calling-card and Director’s Cut camera photos, a clear full glyph-wall row and additional fuse-route photos remain pending; no unselected raw is approved media."
+          },
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-map-walkthrough-afterlife-arcade",
+      "mapId": "iw-attack-of-the-radioactive-thing",
+      "reviews": [
+        {
+          "batch": "iw-attack-side-quests-devices-and-native-references",
+          "reportedStatus": "Integrated after parent complete-text and final-image review; no independent retail replay.",
+          "independentlyPlaytested": false,
+          "findings": [
+            "All inherited token wording and eleven arcade inventory rows read. Complete publisher interview with project lead Brian Bright read; he confirms arcade games earn Soul Power and a faster return token. Current solo Last Stand, revive count and threshold remain unresolved; metadata/reward conditional and launch Spaceland scope disclosed. No current-mode certificate."
+          ],
+          "unverified": [
+            "The inherited solo/Last Stand wording is a general source description. Exact current solo revive counts, mode eligibility and soul-power thresholds were not independently confirmed.",
+            "The arcade table names games; it does not explain every arcade game’s scoring rules."
+          ],
+          "wholeGuideTextRead": true,
+          "allExistingStepsRead": true,
+          "originalStepCount": 1,
+          "stepChecks": [
+            {
+              "index": 1,
+              "title": "Original token description and game inventory",
+              "proposedStepSha256": "8b5b8fe3b9167d7b7b7424a62478f7c548a0f2652e66d833be619a1bef3becdd",
+              "primaryDisplayedSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/",
+              "kind": "attributed source quotation",
+              "allFieldsRead": true,
+              "review": "All inherited token wording and eleven arcade inventory rows read. Complete publisher interview with project lead Brian Bright read; he confirms arcade games earn Soul Power and a faster return token. Current solo Last Stand, revive count and threshold remain unresolved; metadata/reward conditional and launch Spaceland scope disclosed. No current-mode certificate.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+              ]
+            },
+            {
+              "index": 2,
+              "title": "Check the return condition inside the arcade",
+              "proposedStepSha256": "334adb24058404322ceeefb44ebf31b38dc6672ec57453c7b5058b13e31af39f",
+              "primaryDisplayedSource": "https://blog.activision.com/call-of-duty/archives/learn-all-about-call-of-duty-infinite-warfares-zombies-in-spaceland",
+              "kind": "authored documentary explanation",
+              "allFieldsRead": true,
+              "review": "All inherited token wording and eleven arcade inventory rows read. Complete publisher interview with project lead Brian Bright read; he confirms arcade games earn Soul Power and a faster return token. Current solo Last Stand, revive count and threshold remain unresolved; metadata/reward conditional and launch Spaceland scope disclosed. No current-mode certificate.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://blog.activision.com/call-of-duty/archives/learn-all-about-call-of-duty-infinite-warfares-zombies-in-spaceland"
+              ]
+            }
+          ],
+          "requirementsAndRewardReviewed": true,
+          "imageReview": {
+            "parentFinalReview": "output/catalog-batch16-parent-review.json",
+            "limits": "The bounded set contains12 individually inspected native photos plus one explicitly authored diagram. Optional calling-card and Director’s Cut camera photos, a clear full glyph-wall row and additional fuse-route photos remain pending; no unselected raw is approved media."
+          },
+          "evidenceUrls": [
+            "https://blog.activision.com/call-of-duty/archives/learn-all-about-call-of-duty-infinite-warfares-zombies-in-spaceland",
+            "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-map-walkthrough-buildables",
+      "mapId": "iw-attack-of-the-radioactive-thing",
+      "reviews": [
+        {
+          "batch": "iw-attack-side-quests-devices-and-native-references",
+          "reportedStatus": "Integrated after parent complete-text and final-image review; no independent retail replay.",
+          "independentlyPlaytested": false,
+          "findings": [
+            "Full four-device overview read. Links now lead to the four individual routes. Functions, charges and unproven additional upgrades are excluded."
+          ],
+          "unverified": [
+            "Damage, duration, charge/replacement behavior and possible device upgrades are not specified by the inherited location list and are not invented here."
+          ],
+          "wholeGuideTextRead": true,
+          "allExistingStepsRead": true,
+          "originalStepCount": 1,
+          "stepChecks": [
+            {
+              "index": 1,
+              "title": "Original four-device overview",
+              "proposedStepSha256": "3c90e68778351380dae2f64d4411d283ccd56eb89052b9e3ee97f2455c032d88",
+              "primaryDisplayedSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/",
+              "kind": "attributed source quotation",
+              "allFieldsRead": true,
+              "review": "Full four-device overview read. Links now lead to the four individual routes. Functions, charges and unproven additional upgrades are excluded.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+              ]
+            },
+            {
+              "index": 2,
+              "title": "Follow one complete device route",
+              "proposedStepSha256": "21f1dd1433b2f770fe1758c4ac1bb2906dd6a88c83008f78099dfdd7966dcb27",
+              "primaryDisplayedSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/",
+              "kind": "authored documentary explanation",
+              "allFieldsRead": true,
+              "review": "Full four-device overview read. Links now lead to the four individual routes. Functions, charges and unproven additional upgrades are excluded.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+              ]
+            }
+          ],
+          "requirementsAndRewardReviewed": true,
+          "imageReview": {
+            "parentFinalReview": "output/catalog-batch16-parent-review.json",
+            "limits": "The bounded set contains12 individually inspected native photos plus one explicitly authored diagram. Optional calling-card and Director’s Cut camera photos, a clear full glyph-wall row and additional fuse-route photos remain pending; no unselected raw is approved media."
+          },
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+          ]
+        }
+      ]
+    },
+    {
       "id": "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-map-walkthrough-chemical-ingredients",
       "mapId": "iw-attack-of-the-radioactive-thing",
       "reviews": [
@@ -55312,6 +57366,700 @@
             "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/",
             "https://www.reddit.com/r/Infinitewarfare/comments/tg29uu/attack_of_the_radioactive_thing/",
             "https://www.youtube.com/watch?v=zemlG7hyw30"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-map-walkthrough-double-pack-a-punch",
+      "mapId": "iw-attack-of-the-radioactive-thing",
+      "reviews": [
+        {
+          "batch": "iw-attack-side-quests-devices-and-native-references",
+          "reportedStatus": "Integrated after parent complete-text and final-image review; no independent retail replay.",
+          "independentlyPlaytested": false,
+          "findings": [
+            "Full original fuse/cabinet/blood/Power Trap sequence read against independent original hunt and prior fully read Joltz17:35–18:09. Crowbar, repair part, fuse placement, pickup and installation separated. Current price/quota not assumed."
+          ],
+          "unverified": [
+            "Fill the visible vial meter; no fixed Cleaver-kill quota or upgrade price is certified here.",
+            "Do not confuse Alien Fuses with the main quest’s bomb parts, gauge digits or safe-paper code."
+          ],
+          "wholeGuideTextRead": true,
+          "allExistingStepsRead": true,
+          "originalStepCount": 1,
+          "stepChecks": [
+            {
+              "index": 1,
+              "title": "Original fuse and Electric Trap route",
+              "proposedStepSha256": "dc559bb4faabc2f834fe9635af29c9e47f16b1a542caf804c0aec97e383e5bba",
+              "primaryDisplayedSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/",
+              "kind": "attributed source quotation",
+              "allFieldsRead": true,
+              "review": "Full original fuse/cabinet/blood/Power Trap sequence read against independent original hunt and prior fully read Joltz17:35–18:09. Crowbar, repair part, fuse placement, pickup and installation separated. Current price/quota not assumed.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+              ]
+            },
+            {
+              "index": 2,
+              "title": "Use the projector button and Crowbar cabinet",
+              "proposedStepSha256": "278810a5906e755997ce3870672b48431d7f8e3015fe06b01f856660b65838a7",
+              "primaryDisplayedSource": "https://www.reddit.com/r/CODZombies/comments/6ljar6/attack_of_the_radioactive_thing_easter_egg_hunt/",
+              "kind": "authored documentary explanation",
+              "allFieldsRead": true,
+              "review": "Full original fuse/cabinet/blood/Power Trap sequence read against independent original hunt and prior fully read Joltz17:35–18:09. Crowbar, repair part, fuse placement, pickup and installation separated. Current price/quota not assumed.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/6ljar6/attack_of_the_radioactive_thing_easter_egg_hunt/"
+              ]
+            },
+            {
+              "index": 3,
+              "title": "Refill the Cleaver blood meter",
+              "proposedStepSha256": "b7c285a3f0ebdb028c209eda7399f7e796096a0faa0f134b743a37a5c462fcca",
+              "primaryDisplayedSource": "https://www.reddit.com/r/CODZombies/comments/6ljar6/attack_of_the_radioactive_thing_easter_egg_hunt/",
+              "kind": "authored documentary explanation",
+              "allFieldsRead": true,
+              "review": "Full original fuse/cabinet/blood/Power Trap sequence read against independent original hunt and prior fully read Joltz17:35–18:09. Crowbar, repair part, fuse placement, pickup and installation separated. Current price/quota not assumed.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/6ljar6/attack_of_the_radioactive_thing_easter_egg_hunt/"
+              ]
+            },
+            {
+              "index": 4,
+              "title": "Charge the fuses at the Power Station",
+              "proposedStepSha256": "067b53b8c4bb5e9c9198aacce31cbac05d4fbdb1dd55eaad798339f40207212b",
+              "primaryDisplayedSource": "https://www.reddit.com/r/CODZombies/comments/6ljar6/attack_of_the_radioactive_thing_easter_egg_hunt/",
+              "kind": "authored documentary explanation",
+              "allFieldsRead": true,
+              "review": "Full original fuse/cabinet/blood/Power Trap sequence read against independent original hunt and prior fully read Joltz17:35–18:09. Crowbar, repair part, fuse placement, pickup and installation separated. Current price/quota not assumed.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/6ljar6/attack_of_the_radioactive_thing_easter_egg_hunt/"
+              ]
+            },
+            {
+              "index": 5,
+              "title": "Install the charged fuses at Pack-a-Punch",
+              "proposedStepSha256": "52929833eca5f86a52ed23be26a5977f120fd80a0305a423509f3b7056b3a52f",
+              "primaryDisplayedSource": "https://www.reddit.com/r/CODZombies/comments/6ljar6/attack_of_the_radioactive_thing_easter_egg_hunt/",
+              "kind": "authored documentary explanation",
+              "allFieldsRead": true,
+              "review": "Full original fuse/cabinet/blood/Power Trap sequence read against independent original hunt and prior fully read Joltz17:35–18:09. Crowbar, repair part, fuse placement, pickup and installation separated. Current price/quota not assumed.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/comments/6ljar6/attack_of_the_radioactive_thing_easter_egg_hunt/"
+              ]
+            }
+          ],
+          "requirementsAndRewardReviewed": true,
+          "imageReview": {
+            "parentFinalReview": "output/catalog-batch16-parent-review.json",
+            "limits": "The bounded set contains12 individually inspected native photos plus one explicitly authored diagram. Optional calling-card and Director’s Cut camera photos, a clear full glyph-wall row and additional fuse-route photos remain pending; no unselected raw is approved media."
+          },
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-map-walkthrough-hypnosis-device",
+      "mapId": "iw-attack-of-the-radioactive-thing",
+      "reviews": [
+        {
+          "batch": "iw-attack-side-quests-devices-and-native-references",
+          "reportedStatus": "Integrated after parent complete-text and final-image review; no independent retail replay.",
+          "independentlyPlaytested": false,
+          "findings": [
+            "All four market pickup landmarks read against fresh source. Ww34ever’s complete original2022 guide and relevant2025/2026 follow-ups describe personal solo use as a distraction during reanimation and Death Rays. A practical deploy/use chapter was added, without inventing damage, duration, charges or upgrade stages."
+          ],
+          "unverified": [
+            "This chapter verifies the documented pickup route. Exact device damage, duration, charges, replacement rules and any further upgrade are not newly established."
+          ],
+          "wholeGuideTextRead": true,
+          "allExistingStepsRead": true,
+          "originalStepCount": 1,
+          "stepChecks": [
+            {
+              "index": 1,
+              "title": "Original blueprint and part landmarks",
+              "proposedStepSha256": "42575590ef1c4a7eb34299e059fef9b469949ecfdc83605ae3baa77e061d4e8c",
+              "primaryDisplayedSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/",
+              "kind": "attributed source quotation",
+              "allFieldsRead": true,
+              "review": "All four market pickup landmarks read against fresh source. Ww34ever’s complete original2022 guide and relevant2025/2026 follow-ups describe personal solo use as a distraction during reanimation and Death Rays. A practical deploy/use chapter was added, without inventing damage, duration, charges or upgrade stages.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+              ]
+            },
+            {
+              "index": 2,
+              "title": "Finish the named assembly route",
+              "proposedStepSha256": "88fd0c1044fa76536a4720c5a5ccbd71e797d7f74b3147f17a052cfaa3892f79",
+              "primaryDisplayedSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/",
+              "kind": "authored documentary explanation",
+              "allFieldsRead": true,
+              "review": "All four market pickup landmarks read against fresh source. Ww34ever’s complete original2022 guide and relevant2025/2026 follow-ups describe personal solo use as a distraction during reanimation and Death Rays. A practical deploy/use chapter was added, without inventing damage, duration, charges or upgrade stages.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+              ]
+            },
+            {
+              "index": 3,
+              "title": "Use the completed device to distract zombies",
+              "proposedStepSha256": "5b9f1a7efc7eb9bb80686714fdcbecb68f2025a09e76236b7f96b9805caea253",
+              "primaryDisplayedSource": "https://www.reddit.com/r/Infinitewarfare/comments/tg29uu/attack_of_the_radioactive_thing/",
+              "kind": "authored documentary explanation",
+              "allFieldsRead": true,
+              "review": "All four market pickup landmarks read against fresh source. Ww34ever’s complete original2022 guide and relevant2025/2026 follow-ups describe personal solo use as a distraction during reanimation and Death Rays. A practical deploy/use chapter was added, without inventing damage, duration, charges or upgrade stages.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/Infinitewarfare/comments/tg29uu/attack_of_the_radioactive_thing/"
+              ]
+            }
+          ],
+          "requirementsAndRewardReviewed": true,
+          "imageReview": {
+            "parentFinalReview": "output/catalog-batch16-parent-review.json",
+            "limits": "The bounded set contains12 individually inspected native photos plus one explicitly authored diagram. Optional calling-card and Director’s Cut camera photos, a clear full glyph-wall row and additional fuse-route photos remain pending; no unselected raw is approved media."
+          },
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/",
+            "https://www.reddit.com/r/Infinitewarfare/comments/tg29uu/attack_of_the_radioactive_thing/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-map-walkthrough-melee-weapons",
+      "mapId": "iw-attack-of-the-radioactive-thing",
+      "reviews": [
+        {
+          "batch": "iw-attack-side-quests-devices-and-native-references",
+          "reportedStatus": "Integrated after parent complete-text and final-image review; no independent retail replay.",
+          "independentlyPlaytested": false,
+          "findings": [
+            "Both pickup locations and the oldScene9 damage claim read. Cleaver and Crowbar quest interactions cross-checked with fresh main route and original hunt; later-enemy/Slappy Taffy damage and inventory-slot rules not invented."
+          ],
+          "unverified": [
+            "The old one-hit-through-Scene-9 statement is a dated source damage claim. It is not a new damage chart for every enemy, perk setup or mode.",
+            "Inventory-slot and replacement behavior are not newly certified. Confirm the equipped tool before attempting its interaction."
+          ],
+          "wholeGuideTextRead": true,
+          "allExistingStepsRead": true,
+          "originalStepCount": 1,
+          "stepChecks": [
+            {
+              "index": 1,
+              "title": "Original tool locations and dated damage note",
+              "proposedStepSha256": "754759ae564b882791e07280cdafaef7808fe310203069906d05b5c1ed9e609a",
+              "primaryDisplayedSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/",
+              "kind": "attributed source quotation",
+              "allFieldsRead": true,
+              "review": "Both pickup locations and the oldScene9 damage claim read. Cleaver and Crowbar quest interactions cross-checked with fresh main route and original hunt; later-enemy/Slappy Taffy damage and inventory-slot rules not invented.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+              ]
+            },
+            {
+              "index": 2,
+              "title": "Use the Cleaver for blood and Fat",
+              "proposedStepSha256": "00d79c625ad28c599d4ef9136f51de64f3360ba5842dfdf073f621213a43397e",
+              "primaryDisplayedSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/",
+              "kind": "authored documentary explanation",
+              "allFieldsRead": true,
+              "review": "Both pickup locations and the oldScene9 damage claim read. Cleaver and Crowbar quest interactions cross-checked with fresh main route and original hunt; later-enemy/Slappy Taffy damage and inventory-slot rules not invented.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+              ]
+            },
+            {
+              "index": 3,
+              "title": "Use the Crowbar for panels and breakable items",
+              "proposedStepSha256": "d0e5d2dccc9ea7243d128127d0f53238651acfce37ef407c0ac27a6a7f16d8b7",
+              "primaryDisplayedSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/",
+              "kind": "authored documentary explanation",
+              "allFieldsRead": true,
+              "review": "Both pickup locations and the oldScene9 damage claim read. Cleaver and Crowbar quest interactions cross-checked with fresh main route and original hunt; later-enemy/Slappy Taffy damage and inventory-slot rules not invented.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+              ]
+            }
+          ],
+          "requirementsAndRewardReviewed": true,
+          "imageReview": {
+            "parentFinalReview": "output/catalog-batch16-parent-review.json",
+            "limits": "The bounded set contains12 individually inspected native photos plus one explicitly authored diagram. Optional calling-card and Director’s Cut camera photos, a clear full glyph-wall row and additional fuse-route photos remain pending; no unselected raw is approved media."
+          },
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-map-walkthrough-mind-control-device",
+      "mapId": "iw-attack-of-the-radioactive-thing",
+      "reviews": [
+        {
+          "batch": "iw-attack-side-quests-devices-and-native-references",
+          "reportedStatus": "Integrated after parent complete-text and final-image review; no independent retail replay.",
+          "independentlyPlaytested": false,
+          "findings": [
+            "All four motel/pool pickup landmarks read against fresh source. Original GDInfernoBoy and other player reports explicitly describe affected zombies becoming friendly after crossing the pulse. Basic deployment use added, with no all-zombie target count, permanent safety, exact duration, charge count or extra upgrade promised."
+          ],
+          "unverified": [
+            "This chapter verifies the documented pickup route. Exact device damage, duration, charges, replacement rules and any further upgrade are not newly established."
+          ],
+          "wholeGuideTextRead": true,
+          "allExistingStepsRead": true,
+          "originalStepCount": 1,
+          "stepChecks": [
+            {
+              "index": 1,
+              "title": "Original blueprint and part landmarks",
+              "proposedStepSha256": "52ea35e3e8743cdd5fdae959cb1c751e3e59d2b784777d5cd05aec559502fed0",
+              "primaryDisplayedSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/",
+              "kind": "attributed source quotation",
+              "allFieldsRead": true,
+              "review": "All four motel/pool pickup landmarks read against fresh source. Original GDInfernoBoy and other player reports explicitly describe affected zombies becoming friendly after crossing the pulse. Basic deployment use added, with no all-zombie target count, permanent safety, exact duration, charge count or extra upgrade promised.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+              ]
+            },
+            {
+              "index": 2,
+              "title": "Finish the named assembly route",
+              "proposedStepSha256": "2a5923ccd88d3d2d39c54ec28013f4ce945b7c21956cdcb7b3a24d1170e94594",
+              "primaryDisplayedSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/",
+              "kind": "authored documentary explanation",
+              "allFieldsRead": true,
+              "review": "All four motel/pool pickup landmarks read against fresh source. Original GDInfernoBoy and other player reports explicitly describe affected zombies becoming friendly after crossing the pulse. Basic deployment use added, with no all-zombie target count, permanent safety, exact duration, charge count or extra upgrade promised.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+              ]
+            },
+            {
+              "index": 3,
+              "title": "Turn affected zombies into allies",
+              "proposedStepSha256": "26dd8c20955932edd06177bc113a26d197b9bea2b8e7b5e28af9d17252974949",
+              "primaryDisplayedSource": "https://www.reddit.com/r/Infinitewarfare/comments/1wow0vr/attack_is_so_stupidly_hard_for_no_reason/",
+              "kind": "authored documentary explanation",
+              "allFieldsRead": true,
+              "review": "All four motel/pool pickup landmarks read against fresh source. Original GDInfernoBoy and other player reports explicitly describe affected zombies becoming friendly after crossing the pulse. Basic deployment use added, with no all-zombie target count, permanent safety, exact duration, charge count or extra upgrade promised.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/Infinitewarfare/comments/1wow0vr/attack_is_so_stupidly_hard_for_no_reason/"
+              ]
+            }
+          ],
+          "requirementsAndRewardReviewed": true,
+          "imageReview": {
+            "parentFinalReview": "output/catalog-batch16-parent-review.json",
+            "limits": "The bounded set contains12 individually inspected native photos plus one explicitly authored diagram. Optional calling-card and Director’s Cut camera photos, a clear full glyph-wall row and additional fuse-route photos remain pending; no unselected raw is approved media."
+          },
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/",
+            "https://www.reddit.com/r/Infinitewarfare/comments/1wow0vr/attack_is_so_stupidly_hard_for_no_reason/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-map-walkthrough-pack-a-punch",
+      "mapId": "iw-attack-of-the-radioactive-thing",
+      "reviews": [
+        {
+          "batch": "iw-attack-side-quests-devices-and-native-references",
+          "reportedStatus": "Integrated after parent complete-text and final-image review; no independent retail replay.",
+          "independentlyPlaytested": false,
+          "findings": [
+            "Full original book/vial/Cleaver/portal/sky-cloud route read; fresh wiki/hunt and Joltz2:04–3:02 agree. No invented fixed kill quota or duration."
+          ],
+          "unverified": [
+            "The source does not provide a certified current kill quota, portal duration or full rotation timetable. Follow the vial and portal feedback."
+          ],
+          "wholeGuideTextRead": true,
+          "allExistingStepsRead": true,
+          "originalStepCount": 1,
+          "stepChecks": [
+            {
+              "index": 1,
+              "title": "Original book, vial and portal instructions",
+              "proposedStepSha256": "7c6fbac70970353ff8cbd413d266b0d3fafc8c648523bfe33103ad7dc91c8658",
+              "primaryDisplayedSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/",
+              "kind": "attributed source quotation",
+              "allFieldsRead": true,
+              "review": "Full original book/vial/Cleaver/portal/sky-cloud route read; fresh wiki/hunt and Joltz2:04–3:02 agree. No invented fixed kill quota or duration.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+              ]
+            },
+            {
+              "index": 2,
+              "title": "Fill the vial with the required melee tool",
+              "proposedStepSha256": "6d996bee90f218fc9da180319d2f00d0170907747e13fb0afe82f5883ef8f84d",
+              "primaryDisplayedSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/",
+              "kind": "authored documentary explanation",
+              "allFieldsRead": true,
+              "review": "Full original book/vial/Cleaver/portal/sky-cloud route read; fresh wiki/hunt and Joltz2:04–3:02 agree. No invented fixed kill quota or duration.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+              ]
+            },
+            {
+              "index": 3,
+              "title": "Let Elvira open the first portal",
+              "proposedStepSha256": "437d08bd46736e2bedb876cc16042a05ed8b204752620abb8642cc95bb9ec57d",
+              "primaryDisplayedSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/",
+              "kind": "authored documentary explanation",
+              "allFieldsRead": true,
+              "review": "Full original book/vial/Cleaver/portal/sky-cloud route read; fresh wiki/hunt and Joltz2:04–3:02 agree. No invented fixed kill quota or duration.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+              ]
+            }
+          ],
+          "requirementsAndRewardReviewed": true,
+          "imageReview": {
+            "parentFinalReview": "output/catalog-batch16-parent-review.json",
+            "limits": "The bounded set contains12 individually inspected native photos plus one explicitly authored diagram. Optional calling-card and Director’s Cut camera photos, a clear full glyph-wall row and additional fuse-route photos remain pending; no unselected raw is approved media."
+          },
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-map-walkthrough-power",
+      "mapId": "iw-attack-of-the-radioactive-thing",
+      "reviews": [
+        {
+          "batch": "iw-attack-side-quests-devices-and-native-references",
+          "reportedStatus": "Integrated after parent complete-text and final-image review; no independent retail replay.",
+          "independentlyPlaytested": false,
+          "findings": [
+            "Full inherited lever/single-switch route read; fresh wiki/hunt and fully read Joltz native transcript1:36–2:02 agree. Arm versus lever distinguished."
+          ],
+          "wholeGuideTextRead": true,
+          "allExistingStepsRead": true,
+          "originalStepCount": 1,
+          "stepChecks": [
+            {
+              "index": 1,
+              "title": "Original lever and switch locations",
+              "proposedStepSha256": "42fa782caafc1a43502b74af8ca1a167eac78b80989e50381ea401fae6439108",
+              "primaryDisplayedSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/",
+              "kind": "attributed source quotation",
+              "allFieldsRead": true,
+              "review": "Full inherited lever/single-switch route read; fresh wiki/hunt and fully read Joltz native transcript1:36–2:02 agree. Arm versus lever distinguished.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+              ]
+            },
+            {
+              "index": 2,
+              "title": "Check that the switch is actually on",
+              "proposedStepSha256": "bc3b2b55bd78ad87a6a9f6249bf65b03bf43ae07ff0bf77c11c6cdd97b3d6213",
+              "primaryDisplayedSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/",
+              "kind": "authored documentary explanation",
+              "allFieldsRead": true,
+              "review": "Full inherited lever/single-switch route read; fresh wiki/hunt and fully read Joltz native transcript1:36–2:02 agree. Arm versus lever distinguished.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+              ]
+            }
+          ],
+          "requirementsAndRewardReviewed": true,
+          "imageReview": {
+            "parentFinalReview": "output/catalog-batch16-parent-review.json",
+            "limits": "The bounded set contains12 individually inspected native photos plus one explicitly authored diagram. Optional calling-card and Director’s Cut camera photos, a clear full glyph-wall row and additional fuse-route photos remain pending; no unselected raw is approved media."
+          },
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-map-walkthrough-seismic-wave-generator",
+      "mapId": "iw-attack-of-the-radioactive-thing",
+      "reviews": [
+        {
+          "batch": "iw-attack-side-quests-devices-and-native-references",
+          "reportedStatus": "Integrated after parent complete-text and final-image review; no independent retail replay.",
+          "independentlyPlaytested": false,
+          "findings": [
+            "Every blueprint/three-part landmark read; fresh wiki/hunt and Joltz1:21–1:49 corroborate the build and beach arm. No charge/damage statistic invented."
+          ],
+          "unverified": [
+            "This chapter verifies the documented pickup route. Exact device damage, duration, charges, replacement rules and any further upgrade are not newly established."
+          ],
+          "wholeGuideTextRead": true,
+          "allExistingStepsRead": true,
+          "originalStepCount": 1,
+          "stepChecks": [
+            {
+              "index": 1,
+              "title": "Original blueprint and part landmarks",
+              "proposedStepSha256": "a27f2af6b70ffa6d109767a727a42b9cc7e1761caa3a951f3573192ffdb29c22",
+              "primaryDisplayedSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/",
+              "kind": "attributed source quotation",
+              "allFieldsRead": true,
+              "review": "Every blueprint/three-part landmark read; fresh wiki/hunt and Joltz1:21–1:49 corroborate the build and beach arm. No charge/damage statistic invented.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+              ]
+            },
+            {
+              "index": 2,
+              "title": "Finish the named assembly route",
+              "proposedStepSha256": "ce817306be47be032ed064b4c279feba015a99874dbeeaa4008f549043fd54a2",
+              "primaryDisplayedSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/",
+              "kind": "authored documentary explanation",
+              "allFieldsRead": true,
+              "review": "Every blueprint/three-part landmark read; fresh wiki/hunt and Joltz1:21–1:49 corroborate the build and beach arm. No charge/damage statistic invented.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+              ]
+            },
+            {
+              "index": 3,
+              "title": "Raise and collect the beach arm",
+              "proposedStepSha256": "225d155ec3c7cc4b4b294788f902c0a653aceff5b649a9e059d24d5df1a41e70",
+              "primaryDisplayedSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/",
+              "kind": "authored documentary explanation",
+              "allFieldsRead": true,
+              "review": "Every blueprint/three-part landmark read; fresh wiki/hunt and Joltz1:21–1:49 corroborate the build and beach arm. No charge/damage statistic invented.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+              ]
+            }
+          ],
+          "requirementsAndRewardReviewed": true,
+          "imageReview": {
+            "parentFinalReview": "output/catalog-batch16-parent-review.json",
+            "limits": "The bounded set contains12 individually inspected native photos plus one explicitly authored diagram. Optional calling-card and Director’s Cut camera photos, a clear full glyph-wall row and additional fuse-route photos remain pending; no unselected raw is approved media."
+          },
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-map-walkthrough-traps",
+      "mapId": "iw-attack-of-the-radioactive-thing",
+      "reviews": [
+        {
+          "batch": "iw-attack-side-quests-devices-and-native-references",
+          "reportedStatus": "Integrated after parent complete-text and final-image review; no independent retail replay.",
+          "independentlyPlaytested": false,
+          "findings": [
+            "Fresh table has five rows and four repair parts. Intro count is qualified rather than silently altered; original firsthand Jeanmi96 text independently confirms five activations/four repairs and750 costs. Repair/use route expanded."
+          ],
+          "unverified": [
+            "The old opening sentence says four traps, but its table has five entries. Four require repair; the studio defense does not.",
+            "Costs and achievement behavior are documented source values, not a new current-build test."
+          ],
+          "wholeGuideTextRead": true,
+          "allExistingStepsRead": true,
+          "originalStepCount": 1,
+          "stepChecks": [
+            {
+              "index": 1,
+              "title": "Original repair-part and activation table",
+              "proposedStepSha256": "c786ec17d17309f6ebcdcd750a7fd25c103facc6780f1643e4fb7aad2b0f0e46",
+              "primaryDisplayedSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/",
+              "kind": "attributed source quotation",
+              "allFieldsRead": true,
+              "review": "Fresh table has five rows and four repair parts. Intro count is qualified rather than silently altered; original firsthand Jeanmi96 text independently confirms five activations/four repairs and750 costs. Repair/use route expanded.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+              ]
+            },
+            {
+              "index": 2,
+              "title": "Repair each trap at its own station",
+              "proposedStepSha256": "f440ee55a7a6e9131f46bc26c5063b62f8695f2a99b9cfb302d781dff63a4be0",
+              "primaryDisplayedSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/",
+              "kind": "authored documentary explanation",
+              "allFieldsRead": true,
+              "review": "Fresh table has five rows and four repair parts. Intro count is qualified rather than silently altered; original firsthand Jeanmi96 text independently confirms five activations/four repairs and750 costs. Repair/use route expanded.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+              ]
+            },
+            {
+              "index": 3,
+              "title": "Use the five types and check completion",
+              "proposedStepSha256": "72d5e58f9bdf7df8c7c453c1295ccef637d3bdac4bfc09658dc6bfa0b7be652b",
+              "primaryDisplayedSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/",
+              "kind": "authored documentary explanation",
+              "allFieldsRead": true,
+              "review": "Fresh table has five rows and four repair parts. Intro count is qualified rather than silently altered; original firsthand Jeanmi96 text independently confirms five activations/four repairs and750 costs. Repair/use route expanded.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+              ]
+            }
+          ],
+          "requirementsAndRewardReviewed": true,
+          "imageReview": {
+            "parentFinalReview": "output/catalog-batch16-parent-review.json",
+            "limits": "The bounded set contains12 individually inspected native photos plus one explicitly authored diagram. Optional calling-card and Director’s Cut camera photos, a clear full glyph-wall row and additional fuse-route photos remain pending; no unselected raw is approved media."
+          },
+          "evidenceUrls": [
+            "https://www.powerpyx.com/call-of-duty-infinite-warfare-absolution-dlc-trophy-guide-roadmap/",
+            "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-map-walkthrough-violet-ray-device",
+      "mapId": "iw-attack-of-the-radioactive-thing",
+      "reviews": [
+        {
+          "batch": "iw-attack-side-quests-devices-and-native-references",
+          "reportedStatus": "Integrated after parent complete-text and final-image review; no independent retail replay.",
+          "independentlyPlaytested": false,
+          "findings": [
+            "All four pickup landmarks read in full against fresh source. Assembly navigation clarified. Independent footage, damage, exact function, duration and further upgrades remain unconfirmed."
+          ],
+          "unverified": [
+            "This chapter verifies the documented pickup route. Exact device damage, duration, charges, replacement rules and any further upgrade are not newly established."
+          ],
+          "wholeGuideTextRead": true,
+          "allExistingStepsRead": true,
+          "originalStepCount": 1,
+          "stepChecks": [
+            {
+              "index": 1,
+              "title": "Original blueprint and part landmarks",
+              "proposedStepSha256": "cef24d8304047919dba45ee0bd73109b3f2bea479b0985fcc41141da8a6bc46e",
+              "primaryDisplayedSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/",
+              "kind": "attributed source quotation",
+              "allFieldsRead": true,
+              "review": "All four pickup landmarks read in full against fresh source. Assembly navigation clarified. Independent footage, damage, exact function, duration and further upgrades remain unconfirmed.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+              ]
+            },
+            {
+              "index": 2,
+              "title": "Finish the named assembly route",
+              "proposedStepSha256": "33e36a5c71771e81317dc934fc6225ec24b04fc6b94d5ea4b1c1686605d96a24",
+              "primaryDisplayedSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/",
+              "kind": "authored documentary explanation",
+              "allFieldsRead": true,
+              "review": "All four pickup landmarks read in full against fresh source. Assembly navigation clarified. Independent footage, damage, exact function, duration and further upgrades remain unconfirmed.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+              ]
+            }
+          ],
+          "requirementsAndRewardReviewed": true,
+          "imageReview": {
+            "parentFinalReview": "output/catalog-batch16-parent-review.json",
+            "limits": "The bounded set contains12 individually inspected native photos plus one explicitly authored diagram. Optional calling-card and Director’s Cut camera photos, a clear full glyph-wall row and additional fuse-route photos remain pending; no unselected raw is approved media."
+          },
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "iw-attack-of-the-radioactive-thing-dear-diary",
+      "mapId": "iw-attack-of-the-radioactive-thing",
+      "reviews": [
+        {
+          "batch": "iw-attack-side-quests-devices-and-native-references",
+          "reportedStatus": "Integrated after parent complete-text and final-image review; no independent retail replay.",
+          "independentlyPlaytested": false,
+          "findings": [
+            "A distinct missing Dear Diary quest. Fresh wiki diary/character information and original player completion reports support staying in the same match after the boss and listening repeatedly. No universal quote count or Elvira/co-op credit promise."
+          ],
+          "unverified": [
+            "No fixed interaction count is promised: source reports vary and do not establish one universal current quote count.",
+            "This is a listening route. Full lore transcripts, audio downloads, character-specific quote inventories and current co-op credit sharing are not reproduced or certified."
+          ],
+          "wholeGuideTextRead": true,
+          "allExistingStepsRead": true,
+          "stepChecks": [
+            {
+              "index": 1,
+              "title": "Use an original character for the diary",
+              "proposedStepSha256": "1c47ac1fc159ae56648cbf276c270df026268f9e3b9319cdac4575fdf33efc46",
+              "primaryDisplayedSource": "https://www.reddit.com/r/Infinitewarfare/comments/1c3fvgi/satisfying_code_input_aotrt_ee/",
+              "kind": "authored documentary explanation",
+              "allFieldsRead": true,
+              "review": "A distinct missing Dear Diary quest. Fresh wiki diary/character information and original player completion reports support staying in the same match after the boss and listening repeatedly. No universal quote count or Elvira/co-op credit promise.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/Infinitewarfare/comments/1c3fvgi/satisfying_code_input_aotrt_ee/"
+              ]
+            },
+            {
+              "index": 2,
+              "title": "Finish the main quest and stay in the match",
+              "proposedStepSha256": "e6cb440350563308410fd7f51dcb89f99eb074989900771f2b49d70b09065e1d",
+              "primaryDisplayedSource": "https://www.reddit.com/r/Infinitewarfare/comments/1c3fvgi/satisfying_code_input_aotrt_ee/",
+              "kind": "authored documentary explanation",
+              "allFieldsRead": true,
+              "review": "A distinct missing Dear Diary quest. Fresh wiki diary/character information and original player completion reports support staying in the same match after the boss and listening repeatedly. No universal quote count or Elvira/co-op credit promise.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/Infinitewarfare/comments/1c3fvgi/satisfying_code_input_aotrt_ee/"
+              ]
+            },
+            {
+              "index": 3,
+              "title": "Return to the diary beside the motel pool",
+              "proposedStepSha256": "4c184b0919cc072602a6e74a18c8c5260a54e5c66d270a8674c161c162b1e241",
+              "primaryDisplayedSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/",
+              "kind": "authored documentary explanation",
+              "allFieldsRead": true,
+              "review": "A distinct missing Dear Diary quest. Fresh wiki diary/character information and original player completion reports support staying in the same match after the boss and listening repeatedly. No universal quote count or Elvira/co-op credit promise.",
+              "extraTipEvidence": null,
+              "evidenceUrls": [
+                "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+              ]
+            }
+          ],
+          "requirementsAndRewardReviewed": true,
+          "imageReview": {
+            "parentFinalReview": "output/catalog-batch16-parent-review.json",
+            "limits": "The bounded set contains12 individually inspected native photos plus one explicitly authored diagram. Optional calling-card and Director’s Cut camera photos, a clear full glyph-wall row and additional fuse-route photos remain pending; no unselected raw is approved media."
+          },
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/",
+            "https://www.reddit.com/r/Infinitewarfare/comments/1c3fvgi/satisfying_code_input_aotrt_ee/"
           ]
         }
       ]
@@ -68978,27 +71726,6 @@
     "goal-ghosts-mayday-egg-stra-devastation",
     "goal-ghosts-nightfall-egg-stra-xp",
     "goal-waw-mobile-nacht-radio-silence",
-    "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-director-s-cut-extras-lobby-music",
-    "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-easter-eggs-hidden-song",
-    "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-easter-eggs-m-a-d-upgrade",
-    "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-easter-eggs-make-em-squeal-secret-calling-card",
-    "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-easter-eggs-message-rerouted-secret-calling-card",
-    "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-easter-eggs-play-as-elvira",
-    "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-easter-eggs-skullhop",
-    "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-game-features-attack-soul-challenges",
-    "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-game-features-fate-fortune-cards",
-    "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-inventory-elvira",
-    "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-map-walkthrough-afterlife-arcade",
-    "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-map-walkthrough-buildables",
-    "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-map-walkthrough-double-pack-a-punch",
-    "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-map-walkthrough-hypnosis-device",
-    "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-map-walkthrough-melee-weapons",
-    "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-map-walkthrough-mind-control-device",
-    "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-map-walkthrough-pack-a-punch",
-    "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-map-walkthrough-power",
-    "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-map-walkthrough-seismic-wave-generator",
-    "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-map-walkthrough-traps",
-    "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-map-walkthrough-violet-ray-device",
     "iw-the-beast-from-beyond-community-the-beast-from-beyond-director-s-cut-extras-lobby-music",
     "iw-the-beast-from-beyond-community-the-beast-from-beyond-director-s-cut-extras-mephistopheles-battle",
     "iw-the-beast-from-beyond-community-the-beast-from-beyond-easter-eggs-hidden-song",
@@ -71541,55 +74268,61 @@
     },
     {
       "mapIds": [
-        "bo3-der-eisendrache"
-      ],
-      "note": "Der Eisendrache: seven selected main/bow cards and sixty-three baseline steps were source-compared; seventy-nine proposed chapters include twenty-four native creator-video images, explicit Wolf story order, six Void skull references, four-total-shot Fire chain and completion-cue Lightning urns. The other eighteen cards remain census-only. Ranked co-op absolute minimum, extra-arrow triggers, exact soul/timer quotas, last-generation differences, detailed weapon damage and independent retail replay remain unresolved. No exhaustive-map or gameplay certificate."
-    },
-    {
-      "mapIds": [
         "bo3-shadows-of-evil"
       ],
       "note": "Main-route overview, Pack-a-Punch, swords, flags, Shadowman, finale and authored route now have77 reviewed chapters and25 new native images in31 placements. Remaining setup/side-secret, cipher and ordinary firearm gaps are outside this pass. No exhaustive-map or independent gameplay certificate."
     },
     {
       "mapIds": [
-        "bo3-der-eisendrache"
-      ],
-      "note": "Der Eisendrache Batch17: the eighteen remaining existing setup/side-secret cards and all forty-nine inherited chapters were source-compared; eighty-two proposed chapters include four labelled original diagrams and one unchanged Batch16 native clock-wall frame. BRM is corrected to the original trophy source's six wall plates and 1,800-point purchase; no new native locator photos could be captured while private IAB was unavailable. Free Death Machine wallrun, globe disco, five radios, eleven ciphers plus scrap, individual weapon stats and refill props remain explicit separate research gaps. No exhaustive-map or independent gameplay certificate."
-    },
-    {
-      "mapIds": [
-        "iw-attack-of-the-radioactive-thing"
-      ],
-      "note": "Attack: two inherited main/chemistry cards and all 17 chapters read; documentary revisions contain 29 chapters, with one authored main adding 30. Four radio compounds have complete reaction chains. The other 21 cards/32 chapters were counted only. This bounded revision is not an exhaustive gameplay certificate."
-    },
-    {
-      "mapIds": [
         "iw-attack-of-the-radioactive-thing"
       ],
       "note": "Remaining Attack checks include every current chemical-board entry, the exact market O landmark, fifth-mixture radio role/output name/bomb compatibility, current-build co-op timers/retry limits and Director’s Cut/Boss Battle/late-join rewards. Preserved source-only claims and native reference limits remain documented."
+    },
+    {
+      "mapIds": [
+        "bo3-der-eisendrache"
+      ],
+      "note": "Reviewed material covers both main routes, four community bow upgrades, practical setup utilities, shield/Ragnarok, the Dead Again song, earlier side quests and their selected images. New supplements add the music box, three gramophones, free Death Machine wall trigger, globe disco and five lore radios with full transcripts and 13 native frames, plus eleven cipher messages and Takeo’s letter with six original decoder diagrams and ten checked supplied-input methods/postprocessing. Remaining work: complete physical routes and readable native images for every cipher and scrap fragment; formula-board inputs/plots and independent Japanese/fragment review; complete weapon inventory, wall locations/prices and weapon-specific upgraded names/ammo; shield refill-prop mechanics and remaining ambient-prop leads. Some timing, repeatability, co-op/offline and weapon-compatibility details remain untested. These bounded reviews do not certify every map secret or independent retail gameplay."
+    },
+    {
+      "mapIds": [
+        "iw-attack-of-the-radioactive-thing"
+      ],
+      "note": "Attack: all 23 inherited cards and 49 original chapters have now been read across the main/chemistry and remaining-map revisions. The remaining 21 source cards now have 70 chapters, with a distinct Dear Diary route adding 3. Original-source limits remain; this is documentary coverage, not exhaustive gameplay certification."
+    },
+    {
+      "mapIds": [
+        "iw-attack-of-the-radioactive-thing"
+      ],
+      "note": "Remaining Attack checks include current device functions/upgrade statistics, Afterlife solo conditions, Soul Challenge numeric tiers, native music activation/replay details, exact Skull Hop minima/retry/reward behavior and cross-profile or Director’s Cut credit rules. Pending photo candidates are not presented as inspected assets."
+    },
+    {
+      "mapIds": [
+        "coldwar-outbreak"
+      ],
+      "note": "Season Two Reloaded’s 31 source-listed records have 23 chapters and 29 historical location photos, covering 17 recorders and twelve regional faction-radio stations. Current retail unlock behavior, complete in-game name spelling and later releases remain outside this review."
     }
   ],
   "dataHashFormat": "SHA-256 of UTF-8 JSON files with LF line endings, matching Git and GitHub Pages.",
   "dataSha256": {
     "catalog.json": "1d06d2aa4a42db59b97868073ddbab1d6a33b3ffb4167f2ebe71ceed09eddf2d",
-    "community-corrections.json": "a36453feca9f54ef91a9dbc7969e57f700336a0c019bea1c8d89c94f68cebf3b",
-    "coverage-gaps.json": "99be0dc14ec7da8844bc4b9b6ffd746bf3d40e9ecf387002a3ec76233f828441",
+    "community-corrections.json": "1efff7dfcb0c294a75a63169d8fdfeaa1146baf1e6dbbe8e0e05f3fa1a4e8617",
+    "coverage-gaps.json": "d7c74adc7055f034ae3f5f127c02de1f0d8e3bf9a7abd7e7f229fedb3bc54e3c",
     "guides-aw.json": "b5a7e5fb7d83e776452f77060d0714c13f63ae8eeb6e367272c0d00a38cc3855",
     "guides-classic.json": "adfcf8a0e55f347da12fc3632c9c04406f3bc65315763f0193aa3be754916f0d",
-    "guides-community.json": "f1984d5c07723a3874983ae8a1cdcce1b18861fd8b3221e7898d5d88237fe66f",
+    "guides-community.json": "195def76291fc27694f909fc82a5c7a50bd381528ff3eceb6c5a988f69635c4e",
     "guides-completion-classic.json": "ed538054e7aeb5575de95dc78a345deb25a4111b47049bbd73fd29de06905c7a",
     "guides-completion-modern.json": "5e0086c91529a858bf011cbb6ccfe4bc469b3743f49c9175aac4e0115f460748",
     "guides-completion-modes.json": "7661fccf1e3b1fe4466e8a1f7219706fa1851d6b609c826fa045207810ad3bc5",
-    "guides-extra.json": "8e5fe1cccee16df3c91298faa20187f2d39890f2acc074d77487208f2d729165",
+    "guides-extra.json": "7935b60aad43f902f44be83e741a756f62243eec626493754309db872e4dfa7c",
     "guides-goal-classic.json": "5621ad45c8750da623b7c48c4fbbb023c358c9853375d50d29e2fedba3b176dd",
-    "guides-goal-modern.json": "350b1e6994d354e23b99d7081531b52f987796d26d847af502405235d48bfc02",
-    "guides-goal-modes.json": "4d77a681602710c40cd1e631fb3b48f8779ae56e86f3ec95c9ed851d65abbff3",
+    "guides-goal-modern.json": "c8a852b8ab0147729e8ffe1d18ee290fdee25680b1c043cc1c87999406e9d49f",
+    "guides-goal-modes.json": "a063eeb0db74f9c40a3edecc71cd08853a01dc83c7a4c0f6ef88bde5e202a86c",
     "guides-goal-root.json": "07bf0f2fc1b46997a8d02c86cd867f274b26499e0e61081cb77dc7afc09552d1",
     "guides-modern.json": "1082b5feea32d0f1a1650977f1d89b6b789a2b779dcb3e0c2eec9d5cbd9b3630",
     "guides-super-ee-doa4.json": "1d038197c8325f946290b8886d95fce8889291c193a5e8ec6f54124033a17a4a",
     "media-completion.json": "58882d44af4bbe2e09648819c06547084fc33caf994cace9122d512163c22366",
-    "media.json": "49f245c9bee6bfdb438e9d865a48e4e1c4ac37a968800b92c2b33c9108f53116",
+    "media.json": "a9c3cc905dd2fe7e834d317d4a586ae72525c6d256fdd035f9db4d2eb9a1ddaa",
     "reddit-sources.json": "fd7f1c5e946d258d708cc7355e5826a2a8fc02ef9ce071c9e40a4bced6de646a",
     "references.json": "777f48a6c96af27b3e8c11ab161bdf13e6015ebcb4f18d8d24bf81397fdafe06",
     "source-gaps.json": "14803ee0797b8ad30644ff156b1197ce1328fd65a8dd95b3ce04e95ddcf16518"
@@ -71696,7 +74429,13 @@
       "Shaolin rooftop companion loads both the full alphabet and starting-letter reference after its first-chapter jump.",
       "Outbreak Pact Zoo altar chapter loads both its retained regional map and new native altar photo.",
       "Forsaken cassette chapter loads the native Samantha’s Ballad pickup with random-loot qualifier.",
-      "All seven selected Batch15 guide pages passed jump/focus, expected chapter/reference count and image checks without horizontal overflow at the actual1280x720 desktop viewport."
+      "All seven selected Batch15 guide pages passed jump/focus, expected chapter/reference count and image checks without horizontal overflow at the actual1280x720 desktop viewport.",
+      "DE cipher thirty-chapter guide preserves the exact repeated-space input in a pre/code block; chapter26 jump focuses the section and chapter27 loads its1100px original decoder diagram.",
+      "All six new DE supplement pages pass chapter counts, direct step references, jump focus and desktop overflow checks; music-box, gramophone, wall-trigger, disco-effect and church-radio references load.",
+      "Attack Skull Hop twelve-chapter guide loads both the match-specific wall-word example and credited alphabet; every quoted chapter now exposes its credited source directly beside the step.",
+      "Attack five-chapter MAD upgrade loads all three native attachment panels and their prompts; Dear Diary has three direct chapter references and a working final-step jump.",
+      "Outbreak Season Two Reloaded has23 direct step references; its Maxis chapter loads all four regional radio photos, and a checked chapter survives reload before temporary progress is cleared.",
+      "Updated app version tag loads the per-step quoted-source fallback; actual viewport1280x720, narrow-screen recheck remains unverified. Full evidence is output/batch16-browser-qa.json."
     ],
     "currentBatchResponsiveLimit": "The in-app browser viewport override did not change the actual 1280x720 viewport during these batches. Current recorded checks are desktop-only; a narrow-screen recheck remains unverified. Earlier recorded mobile checks retain their original scope."
   }

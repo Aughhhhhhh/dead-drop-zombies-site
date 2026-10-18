@@ -6065,5 +6065,58 @@
         "researchSource": "https://www.reddit.com/r/Infinitewarfare/comments/tg29uu/attack_of_the_radioactive_thing/"
       }
     ]
+  },
+  {
+    "id": "iw-attack-of-the-radioactive-thing-dear-diary",
+    "mapId": "iw-attack-of-the-radioactive-thing",
+    "title": "Dear Diary: Willard’s personal recordings",
+    "category": "side",
+    "difficulty": "Main quest required",
+    "players": "Solo or co-op; use an original character",
+    "summary": "Return to the motel diary after the boss fight and finish the recordings in the same match.",
+    "requirements": [
+      "Play as A.J., Andre, Poindexter or Sally. The source says Elvira cannot trigger the diary recordings.",
+      "Complete the main quest and remain in the same match so the remaining recordings are available."
+    ],
+    "reward": "Progress toward Dear Diary by listening to the required personal recordings in one match.",
+    "checked": "2026-10-18",
+    "sources": [
+      {
+        "title": "The_Beebat/bicoezbluntkid: diary location and character limit",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+      },
+      {
+        "title": "LazarouDave and players: firsthand diary completion reports",
+        "url": "https://www.reddit.com/r/Infinitewarfare/comments/1c3fvgi/satisfying_code_input_aotrt_ee/"
+      }
+    ],
+    "relatedGuideIds": [
+      "iw-attack-of-the-radioactive-thing-main",
+      "iw-attack-of-the-radioactive-thing-community-attack-of-the-radioactive-thing-easter-eggs-play-as-elvira"
+    ],
+    "sourceOmissions": [
+      "No fixed interaction count is promised: source reports vary and do not establish one universal current quote count.",
+      "This is a listening route. Full lore transcripts, audio downloads, character-specific quote inventories and current co-op credit sharing are not reproduced or certified."
+    ],
+    "steps": [
+      {
+        "title": "Use an original character for the diary",
+        "body": "Start Attack as A.J., Andre, Poindexter or Sally. The attributed map source says Elvira does not trigger Willard’s recordings, and the firsthand player report describes an unsuccessful Elvira attempt followed by original-character completion. Check your starting character before committing to the main quest, then complete the diary listening in that same run.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/Infinitewarfare/comments/1c3fvgi/satisfying_code_input_aotrt_ee/"
+      },
+      {
+        "title": "Finish the main quest and stay in the match",
+        "body": "Complete the main route through Crog-Zilla and the final safe-paper bomb input, then remain in that match instead of ending the game. Firsthand players report the remaining diary lines becoming available after the boss fight; starting a fresh match would separate this listening session from that completion.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/Infinitewarfare/comments/1c3fvgi/satisfying_code_input_aotrt_ee/"
+      },
+      {
+        "title": "Return to the diary beside the motel pool",
+        "body": "Locate Willard’s diary near the motel pool and interact to play a recording. Let its dialogue finish, then interact again to continue through the available recordings. Keep checking the objective or achievement feedback rather than assuming one copied number of interactions covers every character or current build.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/attack-of-the-radioactive-thing/"
+      }
+    ]
   }
 ]

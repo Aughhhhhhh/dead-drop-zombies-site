@@ -1186,5 +1186,772 @@
       }
     ],
     "checked": "2026-10-13"
+  },
+  {
+    "id": "bo3-der-eisendrache-cipher-decoder-reference",
+    "mapId": "bo3-der-eisendrache",
+    "title": "Ciphers & Takeo’s letter — decoder reference",
+    "category": "side",
+    "difficulty": "Medium",
+    "players": "1–4",
+    "summary": "Eleven cipher messages and Takeo’s letter, with worked decoder methods and original diagrams. Physical locator photos and the full formula-board reproduction remain unfinished.",
+    "requirements": [
+      "Black Ops III Der Eisendrache. Read the matching heading rather than relying on another guide’s cipher numbering.",
+      "For your own decoding, preserve letter case, spaces and punctuation where the individual method requires them.",
+      "This is a decoder reference. It does not yet provide a complete physical collection route for every paper and scrap fragment."
+    ],
+    "reward": "Read the encoded story messages and Takeo’s letter; use the worked methods to check the supplied transcriptions.",
+    "steps": [
+      {
+        "title": "Identify a cipher by its heading or appearance",
+        "body": "The map reference records eleven ciphers and one assembled Japanese letter. Numbering differs between community lists, so use the names below: MAXIS, TESTSUBJECT, Navajo, 198346572, Trithemius, Peter’s numbers, semaphore, Base64, PURPLE, The Castle and formulas. These are reading and decoding notes; physical locator photographs and the complete scrap-fragment route remain unfinished.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
+      },
+      {
+        "title": "MAXIS — find the monitor and build this square",
+        "body": "The original solver places MAXIS on a monitor inside the church/computer room. Use a 5×5 square seeded with MAXIS, then the remaining alphabet in order. Keep J and omit W: the five rows are MAXIS / BCDEF / GHJKL / NOPQR / TUVYZ. V and W share a position. Ordinary decoders that merge I/J will give the wrong result.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/43yitz/der_eisendrache_maxis_cipher_decryptedspoiler/",
+        "images": [
+          {
+            "src": "./assets/classic-batch18-de-bifid-grid.svg",
+            "alt": "MAXIS Bifid square; keep J, omit W.",
+            "caption": "Original decoder diagram, not a gameplay photograph.",
+            "source": "https://www.reddit.com/r/CODZombies/comments/43yitz/der_eisendrache_maxis_cipher_decryptedspoiler/",
+            "credit": "Dead Drop — original decoder diagram"
+          }
+        ]
+      },
+      {
+        "title": "MAXIS — reverse the Bifid coordinates",
+        "body": "Copy the 99 cipher letters:\n\nBVEIYO UCAYIF UNEFGV TTQSCG IMBAFT OHMNCF VCOIVX FNGOVF RSBEYM UHEGNC IJZQXA BHTFYK HRAIRP JFHQTO NBEHRM YQAUFN EAR\n\nFor each letter, write its row number followed by its column number in the square, using numbers 1–5. Join the resulting 198 digits. Split after digit 99 and put the second half beneath the first. Read each vertical pair as row then column to recover a letter. This is one full-message block, not a short repeating period.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/43yitz/der_eisendrache_maxis_cipher_decryptedspoiler/"
+      },
+      {
+        "title": "MAXIS — literal reading and the VV spelling",
+        "body": "FATHER INTRODUCED ME TO A NEVV FRIEND THAT JUST ARRIVED HIS NAME IS EDVVARD HE IS NICE BUT HE DOESNT LIKE TO SHARE THE TOYS",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/43yitz/der_eisendrache_maxis_cipher_decryptedspoiler/",
+        "html": "<p>FATHER INTRODUCED ME TO A NEVV FRIEND THAT JUST ARRIVED HIS NAME IS EDVVARD HE IS NICE BUT HE DOESNT LIKE TO SHARE THE TOYS</p>",
+        "tip": "The original solver preserves NEVV and EDVVARD. Reading VV as W gives NEW and EDWARD."
+      },
+      {
+        "title": "TESTSUBJECT — use a V/W Playfair square",
+        "body": "Identify the sheet headed TESTSUBJECT. Use the square TESUB / JCADF / GHIKL / MNOPQ / RVXYZ. Keep J; V and W share one cell. Read cipher pairs left to right. For a pair in one row, move both letters one cell left with wraparound. For one column, move both one cell up. Otherwise take the opposite corners in the same rows. The original solver’s pair 7 is UB; an inherited wiki transcription has EB, which incorrectly produces TESTTUBJECT.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/43vfxw/der_eisendrache_testsubject_cipher_solvedspoiler/",
+        "images": [
+          {
+            "src": "./assets/classic-batch18-de-playfair-grid.svg",
+            "alt": "TESTSUBJECT Playfair square with V/W sharing.",
+            "caption": "Original decoder diagram, not a gameplay photograph.",
+            "source": "https://www.reddit.com/r/CODZombies/comments/43vfxw/der_eisendrache_testsubject_cipher_solvedspoiler/",
+            "credit": "Dead Drop — original decoder diagram"
+          }
+        ]
+      },
+      {
+        "title": "TESTSUBJECT — preserve real Xs",
+        "body": "Use these pairs:\n\nEG BH IA SR ES UE UB TF CH SR EG TN SV HA CO AK UC TB UJ TY HO MJ NC DS SM OU XK IC EC AK EA NX TV UC EG UH UV SM JV SC ES EG SC TR RU IC ER YX SU SV UH XY EC JX CV NX YX VT DF RU NA DO EB VT EG BC PS XT BT CT JE AO CU ME LA HS AK MV UN MX BJ MX UR AQ TY\n\nDecode all pairs first. Remove filler Xs between repeated letters, but keep the real X in MEXICAN. In this message, VXV becomes VV after removing the filler; read that doubled VV as one W. This turns THATVXVESEXEKVXVEARENOVXVREADY into THAT WE SEEK WE ARE NOW READY. The letter stream contains THEARMY; UNDEAD is an explanatory addition in some community transcriptions, not part of this literal result.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/43vfxw/der_eisendrache_testsubject_cipher_solvedspoiler/"
+      },
+      {
+        "title": "TESTSUBJECT — original solver’s reading",
+        "body": "The last test subject the mexican died but during the autopsy I have discovered the key to create the army that we seek we are now ready to capture the four subjects identified in report forty four",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/43vfxw/der_eisendrache_testsubject_cipher_solvedspoiler/",
+        "html": "<p>The last test subject the mexican died but during the autopsy I have discovered the key to create the army that we seek we are now ready to capture the four subjects identified in report forty four</p>"
+      },
+      {
+        "title": "Navajo — translate tokens rather than single characters",
+        "body": "Identify the sheet starting A-CHI BE-TKAH JO. The original solver describes it as under a bed by Samantha’s room, while also saying he worked from another player’s image. Some tokens stand for a letter, JO means HAVE, BE-GHA means BY and BE-TKAH means a space. Translate every token with the supplied key, in printed order; do not apply a Caesar shift to the hyphenated words.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/44ascs/samanthas_bedroom_code_solvedspoiler/",
+        "images": [
+          {
+            "src": "./assets/classic-batch18-de-navajo-key.svg",
+            "alt": "The 22 token meanings used by this Navajo message.",
+            "caption": "Original decoder key, not the photographed game sheet.",
+            "source": "https://www.reddit.com/r/CODZombies/comments/44ascs/samanthas_bedroom_code_solvedspoiler/",
+            "credit": "Dead Drop — original decoder diagram"
+          }
+        ]
+      },
+      {
+        "title": "Navajo — input and literal result",
+        "body": "Input:\n\nA-CHI BE-TKAH JO BE-TKAH AH-LOSZ AH-JAH MOASI DZEH YEH-HES A-KEH-DI-GLINI DZEH LHA-CHA-EH BE-TKAH WOL-LA-CHEE TSAH NE-AHS-JAH THAN-ZIE AH-JAH GAH BE-TKAH A-WOH NE-AHS-JAH TSAH-AS-ZIH BE-TKAH CLA-GI-AIH TLO-CHIN KLESH THAN-ZIE DZEH LHA-CHA-EH BE-TKAH BE-GHA BE-TKAH TSIN-TLITI\n\nThe literal token translation is I HAVE RECEIVED ANOTER TOY POSTED BY M. ANOTER has no H in the supplied cipher. ANOTHER is the intended reading inferred by the original solver. Keep the missing-letter distinction when checking your own transcription.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/44ascs/samanthas_bedroom_code_solvedspoiler/"
+      },
+      {
+        "title": "198346572 — keep the missing character",
+        "body": "Find the typewritten sheet on the Supply Room desk beside the Wunderfizz location. Its key is 198346572. Copy all letters and punctuation below; remove only the spaces used to group the ciphertext. Keep the asterisk in NGLE* as a placeholder for the intentionally blank character. Dropping that position changes every later column alignment.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/450dqp/198346572_cipher_solvedspoiler/"
+      },
+      {
+        "title": "198346572 — original solver’s ciphertext",
+        "body": "IMEIV TGOOC RAPOI WILND TATHB ESGII EAVRA DELBC HRTLA CSITA NIEBL\nGGAAO SRGTD THADH HMOCK ESTAE TOWHS ATST. VERAN YERLW ANTIE ANHUS\nFOWHI AEGH. HEAEA IOBRB UDWAD ,WIIN YTAFA LCENT ACAEA CFEIE POTIE\nINKWH HBATV IIMEH NITDW NTOVA NTTAD SENRS TRDHR UCT,T SACAN HG.TI\nACEIE IHATR DTTEN MIODE FWAGI NEERB INNSH TECNH AITML ETDHE CINST\nHETHR TENGI TEITE ,DLTE LACOR NSE.W MTITE ,.-DN STERW E.HIN HARRR\nNGLE* TAYEE AEOMC MIRED TMEFB IE",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/450dqp/198346572_cipher_solvedspoiler/",
+        "html": "<pre><code>IMEIV TGOOC RAPOI WILND TATHB ESGII EAVRA DELBC HRTLA CSITA NIEBL\nGGAAO SRGTD THADH HMOCK ESTAE TOWHS ATST. VERAN YERLW ANTIE ANHUS\nFOWHI AEGH. HEAEA IOBRB UDWAD ,WIIN YTAFA LCENT ACAEA CFEIE POTIE\nINKWH HBATV IIMEH NITDW NTOVA NTTAD SENRS TRDHR UCT,T SACAN HG.TI\nACEIE IHATR DTTEN MIODE FWAGI NEERB INNSH TECNH AITML ETDHE CINST\nHETHR TENGI TEITE ,DLTE LACOR NSE.W MTITE ,.-DN STERW E.HIN HARRR\nNGLE* TAYEE AEOMC MIRED TMEFB IE</code></pre>"
+      },
+      {
+        "title": "198346572 — rebuild the 2–1 AMSCO cells",
+        "body": "Draw nine columns labelled 1 9 8 3 4 6 5 7 2. Across the rows, alternate cells holding two characters and one character, continuously: the next row begins with the opposite size. Stop after 357 characters, counting punctuation and the blank placeholder. Fill columns top to bottom in numeric order 1→9; their physical positions are 1,9,4,5,7,6,8,3,2. Read the filled rows left to right. The blank becomes LE*TER, so T is the inferred missing character.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/450dqp/198346572_cipher_solvedspoiler/",
+        "images": [
+          {
+            "src": "./assets/classic-batch18-de-amsco-grid.svg",
+            "alt": "AMSCO key, alternating cells and column lengths.",
+            "caption": "Original worked transposition diagram.",
+            "source": "https://www.reddit.com/r/CODZombies/comments/450dqp/198346572_cipher_solvedspoiler/",
+            "credit": "Dead Drop — original decoder diagram"
+          }
+        ]
+      },
+      {
+        "title": "198346572 — solver’s reading, with the blank interpreted as T",
+        "body": "I MEET THE REPORTER WHO WAS TO DELIVER THE ARTIFACT. HE SAID HE WAS GOING TO BRING IT ON HIS TRUCK IN A CRATE. BUT WHEN I ARRIVED, THE REPORTER WAS BABBLING, AND ACTING WILDLY, WAVING A LETTER IN HIS HAND TELLING ME TO STAY AWAY. THE CRATE CONTAINING THE ARTIFACT HAD BEEN SEALED WITH SOME ANCIENT MAGIC. WHEN I TOLD HIM I MUST HAVE THE ARTIFACT AND MOVED TOWARD THE CRATE, HE ATTACKED ME. I ACTED IN SELF-DEFENSE STABBING HIM IN THE CHEST.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/450dqp/198346572_cipher_solvedspoiler/",
+        "html": "<p>I MEET THE REPORTER WHO WAS TO DELIVER THE ARTIFACT. HE SAID HE WAS GOING TO BRING IT ON HIS TRUCK IN A CRATE. BUT WHEN I ARRIVED, THE REPORTER WAS BABBLING, AND ACTING WILDLY, WAVING A LETTER IN HIS HAND TELLING ME TO STAY AWAY. THE CRATE CONTAINING THE ARTIFACT HAD BEEN SEALED WITH SOME ANCIENT MAGIC. WHEN I TOLD HIM I MUST HAVE THE ARTIFACT AND MOVED TOWARD THE CRATE, HE ATTACKED ME. I ACTED IN SELF-DEFENSE STABBING HIM IN THE CHEST.</p>"
+      },
+      {
+        "title": "Trithemius — subtract a growing shift",
+        "body": "Identify the letter sheet starting AGVHV YNLOA. Copy its letters, ignoring punctuation and print-grouping spaces:\n\nAGVHV YNLOA OLFOO IJCWM BZUPR NOEWS SSZOM VYFZQ HWUZJ ECBDQ QGOOG GSBTH VMMWQ NBHUU SEFOD BQHCL PHWXL VZJCQ MEOHJ YWXSZ YLSKD TGHXM KFIAO ETRTX HJLMB ZUXPD TIGOE XZCQB SZZFC UVISV NPNBB VOSNG WFTKA CBLZT SGEFE LBVQK RDDPW UHWKH UB\n\nNumber only those letters from 0. Shift the first letter back 0 places, the next back 1, then 2, continuing modulo 26. A wraps back to Z. Punctuation does not advance the count. This reproduces the message below from the retained transcription.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
+      },
+      {
+        "title": "Trithemius — the Great Battle message",
+        "body": "After the Great Battle, they stood upon the mound. Their light shone down and cleansed all the sickness for as far as the eye could see. They are the first; they are the last... Visions of fractured worlds and strange rooms haunted our dreams.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+        "html": "<p>After the Great Battle, they stood upon the mound. Their light shone down and cleansed all the sickness for as far as the eye could see. They are the first; they are the last... Visions of fractured worlds and strange rooms haunted our dreams.</p>"
+      },
+      {
+        "title": "Peter’s numbers — use two-digit homophones",
+        "body": "Use the numbered letter key shown below with the long numeric sheet. Remove line breaks, then split the digits into pairs continuously from the first digit: 01 / 95 / 13 / 92 becomes M / I / S / S. Keep leading zeros. Several number pairs represent the same letter, so a simple 01=A alphabet will fail. The supplied key assigns every code from 00 through 99 exactly once.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+        "images": [
+          {
+            "src": "./assets/classic-batch18-de-homophonic-key.svg",
+            "alt": "Every two-digit code, 00–99, with its letter.",
+            "caption": "Original decoder key from the retained transcription.",
+            "source": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+            "credit": "Dead Drop — original decoder diagram"
+          }
+        ]
+      },
+      {
+        "title": "Peter’s numbers — retained ciphertext",
+        "body": "0195139295 7091854921 1054712398 6370390898 8490611011 5622286189\n2366167376 3208738570 7027907542 2570401771 3781284542 1687582628\n0768386270 2802744635 5913527356 4057696562 4153135070 2366114912\n3057064940 0157856927 7314644988 1464697794 2556038170 8151097081\n1051066913 9040492464 4133498180 7285859888 5696883606 7116527007\n1539510874 4991098271 4099044954 5079356178 0890805206 0346277406\n9895795661 4729562778 7505190799 2390016859 2951644089 9307285444\n9861108118 6949176658 0289730858 5108917049 3894377213 5505159109\n0563703957 8402280143 9807652061 3270821843 5376183249 7596576157\n2376519817 1061108107 05877839",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+        "html": "<pre><code>0195139295 7091854921 1054712398 6370390898 8490611011 5622286189\n2366167376 3208738570 7027907542 2570401771 3781284542 1687582628\n0768386270 2802744635 5913527356 4057696562 4153135070 2366114912\n3057064940 0157856927 7314644988 1464697794 2556038170 8151097081\n1051066913 9040492464 4133498180 7285859888 5696883606 7116527007\n1539510874 4991098271 4099044954 5079356178 0890805206 0346277406\n9895795661 4729562778 7505190799 2390016859 2951644089 9307285444\n9861108118 6949176658 0289730858 5108917049 3894377213 5505159109\n0563703957 8402280143 9807652061 3270821843 5376183249 7596576157\n2376519817 1061108107 05877839</code></pre>"
+      },
+      {
+        "title": "Peter’s numbers — computed reading",
+        "body": "MISSION LOG ENTRY FORTY FIVE. I AM OVER THE SITE LOOKING DOWN THROUGH THE OPEN DOOR. I CAN SEE A WEIRD DISTORTION BELOW ME LIKE A LOCALIZED AURORA BOREALIS. I WOULD NORMALLY CANCEL THE OPERATION BUT WE DONT HAVE TIME. LUCKILY I HAVE TAKEN EXPERIMENTAL WEAPONRY VERSION THREE THAT NO ONE HAS SEEN BEFORE FROM MY PREVIOUS MISSION. NEVER SAY NEVER. PETER.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+        "tip": "Spaces and punctuation were added for reading. The actual decoded letters include A in I CAN SEE A WEIRD DISTORTION, which the retained prose transcription omits."
+      },
+      {
+        "title": "Semaphore — keep separators and number mode separate",
+        "body": "The original solver describes a flag sheet hanging in a window near the dragon head closest to the KRM wallbuy. Read each semaphore pose in printed order. In the solver’s letter transcription, J separates words. A number-sign pose changes the next symbol to a number: the symbols otherwise read as I and B become 9 and 2. Remove those separator Js after transcription. The actual photographed flag angles still need a readable native reference.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/43y3bn/spoilers_new_der_eisendrache_cipher_decoded/"
+      },
+      {
+        "title": "Semaphore — original solver’s letter transcription",
+        "body": "JAFTER\nJTHE JS\nUCCESS\nJAT JTH\nE JRISI\nNG JSUN\nJFACIL\nITY JDI\nVISION\n*I JIS\nJMOVING\nJWITH\nJPHASE\n*B JTHE\nJISLAN\nD JFACI\nLITY JI\nS JNOW\nJOPERAT\nIONAL J\nAND JIN\nITIAL J\nTESTING\nJUNDER\nWAY",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/43y3bn/spoilers_new_der_eisendrache_cipher_decoded/",
+        "html": "<pre><code>JAFTER\nJTHE JS\nUCCESS\nJAT JTH\nE JRISI\nNG JSUN\nJFACIL\nITY JDI\nVISION\n*I JIS\nJMOVING\nJWITH\nJPHASE\n*B JTHE\nJISLAN\nD JFACI\nLITY JI\nS JNOW\nJOPERAT\nIONAL J\nAND JIN\nITIAL J\nTESTING\nJUNDER\nWAY</code></pre>",
+        "tip": "The asterisk marks number mode. This reproduces the original solver’s transcription; it is not a new visual reading of the unseen flags."
+      },
+      {
+        "title": "Semaphore — decoded Division 9 message",
+        "body": "After the success at the Rising Sun facility, Division 9 is moving with phase 2. The island facility is now operational and initial testing underway.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/43y3bn/spoilers_new_der_eisendrache_cipher_decoded/",
+        "html": "<p>After the success at the Rising Sun facility, Division 9 is moving with phase 2. The island facility is now operational and initial testing underway.</p>"
+      },
+      {
+        "title": "Base64 — join the printed lines",
+        "body": "Identify the sheet starting V2UgaGF2ZSB. Join all printed lines and decode standard Base64 to text. The complete input is:\n\nV2UgaGF2ZSB\nkaXNjb3Zlcm\nVkIHRoYXQgd\nGhlcmUgYXJl\nIGJlaW5ncyB\n0aGF0IGNhbi\nB0cmF2ZWwgY\nmV0d2VlbiBk\naW1lbnNpb25\nzIHdpdGhvdX\nQgdGhlIGFpZ\nCBvZiB0aGUg\ndGVsZXBvcnR\nlci4K\n\nThe exact result is: We have discovered that there are beings that can travel between dimensions without the aid of the teleporter. The source bytes end with a line break. The literal noun is singular teleporter.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
+      },
+      {
+        "title": "PURPLE — retained clocktower ciphertext",
+        "body": "EFZIL COVNITF KUN ER GYYWKJOLC FEEKUBY XIRXAANW PA VUVYSOV QY DEY FO AZ IT IUIB SYNWM DOQ MIMR JOAB EQ",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+        "html": "<pre><code>EFZIL COVNITF KUN ER GYYWKJOLC FEEKUBY XIRXAANW PA VUVYSOV QY DEY FO AZ IT IUIB SYNWM DOQ MIMR JOAB EQ</code></pre>"
+      },
+      {
+        "title": "PURPLE — reproduce the clocktower solution",
+        "body": "Use a PURPLE/Type B simulator in decryption mode. Set switches to 1-1,1,1-12 and the alphabet to AEIOUYBCDFGHJKLMNPQRSTVWXZ. Start a fresh machine before each attempt and feed the clocktower ciphertext without print-grouping spaces. These are the settings in Richkiller’s original solution document; they also reproduce the retained message in the linked simulator.",
+        "original": true,
+        "researchSource": "https://www.docdroid.net/d1mEjdT/der-eisendrache-clocktower-cipher-solution-pdf"
+      },
+      {
+        "title": "PURPLE — computed reading",
+        "body": "AFTER SENDING HIM ON COUNTLESS SUICIDE MISSIONS HE REFUSES TO DIE HE IS IN YOUR HANDS NOW DONT FAIL US.",
+        "original": true,
+        "researchSource": "https://www.docdroid.net/d1mEjdT/der-eisendrache-clocktower-cipher-solution-pdf"
+      },
+      {
+        "title": "The Castle — preserve the spaces in this input",
+        "body": "The Castle\n\no yo l rrgnrdcyhea thsyar   a p w sryy c auM  ag ,naaca ldwyInmrphoto… Ilulf yoirntin teop noekuaoku Zyiooy.ee  ulZ",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+        "html": "<pre><code>The Castle\n\no yo l rrgnrdcyhea thsyar   a p w sryy c auM  ag ,naaca ldwyInmrphoto… Ilulf yoirntin teop noekuaoku Zyiooy.ee  ulZ</code></pre>",
+        "tip": "This input includes meaningful repeated spaces and punctuation. Copy from the code block; the single ellipsis (…) counts as one character."
+      },
+      {
+        "title": "The Castle — reverse both columnar transpositions",
+        "body": "Use nine columns with numeric ranks 2,6,4,1,3,8,9,7,5, corresponding to the case-sensitive key TheCastle. For the 115-character ciphertext, give columns 1–7 thirteen positions each and columns 8–9 twelve. Fill them top to bottom in ascending rank order, then read rows left to right. Remove the two trailing Z characters from that intermediate result. Repeat with thirteen positions in columns 1–5 and twelve in columns 6–9. Read the rows again; keep spaces throughout.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+        "images": [
+          {
+            "src": "./assets/classic-batch18-de-ubchi-grid.svg",
+            "alt": "Two reverse transpositions with key ranks and lengths.",
+            "caption": "Original worked reconstruction, not a gameplay photograph.",
+            "source": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+            "credit": "Dead Drop — original decoder diagram"
+          }
+        ]
+      },
+      {
+        "title": "The Castle — computed reading",
+        "body": "I cannot appear directly to you, I can only help you on your way…you guys are really making hard work of this. M",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+        "tip": "This reconstruction reproduces the retained ciphertext exactly on re-encryption, including its two Z pads. The computed message also has one leading space."
+      },
+      {
+        "title": "Formula boards — credited decoded message",
+        "body": "Division 9 has completed the resurrection of the ancient beasts for your eastern front. We expect Group 935 to reciprocate the favor.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+        "html": "<p>Division 9 has completed the resurrection of the ancient beasts for your eastern front. We expect Group 935 to reciprocate the favor.</p>",
+        "tip": "The retained reference credits waterkh and MrRoflWaffles. Full board equations, graph settings and a checked route to every board still need research; this chapter supplies the decoded text only."
+      },
+      {
+        "title": "Takeo’s letter to the Emperor — full retained translation",
+        "body": "To my beloved Emperor,\n\nIt has been several months since I last received orders from you, and I cannot help but say that I am at my wits end.\n\nSince I landed on the island, I, your foolish servant, have continued my inspection and recording of Division 9's activities. However, despite being directly dispatched by you, they regard my work with suspicious eyes. As such, I have been barred from, and forbidden access to, almost all research areas.\n\nThe situations continues to worsen. The installation commander ordered me to hand over my weapons for the duration of my stay. If he hadn't shown me the relevant papers ordering me to comply to maintain security, marked with your signature and seal, I would no doubt have objected. I have never raised any doubts whatsoever concerning your judgement Sir, but I am concerned that these circumstances may prove a great hindrance to my mission.\n\nI understand how important the alliance is for our righteous cause and final victory, but the influence of the German operating force \"Group 935\" has become increasingly worrisome. Over the last few months, the number of officers they have here has increased; I cannot help but think that it is they who are propelling the plan.\n\nJudging by what I have seen, the research done by Division 9 has been far beyond acceptable. In fact, their aberrational methods of weapons research can only be described as \"abnormal\". Not only do they use prisoners of war for living-body tests, but they have also been trying to control the supernatural powers of Element 115. I therefore think that if we permit them to continue their work, dark clouds may soon loom over our great country.\n\nI, your foolish servant, will continue to watch them, and will report to you whenever possible. If the idea so pleases you, I think it is necessary that you intervene directly in order to for us to better understand the aim of Division 9's research, and make clear the ramifications of their plans.\n\nI hope you receive this message.\n\nYour humble servant,\n\nTakeo Masaki.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+        "html": "<p>To my beloved Emperor,</p><p>It has been several months since I last received orders from you, and I cannot help but say that I am at my wits end.</p><p>Since I landed on the island, I, your foolish servant, have continued my inspection and recording of Division 9&#x27;s activities. However, despite being directly dispatched by you, they regard my work with suspicious eyes. As such, I have been barred from, and forbidden access to, almost all research areas.</p><p>The situations continues to worsen. The installation commander ordered me to hand over my weapons for the duration of my stay. If he hadn&#x27;t shown me the relevant papers ordering me to comply to maintain security, marked with your signature and seal, I would no doubt have objected. I have never raised any doubts whatsoever concerning your judgement Sir, but I am concerned that these circumstances may prove a great hindrance to my mission.</p><p>I understand how important the alliance is for our righteous cause and final victory, but the influence of the German operating force &quot;Group 935&quot; has become increasingly worrisome. Over the last few months, the number of officers they have here has increased; I cannot help but think that it is they who are propelling the plan.</p><p>Judging by what I have seen, the research done by Division 9 has been far beyond acceptable. In fact, their aberrational methods of weapons research can only be described as &quot;abnormal&quot;. Not only do they use prisoners of war for living-body tests, but they have also been trying to control the supernatural powers of Element 115. I therefore think that if we permit them to continue their work, dark clouds may soon loom over our great country.</p><p>I, your foolish servant, will continue to watch them, and will report to you whenever possible. If the idea so pleases you, I think it is necessary that you intervene directly in order to for us to better understand the aim of Division 9&#x27;s research, and make clear the ramifications of their plans.</p><p>I hope you receive this message.</p><p>Your humble servant,</p><p>Takeo Masaki.</p>",
+        "tip": "This is the community’s assembled English translation. Exact fragment placements, the assembled Japanese image and an independent translation check remain pending."
+      }
+    ],
+    "sourceQuote": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+    "sources": [
+      {
+        "title": "r/CODZombies — retained Der Eisendrache ciphers, inputs and letter",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
+      },
+      {
+        "title": "certainpersonio — original MAXIS Bifid solve",
+        "url": "https://www.reddit.com/r/CODZombies/comments/43yitz/der_eisendrache_maxis_cipher_decryptedspoiler/"
+      },
+      {
+        "title": "certainpersonio / deamonkeeper — original TESTSUBJECT Playfair solve",
+        "url": "https://www.reddit.com/r/CODZombies/comments/43vfxw/der_eisendrache_testsubject_cipher_solvedspoiler/"
+      },
+      {
+        "title": "certainpersonio — original Navajo solve and missing-H note",
+        "url": "https://www.reddit.com/r/CODZombies/comments/44ascs/samanthas_bedroom_code_solvedspoiler/"
+      },
+      {
+        "title": "certainpersonio — original AMSCO solve and intentional blank",
+        "url": "https://www.reddit.com/r/CODZombies/comments/450dqp/198346572_cipher_solvedspoiler/"
+      },
+      {
+        "title": "Original semaphore solve, credited to Shlappz by the map reference",
+        "url": "https://www.reddit.com/r/CODZombies/comments/43y3bn/spoilers_new_der_eisendrache_cipher_decoded/"
+      },
+      {
+        "title": "Richkiller — original PURPLE clocktower solution document",
+        "url": "https://www.docdroid.net/d1mEjdT/der-eisendrache-clocktower-cipher-solution-pdf"
+      },
+      {
+        "title": "Brian Neal — PURPLE simulator documentation",
+        "url": "https://pypi.org/project/purple/"
+      },
+      {
+        "title": "Rumkin — Übchi double-transposition method",
+        "url": "https://rumkin.com/tools/cipher/ubchi/"
+      }
+    ],
+    "relatedGuideIds": [
+      "bo3-der-eisendrache-main",
+      "bo3-der-eisendrache-community-der-eisendrache-map-walkthrough-teleporter"
+    ],
+    "sourceOmissions": [
+      "Readable native photos and a complete route to all eleven ciphers and the scrap fragments remain pending.",
+      "The full formula-board equations and plotting settings have not been transcribed or independently reproduced.",
+      "Semaphore verification covers the original solver’s letter transcription and number/separator handling; the actual flag angles were not visually checked.",
+      "Takeo’s letter is the retained community translation, with no independent Japanese translation or fragment-assembly check."
+    ],
+    "checked": "2026-10-18",
+    "supplementNote": "Ten supplied cipher transcriptions or postprocessing methods were checked locally, including a fresh Übchi reconstruction. This is source and mathematical research, not independent retail gameplay or a full locator-photo guide."
+  },
+  {
+    "id": "bo3-der-eisendrache-samantha-music-box",
+    "mapId": "bo3-der-eisendrache",
+    "title": "Samantha’s music box",
+    "category": "music",
+    "difficulty": "Easy",
+    "players": "1–4",
+    "summary": "Find the bedside music box and start its spinning miniature and tune.",
+    "requirements": [
+      "Black Ops III Der Eisendrache.",
+      "Reach Samantha’s bedroom in the Living Quarters."
+    ],
+    "reward": "The music box spins and plays its tune.",
+    "steps": [
+      {
+        "title": "Find the box beside Samantha’s bed",
+        "body": "In Samantha’s bedroom, check to the left of the bed for the small music box. It contains a miniature figure of Samantha with a teddy bear.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/43zizx/spoilers_der_eisendrache_easter_egg_megathread/",
+        "images": [
+          {
+            "src": "./assets/classic-batch18-de-music-box.webp",
+            "alt": "Open bedside music box.",
+            "caption": "Bedroom.",
+            "source": "https://www.youtube.com/watch?v=BWUzlG2LETU&t=203s",
+            "credit": "MrWilliamThor / Activision-Treyarch — original 2016 gameplay"
+          }
+        ]
+      },
+      {
+        "title": "Hold Interact to play it",
+        "body": "Aim at the music box and hold Interact. The miniature spins and music plays. The original finder reports that it can be activated again after it stops.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/43zizx/spoilers_der_eisendrache_easter_egg_megathread/"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Original discovery — bedside box, Use activation and repeat play",
+        "url": "https://www.reddit.com/r/CODZombies/comments/43zizx/spoilers_der_eisendrache_easter_egg_megathread/"
+      },
+      {
+        "title": "Independent day-one music-box report",
+        "url": "https://www.reddit.com/r/CODZombies/comments/43so4y/"
+      },
+      {
+        "title": "MrWilliamThor",
+        "url": "https://www.youtube.com/watch?v=BWUzlG2LETU"
+      }
+    ],
+    "relatedGuideIds": [
+      "bo3-der-eisendrache-three-gramophones",
+      "bo3-der-eisendrache-community-der-eisendrache-easter-eggs-dead-again-music-easter-egg"
+    ],
+    "sourceOmissions": [
+      "Exact playback duration and simultaneous-song behavior were not measured."
+    ],
+    "checked": "2026-10-18",
+    "supplementNote": "Original discovery reports compared; no independent retail replay or identified-song-title claim."
+  },
+  {
+    "id": "bo3-der-eisendrache-three-gramophones",
+    "mapId": "bo3-der-eisendrache",
+    "title": "Three gramophones — hidden music",
+    "category": "music",
+    "difficulty": "Easy",
+    "players": "1–4",
+    "summary": "Activate the gramophones in the church, Living Quarters and Undercroft to play the brief hidden vocal music.",
+    "requirements": [
+      "Black Ops III Der Eisendrache.",
+      "Open access to the church/computer room, Living Quarters and Undercroft."
+    ],
+    "reward": "The hidden gramophone music plays after the three activations.",
+    "steps": [
+      {
+        "title": "Church — left from the courtyard entrance",
+        "body": "Enter the church/computer room from the courtyard and check the left side of the main floor. Aim at the gramophone and hold Interact. Listen for its short activation beep.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/43zizx/spoilers_der_eisendrache_easter_egg_megathread/",
+        "images": [
+          {
+            "src": "./assets/classic-batch18-de-gramophone-church.webp",
+            "alt": "Gramophone beside church pillar.",
+            "caption": "Church.",
+            "source": "https://www.youtube.com/watch?v=BWUzlG2LETU&t=836s",
+            "credit": "MrWilliamThor / Activision-Treyarch — original 2016 gameplay"
+          }
+        ]
+      },
+      {
+        "title": "Bedroom — first left after the Gatehouse bridge",
+        "body": "From Gatehouse Courtyard, cross the bridge and clear the debris into the Living Quarters. Check the first room on the left for the gramophone. Hold Interact and listen for the beep. Original discovery posts call this room Samantha’s or Edward’s room; use the approach and object as your locator.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/43zizx/spoilers_der_eisendrache_easter_egg_megathread/",
+        "images": [
+          {
+            "src": "./assets/classic-batch18-de-gramophone-living-quarters.webp",
+            "alt": "Gramophone on high cupboard.",
+            "caption": "Living Quarters.",
+            "source": "https://www.youtube.com/watch?v=BWUzlG2LETU&t=831s",
+            "credit": "MrWilliamThor / Activision-Treyarch — original 2016 gameplay"
+          }
+        ]
+      },
+      {
+        "title": "Undercroft — debris facing the Wolf wall",
+        "body": "Take the church-side stairs down toward the pyramid, coming from the Wrath of the Ancients room. Look toward the Wolf Bow wall marking: the gramophone is on a pile of debris near this entrance. Hold Interact at the record player.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/43zizx/spoilers_der_eisendrache_easter_egg_megathread/",
+        "images": [
+          {
+            "src": "./assets/classic-batch18-de-gramophone-undercroft.webp",
+            "alt": "Gramophone among Undercroft debris.",
+            "caption": "Undercroft.",
+            "source": "https://www.youtube.com/watch?v=BWUzlG2LETU&t=846s",
+            "credit": "MrWilliamThor / Activision-Treyarch — original 2016 gameplay"
+          }
+        ]
+      },
+      {
+        "title": "Listen after the third activation",
+        "body": "After activating all three gramophones, the brief vocal music plays. This is separate from the three-teddy Dead Again activation and the single bedside music box.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/43so4y/"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Original first-person gramophone discovery, beeps and three locations",
+        "url": "https://www.reddit.com/r/CODZombies/comments/43zizx/spoilers_der_eisendrache_easter_egg_megathread/"
+      },
+      {
+        "title": "Independent day-one three-gramophone list and HoldSquare report",
+        "url": "https://www.reddit.com/r/CODZombies/comments/43so4y/"
+      },
+      {
+        "title": "MrWilliamThor",
+        "url": "https://www.youtube.com/watch?v=BWUzlG2LETU"
+      }
+    ],
+    "relatedGuideIds": [
+      "bo3-der-eisendrache-samantha-music-box",
+      "bo3-der-eisendrache-community-der-eisendrache-easter-eggs-dead-again-music-easter-egg",
+      "bo3-der-eisendrache-community-der-eisendrache-map-walkthrough-power"
+    ],
+    "sourceOmissions": [
+      "Track title, repeatability, exact duration and overlapping-audio behavior have not been verified."
+    ],
+    "checked": "2026-10-18",
+    "supplementNote": "Early firsthand reports compared; room-name disagreement is kept visible. No lyrics or independent gameplay claim."
+  },
+  {
+    "id": "bo3-der-eisendrache-free-death-machine",
+    "mapId": "bo3-der-eisendrache",
+    "title": "Free Death Machine — wall-run trigger",
+    "category": "side",
+    "difficulty": "Easy",
+    "players": "1–4",
+    "summary": "Follow the wall run during anti-gravity and collect the temporary Death Machine.",
+    "requirements": [
+      "Black Ops III Der Eisendrache.",
+      "Power on; four pyramid floor plates activated; anti-gravity currently active."
+    ],
+    "reward": "A temporary Death Machine power-up.",
+    "steps": [
+      {
+        "title": "Start anti-gravity in the pyramid room",
+        "body": "Turn on power and enter the Undercroft. Stand on each of the four floor plates around the pyramid until that plate lights. With all four activated, anti-gravity cycles on and off. Begin this wall run during the floating, low-gravity phase.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
+      },
+      {
+        "title": "Touch the blue wall trigger",
+        "body": "Wall-run across the isolated blue plate beside the pictured doorway.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=BWUzlG2LETU",
+        "images": [
+          {
+            "src": "./assets/classic-batch18-de-death-machine-plate.webp",
+            "alt": "Blue wall plate beside doorway.",
+            "caption": "Trigger.",
+            "source": "https://www.youtube.com/watch?v=BWUzlG2LETU&t=318s",
+            "credit": "MrWilliamThor / Activision-Treyarch — original 2016 gameplay"
+          }
+        ]
+      },
+      {
+        "title": "Collect the drop beside the wall",
+        "body": "Continue the wall run toward the pyramid and collect the Death Machine power-up hovering next to the wall. Save the temporary weapon for a moment when you can use it.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/43zizx/spoilers_der_eisendrache_easter_egg_megathread/",
+        "tip": "Respawn frequency, failure resets and the exact pickup lifetime were not measured.",
+        "images": [
+          {
+            "src": "./assets/classic-batch18-de-death-machine-equipped.webp",
+            "alt": "Equipped Death Machine, 999 HUD.",
+            "caption": "Reward.",
+            "source": "https://www.youtube.com/watch?v=BWUzlG2LETU&t=328s",
+            "credit": "MrWilliamThor / Activision-Treyarch — original 2016 gameplay"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "Original wall-run discovery",
+        "url": "https://www.reddit.com/r/CODZombies/comments/43zizx/spoilers_der_eisendrache_easter_egg_megathread/"
+      },
+      {
+        "title": "Original hunt comparison",
+        "url": "https://www.reddit.com/r/CODZombies/comments/43so4y/"
+      },
+      {
+        "title": "MrWilliamThor",
+        "url": "https://www.youtube.com/watch?v=BWUzlG2LETU"
+      }
+    ],
+    "relatedGuideIds": [
+      "bo3-der-eisendrache-community-der-eisendrache-map-walkthrough-power",
+      "bo3-der-eisendrache-community-der-eisendrache-map-walkthrough-anti-gravity"
+    ],
+    "sourceOmissions": [
+      "The exact floating pickup is not pictured. Respawn frequency, failure resets, pickup lifetime and separate co-op behavior were not established."
+    ],
+    "checked": "2026-10-18",
+    "supplementNote": "Written firsthand discovery compared with the original native trigger overlay and equipped-reward footage; no independent retail replay."
+  },
+  {
+    "id": "bo3-der-eisendrache-globe-disco",
+    "mapId": "bo3-der-eisendrache",
+    "title": "Globe disco — align the orbiting pieces",
+    "category": "side",
+    "difficulty": "Easy",
+    "players": "1–4",
+    "summary": "Use the bow to stop the globe’s rocket and moon beside one another and start the disco effect.",
+    "requirements": [
+      "Black Ops III Der Eisendrache.",
+      "Wrath of the Ancients for the written bow method; access to the church/computer room."
+    ],
+    "reward": "A disco-light effect in the church/computer room.",
+    "steps": [
+      {
+        "title": "Globe above the computers",
+        "body": "Find the hanging globe above the church’s computer banks.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=BWUzlG2LETU",
+        "tip": "Photo: Ray Gun example.",
+        "images": [
+          {
+            "src": "./assets/classic-batch18-de-disco-globe.webp",
+            "alt": "Globe and Ray Gun.",
+            "caption": "Target.",
+            "source": "https://www.youtube.com/watch?v=BWUzlG2LETU&t=263s",
+            "credit": "MrWilliamThor / Activision-Treyarch — original 2016 gameplay"
+          }
+        ]
+      },
+      {
+        "title": "Stop the rocket and moon side by side",
+        "body": "Shoot either orbiting piece with Wrath of the Ancients to stop it. Wait until the other piece is beside it, then stop that piece with another bow hit. The original discovery calls for the rocket and moon to be right next to each other; it gives no required first-target order.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/43zizx/spoilers_der_eisendrache_easter_egg_megathread/"
+      },
+      {
+        "title": "Watch for the disco effect",
+        "body": "When the alignment registers, the room’s disco-ball effect activates. Use the lit-room image as the completion cue.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/43zizx/spoilers_der_eisendrache_easter_egg_megathread/",
+        "tip": "Photo shows Ray Gun use; compatibility and timing remain untested.",
+        "images": [
+          {
+            "src": "./assets/classic-batch18-de-disco-effect.webp",
+            "alt": "Disco lights across the room.",
+            "caption": "Effect.",
+            "source": "https://www.youtube.com/watch?v=BWUzlG2LETU&t=268s",
+            "credit": "MrWilliamThor / Activision-Treyarch — original 2016 gameplay"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "Original bow-and-alignment discovery",
+        "url": "https://www.reddit.com/r/CODZombies/comments/43zizx/spoilers_der_eisendrache_easter_egg_megathread/"
+      },
+      {
+        "title": "MrWilliamThor",
+        "url": "https://www.youtube.com/watch?v=BWUzlG2LETU"
+      }
+    ],
+    "relatedGuideIds": [
+      "bo3-der-eisendrache-community-der-eisendrache-main-quest-wrath-of-the-ancients",
+      "bo3-der-eisendrache-three-gramophones"
+    ],
+    "sourceOmissions": [
+      "Exact alignment tolerance, duration, repeatability and other weapon compatibility were not tested."
+    ],
+    "checked": "2026-10-18",
+    "supplementNote": "The written bow route is from the firsthand hunt; native images are credited separately."
+  },
+  {
+    "id": "bo3-der-eisendrache-five-lore-radios",
+    "mapId": "bo3-der-eisendrache",
+    "title": "Five lore radios — locations & full transcripts",
+    "category": "side",
+    "difficulty": "Easy",
+    "players": "1–4",
+    "summary": "Find all five Groph recordings, with room landmarks, the inaccessible radio’s shooting trigger and the full retained dialogue.",
+    "requirements": [
+      "Black Ops III Der Eisendrache.",
+      "Open access to the Living Quarters, knight/power room, bell tower, teleporter lab and church.",
+      "Bring a firearm for the inaccessible knight-room recording."
+    ],
+    "reward": "Hear five Groph recordings about Group 935, Division 9 and the MPD.",
+    "steps": [
+      {
+        "title": "Follow each recording with its transcript",
+        "body": "This list groups each locator with its full transcript. The community reference number is included beside each message. Let a recording finish before starting the next so you can follow the dialogue. The bedside recording has a firsthand Interact instruction; the inaccessible knight-room recording has a firsthand shooting instruction.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/43so4y/"
+      },
+      {
+        "title": "Bedroom — Division 9 field trials",
+        "body": "In the bedroom adjoining Samantha’s room, find the radio beside the bed with photographs above it. Face the bedside and use Interact. The original hunt describes this as the room on the path toward power; the retained reference calls it Maxis’ bedroom. The dark image shows the room approach, with no crisp target close-up.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/43so4y/",
+        "images": [
+          {
+            "src": "./assets/classic-batch18-de-radio-bedroom-context.webp",
+            "alt": "Dark bedroom approach.",
+            "caption": "Room context.",
+            "source": "https://www.youtube.com/watch?v=BWUzlG2LETU&t=958s",
+            "credit": "MrWilliamThor / Activision-Treyarch — original 2016 gameplay"
+          }
+        ]
+      },
+      {
+        "title": "Bedroom transcript — community Radio #5",
+        "body": "Dr. Groph: Our allies in Division 9 have made great strides with their own research and development, though I must confess to having had my own doubts regarding the feasibility of their more... ambitious weapons designs. Successful field trials suggest that we may be able to deploy the specimen as early as this winter. Assuming progress remains on track, we may finally be able to break the stalemate of the Eastern Front.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+        "html": "<p>Dr. Groph: Our allies in Division 9 have made great strides with their own research and development, though I must confess to having had my own doubts regarding the feasibility of their more... ambitious weapons designs. Successful field trials suggest that we may be able to deploy the specimen as early as this winter. Assuming progress remains on track, we may finally be able to break the stalemate of the Eastern Front.</p>"
+      },
+      {
+        "title": "Knight-room window — shoot the radio",
+        "body": "In the knight-statue room before the power switch, look through the inaccessible window opposite power. Shoot the small radio on the table inside. The recording begins with Groph praising Group 935. Aim through the barrier rather than trying to enter the room.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/43zizx/spoilers_der_eisendrache_easter_egg_megathread/",
+        "images": [
+          {
+            "src": "./assets/classic-batch18-de-radio-knights-window.webp",
+            "alt": "Foggy window radio.",
+            "caption": "Barrier view.",
+            "source": "https://www.youtube.com/watch?v=BWUzlG2LETU&t=994s",
+            "credit": "MrWilliamThor / Activision-Treyarch — original 2016 gameplay"
+          }
+        ]
+      },
+      {
+        "title": "Knight-room transcript — community Radio #1",
+        "body": "Dr. Groph: Group 935 has defied all those who doubted our cause!\n\nApplause can be heard\n\nDr. Groph: Since the discovery of Element 115, we’ve achieved so much. Our weapons program alone has advanced beyond even our wildest expectations!\n\nApplause can be heard\n\nDr. Groph: Furthermore, the fact that we have been able to establish a permanent base of operations on the Moon itself makes me filled with optimism for the future! We can, literally, do anything!\n\nHuge applause can be heard",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+        "html": "<p>Dr. Groph: Group 935 has defied all those who doubted our cause!</p><p>Applause can be heard</p><p>Dr. Groph: Since the discovery of Element 115, we’ve achieved so much. Our weapons program alone has advanced beyond even our wildest expectations!</p><p>Applause can be heard</p><p>Dr. Groph: Furthermore, the fact that we have been able to establish a permanent base of operations on the Moon itself makes me filled with optimism for the future! We can, literally, do anything!</p><p>Huge applause can be heard</p>"
+      },
+      {
+        "title": "Bell tower — green desk screen",
+        "body": "Upstairs, find the reel recorder left of the green desk screen. Approach and use Interact.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=BWUzlG2LETU",
+        "images": [
+          {
+            "src": "./assets/classic-batch18-de-radio-bell-tower.webp",
+            "alt": "Bell tower recorder.",
+            "caption": "Desk target.",
+            "source": "https://www.youtube.com/watch?v=BWUzlG2LETU&t=1037s",
+            "credit": "MrWilliamThor / Activision-Treyarch — original 2016 gameplay"
+          }
+        ]
+      },
+      {
+        "title": "Bell-tower transcript — community Radio #3",
+        "body": "Dr. Groph: I have a very good memory. At least, that is what Richtofen's said on more than one occasion. Myself, I am not so sure. Recent events have led me to conclude that exposure to the MPD may in fact be corrupting and clouding our cognitive processes. Speaking to my own, personal experiences, I'm reminded that I had a dream about Maxis’s daughter, Samantha.\nThe child may have been a frequent visitor to Eagle’s Nest, but the idea that she could be here on Griffin Station, the Moon, defies explanation. It is essential that we re-establish contact with Eagle’s Nest in order to fully understand our current... predicament.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+        "html": "<p>Dr. Groph: I have a very good memory. At least, that is what Richtofen&#x27;s said on more than one occasion. Myself, I am not so sure. Recent events have led me to conclude that exposure to the MPD may in fact be corrupting and clouding our cognitive processes. Speaking to my own, personal experiences, I&#x27;m reminded that I had a dream about Maxis’s daughter, Samantha.\nThe child may have been a frequent visitor to Eagle’s Nest, but the idea that she could be here on Griffin Station, the Moon, defies explanation. It is essential that we re-establish contact with Eagle’s Nest in order to fully understand our current... predicament.</p>"
+      },
+      {
+        "title": "Teleporter lab — beside the safe",
+        "body": "Find the shadowed reel machine left of the blue Ray Gun blueprint. Approach and use Interact.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=BWUzlG2LETU",
+        "images": [
+          {
+            "src": "./assets/classic-batch18-de-radio-safe-room.webp",
+            "alt": "Shadowed teleporter recorder.",
+            "caption": "Blueprint landmark.",
+            "source": "https://www.youtube.com/watch?v=BWUzlG2LETU&t=1094s",
+            "credit": "MrWilliamThor / Activision-Treyarch — original 2016 gameplay"
+          }
+        ]
+      },
+      {
+        "title": "Teleporter-lab transcript — community Radio #4",
+        "body": "Dr. Groph: Despite the fact that all testing of the MPD has been put on hold, we have nonetheless observed a series of unprecedented and, dare I say it, erratic behaviors exhibited by the pyramid. Comms, interference, and power outages have become common place, with many fearful for their own safety. The perimeter guards on the Exclusion Zone have reported hearing voices emanating from the MPD, though external recordings do not corroborate their testimony.\nSeveral individuals reported hearing the same exact words: \"I must go to her. The loop must be closed\". While most accounts claim that the words were spoken by an unidentified individual, several seem to believe that the quotation came from Dr. Maxis. That, I know is not possible. Such is the increasing atmosphere of paranoia that we have taken to ensuring the placement of survival suits throughout the facility, just in case essential life support systems should fail.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+        "html": "<p>Dr. Groph: Despite the fact that all testing of the MPD has been put on hold, we have nonetheless observed a series of unprecedented and, dare I say it, erratic behaviors exhibited by the pyramid. Comms, interference, and power outages have become common place, with many fearful for their own safety. The perimeter guards on the Exclusion Zone have reported hearing voices emanating from the MPD, though external recordings do not corroborate their testimony.\nSeveral individuals reported hearing the same exact words: &quot;I must go to her. The loop must be closed&quot;. While most accounts claim that the words were spoken by an unidentified individual, several seem to believe that the quotation came from Dr. Maxis. That, I know is not possible. Such is the increasing atmosphere of paranoia that we have taken to ensuring the placement of survival suits throughout the facility, just in case essential life support systems should fail.</p>"
+      },
+      {
+        "title": "Church — lamp and small table",
+        "body": "In the church/computer room, look on the small table opposite the M8A7 wallbuy. The reel-to-reel recording machine is beside the lamp and books, near the stair pillar. Approach and use Interact.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/43so4y/",
+        "images": [
+          {
+            "src": "./assets/classic-batch18-de-radio-church.webp",
+            "alt": "Church reel recorder.",
+            "caption": "Lamp landmark.",
+            "source": "https://www.youtube.com/watch?v=BWUzlG2LETU&t=1167s",
+            "credit": "MrWilliamThor / Activision-Treyarch — original 2016 gameplay"
+          }
+        ]
+      },
+      {
+        "title": "Church transcript — community Radio #2",
+        "body": "Dr. Groph: Given that it is now but two weeks since contact was lost with Dr. Richtofen, along with the fact that all intel would appear to suggest that the Der Riese facility itself may have fallen to the enemy, I am forced to take drastic action. As of now, and for the foreseeable future, I have decided to assume full operational commands of Group 935.\nAll further tests involving the MPD are on hold until such time that we can guarantee the safety and security of all personnel currently based at Griffin Station. It sort of pains me to say, we have to assume that Operation Shield is unlikely to succeed as originally planned.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+        "html": "<p>Dr. Groph: Given that it is now but two weeks since contact was lost with Dr. Richtofen, along with the fact that all intel would appear to suggest that the Der Riese facility itself may have fallen to the enemy, I am forced to take drastic action. As of now, and for the foreseeable future, I have decided to assume full operational commands of Group 935.\nAll further tests involving the MPD are on hold until such time that we can guarantee the safety and security of all personnel currently based at Griffin Station. It sort of pains me to say, we have to assume that Operation Shield is unlikely to succeed as originally planned.</p>"
+      }
+    ],
+    "sourceQuote": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+    "sources": [
+      {
+        "title": "Retained five-radio locations and full transcripts",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
+      },
+      {
+        "title": "Firsthand bedside activation and teleporter/church reports",
+        "url": "https://www.reddit.com/r/CODZombies/comments/43so4y/"
+      },
+      {
+        "title": "Firsthand inaccessible-window shooting instruction",
+        "url": "https://www.reddit.com/r/CODZombies/comments/43zizx/spoilers_der_eisendrache_easter_egg_megathread/"
+      },
+      {
+        "title": "MrWilliamThor",
+        "url": "https://www.youtube.com/watch?v=BWUzlG2LETU"
+      }
+    ],
+    "relatedGuideIds": [
+      "bo3-der-eisendrache-community-der-eisendrache-map-walkthrough-power",
+      "bo3-der-eisendrache-community-der-eisendrache-map-walkthrough-teleporter",
+      "bo3-der-eisendrache-cipher-decoder-reference"
+    ],
+    "sourceOmissions": [
+      "Other reachable recorders’ Interact controls are inferred; button prompts, replay and overlapping audio remain unverified.",
+      "The bedroom image is dark room context and the inaccessible radio is photographed through fog. Community transcript wording is retained without silently repairing transcription differences."
+    ],
+    "checked": "2026-10-18",
+    "supplementNote": "All five native locator contexts and matching audio segments were compared with the retained transcript list. The community message numbers are not a required activation sequence."
   }
 ]
