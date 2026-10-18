@@ -33444,7 +33444,7 @@
     "mapOverrides": {
       "bo3-der-eisendrache": {
         "title": "Rocket Shield — all nine part spawns",
-        "summary": "Search one of three spawns for each part, then build the shield at a castle workbench.",
+        "summary": "Search the nine possible part spawns, build the shield at a workbench and check the separately reported rocket-boost fuel stops.",
         "requirements": [
           "Open the Lower Courtyard, Upper Courtyard and Undercroft.",
           "Activate Anti-Gravity for the elevated Undercroft part.",
@@ -33486,6 +33486,13 @@
                 "credit": "Original diagram from the credited written route"
               }
             ]
+          },
+          {
+            "title": "Reported rocket-boost fuel stops",
+            "body": "A separate consumable is reported to refill the built shield’s rocket boost. These props are different from the fuel-tank construction part listed in step one. An original 2016 player discussion reports these landmarks:\nLower Courtyard — on the floor by the wall, left of that courtyard’s dragon. Another player recalls the nearby stairs toward a shield-part spawn.\nJuggernog — beside the perk machine; the thread’s author says this is where he started his search.\nUpper Courtyard — by the well, according to Dubifty.\nRocket Pad — beside its teleporter, according to CreeperFace45.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/4wgk9m/where_are_all_of_the_rocket_shield_recharge/",
+            "tip": "These are reported locations, with no independently checked fuel photograph or refill sequence here. The activation input, charges restored, replenishment and co-op behavior remain unverified."
           }
         ],
         "players": "Solo or co-op",
@@ -33493,12 +33500,21 @@
         "checked": "2026-10-18",
         "sourceQuote": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
         "sourceOmissions": [
-          "The old single block listed parts but stopped before construction; a three-bench construction chapter is added."
+          "The old single block listed parts but stopped before construction; a three-bench construction chapter is added.",
+          "Four shield-fuel landmarks are now attributed to original player reports. Their controls, refill amount, refresh/co-op rules and native photographs remain pending."
         ],
         "sources": [
           {
             "title": "r/CODZombies map breakdown — setup, buildables and side quests",
             "url": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
+          },
+          {
+            "title": "Original 2016 player discussion — reported DE shield recharge landmarks",
+            "url": "https://www.reddit.com/r/CODZombies/comments/4wgk9m/where_are_all_of_the_rocket_shield_recharge/"
+          },
+          {
+            "title": "NovaRipper1 — DE shield-boost consumable report",
+            "url": "https://www.reddit.com/r/CODZombies/comments/1fkqm9c/le_no_widows_too/"
           }
         ],
         "relatedGuideIds": [
@@ -33507,7 +33523,70 @@
         ],
         "supplementNote": "Location headings and unquoted field notes are editorial guidance; blockquotes retain the credited source wording."
       }
-    }
+    },
+    "summary": "Search the nine possible part spawns, build the shield at a workbench and check the separately reported rocket-boost fuel stops.",
+    "steps": [
+      {
+        "title": "Fuel tanks — Lower Courtyard",
+        "body": "Fuel Tanks Locations - Lower Courtyard\nOn top of crates past the Castle Door Trap\nNext to the base of the stairs leading to the balconies\nOn top of stairs leading towards the Bastion (Death Ray)",
+        "html": "<p>Fuel Tanks Locations - Lower Courtyard</p><ol><li>On top of crates past the Castle Door Trap</li><li>Next to the base of the stairs leading to the balconies</li><li>On top of stairs leading towards the Bastion (Death Ray)</li></ol>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
+      },
+      {
+        "title": "Body — Upper Courtyard",
+        "body": "Body Piece Locations - Upper Courtyard\nIn the clock tower against the table\nBottom of the stairs leading from clock tower to upper courtyard\nAgainst the wall in front of the church",
+        "html": "<p>Body Piece Locations - Upper Courtyard</p><ol><li>In the clock tower against the table</li><li>Bottom of the stairs leading from clock tower to upper courtyard</li><li>Against the wall in front of the church</li></ol>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
+      },
+      {
+        "title": "Top — Undercroft walls",
+        "body": "Top Piece Locations - Undercroft - This will require you to activate Anti-Gravity\nHanging above pyramid, on the outside railing\nOn the wall above possible Pack-A-Punch location\nOn the wall above the entrance to the room with the teleporter",
+        "html": "<p>Top Piece Locations - Undercroft - This will require you to activate Anti-Gravity</p><ol><li>Hanging above pyramid, on the outside railing</li><li>On the wall above possible Pack-A-Punch location</li><li>On the wall above the entrance to the room with the teleporter</li></ol>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+        "tip": "Look up at the three elevated positions, then use the active gravity window to reach the part."
+      },
+      {
+        "title": "Choose a workbench",
+        "body": "There are 3 Buildable Tables in Der Eisendrache, locations below:\nLower courtyard/Gatehouse - Above Double Tap, opposite the wundersphere\nMission Control/Church - At the back of the church near the dragon statue\nUndercroft - near the Pyramid",
+        "html": "<p>There are 3 Buildable Tables in Der Eisendrache, locations below:</p><ol><li>Lower courtyard/Gatehouse - Above Double Tap, opposite the wundersphere</li><li>Mission Control/Church - At the back of the church near the dragon statue</li><li>Undercroft - near the Pyramid</li></ol>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+        "tip": "Once all three parts are collected, use a bench offering the build prompt and take the shield after construction.",
+        "images": [
+          {
+            "src": "./assets/classic-batch17-de-shield-search.svg",
+            "alt": "Shield checklist: three candidate spawns in each of the Lower Courtyard, Upper Courtyard and Undercroft, plus three workbench choices.",
+            "caption": "Original search checklist from the quoted locations; this is not a floor plan or a gameplay photograph.",
+            "source": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+            "credit": "Original diagram from the credited written route"
+          }
+        ]
+      },
+      {
+        "title": "Reported rocket-boost fuel stops",
+        "body": "A separate consumable is reported to refill the built shield’s rocket boost. These props are different from the fuel-tank construction part listed in step one. An original 2016 player discussion reports these landmarks:\nLower Courtyard — on the floor by the wall, left of that courtyard’s dragon. Another player recalls the nearby stairs toward a shield-part spawn.\nJuggernog — beside the perk machine; the thread’s author says this is where he started his search.\nUpper Courtyard — by the well, according to Dubifty.\nRocket Pad — beside its teleporter, according to CreeperFace45.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/4wgk9m/where_are_all_of_the_rocket_shield_recharge/",
+        "tip": "These are reported locations, with no independently checked fuel photograph or refill sequence here. The activation input, charges restored, replenishment and co-op behavior remain unverified."
+      }
+    ],
+    "sources": [
+      {
+        "title": "r/CODZombies map breakdown — setup, buildables and side quests",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
+      },
+      {
+        "title": "Original 2016 player discussion — reported DE shield recharge landmarks",
+        "url": "https://www.reddit.com/r/CODZombies/comments/4wgk9m/where_are_all_of_the_rocket_shield_recharge/"
+      },
+      {
+        "title": "NovaRipper1 — DE shield-boost consumable report",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1fkqm9c/le_no_widows_too/"
+      }
+    ],
+    "sourceOmissions": [
+      "The old single block listed parts but stopped before construction; a three-bench construction chapter is added.",
+      "Four shield-fuel landmarks are now attributed to original player reports. Their controls, refill amount, refresh/co-op rules and native photographs remain pending."
+    ]
   },
   "der-eisendrache-buildables-ragnarok-dg-4-specialist-weapon": {
     "mapOverrides": {

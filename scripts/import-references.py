@@ -343,6 +343,11 @@ assert set(corrections).issubset({guide['id'] for guide in community}), 'A commu
 for guide in community:
     guide.update(corrections.get(guide['id'], {}))
     assert set(guide.get('mapOverrides', {})).issubset(guide['mapIds']), guide['id']
-(root / 'data/guides-community.json').write_text(json.dumps(community, ensure_ascii=False, separators=(',', ':')) + '\n', encoding='utf-8')
+community_path = root / 'data/guides-community.json'
+community_json = json.dumps(community, ensure_ascii=False, separators=(',', ':')) + '\n'
+if community_path.read_text(encoding='utf-8') != community_json:
+    community_temp = community_path.with_suffix('.json.tmp')
+    community_temp.write_text(community_json, encoding='utf-8', newline='\n')
+    community_temp.replace(community_path)
 (root / 'data/source-gaps.json').write_text(json.dumps(gaps, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
 print(f"Saved {len(community)} community topics, {sum(len(guide['steps']) for guide in community)} checklist sections; {len(gaps)} source topics excluded from walkthrough counts.")

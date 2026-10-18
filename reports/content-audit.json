@@ -339,6 +339,14 @@
     {
       "batch": "bo3-der-eisendrache-ordinary-weapon-names-and-wall-references",
       "rowsWithRecordedReview": 1
+    },
+    {
+      "batch": "bo3-der-eisendrache-reported-shield-refill-landmarks",
+      "rowsWithRecordedReview": 1
+    },
+    {
+      "batch": "coldwar-outbreak-season-three-named-intel-and-native-references",
+      "rowsWithRecordedReview": 2
     }
   ],
   "guideReviews": [
@@ -21798,6 +21806,29 @@
             "note": "Selected diagrams and the unchanged retained frame are individually pixel-reviewed. No fresh native locator-photo claim."
           },
           "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
+          ]
+        },
+        {
+          "batch": "bo3-der-eisendrache-reported-shield-refill-landmarks",
+          "reportedStatus": "Parent reviewed full five-chapter proposal and integration code; original refill reports read directly.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Four inherited chapters, requirements, reward and diagram unchanged.",
+            "4wgk9m visible original post and topical comments16–120 read; 1fkqm9c complete relevant exchange128–166 read.",
+            "Durable imported correction includes both top-level fields and the existing map override."
+          ],
+          "unverified": [
+            "No native fuel photo or refill sequence; controls, amount, refresh and co-op rules remain unverified.",
+            "Four reported landmarks are not an exhaustive fuel-prop census."
+          ],
+          "wholeGuideTextRead": true,
+          "allExistingStepsRead": true,
+          "originalStepCount": 4,
+          "requirementsAndRewardReviewed": true,
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/1fkqm9c/le_no_widows_too/",
+            "https://www.reddit.com/r/CODZombies/comments/4wgk9m/where_are_all_of_the_rocket_shield_recharge/",
             "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/"
           ]
         }
@@ -55222,6 +55253,35 @@
           "evidenceUrls": [
             "https://www.reddit.com/r/CODZombies/comments/mvuc6c/"
           ]
+        },
+        {
+          "batch": "coldwar-outbreak-season-three-named-intel-and-native-references",
+          "reportedStatus": "Integrated after full parent text and final-image review; independent retail playtest remains pending.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Complete inherited text, proposed metadata and all final chapters read.",
+            "85-item release inventory, fixed/quest/drop/radio/Trial split and exact native source metadata checked.",
+            "All selected final crops individually read; no uninterrupted gameplay or full-menu certificate."
+          ],
+          "unverified": [
+            "Current retail collection behavior, all menu labels and high-pickup routes have not been independently replayed."
+          ],
+          "wholeGuideTextRead": true,
+          "allExistingStepsRead": true,
+          "originalStepCount": 14,
+          "requirementsAndRewardReviewed": true,
+          "imageReview": {
+            "placements": 29,
+            "allSelectedFinalCropsInspected": true
+          },
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/mgd49k/",
+            "https://www.reddit.com/r/CODZombies/comments/mveu1j/",
+            "https://www.reddit.com/r/CODZombies/comments/mvuc6c/",
+            "https://www.reddit.com/r/CODZombies/comments/mvzb9t/",
+            "https://www.treyarch.com/game-intel/2021/04/Season_Three_Begins_April_22",
+            "https://www.youtube.com/watch?v=r_6mJR8ihl4"
+          ]
         }
       ]
     },
@@ -55245,6 +55305,40 @@
           ],
           "evidenceUrls": [
             "https://www.reddit.com/r/CODZombies/comments/ngj7vh/"
+          ]
+        },
+        {
+          "batch": "coldwar-outbreak-season-three-named-intel-and-native-references",
+          "reportedStatus": "Integrated after full parent text and final-image review; independent retail playtest remains pending.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Complete inherited text, proposed metadata and all final chapters read.",
+            "85-item release inventory, fixed/quest/drop/radio/Trial split and exact native source metadata checked.",
+            "All selected final crops individually read; no uninterrupted gameplay or full-menu certificate."
+          ],
+          "unverified": [
+            "Current retail collection behavior, all menu labels, route timing and co-op sharing have not been independently replayed.",
+            "Blueprint image is projector context; no named document award is visible."
+          ],
+          "wholeGuideTextRead": true,
+          "allExistingStepsRead": true,
+          "originalStepCount": 13,
+          "requirementsAndRewardReviewed": true,
+          "imageReview": {
+            "placements": 21,
+            "allSelectedFinalCropsInspected": true
+          },
+          "evidenceUrls": [
+            "https://declassified.app/legacy/",
+            "https://www.reddit.com/r/CODZombies/comments/mgd49k/",
+            "https://www.reddit.com/r/CODZombies/comments/mvzb9t/",
+            "https://www.reddit.com/r/CODZombies/comments/ngj7vh/",
+            "https://www.reddit.com/r/CODZombies/comments/nh5h3w/comment/gyvtnmd/",
+            "https://www.reddit.com/r/CODZombies/comments/nh5h3w/comment/gyvwu84/",
+            "https://www.treyarch.com/game-intel/2021/05/New_Content_Arrives_with_80s_Action_Heroes",
+            "https://www.youtube.com/watch?v=MibqjX0uy0g",
+            "https://www.youtube.com/watch?v=ZVGytpeCgaY",
+            "https://www.youtube.com/watch?v=r_6mJR8ihl4"
           ]
         }
       ]
@@ -75510,23 +75604,29 @@
       "mapIds": [
         "bo3-der-eisendrache"
       ],
-      "note": "Reviewed material covers both main routes, four community bow upgrades, practical setup utilities, shield/Ragnarok, the Dead Again song, earlier side quests and their selected images. New supplements add the music box, three gramophones, free Death Machine wall trigger, globe disco and five lore radios with full transcripts and 13 native frames, plus eleven cipher messages and Takeo’s letter with six original decoder diagrams and ten checked supplied-input methods/postprocessing. Remaining work: complete physical routes and readable native images for every cipher and scrap fragment; formula-board inputs/plots and independent Japanese/fragment review; complete wall locations/prices and controlled weapon ammunition/refill checks; shield refill-prop mechanics and remaining ambient-prop leads. Some timing, repeatability, co-op/offline and weapon-compatibility details remain untested. These bounded reviews do not certify every map secret or independent retail gameplay. An ordinary-firearm reference now documents 26 base weapons and 26 attributed upgrade names, shared upgrade costs/behavior and three native wall-outline locators. Fourteen names have native-label corroboration and two have matched before/after HUD captures; capacities/current wall prices remain unverified."
+      "note": "Reviewed material covers both main routes, four community bow upgrades, practical setup utilities, shield/Ragnarok, the Dead Again song, earlier side quests and their selected images. New supplements add the music box, three gramophones, free Death Machine wall trigger, globe disco and five lore radios with full transcripts and 13 native frames, plus eleven cipher messages and Takeo’s letter with six original decoder diagrams and ten checked supplied-input methods/postprocessing. Remaining work: complete physical routes and readable native images for every cipher and scrap fragment; formula-board inputs/plots and independent Japanese/fragment review; complete wall locations/prices and controlled weapon ammunition/refill checks; shield refill-prop mechanics and remaining ambient-prop leads. Some timing, repeatability, co-op/offline and weapon-compatibility details remain untested. These bounded reviews do not certify every map secret or independent retail gameplay. An ordinary-firearm reference now documents 26 base weapons and 26 attributed upgrade names, shared upgrade costs/behavior and three native wall-outline locators. Fourteen names have native-label corroboration and two have matched before/after HUD captures; capacities/current wall prices remain unverified. Four shield-fuel landmarks are attributed to original player reports; native photos and refill controls, amount, refresh and co-op rules remain pending."
+    },
+    {
+      "mapIds": [
+        "coldwar-outbreak"
+      ],
+      "note": "Season Three launch and Reloaded now have85 named collector-listed Outbreak records in59 chapters, with47 native reference images and separate physical, quest, drop, radio and Trial methods. Pickup-panel aliases and Duga radio/garage landmarks are clarified. Blueprint imagery is projector context only; its named grant, full menu comparison and current retail collection behavior remain unverified. This is not a whole-Outbreak or every-secret certificate."
     }
   ],
   "dataHashFormat": "SHA-256 of UTF-8 JSON files with LF line endings, matching Git and GitHub Pages.",
   "dataSha256": {
     "catalog.json": "1d06d2aa4a42db59b97868073ddbab1d6a33b3ffb4167f2ebe71ceed09eddf2d",
-    "community-corrections.json": "030ce407924ef8a1cb18f639ae9d678c5fd82e80c22a1d601dc6dad107f1f490",
-    "coverage-gaps.json": "0b273360a7db902b7bde48f47bd798291ee5f50aeaccf23033b8d0fb758d2183",
+    "community-corrections.json": "e210b21cbe6ac3b2dfdc24c1aef5fde6d0ffcb393d185ce9d524275efc78808d",
+    "coverage-gaps.json": "7767358372b26e79e9d9e272c4a7ccf353b065e13fabee3f47f224581526906c",
     "guides-aw.json": "b5a7e5fb7d83e776452f77060d0714c13f63ae8eeb6e367272c0d00a38cc3855",
     "guides-classic.json": "adfcf8a0e55f347da12fc3632c9c04406f3bc65315763f0193aa3be754916f0d",
-    "guides-community.json": "e7143e29b58c9001154151a2fd4991677fb798d41994c951c9a87b86ab385b43",
+    "guides-community.json": "4739c232b9404cc2df6bc452a0feabea281a0a836e611e4be43723e51b3aee07",
     "guides-completion-classic.json": "ed538054e7aeb5575de95dc78a345deb25a4111b47049bbd73fd29de06905c7a",
     "guides-completion-modern.json": "5e0086c91529a858bf011cbb6ccfe4bc469b3743f49c9175aac4e0115f460748",
     "guides-completion-modes.json": "7661fccf1e3b1fe4466e8a1f7219706fa1851d6b609c826fa045207810ad3bc5",
     "guides-extra.json": "6476885bba33dfae5f089dc6c8b3bdeb616a22da75e841051248feede0a9f857",
     "guides-goal-classic.json": "5621ad45c8750da623b7c48c4fbbb023c358c9853375d50d29e2fedba3b176dd",
-    "guides-goal-modern.json": "c8a852b8ab0147729e8ffe1d18ee290fdee25680b1c043cc1c87999406e9d49f",
+    "guides-goal-modern.json": "e2e88076d73c606934b7058c0c84ebeca2a6850f5b635af941f9ce46dafc43dc",
     "guides-goal-modes.json": "a063eeb0db74f9c40a3edecc71cd08853a01dc83c7a4c0f6ef88bde5e202a86c",
     "guides-goal-root.json": "07bf0f2fc1b46997a8d02c86cd867f274b26499e0e61081cb77dc7afc09552d1",
     "guides-modern.json": "1082b5feea32d0f1a1650977f1d89b6b789a2b779dcb3e0c2eec9d5cbd9b3630",
@@ -75647,8 +75747,10 @@
       "Outbreak Season Two Reloaded has23 direct step references; its Maxis chapter loads all four regional radio photos, and a checked chapter survives reload before temporary progress is cleared.",
       "Updated app version tag loads the per-step quoted-source fallback; actual viewport1280x720, narrow-screen recheck remains unverified. Full evidence is output/batch16-browser-qa.json.",
       "Attack hidden-song three-chapter route has three direct step references, six loaded1920px native references, focused chapter and Sources jumps, preserved checkbox after reload and cleared temporary QA progress. No overflow at1280x720; output/batch17-browser-qa.json.",
-      "DE ordinary-weapon reference has32 chapters and32 direct step references. Chapter6,13 and31 jumps focus their sections; all three1200px wall-outline photos load. Sources jump focuses correctly; checkbox survives reload and temporary progress is cleared. No overflow at1280x720; mobile remains unverified. Evidence: output/batch18-browser-qa.json."
+      "DE ordinary-weapon reference has32 chapters and32 direct step references. Chapter6,13 and31 jumps focus their sections; all three1200px wall-outline photos load. Sources jump focuses correctly; checkbox survives reload and temporary progress is cleared. No overflow at1280x720; mobile remains unverified. Evidence: output/batch18-browser-qa.json.",
+      "Outbreak Season Three launch/reloaded have33/26 chapters and direct references; radio photos appear under faction-radio steps, native pickup aliases and the context-only Blueprint caption are visible, selected images load and jumps/Sources focus correctly. Checked progress survives reload and temporary progress is cleared. DE shield has five chapters, four preserved quote blocks and a separate attributed refill chapter. No desktop overflow at1280x720; mobile remains unverified. Evidence: output/batch19-browser-qa.json."
     ],
-    "currentBatchResponsiveLimit": "The in-app browser viewport override did not change the actual 1280x720 viewport during these batches. Current recorded checks are desktop-only; a narrow-screen recheck remains unverified. Earlier recorded mobile checks retain their original scope."
+    "currentBatchResponsiveLimit": "The in-app browser viewport override did not change the actual 1280x720 viewport during these batches. Current recorded checks are desktop-only; a narrow-screen recheck remains unverified. Earlier recorded mobile checks retain their original scope.",
+    "importerChecks": "Complete importer passed against an isolated changed-output fixture and its unchanged rerun:866 community topics, exact regenerated bytes, preserved five-chapter DE correction and no unnecessary rewrite. Evidence: output/batch19-import-check.json."
   }
 }

@@ -877,201 +877,978 @@
   {
     "id": "coldwar-outbreak-intel-season-3",
     "mapId": "coldwar-outbreak",
-    "title": "Season 3 intel: Duga and the other Outbreak regions",
+    "title": "Season 3 launch intel: 48 records across five regions",
     "category": "side",
     "difficulty": "Medium",
     "players": "1–4 players, online; progress is per account",
-    "summary": "Ricerat477's attributed collectible checklist for this release. The named map areas identify fixed pickups; document drops, transmissions and intel Trials take repeated runs.",
+    "summary": "Find the named physical pickups by region, then collect the separate document, radio and Trial entries. This is the April launch set.",
     "requirements": [
-      "This is the Season 3 release checklist, not a claim that later additions are absent.",
-      "Open the map and keep the matching main-quest / Wonder Weapon guide available for quest artifacts.",
-      "Check Barracks → Intel to select the faction and season still missing. Interact with physical logs and artifacts; finish intel Trials and collect their terminal reward.",
-      "The Trials method applies to the listed Dark Aether logs, documents and transmissions; artifacts retain the individual pickup instructions shown below."
+      "Original Black Ops Cold War Standard Outbreak. Check your own Barracks → Intel collection and the Outbreak map tag.",
+      "This card covers the April 22, 2021 launch set. The Season 3 menu also contains the later Reloaded entries; use both cards for the 85-entry Outbreak set.",
+      "Physical logs and artifacts have fixed locations. Ordinary documents come from drops; faction transmissions and non-artifact Dark Aether Trial rewards use separate methods.",
+      "Bring a way to reach the Sanatorium tower and Golova rooftop; plan high pickups before leaving their region."
     ],
-    "reward": "The listed collectible entries and their recorded lore in Barracks → Intel.",
+    "reward": "The 48 listed launch records in your Intel collection.",
     "steps": [
       {
-        "title": "Requiem: audio logs",
-        "body": "Audio Logs\n  * \"Doubts\"- On Duga in the SAM site, in the big hanger on a box marked with a red star.\n\n  * \"The Beacon\"- On Duga in the Chemical Processing area, on the desk in the office of the big building.\n\n  * \"Embarrassment of Riches\"-On Alpine, in the lodge. On the third floor sitting on the bar.",
-        "html": "<p>Audio Logs</p>\r\n<ul>\r\n<li>&quot;Doubts&quot;- On Duga in the SAM site, in the big hanger on a box marked with a red star.</li>\r\n<li>&quot;The Beacon&quot;- On Duga in the Chemical Processing area, on the desk in the office of the big building.</li>\r\n<li>&quot;Embarrassment of Riches&quot;-On Alpine, in the lodge. On the third floor sitting on the bar.</li>\r\n</ul>"
+        "title": "Check the release and collection method",
+        "body": "This 48-entry set has 25 fixed pickups, eight ordinary documents, six faction-radio transmissions and nine Trial entries. Duga joined Outbreak at the April launch. Visit the pickup chapters for whichever region you receive, then use the method checklists for the remaining records.",
+        "original": true,
+        "researchSource": "https://www.treyarch.com/game-intel/2021/04/Season_Three_Begins_April_22"
       },
       {
-        "title": "Requiem: documents",
-        "body": "Documents\n\nAll Documents drop from Special/Elite Enemies in the Outbreak game mode\n\n  * \"E.C.M. Blueprint.\"\n\n  * \"Dark Aether Object Report\"\n\n  * \"Crate Memo\"\n\n  * \"Extraction Rocket Blueprint\"",
-        "html": "<p>Documents</p>\r\n<p>All Documents drop from Special/Elite Enemies in the Outbreak game mode</p>\r\n<ul>\r\n<li>&quot;E.C.M. Blueprint.&quot;</li>\r\n<li>&quot;Dark Aether Object Report&quot;</li>\r\n<li>&quot;Crate Memo&quot;</li>\r\n<li>&quot;Extraction Rocket Blueprint&quot;</li>\r\n</ul>"
+        "title": "Duga · Requiem log: Doubts",
+        "body": "\"Doubts\"- On Duga in the SAM site, in the big hanger on a box marked with a red star.",
+        "html": "<p>&quot;Doubts&quot;- On Duga in the SAM site, in the big hanger on a box marked with a red star.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/mvuc6c/",
+        "images": [
+          {
+            "src": "./assets/batch16-s3-doubts.webp",
+            "alt": "Doubts recorder",
+            "caption": "Doubts recorder",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=r_6mJR8ihl4&t=137.110368"
+          }
+        ]
       },
       {
-        "title": "Requiem: radio transmissions",
-        "body": "Radio Transmissions All transmissions are from the outbreak radios, located in the same positions as last time.\n\n  * \"Progress Update\"\n\n  * \"A Visceral Process\"\n\n  * \"Fish Out of Water\"",
-        "html": "<p>Radio Transmissions All transmissions are from the outbreak radios, located in the same positions as last time.</p>\r\n<ul>\r\n<li>&quot;Progress Update&quot;</li>\r\n<li>&quot;A Visceral Process&quot;</li>\r\n<li>&quot;Fish Out of Water&quot;</li>\r\n</ul>"
+        "title": "Duga · Requiem log: The Beacon",
+        "body": "\"The Beacon\"- On Duga in the Chemical Processing area, on the desk in the office of the big building.",
+        "html": "<p>&quot;The Beacon&quot;- On Duga in the Chemical Processing area, on the desk in the office of the big building.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/mvuc6c/",
+        "images": [
+          {
+            "src": "./assets/batch16-s3-the-beacon.webp",
+            "alt": "Beacon recorder",
+            "caption": "Beacon recorder",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=r_6mJR8ihl4&t=151.110359"
+          }
+        ]
       },
       {
-        "title": "Requiem: artifacts",
-        "body": "Artifacts\n\n  * \"Energy Mine Canister\"- on the roof of the 001 and 002 apartments in the Mechanic Shop area of the Sanitorium Map.\n\n  * \"Essence Explosive\"- On Duga, in the bunker area, in the top most guard station.\n  * \"Requiem Patch\"- On Sanitorium, in the Lakeside Dell area. Its on a little dock to the left of the big bridge.",
-        "html": "<p>Artifacts</p>\r\n<ul>\r\n<li>&quot;Energy Mine Canister&quot;- on the roof of the 001 and 002 apartments in the Mechanic Shop area of the Sanitorium Map.</li>\r\n<li>&quot;Essence Explosive&quot;- On Duga, in the bunker area, in the top most guard station.</li>\r\n<li>&quot;Requiem Patch&quot;- On Sanitorium, in the Lakeside Dell area. Its on a little dock to the left of the big bridge.</li>\r\n</ul>"
+        "title": "Duga · Requiem artifact: Essence Explosive",
+        "body": "\"Essence Explosive\"- On Duga, in the bunker area, in the top most guard station.",
+        "html": "<p>&quot;Essence Explosive&quot;- On Duga, in the bunker area, in the top most guard station.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/mvuc6c/",
+        "tip": "A firsthand finder places the checkpoint beside the road at the north end of the bunker compound, south of the crafting station; look on its shelf. It is not an underground quest-silo pickup.",
+        "images": [
+          {
+            "src": "./assets/batch16-s3-essence-explosive.webp",
+            "alt": "Duga location",
+            "caption": "Duga location",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=r_6mJR8ihl4&t=174.110359"
+          }
+        ]
       },
       {
-        "title": "Omega: audio logs",
-        "body": "Audio Logs\n\n  * \"Witching Hour\"-On Ruka, in the missile silos by the A elevator. On the side of the building, next to the generators.\n\n  * \"Leadership Techniques\"-On Duga, on the third floor of the Admin Offices. In the room with a big oval table.\n\n  * \"This isn't My Work\"- On Duga, in the Research Labs. In the right most building.\n  * \"His Plan Our Plan\"- On Sanitorium, on the Sanitorium Roof. It's on top of the spire with 2 satellite dishes. Requires a Jump pad to get to.",
-        "html": "<p>Audio Logs</p>\r\n<ul>\r\n<li>&quot;Witching Hour&quot;-On Ruka, in the missile silos by the A elevator. On the side of the building, next to the generators.</li>\r\n<li>&quot;Leadership Techniques&quot;-On Duga, on the third floor of the Admin Offices. In the room with a big oval table.</li>\r\n<li>&quot;This isn&#39;t My Work&quot;- On Duga, in the Research Labs. In the right most building.</li>\r\n<li>&quot;His Plan Our Plan&quot;- On Sanitorium, on the Sanitorium Roof. It&#39;s on top of the spire with 2 satellite dishes. Requires a Jump pad to get to.</li>\r\n</ul>"
+        "title": "Duga · Omega log: Leadership Techniques",
+        "body": "\"Leadership Techniques\"-On Duga, on the third floor of the Admin Offices. In the room with a big oval table.",
+        "html": "<p>&quot;Leadership Techniques&quot;-On Duga, on the third floor of the Admin Offices. In the room with a big oval table.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/mvuc6c/",
+        "images": [
+          {
+            "src": "./assets/batch16-s3-leadership-techniques.webp",
+            "alt": "Leadership recorder",
+            "caption": "Leadership recorder",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=r_6mJR8ihl4&t=111.110369"
+          }
+        ]
       },
       {
-        "title": "Omega: documents",
-        "body": "Documents\n\nAll documents are gotten from special/elite kills.\n\n  * \"Boost Module Report\"\n\n  * \"Krasny Soldat Blueprint\"\n\n  * \"Phase Report\"\n\n  * \"Valentina Diary Entry\"",
-        "html": "<p>Documents</p>\r\n<p>All documents are gotten from special/elite kills.</p>\r\n<ul>\r\n<li>&quot;Boost Module Report&quot;</li>\r\n<li>&quot;Krasny Soldat Blueprint&quot;</li>\r\n<li>&quot;Phase Report&quot;</li>\r\n<li>&quot;Valentina Diary Entry&quot;</li>\r\n</ul>"
+        "title": "Duga · Omega log: This isn't My Work",
+        "body": "\"This isn't My Work\"- On Duga, in the Research Labs. In the right most building.",
+        "html": "<p>&quot;This isn&#x27;t My Work&quot;- On Duga, in the Research Labs. In the right most building.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/mvuc6c/",
+        "images": [
+          {
+            "src": "./assets/batch16-s3-this-isn-t-my-work.webp",
+            "alt": "Laboratory recorder",
+            "caption": "Laboratory recorder",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=r_6mJR8ihl4&t=125.110366"
+          }
+        ]
       },
       {
-        "title": "Omega: radio transmissions",
-        "body": "Radio Transmissions All transmissions are from the outbreak radios, located in the same positions as last time.\n\n  * \"Uncle\"\n\n  * \"Made of Fire\"\n\n  * \"Chasing Ghosts\"",
-        "html": "<p>Radio Transmissions All transmissions are from the outbreak radios, located in the same positions as last time.</p>\r\n<ul>\r\n<li>&quot;Uncle&quot;</li>\r\n<li>&quot;Made of Fire&quot;</li>\r\n<li>&quot;Chasing Ghosts&quot;</li>\r\n</ul>"
+        "title": "Duga · Omega artifact: Boost Module Monitor",
+        "body": "\"Boost Module Monitor\"- On Duga, in the admin offices on the third floor. In the room with all the computers.",
+        "html": "<p>&quot;Boost Module Monitor&quot;- On Duga, in the admin offices on the third floor. In the room with all the computers.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/mvuc6c/",
+        "images": [
+          {
+            "src": "./assets/batch16-s3-boost-module-monitor.webp",
+            "alt": "Duga location",
+            "caption": "Duga location",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=r_6mJR8ihl4&t=102.11037"
+          }
+        ]
       },
       {
-        "title": "Omega: artifacts",
-        "body": "Artifacts\n  * \"Peck's ID Badge\"- In the middle of the large Bathhouse, on a shelf, on the sanitorium map.\n\n  * \"Mangler Cannon\"- On Ruka, Near the base of the Train Trestle closest to the building. It's sitting at the base of a tree.\n\n  * \"Boost Module Monitor\"- On Duga, in the admin offices on the third floor. In the room with all the computers.",
-        "html": "<p>Artifacts</p>\r\n<ul>\r\n<li>&quot;Peck&#39;s ID Badge&quot;- In the middle of the large Bathhouse, on a shelf, on the sanitorium map.</li>\r\n<li>&quot;Mangler Cannon&quot;- On Ruka, Near the base of the Train Trestle closest to the building. It&#39;s sitting at the base of a tree.</li>\r\n<li>&quot;Boost Module Monitor&quot;- On Duga, in the admin offices on the third floor. In the room with all the computers.</li>\r\n</ul>"
+        "title": "Duga · Maxis log: It's Always Dark",
+        "body": "\"It's Always Dark\"- On Duga, in the 3rd bunker down from the top in the Bunkers section of the map, on a box.",
+        "html": "<p>&quot;It&#x27;s Always Dark&quot;- On Duga, in the 3rd bunker down from the top in the Bunkers section of the map, on a box.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/mvuc6c/",
+        "images": [
+          {
+            "src": "./assets/batch16-s3-it-s-always-dark.webp",
+            "alt": "Duga location",
+            "caption": "Duga location",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=r_6mJR8ihl4&t=166.110359"
+          }
+        ]
       },
       {
-        "title": "Maxis: audio logs",
-        "body": "Audio Logs\n\n  * \"A New Friend\"- on a desk in one of the Church's back rooms on Golova.\n  * \"Isolated\"- in the Police station(the small building to the right of the pack a punch building, where the armor station is) in one of the side rooms on a desk, in Golova.\n\n  * \"It's Always Dark\"- On Duga, in the 3rd bunker down from the top in the Bunkers section of the map, on a box.\n\n  * \"Outbursts\"- On Duga, in the farm area. In the big red house, on the bed on the upper floor.\n\n  * \"Someone We Can Trust\"- On Duga in the warehouses section. On the second floor of the top most warehouse, on a desk.",
-        "html": "<p>Audio Logs</p>\r\n<ul>\r\n<li>&quot;A New Friend&quot;- on a desk in one of the Church&#39;s back rooms on Golova.</li>\r\n<li>&quot;Isolated&quot;- in the Police station(the small building to the right of the pack a punch building, where the armor station is) in one of the side rooms on a desk, in Golova.</li>\r\n<li>&quot;It&#39;s Always Dark&quot;- On Duga, in the 3rd bunker down from the top in the Bunkers section of the map, on a box.</li>\r\n<li>&quot;Outbursts&quot;- On Duga, in the farm area. In the big red house, on the bed on the upper floor.</li>\r\n<li>&quot;Someone We Can Trust&quot;- On Duga in the warehouses section. On the second floor of the top most warehouse, on a desk.</li>\r\n</ul>"
+        "title": "Duga · Maxis log: Outbursts",
+        "body": "\"Outbursts\"- On Duga, in the farm area. In the big red house, on the bed on the upper floor.",
+        "html": "<p>&quot;Outbursts&quot;- On Duga, in the farm area. In the big red house, on the bed on the upper floor.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/mvuc6c/",
+        "images": [
+          {
+            "src": "./assets/batch16-s3-outbursts.webp",
+            "alt": "Farmhouse recorder",
+            "caption": "Farmhouse recorder",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=r_6mJR8ihl4&t=49.110387"
+          }
+        ]
       },
       {
-        "title": "Maxis: artifacts",
-        "body": "Artifacts\n\n  * \"Maxis's Goggles\"- In Sanitorium's Market Square area, on one of the circular tables.\n\n  * \"Maxis's Katana\"- In Duga, In the farm area. Stuck in a haybale in a shed near the back of the area, next to the stone wall.\n\n  * \"Maxis's Scarf\"- In Duga, in the listening post. In a room just to the left of the wonderfizz, on a coathook.\n  * \"Maxis's Watch\"- On Golova, in the Lower West town area. It's on the roof of the building with the crafting bench, requires a jump pad to get to. It's tucked in between the roof itself and one of the 4 spire things with a flag on it.",
-        "html": "<p>Artifacts</p>\r\n<ul>\r\n<li>&quot;Maxis&#39;s Goggles&quot;- In Sanitorium&#39;s Market Square area, on one of the circular tables.</li>\r\n<li>&quot;Maxis&#39;s Katana&quot;- In Duga, In the farm area. Stuck in a haybale in a shed near the back of the area, next to the stone wall.</li>\r\n<li>&quot;Maxis&#39;s Scarf&quot;- In Duga, in the listening post. In a room just to the left of the wonderfizz, on a coathook.</li>\r\n<li>&quot;Maxis&#39;s Watch&quot;- On Golova, in the Lower West town area. It&#39;s on the roof of the building with the crafting bench, requires a jump pad to get to. It&#39;s tucked in between the roof itself and one of the 4 spire things with a flag on it.</li>\r\n</ul>"
+        "title": "Duga · Maxis log: Someone We Can Trust",
+        "body": "\"Someone We Can Trust\"- On Duga in the warehouses section. On the second floor of the top most warehouse, on a desk.",
+        "html": "<p>&quot;Someone We Can Trust&quot;- On Duga in the warehouses section. On the second floor of the top most warehouse, on a desk.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/mvuc6c/",
+        "images": [
+          {
+            "src": "./assets/batch16-s3-someone-we-can-trust.webp",
+            "alt": "Warehouse recorder",
+            "caption": "Warehouse recorder",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=r_6mJR8ihl4&t=73.110371"
+          }
+        ]
       },
       {
-        "title": "Dark Aether: audio logs",
-        "body": "Audio Logs\n\n  * \"Lost Souls: Fedorov 1\"\n\n  * \"Lost Souls: Fedorov 2\"\n\n  * \"Lost Souls: Fedorov 3\"",
-        "html": "<p>Audio Logs</p>\r\n<ul>\r\n<li>&quot;Lost Souls: Fedorov 1&quot;</li>\r\n<li>&quot;Lost Souls: Fedorov 2&quot;</li>\r\n<li>&quot;Lost Souls: Fedorov 3&quot;</li>\r\n</ul>"
+        "title": "Duga · Maxis artifact: Maxis's Katana",
+        "body": "\"Maxis's Katana\"- In Duga, In the farm area. Stuck in a haybale in a shed near the back of the area, next to the stone wall.",
+        "html": "<p>&quot;Maxis&#x27;s Katana&quot;- In Duga, In the farm area. Stuck in a haybale in a shed near the back of the area, next to the stone wall.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/mvuc6c/",
+        "images": [
+          {
+            "src": "./assets/batch16-s3-maxis-s-katana.webp",
+            "alt": "Maxis katana",
+            "caption": "Maxis katana",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=r_6mJR8ihl4&t=60.110384"
+          }
+        ]
       },
       {
-        "title": "Dark Aether: documents",
-        "body": "Documents\n\n  * \"Day 1\"\n\n  * \"Day 3\"\n\n  * \"Day 7\"",
-        "html": "<p>Documents</p>\r\n<ul>\r\n<li>&quot;Day 1&quot;</li>\r\n<li>&quot;Day 3&quot;</li>\r\n<li>&quot;Day 7&quot;</li>\r\n</ul>"
+        "title": "Duga · Maxis artifact: Maxis's Scarf",
+        "body": "\"Maxis's Scarf\"- In Duga, in the listening post. In a room just to the left of the wonderfizz, on a coathook.",
+        "html": "<p>&quot;Maxis&#x27;s Scarf&quot;- In Duga, in the listening post. In a room just to the left of the wonderfizz, on a coathook.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/mvuc6c/",
+        "images": [
+          {
+            "src": "./assets/batch16-s3-maxis-s-scarf.webp",
+            "alt": "Maxis scarf",
+            "caption": "Maxis scarf",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=r_6mJR8ihl4&t=85.110384"
+          }
+        ]
       },
       {
-        "title": "Dark Aether: radio transmissions",
-        "body": "Radio Transmissions\n\n  * \"Who I Am\"\n\n  * \"Great Patriotic\"\n  * \"Tethered\"",
-        "html": "<p>Radio Transmissions</p>\r\n<ul>\r\n<li>&quot;Who I Am&quot;</li>\r\n<li>&quot;Great Patriotic&quot;</li>\r\n<li>&quot;Tethered&quot;</li>\r\n</ul>"
+        "title": "Duga · Dark Aether artifact: Broken Essence Capsule",
+        "body": "\"Broken Essence Capsule\"- On Duga, in the Secondary Array. This location is kinda weird. Starting from the top of the left most array, go as far left as you can, then go down 3 layers. It will be sitting on a grey metal bar connecting the walkway to the side of the array. This is away from the Primary Array, not towards it.",
+        "html": "<p>&quot;Broken Essence Capsule&quot;- On Duga, in the Secondary Array. This location is kinda weird. Starting from the top of the left most array, go as far left as you can, then go down 3 layers. It will be sitting on a grey metal bar connecting the walkway to the side of the array. This is away from the Primary Array, not towards it.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/mvuc6c/",
+        "tip": "Use the outer end of Secondary Array, away from Primary Array. The source author describes three walkway landings; another collector says the first level below the top. Both identify a grey connecting beam. Use that landmark rather than an assumed floor number.",
+        "images": [
+          {
+            "src": "./assets/batch16-s3-broken-essence-capsule.webp",
+            "alt": "Essence capsule",
+            "caption": "Essence capsule",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=r_6mJR8ihl4&t=191.110359"
+          }
+        ]
       },
       {
-        "title": "Dark Aether: artifacts",
-        "body": "Artifacts\n\n  * \"Empty Speed Cola Can\"- on the counter on the kitchen of the higher of the two right most houses in the vacation homes section of the Sanitorium Map.\n\n  * \"Dragon Head Trophy\"- On Alpine, in the lodge. In Room 201, above the bed.\n  * \"Broken Essence Capsule\"- On Duga, in the Secondary Array. This location is kinda weird. Starting from the top of the left most array, go as far left as you can, then go down 3 layers. It will be sitting on a grey metal bar connecting the walkway to the side of the array. This is away from the Primary Array, not towards it.",
-        "html": "<p>Artifacts</p>\r\n<ul>\r\n<li>&quot;Empty Speed Cola Can&quot;- on the counter on the kitchen of the higher of the two right most houses in the vacation homes section of the Sanitorium Map.</li>\r\n<li>&quot;Dragon Head Trophy&quot;- On Alpine, in the lodge. In Room 201, above the bed.</li>\r\n<li>&quot;Broken Essence Capsule&quot;- On Duga, in the Secondary Array. This location is kinda weird. Starting from the top of the left most array, go as far left as you can, then go down 3 layers. It will be sitting on a grey metal bar connecting the walkway to the side of the array. This is away from the Primary Array, not towards it.</li>\r\n</ul>"
+        "title": "Sanatorium · Requiem artifact: Energy Mine Canister",
+        "body": "\"Energy Mine Canister\"- on the roof of the 001 and 002 apartments in the Mechanic Shop area of the Sanitorium Map.",
+        "html": "<p>&quot;Energy Mine Canister&quot;- on the roof of the 001 and 002 apartments in the Mechanic Shop area of the Sanitorium Map.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/mvuc6c/",
+        "tip": "Mechanic Shop is the small 001/002 apartment building, not the separate Maintenance area. The source author confirms the canister is on that apartment roof.",
+        "images": [
+          {
+            "src": "./assets/batch16-s3-energy-mine-canister.webp",
+            "alt": "Energy canister",
+            "caption": "Energy canister",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=r_6mJR8ihl4&t=259.110358"
+          }
+        ]
+      },
+      {
+        "title": "Sanatorium · Requiem artifact: Requiem Patch",
+        "body": "\"Requiem Patch\"- On Sanitorium, in the Lakeside Dell area. Its on a little dock to the left of the big bridge.",
+        "html": "<p>&quot;Requiem Patch&quot;- On Sanitorium, in the Lakeside Dell area. Its on a little dock to the left of the big bridge.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/mvuc6c/",
+        "images": [
+          {
+            "src": "./assets/batch16-s3-requiem-patch.webp",
+            "alt": "Requiem patch",
+            "caption": "Requiem patch",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=r_6mJR8ihl4&t=218.110359"
+          }
+        ]
+      },
+      {
+        "title": "Sanatorium · Omega log: His Plan, Our Plan",
+        "body": "\"His Plan Our Plan\"- On Sanitorium, on the Sanitorium Roof. It's on top of the spire with 2 satellite dishes. Requires a Jump pad to get to.",
+        "html": "<p>&quot;His Plan Our Plan&quot;- On Sanitorium, on the Sanitorium Roof. It&#x27;s on top of the spire with 2 satellite dishes. Requires a Jump pad to get to.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/mvuc6c/",
+        "tip": "Target the roof tower with two dishes, nearest Administration. A firsthand follow-up uses the beach jump pad; another identifies the dock pad north of the main building. Ordinary roof access does not reach the recorder platform.",
+        "images": [
+          {
+            "src": "./assets/batch16-s3-his-plan-our-plan.webp",
+            "alt": "Tower recorder",
+            "caption": "Tower recorder",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=r_6mJR8ihl4&t=275.110357"
+          }
+        ]
+      },
+      {
+        "title": "Sanatorium · Omega artifact: Peck's ID Badge",
+        "body": "\"Peck's ID Badge\"- In the middle of the large Bathhouse, on a shelf, on the sanitorium map.",
+        "html": "<p>&quot;Peck&#x27;s ID Badge&quot;- In the middle of the large Bathhouse, on a shelf, on the sanitorium map.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/mvuc6c/",
+        "tip": "Use Sanatorium’s Bathhouse near Vacation Homes. The source author specifies the middle shelf among the towels; Alpine’s Bathhouse is a different location.",
+        "images": [
+          {
+            "src": "./assets/batch16-s3-peck-s-id-badge.webp",
+            "alt": "Peck badge",
+            "caption": "Peck badge",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=r_6mJR8ihl4&t=233.110359"
+          }
+        ]
+      },
+      {
+        "title": "Sanatorium · Maxis artifact: Maxis's Goggles",
+        "body": "\"Maxis's Goggles\"- In Sanitorium's Market Square area, on one of the circular tables.",
+        "html": "<p>&quot;Maxis&#x27;s Goggles&quot;- In Sanitorium&#x27;s Market Square area, on one of the circular tables.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/mvuc6c/",
+        "images": [
+          {
+            "src": "./assets/batch16-s3-maxis-s-goggles.webp",
+            "alt": "Maxis goggles",
+            "caption": "Maxis goggles",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=r_6mJR8ihl4&t=248.110359"
+          }
+        ]
+      },
+      {
+        "title": "Sanatorium · Dark Aether artifact: Empty Speed Cola Can",
+        "body": "\"Empty Speed Cola Can\"- on the counter on the kitchen of the higher of the two right most houses in the vacation homes section of the Sanitorium Map.",
+        "html": "<p>&quot;Empty Speed Cola Can&quot;- on the counter on the kitchen of the higher of the two right most houses in the vacation homes section of the Sanitorium Map.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/mvuc6c/",
+        "tip": "Pickup: Empty Speed Cola.",
+        "images": [
+          {
+            "src": "./assets/batch16-s3-empty-speed-cola-can.webp",
+            "alt": "Speed can",
+            "caption": "Speed can",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=r_6mJR8ihl4&t=206.110359"
+          }
+        ]
+      },
+      {
+        "title": "Alpine · Requiem log: Embarrassment of Riches",
+        "body": "\"Embarrassment of Riches\"-On Alpine, in the lodge. On the third floor sitting on the bar.",
+        "html": "<p>&quot;Embarrassment of Riches&quot;-On Alpine, in the lodge. On the third floor sitting on the bar.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/mvuc6c/",
+        "images": [
+          {
+            "src": "./assets/batch16-s3-embarrassment-of-riches.webp",
+            "alt": "Lodge recorder",
+            "caption": "Lodge recorder",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=r_6mJR8ihl4&t=289.110355"
+          }
+        ]
+      },
+      {
+        "title": "Alpine · Dark Aether artifact: Dragon Head Trophy",
+        "body": "\"Dragon Head Trophy\"- On Alpine, in the lodge. In Room 201, above the bed.",
+        "html": "<p>&quot;Dragon Head Trophy&quot;- On Alpine, in the lodge. In Room 201, above the bed.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/mvuc6c/",
+        "images": [
+          {
+            "src": "./assets/batch16-s3-dragon-head-trophy.webp",
+            "alt": "Dragon trophy",
+            "caption": "Dragon trophy",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=r_6mJR8ihl4&t=297.110356"
+          }
+        ]
+      },
+      {
+        "title": "Ruka · Omega log: Witching Hour",
+        "body": "\"Witching Hour\"-On Ruka, in the missile silos by the A elevator. On the side of the building, next to the generators.",
+        "html": "<p>&quot;Witching Hour&quot;-On Ruka, in the missile silos by the A elevator. On the side of the building, next to the generators.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/mvuc6c/",
+        "images": [
+          {
+            "src": "./assets/batch16-s3-witching-hour.webp",
+            "alt": "Witching recorder",
+            "caption": "Witching recorder",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=r_6mJR8ihl4&t=313.11033"
+          }
+        ]
+      },
+      {
+        "title": "Ruka · Omega artifact: Mangler Cannon",
+        "body": "\"Mangler Cannon\"- On Ruka, Near the base of the Train Trestle closest to the building. It's sitting at the base of a tree.",
+        "html": "<p>&quot;Mangler Cannon&quot;- On Ruka, Near the base of the Train Trestle closest to the building. It&#x27;s sitting at the base of a tree.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/mvuc6c/",
+        "tip": "Search at ground level between the tree and the bridge’s concrete support. The follow-up corrects the old map marker: the cannon is not on the elevated rail deck.",
+        "images": [
+          {
+            "src": "./assets/batch16-s3-mangler-cannon.webp",
+            "alt": "Mangler cannon",
+            "caption": "Mangler cannon",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=r_6mJR8ihl4&t=325.110354"
+          }
+        ]
+      },
+      {
+        "title": "Golova · Maxis log: A New Friend",
+        "body": "\"A New Friend\"- on a desk in one of the Church's back rooms on Golova.",
+        "html": "<p>&quot;A New Friend&quot;- on a desk in one of the Church&#x27;s back rooms on Golova.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/mvuc6c/",
+        "tip": "A firsthand finder enters the church’s lower floor through the left of the two middle doors; the recorder is on the desk just inside the back room.",
+        "images": [
+          {
+            "src": "./assets/batch16-s3-a-new-friend.webp",
+            "alt": "Church recorder",
+            "caption": "Church recorder",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=r_6mJR8ihl4&t=354.11033"
+          }
+        ]
+      },
+      {
+        "title": "Golova · Maxis log: Isolated",
+        "body": "\"Isolated\"- in the Police station(the small building to the right of the pack a punch building, where the armor station is) in one of the side rooms on a desk, in Golova.",
+        "html": "<p>&quot;Isolated&quot;- in the Police station(the small building to the right of the pack a punch building, where the armor station is) in one of the side rooms on a desk, in Golova.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/mvuc6c/",
+        "tip": "Enter the small police / Arsenal building beside Pack-a-Punch. The firsthand reply specifies the back-right office desk, not the Pack-a-Punch building itself.",
+        "images": [
+          {
+            "src": "./assets/batch16-s3-isolated.webp",
+            "alt": "Golova location",
+            "caption": "Golova location",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=r_6mJR8ihl4&t=342.110331"
+          }
+        ]
+      },
+      {
+        "title": "Golova · Maxis artifact: Maxis's Watch",
+        "body": "\"Maxis's Watch\"- On Golova, in the Lower West town area. It's on the roof of the building with the crafting bench, requires a jump pad to get to. It's tucked in between the roof itself and one of the 4 spire things with a flag on it.",
+        "html": "<p>&quot;Maxis&#x27;s Watch&quot;- On Golova, in the Lower West town area. It&#x27;s on the roof of the building with the crafting bench, requires a jump pad to get to. It&#x27;s tucked in between the roof itself and one of the 4 spire things with a flag on it.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/mvuc6c/",
+        "images": [
+          {
+            "src": "./assets/batch16-s3-maxis-s-watch.webp",
+            "alt": "Maxis watch",
+            "caption": "Maxis watch",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=r_6mJR8ihl4&t=370.110329"
+          }
+        ]
+      },
+      {
+        "title": "Requiem: 4 ordinary document drops",
+        "body": "All Documents drop from Special/Elite Enemies in the Outbreak game mode\n\n“E.C.M. Blueprint.”\n“Dark Aether Object Report”\n“Crate Memo”\n“Extraction Rocket Blueprint”",
+        "html": "<p>All Documents drop from Special/Elite Enemies in the Outbreak game mode</p><ul><li>E.C.M. Blueprint.</li><li>Dark Aether Object Report</li><li>Crate Memo</li><li>Extraction Rocket Blueprint</li></ul>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/mvuc6c/",
+        "tip": "Inspect and interact with the dropped document. Use the collection helper for special / elite drops and Golden Challenge Chests; there is no fixed desk for these entries.",
+        "images": [
+          {
+            "src": "./assets/batch16-s3-document-drop.webp",
+            "alt": "Document drop",
+            "caption": "Document drop",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=r_6mJR8ihl4&t=388.610253"
+          }
+        ]
+      },
+      {
+        "title": "Omega: 4 ordinary document drops",
+        "body": "All documents are gotten from special/elite kills.\n\n“Boost Module Report”\n“Krasny Soldat Blueprint”\n“Phase Report”\n“Valentina Diary Entry”",
+        "html": "<p>All documents are gotten from special/elite kills.</p><ul><li>Boost Module Report</li><li>Krasny Soldat Blueprint</li><li>Phase Report</li><li>Valentina Diary Entry</li></ul>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/mvuc6c/",
+        "tip": "Inspect and interact with the dropped document. Use the collection helper for special / elite drops and Golden Challenge Chests; there is no fixed desk for these entries."
+      },
+      {
+        "title": "Requiem: 3 faction-radio transmissions",
+        "body": "Collect these Requiem transmissions from its fixed intel receiver: Progress Update; A Visceral Process; Fish Out of Water.\n\nAlpine: Bathhouse reception desk; Ruka: Cargo Platform building by the rail bridge; Sanatorium: A desk in the leftmost Vacation Home; Golova: Top of the Granary silos; Duga: Listening Post, A-2 side, upper office. From Der Wunderfizz, take the stairs and three right turns to the room with four joined tables.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/mvuc6c/",
+        "tip": "Only one transmission per faction can be collected in a match, even after warping. An earlier missing transmission may arrive first. Start another match for the next entry; tuning music / quest amplifiers is a separate activity.",
+        "images": [
+          {
+            "src": "./assets/batch16-s3-duga-requiem-radio.webp",
+            "alt": "Duga receiver",
+            "caption": "Duga receiver",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=r_6mJR8ihl4&t=464.610304"
+          }
+        ]
+      },
+      {
+        "title": "Omega: 3 faction-radio transmissions",
+        "body": "Collect these Omega transmissions from its fixed intel receiver: Uncle; Made of Fire; Chasing Ghosts.\n\nAlpine: Pro Shop pool table; Ruka: Green tent at Missile Silos; Sanatorium: Administration building desk; Golova: Inside the Pack-a-Punch building",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/mvuc6c/",
+        "tip": "Only one transmission per faction can be collected in a match, even after warping. An earlier missing transmission may arrive first. Start another match for the next entry; tuning music / quest amplifiers is a separate activity. Duga: Secure Communications, on the desk beside the terminal.",
+        "images": [
+          {
+            "src": "./assets/batch16-s3-duga-omega-radio.webp",
+            "alt": "Duga receiver",
+            "caption": "Duga receiver",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=r_6mJR8ihl4&t=471.610283"
+          }
+        ]
+      },
+      {
+        "title": "Dark Aether: 3 Trial audio logs",
+        "body": "Earn through intel Trials: Lost Souls: Fedorov 1; Lost Souls: Fedorov 2; Lost Souls: Fedorov 3.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/mvuc6c/",
+        "tip": "Claim Intel at the Trial Computer. Use the collection helper for the folder icon, difficulty and match-limit procedure. The separate artifacts use their own pickup chapters.",
+        "images": [
+          {
+            "src": "./assets/batch16-s3-trial-claim.webp",
+            "alt": "Intel Trial",
+            "caption": "Intel Trial",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=r_6mJR8ihl4&t=519.610273"
+          }
+        ]
+      },
+      {
+        "title": "Dark Aether: 3 Trial documents",
+        "body": "Earn through intel Trials: Day 1; Day 3; Day 7.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/mvuc6c/",
+        "tip": "Claim Intel at the Trial Computer. Use the collection helper for the folder icon, difficulty and match-limit procedure. The separate artifacts use their own pickup chapters."
+      },
+      {
+        "title": "Dark Aether: 3 Trial radio transmissions",
+        "body": "Earn through intel Trials: Who I Am; Great Patriotic; Tethered.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/mvuc6c/",
+        "tip": "Claim Intel at the Trial Computer. Use the collection helper for the folder icon, difficulty and match-limit procedure. The separate artifacts use their own pickup chapters."
       }
     ],
     "sources": [
       {
-        "title": "u/Ricerat477 — firsthand community intel checklist",
+        "title": "u/Ricerat477 and item finders: release inventory",
         "url": "https://www.reddit.com/r/CODZombies/comments/mvuc6c/"
+      },
+      {
+        "title": "Firsthand location refinements and radio distinctions",
+        "url": "https://www.reddit.com/r/CODZombies/comments/mvzb9t/"
+      },
+      {
+        "title": "Earlier faction-radio locations and collector follow-ups",
+        "url": "https://www.reddit.com/r/CODZombies/comments/mgd49k/"
+      },
+      {
+        "title": "Treyarch: release date and new intel",
+        "url": "https://www.treyarch.com/game-intel/2021/04/Season_Three_Begins_April_22"
+      },
+      {
+        "title": "MysteryHQ: original location footage",
+        "url": "https://www.youtube.com/watch?v=r_6mJR8ihl4"
+      },
+      {
+        "title": "Golova finders: church and police desks",
+        "url": "https://www.reddit.com/r/CODZombies/comments/mveu1j/"
       }
     ],
     "sourceQuote": "https://www.reddit.com/r/CODZombies/comments/mvuc6c/",
-    "checked": "2026-10-16",
+    "checked": "2026-10-18",
     "relatedGuideIds": [
-      "coldwar-outbreak-legion-main",
-      "coldwar-outbreak-operation-excision",
+      "coldwar-outbreak-intel-season-3-reloaded",
+      "coldwar-outbreak-intel-collection",
       "coldwar-outbreak-intel-season-2-reloaded",
-      "coldwar-outbreak-intel-collection"
-    ]
+      "coldwar-outbreak-legion-main",
+      "coldwar-outbreak-ravenov-field-locations"
+    ],
+    "sourceOmissions": [
+      "The inherited grouped list is divided into regional pickup chapters and acquisition-method checklists. Lore transcripts are not reproduced.",
+      "Quoted spelling is retained. Sanatorium is standardized in chapter titles; leading or trailing spaces in checklist names are removed only from titles and inventory keys.",
+      "The source’s general Dark Aether Trial statement applies to non-artifact entries. Its separate physical artifact list is retained.",
+      "Selected pickup labels are read from historical footage; the full Barracks menu and current retail collection behavior have not been independently checked."
+    ],
+    "supplementNote": "Quoted location lines credit u/Ricerat477 and the linked firsthand finders. Field notes distinguish acquisition methods and conflicting descriptions. The linked collection and Ravenov routes provide the shared procedures."
   },
   {
     "id": "coldwar-outbreak-intel-season-3-reloaded",
     "mapId": "coldwar-outbreak",
-    "title": "Season 3 Reloaded intel: Legion quest artifacts and new pickups",
+    "title": "Season 3 Reloaded intel: 37 records and the six quest pickups",
     "category": "side",
     "difficulty": "Medium",
     "players": "1–4 players, online; progress is per account",
-    "summary": "Ricerat477's attributed collectible checklist for this release. The named map areas identify fixed pickups; document drops, transmissions and intel Trials take repeated runs.",
+    "summary": "Find eleven fixed pickups, follow six quest records and collect the separate document, faction-radio and Trial entries from the May update.",
     "requirements": [
-      "This is the Season 3 Reloaded release checklist, not a claim that later additions are absent.",
-      "Open the map and keep the matching main-quest / Wonder Weapon guide available for quest artifacts.",
-      "Check Barracks → Intel to select the faction and season still missing. Interact with physical logs and artifacts; finish intel Trials and collect their terminal reward.",
-      "The Trials method applies to the listed Dark Aether logs, documents and transmissions; artifacts retain the individual pickup instructions shown below."
+      "Original Black Ops Cold War Standard Outbreak. Check your own Barracks → Intel collection and the Outbreak map tag.",
+      "This card covers the May 20, 2021 update. The separate launch card contains the other 48 Season 3 Outbreak entries.",
+      "Physical logs and artifacts have fixed locations. Ordinary documents come from drops; faction transmissions and non-artifact Dark Aether Trial rewards use separate methods.",
+      "For the six quest records, use the linked Ravenov Implications and field-location guides. Prepare before the Ruka silo elevator commits the run to its bunker."
     ],
-    "reward": "The listed collectible entries and their recorded lore in Barracks → Intel.",
+    "reward": "The 37 listed Reloaded records in your Intel collection; quest rewards and calling cards are separate.",
     "steps": [
       {
-        "title": "Requiem: audio logs",
-        "body": "Audio Logs\n\n  * \"Operation Baldr\"- on Duga, in Radar Control. Sitting on the table next to the couch in the Office on the second floor.\n\n  * \"Eyes Only\"- On Duga, in the Worker Services building. On the second floor, on a desk in one of the offices.\n\n  * \"Dissent and Division\"-On sanitorium, on the monorail track in South Lake. It's in the support pillar in the middle of the lake.\n  * \"News from Upstairs\"-On sanitorium, in the bridge. Right at the end of the bridge just before you go outta the map, on a little platform just above the surface of the water.\n\n  * \"Death Squads\"- On Ruka, in the old farm area. In the green tent, under a table.",
-        "html": "<p>Audio Logs</p>\r\n<ul>\r\n<li>&quot;Operation Baldr&quot;- on Duga, in Radar Control. Sitting on the table next to the couch in the Office on the second floor.</li>\r\n<li>&quot;Eyes Only&quot;- On Duga, in the Worker Services building. On the second floor, on a desk in one of the offices.</li>\r\n<li>&quot;Dissent and Division&quot;-On sanitorium, on the monorail track in South Lake. It&#39;s in the support pillar in the middle of the lake.</li>\r\n<li>&quot;News from Upstairs&quot;-On sanitorium, in the bridge. Right at the end of the bridge just before you go outta the map, on a little platform just above the surface of the water.</li>\r\n<li>&quot;Death Squads&quot;- On Ruka, in the old farm area. In the green tent, under a table.</li>\r\n</ul>"
+        "title": "Check the release and collection method",
+        "body": "This 37-entry set has eleven fixed pickups, six main-quest records, ten ordinary documents, two faction-radio transmissions and eight Trial entries. The main quest opened on May 20. Use both Season 3 cards to follow the full Outbreak release inventory.",
+        "original": true,
+        "researchSource": "https://www.treyarch.com/game-intel/2021/05/New_Content_Arrives_with_80s_Action_Heroes",
+        "tip": "MysteryHQ’s pinned correction: multiple documents can drop per match; the final Omega transmission was fixed June 16, 2021. Tempest Head is Omega despite the overlay. ICBM Launch Key intel comes from the red Mimic. Legion drops no intel."
       },
       {
-        "title": "Requiem: documents",
-        "body": "Documents\n\nGotten from Elite/Special drops or golden Challenge Chests.\n\n  * \" Investigation Request\"\n\n  * \"Zykov Assessment\"\n\n  * \"Power Nodes Report\"\n\n  * \"J Cipher\"",
-        "html": "<p>Documents</p>\r\n<p>Gotten from Elite/Special drops or golden Challenge Chests.</p>\r\n<ul>\r\n<li>&quot; Investigation Request&quot;</li>\r\n<li>&quot;Zykov Assessment&quot;</li>\r\n<li>&quot;Power Nodes Report&quot;</li>\r\n<li>&quot;J Cipher&quot;</li>\r\n</ul>"
+        "title": "Duga · Requiem log: Eyes Only",
+        "body": "\"Eyes Only\"- On Duga, in the Worker Services building. On the second floor, on a desk in one of the offices.",
+        "html": "<p>&quot;Eyes Only&quot;- On Duga, in the Worker Services building. On the second floor, on a desk in one of the offices.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/ngj7vh/",
+        "images": [
+          {
+            "src": "./assets/batch16-s3r-eyes-only.webp",
+            "alt": "Office recorder",
+            "caption": "Office recorder",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=MibqjX0uy0g&t=57.590655"
+          }
+        ]
       },
       {
-        "title": "Requiem: radio transmissions",
-        "body": "Radio Transmissions\n\n  * \"Commander-in-Chief\"",
-        "html": "<p>Radio Transmissions</p>\r\n<ul>\r\n<li>&quot;Commander-in-Chief&quot;</li>\r\n</ul>"
+        "title": "Duga · Requiem log: Operation Baldr",
+        "body": "\"Operation Baldr\"- on Duga, in Radar Control. Sitting on the table next to the couch in the Office on the second floor.",
+        "html": "<p>&quot;Operation Baldr&quot;- on Duga, in Radar Control. Sitting on the table next to the couch in the Office on the second floor.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/ngj7vh/",
+        "images": [
+          {
+            "src": "./assets/batch16-s3r-operation-baldr.webp",
+            "alt": "Baldr recorder",
+            "caption": "Baldr recorder",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=MibqjX0uy0g&t=70.590656"
+          }
+        ]
       },
       {
-        "title": "Requiem: artifacts",
-        "body": "Artifacts\n  * \"Beacon Device Component\"- On Duga, in the Eletrical Substation. On one of the two taller structures, is very easy to see.\n\n  * \"Transformed Apple Crate\"- on Golova, in the barn of the lower farmstead. Should be pretty easy to spot.\n\n  * \"Aether Shroud Canister\"-On Alpine, in the Maintenance section. It's inside one of the garages.",
-        "html": "<p>Artifacts</p>\r\n<ul>\r\n<li>&quot;Beacon Device Component&quot;- On Duga, in the Eletrical Substation. On one of the two taller structures, is very easy to see.</li>\r\n<li>&quot;Transformed Apple Crate&quot;- on Golova, in the barn of the lower farmstead. Should be pretty easy to spot.</li>\r\n<li>&quot;Aether Shroud Canister&quot;-On Alpine, in the Maintenance section. It&#39;s inside one of the garages.</li>\r\n</ul>"
+        "title": "Duga · Requiem artifact: Beacon Device Component",
+        "body": "\"Beacon Device Component\"- On Duga, in the Eletrical Substation. On one of the two taller structures, is very easy to see.",
+        "html": "<p>&quot;Beacon Device Component&quot;- On Duga, in the Eletrical Substation. On one of the two taller structures, is very easy to see.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/ngj7vh/",
+        "tip": "Check both tall structures at Electrical Substation. The collector places the component up on a structure; ground-level supply crates are not the target.",
+        "images": [
+          {
+            "src": "./assets/batch16-s3r-beacon-device-component.webp",
+            "alt": "Beacon component",
+            "caption": "Beacon component",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=MibqjX0uy0g&t=87.590655"
+          }
+        ]
       },
       {
-        "title": "Omega: documents",
-        "body": "Documents\n\nGotten from Elite/Special drops or golden Challenge Chests.\n\n  * \" Operatsiya Inversiya Proposal\"\n\n  * \"R Cipher \"\n  * \"Aetherium Warhead Blueprint\"-Obtained during the Outbreak EE.",
-        "html": "<p>Documents</p>\r\n<p>Gotten from Elite/Special drops or golden Challenge Chests.</p>\r\n<ul>\r\n<li>&quot; Operatsiya Inversiya Proposal&quot;</li>\r\n<li>&quot;R Cipher &quot;</li>\r\n<li>&quot;Aetherium Warhead Blueprint&quot;-Obtained during the Outbreak EE.</li>\r\n</ul>"
+        "title": "Sanatorium · Requiem log: Dissent and Division",
+        "body": "\"Dissent and Division\"-On sanitorium, on the monorail track in South Lake. It's in the support pillar in the middle of the lake.",
+        "html": "<p>&quot;Dissent and Division&quot;-On sanitorium, on the monorail track in South Lake. It&#x27;s in the support pillar in the middle of the lake.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/ngj7vh/",
+        "images": [
+          {
+            "src": "./assets/batch16-s3r-dissent-and-division.webp",
+            "alt": "Monorail recorder",
+            "caption": "Monorail recorder",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=MibqjX0uy0g&t=99.590653"
+          }
+        ]
       },
       {
-        "title": "Omega: radio transmissions",
-        "body": "Radio Transmissions\n\n  * \"Something is Coming\"",
-        "html": "<p>Radio Transmissions</p>\r\n<ul>\r\n<li>&quot;Something is Coming&quot;</li>\r\n</ul>"
+        "title": "Sanatorium · Requiem log: News from Upstairs",
+        "body": "\"News from Upstairs\"-On sanitorium, in the bridge. Right at the end of the bridge just before you go outta the map, on a little platform just above the surface of the water.",
+        "html": "<p>&quot;News from Upstairs&quot;-On sanitorium, in the bridge. Right at the end of the bridge just before you go outta the map, on a little platform just above the surface of the water.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/ngj7vh/",
+        "tip": "Check the low platform at the bridge’s far end, just above the water. Stop inside the playable boundary; the source’s wording does not require crossing out of the map.",
+        "images": [
+          {
+            "src": "./assets/batch16-s3r-news-from-upstairs.webp",
+            "alt": "Bridge recorder",
+            "caption": "Bridge recorder",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=MibqjX0uy0g&t=118.590654"
+          }
+        ]
       },
       {
-        "title": "Omega: artifacts",
-        "body": "Artifacts\n\n  * \"ICBM Launch Key\"-Obtained during the Outbreak EE.\n\n  * \"Modified Essence Trap\"- Obtained during the Outbreak EE.\n\n  * \"Tempest Head\"-On Alpine, in the medivac area. Inside the large building, on top of a pile of crates and sandbags that need to be clambered up.",
-        "html": "<p>Artifacts</p>\r\n<ul>\r\n<li>&quot;ICBM Launch Key&quot;-Obtained during the Outbreak EE.</li>\r\n<li>&quot;Modified Essence Trap&quot;- Obtained during the Outbreak EE.</li>\r\n<li>&quot;Tempest Head&quot;-On Alpine, in the medivac area. Inside the large building, on top of a pile of crates and sandbags that need to be clambered up.</li>\r\n</ul>"
+        "title": "Sanatorium · Dark Aether artifact: Empty Quick Revive Soda Can",
+        "body": "\" Empty Quick Revive Soda Can\"- On Sanitorium, in the Beach Resort. Under the stairs of the White shack building.",
+        "html": "<p>&quot; Empty Quick Revive Soda Can&quot;- On Sanitorium, in the Beach Resort. Under the stairs of the White shack building.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/ngj7vh/",
+        "tip": "Pickup: Empty Quick Revive.",
+        "images": [
+          {
+            "src": "./assets/batch16-s3r-empty-quick-revive-soda-can.webp",
+            "alt": "Revive can",
+            "caption": "Revive can",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=MibqjX0uy0g&t=133.590652"
+          }
+        ]
       },
       {
-        "title": "Maxis: documents",
-        "body": "Documents\n\nGotten from Elite/Special drops or golden Challenge Chests.\n\n  * \" Arrival\"\n  * \" Maxis Progress Report\"\n\n  * \"Quarantine Diary 1\"\n\n  * \"Quarantine Diary 2 \"",
-        "html": "<p>Documents</p>\r\n<p>Gotten from Elite/Special drops or golden Challenge Chests.</p>\r\n<ul>\r\n<li>&quot; Arrival&quot;</li>\r\n<li>&quot; Maxis Progress Report&quot;</li>\r\n<li>&quot;Quarantine Diary 1&quot;</li>\r\n<li>&quot;Quarantine Diary 2 &quot;</li>\r\n</ul>"
+        "title": "Alpine · Requiem artifact: Aether Shroud Canister",
+        "body": "\"Aether Shroud Canister\"-On Alpine, in the Maintenance section. It's inside one of the garages.",
+        "html": "<p>&quot;Aether Shroud Canister&quot;-On Alpine, in the Maintenance section. It&#x27;s inside one of the garages.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/ngj7vh/",
+        "tip": "Search inside the Maintenance garage bays for the fixed canister. The collector identifies the garages, but does not give a numbered bay. Use the open red garage doors beside stacked tires; check the back workbench.",
+        "images": [
+          {
+            "src": "./assets/batch16-s3r-aether-shroud-garage.webp",
+            "alt": "Garage approach",
+            "caption": "Garage approach",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=MibqjX0uy0g&t=173.590629"
+          },
+          {
+            "src": "./assets/batch16-s3r-aether-shroud-canister.webp",
+            "alt": "Shroud canister",
+            "caption": "Shroud canister",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=MibqjX0uy0g&t=176.590629"
+          }
+        ]
       },
       {
-        "title": "Maxis: artifacts",
-        "body": "Artifacts\n\n  * \"Beacon Listening Device\"-Obtained during the Outbreak EE.\n\n  * \"Microfilm Slides\"-Obtained during the Outbreak EE.",
-        "html": "<p>Artifacts</p>\r\n<ul>\r\n<li>&quot;Beacon Listening Device&quot;-Obtained during the Outbreak EE.</li>\r\n<li>&quot;Microfilm Slides&quot;-Obtained during the Outbreak EE.</li>\r\n</ul>"
+        "title": "Alpine · Omega artifact: Tempest Head",
+        "body": "\"Tempest Head\"-On Alpine, in the medivac area. Inside the large building, on top of a pile of crates and sandbags that need to be clambered up.",
+        "html": "<p>&quot;Tempest Head&quot;-On Alpine, in the medivac area. Inside the large building, on top of a pile of crates and sandbags that need to be clambered up.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/ngj7vh/",
+        "tip": "Clamber up the crates and sandbags inside the large Medevac building. This is a fixed artifact, not a random head drop from a Tempest.",
+        "images": [
+          {
+            "src": "./assets/batch16-s3r-tempest-head.webp",
+            "alt": "Tempest head",
+            "caption": "Tempest head",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=MibqjX0uy0g&t=189.590629"
+          }
+        ]
       },
       {
-        "title": "Dark Aether: audio logs",
-        "body": "Audio Logs\n\n  * \"Great and Terrible\"",
-        "html": "<p>Audio Logs</p>\r\n<ul>\r\n<li>&quot;Great and Terrible&quot;</li>\r\n</ul>"
+        "title": "Ruka · Requiem log: Death Squads",
+        "body": "\"Death Squads\"- On Ruka, in the old farm area. In the green tent, under a table.",
+        "html": "<p>&quot;Death Squads&quot;- On Ruka, in the old farm area. In the green tent, under a table.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/ngj7vh/",
+        "images": [
+          {
+            "src": "./assets/batch16-s3r-death-squads.webp",
+            "alt": "Farm recorder",
+            "caption": "Farm recorder",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=MibqjX0uy0g&t=149.590652"
+          }
+        ]
       },
       {
-        "title": "Dark Aether: documents",
-        "body": "Documents\n\n  * \"Day 9\"\n\n  * \"Day 11\"\n\n  * \"Day 12\"",
-        "html": "<p>Documents</p>\r\n<ul>\r\n<li>&quot;Day 9&quot;</li>\r\n<li>&quot;Day 11&quot;</li>\r\n<li>&quot;Day 12&quot;</li>\r\n</ul>"
+        "title": "Ruka · Dark Aether artifact: Broken Essence artifact (Container / Canister)",
+        "body": "\"Broken Essence Container\"-On Ruka, in the Creek Dacha area. Inside the brown barn, in a feeding trough.",
+        "html": "<p>&quot;Broken Essence Container&quot;-On Ruka, in the Creek Dacha area. Inside the brown barn, in a feeding trough.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/ngj7vh/",
+        "tip": "Pickup: Broken Essence Canister. It is a separate record from Duga’s Broken Essence Capsule.",
+        "images": [
+          {
+            "src": "./assets/batch16-s3r-broken-essence-container.webp",
+            "alt": "Ruka artifact",
+            "caption": "Ruka artifact",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=MibqjX0uy0g&t=161.590629"
+          }
+        ]
       },
       {
-        "title": "Dark Aether: radio transmissions",
-        "body": "Radio Transmissions\n\n  * \"Changes\"\n\n  * \"Junkyard\"\n\n  * \"Invasion\"\n\n  * \"Bring me home\"",
-        "html": "<p>Radio Transmissions</p>\r\n<ul>\r\n<li>&quot;Changes&quot;</li>\r\n<li>&quot;Junkyard&quot;</li>\r\n<li>&quot;Invasion&quot;</li>\r\n<li>&quot;Bring me home&quot;</li>\r\n</ul>"
+        "title": "Golova · Requiem artifact: Transformed Apple Crate",
+        "body": "\"Transformed Apple Crate\"- on Golova, in the barn of the lower farmstead. Should be pretty easy to spot.",
+        "html": "<p>&quot;Transformed Apple Crate&quot;- on Golova, in the barn of the lower farmstead. Should be pretty easy to spot.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/ngj7vh/",
+        "images": [
+          {
+            "src": "./assets/batch16-s3r-transformed-apple-crate.webp",
+            "alt": "Apple crate",
+            "caption": "Apple crate",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=MibqjX0uy0g&t=205.590614"
+          }
+        ]
       },
       {
-        "title": "Dark Aether: artifacts",
-        "body": "Artifacts\n  * \" Empty Quick Revive Soda Can\"- On Sanitorium, in the Beach Resort. Under the stairs of the White shack building.\n\n  * \"Aetherium Crystal Chunks\"-Found during the Outbreak EE\n\n  * \"Broken Essence Container\"-On Ruka, in the Creek Dacha area. Inside the brown barn, in a feeding trough.",
-        "html": "<p>Artifacts</p>\r\n<ul>\r\n<li>&quot; Empty Quick Revive Soda Can&quot;- On Sanitorium, in the Beach Resort. Under the stairs of the White shack building.</li>\r\n<li>&quot;Aetherium Crystal Chunks&quot;-Found during the Outbreak EE</li>\r\n<li>&quot;Broken Essence Container&quot;-On Ruka, in the Creek Dacha area. Inside the brown barn, in a feeding trough.</li>\r\n</ul>"
+        "title": "Quest · Maxis artifact: Beacon Listening Device",
+        "body": "Beacon Listening Device (found during the main quest by finding a radio that is not marked on the radar while at level 3 or higher and using the set of amplifiers to strengthen the signal and then listening to the full signal)",
+        "html": "<p>Beacon Listening Device (found during the main quest by finding a radio that is not marked on the radar while at level 3 or higher and using the set of amplifiers to strengthen the signal and then listening to the full signal)</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/ngj7vh/",
+        "tip": "Match all three amplifiers to the unmarked radio, play its full message and collect the yellow device. The orange antenna music event is separate. Use the linked Ravenov field locations for your region.",
+        "images": [
+          {
+            "src": "./assets/batch16-s3r-beacon-listening-device.webp",
+            "alt": "Listening device",
+            "caption": "Listening device",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=MibqjX0uy0g&t=214.090606"
+          }
+        ]
+      },
+      {
+        "title": "Quest · Maxis artifact: Microfilm Slides",
+        "body": "Microfilm Slides (found by shooting white monkey figures until one gives the slides after getting the beacon listening device. Each map has 4 monkeys.)",
+        "html": "<p>Microfilm Slides (found by shooting white monkey figures until one gives the slides after getting the beacon listening device. Each map has 4 monkeys.)</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/ngj7vh/",
+        "tip": "After the device, contact Maxis at the beacon and warp. Shoot the next region’s M-marked monkey and take its yellow film. Use the Ravenov field checklist for all four candidates and the projector.",
+        "images": [
+          {
+            "src": "./assets/batch16-s3r-microfilm-slides.webp",
+            "alt": "Microfilm slides",
+            "caption": "Microfilm slides",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=MibqjX0uy0g&t=222.090585"
+          }
+        ]
+      },
+      {
+        "title": "Quest · Omega document: Aetherium Warhead Blueprint",
+        "body": "Aetherium Warhead Blueprint (found when inserting the microfilm into a projector and changing slides)",
+        "html": "<p>Aetherium Warhead Blueprint (found when inserting the microfilm into a projector and changing slides)</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/ngj7vh/",
+        "tip": "Insert the film and advance the projector presentation. This quest document belongs to that stage and is separate from the two ordinary Omega drops. Finish the three-slide dialogue before continuing to Ruka.",
+        "images": [
+          {
+            "src": "./assets/batch16-s3r-aetherium-warhead-blueprint.webp",
+            "alt": "Quest projector showing the warhead diagram.",
+            "caption": "Projector presentation; the named document award is not shown.",
+            "credit": "AC OMEGA; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=ZVGytpeCgaY&t=80.435648"
+          }
+        ]
+      },
+      {
+        "title": "Quest · Omega artifact: Modified Essence Trap",
+        "body": "Modified Essence Trap (found in a dead end tunnel in silo A in Ruka during the main quest)",
+        "html": "<p>Modified Essence Trap (found in a dead end tunnel in silo A in Ruka during the main quest)</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/ngj7vh/",
+        "tip": "After reaching the Ruka bunker and lifting lockdown, search Silo A’s round dead-end tunnel, at the base of the barrels. The banana trap used for the vent monkey is the collectible.",
+        "images": [
+          {
+            "src": "./assets/batch16-s3r-modified-essence-trap.webp",
+            "alt": "Banana trap",
+            "caption": "Banana trap",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=MibqjX0uy0g&t=242.090584"
+          }
+        ]
+      },
+      {
+        "title": "Quest · Dark Aether artifact: Aetherium Crystal Chunks",
+        "body": "Aetherium Crystal Chunks (found by destroying the Aetherium crystals in silo B in Ruka during the main quest)",
+        "html": "<p>Aetherium Crystal Chunks (found by destroying the Aetherium crystals in silo B in Ruka during the main quest)</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/ngj7vh/",
+        "tip": "In Silo B, activate the lowest-floor harvesting unit, shoot the crystals and collect the dropped chunks. The main route explains the shared 20-chunk canister step; the intel is one named record.",
+        "images": [
+          {
+            "src": "./assets/batch16-s3r-aetherium-crystal-chunks.webp",
+            "alt": "Crystal chunks",
+            "caption": "Crystal chunks",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=MibqjX0uy0g&t=252.890559"
+          }
+        ]
+      },
+      {
+        "title": "Quest · Omega artifact: ICBM Launch Key",
+        "body": "ICBM Launch Key (found when obtaining one of the launch keys in the missile silos in Ruka during the main quest)",
+        "html": "<p>ICBM Launch Key (found when obtaining one of the launch keys in the missile silos in Ruka during the main quest)</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/ngj7vh/",
+        "tip": "Take the red Mimic’s key for this intel entry. The other quest keys do not add another ICBM intel record.",
+        "images": [
+          {
+            "src": "./assets/batch16-s3r-icbm-launch-key.webp",
+            "alt": "Launch key",
+            "caption": "Launch key",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=MibqjX0uy0g&t=234.090585"
+          }
+        ]
+      },
+      {
+        "title": "Requiem: 4 ordinary document drops",
+        "body": "Gotten from Elite/Special drops or golden Challenge Chests.\n\n“Investigation Request”\n“Zykov Assessment”\n“Power Nodes Report”\n“J Cipher”",
+        "html": "<p>Gotten from Elite/Special drops or golden Challenge Chests.</p><ul><li>Investigation Request</li><li>Zykov Assessment</li><li>Power Nodes Report</li><li>J Cipher</li></ul>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/ngj7vh/",
+        "tip": "Inspect and interact with the dropped document. Use the collection helper for special / elite drops and Golden Challenge Chests; there is no fixed desk for these entries.",
+        "images": [
+          {
+            "src": "./assets/batch16-s3-document-drop.webp",
+            "alt": "April example",
+            "caption": "April example",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=r_6mJR8ihl4&t=388.610253"
+          }
+        ]
+      },
+      {
+        "title": "Omega: 2 ordinary document drops",
+        "body": "Gotten from Elite/Special drops or golden Challenge Chests.\n\n“Operatsiya Inversiya Proposal”\n“R Cipher”",
+        "html": "<p>Gotten from Elite/Special drops or golden Challenge Chests.</p><ul><li>Operatsiya Inversiya Proposal</li><li>R Cipher</li></ul>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/ngj7vh/",
+        "tip": "Inspect and interact with the dropped document. Use the collection helper for special / elite drops and Golden Challenge Chests; there is no fixed desk for these entries."
+      },
+      {
+        "title": "Maxis: 4 ordinary document drops",
+        "body": "Gotten from Elite/Special drops or golden Challenge Chests.\n\n“Arrival”\n“Maxis Progress Report”\n“Quarantine Diary 1”\n“Quarantine Diary 2”",
+        "html": "<p>Gotten from Elite/Special drops or golden Challenge Chests.</p><ul><li>Arrival</li><li>Maxis Progress Report</li><li>Quarantine Diary 1</li><li>Quarantine Diary 2</li></ul>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/ngj7vh/",
+        "tip": "Inspect and interact with the dropped document. Use the collection helper for special / elite drops and Golden Challenge Chests; there is no fixed desk for these entries."
+      },
+      {
+        "title": "Requiem: 1 faction-radio transmission",
+        "body": "Collect these Requiem transmissions from its fixed intel receiver: Commander-in-Chief.\n\nAlpine: Bathhouse reception desk; Ruka: Cargo Platform building by the rail bridge; Sanatorium: A desk in the leftmost Vacation Home; Golova: Top of the Granary silos; Duga: Listening Post, A-2 side, upper office. From Der Wunderfizz, take the stairs and three right turns to the room with four joined tables.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/ngj7vh/",
+        "tip": "Only one transmission per faction can be collected in a match, even after warping. An earlier missing transmission may arrive first. Start another match for the next entry; tuning music / quest amplifiers is a separate activity.",
+        "images": [
+          {
+            "src": "./assets/batch16-s3-duga-requiem-radio.webp",
+            "alt": "April example",
+            "caption": "April example",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=r_6mJR8ihl4&t=464.610304"
+          }
+        ]
+      },
+      {
+        "title": "Omega: 1 faction-radio transmission",
+        "body": "Collect these Omega transmissions from its fixed intel receiver: Something is Coming.\n\nAlpine: Pro Shop pool table; Ruka: Green tent at Missile Silos; Sanatorium: Administration building desk; Golova: Inside the Pack-a-Punch building",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/ngj7vh/",
+        "tip": "Only one transmission per faction can be collected in a match, even after warping. An earlier missing transmission may arrive first. Start another match for the next entry; tuning music / quest amplifiers is a separate activity. The original author records the transmission fixed on June 16, 2021. The old May bug report is historical; current retail behavior was not replayed here. Duga: Secure Communications, on the desk beside the terminal."
+      },
+      {
+        "title": "Dark Aether: 1 Trial audio log",
+        "body": "Earn through intel Trials: Great and Terrible.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/ngj7vh/",
+        "tip": "Claim Intel at the Trial Computer. Use the collection helper for the folder icon, difficulty and match-limit procedure. The separate artifacts use their own pickup chapters.",
+        "images": [
+          {
+            "src": "./assets/batch16-s3-trial-claim.webp",
+            "alt": "April example",
+            "caption": "April example",
+            "credit": "MysteryHQ; Call of Duty © Activision",
+            "source": "https://www.youtube.com/watch?v=r_6mJR8ihl4&t=519.610273"
+          }
+        ]
+      },
+      {
+        "title": "Dark Aether: 3 Trial documents",
+        "body": "Earn through intel Trials: Day 9; Day 11; Day 12.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/ngj7vh/",
+        "tip": "Claim Intel at the Trial Computer. Use the collection helper for the folder icon, difficulty and match-limit procedure. The separate artifacts use their own pickup chapters."
+      },
+      {
+        "title": "Dark Aether: 4 Trial radio transmissions",
+        "body": "Earn through intel Trials: Changes; Junkyard; Invasion; Bring me home.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/ngj7vh/",
+        "tip": "Claim Intel at the Trial Computer. Use the collection helper for the folder icon, difficulty and match-limit procedure. The separate artifacts use their own pickup chapters."
       }
     ],
     "sources": [
       {
-        "title": "u/Ricerat477 — firsthand community intel checklist",
+        "title": "u/Ricerat477 and item finders: release inventory",
         "url": "https://www.reddit.com/r/CODZombies/comments/ngj7vh/"
+      },
+      {
+        "title": "Firsthand location refinements and radio distinctions",
+        "url": "https://www.reddit.com/r/CODZombies/comments/mvzb9t/"
+      },
+      {
+        "title": "Earlier faction-radio locations and collector follow-ups",
+        "url": "https://www.reddit.com/r/CODZombies/comments/mgd49k/"
+      },
+      {
+        "title": "Treyarch: release date and new intel",
+        "url": "https://www.treyarch.com/game-intel/2021/05/New_Content_Arrives_with_80s_Action_Heroes"
+      },
+      {
+        "title": "MysteryHQ: original location footage",
+        "url": "https://www.youtube.com/watch?v=MibqjX0uy0g"
+      },
+      {
+        "title": "u/chrisandy007: quest radio, film and projector",
+        "url": "https://www.reddit.com/r/CODZombies/comments/nh5h3w/comment/gyvtnmd/"
+      },
+      {
+        "title": "u/ArtieNL: firsthand bunker key items",
+        "url": "https://www.reddit.com/r/CODZombies/comments/nh5h3w/comment/gyvwu84/"
+      },
+      {
+        "title": "DECLASSIFIED collector catalogue: item-name aliases",
+        "url": "https://declassified.app/legacy/"
+      },
+      {
+        "title": "AC OMEGA: original projector footage",
+        "url": "https://www.youtube.com/watch?v=ZVGytpeCgaY"
+      },
+      {
+        "title": "MysteryHQ: shared April method examples",
+        "url": "https://www.youtube.com/watch?v=r_6mJR8ihl4"
       }
     ],
     "sourceQuote": "https://www.reddit.com/r/CODZombies/comments/ngj7vh/",
-    "checked": "2026-10-16",
+    "checked": "2026-10-18",
     "relatedGuideIds": [
-      "coldwar-outbreak-legion-main",
-      "coldwar-outbreak-operation-excision",
+      "coldwar-outbreak-intel-season-3",
+      "coldwar-outbreak-intel-collection",
       "coldwar-outbreak-intel-season-2-reloaded",
-      "coldwar-outbreak-intel-collection"
-    ]
+      "coldwar-outbreak-legion-main",
+      "coldwar-outbreak-ravenov-field-locations"
+    ],
+    "sourceOmissions": [
+      "The inherited grouped list is divided into regional pickup chapters and acquisition-method checklists. Lore transcripts are not reproduced.",
+      "Quoted spelling is retained. Sanatorium is standardized in chapter titles; leading or trailing spaces in checklist names are removed only from titles and inventory keys.",
+      "The old “during the Outbreak EE” lines are replaced with the named firsthand collector’s quest-stage descriptions. Aetherium Warhead Blueprint is not grouped with the two ordinary Omega document drops.",
+      "Selected pickup labels are read from historical footage; the full Barracks menu and current retail collection behavior have not been independently checked.",
+      "The Blueprint image shows the projector presentation, without a named document collection message."
+    ],
+    "supplementNote": "Quoted location lines credit u/Ricerat477 and the linked firsthand finders. Field notes distinguish acquisition methods and conflicting descriptions. The linked collection and Ravenov routes provide the shared procedures."
   },
   {
     "id": "coldwar-outbreak-intel-season-4",
