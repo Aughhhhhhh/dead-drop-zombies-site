@@ -9,7 +9,7 @@
   ],
   "catalogEntries": 160,
   "runtimeGuides": 1527,
-  "guidesWithRecordedSourceReview": 865,
+  "guidesWithRecordedSourceReview": 897,
   "guidesCertifiedFullyVerified": 0,
   "batches": [
     {
@@ -363,6 +363,10 @@
     {
       "batch": "bo3-gorod-firearm-inventory-and-reward-reroll-correction",
       "rowsWithRecordedReview": 2
+    },
+    {
+      "batch": "bo3-revelations-main-setup-masks-songs-upgrades-and-native-references",
+      "rowsWithRecordedReview": 32
     }
   ],
   "guideReviews": [
@@ -27190,6 +27194,1115 @@
           "evidenceUrls": [
             "https://github.com/JezuzLizard/Recompilable-gscs-for-BO2-zombies-and-multiplayer/blob/d02a9efd4382689180aaadcb609452babf5dc4c8/ZM/Maps/Origins/maps/mp/zm_tomb_dig.gsc",
             "https://www.reddit.com/r/CODZombies/comments/1vr8lve/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-revelations-community-revelations-buildables-dragon-shield",
+      "mapId": "bo3-revelations",
+      "reviews": [
+        {
+          "batch": "bo3-revelations-main-setup-masks-songs-upgrades-and-native-references",
+          "reportedStatus": "Full retained guide and metadata source-reviewed; expanded authored chapters and selected native references.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Full raw, effective and metadata guards matched the published baseline; all unrelated guides preserved.",
+            "Authored text uses explicit null quotation flags in raw cards and durable map overrides.",
+            "Desktop and actual390px phone chapter/reference, focus, menu and overflow checks passed.",
+            "All21 final JSON values survive full regeneration."
+          ],
+          "unverified": [
+            "A bench reference is provided. Precise part photographs and exact matches between older labels and creator descriptions remain unverified. Durability, replacement and default shield controls remain unverified."
+          ],
+          "wholeGuideTextRead": true,
+          "originalStepCount": 1,
+          "stepChecks": {
+            "chapters": 6,
+            "directReferences": 6,
+            "newInlineImagePlacements": 1
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "All27 selected1280px native WebPs viewed and loaded at their assigned chapters on desktop and phone. Photographs illustrate selected locations; all alternatives and continuous actions are not certified.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/wiki/revelations/",
+            "https://www.youtube.com/watch?v=nw3i4ULcpUg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-revelations-community-revelations-buildables-keeper-protector",
+      "mapId": "bo3-revelations",
+      "reviews": [
+        {
+          "batch": "bo3-revelations-main-setup-masks-songs-upgrades-and-native-references",
+          "reportedStatus": "Full retained guide and metadata source-reviewed; expanded authored chapters and selected native references.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Full raw, effective and metadata guards matched the published baseline; all unrelated guides preserved.",
+            "Authored text uses explicit null quotation flags in raw cards and durable map overrides.",
+            "Desktop and actual390px phone chapter/reference, focus, menu and overflow checks passed.",
+            "All21 final JSON values survive full regeneration."
+          ],
+          "unverified": [
+            "Nine part checks are documented; exact part/altar photos remain pending.",
+            "Normal summon duration, expiry, repeat timing and contribution increments were not established.",
+            "The map layout’s MotD quick-guide altar label conflicts with its four-altar buildable description."
+          ],
+          "wholeGuideTextRead": true,
+          "originalStepCount": 1,
+          "stepChecks": {
+            "chapters": 7,
+            "directReferences": 7,
+            "newInlineImagePlacements": 4
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "All27 selected1280px native WebPs viewed and loaded at their assigned chapters on desktop and phone. Photographs illustrate selected locations; all alternatives and continuous actions are not certified.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/51loxy/dlc4_revelations_easter_egg_hunting_discussion/",
+            "https://www.reddit.com/r/CODZombies/wiki/revelations/",
+            "https://www.youtube.com/watch?v=SysILhxXG3E"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-revelations-community-revelations-easter-eggs-all-zombies-songs-music-easter-egg",
+      "mapId": "bo3-revelations",
+      "reviews": [
+        {
+          "batch": "bo3-revelations-main-setup-masks-songs-upgrades-and-native-references",
+          "reportedStatus": "Full retained guide and metadata source-reviewed; expanded authored chapters and selected native references.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Full raw, effective and metadata guards matched the published baseline; all unrelated guides preserved.",
+            "Authored text uses explicit null quotation flags in raw cards and durable map overrides.",
+            "Desktop and actual390px phone chapter/reference, focus, menu and overflow checks passed.",
+            "All21 final JSON values survive full regeneration."
+          ],
+          "unverified": [
+            "The legacy card title “All Zombies Songs” is not a verified complete playlist. Exact timing, co-op timing changes, track order and restart-after-stop behavior remain unverified. These buttons are in Revelations, not the separate Zombies Chronicles Nacht doll quest."
+          ],
+          "wholeGuideTextRead": true,
+          "originalStepCount": 5,
+          "stepChecks": {
+            "chapters": 6,
+            "directReferences": 6,
+            "newInlineImagePlacements": 2
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "All27 selected1280px native WebPs viewed and loaded at their assigned chapters on desktop and phone. Photographs illustrate selected locations; all alternatives and continuous actions are not certified.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/52i5y6/text_guide_for_all_maskshelmets_discovered_in/",
+            "https://www.reddit.com/r/CODZombies/comments/fdpjw7/question_about_revelations/",
+            "https://www.reddit.com/r/CODZombies/wiki/revelations/",
+            "https://www.youtube.com/watch?v=da-FkfPZEQs"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-revelations-community-revelations-easter-eggs-free-perk-wallrun-easter-egg",
+      "mapId": "bo3-revelations",
+      "reviews": [
+        {
+          "batch": "bo3-revelations-main-setup-masks-songs-upgrades-and-native-references",
+          "reportedStatus": "Full retained guide and metadata source-reviewed; expanded authored chapters and selected native references.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Full raw, effective and metadata guards matched the published baseline; all unrelated guides preserved.",
+            "Authored text uses explicit null quotation flags in raw cards and durable map overrides.",
+            "Desktop and actual390px phone chapter/reference, focus, menu and overflow checks passed.",
+            "All21 final JSON values survive full regeneration."
+          ],
+          "unverified": [
+            "The final tower jump has original-creator support; the portal return is the narrator’s report. Exact wall count, jump timing, safe return boundary, per-match repeatability and shared-versus-personal co-op collection remain unverified. No extra-perk prerequisite is claimed."
+          ],
+          "wholeGuideTextRead": true,
+          "originalStepCount": 3,
+          "stepChecks": {
+            "chapters": 5,
+            "directReferences": 5,
+            "newInlineImagePlacements": 2
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "All27 selected1280px native WebPs viewed and loaded at their assigned chapters on desktop and phone. Photographs illustrate selected locations; all alternatives and continuous actions are not certified.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/rivzku/question_about_revelations/",
+            "https://www.reddit.com/r/CODZombies/wiki/revelations/",
+            "https://www.youtube.com/watch?v=8dCOjcc9OC4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-revelations-community-revelations-easter-eggs-m1927-wallbuy-weapon-swap-easter-egg",
+      "mapId": "bo3-revelations",
+      "reviews": [
+        {
+          "batch": "bo3-revelations-main-setup-masks-songs-upgrades-and-native-references",
+          "reportedStatus": "Full retained guide and metadata source-reviewed; expanded authored chapters and selected native references.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Full raw, effective and metadata guards matched the published baseline; all unrelated guides preserved.",
+            "Authored text uses explicit null quotation flags in raw cards and durable map overrides.",
+            "Desktop and actual390px phone chapter/reference, focus, menu and overflow checks passed.",
+            "All21 final JSON values survive full regeneration."
+          ],
+          "unverified": [
+            "Reset/retry behavior after an incorrect chalk placement remains unresolved. Short inscription openings identify the puzzle objects; their full text is available in OhAeroHD’s linked original guide. No free-ammunition or Pack-a-Punch-persistence reward is claimed."
+          ],
+          "wholeGuideTextRead": true,
+          "originalStepCount": 4,
+          "stepChecks": {
+            "chapters": 8,
+            "directReferences": 8,
+            "newInlineImagePlacements": 2
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "All27 selected1280px native WebPs viewed and loaded at their assigned chapters on desktop and phone. Photographs illustrate selected locations; all alternatives and continuous actions are not certified.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/51l5gh/m1927_wall_buy_weapon_table_switch_full_guide/",
+            "https://www.reddit.com/r/CODZombies/wiki/revelations/",
+            "https://www.youtube.com/watch?v=XCjcBINOzYI"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-revelations-community-revelations-easter-eggs-main-easter-egg",
+      "mapId": "bo3-revelations",
+      "reviews": [
+        {
+          "batch": "bo3-revelations-main-setup-masks-songs-upgrades-and-native-references",
+          "reportedStatus": "Full retained guide and metadata source-reviewed; expanded authored chapters and selected native references.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Full raw, effective and metadata guards matched the published baseline; all unrelated guides preserved.",
+            "Authored text uses explicit null quotation flags in raw cards and durable map overrides.",
+            "Desktop and actual390px phone chapter/reference, focus, menu and overflow checks passed.",
+            "All21 final JSON values survive full regeneration."
+          ],
+          "unverified": [
+            "Written sources support the route; this is not a new retail playtest or every-version certificate.",
+            "Exact native hole/bone/cube/egg/rune/beam/Key locator images remain pending.",
+            "Some egg descriptions overlap and historical Nacht/current island spawn claims conflict; the checklist does not claim every unique spawn.",
+            "Solo carry, co-op resets, rune-entry timers, softlock recovery, current prices and bonus account rules are not comprehensively tested.",
+            "The old final rhyme is a historical editorial note, not another objective."
+          ],
+          "wholeGuideTextRead": true,
+          "originalStepCount": 18,
+          "stepChecks": {
+            "chapters": 53,
+            "directReferences": 53,
+            "newInlineImagePlacements": 3
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "All27 selected1280px native WebPs viewed and loaded at their assigned chapters on desktop and phone. Photographs illustrate selected locations; all alternatives and continuous actions are not certified.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/1lhrdls/revelations_easter_egg_in_2025/",
+            "https://www.reddit.com/r/CODZombies/comments/52wan8/complete_revelations_main_easter_egg_guide/",
+            "https://www.reddit.com/r/CODZombies/comments/w994r9/revelations_lil_arnie_step_help/",
+            "https://www.reddit.com/r/CODZombies/comments/x02uaf/revelations_solo_bossfight_impossible_on_solo/",
+            "https://www.reddit.com/r/CODZombies/comments/zvyaqp/revelations_gate_worm_glitch/",
+            "https://www.reddit.com/r/CODZombies/wiki/revelations/",
+            "https://www.youtube.com/watch?v=0YH6npBuHVg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-revelations-community-revelations-easter-eggs-permanent-wall-power-crate-power",
+      "mapId": "bo3-revelations",
+      "reviews": [
+        {
+          "batch": "bo3-revelations-main-setup-masks-songs-upgrades-and-native-references",
+          "reportedStatus": "Full retained guide and metadata source-reviewed; expanded authored chapters and selected native references.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Full raw, effective and metadata guards matched the published baseline; all unrelated guides preserved.",
+            "Authored text uses explicit null quotation flags in raw cards and durable map overrides.",
+            "Desktop and actual390px phone chapter/reference, focus, menu and overflow checks passed.",
+            "All21 final JSON values survive full regeneration."
+          ],
+          "unverified": [
+            "The reports differ on whether one player or the lobby collectively must supply the earlier completion icons. Use the visible wisp as the practical availability check; offline, split-screen and custom/mod rules are unverified.",
+            "Damage can spoil the carry for the match. Shield-hit exceptions and recollection after failure are not established; do not rely on either.",
+            "This optional wisp reward is separate from the account’s RK5/XP completion reward; carrying it is not presented as an RK5 requirement.",
+            "Exact weapon eligibility, wonder-weapon upgrade exceptions, effect on already-held guns, co-op ownership and weapon-table persistence have not been individually checked. The documented result is not a free Mystery Box roll or a waiver of the wallbuy price."
+          ],
+          "wholeGuideTextRead": true,
+          "originalStepCount": 1,
+          "stepChecks": {
+            "chapters": 3,
+            "directReferences": 3,
+            "newInlineImagePlacements": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "All27 selected1280px native WebPs viewed and loaded at their assigned chapters on desktop and phone. Photographs illustrate selected locations; all alternatives and continuous actions are not certified.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/u0mho3/two_questions_about_the_revelation_super_ee/",
+            "https://www.reddit.com/r/CODZombies/comments/yrj81e/revelations_super_ee_bugged/",
+            "https://www.reddit.com/r/CODZombies/wiki/revelations/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-revelations-community-revelations-easter-eggs-takeo-s-katana-wall-weapon",
+      "mapId": "bo3-revelations",
+      "reviews": [
+        {
+          "batch": "bo3-revelations-main-setup-masks-songs-upgrades-and-native-references",
+          "reportedStatus": "Full retained guide and metadata source-reviewed; expanded authored chapters and selected native references.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Full raw, effective and metadata guards matched the published baseline; all unrelated guides preserved.",
+            "Authored text uses explicit null quotation flags in raw cards and durable map overrides.",
+            "Desktop and actual390px phone chapter/reference, focus, menu and overflow checks passed.",
+            "All21 final JSON values survive full regeneration."
+          ],
+          "unverified": [
+            "The reports differ on whether one player or the lobby collectively must supply the earlier completion icons. Use the visible wisp as the practical availability check; offline, split-screen and custom/mod rules are unverified.",
+            "Damage can spoil the carry for the match. Shield-hit exceptions and recollection after failure are not established; do not rely on either.",
+            "This optional wisp reward is separate from the account’s RK5/XP completion reward; carrying it is not presented as an RK5 requirement."
+          ],
+          "wholeGuideTextRead": true,
+          "originalStepCount": 1,
+          "stepChecks": {
+            "chapters": 5,
+            "directReferences": 5,
+            "newInlineImagePlacements": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "All27 selected1280px native WebPs viewed and loaded at their assigned chapters on desktop and phone. Photographs illustrate selected locations; all alternatives and continuous actions are not certified.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/riiond/i_completed_every_easter_egg_in_a_different_order/",
+            "https://www.reddit.com/r/CODZombies/comments/u0mho3/two_questions_about_the_revelation_super_ee/",
+            "https://www.reddit.com/r/CODZombies/comments/yrj81e/revelations_super_ee_bugged/",
+            "https://www.reddit.com/r/CODZombies/wiki/revelations/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-revelations-community-revelations-easter-eggs-the-gift-music-easter-egg",
+      "mapId": "bo3-revelations",
+      "reviews": [
+        {
+          "batch": "bo3-revelations-main-setup-masks-songs-upgrades-and-native-references",
+          "reportedStatus": "Full retained guide and metadata source-reviewed; expanded authored chapters and selected native references.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Full raw, effective and metadata guards matched the published baseline; all unrelated guides preserved.",
+            "Authored text uses explicit null quotation flags in raw cards and durable map overrides.",
+            "Desktop and actual390px phone chapter/reference, focus, menu and overflow checks passed.",
+            "All21 final JSON values survive full regeneration."
+          ],
+          "unverified": [
+            "No persistent menu unlock, forced replay, exact interaction sound or player-synchronisation requirement has been independently demonstrated. Lyrics are not reproduced."
+          ],
+          "wholeGuideTextRead": true,
+          "originalStepCount": 4,
+          "stepChecks": {
+            "chapters": 4,
+            "directReferences": 4,
+            "newInlineImagePlacements": 3
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "All27 selected1280px native WebPs viewed and loaded at their assigned chapters on desktop and phone. Photographs illustrate selected locations; all alternatives and continuous actions are not certified.",
+          "evidenceUrls": [
+            "https://www.codzombieguides.com/revelations",
+            "https://www.reddit.com/r/CODZombies/wiki/revelations/",
+            "https://www.youtube.com/watch?v=7shxIWzCXKM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-revelations-community-revelations-game-features-wunderfizz-machine",
+      "mapId": "bo3-revelations",
+      "reviews": [
+        {
+          "batch": "bo3-revelations-main-setup-masks-songs-upgrades-and-native-references",
+          "reportedStatus": "Full retained guide and metadata source-reviewed; expanded authored chapters and selected native references.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Full raw, effective and metadata guards matched the published baseline; all unrelated guides preserved.",
+            "Authored text uses explicit null quotation flags in raw cards and durable map overrides.",
+            "Desktop and actual390px phone chapter/reference, focus, menu and overflow checks passed.",
+            "All21 final JSON values survive full regeneration."
+          ],
+          "unverified": [
+            "Active-site rotation, refusal/duplicate rules, perk-limit exceptions and current-build pool distribution have not been independently checked. No machine-cycle timer is supplied."
+          ],
+          "wholeGuideTextRead": true,
+          "originalStepCount": 1,
+          "stepChecks": {
+            "chapters": 5,
+            "directReferences": 5,
+            "newInlineImagePlacements": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "All27 selected1280px native WebPs viewed and loaded at their assigned chapters on desktop and phone. Photographs illustrate selected locations; all alternatives and continuous actions are not certified.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/wiki/revelations/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-revelations-community-revelations-hats-masks-al-s-hat",
+      "mapId": "bo3-revelations",
+      "reviews": [
+        {
+          "batch": "bo3-revelations-main-setup-masks-songs-upgrades-and-native-references",
+          "reportedStatus": "Full retained guide and metadata source-reviewed; expanded authored chapters and selected native references.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Full raw, effective and metadata guards matched the published baseline; all unrelated guides preserved.",
+            "Authored text uses explicit null quotation flags in raw cards and durable map overrides.",
+            "Desktop and actual390px phone chapter/reference, focus, menu and overflow checks passed.",
+            "All21 final JSON values survive full regeneration."
+          ],
+          "unverified": [
+            "A close cell reference, exact equip prompt and interaction with other worn masks remain unverified. “No known benefit” is a source limit, not a measured proof of every possible effect."
+          ],
+          "wholeGuideTextRead": true,
+          "originalStepCount": 1,
+          "stepChecks": {
+            "chapters": 2,
+            "directReferences": 2,
+            "newInlineImagePlacements": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "All27 selected1280px native WebPs viewed and loaded at their assigned chapters on desktop and phone. Photographs illustrate selected locations; all alternatives and continuous actions are not certified.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/wiki/revelations/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-revelations-community-revelations-hats-masks-apothicon-mask",
+      "mapId": "bo3-revelations",
+      "reviews": [
+        {
+          "batch": "bo3-revelations-main-setup-masks-songs-upgrades-and-native-references",
+          "reportedStatus": "Full retained guide and metadata source-reviewed; expanded authored chapters and selected native references.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Full raw, effective and metadata guards matched the published baseline; all unrelated guides preserved.",
+            "Authored text uses explicit null quotation flags in raw cards and durable map overrides.",
+            "Desktop and actual390px phone chapter/reference, focus, menu and overflow checks passed.",
+            "All21 final JSON values survive full regeneration."
+          ],
+          "unverified": [
+            "The written checklist is supported by the retained guide, an original 2016 guide and a successful player report, but no counted continuous run was inspected. Exact pool boundary, mist boundary, co-op credit, per-enemy feedback, persistence/retry and final pickup region remain unresolved.",
+            "Exact room, unlock cue, input prompt and continuous pickup remain unverified.",
+            "The successful player’s “10 or 11 hits” example is not adopted as a universal survivability guarantee. No different-weapon, one-shot Margwa or Panzer requirement is added."
+          ],
+          "wholeGuideTextRead": true,
+          "originalStepCount": 1,
+          "stepChecks": {
+            "chapters": 5,
+            "directReferences": 5,
+            "newInlineImagePlacements": 1
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "All27 selected1280px native WebPs viewed and loaded at their assigned chapters on desktop and phone. Photographs illustrate selected locations; all alternatives and continuous actions are not certified.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/1udvlk7/bo3_panzer_soldat_in_depth_improved/",
+            "https://www.reddit.com/r/CODZombies/comments/52i5y6/text_guide_for_all_maskshelmets_discovered_in/",
+            "https://www.reddit.com/r/CODZombies/comments/y136gw/finally_finished_my_milestone/",
+            "https://www.reddit.com/r/CODZombies/wiki/revelations/",
+            "https://www.youtube.com/watch?v=OylwFpRDyGQ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-revelations-community-revelations-hats-masks-fury-hat",
+      "mapId": "bo3-revelations",
+      "reviews": [
+        {
+          "batch": "bo3-revelations-main-setup-masks-songs-upgrades-and-native-references",
+          "reportedStatus": "Full retained guide and metadata source-reviewed; expanded authored chapters and selected native references.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Full raw, effective and metadata guards matched the published baseline; all unrelated guides preserved.",
+            "Authored text uses explicit null quotation flags in raw cards and durable map overrides.",
+            "Desktop and actual390px phone chapter/reference, focus, menu and overflow checks passed.",
+            "All21 final JSON values survive full regeneration."
+          ],
+          "wholeGuideTextRead": true,
+          "originalStepCount": 1,
+          "stepChecks": {
+            "chapters": 4,
+            "directReferences": 4,
+            "newInlineImagePlacements": 1
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "All27 selected1280px native WebPs viewed and loaded at their assigned chapters on desktop and phone. Photographs illustrate selected locations; all alternatives and continuous actions are not certified.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/1sfv050/fury_mask_actual_steps_and_requirement_bypasses/",
+            "https://www.reddit.com/r/CODZombies/comments/1wx1fgn/revelations_special_enemies_in_depth/",
+            "https://www.reddit.com/r/CODZombies/wiki/revelations/",
+            "https://www.youtube.com/watch?v=OylwFpRDyGQ",
+            "https://www.youtube.com/watch?v=c1kz2zD9Y1I"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-revelations-community-revelations-hats-masks-keeper-hat",
+      "mapId": "bo3-revelations",
+      "reviews": [
+        {
+          "batch": "bo3-revelations-main-setup-masks-songs-upgrades-and-native-references",
+          "reportedStatus": "Full retained guide and metadata source-reviewed; expanded authored chapters and selected native references.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Full raw, effective and metadata guards matched the published baseline; all unrelated guides preserved.",
+            "Authored text uses explicit null quotation flags in raw cards and durable map overrides.",
+            "Desktop and actual390px phone chapter/reference, focus, menu and overflow checks passed.",
+            "All21 final JSON values survive full regeneration."
+          ],
+          "unverified": [
+            "The Wolf/turret prerequisite conflicts with the shorter retained route. Neither alternative was tested here, and the troubleshooting OP used an unofficial copy; the reply is not a retail-version certificate.",
+            "Protector kill quota, shared credit, re-summon progress, exact cue and duration bonus remain unverified."
+          ],
+          "wholeGuideTextRead": true,
+          "originalStepCount": 1,
+          "stepChecks": {
+            "chapters": 4,
+            "directReferences": 4,
+            "newInlineImagePlacements": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "All27 selected1280px native WebPs viewed and loaded at their assigned chapters on desktop and phone. Photographs illustrate selected locations; all alternatives and continuous actions are not certified.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/1wx1fgn/revelations_special_enemies_in_depth/",
+            "https://www.reddit.com/r/CODZombies/comments/52i5y6/text_guide_for_all_maskshelmets_discovered_in/",
+            "https://www.reddit.com/r/CODZombies/comments/ggxdg4/no_purple_perks_in_revelations/",
+            "https://www.reddit.com/r/CODZombies/wiki/revelations/",
+            "https://www.youtube.com/watch?v=OylwFpRDyGQ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-revelations-community-revelations-hats-masks-knight-templar-helmet",
+      "mapId": "bo3-revelations",
+      "reviews": [
+        {
+          "batch": "bo3-revelations-main-setup-masks-songs-upgrades-and-native-references",
+          "reportedStatus": "Full retained guide and metadata source-reviewed; expanded authored chapters and selected native references.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Full raw, effective and metadata guards matched the published baseline; all unrelated guides preserved.",
+            "Authored text uses explicit null quotation flags in raw cards and durable map overrides.",
+            "Desktop and actual390px phone chapter/reference, focus, menu and overflow checks passed.",
+            "All21 final JSON values survive full regeneration."
+          ],
+          "unverified": [
+            "Trap quota reports differ. Exact part-hit qualification, mannequin, completion cue, trap counting, co-op credit and missed-component recovery remain unverified.",
+            "No immunity to every boss attack or every elemental hazard is promised. Panzer component work belongs to this helmet, not the Apothicon Mask checklist."
+          ],
+          "wholeGuideTextRead": true,
+          "originalStepCount": 1,
+          "stepChecks": {
+            "chapters": 4,
+            "directReferences": 4,
+            "newInlineImagePlacements": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "All27 selected1280px native WebPs viewed and loaded at their assigned chapters on desktop and phone. Photographs illustrate selected locations; all alternatives and continuous actions are not certified.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/1udvlk7/bo3_panzer_soldat_in_depth_improved/",
+            "https://www.reddit.com/r/CODZombies/comments/52i5y6/text_guide_for_all_maskshelmets_discovered_in/",
+            "https://www.reddit.com/r/CODZombies/wiki/revelations/",
+            "https://www.youtube.com/watch?v=OylwFpRDyGQ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-revelations-community-revelations-hats-masks-margwa-hat",
+      "mapId": "bo3-revelations",
+      "reviews": [
+        {
+          "batch": "bo3-revelations-main-setup-masks-songs-upgrades-and-native-references",
+          "reportedStatus": "Full retained guide and metadata source-reviewed; expanded authored chapters and selected native references.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Full raw, effective and metadata guards matched the published baseline; all unrelated guides preserved.",
+            "Authored text uses explicit null quotation flags in raw cards and durable map overrides.",
+            "Desktop and actual390px phone chapter/reference, focus, menu and overflow checks passed.",
+            "All21 final JSON values survive full regeneration."
+          ],
+          "unverified": [
+            "The old two-kill report and retained three-type requirement are not reconciled by a controlled observation. No guarantee is made that a particular weapon or three total bullets always qualifies. This route is separate from the green-pool Apothicon Mask checklist."
+          ],
+          "wholeGuideTextRead": true,
+          "originalStepCount": 1,
+          "stepChecks": {
+            "chapters": 3,
+            "directReferences": 3,
+            "newInlineImagePlacements": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "All27 selected1280px native WebPs viewed and loaded at their assigned chapters on desktop and phone. Photographs illustrate selected locations; all alternatives and continuous actions are not certified.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/52i5y6/text_guide_for_all_maskshelmets_discovered_in/",
+            "https://www.reddit.com/r/CODZombies/wiki/revelations/",
+            "https://www.youtube.com/watch?v=OylwFpRDyGQ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-revelations-community-revelations-hats-masks-viking-hat",
+      "mapId": "bo3-revelations",
+      "reviews": [
+        {
+          "batch": "bo3-revelations-main-setup-masks-songs-upgrades-and-native-references",
+          "reportedStatus": "Full retained guide and metadata source-reviewed; expanded authored chapters and selected native references.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Full raw, effective and metadata guards matched the published baseline; all unrelated guides preserved.",
+            "Authored text uses explicit null quotation flags in raw cards and durable map overrides.",
+            "Desktop and actual390px phone chapter/reference, focus, menu and overflow checks passed.",
+            "All21 final JSON values survive full regeneration."
+          ],
+          "unverified": [
+            "Clock miss/reset behavior, exact urn radius, per-urn quota, co-op sharing and the Viking-specific health amount have not been independently measured. Four locations are documented, not an inspected current-version object census."
+          ],
+          "wholeGuideTextRead": true,
+          "originalStepCount": 1,
+          "stepChecks": {
+            "chapters": 6,
+            "directReferences": 6,
+            "newInlineImagePlacements": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "All27 selected1280px native WebPs viewed and loaded at their assigned chapters on desktop and phone. Photographs illustrate selected locations; all alternatives and continuous actions are not certified.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/1wx1fgn/revelations_special_enemies_in_depth/",
+            "https://www.reddit.com/r/CODZombies/comments/52i5y6/text_guide_for_all_maskshelmets_discovered_in/",
+            "https://www.reddit.com/r/CODZombies/wiki/revelations/",
+            "https://www.youtube.com/watch?v=OylwFpRDyGQ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-revelations-community-revelations-hats-masks-wolf-hat",
+      "mapId": "bo3-revelations",
+      "reviews": [
+        {
+          "batch": "bo3-revelations-main-setup-masks-songs-upgrades-and-native-references",
+          "reportedStatus": "Full retained guide and metadata source-reviewed; expanded authored chapters and selected native references.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Full raw, effective and metadata guards matched the published baseline; all unrelated guides preserved.",
+            "Authored text uses explicit null quotation flags in raw cards and durable map overrides.",
+            "Desktop and actual390px phone chapter/reference, focus, menu and overflow checks passed.",
+            "All21 final JSON values survive full regeneration."
+          ],
+          "unverified": [
+            "The exact grenade throw angle, skull position, soul radius, kill threshold and co-op credit are unresolved. Killing while anti-gravity is inactive is not documented to progress the skull."
+          ],
+          "wholeGuideTextRead": true,
+          "originalStepCount": 1,
+          "stepChecks": {
+            "chapters": 4,
+            "directReferences": 4,
+            "newInlineImagePlacements": 1
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "All27 selected1280px native WebPs viewed and loaded at their assigned chapters on desktop and phone. Photographs illustrate selected locations; all alternatives and continuous actions are not certified.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/52i5y6/text_guide_for_all_maskshelmets_discovered_in/",
+            "https://www.reddit.com/r/CODZombies/wiki/revelations/",
+            "https://www.youtube.com/watch?v=OylwFpRDyGQ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-revelations-community-revelations-map-walkthrough-anti-gravity",
+      "mapId": "bo3-revelations",
+      "reviews": [
+        {
+          "batch": "bo3-revelations-main-setup-masks-songs-upgrades-and-native-references",
+          "reportedStatus": "Full retained guide and metadata source-reviewed; expanded authored chapters and selected native references.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Full raw, effective and metadata guards matched the published baseline; all unrelated guides preserved.",
+            "Authored text uses explicit null quotation flags in raw cards and durable map overrides.",
+            "Desktop and actual390px phone chapter/reference, focus, menu and overflow checks passed.",
+            "All21 final JSON values survive full regeneration."
+          ],
+          "unverified": [
+            "Active duration, cooldown and failed-course reset are not verified."
+          ],
+          "wholeGuideTextRead": true,
+          "originalStepCount": 1,
+          "stepChecks": {
+            "chapters": 4,
+            "directReferences": 4,
+            "newInlineImagePlacements": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "All27 selected1280px native WebPs viewed and loaded at their assigned chapters on desktop and phone. Photographs illustrate selected locations; all alternatives and continuous actions are not certified.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/wiki/revelations/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-revelations-community-revelations-map-walkthrough-challenges-trials",
+      "mapId": "bo3-revelations",
+      "reviews": [
+        {
+          "batch": "bo3-revelations-main-setup-masks-songs-upgrades-and-native-references",
+          "reportedStatus": "Full retained guide and metadata source-reviewed; expanded authored chapters and selected native references.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Full raw, effective and metadata guards matched the published baseline; all unrelated guides preserved.",
+            "Authored text uses explicit null quotation flags in raw cards and durable map overrides.",
+            "Desktop and actual390px phone chapter/reference, focus, menu and overflow checks passed.",
+            "All21 final JSON values survive full regeneration."
+          ],
+          "unverified": [
+            "No photographed complete current objective roster or tier table.",
+            "Exact deflection angle, cross-island firing position, counted island fragments, interruption resets and reroll controls remain unresolved."
+          ],
+          "wholeGuideTextRead": true,
+          "originalStepCount": 1,
+          "stepChecks": {
+            "chapters": 22,
+            "directReferences": 22,
+            "newInlineImagePlacements": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "All27 selected1280px native WebPs viewed and loaded at their assigned chapters on desktop and phone. Photographs illustrate selected locations; all alternatives and continuous actions are not certified.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/1qpoyof/bo3_margwa_in_depth/",
+            "https://www.reddit.com/r/CODZombies/comments/1udvlk7/bo3_panzer_soldat_in_depth_improved/",
+            "https://www.reddit.com/r/CODZombies/comments/1ui4635/spiders_of_bo3_in_depth_improved/",
+            "https://www.reddit.com/r/CODZombies/comments/1wx1fgn/revelations_special_enemies_in_depth/",
+            "https://www.reddit.com/r/CODZombies/wiki/revelations/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-revelations-community-revelations-map-walkthrough-melee-weapons",
+      "mapId": "bo3-revelations",
+      "reviews": [
+        {
+          "batch": "bo3-revelations-main-setup-masks-songs-upgrades-and-native-references",
+          "reportedStatus": "Full retained guide and metadata source-reviewed; expanded authored chapters and selected native references.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Full raw, effective and metadata guards matched the published baseline; all unrelated guides preserved.",
+            "Authored text uses explicit null quotation flags in raw cards and durable map overrides.",
+            "Desktop and actual390px phone chapter/reference, focus, menu and overflow checks passed.",
+            "All21 final JSON values survive full regeneration."
+          ],
+          "unverified": [
+            "The middle two limits differ in the explicitly outdated launch post; later table is followed with a visible-notification check."
+          ],
+          "wholeGuideTextRead": true,
+          "originalStepCount": 1,
+          "stepChecks": {
+            "chapters": 7,
+            "directReferences": 7,
+            "newInlineImagePlacements": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "All27 selected1280px native WebPs viewed and loaded at their assigned chapters on desktop and phone. Photographs illustrate selected locations; all alternatives and continuous actions are not certified.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/51loxy/dlc4_revelations_easter_egg_hunting_discussion/",
+            "https://www.reddit.com/r/CODZombies/wiki/revelations/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-revelations-community-revelations-map-walkthrough-new-zombies-enemies",
+      "mapId": "bo3-revelations",
+      "reviews": [
+        {
+          "batch": "bo3-revelations-main-setup-masks-songs-upgrades-and-native-references",
+          "reportedStatus": "Full retained guide and metadata source-reviewed; expanded authored chapters and selected native references.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Full raw, effective and metadata guards matched the published baseline; all unrelated guides preserved.",
+            "Authored text uses explicit null quotation flags in raw cards and durable map overrides.",
+            "Desktop and actual390px phone chapter/reference, focus, menu and overflow checks passed.",
+            "All21 final JSON values survive full regeneration."
+          ],
+          "unverified": [
+            "No retail spawn schedule, damage percentage, health formula or exact timing independently tested."
+          ],
+          "wholeGuideTextRead": true,
+          "originalStepCount": 1,
+          "stepChecks": {
+            "chapters": 9,
+            "directReferences": 9,
+            "newInlineImagePlacements": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "All27 selected1280px native WebPs viewed and loaded at their assigned chapters on desktop and phone. Photographs illustrate selected locations; all alternatives and continuous actions are not certified.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/1qpoyof/bo3_margwa_in_depth/",
+            "https://www.reddit.com/r/CODZombies/comments/1udvlk7/bo3_panzer_soldat_in_depth_improved/",
+            "https://www.reddit.com/r/CODZombies/comments/1ui4635/spiders_of_bo3_in_depth_improved/",
+            "https://www.reddit.com/r/CODZombies/comments/1wx1fgn/revelations_special_enemies_in_depth/",
+            "https://www.reddit.com/r/CODZombies/comments/51loxy/dlc4_revelations_easter_egg_hunting_discussion/",
+            "https://www.reddit.com/r/CODZombies/wiki/revelations/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-revelations-community-revelations-map-walkthrough-pack-a-punch",
+      "mapId": "bo3-revelations",
+      "reviews": [
+        {
+          "batch": "bo3-revelations-main-setup-masks-songs-upgrades-and-native-references",
+          "reportedStatus": "Full retained guide and metadata source-reviewed; expanded authored chapters and selected native references.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Full raw, effective and metadata guards matched the published baseline; all unrelated guides preserved.",
+            "Authored text uses explicit null quotation flags in raw cards and durable map overrides.",
+            "Desktop and actual390px phone chapter/reference, focus, menu and overflow checks passed.",
+            "All21 final JSON values survive full regeneration."
+          ],
+          "unverified": [
+            "The available 2016 PC footage supports the panel cue. No fixed catch window, exit order or failure reset timing is established."
+          ],
+          "wholeGuideTextRead": true,
+          "originalStepCount": 1,
+          "stepChecks": {
+            "chapters": 7,
+            "directReferences": 7,
+            "newInlineImagePlacements": 2
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "All27 selected1280px native WebPs viewed and loaded at their assigned chapters on desktop and phone. Photographs illustrate selected locations; all alternatives and continuous actions are not certified.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/51loxy/dlc4_revelations_easter_egg_hunting_discussion/",
+            "https://www.reddit.com/r/CODZombies/wiki/revelations/",
+            "https://www.youtube.com/watch?v=vU-XfP89iuo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-revelations-community-revelations-map-walkthrough-power",
+      "mapId": "bo3-revelations",
+      "reviews": [
+        {
+          "batch": "bo3-revelations-main-setup-masks-songs-upgrades-and-native-references",
+          "reportedStatus": "Full retained guide and metadata source-reviewed; expanded authored chapters and selected native references.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Full raw, effective and metadata guards matched the published baseline; all unrelated guides preserved.",
+            "Authored text uses explicit null quotation flags in raw cards and durable map overrides.",
+            "Desktop and actual390px phone chapter/reference, focus, menu and overflow checks passed.",
+            "All21 final JSON values survive full regeneration."
+          ],
+          "unverified": [
+            "The original hunt is explicitly outdated; an original 2016 film corroborates survival without a required kill quota. No exact activation duration, refund or current retail test is certified."
+          ],
+          "wholeGuideTextRead": true,
+          "originalStepCount": 1,
+          "stepChecks": {
+            "chapters": 7,
+            "directReferences": 7,
+            "newInlineImagePlacements": 1
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "All27 selected1280px native WebPs viewed and loaded at their assigned chapters on desktop and phone. Photographs illustrate selected locations; all alternatives and continuous actions are not certified.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/51loxy/dlc4_revelations_easter_egg_hunting_discussion/",
+            "https://www.reddit.com/r/CODZombies/wiki/revelations/",
+            "https://www.youtube.com/watch?v=vU-XfP89iuo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-revelations-community-revelations-map-walkthrough-traps",
+      "mapId": "bo3-revelations",
+      "reviews": [
+        {
+          "batch": "bo3-revelations-main-setup-masks-songs-upgrades-and-native-references",
+          "reportedStatus": "Full retained guide and metadata source-reviewed; expanded authored chapters and selected native references.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Full raw, effective and metadata guards matched the published baseline; all unrelated guides preserved.",
+            "Authored text uses explicit null quotation flags in raw cards and durable map overrides.",
+            "Desktop and actual390px phone chapter/reference, focus, menu and overflow checks passed.",
+            "All21 final JSON values survive full regeneration."
+          ],
+          "unverified": [
+            "Exact trap switch positions, durations and cooldowns still need a direct reference."
+          ],
+          "wholeGuideTextRead": true,
+          "originalStepCount": 1,
+          "stepChecks": {
+            "chapters": 4,
+            "directReferences": 4,
+            "newInlineImagePlacements": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "All27 selected1280px native WebPs viewed and loaded at their assigned chapters on desktop and phone. Photographs illustrate selected locations; all alternatives and continuous actions are not certified.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/wiki/revelations/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-revelations-community-revelations-special-weapons-apothicon-servant",
+      "mapId": "bo3-revelations",
+      "reviews": [
+        {
+          "batch": "bo3-revelations-main-setup-masks-songs-upgrades-and-native-references",
+          "reportedStatus": "Full retained guide and metadata source-reviewed; expanded authored chapters and selected native references.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Full raw, effective and metadata guards matched the published baseline; all unrelated guides preserved.",
+            "Authored text uses explicit null quotation flags in raw cards and durable map overrides.",
+            "Desktop and actual390px phone chapter/reference, focus, menu and overflow checks passed.",
+            "All21 final JSON values survive full regeneration."
+          ],
+          "unverified": [
+            "Random Box odds, current simultaneous ownership rules and maximum ammunition were not independently playtested.",
+            "A base-weapon HUD still is provided; exact Box mounts, current capacity and ownership exceptions remain unverified."
+          ],
+          "wholeGuideTextRead": true,
+          "originalStepCount": 1,
+          "stepChecks": {
+            "chapters": 5,
+            "directReferences": 5,
+            "newInlineImagePlacements": 1
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "All27 selected1280px native WebPs viewed and loaded at their assigned chapters on desktop and phone. Photographs illustrate selected locations; all alternatives and continuous actions are not certified.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/glymxh/whats_everyones_favorite_apothicon_servant/",
+            "https://www.reddit.com/r/CODZombies/wiki/revelations/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-revelations-community-revelations-special-weapons-apothicon-servant-upgrade",
+      "mapId": "bo3-revelations",
+      "reviews": [
+        {
+          "batch": "bo3-revelations-main-setup-masks-songs-upgrades-and-native-references",
+          "reportedStatus": "Full retained guide and metadata source-reviewed; expanded authored chapters and selected native references.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Full raw, effective and metadata guards matched the published baseline; all unrelated guides preserved.",
+            "Authored text uses explicit null quotation flags in raw cards and durable map overrides.",
+            "Desktop and actual390px phone chapter/reference, focus, menu and overflow checks passed.",
+            "All21 final JSON values survive full regeneration."
+          ],
+          "unverified": [
+            "Five cube sightings and delayed absorption are documented; precise native lineups remain pending.",
+            "Current price/capacity/ownership exceptions were not independently playtested.",
+            "Names are attributed to the original written player discussion."
+          ],
+          "wholeGuideTextRead": true,
+          "originalStepCount": 6,
+          "stepChecks": {
+            "chapters": 10,
+            "directReferences": 10,
+            "newInlineImagePlacements": 2
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "All27 selected1280px native WebPs viewed and loaded at their assigned chapters on desktop and phone. Photographs illustrate selected locations; all alternatives and continuous actions are not certified.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/glymxh/whats_everyones_favorite_apothicon_servant/",
+            "https://www.reddit.com/r/CODZombies/wiki/revelations/",
+            "https://www.youtube.com/watch?v=abpNSfjKMcg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-revelations-community-revelations-special-weapons-lil-arnie-s",
+      "mapId": "bo3-revelations",
+      "reviews": [
+        {
+          "batch": "bo3-revelations-main-setup-masks-songs-upgrades-and-native-references",
+          "reportedStatus": "Full retained guide and metadata source-reviewed; expanded authored chapters and selected native references.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Full raw, effective and metadata guards matched the published baseline; all unrelated guides preserved.",
+            "Authored text uses explicit null quotation flags in raw cards and durable map overrides.",
+            "Desktop and actual390px phone chapter/reference, focus, menu and overflow checks passed.",
+            "All21 final JSON values survive full regeneration."
+          ],
+          "unverified": [
+            "No exact boss distraction duration or box probability is certified."
+          ],
+          "wholeGuideTextRead": true,
+          "originalStepCount": 1,
+          "stepChecks": {
+            "chapters": 4,
+            "directReferences": 4,
+            "newInlineImagePlacements": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "All27 selected1280px native WebPs viewed and loaded at their assigned chapters on desktop and phone. Photographs illustrate selected locations; all alternatives and continuous actions are not certified.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/1qpoyof/bo3_margwa_in_depth/",
+            "https://www.reddit.com/r/CODZombies/comments/1udvlk7/bo3_panzer_soldat_in_depth_improved/",
+            "https://www.reddit.com/r/CODZombies/wiki/revelations/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-revelations-community-revelations-special-weapons-lil-arnie-s-upgrade",
+      "mapId": "bo3-revelations",
+      "reviews": [
+        {
+          "batch": "bo3-revelations-main-setup-masks-songs-upgrades-and-native-references",
+          "reportedStatus": "Full retained guide and metadata source-reviewed; expanded authored chapters and selected native references.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Full raw, effective and metadata guards matched the published baseline; all unrelated guides preserved.",
+            "Authored text uses explicit null quotation flags in raw cards and durable map overrides.",
+            "Desktop and actual390px phone chapter/reference, focus, menu and overflow checks passed.",
+            "All21 final JSON values survive full regeneration."
+          ],
+          "unverified": [
+            "Published accounts disagree: retained 100–150 versus original film about 50, neither counted in this pass. No fixed kill quota, hidden counter, certified sound or independent throw validation."
+          ],
+          "wholeGuideTextRead": true,
+          "originalStepCount": 1,
+          "stepChecks": {
+            "chapters": 5,
+            "directReferences": 5,
+            "newInlineImagePlacements": 1
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "All27 selected1280px native WebPs viewed and loaded at their assigned chapters on desktop and phone. Photographs illustrate selected locations; all alternatives and continuous actions are not certified.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/wiki/revelations/",
+            "https://www.youtube.com/watch?v=PLD9bJkS-0g"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-revelations-community-revelations-special-weapons-ragnarok-dg-4",
+      "mapId": "bo3-revelations",
+      "reviews": [
+        {
+          "batch": "bo3-revelations-main-setup-masks-songs-upgrades-and-native-references",
+          "reportedStatus": "Full retained guide and metadata source-reviewed; expanded authored chapters and selected native references.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Full raw, effective and metadata guards matched the published baseline; all unrelated guides preserved.",
+            "Authored text uses explicit null quotation flags in raw cards and durable map overrides.",
+            "Desktop and actual390px phone chapter/reference, focus, menu and overflow checks passed.",
+            "All21 final JSON values survive full regeneration."
+          ],
+          "unverified": [
+            "Default PlayStation controls come from the same weapon on Der Eisendrache; Revelations HUD/binding mapping still needs native confirmation. No exact recharge quota or automatic recovery timer."
+          ],
+          "wholeGuideTextRead": true,
+          "originalStepCount": 1,
+          "stepChecks": {
+            "chapters": 4,
+            "directReferences": 4,
+            "newInlineImagePlacements": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "All27 selected1280px native WebPs viewed and loaded at their assigned chapters on desktop and phone. Photographs illustrate selected locations; all alternatives and continuous actions are not certified.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/wiki/der-eisendrache/",
+            "https://www.reddit.com/r/CODZombies/wiki/revelations/",
+            "https://www.trophies.de/forum/thema/128646-zombie-mode-101-tipps-und-tricks/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-revelations-community-revelations-special-weapons-thundergun",
+      "mapId": "bo3-revelations",
+      "reviews": [
+        {
+          "batch": "bo3-revelations-main-setup-masks-songs-upgrades-and-native-references",
+          "reportedStatus": "Full retained guide and metadata source-reviewed; expanded authored chapters and selected native references.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Full raw, effective and metadata guards matched the published baseline; all unrelated guides preserved.",
+            "Authored text uses explicit null quotation flags in raw cards and durable map overrides.",
+            "Desktop and actual390px phone chapter/reference, focus, menu and overflow checks passed.",
+            "All21 final JSON values survive full regeneration."
+          ],
+          "unverified": [
+            "One-holder and ammunition rules are retained community claims, not independently checked across current builds."
+          ],
+          "wholeGuideTextRead": true,
+          "originalStepCount": 1,
+          "stepChecks": {
+            "chapters": 3,
+            "directReferences": 3,
+            "newInlineImagePlacements": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "All27 selected1280px native WebPs viewed and loaded at their assigned chapters on desktop and phone. Photographs illustrate selected locations; all alternatives and continuous actions are not certified.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/1qpoyof/bo3_margwa_in_depth/",
+            "https://www.reddit.com/r/CODZombies/comments/1udvlk7/bo3_panzer_soldat_in_depth_improved/",
+            "https://www.reddit.com/r/CODZombies/wiki/revelations/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-revelations-community-revelations-special-weapons-thundergun-upgrade",
+      "mapId": "bo3-revelations",
+      "reviews": [
+        {
+          "batch": "bo3-revelations-main-setup-masks-songs-upgrades-and-native-references",
+          "reportedStatus": "Full retained guide and metadata source-reviewed; expanded authored chapters and selected native references.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Full raw, effective and metadata guards matched the published baseline; all unrelated guides preserved.",
+            "Authored text uses explicit null quotation flags in raw cards and durable map overrides.",
+            "Desktop and actual390px phone chapter/reference, focus, menu and overflow checks passed.",
+            "All21 final JSON values survive full regeneration."
+          ],
+          "unverified": [
+            "No current native result panel or AAT-compatibility test."
+          ],
+          "wholeGuideTextRead": true,
+          "originalStepCount": 1,
+          "stepChecks": {
+            "chapters": 3,
+            "directReferences": 3,
+            "newInlineImagePlacements": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "All27 selected1280px native WebPs viewed and loaded at their assigned chapters on desktop and phone. Photographs illustrate selected locations; all alternatives and continuous actions are not certified.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/wiki/revelations/"
           ]
         }
       ]
@@ -74927,38 +76040,6 @@
     "bo3-origins-community-origins-wonder-weapons-staff-of-ice",
     "bo3-origins-community-origins-wonder-weapons-staff-of-lightning",
     "bo3-origins-community-origins-wonder-weapons-staff-of-wind",
-    "bo3-revelations-community-revelations-buildables-dragon-shield",
-    "bo3-revelations-community-revelations-buildables-keeper-protector",
-    "bo3-revelations-community-revelations-easter-eggs-all-zombies-songs-music-easter-egg",
-    "bo3-revelations-community-revelations-easter-eggs-free-perk-wallrun-easter-egg",
-    "bo3-revelations-community-revelations-easter-eggs-m1927-wallbuy-weapon-swap-easter-egg",
-    "bo3-revelations-community-revelations-easter-eggs-main-easter-egg",
-    "bo3-revelations-community-revelations-easter-eggs-permanent-wall-power-crate-power",
-    "bo3-revelations-community-revelations-easter-eggs-takeo-s-katana-wall-weapon",
-    "bo3-revelations-community-revelations-easter-eggs-the-gift-music-easter-egg",
-    "bo3-revelations-community-revelations-game-features-wunderfizz-machine",
-    "bo3-revelations-community-revelations-hats-masks-al-s-hat",
-    "bo3-revelations-community-revelations-hats-masks-apothicon-mask",
-    "bo3-revelations-community-revelations-hats-masks-fury-hat",
-    "bo3-revelations-community-revelations-hats-masks-keeper-hat",
-    "bo3-revelations-community-revelations-hats-masks-knight-templar-helmet",
-    "bo3-revelations-community-revelations-hats-masks-margwa-hat",
-    "bo3-revelations-community-revelations-hats-masks-viking-hat",
-    "bo3-revelations-community-revelations-hats-masks-wolf-hat",
-    "bo3-revelations-community-revelations-map-walkthrough-anti-gravity",
-    "bo3-revelations-community-revelations-map-walkthrough-challenges-trials",
-    "bo3-revelations-community-revelations-map-walkthrough-melee-weapons",
-    "bo3-revelations-community-revelations-map-walkthrough-new-zombies-enemies",
-    "bo3-revelations-community-revelations-map-walkthrough-pack-a-punch",
-    "bo3-revelations-community-revelations-map-walkthrough-power",
-    "bo3-revelations-community-revelations-map-walkthrough-traps",
-    "bo3-revelations-community-revelations-special-weapons-apothicon-servant",
-    "bo3-revelations-community-revelations-special-weapons-apothicon-servant-upgrade",
-    "bo3-revelations-community-revelations-special-weapons-lil-arnie-s",
-    "bo3-revelations-community-revelations-special-weapons-lil-arnie-s-upgrade",
-    "bo3-revelations-community-revelations-special-weapons-ragnarok-dg-4",
-    "bo3-revelations-community-revelations-special-weapons-thundergun",
-    "bo3-revelations-community-revelations-special-weapons-thundergun-upgrade",
     "bo3-shadows-of-evil-community-shadows-of-evil-buildables-rocket-shield",
     "bo3-shadows-of-evil-community-shadows-of-evil-buildables-unlocking-civil-protector",
     "bo3-shadows-of-evil-community-shadows-of-evil-easter-eggs-quests-500-points-easter-egg",
@@ -77854,16 +78935,22 @@
         "bo3-gorod-krovi"
       ],
       "note": "Gorod’s firearm reference covers the retained historical roster; current Box availability, six disputed wall prices and some upgrade details still need verification. Location/activation guides for five SOPHIA recordings, twelve ciphers and two decoded scrap messages remain incomplete. Exact bomb mounts, alternative part/item locations and current co-op, timing and refill rules also need checks; see each guide’s notes."
+    },
+    {
+      "mapIds": [
+        "bo3-revelations"
+      ],
+      "note": "Revelations’ 32 existing guides now separate the main quest, setup, masks, songs and upgrades into 228 chapters with selected location photos. The ordinary firearm upgrade roster and complete recording, cipher and scenery routes still need dedicated guides. Exact alternative part, egg, rune and Summoning Key target photos remain incomplete. Historical mask quotas, Arnie kill requirements, time-attack deadlines, God Mask pickup-room claims and current co-op, timing, ownership and reward rules conflict or still need checks; read each guide’s field notes."
     }
   ],
   "dataHashFormat": "SHA-256 of UTF-8 JSON files with LF line endings, matching Git and GitHub Pages.",
   "dataSha256": {
     "catalog.json": "1d06d2aa4a42db59b97868073ddbab1d6a33b3ffb4167f2ebe71ceed09eddf2d",
-    "community-corrections.json": "8562ace8afdd3edf61e902d568a879f16e7258ae2e3f04c947dc3bc63887cc78",
-    "coverage-gaps.json": "490d80af370e9d109e5482aed564b8c839daf1b37044d2b9b6ad06bdbc2fc243",
+    "community-corrections.json": "8cdb0fa81ccc5b6c08e02fb55b733468cae3f5637c5f5088d93c37fa4fc01683",
+    "coverage-gaps.json": "e1121caaa0282702d5d4d7203d1f9a1f6eaa8b6520dd4a8b37510b2cc1f59245",
     "guides-aw.json": "b5a7e5fb7d83e776452f77060d0714c13f63ae8eeb6e367272c0d00a38cc3855",
     "guides-classic.json": "1bbc31b98a8b896e7b6ed88f9829ffa6f2217a23d9fef8fa24de97d0f1c2e542",
-    "guides-community.json": "98917f94e6fd2fa3226b407f3345f68937ab6cbfa0fd2aaf5dbea2123899687e",
+    "guides-community.json": "eb1b691b5e190d94563b5fc68bc25ba050a443246ea9e106b04725ed6a1b5096",
     "guides-completion-classic.json": "ed538054e7aeb5575de95dc78a345deb25a4111b47049bbd73fd29de06905c7a",
     "guides-completion-modern.json": "5e0086c91529a858bf011cbb6ccfe4bc469b3743f49c9175aac4e0115f460748",
     "guides-completion-modes.json": "7661fccf1e3b1fe4466e8a1f7219706fa1851d6b609c826fa045207810ad3bc5",
@@ -77996,9 +79083,10 @@
       "Zetsubou firearm/cipher references and Skull update render36/14/7 chapters with57 direct step references. All10 new placements load9 native WebPs;30 weapon tables and30 upgrade-name links render. Chapter/Sources focus, saved/restored checklist progress, related PaP link and36-guide map roster pass at1280x720 with no horizontal overflow. Mobile remains unverified. Evidence: output/batch21-browser-qa.json.",
       "All27 Gorod pages render194 chapters with194 direct references and focused chapter jumps. All28 new native WebPs load; fourteen mixed-quotation pages retain credited excerpts and thirteen authored pages omit the inherited quotation banner. Sources/return focus, related routes, saved/restored checklist progress, the27-guide map and expanded research-gap note pass at1280x720 with no overflow. Mobile remains unverified. Evidence: output/batch22-browser-qa.json.",
       "A later actual390x844 phone check covers all27 published Gorod pages and194 chapters: final-step focus, closing menus,44px menu/reference targets and no page-level overflow. Evidence: output/batch22-mobile-browser-qa.json. This supersedes the earlier mobile-unverified note for those pages only.",
-      "Gorod’s new41-chapter firearm page renders33 quoted tables and41 direct references. All four1280px weapon photos load after desktop and390px phone jumps; all41 phone menu targets are44px tall. Saved checklist restores, Sources/return focus works, twelve related routes appear and the28-guide map exposes the revised research-gap note. The targeted Trials step8 correction retains21 chapters/references. Evidence: output/batch23-browser-qa.json."
+      "Gorod’s new41-chapter firearm page renders33 quoted tables and41 direct references. All four1280px weapon photos load after desktop and390px phone jumps; all41 phone menu targets are44px tall. Saved checklist restores, Sources/return focus works, twelve related routes appear and the28-guide map exposes the revised research-gap note. The targeted Trials step8 correction retains21 chapters/references. Evidence: output/batch23-browser-qa.json.",
+      "Revelations expands32 inherited cards from66 to228 chapters with228 direct step references. All27 native WebPs load on desktop and390px phone; every phone menu row and step-reference target is at least44px tall. Authored pages omit the old quotation banner, final jumps focus and close menus, source/return links focus correctly, Keeper→Keeper Hat→Wolf navigation works, and the32-card map exposes its remaining research gaps. Checklist state survives reload and temporary test progress was restored. Evidence: output/batch24-browser-qa.json."
     ],
-    "currentBatchResponsiveLimit": "A fresh browser session successfully applied an actual390x844 viewport. All27 published Gorod pages passed chapter/reference counts, final-step focus, closing jump menus,44px menu/reference targets and no page-level horizontal overflow. This follow-up does not recertify earlier desktop-only batches or all image placements on a phone. Evidence: output/batch22-mobile-browser-qa.json.",
-    "importerChecks": "Complete importer passed against an isolated changed-output fixture and its unchanged rerun:866 community topics, exact regenerated bytes, preserved five-chapter DE correction and no unnecessary rewrite. Evidence: output/batch19-import-check.json. Zetsubou’s29 imported revisions also survive full regeneration with their authored quotation flags,67 new image placements and all21 JSON values unchanged;3231 imported checklist sections. Evidence: output/batch20-semantic-diff.json. Final Zetsubou Skull correction and two new references preserve all21 JSON values after full regeneration. Evidence: output/batch21-final-import-check.json and output/batch21-semantic-diff.json. Gorod’s27 durable corrections preserve all21 JSON values after full regeneration, with3368 imported checklist sections. Evidence: output/batch22-final-import-check.json and output/batch22-semantic-diff.json. The41-chapter firearm addition and one-step Trials correction preserve all21 final JSON values, with3368 imported checklist sections. Evidence: output/batch23-final-import-check.json and output/batch23-semantic-diff.json."
+    "currentBatchResponsiveLimit": "All32 revised Revelations pages passed desktop and actual390x844 phone checks:228 chapters and direct references, all27 new1280px images,44px phone chapter/reference targets, focused jumps, closing menus and no page-level overflow. Saved progress was restored after testing. This does not recertify every earlier map or constitute retail gameplay testing. Evidence: output/batch24-browser-qa.json.",
+    "importerChecks": "Complete importer passed against an isolated changed-output fixture and its unchanged rerun:866 community topics, exact regenerated bytes, preserved five-chapter DE correction and no unnecessary rewrite. Evidence: output/batch19-import-check.json. Zetsubou’s29 imported revisions also survive full regeneration with their authored quotation flags,67 new image placements and all21 JSON values unchanged;3231 imported checklist sections. Evidence: output/batch20-semantic-diff.json. Final Zetsubou Skull correction and two new references preserve all21 JSON values after full regeneration. Evidence: output/batch21-final-import-check.json and output/batch21-semantic-diff.json. Gorod’s27 durable corrections preserve all21 JSON values after full regeneration, with3368 imported checklist sections. Evidence: output/batch22-final-import-check.json and output/batch22-semantic-diff.json. The41-chapter firearm addition and one-step Trials correction preserve all21 final JSON values, with3368 imported checklist sections. Evidence: output/batch23-final-import-check.json and output/batch23-semantic-diff.json. Revelations’32 durable authored corrections preserve all21 final JSON values after full regeneration, with3530 imported checklist sections. Evidence: output/batch24-final-import-check.json and output/batch24-semantic-diff.json."
   }
 }
