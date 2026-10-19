@@ -5428,5 +5428,119 @@
       "bo3-zetsubou-no-shima-community-zetsubou-no-shima-special-weapons-skull-of-nan-sapwe"
     ],
     "checked": "2026-10-18"
+  },
+  {
+    "id": "bo3-revelations-dr-monty-perk-jingles",
+    "mapId": "bo3-revelations",
+    "title": "Dr. Monty’s alternate perk jingles",
+    "category": "music",
+    "difficulty": "Easy",
+    "players": "Player conditions unverified",
+    "summary": "Four fixed machines can play Monty’s alternate jingles after a reported melee interaction.",
+    "requirements": [
+      "Reach a powered fixed perk machine; the Power guide below covers local activation.",
+      "MrWilliamThor succeeded with Perkaholic; whether Perkaholic, all perks or Widow’s Wine is necessary remains unresolved."
+    ],
+    "reward": "Listen for Monty’s voice in place of the usual machine jingle.",
+    "steps": [
+      {
+        "title": "Time the melee hits",
+        "body": "Stand close to the machine. While its normal jingle plays, knife it using your configured Melee control.",
+        "tip": "ColossalKiwi describes repeated knifing. Exact strike count, retry timing, playback limits and co-op behavior remain unverified.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=IMUOSld__zE",
+        "corroboratingSources": [
+          "https://www.youtube.com/watch?v=hyUsHmDhU_8"
+        ]
+      },
+      {
+        "title": "Quick Revive near The House",
+        "body": "At the back of Spawn, find Quick Revive near The House.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/revelations/",
+        "images": [
+          {
+            "src": "./assets/batch29-revelations-kiwi-quick-revive-005.webp",
+            "alt": "Spawn dispenser",
+            "caption": "Dispenser with the House behind.",
+            "credit": "ColossalKiwi",
+            "source": "https://www.youtube.com/watch?v=hyUsHmDhU_8&t=5s",
+            "width": 1280,
+            "height": 720
+          }
+        ]
+      },
+      {
+        "title": "Juggernog upstairs in Nacht",
+        "body": "Enter Nacht der Untoten and go upstairs. Juggernog is beside the Tesla Control Panel.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/revelations/",
+        "images": [
+          {
+            "src": "./assets/batch29-revelations-kiwi-juggernog-118.webp",
+            "alt": "Upper-floor dispenser",
+            "caption": "Dispenser on the upper floor.",
+            "credit": "ColossalKiwi",
+            "source": "https://www.youtube.com/watch?v=hyUsHmDhU_8&t=117.851066s",
+            "width": 1280,
+            "height": 720
+          }
+        ]
+      },
+      {
+        "title": "Speed Cola in lower Verrückt",
+        "body": "On Verrückt’s bottom floor, enter the room with the jump pad to Kino. Find Speed Cola there.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/revelations/",
+        "images": [
+          {
+            "src": "./assets/batch29-revelations-kiwi-speed-cola-088.webp",
+            "alt": "Ground-floor dispenser",
+            "caption": "Dispenser beside the damaged staircase.",
+            "credit": "ColossalKiwi",
+            "source": "https://www.youtube.com/watch?v=hyUsHmDhU_8&t=88.388299s",
+            "width": 1280,
+            "height": 720
+          }
+        ]
+      },
+      {
+        "title": "Double Tap II by Generator 3",
+        "body": "Find Double Tap II in central Origins, near Generator 3 and the Flogger trap.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/revelations/",
+        "images": [
+          {
+            "src": "./assets/batch29-revelations-thor-double-tap-108.webp",
+            "alt": "Trench dispenser",
+            "caption": "Dispenser beside the broken wooden wall.",
+            "credit": "MrWilliamThor",
+            "source": "https://www.youtube.com/watch?v=IMUOSld__zE&t=107.6075s",
+            "width": 1280,
+            "height": 720
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "Revelations perk locations",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/revelations/"
+      },
+      {
+        "title": "MrWilliamThor: reported method",
+        "url": "https://www.youtube.com/watch?v=IMUOSld__zE"
+      },
+      {
+        "title": "ColossalKiwi: jingle audio",
+        "url": "https://www.youtube.com/watch?v=hyUsHmDhU_8"
+      }
+    ],
+    "relatedGuideIds": [
+      "bo3-revelations-community-revelations-map-walkthrough-power"
+    ],
+    "checked": "2026-10-19",
+    "sourceQuote": null,
+    "sharedSource": false
   }
 ]
