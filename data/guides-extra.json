@@ -2643,5 +2643,413 @@
     "checked": "2026-10-18",
     "supplementNote": "Map acquisition rows are attributed historical reports. Ordinary upgrade names are reported names with selected native HUD corroboration; no continuous upgrade sequence or full current retail pool test is certified. Use current purchase prompts, and follow the separate setup/plant cards for their full routes.",
     "sourceQuote": "https://www.reddit.com/r/CODZombies/wiki/zetsubou-no-shima/"
+  },
+  {
+    "id": "bo3-gorod-krovi-ordinary-pack-a-punch-inventory",
+    "mapId": "bo3-gorod-krovi",
+    "title": "Gorod Krovi — firearm upgrades & acquisition reference",
+    "category": "weapon",
+    "difficulty": "Reference / setup",
+    "players": "Solo or co-op",
+    "summary": "Thirty-two historically reported ordinary firearms, their upgrade names and wall, Box or medal routes. Ray Gun and a conditional MR6 entry are separate; price conflicts and current-pool checks remain visible.",
+    "requirements": [
+      "Play Black Ops III Gorod Krovi (Descent) and acquire the base firearm you want to upgrade.",
+      "For the normal machine route, restore power and build the three-part Dragon Network Controller to reach the Hatchery.",
+      "Keep points for the displayed acquisition/travel prompt and the standard 5,000-point first Pack-a-Punch upgrade.",
+      "Trial weapons are optional alternatives and arrive already upgraded."
+    ],
+    "reward": "The firearm and upgrade you choose. This reference has no separate quest or completion reward.",
+    "sourceQuote": "https://www.reddit.com/r/CODZombies/wiki/gorod-krovi/",
+    "sharedSource": false,
+    "sourceOmissions": [
+      "The 32 ordinary entries reproduce the retained historical roster, not a verified current Box pool. Razorback and HG-40 availability still needs a Gorod-specific retail check; their upgrade names alone do not prove that route.",
+      "Six reported wall prices conflict: VMP 1,100/1,300; Kuda 1,200/1,250; Vesper 1,200/1,250; ICR-1 1,400/1,500; Argus 1,100/1,400; Pharo 750/700. Read your purchase prompt.",
+      "All 13 wall-buy regions are documented reports. Exact mounts, floors, readable current prices, ammunition capacities/refill prices, co-op ownership limits and a full per-weapon alternate-ammo eligibility test remain unverified.",
+      "The common name reports are attributed community observations/index entries, not controlled current Gorod playtests. PPSH/FFAR HUD checks use early-access footage (11 July 2016); no uninterrupted upgrade sequence was observed.",
+      "The extra MR6 entry applies if it is in your loadout; starting-loadout rules, later RPK availability and every current reward-pool revision remain unverified."
+    ],
+    "supplementNote": "Availability tables below are literal Reddit excerpts. Field notes add route guidance and name provenance. Separate cards cover Mk3, shield, trial objectives and the mounted MG-42.",
+    "relatedGuideIds": [
+      "bo3-gorod-krovi-community-gorod-krovi-map-walkthrough-pack-a-punch",
+      "bo3-gorod-krovi-community-gorod-krovi-buildables-dragon-network-controller",
+      "bo3-gorod-krovi-community-gorod-krovi-map-walkthrough-challenges-trials",
+      "bo3-gorod-krovi-community-gorod-krovi-buildables-dragon-shield",
+      "bo3-gorod-krovi-community-gorod-krovi-special-weapons-raygun-mark-3",
+      "bo3-gorod-krovi-community-gorod-krovi-special-weapons-raygun-mark-3-upgrade",
+      "bo3-gorod-krovi-community-gorod-krovi-map-walkthrough-traps",
+      "bo3-gorod-krovi-community-gorod-krovi-easter-eggs-melee-weapons"
+    ],
+    "sources": [
+      {
+        "title": "chrisd848 — quoted Gorod community table and room guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/gorod-krovi/"
+      },
+      {
+        "title": "ravnos13 — original BO3 upgrade-name report",
+        "url": "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/"
+      },
+      {
+        "title": "Terminus259 — original console-name index; map limits apply",
+        "url": "https://www.reddit.com/r/CODZombies/comments/54v8y1/weapon_name_list_for_command_console/"
+      },
+      {
+        "title": "BO3 players — first upgrade and manual collection",
+        "url": "https://www.reddit.com/r/CODZombies/comments/qgyxoj/beginner_question_bo3/"
+      },
+      {
+        "title": "chrisd848 — shared BO3 alternate-ammo report",
+        "url": "https://www.reddit.com/r/CODZombies/comments/4kp6vp/gobblegum_perks_weapon_kits_game_features/"
+      },
+      {
+        "title": "MrRoflWaffles: early-access HUD",
+        "url": "https://www.youtube.com/watch?v=4yVJKBdNJsY"
+      },
+      {
+        "title": "JSkeleton: HUD",
+        "url": "https://www.youtube.com/watch?v=X4QEY0tNvao"
+      },
+      {
+        "title": "TheGamingRevolution: MR6",
+        "url": "https://www.youtube.com/watch?v=cyojMswswEE"
+      },
+      {
+        "title": "BlackOpsAmazing: rifle view",
+        "url": "https://www.youtube.com/watch?v=hAb95PJMWf0"
+      }
+    ],
+    "checked": "2026-10-19",
+    "steps": [
+      {
+        "title": "Read the roster and separate weapon types",
+        "body": "Look up the base gun below, then follow its wall, Mystery Box or trial route. The 32 ordinary entries come from the historical Gorod table, followed by separate Ray Gun and conditional MR6 entries. GKZ-45 Mk3, the Dragon Shield, Time Attack melee weapons and the mounted MG-42 use the linked dedicated guides.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/gorod-krovi/",
+        "tip": "A name match is not proof of current availability. The old table and room guide disagree on six wall prices; both values are preserved instead of selecting one."
+      },
+      {
+        "title": "Unlock the Hatchery machine",
+        "body": "Turn on power in Dragon Command. Collect zombie-dropped code cylinders, activate the matching Groph terminals (blue Dragon Command, red Tank Factory, yellow Supply Depot), defend each pod until it opens and take its Controller part. Install all three parts in Operations Bunker. Call a dragon from one of those three platforms and ride to the Hatchery; Pack-a-Punch is downstairs.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/gorod-krovi/",
+        "tip": "The historical dragon fare is 500 points, separate from the upgrade fee. Use the displayed fare. You do not need to finish a lockdown just to use Pack-a-Punch; the linked setup card has the full route."
+      },
+      {
+        "title": "Pay for the first upgrade and take the gun back",
+        "body": "Hold the ordinary firearm you want to upgrade and use the Pack-a-Punch prompt. The standard first BO3 upgrade costs 5,000 points. Wait for the weapon to return, then interact with the machine again to collect it. Leaving the returned gun in the machine can lose it. The upgraded name is listed in that gun’s heading below.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/qgyxoj/beginner_question_bo3/",
+        "tip": "The payment/collection report comes from a player on The Giant; the Hatchery unlock route is Gorod-specific. If you claimed an already-upgraded trial weapon, skip this first-upgrade purchase."
+      },
+      {
+        "title": "Re-Pack an eligible firearm for alternate ammo",
+        "body": "An eligible upgraded firearm can go back into Pack-a-Punch for a 2,500-point alternate ammo effect. The shared BO3 report lists Turned, Dead Wire, Blast Furnace, Thunder Wall and Fire Works. Collect the returned gun and check the HUD for the effect received.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/4kp6vp/gobblegum_perks_weapon_kits_game_features/",
+        "tip": "This is separate from the base-to-upgraded name change. Exact damage, cooldowns, maximum ammunition and every weapon’s eligibility are not measured here."
+      },
+      {
+        "title": "Find the active Mystery Box",
+        "body": "From Department Store, continue toward Operations Bunker and look up for the Box beam to choose the closer initial route. The written Box sites are Department Store’s outside balcony, Armory’s middle floor, Infirmary’s top floor, the room right of Tank Factory’s dragon platform, Supply Depot’s bottom floor and the chamber left of Dragon Command’s dragon platform. At the active Box, use its displayed price and inspect the offered gun before taking it.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/gorod-krovi/",
+        "tip": "A Box listing is a random acquisition report. It does not guarantee a spin count, total cost or a current retail pool. The weapon-kit column in the quoted rows is historical customization information, not an unlock requirement."
+      },
+      {
+        "title": "Use the optional left-medal weapon reward",
+        "body": "Inspect your personal challenges at the Belinski Square gravestones. Complete the task assigned to your left medal, return and interact with the completed medal. The retained reward list is FFAR, MX Garand, NX Shadowclaw, L4 Siege or HG-40, already Pack-a-Punched. Inspect the offer before taking it. The written source mentions re-rolling; its controls, timing and reset conditions are not verified in this pass.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/gorod-krovi/",
+        "tip": "Only one assigned left-medal task is required for this reward, not every trial in the catalogue. Use the linked Trials card for objectives and counters. The reward is an alternative to buying the base gun and its first upgrade."
+      },
+      {
+        "title": "Optional Crate Power — PPSH-41",
+        "body": "With Crate Power active, the demonstrated PPSH Box pickup arrives as The Grim Reaper. This optional example is early-access footage.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=4yVJKBdNJsY",
+        "tip": "Compatibility for every weapon is unverified."
+      },
+      {
+        "title": "RK5 → Rex-Kalibur 115",
+        "body": "RK5  | Yes  | 500  | Spawn  | No  | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>RK5</td><td>Yes</td><td>500</td><td>Spawn</td><td>No</td><td>Yes</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/gorod-krovi/",
+        "tip": "Wall route: check the RK5 chalk buy in Belinski Square/Spawn. Both retained sections report 500 points. The table does not list a Box route. Name source: ravnos13’s original BO3 naming report."
+      },
+      {
+        "title": "L-CAR 9 → Flux Collider 935",
+        "body": "L-CAR 9  | Yes  | 750  | Department Store  | No  | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>L-CAR 9</td><td>Yes</td><td>750</td><td>Department Store</td><td>No</td><td>Yes</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/gorod-krovi/",
+        "tip": "Wall route: enter Department Store from Belinski Square and look for its L-CAR 9 buy. Both retained sections report 750 points. An exact floor/mount is not established; the table does not list a Box route. Name source: ravnos13’s original BO3 naming report."
+      },
+      {
+        "title": "VMP → The Impaler",
+        "body": "VMP  | Yes  | 1100  | Armory  | Yes  | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>VMP</td><td>Yes</td><td>1100</td><td>Armory</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/gorod-krovi/",
+        "tip": "Wall route: go through Department Store and Operations Bunker to Armory. The Weapons table reports 1,100 points; the Armory room guide reports 1,300. Read the current VMP prompt. The historical table also lists the Box. Name source: ravnos13’s original BO3 naming report."
+      },
+      {
+        "title": "KRM-262 → Dagon's Glare",
+        "body": "KRM-262  | Yes  | 750  | Department Store  | No  | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>KRM-262</td><td>Yes</td><td>750</td><td>Department Store</td><td>No</td><td>Yes</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/gorod-krovi/",
+        "tip": "Wall route: enter Department Store from Belinski Square and check its KRM-262 buy. Both retained sections report 750 points. An exact floor/mount is not established; the table does not list a Box route. Name source: ravnos13’s original BO3 naming report."
+      },
+      {
+        "title": "Kuda → Crocuta",
+        "body": "Kuda  | Yes  | 1200  | Department Store  | No  | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>Kuda</td><td>Yes</td><td>1200</td><td>Department Store</td><td>No</td><td>Yes</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/gorod-krovi/",
+        "tip": "Wall route: enter Department Store from Belinski Square. The Weapons table reports 1,200 points; the Department Store room guide reports 1,250. Read the current Kuda prompt. The table does not list a Box route. Name source: ravnos13’s original BO3 naming report."
+      },
+      {
+        "title": "Vesper → Infernus",
+        "body": "Vesper  | Yes  | 1200  | -  | No  | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>Vesper</td><td>Yes</td><td>1200</td><td>-</td><td>No</td><td>Yes</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/gorod-krovi/",
+        "tip": "Wall route: continue from Department Store into Operations Bunker. The Weapons table leaves its region blank and reports 1,200 points; the room guide specifically places Vesper in Operations Bunker at 1,250. Read the current prompt. The table does not list a Box route. Name source: ravnos13’s original BO3 naming report."
+      },
+      {
+        "title": "Sheiva → Cumulus Struggle",
+        "body": "Sheiva  | Yes  | 500  | Spawn  | Yes  | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>Sheiva</td><td>Yes</td><td>500</td><td>Spawn</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/gorod-krovi/",
+        "tip": "Wall route: check the Sheiva chalk buy in Belinski Square/Spawn. Both retained sections report 500 points. The historical table also lists the Box. Name source: ravnos13’s original BO3 naming report."
+      },
+      {
+        "title": "HVK-30 → High Velocity Kicker",
+        "body": "HVK-30  | Yes  | 1600  | Bridge  | Yes  | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>HVK-30</td><td>Yes</td><td>1600</td><td>Bridge</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/gorod-krovi/",
+        "tip": "Wall route: reach the upper bridge between Infirmary and Armory. The retained weapon price is 1,600 points; the bridge’s 500-point use fee is a separate cost. The historical table also lists the Box. Name source: ravnos13’s original BO3 naming report."
+      },
+      {
+        "title": "KN-44 → Anointed Avenger",
+        "body": "KN-44  | Yes  | 1400  | Tank Factory  | Yes  | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>KN-44</td><td>Yes</td><td>1400</td><td>Tank Factory</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/gorod-krovi/",
+        "tip": "Wall route: reach Infirmary and open toward Tank Factory, or use the passage made available after power. The retained KN-44 region is Tank Factory at 1,400 points. Exact mount not established. The historical table also lists the Box. Name source: ravnos13’s original BO3 naming report."
+      },
+      {
+        "title": "ICR-1 → Illuminated Deanimator",
+        "body": "ICR-1  | Yes  | 1400  | Supply Depot  | Yes  | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>ICR-1</td><td>Yes</td><td>1400</td><td>Supply Depot</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/gorod-krovi/",
+        "tip": "Wall route: continue from Armory toward Supply Depot. The Weapons table reports 1,400 points; the Supply Depot room guide reports 1,500. Read the current ICR-1 prompt. The historical table also lists the Box. Name source: ravnos13’s original BO3 naming report."
+      },
+      {
+        "title": "Argus → Ancient Messenger",
+        "body": "Argus  | Yes  | 1100  | Infirmary  | Yes  | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>Argus</td><td>Yes</td><td>1100</td><td>Infirmary</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/gorod-krovi/",
+        "tip": "Wall route: enter Infirmary from Operations Bunker. The Weapons table reports 1,100 points; the Infirmary room guide reports 1,400. Read the current Argus prompt. The historical table also lists the Box. Name source: ravnos13’s original BO3 naming report."
+      },
+      {
+        "title": "M8A7 → The Unspeakable",
+        "body": "M8A7  | Yes  | 1400  | Dragon Control  | Yes  | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>M8A7</td><td>Yes</td><td>1400</td><td>Dragon Control</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/gorod-krovi/",
+        "tip": "Wall route: reach Dragon Command, called Dragon Control in the table, where power and SOPHIA are located. The Weapons table reports M8A7 at 1,400 points; the room’s quick guide omits it. The exact mount and current price need confirmation. The historical table also lists the Box. Name source: ravnos13’s original BO3 naming report."
+      },
+      {
+        "title": "Pharo → Whispering Regurgitator",
+        "body": "Pharo  | Yes  | 750  | Department Store  | Yes  | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>Pharo</td><td>Yes</td><td>750</td><td>Department Store</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/gorod-krovi/",
+        "tip": "Wall route: enter Department Store from Belinski Square. The Weapons table reports 750 points; the Department Store room guide reports 700. Read the current Pharo prompt. The historical table also lists the Box. Name source: ravnos13’s original BO3 naming report."
+      },
+      {
+        "title": "Weevil → Barrage",
+        "body": "Weevil  | No  | -  | -  | Yes  | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>Weevil</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/gorod-krovi/",
+        "tip": "Box route: the retained Gorod table lists this gun in the Mystery Box and gives no wall buy. Find the active Box at one of the six reported sites above; a roll is not guaranteed. Name source: ravnos13’s original BO3 naming report."
+      },
+      {
+        "title": "BRM → Blight Oblivion",
+        "body": "BRM  | No  | -  | -  | Yes  | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>BRM</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/gorod-krovi/",
+        "tip": "Box route: the retained Gorod table lists this gun in the Mystery Box and gives no wall buy. Find the active Box at one of the six reported sites above; a roll is not guaranteed. Name source: ravnos13’s original BO3 naming report."
+      },
+      {
+        "title": "Dingo → Dire Wolf",
+        "body": "Dingo  | No  | -  | -  | Yes  | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>Dingo</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/gorod-krovi/",
+        "tip": "Box route: the retained Gorod table lists this gun in the Mystery Box and gives no wall buy. Find the active Box at one of the six reported sites above; a roll is not guaranteed. Name source: ravnos13’s original BO3 naming report."
+      },
+      {
+        "title": "48 Dredge → Trapezohedron Shard",
+        "body": "48 Dredge  | No  | -  | -  | Yes  | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>48 Dredge</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/gorod-krovi/",
+        "tip": "Box route: the retained Gorod table lists this gun in the Mystery Box and gives no wall buy. Find the active Box at one of the six reported sites above; a roll is not guaranteed. Name source: ravnos13’s original BO3 naming report."
+      },
+      {
+        "title": "Gorgon → Athena's Spear",
+        "body": "Gorgon  | No  | -  | -  | Yes  | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>Gorgon</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/gorod-krovi/",
+        "tip": "Box route: the retained Gorod table lists this gun in the Mystery Box and gives no wall buy. Find the active Box at one of the six reported sites above; a roll is not guaranteed. Name source: ravnos13’s original BO3 naming report."
+      },
+      {
+        "title": "Locus → Arrhythmic Dirge",
+        "body": "Locus  | No  | -  | -  | Yes  | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>Locus</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/gorod-krovi/",
+        "tip": "Box route: the retained Gorod table lists this gun in the Mystery Box and gives no wall buy. Find the active Box at one of the six reported sites above; a roll is not guaranteed. Name source: Terminus259’s original console-name index; it does not prove Gorod-specific operation."
+      },
+      {
+        "title": "Drakon → Bahamut",
+        "body": "Drakon  | No  | -  | -  | Yes  | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>Drakon</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/gorod-krovi/",
+        "tip": "Box route: the retained Gorod table lists this gun in the Mystery Box and gives no wall buy. Find the active Box at one of the six reported sites above; a roll is not guaranteed. Name source: ravnos13’s original BO3 naming report."
+      },
+      {
+        "title": "SVG-100 → Ikken Hissatsu",
+        "body": "SVG-100  | No  | -  | -  | Yes  | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>SVG-100</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/gorod-krovi/",
+        "tip": "Box route: the retained Gorod table lists this gun in the Mystery Box and gives no wall buy. Find the active Box at one of the six reported sites above; a roll is not guaranteed. Name source: ravnos13’s original BO3 naming report."
+      },
+      {
+        "title": "Man-O-War → Dread Armada",
+        "body": "Man-O-War  | No  | -  | -  | Yes  | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>Man-O-War</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/gorod-krovi/",
+        "tip": "Box route: the retained Gorod table lists this gun in the Mystery Box and gives no wall buy. Find the active Box at one of the six reported sites above; a roll is not guaranteed. Name source: ravnos13’s original BO3 naming report."
+      },
+      {
+        "title": "205 Brecci → Stellar Screech",
+        "body": "205 Brecci  | No  | -  | -  | Yes  | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>205 Brecci</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/gorod-krovi/",
+        "tip": "Box route: the retained Gorod table lists this gun in the Mystery Box and gives no wall buy. Find the active Box at one of the six reported sites above; a roll is not guaranteed. Name source: ravnos13’s original BO3 naming report."
+      },
+      {
+        "title": "Haymaker 12 → Shoeshining 100",
+        "body": "Haymaker 12  | No  | -  | -  | Yes  | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>Haymaker 12</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/gorod-krovi/",
+        "tip": "Box route: the retained Gorod table lists this gun in the Mystery Box and gives no wall buy. Find the active Box at one of the six reported sites above; a roll is not guaranteed. Name source: ravnos13’s original BO3 naming report."
+      },
+      {
+        "title": "XM-53 → Heliacal Incandescence",
+        "body": "XM-53  | No  | -  | -  | Yes  | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>XM-53</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/gorod-krovi/",
+        "tip": "Box route: the retained Gorod table lists this gun in the Mystery Box and gives no wall buy. Find the active Box at one of the six reported sites above; a roll is not guaranteed. Name source: ravnos13’s original BO3 naming report."
+      },
+      {
+        "title": "Razorback → Gullinbursti",
+        "body": "Razorback  | No  | -  | -  | Yes  | No",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>Razorback</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>No</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/gorod-krovi/",
+        "tip": "Box route: the retained Gorod table lists this gun in the Mystery Box and gives no wall buy. Find the active Box at one of the six reported sites above; a roll is not guaranteed. Current Gorod Box availability is not independently confirmed here; the upgrade name does not verify the pool. Name source: Terminus259’s original console-name index; it does not prove Gorod-specific operation."
+      },
+      {
+        "title": "HG-40 → Afterburner 2.0",
+        "body": "HG-40  | No  | -  | -  | Yes  | No",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>HG-40</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>No</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/gorod-krovi/",
+        "tip": "Box route: the retained Gorod table lists this gun in the Mystery Box and gives no wall buy. Find the active Box at one of the six reported sites above; a roll is not guaranteed. The left-medal reward is a second reported route and is already upgraded. Current Gorod Box availability is not independently confirmed here; the upgrade name does not verify the pool. Name source: Terminus259’s original console-name index; it does not prove Gorod-specific operation."
+      },
+      {
+        "title": "MX Garand → Leng's Ping Beast",
+        "body": "MX-Garand  | No  | -  | -  | Yes  | No",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>MX-Garand</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>No</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/gorod-krovi/",
+        "tip": "Box route: the retained Gorod table lists this gun in the Mystery Box and gives no wall buy. Find the active Box at one of the six reported sites above; a roll is not guaranteed. The left-medal reward is a second reported route and is already upgraded. Name source: Terminus259’s original console-name index; it does not prove Gorod-specific operation. Native footage corroborates the displayed name.",
+        "images": [
+          {
+            "src": "./assets/batch24-gorod-ace-100.webp",
+            "alt": "Upgraded rifle",
+            "caption": "Filmed HUD; used ammunition.",
+            "credit": "BlackOpsAmazing / Activision",
+            "source": "https://www.youtube.com/watch?v=hAb95PJMWf0&t=100s",
+            "width": 1280,
+            "height": 720
+          }
+        ]
+      },
+      {
+        "title": "L4 Siege → L8 Circus",
+        "body": "L4 Siege  | No  | -  | -  | Yes  | No",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>L4 Siege</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>No</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/gorod-krovi/",
+        "tip": "Box route: the retained Gorod table lists this gun in the Mystery Box and gives no wall buy. Find the active Box at one of the six reported sites above; a roll is not guaranteed. The left-medal reward is a second reported route and is already upgraded. JSkeleton’s original Gorod narration reports a 4→8 magazine increase, and the reviewed HUD reads L8 Circus. Current capacity, reserve and refill figures remain unmeasured.",
+        "images": [
+          {
+            "src": "./assets/batch24-gorod-l4-upgrade-064.webp",
+            "alt": "Upgraded launcher",
+            "caption": "Filmed HUD; used ammunition.",
+            "credit": "JSkeleton / Activision",
+            "source": "https://www.youtube.com/watch?v=X4QEY0tNvao&t=64.489425s",
+            "width": 1280,
+            "height": 720
+          }
+        ]
+      },
+      {
+        "title": "NX Shadowclaw → Apollo's Fervor",
+        "body": "NX Shadowclaw  | No  | -  | -  | Yes  | No",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>NX Shadowclaw</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>No</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/gorod-krovi/",
+        "tip": "Box route: the retained Gorod table lists this gun in the Mystery Box and gives no wall buy. Find the active Box at one of the six reported sites above; a roll is not guaranteed. The left-medal reward is a second reported route and is already upgraded. The written Gorod survival guide reports that shooting a downed teammate with the upgraded weapon revives them. Its range and current interaction behavior are not measured here. Name source: Terminus259’s original console-name index; it does not prove Gorod-specific operation."
+      },
+      {
+        "title": "PPSH-41 → The Grim Reaper",
+        "body": "PPSH-41  | No  | -  | -  | Yes  | No",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>PPSH-41</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>No</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/gorod-krovi/",
+        "tip": "Box route: the retained Gorod table lists this gun in the Mystery Box and gives no wall buy. Find the active Box at one of the six reported sites above; a roll is not guaranteed. The heading follows the early-access HUD; used ammo is not maximum capacity.",
+        "images": [
+          {
+            "src": "./assets/batch24-gorod-ppsh-upgrade-028.webp",
+            "alt": "Upgraded SMG",
+            "caption": "Early-access HUD; used ammunition.",
+            "credit": "MrRoflWaffles / Activision",
+            "source": "https://www.youtube.com/watch?v=4yVJKBdNJsY&t=27.523333s",
+            "width": 1280,
+            "height": 720
+          }
+        ]
+      },
+      {
+        "title": "FFAR → FFORMLESS FFEARR",
+        "body": "FFAR  | No  | -  | -  | Yes  | No",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>FFAR</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>No</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/gorod-krovi/",
+        "tip": "Box route: the retained Gorod table lists this gun in the Mystery Box and gives no wall buy. Find the active Box at one of the six reported sites above; a roll is not guaranteed. The left-medal reward is a second reported route and is already upgraded. The heading follows the early-access HUD; used ammo is not maximum capacity.",
+        "images": [
+          {
+            "src": "./assets/batch24-gorod-weapon-check-083.webp",
+            "alt": "Upgraded rifle",
+            "caption": "Early-access HUD; used ammunition.",
+            "credit": "MrRoflWaffles / Activision",
+            "source": "https://www.youtube.com/watch?v=4yVJKBdNJsY&t=82.57s",
+            "width": 1280,
+            "height": 720
+          }
+        ]
+      },
+      {
+        "title": "Ray Gun exception → Porter's X2 Ray Gun",
+        "body": "Raygun  | No  | -  | -  | Yes  | No",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>Raygun</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>No</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/gorod-krovi/",
+        "tip": "The retained table lists the original Ray Gun in the Box; it is separate from the 32 ordinary firearms. ravnos13 explicitly reports the Pack-a-Punch name Porter’s X2 Ray Gun. Use the normal first-upgrade route above. GKZ-45 Mk3 → Maelstrom of Eris has separate linked cards. No current ownership cap, maximum ammunition or alternate-ammo compatibility is certified here."
+      },
+      {
+        "title": "MR6 loadout exception → Death & Taxes",
+        "body": "If an MR6 is in your loadout, use the normal first Pack-a-Punch route above for Death & Taxes. The original naming report explicitly lists this pair. The pistol is absent from the old Gorod availability table.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+        "tip": "Original Gorod footage shows MR6 equipped; starting-loadout rules remain unverified."
+      }
+    ]
   }
 ]

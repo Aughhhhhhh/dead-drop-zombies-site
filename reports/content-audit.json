@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-18",
+  "asOf": "2026-10-19",
   "status": "Audit in progress; no exhaustive correctness certificate",
   "limitations": [
     "Reported source comparisons cover different fields and scopes; they are not interchangeable with a full-guide verification.",
@@ -8,8 +8,8 @@
     "Newly authored guides may have source research without a separate recorded full audit. Guide counts and passing software checks do not establish gameplay accuracy."
   ],
   "catalogEntries": 160,
-  "runtimeGuides": 1526,
-  "guidesWithRecordedSourceReview": 864,
+  "runtimeGuides": 1527,
+  "guidesWithRecordedSourceReview": 865,
   "guidesCertifiedFullyVerified": 0,
   "batches": [
     {
@@ -359,6 +359,10 @@
     {
       "batch": "bo3-gorod-main-setup-trials-equipment-songs-and-native-references",
       "rowsWithRecordedReview": 27
+    },
+    {
+      "batch": "bo3-gorod-firearm-inventory-and-reward-reroll-correction",
+      "rowsWithRecordedReview": 2
     }
   ],
   "guideReviews": [
@@ -26726,6 +26730,23 @@
             "https://www.reddit.com/r/CODZombies/wiki/gorod-krovi/",
             "https://www.youtube.com/watch?v=QEqivANVVlg"
           ]
+        },
+        {
+          "batch": "bo3-gorod-firearm-inventory-and-reward-reroll-correction",
+          "reportedStatus": "Targeted correction of one unsupported reward-reroll method.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Only step8 body/html changed in top-level and durable map override; all other chapter and metadata fields preserved.",
+            "Original wiki supports a reroll option but gives no withdrawal/reopen method, controls or timing.",
+            "Corrected21-chapter page passes phone focus/reference/overflow checks."
+          ],
+          "unverified": [
+            "Reroll controls and timing remain unverified; no retail playtest."
+          ],
+          "originalStepCount": 21,
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/wiki/gorod-krovi/"
+          ]
         }
       ]
     },
@@ -27101,6 +27122,49 @@
             "https://www.reddit.com/r/CODZombies/comments/qgyxoj/beginner_question_bo3/",
             "https://www.reddit.com/r/CODZombies/wiki/gorod-krovi/",
             "https://www.youtube.com/watch?v=kFaip_ExJUM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-gorod-krovi-ordinary-pack-a-punch-inventory",
+      "mapId": "bo3-gorod-krovi",
+      "reviews": [
+        {
+          "batch": "bo3-gorod-firearm-inventory-and-reward-reroll-correction",
+          "reportedStatus": "New historically scoped firearm reference; original names, prices and native HUD views compared.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "All32 ordinary historical rows plus separate Ray Gun and conditional MR6; no current-pool or starting-loadout certificate.",
+            "All33 attributed table rows and six price conflicts match the retained original source.",
+            "All41 chapter/reference links,33 tables, four photos, source/return focus and saved/restored checklist pass desktop and390px phone checks.",
+            "All21 JSON values survive full regeneration."
+          ],
+          "unverified": [
+            "The 32 ordinary entries reproduce the retained historical roster, not a verified current Box pool. Razorback and HG-40 availability still needs a Gorod-specific retail check; their upgrade names alone do not prove that route.",
+            "Six reported wall prices conflict: VMP 1,100/1,300; Kuda 1,200/1,250; Vesper 1,200/1,250; ICR-1 1,400/1,500; Argus 1,100/1,400; Pharo 750/700. Read your purchase prompt.",
+            "All 13 wall-buy regions are documented reports. Exact mounts, floors, readable current prices, ammunition capacities/refill prices, co-op ownership limits and a full per-weapon alternate-ammo eligibility test remain unverified.",
+            "The common name reports are attributed community observations/index entries, not controlled current Gorod playtests. PPSH/FFAR HUD checks use early-access footage (11 July 2016); no uninterrupted upgrade sequence was observed.",
+            "The extra MR6 entry applies if it is in your loadout; starting-loadout rules, later RPK availability and every current reward-pool revision remain unverified."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 41,
+            "directReferences": 41,
+            "newInlineImagePlacements": 4
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "All four final1280px WebPs viewed; exact native HUD names retained. Used ammunition and early-access footage are qualified; separate stills do not certify a continuous upgrade or maximum capacity.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+            "https://www.reddit.com/r/CODZombies/comments/4kp6vp/gobblegum_perks_weapon_kits_game_features/",
+            "https://www.reddit.com/r/CODZombies/comments/54v8y1/weapon_name_list_for_command_console/",
+            "https://www.reddit.com/r/CODZombies/comments/qgyxoj/beginner_question_bo3/",
+            "https://www.reddit.com/r/CODZombies/wiki/gorod-krovi/",
+            "https://www.youtube.com/watch?v=4yVJKBdNJsY",
+            "https://www.youtube.com/watch?v=X4QEY0tNvao",
+            "https://www.youtube.com/watch?v=cyojMswswEE",
+            "https://www.youtube.com/watch?v=hAb95PJMWf0"
           ]
         }
       ]
@@ -77789,21 +77853,21 @@
       "mapIds": [
         "bo3-gorod-krovi"
       ],
-      "note": "Gorod’s ordinary weapon upgrade inventory and location guides for five radios, twelve ciphers and two scraps are still incomplete. Exact bomb mounts, some alternative part/item locations, disputed triggers and current co-op, timing and refill rules also need verification; check each guide’s notes."
+      "note": "Gorod’s firearm reference covers the retained historical roster; current Box availability, six disputed wall prices and some upgrade details still need verification. Location/activation guides for five SOPHIA recordings, twelve ciphers and two decoded scrap messages remain incomplete. Exact bomb mounts, alternative part/item locations and current co-op, timing and refill rules also need checks; see each guide’s notes."
     }
   ],
   "dataHashFormat": "SHA-256 of UTF-8 JSON files with LF line endings, matching Git and GitHub Pages.",
   "dataSha256": {
     "catalog.json": "1d06d2aa4a42db59b97868073ddbab1d6a33b3ffb4167f2ebe71ceed09eddf2d",
-    "community-corrections.json": "5efe8491142f7165b7db5819a70fbd96df4f8bca0470a346f7a87570a429cdbf",
-    "coverage-gaps.json": "4b902b3d2c795352becfbd5ec62e5c9200e29ab39de303793230419f9ed6f8e3",
+    "community-corrections.json": "8562ace8afdd3edf61e902d568a879f16e7258ae2e3f04c947dc3bc63887cc78",
+    "coverage-gaps.json": "490d80af370e9d109e5482aed564b8c839daf1b37044d2b9b6ad06bdbc2fc243",
     "guides-aw.json": "b5a7e5fb7d83e776452f77060d0714c13f63ae8eeb6e367272c0d00a38cc3855",
     "guides-classic.json": "1bbc31b98a8b896e7b6ed88f9829ffa6f2217a23d9fef8fa24de97d0f1c2e542",
-    "guides-community.json": "c4fd9ecc82f5bfbe5b1e0f6162050386d6bdcf3d7605c2941cd99d616375615a",
+    "guides-community.json": "98917f94e6fd2fa3226b407f3345f68937ab6cbfa0fd2aaf5dbea2123899687e",
     "guides-completion-classic.json": "ed538054e7aeb5575de95dc78a345deb25a4111b47049bbd73fd29de06905c7a",
     "guides-completion-modern.json": "5e0086c91529a858bf011cbb6ccfe4bc469b3743f49c9175aac4e0115f460748",
     "guides-completion-modes.json": "7661fccf1e3b1fe4466e8a1f7219706fa1851d6b609c826fa045207810ad3bc5",
-    "guides-extra.json": "5850b39beeb93212a261a429aa6464138237c8396e5b3e1964da5e0184905f11",
+    "guides-extra.json": "bc56f6e510150003f3e3f513f81934615d07aa8de9e95d7b710a2e59f54fa64e",
     "guides-goal-classic.json": "5621ad45c8750da623b7c48c4fbbb023c358c9853375d50d29e2fedba3b176dd",
     "guides-goal-modern.json": "e2e88076d73c606934b7058c0c84ebeca2a6850f5b635af941f9ce46dafc43dc",
     "guides-goal-modes.json": "a063eeb0db74f9c40a3edecc71cd08853a01dc83c7a4c0f6ef88bde5e202a86c",
@@ -77930,9 +77994,11 @@
       "Outbreak Season Three launch/reloaded have33/26 chapters and direct references; radio photos appear under faction-radio steps, native pickup aliases and the context-only Blueprint caption are visible, selected images load and jumps/Sources focus correctly. Checked progress survives reload and temporary progress is cleared. DE shield has five chapters, four preserved quote blocks and a separate attributed refill chapter. No desktop overflow at1280x720; mobile remains unverified. Evidence: output/batch19-browser-qa.json.",
       "All34 revised/new Zetsubou pages render181 chapters with181 direct references and focused chapter jumps. Selected native images load; authored plants/side routes have no quoted-source banner. Main-quest checkbox survives reload and QA progress is restored; Sources focuses guide-sources. Widow’s Wine links to the Spider-Boss prerequisite and labels its image as context. The map shows34 guides and its expanded research-gap disclosure. No overflow at1280x720; mobile remains unverified. Evidence: output/batch20-browser-qa.json.",
       "Zetsubou firearm/cipher references and Skull update render36/14/7 chapters with57 direct step references. All10 new placements load9 native WebPs;30 weapon tables and30 upgrade-name links render. Chapter/Sources focus, saved/restored checklist progress, related PaP link and36-guide map roster pass at1280x720 with no horizontal overflow. Mobile remains unverified. Evidence: output/batch21-browser-qa.json.",
-      "All27 Gorod pages render194 chapters with194 direct references and focused chapter jumps. All28 new native WebPs load; fourteen mixed-quotation pages retain credited excerpts and thirteen authored pages omit the inherited quotation banner. Sources/return focus, related routes, saved/restored checklist progress, the27-guide map and expanded research-gap note pass at1280x720 with no overflow. Mobile remains unverified. Evidence: output/batch22-browser-qa.json."
+      "All27 Gorod pages render194 chapters with194 direct references and focused chapter jumps. All28 new native WebPs load; fourteen mixed-quotation pages retain credited excerpts and thirteen authored pages omit the inherited quotation banner. Sources/return focus, related routes, saved/restored checklist progress, the27-guide map and expanded research-gap note pass at1280x720 with no overflow. Mobile remains unverified. Evidence: output/batch22-browser-qa.json.",
+      "A later actual390x844 phone check covers all27 published Gorod pages and194 chapters: final-step focus, closing menus,44px menu/reference targets and no page-level overflow. Evidence: output/batch22-mobile-browser-qa.json. This supersedes the earlier mobile-unverified note for those pages only.",
+      "Gorod’s new41-chapter firearm page renders33 quoted tables and41 direct references. All four1280px weapon photos load after desktop and390px phone jumps; all41 phone menu targets are44px tall. Saved checklist restores, Sources/return focus works, twelve related routes appear and the28-guide map exposes the revised research-gap note. The targeted Trials step8 correction retains21 chapters/references. Evidence: output/batch23-browser-qa.json."
     ],
-    "currentBatchResponsiveLimit": "The in-app browser viewport override did not change the actual 1280x720 viewport during these batches. Current recorded checks are desktop-only; a narrow-screen recheck remains unverified. Earlier recorded mobile checks retain their original scope.",
-    "importerChecks": "Complete importer passed against an isolated changed-output fixture and its unchanged rerun:866 community topics, exact regenerated bytes, preserved five-chapter DE correction and no unnecessary rewrite. Evidence: output/batch19-import-check.json. Zetsubou’s29 imported revisions also survive full regeneration with their authored quotation flags,67 new image placements and all21 JSON values unchanged;3231 imported checklist sections. Evidence: output/batch20-semantic-diff.json. Final Zetsubou Skull correction and two new references preserve all21 JSON values after full regeneration. Evidence: output/batch21-final-import-check.json and output/batch21-semantic-diff.json. Gorod’s27 durable corrections preserve all21 JSON values after full regeneration, with3368 imported checklist sections. Evidence: output/batch22-final-import-check.json and output/batch22-semantic-diff.json."
+    "currentBatchResponsiveLimit": "A fresh browser session successfully applied an actual390x844 viewport. All27 published Gorod pages passed chapter/reference counts, final-step focus, closing jump menus,44px menu/reference targets and no page-level horizontal overflow. This follow-up does not recertify earlier desktop-only batches or all image placements on a phone. Evidence: output/batch22-mobile-browser-qa.json.",
+    "importerChecks": "Complete importer passed against an isolated changed-output fixture and its unchanged rerun:866 community topics, exact regenerated bytes, preserved five-chapter DE correction and no unnecessary rewrite. Evidence: output/batch19-import-check.json. Zetsubou’s29 imported revisions also survive full regeneration with their authored quotation flags,67 new image placements and all21 JSON values unchanged;3231 imported checklist sections. Evidence: output/batch20-semantic-diff.json. Final Zetsubou Skull correction and two new references preserve all21 JSON values after full regeneration. Evidence: output/batch21-final-import-check.json and output/batch21-semantic-diff.json. Gorod’s27 durable corrections preserve all21 JSON values after full regeneration, with3368 imported checklist sections. Evidence: output/batch22-final-import-check.json and output/batch22-semantic-diff.json. The41-chapter firearm addition and one-step Trials correction preserve all21 final JSON values, with3368 imported checklist sections. Evidence: output/batch23-final-import-check.json and output/batch23-semantic-diff.json."
   }
 }
