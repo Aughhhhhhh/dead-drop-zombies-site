@@ -8,8 +8,8 @@
     "Newly authored guides may have source research without a separate recorded full audit. Guide counts and passing software checks do not establish gameplay accuracy."
   ],
   "catalogEntries": 160,
-  "runtimeGuides": 1527,
-  "guidesWithRecordedSourceReview": 897,
+  "runtimeGuides": 1528,
+  "guidesWithRecordedSourceReview": 898,
   "guidesCertifiedFullyVerified": 0,
   "batches": [
     {
@@ -367,6 +367,10 @@
     {
       "batch": "bo3-revelations-main-setup-masks-songs-upgrades-and-native-references",
       "rowsWithRecordedReview": 32
+    },
+    {
+      "batch": "bo3-revelations-firearm-acquisition-upgrades-and-native-name-references",
+      "rowsWithRecordedReview": 1
     }
   ],
   "guideReviews": [
@@ -28303,6 +28307,55 @@
           "imageReview": "All27 selected1280px native WebPs viewed and loaded at their assigned chapters on desktop and phone. Photographs illustrate selected locations; all alternatives and continuous actions are not certified.",
           "evidenceUrls": [
             "https://www.reddit.com/r/CODZombies/wiki/revelations/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-revelations-ordinary-pack-a-punch-inventory",
+      "mapId": "bo3-revelations",
+      "reviews": [
+        {
+          "batch": "bo3-revelations-firearm-acquisition-upgrades-and-native-name-references",
+          "reportedStatus": "Whole authored reference and quoted availability rows source-reviewed; four selected historical native weapon references.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "All1527 existing runtime guides are semantically unchanged.",
+            "Full frozen proposal, raw/effective baseline, whole-extra-file and source-budget guards passed.",
+            "Desktop and actual390px phone chapters, references,44px targets, four loaded images, focused jumps and closing menus passed.",
+            "Sources/return navigation, related Pack-a-Punch route, saved/restored progress and33-guide map passed.",
+            "All21 final JSON values survive full regeneration."
+          ],
+          "unverified": [
+            "The 29 ordinary rows are a historical acquisition roster, not a verified current complete pool. Later additions, Box odds and simultaneous co-op ownership are not certified.",
+            "Fourteen firearms have reported wall regions, not fourteen individually verified mounts. Exact floors and additional repeats remain unchecked. Spawn RK5/Sheiva conflict at 500/750; Pharo at 750/700. KN-44/Argus copied quick-guide labels also conflict with the longer room descriptions.",
+            "Upgrade names are attributed to original BO3 naming reports and an index. Map-loaded assets or a reported alias do not prove current Revelations availability; no console commands were used.",
+            "The 5,000 first fee and shared 2,500 re-Pack report are distinct from a per-weapon current-price, damage or alternate-ammo eligibility test. Old effect cooldowns, kill quotas and exact collection timeouts are not certified.",
+            "Ordinary maximum loaded/reserve ammunition, base and upgraded refill prices, re-Pack refill behavior and stock effects remain unverified. Partly used HUD amounts are not maximum capacities.",
+            "MR6 applies only if present in your loadout; starting-loadout/RK5 reward rules are not certified. Ray Gun is a separate wonder-weapon exception. Dedicated cards cover the other specials, equipment and melee unlocks."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 41,
+            "directReferences": 41,
+            "quotedAvailabilityTables": 30,
+            "ordinaryEntries": 29,
+            "conditionalMR6AndSeparateRayGun": true,
+            "newInlineImagePlacements": 4
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "Two new and two reused1280px native images viewed and loaded under their assigned chapters on desktop and phone. Historical equipped HUD labels do not establish continuous upgrades or current capacities.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/1lhrdls/revelations_easter_egg_in_2025/",
+            "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+            "https://www.reddit.com/r/CODZombies/comments/4kp6vp/gobblegum_perks_weapon_kits_game_features/",
+            "https://www.reddit.com/r/CODZombies/comments/54v8y1/weapon_name_list_for_command_console/",
+            "https://www.reddit.com/r/CODZombies/comments/g53wpq/best_revelations_high_round_setup/",
+            "https://www.reddit.com/r/CODZombies/comments/qd6cd2/re_pap_for_bo3_zombies/",
+            "https://www.reddit.com/r/CODZombies/comments/qgyxoj/beginner_question_bo3/",
+            "https://www.reddit.com/r/CODZombies/wiki/revelations/",
+            "https://www.youtube.com/watch?v=5yCyX5l6ZVQ",
+            "https://www.youtube.com/watch?v=Dik8U5PzlT8"
           ]
         }
       ]
@@ -78940,21 +78993,21 @@
       "mapIds": [
         "bo3-revelations"
       ],
-      "note": "Revelations’ 32 existing guides now separate the main quest, setup, masks, songs and upgrades into 228 chapters with selected location photos. The ordinary firearm upgrade roster and complete recording, cipher and scenery routes still need dedicated guides. Exact alternative part, egg, rune and Summoning Key target photos remain incomplete. Historical mask quotas, Arnie kill requirements, time-attack deadlines, God Mask pickup-room claims and current co-op, timing, ownership and reward rules conflict or still need checks; read each guide’s field notes."
+      "note": "Revelations now has 33 guides and 269 chapters, including a 41-chapter firearm acquisition and upgrade reference with selected native weapon photos. The complete recording, cipher and scenery routes still need dedicated guides. Exact alternative part, egg, rune and Summoning Key target photos remain incomplete. Historical mask quotas, Arnie kill requirements, time-attack deadlines, God Mask pickup-room claims and current co-op, timing, ownership and reward rules conflict or still need checks. The firearm roster is historical; current Box completeness, exact wall mounts, ammunition capacities and weapon-by-weapon alternate-ammo eligibility remain unverified. Read each guide’s field notes."
     }
   ],
   "dataHashFormat": "SHA-256 of UTF-8 JSON files with LF line endings, matching Git and GitHub Pages.",
   "dataSha256": {
     "catalog.json": "1d06d2aa4a42db59b97868073ddbab1d6a33b3ffb4167f2ebe71ceed09eddf2d",
     "community-corrections.json": "8cdb0fa81ccc5b6c08e02fb55b733468cae3f5637c5f5088d93c37fa4fc01683",
-    "coverage-gaps.json": "e1121caaa0282702d5d4d7203d1f9a1f6eaa8b6520dd4a8b37510b2cc1f59245",
+    "coverage-gaps.json": "1b3eac84d1552a3c8712d15fceacd1a21ab13f8d3588a6a72c5c29ea9088a869",
     "guides-aw.json": "b5a7e5fb7d83e776452f77060d0714c13f63ae8eeb6e367272c0d00a38cc3855",
     "guides-classic.json": "1bbc31b98a8b896e7b6ed88f9829ffa6f2217a23d9fef8fa24de97d0f1c2e542",
     "guides-community.json": "eb1b691b5e190d94563b5fc68bc25ba050a443246ea9e106b04725ed6a1b5096",
     "guides-completion-classic.json": "ed538054e7aeb5575de95dc78a345deb25a4111b47049bbd73fd29de06905c7a",
     "guides-completion-modern.json": "5e0086c91529a858bf011cbb6ccfe4bc469b3743f49c9175aac4e0115f460748",
     "guides-completion-modes.json": "7661fccf1e3b1fe4466e8a1f7219706fa1851d6b609c826fa045207810ad3bc5",
-    "guides-extra.json": "bc56f6e510150003f3e3f513f81934615d07aa8de9e95d7b710a2e59f54fa64e",
+    "guides-extra.json": "ee4bdb4d8a171794539fdc6e3b0c0800b3e6965d876d668867c3063c0779e457",
     "guides-goal-classic.json": "5621ad45c8750da623b7c48c4fbbb023c358c9853375d50d29e2fedba3b176dd",
     "guides-goal-modern.json": "e2e88076d73c606934b7058c0c84ebeca2a6850f5b635af941f9ce46dafc43dc",
     "guides-goal-modes.json": "a063eeb0db74f9c40a3edecc71cd08853a01dc83c7a4c0f6ef88bde5e202a86c",
@@ -79084,9 +79137,10 @@
       "All27 Gorod pages render194 chapters with194 direct references and focused chapter jumps. All28 new native WebPs load; fourteen mixed-quotation pages retain credited excerpts and thirteen authored pages omit the inherited quotation banner. Sources/return focus, related routes, saved/restored checklist progress, the27-guide map and expanded research-gap note pass at1280x720 with no overflow. Mobile remains unverified. Evidence: output/batch22-browser-qa.json.",
       "A later actual390x844 phone check covers all27 published Gorod pages and194 chapters: final-step focus, closing menus,44px menu/reference targets and no page-level overflow. Evidence: output/batch22-mobile-browser-qa.json. This supersedes the earlier mobile-unverified note for those pages only.",
       "Gorod’s new41-chapter firearm page renders33 quoted tables and41 direct references. All four1280px weapon photos load after desktop and390px phone jumps; all41 phone menu targets are44px tall. Saved checklist restores, Sources/return focus works, twelve related routes appear and the28-guide map exposes the revised research-gap note. The targeted Trials step8 correction retains21 chapters/references. Evidence: output/batch23-browser-qa.json.",
-      "Revelations expands32 inherited cards from66 to228 chapters with228 direct step references. All27 native WebPs load on desktop and390px phone; every phone menu row and step-reference target is at least44px tall. Authored pages omit the old quotation banner, final jumps focus and close menus, source/return links focus correctly, Keeper→Keeper Hat→Wolf navigation works, and the32-card map exposes its remaining research gaps. Checklist state survives reload and temporary test progress was restored. Evidence: output/batch24-browser-qa.json."
+      "Revelations expands32 inherited cards from66 to228 chapters with228 direct step references. All27 native WebPs load on desktop and390px phone; every phone menu row and step-reference target is at least44px tall. Authored pages omit the old quotation banner, final jumps focus and close menus, source/return links focus correctly, Keeper→Keeper Hat→Wolf navigation works, and the32-card map exposes its remaining research gaps. Checklist state survives reload and temporary test progress was restored. Evidence: output/batch24-browser-qa.json.",
+      "Revelations firearm reference renders41 chapters,41 direct references and30 attributed acquisition tables. All four1280px historical weapon images load on desktop and actual390x844 phone; all41 phone chapter targets are44px tall, jumps focus and close the menu, and no page-level overflow occurs. Sources/return focus, saved/restored checklist progress, the related seven-chapter Pack-a-Punch route and33-guide map pass. Evidence: output/batch25-browser-qa.json."
     ],
-    "currentBatchResponsiveLimit": "All32 revised Revelations pages passed desktop and actual390x844 phone checks:228 chapters and direct references, all27 new1280px images,44px phone chapter/reference targets, focused jumps, closing menus and no page-level overflow. Saved progress was restored after testing. This does not recertify every earlier map or constitute retail gameplay testing. Evidence: output/batch24-browser-qa.json.",
-    "importerChecks": "Complete importer passed against an isolated changed-output fixture and its unchanged rerun:866 community topics, exact regenerated bytes, preserved five-chapter DE correction and no unnecessary rewrite. Evidence: output/batch19-import-check.json. Zetsubou’s29 imported revisions also survive full regeneration with their authored quotation flags,67 new image placements and all21 JSON values unchanged;3231 imported checklist sections. Evidence: output/batch20-semantic-diff.json. Final Zetsubou Skull correction and two new references preserve all21 JSON values after full regeneration. Evidence: output/batch21-final-import-check.json and output/batch21-semantic-diff.json. Gorod’s27 durable corrections preserve all21 JSON values after full regeneration, with3368 imported checklist sections. Evidence: output/batch22-final-import-check.json and output/batch22-semantic-diff.json. The41-chapter firearm addition and one-step Trials correction preserve all21 final JSON values, with3368 imported checklist sections. Evidence: output/batch23-final-import-check.json and output/batch23-semantic-diff.json. Revelations’32 durable authored corrections preserve all21 final JSON values after full regeneration, with3530 imported checklist sections. Evidence: output/batch24-final-import-check.json and output/batch24-semantic-diff.json."
+    "currentBatchResponsiveLimit": "All32 revised Revelations pages passed desktop and actual390x844 phone checks:228 chapters and direct references, all27 new1280px images,44px phone chapter/reference targets, focused jumps, closing menus and no page-level overflow. Saved progress was restored after testing. This does not recertify every earlier map or constitute retail gameplay testing. Evidence: output/batch24-browser-qa.json. The added41-chapter firearm reference also passed desktop and actual390x844 phone checks, including all four photo placements. Evidence: output/batch25-browser-qa.json.",
+    "importerChecks": "Complete importer passed against an isolated changed-output fixture and its unchanged rerun:866 community topics, exact regenerated bytes, preserved five-chapter DE correction and no unnecessary rewrite. Evidence: output/batch19-import-check.json. Zetsubou’s29 imported revisions also survive full regeneration with their authored quotation flags,67 new image placements and all21 JSON values unchanged;3231 imported checklist sections. Evidence: output/batch20-semantic-diff.json. Final Zetsubou Skull correction and two new references preserve all21 JSON values after full regeneration. Evidence: output/batch21-final-import-check.json and output/batch21-semantic-diff.json. Gorod’s27 durable corrections preserve all21 JSON values after full regeneration, with3368 imported checklist sections. Evidence: output/batch22-final-import-check.json and output/batch22-semantic-diff.json. The41-chapter firearm addition and one-step Trials correction preserve all21 final JSON values, with3368 imported checklist sections. Evidence: output/batch23-final-import-check.json and output/batch23-semantic-diff.json. Revelations’32 durable authored corrections preserve all21 final JSON values after full regeneration, with3530 imported checklist sections. Evidence: output/batch24-final-import-check.json and output/batch24-semantic-diff.json. Revelations firearm addition preserves all21 final JSON values, with3530 imported checklist sections and all1527 existing runtime guides unchanged. Evidence: output/batch25-final-import-check.json and output/batch25-semantic-diff.json."
   }
 }

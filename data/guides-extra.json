@@ -3051,5 +3051,446 @@
         "tip": "Original Gorod footage shows MR6 equipped; starting-loadout rules remain unverified."
       }
     ]
+  },
+  {
+    "id": "bo3-revelations-ordinary-pack-a-punch-inventory",
+    "mapId": "bo3-revelations",
+    "title": "Revelations — firearm upgrades & acquisition reference",
+    "category": "weapon",
+    "difficulty": "Reference / setup",
+    "players": "Solo or co-op",
+    "summary": "Twenty-nine historically reported ordinary firearms, their BO3 upgrade names and wall, Box or trial routes. Conditional MR6 and Ray Gun entries are separate; price and current-pool limits remain visible.",
+    "requirements": [
+      "Play Black Ops III Revelations and obtain the base firearm you want to upgrade.",
+      "For the normal machine route, finish all four Corruption Engines and release Pack-a-Punch inside the trapped Apothicon.",
+      "Keep points for acquisition and the listed standard 5,000-point first upgrade; an eligible alternate-ammo re-Pack is reported at 2,500. Follow the actual prompts.",
+      "Already-upgraded trial or optional wisp-reward weapons are alternatives to the first machine purchase."
+    ],
+    "reward": "The firearm and upgrade you choose. This inventory reference has no separate quest-completion reward.",
+    "sourceQuote": "https://www.reddit.com/r/CODZombies/wiki/revelations/",
+    "sharedSource": false,
+    "sourceOmissions": [
+      "The 29 ordinary rows are a historical acquisition roster, not a verified current complete pool. Later additions, Box odds and simultaneous co-op ownership are not certified.",
+      "Fourteen firearms have reported wall regions, not fourteen individually verified mounts. Exact floors and additional repeats remain unchecked. Spawn RK5/Sheiva conflict at 500/750; Pharo at 750/700. KN-44/Argus copied quick-guide labels also conflict with the longer room descriptions.",
+      "Upgrade names are attributed to original BO3 naming reports and an index. Map-loaded assets or a reported alias do not prove current Revelations availability; no console commands were used.",
+      "The 5,000 first fee and shared 2,500 re-Pack report are distinct from a per-weapon current-price, damage or alternate-ammo eligibility test. Old effect cooldowns, kill quotas and exact collection timeouts are not certified.",
+      "Ordinary maximum loaded/reserve ammunition, base and upgraded refill prices, re-Pack refill behavior and stock effects remain unverified. Partly used HUD amounts are not maximum capacities.",
+      "MR6 applies only if present in your loadout; starting-loadout/RK5 reward rules are not certified. Ray Gun is a separate wonder-weapon exception. Dedicated cards cover the other specials, equipment and melee unlocks."
+    ],
+    "supplementNote": "The availability rows are attributed Reddit excerpts. Field notes add map routes and the separate name-report provenance. The source’s historical weapon-kit column describes customization, not an acquisition prerequisite.",
+    "relatedGuideIds": [
+      "bo3-revelations-community-revelations-map-walkthrough-power",
+      "bo3-revelations-community-revelations-map-walkthrough-pack-a-punch",
+      "bo3-revelations-community-revelations-map-walkthrough-challenges-trials",
+      "bo3-revelations-community-revelations-easter-eggs-m1927-wallbuy-weapon-swap-easter-egg",
+      "bo3-revelations-community-revelations-easter-eggs-permanent-wall-power-crate-power",
+      "bo3-revelations-community-revelations-easter-eggs-takeo-s-katana-wall-weapon",
+      "bo3-revelations-community-revelations-special-weapons-apothicon-servant",
+      "bo3-revelations-community-revelations-special-weapons-apothicon-servant-upgrade",
+      "bo3-revelations-community-revelations-special-weapons-thundergun",
+      "bo3-revelations-community-revelations-special-weapons-thundergun-upgrade",
+      "bo3-revelations-community-revelations-buildables-dragon-shield",
+      "bo3-revelations-community-revelations-special-weapons-lil-arnie-s",
+      "bo3-revelations-community-revelations-special-weapons-lil-arnie-s-upgrade",
+      "bo3-revelations-community-revelations-special-weapons-ragnarok-dg-4",
+      "bo3-revelations-community-revelations-map-walkthrough-melee-weapons"
+    ],
+    "sources": [
+      {
+        "title": "Revelations community table and layout",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/revelations/"
+      },
+      {
+        "title": "ravnos13: BO3 name report",
+        "url": "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/"
+      },
+      {
+        "title": "Terminus259: name index; map limits apply",
+        "url": "https://www.reddit.com/r/CODZombies/comments/54v8y1/weapon_name_list_for_command_console/"
+      },
+      {
+        "title": "BO3 manual-collection reports",
+        "url": "https://www.reddit.com/r/CODZombies/comments/qgyxoj/beginner_question_bo3/"
+      },
+      {
+        "title": "chrisd848: shared BO3 ammo effects",
+        "url": "https://www.reddit.com/r/CODZombies/comments/4kp6vp/gobblegum_perks_weapon_kits_game_features/"
+      },
+      {
+        "title": "BO3 re-Pack replies",
+        "url": "https://www.reddit.com/r/CODZombies/comments/qd6cd2/re_pap_for_bo3_zombies/"
+      },
+      {
+        "title": "Revelations player loadout and wall-ammo advice",
+        "url": "https://www.reddit.com/r/CODZombies/comments/g53wpq/best_revelations_high_round_setup/"
+      },
+      {
+        "title": "Newer main-route landmarks",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1lhrdls/revelations_easter_egg_in_2025/"
+      },
+      {
+        "title": "Avxry: HUD",
+        "url": "https://www.youtube.com/watch?v=5yCyX5l6ZVQ"
+      },
+      {
+        "title": "Pack A Puncher: HUD",
+        "url": "https://www.youtube.com/watch?v=Dik8U5PzlT8"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Choose a firearm and its acquisition route",
+        "body": "This reference covers the 29 ordinary firearms in the retained Revelations weapon table. Find a base gun below, obtain it through its listed wall or Mystery Box route, then use the machine instructions before the roster. The Ray Gun and an MR6 already in your loadout have separate entries at the end. Arnies, the Servant, Thundergun, DG-4, shield and melee unlocks use the related guides.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/revelations/",
+        "tip": "The table is a historical report, not a verified current Box pool. Upgrade headings come from ravnos13’s name report and Terminus259’s index; a name alone does not establish that a gun is obtainable on this map."
+      },
+      {
+        "title": "Check the wallbuy before spending",
+        "body": "Fourteen firearms below have one or more reported wall regions. Travel to that region, find the matching chalk outline and read the weapon and price shown by its purchase prompt. Hold your intended replacement gun before taking a new firearm. The source’s region list is broader than an exact wall or floor photograph; repeated wall locations may exist.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/revelations/",
+        "tip": "Spawn RK5/Sheiva prices disagree within the source: table and quick guide say 500, narrative says 750. Pharo is 750 in the table and 700 in the Origins layout. Use the live prompt."
+      },
+      {
+        "title": "Find the active Mystery Box",
+        "body": "The nine reported Box sites are behind spawn near Quick Revive; Nacht beside the trial graves; Shangri-La beside the spawn jump pad; Der Eisendrache’s Primis room beside the Keeper altar; Kino’s stage beside the ICR-1; upper Verrückt near the Electric trap; Mob’s cafeteria; central Origins near Flogger/Double Tap; and the Origins mound near Wunderfizz. Find the active Box, use its displayed purchase price and collect your desired offered gun before leaving.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/revelations/",
+        "tip": "The weapon table reports 27 of the ordinary firearms in the Box. A listed gun is not a guaranteed roll, and this review has not measured odds, total spending or the complete current pool."
+      },
+      {
+        "title": "Release Pack-a-Punch inside the Apothicon",
+        "body": "Finish the Corruption Engines at spawn, Der Eisendrache, Mob of the Dead and Verrückt. In upper Nacht, use the Tesla panel when the giant Apothicon passes, then enter its trapped mouth. Inside, shoot the yellow fleshy connections holding the machine until it falls and becomes usable. The linked Power and Pack-a-Punch guides explain the engine routes and panel cues.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/revelations/",
+        "tip": "The ordinary machine route does not require the main quest or the Servant’s five sky cubes. Those cubes unlock the Servant’s own upgrade."
+      },
+      {
+        "title": "Pay for the first upgrade, then collect it",
+        "body": "Equip the firearm you intend to upgrade and use the released machine’s purchase interaction. The Revelations layout lists a standard 5,000-point use. Wait for the gun to return, then interact again to take it out. Stay close enough to collect it safely: leaving a finished weapon in the machine can lose it. Look for its upgraded name below.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/qgyxoj/beginner_question_bo3/",
+        "tip": "The manual-collection report is a firsthand BO3 attempt on The Giant; Revelations’ machine location and standard fee come from its own map reference. No exact collection timeout is asserted.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/wiki/revelations/"
+        ]
+      },
+      {
+        "title": "Re-Pack an eligible gun for alternate ammo",
+        "body": "If Pack-a-Punch offers another upgrade for your upgraded firearm, the original BO3 report lists 2,500 points for an alternate ammo type. Use that prompt, take the returned gun and check the effect named on its HUD. Further offered re-Packs let you roll for an effect again. They are separate from the base-to-upgraded name change.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/4kp6vp/gobblegum_perks_weapon_kits_game_features/",
+        "tip": "BO3 replies describe repeated re-Packs as ammo-effect changes, rather than a ladder of numbered damage tiers. This is not a per-weapon eligibility, extra-damage or current-price test; follow the actual offer.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/qd6cd2/re_pap_for_bo3_zombies/"
+        ]
+      },
+      {
+        "title": "Recognize the five reported ammo effects",
+        "body": "Turned makes a zombie fight other zombies. Dead Wire chains electrical damage. Blast Furnace burns nearby zombies. Thunder Wall throws zombies into the air. Fire Works creates a firing copy of the weapon. These are the five effects listed in the original BO3 report. Check the HUD after collecting the gun rather than treating an upgraded name as proof that an ammo effect is installed.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/4kp6vp/gobblegum_perks_weapon_kits_game_features/",
+        "tip": "The report warns that kill, point and XP credit differ by effect. Its old damage, kill totals and cooldown figures are not presented as measured constants here, and every firearm’s compatibility remains unchecked."
+      },
+      {
+        "title": "Plan ammunition separately from an upgrade reroll",
+        "body": "For a wall gun, revisit its matching wallbuy and inspect the ammunition offer and cost before buying. A Revelations player recommends the Kino ICR-1 with wall ammunition; that is useful route advice, not a price or capacity table. A completed left-medal trial supplies Max Ammo, and the retained map guide also documents it after special rounds. The trial guide explains claiming the saved reward.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g53wpq/best_revelations_high_round_setup/",
+        "tip": "No loaded/reserve maximum, upgraded-wall refill price or universal re-Pack refill rule is established here. Used HUD ammunition is not a capacity measurement.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/wiki/revelations/"
+        ]
+      },
+      {
+        "title": "Claim a right-medal weapon as an optional shortcut",
+        "body": "Read your personal tasks at the Nacht gravestones. Complete the right medal’s assigned objective, return and interact with that medal. The retained reward pool is an already Pack-a-Punched VMP, Man-O-War or Dingo. Inspect the offered weapon before taking it and decide which held gun it will replace. A reward that is already upgraded skips the first machine purchase.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/revelations/",
+        "tip": "Use the linked Trials guide for each objective. The source does not establish a fixed offer order or usable reroll input."
+      },
+      {
+        "title": "Keep the wisp purchase reward optional",
+        "body": "The separate optional wisp delivery unlocks automatic Pack-a-Punch on subsequent wall and Box purchases for the rest of that match. Use the linked Katana and automatic-upgrade guides for its availability check, main-quest stopping point, damage failure and delivery. It is an alternative to the normal first-upgrade purchase, not a prerequisite for using this firearm reference.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/revelations/",
+        "tip": "Exact weapon exceptions, co-op coverage and already-held guns are not established by the historical reward description."
+      },
+      {
+        "title": "RK5 → Rex-Kalibur 115",
+        "body": "RK5  | Yes  | 500  | Spawn  | No  | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location(s)</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>RK5</td><td>Yes</td><td>500</td><td>Spawn</td><td>No</td><td>Yes</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/revelations/",
+        "tip": "At spawn, check the front wallbuy area before opening either island route. The quoted table says 500; the same reference’s narrative says 750, while its quick guide also says 500. Read the prompt rather than assuming the higher number. The old table does not put RK5 in the Box. Name source: ravnos13’s original BO3 name report."
+      },
+      {
+        "title": "L-CAR 9 → Flux Collider 935",
+        "body": "L-CAR 9  | Yes  | 750  | Shangri-La | Nacht Der Untoten  | No  | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location(s)</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>L-CAR 9</td><td>Yes</td><td>750</td><td>Shangri-La | Nacht Der Untoten</td><td>No</td><td>Yes</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/revelations/",
+        "tip": "The reported wall regions are Shangri-La and Nacht. Reach Shangri-La through spawn’s right-hand route, or reach Nacht through an activated quarter portal. Check the matching outline and the listed 750-point prompt. Exact mounts and floors are not supplied by the table; its reported route is wall-only. Name source: ravnos13’s original BO3 name report."
+      },
+      {
+        "title": "VMP → The Impaler",
+        "body": "VMP  | Yes  | 1300  | Der Eisendrache  | Yes  | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location(s)</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>VMP</td><td>Yes</td><td>1300</td><td>Der Eisendrache</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/revelations/",
+        "tip": "The layout places this 1,300-point wallbuy in Der Eisendrache’s Primis-statue area, reached through Shangri-La. The table also reports a Box route, and the right-medal trial can offer its upgraded form. A newer main-route report uses a VMP as an Origins footprint landmark; that additional mount and its omission from the old table remain unverified. Name source: ravnos13’s original BO3 name report.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/1lhrdls/revelations_easter_egg_in_2025/"
+        ]
+      },
+      {
+        "title": "KRM-262 → Dagon's Glare",
+        "body": "KRM-262  | Yes  | 750  | Shangri-La | Origins  | Yes  | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location(s)</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>KRM-262</td><td>Yes</td><td>750</td><td>Shangri-La | Origins</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/revelations/",
+        "tip": "The table reports 750-point wallbuys in Shangri-La and Origins. Reach those quarters from spawn’s right and left routes respectively. The shield route also uses the Origins KRM wallbuy as a landmark. The table reports a Box alternative; inspect the actual prompt at either wall. Name source: ravnos13’s original BO3 name report."
+      },
+      {
+        "title": "Kuda → Crocuta",
+        "body": "Kuda  | Yes  | 1250  | Der Eisendrache  | Yes  | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location(s)</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>Kuda</td><td>Yes</td><td>1250</td><td>Der Eisendrache</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/revelations/",
+        "tip": "Travel through Shangri-La into the Der Eisendrache Primis-statue area. Its layout lists a 1,250-point Kuda wallbuy alongside the VMP; the table also reports a Box route. The source identifies the room, but not an exact photographed wall mount. Name source: ravnos13’s original BO3 name report."
+      },
+      {
+        "title": "Vesper → Infernus",
+        "body": "Vesper  | Yes  | 1250  | Nacht Der Untoten | Origins  | Yes  | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location(s)</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>Vesper</td><td>Yes</td><td>1250</td><td>Nacht Der Untoten | Origins</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/revelations/",
+        "tip": "The reported 1,250-point walls are in Nacht and Origins. Use an activated quarter portal for Nacht or spawn’s left route for Origins. The retained table also lists it in the Box. Confirm the outline and displayed price; no exact floor or duplicate-mount census is certified. Name source: ravnos13’s original BO3 name report."
+      },
+      {
+        "title": "Sheiva → Cumulus Struggle",
+        "body": "Sheiva  | Yes  | 500  | Spawn  | Yes  | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location(s)</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>Sheiva</td><td>Yes</td><td>500</td><td>Spawn</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/revelations/",
+        "tip": "Check spawn’s front wallbuy area. The table and quick guide say 500, but the prose layout says 750. Follow the actual purchase prompt. Unlike the quoted RK5 row, the retained Sheiva row also reports Mystery Box acquisition. Name source: ravnos13’s original BO3 name report."
+      },
+      {
+        "title": "HVK-30 → High Velocity Kicker",
+        "body": "HVK-30  | Yes  | 1600  | Mob of the Dead | Verruckt  | Yes  | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location(s)</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>HVK-30</td><td>Yes</td><td>1600</td><td>Mob of the Dead | Verruckt</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/revelations/",
+        "tip": "The two reported 1,600-point wall regions are Mob of the Dead and Verrückt. Reach Mob through Origins’ mound or its Nacht portal; continue around the map to Verrückt, or use its own portal once powered. The table also reports a Box route. Exact mounts in these regions remain unchecked. Name source: ravnos13’s original BO3 name report."
+      },
+      {
+        "title": "KN-44 → Anointed Avenger",
+        "body": "KN-44  | Yes  | 1400  | Veruckt | Mob of the Dead  | Yes  | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location(s)</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>KN-44</td><td>Yes</td><td>1400</td><td>Veruckt | Mob of the Dead</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/revelations/",
+        "tip": "The table reports 1,400-point walls in Verrückt and Mob of the Dead. The longer layout describes a KN-44 on the Origins mound reached from Mob; it also names the Verrückt wall, while copied quick guides substitute Bowie Knife. Follow the longer region description and your weapon prompt, not that conflicting quick-guide label. Box acquisition is also reported. Name source: ravnos13’s original BO3 name report."
+      },
+      {
+        "title": "ICR-1 → Illuminated Deanimator",
+        "body": "ICR-1  | Yes  | 1500  | Kino Der Toten  | Yes  | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location(s)</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>ICR-1</td><td>Yes</td><td>1500</td><td>Kino Der Toten</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/revelations/",
+        "tip": "Go to Kino’s stage: the written Box-site description places a Box station beside the ICR-1 wallbuy there. The table lists the gun at 1,500 points and also in the Box. This is the wall-ammunition location recommended by the separate Revelations player reply; exact refill cost remains unverified. Name source: ravnos13’s original BO3 name report."
+      },
+      {
+        "title": "Argus → Ancient Messenger",
+        "body": "Argus  | Yes  | 1100  | Mob of the Dead  | Yes  | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location(s)</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>Argus</td><td>Yes</td><td>1100</td><td>Mob of the Dead</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/revelations/",
+        "tip": "The Mob of the Dead layout names an Argus wallbuy at 1,100 points in that quarter; travel through Origins’ mound or Mob’s powered Nacht portal. Its abbreviated quick guide incorrectly substitutes Bowie Knife. The weapon table also reports a Box route, but no exact wall or floor image is established here. Name source: ravnos13’s original BO3 name report."
+      },
+      {
+        "title": "M8A7 → The Unspeakable",
+        "body": "M8A7  | Yes  | 1500  | Der Eisendrache  | Yes  | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location(s)</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>M8A7</td><td>Yes</td><td>1500</td><td>Der Eisendrache</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/revelations/",
+        "tip": "Reach the main Der Eisendrache pyramid/Corruption Engine quarter from the Primis-statue side, Kino or its Nacht portal. The layout lists the M8A7 wallbuy there at 1,500 points, and the table reports a Box alternative. Read the actual outline prompt before purchasing. Name source: ravnos13’s original BO3 name report."
+      },
+      {
+        "title": "Pharo → Whispering Regurgitator",
+        "body": "Pharo  | Yes  | 750  | Origins  | Yes  | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location(s)</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>Pharo</td><td>Yes</td><td>750</td><td>Origins</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/revelations/",
+        "tip": "Search central Origins, where the Wunderfizz description uses the Pharo wallbuy as a landmark. The weapon table says 750, while the Origins narrative and quick guide say 700. Read the current price. A Box alternative is also reported. Name source: ravnos13’s original BO3 name report."
+      },
+      {
+        "title": "M1927 → Untouchable",
+        "body": "M1927  | Yes  | 1750  | Der Eisendrache Pyramid  | Yes  | No",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location(s)</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>M1927</td><td>Yes</td><td>1750</td><td>Der Eisendrache Pyramid</td><td>Yes</td><td>No</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/revelations/",
+        "tip": "Complete the linked five-inscription pink-chalk route to unlock this wallbuy in the Der Eisendrache pyramid room, then use its 1,750-point purchase prompt. The table also reports a Box route. Its BO3 upgraded name is Untouchable; do not transfer another game’s Speakeasy name. The Nacht weapon table is a separate reward of the chalk route, not a second Pack-a-Punch machine. Name source: Terminus259’s original BO3 name index.",
+        "images": [
+          {
+            "src": "./assets/batch26-revelations-wallrun-exterior.webp",
+            "alt": "Upgraded submachine gun",
+            "caption": "Historical display with alternate ammunition.",
+            "credit": "Doughnuts",
+            "source": "https://www.youtube.com/watch?v=8dCOjcc9OC4&t=31.39136s",
+            "width": 1280,
+            "height": 720
+          }
+        ]
+      },
+      {
+        "title": "Weevil → Barrage",
+        "body": "Weevil  | No  | -  | -  | Yes  | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location(s)</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>Weevil</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/revelations/",
+        "tip": "The retained Revelations table reports this gun in the Mystery Box and gives no wallbuy. Find the active Box at one of the nine reported sites above, purchase a roll and take the gun if offered; no particular number of rolls is guaranteed. Name source: ravnos13’s original BO3 name report."
+      },
+      {
+        "title": "BRM → Blight Oblivion",
+        "body": "BRM  | No  | -  | -  | Yes  | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location(s)</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>BRM</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/revelations/",
+        "tip": "The retained Revelations table reports this gun in the Mystery Box and gives no wallbuy. Find the active Box at one of the nine reported sites above, purchase a roll and take the gun if offered; no particular number of rolls is guaranteed. Name source: ravnos13’s original BO3 name report."
+      },
+      {
+        "title": "Dingo → Dire Wolf",
+        "body": "Dingo  | No  | -  | -  | Yes  | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location(s)</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>Dingo</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/revelations/",
+        "tip": "The retained Revelations table reports this gun in the Mystery Box and gives no wallbuy. Find the active Box at one of the nine reported sites above, purchase a roll and take the gun if offered; no particular number of rolls is guaranteed. The right-medal trial can instead offer its already-upgraded form. Name source: ravnos13’s original BO3 name report."
+      },
+      {
+        "title": "48 Dredge → Trapezohedron Shard",
+        "body": "48 Dredge  | No  | -  | -  | Yes  | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location(s)</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>48 Dredge</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/revelations/",
+        "tip": "The retained Revelations table reports this gun in the Mystery Box and gives no wallbuy. Find the active Box at one of the nine reported sites above, purchase a roll and take the gun if offered; no particular number of rolls is guaranteed. Name source: ravnos13’s original BO3 name report."
+      },
+      {
+        "title": "Gorgon → Athena's Spear",
+        "body": "Gorgon  | No  | -  | -  | Yes  | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location(s)</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>Gorgon</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/revelations/",
+        "tip": "The retained Revelations table reports this gun in the Mystery Box and gives no wallbuy. Find the active Box at one of the nine reported sites above, purchase a roll and take the gun if offered; no particular number of rolls is guaranteed. Name source: ravnos13’s original BO3 name report."
+      },
+      {
+        "title": "Locus → Arrhythmic Dirge",
+        "body": "Locus  | No  | -  | -  | Yes  | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location(s)</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>Locus</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/revelations/",
+        "tip": "The retained Revelations table reports this gun in the Mystery Box and gives no wallbuy. Find the active Box at one of the nine reported sites above, purchase a roll and take the gun if offered; no particular number of rolls is guaranteed. Name source: Terminus259’s original BO3 name index."
+      },
+      {
+        "title": "Drakon → Bahamut",
+        "body": "Drakon  | No  | -  | -  | Yes  | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location(s)</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>Drakon</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/revelations/",
+        "tip": "The retained Revelations table reports this gun in the Mystery Box and gives no wallbuy. Find the active Box at one of the nine reported sites above, purchase a roll and take the gun if offered; no particular number of rolls is guaranteed. Name source: ravnos13’s original BO3 name report."
+      },
+      {
+        "title": "SVG-100 → Ikken Hissatsu",
+        "body": "SVG-100  | No  | -  | -  | Yes  | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location(s)</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>SVG-100</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/revelations/",
+        "tip": "The retained Revelations table reports this gun in the Mystery Box and gives no wallbuy. Find the active Box at one of the nine reported sites above, purchase a roll and take the gun if offered; no particular number of rolls is guaranteed. Name source: ravnos13’s original BO3 name report."
+      },
+      {
+        "title": "Man-O-War → Dread Armada",
+        "body": "Man-O-War  | No  | -  | -  | Yes  | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location(s)</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>Man-O-War</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/revelations/",
+        "tip": "The retained Revelations table reports this gun in the Mystery Box and gives no wallbuy. Find the active Box at one of the nine reported sites above, purchase a roll and take the gun if offered; no particular number of rolls is guaranteed. The right-medal trial can instead offer its already-upgraded form. Name source: ravnos13’s original BO3 name report."
+      },
+      {
+        "title": "205 Brecci → Stellar Screech",
+        "body": "205 Brecci  | No  | -  | -  | Yes  | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location(s)</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>205 Brecci</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/revelations/",
+        "tip": "The retained Revelations table reports this gun in the Mystery Box and gives no wallbuy. Find the active Box at one of the nine reported sites above, purchase a roll and take the gun if offered; no particular number of rolls is guaranteed. Name source: ravnos13’s original BO3 name report."
+      },
+      {
+        "title": "Haymaker 12 → Shoeshining 100",
+        "body": "Haymaker 12  | No  | -  | -  | Yes  | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location(s)</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>Haymaker 12</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/revelations/",
+        "tip": "The retained Revelations table reports this gun in the Mystery Box and gives no wallbuy. Find the active Box at one of the nine reported sites above, purchase a roll and take the gun if offered; no particular number of rolls is guaranteed. Name source: ravnos13’s original BO3 name report."
+      },
+      {
+        "title": "XM-53 → Heliacal Incandescence",
+        "body": "XM-53  | No  | -  | -  | Yes  | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location(s)</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>XM-53</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/revelations/",
+        "tip": "The retained Revelations table reports this gun in the Mystery Box and gives no wallbuy. Find the active Box at one of the nine reported sites above, purchase a roll and take the gun if offered; no particular number of rolls is guaranteed. Name source: ravnos13’s original BO3 name report."
+      },
+      {
+        "title": "Banshii → Slachdan of the Cailleach",
+        "body": "Banshii  | No  | -  | -  | Yes  | No",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location(s)</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>Banshii</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>No</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/revelations/",
+        "tip": "The retained Revelations table reports this gun in the Mystery Box and gives no wallbuy. Find the active Box at one of the nine reported sites above, purchase a roll and take the gun if offered; no particular number of rolls is guaranteed. Name source: Terminus259’s original BO3 name index. Historical footage shows this upgraded name with Dead Wire. That confirms a filmed equipped state; current full eligibility and an uninterrupted upgrade remain untested.",
+        "corroboratingSources": [
+          "https://www.youtube.com/watch?v=Dik8U5PzlT8"
+        ],
+        "images": [
+          {
+            "src": "./assets/batch27-revelations-banshii-dead-wire-099.webp",
+            "alt": "Upgraded shotgun",
+            "caption": "Historical display with an alternate ammo effect.",
+            "credit": "Pack A Puncher",
+            "source": "https://www.youtube.com/watch?v=Dik8U5PzlT8&t=99.027266s",
+            "width": 1280,
+            "height": 720
+          }
+        ]
+      },
+      {
+        "title": "Rift E9 → Elder Invader",
+        "body": "Rift E9  | No  | -  | -  | Yes  | No",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location(s)</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>Rift E9</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>No</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/revelations/",
+        "tip": "The retained Revelations table reports this gun in the Mystery Box and gives no wallbuy. Find the active Box at one of the nine reported sites above, purchase a roll and take the gun if offered; no particular number of rolls is guaranteed. Name source: Terminus259’s original BO3 name index. A Revelations player also reports having Elder Invader equipped; that is not a continuous base-to-upgrade test. The creator reports re-Packing for ammo effects. The selected native frame confirms the upgraded label; no uninterrupted upgrade or AAT transaction was reviewed.",
+        "corroboratingSources": [
+          "https://www.youtube.com/watch?v=5yCyX5l6ZVQ"
+        ],
+        "images": [
+          {
+            "src": "./assets/batch27-revelations-rift-elder-invader-010.webp",
+            "alt": "Upgraded pistol",
+            "caption": "Historical name display; partly used ammunition.",
+            "credit": "Avxry",
+            "source": "https://www.youtube.com/watch?v=5yCyX5l6ZVQ&t=9.521666s",
+            "width": 1280,
+            "height": 720
+          }
+        ]
+      },
+      {
+        "title": "Peacekeeper Mark 2 → Writ of Shamash",
+        "body": "Peacekeeper Mark 2  | No  | -  | -  | Yes  | No",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location(s)</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>Peacekeeper Mark 2</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>No</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/revelations/",
+        "tip": "The retained Revelations table reports this gun in the Mystery Box and gives no wallbuy. Find the active Box at one of the nine reported sites above, purchase a roll and take the gun if offered; no particular number of rolls is guaranteed. Name source: Terminus259’s original BO3 name index."
+      },
+      {
+        "title": "MR6 loadout exception → Death & Taxes",
+        "body": "If an MR6 is already in your loadout, take it through the normal first Pack-a-Punch purchase and collection route for Death & Taxes. ravnos13 explicitly reports that BO3 name pair. The MR6 is outside the retained 38-row Revelations availability table, so it is separate from the 29 ordinary entries above.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+        "tip": "This conditional entry does not certify starting-loadout, RK5 account-reward or current platform rules.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/54v8y1/weapon_name_list_for_command_console/"
+        ]
+      },
+      {
+        "title": "Ray Gun exception → Porter's X2 Ray Gun",
+        "body": "Raygun  | No  | -  | -  | Yes  | No",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location(s)</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>Raygun</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>No</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/revelations/",
+        "tip": "The original Ray Gun is a separately counted wonder weapon in the retained Box table. ravnos13 reports its first Pack-a-Punch name as Porter’s X2 Ray Gun; use the ordinary machine purchase and collection route if offered for your gun. No maximum ammo, current ownership limit or alternate-ammo compatibility is certified. This is separate from the linked Servant and Thundergun upgrade quests.",
+        "images": [
+          {
+            "src": "./assets/batch26-revelations-fury-display.webp",
+            "alt": "Upgraded wonder weapon",
+            "caption": "Instrumented footage; name reference with used ammunition.",
+            "credit": "MasterPotato",
+            "source": "https://www.youtube.com/watch?v=c1kz2zD9Y1I&t=150.215s",
+            "width": 1280,
+            "height": 720
+          }
+        ]
+      }
+    ],
+    "checked": "2026-10-19"
   }
 ]
