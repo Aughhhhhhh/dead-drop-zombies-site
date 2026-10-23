@@ -61866,5 +61866,1144 @@
         ]
       }
     }
+  },
+  "the-final-reich-map-features-traps": {
+    "mapOverrides": {
+      "wwii-the-final-reich": {
+        "title": "All five traps",
+        "category": "side",
+        "difficulty": "Easy",
+        "players": "Solo or co-op",
+        "summary": "Locations, prices and the traps used by the Tesla batteries.",
+        "requirements": [
+          "Call of Duty: WWII — The Final Reich.",
+          "Open the area containing the required trap and keep enough Jolts for its activation."
+        ],
+        "reward": "Map traps and the correct trap choice for each battery.",
+        "steps": [
+          {
+            "title": "Laboratory electric trap — 1,000",
+            "body": "Use the electric trap in the Laboratories for 1,000 Jolts. It shocks enemies in its field. Hurricane’s battery specifically needs Wüstlings killed here while the trap is active.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "Sewers saw trap — 1,000",
+            "body": "Use the Sewers saw trap for 1,000 Jolts. Reaper’s battery needs Bomber pairs killed by these saws close to its charger, rather than distant kills with your gun.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "Village well trap — 500",
+            "body": "The Village Square well/Pilot Light trap costs 500 Jolts and produces a fiery blast around the well. Its initial opening of the underground route is part of the power guide.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "Morgue spike trap — 1,000",
+            "body": "The Morgue floor-spike trap costs 1,000 Jolts. Bloodthirst’s charger is beside it and needs Pest kills made by the activated spikes.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "Courtyard S-Mines — 1,000",
+            "body": "The Courtyard S-Mine trap costs 1,000 Jolts. Midnight needs grouped ordinary zombies killed together by this trap near its charger. The source does not supply a measured recharge period for every trap.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "r/CODZombies — The Final Reich map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "wwii-the-final-reich-community-the-final-reich-tesla-gun-bloodthirst",
+          "wwii-the-final-reich-community-the-final-reich-tesla-gun-reaper",
+          "wwii-the-final-reich-community-the-final-reich-tesla-gun-hurricane",
+          "wwii-the-final-reich-community-the-final-reich-tesla-gun-midnight"
+        ],
+        "supplementNote": ""
+      }
+    }
+  },
+  "the-final-reich-map-features-opening-the-bunker": {
+    "mapOverrides": {
+      "wwii-the-final-reich": {
+        "title": "Power, Bunker and Salt Mine",
+        "category": "side",
+        "difficulty": "Easy",
+        "players": "Solo or co-op",
+        "summary": "All three valves, the Tunnel generator and the two timed power switches.",
+        "requirements": [
+          "Call of Duty: WWII — The Final Reich.",
+          "Budget Jolts for doors: the powered Bunker costs 1,250 and the Salt Mine door costs 1,500."
+        ],
+        "reward": "Access to the Command Room, both underground branches and the Emperor’s Chamber.",
+        "steps": [
+          {
+            "title": "Village valve beside Armor",
+            "body": "In Village Square, find the pressure valve to the left of the Armor station. Hold Interact on the valve until its gauge reaches 60. Complete the full turn before moving to another valve.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "Village valve beside the Bunker",
+            "body": "Find the second pressure valve left of the Bunker entrance in Village Square. Hold Interact until this gauge also reaches 60. This is a separate valve from the one by Armor.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "Riverside valve",
+            "body": "Open your route into Riverside and turn its pressure valve to 60 with Interact. All three valves must be completed before the central Pilot Light can open the underground route.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "Fire the Pilot Light and clear the hole",
+            "body": "Return to the device in front of the Bunker in Village Square and interact with it. The explosion opens the hole and releases Pests. Kill the attacking Pests, then drop into the newly opened Tunnel.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "Start the Tunnel generator",
+            "body": "Follow the Tunnel to its generator and interact with it. Open the gate leading back out. With this power running, the Bunker door can be purchased for 1,250 Jolts.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "Redirect both switches to the Salt Mine",
+            "body": "Open the Bunker and routes into the Laboratory Locker Room and Morgue/Mortuary. Activate their two power switches in quick succession, then buy the Salt Mine door in the Command Room for 1,500 Jolts. Clear your route before starting the timed switch sequence.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/",
+            "tip": "The source establishes a time limit, but this guide has not measured the deadline or every switch-reset condition."
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "r/CODZombies — The Final Reich map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "wwii-the-final-reich-base-tesla-gun",
+          "wwii-the-final-reich-community-the-final-reich-map-features-pack-a-punch-ubersprengen",
+          "wwii-the-final-reich-community-the-final-reich-easter-eggs-quests-casual-path-quest"
+        ],
+        "supplementNote": ""
+      }
+    }
+  },
+  "the-final-reich-map-features-armor": {
+    "mapOverrides": {
+      "wwii-the-final-reich": {
+        "title": "Armor stations",
+        "category": "side",
+        "difficulty": "Easy",
+        "players": "Solo or co-op",
+        "summary": "Where to buy Armor and when to replace its protective charges.",
+        "requirements": [
+          "Call of Duty: WWII — The Final Reich.",
+          "Keep Jolts for Armor as well as quest doors."
+        ],
+        "reward": "Replaceable protection against otherwise lethal damage.",
+        "steps": [
+          {
+            "title": "Buy the first Armor — 500",
+            "body": "The first Armor purchase costs 500 Jolts. The map guide describes three protective saves before it is depleted: monitor the Armor indicators and replace it after those charges are used. This is protection from going down, rather than three automatic revives after actual downs.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "Find a replacement station",
+            "body": "Armor stations are in Village Square, the Laboratory Locker Room, the Morgue, the Salt Mines near the FG 42 wall buy, and below the Pub. Repeated purchases become more expensive. The original launch discussion lists a 10,000-Jolt cap; the complete price ladder has not been checked here.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/7abi63/"
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "r/CODZombies — The Final Reich map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "wwii-the-final-reich-community-the-final-reich-easter-eggs-quests-casual-path-quest",
+          "wwii-the-final-reich-community-the-final-reich-easter-eggs-quests-hardcore-quest"
+        ],
+        "supplementNote": ""
+      }
+    }
+  },
+  "the-final-reich-map-features-pack-a-punch-ubersprengen": {
+    "mapOverrides": {
+      "wwii-the-final-reich": {
+        "title": "Ubersprengen: Pack-a-Punch",
+        "category": "weapon",
+        "difficulty": "Easy",
+        "players": "Solo or co-op",
+        "summary": "Ride all three pipes, press their landing buttons and upgrade ordinary weapons.",
+        "requirements": [
+          "Call of Duty: WWII — The Final Reich.",
+          "Open the underground routes and budget 750 Jolts for three pipe rides, plus 5,000 for an upgrade."
+        ],
+        "reward": "Permanent access to the upgrade machine for the match.",
+        "steps": [
+          {
+            "title": "Press the Sewers cage button",
+            "body": "Find the large red button in front of the steel cage around the Ubersprengen in the Sewers. Interact with it to begin raising the cage and enabling the three pipe routes.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "Take the Tower pipe",
+            "body": "In the Tower area, locate the sewer pipe left of the Waffe 28 wall buy. Pay 250 Jolts to ride it. In the landing enclosure in the Sewers, press the red button before leaving; riding the pipe alone does not finish that route.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "Take the Command Room pipe",
+            "body": "Use the Command Room sewer pipe, described by the source as right of the M3/Grease Gun wall buy. Pay 250 Jolts, then press the red button in that landing enclosure in the Sewers.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "Take the Laboratory pipe",
+            "body": "Use the pipe beside the Laboratory electric trap for 250 Jolts. Press its red landing-room button. The initial cage button plus all three pipe buttons fully lift the cage.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "Upgrade a gun or refill its ammunition",
+            "body": "With the intended non-special weapon equipped, use the opened Ubersprengen and pay 5,000 Jolts for its upgrade. The source lists 4,000 Jolts for ammunition for an upgraded weapon at the machine. Retrieve the weapon and check its new name; this is separate from the four Tesla battery quests.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/",
+            "tip": "The weapon inventory lists acquisition routes and upgrade names; it does not claim every current attachment, damage value or ammunition total has been retested."
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "r/CODZombies — The Final Reich map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "wwii-the-final-reich-community-the-final-reich-map-features-opening-the-bunker",
+          "wwii-the-final-reich-weapon-acquisition-and-upgrade-names",
+          "wwii-the-final-reich-community-the-final-reich-easter-eggs-quests-casual-path-quest"
+        ],
+        "supplementNote": ""
+      }
+    }
+  },
+  "the-final-reich-map-features-resupply-crate": {
+    "mapOverrides": {
+      "wwii-the-final-reich": {
+        "title": "Resupply Crate after respawning",
+        "category": "side",
+        "difficulty": "Easy",
+        "players": "Co-op respawn",
+        "summary": "Recover lost weapons and equipment in a co-op match.",
+        "requirements": [
+          "Call of Duty: WWII — The Final Reich.",
+          "A co-op player has bled out and returned to the match."
+        ],
+        "reward": "A 500-Jolt recovery purchase for the returning player.",
+        "steps": [
+          {
+            "title": "Return after bleeding out",
+            "body": "This crate is for a co-op player who died and then respawned. It is separate from a teammate reviving you while you are still down.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "Buy back equipment in Village Entrance",
+            "body": "Go to the Resupply Crate in Village Entrance after returning. Pay 500 Jolts to recover the lost weapons and equipment described by the source. The source does not specify every upgraded-weapon, attachment or consumable edge case.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "r/CODZombies — The Final Reich map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "wwii-the-final-reich-community-the-final-reich-map-features-armor"
+        ],
+        "supplementNote": ""
+      }
+    }
+  },
+  "the-final-reich-tesla-gun-bloodthirst": {
+    "mapOverrides": {
+      "wwii-the-final-reich": {
+        "title": "Tesla Gun: Bloodthirst",
+        "category": "weapon",
+        "difficulty": "Advanced",
+        "players": "Solo or co-op",
+        "summary": "Battery opening, trap charging and the Bloodthirst forge defense.",
+        "requirements": [
+          "Call of Duty: WWII — The Final Reich.",
+          "Build the base Tesla Gun.",
+          "Finish both Tower lightning-rod defenses before the final component defense."
+        ],
+        "reward": "Bloodthirst, one of the four variants used for the hardcore chandelier.",
+        "steps": [
+          {
+            "title": "Start the Riverside lamp spark",
+            "body": "Find the sparking streetlamp in Riverside and shoot it with the Tesla Gun. Switch to an ordinary bullet weapon and shoot that same starting lamp to begin the travelling spark sequence.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "Follow the lights into the Morgue",
+            "body": "Shoot the active spark as it passes from lamp to lamp, following its route into the Morgue. After the final light, collect the battery dropped at the spike trap.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/",
+            "tip": "The written source gives the moving-spark rule but no complete numbered lamp census or measured reset window. A photo-by-photo route still needs verification."
+          },
+          {
+            "title": "Charge with Pest kills on the spikes",
+            "body": "Put the battery in its charger beside the Morgue spike trap. Gather Pests at the battery and activate the 1,000-Jolt spikes so the trap makes the kills. Watch for electricity entering the battery and continue until it can be picked up.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/",
+            "tip": "The wiki describes three groups of 5–10 Pests. Later firsthand routes use Pest waves and possible extra Pests from pipe buttons; these are planning reports, not a guaranteed count or spawn."
+          },
+          {
+            "title": "Finish both lightning-rod defenses",
+            "body": "Advance the casual main route through the central Tower lever defense and then the two front-pillar lever defenses. The battery can be prepared earlier, but the finishing upgrade stage requires this quest progress. Leave the final hilt activation alone if you are continuing to hardcore.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "Insert the battery and defend",
+            "body": "Carry the charged battery to the Morgue generator where a base Tesla component was made. Place it in the upgrade compartment and interact again to confirm the defense. Protect the machine until the new component is ready.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/",
+            "tip": "Left bay."
+          },
+          {
+            "title": "Forge Bloodthirst",
+            "body": "Take the finished component, return to the Command Room Tesla assembly station and use it to produce Bloodthirst. Pick up the completed variant. This is the battery upgrade route, not the ordinary 5,000-Jolt Ubersprengen purchase.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "r/CODZombies — The Final Reich map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "Hub",
+            "url": "https://www.codzombieguides.com/the-final-reich"
+          },
+          {
+            "title": "r/WWII — firsthand route planning",
+            "url": "https://www.reddit.com/r/WWII/comments/cl48k4/"
+          },
+          {
+            "title": "r/CODZombies — later solo route report",
+            "url": "https://www.reddit.com/r/CODZombies/comments/1nqq01c/"
+          },
+          {
+            "title": "Demonstration",
+            "url": "https://www.youtube.com/watch?v=Ar016evOpe8"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "wwii-the-final-reich-base-tesla-gun",
+          "wwii-the-final-reich-community-the-final-reich-easter-eggs-quests-casual-path-quest",
+          "wwii-the-final-reich-community-the-final-reich-easter-eggs-quests-hardcore-quest",
+          "wwii-the-final-reich-community-the-final-reich-map-features-traps"
+        ],
+        "supplementNote": ""
+      }
+    }
+  },
+  "the-final-reich-tesla-gun-reaper": {
+    "mapOverrides": {
+      "wwii-the-final-reich": {
+        "title": "Tesla Gun: Reaper",
+        "category": "weapon",
+        "difficulty": "Advanced",
+        "players": "Solo or co-op",
+        "summary": "Battery opening, trap charging and the Reaper forge defense.",
+        "requirements": [
+          "Call of Duty: WWII — The Final Reich.",
+          "Build the base Tesla Gun.",
+          "Finish both Tower lightning-rod defenses before the final component defense."
+        ],
+        "reward": "Reaper, one of the four variants used for the hardcore chandelier.",
+        "steps": [
+          {
+            "title": "Break the Sewers wall panel",
+            "body": "In the Sewers near the saw-trap charging area, find the metal wall panel. Lure a Wüstling into a charge that strikes it. When the panel breaks, pick up the revealed battery.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "Trap Bomber pairs beside the charger",
+            "body": "Insert the battery in the charger near the broken panel. Bring two Bombers close to it and activate the 1,000-Jolt saw trap. The trap must make the kills near the charger. Repeat with another pair and watch the electricity entering the battery; keep charging until the battery can be picked up.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/",
+            "tip": "The wiki counts two pairs; the creator counts three. Pickup confirms readiness."
+          },
+          {
+            "title": "Finish both lightning-rod defenses",
+            "body": "Advance the casual main route through the central Tower lever defense and then the two front-pillar lever defenses. The battery can be prepared earlier, but the finishing upgrade stage requires this quest progress. Leave the final hilt activation alone if you are continuing to hardcore.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "Insert the battery and defend",
+            "body": "Carry the charged battery to the Morgue generator where a base Tesla component was made. Place it in the upgrade compartment and interact again to confirm the defense. Protect the machine until the new component is ready.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/",
+            "tip": "Right bay."
+          },
+          {
+            "title": "Forge Reaper",
+            "body": "Take the finished component, return to the Command Room Tesla assembly station and use it to produce Reaper. Pick up the completed variant. This is the battery upgrade route, not the ordinary 5,000-Jolt Ubersprengen purchase.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "r/CODZombies — The Final Reich map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "Hub",
+            "url": "https://www.codzombieguides.com/the-final-reich"
+          },
+          {
+            "title": "r/WWII — firsthand route planning",
+            "url": "https://www.reddit.com/r/WWII/comments/cl48k4/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "wwii-the-final-reich-base-tesla-gun",
+          "wwii-the-final-reich-community-the-final-reich-easter-eggs-quests-casual-path-quest",
+          "wwii-the-final-reich-community-the-final-reich-easter-eggs-quests-hardcore-quest",
+          "wwii-the-final-reich-community-the-final-reich-map-features-traps"
+        ],
+        "supplementNote": ""
+      }
+    }
+  },
+  "the-final-reich-tesla-gun-hurricane": {
+    "mapOverrides": {
+      "wwii-the-final-reich": {
+        "title": "Tesla Gun: Hurricane",
+        "category": "weapon",
+        "difficulty": "Advanced",
+        "players": "Solo or co-op",
+        "summary": "Battery opening, trap charging and the Hurricane forge defense.",
+        "requirements": [
+          "Call of Duty: WWII — The Final Reich.",
+          "Build the base Tesla Gun.",
+          "Finish both Tower lightning-rod defenses before the final component defense."
+        ],
+        "reward": "Hurricane, one of the four variants used for the hardcore chandelier.",
+        "steps": [
+          {
+            "title": "Use a Bomber on the Laboratory panel",
+            "body": "At the staircase left of Schildblitz in the Laboratory, locate the metal wall panel partway along the stairs. Have a Bomber’s explosion occur beside this panel and collect the battery it releases. A launch player reports that the detached bomb also works, so the carrier need not be sacrificed.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/7abi63/"
+          },
+          {
+            "title": "Kill Wüstling pairs in the electric trap",
+            "body": "Put the battery in the holder in the Laboratory electric-trap corridor. Gather two Wüstlings beside the battery, pay 1,000 Jolts and let the active trap kill both before it switches off. Repeat with a second pair: the written sources call for four Wüstlings in total. Watch for the charging effect and collect the battery when ready.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "Finish both lightning-rod defenses",
+            "body": "Advance the casual main route through the central Tower lever defense and then the two front-pillar lever defenses. The battery can be prepared earlier, but the finishing upgrade stage requires this quest progress. Leave the final hilt activation alone if you are continuing to hardcore.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "Insert the battery and defend",
+            "body": "Carry the charged battery to the Laboratory generator where a base Tesla component was made. Place it in the upgrade compartment and interact again to confirm the defense. Protect the machine until the new component is ready.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/",
+            "tip": "Right bay."
+          },
+          {
+            "title": "Forge Hurricane",
+            "body": "Take the finished component, return to the Command Room Tesla assembly station and use it to produce Hurricane. Pick up the completed variant. This is the battery upgrade route, not the ordinary 5,000-Jolt Ubersprengen purchase.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "r/CODZombies — The Final Reich map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "Hub",
+            "url": "https://www.codzombieguides.com/the-final-reich"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "wwii-the-final-reich-base-tesla-gun",
+          "wwii-the-final-reich-community-the-final-reich-easter-eggs-quests-casual-path-quest",
+          "wwii-the-final-reich-community-the-final-reich-easter-eggs-quests-hardcore-quest",
+          "wwii-the-final-reich-community-the-final-reich-map-features-traps"
+        ],
+        "supplementNote": ""
+      }
+    }
+  },
+  "the-final-reich-tesla-gun-midnight": {
+    "mapOverrides": {
+      "wwii-the-final-reich": {
+        "title": "Tesla Gun: Midnight",
+        "category": "weapon",
+        "difficulty": "Advanced",
+        "players": "Solo or co-op",
+        "summary": "Battery opening, trap charging and the Midnight forge defense.",
+        "requirements": [
+          "Call of Duty: WWII — The Final Reich.",
+          "Build the base Tesla Gun.",
+          "Finish both Tower lightning-rod defenses before the final component defense.",
+          "A Brenner head."
+        ],
+        "reward": "Midnight, one of the four variants used for the hardcore chandelier.",
+        "steps": [
+          {
+            "title": "Scan the Courtyard statue",
+            "body": "In the Courtyard, scan the statue to make it break, then shoot the exposed battery with the Tesla Gun so it falls within reach. Pick it up.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/",
+            "tip": "Scan with a Brenner head."
+          },
+          {
+            "title": "Charge with grouped S-Mine kills",
+            "body": "Put the battery in the charger to the right of the statue. Bring a group of ordinary zombies close to it and activate the 1,000-Jolt Courtyard S-Mine trap so the group dies together. The wiki describes two grouped activations; continue to the visible electrical charge and pickup-ready state.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/",
+            "tip": "The exact minimum group size, timing tolerance and failed-group reset behavior remain unmeasured."
+          },
+          {
+            "title": "Finish both lightning-rod defenses",
+            "body": "Advance the casual main route through the central Tower lever defense and then the two front-pillar lever defenses. The battery can be prepared earlier, but the finishing upgrade stage requires this quest progress. Leave the final hilt activation alone if you are continuing to hardcore.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "Insert the battery and defend",
+            "body": "Carry the charged battery to the Laboratory generator where a base Tesla component was made. Place it in the upgrade compartment and interact again to confirm the defense. Protect the machine until the new component is ready.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/",
+            "tip": "Left bay."
+          },
+          {
+            "title": "Forge Midnight",
+            "body": "Take the finished component, return to the Command Room Tesla assembly station and use it to produce Midnight. Pick up the completed variant. This is the battery upgrade route, not the ordinary 5,000-Jolt Ubersprengen purchase.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "r/CODZombies — The Final Reich map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "Hub",
+            "url": "https://www.codzombieguides.com/the-final-reich"
+          },
+          {
+            "title": "r/WWII — firsthand route planning",
+            "url": "https://www.reddit.com/r/WWII/comments/cl48k4/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "wwii-the-final-reich-base-tesla-gun",
+          "wwii-the-final-reich-community-the-final-reich-easter-eggs-quests-casual-path-quest",
+          "wwii-the-final-reich-community-the-final-reich-easter-eggs-quests-hardcore-quest",
+          "wwii-the-final-reich-community-the-final-reich-map-features-traps"
+        ],
+        "supplementNote": ""
+      }
+    }
+  },
+  "the-final-reich-game-features-character-unlock-challenges": {
+    "mapOverrides": {
+      "wwii-the-final-reich": {
+        "title": "Hidden character challenge sets",
+        "category": "side",
+        "difficulty": "Advanced",
+        "players": "Solo or co-op",
+        "summary": "All six documented sets, including the separate Prologue conditions.",
+        "requirements": [
+          "Call of Duty: WWII — The Final Reich.",
+          "Challenges can be completed across separate matches; finish the full set for the character.",
+          "Read all restrictions before starting a challenge run."
+        ],
+        "reward": "Hunter, Mountaineer, Survivalist, B.A.T. Agent, B.A.T. Elite and Slayer unlock progress.",
+        "steps": [
+          {
+            "title": "Hunter — Treasure Zombie parts",
+            "body": "Collect all five Hunter parts, A through E, from Treasure Zombie kills. The map wiki describes these drops as random. It does not establish a guaranteed wave, drop rate or complete spawn trigger; do not treat one unsuccessful kill as proof that the challenge cannot progress.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "Mountaineer — Final Reich and Prologue",
+            "body": "Complete both Final Reich conditions: survive wave 20 without opening doors; and survive wave 20 without opening doors or anyone going down. The other three conditions belong to the separate Prologue: survive wave 25; survive wave 25 without going down; and survive wave 25 without unlocking its secret room. These are not all performed on The Final Reich.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "Survivalist — five wave-30 restrictions",
+            "body": "Complete separate wave-30 runs with: no downed players; no player buying/using Blitz; no generator power; only each player’s starting weapon; and weapons from no more than two Mystery Box uses per player. For the two-Box condition, the source allows starting weapons but says they cannot be upgraded. Keep the restrictions of the selected attempt throughout the run.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "B.A.T. Agent — five map tasks",
+            "body": "Kill a Treasure Zombie; defeat the Panzermörder; survive wave 25; unlock Ubersprengen; and assemble the Tesla Gun by wave 6. These are five separate challenge completions and can be earned in different matches.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "B.A.T. Elite — five save-Klaus conditions",
+            "body": "Complete hardcore/save Klaus: solo; by wave 16; within 75 minutes; with no downed players; and without any player using Special Abilities, Mods or Consumables. Plan a run for the chosen restriction instead of assuming an ordinary casual completion satisfies it.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "Slayer — five Panzermörder conditions",
+            "body": "Defeat the Panzermörder: by wave 12; without anyone upgrading a weapon at Ubersprengen; without anyone using Blitz; with no downed players; and without anyone using Special Abilities, Mods or Consumables. Each is a separate condition; finish all five for the set.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/",
+            "tip": "The read wiki does not explain every late patch’s challenge tracking, starting-weapon upgrade exception, disconnect rule or consumable edge case."
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "r/CODZombies — The Final Reich map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "wwii-the-final-reich-community-the-final-reich-easter-eggs-quests-casual-path-quest",
+          "wwii-the-final-reich-community-the-final-reich-easter-eggs-quests-hardcore-quest",
+          "wwii-the-final-reich-community-the-final-reich-map-features-opening-the-bunker",
+          "wwii-the-final-reich-base-tesla-gun",
+          "wwii-the-final-reich-community-the-final-reich-map-features-pack-a-punch-ubersprengen"
+        ],
+        "supplementNote": ""
+      }
+    }
+  },
+  "the-final-reich-easter-eggs-quests-hardcore-quest": {
+    "mapOverrides": {
+      "wwii-the-final-reich": {
+        "title": "Hardcore main quest: Dark Reunion",
+        "category": "main",
+        "difficulty": "Expert",
+        "players": "Solo or co-op",
+        "summary": "The Red Talon, coloured tops, Dark Wings code, four Tesla variants and harder boss.",
+        "requirements": [
+          "Call of Duty: WWII — The Final Reich.",
+          "Complete the casual setup without shooting or taking the hilt.",
+          "Build all four Tesla variants and keep a Brenner head.",
+          "Have the whole team ready for the shared boss activation."
+        ],
+        "reward": "The hardcore save-Klaus objective; final post-boss playable details remain under review.",
+        "steps": [
+          {
+            "title": "Reach the casual branch without taking the hilt",
+            "body": "Follow the complete casual route through power, the Tesla build, both Tower defenses, the three deliveries and the painting code. Do not fire at or take the hilt yet. The following sword, record and variant tasks supply the hardcore continuation; several can be prepared earlier.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "Reach the post-Tower stage",
+            "body": "Build the Tesla Gun, keep a Brenner head and complete the central and two outer lightning-rod defenses. For hardcore, stop the casual route before firing at or taking the Emperor’s hilt.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "Re-enable the two branch switches",
+            "body": "Return to the original power switches in the Morgue and Laboratory. Interact with both so their lights are green.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "Expose and fire on the Command Room coils",
+            "body": "To the right of the Salt Mine doorway in the Command Room, activate the additional power switch. A panel opens on its left, exposing electrical coils. Bring the Brenner head nearby before shooting those coils with the Tesla Gun; this starts the timed safe stage.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "Read and open the Laboratory safe",
+            "body": "At the left as you enter the Laboratory from the Command Room, find the newly open wall recess. Aim the Brenner head’s light into it. Interact with the safe’s number controls and set each to the fingerprint-marked position. Collect the coin piece when the safe opens.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "Read and open the Morgue safe",
+            "body": "Do the same at the open wall recess on the left as you enter the Morgue: scan it with the Brenner head, align the fingerprint-marked dial positions and collect its coin piece. Work quickly because the source marks this stage as timed.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/WWII/comments/cl48k4/",
+            "tip": "A firsthand co-op planner recommends scanning both safes before changing their numbers. The exact deadline, reset boundary and progress retained after a failure are not established here."
+          },
+          {
+            "title": "Claim the Red Talon at Barbarossa",
+            "body": "Take the recovered coin pieces to the base of Barbarossa’s statue in the Emperor’s Chamber and interact at its coin recess to obtain the Red Talon sword. Keep it for the gramophone charging step.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "Collect the green top",
+            "body": "Shoot down and pick up the green keepsake. The wiki lists three possible locations: Klaus’s toy-shop window, the clock tower, or the Courtyard roof. These are candidate spawns for one green top, not three separate required green items.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "Collect the red top",
+            "body": "Shoot down and collect the red keepsake. Check above the Pub entrance, the area between Riverside and the Pub, and near the Riverside weather vane.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "Collect the yellow top",
+            "body": "Shoot down and collect the yellow keepsake. Check between the Pub and Village Entrance; above the Type 100 wall buy; above Lebenblitz in Village Entrance; and above the Riverside gas valve.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "Find the coloured Enigma clues",
+            "body": "Look into the zombie windows for Enigma machines and read the number and the colour attached to each clue. The wiki lists windows left of Type 100; by the gas valve in front of the toy shop; near the Riverside weather vane; right of the Grease Gun wall buy; looking out from Klaus’s toy shop; and in spawn. Record each colour-number pairing.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/",
+            "tip": "The later wiki uses two machines and solving the remaining top; the launch post describes three. Check every readable clue you find rather than assuming a fixed number of visible machines."
+          },
+          {
+            "title": "Set the tops and take the record",
+            "body": "Place all three tops at the toy-shop window. Interact to rotate the colours to the clock-face positions indicated by their clues: for example, a yellow 7 means yellow at 7 o’clock. Keep the known colours fixed and cycle the un-clued colour through its remaining positions until the record emerges below the window. Pick up the record.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "Follow the Riverside weather vane",
+            "body": "Interact with the Riverside weather vane. Aim down sights in the direction it points and search nearby for the tiny yellow light. Shoot that light with a bullet weapon.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "Shoot the water-wheel coils",
+            "body": "At the water wheel beside the Riverside Sewers entrance, shoot the exposed electrical targets with the Tesla Gun. The launch post describes two targets; the later wiki calls them coils. This prepares the gramophone stage.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "Play Dark Wings in the Pub",
+            "body": "Carry the record to the Pub gramophone and interact to place it. The wiki identifies the song played during this quest as Dark Wings. Playing this record is part of the hardcore route; the record is not obtained from a separate three-object song hunt.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "Charge the gramophone with the Red Talon",
+            "body": "For the hardcore code, get Red Talon sword kills close to the gramophone during one play of the song. The wiki estimates 35–50 kills and says to retry on a later play if it stops before charging is complete. Stop relying on the estimate once the gramophone stops accepting energy and begins its green/red signal.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/",
+            "tip": "A firsthand player used round-30 Pests successfully. That is a strategy, not a required round. Exact kill count, charging radius and restart interaction remain unchecked."
+          },
+          {
+            "title": "Read the four gramophone numbers",
+            "body": "Count the green signals in the first group before a red separator; record that as the first number. Continue for four groups and keep their order. Do not substitute a code from another match.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "Enter the second Voice of God code",
+            "body": "After the painting code has been accepted, set the sword/raven controls to the gramophone numbers in this order: Bloodthirst, Midnight, Reaper, Hurricane. Use the matching emblems on the weapons and machine. The written source names these ravens but does not supply a close-up icon chart; verify each emblem before entering its number.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "Finish all four Tesla variants",
+            "body": "Complete each separate battery quest: Bloodthirst uses the lamp spark and Morgue Pest spikes; Reaper uses the Sewers Wüstling panel and Bomber saw kills; Hurricane uses the Laboratory Bomber panel and Wüstling electric-trap kills; Midnight uses the scanned Courtyard statue and grouped S-Mine kills. Defend their finishing machines and forge all four at the Command Room table. Use the four linked weapon guides for their complete charging instructions.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "Shoot the chandelier with all four variants",
+            "body": "At Barbarossa’s statue, shoot the chandelier above the hilt once with each finished Tesla variant: Bloodthirst, Midnight, Reaper and Hurricane. The source’s completion cue is the released gem. Do this before the shared hilt activation.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "Activate the hardcore hilt with the whole team",
+            "body": "Have every player shoot the hilt with the upgraded Tesla Guns, then retrieve the hilt to begin the hardcore Panzermörder fight. Solo does not require four players: the four variants must be built, but the player-count requirement follows the actual team.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/",
+            "tip": "The original discussion and later firsthand solo reports confirm solo runs; the exact allowed combinations at the final solo shot are not independently tested here."
+          },
+          {
+            "title": "Hardcore Panzermörder Boss Battle",
+            "body": "Only one Zeppelin light is exposed at a time in this version. Shoot the active target to drop a generator, charge it with nearby zombie kills, then shoot the boss until it is stunned. Carry the charged battery to it and attach it while it is still stationary. Repeat until three batteries have been attached in total; continue avoiding its charge, swings and the other enemy types.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "Follow Klaus after the fight",
+            "body": "After the cutscene, follow Klaus from the Riverside bridge to the Pilot Light in Village Square. Wait for his final blast; the match then continues with Epilogue survival.",
+            "original": true,
+            "researchSource": "https://www.youtube.com/watch?v=JS-DrRef89Y&t=869",
+            "tip": "This co-op recording shows the continuation. Solo acceptance, proximity rules and an exact interaction/input census have not been independently tested."
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "r/CODZombies — The Final Reich map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "r/CODZombies — original 2017 hunt and player reports",
+            "url": "https://www.reddit.com/r/CODZombies/comments/7abi63/"
+          },
+          {
+            "title": "r/WWII — firsthand route planning",
+            "url": "https://www.reddit.com/r/WWII/comments/cl48k4/"
+          },
+          {
+            "title": "r/WWII — all-player hilt activation report",
+            "url": "https://www.reddit.com/r/WWII/comments/a1zwf3/"
+          },
+          {
+            "title": "r/CODZombies — later solo route report",
+            "url": "https://www.reddit.com/r/CODZombies/comments/1nqq01c/"
+          },
+          {
+            "title": "Continuation",
+            "url": "https://www.youtube.com/watch?v=JS-DrRef89Y"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "wwii-the-final-reich-community-the-final-reich-easter-eggs-quests-casual-path-quest",
+          "wwii-the-final-reich-red-talon-sword",
+          "wwii-the-final-reich-dark-wings-record",
+          "wwii-the-final-reich-community-the-final-reich-tesla-gun-bloodthirst",
+          "wwii-the-final-reich-community-the-final-reich-tesla-gun-reaper",
+          "wwii-the-final-reich-community-the-final-reich-tesla-gun-hurricane",
+          "wwii-the-final-reich-community-the-final-reich-tesla-gun-midnight",
+          "wwii-the-final-reich-community-the-final-reich-map-features-pack-a-punch-ubersprengen"
+        ],
+        "supplementNote": ""
+      }
+    }
+  },
+  "the-final-reich-easter-eggs-quests-casual-path-quest": {
+    "mapOverrides": {
+      "wwii-the-final-reich": {
+        "title": "Casual main quest: Fireworks",
+        "category": "main",
+        "difficulty": "Advanced",
+        "players": "Solo or co-op",
+        "summary": "Power, Tesla assembly, the grid, Tower defenses, batteries, paintings and the boss.",
+        "requirements": [
+          "Call of Duty: WWII — The Final Reich.",
+          "A Tesla Gun for every player at the shared hilt activation.",
+          "Keep a Brenner head for the four paintings.",
+          "Open Ubersprengen and prepare weapons, Armor and ammunition before taking the hilt."
+        ],
+        "reward": "Retrieve the artifact through the casual ending; Fireworks achievement/trophy.",
+        "steps": [
+          {
+            "title": "Open power and both underground branches",
+            "body": "Turn all three valves to 60: left of Village Square Armor, left of the Bunker doorway, and Riverside. Fire the Pilot Light, kill the Pests, drop into the hole and start the Tunnel generator. Pay 1,250 Jolts for the Bunker. Activate the Morgue and Laboratory Locker Room power switches quickly, then pay 1,500 for the Salt Mine entrance.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "Open the Salt Mine and crank the hatch",
+            "body": "Complete the power route and buy the Salt Mine entrance. In the Command Room, hold Interact on the crank until it stops and the large hatch is open.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "Charge the Emperor’s Chamber device",
+            "body": "Go down to the machine in front of Barbarossa’s statue. Interact to activate it, then kill zombies inside its marked area until the device is charged and rises through the ceiling. Kills elsewhere do not advance this local charging task.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "Start and escort the transfer device",
+            "body": "Return upstairs to the Command Room and press the button on its upper platform. Follow the moving Geistkraft device. Whenever it stops, bring zombies into its marked red circle and kill them there so it can continue toward the Laboratory.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "Collect the Laboratory component",
+            "body": "Escort the device to the generator near Schnellblitz. Wait for the component to finish, then collect it. The wiki estimates roughly 15–20 seconds at this generator; use the available component as the completion cue, rather than a stopwatch.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "Collect the Morgue component",
+            "body": "Escort the same device through its Morgue route, again feeding its red circle with local zombie kills. At the Morgue generator, wait for the Tesla canister and collect it. The wiki’s roughly 30-second estimate is not a measured build guarantee.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "Kill the Brenner and assemble the Tesla Gun",
+            "body": "Return to the Command Room upper platform and kill the Brenner that appears there. Keep its dropped head for later scanning puzzles. Put both Tesla components on the assembly station by the upper button, wait for construction to finish, and pick up the base Tesla Gun.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "Record the four grid colours",
+            "body": "Activate the power-grid machine behind the Tesla assembly area in the Command Room. Note the colour shown beside each station number before leaving. This starts the timed colour-matching sequence.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/",
+            "tip": "The wiki calls the third setting blue; the original hunt calls it unlit. Match the displayed state on your run instead of relying only on the colour name."
+          },
+          {
+            "title": "Match grid station 1",
+            "body": "At the station to the right of the Command Room grid console, interact to set station 1 to its recorded display colour. The source describes the first setting as red, the second green and the third blue/unlit. Check its actual light.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "Match grid stations 2, 3 and 4",
+            "body": "Continue to station 2 in the Sewers near the Morgue entrance; station 3 in the Sewers near the Riverside entrance; and station 4 outside the Pub. Set each to the console’s corresponding recorded state. If time runs out, reactivate the Command Room console and try the sequence again.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "Defend the central Tower lever",
+            "body": "At the Tower, interact with the lever beneath it. The airhorn and a new wave begin. Kill zombies attacking the device until the airhorn stops and the completion dialogue plays. If it takes too much damage, restart this defense.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "Defend both front-pillar levers",
+            "body": "After the central defense, activate the two additional levers in the Tower’s front pillars. Protect both from attacking zombies until their airhorns stop. Completing both also unlocks the final Tesla-upgrade defenses.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "Call the Zeppelin from the stone hand",
+            "body": "Return to the Emperor’s Chamber and interact with the stone hand to the left of Barbarossa’s statue. Go outside and locate the Zeppelin.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "Shoot down and charge a generator",
+            "body": "When the Zeppelin’s underside lights are exposed during its attack, shoot one until its generator drops. Go to the fallen generator and kill zombies close to it. When it finishes charging, it breaks apart and leaves a carryable battery.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "Deliver three batteries",
+            "body": "Pick up the charged battery and carry it to the receiving hand beside Barbarossa’s statue. The wiki directs the following deliveries to the hand on the right. Repeat the shoot-down, local charging and delivery loop until all three required batteries are installed.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/",
+            "tip": "A player reports that the third dropped battery can be pulled back up, requiring another shoot-down. Reports disagree about hardcore self-repair; a lost drop does not by itself prove the quest has reset."
+          },
+          {
+            "title": "Scan all four paintings",
+            "body": "Carry a Brenner head and hold your aim/scanning control on each painting: the Morgue by the note-covered chalkboards; Sewers left of the Ubersprengen cage; the Pub; and the Courtyard opposite the Lee Enfield wall buy. Record which raven emblem is paired with each Roman numeral. Keep all four emblem-number pairs.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "Enter the painting code at the swords",
+            "body": "At the machine between the hands in front of Barbarossa, match each of its four sword/raven emblems to your recorded painting. Interact with that sword’s control until it displays the matching number. After all four are set, press the large red button on the front of the machine.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "Choose casual or stop for hardcore",
+            "body": "For the casual ending, have every player in the match shoot the energy around the Emperor’s hilt with a Tesla Gun at the same time. Once it becomes available, interact to take the hilt and start the boss. If you want Dark Reunion, leave the hilt here and complete the hardcore guide first.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/WWII/comments/a1zwf3/",
+            "tip": "A co-op report could not advance while two players were dead. Plan the shared activation with the whole team rather than expecting two active shooters to replace missing players."
+          },
+          {
+            "title": "Casual Panzermörder Boss Battle",
+            "body": "During the boss fight, shoot an exposed Zeppelin light to drop a generator, kill zombies near it to charge it and leave its battery ready. Shoot the Panzermörder until it stops moving, then quickly carry the battery to the stunned boss and attach it. Avoid its charge and arm swings while handling the ordinary and special enemies.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "Attach three boss batteries and finish",
+            "body": "Repeat the generator, charge, stun and attachment loop until three batteries have been attached in total. That completes the casual Panzermörder fight and the artifact objective associated with Fireworks. The three pre-boss deliveries and the three boss attachments are separate sets.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "r/CODZombies — The Final Reich map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "r/CODZombies — original 2017 hunt and player reports",
+            "url": "https://www.reddit.com/r/CODZombies/comments/7abi63/"
+          },
+          {
+            "title": "r/WWII — all-player hilt activation report",
+            "url": "https://www.reddit.com/r/WWII/comments/a1zwf3/"
+          },
+          {
+            "title": "r/CODZombies — Zeppelin recovery reports",
+            "url": "https://www.reddit.com/r/CODZombies/comments/10z5urb/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "wwii-the-final-reich-community-the-final-reich-map-features-opening-the-bunker",
+          "wwii-the-final-reich-base-tesla-gun",
+          "wwii-the-final-reich-community-the-final-reich-map-features-pack-a-punch-ubersprengen",
+          "wwii-the-final-reich-community-the-final-reich-easter-eggs-quests-hardcore-quest",
+          "wwii-the-final-reich-community-the-final-reich-map-features-armor"
+        ],
+        "supplementNote": ""
+      }
+    }
+  },
+  "the-final-reich-easter-eggs-quests-the-classic-special-ppsh-41": {
+    "mapOverrides": {
+      "wwii-the-final-reich": {
+        "title": "The Classic: PPSh bowl secret",
+        "category": "weapon",
+        "difficulty": "Easy",
+        "players": "Solo or co-op",
+        "summary": "Fund four bowls, then draw the special PPSh from the Mystery Box.",
+        "requirements": [
+          "Call of Duty: WWII — The Final Reich.",
+          "Open the Morgue, Riverside and Pub and keep Jolts for the bowls and Box."
+        ],
+        "reward": "The Classic enters the Mystery Box pool; its upgrade is Babushka.",
+        "steps": [
+          {
+            "title": "Fund the Morgue bowl",
+            "body": "Deposit 250 Jolts into the bowl right of the Morgue Tesla-component machine. Enter from the Command Room and follow the right wall to the corner. Confirm the money response.",
+            "original": true,
+            "researchSource": "https://gameranx.com/features/id/126877/article/call-of-duty-ww2-zombies-how-to-get-the-classic-ppsh-secrets-guide/"
+          },
+          {
+            "title": "Fund the Village Square bowl",
+            "body": "Deposit 250 Jolts into the bowl to the right of the Village Square truck, in front of the shop near the burning-tank trap. Confirm the money response.",
+            "original": true,
+            "researchSource": "https://gameranx.com/features/id/126877/article/call-of-duty-ww2-zombies-how-to-get-the-classic-ppsh-secrets-guide/"
+          },
+          {
+            "title": "Fund the Riverside bowl",
+            "body": "In Riverside, check the statue area: the bowl is on the ledge with the metal fence and sandbags, left of a spotlight. Deposit 250 Jolts.",
+            "original": true,
+            "researchSource": "https://gameranx.com/features/id/126877/article/call-of-duty-ww2-zombies-how-to-get-the-classic-ppsh-secrets-guide/"
+          },
+          {
+            "title": "Fund the Pub bowl",
+            "body": "Inside the Pub, look at the base of a table near the broken wall. Deposit 250 Jolts. Fund all four bowls in the same match.",
+            "original": true,
+            "researchSource": "https://gameranx.com/features/id/126877/article/call-of-duty-ww2-zombies-how-to-get-the-classic-ppsh-secrets-guide/",
+            "tip": "Default platform deposit bindings and a close-up of each bowl still need a native controls/location check."
+          },
+          {
+            "title": "Use the Box until The Classic appears",
+            "body": "After all four bowls are funded, use the Mystery Box. The reward is added to its random pool rather than handed to you immediately. A launch player obtained it after five Box uses, which is a personal result, not a guaranteed number of attempts.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/7abi63/"
+          },
+          {
+            "title": "Upgrade The Classic to Babushka",
+            "body": "Equip The Classic and use Ubersprengen for 5,000 Jolts. The map table calls the upgrade Babushka; this is distinct from the ordinary PPSh-41’s Dedushka. The older wiki reports a 115-round upgraded magazine and over 1,000 in reserve, but those ammunition totals have not been independently retested.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "r/CODZombies — The Final Reich map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+          },
+          {
+            "title": "r/CODZombies — original 2017 hunt and player reports",
+            "url": "https://www.reddit.com/r/CODZombies/comments/7abi63/"
+          },
+          {
+            "title": "r/CODZombies — Classic bowl reward report",
+            "url": "https://www.reddit.com/r/CODZombies/comments/ek4mhr/"
+          },
+          {
+            "title": "Bowl landmarks",
+            "url": "https://gameranx.com/features/id/126877/article/call-of-duty-ww2-zombies-how-to-get-the-classic-ppsh-secrets-guide/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "wwii-the-final-reich-community-the-final-reich-map-features-pack-a-punch-ubersprengen",
+          "wwii-the-final-reich-weapon-acquisition-and-upgrade-names"
+        ],
+        "supplementNote": ""
+      }
+    }
   }
 }
