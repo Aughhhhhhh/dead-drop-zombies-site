@@ -11301,6 +11301,69 @@
         "sharedSource": false,
         "sourceQuote": null,
         "supplementNote": "Original BO1 instructions replace the affected community passage. Other editions keep their own instructions."
+      },
+      "bo3-kino-der-toten": {
+        "difficulty": "Easy",
+        "players": "Solo / co-op",
+        "checked": "2026-10-23",
+        "sharedSource": false,
+        "sourceQuote": null,
+        "sourceOmissions": [
+          "No full BO3 locator-photo set, replay bypass or exact confirmation-sound audit is included. Lyrics are not reproduced."
+        ],
+        "supplementNote": "Instructions for Black Ops III Zombies Chronicles. Read the remaining limits below; these routes have not been independently playtested.",
+        "title": "115: three meteor fragments",
+        "category": "music",
+        "summary": "Interact with the lobby, storage-room and dressing-room fragments in any order.",
+        "requirements": [
+          "Black Ops III: Zombies Chronicles edition.",
+          "Access to the dressing room and storage room between the alley and stage.",
+          "Use the configured Interact/Use control at each fragment."
+        ],
+        "reward": "115 by Kevin Sherwood and Elena Siegman plays once per match.",
+        "steps": [
+          {
+            "title": "Lobby fragment",
+            "body": "On the lower floor of spawn, find the orange meteor fragment inside its glass display casing. Stand close and use Interact/Use on the fragment; shooting it is not the documented trigger.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/g1bgc2/",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/"
+            ]
+          },
+          {
+            "title": "Storage-room shelf fragment",
+            "body": "Enter the upstairs storage chamber between the alley and the stage, the BO3 M8A7 room. Find the small meteor fragment on a shelf and interact with it. The inherited text identifies this as the chamber above the stage with an electric trap.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/"
+          },
+          {
+            "title": "Dressing-room table fragment",
+            "body": "Go to the dressing room beside the stage, where the BO3 KN-44 replaces the old MP5K landmark. Interact with the fragment on the table/stand with a statue. The location is the rock, not the wall-buy gun.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/"
+          },
+          {
+            "title": "Finish all three distinct interactions",
+            "body": "Any order is documented. The song starts after the third distinct fragment registers. If it stays silent, revisit the three objects and use Interact/Use while close; repeating a fragment already activated does not replace a missed one.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/",
+            "tip": "No full BO3 locator-photo set, replay bypass or exact confirmation-sound audit is included. Lyrics are not reproduced."
+          }
+        ],
+        "sources": [
+          {
+            "title": "r/CODZombies: Kino edition notes and map reference",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/"
+          },
+          {
+            "title": "Chronicles player: three meteor fragments still play 115",
+            "url": "https://www.reddit.com/r/CODZombies/comments/g1bgc2/"
+          }
+        ],
+        "relatedGuideIds": [
+          "bo3-kino-der-toten-community-kino-der-toten-map-walkthrough-power"
+        ]
       }
     }
   },
@@ -11354,6 +11417,55 @@
         "sharedSource": false,
         "sourceQuote": null,
         "supplementNote": "Original BO1 instructions replace the affected community passage. Other editions keep their own instructions."
+      },
+      "bo3-kino-der-toten": {
+        "difficulty": "Easy",
+        "players": "Solo / co-op",
+        "checked": "2026-10-23",
+        "sharedSource": false,
+        "sourceQuote": null,
+        "sourceOmissions": [
+          "Door prices and exact lever prompt were not checked in current retail footage."
+        ],
+        "supplementNote": "Instructions for Black Ops III Zombies Chronicles. Read the remaining limits below; these routes have not been independently playtested.",
+        "title": "Power: reach the theatre stage",
+        "category": "side",
+        "summary": "Open either outer route to the stage and use its power lever beside the ICR-1.",
+        "requirements": [
+          "Black Ops III: Zombies Chronicles edition.",
+          "Points for the doors along your chosen outer route."
+        ],
+        "reward": "Opens the curtain and powers the stage teleporter, traps and perk machines.",
+        "steps": [
+          {
+            "title": "Upper route: lobby to dressing room",
+            "body": "From the lobby, buy the upstairs door into the portrait/Mule Kick room. Continue through the Speed Cola foyer, then through the dressing room with the KN-44 to reach the stage. The weapon names here are the BO3 versions; the older walkthrough uses PM63 and MP5K as landmarks.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/"
+          },
+          {
+            "title": "Alternative route: lower hall and alley",
+            "body": "From the lobby’s lower side door, pass through the fire-trap room with the L-CAR 9, then the alley by Double Tap II. Continue upstairs through the storage room with the M8A7 and buy the next passage onto the stage.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/"
+          },
+          {
+            "title": "Use the stage lever",
+            "body": "Locate the power lever on the stage; the BO3 weapon table places the ICR-1 wall buy immediately to its right. Hold your configured Interact/Use control on the lever. The switch itself costs no points. The curtain opens and the central route toward the lobby becomes accessible.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/",
+            "tip": "Door prices and exact lever prompt were not checked in current retail footage."
+          }
+        ],
+        "sources": [
+          {
+            "title": "r/CODZombies: Kino edition notes and map reference",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/"
+          }
+        ],
+        "relatedGuideIds": [
+          "bo3-kino-der-toten-community-kino-der-toten-map-walkthrough-pack-a-punch"
+        ]
       }
     }
   },
@@ -11446,6 +11558,87 @@
         "sharedSource": false,
         "sourceQuote": null,
         "supplementNote": "Original BO1 instructions replace the affected community passage. Other editions keep their own instructions."
+      },
+      "bo3-kino-der-toten": {
+        "difficulty": "Easy",
+        "players": "Solo / co-op",
+        "checked": "2026-10-23",
+        "sharedSource": false,
+        "sourceQuote": null,
+        "sourceOmissions": [
+          "Exact BO3 teleport duration, cooldown, repeat-upgrade eligibility for every weapon and AAT timings remain unchecked. The first-upgrade cost is the standard BO3 mechanic; no discount is promised."
+        ],
+        "supplementNote": "Instructions for Black Ops III Zombies Chronicles. Read the remaining limits below; these routes have not been independently playtested.",
+        "title": "Pack-a-Punch: link stage and lobby",
+        "category": "weapon",
+        "summary": "Link the two pads, teleport to the projector room, then upgrade and reclaim your weapon before the return.",
+        "requirements": [
+          "Black Ops III: Zombies Chronicles edition.",
+          "Stage power switched on.",
+          "An upgradeable weapon and 5,000 points for its first upgrade."
+        ],
+        "reward": "Projector-room Pack-a-Punch access; compatible firearms can also receive a second upgrade.",
+        "steps": [
+          {
+            "title": "Start linking at the stage teleporter",
+            "body": "Stand inside the teleporter on the stage and use Interact/Use when the linking prompt appears. This starts the stage-to-lobby link; it does not yet send you to the projector room.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/"
+          },
+          {
+            "title": "Confirm at the lobby pad",
+            "body": "Return through the central theatre passage to the circular pad in the starting lobby. Use Interact/Use on that pad to finish the link. If the link did not register, return to the stage prompt and repeat these two interactions.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/"
+          },
+          {
+            "title": "Gather inside and teleport",
+            "body": "Return to the stage teleporter. Have anyone who wants to travel stand inside it, then activate it. The destination is the elevated projector room overlooking the audience seats. Its stay is temporary; prepare points and the intended weapon before travelling.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/"
+          },
+          {
+            "title": "Upgrade and collect the returned weapon",
+            "body": "Face Pack-a-Punch, equip the weapon you want to improve, and use the machine’s purchase prompt. The normal first upgrade costs 5,000 points. Wait for the machine to finish and take the weapon before the room sends you back.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/pg8sux/",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/"
+            ],
+            "tip": "The exact BO3 stay duration was not measured here; begin the purchase promptly."
+          },
+          {
+            "title": "Re-pack a compatible firearm for 2,500",
+            "body": "An already upgraded firearm may offer another 2,500-point purchase. This gives an alternate ammo effect: Dead Wire, Blast Furnace, Thunder Wall, Turned or Fire Works. Check that the machine offers the option for the weapon you are holding; the effect is an occasional proc, not every bullet.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/game-mechanics/"
+          },
+          {
+            "title": "Return rooms and later visits",
+            "body": "On the way back, you may briefly appear in another room before arriving in the lobby. Film reels use these stops. For another projector-room visit, wait for the teleporter’s next linking prompt, then repeat stage → lobby → stage. A temporary cooldown is not a missing build part.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/",
+            "tip": "Exact BO3 teleport duration, cooldown, repeat-upgrade eligibility for every weapon and AAT timings remain unchecked. The first-upgrade cost is the standard BO3 mechanic; no discount is promised."
+          }
+        ],
+        "sources": [
+          {
+            "title": "r/CODZombies: Kino edition notes and map reference",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/"
+          },
+          {
+            "title": "r/CODZombies: BO3 perks, gums and re-packing",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/game-mechanics/"
+          },
+          {
+            "title": "okaraka: BO3 first upgrade and re-pack prices",
+            "url": "https://www.reddit.com/r/CODZombies/comments/pg8sux/"
+          }
+        ],
+        "relatedGuideIds": [
+          "bo3-kino-der-toten-community-kino-der-toten-map-walkthrough-power",
+          "bo3-kino-der-toten-film-reels"
+        ]
       }
     }
   },
@@ -11523,6 +11716,69 @@
         "sharedSource": false,
         "sourceQuote": null,
         "supplementNote": "Original BO1 instructions replace the affected community passage. Other editions keep their own instructions."
+      },
+      "bo3-kino-der-toten": {
+        "difficulty": "Easy",
+        "players": "Solo / co-op",
+        "checked": "2026-10-23",
+        "sharedSource": false,
+        "sourceQuote": null,
+        "sourceOmissions": [
+          "The seven inherited table rows are not a current BO3 price/timing audit. Precise control photos and turret price/friendly-fire checks remain pending."
+        ],
+        "supplementNote": "Instructions for Black Ops III Zombies Chronicles. Read the remaining limits below; these routes have not been independently playtested.",
+        "title": "Traps: electric barriers, fire and turrets",
+        "category": "side",
+        "summary": "Find the defensive controls around both outer routes and the theatre, then keep clear while they operate.",
+        "requirements": [
+          "Black Ops III: Zombies Chronicles edition.",
+          "Power on.",
+          "Access to the chosen control and enough points for its displayed price."
+        ],
+        "reward": "Temporary automated zombie damage at the chosen trap.",
+        "steps": [
+          {
+            "title": "Upper hall electric barrier",
+            "body": "Find the electric-trap control in the upper hall off the lobby, the portrait/Mule Kick area. The old map table calls this the PM63 room; BO3’s corresponding gun landmark is the Pharo. Confirm the current purchase prompt before activating it.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/"
+          },
+          {
+            "title": "Theatre entrances and storage barrier",
+            "body": "The shared map table records electric controls at the stage, the lobby-to-theatre stair passage, and the storage room between the alley and stage. Walk to the intended doorway and identify its control first; avoid putting an active barrier across your own escape route.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/"
+          },
+          {
+            "title": "Lower hall fire trap",
+            "body": "Use the fire-trap control in the room connecting the lobby to the alley. Its BO3 wall-gun landmark is the L-CAR 9, replacing the older MPL label. Activate from a safe side, then let zombies enter the burning area while you stay out of it.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/"
+          },
+          {
+            "title": "The two automatic turrets",
+            "body": "The shared reference places one turret in the Speed Cola foyer and one on the theatre floor by the stage/teleporter. Use the control on the turret you intend to run and pay the displayed price. Keep out of its firing line.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/",
+            "tip": "The shared table says 1,000 for these turrets, but this price was not established for BO3 here. Read the in-game prompt instead of relying on that inherited number."
+          },
+          {
+            "title": "Wait for a ready control before paying again",
+            "body": "Lure zombies into the active trap while keeping your route clear. After it shuts off, wait for its ready/purchase prompt before using it again. The exact duration, cooldown and BO3 friendly-fire behavior are not established by this reference.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/",
+            "tip": "The seven inherited table rows are not a current BO3 price/timing audit. Precise control photos and turret price/friendly-fire checks remain pending."
+          }
+        ],
+        "sources": [
+          {
+            "title": "r/CODZombies: Kino edition notes and map reference",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/"
+          }
+        ],
+        "relatedGuideIds": [
+          "bo3-kino-der-toten-community-kino-der-toten-map-walkthrough-power"
+        ]
       }
     }
   },
@@ -11584,6 +11840,63 @@
         "sharedSource": false,
         "sourceQuote": null,
         "supplementNote": "Original BO1 instructions replace the affected community passage. Other editions keep their own instructions."
+      },
+      "bo3-kino-der-toten": {
+        "difficulty": "Easy",
+        "players": "Solo / co-op",
+        "checked": "2026-10-23",
+        "sharedSource": false,
+        "sourceQuote": null,
+        "sourceOmissions": [
+          "A current BO3 co-op holder-limit test, exact blast limits and reload behavior were not independently checked. The shared reference’s one-holder statement is not treated as a fresh BO3 certification."
+        ],
+        "supplementNote": "Instructions for Black Ops III Zombies Chronicles. Read the remaining limits below; these routes have not been independently playtested.",
+        "title": "Thundergun: Mystery Box acquisition",
+        "category": "weapon",
+        "summary": "The Thundergun is a random Box result, with a separate Pack-a-Punch upgrade into the Zeus Cannon.",
+        "requirements": [
+          "Black Ops III: Zombies Chronicles edition.",
+          "Access to the active Mystery Box.",
+          "Normally 950 points per attempt; a specific result is not guaranteed."
+        ],
+        "reward": "Thundergun; the shared reference records two loaded shots and 12 reserve.",
+        "steps": [
+          {
+            "title": "Locate and use the active Box",
+            "body": "Find the currently active Mystery Box and pay its prompt. A normal use costs 950 points, reduced to 10 during a Fire Sale. Let the weapon appear; accepting an unwanted gun is not required to keep trying later.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/"
+          },
+          {
+            "title": "Take the Thundergun when offered",
+            "body": "If the Box offers the Thundergun, use Interact/Use to claim it before the offer disappears. Be deliberate about the weapon slot you replace. BO3 Kino players independently confirm this Box route.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/v0irsx/",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/"
+            ]
+          },
+          {
+            "title": "Use the blast and prepare its upgrade",
+            "body": "Use its air blast to clear nearby zombies and leave yourself room to move. The shared reference records 2 loaded shots with 12 in reserve, reloading after the chamber is emptied. Follow the Zeus Cannon companion when you want the larger ammo capacity.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/",
+            "tip": "A current BO3 co-op holder-limit test, exact blast limits and reload behavior were not independently checked. The shared reference’s one-holder statement is not treated as a fresh BO3 certification."
+          }
+        ],
+        "sources": [
+          {
+            "title": "r/CODZombies: Kino edition notes and map reference",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/"
+          },
+          {
+            "title": "BO3 Kino players: Box Thundergun and stage Wunderfizz",
+            "url": "https://www.reddit.com/r/CODZombies/comments/v0irsx/"
+          }
+        ],
+        "relatedGuideIds": [
+          "bo3-kino-der-toten-community-kino-der-toten-special-weapons-upgraded-wonder-weapon"
+        ]
       }
     }
   },
@@ -11641,6 +11954,64 @@
         "sharedSource": false,
         "sourceQuote": null,
         "supplementNote": "Original BO1 instructions replace the affected community passage. Other editions keep their own instructions."
+      },
+      "bo3-kino-der-toten": {
+        "difficulty": "Easy",
+        "players": "Solo / co-op",
+        "checked": "2026-10-23",
+        "sharedSource": false,
+        "sourceQuote": null,
+        "sourceOmissions": [
+          "Current retail ammo/reload figures, co-op holder restrictions and any alternate-ammo compatibility were not independently tested."
+        ],
+        "supplementNote": "Instructions for Black Ops III Zombies Chronicles. Read the remaining limits below; these routes have not been independently playtested.",
+        "title": "Thundergun → Zeus Cannon",
+        "category": "weapon",
+        "summary": "Use projector-room Pack-a-Punch while holding the Thundergun, then collect the Zeus Cannon.",
+        "requirements": [
+          "Black Ops III: Zombies Chronicles edition.",
+          "Thundergun already obtained.",
+          "Linked teleporter and 5,000 points."
+        ],
+        "reward": "Zeus Cannon; the shared reference records four loaded shots and 24 reserve.",
+        "steps": [
+          {
+            "title": "Link and travel with the Thundergun",
+            "body": "Turn on power and complete stage → lobby linking as in the Pack-a-Punch companion. Enter the stage teleporter carrying your Thundergun and travel to the projector room.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/"
+          },
+          {
+            "title": "Pay for the Thundergun upgrade",
+            "body": "Equip the Thundergun at Pack-a-Punch, pay the 5,000-point first-upgrade price and collect the returned Zeus Cannon before the return teleport.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/pg8sux/"
+            ]
+          },
+          {
+            "title": "Check the larger ammo supply",
+            "body": "The shared reference records 4 loaded shots and 24 reserve after the upgrade, doubling the base weapon’s capacity. Its recorded reload rule remains to empty the chamber before reloading. Do not expect an ordinary firearm’s alternate-ammo purchase to be the Zeus Cannon unlock.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/",
+            "tip": "Current retail ammo/reload figures, co-op holder restrictions and any alternate-ammo compatibility were not independently tested."
+          }
+        ],
+        "sources": [
+          {
+            "title": "r/CODZombies: Kino edition notes and map reference",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/"
+          },
+          {
+            "title": "okaraka: BO3 first upgrade and re-pack prices",
+            "url": "https://www.reddit.com/r/CODZombies/comments/pg8sux/"
+          }
+        ],
+        "relatedGuideIds": [
+          "bo3-kino-der-toten-community-kino-der-toten-map-walkthrough-pack-a-punch",
+          "bo3-kino-der-toten-community-kino-der-toten-special-weapons-the-wonder-weapon"
+        ]
       }
     }
   },
@@ -11688,6 +12059,84 @@
         "sharedSource": false,
         "sourceQuote": null,
         "supplementNote": "Original BO1 instructions replace the affected community passage. Other editions keep their own instructions."
+      },
+      "bo3-kino-der-toten": {
+        "difficulty": "Easy",
+        "players": "Solo / co-op",
+        "checked": "2026-10-23",
+        "sharedSource": false,
+        "sourceQuote": null,
+        "sourceOmissions": [
+          "The upgrade has not been independently reproduced on current BO3 Kino. Exact damage, duration, replenishment of the upgraded state and co-op behavior remain unchecked; no Gorod Krovi quest is imported."
+        ],
+        "supplementNote": "Instructions for Black Ops III Zombies Chronicles. Read the remaining limits below; these routes have not been independently playtested.",
+        "title": "Monkey Bombs and the Crate Power upgrade",
+        "category": "weapon",
+        "summary": "Claim Monkey Bombs from the Box; an optional Crate Power route is reported by a BO3 Kino player.",
+        "requirements": [
+          "Black Ops III: Zombies Chronicles edition.",
+          "Active Mystery Box and points for attempts.",
+          "Optional upgrade: equip and obtain a Crate Power Mega GobbleGum before claiming the Monkeys."
+        ],
+        "reward": "A throwable distraction; the optional gum route yields the reported upgraded Monkey Bomb.",
+        "steps": [
+          {
+            "title": "Claim the normal Monkey Bombs",
+            "body": "Use the Mystery Box until it offers Monkey Bombs, then claim them. The shared Kino reference records a maximum of 3 and Max Ammo replenishment. They use your configured special-grenade control rather than an ordinary firearm slot.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/"
+          },
+          {
+            "title": "Throw onto playable floor",
+            "body": "Allow room for the throw and aim at a safe patch of playable floor. Once the Monkey starts distracting zombies, use the opening to move or revive. A throw beyond the map limits can disappear without activating; do not rely on a Monkey that landed outside the playable area.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/"
+          },
+          {
+            "title": "Optional: obtain Crate Power first",
+            "body": "For the reported upgrade route, put Crate Power in your loadout and obtain that gum from a machine before taking the Monkeys. Crate Power is spent on the next eligible Box item you actually claim. It does not guarantee that the next Box roll will be Monkey Bombs.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/game-mechanics/"
+          },
+          {
+            "title": "Claim Monkeys while Crate Power is active",
+            "body": "Leave unwanted Box offers unclaimed so the gum stays ready. When Monkey Bombs appear, claim them while Crate Power is active. A player in the cited thread specifically reports using upgraded Monkeys on BO3 Kino; another commenter disputes map coverage, so this remains a sourced player route rather than a retail test.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/dkz0kp/",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/wiki/game-mechanics/"
+            ]
+          },
+          {
+            "title": "Recognize the reported upgraded effect",
+            "body": "Sphearikall’s firsthand BO3 report describes red glow, changed music and repeated damaging explosions from the upgraded Monkey. Check that the effect changed before assuming the gum route worked. The standard projector-room machine is not the input described by this method.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/hr46d0/",
+            "tip": "The upgrade has not been independently reproduced on current BO3 Kino. Exact damage, duration, replenishment of the upgraded state and co-op behavior remain unchecked; no Gorod Krovi quest is imported."
+          }
+        ],
+        "sources": [
+          {
+            "title": "r/CODZombies: Kino edition notes and map reference",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/"
+          },
+          {
+            "title": "r/CODZombies: BO3 perks, gums and re-packing",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/game-mechanics/"
+          },
+          {
+            "title": "Kino player reports the Crate Power Monkey upgrade",
+            "url": "https://www.reddit.com/r/CODZombies/comments/dkz0kp/"
+          },
+          {
+            "title": "Sphearikall: firsthand BO3 Crate Power Monkey effect",
+            "url": "https://www.reddit.com/r/CODZombies/comments/hr46d0/"
+          }
+        ],
+        "relatedGuideIds": [
+          "bo3-kino-der-toten-community-kino-der-toten-map-walkthrough-pack-a-punch",
+          "bo3-kino-der-toten-perks-gobblegum-and-change"
+        ]
       }
     }
   },
@@ -11763,6 +12212,71 @@
         "sharedSource": false,
         "sourceQuote": null,
         "supplementNote": "Original BO1 instructions replace the affected community passage. Other editions keep their own instructions."
+      },
+      "bo3-kino-der-toten": {
+        "difficulty": "Easy",
+        "players": "Solo / co-op",
+        "checked": "2026-10-23",
+        "sharedSource": false,
+        "sourceQuote": null,
+        "sourceOmissions": [
+          "The mannequin trigger and its exact positioning have not been independently reproduced; a necessary-and-sufficient BO3 prerequisite set, room-selection rules and photo locators remain pending."
+        ],
+        "supplementNote": "Instructions for Black Ops III Zombies Chronicles. Read the remaining limits below; these routes have not been independently playtested.",
+        "title": "Pentagon return-room model rocket",
+        "category": "side",
+        "summary": "Try the BO3 mannequin trigger, then interact with the tabletop rocket during a random return-room stop.",
+        "requirements": [
+          "Black Ops III: Zombies Chronicles edition.",
+          "Power and linked stage teleporter.",
+          "Open the dressing room.",
+          "Repeated projector-room visits may be needed."
+        ],
+        "reward": "The small model rocket launches; no weapon or powerup reward is established.",
+        "steps": [
+          {
+            "title": "Try the reported mannequin setup",
+            "body": "In the dressing room, face the mannequin to the left of the Mystery Box position and jump in front of it at least 5 times. The shared wiki gives this setup, and a player explicitly reports needing it on BO3. It is not established here as the only possible trigger.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/18pz71x/",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/"
+            ]
+          },
+          {
+            "title": "Wait for the Pentagon-style return room",
+            "body": "Use the stage teleporter for a projector-room visit. On the return journey, look for the brief stop in a Pentagon-style conference room. If you arrive in another room or return straight to spawn, repeat a later linked trip rather than looking for a separate Pentagon destination selector.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/"
+          },
+          {
+            "title": "Interact with the model rocket",
+            "body": "During that room stop, move to the tabletop model rocket and use Interact/Use before the return continues. A successful activation launches the model toward the ceiling.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/"
+          },
+          {
+            "title": "If it remains inert",
+            "body": "Repeat the mannequin setup and try another conference-room stop. Players disagree over the broader trigger and also discuss film reels; the cited discussion does not settle a mandatory BO3 reel prerequisite. The film-reel companion is available if you want to collect them while making repeated trips.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/18pz71x/",
+            "tip": "The mannequin trigger and its exact positioning have not been independently reproduced; a necessary-and-sufficient BO3 prerequisite set, room-selection rules and photo locators remain pending."
+          }
+        ],
+        "sources": [
+          {
+            "title": "r/CODZombies: Kino edition notes and map reference",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/"
+          },
+          {
+            "title": "Players compare BO1 and BO3 model-rocket triggers",
+            "url": "https://www.reddit.com/r/CODZombies/comments/18pz71x/"
+          }
+        ],
+        "relatedGuideIds": [
+          "bo3-kino-der-toten-community-kino-der-toten-map-walkthrough-pack-a-punch",
+          "bo3-kino-der-toten-film-reels"
+        ]
       }
     }
   },
@@ -55551,6 +56065,237 @@
         "relatedGuideIds": [
           "bo3-shi-no-numa-community-shi-no-numa-easter-eggs-hidden-song-the-one",
           "bo3-shi-no-numa-community-shi-no-numa-map-walkthrough-traps"
+        ]
+      }
+    }
+  },
+  "kino-der-toten-easter-eggs-samantha-s-lullaby-zombies-chronicles": {
+    "mapOverrides": {
+      "bo3-kino-der-toten": {
+        "difficulty": "Easy",
+        "players": "Solo / co-op",
+        "checked": "2026-10-23",
+        "sharedSource": false,
+        "sourceQuote": null,
+        "sourceOmissions": [
+          "Exact hunt timeout, failed-hunt reset, precise pause lengths and co-op/replay rules remain unverified. No lyrics are reproduced."
+        ],
+        "supplementNote": "Instructions for Black Ops III Zombies Chronicles. Read the remaining limits below; these routes have not been independently playtested.",
+        "title": "Samantha’s Sorrow: knocking door and dolls",
+        "category": "music",
+        "summary": "Repeat the blue door’s knocking patterns, start the theatre doll hunt, then claim Max Ammo and the song.",
+        "requirements": [
+          "Black Ops III: Zombies Chronicles edition.",
+          "Open the alley and theatre routes.",
+          "A gun with enough ammunition; audible door knocks.",
+          "Review the locator list and photographs before starting."
+        ],
+        "reward": "Max Ammo and Samantha’s Sorrow after the final doll interaction.",
+        "steps": [
+          {
+            "title": "Find the blue alley door",
+            "body": "Go into the outside alley by Double Tap II. Approach the blue door that produces knocking sounds. Listen to one full pattern before answering; use melee/knife on this door to reproduce the groups of knocks. The separate wooden door in the fire-trap room is a different interaction.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/",
+            "images": [
+              {
+                "src": "./assets/classic-batch37-kino-blue-door.webp",
+                "alt": "Door",
+                "caption": "Door",
+                "credit": "JokerAlex21",
+                "source": "https://www.youtube.com/watch?v=z82fG0onTbk&t=15s"
+              }
+            ]
+          },
+          {
+            "title": "Answer three knocking sequences",
+            "body": "Repeat the pattern in three groups, pausing between its numbers, then listen for the next sequence. Complete three successful responses. The retained community list gives 115, 935, 666, 143, 624, 321, 534, 241 and 512; these are possible patterns, not a fixed order to enter.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/"
+          },
+          {
+            "title": "Failed response",
+            "body": "Fast knocking signals failure; wait about one minute before retrying. The creator also lists 121. A laugh confirms success.",
+            "original": true,
+            "researchSource": "https://www.codzombieguides.com/kino-der-toten-remastered",
+            "corroboratingSources": [
+              "https://www.youtube.com/watch?v=z82fG0onTbk&t=50s"
+            ]
+          },
+          {
+            "title": "Activate the floor doll by the stage",
+            "body": "Go to the main theatre and inspect the floor on the right side in front of the stage. Interact with the Samantha doll lying there. This begins the target hunt; prepare your routes before using it.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/",
+            "images": [
+              {
+                "src": "./assets/classic-batch37-kino-starting-doll.webp",
+                "alt": "Doll",
+                "caption": "Doll",
+                "credit": "JokerAlex21",
+                "source": "https://www.youtube.com/watch?v=z82fG0onTbk&t=155s"
+              }
+            ]
+          },
+          {
+            "title": "Shoot five appearing dolls promptly",
+            "body": "Find and shoot the appearing dolls after starting the hunt; the cited Chronicles player reply describes five doll hits. Move promptly between appearances. Use the illustrated location checklist below.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/1ojkwj8/",
+            "corroboratingSources": [
+              "https://www.codzombieguides.com/kino-der-toten-remastered"
+            ]
+          },
+          {
+            "title": "Locations",
+            "body": "Candidates; shoot only the currently active doll.\n\nChandelier — Beneath central bowl\nSeats — Collapsed seat rows\nSeatback — Seat beside low partition\nSconce — Wall light above seats\nProjector — Projector window ledge\nBalcony — Boarded upper window\nLedge — Left of stage teleporter\nRopes — Floor beside stacked barrels\nCatwalk — Edge of stage catwalk\nRafters — Beam above backstage machines",
+            "original": true,
+            "researchSource": "https://www.youtube.com/watch?v=z82fG0onTbk&t=182s",
+            "images": [
+              {
+                "src": "./assets/classic-batch37-kino-target-01.webp",
+                "alt": "Chandelier",
+                "caption": "Chandelier",
+                "credit": "JokerAlex21",
+                "source": "https://www.youtube.com/watch?v=z82fG0onTbk&t=190s"
+              },
+              {
+                "src": "./assets/classic-batch37-kino-target-02.webp",
+                "alt": "Seats",
+                "caption": "Seats",
+                "credit": "JokerAlex21",
+                "source": "https://www.youtube.com/watch?v=z82fG0onTbk&t=200s"
+              },
+              {
+                "src": "./assets/classic-batch37-kino-target-03.webp",
+                "alt": "Seatback",
+                "caption": "Seatback",
+                "credit": "JokerAlex21",
+                "source": "https://www.youtube.com/watch?v=z82fG0onTbk&t=215s"
+              },
+              {
+                "src": "./assets/classic-batch37-kino-target-04.webp",
+                "alt": "Sconce",
+                "caption": "Sconce",
+                "credit": "JokerAlex21",
+                "source": "https://www.youtube.com/watch?v=z82fG0onTbk&t=230s"
+              },
+              {
+                "src": "./assets/classic-batch37-kino-target-05.webp",
+                "alt": "Projector",
+                "caption": "Projector",
+                "credit": "JokerAlex21",
+                "source": "https://www.youtube.com/watch?v=z82fG0onTbk&t=240s"
+              },
+              {
+                "src": "./assets/classic-batch37-kino-target-06.webp",
+                "alt": "Balcony",
+                "caption": "Balcony",
+                "credit": "JokerAlex21",
+                "source": "https://www.youtube.com/watch?v=z82fG0onTbk&t=255s"
+              },
+              {
+                "src": "./assets/classic-batch37-kino-target-07.webp",
+                "alt": "Ledge",
+                "caption": "Ledge",
+                "credit": "JokerAlex21",
+                "source": "https://www.youtube.com/watch?v=z82fG0onTbk&t=270s"
+              },
+              {
+                "src": "./assets/classic-batch37-kino-target-08.webp",
+                "alt": "Ropes",
+                "caption": "Ropes",
+                "credit": "JokerAlex21",
+                "source": "https://www.youtube.com/watch?v=z82fG0onTbk&t=280s"
+              },
+              {
+                "src": "./assets/classic-batch37-kino-target-09.webp",
+                "alt": "Catwalk",
+                "caption": "Catwalk",
+                "credit": "JokerAlex21",
+                "source": "https://www.youtube.com/watch?v=z82fG0onTbk&t=295s"
+              },
+              {
+                "src": "./assets/classic-batch37-kino-target-10.webp",
+                "alt": "Rafters",
+                "caption": "Rafters",
+                "credit": "JokerAlex21",
+                "source": "https://www.youtube.com/watch?v=z82fG0onTbk&t=315s"
+              }
+            ],
+            "tip": "The elevated close-ups identify targets; they are not walking routes. The chandelier image marks its landmark. Exact hunt timeout, failed-hunt reset, pause lengths, co-op and replay rules remain unverified."
+          },
+          {
+            "title": "Return and claim the reward",
+            "body": "After the successful hunt, return to the original doll, now standing and rotating, on the right in front of the stage and interact again. Collect the Max Ammo and listen for Samantha’s Sorrow starting.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/",
+            "tip": "Exact hunt timeout, failed-hunt reset, precise pause lengths and co-op/replay rules remain unverified. No lyrics are reproduced.",
+            "corroboratingSources": [
+              "https://www.youtube.com/watch?v=z82fG0onTbk&t=324s"
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "title": "r/CODZombies: Kino edition notes and map reference",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/"
+          },
+          {
+            "title": "JokerAlex21: Kino remaster",
+            "url": "https://www.codzombieguides.com/kino-der-toten-remastered"
+          },
+          {
+            "title": "Chronicles players: matching knocks and shooting five dolls",
+            "url": "https://www.reddit.com/r/CODZombies/comments/1ojkwj8/"
+          },
+          {
+            "title": "Footage",
+            "url": "https://www.youtube.com/watch?v=z82fG0onTbk"
+          }
+        ],
+        "relatedGuideIds": [
+          "bo3-kino-der-toten-wooden-door-noises"
+        ]
+      }
+    }
+  },
+  "kino-der-toten-easter-eggs-monty-radio-zombies-chronicles": {
+    "mapOverrides": {
+      "bo3-kino-der-toten": {
+        "difficulty": "Locator pending",
+        "players": "Solo / co-op",
+        "checked": "2026-10-23",
+        "sharedSource": false,
+        "sourceQuote": null,
+        "sourceOmissions": [
+          "Exact radio object, standing position, input, playback/replay rules and locator photo remain pending. The full fictional monologue is omitted."
+        ],
+        "supplementNote": "Instructions for Black Ops III Zombies Chronicles. Read the remaining limits below; these routes have not been independently playtested.",
+        "title": "Monty recording: locator still pending",
+        "category": "side",
+        "summary": "The Chronicles recording is documented, but its precise activation instructions still require review.",
+        "requirements": [
+          "Black Ops III: Zombies Chronicles edition."
+        ],
+        "reward": "A Monty lore recording; no gameplay reward has been established here.",
+        "steps": [
+          {
+            "title": "Activation gap",
+            "body": "The retained community section contains the recording’s dialogue but supplies no object location or activation input. Those details still need a healthy primary demonstration before a usable route can be written. Film-reel collection is documented separately in its own companion.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/",
+            "tip": "Exact radio object, standing position, input, playback/replay rules and locator photo remain pending. The full fictional monologue is omitted."
+          }
+        ],
+        "sources": [
+          {
+            "title": "r/CODZombies: Kino edition notes and map reference",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/"
+          }
+        ],
+        "relatedGuideIds": [
+          "bo3-kino-der-toten-film-reels"
         ]
       }
     }
