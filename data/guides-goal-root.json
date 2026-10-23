@@ -10127,5 +10127,292 @@
       }
     ],
     "checked": "2026-10-23"
+  },
+  {
+    "id": "wwii-the-darkest-shore-blitz-machines",
+    "mapId": "wwii-the-darkest-shore",
+    "title": "All six Blitz machines",
+    "summary": "Locations, prices and the solo/co-op Lebenblitz difference.",
+    "category": "side",
+    "difficulty": "Easy",
+    "players": "Solo or co-op",
+    "requirements": [
+      "Call of Duty: WWII — The Darkest Shore.",
+      "Activate power and open the route containing the machine."
+    ],
+    "reward": "The six documented Blitz benefits, including the Wüstling trial’s machines.",
+    "steps": [
+      {
+        "title": "Lebenblitz — Beach",
+        "body": "Buy Lebenblitz on the Beach. Solo costs 500 Jolts and provides automatic revival, with three uses listed by the source. Co-op costs 1,500 Jolts and improves teammate revival speed. This is the last required drink in the friendly Wüstling’s sequence.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-darkest-shore/"
+      },
+      {
+        "title": "Laufenblitz — Bunkers",
+        "body": "Laufenblitz costs 2,000 Jolts in the Bunkers. It increases sprint speed and lets you sprint indefinitely according to the source. During the Wüstling trial it belongs after Faustblitz, even though you pass it earlier.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-darkest-shore/"
+      },
+      {
+        "title": "Faustblitz — Artillery Bunker",
+        "body": "Faustblitz costs 2,000 Jolts in the Artillery Bunker and increases melee damage. The friendly Wüstling must take this machine second, after Kugelblitz and before Laufenblitz.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-darkest-shore/"
+      },
+      {
+        "title": "Schnellblitz — U-Boat Pens",
+        "body": "Schnellblitz costs 3,000 Jolts in the U-Boat Pens and speeds reloading. It is not one of the four machines in the friendly Wüstling’s required sequence.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-darkest-shore/"
+      },
+      {
+        "title": "Schildblitz — Bluffs",
+        "body": "Schildblitz costs 2,000 Jolts in the Bluffs and creates a damaging electrical burst when you reload. The hanging radio-component target is above this machine during the main quest.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-darkest-shore/"
+      },
+      {
+        "title": "Kugelblitz — Bunker 1",
+        "body": "Kugelblitz costs 2,000 Jolts in Bunker 1 and increases weapon damage. It is the first machine in the friendly Wüstling route. Current damage multipliers, a full-loadout replacement rule and all purchase edge cases are not specified by the read primary table.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-darkest-shore/"
+      }
+    ],
+    "relatedGuideIds": [
+      "wwii-the-darkest-shore-community-the-darkest-shore-map-features-power",
+      "wwii-the-darkest-shore-community-the-darkest-shore-easter-eggs-quests-main-easter-egg-quest"
+    ],
+    "sources": [
+      {
+        "title": "r/CODZombies — map guide by The_Beebat and LackingAGoodName, with geekcomm",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/the-darkest-shore/"
+      }
+    ],
+    "checked": "2026-10-23"
+  },
+  {
+    "id": "wwii-the-darkest-shore-weapon-acquisition-and-upgrade-names",
+    "mapId": "wwii-the-darkest-shore",
+    "title": "Weapons: acquisition and upgrade names",
+    "summary": "Every row in the primary map table, plus the special-weapon quest routes.",
+    "category": "weapon",
+    "difficulty": "Easy",
+    "players": "Solo or co-op",
+    "requirements": [
+      "Call of Duty: WWII — The Darkest Shore.",
+      "Unlock Ubersprengen and budget for the gun plus its displayed upgrade price."
+    ],
+    "reward": "A sourced base/upgrade inventory with historical-table limits stated.",
+    "steps": [
+      {
+        "title": "Use the map’s acquisition and name table",
+        "body": "The following rows reproduce the primary Darkest Shore wiki’s weapon names, acquisition routes, wall prices and upgrade aliases. A wall price buys the base gun; use the separately opened Ubersprengen for its upgrade. The source says wall and starting weapons are also Box-eligible except the Kar98k. Starting options depend on your unlocked loadout, and a Box entry is random rather than a guaranteed roll.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-darkest-shore/",
+        "tip": "This historical table is not a complete current retail DLC/Box, damage, attachment or ammunition census. It has spelling differences from other WWII map tables, which are preserved below rather than silently normalized."
+      },
+      {
+        "title": "Assault Rifles: base → upgrade",
+        "body": "M1941 → Emma-Gee: Wall Weapon & Mystery Box; 1500 Jolts; Overlook.\nM1 Garand → G.O.A.T.: Wall Weapon; 1250 Jolts; Bunkers.\nSTG44 → STG770: Wall Weapon; 1500 Jolts; Overlook.\nM1A1 Carbine → M2 Carbine: Starting Weapon & Wall Weapon; 500 Jolts; Beach.\nFG 42 → Device 450: Wall Weapon; 1600 Jolts; Artillery Bunker.\nBAR → FU-BAR: Wall Weapon; 1500 Jolts; Artillery Bunker.\nSVT-40 → AVT-40: Wall Weapon; 750 Jolts; Bluffs.\nGewehr 43 → Barbarossa's Strike: Mystery Box.\nVolkssturmgewehr → People's Storm: Mystery Box.\nItra Burst → Hercules: Mystery Box.\nType 5 → Go Ban: Mystery Box.\nM2 Carbine → M2A2 Carbine: Mystery Box.\nAVS-36 → Complex Beat: Mystery Box.\nAutomaton → First Red Hero: Mystery Box.",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-darkest-shore/",
+        "html": "<table><thead><tr><th>Weapon</th><th>Upgrade</th><th>Acquisition</th><th>Cost</th><th>Location</th></tr></thead><tbody><tr><td>M1941</td><td>Emma-Gee</td><td>Wall Weapon &amp; Mystery Box</td><td>1500 Jolts</td><td>Overlook</td></tr><tr><td>M1 Garand</td><td>G.O.A.T.</td><td>Wall Weapon</td><td>1250 Jolts</td><td>Bunkers</td></tr><tr><td>STG44</td><td>STG770</td><td>Wall Weapon</td><td>1500 Jolts</td><td>Overlook</td></tr><tr><td>M1A1 Carbine</td><td>M2 Carbine</td><td>Starting Weapon &amp; Wall Weapon</td><td>500 Jolts</td><td>Beach</td></tr><tr><td>FG 42</td><td>Device 450</td><td>Wall Weapon</td><td>1600 Jolts</td><td>Artillery Bunker</td></tr><tr><td>BAR</td><td>FU-BAR</td><td>Wall Weapon</td><td>1500 Jolts</td><td>Artillery Bunker</td></tr><tr><td>SVT-40</td><td>AVT-40</td><td>Wall Weapon</td><td>750 Jolts</td><td>Bluffs</td></tr><tr><td>Gewehr 43</td><td>Barbarossa&#x27;s Strike</td><td>Mystery Box</td><td>-</td><td>-</td></tr><tr><td>Volkssturmgewehr</td><td>People&#x27;s Storm</td><td>Mystery Box</td><td>-</td><td>-</td></tr><tr><td>Itra Burst</td><td>Hercules</td><td>Mystery Box</td><td>-</td><td>-</td></tr><tr><td>Type 5</td><td>Go Ban</td><td>Mystery Box</td><td>-</td><td>-</td></tr><tr><td>M2 Carbine</td><td>M2A2 Carbine</td><td>Mystery Box</td><td>-</td><td>-</td></tr><tr><td>AVS-36</td><td>Complex Beat</td><td>Mystery Box</td><td>-</td><td>-</td></tr><tr><td>Automaton</td><td>First Red Hero</td><td>Mystery Box</td><td>-</td><td>-</td></tr></tbody></table>"
+      },
+      {
+        "title": "SMGs: base → upgrade",
+        "body": "PPSh-41 → Dedushka: Wall Weapon; 1000 Jolts; Underground Tunnels.\nType 100 → Blood Type: Wall Weapon; 750 Jolts; Bluffs.\nWaffe 28 → Flapjack: Wall Weapon; 1000 Jolts; Bluffs.\nGrease Gun → The Greaser: Wall Weapon; 1000 Jolts; Bunker 3.\nM1928 → Chicago Typewriter: Wall Weapon; 1000 Jolts; U-Boat Pens.\nMP-40 → Hardly Werkeing: Wall Weapon; 1000 Jolts; Bunker 3.\nSten → La Resistance: Mystery Box.\nOrso → The Boot: Mystery Box.\nM-38 → Casket King: Mystery Box.\nSterling → The British 6: Mystery Box.\nNambu Type 2 → Tokyo Jam: Mystery Box.\nZK-383 → One-Eyed Mace: Mystery Box.\nRibeyrolles → Roland's Count: Mystery Box.",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-darkest-shore/",
+        "html": "<table><thead><tr><th>Weapon</th><th>Upgrade</th><th>Acquisition</th><th>Cost</th><th>Location</th></tr></thead><tbody><tr><td>PPSh-41</td><td>Dedushka</td><td>Wall Weapon</td><td>1000 Jolts</td><td>Underground Tunnels</td></tr><tr><td>Type 100</td><td>Blood Type</td><td>Wall Weapon</td><td>750 Jolts</td><td>Bluffs</td></tr><tr><td>Waffe 28</td><td>Flapjack</td><td>Wall Weapon</td><td>1000 Jolts</td><td>Bluffs</td></tr><tr><td>Grease Gun</td><td>The Greaser</td><td>Wall Weapon</td><td>1000 Jolts</td><td>Bunker 3</td></tr><tr><td>M1928</td><td>Chicago Typewriter</td><td>Wall Weapon</td><td>1000 Jolts</td><td>U-Boat Pens</td></tr><tr><td>MP-40</td><td>Hardly Werkeing</td><td>Wall Weapon</td><td>1000 Jolts</td><td>Bunker 3</td></tr><tr><td>Sten</td><td>La Resistance</td><td>Mystery Box</td><td>-</td><td>-</td></tr><tr><td>Orso</td><td>The Boot</td><td>Mystery Box</td><td>-</td><td>-</td></tr><tr><td>M-38</td><td>Casket King</td><td>Mystery Box</td><td>-</td><td>-</td></tr><tr><td>Sterling</td><td>The British 6</td><td>Mystery Box</td><td>-</td><td>-</td></tr><tr><td>Nambu Type 2</td><td>Tokyo Jam</td><td>Mystery Box</td><td>-</td><td>-</td></tr><tr><td>ZK-383</td><td>One-Eyed Mace</td><td>Mystery Box</td><td>-</td><td>-</td></tr><tr><td>Ribeyrolles</td><td>Roland&#x27;s Count</td><td>Mystery Box</td><td>-</td><td>-</td></tr></tbody></table>"
+      },
+      {
+        "title": "Shotguns: base → upgrade",
+        "body": "Toggle Action → Lucky: Mystery Box.\nCombat Shotgun → Diplomatic Solution: Wall Weapon; 1000 Jolts; Bunkers.\nM30 Luftwaffe Drilling → Trips: Mystery Box & Starting Weapon.\nSawed-Off Shotgun → Last Model: Wall Weapon & Starting Weapon; 750 Jolts; Beach Passage.\nBlunderbuss → Funderbuss: Mystery Box.",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-darkest-shore/",
+        "html": "<table><thead><tr><th>Weapon</th><th>Upgrade</th><th>Acquisition</th><th>Cost</th><th>Location</th></tr></thead><tbody><tr><td>Toggle Action</td><td>Lucky</td><td>Mystery Box</td><td>-</td><td>-</td></tr><tr><td>Combat Shotgun</td><td>Diplomatic Solution</td><td>Wall Weapon</td><td>1000 Jolts</td><td>Bunkers</td></tr><tr><td>M30 Luftwaffe Drilling</td><td>Trips</td><td>Mystery Box &amp; Starting Weapon</td><td>-</td><td>-</td></tr><tr><td>Sawed-Off Shotgun</td><td>Last Model</td><td>Wall Weapon &amp; Starting Weapon</td><td>750 Jolts</td><td>Beach Passage</td></tr><tr><td>Blunderbuss</td><td>Funderbuss</td><td>Mystery Box</td><td>-</td><td>-</td></tr></tbody></table>"
+      },
+      {
+        "title": "Light Machine Guns: base → upgrade",
+        "body": "Lewis → Belgian Rattlesnake: Mystery Box.\nMG 15 → Chatterbox: Mystery Box.\nBren → Ronnie: Mystery Box.\nMG 42 → Bone Saw: Mystery Box.\nGPMG → Good Enough: Mystery Box.\nMG 81 → Spandau Serenade: Mystery Box.\nStinger → Hurt Box: Mystery Box.",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-darkest-shore/",
+        "html": "<table><thead><tr><th>Weapon</th><th>Upgrade</th><th>Acquisition</th><th>Cost</th><th>Location</th></tr></thead><tbody><tr><td>Lewis</td><td>Belgian Rattlesnake</td><td>Mystery Box</td><td>-</td><td>-</td></tr><tr><td>MG 15</td><td>Chatterbox</td><td>Mystery Box</td><td>-</td><td>-</td></tr><tr><td>Bren</td><td>Ronnie</td><td>Mystery Box</td><td>-</td><td>-</td></tr><tr><td>MG 42</td><td>Bone Saw</td><td>Mystery Box</td><td>-</td><td>-</td></tr><tr><td>GPMG</td><td>Good Enough</td><td>Mystery Box</td><td>-</td><td>-</td></tr><tr><td>MG 81</td><td>Spandau Serenade</td><td>Mystery Box</td><td>-</td><td>-</td></tr><tr><td>Stinger</td><td>Hurt Box</td><td>Mystery Box</td><td>-</td><td>-</td></tr></tbody></table>"
+      },
+      {
+        "title": "Sniper Rifles: base → upgrade",
+        "body": "Lee Enfield → Smiley: Wall Weapon; 1600 Jolts; Bunker 1.\nKarabin → White Death: Mystery Box.\nM1903 → Massachusetts: Mystery Box.\nKar98k → War Model: Starting Weapon.\nType 38 → Defaced Chrysanthemum: Mystery Box.\nPTRS-41 → Tiger Gun: Mystery Box.\nLever Action → Trixie: Mystery Box.\nDe Lisle → Subsonic Scream: Mystery Box.\n3-Line Rifle → Hot Borshch: Mystery Box.",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-darkest-shore/",
+        "html": "<table><thead><tr><th>Weapon</th><th>Upgrade</th><th>Acquisition</th><th>Cost</th><th>Location</th></tr></thead><tbody><tr><td>Lee Enfield</td><td>Smiley</td><td>Wall Weapon</td><td>1600 Jolts</td><td>Bunker 1</td></tr><tr><td>Karabin</td><td>White Death</td><td>Mystery Box</td><td>-</td><td>-</td></tr><tr><td>M1903</td><td>Massachusetts</td><td>Mystery Box</td><td>-</td><td>-</td></tr><tr><td>Kar98k</td><td>War Model</td><td>Starting Weapon</td><td>-</td><td>-</td></tr><tr><td>Type 38</td><td>Defaced Chrysanthemum</td><td>Mystery Box</td><td>-</td><td>-</td></tr><tr><td>PTRS-41</td><td>Tiger Gun</td><td>Mystery Box</td><td>-</td><td>-</td></tr><tr><td>Lever Action</td><td>Trixie</td><td>Mystery Box</td><td>-</td><td>-</td></tr><tr><td>De Lisle</td><td>Subsonic Scream</td><td>Mystery Box</td><td>-</td><td>-</td></tr><tr><td>3-Line Rifle</td><td>Hot Borshch</td><td>Mystery Box</td><td>-</td><td>-</td></tr></tbody></table>"
+      },
+      {
+        "title": "Pistols: base → upgrade",
+        "body": "1911 → Bacon and Eggs: Spawn with it.\nP-08 → G.I.'s Souvenir: Starting Weapon.\nMachine Pistol → Red 9: Starting Weapon/Mystery Box; 500 Jolts; Beach.\n9mm SAP → Grey Ghost: Starting Weapon/Mystery Box.\nEnfield No. 2 → Bulldog: Starting Weapon/Mystery Box.\nReichsrevolver → Glücklicher Punk: Starting Weapon/Mystery Box.",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-darkest-shore/",
+        "html": "<table><thead><tr><th>Weapon</th><th>Upgrade</th><th>Acquisition</th><th>Cost</th><th>Location</th></tr></thead><tbody><tr><td>1911</td><td>Bacon and Eggs</td><td>Spawn with it</td><td>-</td><td>-</td></tr><tr><td>P-08</td><td>G.I.&#x27;s Souvenir</td><td>Starting Weapon</td><td>-</td><td>-</td></tr><tr><td>Machine Pistol</td><td>Red 9</td><td>Starting Weapon/Mystery Box</td><td>500 Jolts</td><td>Beach</td></tr><tr><td>9mm SAP</td><td>Grey Ghost</td><td>Starting Weapon/Mystery Box</td><td>-</td><td>-</td></tr><tr><td>Enfield No. 2</td><td>Bulldog</td><td>Starting Weapon/Mystery Box</td><td>-</td><td>-</td></tr><tr><td>Reichsrevolver</td><td>Glücklicher Punk</td><td>Starting Weapon/Mystery Box</td><td>-</td><td>-</td></tr></tbody></table>"
+      },
+      {
+        "title": "Special weapon routes",
+        "body": "The source lists Fliegerfaust → Luftfaust from the Mystery Box, Jack-in-the-Box from the Box, the starting Shovel, Barbarossa’s Pommel from the main ritual and Ripsaw → R.I.P. Saw from its build/infusion/fuse route. The Classic uses its separate Bomber funding task before becoming Box-eligible. These quest routes are linked below; do not infer an ordinary Ubersprengen upgrade for an item whose alias is shown as a dash.",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-darkest-shore/",
+        "html": "<p>The source lists Fliegerfaust → Luftfaust from the Mystery Box, Jack-in-the-Box from the Box, the starting Shovel, Barbarossa’s Pommel from the main ritual and Ripsaw → R.I.P. Saw from its build/infusion/fuse route. The Classic uses its separate Bomber funding task before becoming Box-eligible. These quest routes are linked below; do not infer an ordinary Ubersprengen upgrade for an item whose alias is shown as a dash.</p><table><thead><tr><th>Weapon</th><th>Upgrade</th><th>Acquisition</th><th>Cost</th><th>Location</th></tr></thead><tbody><tr><td>Fliegerfaust</td><td>Luftfaust</td><td>Mystery Box</td><td>-</td><td>-</td></tr><tr><td>Jack-in-the-Box</td><td>-</td><td>Mystery Box</td><td>-</td><td>-</td></tr><tr><td>Barbarossa&#x27;s Pommel</td><td>-</td><td>Quest</td><td>-</td><td>-</td></tr><tr><td>Shovel</td><td>-</td><td>Starting Weapon</td><td>-</td><td>-</td></tr><tr><td>Ripsaw</td><td>R.I.P. Saw</td><td>Quest</td><td>2500 Jolts</td><td>-</td></tr></tbody></table>"
+      },
+      {
+        "title": "Read the table’s ambiguous entries",
+        "body": "The table spells the MP-40 alias “Hardly Werkeing,” the M1903 upgrade “Massachusetts,” and the sawed-off upgrade “Last Model.” Its Machine Pistol row lists a 500-Jolt Beach location while the acquisition label says Starting Weapon/Mystery Box. These are source entries, not a correction to your on-screen name or proof of every current weapon locker.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-darkest-shore/"
+      }
+    ],
+    "relatedGuideIds": [
+      "wwii-the-darkest-shore-community-the-darkest-shore-map-features-pack-a-punch-ubersprengen",
+      "wwii-the-darkest-shore-community-the-darkest-shore-ripsaw-ripsaw",
+      "wwii-the-darkest-shore-community-the-darkest-shore-ranged-ripsaw-upgrade-ranged-ripsaw-upgrade",
+      "wwii-the-darkest-shore-community-the-darkest-shore-r-i-p-saw-upgrade-r-i-p-saw-upgrade",
+      "wwii-the-darkest-shore-community-the-darkest-shore-easter-eggs-quests-the-classic-ppsh-41",
+      "wwii-the-darkest-shore-community-the-darkest-shore-map-features-mystery-box-locations"
+    ],
+    "sources": [
+      {
+        "title": "r/CODZombies — map guide by The_Beebat and LackingAGoodName, with geekcomm",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/the-darkest-shore/"
+      }
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": "https://www.reddit.com/r/CODZombies/wiki/the-darkest-shore/"
+  },
+  {
+    "id": "wwii-the-darkest-shore-artillery-audio-recorder",
+    "mapId": "wwii-the-darkest-shore",
+    "title": "Recorders",
+    "summary": "Launch locations and the later Artillery pickup.",
+    "category": "side",
+    "difficulty": "Easy",
+    "players": "Solo or co-op",
+    "requirements": [
+      "Call of Duty: WWII — The Darkest Shore.",
+      "Open the island routes and check the Dossier for missing files."
+    ],
+    "reward": "Additional Dossier recordings; the Artillery report covers missing files 23 and 24.",
+    "steps": [
+      {
+        "title": "Playback",
+        "body": "Dossier → Recordings is the playback menu.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=yPkDNQiFiwE&t=33"
+      },
+      {
+        "title": "U-Boat stairs",
+        "body": "Search the corner under the U-Boat Pens stairs. The device was already collected in this recording; the image marks its location.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=yPkDNQiFiwE&t=48"
+      },
+      {
+        "title": "Beach window",
+        "body": "Open the first door from spawn. At the first window, move right, crouch, look down and hold Interact.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=yPkDNQiFiwE&t=65"
+      },
+      {
+        "title": "PaP toolbox",
+        "body": "Stand over the metal toolbox beside Ubersprengen, look down and hold Interact. The video uses the default PlayStation Square binding.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=yPkDNQiFiwE&t=81"
+      },
+      {
+        "title": "Search the Artillery gun mount",
+        "body": "Inspect the mount of the large cannon inside the Artillery Bunker for the recorder. Thunder_Fudge reports collecting it after an update when audio 23 and 24 were missing; later players confirm that same gun-mount pickup. It is separate from collecting only the earlier launch-era recorders.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/8drrg5/"
+      },
+      {
+        "title": "Collect it and check the missing files",
+        "body": "Collect the device and check your Recordings list for the previously missing entries. The firsthand replies correct the claim that files 23 and 24 always appear automatically from The Final Reich. They do not establish the exact interaction distance, whether a prompt is shown or the current cross-map prerequisite.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/8drrg5/",
+        "tip": "Physical devices and unlocked files are different counts. The launch video’s automatic-file claim conflicts with this later Artillery report. Current prerequisites, exact pickup range and remaining recorder census are not certified."
+      }
+    ],
+    "relatedGuideIds": [
+      "wwii-the-darkest-shore-community-the-darkest-shore-easter-eggs-quests-main-easter-egg-quest"
+    ],
+    "sources": [
+      {
+        "title": "r/CODZombies — map guide by The_Beebat and LackingAGoodName, with geekcomm",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/the-darkest-shore/"
+      },
+      {
+        "title": "r/CODZombies — Artillery recorder recovery reports",
+        "url": "https://www.reddit.com/r/CODZombies/comments/8drrg5/"
+      },
+      {
+        "title": "Launch footage",
+        "url": "https://www.youtube.com/watch?v=yPkDNQiFiwE"
+      }
+    ],
+    "checked": "2026-10-23"
+  },
+  {
+    "id": "wwii-the-darkest-shore-combat-and-exploration-achievements",
+    "mapId": "wwii-the-darkest-shore",
+    "title": "Combat and exploration achievements",
+    "summary": "The Ripsaw, Pommel, fog, opening rush, island exploration and Straub objectives.",
+    "category": "side",
+    "difficulty": "Intermediate",
+    "players": "Solo or co-op",
+    "requirements": [
+      "Call of Duty: WWII — The Darkest Shore.",
+      "Read the chosen objective before starting; some require a particular attack or opening-wave restriction."
+    ],
+    "reward": "Progress toward the map’s separate combat and exploration trophies/achievements.",
+    "steps": [
+      {
+        "title": "Opening rush and fog kills",
+        "body": "I Got This requires surviving the initial Beach Rush without using either mounted machine-gun turret. Own the Fog, Be the Fog requires killing a Meuchler while fog is active. The latter is a fog kill, not merely damaging one before the weather clears.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-darkest-shore/"
+      },
+      {
+        "title": "Ripsaw line and spine objectives",
+        "body": "The Bakers Dozen Massacre requires lining up and killing thirteen zombies with a single Ripsaw shot. Always on Spine requires extracting a spine from every zombie type. Use the running heavy-melee extraction after ranged infusion, not a fired blade, for the spine objective.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-darkest-shore/",
+        "tip": "The primary achievement table does not enumerate exactly which enemy classes count for “every Zombie type.” It also supplies no guaranteed thirteen-kill line or blade-damage breakpoint; those remain verification gaps."
+      },
+      {
+        "title": "Pommel and island progress",
+        "body": "Black Winds to Darker Lands requires obtaining the Pommel through the three anointed-head trials and final blood-pool ritual. Severe Pommeling requires 250 Pommel kills in one match. Going Up… unlocks when Ubersprengen is opened, and Making History is the completed island escape. This Damn Island requires exploring the whole island; the read source does not give its complete area checklist.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-darkest-shore/"
+      },
+      {
+        "title": "Find and shoot Straub",
+        "body": "Still Lurking requires finding and shooting Dr. Straub. One recent Darkest Shore player report mentions two windows to the right near an Armor station and suggests the right-hand window closest to Armor as a watching spot. Shoot him if he appears and check the achievement notification.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/WWII/comments/1x1a620/",
+        "tip": "That report does not name which of the map’s three Armor stations it shows. This guide has not inspected the original clip, established every Straub location or confirmed his spawn rules; it is a reported search lead, not a full location guide."
+      }
+    ],
+    "relatedGuideIds": [
+      "wwii-the-darkest-shore-community-the-darkest-shore-easter-eggs-quests-main-easter-egg-quest",
+      "wwii-the-darkest-shore-community-the-darkest-shore-ranged-ripsaw-upgrade-ranged-ripsaw-upgrade",
+      "wwii-the-darkest-shore-community-the-darkest-shore-map-features-pack-a-punch-ubersprengen",
+      "wwii-the-darkest-shore-community-the-darkest-shore-map-features-armor"
+    ],
+    "sources": [
+      {
+        "title": "r/CODZombies — map guide by The_Beebat and LackingAGoodName, with geekcomm",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/the-darkest-shore/"
+      },
+      {
+        "title": "r/WWII — reported Straub sighting",
+        "url": "https://www.reddit.com/r/WWII/comments/1x1a620/"
+      }
+    ],
+    "checked": "2026-10-23"
   }
 ]

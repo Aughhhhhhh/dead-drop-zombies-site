@@ -3341,6 +3341,62 @@
         "width": 580,
         "height": 650
       }
+    ],
+    "wwii-the-darkest-shore-community-the-darkest-shore-easter-eggs-quests-main-easter-egg-quest": [
+      {
+        "step": 24,
+        "src": "./assets/shore-pest-artillery.webp",
+        "alt": "Yellow fuse target",
+        "caption": "Artillery shot.",
+        "credit": "CodeNamePizza",
+        "source": "https://www.youtube.com/watch?v=hQ4grd824ZE&t=715",
+        "width": 530,
+        "height": 310
+      }
+    ],
+    "wwii-the-darkest-shore-artillery-audio-recorder": [
+      {
+        "step": 2,
+        "src": "./assets/shore-recorder-stairs.webp",
+        "alt": "Stairs corner",
+        "caption": "Device already collected.",
+        "credit": "MrDalekJD",
+        "source": "https://www.youtube.com/watch?v=yPkDNQiFiwE&t=55",
+        "width": 840,
+        "height": 410
+      },
+      {
+        "step": 3,
+        "src": "./assets/shore-recorder-window.webp",
+        "alt": "Window recorder",
+        "caption": "Crouched pickup view.",
+        "credit": "MrDalekJD",
+        "source": "https://www.youtube.com/watch?v=yPkDNQiFiwE&t=75",
+        "width": 450,
+        "height": 285
+      },
+      {
+        "step": 4,
+        "src": "./assets/shore-recorder-toolbox.webp",
+        "alt": "Toolbox locator",
+        "caption": "Look inside.",
+        "credit": "MrDalekJD",
+        "source": "https://www.youtube.com/watch?v=yPkDNQiFiwE&t=90",
+        "width": 580,
+        "height": 270
+      }
+    ],
+    "wwii-the-darkest-shore-community-the-darkest-shore-r-i-p-saw-upgrade-r-i-p-saw-upgrade": [
+      {
+        "step": 1,
+        "src": "./assets/shore-rip-number.webp",
+        "alt": "Number example",
+        "caption": "Bluffs woodpile.",
+        "credit": "MrDalekJD",
+        "source": "https://www.youtube.com/watch?v=ev2RcafYoSM&t=90",
+        "width": 480,
+        "height": 210
+      }
     ]
   },
   "sizes": {
@@ -12115,6 +12171,26 @@
     "./assets/reich-classic-bowls.svg": [
       580,
       650
+    ],
+    "./assets/shore-pest-artillery.webp": [
+      530,
+      310
+    ],
+    "./assets/shore-recorder-stairs.webp": [
+      840,
+      410
+    ],
+    "./assets/shore-recorder-window.webp": [
+      450,
+      285
+    ],
+    "./assets/shore-recorder-toolbox.webp": [
+      580,
+      270
+    ],
+    "./assets/shore-rip-number.webp": [
+      480,
+      210
     ]
   }
 }
