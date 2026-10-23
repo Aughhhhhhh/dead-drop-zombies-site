@@ -64075,5 +64075,1276 @@
         "supplementNote": ""
       }
     }
+  },
+  "the-shadowed-throne-map-features-power": {
+    "mapOverrides": {
+      "wwii-the-shadowed-throne": {
+        "title": "Power: the map starts switched on",
+        "category": "side",
+        "difficulty": "Easy",
+        "players": "Solo / co-op",
+        "summary": "Start using powered map features without searching for a power switch.",
+        "requirements": [
+          "WWII: The Shadowed Throne."
+        ],
+        "reward": "Powered map features are available once their routes and individual quest conditions are met.",
+        "steps": [
+          {
+            "title": "Open routes instead of looking for a switch",
+            "body": "The Shadowed Throne has no general Power Switch. Its map features start powered. Open the doors you need, then follow each feature’s own unlock quest; the Wunderbuss and Ubersprengen still have their separate construction and panel steps.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/"
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "The_Beebat and r/CODZombies — Shadowed Throne map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "wwii-the-shadowed-throne-community-the-shadowed-throne-map-features-wunderbuss",
+          "wwii-the-shadowed-throne-community-the-shadowed-throne-map-features-pack-a-punch-ubersprengen",
+          "wwii-the-shadowed-throne-perks-box-reference"
+        ]
+      }
+    }
+  },
+  "the-shadowed-throne-map-features-traps": {
+    "mapOverrides": {
+      "wwii-the-shadowed-throne": {
+        "title": "Three traps: locations, costs and the trap challenge",
+        "category": "side",
+        "difficulty": "Moderate",
+        "players": "Solo / co-op",
+        "summary": "Find the Plaza, Main Street and Cabaret trap controls.",
+        "requirements": [
+          "WWII: The Shadowed Throne.",
+          "Open the required area and check the live purchase prompt; the listed 1,000-Jolt figures are historical."
+        ],
+        "reward": "Three environmental traps; their separate character challenge is listed below.",
+        "steps": [
+          {
+            "title": "Plaza propeller — reported cost 1,000",
+            "body": "Activate the Propeller Trap in the Plaza and lead zombies into its blades. The source lists a 1,000-Jolt activation cost.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/"
+          },
+          {
+            "title": "Main Street electricity — reported cost 1,000",
+            "body": "Activate the Electric Trap on Main Street. The source describes it as attracting and shocking zombies and lists a 1,000-Jolt activation cost.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/"
+          },
+          {
+            "title": "Cabaret broken Blitz — reported cost 1,000",
+            "body": "Activate the Blitz Trap formed by broken Blitz machines in the Cabaret. The source lists attraction and electrical damage at a 1,000-Jolt activation cost.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/"
+          },
+          {
+            "title": "Keep the uncertain character quota separate",
+            "body": "Tech Savy is listed as 100 kills with each trap in one match, consecutively without other kill methods. The source also questions whether it must be after wave 20. Treat those uncertain conditions as unresolved rather than guaranteed unlock rules.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/",
+            "tip": "Trap durations, cooldowns, player damage, shared kill credit and the exact Tech Savy threshold have not been verified. Early firsthand hunt replies disagree between about 50 and 100 kills per trap."
+          }
+        ],
+        "sourceOmissions": [
+          "Trap timing and the exact Tech Savy conditions remain open."
+        ],
+        "sources": [
+          {
+            "title": "The_Beebat and r/CODZombies — Shadowed Throne map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/"
+          },
+          {
+            "title": "r/CODZombies — original April 2018 hunt and firsthand reports",
+            "url": "https://www.reddit.com/r/CODZombies/comments/8b4ngc/the_shadowed_throne_easter_egg_hunt_general_map/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "wwii-the-shadowed-throne-community-the-shadowed-throne-game-features-character-unlock-challenges"
+        ]
+      }
+    }
+  },
+  "the-shadowed-throne-map-features-armor": {
+    "mapOverrides": {
+      "wwii-the-shadowed-throne": {
+        "title": "Armor stations and the Sizzler-head step",
+        "category": "side",
+        "difficulty": "Easy",
+        "players": "Solo / co-op",
+        "summary": "Find all six reported Armor areas and understand the head-collection purchase.",
+        "requirements": [
+          "WWII: The Shadowed Throne.",
+          "Keep Jolts for repeat purchases; only the first historical cost is given."
+        ],
+        "reward": "Armor protection and the Sizzler head used for the Nazi Axe.",
+        "steps": [
+          {
+            "title": "Find a station in one of six areas",
+            "body": "The map guide lists Armor stations in the Apartments, Destroyed Building, Museum, Cabaret, Main Street and Plaza. Open the corresponding route and use the station’s live purchase prompt.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/"
+          },
+          {
+            "title": "Buy and replenish Armor",
+            "body": "The historical first purchase is 500 Jolts. The source says Armor protects against three otherwise-downing events, then must be repurchased, and subsequent purchases grow more expensive.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/",
+            "tip": "The read source does not provide the full rebuy-price ladder, damage breakpoints or every mode exception. Treat the station prompt and your actual Armor display as authoritative for the current match."
+          },
+          {
+            "title": "Place the bowl upstairs in the Museum and retrieve a head",
+            "body": "Put the bowl on the scale on the Museum’s top-floor table. Melee-kill a Sizzler beside an Armor station so its head appears in that station. Purchase Armor from the same station to retrieve the head, then place it in the bowl on the scale.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/",
+            "tip": "Use the Museum scale. The early hunt body incorrectly sends the player to the Church; the later wiki and MrBlipsk’s firsthand hunt route both identify the Museum. Exact head-capture radius and Armor eligibility edge cases are not established."
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "The_Beebat and r/CODZombies — Shadowed Throne map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/"
+          },
+          {
+            "title": "r/CODZombies — original April 2018 hunt and firsthand reports",
+            "url": "https://www.reddit.com/r/CODZombies/comments/8b4ngc/the_shadowed_throne_easter_egg_hunt_general_map/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "wwii-the-shadowed-throne-community-the-shadowed-throne-map-features-nazi-axe",
+          "wwii-the-shadowed-throne-perks-box-reference"
+        ]
+      }
+    }
+  },
+  "the-shadowed-throne-map-features-pack-a-punch-ubersprengen": {
+    "mapOverrides": {
+      "wwii-the-shadowed-throne": {
+        "title": "Unlock Ubersprengen / Pack-a-Punch",
+        "category": "weapon",
+        "difficulty": "Moderate",
+        "players": "Solo / co-op",
+        "summary": "Expose two panels with explosives and charge both with the Wunderbuss.",
+        "requirements": [
+          "WWII: The Shadowed Throne.",
+          "Build the Wunderbuss.",
+          "Keep a grenade or satchel charge for each of the two panels."
+        ],
+        "reward": "The Ubersprengen elevator in the Destroyed Building.",
+        "steps": [
+          {
+            "title": "Blow open both panel covers",
+            "body": "Use grenades or satchel charges on the metal panel beside the Waffe 28 wall buy in the Destroyed Building and the panel inside a zombie spawn in the Underbelly. Each cover must open so the electrical panel is exposed.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/",
+            "tip": "The text identifies these two landmarks but does not give a measured grenade angle or a complete view of the Underbelly spawn; original panel photos remain useful locator references."
+          },
+          {
+            "title": "Charge both exposed panels",
+            "body": "Shoot each exposed panel with the Wunderbuss. Once both are charged, the Ubersprengen rises in the elevator shaft beside the Armor station in the Destroyed Building.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/"
+          },
+          {
+            "title": "Upgrade eligible ordinary weapons at the machine",
+            "body": "Take an eligible weapon to the newly opened Ubersprengen and use its purchase interaction. The linked weapon reference preserves the map guide’s base and upgraded names.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/",
+            "tip": "The map article does not establish the current upgrade price, repeat-upgrade rules, all special effects or every weapon exception. No separate Wunderbuss upgrade route is established by these sources."
+          }
+        ],
+        "sourceOmissions": [
+          "Current price, repeat-upgrade rules, special effects and all exceptions remain untested."
+        ],
+        "sources": [
+          {
+            "title": "The_Beebat and r/CODZombies — Shadowed Throne map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "wwii-the-shadowed-throne-community-the-shadowed-throne-map-features-wunderbuss",
+          "wwii-the-shadowed-throne-weapons-reference"
+        ]
+      }
+    }
+  },
+  "the-shadowed-throne-map-features-resupply-crate": {
+    "mapOverrides": {
+      "wwii-the-shadowed-throne": {
+        "title": "Recover weapons from a co-op Resupply Crate",
+        "category": "side",
+        "difficulty": "Easy",
+        "players": "Co-op",
+        "summary": "Use the crate after bleeding out and returning to the match.",
+        "requirements": [
+          "WWII: The Shadowed Throne.",
+          "Co-op game; bleed out and respawn.",
+          "The source lists a historical 500-Jolt recovery purchase."
+        ],
+        "reward": "The weapons and equipment held before the reported bleed-out loss.",
+        "steps": [
+          {
+            "title": "Return to a crate after respawning",
+            "body": "After bleeding out in co-op and returning to life, find a Resupply Crate in the Underbelly, Barbarossa’s Refuge or the zeppelin. The map guide reports a 500-Jolt purchase to recover lost weapons and equipment.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/",
+            "tip": "Which items are excluded, how long the recovery remains available and whether every player shares the same eligibility are not established. Check the active crate prompt; no solo recovery route is documented here."
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "The_Beebat and r/CODZombies — Shadowed Throne map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "wwii-the-shadowed-throne-community-the-shadowed-throne-easter-eggs-quests-main-easter-egg-quest"
+        ]
+      }
+    }
+  },
+  "the-shadowed-throne-map-features-wunderbuss": {
+    "mapOverrides": {
+      "wwii-the-shadowed-throne": {
+        "title": "Build the Wunderbuss and recharge it",
+        "category": "weapon",
+        "difficulty": "Moderate",
+        "players": "Solo / co-op",
+        "summary": "Contact the Russians, fire the flare and construct the battery-and-Geistbolt weapon.",
+        "requirements": [
+          "WWII: The Shadowed Throne.",
+          "Reach Main Street, Church, Plaza, Museum / Cabaret and Apartments basement.",
+          "Keep a normal melee option for the Sizzler part."
+        ],
+        "reward": "Wunderbuss, used for Ubersprengen and multiple main-quest charging steps.",
+        "steps": [
+          {
+            "title": "Read the radio model and Church district",
+            "body": "On Main Street, read the letters and number on top of the radio on the table. In the Church, find the region containing the marker on the map. On the charts immediately left of that map, find that region and the row matching your radio model; copy its two frequency values. Return to the Main Street radio and set both values. Wait for the Contacted the Russians confirmation.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/",
+            "tip": "Read the model and district in your match. The source text does not transcribe every chart cell, so this guide cannot supply a complete model-by-region lookup table."
+          },
+          {
+            "title": "Send the Plaza flare",
+            "body": "After contacting the Russians, find the small flare box on a table in the Plaza. Shoot it open, then shoot or melee the unlocked lock to launch the flare. Straub’s zeppelin arrives and starts turning ordinary zombies into Gekocht, also called Sizzlers.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/"
+          },
+          {
+            "title": "Collect the battery and Geistbolt",
+            "body": "Melee a Sizzler to obtain the Geistbolt part. Look for the Wunderbuss battery at one of three reported positions: Cabaret beside the M1928 wall buy; Museum beside the Armor station; or Museum beside Faustblitz. Collect both parts before entering the workshop.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/",
+            "tip": "The three battery positions are the later map guide’s list. The original hunt left an additional question mark; that unfinished entry is not treated as a fourth confirmed spawn."
+          },
+          {
+            "title": "Build the Wunderbuss and reopen the workshop",
+            "body": "Go to the Apartments basement, opposite the Type 100 wall buy. Put the battery into the gate generator to enter. From the other side, remove it; the gate shuts behind you. Place the battery and Geistbolt on the crafting station and pick up the Wunderbuss. Fire it into the gate generator until the gate reopens permanently.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/"
+          },
+          {
+            "title": "Replenish energy with the secondary shot",
+            "body": "The firsthand map review describes the Wunderbuss secondary shot as extracting Geistkraft from zombies to regenerate its ammunition. Refill before prolonged charging steps rather than arriving with an empty weapon.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/d60kzz/cod_ww2_opinions_and_thoughts/",
+            "tip": "The read sources do not establish exact controller / keyboard inputs, siphon rates, damage statistics or every enemy interaction. The original hunt’s Wunderbuss Upgrade heading contains only a question mark; no separate upgrade quest is established here."
+          },
+          {
+            "title": "Separate the weapon from an unproven upgrade",
+            "body": "The original hunt’s upgrade section never supplies a procedure. A later personal weapon report also says it cannot be upgraded. This guide therefore provides the construction and refill route only; it does not invent a second tier or claim an exhaustive proof that no other interaction exists.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/WWII/comments/1ptjvfn/ww2_zombies_wonder_weapons_ranked_in_detail/"
+          }
+        ],
+        "sourceOmissions": [
+          "Full frequency table, exact siphon inputs / rates and any independently verified upgrade route remain missing."
+        ],
+        "sources": [
+          {
+            "title": "The_Beebat and r/CODZombies — Shadowed Throne map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/"
+          },
+          {
+            "title": "TrixStudio — firsthand WWII map and weapon review",
+            "url": "https://www.reddit.com/r/CODZombies/comments/d60kzz/cod_ww2_opinions_and_thoughts/"
+          },
+          {
+            "title": "Beneficial_Ask_849 — personal special-weapon report",
+            "url": "https://www.reddit.com/r/WWII/comments/1ptjvfn/ww2_zombies_wonder_weapons_ranked_in_detail/"
+          },
+          {
+            "title": "r/CODZombies — original April 2018 hunt and firsthand reports",
+            "url": "https://www.reddit.com/r/CODZombies/comments/8b4ngc/the_shadowed_throne_easter_egg_hunt_general_map/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "wwii-the-shadowed-throne-community-the-shadowed-throne-map-features-pack-a-punch-ubersprengen",
+          "wwii-the-shadowed-throne-community-the-shadowed-throne-easter-eggs-quests-main-easter-egg-quest"
+        ]
+      }
+    }
+  },
+  "the-shadowed-throne-map-features-smuggler-s-bat": {
+    "mapOverrides": {
+      "wwii-the-shadowed-throne": {
+        "title": "Smuggler’s Bat: ammunition clue, payment and three knocks",
+        "category": "weapon",
+        "difficulty": "Moderate",
+        "players": "Solo / co-op",
+        "summary": "Choose a suitable firearm using the workshop clue, pay the Smuggler and open his room.",
+        "requirements": [
+          "WWII: The Shadowed Throne.",
+          "Build the Wunderbuss.",
+          "Keep a firearm to surrender and Jolts for the second sewer hatch.",
+          "Do not surrender the Shovel; the source warns of a progression bug."
+        ],
+        "reward": "Smuggler’s Bat, one of the three special melee weapons needed at the Church gate.",
+        "steps": [
+          {
+            "title": "Contact the Smuggler using the register",
+            "body": "In the Wunderbuss workshop, shoot the cash register on top of the cabinet with the Wunderbuss. Read the two frequency numbers underneath the opened drawer. Put those numbers into the Main Street radio to contact the Smuggler.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/"
+          },
+          {
+            "title": "Use the ammunition clue at the first sewer hatch",
+            "body": "Check the ammunition on the table next to the Wunderbuss to identify the requested weapon class. In the Plaza, shoot open the small sewer hatch near the BAR wall buy. Interact with it to hand the Smuggler a suitable firearm. Wait for the Armed the Smuggler confirmation before progressing.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/",
+            "tip": "The later main-quest chapter supplies the ammunition clue; the older standalone chapter calls the choice random. The full ammunition-picture-to-class chart is still missing here. A handed-over weapon is consumed even if refused, according to the original hunt. Do not hand over the Shovel: the map guide warns that it can break progression."
+          },
+          {
+            "title": "Reported wall weapons for three ammunition types",
+            "body": "In a 2023 firsthand reply, based_individual_ reports using MP-40 for SMG ammunition, Sawed-Off Shotgun for shotgun ammunition and FG 42 for rifle ammunition. The player identifies them as wall-weapon examples, making them easier to obtain than relying on a Box roll.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/166gfki/shadowed_throne_smuggler_help/",
+            "tip": "These are three reported working examples, not a complete compatibility table or a guarantee for every game version. The reply does not resolve pistol or other ammunition pictures. Use the confirmation, not the weapon’s class alone, to decide whether the handoff succeeded."
+          },
+          {
+            "title": "Wait two full waves and pay at the second hatch",
+            "body": "After the weapon is accepted, finish two more waves. Open the second sewer hatch on Main Street by shooting or meleeing it. Drop Jolts into the opening until the Paid the Smuggler confirmation appears.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/",
+            "tip": "A firsthand hunt comment places this second opening across from the Theater entrance reached from the starting area. The source does not give a fixed total payment; stop when payment is confirmed."
+          },
+          {
+            "title": "Knock three times and collect the Bat",
+            "body": "Wait about a minute, then return to the brown wooden door in the Wunderbuss workshop. Melee the door three times, listening for each knock. When it opens, be ready for a live Wüstling; collect the Smuggler’s Bat from the room or corpse.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/",
+            "tip": "The wiki reports a dead Wüstling instead of the Smuggler when an upgraded weapon was given. The original hunt called the outcome logic unknown. This is an old reported branch, not a verified current guarantee; check the opened room before approaching."
+          },
+          {
+            "title": "Use the Bat for its Church slot",
+            "body": "For the main quest, carry the Bat to its matching shape beside the Church’s large red door. The early hunt associates this weapon’s soul collection with Pests; follow the full gate sequence after placing all three melee weapons.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/8b4ngc/the_shadowed_throne_easter_egg_hunt_general_map/"
+          }
+        ],
+        "sourceOmissions": [
+          "Full ammunition compatibility chart, exact payment, corpse branch and retry rules remain open."
+        ],
+        "sources": [
+          {
+            "title": "The_Beebat and r/CODZombies — Shadowed Throne map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/"
+          },
+          {
+            "title": "based_individual_ — firsthand Smuggler weapon examples",
+            "url": "https://www.reddit.com/r/CODZombies/comments/166gfki/shadowed_throne_smuggler_help/"
+          },
+          {
+            "title": "r/CODZombies — original April 2018 hunt and firsthand reports",
+            "url": "https://www.reddit.com/r/CODZombies/comments/8b4ngc/the_shadowed_throne_easter_egg_hunt_general_map/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "wwii-the-shadowed-throne-community-the-shadowed-throne-map-features-wunderbuss",
+          "wwii-the-shadowed-throne-community-the-shadowed-throne-easter-eggs-quests-main-easter-egg-quest",
+          "wwii-the-shadowed-throne-weapons-reference",
+          "wwii-the-shadowed-throne-melee-blade-reference"
+        ]
+      }
+    }
+  },
+  "the-shadowed-throne-map-features-dancer-s-dagger": {
+    "mapOverrides": {
+      "wwii-the-shadowed-throne": {
+        "title": "Dancer’s Dagger: four clown counts and safe directions",
+        "category": "weapon",
+        "difficulty": "Moderate",
+        "players": "Solo / co-op",
+        "summary": "Power the projector, record four soul counts and open the Apartments safe.",
+        "requirements": [
+          "WWII: The Shadowed Throne.",
+          "Build the Wunderbuss.",
+          "Keep the four clown counts in projector order."
+        ],
+        "reward": "Dancer’s Dagger from the Apartments safe.",
+        "steps": [
+          {
+            "title": "Install the painting and film reel",
+            "body": "Collect the painting beside the woman lying on the bed in the Apartments. In the Cabaret, look above the projector for a film reel on the railing. Shoot it down, pick it up and insert both the reel and painting into the projector. Fire the Wunderbuss into the projector until its map appears on the screen.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/"
+          },
+          {
+            "title": "Clown landmarks",
+            "body": "Recorded landmarks: Ubersprengen by spawn; Wunderbuss workshop; electrical trap by Laufenblitz; Museum chandelier; Kugelblitz; Cabaret backstage; Cabaret stage. Follow your projector’s dot; visiting this list in order does not set the combination.",
+            "original": true,
+            "researchSource": "https://www.youtube.com/watch?v=8kFRpwzctH8&t=493"
+          },
+          {
+            "title": "Follow four green dots and count each clown’s kills",
+            "body": "Read the green dot on the projected map and go to the corresponding clown doll. Kill zombies beside that doll and count only the kills it absorbs before it is full. Record the count as number one. Return to the screen for the next dot and repeat until you have four counts in the exact order the projector selected the clowns.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/",
+            "tip": "The wiki says the four clowns can be filled again in order if you lose a count. Do not sort the four counts numerically."
+          },
+          {
+            "title": "Turn the safe right, left, right, left",
+            "body": "At the Apartments safe near the bedroom, make one complete turn to the right to clear the input, then keep turning right to the first clown count. Reverse left to the second count, right to the third, then left to the fourth. Stop interacting with the dial and activate the safe to open it. Take the Dancer’s Dagger.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/8b4ngc/the_shadowed_throne_easter_egg_hunt_general_map/",
+            "tip": "For counts 3, 6, 7, 1, the reported sequence is right to 3, left to 6, right to 7, left to 1 after the clearing turn. This explains the directions; it does not establish a guaranteed input speed or overshoot tolerance."
+          },
+          {
+            "title": "If the correct combination still fails",
+            "body": "A 2025 firsthand report describes repeated failure with the same checked combination, eventually opening it after many tries; another player reports that both fast and slow turning have worked. Recheck the four counts and the clearing turn, but do not treat an invented speed, pause length or extra revolution as a guaranteed fix.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/WWII/comments/1kruq5f/shadowed_throne_easter_egg_safe_step/",
+            "tip": "The evidence leaves the safe’s precise input tolerance and a reliable recovery method unresolved. The walkthrough gives the reported directional sequence, not a retail-tested bug workaround."
+          },
+          {
+            "title": "Place the Dagger when continuing the main quest",
+            "body": "Put the Dagger in its matching slot beside the Church’s large red door. The early hunt associates this slot with regular zombie souls. Use the full gate sequence after placing all three weapons.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/8b4ngc/the_shadowed_throne_easter_egg_hunt_general_map/"
+          }
+        ],
+        "sourceOmissions": [
+          "Exact safe input tolerance, recovery and current clown census remain unverified."
+        ],
+        "sources": [
+          {
+            "title": "The_Beebat and r/CODZombies — Shadowed Throne map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/"
+          },
+          {
+            "title": "r/CODZombies — original April 2018 hunt and firsthand reports",
+            "url": "https://www.reddit.com/r/CODZombies/comments/8b4ngc/the_shadowed_throne_easter_egg_hunt_general_map/"
+          },
+          {
+            "title": "Head_Depth_5557 and TubaMan97 — unresolved safe-entry reports",
+            "url": "https://www.reddit.com/r/WWII/comments/1kruq5f/shadowed_throne_easter_egg_safe_step/"
+          },
+          {
+            "title": "Recorded locators",
+            "url": "https://www.youtube.com/watch?v=8kFRpwzctH8"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "wwii-the-shadowed-throne-community-the-shadowed-throne-easter-eggs-quests-main-easter-egg-quest",
+          "wwii-the-shadowed-throne-melee-blade-reference",
+          "wwii-the-shadowed-throne-dark-wings-song"
+        ]
+      }
+    }
+  },
+  "the-shadowed-throne-map-features-nazi-axe": {
+    "mapOverrides": {
+      "wwii-the-shadowed-throne": {
+        "title": "Nazi Axe: Morse coordinates, Sizzler head and Museum scale",
+        "category": "weapon",
+        "difficulty": "Moderate",
+        "players": "Solo / co-op",
+        "summary": "Find one of six frequency inscriptions and complete the Museum bowl-and-head ritual.",
+        "requirements": [
+          "WWII: The Shadowed Throne.",
+          "Launch the zeppelin so Sizzlers can appear.",
+          "Keep a melee weapon and enough Jolts to purchase Armor."
+        ],
+        "reward": "Nazi Axe from the Museum table drawer.",
+        "steps": [
+          {
+            "title": "Find the etched radio frequency",
+            "body": "Look for the etched number pair at one of six reported positions: inside the Apartments elevator; in the roof room of the Apartments; Cabaret stage right on a cabinet; Cabaret stage left behind the purple dress; Museum granite near the M1 Garand wall buy; or the base of a second-floor Museum pillar. Enter the found pair at the Main Street radio to start Morse audio.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/"
+          },
+          {
+            "title": "Decode the two numbers and take the magnifying glass",
+            "body": "Listen for short beeps (dots), long beeps (dashes) and pauses between groups. The message gives two numbers, such as 10 and 5. Pick up the magnifying glass from the bench next to the M1928 wall buy in the Cabaret.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/",
+            "tip": "The source supplies example coordinates, not a verified exhaustive answer list. Do not assume that every match uses either example. Exact audio timing and the complete possible-coordinate table remain unverified."
+          },
+          {
+            "title": "Use the first coordinate right and the second down",
+            "body": "Interact with the Church map using the magnifying glass. Move right by the first decoded number, then down by the second. For 10,5, move ten spaces right and five down. Release the map interaction at that square; the cabinet next to the map should open. Pick up its golden bowl.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/"
+          },
+          {
+            "title": "Place the bowl upstairs in the Museum and retrieve a head",
+            "body": "Put the bowl on the scale on the Museum’s top-floor table. Melee-kill a Sizzler beside an Armor station so its head appears in that station. Purchase Armor from the same station to retrieve the head, then place it in the bowl on the scale.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/",
+            "tip": "Use the Museum scale. The early hunt body incorrectly sends the player to the Church; the later wiki and MrBlipsk’s firsthand hunt route both identify the Museum. Exact head-capture radius and Armor eligibility edge cases are not established."
+          },
+          {
+            "title": "Balance the scale and fill the drawer",
+            "body": "Complete the scale interaction until the Balanced the Scale confirmation appears. Obtain melee kills next to the table and its rabbit until the drawer opens, then take the Nazi Axe.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/8b4ngc/the_shadowed_throne_easter_egg_hunt_general_map/",
+            "tip": "The original hunt specifies melee kills. It does not give a numerical quota or an exact balancing-button sequence. The later wiki describes the same reward at the Museum table; keep using that confirmed location rather than the hunt’s obsolete Church wording."
+          },
+          {
+            "title": "Place the Axe when continuing the main quest",
+            "body": "Put the Axe into its matching shape beside the Church’s red door. The early hunt associates the Axe with Sizzler souls. Continue with the full gate sequence once all three weapons have been placed.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/8b4ngc/the_shadowed_throne_easter_egg_hunt_general_map/"
+          }
+        ],
+        "sourceOmissions": [
+          "Complete coordinate table, exact scale controls, head radius and melee quota remain missing."
+        ],
+        "sources": [
+          {
+            "title": "The_Beebat and r/CODZombies — Shadowed Throne map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/"
+          },
+          {
+            "title": "r/CODZombies — original April 2018 hunt and firsthand reports",
+            "url": "https://www.reddit.com/r/CODZombies/comments/8b4ngc/the_shadowed_throne_easter_egg_hunt_general_map/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "wwii-the-shadowed-throne-community-the-shadowed-throne-easter-eggs-quests-main-easter-egg-quest",
+          "wwii-the-shadowed-throne-community-the-shadowed-throne-map-features-armor",
+          "wwii-the-shadowed-throne-melee-blade-reference"
+        ]
+      }
+    }
+  },
+  "the-shadowed-throne-game-features-character-unlock-challenges": {
+    "mapOverrides": {
+      "wwii-the-shadowed-throne": {
+        "title": "Character unlocks: all fifteen reported Shadowed Throne challenges",
+        "category": "side",
+        "difficulty": "Hard",
+        "players": "Solo / co-op",
+        "summary": "Plan the three five-challenge character sets and see the uncertain trap condition.",
+        "requirements": [
+          "WWII: The Shadowed Throne.",
+          "Check the challenge notification and account progress after each attempt.",
+          "The conditions below are historical community reports, not a current code or retail audit."
+        ],
+        "reward": "Reported progress toward Necromedic, Stalker and Skullbreaker character unlocks.",
+        "steps": [
+          {
+            "title": "Necromedic — three Treasure Zombie parts",
+            "body": "Requires Batteries, Useful Contraption and Missing Supplies are each listed as Treasure Zombie rewards. Kill Treasure Zombies and check which challenge notification appears. The table does not assign a guaranteed round, weapon or drop order to these three parts.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/",
+            "tip": "A firsthand hunt player reported all three parts while using the SVT, which does not establish a weapon requirement. Random drop chance, duplicate handling and full unlock-menu claim steps remain unverified."
+          },
+          {
+            "title": "Necromedic — Dirty Work",
+            "body": "Stay inside the Museum for twenty-five consecutive waves using only melee weapons. Track a continuous Museum streak rather than adding isolated waves from different visits.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/",
+            "tip": "The source does not resolve boundary edges, down / revive resets, teammate kill restrictions or every item that counts as melee. Do not invent those exclusions."
+          },
+          {
+            "title": "Necromedic — Tech Savy is still disputed",
+            "body": "The wiki lists 100 kills with each of the three traps in one match, in a row without kills by another method, and explicitly questions whether this must be after wave twenty.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/",
+            "tip": "Early firsthand hunt replies disagree between roughly fifty and one hundred per trap and whether consecutive kills matter. This guide retains the uncertainty; it cannot offer a guaranteed minimum or a confirmed wave gate."
+          },
+          {
+            "title": "Stalker — Keep Hands Clear",
+            "body": "Finish the main Easter egg without any player in the match going down. One player staying upright does not satisfy the table’s team-wide condition.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/"
+          },
+          {
+            "title": "Stalker — Hold Your Ground",
+            "body": "Reach wave twenty-one without opening any doors. Keep the starting area closed for the entire attempt.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/"
+          },
+          {
+            "title": "Stalker — Extinguisher",
+            "body": "Get ten consecutive headshot kills on Sizzlers. The wiki excludes pellet weapons, including shotguns and the upgraded 9mm SAP.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/",
+            "tip": "The early hunt described one-shot kills and contains a player’s sniper success report. The later guide specifically says consecutive headshot kills; exact non-kill interruptions remain unverified."
+          },
+          {
+            "title": "Stalker — Minimalist",
+            "body": "Reach wave thirty-one without using Blitz, Mods, Special Abilities or Consumables. The listed conditions allow Armor and prohibit going down.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/"
+          },
+          {
+            "title": "Stalker — Just Takes A Scratch",
+            "body": "Reach wave thirty-one without taking damage. The wiki states that Bomber explosion damage does not count toward failure.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/",
+            "tip": "This explosion exception is a historical community claim. No current damage-event audit or complete list of excluded hazards has been performed."
+          },
+          {
+            "title": "Skullbreaker — Fight Fair",
+            "body": "Finish the main Easter egg without anyone using any of the six Blitz machines. Armor is explicitly allowed.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/"
+          },
+          {
+            "title": "Skullbreaker — Down The Sights",
+            "body": "Finish three consecutive waves while shooting zombies only in the head. Keep a continuous three-wave attempt rather than adding nonconsecutive rounds.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/"
+          },
+          {
+            "title": "Skullbreaker — Crush Them Quick",
+            "body": "Reach wave twenty-one in less than twenty-five minutes. Check the match clock throughout the run.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/"
+          },
+          {
+            "title": "Skullbreaker — Time Cruncher",
+            "body": "Finish the main Easter egg in less than thirty-three minutes. The source does not identify an exact timer-start / finish event or grace margin, so plan below the stated threshold.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/"
+          },
+          {
+            "title": "Skullbreaker — Set The Stage",
+            "body": "Stay at the front of the Cabaret stage for fifteen consecutive waves.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/",
+            "tip": "The exact edge of the valid stage region and reset behaviour are not defined by the source. Do not assume the whole building counts."
+          }
+        ],
+        "sourceOmissions": [
+          "Character claim interface, exact streak boundaries and Tech Savy conditions remain unverified."
+        ],
+        "sources": [
+          {
+            "title": "The_Beebat and r/CODZombies — Shadowed Throne map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/"
+          },
+          {
+            "title": "r/CODZombies — original April 2018 hunt and firsthand reports",
+            "url": "https://www.reddit.com/r/CODZombies/comments/8b4ngc/the_shadowed_throne_easter_egg_hunt_general_map/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "wwii-the-shadowed-throne-community-the-shadowed-throne-easter-eggs-quests-main-easter-egg-quest",
+          "wwii-the-shadowed-throne-community-the-shadowed-throne-map-features-traps",
+          "wwii-the-shadowed-throne-melee-blade-reference"
+        ]
+      }
+    }
+  },
+  "the-shadowed-throne-easter-eggs-quests-main-easter-egg-quest": {
+    "mapOverrides": {
+      "wwii-the-shadowed-throne": {
+        "title": "Main quest: Barbarossa’s Refuge, zeppelin and Stadtjäger",
+        "category": "main",
+        "difficulty": "Hard",
+        "players": "Solo / co-op",
+        "summary": "Build the Wunderbuss, obtain three melee weapons, open the Refuge and defeat the boss.",
+        "requirements": [
+          "WWII: The Shadowed Throne.",
+          "Reach the Church, Apartments, Museum, Plaza and Cabaret.",
+          "Keep Wunderbuss energy for anchors, projector, panels and boarding.",
+          "Raven socket positions and the zeppelin terminal sequence still need the original visuals; read their field notes before entering."
+        ],
+        "reward": "Barbarossa’s Blade, the Stadtjäger defeat and ending cinematic.",
+        "steps": [
+          {
+            "title": "Read the radio model and Church district",
+            "body": "On Main Street, read the letters and number on top of the radio on the table. In the Church, find the region containing the marker on the map. On the charts immediately left of that map, find that region and the row matching your radio model; copy its two frequency values. Return to the Main Street radio and set both values. Wait for the Contacted the Russians confirmation.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/",
+            "tip": "Read the model and district in your match. The source text does not transcribe every chart cell, so this guide cannot supply a complete model-by-region lookup table."
+          },
+          {
+            "title": "Send the Plaza flare",
+            "body": "After contacting the Russians, find the small flare box on a table in the Plaza. Shoot it open, then shoot or melee the unlocked lock to launch the flare. Straub’s zeppelin arrives and starts turning ordinary zombies into Gekocht, also called Sizzlers.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/"
+          },
+          {
+            "title": "Collect the battery and Geistbolt",
+            "body": "Melee a Sizzler to obtain the Geistbolt part. Look for the Wunderbuss battery at one of three reported positions: Cabaret beside the M1928 wall buy; Museum beside the Armor station; or Museum beside Faustblitz. Collect both parts before entering the workshop.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/",
+            "tip": "The three battery positions are the later map guide’s list. The original hunt left an additional question mark; that unfinished entry is not treated as a fourth confirmed spawn."
+          },
+          {
+            "title": "Build the Wunderbuss and reopen the workshop",
+            "body": "Go to the Apartments basement, opposite the Type 100 wall buy. Put the battery into the gate generator to enter. From the other side, remove it; the gate shuts behind you. Place the battery and Geistbolt on the crafting station and pick up the Wunderbuss. Fire it into the gate generator until the gate reopens permanently.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/"
+          },
+          {
+            "title": "Charge the three initial zeppelin anchors",
+            "body": "The later map guide lists the initial anchors in the Apartments, Museum and Plaza. It instructs players to fire roughly 100–150 Wunderbuss ammunition into each until charged and yellow, reserving the distant Church anchor for the Refuge stage.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/",
+            "tip": "The early hunt instead lists Museum and Destroyed Building anchors turning green and says to fill the Plaza anchor with zombie kills. These historical accounts conflict on location labels, colour and the Plaza method. The route here follows the later wiki; confirm actual charge progress in your match. No current retail or code test resolves the discrepancy."
+          },
+          {
+            "title": "Prepare the optional upgrade machine",
+            "body": "If you want Ubersprengen before the boss, blow open its two panels beside the Waffe 28 wall buy and in the Underbelly zombie spawn. Charge both with the Wunderbuss, then use the elevator beside Destroyed Building Armor. This is a separate weapon-preparation route.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/"
+          },
+          {
+            "title": "Obtain the three special melee weapons",
+            "body": "The Bat, Axe and Dagger quests can be worked on in any order and in parallel. The following chapters provide their required actions; the linked standalone guides include the longer locator and retry notes.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/"
+          },
+          {
+            "title": "Contact the Smuggler using the register",
+            "body": "In the Wunderbuss workshop, shoot the cash register on top of the cabinet with the Wunderbuss. Read the two frequency numbers underneath the opened drawer. Put those numbers into the Main Street radio to contact the Smuggler.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/"
+          },
+          {
+            "title": "Use the ammunition clue at the first sewer hatch",
+            "body": "Check the ammunition on the table next to the Wunderbuss to identify the requested weapon class. In the Plaza, shoot open the small sewer hatch near the BAR wall buy. Interact with it to hand the Smuggler a suitable firearm. Wait for the Armed the Smuggler confirmation before progressing.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/",
+            "tip": "The later main-quest chapter supplies the ammunition clue; the older standalone chapter calls the choice random. The full ammunition-picture-to-class chart is still missing here. A handed-over weapon is consumed even if refused, according to the original hunt. Do not hand over the Shovel: the map guide warns that it can break progression."
+          },
+          {
+            "title": "Reported wall weapons for three ammunition types",
+            "body": "In a 2023 firsthand reply, based_individual_ reports using MP-40 for SMG ammunition, Sawed-Off Shotgun for shotgun ammunition and FG 42 for rifle ammunition. The player identifies them as wall-weapon examples, making them easier to obtain than relying on a Box roll.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/166gfki/shadowed_throne_smuggler_help/",
+            "tip": "These are three reported working examples, not a complete compatibility table or a guarantee for every game version. The reply does not resolve pistol or other ammunition pictures. Use the confirmation, not the weapon’s class alone, to decide whether the handoff succeeded."
+          },
+          {
+            "title": "Wait two full waves and pay at the second hatch",
+            "body": "After the weapon is accepted, finish two more waves. Open the second sewer hatch on Main Street by shooting or meleeing it. Drop Jolts into the opening until the Paid the Smuggler confirmation appears.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/",
+            "tip": "A firsthand hunt comment places this second opening across from the Theater entrance reached from the starting area. The source does not give a fixed total payment; stop when payment is confirmed."
+          },
+          {
+            "title": "Knock three times and collect the Bat",
+            "body": "Wait about a minute, then return to the brown wooden door in the Wunderbuss workshop. Melee the door three times, listening for each knock. When it opens, be ready for a live Wüstling; collect the Smuggler’s Bat from the room or corpse.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/",
+            "tip": "The wiki reports a dead Wüstling instead of the Smuggler when an upgraded weapon was given. The original hunt called the outcome logic unknown. This is an old reported branch, not a verified current guarantee; check the opened room before approaching."
+          },
+          {
+            "title": "Install the painting and film reel",
+            "body": "Collect the painting beside the woman lying on the bed in the Apartments. In the Cabaret, look above the projector for a film reel on the railing. Shoot it down, pick it up and insert both the reel and painting into the projector. Fire the Wunderbuss into the projector until its map appears on the screen.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/"
+          },
+          {
+            "title": "Follow four green dots and count each clown’s kills",
+            "body": "Read the green dot on the projected map and go to the corresponding clown doll. Kill zombies beside that doll and count only the kills it absorbs before it is full. Record the count as number one. Return to the screen for the next dot and repeat until you have four counts in the exact order the projector selected the clowns.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/",
+            "tip": "The wiki says the four clowns can be filled again in order if you lose a count. Keep projector order; the Dagger guide lists seven recorded landmarks."
+          },
+          {
+            "title": "Turn the safe right, left, right, left",
+            "body": "At the Apartments safe near the bedroom, make one complete turn to the right to clear the input, then keep turning right to the first clown count. Reverse left to the second count, right to the third, then left to the fourth. Stop interacting with the dial and activate the safe to open it. Take the Dancer’s Dagger.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/8b4ngc/the_shadowed_throne_easter_egg_hunt_general_map/",
+            "tip": "For counts 3, 6, 7, 1, the reported sequence is right to 3, left to 6, right to 7, left to 1 after the clearing turn. This explains the directions; it does not establish a guaranteed input speed or overshoot tolerance."
+          },
+          {
+            "title": "Find the etched radio frequency",
+            "body": "Look for the etched number pair at one of six reported positions: inside the Apartments elevator; in the roof room of the Apartments; Cabaret stage right on a cabinet; Cabaret stage left behind the purple dress; Museum granite near the M1 Garand wall buy; or the base of a second-floor Museum pillar. Enter the found pair at the Main Street radio to start Morse audio.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/"
+          },
+          {
+            "title": "Decode the two numbers and take the magnifying glass",
+            "body": "Listen for short beeps (dots), long beeps (dashes) and pauses between groups. The message gives two numbers, such as 10 and 5. Pick up the magnifying glass from the bench next to the M1928 wall buy in the Cabaret.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/",
+            "tip": "The source supplies example coordinates, not a verified exhaustive answer list. Do not assume that every match uses either example. Exact audio timing and the complete possible-coordinate table remain unverified."
+          },
+          {
+            "title": "Use the first coordinate right and the second down",
+            "body": "Interact with the Church map using the magnifying glass. Move right by the first decoded number, then down by the second. For 10,5, move ten spaces right and five down. Release the map interaction at that square; the cabinet next to the map should open. Pick up its golden bowl.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/"
+          },
+          {
+            "title": "Place the bowl upstairs in the Museum and retrieve a head",
+            "body": "Put the bowl on the scale on the Museum’s top-floor table. Melee-kill a Sizzler beside an Armor station so its head appears in that station. Purchase Armor from the same station to retrieve the head, then place it in the bowl on the scale.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/",
+            "tip": "Use the Museum scale. The early hunt body incorrectly sends the player to the Church; the later wiki and MrBlipsk’s firsthand hunt route both identify the Museum. Exact head-capture radius and Armor eligibility edge cases are not established."
+          },
+          {
+            "title": "Balance the scale and fill the drawer",
+            "body": "Complete the scale interaction until the Balanced the Scale confirmation appears. Obtain melee kills next to the table and its rabbit until the drawer opens, then take the Nazi Axe.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/8b4ngc/the_shadowed_throne_easter_egg_hunt_general_map/",
+            "tip": "The original hunt specifies melee kills. It does not give a numerical quota or an exact balancing-button sequence. The later wiki describes the same reward at the Museum table; keep using that confirmed location rather than the hunt’s obsolete Church wording."
+          },
+          {
+            "title": "Place all three weapons and fill the Church gate",
+            "body": "Put the Bat, Dagger and Axe in their matching shapes beside the Church’s large red door. The later wiki gives this sequence at the door: twenty regular zombies, then ten Sizzlers, then ten Pests. Keep kills close to the gate and confirm that the door opens before entering the Refuge.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/",
+            "tip": "The early hunt associates regular zombies with the Dagger, Sizzlers with the Axe and Pests with the Bat. The later main guide gives the explicit 20 / 10 / 10 sequence used here. Exact absorption radius, overflow behaviour and whether other orders also work have not been tested."
+          },
+          {
+            "title": "Charge the Refuge ceiling anchor",
+            "body": "Enter Barbarossa’s Refuge behind the Church gate and charge its ceiling anchor with the Wunderbuss. The red door closes and traps you inside for the statue puzzles. Refill and prepare before completing this charge.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/"
+          },
+          {
+            "title": "Turn all statues forward, one wall at a time",
+            "body": "Work on one Refuge wall at a time. Shoot or melee its statues to rotate them; an input also turns neighbouring statues. Make every statue on that wall face forward. When the wall is solved, collect the golden raven in front of its central statue. Repeat for all four walls.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/",
+            "tip": "The source explains the goal but does not print the rotation matrix or a universal move sequence. Its linked calculator is an external aid, not a tested feature of this guide. No invented button table or guaranteed brute-force route is supplied."
+          },
+          {
+            "title": "Place four ravens and collect Barbarossa’s Blade",
+            "body": "After collecting the four golden ravens, place them in the required positions on the central Barbarossa statue. Correct placement breaks the statue’s sword and reveals Barbarossa’s Blade. Collect it and use the blade-shaped slot next to the red door to reopen the Refuge.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/",
+            "tip": "The required four positions are shown only in the source’s linked animation. Those pixels have not been verified for this written guide, so exact sockets and placement order remain an explicit gap. Consult that original visual before committing to this stage; this chapter is not a complete text solution to the raven placement."
+          },
+          {
+            "title": "Gather the whole team in the Main Street bell",
+            "body": "Have every player enter the open large bell on Main Street beside the radio with at least 100 Wunderbuss ammunition. Fire at the cable above the team together and keep firing until the weapons empty. The bell closes and carries the players into the zeppelin.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/",
+            "tip": "The later wiki specifies 100 ammunition for each player. Exact synchronisation tolerance, disconnect behaviour and retry conditions are not established by the read text."
+          },
+          {
+            "title": "Route electricity through the zeppelin terminals",
+            "body": "Use the zeppelin terminals to move the electrical power source through the ship and open its doors. Each terminal allows particular movement directions. Continue until power reaches Straub’s room, the wave ends and his zombies kill him. Leaving that room starts the Stadtjäger encounter.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/",
+            "tip": "The read sources do not list each terminal’s location, allowed directions or the exact switch sequence. This is a remaining operational gap, not a complete fuse-route solution. Secure a verified ship-route visual before boarding if you do not already know these controls."
+          },
+          {
+            "title": "Boss phase one — shoot during the orange-engine charge",
+            "body": "Fire at the Stadtjäger to aggravate it. When its chest engine turns orange and it charges, shoot the exposed engine to deal damage. Repeat these charge windows until the phase changes; ordinary shots outside the vulnerable window do not supply the stated progression.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/"
+          },
+          {
+            "title": "Boss phase two — target the glowing Geistbolt cannon",
+            "body": "In the next phase, wait while the Stadtjäger winds up its Geistbolt attack. Its cannon glows orange during that attack’s charge-up; shoot that target to damage it. It can turn nearby normal zombies into Sizzlers. Continue until the next phase begins.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/"
+          },
+          {
+            "title": "Boss phase three — use the Wunderbuss on its storm",
+            "body": "In the final phase, the Stadtjäger produces storm clouds. When it is inside its own storm, shoot that cloud with the Wunderbuss to damage the boss. Continue through those windows until it is defeated.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/",
+            "tip": "The early hunt calls this state red smoke; the later map guide calls it a storm cloud. Neither text establishes damage thresholds, exact phase health, a guaranteed safe position or an infinite ammunition method."
+          },
+          {
+            "title": "Check the final recording, then return by bell",
+            "body": "After defeating the Stadtjäger, check the small opening in a zeppelin drop pod for the final secret recording if you still need it. Have every player stand in the same bell used to arrive. After a short delay, the bell takes the team out and the ending cinematic plays.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/",
+            "tip": "The map article identifies the recording only as inside one drop pod’s small opening. Its exact pod and approach remain missing. Check before departure; the read guide does not establish a return trip after the ending."
+          }
+        ],
+        "sourceOmissions": [
+          "Initial anchor accounts conflict.",
+          "Exact raven rotation matrix / central sockets and zeppelin terminal route remain missing.",
+          "Current timing, co-op recovery and retail verification remain open."
+        ],
+        "sources": [
+          {
+            "title": "The_Beebat and r/CODZombies — Shadowed Throne map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/"
+          },
+          {
+            "title": "based_individual_ — firsthand Smuggler weapon examples",
+            "url": "https://www.reddit.com/r/CODZombies/comments/166gfki/shadowed_throne_smuggler_help/"
+          },
+          {
+            "title": "r/CODZombies — original April 2018 hunt and firsthand reports",
+            "url": "https://www.reddit.com/r/CODZombies/comments/8b4ngc/the_shadowed_throne_easter_egg_hunt_general_map/"
+          },
+          {
+            "title": "Recorded locators",
+            "url": "https://www.youtube.com/watch?v=8kFRpwzctH8"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "wwii-the-shadowed-throne-community-the-shadowed-throne-map-features-wunderbuss",
+          "wwii-the-shadowed-throne-community-the-shadowed-throne-map-features-smuggler-s-bat",
+          "wwii-the-shadowed-throne-community-the-shadowed-throne-map-features-dancer-s-dagger",
+          "wwii-the-shadowed-throne-community-the-shadowed-throne-map-features-nazi-axe",
+          "wwii-the-shadowed-throne-community-the-shadowed-throne-map-features-pack-a-punch-ubersprengen",
+          "wwii-the-shadowed-throne-community-the-shadowed-throne-easter-eggs-quests-secret-audio-recordings",
+          "wwii-the-shadowed-throne-melee-blade-reference",
+          "wwii-the-shadowed-throne-weapons-reference"
+        ]
+      }
+    }
+  },
+  "the-shadowed-throne-easter-eggs-quests-cabaret-sign-hangman": {
+    "mapOverrides": {
+      "wwii-the-shadowed-throne": {
+        "title": "Cabaret Hangman: controls and seven reported reward words",
+        "category": "side",
+        "difficulty": "Easy",
+        "players": "Solo / co-op",
+        "summary": "Use the sign arrows and middle dot to spell reward words without completing the hanging corpse.",
+        "requirements": [
+          "WWII: The Shadowed Throne.",
+          "Reach the front of the Cabaret and aim carefully at its sign."
+        ],
+        "reward": "Reported power-ups, Jack-in-the-Boxes and the WONDER special-weapon reward.",
+        "steps": [
+          {
+            "title": "Choose and submit one letter at a time",
+            "body": "On the far left of the Cabaret sign, find the letter A beside the arrows and dots. Shoot the up or down arrow to cycle the letter. Shoot the middle dot between the arrows to submit that letter. Repeat until the chosen word is complete.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/"
+          },
+          {
+            "title": "Five power-up words",
+            "body": "Enter DAMNATION for a Nuke; REAPER for Insta-Kill; GEISTKRAFT for Full Charge; FAMISHED for Max Ammo; or GLUTTONY for Double Jolts. These are five separate reward words, not one combined input.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/"
+          },
+          {
+            "title": "Equipment and special weapons",
+            "body": "The source lists THEJACKBOX for Jack-in-the-Boxes and WONDER for a Tesla Gun and Ripsaw.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/",
+            "tip": "The map text says six words but actually lists seven; all seven listed entries are preserved here. Current reward pickup, replacement and repeat-use rules are not established."
+          },
+          {
+            "title": "Avoid completing the hanging corpse",
+            "body": "A wrong submitted letter adds a body part to the hanging zombie. If it becomes whole, the attempted word is unavailable for the rest of that game. Stop firing at the letter selector before submitting and confirm the displayed letter.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/",
+            "tip": "Exact mistake allowance, word-reset interaction and per-player / shared reward behaviour are not documented. Do not assume that a failed word can be retried after a round change."
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "The_Beebat and r/CODZombies — Shadowed Throne map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "wwii-the-shadowed-throne-weapons-reference",
+          "wwii-the-shadowed-throne-community-the-shadowed-throne-easter-eggs-quests-reign-drop-free-jolt-hats"
+        ]
+      }
+    }
+  },
+  "the-shadowed-throne-easter-eggs-quests-reign-drop-free-jolt-hats": {
+    "mapOverrides": {
+      "wwii-the-shadowed-throne": {
+        "title": "Five hats: ten reported hiding spots and Cheetah order",
+        "category": "side",
+        "difficulty": "Easy",
+        "players": "Solo / co-op",
+        "summary": "Stack Fedora, Pilot, Garrison, Officer and Red hats in order for Jolts and drops.",
+        "requirements": [
+          "WWII: The Shadowed Throne.",
+          "Reach the Church, Underbelly, Museum, Apartments and Cabaret.",
+          "Carry one hat at a time."
+        ],
+        "reward": "A reported 1,952 Jolts and all five power-up drops.",
+        "steps": [
+          {
+            "title": "Use the Cheetah in front of the screen",
+            "body": "The five hats go on the Cheetah in the Cabaret in this order: Fedora, Pilot Cap, Garrison Cap, Officer Hat, then Red Hat. Carry only one hat at a time and return it before searching for the next type.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/"
+          },
+          {
+            "title": "Fedora — Church or Cabaret",
+            "body": "Check right of the Church Mystery Box, or at the feet of the left golden statue inside the Cabaret. Bring the Fedora to the Cheetah first.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/"
+          },
+          {
+            "title": "Pilot Cap — Underbelly or Church bench",
+            "body": "Check the briefcase in the Underbelly, or under the bench beside Schnellblitz. Place the Pilot Cap second.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/"
+          },
+          {
+            "title": "Garrison Cap — Museum head or Cabaret guitar",
+            "body": "Check a model head in the Museum, or the guitar in the Cabaret. Place the Garrison Cap third.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/"
+          },
+          {
+            "title": "Officer Hat — Museum desk or Apartments vase",
+            "body": "Check the Museum desk near Faustblitz, or behind the vase of flowers in the Apartments. Place the Officer Hat fourth.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/"
+          },
+          {
+            "title": "Red Hat — Museum skull or outside bus",
+            "body": "Check the skull in the Museum, or inside the bus outside the Cabaret. Place the Red Hat last.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/"
+          },
+          {
+            "title": "Collect the reward after the fifth placement",
+            "body": "The source reports 1,952 Jolts and all five power-up drops appearing in front of the movie screen after the correct stack. Check the floor there before leaving.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/",
+            "tip": "The listed ten positions are two reported candidates for each hat type. Exact wrong-order resets, hat respawn behaviour, current Jolts distribution and repeatability have not been verified."
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "The_Beebat and r/CODZombies — Shadowed Throne map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "wwii-the-shadowed-throne-community-the-shadowed-throne-easter-eggs-quests-cabaret-sign-hangman",
+          "wwii-the-shadowed-throne-perks-box-reference"
+        ]
+      }
+    }
+  },
+  "the-shadowed-throne-easter-eggs-quests-the-classic-ppsh-41": {
+    "mapOverrides": {
+      "wwii-the-shadowed-throne": {
+        "title": "Unlock The Classic PPSh-41 in the Mystery Box",
+        "category": "weapon",
+        "difficulty": "Moderate",
+        "players": "Solo / co-op",
+        "summary": "Stop three dressing-room mirror lights at their starting position.",
+        "requirements": [
+          "WWII: The Shadowed Throne.",
+          "Reach the mirrors behind the Cabaret stage.",
+          "Keep Jolts to start the mirror interaction."
+        ],
+        "reward": "The Classic becomes available in the Mystery Box; the source names its upgraded form Babushka.",
+        "steps": [
+          {
+            "title": "Start the leftmost mirror with Jolts",
+            "body": "Go behind the Cabaret stage to the three mirrors. Drop Jolts in front of the leftmost one. A light flashes at the bottom, then starts moving around the mirror.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/"
+          },
+          {
+            "title": "Stop the light at the bottom",
+            "body": "Interact with that mirror when the travelling light reaches the bottom position where it started. On success, the mirror flashes a few times and switches off.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/",
+            "tip": "The text does not give a fixed Jolt payment, timing window or failure-reset action. Use the visible success flash before moving to the next mirror."
+          },
+          {
+            "title": "Complete the two faster mirrors",
+            "body": "Repeat the same bottom-position stop at the other two mirrors. Each runs faster than the previous one. After all three succeed, The Classic is added to the Mystery Box.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/"
+          },
+          {
+            "title": "Roll the Box, then use Ubersprengen",
+            "body": "Adding The Classic to the Box does not hand it directly to you. Obtain it through a Box roll, then use Ubersprengen for its listed Babushka upgraded name.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/",
+            "tip": "Current Box probability, unlock persistence between matches, statistics and every weapon effect remain unverified."
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "The_Beebat and r/CODZombies — Shadowed Throne map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "wwii-the-shadowed-throne-weapons-reference",
+          "wwii-the-shadowed-throne-community-the-shadowed-throne-map-features-pack-a-punch-ubersprengen",
+          "wwii-the-shadowed-throne-perks-box-reference"
+        ]
+      }
+    }
+  },
+  "the-shadowed-throne-easter-eggs-quests-thule-s-errand-camo": {
+    "mapOverrides": {
+      "wwii-the-shadowed-throne": {
+        "title": "Thule’s Errand camo: radio 39 / 39",
+        "category": "side",
+        "difficulty": "Easy",
+        "players": "Solo / co-op",
+        "summary": "Enter the reported matching frequency values at the Main Street radio.",
+        "requirements": [
+          "WWII: The Shadowed Throne.",
+          "Reach the radio on the Main Street table."
+        ],
+        "reward": "The reported Thule’s Errand camo unlock.",
+        "steps": [
+          {
+            "title": "Set both radio values to 39",
+            "body": "At the Main Street radio, set the first frequency to 39 and the second frequency to 39. This is the complete activation instruction supplied by both the map guide and the original hunt.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/",
+            "tip": "The read sources do not specify an exact confirmation delay, a required prior quest state, account restrictions or the camo claim-menu path. Check your unlock notification and inventory; no extra invented waiting or shooting step is added."
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "The_Beebat and r/CODZombies — Shadowed Throne map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "wwii-the-shadowed-throne-community-the-shadowed-throne-map-features-wunderbuss"
+        ]
+      }
+    }
+  },
+  "the-shadowed-throne-easter-eggs-quests-secret-audio-recordings": {
+    "mapOverrides": {
+      "wwii-the-shadowed-throne": {
+        "title": "All three reported secret recordings",
+        "category": "side",
+        "difficulty": "Moderate",
+        "players": "Solo / co-op",
+        "summary": "Play the Apartments record, ring eight Cabaret bells and check the post-boss drop pod.",
+        "requirements": [
+          "WWII: The Shadowed Throne.",
+          "The map guide says each recording quest can be completed once per account.",
+          "The zeppelin recording requires defeating the Stadtjäger."
+        ],
+        "reward": "Three reported audio-recording collectibles; their dialogue is not reproduced.",
+        "steps": [
+          {
+            "title": "Apartments — collect and play the record",
+            "body": "Pick up the record from the top of the filing cabinets in the Apartments. Put it into the gramophone near the woman lying on the bed. The original hunt identifies the resulting song as Dark Wings.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/8b4ngc/the_shadowed_throne_easter_egg_hunt_general_map/"
+          },
+          {
+            "title": "Apartments — take the recording from her hand",
+            "body": "After the record starts the song, collect the recording from the woman’s hand. This is the original hunt’s explicit pickup location.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/8b4ngc/the_shadowed_throne_easter_egg_hunt_general_map/",
+            "tip": "The map wiki reports a once-per-account restriction for these recording quests; it does not distinguish song replay from collectible availability."
+          },
+          {
+            "title": "Cabaret — first four bells in order",
+            "body": "Shoot these bells in sequence: right side of the front desk; table by the instruments; top of the rubble; piano on stage. The stated goal is to light the Theater’s eight lamps.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/8b4ngc/the_shadowed_throne_easter_egg_hunt_general_map/"
+          },
+          {
+            "title": "Cabaret — last four bells in order",
+            "body": "Continue with the bell at the stage levers; clothing rack; table near the Cheetah; left side of the front desk. This completes the eight-bell order printed in the original hunt.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/8b4ngc/the_shadowed_throne_easter_egg_hunt_general_map/",
+            "tip": "The hunt supplies the eight-bell sequence but does not locate the resulting recording pickup or define wrong-hit reset behaviour. A contemporaneous player reported being unable to collect it. Exact pickup, lamp-to-bell mapping and a reliable recovery remain missing."
+          },
+          {
+            "title": "Zeppelin — inspect a drop-pod opening after the boss",
+            "body": "After defeating the Stadtjäger, look inside the small opening of a zeppelin drop pod for the last recording. Check before everyone boards the bell to end the quest.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/",
+            "tip": "The map guide does not identify the exact pod or approach, so this locator remains incomplete. No unverified label or terminal landmark is invented."
+          }
+        ],
+        "sourceOmissions": [
+          "Exact bell-reward pickup / reset and exact zeppelin pod remain missing."
+        ],
+        "sources": [
+          {
+            "title": "r/CODZombies — original April 2018 hunt and firsthand reports",
+            "url": "https://www.reddit.com/r/CODZombies/comments/8b4ngc/the_shadowed_throne_easter_egg_hunt_general_map/"
+          },
+          {
+            "title": "The_Beebat and r/CODZombies — Shadowed Throne map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/the-shadowed-throne/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "wwii-the-shadowed-throne-dark-wings-song",
+          "wwii-the-shadowed-throne-community-the-shadowed-throne-easter-eggs-quests-main-easter-egg-quest"
+        ]
+      }
+    }
   }
 }
