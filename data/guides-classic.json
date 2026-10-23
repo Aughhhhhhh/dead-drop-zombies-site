@@ -4131,93 +4131,208 @@
     "category": "main",
     "difficulty": "Hard",
     "players": "4 required",
-    "summary": "The four-player Focusing Stone quest in Zombies Chronicles, with Trip Mines for the waterfall tunnel.",
+    "summary": "Coordinate the eclipse puzzles, play the missing minecart radio and collect the Focusing Stone after returning to daylight.",
     "requirements": [
-      "Four players and both power switches on",
-      "31-79 JGb215 from the box, later Pack-a-Punched into the Fractalizer",
-      "Four Trip Mines available for the tunnel holes",
-      "A living Napalm Zombie for the gas leaks",
-      "An explosive weapon or grenades",
-      "Open both sides of spawn, the water slide, bridge, tunnels and power room",
-      "Chronicles wall weapons differ; follow the named rooms and tunnel positions."
+      "Stock BO3 Zombies Chronicles: four players; this route does not describe modified solo runs.",
+      "Power on, both spawn exits open and access to the minecart, slide, bridge, power room and waterfall tunnel.",
+      "31-79 JGb215 from the Mystery Box; upgrade it before the gong/dynamite sequence.",
+      "Four Trip Mines for the reservoir holes, explosives for the crystal and teepee, and a living Napalm Zombie for the gas.",
+      "Several panel landmarks retain their original-game weapon names. They identify rooms, not BO3 wall purchases."
     ],
-    "reward": "Time Travel Will Tell and permanent perks for the stone collector. Repeat with another collector to share the reward.",
+    "reward": "Quest completion and the Focusing Stone collector’s lasting perks for that match; repeat the quest for another collector.",
     "steps": [
       {
-        "title": "Power and eclipse",
-        "body": "Turn on both switches in the underground power room. Back at Quick Revive, assign one player to each of the four skull buttons surrounding spawn. Press them together to enter eclipse mode. Reactivate eclipse before each subsequent puzzle whenever the map returns to daylight. A timed-out puzzle can usually be retried in the same round."
+        "title": "Enter eclipse together",
+        "body": "Turn on both switches in the underground power room. Gather at Quick Revive in spawn. Assign a player to each of the four surrounding skull buttons and hold interact together. The sky changes for eclipse. Return to these buttons whenever a puzzle sends the team back to daylight.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/qnhaup/",
+        "tip": "Original-game sources supply the retained room and panel landmarks. Chronicles reports cover the mine and radio checkpoints; the final room sequence still needs a complete BO3 footage check."
       },
       {
-        "title": "Match all twelve tile pairs",
-        "body": "During eclipse, interact with the button on the small brick structure near the tunnel entrance on the minecart/MPL side of spawn. Twelve floor tiles appear on that side and twelve on the opposite bridge/mud-maze side. One player steps on a tile, remembers its symbol and steps off. The opposite player searches for the matching symbol, then both stand on that pair together until it disappears. Repeat for all twelve pairs. Keep other players off unmatched tiles. A raised focusing crystal and return to daylight confirm completion."
+        "title": "Speak to Brock and Gary",
+        "body": "During eclipse, leave spawn toward the minecart courtyard. Interact with the small brick structure beside the tunnel entrance. Let the conversation start; the two sets of twelve floor tiles are the next puzzle.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/qnhaup/"
       },
       {
-        "title": "Weigh down the water-slide plate",
-        "body": "Start another eclipse. Three living players slide down and stand still together on the metal grate/pressure plate at the bottom. The fourth goes down the slide last, brushing against the switch on the right near the start; hold interact while passing it as well. The fourth lands on the grate with the team. The explorers speak and eclipse ends when the step registers.",
-        "tip": "Do not let the three waiting players walk off the grate before the fourth arrives."
+        "title": "Match twelve floor-tile pairs",
+        "body": "Keep two players clear of the tiles. One player checks a symbol on the minecart side, then steps off. A partner searches the bridge/mud-maze side for that symbol. Both stand on the matching pair together until it disappears. Repeat until all twelve pairs are gone, then let the crystal rise and the dialogue finish.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/qnhaup/",
+        "tip": "A BO3 report describes a late tile completion that leaves the next stage stuck. Work promptly; a raised crystal without the expected completed transition may require a new match, not endless waterslide retries. See the separate BO3 timing report in Sources for the documented soft-lock."
       },
       {
-        "title": "Move the large crystal",
-        "body": "Start eclipse with the 31-79 JGb215 ready. At the top of the water slide, shoot the crystal lodged in the rock above it with an explosive to knock it down. Shrink it with the JGb215, then knife it. Follow it down the slide and into the geyser. Stand on that geyser to launch both you and the crystal; it lands in its holder and ends eclipse."
+        "title": "Keep three players on the slide grate",
+        "body": "Start eclipse again. Put three living teammates together on the metal grate at the slide’s landing and keep them there. The fourth slides down past the switch on the right near the top while holding interact. All four finish together at the grate. Wait for the accepted transition before moving on.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/1b32327/",
+        "tip": "Leaving eclipse because its timer ran out is not sufficient confirmation. Check that the next crystal is available before treating the slide as completed."
       },
       {
-        "title": "Ignite the four gas leaks",
-        "body": "Have a Napalm Zombie alive before starting eclipse. In the tunnel by the minecart/MPL-side area, turn the red valve four times until the coughing stops. Lead the Napalm Zombie through the tunnel toward power, keeping enough distance that it does not explode. It must ignite the leak near the valve, the leak above the nearby box/geyser, and both leaks on the approach to the power-room door. Return to the valve and pull the adjacent lever once all four flames are lit. Keep the Napalm Zombie alive for the next step if possible."
+        "title": "Knock the slide crystal down",
+        "body": "Start eclipse with the shrink ray ready. Look above the slide entrance and hit the lodged crystal with an explosive. The large crystal drops to the ground; do not spend shrink-ray ammunition until it has fallen.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/qnhaup/"
       },
       {
-        "title": "Plug the water-tunnel holes",
-        "body": "In a fresh eclipse, go to the tunnel beyond the rope bridge toward the waterfall pool. Place a Trip Mine facing each of the four small wall holes, so its bamboo spikes will enter the hole when triggered. Lead the Napalm Zombie, or ordinary zombies, through the traps. Check that every hole visibly contains a spike. In the pool at the bottom, hold interact on the protruding stone marked Do Not Hold. Water flows through and the next crystal rises.",
-        "tip": "Place each mine close to its hole during eclipse and make a zombie detonate it. Check all four holes before pressing the waterfall stone."
+        "title": "Shrink, knife and launch the crystal",
+        "body": "Shoot the fallen crystal with the 31-79 JGb215, then melee it. Follow it down the water slide to the geyser. Stand on the geyser to launch with it. Let the crystal settle into its holder and the stage finish.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/153gw56/"
       },
       {
-        "title": "Knife twelve wall panels and destroy the teepee",
-        "body": "Start eclipse and knife these wall panels until their symbols glow:\nLeft of the Pack-a-Punch stairs.\nIn each of the two punji passages from spawn.\nThe spawn-temple wall opposite each of those two passages.\nBeside the far-left mud-room dial on the path toward the slide.\nNear the PM63 wall buy.\nAt the former 1,250-point debris entrance in the Stakeout room.\nAcross from the Stakeout wall buy, on the rock.\nImmediately left of the left power switch.\nBeside the gong at the minecart.\nOn the wall to your right when approaching the minecart from spawn.\nAfter all twelve, throw an explosive at the small wooden teepee outside the map beyond the minecart. Eclipse ends when it is destroyed."
+        "title": "Open the gas valve",
+        "body": "Keep a Napalm Zombie alive before entering eclipse. In the minecart-side underground tunnel, turn the red valve four times. Coughing stops as the gas is released. Keep a teammate ready to operate the adjacent lever after the leaks ignite.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/153gw56/"
       },
       {
-        "title": "Set the four mud-room dials",
-        "body": "Enter eclipse and approach the mud room from spawn. Set the near-right dial to one dot (1), far-right to the bracket/line/dot symbol (16), far-left to three dots (3), and near-left to four dots (4). Select the required marking at the top of each dial. The successful code ends eclipse. The nearby radio gives the same 16, 1, 3, 4 clue every game."
+        "title": "Light all four gas leaks",
+        "body": "Lead the Napalm Zombie from the valve toward power without letting it reach you and explode. Check the leak beside the valve, the one above the nearby Box/geyser area, and the two near the power-room entrance. All four must burn.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/qnhaup/"
       },
       {
-        "title": "Upgrade the shrink ray",
-        "body": "Use Pack-a-Punch to turn the JGb215 into the Fractalizer. To raise the temple stairs, all four players stand on the stone Pack-a-Punch plates: spawn; the underground tunnel on the minecart side; the far end of the rope bridge; and between the two power switches. Once the statues lock, run up the temple stairs and upgrade for 5,000 points before the stairs retract."
+        "title": "Pull the lever by the valve",
+        "body": "Once all four leaks are alight, interact with the lever beside the valve. Let this stage complete. The following reservoir puzzle is a separate eclipse; surviving this step does not fill the four wall holes automatically.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/qnhaup/"
       },
       {
-        "title": "Find the four correct gongs",
-        "body": "Start eclipse and test the eight gongs around spawn, the minecart/MPL courtyard, both ends of the mud area and the far side of the bridge. Knife one and watch the crystals: a wrong gong gives a discordant sound and makes them flash red. Record the four gongs that give the normal resonating tone. Hit those four together within the resonance window; their order is unimportant. The crystals gain a golden glow and rotating Treyarch symbols."
+        "title": "Trigger a Trip Mine at each reservoir hole",
+        "body": "Enter eclipse for the tunnel between the bridge and waterfall. Put a Trip Mine facing each of the four small wall holes and lead zombies through to detonate them. Check for a visible spike in every hole before proceeding. Use BO3 Trip Mines here; the original guide’s Spikemore name belongs to BO1.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/153gw56/",
+        "tip": "The source run confirms the BO3 mine step but is not a measured mine-placement or ammo-refill test. If one hole is empty, correct that placement while the stage is active."
       },
       {
-        "title": "Catch the dynamite and shrink the meteor",
-        "body": "Put a teammate directly beneath the focusing crystal with dynamite hanging from it on the minecart side of spawn. Shoot that crystal with the Fractalizer; the dynamite falls outward slightly to the left and is caught by touching it. Confirm it appears in the inventory. While the crystals still resonate, shoot the focusing crystal above the mud-maze temple, visible from spawn. The bounced beam shrinks the large meteor at Pack-a-Punch. If the glow expires, ring the four correct gongs again. If you miss the dynamite, reactivate eclipse and repeat."
+        "title": "Release the reservoir water",
+        "body": "After all four holes are plugged, go down to the waterfall pool. Hold interact on the protruding warning stone in its broken central wall. Water releases and the focusing crystal rises as the puzzle completes.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/153gw56/"
       },
       {
-        "title": "Open the chamber and take the stone",
-        "body": "During eclipse, raise the Pack-a-Punch stairs again using all four plates. At the top, interact with the wall behind where Pack-a-Punch normally stands to give Brock and Gary the dynamite. Let the conversation and explosion finish. Raise the stairs again when available and take the Focusing Stone from the altar. One player receives the permanent perks, and the team receives the achievement.",
-        "tip": "A radio by the temple stairs lets you repeat the quest so another player can receive the stone's perks."
+        "title": "Melee the five spawn panels",
+        "body": "Start eclipse. Melee each panel until its symbol lights:\n1. Left of the Pack-a-Punch stairs.\n2. Inside the punji passage toward the mud room.\n3. Inside the punji passage toward the minecart.\n4. On the spawn-temple wall opposite the mud-room passage.\n5. On the spawn-temple wall opposite the minecart passage.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/qnhaup/"
+      },
+      {
+        "title": "Check the mud-route and lower-room panels",
+        "body": "Continue during the same panel stage:\n6. Beside the far-left mud dial on the path to the slide.\n7. At the original PM63 wall-buy area.\n8. Beside the former 1,250-point debris entrance in the original Stakeout room.\n9. On the rock opposite that original Stakeout position.\n10. Immediately left of the left-hand power switch.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/qnhaup/",
+        "tip": "PM63 and Stakeout are historical room labels retained from the original walkthrough. Exact BO3 gun replacements and close-up panel photographs remain unchecked."
+      },
+      {
+        "title": "Finish the two minecart panels",
+        "body": "Finish the twelve-panel set:\n11. Beside the gong at the minecart.\n12. On the wall to your right when approaching the minecart from spawn.\nConfirm each symbol lights. A melee swing alone does not establish that a panel registered.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/qnhaup/"
+      },
+      {
+        "title": "Destroy the wooden teepee",
+        "body": "From the minecart, look outside the playable boundary for the small arrangement of wooden sticks. Destroy it with an explosive after all twelve panels are active. Let the stage finish and return to daylight.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/153gw56/"
+      },
+      {
+        "title": "Play the minecart radio in daylight",
+        "body": "Before the next eclipse, interact with the radio on the wooden table opposite the minecart and let it play. A player whose dynamite would not drop later confirmed this missing interaction fixed the problem. Do this checkpoint even if a shortened video guide omits it.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/153gw56/"
+      },
+      {
+        "title": "Set the mud-room dials",
+        "body": "Enter eclipse and approach the mud room from spawn. Put these markings at the top of the dials:\nNear right: one dot.\nFar right: the bracket/line/dot marking, commonly written 16.\nFar left: three dots.\nNear left: four dots.\nThe successful setting completes the stage.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/153gw56/"
+      },
+      {
+        "title": "Check the later temple radio",
+        "body": "In daylight, check the rubble to the right of the Pack-a-Punch stairs for the next radio and interact. The original-game walkthrough places this hint after the dials. Its exact remaster placement still needs a BO3 demonstration; the independently confirmed minecart radio in the previous checkpoint must not be skipped.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/qnhaup/",
+        "tip": "This later locator is inherited cross-version guidance. The source evidence does not establish that every radio in the map is mandatory for the BO3 quest."
+      },
+      {
+        "title": "Pack-a-Punch the shrink ray",
+        "body": "Activate the four stone floor plates together: spawn, minecart-side tunnel, bridge end and power room. Run up the raised temple stairs. With the JGb215 equipped, pay 5,000 points and collect the Fractalizer. Keep it for the final crystal shots.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/12e43d6/"
+      },
+      {
+        "title": "Charge the crystals with four correct gongs",
+        "body": "Enter eclipse. Test the eight gongs and remember the four that give the clear tone. A wrong gong gives a discordant sound and the crystals react red. Ring the four good gongs within their shared sounding window. Confirm the crystals glow orange/gold with rotating symbols before shooting.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/12e43d6/",
+        "tip": "Exact gong coordinates and a measured resonance window still need a complete BO3 check."
+      },
+      {
+        "title": "Catch the dynamite",
+        "body": "Put a teammate beneath the charged crystal nearest the minecart. Shoot that crystal with the Fractalizer and touch the falling dynamite to catch it. Check the inventory for the bundle. Stay in eclipse for the next crystal and chamber actions.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/12e43d6/",
+        "tip": "If no dynamite appears, first check the completed dial stage and the daylight minecart radio. Do not substitute repeated shots at uncharged crystals for those prerequisites."
+      },
+      {
+        "title": "Shrink the temple meteor",
+        "body": "While the crystals remain charged, shoot the crystal above the mud-maze temple with the Fractalizer. The linked beam shrinks the large meteor at Pack-a-Punch. If the golden charge has expired, ring the four correct gongs again before retrying the shot.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/qnhaup/"
+      },
+      {
+        "title": "Give Brock and Gary the dynamite",
+        "body": "Still in eclipse, have all four players activate the Pack-a-Punch floor plates. Go up the stairs to the wall where the machine normally stands. Interact, let the dialogue finish, then have the dynamite holder interact to deliver it. Wait for the explosion and the water pushing the team down.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/12e43d6/"
+      },
+      {
+        "title": "Take the stone in daylight",
+        "body": "After the chamber action returns the map to the present, activate the Pack-a-Punch plates again. Go back up the temple stairs and have the intended collector take the Focusing Stone. The stone pickup is after the final eclipse sequence; do not restart eclipse merely to look for it.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/12e43d6/"
+      },
+      {
+        "title": "Repeat for another collector",
+        "body": "To begin another quest cycle in the same match, interact with the new radio at the bottom of the Pack-a-Punch stairs after taking the stone. The lasting perk reward goes to the collector; repeat the route with another collector if the team wants to share that reward.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/153gw56/"
       }
     ],
     "sources": [
       {
-        "title": "r/CODZombies — original-game puzzle walkthrough",
-        "url": "https://www.reddit.com/r/CODZombies/comments/qnhaup/how_to_complete_the_shangri_la_easter_egg_solo_bo1/"
+        "title": "Original route and panel landmarks — BO1",
+        "url": "https://www.reddit.com/r/CODZombies/comments/qnhaup/"
       },
       {
-        "title": "Steam Community — Shangri-La requirements and locations",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2461194923"
+        "title": "Chronicles run and required radio",
+        "url": "https://www.reddit.com/r/CODZombies/comments/153gw56/"
       },
       {
-        "title": "Steam Community — Shangri-La quest walkthrough",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2911066582"
-      },
-      {
-        "title": "r/CODZombies — gong and dynamite clarifications",
+        "title": "Final sequence",
         "url": "https://www.reddit.com/r/CODZombies/comments/12e43d6/"
       },
       {
-        "title": "Cross-version quest: Trip Mines and gas leaks",
-        "url": "https://www.codzombiesguides.com/main-quests/black-ops-1/shangri-la/"
+        "title": "BO3 slide and late-completion failure",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1b32327/"
+      },
+      {
+        "title": "BO3 upgrade prices",
+        "url": "https://www.reddit.com/r/CODZombies/comments/pg8sux/"
+      },
+      {
+        "title": "Collector reward and match duration",
+        "url": "https://www.reddit.com/r/CODZombies/comments/qu0sfp/"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-23",
+    "relatedGuideIds": [
+      "bo3-shangri-la-pack-a-punch-access",
+      "bo3-shangri-la-jgb215-fractalizer",
+      "bo3-shangri-la-weapon-upgrade-rules",
+      "bo3-shangri-la-monkey-perk"
+    ]
   },
   {
     "id": "bo3-moon-richtofens-grand-scheme",
@@ -4429,44 +4544,42 @@
   {
     "id": "bo3-shangri-la-pareidolia",
     "mapId": "bo3-shangri-la",
-    "title": "Pareidolia: three meteorites",
+    "title": "Pareidolia",
     "category": "music",
     "difficulty": "Easy",
     "players": "Solo or co-op",
-    "summary": "Interact with the three fragments to start the song.",
+    "summary": "Activate three meteorites.",
     "requirements": [
-      "Open the mine-side underground route and rope bridge"
+      "Open mines and bridge."
     ],
-    "reward": "Pareidolia; once per match.",
+    "reward": "Music; once per match.",
     "steps": [
       {
         "title": "Spawn fragment",
-        "body": "Face the spike passage toward the minecart from spawn. Inspect the rock immediately right of that passage and hold interact on its meteor fragment. The Chronicles fragment moved slightly; check the corner beside the same pillar."
+        "body": "At spawn, face the minecart passage. Hold interact on the meteor immediately right of its pillar.",
+        "original": true,
+        "researchSource": "https://cod-zombie.fr/black-ops-3/zombies-chronicles/shangri-la/musiques-easter-eggs/"
       },
       {
         "title": "Underground fragment",
-        "body": "Follow the mine-side tunnel to the room with minecart tracks and barbed wire. Interact with the fragment on the crate near the zombie window and perk location."
+        "body": "Go underground to the Stamin-Up room. Find the meteor on a crate and hold interact.",
+        "original": true,
+        "researchSource": "https://cod-zombie.fr/black-ops-3/zombies-chronicles/shangri-la/musiques-easter-eggs/"
       },
       {
         "title": "Bridge fragment",
-        "body": "At the upper rope bridge, face toward the waterfall. Interact with the fragment on the low ledge to the left, between the bridge and mud-temple area. The three fragments register in any order."
+        "body": "Between the rope bridge and mud temple, locate the meteor and hold interact.",
+        "original": true,
+        "researchSource": "https://cod-zombie.fr/black-ops-3/zombies-chronicles/shangri-la/musiques-easter-eggs/"
       }
     ],
     "sources": [
       {
-        "title": "COD-Z: remaster music, locations and screenshots",
+        "title": "Article",
         "url": "https://cod-zombie.fr/black-ops-3/zombies-chronicles/shangri-la/musiques-easter-eggs/"
-      },
-      {
-        "title": "Call of Duty Wiki: Pareidolia activation",
-        "url": "https://callofduty.fandom.com/wiki/Pareidolia"
-      },
-      {
-        "title": "Shangri-La secrets and version differences",
-        "url": "https://mmmrkennedy.com/games/BO1/shangri_la/shangri_la_guide?version=bo1"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-23"
   },
   {
     "id": "bo3-shangri-la-monkey-perk",
@@ -4475,83 +4588,118 @@
     "category": "side",
     "difficulty": "Medium",
     "players": "Solo or co-op",
-    "summary": "Time a carrier kill to turn Max Ammo into an extra perk.",
+    "summary": "Let a carrier change a Max Ammo, then time its defeat for an extra perk.",
     "requirements": [
-      "A Max Ammo drop and a clear shot at its carrier"
+      "A Max Ammo on the ground and ammunition ready.",
+      "Space to track the carrier without being cornered."
     ],
-    "reward": "Random extra perk.",
+    "reward": "A random extra perk when the timing succeeds; this is not a guaranteed replacement for the stolen Max Ammo.",
     "steps": [
       {
-        "title": "Let a monkey take Max Ammo",
-        "body": "Leave Max Ammo uncollected until a monkey steals it. Keep the carrier in sight before it escapes up the temple stairs."
+        "title": "Leave a Max Ammo for the carrier",
+        "body": "Keep the drop uncollected and allow a monkey to take it. Follow the carrier’s changing icon before it escapes. The Chronicles-specific reply identifies Max Ammo as the starting drop needed for this perk opportunity; an arbitrary stolen drop is not the documented setup.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/bpsxza/"
       },
       {
-        "title": "Shoot on the perk icon",
-        "body": "Watch its cycling drop icon and kill it while the brief perk-bottle icon is showing. Immediately collect the bottle before another monkey steals it. Other initial drops cycle ordinary rewards; the perk opportunity requires Max Ammo."
+        "title": "Learn the flash before committing",
+        "body": "Watch the carrier cycle and prepare the shot or melee before the brief perk-bottle moment. Players report that reacting only after seeing the bottle can be too slow. The exact delay depends on the attack, so use the rhythm rather than a claimed universal frame count.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/bpsxza/",
+        "tip": "A later BO3 player report says the bottle can appear after different icons. Do not use the original game’s fixed Max Ammo-to-bottle transition as a guaranteed BO3 timing rule."
+      },
+      {
+        "title": "Defeat the carrier and take the reward",
+        "body": "Time the hit for the perk-bottle opportunity, then take the resulting reward promptly. If the icon becomes an ordinary power-up instead, that attempt did not produce the perk. The lost Max Ammo is part of the risk; the game does not promise both rewards from one carrier.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/rgua5c/"
+      },
+      {
+        "title": "Keep further attempts practical",
+        "body": "A BO3 player documents earning a full set of perks through this mechanic, while describing failed early/late shots and the difficulty of later-round attempts. Clear space before trying again. No exact current perk-pool, duplicate-perk, co-op distribution or respawn rule is established by these written reports.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/rgua5c/"
       }
     ],
     "sources": [
       {
-        "title": "Shangri-La secrets and version differences",
-        "url": "https://mmmrkennedy.com/games/BO1/shangri_la/shangri_la_guide?version=bo1"
+        "title": "Chronicles perk timing",
+        "url": "https://www.reddit.com/r/CODZombies/comments/bpsxza/"
       },
       {
-        "title": "Firsthand Chronicles monkey-perk timing",
-        "url": "https://www.reddit.com/r/CODZombies/comments/bpsxza/"
+        "title": "Firsthand BO3 full-perk attempt",
+        "url": "https://www.reddit.com/r/CODZombies/comments/rgua5c/"
+      },
+      {
+        "title": "BO3 cycle difference report",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1rwn1ah/"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-23",
+    "relatedGuideIds": [
+      "bo3-shangri-la-perks-gobblegum-setup",
+      "bo3-shangri-la-time-travel-will-tell"
+    ]
   },
   {
     "id": "bo3-shangri-la-samantha-sorrow",
     "mapId": "bo3-shangri-la",
-    "title": "Samantha’s Sorrow and free Max Ammo",
+    "title": "Samantha’s Sorrow",
     "category": "music",
     "difficulty": "Easy",
     "players": "Solo or co-op",
-    "summary": "Ring the gongs, enter the pan code and find five dolls.",
+    "summary": "Find five dolls.",
     "requirements": [
-      "Chronicles version; retain the starting 1911",
-      "Open the minecart, power room and waterfall routes"
+      "Open minecart and mines."
     ],
-    "reward": "Samantha’s Sorrow and Max Ammo.",
+    "reward": "Max Ammo; music.",
     "steps": [
       {
         "title": "Ring the four good gongs",
-        "body": "Knife-test the eight gongs. Find the four with a clear ringing tone, then ring those four from farthest to nearest the underground pans. A wrong gong resets the active set. All four must still be ringing together."
+        "body": "Test the eight gongs by melee. Find the four with a clear ring, then strike those four without hitting a wrong one.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=65AtoxXTB1A&t=11s",
+        "tip": "Reports disagree on gong ordering. This demonstration identifies the four by tone; a distance-based sequence is not confirmed. The photo shows two gong landmarks, not all eight positions."
       },
       {
         "title": "Enter the pan code",
-        "body": "At the bottom of the water slide, number the five hanging pans left to right. Using the starting 1911, shoot 1, 1, 5 within the gong window. A sound confirms the input."
+        "body": "Keep the starting pistol. At the bottom of the waterslide, number the hanging pans left to right; shoot the first twice, then the fifth once.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=65AtoxXTB1A&t=35s"
       },
       {
         "title": "Start the hunt",
-        "body": "Interact with the doll beside the danger sign at the minecart start. Shoot each subsequent doll to spawn the next; listen for its sound."
+        "body": "Find the floor doll below the skull sign beside the minecart. Interact to start the hunt.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=65AtoxXTB1A&t=48s",
+        "tip": "The photo identifies the sign. The floor doll is below this crop; its exact interaction range remains unchecked."
       },
       {
         "title": "Shoot the five track dolls",
-        "body": "In order: first crossbeam at the mine entrance; beneath the lantern visible from power; the dark ceiling beam on the tunnel leaving power; the last beam at the mine exit by the waterfall; the rock/wall above the outside waterfall. All can be shot without riding the cart. If time expires, restart at the initial doll."
+        "body": "Shoot five dolls in order; riding is optional:\nMine entrance — aim from the cart gates.\nBelow the upper lantern — aim from power.\nDark upper ceiling — aim from power.\nMine exit beam — aim from the waterfall.\nRock in front of the waterfall.",
+        "original": true,
+        "researchSource": "https://cod-zombie.fr/black-ops-3/zombies-chronicles/shangri-la/musiques-easter-eggs/",
+        "tip": "The photo identifies the fifth target’s rock. Individual close-ups for the four track targets remain missing."
       },
       {
         "title": "Claim the reward",
-        "body": "Return to the danger-sign doll and interact again. A hand takes it, Max Ammo appears and the song starts."
+        "body": "Return to the first doll and interact for Max Ammo and the song. Collect the drop before a monkey steals it.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=65AtoxXTB1A&t=100s",
+        "tip": "The exact hunt timer, failed-attempt restart rules, co-op/replay behavior and eligibility of other weapons remain unchecked."
       }
     ],
     "sources": [
       {
-        "title": "COD-Z: remaster music, locations and screenshots",
+        "title": "Article",
         "url": "https://cod-zombie.fr/black-ops-3/zombies-chronicles/shangri-la/musiques-easter-eggs/"
       },
       {
-        "title": "Shangri-La secrets and version differences",
-        "url": "https://mmmrkennedy.com/games/BO1/shangri_la/shangri_la_guide?version=bo1"
-      },
-      {
-        "title": "Remaster secrets and pan code",
-        "url": "https://callofdutymaps.com/zombies/shangri-la-2/"
+        "title": "Tieyourwheels",
+        "url": "https://www.youtube.com/watch?v=65AtoxXTB1A"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-23"
   },
   {
     "id": "bo2-die-rise-we-all-fall-down",

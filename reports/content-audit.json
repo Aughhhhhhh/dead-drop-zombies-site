@@ -8,8 +8,8 @@
     "Newly authored guides may have source research without a separate recorded full audit. Guide counts and passing software checks do not establish gameplay accuracy."
   ],
   "catalogEntries": 160,
-  "runtimeGuides": 1550,
-  "guidesWithRecordedSourceReview": 959,
+  "runtimeGuides": 1554,
+  "guidesWithRecordedSourceReview": 967,
   "guidesCertifiedFullyVerified": 0,
   "batches": [
     {
@@ -395,6 +395,10 @@
     {
       "batch": "bo3-ascension-quests-songs-upgrades-and-thirteen-native-references",
       "rowsWithRecordedReview": 19
+    },
+    {
+      "batch": "bo3-shangri-quests-upgrades-songs-and-five-location-photos",
+      "rowsWithRecordedReview": 9
     }
   ],
   "guideReviews": [
@@ -21695,6 +21699,33 @@
             "https://www.youtube.com/watch?v=UfjCjXtlszM",
             "https://www.youtube.com/watch?v=UfjCjXtlszM&t=233s"
           ]
+        },
+        {
+          "batch": "bo3-shangri-quests-upgrades-songs-and-five-location-photos",
+          "reportedStatus": "Whole final guide and metadata read against primary evidence, with explicit research gaps; no retail playtest.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "All frozen40 reader text and metadata read.",
+            "Parent song/weapon/media overlays read and five source/final image crops individually viewed.",
+            "All1545 unrelated runtime guides remain identical; song chapter titles preserve saved progress.",
+            "Desktop and actual390x844 phone checks pass; chapter/reference targets are44px or taller, all photos load, jumps focus and close menus, source/return links work and checklist progress survives reload before restoration.",
+            "Importer regeneration preserves all21 data values; no retail mechanics are certified."
+          ],
+          "unverified": [
+            "Exact activation input/range, playback order and replay behaviour are unverified. No monologue is reproduced."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 1,
+            "directReferences": 1,
+            "newInlineImagePlacements": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "evidenceUrls": [
+            "https://www.codzombieguides.com/ascension-remastered",
+            "https://www.youtube.com/watch?v=UfjCjXtlszM",
+            "https://www.youtube.com/watch?v=UfjCjXtlszM&t=233s"
+          ]
         }
       ]
     },
@@ -31567,6 +31598,281 @@
             "https://www.youtube.com/watch?v=7drZa5q8OEk",
             "https://www.youtube.com/watch?v=DUUw4W-yjHY",
             "https://www.youtube.com/watch?v=yadq4Mtrm04"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-shangri-la-jgb215-fractalizer",
+      "mapId": "bo3-shangri-la",
+      "reviews": [
+        {
+          "batch": "bo3-shangri-quests-upgrades-songs-and-five-location-photos",
+          "reportedStatus": "Whole final guide and metadata read against primary evidence, with explicit research gaps; no retail playtest.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "All frozen40 reader text and metadata read.",
+            "Parent song/weapon/media overlays read and five source/final image crops individually viewed.",
+            "All1545 unrelated runtime guides remain identical; song chapter titles preserve saved progress.",
+            "Desktop and actual390x844 phone checks pass; chapter/reference targets are44px or taller, all photos load, jumps focus and close menus, source/return links work and checklist progress survives reload before restoration.",
+            "Importer regeneration preserves all21 data values; no retail mechanics are certified."
+          ],
+          "unverified": [
+            "Exact main-quest panels/gongs, original radios, full wall/Box/equipment census and upgrade exceptions, four individual track-target close-ups, song timing/retry/co-op rules and retail playtests remain open."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 4,
+            "directReferences": 4,
+            "newInlineImagePlacements": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/12e43d6/",
+            "https://www.reddit.com/r/CODZombies/comments/153gw56/",
+            "https://www.reddit.com/r/CODZombies/comments/1e1rayr/",
+            "https://www.reddit.com/r/CODZombies/comments/1fqzcul/comment/lp9l9z9/",
+            "https://www.reddit.com/r/CODZombies/comments/1rwn1ah/",
+            "https://www.reddit.com/r/CODZombies/comments/pg8sux/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-shangri-la-monkey-perk",
+      "mapId": "bo3-shangri-la",
+      "reviews": [
+        {
+          "batch": "bo3-shangri-quests-upgrades-songs-and-five-location-photos",
+          "reportedStatus": "Whole final guide and metadata read against primary evidence, with explicit research gaps; no retail playtest.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "All frozen40 reader text and metadata read.",
+            "Parent song/weapon/media overlays read and five source/final image crops individually viewed.",
+            "All1545 unrelated runtime guides remain identical; song chapter titles preserve saved progress.",
+            "Desktop and actual390x844 phone checks pass; chapter/reference targets are44px or taller, all photos load, jumps focus and close menus, source/return links work and checklist progress survives reload before restoration.",
+            "Importer regeneration preserves all21 data values; no retail mechanics are certified."
+          ],
+          "unverified": [
+            "Exact main-quest panels/gongs, original radios, full wall/Box/equipment census and upgrade exceptions, four individual track-target close-ups, song timing/retry/co-op rules and retail playtests remain open."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 4,
+            "directReferences": 4,
+            "newInlineImagePlacements": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/1rwn1ah/",
+            "https://www.reddit.com/r/CODZombies/comments/bpsxza/",
+            "https://www.reddit.com/r/CODZombies/comments/rgua5c/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-shangri-la-pack-a-punch-access",
+      "mapId": "bo3-shangri-la",
+      "reviews": [
+        {
+          "batch": "bo3-shangri-quests-upgrades-songs-and-five-location-photos",
+          "reportedStatus": "Whole final guide and metadata read against primary evidence, with explicit research gaps; no retail playtest.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "All frozen40 reader text and metadata read.",
+            "Parent song/weapon/media overlays read and five source/final image crops individually viewed.",
+            "All1545 unrelated runtime guides remain identical; song chapter titles preserve saved progress.",
+            "Desktop and actual390x844 phone checks pass; chapter/reference targets are44px or taller, all photos load, jumps focus and close menus, source/return links work and checklist progress survives reload before restoration.",
+            "Importer regeneration preserves all21 data values; no retail mechanics are certified."
+          ],
+          "unverified": [
+            "Exact main-quest panels/gongs, original radios, full wall/Box/equipment census and upgrade exceptions, four individual track-target close-ups, song timing/retry/co-op rules and retail playtests remain open."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 4,
+            "directReferences": 4,
+            "newInlineImagePlacements": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/1hjuei6/",
+            "https://www.reddit.com/r/CODZombies/comments/6aki8s/",
+            "https://www.reddit.com/r/CODZombies/comments/pg8sux/",
+            "https://www.reddit.com/r/CODZombies/comments/pvuydl/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-shangri-la-pareidolia",
+      "mapId": "bo3-shangri-la",
+      "reviews": [
+        {
+          "batch": "bo3-shangri-quests-upgrades-songs-and-five-location-photos",
+          "reportedStatus": "Whole final guide and metadata read against primary evidence, with explicit research gaps; no retail playtest.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "All frozen40 reader text and metadata read.",
+            "Parent song/weapon/media overlays read and five source/final image crops individually viewed.",
+            "All1545 unrelated runtime guides remain identical; song chapter titles preserve saved progress.",
+            "Desktop and actual390x844 phone checks pass; chapter/reference targets are44px or taller, all photos load, jumps focus and close menus, source/return links work and checklist progress survives reload before restoration.",
+            "Importer regeneration preserves all21 data values; no retail mechanics are certified."
+          ],
+          "unverified": [
+            "Exact main-quest panels/gongs, original radios, full wall/Box/equipment census and upgrade exceptions, four individual track-target close-ups, song timing/retry/co-op rules and retail playtests remain open."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 3,
+            "directReferences": 3,
+            "newInlineImagePlacements": 1
+          },
+          "requirementsAndRewardReviewed": true,
+          "evidenceUrls": [
+            "https://cod-zombie.fr/black-ops-3/zombies-chronicles/shangri-la/musiques-easter-eggs/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-shangri-la-perks-gobblegum-setup",
+      "mapId": "bo3-shangri-la",
+      "reviews": [
+        {
+          "batch": "bo3-shangri-quests-upgrades-songs-and-five-location-photos",
+          "reportedStatus": "Whole final guide and metadata read against primary evidence, with explicit research gaps; no retail playtest.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "All frozen40 reader text and metadata read.",
+            "Parent song/weapon/media overlays read and five source/final image crops individually viewed.",
+            "All1545 unrelated runtime guides remain identical; song chapter titles preserve saved progress.",
+            "Desktop and actual390x844 phone checks pass; chapter/reference targets are44px or taller, all photos load, jumps focus and close menus, source/return links work and checklist progress survives reload before restoration.",
+            "Importer regeneration preserves all21 data values; no retail mechanics are certified."
+          ],
+          "unverified": [
+            "Exact main-quest panels/gongs, original radios, full wall/Box/equipment census and upgrade exceptions, four individual track-target close-ups, song timing/retry/co-op rules and retail playtests remain open."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 3,
+            "directReferences": 3,
+            "newInlineImagePlacements": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/h0bewy/",
+            "https://www.reddit.com/r/CODZombies/comments/rgua5c/",
+            "https://www.reddit.com/r/CODZombies/wiki/game-mechanics/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-shangri-la-samantha-sorrow",
+      "mapId": "bo3-shangri-la",
+      "reviews": [
+        {
+          "batch": "bo3-shangri-quests-upgrades-songs-and-five-location-photos",
+          "reportedStatus": "Whole final guide and metadata read against primary evidence, with explicit research gaps; no retail playtest.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "All frozen40 reader text and metadata read.",
+            "Parent song/weapon/media overlays read and five source/final image crops individually viewed.",
+            "All1545 unrelated runtime guides remain identical; song chapter titles preserve saved progress.",
+            "Desktop and actual390x844 phone checks pass; chapter/reference targets are44px or taller, all photos load, jumps focus and close menus, source/return links work and checklist progress survives reload before restoration.",
+            "Importer regeneration preserves all21 data values; no retail mechanics are certified."
+          ],
+          "unverified": [
+            "Exact main-quest panels/gongs, original radios, full wall/Box/equipment census and upgrade exceptions, four individual track-target close-ups, song timing/retry/co-op rules and retail playtests remain open."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 5,
+            "directReferences": 5,
+            "newInlineImagePlacements": 4
+          },
+          "requirementsAndRewardReviewed": true,
+          "evidenceUrls": [
+            "https://cod-zombie.fr/black-ops-3/zombies-chronicles/shangri-la/musiques-easter-eggs/",
+            "https://www.youtube.com/watch?v=65AtoxXTB1A",
+            "https://www.youtube.com/watch?v=65AtoxXTB1A&t=100s",
+            "https://www.youtube.com/watch?v=65AtoxXTB1A&t=11s",
+            "https://www.youtube.com/watch?v=65AtoxXTB1A&t=35s",
+            "https://www.youtube.com/watch?v=65AtoxXTB1A&t=48s"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-shangri-la-time-travel-will-tell",
+      "mapId": "bo3-shangri-la",
+      "reviews": [
+        {
+          "batch": "bo3-shangri-quests-upgrades-songs-and-five-location-photos",
+          "reportedStatus": "Whole final guide and metadata read against primary evidence, with explicit research gaps; no retail playtest.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "All frozen40 reader text and metadata read.",
+            "Parent song/weapon/media overlays read and five source/final image crops individually viewed.",
+            "All1545 unrelated runtime guides remain identical; song chapter titles preserve saved progress.",
+            "Desktop and actual390x844 phone checks pass; chapter/reference targets are44px or taller, all photos load, jumps focus and close menus, source/return links work and checklist progress survives reload before restoration.",
+            "Importer regeneration preserves all21 data values; no retail mechanics are certified."
+          ],
+          "unverified": [
+            "Exact main-quest panels/gongs, original radios, full wall/Box/equipment census and upgrade exceptions, four individual track-target close-ups, song timing/retry/co-op rules and retail playtests remain open."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 25,
+            "directReferences": 25,
+            "newInlineImagePlacements": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/12e43d6/",
+            "https://www.reddit.com/r/CODZombies/comments/153gw56/",
+            "https://www.reddit.com/r/CODZombies/comments/1b32327/",
+            "https://www.reddit.com/r/CODZombies/comments/pg8sux/",
+            "https://www.reddit.com/r/CODZombies/comments/qnhaup/",
+            "https://www.reddit.com/r/CODZombies/comments/qu0sfp/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-shangri-la-weapon-upgrade-rules",
+      "mapId": "bo3-shangri-la",
+      "reviews": [
+        {
+          "batch": "bo3-shangri-quests-upgrades-songs-and-five-location-photos",
+          "reportedStatus": "Whole final guide and metadata read against primary evidence, with explicit research gaps; no retail playtest.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "All frozen40 reader text and metadata read.",
+            "Parent song/weapon/media overlays read and five source/final image crops individually viewed.",
+            "All1545 unrelated runtime guides remain identical; song chapter titles preserve saved progress.",
+            "Desktop and actual390x844 phone checks pass; chapter/reference targets are44px or taller, all photos load, jumps focus and close menus, source/return links work and checklist progress survives reload before restoration.",
+            "Importer regeneration preserves all21 data values; no retail mechanics are certified."
+          ],
+          "unverified": [
+            "Exact main-quest panels/gongs, original radios, full wall/Box/equipment census and upgrade exceptions, four individual track-target close-ups, song timing/retry/co-op rules and retail playtests remain open."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 6,
+            "directReferences": 6,
+            "newInlineImagePlacements": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/14rtre0/bo3_zombies_smg_battle/",
+            "https://www.reddit.com/r/CODZombies/comments/1bvbwao/any_tips_for_shangri_la/",
+            "https://www.reddit.com/r/CODZombies/comments/1ma83hp/am_i_crazy_for_thinking_bo3s_weapons_kind_ruin/",
+            "https://www.reddit.com/r/CODZombies/comments/pg8sux/",
+            "https://www.reddit.com/r/CODZombies/comments/zmexai/assuming_you_dont_use_mega_gobblegums_which/",
+            "https://www.reddit.com/r/CODZombies/wiki/game-mechanics/"
           ]
         }
       ]
@@ -78398,10 +78704,6 @@
     "bo3-shadows-of-evil-community-shadows-of-evil-map-features-fumigator",
     "bo3-shadows-of-evil-community-shadows-of-evil-map-features-pods",
     "bo3-shadows-of-evil-community-shadows-of-evil-map-features-power",
-    "bo3-shangri-la-monkey-perk",
-    "bo3-shangri-la-pareidolia",
-    "bo3-shangri-la-samantha-sorrow",
-    "bo3-shangri-la-time-travel-will-tell",
     "bo4-alpha-omega-community-alpha-omega-easter-eggs-quests-extra-perk",
     "bo4-alpha-omega-community-alpha-omega-easter-eggs-quests-free-self-revive-love-story",
     "bo4-alpha-omega-community-alpha-omega-easter-eggs-quests-i-am-the-well-music-easter-egg",
@@ -81292,15 +81594,21 @@
         "bo3-ascension"
       ],
       "note": "Ascension has 19 guides and 110 chapters. Samantha’s three Gersch collections and five hunt targets, the phone song and Monty location have 13 photographs. The main quest, both other song routes, landers, equipment, perks, conditional solo perk route and 27 historical firearm rows have direct references. Clock and launch-colour conflicts, original lore-radio census, exact Monty inputs, timers/retries, current weapons, traps/Wunderfizz and retail tests remain pending."
+    },
+    {
+      "mapIds": [
+        "bo3-shangri-la"
+      ],
+      "note": "BO3 Shangri has eight expanded routes:54 chapters covering the main eclipse quest, its daylight minecart radio and final pickup, Pack-a-Punch, the shrink ray, shared upgrade rules, two reported wall guns, monkey perks and both existing songs. Five location photos include numbered pans and the waterfall rock. The exact panel/gong census, original lore radios, full firearm/equipment inventory, other minor secrets, four individual track-target photos and retail verification remain incomplete."
     }
   ],
   "dataHashFormat": "SHA-256 of UTF-8 JSON files with LF line endings, matching Git and GitHub Pages.",
   "dataSha256": {
     "catalog.json": "1d06d2aa4a42db59b97868073ddbab1d6a33b3ffb4167f2ebe71ceed09eddf2d",
     "community-corrections.json": "5ea715d8b1f873a38422b5204db8ca47e956e26600f5c9ef1d24cdaf934e4d85",
-    "coverage-gaps.json": "367894173068d6cd4aabda6512c3bf14d527da5fd00758e2f40465d7f03f8a9d",
+    "coverage-gaps.json": "91bf1c515667037aec60be30ed8fd3550949de3552bdb20a1b67e776a524c33f",
     "guides-aw.json": "b5a7e5fb7d83e776452f77060d0714c13f63ae8eeb6e367272c0d00a38cc3855",
-    "guides-classic.json": "108faf483d51f5931bd28c83fa6870c8ccf71c4e0a2fbb2eb70ab94e3e0dca4c",
+    "guides-classic.json": "d49becbb78ed9931c00919f71132958e6ad700b9658198c668605656ff245bb0",
     "guides-community.json": "238aff5d4ce164bbf07e1156e6fa9f4ffdc1809275b69854da04df09d41fe79c",
     "guides-completion-classic.json": "ed538054e7aeb5575de95dc78a345deb25a4111b47049bbd73fd29de06905c7a",
     "guides-completion-modern.json": "5e0086c91529a858bf011cbb6ccfe4bc469b3743f49c9175aac4e0115f460748",
@@ -81309,11 +81617,11 @@
     "guides-goal-classic.json": "5621ad45c8750da623b7c48c4fbbb023c358c9853375d50d29e2fedba3b176dd",
     "guides-goal-modern.json": "e2e88076d73c606934b7058c0c84ebeca2a6850f5b635af941f9ce46dafc43dc",
     "guides-goal-modes.json": "a063eeb0db74f9c40a3edecc71cd08853a01dc83c7a4c0f6ef88bde5e202a86c",
-    "guides-goal-root.json": "aef5334fd747107340501effac35c7f5029ee6ed5b5edcef932cb68d94a83822",
+    "guides-goal-root.json": "7872493eddaa155678e3d8b94d592811c4f4b620564c7df814a274e3047d08fc",
     "guides-modern.json": "1082b5feea32d0f1a1650977f1d89b6b789a2b779dcb3e0c2eec9d5cbd9b3630",
     "guides-super-ee-doa4.json": "1d038197c8325f946290b8886d95fce8889291c193a5e8ec6f54124033a17a4a",
     "media-completion.json": "58882d44af4bbe2e09648819c06547084fc33caf994cace9122d512163c22366",
-    "media.json": "62c1b5f8189144e6e4d380cec1d41724e0cf043bef274b9e08e8e861d80ef61d",
+    "media.json": "fb9a048c550669092d80ad2ca9ee980a2e77209e5b9a20818fc4e376419adff1",
     "reddit-sources.json": "fd7f1c5e946d258d708cc7355e5826a2a8fc02ef9ce071c9e40a4bced6de646a",
     "references.json": "777f48a6c96af27b3e8c11ab161bdf13e6015ebcb4f18d8d24bf81397fdafe06",
     "source-gaps.json": "14803ee0797b8ad30644ff156b1197ce1328fd65a8dd95b3ce04e95ddcf16518"
@@ -81442,9 +81750,10 @@
       "The two BO3 Shi No Numa song pages retain eight chapters and eight direct references, with all seven new native WebPs loaded after desktop and actual390x844 phone jumps. Source/return focus, saved/restored progress, related navigation and the six-card map’s revised gap disclosure pass. All chapter/reference targets remain at least44px. Evidence: output/batch28-browser-qa.json.",
       "All16 BO3 Kino pages render63 chapters with63 direct references. All12 new native images load after desktop and actual390x844 phone navigation; all chapter/reference targets are at least44px. Chapter jumps focus and close menus, Sources/return focus, saved/restored checklist progress, the wooden-door companion and16-card map gap disclosure pass without overflow. Evidence: output/batch29-browser-qa.json.",
       "The Kino firearm reference renders37 chapters,37 direct references and27 attributed six-column tables. Desktop and actual390x844 phone checks pass; all37 phone chapter targets are at least44px, tables pan within their containers, Sources/return focus and saved/restored progress work. The prerequisite Pack-a-Punch page and17-guide map gap disclosure pass. Evidence: output/batch30-browser-qa.json.",
-      "All19 revised/new BO3 Ascension pages render110 chapters and110 direct references on desktop and actual390x844 phone viewports. All13 native photos load,27 attributed tables render and pan within the page, chapter/source targets are at least44px, jumps focus and close menus, source/return links work and saved checklist progress is restored after testing. Related Pack-a-Punch navigation, the visible clock disagreement and19-guide map gap disclosure pass. Evidence: output/batch31-browser-qa.json."
+      "All19 revised/new BO3 Ascension pages render110 chapters and110 direct references on desktop and actual390x844 phone viewports. All13 native photos load,27 attributed tables render and pan within the page, chapter/source targets are at least44px, jumps focus and close menus, source/return links work and saved checklist progress is restored after testing. Related Pack-a-Punch navigation, the visible clock disagreement and19-guide map gap disclosure pass. Evidence: output/batch31-browser-qa.json.",
+      "All eight expanded BO3 Shangri pages and the Ascension Monty metadata correction render55 chapters/direct references across desktop and actual390x844 phone checks. All five Shangri photos and the retained Monty photo load; chapter/reference targets are at least44px, jumps focus and close menus, source/return focus, related weapon navigation and saved/restored song progress pass. The map exposes54 chapters and its remaining research gaps. Evidence: output/batch32-browser-qa.json."
     ],
-    "currentBatchResponsiveLimit": "The19 revised/new BO3 Ascension pages passed desktop and actual390x844 phone checks with110 chapters and13 native references. Clock/launch disagreements, original-radio census, exact Monty inputs and other recorded gaps remain open; no retail playtest or exhaustive map certification is implied. Evidence: output/batch31-browser-qa.json.",
-    "importerChecks": "Complete importer passed against an isolated changed-output fixture and its unchanged rerun:866 community topics, exact regenerated bytes, preserved five-chapter DE correction and no unnecessary rewrite. Evidence: output/batch19-import-check.json. Zetsubou’s29 imported revisions also survive full regeneration with their authored quotation flags,67 new image placements and all21 JSON values unchanged;3231 imported checklist sections. Evidence: output/batch20-semantic-diff.json. Final Zetsubou Skull correction and two new references preserve all21 JSON values after full regeneration. Evidence: output/batch21-final-import-check.json and output/batch21-semantic-diff.json. Gorod’s27 durable corrections preserve all21 JSON values after full regeneration, with3368 imported checklist sections. Evidence: output/batch22-final-import-check.json and output/batch22-semantic-diff.json. The41-chapter firearm addition and one-step Trials correction preserve all21 final JSON values, with3368 imported checklist sections. Evidence: output/batch23-final-import-check.json and output/batch23-semantic-diff.json. Revelations’32 durable authored corrections preserve all21 final JSON values after full regeneration, with3530 imported checklist sections. Evidence: output/batch24-final-import-check.json and output/batch24-semantic-diff.json. Revelations firearm addition preserves all21 final JSON values, with3530 imported checklist sections and all1527 existing runtime guides unchanged. Evidence: output/batch25-final-import-check.json and output/batch25-semantic-diff.json. The five-chapter Monty addition preserves all21 final JSON values and all1528 existing runtime guides. Evidence: output/batch26-final-import-check.json and output/batch26-semantic-diff.json. The 21 revisions and seven additions preserve all 21 final JSON values after full regeneration, with 3563 imported checklist sections and 1508 other runtime guides unchanged. Evidence: output/batch27-final-import-check.json and output/batch27-semantic-diff.json. The two scoped photo updates preserve all21 final JSON values and all1534 other runtime guides. Evidence: output/batch28-final-import-check.json and output/batch28-semantic-diff.json. The10 scoped Kino revisions and6 additions preserve all21 final JSON values,3563 imported sections and all1526 other runtime guides. Evidence: output/batch29-final-import-check.json and output/batch29-semantic-diff.json. The standalone Kino firearm reference preserves all21 final JSON values and all1542 existing runtime guides. Evidence: output/batch30-final-import-check.json and output/batch30-semantic-diff.json. Ascension’s12 scoped revisions and7 additions preserve all21 final JSON values,3563 imported sections and all1531 other runtime guides. Evidence: output/batch31-final-import-check.json and output/batch31-semantic-diff.json."
+    "currentBatchResponsiveLimit": "The eight BO3 Shangri guides and one Ascension metadata correction pass desktop and actual390x844 phone checks. Full map inventories, exact panels/gongs, lore radios, remaining individual target photos and retail mechanics remain incomplete. Evidence: output/batch32-browser-qa.json.",
+    "importerChecks": "Complete importer passed against an isolated changed-output fixture and its unchanged rerun:866 community topics, exact regenerated bytes, preserved five-chapter DE correction and no unnecessary rewrite. Evidence: output/batch19-import-check.json. Zetsubou’s29 imported revisions also survive full regeneration with their authored quotation flags,67 new image placements and all21 JSON values unchanged;3231 imported checklist sections. Evidence: output/batch20-semantic-diff.json. Final Zetsubou Skull correction and two new references preserve all21 JSON values after full regeneration. Evidence: output/batch21-final-import-check.json and output/batch21-semantic-diff.json. Gorod’s27 durable corrections preserve all21 JSON values after full regeneration, with3368 imported checklist sections. Evidence: output/batch22-final-import-check.json and output/batch22-semantic-diff.json. The41-chapter firearm addition and one-step Trials correction preserve all21 final JSON values, with3368 imported checklist sections. Evidence: output/batch23-final-import-check.json and output/batch23-semantic-diff.json. Revelations’32 durable authored corrections preserve all21 final JSON values after full regeneration, with3530 imported checklist sections. Evidence: output/batch24-final-import-check.json and output/batch24-semantic-diff.json. Revelations firearm addition preserves all21 final JSON values, with3530 imported checklist sections and all1527 existing runtime guides unchanged. Evidence: output/batch25-final-import-check.json and output/batch25-semantic-diff.json. The five-chapter Monty addition preserves all21 final JSON values and all1528 existing runtime guides. Evidence: output/batch26-final-import-check.json and output/batch26-semantic-diff.json. The 21 revisions and seven additions preserve all 21 final JSON values after full regeneration, with 3563 imported checklist sections and 1508 other runtime guides unchanged. Evidence: output/batch27-final-import-check.json and output/batch27-semantic-diff.json. The two scoped photo updates preserve all21 final JSON values and all1534 other runtime guides. Evidence: output/batch28-final-import-check.json and output/batch28-semantic-diff.json. The10 scoped Kino revisions and6 additions preserve all21 final JSON values,3563 imported sections and all1526 other runtime guides. Evidence: output/batch29-final-import-check.json and output/batch29-semantic-diff.json. The standalone Kino firearm reference preserves all21 final JSON values and all1542 existing runtime guides. Evidence: output/batch30-final-import-check.json and output/batch30-semantic-diff.json. Ascension’s12 scoped revisions and7 additions preserve all21 final JSON values,3563 imported sections and all1531 other runtime guides. Evidence: output/batch31-final-import-check.json and output/batch31-semantic-diff.json. Shangri’s four revisions/four additions and one Ascension metadata correction preserve all21 final JSON values,3563 imported sections and all1545 unrelated runtime guides. Evidence: output/batch32-final-import-check.json and output/batch32-semantic-diff.json."
   }
 }

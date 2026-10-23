@@ -6578,13 +6578,13 @@
     "mapId": "bo3-ascension",
     "title": "Monty radio",
     "category": "side",
-    "summary": "Find the radio in spawn.",
+    "summary": "Spawn location.",
     "difficulty": "Easy",
     "players": "Solo / co-op",
     "requirements": [
       "Black Ops III: Zombies Chronicles Ascension."
     ],
-    "reward": "Map commentary.",
+    "reward": "Commentary.",
     "steps": [
       {
         "title": "Locate",
@@ -7189,5 +7189,278 @@
       "bo3-ascension-community-ascension-special-weapons-thundergun-upgrade",
       "bo3-ascension-community-ascension-special-weapons-special-grenades"
     ]
+  },
+  {
+    "id": "bo3-shangri-la-pack-a-punch-access",
+    "mapId": "bo3-shangri-la",
+    "title": "Pack-a-Punch: the four plate locations",
+    "category": "side",
+    "difficulty": "Easy / coordination",
+    "players": "Solo or co-op",
+    "summary": "Find the active stone plates for your player count and reach the temple upgrade machine.",
+    "requirements": [
+      "Power on and routes open to the bridge, minecart-side tunnel and power room.",
+      "5,000 points for a first weapon upgrade; 2,500 for a supported later ammo-type roll."
+    ],
+    "reward": "Access to Pack-a-Punch; the main quest’s four-player requirement is a separate rule.",
+    "steps": [
+      {
+        "title": "Search all four floor plates",
+        "body": "Check spawn, the bridge, the minecart-side tunnel and the power-room area. These are stone floor plates, separate from the four skull buttons around spawn used to start eclipse.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/1hjuei6/"
+      },
+      {
+        "title": "Find one active plate per player",
+        "body": "In solo, search the four candidates for the one active stone. In co-op, the documented rule uses as many active plates as players. Coordinate to stand on the required plates together. The remaster discussion distinguishes solo Pack-a-Punch from the four-player main quest.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/pvuydl/",
+        "tip": "A later BO3 question contains a contradictory reply telling solo players to activate all four. The remaster discussion and independent player-count explanation support one active plate in solo."
+      },
+      {
+        "title": "Use the temple machine with the intended gun",
+        "body": "When the temple stairs are available, go up from spawn with the weapon you want to upgrade equipped. Pay 5,000 points for its first upgrade and retrieve it. The following weapon-upgrade card separates a normal upgrade from the optional 2,500-point alternate-ammo roll.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/pg8sux/"
+      },
+      {
+        "title": "Recheck the plates for another opening",
+        "body": "If access closes, find and coordinate on the active plates again. Do not spend time pressing the eclipse skulls when the goal is ordinary Pack-a-Punch access. Exact current opening/cooldown duration and disconnect-related player-count behavior remain untested.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/6aki8s/"
+      }
+    ],
+    "relatedGuideIds": [
+      "bo3-shangri-la-time-travel-will-tell",
+      "bo3-shangri-la-jgb215-fractalizer",
+      "bo3-shangri-la-weapon-upgrade-rules"
+    ],
+    "sources": [
+      {
+        "title": "Chronicles plate locations",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1hjuei6/"
+      },
+      {
+        "title": "Remaster solo discussion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/6aki8s/"
+      },
+      {
+        "title": "Independent player-count explanation",
+        "url": "https://www.reddit.com/r/CODZombies/comments/pvuydl/"
+      },
+      {
+        "title": "BO3 upgrade prices",
+        "url": "https://www.reddit.com/r/CODZombies/comments/pg8sux/"
+      }
+    ],
+    "checked": "2026-10-23"
+  },
+  {
+    "id": "bo3-shangri-la-jgb215-fractalizer",
+    "mapId": "bo3-shangri-la",
+    "title": "31-79 JGb215 and the Fractalizer",
+    "category": "weapon",
+    "difficulty": "Random Box / upgrade",
+    "players": "Solo or co-op",
+    "summary": "Find the shrink ray in the Box, use its shrinking effect and upgrade it for the main quest’s crystal shots.",
+    "requirements": [
+      "Points for the Mystery Box; the wanted weapon is random.",
+      "Pack-a-Punch access and 5,000 points for the machine upgrade."
+    ],
+    "reward": "31-79 JGb215; the Pack-a-Punched weapon is the Fractalizer.",
+    "steps": [
+      {
+        "title": "Roll and accept the shrink ray",
+        "body": "Use the Mystery Box and accept the 31-79 JGb215 when it is offered. An explicitly BO3 player reports receiving it through the Box. This is a random acquisition, not a build requiring three hidden weapon parts; no current odds or guaranteed round is established.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/1e1rayr/"
+      },
+      {
+        "title": "Shrink enemies before making contact",
+        "body": "Fire the shrink ray at zombies before moving through the small enemies. BO3 players report that contact can briefly stop your movement compared with the original game. Leave an escape route; shrinking a crowd is not a guarantee that you can safely run through every enemy while already surrounded.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/1rwn1ah/"
+      },
+      {
+        "title": "Upgrade at the temple",
+        "body": "With the baby gun equipped, open Pack-a-Punch and pay 5,000 points. Take the Fractalizer back from the machine. The main quest’s final charged-crystal sequence calls for this upgraded baby gun, rather than an ordinary alternate-ammo gun.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/12e43d6/"
+      },
+      {
+        "title": "Keep the quest shots separate from crowd control",
+        "body": "Use the base shrink ray for the fallen slide crystal after an explosive knocks it down. Reserve the upgraded gun for the charged minecart crystal and the crystal over the mud area near the end. Follow the main route for the eclipse state, radio prerequisite and dynamite catcher.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/153gw56/",
+        "tip": "Exact BO3 magazine/reserve capacity, damage timing, special-enemy interactions, simultaneous-holder limit and alternate-ammo eligibility still need a direct check."
+      }
+    ],
+    "relatedGuideIds": [
+      "bo3-shangri-la-pack-a-punch-access",
+      "bo3-shangri-la-time-travel-will-tell",
+      "bo3-shangri-la-weapon-upgrade-rules"
+    ],
+    "sources": [
+      {
+        "title": "BO3 Box report",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1e1rayr/"
+      },
+      {
+        "title": "BO3 contact behavior",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1rwn1ah/"
+      },
+      {
+        "title": "Quest crystal use",
+        "url": "https://www.reddit.com/r/CODZombies/comments/153gw56/"
+      },
+      {
+        "title": "Upgraded final sequence",
+        "url": "https://www.reddit.com/r/CODZombies/comments/12e43d6/"
+      },
+      {
+        "title": "Fractalizer name reply",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1fqzcul/comment/lp9l9z9/"
+      },
+      {
+        "title": "BO3 first-upgrade price",
+        "url": "https://www.reddit.com/r/CODZombies/comments/pg8sux/"
+      }
+    ],
+    "checked": "2026-10-23"
+  },
+  {
+    "id": "bo3-shangri-la-weapon-upgrade-rules",
+    "mapId": "bo3-shangri-la",
+    "title": "Weapon upgrades: Pack-a-Punch, ammo types and gums",
+    "category": "weapon",
+    "difficulty": "Reference",
+    "players": "Solo or co-op",
+    "summary": "Use the standard BO3 upgrade routes while keeping the map’s shrink-ray quest separate.",
+    "requirements": [
+      "A weapon accepted by the upgrade machine and an open temple stairway.",
+      "Optional Mega GobbleGums must be available in your own account/loadout before using their route."
+    ],
+    "reward": "A normal weapon upgrade or a supported alternate-ammo effect.",
+    "steps": [
+      {
+        "title": "Two reported wall guns and their upgraded names",
+        "body": "Pharo: BO3 players identify its wall-buy room to the right of spawn, the former MPL room. Its separately reported upgraded name is Whispering Regurgitator.\nKuda: BO3 Shangri players report a wall buy and Dead Wire use; its separately reported upgraded name is Crocuta. An exact mount locator is not established here.\nUse the machine route below for a supported gun. These two reports are a partial reference; they do not establish the full wall or Mystery Box pool, current prices, refill costs or every weapon’s upgrade eligibility.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/1bvbwao/any_tips_for_shangri_la/"
+      },
+      {
+        "title": "Buy the first upgrade for 5,000",
+        "body": "Equip the intended gun, use Pack-a-Punch and collect the returned weapon. The first upgrade changes the weapon’s upgraded form and ammunition/damage behavior. This card explains the process; the complete BO3 Shangri wall/Box inventory and every individual upgraded name remain a separate unfinished reference.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/pg8sux/"
+      },
+      {
+        "title": "Roll a supported ammo type for 2,500",
+        "body": "Bring a compatible Pack-a-Punched gun back to the machine and pay 2,500 points. A later use can replace its alternate-ammo effect. Do not assume every special weapon or grenade accepts the same process merely because an ordinary firearm does.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/game-mechanics/"
+      },
+      {
+        "title": "Recognize the five alternate-ammo effects",
+        "body": "The shared BO3 reference lists five effects:\nDead Wire: an electrical chain through nearby zombies.\nBlast Furnace: fire affecting nearby zombies.\nThunder Wall: a force that throws zombies away.\nTurned: a zombie temporarily attacks other zombies.\nFire Works: a deployed copy of the gun fires at nearby enemies.\nThese are triggered effects; this card does not certify the old table’s exact cooldown, kill-count or XP values.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/game-mechanics/"
+      },
+      {
+        "title": "Use acquisition gums before taking the weapon",
+        "body": "Wall Power applies to the next wall gun you buy. Crate Power applies to the next gun accepted from the Mystery Box, rather than a particular failed spin. Have the intended gum active before that purchase/acceptance. The written shared rule does not establish every Shangri wonder-weapon or equipment exception.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/game-mechanics/"
+      },
+      {
+        "title": "Separate Bullet Boost from a temporary upgrade",
+        "body": "Bullet Boost applies a re-Pack effect to the currently held supported upgraded gun. Ephemeral Enhancement temporarily Pack-a-Punches the held gun; the shared definition gives it a 60-second duration. Do not plan the main quest around an untested assumption that a temporary effect satisfies every Fractalizer check.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/game-mechanics/"
+      }
+    ],
+    "relatedGuideIds": [
+      "bo3-shangri-la-pack-a-punch-access",
+      "bo3-shangri-la-jgb215-fractalizer",
+      "bo3-shangri-la-perks-gobblegum-setup"
+    ],
+    "sources": [
+      {
+        "title": "BO3 upgrade prices",
+        "url": "https://www.reddit.com/r/CODZombies/comments/pg8sux/"
+      },
+      {
+        "title": "BO3 gum and ammo definitions",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/game-mechanics/"
+      },
+      {
+        "title": "Pharo room corroboration",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1ma83hp/am_i_crazy_for_thinking_bo3s_weapons_kind_ruin/"
+      },
+      {
+        "title": "BO3 Kuda wall-buy report",
+        "url": "https://www.reddit.com/r/CODZombies/comments/zmexai/assuming_you_dont_use_mega_gobblegums_which/"
+      },
+      {
+        "title": "Separate BO3 upgrade-name reports",
+        "url": "https://www.reddit.com/r/CODZombies/comments/14rtre0/bo3_zombies_smg_battle/"
+      }
+    ],
+    "checked": "2026-10-23"
+  },
+  {
+    "id": "bo3-shangri-la-perks-gobblegum-setup",
+    "mapId": "bo3-shangri-la",
+    "title": "Perks, spare change and optional GobbleGums",
+    "category": "side",
+    "difficulty": "Setup / reference",
+    "players": "Solo or co-op",
+    "summary": "Use BO3 perk prices, spare-change input and the map’s separate monkey reward.",
+    "requirements": [
+      "Open access to the machine you want and follow its displayed purchase prompt.",
+      "BO3 Zombies Chronicles; the exact map-wide machine and water-access census is unfinished."
+    ],
+    "reward": "Purchased perks, an available spare-change bonus, or an optional gum effect.",
+    "steps": [
+      {
+        "title": "Check the perk before paying",
+        "body": "The shared BO3 table lists Quick Revive at 500 in solo or 1,500 in co-op, Juggernog at 2,500, Double Tap II at 2,000, Speed Cola at 3,000, Stamin-Up at 2,000 and Mule Kick at 4,000. These are the shared reference prices, not a photographed census of every current Shangri machine or spawn position.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/game-mechanics/"
+      },
+      {
+        "title": "Try the spare-change bonus",
+        "body": "Where the ground allows you to lie prone, do so directly in front of an unclaimed perk machine. A BO3 player reply says the first player at that machine receives 100 points. If you cannot go prone or another teammate already claimed it, do not count that bonus in the points needed for a door.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/h0bewy/",
+        "tip": "The general BO3 bonus is documented; a complete dry/water-blocked machine census for this map remains unchecked."
+      },
+      {
+        "title": "Keep extra-perk routes distinct",
+        "body": "The BO3 definitions describe Unquenchable as permitting an extra perk purchase, On the House as spawning a free-perk power-up and Perkaholic as granting the map’s perks. Their shared descriptions do not establish an exact present-day Shangri perk pool. The monkey carrier route is a separate documented way to earn extras without those gums.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/game-mechanics/"
+      }
+    ],
+    "relatedGuideIds": [
+      "bo3-shangri-la-monkey-perk",
+      "bo3-shangri-la-weapon-upgrade-rules",
+      "bo3-shangri-la-pack-a-punch-access"
+    ],
+    "sources": [
+      {
+        "title": "BO3 perk and gum definitions",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/game-mechanics/"
+      },
+      {
+        "title": "First-player spare-change report",
+        "url": "https://www.reddit.com/r/CODZombies/comments/h0bewy/"
+      },
+      {
+        "title": "BO3 monkey-perk play",
+        "url": "https://www.reddit.com/r/CODZombies/comments/rgua5c/"
+      }
+    ],
+    "checked": "2026-10-23"
   }
 ]
