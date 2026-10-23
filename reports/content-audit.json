@@ -379,6 +379,10 @@
     {
       "batch": "bo3-chronicles-nacht-verruckt-shino-guides-and-firearms",
       "rowsWithRecordedReview": 28
+    },
+    {
+      "batch": "bo3-shino-songs-and-seven-native-references",
+      "rowsWithRecordedReview": 2
     }
   ],
   "guideReviews": [
@@ -30378,6 +30382,35 @@
             "https://www.codzombieguides.com/shi-no-numa-remastered",
             "https://www.reddit.com/r/CODZombies/wiki/shi-no-numa/"
           ]
+        },
+        {
+          "batch": "bo3-shino-songs-and-seven-native-references",
+          "reportedStatus": "Whole text/metadata and new native-reference placements reviewed; no independent retail playtest.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Final text and visible metadata were read completely.",
+            "Both primary upload descriptions and the relevant native transcripts were read.",
+            "All selected source frames and final crops were individually viewed.",
+            "Desktop and actual390x844 phone layouts pass loaded-image, chapter-jump, focus and 44px-target checks.",
+            "All1534 other runtime guides and all21 regenerated data values remain unchanged."
+          ],
+          "unverified": [
+            "No independent retail playtest; visible references do not certify timers, retries, every input rule or complete map coverage."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 3,
+            "directReferences": 3,
+            "newInlineImagePlacements": 1
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "Seven deterministic native-reference crops are credited and linked in place; no generated or repainted game objects.",
+          "evidenceUrls": [
+            "https://www.codzombieguides.com/shi-no-numa-remastered",
+            "https://www.reddit.com/r/CODZombies/wiki/shi-no-numa/",
+            "https://www.youtube.com/watch?v=ltJ2CE9lj_8",
+            "https://www.youtube.com/watch?v=ltJ2CE9lj_8&t=20s"
+          ]
         }
       ]
     },
@@ -30411,6 +30444,40 @@
           "evidenceUrls": [
             "https://www.codzombieguides.com/shi-no-numa-remastered",
             "https://www.reddit.com/r/CODZombies/wiki/shi-no-numa/"
+          ]
+        },
+        {
+          "batch": "bo3-shino-songs-and-seven-native-references",
+          "reportedStatus": "Whole text/metadata and new native-reference placements reviewed; no independent retail playtest.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Final text and visible metadata were read completely.",
+            "Both primary upload descriptions and the relevant native transcripts were read.",
+            "All selected source frames and final crops were individually viewed.",
+            "Desktop and actual390x844 phone layouts pass loaded-image, chapter-jump, focus and 44px-target checks.",
+            "All1534 other runtime guides and all21 regenerated data values remain unchanged."
+          ],
+          "unverified": [
+            "No independent retail playtest; visible references do not certify timers, retries, every input rule or complete map coverage."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 5,
+            "directReferences": 5,
+            "newInlineImagePlacements": 6
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "Seven deterministic native-reference crops are credited and linked in place; no generated or repainted game objects.",
+          "evidenceUrls": [
+            "https://www.codzombieguides.com/shi-no-numa-remastered",
+            "https://www.reddit.com/r/CODZombies/wiki/shi-no-numa/",
+            "https://www.youtube.com/watch?v=g2vfMN8E2j8",
+            "https://www.youtube.com/watch?v=g2vfMN8E2j8&t=100s",
+            "https://www.youtube.com/watch?v=g2vfMN8E2j8&t=35s",
+            "https://www.youtube.com/watch?v=g2vfMN8E2j8&t=40s",
+            "https://www.youtube.com/watch?v=g2vfMN8E2j8&t=45s",
+            "https://www.youtube.com/watch?v=g2vfMN8E2j8&t=50s",
+            "https://www.youtube.com/watch?v=g2vfMN8E2j8&t=65s"
           ]
         }
       ]
@@ -79978,17 +80045,17 @@
       "mapIds": [
         "bo3-shi-no-numa"
       ],
-      "note": "BO3 Shi No Numa now has 6 guides and 56 chapters, including a 27-row historical firearm reference, optional GobbleGum upgrades, the two song routes and small hut interactions. Exact pan mounts and bridge timing/retries, phone interaction count, trap controls/fees and some co-op rules still need confirmation. Zipline and usable recording routes, exact firearm mounts and current pool/ammo details remain incomplete. BO3 step photos are pending; earlier editions, mobile and Vanguard stay separate."
+      "note": "BO3 Shi No Numa has 6 guides and 56 chapters. The two song routes now include seven BO3 gameplay references, including all four pans. Bridge timing/retries, the phone’s initial activation count, trap controls/fees and some co-op rules still need confirmation. Zipline and usable recording routes, exact firearm mounts and current pool/ammo details remain incomplete. Earlier editions, mobile and Vanguard stay separate."
     }
   ],
   "dataHashFormat": "SHA-256 of UTF-8 JSON files with LF line endings, matching Git and GitHub Pages.",
   "dataSha256": {
     "catalog.json": "1d06d2aa4a42db59b97868073ddbab1d6a33b3ffb4167f2ebe71ceed09eddf2d",
-    "community-corrections.json": "24574cac2f84cb18bcb94b2ad1585b9f099e6d099c46f8bf51c3d8059cb04392",
-    "coverage-gaps.json": "57f591ed1182b48ef85d57d7815cd009cb42d9ae615565847c70cba88faf7f92",
+    "community-corrections.json": "850db8c862739e5d2f5e9b98e0b502bb4d1df070b5ceed2b9cb29425ed774a43",
+    "coverage-gaps.json": "3dff3f2267da725e65cff07b7247331bac5aec329b79cacee58d98c60016abb6",
     "guides-aw.json": "b5a7e5fb7d83e776452f77060d0714c13f63ae8eeb6e367272c0d00a38cc3855",
     "guides-classic.json": "108faf483d51f5931bd28c83fa6870c8ccf71c4e0a2fbb2eb70ab94e3e0dca4c",
-    "guides-community.json": "350fd6030c5f948c8c271d00ea4db83008753492c6559d219eb3b0609453305d",
+    "guides-community.json": "f32001bb4618e892fc63d69b3013a500a5b2c5855e13ad0879d3ea9bd295fb73",
     "guides-completion-classic.json": "ed538054e7aeb5575de95dc78a345deb25a4111b47049bbd73fd29de06905c7a",
     "guides-completion-modern.json": "5e0086c91529a858bf011cbb6ccfe4bc469b3743f49c9175aac4e0115f460748",
     "guides-completion-modes.json": "7661fccf1e3b1fe4466e8a1f7219706fa1851d6b609c826fa045207810ad3bc5",
@@ -80125,9 +80192,10 @@
       "Revelations expands32 inherited cards from66 to228 chapters with228 direct step references. All27 native WebPs load on desktop and390px phone; every phone menu row and step-reference target is at least44px tall. Authored pages omit the old quotation banner, final jumps focus and close menus, source/return links focus correctly, Keeper→Keeper Hat→Wolf navigation works, and the32-card map exposes its remaining research gaps. Checklist state survives reload and temporary test progress was restored. Evidence: output/batch24-browser-qa.json.",
       "Revelations firearm reference renders41 chapters,41 direct references and30 attributed acquisition tables. All four1280px historical weapon images load on desktop and actual390x844 phone; all41 phone chapter targets are44px tall, jumps focus and close the menu, and no page-level overflow occurs. Sources/return focus, saved/restored checklist progress, the related seven-chapter Pack-a-Punch route and33-guide map pass. Evidence: output/batch25-browser-qa.json.",
       "The Revelations Monty jingle guide renders five authored chapters and five direct references. All four 1280px location photos load on desktop and actual390x844 phone; all five phone menu targets are44px tall. Focused jumps, closing menus, Source/return focus, saved/restored progress, the Power prerequisite link and34-card map pass with no page overflow. Evidence: output/batch26-browser-qa.json.",
-      "All 28 revised/new BO3 Nacht, Verruckt and Shi No Numa pages render 215 chapters with 215 direct references and 84 attributed tables. All 16 retained Nacht image placements load after desktop and actual 390x844 phone jumps, including 13 individual Samantha landmarks. Chapter and source targets are at least 44px; jumps focus and close menus, Sources/return focus, saved/restored progress, related routes and map gap disclosures pass without page overflow. No new step image was added. Evidence: output/batch27-browser-qa.json."
+      "All 28 revised/new BO3 Nacht, Verruckt and Shi No Numa pages render 215 chapters with 215 direct references and 84 attributed tables. All 16 retained Nacht image placements load after desktop and actual 390x844 phone jumps, including 13 individual Samantha landmarks. Chapter and source targets are at least 44px; jumps focus and close menus, Sources/return focus, saved/restored progress, related routes and map gap disclosures pass without page overflow. No new step image was added. Evidence: output/batch27-browser-qa.json.",
+      "The two BO3 Shi No Numa song pages retain eight chapters and eight direct references, with all seven new native WebPs loaded after desktop and actual390x844 phone jumps. Source/return focus, saved/restored progress, related navigation and the six-card map’s revised gap disclosure pass. All chapter/reference targets remain at least44px. Evidence: output/batch28-browser-qa.json."
     ],
-    "currentBatchResponsiveLimit": "All 28 revised/new BO3 Nacht, Verruckt and Shi No Numa guide pages passed desktop and actual 390x844 phone checks, including all 16 retained image placements. This does not certify all current weapon pools, every secret, earlier maps or retail gameplay. Evidence: output/batch27-browser-qa.json.",
-    "importerChecks": "Complete importer passed against an isolated changed-output fixture and its unchanged rerun:866 community topics, exact regenerated bytes, preserved five-chapter DE correction and no unnecessary rewrite. Evidence: output/batch19-import-check.json. Zetsubou’s29 imported revisions also survive full regeneration with their authored quotation flags,67 new image placements and all21 JSON values unchanged;3231 imported checklist sections. Evidence: output/batch20-semantic-diff.json. Final Zetsubou Skull correction and two new references preserve all21 JSON values after full regeneration. Evidence: output/batch21-final-import-check.json and output/batch21-semantic-diff.json. Gorod’s27 durable corrections preserve all21 JSON values after full regeneration, with3368 imported checklist sections. Evidence: output/batch22-final-import-check.json and output/batch22-semantic-diff.json. The41-chapter firearm addition and one-step Trials correction preserve all21 final JSON values, with3368 imported checklist sections. Evidence: output/batch23-final-import-check.json and output/batch23-semantic-diff.json. Revelations’32 durable authored corrections preserve all21 final JSON values after full regeneration, with3530 imported checklist sections. Evidence: output/batch24-final-import-check.json and output/batch24-semantic-diff.json. Revelations firearm addition preserves all21 final JSON values, with3530 imported checklist sections and all1527 existing runtime guides unchanged. Evidence: output/batch25-final-import-check.json and output/batch25-semantic-diff.json. The five-chapter Monty addition preserves all21 final JSON values and all1528 existing runtime guides. Evidence: output/batch26-final-import-check.json and output/batch26-semantic-diff.json. The 21 revisions and seven additions preserve all 21 final JSON values after full regeneration, with 3563 imported checklist sections and 1508 other runtime guides unchanged. Evidence: output/batch27-final-import-check.json and output/batch27-semantic-diff.json."
+    "currentBatchResponsiveLimit": "All 28 revised/new BO3 Nacht, Verruckt and Shi No Numa guide pages passed desktop and actual 390x844 phone checks, including all 16 retained image placements. This does not certify all current weapon pools, every secret, earlier maps or retail gameplay. Evidence: output/batch27-browser-qa.json. Both subsequent Shi No Numa song-photo updates also pass desktop and actual390x844 phone checks, with all seven new references. Evidence: output/batch28-browser-qa.json.",
+    "importerChecks": "Complete importer passed against an isolated changed-output fixture and its unchanged rerun:866 community topics, exact regenerated bytes, preserved five-chapter DE correction and no unnecessary rewrite. Evidence: output/batch19-import-check.json. Zetsubou’s29 imported revisions also survive full regeneration with their authored quotation flags,67 new image placements and all21 JSON values unchanged;3231 imported checklist sections. Evidence: output/batch20-semantic-diff.json. Final Zetsubou Skull correction and two new references preserve all21 JSON values after full regeneration. Evidence: output/batch21-final-import-check.json and output/batch21-semantic-diff.json. Gorod’s27 durable corrections preserve all21 JSON values after full regeneration, with3368 imported checklist sections. Evidence: output/batch22-final-import-check.json and output/batch22-semantic-diff.json. The41-chapter firearm addition and one-step Trials correction preserve all21 final JSON values, with3368 imported checklist sections. Evidence: output/batch23-final-import-check.json and output/batch23-semantic-diff.json. Revelations’32 durable authored corrections preserve all21 final JSON values after full regeneration, with3530 imported checklist sections. Evidence: output/batch24-final-import-check.json and output/batch24-semantic-diff.json. Revelations firearm addition preserves all21 final JSON values, with3530 imported checklist sections and all1527 existing runtime guides unchanged. Evidence: output/batch25-final-import-check.json and output/batch25-semantic-diff.json. The five-chapter Monty addition preserves all21 final JSON values and all1528 existing runtime guides. Evidence: output/batch26-final-import-check.json and output/batch26-semantic-diff.json. The 21 revisions and seven additions preserve all 21 final JSON values after full regeneration, with 3563 imported checklist sections and 1508 other runtime guides unchanged. Evidence: output/batch27-final-import-check.json and output/batch27-semantic-diff.json. The two scoped photo updates preserve all21 final JSON values and all1534 other runtime guides. Evidence: output/batch28-final-import-check.json and output/batch28-semantic-diff.json."
   }
 }
