@@ -8,8 +8,8 @@
     "Newly authored guides may have source research without a separate recorded full audit. Guide counts and passing software checks do not establish gameplay accuracy."
   ],
   "catalogEntries": 160,
-  "runtimeGuides": 1542,
-  "guidesWithRecordedSourceReview": 939,
+  "runtimeGuides": 1543,
+  "guidesWithRecordedSourceReview": 940,
   "guidesCertifiedFullyVerified": 0,
   "batches": [
     {
@@ -387,6 +387,10 @@
     {
       "batch": "bo3-kino-quests-upgrades-songs-and-twelve-native-references",
       "rowsWithRecordedReview": 16
+    },
+    {
+      "batch": "bo3-kino-firearm-acquisition-and-reported-upgrade-names",
+      "rowsWithRecordedReview": 1
     }
   ],
   "guideReviews": [
@@ -27586,6 +27590,54 @@
           "evidenceUrls": [
             "https://www.reddit.com/r/CODZombies/comments/guykap/",
             "https://www.reddit.com/r/CODZombies/comments/xhasy4/",
+            "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-kino-der-toten-firearm-acquisition-reference",
+      "mapId": "bo3-kino-der-toten",
+      "reviews": [
+        {
+          "batch": "bo3-kino-firearm-acquisition-and-reported-upgrade-names",
+          "reportedStatus": "Full37-chapter primary-source reference and metadata read;27 historical rows,33 firearms and29 reported aliases. No retail playtest.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "All37 complete chapter objects and metadata read.",
+            "Four pending aliases and the Kuda/MP40 and M16 conflicts are visible in place.",
+            "Desktop and actual390x844 phone checks pass; all37 chapter/reference targets are44px or taller, tables pan within the page, jumps focus/close menus and checklist state survives reload.",
+            "Importer regeneration preserves all21 data values and all1542 existing runtime guides remain unchanged."
+          ],
+          "unverified": [
+            "The 27 quoted rows are historical Chronicles data. Later reports add five guns and identify the starting pistol; this reference does not certify the current complete Box pool or rule out other additions.",
+            "Current wall prices, exact wall photos, Box odds, ammunition capacities, refill costs and behavior, Weapon Kit availability and simultaneous co-op ownership have not been checked in retail gameplay.",
+            "Galil, RPK, M14 and AK74u upgrade labels remain unresolved in the edition-specific primary evidence read here. M16 reports disagree; the later Chronicles name report is identified in its Field note.",
+            "Pack-a-Punch and alternate-ammo eligibility have not been tested separately for every listed gun. Read the actual machine prompt; an upgrade-name report alone does not establish every transaction or ammo effect."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 37,
+            "directReferences": 37,
+            "attributedTables": 27,
+            "newInlineImagePlacements": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "No new step image. Existing Kino reconnaissance is unchanged.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/114qz2r/bo3_dlc_weapons/",
+            "https://www.reddit.com/r/CODZombies/comments/1ftlgvq/only_just_realised_electric_cherry_is_a_pun_on/",
+            "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+            "https://www.reddit.com/r/CODZombies/comments/54v8y1/weapon_name_list_for_command_console/",
+            "https://www.reddit.com/r/CODZombies/comments/g13sax/just_got_chronicles/",
+            "https://www.reddit.com/r/CODZombies/comments/g20d0r/kino_bo3_box_weapons/",
+            "https://www.reddit.com/r/CODZombies/comments/gvsujt/what_guns_are_on_kino_remastered/",
+            "https://www.reddit.com/r/CODZombies/comments/j3xuig/thing_im_most_exited_about_cw_zombies/",
+            "https://www.reddit.com/r/CODZombies/comments/pdakke/kuda_wall_buy_in_kino_der_toten/",
+            "https://www.reddit.com/r/CODZombies/comments/pg8sux/",
+            "https://www.reddit.com/r/CODZombies/comments/w6avb0/most_underrated_gun_in_bo1_bo2_and_bo3/",
+            "https://www.reddit.com/r/CODZombies/comments/xgrp18/bo3_kino_is_so_odd_to_me/",
+            "https://www.reddit.com/r/CODZombies/wiki/game-mechanics/",
             "https://www.reddit.com/r/CODZombies/wiki/kino-der-toten/"
           ]
         }
@@ -80576,14 +80628,14 @@
       "mapIds": [
         "bo3-kino-der-toten"
       ],
-      "note": "Kino has 16 guides and 63 chapters. Both song routes have written instructions; Samantha’s hunt includes ten illustrated candidates. Film reels, Ray Gun upgrades, the Monkey upgrade report, perks, portraits and the rocket have separate pages. Monty activation, exact reel positions, original radios in BO3, ordinary firearm upgrades, passive scenery/ciphers, Annihilator availability, trap timing/prices and retail tests remain pending."
+      "note": "Kino has 17 guides and 100 chapters. Samantha’s hunt includes ten illustrated candidates. The firearm reference covers 33 entries and 29 reported upgrade names; four aliases and current weapon pools remain unverified. Monty activation, exact reel positions, original radios in BO3, passive scenery/ciphers, Annihilator availability, trap timing/prices, missing locator photos and retail tests remain pending."
     }
   ],
   "dataHashFormat": "SHA-256 of UTF-8 JSON files with LF line endings, matching Git and GitHub Pages.",
   "dataSha256": {
     "catalog.json": "1d06d2aa4a42db59b97868073ddbab1d6a33b3ffb4167f2ebe71ceed09eddf2d",
     "community-corrections.json": "010a2436617f6c4a30c8273c55c3fcbc06fb2dbfa3490ba9d129364958411f94",
-    "coverage-gaps.json": "44f3897241cc0443d2c90176daded9f5025e88c89f94d0537c829aa0d10bcc25",
+    "coverage-gaps.json": "f167c28ea00f4ffbdcbe6c596bb5a5c251f2d479d97d72f4bbce7925bd4966b8",
     "guides-aw.json": "b5a7e5fb7d83e776452f77060d0714c13f63ae8eeb6e367272c0d00a38cc3855",
     "guides-classic.json": "108faf483d51f5931bd28c83fa6870c8ccf71c4e0a2fbb2eb70ab94e3e0dca4c",
     "guides-community.json": "7233a44a5b9938f4cd30edcda64a74b9fe2f07ec24be61ac64a72909084601d7",
@@ -80594,7 +80646,7 @@
     "guides-goal-classic.json": "5621ad45c8750da623b7c48c4fbbb023c358c9853375d50d29e2fedba3b176dd",
     "guides-goal-modern.json": "e2e88076d73c606934b7058c0c84ebeca2a6850f5b635af941f9ce46dafc43dc",
     "guides-goal-modes.json": "a063eeb0db74f9c40a3edecc71cd08853a01dc83c7a4c0f6ef88bde5e202a86c",
-    "guides-goal-root.json": "342d38bd8c516026abdfa2fab6491cc708b4f46a4ee399dbf69097819593ac92",
+    "guides-goal-root.json": "07b12346cf7a4d3023cda86a18cea7f66b23643d40d0e05ddaa2b4a6a5dcec76",
     "guides-modern.json": "1082b5feea32d0f1a1650977f1d89b6b789a2b779dcb3e0c2eec9d5cbd9b3630",
     "guides-super-ee-doa4.json": "1d038197c8325f946290b8886d95fce8889291c193a5e8ec6f54124033a17a4a",
     "media-completion.json": "58882d44af4bbe2e09648819c06547084fc33caf994cace9122d512163c22366",
@@ -80725,9 +80777,10 @@
       "The Revelations Monty jingle guide renders five authored chapters and five direct references. All four 1280px location photos load on desktop and actual390x844 phone; all five phone menu targets are44px tall. Focused jumps, closing menus, Source/return focus, saved/restored progress, the Power prerequisite link and34-card map pass with no page overflow. Evidence: output/batch26-browser-qa.json.",
       "All 28 revised/new BO3 Nacht, Verruckt and Shi No Numa pages render 215 chapters with 215 direct references and 84 attributed tables. All 16 retained Nacht image placements load after desktop and actual 390x844 phone jumps, including 13 individual Samantha landmarks. Chapter and source targets are at least 44px; jumps focus and close menus, Sources/return focus, saved/restored progress, related routes and map gap disclosures pass without page overflow. No new step image was added. Evidence: output/batch27-browser-qa.json.",
       "The two BO3 Shi No Numa song pages retain eight chapters and eight direct references, with all seven new native WebPs loaded after desktop and actual390x844 phone jumps. Source/return focus, saved/restored progress, related navigation and the six-card map’s revised gap disclosure pass. All chapter/reference targets remain at least44px. Evidence: output/batch28-browser-qa.json.",
-      "All16 BO3 Kino pages render63 chapters with63 direct references. All12 new native images load after desktop and actual390x844 phone navigation; all chapter/reference targets are at least44px. Chapter jumps focus and close menus, Sources/return focus, saved/restored checklist progress, the wooden-door companion and16-card map gap disclosure pass without overflow. Evidence: output/batch29-browser-qa.json."
+      "All16 BO3 Kino pages render63 chapters with63 direct references. All12 new native images load after desktop and actual390x844 phone navigation; all chapter/reference targets are at least44px. Chapter jumps focus and close menus, Sources/return focus, saved/restored checklist progress, the wooden-door companion and16-card map gap disclosure pass without overflow. Evidence: output/batch29-browser-qa.json.",
+      "The Kino firearm reference renders37 chapters,37 direct references and27 attributed six-column tables. Desktop and actual390x844 phone checks pass; all37 phone chapter targets are at least44px, tables pan within their containers, Sources/return focus and saved/restored progress work. The prerequisite Pack-a-Punch page and17-guide map gap disclosure pass. Evidence: output/batch30-browser-qa.json."
     ],
-    "currentBatchResponsiveLimit": "The16 revised/new BO3 Kino pages passed desktop and actual390x844 phone checks with63 chapters and12 native references. Monty activation, exact reel locations and other recorded research gaps remain open; no retail playtest or exhaustive map certification is implied. Evidence: output/batch29-browser-qa.json.",
-    "importerChecks": "Complete importer passed against an isolated changed-output fixture and its unchanged rerun:866 community topics, exact regenerated bytes, preserved five-chapter DE correction and no unnecessary rewrite. Evidence: output/batch19-import-check.json. Zetsubou’s29 imported revisions also survive full regeneration with their authored quotation flags,67 new image placements and all21 JSON values unchanged;3231 imported checklist sections. Evidence: output/batch20-semantic-diff.json. Final Zetsubou Skull correction and two new references preserve all21 JSON values after full regeneration. Evidence: output/batch21-final-import-check.json and output/batch21-semantic-diff.json. Gorod’s27 durable corrections preserve all21 JSON values after full regeneration, with3368 imported checklist sections. Evidence: output/batch22-final-import-check.json and output/batch22-semantic-diff.json. The41-chapter firearm addition and one-step Trials correction preserve all21 final JSON values, with3368 imported checklist sections. Evidence: output/batch23-final-import-check.json and output/batch23-semantic-diff.json. Revelations’32 durable authored corrections preserve all21 final JSON values after full regeneration, with3530 imported checklist sections. Evidence: output/batch24-final-import-check.json and output/batch24-semantic-diff.json. Revelations firearm addition preserves all21 final JSON values, with3530 imported checklist sections and all1527 existing runtime guides unchanged. Evidence: output/batch25-final-import-check.json and output/batch25-semantic-diff.json. The five-chapter Monty addition preserves all21 final JSON values and all1528 existing runtime guides. Evidence: output/batch26-final-import-check.json and output/batch26-semantic-diff.json. The 21 revisions and seven additions preserve all 21 final JSON values after full regeneration, with 3563 imported checklist sections and 1508 other runtime guides unchanged. Evidence: output/batch27-final-import-check.json and output/batch27-semantic-diff.json. The two scoped photo updates preserve all21 final JSON values and all1534 other runtime guides. Evidence: output/batch28-final-import-check.json and output/batch28-semantic-diff.json. The10 scoped Kino revisions and6 additions preserve all21 final JSON values,3563 imported sections and all1526 other runtime guides. Evidence: output/batch29-final-import-check.json and output/batch29-semantic-diff.json."
+    "currentBatchResponsiveLimit": "The16 revised/new BO3 Kino pages passed desktop and actual390x844 phone checks with63 chapters and12 native references. Monty activation, exact reel locations and other recorded research gaps remain open; no retail playtest or exhaustive map certification is implied. Evidence: output/batch29-browser-qa.json. Its subsequent37-chapter firearm reference also passes desktop and actual390x844 phone checks with27 attributed tables. Four aliases, exact present pools and retail inputs remain unchecked; no new step photo was added. Evidence: output/batch30-browser-qa.json.",
+    "importerChecks": "Complete importer passed against an isolated changed-output fixture and its unchanged rerun:866 community topics, exact regenerated bytes, preserved five-chapter DE correction and no unnecessary rewrite. Evidence: output/batch19-import-check.json. Zetsubou’s29 imported revisions also survive full regeneration with their authored quotation flags,67 new image placements and all21 JSON values unchanged;3231 imported checklist sections. Evidence: output/batch20-semantic-diff.json. Final Zetsubou Skull correction and two new references preserve all21 JSON values after full regeneration. Evidence: output/batch21-final-import-check.json and output/batch21-semantic-diff.json. Gorod’s27 durable corrections preserve all21 JSON values after full regeneration, with3368 imported checklist sections. Evidence: output/batch22-final-import-check.json and output/batch22-semantic-diff.json. The41-chapter firearm addition and one-step Trials correction preserve all21 final JSON values, with3368 imported checklist sections. Evidence: output/batch23-final-import-check.json and output/batch23-semantic-diff.json. Revelations’32 durable authored corrections preserve all21 final JSON values after full regeneration, with3530 imported checklist sections. Evidence: output/batch24-final-import-check.json and output/batch24-semantic-diff.json. Revelations firearm addition preserves all21 final JSON values, with3530 imported checklist sections and all1527 existing runtime guides unchanged. Evidence: output/batch25-final-import-check.json and output/batch25-semantic-diff.json. The five-chapter Monty addition preserves all21 final JSON values and all1528 existing runtime guides. Evidence: output/batch26-final-import-check.json and output/batch26-semantic-diff.json. The 21 revisions and seven additions preserve all 21 final JSON values after full regeneration, with 3563 imported checklist sections and 1508 other runtime guides unchanged. Evidence: output/batch27-final-import-check.json and output/batch27-semantic-diff.json. The two scoped photo updates preserve all21 final JSON values and all1534 other runtime guides. Evidence: output/batch28-final-import-check.json and output/batch28-semantic-diff.json. The10 scoped Kino revisions and6 additions preserve all21 final JSON values,3563 imported sections and all1526 other runtime guides. Evidence: output/batch29-final-import-check.json and output/batch29-semantic-diff.json. The standalone Kino firearm reference preserves all21 final JSON values and all1542 existing runtime guides. Evidence: output/batch30-final-import-check.json and output/batch30-semantic-diff.json."
   }
 }
