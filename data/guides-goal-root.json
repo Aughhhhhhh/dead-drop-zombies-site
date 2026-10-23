@@ -9404,5 +9404,260 @@
       "Current ammo/damage, ownership interactions, Box pool/odds, alternate-ammo behavior and native HUD names remain untested."
     ],
     "supplementNote": "Authored edition-specific instructions from the linked primary written reports. Exact photos, inputs and retail behavior remain qualified below."
+  },
+  {
+    "title": "Venom-X: Phantom trap, buttons and computer mazes",
+    "category": "weapon",
+    "summary": "Build the base wonder weapon before starting the two Morse upgrades.",
+    "difficulty": "Moderate",
+    "players": "Solo / co-op",
+    "requirements": [
+      "Infinite Warfare: The Beast from Beyond.",
+      "Restore power and open Water Treatment, Ops Center and Pack-a-Punch.",
+      "Keep cash for repeated electric-trap activations."
+    ],
+    "reward": "The base Venom-X; Venom-Y and Venom-Z have separate upgrade challenges.",
+    "steps": [
+      {
+        "title": "Damage a Phantom in the electric pool",
+        "body": "Bring a Phantom to the Water Treatment electric trap and let the active trap damage it. The Ops Center’s colour-button electrical box should now be open.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+      },
+      {
+        "title": "Choose the button using the original rule sheet",
+        "body": "Count buttons top to bottom, including blank/unlit slots. Apply the first matching rule; “colors” means different colors present.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=upIaqEwh1B4",
+        "tip": "Six-button rules follow the sheet’s exactly-one-blank condition; the description differs."
+      },
+      {
+        "title": "Three buttons",
+        "body": "No blanks: button 3. Otherwise bottom green: button 1. Otherwise red count >1: lowest red. Otherwise: button 2.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=upIaqEwh1B4"
+      },
+      {
+        "title": "Four buttons",
+        "body": "Yellow count >1 and ≥2 colors: lowest yellow. Otherwise bottom white and no blue: button 1. Otherwise blank count >1: bottom. Otherwise: button 3.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=upIaqEwh1B4"
+      },
+      {
+        "title": "Five buttons",
+        "body": "Every color count ≤3: button 1. Otherwise one white and blue count >1: button 2. Otherwise no red, a color occurs 2 or 4 times and <4 colors: bottom. Otherwise: button 1.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=upIaqEwh1B4"
+      },
+      {
+        "title": "Six buttons",
+        "body": "Any yellow: button 3. Otherwise exactly one blank and white count >1: button 4. Otherwise ≥1 color and red count >1: button 5. Otherwise: bottom.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=upIaqEwh1B4"
+      },
+      {
+        "title": "Confirm containment access or recover from a bad button",
+        "body": "A correct choice gives a success tone and activates the Zombie Containment Unit. The firsthand discussion reports that a failed choice can spawn a Phantom; wait for the electric trap to reset and damage another Phantom to reopen the box for a further attempt.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/6zriix/how_the_buttons_work_for_the_venomx/",
+        "tip": "This retry is a personal report from 2017. Exact failure counts and current trap / box timing are not independently established."
+      },
+      {
+        "title": "Trap a zombie and bypass SuperUser Access",
+        "body": "Lead a regular zombie into the Ops Center Containment Unit and activate its nearby control panel. Its visible timer starts. Go to the computers above Bombstoppers and interact with the centre terminal to bypass SuperUser Access.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+      },
+      {
+        "title": "Read the walls and solve the matching mazes",
+        "body": "Look at the maze shown on a computer, then find its corresponding ground-level Ops Center monitor to read the wall pattern. Plan a path from the red / yellow square to the blue square without touching walls. Aim down sights at the playable maze screen and enter that path using the actions mapped to the controller D-pad. Complete the active maze sequence before containment time runs out.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/6zkk0t/the_beast_from_beyond_easter_egg_hunt_general_map/",
+        "tip": "The original hunt says three computers; a later firsthand support reply says only two monitors are active. Follow the lit playable screens in your match. A complete route-by-route maze chart, exact timer and confirmed keyboard defaults remain missing."
+      },
+      {
+        "title": "Collect the Venom-X and check the upgrade route",
+        "body": "On successful maze completion, the Ops Center door opens and the Venom-X can be collected. The map wiki reports that after losing it you can obtain it again from the Magic Wheel. Continue to the separate Venom-Y guide for the first quest upgrade.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+      },
+      {
+        "title": "If the first Phantom was already killed",
+        "body": "A later firsthand report describes entering and leaving Pack-a-Punch again to generate more Cryptids, sometimes a Phantom. Wait for the portal to become available and repeat if needed while keeping the match under control.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/1j98bjs/the_beast_from_beyond_venom_x_help/",
+        "tip": "A Phantom is not guaranteed on every exit. The original poster withdrew their apparent three-visits-per-round claim; the thread does not establish a hard three-entry limit."
+      },
+      {
+        "title": "If keyboard inputs do not move the square",
+        "body": "Use whichever actions your controls map to the controller D-pad while aiming at a playable screen. The support discussion confirms D-pad actions on console; its number-pad suggestion for PC was based on another skull puzzle and explicitly uncertain.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/16lblnn/beast_from_beyond_maze_step_not_working/",
+        "tip": "No universal keyboard key binding is asserted. Rebinding or looking at the game’s actual controls is necessary if the default arrows do nothing."
+      }
+    ],
+    "relatedGuideIds": [
+      "iw-the-beast-from-beyond-community-the-beast-from-beyond-map-walkthrough-pack-a-punch",
+      "iw-the-beast-from-beyond-community-the-beast-from-beyond-map-walkthrough-traps",
+      "iw-the-beast-from-beyond-community-the-beast-from-beyond-venom-x-venom-y",
+      "iw-the-beast-from-beyond-community-the-beast-from-beyond-venom-x-venom-z"
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": null,
+    "sharedSource": false,
+    "sourceOmissions": [
+      "The button rules are now written out from the recorded sheet and explanation. Its six-button blank condition conflicts with the description. Complete maze-chart coverage, exact containment timing and current failure handling remain open."
+    ],
+    "sources": [
+      {
+        "title": "The_Beebat and r/CODZombies — Beast map guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+      },
+      {
+        "title": "unseenbadger — tested Venom-X button explanation",
+        "url": "https://www.reddit.com/r/CODZombies/comments/6zriix/how_the_buttons_work_for_the_venomx/"
+      },
+      {
+        "title": "r/CODZombies — original September 2017 map hunt",
+        "url": "https://www.reddit.com/r/CODZombies/comments/6zkk0t/the_beast_from_beyond_easter_egg_hunt_general_map/"
+      },
+      {
+        "title": "r/CODZombies — Phantom spawning and quota reports",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1j98bjs/the_beast_from_beyond_venom_x_help/"
+      },
+      {
+        "title": "r/CODZombies — maze input and monitor reports",
+        "url": "https://www.reddit.com/r/CODZombies/comments/16lblnn/beast_from_beyond_maze_step_not_working/"
+      },
+      {
+        "title": "Demonstration",
+        "url": "https://www.youtube.com/watch?v=upIaqEwh1B4"
+      }
+    ],
+    "id": "iw-the-beast-from-beyond-venom-x",
+    "mapId": "iw-the-beast-from-beyond"
+  },
+  {
+    "title": "Weapons: reported wall buys, Magic Wheel and upgrade limits",
+    "category": "weapon",
+    "summary": "Read the historical Beast weapon catalogue alongside an explicitly reported VPR wall route.",
+    "difficulty": "Reference",
+    "players": "Solo / co-op",
+    "requirements": [
+      "Infinite Warfare: The Beast from Beyond.",
+      "Use actual purchase prompts for current prices.",
+      "The quoted list is a historical community inventory, not a verified current Magic Wheel pool.",
+      "Variant, price and upgrade-name omissions below remain open."
+    ],
+    "reward": "A source-attributed acquisition reference and the correct links for ordinary and Venom upgrade routes.",
+    "steps": [
+      {
+        "title": "Historical map inventory — source table",
+        "body": "Weapon Name Wall Weapon? Cost Location(s) Magic Wheel? OSA No - Spawn with it Yes Kendall 44 No - - Yes Hornet No - - Yes Reaver No - - Yes UDM No - - Yes M1 No - - Yes Rack-9 No - - Yes Hailstorm No - - Yes Banshee No - - Yes Oni Yes $750 Spawn No ERAD Yes $1250 Mess hall No Volk No - - Yes Karma-45 Yes $1250 Water Treatment No NV-4 No - - Yes HVR No - - Yes RPR Evo No - - Yes R3K Yes $1250 Ops Center No Type-2 No - - Yes KBAR-32 No - - Yes FHR-40 No - - Yes Titan No - - Yes Mauler No - - Yes R.A.W. No - - Yes KBS Longbow Yes $1250 Outside the Theater No DMR-1 No - - Yes Widowmaker No - - Yes EBR-800 Yes $1250 Ops Center No DCM-8 Yes $1250 Ops Center No TF-141 No - - Yes Mactav-45 No - - Yes S-Ravage No - - Yes OSA No - - Yes EMC No - - Yes Spartan SA3 No - - Yes Howitzer No - - Yes P-LAW Yes $1250 Cargo Bay No R-VN Yes - - No X-Eon Yes $1250 Cargo Bay No VPR No - - Yes Trencher No - - Yes Auger No - - Yes Trek-50 No - - Yes Proteus Yes $1250 Hallway No M.2187 Yes $1250 Outside the Theater in the back alley No Stallion .44 Yes $750 Spawn No G-Rail Yes $1250 Exterior No Atlas No - - Yes Raijin-EMX No - - Yes Venom-X - - - - Entangler - - - -",
+        "html": "<table>\n<thead>\n<tr>\n<th>Weapon Name</th>\n<th>Wall Weapon?</th>\n<th>Cost</th>\n<th>Location(s)</th>\n<th>Magic Wheel?</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>OSA</td>\n<td>No</td>\n<td>-</td>\n<td>Spawn with it</td>\n<td>Yes</td>\n</tr>\n<tr>\n<td>Kendall 44</td>\n<td>No</td>\n<td>-</td>\n<td>-</td>\n<td>Yes</td>\n</tr>\n<tr>\n<td>Hornet</td>\n<td>No</td>\n<td>-</td>\n<td>-</td>\n<td>Yes</td>\n</tr>\n<tr>\n<td>Reaver</td>\n<td>No</td>\n<td>-</td>\n<td>-</td>\n<td>Yes</td>\n</tr>\n<tr>\n<td>UDM</td>\n<td>No</td>\n<td>-</td>\n<td>-</td>\n<td>Yes</td>\n</tr>\n<tr>\n<td>M1</td>\n<td>No</td>\n<td>-</td>\n<td>-</td>\n<td>Yes</td>\n</tr>\n<tr>\n<td>Rack-9</td>\n<td>No</td>\n<td>-</td>\n<td>-</td>\n<td>Yes</td>\n</tr>\n<tr>\n<td>Hailstorm</td>\n<td>No</td>\n<td>-</td>\n<td>-</td>\n<td>Yes</td>\n</tr>\n<tr>\n<td>Banshee</td>\n<td>No</td>\n<td>-</td>\n<td>-</td>\n<td>Yes</td>\n</tr>\n<tr>\n<td>Oni</td>\n<td>Yes</td>\n<td>$750</td>\n<td>Spawn</td>\n<td>No</td>\n</tr>\n<tr>\n<td>ERAD</td>\n<td>Yes</td>\n<td>$1250</td>\n<td>Mess hall</td>\n<td>No</td>\n</tr>\n<tr>\n<td>Volk</td>\n<td>No</td>\n<td>-</td>\n<td>-</td>\n<td>Yes</td>\n</tr>\n<tr>\n<td>Karma-45</td>\n<td>Yes</td>\n<td>$1250</td>\n<td>Water Treatment</td>\n<td>No</td>\n</tr>\n<tr>\n<td>NV-4</td>\n<td>No</td>\n<td>-</td>\n<td>-</td>\n<td>Yes</td>\n</tr>\n<tr>\n<td>HVR</td>\n<td>No</td>\n<td>-</td>\n<td>-</td>\n<td>Yes</td>\n</tr>\n<tr>\n<td>RPR Evo</td>\n<td>No</td>\n<td>-</td>\n<td>-</td>\n<td>Yes</td>\n</tr>\n<tr>\n<td>R3K</td>\n<td>Yes</td>\n<td>$1250</td>\n<td>Ops Center</td>\n<td>No</td>\n</tr>\n<tr>\n<td>Type-2</td>\n<td>No</td>\n<td>-</td>\n<td>-</td>\n<td>Yes</td>\n</tr>\n<tr>\n<td>KBAR-32</td>\n<td>No</td>\n<td>-</td>\n<td>-</td>\n<td>Yes</td>\n</tr>\n<tr>\n<td>FHR-40</td>\n<td>No</td>\n<td>-</td>\n<td>-</td>\n<td>Yes</td>\n</tr>\n<tr>\n<td>Titan</td>\n<td>No</td>\n<td>-</td>\n<td>-</td>\n<td>Yes</td>\n</tr>\n<tr>\n<td>Mauler</td>\n<td>No</td>\n<td>-</td>\n<td>-</td>\n<td>Yes</td>\n</tr>\n<tr>\n<td>R.A.W.</td>\n<td>No</td>\n<td>-</td>\n<td>-</td>\n<td>Yes</td>\n</tr>\n<tr>\n<td>KBS Longbow</td>\n<td>Yes</td>\n<td>$1250</td>\n<td>Outside the Theater</td>\n<td>No</td>\n</tr>\n<tr>\n<td>DMR-1</td>\n<td>No</td>\n<td>-</td>\n<td>-</td>\n<td>Yes</td>\n</tr>\n<tr>\n<td>Widowmaker</td>\n<td>No</td>\n<td>-</td>\n<td>-</td>\n<td>Yes</td>\n</tr>\n<tr>\n<td>EBR-800</td>\n<td>Yes</td>\n<td>$1250</td>\n<td>Ops Center</td>\n<td>No</td>\n</tr>\n<tr>\n<td>DCM-8</td>\n<td>Yes</td>\n<td>$1250</td>\n<td>Ops Center</td>\n<td>No</td>\n</tr>\n<tr>\n<td>TF-141</td>\n<td>No</td>\n<td>-</td>\n<td>-</td>\n<td>Yes</td>\n</tr>\n<tr>\n<td>Mactav-45</td>\n<td>No</td>\n<td>-</td>\n<td>-</td>\n<td>Yes</td>\n</tr>\n<tr>\n<td>S-Ravage</td>\n<td>No</td>\n<td>-</td>\n<td>-</td>\n<td>Yes</td>\n</tr>\n<tr>\n<td>OSA</td>\n<td>No</td>\n<td>-</td>\n<td>-</td>\n<td>Yes</td>\n</tr>\n<tr>\n<td>EMC</td>\n<td>No</td>\n<td>-</td>\n<td>-</td>\n<td>Yes</td>\n</tr>\n<tr>\n<td>Spartan SA3</td>\n<td>No</td>\n<td>-</td>\n<td>-</td>\n<td>Yes</td>\n</tr>\n<tr>\n<td>Howitzer</td>\n<td>No</td>\n<td>-</td>\n<td>-</td>\n<td>Yes</td>\n</tr>\n<tr>\n<td>P-LAW</td>\n<td>Yes</td>\n<td>$1250</td>\n<td>Cargo Bay</td>\n<td>No</td>\n</tr>\n<tr>\n<td>R-VN</td>\n<td>Yes</td>\n<td>-</td>\n<td>-</td>\n<td>No</td>\n</tr>\n<tr>\n<td>X-Eon</td>\n<td>Yes</td>\n<td>$1250</td>\n<td>Cargo Bay</td>\n<td>No</td>\n</tr>\n<tr>\n<td>VPR</td>\n<td>No</td>\n<td>-</td>\n<td>-</td>\n<td>Yes</td>\n</tr>\n<tr>\n<td>Trencher</td>\n<td>No</td>\n<td>-</td>\n<td>-</td>\n<td>Yes</td>\n</tr>\n<tr>\n<td>Auger</td>\n<td>No</td>\n<td>-</td>\n<td>-</td>\n<td>Yes</td>\n</tr>\n<tr>\n<td>Trek-50</td>\n<td>No</td>\n<td>-</td>\n<td>-</td>\n<td>Yes</td>\n</tr>\n<tr>\n<td>Proteus</td>\n<td>Yes</td>\n<td>$1250</td>\n<td>Hallway</td>\n<td>No</td>\n</tr>\n<tr>\n<td>M.2187</td>\n<td>Yes</td>\n<td>$1250</td>\n<td>Outside the Theater in the back alley</td>\n<td>No</td>\n</tr>\n<tr>\n<td>Stallion .44</td>\n<td>Yes</td>\n<td>$750</td>\n<td>Spawn</td>\n<td>No</td>\n</tr>\n<tr>\n<td>G-Rail</td>\n<td>Yes</td>\n<td>$1250</td>\n<td>Exterior</td>\n<td>No</td>\n</tr>\n<tr>\n<td>Atlas</td>\n<td>No</td>\n<td>-</td>\n<td>-</td>\n<td>Yes</td>\n</tr>\n<tr>\n<td>Raijin-EMX</td>\n<td>No</td>\n<td>-</td>\n<td>-</td>\n<td>Yes</td>\n</tr>\n<tr>\n<td>Venom-X</td>\n<td>-</td>\n<td>-</td>\n<td>-</td>\n<td>-</td>\n</tr>\n<tr>\n<td>Entangler</td>\n<td>-</td>\n<td>-</td>\n<td>-</td>\n<td>-</td>\n</tr>\n</tbody>\n</table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/",
+        "tip": "The original table repeats OSA and leaves the R-VN wall-buy price and locator blank. It contains 47 distinct ordinary weapon names plus Venom-X and Entangler. Its VPR wall classification conflicts with the firsthand route below; the table is retained literally as a historical quote, not certified as current."
+      },
+      {
+        "title": "VPR — a firsthand Theater wall report",
+        "body": "The firsthand Mephistopheles guide explicitly tells players to buy a VPR from the wall in the Theater if Magic Wheel luck is poor. This establishes a reported wall route beyond its use as a suggested boss weapon.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/l2l72v/the_ultimate_iw_easter_egg_guides_mephistopheles/",
+        "tip": "The author does not identify the exact Theater wall or give its price. That locator remains missing. The older map table marks VPR as not on a wall, so the two reports are not silently merged into a current complete pool."
+      },
+      {
+        "title": "Use the machine for ordinary upgrade tiers",
+        "body": "Open the scrap-metal bridge to reach Pack-a-Punch. For a second tier, complete the Lost Reel and charged-Alien-Fuse route first. Follow the actual machine prompt for your held weapon; Venom-X and Venom-Y also need their separate quota quests.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+      },
+      {
+        "title": "Know the reference’s remaining limits",
+        "body": "The read map inventory does not establish current Magic Wheel odds, every selectable variant, wall-ammo refill prices, per-weapon statistics, a full set of upgraded names or every upgrade exception. Boss recommendations alone cannot supply those acquisition details.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/",
+        "tip": "R-VN’s historical wall row has neither a price nor a location, and the VPR conflict remains unresolved by current code or a retail session. No current complete wall / Wheel / equipment census is claimed."
+      }
+    ],
+    "relatedGuideIds": [
+      "iw-the-beast-from-beyond-community-the-beast-from-beyond-map-walkthrough-pack-a-punch",
+      "iw-the-beast-from-beyond-community-the-beast-from-beyond-map-walkthrough-double-pack-a-punch",
+      "iw-the-beast-from-beyond-venom-x",
+      "iw-the-beast-from-beyond-community-the-beast-from-beyond-venom-x-venom-y",
+      "iw-the-beast-from-beyond-community-the-beast-from-beyond-venom-x-venom-z"
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/",
+    "sharedSource": false,
+    "sourceOmissions": [
+      "Historical quotation with duplicate OSA, blank R-VN fields and conflicting VPR availability.",
+      "Current complete pool, upgraded aliases, prices, statistics and equipment census remain unverified."
+    ],
+    "sources": [
+      {
+        "title": "The_Beebat and r/CODZombies — Beast map guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+      },
+      {
+        "title": "DaRkShAdOwYlaf — firsthand Mephistopheles guide",
+        "url": "https://www.reddit.com/r/CODZombies/comments/l2l72v/the_ultimate_iw_easter_egg_guides_mephistopheles/"
+      }
+    ],
+    "id": "iw-the-beast-from-beyond-weapons-reference",
+    "mapId": "iw-the-beast-from-beyond"
+  },
+  {
+    "title": "Perk machines and the Slappy Taffy exception",
+    "category": "side",
+    "summary": "Find the reported station, Theater and exterior perk locations.",
+    "difficulty": "Reference",
+    "players": "Solo / co-op",
+    "requirements": [
+      "Infinite Warfare: The Beast from Beyond.",
+      "Restore power and open the Theater route.",
+      "The quoted prices are historical community values; use the live machine prompt."
+    ],
+    "reward": "A perk-location reference, including the perk without a normal machine on this map.",
+    "steps": [
+      {
+        "title": "Reported machine locations and costs",
+        "body": "Perk Cost Location Up 'N Atoms (Solo) $500 Spawn Up 'N Atoms (Co-op) $1500 Spawn Tuff Nuff $2500 Down the giant hole in the Ops Center in the green tunnel Bang Bangs $2000 Upper walkways of the Ops Center Quickies $3000 In the theater Mule Munchies $2000 Outside the theater in an alley opposite to Deadeye Dewdrops Racin' Stripes $2000 In the back alley outside the Theater Trail Blazers $1500 In the Cargo Bay Blue Bolts $1500 Between Cryptid on the medical table and Water Treatment Bombstoppers $1500 In the Ops Center Slappy Taffy - Obtained in Director's Cut or by completing Skullbreaker Deadeye Dewdrops $1500 In front of the Theater Change Chews $1500 Outside the ship near the Acid Trap",
+        "html": "<table>\n<thead>\n<tr>\n<th>Perk</th>\n<th>Cost</th>\n<th>Location</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Up &#x27;N Atoms (Solo)</td>\n<td>$500</td>\n<td>Spawn</td>\n</tr>\n<tr>\n<td>Up &#x27;N Atoms (Co-op)</td>\n<td>$1500</td>\n<td>Spawn</td>\n</tr>\n<tr>\n<td>Tuff Nuff</td>\n<td>$2500</td>\n<td>Down the giant hole in the Ops Center in the green tunnel</td>\n</tr>\n<tr>\n<td>Bang Bangs</td>\n<td>$2000</td>\n<td>Upper walkways of the Ops Center</td>\n</tr>\n<tr>\n<td>Quickies</td>\n<td>$3000</td>\n<td>In the theater</td>\n</tr>\n<tr>\n<td>Mule Munchies</td>\n<td>$2000</td>\n<td>Outside the theater in an alley opposite to Deadeye Dewdrops</td>\n</tr>\n<tr>\n<td>Racin&#x27; Stripes</td>\n<td>$2000</td>\n<td>In the back alley outside the Theater</td>\n</tr>\n<tr>\n<td>Trail Blazers</td>\n<td>$1500</td>\n<td>In the Cargo Bay</td>\n</tr>\n<tr>\n<td>Blue Bolts</td>\n<td>$1500</td>\n<td>Between Cryptid on the medical table and Water Treatment</td>\n</tr>\n<tr>\n<td>Bombstoppers</td>\n<td>$1500</td>\n<td>In the Ops Center</td>\n</tr>\n<tr>\n<td>Slappy Taffy</td>\n<td>-</td>\n<td>Obtained in Director&#x27;s Cut or by completing Skullbreaker</td>\n</tr>\n<tr>\n<td>Deadeye Dewdrops</td>\n<td>$1500</td>\n<td>In front of the Theater</td>\n</tr>\n<tr>\n<td>Change Chews</td>\n<td>$1500</td>\n<td>Outside the ship near the Acid Trap</td>\n</tr>\n</tbody>\n</table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/",
+        "tip": "This excerpt preserves the source’s perk, price and location cells; promotional effect slogans are omitted. These price cells are not a current retail price audit."
+      },
+      {
+        "title": "Slappy Taffy has a separate route",
+        "body": "The map guide lists Slappy Taffy as obtained through Director’s Cut or Skullbreaker rather than giving it a normal purchase-machine location. Use the Skullbreaker walkthrough if taking that route.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+      },
+      {
+        "title": "Treat mode and reward rules separately",
+        "body": "Up ’N Atoms is listed at 500 in solo and 1,500 in co-op. The map article does not establish every mode-specific perk cap, loss-on-down rule or current perk-effect statistic. Check your actual inventory when setting up for either boss.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+      }
+    ],
+    "relatedGuideIds": [
+      "iw-the-beast-from-beyond-community-the-beast-from-beyond-map-walkthrough-power",
+      "iw-the-beast-from-beyond-community-the-beast-from-beyond-map-walkthrough-traveling-to-the-theater",
+      "iw-the-beast-from-beyond-community-the-beast-from-beyond-easter-eggs-skullbreaker",
+      "iw-the-beast-from-beyond-community-the-beast-from-beyond-director-s-cut-extras-mephistopheles-battle"
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/",
+    "sharedSource": false,
+    "sourceOmissions": [],
+    "sources": [
+      {
+        "title": "The_Beebat and r/CODZombies — Beast map guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+      }
+    ],
+    "id": "iw-the-beast-from-beyond-perks-reference",
+    "mapId": "iw-the-beast-from-beyond"
   }
 ]

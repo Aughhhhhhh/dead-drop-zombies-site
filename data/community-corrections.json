@@ -60403,5 +60403,1468 @@
         "supplementNote": "Authored edition-specific instructions from the linked written reports and selected recorded demonstrations."
       }
     }
+  },
+  "the-beast-from-beyond-map-walkthrough-traps": {
+    "mapOverrides": {
+      "iw-the-beast-from-beyond": {
+        "title": "All five traps and the trap-kill achievement",
+        "category": "side",
+        "difficulty": "Moderate",
+        "players": "Solo / co-op",
+        "summary": "Find each trap, its reported cost and the kill needed for Failed Maintenance.",
+        "requirements": [
+          "Infinite Warfare: The Beast from Beyond.",
+          "Restore power and open the rooms containing the controls.",
+          "Prices below are the community guide’s historical figures; check the purchase prompt."
+        ],
+        "reward": "Temporary trap damage; using every trap to kill zombies fulfils the reported Failed Maintenance requirement.",
+        "steps": [
+          {
+            "title": "Laser hallway — 750",
+            "body": "Use the laser-trap control in the Hallway. Lead zombies through the laser lane after activating it; stay clear of the active hazard.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          },
+          {
+            "title": "Water Treatment electricity — 1,250",
+            "body": "Activate the Electricity Pool in Water Treatment and bring zombies into the electrified liquid. This is also the trap used to damage a Phantom for the Venom-X quest.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          },
+          {
+            "title": "Mess Hall fridge — 750",
+            "body": "Use the Fridge Trap in the Mess Hall. The source describes it as attracting zombies toward the fridge, like a Boom Box.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          },
+          {
+            "title": "Theater screen — 1,250",
+            "body": "Use the Movie Screen Trap inside the Theater. It draws zombies into the screen; the Double Pack-a-Punch quest also uses this active portal to retrieve a Brute helmet.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          },
+          {
+            "title": "Exterior acid — 750",
+            "body": "Use Raining Acid outside the station near the Pack-a-Punch route and bring zombies into the falling acid.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          },
+          {
+            "title": "Check that every trap actually killed a zombie",
+            "body": "For Failed Maintenance, obtain zombie kills with all five trap types. An activation without a kill does not meet the stated kill requirement.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/",
+            "tip": "Exact active times, cooldowns, kill-credit sharing and player-damage values were not established by the read source. Use each live control and confirm its kills in your game."
+          }
+        ],
+        "sourceOmissions": [
+          "Trap timing, shared credit and current prices remain untested."
+        ],
+        "sources": [
+          {
+            "title": "The_Beebat and r/CODZombies — Beast map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "iw-the-beast-from-beyond-community-the-beast-from-beyond-map-walkthrough-power",
+          "iw-the-beast-from-beyond-venom-x",
+          "iw-the-beast-from-beyond-community-the-beast-from-beyond-map-walkthrough-double-pack-a-punch"
+        ]
+      }
+    }
+  },
+  "the-beast-from-beyond-map-walkthrough-traveling-to-the-theater": {
+    "mapOverrides": {
+      "iw-the-beast-from-beyond": {
+        "title": "Open the portal to the Theater",
+        "category": "side",
+        "difficulty": "Easy",
+        "players": "Solo / co-op",
+        "summary": "Power the station, deploy the Cargo Bay turret and cross into the Theater.",
+        "requirements": [
+          "Infinite Warfare: The Beast from Beyond.",
+          "Turn on power first.",
+          "Open a route to the Cargo Bay."
+        ],
+        "reward": "Travel between the station and Theater; Double Feature on the first successful visit.",
+        "steps": [
+          {
+            "title": "Press the red-pillar button",
+            "body": "In the Cargo Bay, find the button on the side of a red pillar and interact with it after power is on. A large turret deploys and blasts the door blocking the Theater portal.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          },
+          {
+            "title": "Cross the opened portal",
+            "body": "Once the turret has opened the doorway, enter the portal to reach the Theater. The community guide reports that you can then travel back and forth freely. The Theater route contains one bridge scrap, several perks and later quest objects.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "The_Beebat and r/CODZombies — Beast map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "iw-the-beast-from-beyond-community-the-beast-from-beyond-map-walkthrough-power",
+          "iw-the-beast-from-beyond-community-the-beast-from-beyond-map-walkthrough-pack-a-punch"
+        ]
+      }
+    }
+  },
+  "the-beast-from-beyond-map-walkthrough-power": {
+    "mapOverrides": {
+      "iw-the-beast-from-beyond": {
+        "title": "Restore power with N31L’s head",
+        "category": "side",
+        "difficulty": "Easy",
+        "players": "Solo / co-op",
+        "summary": "Retrieve the robot head from the pit route and install it at Spawn.",
+        "requirements": [
+          "Infinite Warfare: The Beast from Beyond.",
+          "Open the route from Spawn toward the Ops Center pit."
+        ],
+        "reward": "Station power and access to powered map features.",
+        "steps": [
+          {
+            "title": "Reach the catwalk beyond the pit route",
+            "body": "Find the giant pit in the main Ops Center area. Follow the route down toward the green tunnel and Tuff Nuff, then locate N31L’s head at the end of the catwalk. Pick up the head.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/",
+            "tip": "The source gives the pit, tunnel and catwalk landmarks but not a precise safe landing point. A close-up of that approach remains missing; do not interpret “down the pit” as an instruction to drop blindly to its bottom."
+          },
+          {
+            "title": "Install the head in Spawn",
+            "body": "Return to the computer station in Spawn and interact to place N31L’s head there. Power turns on when the head is installed.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "The_Beebat and r/CODZombies — Beast map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "iw-the-beast-from-beyond-community-the-beast-from-beyond-inventory-n31l-x",
+          "iw-the-beast-from-beyond-community-the-beast-from-beyond-map-walkthrough-traveling-to-the-theater"
+        ]
+      }
+    }
+  },
+  "the-beast-from-beyond-map-walkthrough-pack-a-punch": {
+    "mapOverrides": {
+      "iw-the-beast-from-beyond": {
+        "title": "Pack-a-Punch bridge and first Phantom",
+        "category": "weapon",
+        "difficulty": "Moderate",
+        "players": "Solo / co-op",
+        "summary": "Find the three bridge scraps, reach the projection room and prepare for the Phantom on exit.",
+        "requirements": [
+          "Infinite Warfare: The Beast from Beyond.",
+          "Restore power and open the Theater portal.",
+          "Carry a weapon you can use against a Phantom when leaving the projection room."
+        ],
+        "reward": "Access to Pack-a-Punch; the first Phantom is also needed for a main-quest disc.",
+        "steps": [
+          {
+            "title": "Collect the Cargo Bay and Blue Bolts scraps",
+            "body": "Pick up the metal sheet in the corner opposite Trail Blazers in the Cargo Bay. Collect another immediately to the right of Blue Bolts.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          },
+          {
+            "title": "Collect the Theater car scrap",
+            "body": "Travel to the Theater and search outside it. The third sheet is on top of a car to the right of the KBS Longbow wall-buy.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          },
+          {
+            "title": "Repair the exterior bridge",
+            "body": "Return to the icy exterior of the station. Interact with the broken bridge to install all three scraps, then cross to the Pack-a-Punch portal. Enter it to reach the projector and machine.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/",
+            "tip": "The read map article does not give current upgrade prices or the full upgrade-name/exception list. Follow the machine’s actual prompt; Venom-X upgrades have additional quests."
+          },
+          {
+            "title": "Prepare before leaving the projection room",
+            "body": "The source warns that a strong Phantom spawns when you leave the Pack-a-Punch room. For the main quest, kill the first Phantom and collect its dropped floppy disc. For the Venom-X route, damage a Phantom in the Water Treatment electric trap before killing it.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "The_Beebat and r/CODZombies — Beast map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "iw-the-beast-from-beyond-community-the-beast-from-beyond-map-walkthrough-power",
+          "iw-the-beast-from-beyond-community-the-beast-from-beyond-map-walkthrough-traveling-to-the-theater",
+          "iw-the-beast-from-beyond-community-the-beast-from-beyond-inventory-scrap-metal",
+          "iw-the-beast-from-beyond-community-the-beast-from-beyond-easter-eggs-main-easter-egg",
+          "iw-the-beast-from-beyond-venom-x"
+        ]
+      }
+    }
+  },
+  "the-beast-from-beyond-map-walkthrough-double-pack-a-punch": {
+    "mapOverrides": {
+      "iw-the-beast-from-beyond": {
+        "title": "Double Pack-a-Punch: charge the Alien Fuses",
+        "category": "weapon",
+        "difficulty": "Moderate",
+        "players": "Solo / co-op",
+        "summary": "Use the Lost Reel, screen trap and two Theater cutouts to charge the machine’s fuses.",
+        "requirements": [
+          "Infinite Warfare: The Beast from Beyond.",
+          "Open Pack-a-Punch and the Theater.",
+          "Obtain the Entangler from the first two Skullbreaker skulls.",
+          "Keep enough cash to activate the Theater screen trap and buy your upgrades."
+        ],
+        "reward": "A second Pack-a-Punch tier after the charged fuses are installed.",
+        "steps": [
+          {
+            "title": "Collect the Alien Fuses",
+            "body": "Shoot open the electrical box across from the Proteus wall-buy. Interact with the opened box to take the Alien Fuses.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          },
+          {
+            "title": "Put the fuses on the Sasquatch cutout",
+            "body": "Carry the fuses to the Theater and place them on the Sasquatch cutout. This is the cutout that will receive the charging beam.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          },
+          {
+            "title": "Find and install the Lost Reel",
+            "body": "Take the Lost Reel from the concession counter in the Theater / arcade area. Go through the Pack-a-Punch portal and place it in the projector. Zombies in Spaceland footage confirms the reel is running.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/",
+            "tip": "The map article calls this counter “Theater” in the upgrade steps and “Afterlife Arcade” in its inventory entry. It supplies no more precise text locator; the counter close-up remains pending."
+          },
+          {
+            "title": "Pull a Brute helmet from the active screen",
+            "body": "Return to the Theater screen, activate its trap and fire the Entangler at the screen to pull a Brute helmet from the portal. Wait for the trap to finish; the helmet falls to the ground.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          },
+          {
+            "title": "Take the helmet to the Brute cutout",
+            "body": "Use the Entangler to carry the fallen helmet. Drop it on the ground, then interact to pick it up as the quest item. Place the helmet on the Brute cutout and activate that cutout.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/6zkk0t/the_beast_from_beyond_easter_egg_hunt_general_map/",
+            "tip": "The Brute receives the helmet; the separate Sasquatch cutout holds the fuses. The map wiki additionally specifies dropping and interacting to collect the helmet before placing it."
+          },
+          {
+            "title": "Collect the charged fuses",
+            "body": "The Brute helmet fires a beam at the fuses on the Sasquatch cutout. Once the charging succeeds, take the charged Alien Fuses from the cutout.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          },
+          {
+            "title": "Install them at Pack-a-Punch",
+            "body": "Return to the Pack-a-Punch machine and install the charged fuses. The source reports that weapons can now be upgraded a second time. Venom-Y still needs its Venom-Z challenge before that second weapon upgrade.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          }
+        ],
+        "sourceOmissions": [
+          "Current prices, weapon-specific exceptions and exact fuse-box/cutout close-ups remain open."
+        ],
+        "sources": [
+          {
+            "title": "The_Beebat and r/CODZombies — Beast map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          },
+          {
+            "title": "r/CODZombies — original September 2017 map hunt",
+            "url": "https://www.reddit.com/r/CODZombies/comments/6zkk0t/the_beast_from_beyond_easter_egg_hunt_general_map/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "iw-the-beast-from-beyond-community-the-beast-from-beyond-map-walkthrough-pack-a-punch",
+          "iw-the-beast-from-beyond-community-the-beast-from-beyond-inventory-entangler",
+          "iw-the-beast-from-beyond-community-the-beast-from-beyond-venom-x-venom-z"
+        ]
+      }
+    }
+  },
+  "the-beast-from-beyond-map-walkthrough-afterlife-arcade": {
+    "mapOverrides": {
+      "iw-the-beast-from-beyond": {
+        "title": "Afterlife Arcade and self-revive tokens",
+        "category": "side",
+        "difficulty": "Easy",
+        "players": "Solo / co-op",
+        "summary": "Understand how the death arcade differs from the Theater arcade and the pre-Meph preparation room.",
+        "requirements": [
+          "Infinite Warfare: The Beast from Beyond.",
+          "Solo: Up ’N Atoms must be active for the described Last Stand route.",
+          "Co-op: this route follows bleeding out."
+        ],
+        "reward": "A Self Revive Token and a route out of the Afterlife Arcade.",
+        "steps": [
+          {
+            "title": "Enter after the relevant down or bleedout",
+            "body": "The map guide says that bleeding out in co-op, or entering Last Stand with Up ’N Atoms in solo, sends you to the Afterlife Arcade. It reports that solo players arrive with a Self Revive Token already available.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          },
+          {
+            "title": "Earn soul power in co-op",
+            "body": "Play the arcade games to earn soul power and obtain a Self Revive Token, then use the arcade’s exit to return. The read source does not specify the required score, exact token collection point or platform-specific exit input.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/",
+            "tip": "The playable Theater area used for quest objects and the five-minute preparation room before Mephistopheles have separate purposes; their presence alone does not mean you have died."
+          },
+          {
+            "title": "Choose one of the listed games",
+            "body": "The community list includes Octonian Hunter, Rings of Saturn, Black Hole, Cryptid Attack, Zombie Zoom and Bowling for Planets. Its playable cabinets are Atlantis, Pitfall, Grand Prix, Enduro and Dolphin.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          }
+        ],
+        "sourceOmissions": [
+          "Token score, pickup locator and return controls are not established."
+        ],
+        "sources": [
+          {
+            "title": "The_Beebat and r/CODZombies — Beast map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "iw-the-beast-from-beyond-community-the-beast-from-beyond-map-walkthrough-traveling-to-the-theater",
+          "iw-the-beast-from-beyond-community-the-beast-from-beyond-director-s-cut-extras-mephistopheles-battle"
+        ]
+      }
+    }
+  },
+  "the-beast-from-beyond-inventory-n31l-x": {
+    "mapOverrides": {
+      "iw-the-beast-from-beyond": {
+        "title": "N31L-X head inventory",
+        "category": "side",
+        "difficulty": "Easy",
+        "players": "Solo / co-op",
+        "summary": "Find the head used first for power and later for the main quest.",
+        "requirements": [
+          "Infinite Warfare: The Beast from Beyond.",
+          "Open the Ops Center pit route."
+        ],
+        "reward": "The head needed to restore station power.",
+        "steps": [
+          {
+            "title": "Collect the head at the catwalk’s end",
+            "body": "The inventory source places N31L’s head down the giant pit route, at the end of the catwalk. Carry it to the Spawn computer for power. Moving the head from Spawn to the projector computer happens much later, after the main quest’s lever puzzle.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "The_Beebat and r/CODZombies — Beast map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "iw-the-beast-from-beyond-community-the-beast-from-beyond-map-walkthrough-power",
+          "iw-the-beast-from-beyond-community-the-beast-from-beyond-easter-eggs-main-easter-egg"
+        ]
+      }
+    }
+  },
+  "the-beast-from-beyond-inventory-scrap-metal": {
+    "mapOverrides": {
+      "iw-the-beast-from-beyond": {
+        "title": "All three bridge scrap locations",
+        "category": "side",
+        "difficulty": "Easy",
+        "players": "Solo / co-op",
+        "summary": "Collect the metal sheets needed to cross to Pack-a-Punch.",
+        "requirements": [
+          "Infinite Warfare: The Beast from Beyond.",
+          "Open the Theater portal and the interior scrap locations."
+        ],
+        "reward": "Three bridge scraps for the icy exterior crossing.",
+        "steps": [
+          {
+            "title": "Cargo Bay",
+            "body": "Search the corner opposite Trail Blazers in the Cargo Bay and pick up the metal sheet.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          },
+          {
+            "title": "Blue Bolts",
+            "body": "Pick up the second sheet immediately to the right of the Blue Bolts machine.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          },
+          {
+            "title": "Theater car",
+            "body": "Outside the Theater, find the sheet on top of a car to the right of the KBS Longbow wall-buy. Return all three to the broken bridge on the ice-planet exterior and install them there.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "The_Beebat and r/CODZombies — Beast map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "iw-the-beast-from-beyond-community-the-beast-from-beyond-map-walkthrough-traveling-to-the-theater",
+          "iw-the-beast-from-beyond-community-the-beast-from-beyond-map-walkthrough-pack-a-punch"
+        ]
+      }
+    }
+  },
+  "the-beast-from-beyond-inventory-entangler": {
+    "mapOverrides": {
+      "iw-the-beast-from-beyond": {
+        "title": "Get the Entangler from Skullbreaker’s first two skulls",
+        "category": "weapon",
+        "difficulty": "Moderate",
+        "players": "Solo / co-op",
+        "summary": "Open the skull box, defend the Cargo Bay marks and catch the floating skull.",
+        "requirements": [
+          "Infinite Warfare: The Beast from Beyond.",
+          "Restore power and open the Cargo Bay and candidate fuse-box rooms.",
+          "Bring an explosive and a firearm.",
+          "In co-op every player must occupy a red X during the defence."
+        ],
+        "reward": "The Entangler spawns in the centre of the Cargo Bay.",
+        "steps": [
+          {
+            "title": "Open and shoot the first skull",
+            "body": "Use explosive damage to open the skull fuse box, then shoot the pixel skull inside it. Check all three reported box positions: Water Treatment above the door toward Blue Bolts; above Bombstoppers; or Cargo Bay above the stairs leading down from the P-LAW.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          },
+          {
+            "title": "Find the Cargo Bay red Xs",
+            "body": "After the first skull, locate the small red X marks on the Cargo Bay floor. The source reports one for each player, up to four. Assign one player to each required mark before starting.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/",
+            "tip": "The source’s exact four X positions are in an image album; individual floor landmarks have not been transcribed here."
+          },
+          {
+            "title": "Stay on the marks through the defence",
+            "body": "Every player stands on an X and defends against zombies until the red skull reaches the ceiling. Keep watching the skull while defending; the next action is a jump to collect it.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          },
+          {
+            "title": "Jump from a ledge to catch the skull",
+            "body": "Run and jump from the Cargo Bay catwalk or another higher ledge and touch the floating skull before it disappears. On success, pick up the Entangler from the centre of the Cargo Bay. If the catch fails, advance to the next round and repeat the defence and catch.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "The_Beebat and r/CODZombies — Beast map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "iw-the-beast-from-beyond-community-the-beast-from-beyond-easter-eggs-skullbreaker",
+          "iw-the-beast-from-beyond-community-the-beast-from-beyond-map-walkthrough-double-pack-a-punch",
+          "iw-the-beast-from-beyond-community-the-beast-from-beyond-easter-eggs-main-easter-egg",
+          "iw-the-beast-from-beyond-community-the-beast-from-beyond-easter-eggs-message-sent"
+        ]
+      }
+    }
+  },
+  "the-beast-from-beyond-venom-x-venom-y": {
+    "mapOverrides": {
+      "iw-the-beast-from-beyond": {
+        "title": "Venom-Y: Morse quota and first upgrade",
+        "category": "weapon",
+        "difficulty": "Moderate",
+        "players": "Solo / co-op",
+        "summary": "Identify ARCHER or CROSS, enter the quota and complete the Venom-X challenge.",
+        "requirements": [
+          "Infinite Warfare: The Beast from Beyond.",
+          "Obtain the base Venom-X and open Pack-a-Punch.",
+          "Keep the game audio audible and record the Morse letter pauses."
+        ],
+        "reward": "At 100% Venom-Y progress, Pack-a-Punch upgrades the Venom-X to Venom-Y.",
+        "steps": [
+          {
+            "title": "Read the key at the upper terminal",
+            "body": "Activate the terminal above / near Bang Bangs. Read these as letter groups: ARCHER = [.-] [.-.] [-.-.] [....] [.] [.-.]; CROSS = [-.-.] [.-.] [---] [...] [...]. Record which key you hear.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/",
+            "tip": "ARCHER ends in dot-dash-dot; CROSS ends with two S letters, six short signals separated into two letters. Brackets separate letters and are not extra inputs."
+          },
+          {
+            "title": "Read the lower terminal and identify the quota",
+            "body": "For CROSS, the opening eight Morse letters are [--] [--..] [--..] [-..] [--.] [-..-] [...-] [..-.]; the next two letters identify the quota: XA = 15, WA = 18, LO = 20 or 25, LZ = 30. For ARCHER, the opening eight letters are [-.-] [--..] [-.] [...] [...] [--] [.] [..]; the next two are HP = 15, GP = 18, VD = 20 or 25, VO = 30. Each bracketed group is one Morse letter. Listen for the pauses between letters; brackets are not inputs.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/",
+            "tip": "The original hunt identifies a Vigenère cipher with ARCHER or CROSS as its key. The shortcut above uses the map wiki’s first-two-letter quota lookup rather than asking you to transcribe the whole sentence. Its decoded Y challenges ask for more than 15, 18, 20, 25 or 30 Cryptid kills."
+          },
+          {
+            "title": "Send the number word back",
+            "body": "Enter the English number word at the two-button terminal beside the maze computers near Bombstoppers. Left button = dot; right button = dash. Send one letter at a time: FIFTEEN = [..-.] [..] [..-.] [-] [.] [.] [-.]; EIGHTEEN = [.] [..] [--.] [....] [-] [.] [.] [-.]; TWENTY = [-] [.--] [.] [-.] [-] [-.--]; THIRTY = [-] [....] [..] [.-.] [-] [-.--]. For 20 or 25, enter TWENTY first. If the success tone does not play, append FIVE = [..-.] [..] [...-] [.]. Stop when the terminal confirms acceptance.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/6zkk0t/the_beast_from_beyond_easter_egg_hunt_general_map/",
+            "tip": "The displayed FIFTEEN, TWENTY and THIRTY spellings correct malformed strings in the old imported text. These are editorial conversions of the source’s number words to standard Morse, not a new retail test. The sources do not establish exact button-hold or inter-letter timing. Brackets separate letters and are not extra inputs."
+          },
+          {
+            "title": "Fill the Venom-Y progress meter",
+            "body": "Kill Cryptids with the Venom-X and check the Venom-Y percentage in the inventory / scoreboard. A firsthand quest report describes filling the Y challenge with Venom kills. The map guide’s completion condition is 100%.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/uigjsd/cod_infinite_warfare_the_beast_from_beyond_venom/",
+            "tip": "A separate original report linked in Sources describes players stuck at 0% despite accepted Morse, with no confirmed fix. If yours stays at 0%, recheck the accepted quota and weapon; replaying a terminal is not a verified fix."
+          },
+          {
+            "title": "Pack-a-Punch only after reaching 100%",
+            "body": "When Venom-Y progress reaches 100%, put the Venom-X into Pack-a-Punch and retrieve the Venom-Y. A correct answer tone alone does not complete the kill challenge.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          }
+        ],
+        "sourceOmissions": [
+          "Exact Morse timing, zero-progress recovery and retail confirmation of corrected input strings remain open."
+        ],
+        "sources": [
+          {
+            "title": "The_Beebat and r/CODZombies — Beast map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          },
+          {
+            "title": "r/CODZombies — original September 2017 map hunt",
+            "url": "https://www.reddit.com/r/CODZombies/comments/6zkk0t/the_beast_from_beyond_easter_egg_hunt_general_map/"
+          },
+          {
+            "title": "stanley557 — firsthand Venom-X and Y quest report",
+            "url": "https://www.reddit.com/r/CODZombies/comments/uigjsd/cod_infinite_warfare_the_beast_from_beyond_venom/"
+          },
+          {
+            "title": "r/Infinitewarfare — unresolved Venom-Y progress reports",
+            "url": "https://www.reddit.com/r/Infinitewarfare/comments/15jicb2/beasts_from_beyond_venom_y_upgrade_quest_not/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "iw-the-beast-from-beyond-venom-x",
+          "iw-the-beast-from-beyond-community-the-beast-from-beyond-map-walkthrough-pack-a-punch",
+          "iw-the-beast-from-beyond-community-the-beast-from-beyond-venom-x-venom-z"
+        ]
+      }
+    }
+  },
+  "the-beast-from-beyond-venom-x-venom-z": {
+    "mapOverrides": {
+      "iw-the-beast-from-beyond": {
+        "title": "Venom-Z: second quota and hidden figures",
+        "category": "weapon",
+        "difficulty": "Moderate",
+        "players": "Solo / co-op",
+        "summary": "Complete the special-enemy quota, shoot the 1950s figures and use the charged-fuse machine.",
+        "requirements": [
+          "Infinite Warfare: The Beast from Beyond.",
+          "Obtain Venom-Y.",
+          "Unlock Double Pack-a-Punch by installing the charged Alien Fuses.",
+          "Record the new Morse message; do not assume the previous quota still applies."
+        ],
+        "reward": "Venom-Z after the completed second challenge and second Pack-a-Punch upgrade.",
+        "steps": [
+          {
+            "title": "Identify the new lower-terminal message",
+            "body": "Activate the lower terminal near Bang Bangs again and identify its current ARCHER or CROSS message. For CROSS, the opening eight Morse letters are [--] [--..] [--..] [-..] [--.] [-..-] [...-] [..-.]; the next two letters identify the quota: XA = 15, WA = 18, LO = 20 or 25, LZ = 30. For ARCHER, the opening eight letters are [-.-] [--..] [-.] [...] [...] [--] [.] [..]; the next two are HP = 15, GP = 18, VD = 20 or 25, VO = 30. Each bracketed group is one Morse letter. Listen for the pauses between letters; brackets are not inputs.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/",
+            "tip": "The original hunt’s decoded Z messages require both a special-enemy quota and the same quota of hidden figures. The read primary hunt does not establish that your previous key can always be reused; identify the current message rather than copying the last number."
+          },
+          {
+            "title": "Enter the new number word",
+            "body": "Enter the English number word at the two-button terminal beside the maze computers near Bombstoppers. Left button = dot; right button = dash. Send one letter at a time: FIFTEEN = [..-.] [..] [..-.] [-] [.] [.] [-.]; EIGHTEEN = [.] [..] [--.] [....] [-] [.] [.] [-.]; TWENTY = [-] [.--] [.] [-.] [-] [-.--]; THIRTY = [-] [....] [..] [.-.] [-] [-.--]. For 20 or 25, enter TWENTY first. If the success tone does not play, append FIVE = [..-.] [..] [...-] [.]. Stop when the terminal confirms acceptance.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/6zkk0t/the_beast_from_beyond_easter_egg_hunt_general_map/",
+            "tip": "The displayed FIFTEEN, TWENTY and THIRTY spellings correct malformed strings in the old imported text. These are editorial conversions of the source’s number words to standard Morse, not a new retail test. The sources do not establish exact button-hold or inter-letter timing. Brackets separate letters and are not extra inputs."
+          },
+          {
+            "title": "Complete the special-enemy quota",
+            "body": "Kill the required number of non-regular enemies and monitor Venom-Z progress. The source lists Scouts, Phantoms, Ninjas, Clowns and the Slasher as eligible special-enemy types.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/",
+            "tip": "The read map source does not settle every damage-source or weapon-eligibility rule. Keep the Venom-Y available and watch actual progress rather than assuming every kill counted."
+          },
+          {
+            "title": "Shoot the hidden figures in one round",
+            "body": "At the date terminal outside Pack-a-Punch, set the display to the 1950s. The Skullhop-style hidden figures appear. Move to the area in front of the Pack-a-Punch portal and shoot at least the quantity from your decoded message during a single round. The source says that failing to reach the required figure count within that round fails this part.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/",
+            "tip": "Exact display digits, individual figure close-ups and the reset / retry interaction after a failed round remain unverified."
+          },
+          {
+            "title": "Use the second Pack-a-Punch tier",
+            "body": "Once the Z challenge is complete, place Venom-Y into Pack-a-Punch with the charged Alien Fuses installed. Retrieve Venom-Z. Installing fuses alone does not bypass the quest in the ordinary mode described by this guide.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          }
+        ],
+        "sourceOmissions": [
+          "Current damage eligibility, exact display digits and figure retry rules are not established."
+        ],
+        "sources": [
+          {
+            "title": "The_Beebat and r/CODZombies — Beast map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          },
+          {
+            "title": "r/CODZombies — original September 2017 map hunt",
+            "url": "https://www.reddit.com/r/CODZombies/comments/6zkk0t/the_beast_from_beyond_easter_egg_hunt_general_map/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "iw-the-beast-from-beyond-community-the-beast-from-beyond-venom-x-venom-y",
+          "iw-the-beast-from-beyond-community-the-beast-from-beyond-map-walkthrough-double-pack-a-punch"
+        ]
+      }
+    }
+  },
+  "the-beast-from-beyond-game-features-fate-fortune-cards": {
+    "mapOverrides": {
+      "iw-the-beast-from-beyond": {
+        "title": "Fate & Fortune setup and optional shortcuts",
+        "category": "side",
+        "difficulty": "Easy",
+        "players": "Solo / co-op",
+        "summary": "Prepare a five-card deck and distinguish a weapon reward from access to the skull arcade.",
+        "requirements": [
+          "Infinite Warfare: The Beast from Beyond.",
+          "Choose your deck before the match.",
+          "Optional Fortune-card routes require the relevant card in your own inventory."
+        ],
+        "reward": "Optional combat effects, a random upgraded weapon or access to the skull minigame, depending on the card.",
+        "steps": [
+          {
+            "title": "Prepare five cards before the match",
+            "body": "Preset a five-card deck. The map guide says cards become available as the game progresses and you kill zombies. Read each selected card’s live effect and duration before depending on it during either boss fight.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          },
+          {
+            "title": "Packin’ Heat gives a random upgraded weapon",
+            "body": "The companion card reference lists Packin’ Heat as a one-use Epic Fortune card giving a random twice-upgraded weapon. That reward does not document a complete Beast Magic Wheel pool or guarantee a particular variant.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/fate-and-fortune-cards/"
+          },
+          {
+            "title": "Skull Hacker opens the minigame",
+            "body": "The firsthand Mephistopheles guide describes using Skull Hacker so the team can interact with the Ghosts & Skulls machine in the Theater arcade. Complete the actual game to receive its perk reward; activating the card is not itself the game’s completion.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/l2l72v/the_ultimate_iw_easter_egg_guides_mephistopheles/",
+            "tip": "The older companion card table calls the skull-activation card “Ammo Crate,” while also using that name for a different DLC 3 effect. This unresolved table error is why the card’s actual in-game description matters."
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "The_Beebat and r/CODZombies — Beast map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          },
+          {
+            "title": "The_Beebat and r/CODZombies — card reference",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/fate-and-fortune-cards/"
+          },
+          {
+            "title": "DaRkShAdOwYlaf — firsthand Mephistopheles guide",
+            "url": "https://www.reddit.com/r/CODZombies/comments/l2l72v/the_ultimate_iw_easter_egg_guides_mephistopheles/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "iw-the-beast-from-beyond-community-the-beast-from-beyond-easter-eggs-skullbreaker",
+          "iw-the-beast-from-beyond-community-the-beast-from-beyond-director-s-cut-extras-mephistopheles-battle"
+        ]
+      }
+    }
+  },
+  "the-beast-from-beyond-game-features-beyond-soul-challenges": {
+    "mapOverrides": {
+      "iw-the-beast-from-beyond": {
+        "title": "Beyond Soul Challenges reference",
+        "category": "side",
+        "difficulty": "Reference",
+        "players": "Solo / co-op",
+        "summary": "Match each reported Soul Challenge to its related weapon, trap or quest route.",
+        "requirements": [
+          "Infinite Warfare: The Beast from Beyond.",
+          "Open the Zombies Barracks / challenge menu to check your own progress."
+        ],
+        "reward": "Progress toward the Master Beyond Challenge.",
+        "steps": [
+          {
+            "title": "The source’s challenge names and objectives",
+            "body": "This is a list of every Soul Challenge specifically for The Beast From Beyond. Name | Description --- | --- Tech-Disruptor | Get kills with the Venom-X Suck 'Em Up | Get kills with the Entangler Scout Hunter | Kill Cryptid Scouts Teleport That | Kill the Teleporting Phantoms Ivory Ban | Kill Cryptid Rhinos Superpower Dopalicious | Upgrade weapons in The Beast From Beyond All Systems Go | Earn kills using the traps in The Beast From Beyond Firmware Upgrade | Find a way to power N3IL Guest Starring | Kill the special enemies from prior films Hack This | Find a way to hack N3IL Open Sesame | Open all of the doors in the film Jettison | Find a way to leave The Beast From Beyond MASTER BEYOND CHALLENGE | Complete all The Beast From Beyond challenges",
+            "html": "<p>This is a list of every Soul Challenge specifically for The Beast From Beyond.</p>\n<table>\n<thead>\n<tr>\n<th>Name</th>\n<th>Description</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Tech-Disruptor</td>\n<td>Get kills with the Venom-X</td>\n</tr>\n<tr>\n<td>Suck &#x27;Em Up</td>\n<td>Get kills with the Entangler</td>\n</tr>\n<tr>\n<td>Scout Hunter</td>\n<td>Kill Cryptid Scouts</td>\n</tr>\n<tr>\n<td>Teleport That</td>\n<td>Kill the Teleporting Phantoms</td>\n</tr>\n<tr>\n<td>Ivory Ban</td>\n<td>Kill Cryptid Rhinos</td>\n</tr>\n<tr>\n<td>Superpower Dopalicious</td>\n<td>Upgrade weapons in The Beast From Beyond</td>\n</tr>\n<tr>\n<td>All Systems Go</td>\n<td>Earn kills using the traps in The Beast From Beyond</td>\n</tr>\n<tr>\n<td>Firmware Upgrade</td>\n<td>Find a way to power N3IL</td>\n</tr>\n<tr>\n<td>Guest Starring</td>\n<td>Kill the special enemies from prior films</td>\n</tr>\n<tr>\n<td>Hack This</td>\n<td>Find a way to hack N3IL</td>\n</tr>\n<tr>\n<td>Open Sesame</td>\n<td>Open all of the doors in the film</td>\n</tr>\n<tr>\n<td>Jettison</td>\n<td>Find a way to leave The Beast From Beyond</td>\n</tr>\n<tr>\n<td>MASTER BEYOND CHALLENGE</td>\n<td>Complete all The Beast From Beyond challenges</td>\n</tr>\n</tbody>\n</table>\n<hr>",
+            "original": false,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          },
+          {
+            "title": "Use the matching walkthrough for the action",
+            "body": "Tech-Disruptor uses Venom-X; Suck ’Em Up uses the Entangler; Superpower Dopalicious uses upgrades; All Systems Go uses traps. Firmware Upgrade follows the power route; Hack This follows N31L’s main-quest hack. The remaining enemy and door challenges use their stated targets.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/",
+            "tip": "The source does not provide each tier’s numerical target or prove whether every boss-mode action earns progression. Check the live challenge menu for the next requirement."
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "The_Beebat and r/CODZombies — Beast map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/",
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "iw-the-beast-from-beyond-community-the-beast-from-beyond-map-walkthrough-traps",
+          "iw-the-beast-from-beyond-community-the-beast-from-beyond-map-walkthrough-power",
+          "iw-the-beast-from-beyond-community-the-beast-from-beyond-map-walkthrough-pack-a-punch",
+          "iw-the-beast-from-beyond-community-the-beast-from-beyond-inventory-entangler",
+          "iw-the-beast-from-beyond-community-the-beast-from-beyond-easter-eggs-main-easter-egg",
+          "iw-the-beast-from-beyond-venom-x"
+        ]
+      }
+    }
+  },
+  "the-beast-from-beyond-easter-eggs-main-easter-egg": {
+    "mapOverrides": {
+      "iw-the-beast-from-beyond": {
+        "title": "The End? main quest and Cryptid boss",
+        "category": "main",
+        "difficulty": "Hard",
+        "players": "Solo / co-op",
+        "summary": "Collect four discs, hack and carry N31L, then survive the terminal phases and two Mammoths.",
+        "requirements": [
+          "Infinite Warfare: The Beast from Beyond.",
+          "Restore power, unlock Pack-a-Punch and earn the Entangler.",
+          "Open the route from Spawn to the exterior before lifting N31L.",
+          "Prepare upgraded weapons and survival supplies before entering the boss computer.",
+          "The exact floppy glyph chart is linked to its original creator; it is not reproduced in this guide."
+        ],
+        "reward": "The main-quest ending and final Soul Key progression; Director’s Cut can lead onward to Mephistopheles.",
+        "steps": [
+          {
+            "title": "Collect the first Phantom’s disc",
+            "body": "Visit the Pack-a-Punch projection room. The first Phantom spawns on leaving / after the room’s timer expires. Kill it and pick up the floppy disc where it died.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          },
+          {
+            "title": "Collect the disc beside the exterior portal",
+            "body": "Outside Pack-a-Punch, find the floppy disc on the ground to the left of the portal near the large power pole.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          },
+          {
+            "title": "Move the red-corridor disc through the vent",
+            "body": "In the red-lit corridor near Bang Bangs, use the Entangler to grab the disc behind the bars and launch it toward the grate at the back. Search its reported landing spots: left of the Hallway Magic Wheel; upstairs near Proteus; Mess Hall; left of the Spawn Magic Wheel; left of the Hallway door toward Ops; or right of the Cargo Bay doorway.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/",
+            "tip": "These are the six text locations in the later map wiki. The original hunt gives a different list. Additional early entries have not been verified here and are not silently added to these landing spots."
+          },
+          {
+            "title": "Open the Med Bay forcefield with a helmet",
+            "body": "Use the Entangler to pick up a space helmet. Carry it to the Med Bay forcefield room and launch it at the green monitor through the forcefield. When that room opens, collect the fourth disc from its tabletop.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          },
+          {
+            "title": "Order the four glyphs using the correct chart",
+            "body": "Record the glyph shown for each disc. In Kenshin9977’s original chart linked below, find the column containing all four of your glyphs and read their order from TOP TO BOTTOM. Insert the matching discs into N31L’s Spawn terminal in that order. A correct set turns N31L hostile and causes doors and traps to activate.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/711kym/n3ils_floppy_disk_order/",
+            "tip": "The exact glyph chart is not reproduced here yet. The original creator explicitly says their chart is vertical. Other charts use different layouts; the wiki’s flattened right-to-left instruction must not be applied to this vertical chart. Exact per-slot close-ups remain missing."
+          },
+          {
+            "title": "Send the Theater button through the poster",
+            "body": "Behind the Brute cutout in the Theater, grab the wall button with the Entangler. Carry it to the Beast from Beyond poster in the arcade, left of the Cryptid Attack machine, and launch it into the poster. On success the button teleports away.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          },
+          {
+            "title": "Reveal the Med Bay lever panel",
+            "body": "Return to the opened forcefield room. Interact with the button now on the underside of the desk to reveal the 4×4 lever grid in Med Bay.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          },
+          {
+            "title": "Solve one recorded lever snapshot at a time",
+            "body": "Record the board before touching any lever. Number its rows 1–4, 5–8, 9–12 and 13–16. Write down every lever that is vertical in that snapshot, then turn each recorded lever exactly once, ignoring changes caused to the other levers. If they are not all aligned afterward, take a new snapshot and repeat with the currently vertical set. The original reply also reports that using the snapshot’s horizontal set works.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/79kpmw/beast_from_beyond_ee_puzzle_step/",
+            "tip": "Do not chase newly changed levers during the same pass. The source records repeated-pass successes and failures, not a current-code proof that a fixed number of passes always works."
+          },
+          {
+            "title": "Carry N31L to the projector computer",
+            "body": "After the lever puzzle temporarily hacks N31L, lift his head from Spawn using the Entangler. Carry it to the Pack-a-Punch projection room and place it in the computer on the desk to the right. The source describes a timer and doors that may obstruct you; follow the direction the head points or wait for a door to open.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/",
+            "tip": "Dropping the head or failing the timer triggers a Nuke and ends the round. Repeat the lever puzzle to obtain the head again. The old text’s “Step 4 puzzle” is an incorrect cross-reference to this lever puzzle; no exact timer length is established."
+          },
+          {
+            "title": "Finish preparations before the team starts the fight",
+            "body": "Once the head is installed, all players hold Interact at the computer to enter the boss fight. The source recommends upgraded bullet weapons and crowd control; those suggestions do not guarantee a particular weapon or variant from the Magic Wheel.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          },
+          {
+            "title": "Clear the opening Cryptid waves",
+            "body": "Defeat the opening Rhinos. An ammo crate is inside a shipping container in the middle of the arena. Next clear Scouts on one side, then Phantoms and Scouts on the opposite side. Keep routes to the crate open.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/",
+            "tip": "The original hunt said five opening Rhinos, while the later map wiki says four. The walkthrough follows the phases without promising a fixed opening count for every player count or version."
+          },
+          {
+            "title": "Use three terminals, then survive the countdown",
+            "body": "When all portals open, Scouts and Phantoms attack from around the room and two more Rhinos join. Survive until three terminals are lit, then interact with all three in quick succession. A larger terminal in a shipping container starts a countdown displayed as 99. Survive until it finishes, then return and interact with that terminal. The map wiki says the displayed countdown lasts longer than 99 real seconds.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          },
+          {
+            "title": "Defeat both blue Mammoths",
+            "body": "After the arena darkens and the remaining enemies die, two blue Mammoths appear. Use strong bullet damage and aim for their mouths; the map wiki excludes melee and explosive damage for this part. Shots cause blue fire to appear on the ground, so damage them where you can still route around that fire. Keep handling the added Phantoms and Scouts until both Mammoths die and the ending plays.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/",
+            "tip": "The body-damage rule comes from the map guide; exact weapon-variant exceptions, health, damage values and current patch behaviour have not been independently tested."
+          }
+        ],
+        "sourceOmissions": [
+          "Glyph chart and per-slot placement images, head timer, opening Rhino count and current damage exceptions remain open."
+        ],
+        "sources": [
+          {
+            "title": "The_Beebat and r/CODZombies — Beast map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          },
+          {
+            "title": "Kenshin9977 — original vertical floppy-disc chart",
+            "url": "https://www.reddit.com/r/CODZombies/comments/711kym/n3ils_floppy_disk_order/"
+          },
+          {
+            "title": "r/CODZombies — lever snapshot and retry reports",
+            "url": "https://www.reddit.com/r/CODZombies/comments/79kpmw/beast_from_beyond_ee_puzzle_step/"
+          },
+          {
+            "title": "r/CODZombies — original September 2017 map hunt",
+            "url": "https://www.reddit.com/r/CODZombies/comments/6zkk0t/the_beast_from_beyond_easter_egg_hunt_general_map/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "iw-the-beast-from-beyond-community-the-beast-from-beyond-map-walkthrough-power",
+          "iw-the-beast-from-beyond-community-the-beast-from-beyond-map-walkthrough-pack-a-punch",
+          "iw-the-beast-from-beyond-community-the-beast-from-beyond-map-walkthrough-double-pack-a-punch",
+          "iw-the-beast-from-beyond-community-the-beast-from-beyond-inventory-entangler",
+          "iw-the-beast-from-beyond-community-the-beast-from-beyond-director-s-cut-extras-mephistopheles-battle"
+        ]
+      }
+    }
+  },
+  "the-beast-from-beyond-easter-eggs-skullbreaker": {
+    "mapOverrides": {
+      "iw-the-beast-from-beyond": {
+        "title": "Skullbreaker: six skulls, chess layouts and arcade game",
+        "category": "side",
+        "difficulty": "Hard",
+        "players": "Solo / co-op",
+        "summary": "Find every documented skull item, solve a fixed-queen layout and complete three arcade rounds.",
+        "requirements": [
+          "Infinite Warfare: The Beast from Beyond.",
+          "Restore power, open the Theater and Pack-a-Punch routes, and bring an explosive.",
+          "Co-op requires every player on a red X for Skull 2.",
+          "The Skull 3 glyph chart is still needed beside these written letter groups.",
+          "Chess coordinates below are editorial; match the fixed queen before placing anything."
+        ],
+        "reward": "Skullbreaker completion, its perk reward and the Cracking Skulls achievement.",
+        "steps": [
+          {
+            "title": "Skull 1 — open the fuse box",
+            "body": "Use an explosive to open the skull box and shoot the pixel skull inside. Check Water Treatment above the Blue Bolts doorway, above Bombstoppers, and Cargo Bay above the stairs descending from the P-LAW.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          },
+          {
+            "title": "Skull 2 — defend the Cargo Bay Xs",
+            "body": "Find the red floor Xs in Cargo Bay, one per player. Every player stands on an X and defends until the floating red skull reaches the ceiling. Jump from a catwalk or other raised ledge and collect that skull before it disappears. The Entangler appears in the room’s centre. A failed attempt can be retried next round.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/",
+            "tip": "Exact floor-X and jump-ledge close-ups are still missing from this guide."
+          },
+          {
+            "title": "Skull 3 — find four symbols",
+            "body": "Search the eight documented spots: under the Cryptid’s table in Med Bay; the Cargo container opposite Trail Blazers; the barrier right of Racin’ Stripes; the Theater ticket-booth entrance viewed from the arcade; the barrier beside N31L in Spawn; the Mess Hall barrier; behind the drop toward Tuff Nuff; and left of the Magic Wheel in front of the Theater.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          },
+          {
+            "title": "Skull 3 — aim at the symbol outside the group",
+            "body": "Decode your four found glyphs using RayPoopertonIII’s original symbol chart linked in Sources. The firsthand grouping report places A, K, T and X in one group, and P, W, Y and Z in the other. Three found symbols belong to one group; aim down sights at the single symbol from the other group.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/72gvcr/did_anyone_work_out_the_proper_cypher_for_skull_3/",
+            "tip": "The letter groups are now written out, but the glyph-to-letter chart remains an external visual reference. Exact drawn glyphs have not been transcribed or photographed here. The 2017 author reported two successful games, not exhaustive validation."
+          },
+          {
+            "title": "Skull 4 — walk the matching coloured path",
+            "body": "Drop back to Spawn and stand on the small red X until a coloured skull appears. Follow the ground-symbol path matching that skull’s colour. Walk without sprinting, stopping or leaving the path until you reach the fourth skull.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          },
+          {
+            "title": "Skull 5 — collect seven loose chess pieces",
+            "body": "Leave the preplaced piece on the Break Room chessboard. Find seven loose pieces among these twelve candidates: Med Bay counter scale; right of the Break Room couch; bottom of the Spawn stairs; counter left of the chessboard; up the Spawn ladder; under the Cryptid table; right of the exterior exit near Proteus; Cargo Bay left of the bridge scrap; beside the large Ops pillar; Bombstoppers corner; corner right of the Morse terminal; and the upper Proteus hallway opposite its zombie barrier.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          },
+          {
+            "title": "Skull 5 — prepare the eight-queens board",
+            "body": "Face the chessboard from the chair closest to the Cargo Bay door. Keep the original queen fixed. For the coordinate examples below, label columns A–H from left to right and rows 1–8 from nearest to farthest. Place one queen per row and per column, with no pair sharing a diagonal.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/Infinitewarfare/comments/1f70ah1/created_a_new_tool_to_solve_the_8_queens_puzzle/",
+            "tip": "notChowser reported the fixed queen in column D across more than twenty games, but did not personally observe D1 or D7. The following are independently calculated legal chess layouts, not copied pixels or retail-tested inputs. Use a layout only if its fixed D square matches your board; the coordinate labels are editorial."
+          },
+          {
+            "title": "Skull 5 — layout for fixed queen D1",
+            "body": "Keep D1 occupied. Place the seven collected queens at A2, B5, C7, E3, F8, G6, H4. This gives one queen in each row and column without shared diagonals. Use only this one complete layout, not a mixture of different D-row examples.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/sdue6l/the_beast_from_beyond_skull_5_new_discovery/"
+          },
+          {
+            "title": "Skull 5 — layout for fixed queen D2",
+            "body": "Keep D2 occupied. Place the seven collected queens at A3, B6, C4, E8, F5, G7, H1. This gives one queen in each row and column without shared diagonals. Use only this one complete layout, not a mixture of different D-row examples.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/sdue6l/the_beast_from_beyond_skull_5_new_discovery/"
+          },
+          {
+            "title": "Skull 5 — layout for fixed queen D3",
+            "body": "Keep D3 occupied. Place the seven collected queens at A1, B6, C8, E7, F4, G2, H5. This gives one queen in each row and column without shared diagonals. Use only this one complete layout, not a mixture of different D-row examples.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/sdue6l/the_beast_from_beyond_skull_5_new_discovery/"
+          },
+          {
+            "title": "Skull 5 — layout for fixed queen D4",
+            "body": "Keep D4 occupied. Place the seven collected queens at A2, B5, C7, E1, F8, G6, H3. This gives one queen in each row and column without shared diagonals. Use only this one complete layout, not a mixture of different D-row examples.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/sdue6l/the_beast_from_beyond_skull_5_new_discovery/"
+          },
+          {
+            "title": "Skull 5 — layout for fixed queen D5",
+            "body": "Keep D5 occupied. Place the seven collected queens at A3, B1, C7, E8, F2, G4, H6. This gives one queen in each row and column without shared diagonals. Use only this one complete layout, not a mixture of different D-row examples.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/sdue6l/the_beast_from_beyond_skull_5_new_discovery/"
+          },
+          {
+            "title": "Skull 5 — layout for fixed queen D6",
+            "body": "Keep D6 occupied. Place the seven collected queens at A1, B5, C8, E3, F7, G2, H4. This gives one queen in each row and column without shared diagonals. Use only this one complete layout, not a mixture of different D-row examples.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/sdue6l/the_beast_from_beyond_skull_5_new_discovery/"
+          },
+          {
+            "title": "Skull 5 — layout for fixed queen D7",
+            "body": "Keep D7 occupied. Place the seven collected queens at A2, B6, C1, E4, F8, G3, H5. This gives one queen in each row and column without shared diagonals. Use only this one complete layout, not a mixture of different D-row examples.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/sdue6l/the_beast_from_beyond_skull_5_new_discovery/"
+          },
+          {
+            "title": "Skull 5 — layout for fixed queen D8",
+            "body": "Keep D8 occupied. Place the seven collected queens at A1, B7, C5, E2, F4, G6, H3. This gives one queen in each row and column without shared diagonals. Use only this one complete layout, not a mixture of different D-row examples.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/sdue6l/the_beast_from_beyond_skull_5_new_discovery/"
+          },
+          {
+            "title": "Skull 6 — find three torn paper scraps",
+            "body": "Find three papers among these six spots: Lunch Room table; Theater bathroom sink; left side of the Theater concession booth; red tool bench in the projection room; under Med Bay’s green monitors on an open notebook; or the Med Bay forcefield-room table beside the floppy disc. Match their torn edges to form one directional code.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          },
+          {
+            "title": "Skull 6 — enter your assembled arrow code",
+            "body": "Stand in front of the Skullbreaker cabinet, aim at its screen and enter the assembled directions with the controller D-pad. If the assembled code fails, draw the arrows and rotate the paper to check its orientation. If you fail the minigame afterward, the source says this input step must be repeated.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/",
+            "tip": "For keyboard play, use the actions mapped to the controller D-pad. The separate PC report described number-pad bindings in another skull input and was uncertain about the maze; no universal default key list is verified here."
+          },
+          {
+            "title": "Win all three arcade rounds",
+            "body": "Fire a coloured cube at a line of skulls of the same colour to connect them. Once a same-colour line is linked, grab a matching coloured Nuke and fire it at that line to destroy it. Complete three rounds to win Skullbreaker.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/",
+            "tip": "The map guide identifies Skullbreaker as a way to obtain Slappy Taffy, and the firsthand Meph guide describes the completed game giving permanent perks to players without Director’s Cut. Exact failure limits, tie conditions and the size-ten combo scoring rules remain unverified."
+          }
+        ],
+        "sourceOmissions": [
+          "Skull 3 glyph mapping, X/ledge photos, chess retail acceptance and minigame failure/combo details remain open."
+        ],
+        "sources": [
+          {
+            "title": "The_Beebat and r/CODZombies — Beast map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          },
+          {
+            "title": "DemStopher — firsthand Skull 3 grouping report",
+            "url": "https://www.reddit.com/r/CODZombies/comments/72gvcr/did_anyone_work_out_the_proper_cypher_for_skull_3/"
+          },
+          {
+            "title": "zombieslayamr — board orientation and solver report",
+            "url": "https://www.reddit.com/r/Infinitewarfare/comments/1f70ah1/created_a_new_tool_to_solve_the_8_queens_puzzle/"
+          },
+          {
+            "title": "notChowser — firsthand fixed-queen observations",
+            "url": "https://www.reddit.com/r/CODZombies/comments/sdue6l/the_beast_from_beyond_skull_5_new_discovery/"
+          },
+          {
+            "title": "RayPoopertonIII — original Skull 3 glyph chart, crediting mr_makaveli",
+            "url": "https://www.reddit.com/r/CODZombies/comments/73qchy/tbfb_skull_3_cheat_sheet_all_symbols_will_be_from/"
+          },
+          {
+            "title": "r/CODZombies — maze input and monitor reports",
+            "url": "https://www.reddit.com/r/CODZombies/comments/16lblnn/beast_from_beyond_maze_step_not_working/"
+          },
+          {
+            "title": "DaRkShAdOwYlaf — firsthand Mephistopheles guide",
+            "url": "https://www.reddit.com/r/CODZombies/comments/l2l72v/the_ultimate_iw_easter_egg_guides_mephistopheles/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "iw-the-beast-from-beyond-community-the-beast-from-beyond-inventory-entangler",
+          "iw-the-beast-from-beyond-community-the-beast-from-beyond-map-walkthrough-pack-a-punch",
+          "iw-the-beast-from-beyond-community-the-beast-from-beyond-game-features-fate-fortune-cards"
+        ]
+      }
+    }
+  },
+  "the-beast-from-beyond-easter-eggs-message-sent": {
+    "mapOverrides": {
+      "iw-the-beast-from-beyond": {
+        "title": "Message Sent: send the turnstile to the 1970s",
+        "category": "side",
+        "difficulty": "Moderate",
+        "players": "Solo / co-op",
+        "summary": "Open the date portal, carry the Theater dumpster object and launch it through.",
+        "requirements": [
+          "Infinite Warfare: The Beast from Beyond.",
+          "Open the Theater and exterior Pack-a-Punch route.",
+          "Obtain the Entangler."
+        ],
+        "reward": "The Message Sent trophy / achievement.",
+        "steps": [
+          {
+            "title": "Open the 1970s portal",
+            "body": "At the terminal outside Pack-a-Punch, set the date to the 1970s. A portal appears in the air when the setting is correct.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/",
+            "tip": "The source gives the decade, not the exact digits or current keyboard bindings. Use the terminal’s displayed decade; no exact year is asserted here."
+          },
+          {
+            "title": "Take the discarded turnstile",
+            "body": "Go to the front of the Theater. Use the Entangler to pick up the turnstile lying in the red dumpster.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          },
+          {
+            "title": "Launch it into the date portal",
+            "body": "While holding the turnstile with the Entangler, return to the exterior terminal and launch the object into the floating portal. The portal disappears and the achievement is awarded when the send succeeds.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "The_Beebat and r/CODZombies — Beast map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "iw-the-beast-from-beyond-community-the-beast-from-beyond-inventory-entangler",
+          "iw-the-beast-from-beyond-community-the-beast-from-beyond-map-walkthrough-pack-a-punch",
+          "iw-the-beast-from-beyond-community-the-beast-from-beyond-map-walkthrough-traveling-to-the-theater"
+        ]
+      }
+    }
+  },
+  "the-beast-from-beyond-easter-eggs-hidden-song": {
+    "mapOverrides": {
+      "iw-the-beast-from-beyond": {
+        "title": "Scattered Lies: all fifteen astronaut targets",
+        "category": "music",
+        "difficulty": "Moderate",
+        "players": "Solo / co-op",
+        "summary": "Use an individual checklist for the map’s hidden-song targets.",
+        "requirements": [
+          "Infinite Warfare: The Beast from Beyond.",
+          "Open the Theater and exterior routes.",
+          "Carry a firearm and a sight suitable for the distant exterior targets."
+        ],
+        "reward": "Scattered Lies playback and the Broken Record achievement requirement.",
+        "steps": [
+          {
+            "title": "Track fifteen distinct astronaut targets",
+            "body": "Shoot all fifteen astronauts listed below. The chapter order is a checklist, not a documented activation order. Open the station, Theater and exterior routes so you can reach the complete set.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/",
+            "tip": "Exact aiming close-ups, solo/co-op credit, replay rules and any timer have not been verified. Several written locators remain broad until their original photos are reviewed."
+          },
+          {
+            "title": "Astronaut 1 — Pit near Tuff Nuff",
+            "body": "Follow the pit route toward Tuff Nuff and shoot the astronaut located down there near the machine.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          },
+          {
+            "title": "Astronaut 2 — Pole by Change Chews",
+            "body": "Outside the playable boundary near Change Chews, look by the pole and shoot the astronaut.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          },
+          {
+            "title": "Astronaut 3 — Stairs left of Bombstoppers",
+            "body": "Look underneath the staircase to the left of Bombstoppers and shoot the astronaut.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          },
+          {
+            "title": "Astronaut 4 — Racin’ Stripes barrier",
+            "body": "Outside the Theater, search the barrier near Racin’ Stripes and shoot the astronaut there.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          },
+          {
+            "title": "Astronaut 5 — Theater ticket booth",
+            "body": "At the front of the Theater, shoot the astronaut in the ticket-booth area.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          },
+          {
+            "title": "Astronaut 6 — Bathroom rubbish bin",
+            "body": "In the Theater bathroom, find the astronaut in the garbage can and shoot it.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          },
+          {
+            "title": "Astronaut 7 — Barrier by N31L’s head location",
+            "body": "At the original N31L head pickup area, look inside the nearby barrier and shoot the astronaut.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          },
+          {
+            "title": "Astronaut 8 — Beyond Pack-a-Punch",
+            "body": "Look outside the map behind the Pack-a-Punch area and shoot the distant astronaut.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/6zkk0t/the_beast_from_beyond_easter_egg_hunt_general_map/",
+            "tip": "The original hunt says this distant target could only be seen with a sniper scope. The later map text does not repeat that restriction; bring a suitable sight if you cannot identify it."
+          },
+          {
+            "title": "Astronaut 9 — Cargo Bay ceiling",
+            "body": "Look toward the top-left area of the Cargo room ceiling and shoot the astronaut. The later map guide and a correction in the original hunt identify Cargo Bay, rather than the older “Med Bay ceiling” label.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          },
+          {
+            "title": "Astronaut 10 — Theater upper balcony",
+            "body": "Outside the Theater, look at the top balcony and shoot the astronaut there.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          },
+          {
+            "title": "Astronaut 11 — Window opposite Pack-a-Punch",
+            "body": "Search the window across from Pack-a-Punch and shoot the astronaut.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          },
+          {
+            "title": "Astronaut 12 — Water Treatment stairs",
+            "body": "In Water Treatment, look under the stairs opposite the Karma-45 wall-buy and shoot the astronaut.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          },
+          {
+            "title": "Astronaut 13 — Ship hall by the acid trap",
+            "body": "Find the astronaut at the end of the ship hallway near the Acid Trap and shoot it.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          },
+          {
+            "title": "Astronaut 14 — Glacier left of the portal",
+            "body": "Look at the top of the glacier to the left of the Pack-a-Punch portal and shoot the astronaut.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          },
+          {
+            "title": "Astronaut 15 — Grate over the red hallway",
+            "body": "Look at the grate above the red hallway near the floppy-disc spawn and shoot the astronaut. Once all fifteen have been shot, the source says Scattered Lies plays and the Broken Record requirement is met.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          }
+        ],
+        "sourceOmissions": [
+          "Close-ups, replay conditions, exact co-op credit and timing rules remain unverified."
+        ],
+        "sources": [
+          {
+            "title": "The_Beebat and r/CODZombies — Beast map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          },
+          {
+            "title": "r/CODZombies — original September 2017 map hunt",
+            "url": "https://www.reddit.com/r/CODZombies/comments/6zkk0t/the_beast_from_beyond_easter_egg_hunt_general_map/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "iw-the-beast-from-beyond-community-the-beast-from-beyond-map-walkthrough-traveling-to-the-theater",
+          "iw-the-beast-from-beyond-community-the-beast-from-beyond-map-walkthrough-power",
+          "iw-the-beast-from-beyond-community-the-beast-from-beyond-map-walkthrough-pack-a-punch"
+        ]
+      }
+    }
+  },
+  "the-beast-from-beyond-director-s-cut-extras-mephistopheles-battle": {
+    "mapOverrides": {
+      "iw-the-beast-from-beyond": {
+        "title": "Mephistopheles: entry, attacks, talismans and final phase",
+        "category": "main",
+        "difficulty": "Very hard",
+        "players": "Solo / co-op",
+        "summary": "Prepare after the Cryptid fight, read each attack and complete all five talisman cycles.",
+        "requirements": [
+          "Infinite Warfare: The Beast from Beyond.",
+          "For ordinary quest entry, obtain all five Soul Key pieces, enable Director’s Cut and collect the five talismans, then complete Beast’s Cryptid fight.",
+          "Boss Battle practice skips that quest-entry sequence; practice is not claimed to award the full campaign rewards.",
+          "Prepare upgraded bullet damage, crowd control and your chosen card deck. Variant recommendations do not establish their acquisition routes."
+        ],
+        "reward": "Mephistopheles completion; the firsthand guide reports Demon Slayer, Director’s Cut weapon camouflage and playable Willard in Spaceland for players with Director’s Cut.",
+        "steps": [
+          {
+            "title": "Use the five-minute preparation room",
+            "body": "After the qualifying Cryptid boss clear and cutscene, use the Afterlife Arcade’s Magic Wheel, card teller and available perk bundle. The guide author confirms that this preparation Wheel gives twice-upgraded weapons. Refill the deck and finish weapon choices before the timer expires; when everyone is ready, the author describes interacting with the exit door to begin early.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/l2l72v/the_ultimate_iw_easter_egg_guides_mephistopheles/",
+            "tip": "The map wiki does not identify the early-start object precisely; the firsthand guide names the exit door. Current timing, perk retention and multiplayer entry eligibility have not been retail-tested here."
+          },
+          {
+            "title": "Prepare damage and crowd control",
+            "body": "The firsthand author recommends a strong primary such as Mauler, Atlas, Auger, FHR or VPR, with Kendall, Venom or another crowd-control option. Sentinel and Windfall are optional variant suggestions. Their EBR Bomber suggestion applies to the solo Cryptid fight; they tell players to swap it for another recommended gun in the preparation arcade before Meph. Keep watching Meph rather than tunnelling on smaller enemies; no single weapon or Fortune card is asserted as mandatory.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/l2l72v/the_ultimate_iw_easter_egg_guides_mephistopheles/"
+          },
+          {
+            "title": "Place and charge one talisman",
+            "body": "Choose one of the five floor circles, place its talisman and stand inside the blue charging area. Leave when you need to dodge an attack, then return. More players inside charge it faster according to the map guide. Clear nearby skeletons so someone can remain on the circle.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/",
+            "tip": "The firsthand guide reports charge loss if everyone stays away too long; interact again if it fully empties. Exact current charge time and player scaling have not been verified."
+          },
+          {
+            "title": "Fire blue souls, then shoot the glowing symbol",
+            "body": "When blue souls rise, use the Entangler to collect and shoot them into Meph. The firsthand guide reports four successful souls per player in the match. Once enough connect, shoot the highlighted gold symbol on his body until it becomes imprinted. If he resumes attacking while souls still emerge, repeat the soul-and-symbol opportunity.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/l2l72v/the_ultimate_iw_easter_egg_guides_mephistopheles/",
+            "tip": "The numeric soul scaling is an old firsthand report, not current code proof. Watch the actual glowing-symbol transition instead of assuming a missed shot counted."
+          },
+          {
+            "title": "Read skeleton summons, fireballs and fire breath",
+            "body": "Raised hands summon additional skeletons; clear them while keeping Meph visible. When fireballs launch, move out of their line rather than continuing to stand on the talisman. When he sweeps fire breath across the centre, move toward the side areas and avoid that sweep.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/l2l72v/the_ultimate_iw_easter_egg_guides_mephistopheles/"
+          },
+          {
+            "title": "Read the black-hole tell",
+            "body": "Watch for Meph forming a black hole in his hand with a laugh. The firsthand guide describes going prone before he releases it, or moving / jumping away from its pull. Do not wait until you are already drawn into the centre before reacting.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/l2l72v/the_ultimate_iw_easter_egg_guides_mephistopheles/",
+            "tip": "This is a reported dodge technique, not immunity. Other attacks can overlap and still hit you."
+          },
+          {
+            "title": "Read meteors and the ground slam",
+            "body": "A one- or two-handed meteor throw targets a player. The author recommends moving toward the place Meph throws from rather than staying at the targeted spot; a pillar on the far side is another reported option, without a safety guarantee. If he rises in the centre before a two-fist ground slam, move behind a pillar, toward the rear or to the outer edge as described by the guide.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/l2l72v/the_ultimate_iw_easter_egg_guides_mephistopheles/"
+          },
+          {
+            "title": "Read the fire wall",
+            "body": "When Meph claps, a fire wall cuts across the arena and temporarily separates its halves. Stay on your side and avoid touching the wall. In co-op, the guide suggests spreading players across the halves before it forms so one attack does not catch the whole team.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/l2l72v/the_ultimate_iw_easter_egg_guides_mephistopheles/",
+            "tip": "The wall can cause severe damage and may knock a player off the arena. Do not treat it as protective cover against every overlapping attack."
+          },
+          {
+            "title": "Read the fire tornado and its overlapping attacks",
+            "body": "Circular hand motion precedes fire spreading outward from the centre in rotating branches. Watch for a gap, move into its safe line and let the flame pass; do not run directly into the advancing fire. Keep looking at Meph because he can throw fireballs or use a black hole during this pattern.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/l2l72v/the_ultimate_iw_easter_egg_guides_mephistopheles/",
+            "tip": "Pillars do not reliably stop the tornado. The source gives a reaction strategy, not a guaranteed safe tile or fixed dodge timing."
+          },
+          {
+            "title": "Clear the four darkness intermissions",
+            "body": "After each of the first four successful talisman symbols, the arena darkens and an enemy wave begins. The documented additions are Clowns after the first, the Slasher after the second, Ninjas after the third and two blue Rhinos with ordinary Rhino health after the fourth, alongside the recurring enemies. Clear the wave, shelter from the following small meteor shower, then charge another talisman.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/l2l72v/the_ultimate_iw_easter_egg_guides_mephistopheles/"
+          },
+          {
+            "title": "Finish the fifth symbol and raise all five talismans",
+            "body": "Complete the fifth soul-and-symbol cycle. Meph enters the final phase; keep damaging his symbols with your weapons until every talisman rises and can be interacted with. He continues using combined attacks while more enemy types join over time, so keep moving and check which talismans are already ready.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/l2l72v/the_ultimate_iw_easter_egg_guides_mephistopheles/"
+          },
+          {
+            "title": "Activate all five and finish the boss",
+            "body": "Interact with every raised talisman. Their connected beams bring Meph down and clear the enemies according to the source. Shoot him through the final vulnerable sequence until the ending cutscene begins.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/l2l72v/the_ultimate_iw_easter_egg_guides_mephistopheles/",
+            "tip": "The map wiki describes him reaching for a portal during the final shots. Continue until the game confirms the kill; do not assume the last talisman interaction itself ends the fight."
+          },
+          {
+            "title": "Check your reported completion rewards",
+            "body": "The firsthand guide lists the Demon Slayer calling card under Barracks → Calling Cards → Soul Challenges → Secret, a Director’s Cut weapon camo and Willard Wyler for Zombies in Spaceland. It says Director’s Cut must already be unlocked to select Willard and gives the Spaceland input Left, Left, Down, Up, Up, Right.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/l2l72v/the_ultimate_iw_easter_egg_guides_mephistopheles/",
+            "tip": "The Willard code belongs to Spaceland, not Beast’s character selection. Exact reward eligibility for guests and practice-mode clears remains outside this verified text."
+          }
+        ],
+        "sourceOmissions": [
+          "Current attack timing, player scaling, variant statistics and guest/practice reward rules remain unverified."
+        ],
+        "sources": [
+          {
+            "title": "DaRkShAdOwYlaf — firsthand Mephistopheles guide",
+            "url": "https://www.reddit.com/r/CODZombies/comments/l2l72v/the_ultimate_iw_easter_egg_guides_mephistopheles/"
+          },
+          {
+            "title": "The_Beebat and r/CODZombies — Beast map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "iw-the-beast-from-beyond-community-the-beast-from-beyond-easter-eggs-main-easter-egg",
+          "iw-the-beast-from-beyond-community-the-beast-from-beyond-game-features-fate-fortune-cards",
+          "iw-the-beast-from-beyond-community-the-beast-from-beyond-map-walkthrough-double-pack-a-punch",
+          "iw-the-beast-from-beyond-community-the-beast-from-beyond-venom-x-venom-y",
+          "iw-the-beast-from-beyond-community-the-beast-from-beyond-venom-x-venom-z"
+        ]
+      }
+    }
+  },
+  "the-beast-from-beyond-director-s-cut-extras-lobby-music": {
+    "mapOverrides": {
+      "iw-the-beast-from-beyond": {
+        "title": "Director’s Cut lobby-music unlock",
+        "category": "music",
+        "difficulty": "Moderate",
+        "players": "Solo / co-op",
+        "summary": "Shoot the white mask in Octonian Hunter on Round 1 to unlock three lobby tracks.",
+        "requirements": [
+          "Infinite Warfare: The Beast from Beyond.",
+          "Obtain the five Soul Key pieces and activate Director’s Cut before starting.",
+          "Perform this attempt on Round 1."
+        ],
+        "reward": "Extinction, Mephistopheles Theme and Afterlife Arcade lobby music.",
+        "steps": [
+          {
+            "title": "Reach the Theater arcade on Round 1",
+            "body": "In a Director’s Cut match, travel to the arcade inside the Theater before leaving Round 1.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          },
+          {
+            "title": "Activate the broken Octonian Hunter gallery",
+            "body": "Stand at the broken-down Octonian Hunter shooting gallery and hold Interact. A small white talisman mask flies across the far back of the gallery’s target area.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          },
+          {
+            "title": "Shoot the white mask",
+            "body": "Shoot the moving white mask to complete the unlock. The source lists Extinction, Mephistopheles Theme and Afterlife Arcade as the three resulting lobby tracks.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/",
+            "tip": "The written source does not establish exact spawn timing, repeat attempts within the round or co-op unlock sharing. An individual mask close-up remains pending."
+          }
+        ],
+        "sourceOmissions": [
+          "Mask timing, retry, co-op sharing and close-up remain open."
+        ],
+        "sources": [
+          {
+            "title": "The_Beebat and r/CODZombies — Beast map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/the-beast-from-beyond/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "iw-the-beast-from-beyond-community-the-beast-from-beyond-map-walkthrough-traveling-to-the-theater",
+          "iw-the-beast-from-beyond-community-the-beast-from-beyond-director-s-cut-extras-mephistopheles-battle"
+        ]
+      }
+    }
   }
 }
