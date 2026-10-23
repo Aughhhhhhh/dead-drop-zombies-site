@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-19",
+  "asOf": "2026-10-23",
   "status": "Audit in progress; no exhaustive correctness certificate",
   "limitations": [
     "Reported source comparisons cover different fields and scopes; they are not interchangeable with a full-guide verification.",
@@ -8,8 +8,8 @@
     "Newly authored guides may have source research without a separate recorded full audit. Guide counts and passing software checks do not establish gameplay accuracy."
   ],
   "catalogEntries": 160,
-  "runtimeGuides": 1529,
-  "guidesWithRecordedSourceReview": 899,
+  "runtimeGuides": 1536,
+  "guidesWithRecordedSourceReview": 923,
   "guidesCertifiedFullyVerified": 0,
   "batches": [
     {
@@ -375,6 +375,10 @@
     {
       "batch": "bo3-revelations-monty-jingles-and-four-native-machine-references",
       "rowsWithRecordedReview": 1
+    },
+    {
+      "batch": "bo3-chronicles-nacht-verruckt-shino-guides-and-firearms",
+      "rowsWithRecordedReview": 28
     }
   ],
   "guideReviews": [
@@ -27182,6 +27186,371 @@
       ]
     },
     {
+      "id": "bo3-nacht-der-untoten-community-nacht-der-untoten-easter-eggs-dr-monty-radio",
+      "mapId": "bo3-nacht-der-untoten",
+      "reviews": [
+        {
+          "batch": "bo3-chronicles-nacht-verruckt-shino-guides-and-firearms",
+          "reportedStatus": "Whole guide text and metadata read; bounded source comparisons recorded; no independent retail playtest.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Final text and metadata match the parent-reviewed proposal.",
+            "All chapters have direct references; desktop and actual 390x844 phone jumps, 44px touch targets and no page overflow pass.",
+            "Durable importer regeneration preserves all 21 data JSON values; other game editions remain unchanged."
+          ],
+          "unverified": [
+            "Activation input, trigger radius, repeat behavior and exact prop photograph remain pending.",
+            "No independent retail playtest, present complete item pool or all-secrets certificate."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 1,
+            "directReferences": 1,
+            "attributedTables": 0,
+            "retainedImagePlacements": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "No step image was added in this batch; remaining photo coverage is unresolved.",
+          "evidenceUrls": [
+            "https://www.codzombieguides.com/nacht-der-untoten-remastered",
+            "https://www.reddit.com/r/CODZombies/comments/cx3f4d/has_this_radio_got_any_relevance_in_the_zombies/",
+            "https://www.reddit.com/r/CODZombies/wiki/nacht-der-untoten/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-nacht-der-untoten-community-nacht-der-untoten-easter-eggs-samantha-s-lullaby-zombies-chronicles",
+      "mapId": "bo3-nacht-der-untoten",
+      "reviews": [
+        {
+          "batch": "bo3-chronicles-nacht-verruckt-shino-guides-and-firearms",
+          "reportedStatus": "Whole guide text and metadata read; bounded source comparisons recorded; no independent retail playtest.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Final text and metadata match the parent-reviewed proposal.",
+            "All chapters have direct references; desktop and actual 390x844 phone jumps, 44px touch targets and no page overflow pass.",
+            "Durable importer regeneration preserves all 21 data JSON values; other game editions remain unchanged."
+          ],
+          "unverified": [
+            "Five-hit creator report is not a new co-op/timer playtest. Song title conflict remains visible.",
+            "All13 inherited MMMR photo objects are retained once unchanged; its stopped host was not retried.",
+            "This route combines historical written locations and player input reports. Exact timing, co-op target sharing and reset behavior remain unverified.",
+            "No independent retail playtest, present complete item pool or all-secrets certificate."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 15,
+            "directReferences": 15,
+            "attributedTables": 0,
+            "retainedImagePlacements": 13
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "All retained images were individually viewed and load after desktop and phone chapter jumps. Instrumented Samantha footage is labelled as landmark reference, not retail completion proof.",
+          "evidenceUrls": [
+            "https://mmmrkennedy.com/games/WAW/nacht_der_untoten/nacht_der_untoten_guide",
+            "https://www.codzombieguides.com/nacht-der-untoten-remastered",
+            "https://www.reddit.com/r/CODZombies/comments/r91939/bo3_zc_easter_eggs/",
+            "https://www.reddit.com/r/CODZombies/comments/u9f49x/nacht_der_untoten_easter_egg/",
+            "https://www.reddit.com/r/CODZombies/wiki/nacht-der-untoten/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-nacht-der-untoten-community-nacht-der-untoten-easter-eggs-song-radio-zombies-chronicles",
+      "mapId": "bo3-nacht-der-untoten",
+      "reviews": [
+        {
+          "batch": "bo3-chronicles-nacht-verruckt-shino-guides-and-firearms",
+          "reportedStatus": "Whole guide text and metadata read; bounded source comparisons recorded; no independent retail playtest.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Final text and metadata match the parent-reviewed proposal.",
+            "All chapters have direct references; desktop and actual 390x844 phone jumps, 44px touch targets and no page overflow pass.",
+            "Durable importer regeneration preserves all 21 data JSON values; other game editions remain unchanged."
+          ],
+          "unverified": [
+            "An original 2017 player reports 31 tracks; no new current-build cycle, stop/replay or song-priority test.",
+            "Use the historical player census below to identify tracks. Current-build order, stop/replay rules and simultaneous-song priority remain unverified.",
+            "No independent retail playtest, present complete item pool or all-secrets certificate."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 3,
+            "directReferences": 3,
+            "attributedTables": 0,
+            "retainedImagePlacements": 1
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "All retained images were individually viewed and load after desktop and phone chapter jumps. Instrumented Samantha footage is labelled as landmark reference, not retail completion proof.",
+          "evidenceUrls": [
+            "https://www.codzombieguides.com/nacht-der-untoten-remastered",
+            "https://www.reddit.com/r/CODZombies/comments/6iagul/the_nacht_radios_playlist/",
+            "https://www.reddit.com/r/CODZombies/wiki/nacht-der-untoten/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-nacht-der-untoten-community-nacht-der-untoten-map-walkthrough-traps-explosive-barrels",
+      "mapId": "bo3-nacht-der-untoten",
+      "reviews": [
+        {
+          "batch": "bo3-chronicles-nacht-verruckt-shino-guides-and-firearms",
+          "reportedStatus": "Whole guide text and metadata read; bounded source comparisons recorded; no independent retail playtest.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Final text and metadata match the parent-reviewed proposal.",
+            "All chapters have direct references; desktop and actual 390x844 phone jumps, 44px touch targets and no page overflow pass.",
+            "Durable importer regeneration preserves all 21 data JSON values; other game editions remain unchanged."
+          ],
+          "unverified": [
+            "Per-barrel positions, repeatability and blast statistics remain unverified.",
+            "No independent retail playtest, present complete item pool or all-secrets certificate."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 3,
+            "directReferences": 3,
+            "attributedTables": 0,
+            "retainedImagePlacements": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "No step image was added in this batch; remaining photo coverage is unresolved.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/wiki/nacht-der-untoten/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-nacht-der-untoten-community-nacht-der-untoten-nacht-der-untoten-zombies-chronicles-sniper-cabinet-zombies-chronicles",
+      "mapId": "bo3-nacht-der-untoten",
+      "reviews": [
+        {
+          "batch": "bo3-chronicles-nacht-verruckt-shino-guides-and-firearms",
+          "reportedStatus": "Whole guide text and metadata read; bounded source comparisons recorded; no independent retail playtest.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Final text and metadata match the parent-reviewed proposal.",
+            "All chapters have direct references; desktop and actual 390x844 phone jumps, 44px touch targets and no page overflow pass.",
+            "Durable importer regeneration preserves all 21 data JSON values; other game editions remain unchanged."
+          ],
+          "unverified": [
+            "Exact cabinet pickup interaction, current price and upgraded refill costs remain unverified.",
+            "No independent retail playtest, present complete item pool or all-secrets certificate."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 3,
+            "directReferences": 3,
+            "attributedTables": 0,
+            "retainedImagePlacements": 1
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "All retained images were individually viewed and load after desktop and phone chapter jumps. Instrumented Samantha footage is labelled as landmark reference, not retail completion proof.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/4kp6vp/gobblegum_perks_weapon_kits_game_features/",
+            "https://www.reddit.com/r/CODZombies/comments/yxf7m5/zombies_is_getting_bland_so_decided_to_do/",
+            "https://www.reddit.com/r/CODZombies/wiki/nacht-der-untoten/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-nacht-der-untoten-community-nacht-der-untoten-special-weapons-monkey-bombs",
+      "mapId": "bo3-nacht-der-untoten",
+      "reviews": [
+        {
+          "batch": "bo3-chronicles-nacht-verruckt-shino-guides-and-firearms",
+          "reportedStatus": "Whole guide text and metadata read; bounded source comparisons recorded; no independent retail playtest.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Final text and metadata match the parent-reviewed proposal.",
+            "All chapters have direct references; desktop and actual 390x844 phone jumps, 44px touch targets and no page overflow pass.",
+            "Durable importer regeneration preserves all 21 data JSON values; other game editions remain unchanged."
+          ],
+          "unverified": [
+            "BO3 capacity, fuse, refill and co-op ownership are not certified; no current retail replay performed.",
+            "The BO3 route below replaces the earlier-edition-only quote. Exact BO3 stock, fuse and refill quantities are not certified.",
+            "No independent retail playtest, present complete item pool or all-secrets certificate."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 3,
+            "directReferences": 3,
+            "attributedTables": 0,
+            "retainedImagePlacements": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "No step image was added in this batch; remaining photo coverage is unresolved.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/4kp6vp/gobblegum_perks_weapon_kits_game_features/",
+            "https://www.reddit.com/r/CODZombies/comments/g1s8l8/monkey_bomb_upgrade/",
+            "https://www.reddit.com/r/CODZombies/comments/k479z5/papd_monkey_bombs/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-nacht-der-untoten-community-nacht-der-untoten-special-weapons-wonder-weapon",
+      "mapId": "bo3-nacht-der-untoten",
+      "reviews": [
+        {
+          "batch": "bo3-chronicles-nacht-verruckt-shino-guides-and-firearms",
+          "reportedStatus": "Whole guide text and metadata read; bounded source comparisons recorded; no independent retail playtest.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Final text and metadata match the parent-reviewed proposal.",
+            "All chapters have direct references; desktop and actual 390x844 phone jumps, 44px touch targets and no page overflow pass.",
+            "Durable importer regeneration preserves all 21 data JSON values; other game editions remain unchanged."
+          ],
+          "unverified": [
+            "No current all-wonder ownership, maximum-ammo, capacity or damage test; Mark II upgrade spelling remains unresolved.",
+            "No independent retail playtest, present complete item pool or all-secrets certificate."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 6,
+            "directReferences": 6,
+            "attributedTables": 0,
+            "retainedImagePlacements": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "No step image was added in this batch; remaining photo coverage is unresolved.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/1080xbe/i_still_have_verr%C3%BCckt_kino_and_shangrila_left_to/",
+            "https://www.reddit.com/r/CODZombies/comments/11uns1g/bo3_nacht_not_able_to_get_thundergun/",
+            "https://www.reddit.com/r/CODZombies/comments/1d5hmbf/just_bought_bo3_but_cant_figure_put_which_maps/",
+            "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+            "https://www.reddit.com/r/CODZombies/comments/4kp6vp/gobblegum_perks_weapon_kits_game_features/",
+            "https://www.reddit.com/r/CODZombies/comments/ca2l4h/insane_nacht_der_untoten_run/",
+            "https://www.reddit.com/r/CODZombies/wiki/nacht-der-untoten/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-nacht-der-untoten-firearm-acquisition-reference",
+      "mapId": "bo3-nacht-der-untoten",
+      "reviews": [
+        {
+          "batch": "bo3-chronicles-nacht-verruckt-shino-guides-and-firearms",
+          "reportedStatus": "Whole guide text and metadata read; bounded source comparisons recorded; no independent retail playtest.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Final text and metadata match the parent-reviewed proposal.",
+            "All chapters have direct references; desktop and actual 390x844 phone jumps, 44px touch targets and no page overflow pass.",
+            "Durable importer regeneration preserves all 21 data JSON values; other game editions remain unchanged."
+          ],
+          "unverified": [
+            "No native Pack-a-Punch machine exists here; machine fees and locations from other maps are not transferred.",
+            "Twenty-eight ordinary historical rows plus a separate later RPK report do not certify the current complete Box pool.",
+            "The StG44 upgraded display name, RPK alias and exact starting-pistol/reward-loadout rules remain unresolved.",
+            "Current prices, exact wall mounts, maximum base/upgraded ammo, refill costs, simultaneous ownership and per-weapon gum/AAT eligibility remain unverified.",
+            "No independent retail playtest, present complete item pool or all-secrets certificate."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 39,
+            "directReferences": 39,
+            "attributedTables": 28,
+            "retainedImagePlacements": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "No step image was added in this batch; remaining photo coverage is unresolved.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/1080xbe/i_still_have_verr%C3%BCckt_kino_and_shangrila_left_to/",
+            "https://www.reddit.com/r/CODZombies/comments/1d5hmbf/just_bought_bo3_but_cant_figure_put_which_maps/",
+            "https://www.reddit.com/r/CODZombies/comments/1fcj3ps/just_hit_my_record_on_bo3_nacht/",
+            "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+            "https://www.reddit.com/r/CODZombies/comments/4kp6vp/gobblegum_perks_weapon_kits_game_features/",
+            "https://www.reddit.com/r/CODZombies/comments/54v8y1/weapon_name_list_for_command_console/",
+            "https://www.reddit.com/r/CODZombies/comments/c0zdmn/bullet_boost_what_does_it_do_is_it_any_good/",
+            "https://www.reddit.com/r/CODZombies/comments/ca2l4h/insane_nacht_der_untoten_run/",
+            "https://www.reddit.com/r/CODZombies/comments/j3xuig/thing_im_most_exited_about_cw_zombies/",
+            "https://www.reddit.com/r/CODZombies/wiki/nacht-der-untoten/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-nacht-der-untoten-perks-gobblegum-setup",
+      "mapId": "bo3-nacht-der-untoten",
+      "reviews": [
+        {
+          "batch": "bo3-chronicles-nacht-verruckt-shino-guides-and-firearms",
+          "reportedStatus": "Whole guide text and metadata read; bounded source comparisons recorded; no independent retail playtest.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Final text and metadata match the parent-reviewed proposal.",
+            "All chapters have direct references; desktop and actual 390x844 phone jumps, 44px touch targets and no page overflow pass.",
+            "Durable importer regeneration preserves all 21 data JSON values; other game editions remain unchanged."
+          ],
+          "unverified": [
+            "Native utility prompts/current prices and the complete current random-perk pool remain unverified.",
+            "No fixed gum-price schedule or free-first-use claim imported from older guides.",
+            "No independent retail playtest, present complete item pool or all-secrets certificate."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 6,
+            "directReferences": 6,
+            "attributedTables": 0,
+            "retainedImagePlacements": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "No step image was added in this batch; remaining photo coverage is unresolved.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/1d5hmbf/just_bought_bo3_but_cant_figure_put_which_maps/",
+            "https://www.reddit.com/r/CODZombies/comments/1dmplk2/wunderfizz_on_nacht_gave_me_a_decent_setup_for/",
+            "https://www.reddit.com/r/CODZombies/comments/1do43dw/same_4_perks_from_wunderfizz_3_times_in_a_row/",
+            "https://www.reddit.com/r/CODZombies/comments/1fcj3ps/just_hit_my_record_on_bo3_nacht/",
+            "https://www.reddit.com/r/CODZombies/comments/4kp6vp/gobblegum_perks_weapon_kits_game_features/",
+            "https://www.reddit.com/r/CODZombies/comments/gj7hx5/basically_the_same_thing/",
+            "https://www.reddit.com/r/CODZombies/comments/snos28/what_is_your_bestworst_experience_at_nacht_der/",
+            "https://www.reddit.com/r/CODZombies/wiki/nacht-der-untoten/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-nacht-der-untoten-undone",
+      "mapId": "bo3-nacht-der-untoten",
+      "reviews": [
+        {
+          "batch": "bo3-chronicles-nacht-verruckt-shino-guides-and-firearms",
+          "reportedStatus": "Whole guide text and metadata read; bounded source comparisons recorded; no independent retail playtest.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Final text and metadata match the parent-reviewed proposal.",
+            "All chapters have direct references; desktop and actual 390x844 phone jumps, 44px touch targets and no page overflow pass.",
+            "Durable importer regeneration preserves all 21 data JSON values; other game editions remain unchanged."
+          ],
+          "unverified": [
+            "Complete per-target barrel route remains pending. Existing linked films were not opened by this child.",
+            "Ray Pooperton III reports 27 targets; individual firing positions remain unchecked here.",
+            "No independent retail playtest, present complete item pool or all-secrets certificate."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 2,
+            "directReferences": 2,
+            "attributedTables": 0,
+            "retainedImagePlacements": 1
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "All retained images were individually viewed and load after desktop and phone chapter jumps. Instrumented Samantha footage is labelled as landmark reference, not retail completion proof.",
+          "evidenceUrls": [
+            "https://steamcommunity.com/sharedfiles/filedetails/?id=941029268",
+            "https://www.youtube.com/watch?v=83w9uGX2Ttc",
+            "https://www.youtube.com/watch?v=QrtfDE5R5YM"
+          ]
+        }
+      ]
+    },
+    {
       "id": "bo3-origins-community-origins-walkthrough-shovel",
       "mapId": "bo3-origins",
       "reviews": [
@@ -29943,6 +30312,220 @@
       ]
     },
     {
+      "id": "bo3-shi-no-numa-box-and-optional-upgrades",
+      "mapId": "bo3-shi-no-numa",
+      "reviews": [
+        {
+          "batch": "bo3-chronicles-nacht-verruckt-shino-guides-and-firearms",
+          "reportedStatus": "Whole guide text and metadata read; bounded source comparisons recorded; no independent retail playtest.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Final text and metadata match the parent-reviewed proposal.",
+            "All chapters have direct references; desktop and actual 390x844 phone jumps, 44px touch targets and no page overflow pass.",
+            "Durable importer regeneration preserves all 21 data JSON values; other game editions remain unchanged."
+          ],
+          "unverified": [
+            "Availability is reported by the cited BO3 roster; current odds and simultaneous co-op ownership have not been checked.",
+            "No independent retail playtest, present complete item pool or all-secrets certificate."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 6,
+            "directReferences": 6,
+            "attributedTables": 0,
+            "retainedImagePlacements": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "No step image was added in this batch; remaining photo coverage is unresolved.",
+          "evidenceUrls": [
+            "https://www.codzombieguides.com/shi-no-numa-remastered",
+            "https://www.reddit.com/r/CODZombies/comments/1bfr526/a_series_of_rookie_mistakes_ends_my_round_100_run/",
+            "https://www.reddit.com/r/CODZombies/comments/fvrwlg/im_in_the_process_of_trying_to_get_to_round_50_on/",
+            "https://www.reddit.com/r/CODZombies/comments/jd5wnb/is_there_a_way_to_double_packapunch_guns_on/",
+            "https://www.reddit.com/r/CODZombies/wiki/shi-no-numa/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-shi-no-numa-community-shi-no-numa-easter-eggs-hidden-song-the-one",
+      "mapId": "bo3-shi-no-numa",
+      "reviews": [
+        {
+          "batch": "bo3-chronicles-nacht-verruckt-shino-guides-and-firearms",
+          "reportedStatus": "Whole guide text and metadata read; bounded source comparisons recorded; no independent retail playtest.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Final text and metadata match the parent-reviewed proposal.",
+            "All chapters have direct references; desktop and actual 390x844 phone jumps, 44px touch targets and no page overflow pass.",
+            "Durable importer regeneration preserves all 21 data JSON values; other game editions remain unchanged."
+          ],
+          "unverified": [
+            "Use your configured Interact/Use control; the sources count the initial phone activation differently.",
+            "JokerAlex21 counts a wake-up use plus three more; replay remains unverified.",
+            "No independent retail playtest, present complete item pool or all-secrets certificate."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 3,
+            "directReferences": 3,
+            "attributedTables": 0,
+            "retainedImagePlacements": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "No step image was added in this batch; remaining photo coverage is unresolved.",
+          "evidenceUrls": [
+            "https://www.codzombieguides.com/shi-no-numa-remastered",
+            "https://www.reddit.com/r/CODZombies/wiki/shi-no-numa/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-shi-no-numa-community-shi-no-numa-easter-eggs-samantha-s-lullaby-zombies-chronicles",
+      "mapId": "bo3-shi-no-numa",
+      "reviews": [
+        {
+          "batch": "bo3-chronicles-nacht-verruckt-shino-guides-and-firearms",
+          "reportedStatus": "Whole guide text and metadata read; bounded source comparisons recorded; no independent retail playtest.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Final text and metadata match the parent-reviewed proposal.",
+            "All chapters have direct references; desktop and actual 390x844 phone jumps, 44px touch targets and no page overflow pass.",
+            "Durable importer regeneration preserves all 21 data JSON values; other game editions remain unchanged."
+          ],
+          "unverified": [
+            "The written setup uses an M1911; a mandatory pistol-only restriction is unverified.",
+            "Exact target timing, missed-shot recovery and repeat playback have not been independently confirmed.",
+            "No independent retail playtest, present complete item pool or all-secrets certificate."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 5,
+            "directReferences": 5,
+            "attributedTables": 0,
+            "retainedImagePlacements": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "No step image was added in this batch; remaining photo coverage is unresolved.",
+          "evidenceUrls": [
+            "https://www.codzombieguides.com/shi-no-numa-remastered",
+            "https://www.reddit.com/r/CODZombies/wiki/shi-no-numa/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-shi-no-numa-community-shi-no-numa-map-walkthrough-traps",
+      "mapId": "bo3-shi-no-numa",
+      "reviews": [
+        {
+          "batch": "bo3-chronicles-nacht-verruckt-shino-guides-and-firearms",
+          "reportedStatus": "Whole guide text and metadata read; bounded source comparisons recorded; no independent retail playtest.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Final text and metadata match the parent-reviewed proposal.",
+            "All chapters have direct references; desktop and actual 390x844 phone jumps, 44px touch targets and no page overflow pass.",
+            "Durable importer regeneration preserves all 21 data JSON values; other game editions remain unchanged."
+          ],
+          "unverified": [
+            "Exact BO3 switch positions, active duration and recharge timing remain unverified. Juggernog is not a guarantee of safe passage.",
+            "No independent retail playtest, present complete item pool or all-secrets certificate."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 3,
+            "directReferences": 3,
+            "attributedTables": 0,
+            "retainedImagePlacements": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "No step image was added in this batch; remaining photo coverage is unresolved.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/fvrwlg/im_in_the_process_of_trying_to_get_to_round_50_on/",
+            "https://www.reddit.com/r/CODZombies/wiki/shi-no-numa/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-shi-no-numa-firearm-acquisition-reference",
+      "mapId": "bo3-shi-no-numa",
+      "reviews": [
+        {
+          "batch": "bo3-chronicles-nacht-verruckt-shino-guides-and-firearms",
+          "reportedStatus": "Whole guide text and metadata read; bounded source comparisons recorded; no independent retail playtest.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Final text and metadata match the parent-reviewed proposal.",
+            "All chapters have direct references; desktop and actual 390x844 phone jumps, 44px touch targets and no page overflow pass.",
+            "Durable importer regeneration preserves all 21 data JSON values; other game editions remain unchanged."
+          ],
+          "unverified": [
+            "There is no native Pack-a-Punch machine here. A 5,000-point machine upgrade or 2,500-point machine reroll route does not apply.",
+            "Historical ordinary rows exclude the wonder weapons and equipment listed alongside them. Omitted or later-added guns and account-dependent starting pistols are not certified absent or present.",
+            "Exact wall mounts, current Box pool/odds, current weapon and gum prices, base/upgraded capacity, refill behavior and simultaneous ownership remain unverified.",
+            "Per-gun Wall Power, Crate Power and Bullet Boost transactions have not been independently tested here; reported aliases alone do not prove eligibility.",
+            "The six Box search areas are shared-edition text, not a current Chronicles site-by-site census. The main-hut KRM region comes from the Chronicles-specific gum paragraph, without exact chalk coordinates.",
+            "Maximum base/upgraded ammo, upgraded wall-refill availability and prices, refill-on-upgrade behavior, current Box pools and simultaneous co-op ownership remain unverified. Read the actual prompts and gum state.",
+            "No independent retail playtest, present complete item pool or all-secrets certificate."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 34,
+            "directReferences": 34,
+            "attributedTables": 27,
+            "retainedImagePlacements": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "No step image was added in this batch; remaining photo coverage is unresolved.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/1bfr526/a_series_of_rookie_mistakes_ends_my_round_100_run/",
+            "https://www.reddit.com/r/CODZombies/comments/1d5hmbf/just_bought_bo3_but_cant_figure_put_which_maps/",
+            "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+            "https://www.reddit.com/r/CODZombies/comments/54v8y1/weapon_name_list_for_command_console/",
+            "https://www.reddit.com/r/CODZombies/wiki/game-mechanics/",
+            "https://www.reddit.com/r/CODZombies/wiki/shi-no-numa/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-shi-no-numa-perks-and-gobblegum",
+      "mapId": "bo3-shi-no-numa",
+      "reviews": [
+        {
+          "batch": "bo3-chronicles-nacht-verruckt-shino-guides-and-firearms",
+          "reportedStatus": "Whole guide text and metadata read; bounded source comparisons recorded; no independent retail playtest.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Final text and metadata match the parent-reviewed proposal.",
+            "All chapters have direct references; desktop and actual 390x844 phone jumps, 44px touch targets and no page overflow pass.",
+            "Durable importer regeneration preserves all 21 data JSON values; other game editions remain unchanged."
+          ],
+          "unverified": [
+            "Co-op Spawn assignment is not independently verified in this review.",
+            "Repeatability and co-op limits are unverified.",
+            "No independent retail playtest, present complete item pool or all-secrets certificate."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 5,
+            "directReferences": 5,
+            "attributedTables": 0,
+            "retainedImagePlacements": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "No step image was added in this batch; remaining photo coverage is unresolved.",
+          "evidenceUrls": [
+            "https://www.codzombieguides.com/shi-no-numa-remastered",
+            "https://www.reddit.com/r/CODZombies/comments/rt1ue1/just_bought_bo3_zombie_chronicles/",
+            "https://www.reddit.com/r/CODZombies/wiki/shi-no-numa/"
+          ]
+        }
+      ]
+    },
+    {
       "id": "bo3-the-giant-community-the-giant-easter-eggs-beauty-of-annihilation-remix-music-easter-egg",
       "mapId": "bo3-the-giant",
       "reviews": [
@@ -31467,6 +32050,165 @@
       ]
     },
     {
+      "id": "bo3-verruckt-community-verruckt-easter-eggs-hidden-song-lullaby-of-a-deadman",
+      "mapId": "bo3-verruckt",
+      "reviews": [
+        {
+          "batch": "bo3-chronicles-nacht-verruckt-shino-guides-and-firearms",
+          "reportedStatus": "Whole guide text and metadata read; bounded source comparisons recorded; no independent retail playtest.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Final text and metadata match the parent-reviewed proposal.",
+            "All chapters have direct references; desktop and actual 390x844 phone jumps, 44px touch targets and no page overflow pass.",
+            "Durable importer regeneration preserves all 21 data JSON values; other game editions remain unchanged."
+          ],
+          "unverified": [
+            "No independent retail playtest, present complete item pool or all-secrets certificate."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 2,
+            "directReferences": 2,
+            "attributedTables": 0,
+            "retainedImagePlacements": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "No step image was added in this batch; remaining photo coverage is unresolved.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/6bb6fs/everything_about_verruckt/",
+            "https://www.reddit.com/r/CODZombies/wiki/verruckt/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-verruckt-community-verruckt-easter-eggs-samantha-s-lullaby-zombies-chronicles",
+      "mapId": "bo3-verruckt",
+      "reviews": [
+        {
+          "batch": "bo3-chronicles-nacht-verruckt-shino-guides-and-firearms",
+          "reportedStatus": "Whole guide text and metadata read; bounded source comparisons recorded; no independent retail playtest.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Final text and metadata match the parent-reviewed proposal.",
+            "All chapters have direct references; desktop and actual 390x844 phone jumps, 44px touch targets and no page overflow pass.",
+            "Durable importer regeneration preserves all 21 data JSON values; other game editions remain unchanged."
+          ],
+          "unverified": [
+            "No independent retail playtest, present complete item pool or all-secrets certificate."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 14,
+            "directReferences": 14,
+            "attributedTables": 0,
+            "retainedImagePlacements": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "No step image was added in this batch; remaining photo coverage is unresolved.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/wiki/verruckt/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-verruckt-community-verruckt-easter-eggs-screaming-man-ee",
+      "mapId": "bo3-verruckt",
+      "reviews": [
+        {
+          "batch": "bo3-chronicles-nacht-verruckt-shino-guides-and-firearms",
+          "reportedStatus": "Whole guide text and metadata read; bounded source comparisons recorded; no independent retail playtest.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Final text and metadata match the parent-reviewed proposal.",
+            "All chapters have direct references; desktop and actual 390x844 phone jumps, 44px touch targets and no page overflow pass.",
+            "Durable importer regeneration preserves all 21 data JSON values; other game editions remain unchanged."
+          ],
+          "unverified": [
+            "No independent retail playtest, present complete item pool or all-secrets certificate."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 2,
+            "directReferences": 2,
+            "attributedTables": 0,
+            "retainedImagePlacements": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "No step image was added in this batch; remaining photo coverage is unresolved.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/6bb6fs/everything_about_verruckt/",
+            "https://www.reddit.com/r/CODZombies/wiki/verruckt/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-verruckt-community-verruckt-easter-eggs-the-female-statue-ee",
+      "mapId": "bo3-verruckt",
+      "reviews": [
+        {
+          "batch": "bo3-chronicles-nacht-verruckt-shino-guides-and-firearms",
+          "reportedStatus": "Whole guide text and metadata read; bounded source comparisons recorded; no independent retail playtest.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Final text and metadata match the parent-reviewed proposal.",
+            "All chapters have direct references; desktop and actual 390x844 phone jumps, 44px touch targets and no page overflow pass.",
+            "Durable importer regeneration preserves all 21 data JSON values; other game editions remain unchanged."
+          ],
+          "unverified": [
+            "No independent retail playtest, present complete item pool or all-secrets certificate."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 2,
+            "directReferences": 2,
+            "attributedTables": 0,
+            "retainedImagePlacements": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "No step image was added in this batch; remaining photo coverage is unresolved.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/wiki/verruckt/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-verruckt-community-verruckt-map-walkthrough-power",
+      "mapId": "bo3-verruckt",
+      "reviews": [
+        {
+          "batch": "bo3-chronicles-nacht-verruckt-shino-guides-and-firearms",
+          "reportedStatus": "Whole guide text and metadata read; bounded source comparisons recorded; no independent retail playtest.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Final text and metadata match the parent-reviewed proposal.",
+            "All chapters have direct references; desktop and actual 390x844 phone jumps, 44px touch targets and no page overflow pass.",
+            "Durable importer regeneration preserves all 21 data JSON values; other game editions remain unchanged."
+          ],
+          "unverified": [
+            "No independent retail playtest, present complete item pool or all-secrets certificate."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 4,
+            "directReferences": 4,
+            "attributedTables": 0,
+            "retainedImagePlacements": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "No step image was added in this batch; remaining photo coverage is unresolved.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/6bb6fs/everything_about_verruckt/",
+            "https://www.reddit.com/r/CODZombies/wiki/game-mechanics/",
+            "https://www.reddit.com/r/CODZombies/wiki/verruckt/"
+          ]
+        }
+      ]
+    },
+    {
       "id": "bo3-verruckt-community-verruckt-map-walkthrough-traps",
       "mapId": "bo3-verruckt",
       "reviews": [
@@ -31510,6 +32252,65 @@
           "evidenceUrls": [
             "https://www.reddit.com/r/CODZombies/wiki/verruckt/"
           ]
+        },
+        {
+          "batch": "bo3-chronicles-nacht-verruckt-shino-guides-and-firearms",
+          "reportedStatus": "Whole guide text and metadata read; bounded source comparisons recorded; no independent retail playtest.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Final text and metadata match the parent-reviewed proposal.",
+            "All chapters have direct references; desktop and actual 390x844 phone jumps, 44px touch targets and no page overflow pass.",
+            "Durable importer regeneration preserves all 21 data JSON values; other game editions remain unchanged."
+          ],
+          "unverified": [
+            "No independent retail playtest, present complete item pool or all-secrets certificate."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 3,
+            "directReferences": 3,
+            "attributedTables": 0,
+            "retainedImagePlacements": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "No step image was added in this batch; remaining photo coverage is unresolved.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/wiki/verruckt/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-verruckt-community-verruckt-special-weapons-monkey-bombs",
+      "mapId": "bo3-verruckt",
+      "reviews": [
+        {
+          "batch": "bo3-chronicles-nacht-verruckt-shino-guides-and-firearms",
+          "reportedStatus": "Whole guide text and metadata read; bounded source comparisons recorded; no independent retail playtest.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Final text and metadata match the parent-reviewed proposal.",
+            "All chapters have direct references; desktop and actual 390x844 phone jumps, 44px touch targets and no page overflow pass.",
+            "Durable importer regeneration preserves all 21 data JSON values; other game editions remain unchanged."
+          ],
+          "unverified": [
+            "No independent retail playtest, present complete item pool or all-secrets certificate."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 3,
+            "directReferences": 3,
+            "attributedTables": 0,
+            "retainedImagePlacements": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "No step image was added in this batch; remaining photo coverage is unresolved.",
+          "evidenceUrls": [
+            "https://steamcommunity.com/sharedfiles/filedetails/?id=121313832",
+            "https://steamcommunity.com/sharedfiles/filedetails/?id=167978998",
+            "https://www.reddit.com/r/CODZombies/comments/gw4n9y/i_was_today_years_old_when_i_learned_that_you/",
+            "https://www.reddit.com/r/CODZombies/wiki/verruckt/"
+          ]
         }
       ]
     },
@@ -31533,6 +32334,32 @@
             "Parent reports importer-wide fixes; remaining mechanics were not audited here."
           ],
           "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/wiki/verruckt/"
+          ]
+        },
+        {
+          "batch": "bo3-chronicles-nacht-verruckt-shino-guides-and-firearms",
+          "reportedStatus": "Whole guide text and metadata read; bounded source comparisons recorded; no independent retail playtest.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Final text and metadata match the parent-reviewed proposal.",
+            "All chapters have direct references; desktop and actual 390x844 phone jumps, 44px touch targets and no page overflow pass.",
+            "Durable importer regeneration preserves all 21 data JSON values; other game editions remain unchanged."
+          ],
+          "unverified": [
+            "No independent retail playtest, present complete item pool or all-secrets certificate."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 3,
+            "directReferences": 3,
+            "attributedTables": 0,
+            "retainedImagePlacements": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "No step image was added in this batch; remaining photo coverage is unresolved.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/wiki/game-mechanics/",
             "https://www.reddit.com/r/CODZombies/wiki/verruckt/"
           ]
         }
@@ -31560,6 +32387,31 @@
           "evidenceUrls": [
             "https://www.reddit.com/r/CODZombies/wiki/verruckt/"
           ]
+        },
+        {
+          "batch": "bo3-chronicles-nacht-verruckt-shino-guides-and-firearms",
+          "reportedStatus": "Whole guide text and metadata read; bounded source comparisons recorded; no independent retail playtest.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Final text and metadata match the parent-reviewed proposal.",
+            "All chapters have direct references; desktop and actual 390x844 phone jumps, 44px touch targets and no page overflow pass.",
+            "Durable importer regeneration preserves all 21 data JSON values; other game editions remain unchanged."
+          ],
+          "unverified": [
+            "No independent retail playtest, present complete item pool or all-secrets certificate."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 3,
+            "directReferences": 3,
+            "attributedTables": 0,
+            "retainedImagePlacements": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "No step image was added in this batch; remaining photo coverage is unresolved.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/wiki/verruckt/"
+          ]
         }
       ]
     },
@@ -31584,6 +32436,111 @@
           ],
           "evidenceUrls": [
             "https://www.reddit.com/r/CODZombies/wiki/verruckt/"
+          ]
+        },
+        {
+          "batch": "bo3-chronicles-nacht-verruckt-shino-guides-and-firearms",
+          "reportedStatus": "Whole guide text and metadata read; bounded source comparisons recorded; no independent retail playtest.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Final text and metadata match the parent-reviewed proposal.",
+            "All chapters have direct references; desktop and actual 390x844 phone jumps, 44px touch targets and no page overflow pass.",
+            "Durable importer regeneration preserves all 21 data JSON values; other game editions remain unchanged."
+          ],
+          "unverified": [
+            "No independent retail playtest, present complete item pool or all-secrets certificate."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 3,
+            "directReferences": 3,
+            "attributedTables": 0,
+            "retainedImagePlacements": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "No step image was added in this batch; remaining photo coverage is unresolved.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/gw4n9y/i_was_today_years_old_when_i_learned_that_you/",
+            "https://www.reddit.com/r/CODZombies/wiki/game-mechanics/",
+            "https://www.reddit.com/r/CODZombies/wiki/verruckt/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-verruckt-firearm-acquisition-reference",
+      "mapId": "bo3-verruckt",
+      "reviews": [
+        {
+          "batch": "bo3-chronicles-nacht-verruckt-shino-guides-and-firearms",
+          "reportedStatus": "Whole guide text and metadata read; bounded source comparisons recorded; no independent retail playtest.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Final text and metadata match the parent-reviewed proposal.",
+            "All chapters have direct references; desktop and actual 390x844 phone jumps, 44px touch targets and no page overflow pass.",
+            "Durable importer regeneration preserves all 21 data JSON values; other game editions remain unchanged."
+          ],
+          "unverified": [
+            "There is no native Pack-a-Punch machine here. A 5,000-point machine upgrade or 2,500-point machine reroll route does not apply.",
+            "Historical ordinary rows exclude the wonder weapons and equipment listed alongside them. Omitted or later-added guns and account-dependent starting pistols are not certified absent or present.",
+            "Exact wall mounts, current Box pool/odds, current weapon and gum prices, base/upgraded capacity, refill behavior and simultaneous ownership remain unverified.",
+            "Per-gun Wall Power, Crate Power and Bullet Boost transactions have not been independently tested here; reported aliases alone do not prove eligibility.",
+            "The retained Verrückt Box-site paragraph contains Der Riese teleporter references and is rejected as a location guide. StG-44 and Galil upgrade names remain unresolved.",
+            "Maximum base/upgraded ammo, upgraded wall-refill availability and prices, refill-on-upgrade behavior, current Box pools and simultaneous co-op ownership remain unverified. Read the actual prompts and gum state.",
+            "The table lists a Box route and no wall purchase. Find the active Box, roll until the wanted offer appears, and take it; have Crate Power active first for the optional upgrade. Separate name evidence: an original reply recalls the BO3 upgrade as Afterburner; present Verrückt HUD spelling has not been checked.",
+            "The table lists a Box route and no wall purchase. Find the active Box, roll until the wanted offer appears, and take it; have Crate Power active first for the optional upgrade. The BO3 upgrade display name remains unresolved in the reviewed original name sources; no older-edition alias is substituted.",
+            "The table lists a Box route and no wall purchase. Find the active Box, roll until the wanted offer appears, and take it; have Crate Power active first for the optional upgrade. The BO3 upgrade display name remains unresolved in the reviewed original name sources; no older-edition alias is substituted.",
+            "No independent retail playtest, present complete item pool or all-secrets certificate."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 36,
+            "directReferences": 36,
+            "attributedTables": 29,
+            "retainedImagePlacements": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "No step image was added in this batch; remaining photo coverage is unresolved.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/1d5hmbf/just_bought_bo3_but_cant_figure_put_which_maps/",
+            "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+            "https://www.reddit.com/r/CODZombies/comments/54v8y1/weapon_name_list_for_command_console/",
+            "https://www.reddit.com/r/CODZombies/comments/j3xuig/thing_im_most_exited_about_cw_zombies/",
+            "https://www.reddit.com/r/CODZombies/wiki/game-mechanics/",
+            "https://www.reddit.com/r/CODZombies/wiki/verruckt/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-verruckt-music-radio",
+      "mapId": "bo3-verruckt",
+      "reviews": [
+        {
+          "batch": "bo3-chronicles-nacht-verruckt-shino-guides-and-firearms",
+          "reportedStatus": "Whole guide text and metadata read; bounded source comparisons recorded; no independent retail playtest.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Final text and metadata match the parent-reviewed proposal.",
+            "All chapters have direct references; desktop and actual 390x844 phone jumps, 44px touch targets and no page overflow pass.",
+            "Durable importer regeneration preserves all 21 data JSON values; other game editions remain unchanged."
+          ],
+          "unverified": [
+            "The complete Verrückt song pool, order and stop/reset controls remain unverified here. Nacht’s separate 31-track census is not a verified Verrückt playlist.",
+            "No independent retail playtest, present complete item pool or all-secrets certificate."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 3,
+            "directReferences": 3,
+            "attributedTables": 0,
+            "retainedImagePlacements": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "No step image was added in this batch; remaining photo coverage is unresolved.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/6iagul/the_nacht_radios_playlist/",
+            "https://www.reddit.com/r/CODZombies/comments/czrpaz/abracadavra_song_randomly_playing_on_verruckt_bo3/"
           ]
         }
       ]
@@ -76107,14 +77064,6 @@
     "bo3-moon-community-moon-special-weapons-special-grenades",
     "bo3-moon-community-moon-special-weapons-wonder-weapon",
     "bo3-moon-richtofens-grand-scheme",
-    "bo3-nacht-der-untoten-community-nacht-der-untoten-easter-eggs-dr-monty-radio",
-    "bo3-nacht-der-untoten-community-nacht-der-untoten-easter-eggs-samantha-s-lullaby-zombies-chronicles",
-    "bo3-nacht-der-untoten-community-nacht-der-untoten-easter-eggs-song-radio-zombies-chronicles",
-    "bo3-nacht-der-untoten-community-nacht-der-untoten-map-walkthrough-traps-explosive-barrels",
-    "bo3-nacht-der-untoten-community-nacht-der-untoten-nacht-der-untoten-zombies-chronicles-sniper-cabinet-zombies-chronicles",
-    "bo3-nacht-der-untoten-community-nacht-der-untoten-special-weapons-monkey-bombs",
-    "bo3-nacht-der-untoten-community-nacht-der-untoten-special-weapons-wonder-weapon",
-    "bo3-nacht-der-untoten-undone",
     "bo3-origins-community-origins-buildables-maxis-drone",
     "bo3-origins-community-origins-buildables-shield",
     "bo3-origins-community-origins-easter-eggs-aether",
@@ -76152,15 +77101,6 @@
     "bo3-shangri-la-pareidolia",
     "bo3-shangri-la-samantha-sorrow",
     "bo3-shangri-la-time-travel-will-tell",
-    "bo3-shi-no-numa-community-shi-no-numa-easter-eggs-hidden-song-the-one",
-    "bo3-shi-no-numa-community-shi-no-numa-easter-eggs-samantha-s-lullaby-zombies-chronicles",
-    "bo3-shi-no-numa-community-shi-no-numa-map-walkthrough-traps",
-    "bo3-verruckt-community-verruckt-easter-eggs-hidden-song-lullaby-of-a-deadman",
-    "bo3-verruckt-community-verruckt-easter-eggs-samantha-s-lullaby-zombies-chronicles",
-    "bo3-verruckt-community-verruckt-easter-eggs-screaming-man-ee",
-    "bo3-verruckt-community-verruckt-easter-eggs-the-female-statue-ee",
-    "bo3-verruckt-community-verruckt-map-walkthrough-power",
-    "bo3-verruckt-community-verruckt-special-weapons-monkey-bombs",
     "bo4-alpha-omega-community-alpha-omega-easter-eggs-quests-extra-perk",
     "bo4-alpha-omega-community-alpha-omega-easter-eggs-quests-free-self-revive-love-story",
     "bo4-alpha-omega-community-alpha-omega-easter-eggs-quests-i-am-the-well-music-easter-egg",
@@ -77231,7 +78171,7 @@
       "mapIds": [
         "bo3-nacht-der-untoten"
       ],
-      "note": "Undone requires the exterior red-barrel sweep in Zombies Chronicles. A complete written and photographed per-barrel inventory and the full Chronicles radio playlist remain unchecked; the original Black Ops three-target route is not substituted."
+      "note": "BO3 Nacht’s eight existing guides were revised, with separate utility and 28-row historical firearm references. The barrel creator reports 27 targets, but a complete written/photo target census is pending. A historical 31-song radio census is included. Current playlist-cycle behavior, Samantha title/timing/co-op rules, Monty activation, current weapon pool/mounts/prices and ammo/ownership details remain unresolved. This is not an all-secrets or current-retail completion certificate."
     },
     {
       "mapIds": [
@@ -77434,7 +78374,7 @@
       "mapIds": [
         "bo3-verruckt"
       ],
-      "note": "Focused trap field only: Both named BO3 barrier locations are primary-supported, but trap price, timing, definitive total count, final-patch crossing behavior and local BO3 photos are not certified. No other BO3 card was audited in this batch."
+      "note": "BO3 Verrückt now has 13 guides and 81 chapters, including a 29-row historical firearm reference and optional GobbleGum upgrade instructions. The existing trap instructions remain intact. Exact wall mounts, current weapon pool/prices/ammo and per-gun upgrade eligibility, Monty activation, Samantha timing/reset/co-op rules and the full Verrückt radio playlist remain unverified. Native BO3 step photos are still incomplete."
     },
     {
       "mapIds": [
@@ -79033,24 +79973,30 @@
         "bo3-revelations"
       ],
       "note": "Revelations now has 34 guides and 274 chapters, including a 41-chapter firearm acquisition and upgrade reference with selected native weapon photos. The complete recording, cipher and scenery routes still need dedicated guides. Exact alternative part, egg, rune and Summoning Key target photos remain incomplete. Historical mask quotas, Arnie kill requirements, time-attack deadlines, God Mask pickup-room claims and current co-op, timing, ownership and reward rules conflict or still need checks. The firearm roster is historical; current Box completeness, exact wall mounts, ammunition capacities and weapon-by-weapon alternate-ammo eligibility remain unverified. Read each guide’s field notes."
+    },
+    {
+      "mapIds": [
+        "bo3-shi-no-numa"
+      ],
+      "note": "BO3 Shi No Numa now has 6 guides and 56 chapters, including a 27-row historical firearm reference, optional GobbleGum upgrades, the two song routes and small hut interactions. Exact pan mounts and bridge timing/retries, phone interaction count, trap controls/fees and some co-op rules still need confirmation. Zipline and usable recording routes, exact firearm mounts and current pool/ammo details remain incomplete. BO3 step photos are pending; earlier editions, mobile and Vanguard stay separate."
     }
   ],
   "dataHashFormat": "SHA-256 of UTF-8 JSON files with LF line endings, matching Git and GitHub Pages.",
   "dataSha256": {
     "catalog.json": "1d06d2aa4a42db59b97868073ddbab1d6a33b3ffb4167f2ebe71ceed09eddf2d",
-    "community-corrections.json": "8cdb0fa81ccc5b6c08e02fb55b733468cae3f5637c5f5088d93c37fa4fc01683",
-    "coverage-gaps.json": "426431f2766eb4841461b3a255a2963367b265f80277fbd96bdac27ea1067bc3",
+    "community-corrections.json": "24574cac2f84cb18bcb94b2ad1585b9f099e6d099c46f8bf51c3d8059cb04392",
+    "coverage-gaps.json": "57f591ed1182b48ef85d57d7815cd009cb42d9ae615565847c70cba88faf7f92",
     "guides-aw.json": "b5a7e5fb7d83e776452f77060d0714c13f63ae8eeb6e367272c0d00a38cc3855",
-    "guides-classic.json": "af59aaf2747ce7702456e995ea9df3c5ea6214792125c9469ca7fdc6ccb86fbe",
-    "guides-community.json": "eb1b691b5e190d94563b5fc68bc25ba050a443246ea9e106b04725ed6a1b5096",
+    "guides-classic.json": "108faf483d51f5931bd28c83fa6870c8ccf71c4e0a2fbb2eb70ab94e3e0dca4c",
+    "guides-community.json": "350fd6030c5f948c8c271d00ea4db83008753492c6559d219eb3b0609453305d",
     "guides-completion-classic.json": "ed538054e7aeb5575de95dc78a345deb25a4111b47049bbd73fd29de06905c7a",
     "guides-completion-modern.json": "5e0086c91529a858bf011cbb6ccfe4bc469b3743f49c9175aac4e0115f460748",
     "guides-completion-modes.json": "7661fccf1e3b1fe4466e8a1f7219706fa1851d6b609c826fa045207810ad3bc5",
-    "guides-extra.json": "ee4bdb4d8a171794539fdc6e3b0c0800b3e6965d876d668867c3063c0779e457",
+    "guides-extra.json": "1a0d2becd7b6794b72c56efe75a0e3eedf399eeab19d63b74a16959089c08942",
     "guides-goal-classic.json": "5621ad45c8750da623b7c48c4fbbb023c358c9853375d50d29e2fedba3b176dd",
     "guides-goal-modern.json": "e2e88076d73c606934b7058c0c84ebeca2a6850f5b635af941f9ce46dafc43dc",
     "guides-goal-modes.json": "a063eeb0db74f9c40a3edecc71cd08853a01dc83c7a4c0f6ef88bde5e202a86c",
-    "guides-goal-root.json": "07bf0f2fc1b46997a8d02c86cd867f274b26499e0e61081cb77dc7afc09552d1",
+    "guides-goal-root.json": "a9dbefc5c02bf0729e98504e4b981a81ef22939ea3fd45a80094019867fd75b4",
     "guides-modern.json": "1082b5feea32d0f1a1650977f1d89b6b789a2b779dcb3e0c2eec9d5cbd9b3630",
     "guides-super-ee-doa4.json": "1d038197c8325f946290b8886d95fce8889291c193a5e8ec6f54124033a17a4a",
     "media-completion.json": "58882d44af4bbe2e09648819c06547084fc33caf994cace9122d512163c22366",
@@ -79178,9 +80124,10 @@
       "Gorod’s new41-chapter firearm page renders33 quoted tables and41 direct references. All four1280px weapon photos load after desktop and390px phone jumps; all41 phone menu targets are44px tall. Saved checklist restores, Sources/return focus works, twelve related routes appear and the28-guide map exposes the revised research-gap note. The targeted Trials step8 correction retains21 chapters/references. Evidence: output/batch23-browser-qa.json.",
       "Revelations expands32 inherited cards from66 to228 chapters with228 direct step references. All27 native WebPs load on desktop and390px phone; every phone menu row and step-reference target is at least44px tall. Authored pages omit the old quotation banner, final jumps focus and close menus, source/return links focus correctly, Keeper→Keeper Hat→Wolf navigation works, and the32-card map exposes its remaining research gaps. Checklist state survives reload and temporary test progress was restored. Evidence: output/batch24-browser-qa.json.",
       "Revelations firearm reference renders41 chapters,41 direct references and30 attributed acquisition tables. All four1280px historical weapon images load on desktop and actual390x844 phone; all41 phone chapter targets are44px tall, jumps focus and close the menu, and no page-level overflow occurs. Sources/return focus, saved/restored checklist progress, the related seven-chapter Pack-a-Punch route and33-guide map pass. Evidence: output/batch25-browser-qa.json.",
-      "The Revelations Monty jingle guide renders five authored chapters and five direct references. All four 1280px location photos load on desktop and actual390x844 phone; all five phone menu targets are44px tall. Focused jumps, closing menus, Source/return focus, saved/restored progress, the Power prerequisite link and34-card map pass with no page overflow. Evidence: output/batch26-browser-qa.json."
+      "The Revelations Monty jingle guide renders five authored chapters and five direct references. All four 1280px location photos load on desktop and actual390x844 phone; all five phone menu targets are44px tall. Focused jumps, closing menus, Source/return focus, saved/restored progress, the Power prerequisite link and34-card map pass with no page overflow. Evidence: output/batch26-browser-qa.json.",
+      "All 28 revised/new BO3 Nacht, Verruckt and Shi No Numa pages render 215 chapters with 215 direct references and 84 attributed tables. All 16 retained Nacht image placements load after desktop and actual 390x844 phone jumps, including 13 individual Samantha landmarks. Chapter and source targets are at least 44px; jumps focus and close menus, Sources/return focus, saved/restored progress, related routes and map gap disclosures pass without page overflow. No new step image was added. Evidence: output/batch27-browser-qa.json."
     ],
-    "currentBatchResponsiveLimit": "All32 revised Revelations pages passed desktop and actual390x844 phone checks:228 chapters and direct references, all27 new1280px images,44px phone chapter/reference targets, focused jumps, closing menus and no page-level overflow. Saved progress was restored after testing. This does not recertify every earlier map or constitute retail gameplay testing. Evidence: output/batch24-browser-qa.json. The added41-chapter firearm reference also passed desktop and actual390x844 phone checks, including all four photo placements. Evidence: output/batch25-browser-qa.json. The new five-chapter music interaction also passed desktop and actual390x844 phone checks with four native references. Evidence: output/batch26-browser-qa.json.",
-    "importerChecks": "Complete importer passed against an isolated changed-output fixture and its unchanged rerun:866 community topics, exact regenerated bytes, preserved five-chapter DE correction and no unnecessary rewrite. Evidence: output/batch19-import-check.json. Zetsubou’s29 imported revisions also survive full regeneration with their authored quotation flags,67 new image placements and all21 JSON values unchanged;3231 imported checklist sections. Evidence: output/batch20-semantic-diff.json. Final Zetsubou Skull correction and two new references preserve all21 JSON values after full regeneration. Evidence: output/batch21-final-import-check.json and output/batch21-semantic-diff.json. Gorod’s27 durable corrections preserve all21 JSON values after full regeneration, with3368 imported checklist sections. Evidence: output/batch22-final-import-check.json and output/batch22-semantic-diff.json. The41-chapter firearm addition and one-step Trials correction preserve all21 final JSON values, with3368 imported checklist sections. Evidence: output/batch23-final-import-check.json and output/batch23-semantic-diff.json. Revelations’32 durable authored corrections preserve all21 final JSON values after full regeneration, with3530 imported checklist sections. Evidence: output/batch24-final-import-check.json and output/batch24-semantic-diff.json. Revelations firearm addition preserves all21 final JSON values, with3530 imported checklist sections and all1527 existing runtime guides unchanged. Evidence: output/batch25-final-import-check.json and output/batch25-semantic-diff.json. The five-chapter Monty addition preserves all21 final JSON values and all1528 existing runtime guides. Evidence: output/batch26-final-import-check.json and output/batch26-semantic-diff.json."
+    "currentBatchResponsiveLimit": "All 28 revised/new BO3 Nacht, Verruckt and Shi No Numa guide pages passed desktop and actual 390x844 phone checks, including all 16 retained image placements. This does not certify all current weapon pools, every secret, earlier maps or retail gameplay. Evidence: output/batch27-browser-qa.json.",
+    "importerChecks": "Complete importer passed against an isolated changed-output fixture and its unchanged rerun:866 community topics, exact regenerated bytes, preserved five-chapter DE correction and no unnecessary rewrite. Evidence: output/batch19-import-check.json. Zetsubou’s29 imported revisions also survive full regeneration with their authored quotation flags,67 new image placements and all21 JSON values unchanged;3231 imported checklist sections. Evidence: output/batch20-semantic-diff.json. Final Zetsubou Skull correction and two new references preserve all21 JSON values after full regeneration. Evidence: output/batch21-final-import-check.json and output/batch21-semantic-diff.json. Gorod’s27 durable corrections preserve all21 JSON values after full regeneration, with3368 imported checklist sections. Evidence: output/batch22-final-import-check.json and output/batch22-semantic-diff.json. The41-chapter firearm addition and one-step Trials correction preserve all21 final JSON values, with3368 imported checklist sections. Evidence: output/batch23-final-import-check.json and output/batch23-semantic-diff.json. Revelations’32 durable authored corrections preserve all21 final JSON values after full regeneration, with3530 imported checklist sections. Evidence: output/batch24-final-import-check.json and output/batch24-semantic-diff.json. Revelations firearm addition preserves all21 final JSON values, with3530 imported checklist sections and all1527 existing runtime guides unchanged. Evidence: output/batch25-final-import-check.json and output/batch25-semantic-diff.json. The five-chapter Monty addition preserves all21 final JSON values and all1528 existing runtime guides. Evidence: output/batch26-final-import-check.json and output/batch26-semantic-diff.json. The 21 revisions and seven additions preserve all 21 final JSON values after full regeneration, with 3563 imported checklist sections and 1508 other runtime guides unchanged. Evidence: output/batch27-final-import-check.json and output/batch27-semantic-diff.json."
   }
 }

@@ -116,7 +116,7 @@ test("community routes keep complete upgrade details, tables and version scopes"
     assert.ok(community.find((guide) => guide.title === title)?.steps.length >= 6, title);
   const fireStaff = community.find((guide) => guide.title === "Staff of Fire");
   assert.ok(fireStaff.steps.some((step) => step.body.includes("red") && step.body.includes("20 Zombie")));
-  const samantha = community.filter((guide) => /Samantha's Lullaby/.test(guide.title));
+  const samantha = community.filter((guide) => guide.id.includes("-samantha-s-lullaby-zombies-chronicles"));
   assert.ok(samantha.length >= 5);
   assert.ok(samantha.every((guide) => guide.mapIds.every((id) => id.startsWith("bo3-"))));
   for (const guide of community) {
@@ -128,8 +128,8 @@ test("community routes keep complete upgrade details, tables and version scopes"
   for (const id of ["nacht-der-untoten-special-weapons-monkey-bombs", "verruckt-special-weapons-monkey-bombs"])
     assert.ok(community.find((guide) => guide.id === id).mapIds.every((mapId) => !mapId.startsWith("waw-")), id);
   assert.deepEqual(community.find((guide) => guide.id === "verruckt-easter-eggs-the-female-statue-ee").mapIds, ["bo3-verruckt"]);
-  const nachtCabinet = guides.find((guide) => guide.mapId === "bo3-nacht-der-untoten" && guide.title === "Sniper Cabinet (Zombies Chronicles)");
-  assert.ok(nachtCabinet?.steps.some((step) => step.body.includes("5000") && step.body.includes("Locus")));
+  const nachtCabinet = guides.find((guide) => guide.mapId === "bo3-nacht-der-untoten" && guide.id.endsWith("-sniper-cabinet-zombies-chronicles"));
+  assert.ok(nachtCabinet?.steps.some((step) => /5,?000/.test(step.body) && step.body.includes("Locus")));
   assert.ok(!guides.some((guide) => guide.mapId === "bo3-nacht-der-untoten" && guide.title === "Sniper Cabinet"));
   for (const id of ["wwii-into-the-storm", "wwii-across-the-depths", "wwii-beneath-the-ice"])
     assert.ok(guides.some((guide) => guide.mapId === id && guide.category === "main"), id);
