@@ -8,8 +8,8 @@
     "Newly authored guides may have source research without a separate recorded full audit. Guide counts and passing software checks do not establish gameplay accuracy."
   ],
   "catalogEntries": 160,
-  "runtimeGuides": 1543,
-  "guidesWithRecordedSourceReview": 940,
+  "runtimeGuides": 1550,
+  "guidesWithRecordedSourceReview": 959,
   "guidesCertifiedFullyVerified": 0,
   "batches": [
     {
@@ -391,6 +391,10 @@
     {
       "batch": "bo3-kino-firearm-acquisition-and-reported-upgrade-names",
       "rowsWithRecordedReview": 1
+    },
+    {
+      "batch": "bo3-ascension-quests-songs-upgrades-and-thirteen-native-references",
+      "rowsWithRecordedReview": 19
     }
   ],
   "guideReviews": [
@@ -21167,6 +21171,671 @@
             "https://www.reddit.com/r/CODZombies/comments/g5p307/",
             "https://www.reddit.com/r/CODZombies/comments/tt2zkv/",
             "https://www.youtube.com/watch?v=uFc-gff-6LY"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-ascension-community-ascension-easter-eggs-abracadavre-music-easter-egg",
+      "mapId": "bo3-ascension",
+      "reviews": [
+        {
+          "batch": "bo3-ascension-quests-songs-upgrades-and-thirteen-native-references",
+          "reportedStatus": "Whole final guide and metadata read against primary research, with stated gaps; no retail playtest.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Entire final frozen39 reader, metadata and27 literal tables read; all24 artifact hashes matched.",
+            "Root media overlay and all13 native source frames/final crops individually reviewed; phone photos match the correct locations.",
+            "All1531 other runtime guides, including BO1 Ascension and the published Kino firearm addition, remain unchanged.",
+            "Desktop and actual390x844 phone checks pass; chapter/reference targets are44px or taller, all13 photos load, jumps focus and close menus, source/return links work, tables pan within the page and checklist progress survives reload before restoration.",
+            "Importer regeneration preserves all21 data values; software checks do not certify retail mechanics."
+          ],
+          "unverified": [
+            "Interaction reach, acceptance cues, co-op sharing and song-overlap behaviour remain unverified."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 4,
+            "directReferences": 4,
+            "attributedTables": 0,
+            "newInlineImagePlacements": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "No new step image.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-ascension-community-ascension-easter-eggs-main-easter-egg",
+      "mapId": "bo3-ascension",
+      "reviews": [
+        {
+          "batch": "bo3-ascension-quests-songs-upgrades-and-thirteen-native-references",
+          "reportedStatus": "Whole final guide and metadata read against primary research, with stated gaps; no retail playtest.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Entire final frozen39 reader, metadata and27 literal tables read; all24 artifact hashes matched.",
+            "Root media overlay and all13 native source frames/final crops individually reviewed; phone photos match the correct locations.",
+            "All1531 other runtime guides, including BO1 Ascension and the published Kino firearm addition, remain unchanged.",
+            "Desktop and actual390x844 phone checks pass; chapter/reference targets are44px or taller, all13 photos load, jumps focus and close menus, source/return links work, tables pan within the page and checklist progress survives reload before restoration.",
+            "Importer regeneration preserves all21 data values; software checks do not certify retail mechanics."
+          ],
+          "unverified": [
+            "Exact rocket-floor duration conflicts: Reddit says two minutes; creator hub says one.",
+            "Minimum final loadout, orb damage thresholds/window, retry behaviour and current perk retention remain unverified.",
+            "Normal quest requires four players; solo mod rules are excluded."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 10,
+            "directReferences": 10,
+            "attributedTables": 0,
+            "newInlineImagePlacements": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "No new step image.",
+          "evidenceUrls": [
+            "https://www.codzombieguides.com/ascension-remastered",
+            "https://www.reddit.com/r/CODZombies/comments/1lnvz67/ascension_easter_egg_2025/",
+            "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-ascension-community-ascension-easter-eggs-rocket-power-up",
+      "mapId": "bo3-ascension",
+      "reviews": [
+        {
+          "batch": "bo3-ascension-quests-songs-upgrades-and-thirteen-native-references",
+          "reportedStatus": "Whole final guide and metadata read against primary research, with stated gaps; no retail playtest.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Entire final frozen39 reader, metadata and27 literal tables read; all24 artifact hashes matched.",
+            "Root media overlay and all13 native source frames/final crops individually reviewed; phone photos match the correct locations.",
+            "All1531 other runtime guides, including BO1 Ascension and the published Kino firearm addition, remain unchanged.",
+            "Desktop and actual390x844 phone checks pass; chapter/reference targets are44px or taller, all13 photos load, jumps focus and close menus, source/return links work, tables pan within the page and checklist progress survives reload before restoration.",
+            "Importer regeneration preserves all21 data values; software checks do not certify retail mechanics."
+          ],
+          "unverified": [
+            "Reward naming differs between the older shared guide and newer BO3 report; current behaviour is not independently verified.",
+            "Eligible weapons, damage and timing are unverified."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 3,
+            "directReferences": 3,
+            "attributedTables": 0,
+            "newInlineImagePlacements": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "No new step image.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/1lnvz67/ascension_easter_egg_2025/",
+            "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-ascension-community-ascension-easter-eggs-samantha-s-lullaby-zombies-chronicles",
+      "mapId": "bo3-ascension",
+      "reviews": [
+        {
+          "batch": "bo3-ascension-quests-songs-upgrades-and-thirteen-native-references",
+          "reportedStatus": "Whole final guide and metadata read against primary research, with stated gaps; no retail playtest.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Entire final frozen39 reader, metadata and27 literal tables read; all24 artifact hashes matched.",
+            "Root media overlay and all13 native source frames/final crops individually reviewed; phone photos match the correct locations.",
+            "All1531 other runtime guides, including BO1 Ascension and the published Kino firearm addition, remain unchanged.",
+            "Desktop and actual390x844 phone checks pass; chapter/reference targets are44px or taller, all13 photos load, jumps focus and close menus, source/return links work, tables pan within the page and checklist progress survives reload before restoration.",
+            "Importer regeneration preserves all21 data values; software checks do not certify retail mechanics."
+          ],
+          "unverified": [
+            "Hunt timer, failure/retry/replay behaviour and co-op credit remain unverified. No retail control or timing test was performed."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 10,
+            "directReferences": 10,
+            "attributedTables": 0,
+            "newInlineImagePlacements": 9
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "Native location references only; throw shots are labelled, dark Monty input remains pending.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/wiki/ascension/",
+            "https://www.youtube.com/watch?v=J6hfyjly2uY",
+            "https://www.youtube.com/watch?v=J6hfyjly2uY&t=167s",
+            "https://www.youtube.com/watch?v=J6hfyjly2uY&t=173s",
+            "https://www.youtube.com/watch?v=J6hfyjly2uY&t=60s"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-ascension-community-ascension-easter-eggs-ultimis-matryoshka-dolls",
+      "mapId": "bo3-ascension",
+      "reviews": [
+        {
+          "batch": "bo3-ascension-quests-songs-upgrades-and-thirteen-native-references",
+          "reportedStatus": "Whole final guide and metadata read against primary research, with stated gaps; no retail playtest.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Entire final frozen39 reader, metadata and27 literal tables read; all24 artifact hashes matched.",
+            "Root media overlay and all13 native source frames/final crops individually reviewed; phone photos match the correct locations.",
+            "All1531 other runtime guides, including BO1 Ascension and the published Kino firearm addition, remain unchanged.",
+            "Desktop and actual390x844 phone checks pass; chapter/reference targets are44px or taller, all13 photos load, jumps focus and close menus, source/return links work, tables pan within the page and checklist progress survives reload before restoration.",
+            "Importer regeneration preserves all21 data values; software checks do not certify retail mechanics."
+          ],
+          "unverified": [
+            "Precise prop close-ups, repeat rules and character-dependent responses remain unverified."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 4,
+            "directReferences": 4,
+            "attributedTables": 0,
+            "newInlineImagePlacements": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "No new step image.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-ascension-community-ascension-map-walkthrough-monkey-rounds",
+      "mapId": "bo3-ascension",
+      "reviews": [
+        {
+          "batch": "bo3-ascension-quests-songs-upgrades-and-thirteen-native-references",
+          "reportedStatus": "Whole final guide and metadata read against primary research, with stated gaps; no retail playtest.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Entire final frozen39 reader, metadata and27 literal tables read; all24 artifact hashes matched.",
+            "Root media overlay and all13 native source frames/final crops individually reviewed; phone photos match the correct locations.",
+            "All1531 other runtime guides, including BO1 Ascension and the published Kino firearm addition, remain unchanged.",
+            "Desktop and actual390x844 phone checks pass; chapter/reference targets are44px or taller, all13 photos load, jumps focus and close menus, source/return links work, tables pan within the page and checklist progress survives reload before restoration.",
+            "Importer regeneration preserves all21 data values; software checks do not certify retail mechanics."
+          ],
+          "unverified": [
+            "Closed-door protection conflicts across sources; no universal protection rule is claimed.",
+            "Bottle limits and Quick Revive exceptions depend on the reported setup and remain untested here."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 4,
+            "directReferences": 4,
+            "attributedTables": 0,
+            "newInlineImagePlacements": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "No new step image.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/vqi59n/in_ascension_bo3_once_you_have_7_perks_monkeys/",
+            "https://www.reddit.com/r/CODZombies/comments/vtpbg1/the_ascension_trilogy_of_finding_perkaholic/",
+            "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-ascension-community-ascension-map-walkthrough-pack-a-punch",
+      "mapId": "bo3-ascension",
+      "reviews": [
+        {
+          "batch": "bo3-ascension-quests-songs-upgrades-and-thirteen-native-references",
+          "reportedStatus": "Whole final guide and metadata read against primary research, with stated gaps; no retail playtest.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Entire final frozen39 reader, metadata and27 literal tables read; all24 artifact hashes matched.",
+            "Root media overlay and all13 native source frames/final crops individually reviewed; phone photos match the correct locations.",
+            "All1531 other runtime guides, including BO1 Ascension and the published Kino firearm addition, remain unchanged.",
+            "Desktop and actual390x844 phone checks pass; chapter/reference targets are44px or taller, all13 photos load, jumps focus and close menus, source/return links work, tables pan within the page and checklist progress survives reload before restoration.",
+            "Importer regeneration preserves all21 data values; software checks do not certify retail mechanics."
+          ],
+          "unverified": [
+            "Exact per-gun repack eligibility, current purchase prompts and retrieval/refill timing remain unverified."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 6,
+            "directReferences": 6,
+            "attributedTables": 0,
+            "newInlineImagePlacements": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "No new step image.",
+          "evidenceUrls": [
+            "https://www.codzombieguides.com/ascension-remastered",
+            "https://www.reddit.com/r/CODZombies/comments/pg8sux/i_just_bought_black_ops_3zombie_chronicles_any/",
+            "https://www.reddit.com/r/CODZombies/wiki/ascension/",
+            "https://www.reddit.com/r/CODZombies/wiki/game-mechanics/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-ascension-community-ascension-map-walkthrough-power",
+      "mapId": "bo3-ascension",
+      "reviews": [
+        {
+          "batch": "bo3-ascension-quests-songs-upgrades-and-thirteen-native-references",
+          "reportedStatus": "Whole final guide and metadata read against primary research, with stated gaps; no retail playtest.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Entire final frozen39 reader, metadata and27 literal tables read; all24 artifact hashes matched.",
+            "Root media overlay and all13 native source frames/final crops individually reviewed; phone photos match the correct locations.",
+            "All1531 other runtime guides, including BO1 Ascension and the published Kino firearm addition, remain unchanged.",
+            "Desktop and actual390x844 phone checks pass; chapter/reference targets are44px or taller, all13 photos load, jumps focus and close menus, source/return links work, tables pan within the page and checklist progress survives reload before restoration.",
+            "Importer regeneration preserves all21 data values; software checks do not certify retail mechanics."
+          ],
+          "unverified": [
+            "Individual door prices and a complete alternate upper-exit route have not been independently checked here."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 4,
+            "directReferences": 4,
+            "attributedTables": 0,
+            "newInlineImagePlacements": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "No new step image.",
+          "evidenceUrls": [
+            "https://www.codzombieguides.com/ascension-remastered",
+            "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-ascension-community-ascension-map-walkthrough-traps",
+      "mapId": "bo3-ascension",
+      "reviews": [
+        {
+          "batch": "bo3-ascension-quests-songs-upgrades-and-thirteen-native-references",
+          "reportedStatus": "Whole final guide and metadata read against primary research, with stated gaps; no retail playtest.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Entire final frozen39 reader, metadata and27 literal tables read; all24 artifact hashes matched.",
+            "Root media overlay and all13 native source frames/final crops individually reviewed; phone photos match the correct locations.",
+            "All1531 other runtime guides, including BO1 Ascension and the published Kino firearm addition, remain unchanged.",
+            "Desktop and actual390x844 phone checks pass; chapter/reference targets are44px or taller, all13 photos load, jumps focus and close menus, source/return links work, tables pan within the page and checklist progress survives reload before restoration.",
+            "Importer regeneration preserves all21 data values; software checks do not certify retail mechanics."
+          ],
+          "unverified": [
+            "Exact Chronicles trap prices, cooldowns, player-damage exceptions and the centrifuge activation schedule remain unverified."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 3,
+            "directReferences": 3,
+            "attributedTables": 0,
+            "newInlineImagePlacements": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "No new step image.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-ascension-community-ascension-special-weapons-special-grenades",
+      "mapId": "bo3-ascension",
+      "reviews": [
+        {
+          "batch": "bo3-ascension-quests-songs-upgrades-and-thirteen-native-references",
+          "reportedStatus": "Whole final guide and metadata read against primary research, with stated gaps; no retail playtest.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Entire final frozen39 reader, metadata and27 literal tables read; all24 artifact hashes matched.",
+            "Root media overlay and all13 native source frames/final crops individually reviewed; phone photos match the correct locations.",
+            "All1531 other runtime guides, including BO1 Ascension and the published Kino firearm addition, remain unchanged.",
+            "Desktop and actual390x844 phone checks pass; chapter/reference targets are44px or taller, all13 photos load, jumps focus and close menus, source/return links work, tables pan within the page and checklist progress survives reload before restoration.",
+            "Importer regeneration preserves all21 data values; software checks do not certify retail mechanics."
+          ],
+          "unverified": [
+            "No supported separate equipment upgrade quest was found; that is a source gap, not proof none exists.",
+            "Current capacity, duration, replenishment and teleport exceptions remain unverified."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 4,
+            "directReferences": 4,
+            "attributedTables": 0,
+            "newInlineImagePlacements": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "No new step image.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/1lnvz67/ascension_easter_egg_2025/",
+            "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-ascension-community-ascension-special-weapons-thundergun",
+      "mapId": "bo3-ascension",
+      "reviews": [
+        {
+          "batch": "bo3-ascension-quests-songs-upgrades-and-thirteen-native-references",
+          "reportedStatus": "Whole final guide and metadata read against primary research, with stated gaps; no retail playtest.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Entire final frozen39 reader, metadata and27 literal tables read; all24 artifact hashes matched.",
+            "Root media overlay and all13 native source frames/final crops individually reviewed; phone photos match the correct locations.",
+            "All1531 other runtime guides, including BO1 Ascension and the published Kino firearm addition, remain unchanged.",
+            "Desktop and actual390x844 phone checks pass; chapter/reference targets are44px or taller, all13 photos load, jumps focus and close menus, source/return links work, tables pan within the page and checklist progress survives reload before restoration.",
+            "Importer regeneration preserves all21 data values; software checks do not certify retail mechanics."
+          ],
+          "unverified": [
+            "Current capacities, Box odds and co-op ownership exceptions are unverified."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 3,
+            "directReferences": 3,
+            "attributedTables": 0,
+            "newInlineImagePlacements": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "No new step image.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-ascension-community-ascension-special-weapons-thundergun-upgrade",
+      "mapId": "bo3-ascension",
+      "reviews": [
+        {
+          "batch": "bo3-ascension-quests-songs-upgrades-and-thirteen-native-references",
+          "reportedStatus": "Whole final guide and metadata read against primary research, with stated gaps; no retail playtest.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Entire final frozen39 reader, metadata and27 literal tables read; all24 artifact hashes matched.",
+            "Root media overlay and all13 native source frames/final crops individually reviewed; phone photos match the correct locations.",
+            "All1531 other runtime guides, including BO1 Ascension and the published Kino firearm addition, remain unchanged.",
+            "Desktop and actual390x844 phone checks pass; chapter/reference targets are44px or taller, all13 photos load, jumps focus and close menus, source/return links work, tables pan within the page and checklist progress survives reload before restoration.",
+            "Importer regeneration preserves all21 data values; software checks do not certify retail mechanics."
+          ],
+          "unverified": [
+            "Current capacity, damage, refill rules and further machine/gum eligibility are unverified."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 3,
+            "directReferences": 3,
+            "attributedTables": 0,
+            "newInlineImagePlacements": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "No new step image.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/pg8sux/i_just_bought_black_ops_3zombie_chronicles_any/",
+            "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-ascension-firearms-and-upgrades",
+      "mapId": "bo3-ascension",
+      "reviews": [
+        {
+          "batch": "bo3-ascension-quests-songs-upgrades-and-thirteen-native-references",
+          "reportedStatus": "Whole final guide and metadata read against primary research, with stated gaps; no retail playtest.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Entire final frozen39 reader, metadata and27 literal tables read; all24 artifact hashes matched.",
+            "Root media overlay and all13 native source frames/final crops individually reviewed; phone photos match the correct locations.",
+            "All1531 other runtime guides, including BO1 Ascension and the published Kino firearm addition, remain unchanged.",
+            "Desktop and actual390x844 phone checks pass; chapter/reference targets are44px or taller, all13 photos load, jumps focus and close menus, source/return links work, tables pan within the page and checklist progress survives reload before restoration.",
+            "Importer regeneration preserves all21 data values; software checks do not certify retail mechanics."
+          ],
+          "unverified": [
+            "Historical 27 ordinary firearm rows exclude wonder weapons, equipment and account-dependent starting-pistol variants; no present complete inventory claim.",
+            "Galil, M16 and Ray Gun Mark II upgrade details need primary verification.",
+            "Per-gun capacities, damage, refill costs, current exact wall mounts and gum/machine eligibility are unverified."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 31,
+            "directReferences": 31,
+            "attributedTables": 27,
+            "newInlineImagePlacements": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "No new step image.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+            "https://www.reddit.com/r/CODZombies/comments/54v8y1/weapon_name_list_for_command_console/",
+            "https://www.reddit.com/r/CODZombies/comments/pg8sux/i_just_bought_black_ops_3zombie_chronicles_any/",
+            "https://www.reddit.com/r/CODZombies/wiki/ascension/",
+            "https://www.reddit.com/r/CODZombies/wiki/game-mechanics/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-ascension-lunar-landers",
+      "mapId": "bo3-ascension",
+      "reviews": [
+        {
+          "batch": "bo3-ascension-quests-songs-upgrades-and-thirteen-native-references",
+          "reportedStatus": "Whole final guide and metadata read against primary research, with stated gaps; no retail playtest.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Entire final frozen39 reader, metadata and27 literal tables read; all24 artifact hashes matched.",
+            "Root media overlay and all13 native source frames/final crops individually reviewed; phone photos match the correct locations.",
+            "All1531 other runtime guides, including BO1 Ascension and the published Kino firearm addition, remain unchanged.",
+            "Desktop and actual390x844 phone checks pass; chapter/reference targets are44px or taller, all13 photos load, jumps focus and close menus, source/return links work, tables pan within the page and checklist progress survives reload before restoration.",
+            "Importer regeneration preserves all21 data values; software checks do not certify retail mechanics."
+          ],
+          "unverified": [
+            "Actual controls, cooldown and in-flight damage/call edge cases remain unverified."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 4,
+            "directReferences": 4,
+            "attributedTables": 0,
+            "newInlineImagePlacements": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "No new step image.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-ascension-monty-radio",
+      "mapId": "bo3-ascension",
+      "reviews": [
+        {
+          "batch": "bo3-ascension-quests-songs-upgrades-and-thirteen-native-references",
+          "reportedStatus": "Whole final guide and metadata read against primary research, with stated gaps; no retail playtest.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Entire final frozen39 reader, metadata and27 literal tables read; all24 artifact hashes matched.",
+            "Root media overlay and all13 native source frames/final crops individually reviewed; phone photos match the correct locations.",
+            "All1531 other runtime guides, including BO1 Ascension and the published Kino firearm addition, remain unchanged.",
+            "Desktop and actual390x844 phone checks pass; chapter/reference targets are44px or taller, all13 photos load, jumps focus and close menus, source/return links work, tables pan within the page and checklist progress survives reload before restoration.",
+            "Importer regeneration preserves all21 data values; software checks do not certify retail mechanics."
+          ],
+          "unverified": [
+            "Exact activation input/range, playback order and replay behaviour are unverified. No monologue is reproduced."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 1,
+            "directReferences": 1,
+            "attributedTables": 0,
+            "newInlineImagePlacements": 1
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "Native location references only; throw shots are labelled, dark Monty input remains pending.",
+          "evidenceUrls": [
+            "https://www.codzombieguides.com/ascension-remastered",
+            "https://www.youtube.com/watch?v=UfjCjXtlszM",
+            "https://www.youtube.com/watch?v=UfjCjXtlszM&t=233s"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-ascension-not-ready-to-die",
+      "mapId": "bo3-ascension",
+      "reviews": [
+        {
+          "batch": "bo3-ascension-quests-songs-upgrades-and-thirteen-native-references",
+          "reportedStatus": "Whole final guide and metadata read against primary research, with stated gaps; no retail playtest.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Entire final frozen39 reader, metadata and27 literal tables read; all24 artifact hashes matched.",
+            "Root media overlay and all13 native source frames/final crops individually reviewed; phone photos match the correct locations.",
+            "All1531 other runtime guides, including BO1 Ascension and the published Kino firearm addition, remain unchanged.",
+            "Desktop and actual390x844 phone checks pass; chapter/reference targets are44px or taller, all13 photos load, jumps focus and close menus, source/return links work, tables pan within the page and checklist progress survives reload before restoration.",
+            "Importer regeneration preserves all21 data values; software checks do not certify retail mechanics."
+          ],
+          "unverified": [
+            "Original discussion conflicts on whether ringing is necessary.",
+            "Exact hit area, order requirements, ring trigger/timing, repeat rules and music overlap remain unverified."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 4,
+            "directReferences": 4,
+            "attributedTables": 0,
+            "newInlineImagePlacements": 3
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "Native location references only; throw shots are labelled, dark Monty input remains pending.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/cd0g1p/not_ready_to_die_easter_egg_found_on_bo3_ascension/",
+            "https://www.youtube.com/watch?v=ovMYpgj1dk4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-ascension-perks-and-loose-change",
+      "mapId": "bo3-ascension",
+      "reviews": [
+        {
+          "batch": "bo3-ascension-quests-songs-upgrades-and-thirteen-native-references",
+          "reportedStatus": "Whole final guide and metadata read against primary research, with stated gaps; no retail playtest.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Entire final frozen39 reader, metadata and27 literal tables read; all24 artifact hashes matched.",
+            "Root media overlay and all13 native source frames/final crops individually reviewed; phone photos match the correct locations.",
+            "All1531 other runtime guides, including BO1 Ascension and the published Kino firearm addition, remain unchanged.",
+            "Desktop and actual390x844 phone checks pass; chapter/reference targets are44px or taller, all13 photos load, jumps focus and close menus, source/return links work, tables pan within the page and checklist progress survives reload before restoration.",
+            "Importer regeneration preserves all21 data values; software checks do not certify retail mechanics."
+          ],
+          "unverified": [
+            "Precise complete Wunderfizz locations and current price/selection behaviour remain undocumented here.",
+            "Current perk prices, loose-change exceptions and Quick Revive mode rules remain untested."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 5,
+            "directReferences": 5,
+            "attributedTables": 0,
+            "newInlineImagePlacements": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "No new step image.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/1hpvrte/how_do_i_get_points_from_the_perk_machine/",
+            "https://www.reddit.com/r/CODZombies/comments/z8l161/a_zombies_history_question/",
+            "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-ascension-red-phone-audio",
+      "mapId": "bo3-ascension",
+      "reviews": [
+        {
+          "batch": "bo3-ascension-quests-songs-upgrades-and-thirteen-native-references",
+          "reportedStatus": "Whole final guide and metadata read against primary research, with stated gaps; no retail playtest.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Entire final frozen39 reader, metadata and27 literal tables read; all24 artifact hashes matched.",
+            "Root media overlay and all13 native source frames/final crops individually reviewed; phone photos match the correct locations.",
+            "All1531 other runtime guides, including BO1 Ascension and the published Kino firearm addition, remain unchanged.",
+            "Desktop and actual390x844 phone checks pass; chapter/reference targets are44px or taller, all13 photos load, jumps focus and close menus, source/return links work, tables pan within the page and checklist progress survives reload before restoration.",
+            "Importer regeneration preserves all21 data values; software checks do not certify retail mechanics."
+          ],
+          "unverified": [
+            "Exact dialogue assignments, ringing requirements, repeat timing and complete ordering remain unverified.",
+            "The separate lore-radio location and activation census is still missing."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 2,
+            "directReferences": 2,
+            "attributedTables": 0,
+            "newInlineImagePlacements": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "No new step image.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/cd0g1p/not_ready_to_die_easter_egg_found_on_bo3_ascension/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo3-ascension-solo-eight-perk-route",
+      "mapId": "bo3-ascension",
+      "reviews": [
+        {
+          "batch": "bo3-ascension-quests-songs-upgrades-and-thirteen-native-references",
+          "reportedStatus": "Whole final guide and metadata read against primary research, with stated gaps; no retail playtest.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "Entire final frozen39 reader, metadata and27 literal tables read; all24 artifact hashes matched.",
+            "Root media overlay and all13 native source frames/final crops individually reviewed; phone photos match the correct locations.",
+            "All1531 other runtime guides, including BO1 Ascension and the published Kino firearm addition, remain unchanged.",
+            "Desktop and actual390x844 phone checks pass; chapter/reference targets are44px or taller, all13 photos load, jumps focus and close menus, source/return links work, tables pan within the page and checklist progress survives reload before restoration.",
+            "Importer regeneration preserves all21 data values; software checks do not certify retail mechanics."
+          ],
+          "unverified": [
+            "No independent retail repeat; platform/patch applicability is unverified.",
+            "Requires two downs, third Quick Revive purchase and closed paths that block normal Pack-a-Punch.",
+            "Closed-door protection differs from the general wiki warning; do not treat it as universal."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 5,
+            "directReferences": 5,
+            "attributedTables": 0,
+            "newInlineImagePlacements": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "No new step image.",
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/vqi59n/in_ascension_bo3_once_you_have_7_perks_monkeys/",
+            "https://www.reddit.com/r/CODZombies/comments/vtpbg1/the_ascension_trilogy_of_finding_perkaholic/",
+            "https://www.reddit.com/r/CODZombies/wiki/ascension/"
           ]
         }
       ]
@@ -77682,18 +78351,6 @@
     "bo2-tranzit-community-tranzit-sub-maps-modes-grief",
     "bo2-tranzit-community-tranzit-sub-maps-modes-town",
     "bo2-tranzit-community-tranzit-sub-maps-modes-turned",
-    "bo3-ascension-community-ascension-easter-eggs-abracadavre-music-easter-egg",
-    "bo3-ascension-community-ascension-easter-eggs-main-easter-egg",
-    "bo3-ascension-community-ascension-easter-eggs-rocket-power-up",
-    "bo3-ascension-community-ascension-easter-eggs-samantha-s-lullaby-zombies-chronicles",
-    "bo3-ascension-community-ascension-easter-eggs-ultimis-matryoshka-dolls",
-    "bo3-ascension-community-ascension-map-walkthrough-monkey-rounds",
-    "bo3-ascension-community-ascension-map-walkthrough-pack-a-punch",
-    "bo3-ascension-community-ascension-map-walkthrough-power",
-    "bo3-ascension-community-ascension-map-walkthrough-traps",
-    "bo3-ascension-community-ascension-special-weapons-special-grenades",
-    "bo3-ascension-community-ascension-special-weapons-thundergun",
-    "bo3-ascension-community-ascension-special-weapons-thundergun-upgrade",
     "bo3-moon-community-moon-easter-eggs-samantha-s-lullaby-black-ops-3-zombie-chronicles",
     "bo3-moon-community-moon-easter-eggs-space-dog-black-ops-3-zombie-chronicles",
     "bo3-moon-community-moon-game-features-black-ops-3-weapons-list-locations",
@@ -80629,16 +81286,22 @@
         "bo3-kino-der-toten"
       ],
       "note": "Kino has 17 guides and 100 chapters. Samantha’s hunt includes ten illustrated candidates. The firearm reference covers 33 entries and 29 reported upgrade names; four aliases and current weapon pools remain unverified. Monty activation, exact reel positions, original radios in BO3, passive scenery/ciphers, Annihilator availability, trap timing/prices, missing locator photos and retail tests remain pending."
+    },
+    {
+      "mapIds": [
+        "bo3-ascension"
+      ],
+      "note": "Ascension has 19 guides and 110 chapters. Samantha’s three Gersch collections and five hunt targets, the phone song and Monty location have 13 photographs. The main quest, both other song routes, landers, equipment, perks, conditional solo perk route and 27 historical firearm rows have direct references. Clock and launch-colour conflicts, original lore-radio census, exact Monty inputs, timers/retries, current weapons, traps/Wunderfizz and retail tests remain pending."
     }
   ],
   "dataHashFormat": "SHA-256 of UTF-8 JSON files with LF line endings, matching Git and GitHub Pages.",
   "dataSha256": {
     "catalog.json": "1d06d2aa4a42db59b97868073ddbab1d6a33b3ffb4167f2ebe71ceed09eddf2d",
-    "community-corrections.json": "010a2436617f6c4a30c8273c55c3fcbc06fb2dbfa3490ba9d129364958411f94",
-    "coverage-gaps.json": "f167c28ea00f4ffbdcbe6c596bb5a5c251f2d479d97d72f4bbce7925bd4966b8",
+    "community-corrections.json": "5ea715d8b1f873a38422b5204db8ca47e956e26600f5c9ef1d24cdaf934e4d85",
+    "coverage-gaps.json": "367894173068d6cd4aabda6512c3bf14d527da5fd00758e2f40465d7f03f8a9d",
     "guides-aw.json": "b5a7e5fb7d83e776452f77060d0714c13f63ae8eeb6e367272c0d00a38cc3855",
     "guides-classic.json": "108faf483d51f5931bd28c83fa6870c8ccf71c4e0a2fbb2eb70ab94e3e0dca4c",
-    "guides-community.json": "7233a44a5b9938f4cd30edcda64a74b9fe2f07ec24be61ac64a72909084601d7",
+    "guides-community.json": "238aff5d4ce164bbf07e1156e6fa9f4ffdc1809275b69854da04df09d41fe79c",
     "guides-completion-classic.json": "ed538054e7aeb5575de95dc78a345deb25a4111b47049bbd73fd29de06905c7a",
     "guides-completion-modern.json": "5e0086c91529a858bf011cbb6ccfe4bc469b3743f49c9175aac4e0115f460748",
     "guides-completion-modes.json": "7661fccf1e3b1fe4466e8a1f7219706fa1851d6b609c826fa045207810ad3bc5",
@@ -80646,7 +81309,7 @@
     "guides-goal-classic.json": "5621ad45c8750da623b7c48c4fbbb023c358c9853375d50d29e2fedba3b176dd",
     "guides-goal-modern.json": "e2e88076d73c606934b7058c0c84ebeca2a6850f5b635af941f9ce46dafc43dc",
     "guides-goal-modes.json": "a063eeb0db74f9c40a3edecc71cd08853a01dc83c7a4c0f6ef88bde5e202a86c",
-    "guides-goal-root.json": "07b12346cf7a4d3023cda86a18cea7f66b23643d40d0e05ddaa2b4a6a5dcec76",
+    "guides-goal-root.json": "aef5334fd747107340501effac35c7f5029ee6ed5b5edcef932cb68d94a83822",
     "guides-modern.json": "1082b5feea32d0f1a1650977f1d89b6b789a2b779dcb3e0c2eec9d5cbd9b3630",
     "guides-super-ee-doa4.json": "1d038197c8325f946290b8886d95fce8889291c193a5e8ec6f54124033a17a4a",
     "media-completion.json": "58882d44af4bbe2e09648819c06547084fc33caf994cace9122d512163c22366",
@@ -80778,9 +81441,10 @@
       "All 28 revised/new BO3 Nacht, Verruckt and Shi No Numa pages render 215 chapters with 215 direct references and 84 attributed tables. All 16 retained Nacht image placements load after desktop and actual 390x844 phone jumps, including 13 individual Samantha landmarks. Chapter and source targets are at least 44px; jumps focus and close menus, Sources/return focus, saved/restored progress, related routes and map gap disclosures pass without page overflow. No new step image was added. Evidence: output/batch27-browser-qa.json.",
       "The two BO3 Shi No Numa song pages retain eight chapters and eight direct references, with all seven new native WebPs loaded after desktop and actual390x844 phone jumps. Source/return focus, saved/restored progress, related navigation and the six-card map’s revised gap disclosure pass. All chapter/reference targets remain at least44px. Evidence: output/batch28-browser-qa.json.",
       "All16 BO3 Kino pages render63 chapters with63 direct references. All12 new native images load after desktop and actual390x844 phone navigation; all chapter/reference targets are at least44px. Chapter jumps focus and close menus, Sources/return focus, saved/restored checklist progress, the wooden-door companion and16-card map gap disclosure pass without overflow. Evidence: output/batch29-browser-qa.json.",
-      "The Kino firearm reference renders37 chapters,37 direct references and27 attributed six-column tables. Desktop and actual390x844 phone checks pass; all37 phone chapter targets are at least44px, tables pan within their containers, Sources/return focus and saved/restored progress work. The prerequisite Pack-a-Punch page and17-guide map gap disclosure pass. Evidence: output/batch30-browser-qa.json."
+      "The Kino firearm reference renders37 chapters,37 direct references and27 attributed six-column tables. Desktop and actual390x844 phone checks pass; all37 phone chapter targets are at least44px, tables pan within their containers, Sources/return focus and saved/restored progress work. The prerequisite Pack-a-Punch page and17-guide map gap disclosure pass. Evidence: output/batch30-browser-qa.json.",
+      "All19 revised/new BO3 Ascension pages render110 chapters and110 direct references on desktop and actual390x844 phone viewports. All13 native photos load,27 attributed tables render and pan within the page, chapter/source targets are at least44px, jumps focus and close menus, source/return links work and saved checklist progress is restored after testing. Related Pack-a-Punch navigation, the visible clock disagreement and19-guide map gap disclosure pass. Evidence: output/batch31-browser-qa.json."
     ],
-    "currentBatchResponsiveLimit": "The16 revised/new BO3 Kino pages passed desktop and actual390x844 phone checks with63 chapters and12 native references. Monty activation, exact reel locations and other recorded research gaps remain open; no retail playtest or exhaustive map certification is implied. Evidence: output/batch29-browser-qa.json. Its subsequent37-chapter firearm reference also passes desktop and actual390x844 phone checks with27 attributed tables. Four aliases, exact present pools and retail inputs remain unchecked; no new step photo was added. Evidence: output/batch30-browser-qa.json.",
-    "importerChecks": "Complete importer passed against an isolated changed-output fixture and its unchanged rerun:866 community topics, exact regenerated bytes, preserved five-chapter DE correction and no unnecessary rewrite. Evidence: output/batch19-import-check.json. Zetsubou’s29 imported revisions also survive full regeneration with their authored quotation flags,67 new image placements and all21 JSON values unchanged;3231 imported checklist sections. Evidence: output/batch20-semantic-diff.json. Final Zetsubou Skull correction and two new references preserve all21 JSON values after full regeneration. Evidence: output/batch21-final-import-check.json and output/batch21-semantic-diff.json. Gorod’s27 durable corrections preserve all21 JSON values after full regeneration, with3368 imported checklist sections. Evidence: output/batch22-final-import-check.json and output/batch22-semantic-diff.json. The41-chapter firearm addition and one-step Trials correction preserve all21 final JSON values, with3368 imported checklist sections. Evidence: output/batch23-final-import-check.json and output/batch23-semantic-diff.json. Revelations’32 durable authored corrections preserve all21 final JSON values after full regeneration, with3530 imported checklist sections. Evidence: output/batch24-final-import-check.json and output/batch24-semantic-diff.json. Revelations firearm addition preserves all21 final JSON values, with3530 imported checklist sections and all1527 existing runtime guides unchanged. Evidence: output/batch25-final-import-check.json and output/batch25-semantic-diff.json. The five-chapter Monty addition preserves all21 final JSON values and all1528 existing runtime guides. Evidence: output/batch26-final-import-check.json and output/batch26-semantic-diff.json. The 21 revisions and seven additions preserve all 21 final JSON values after full regeneration, with 3563 imported checklist sections and 1508 other runtime guides unchanged. Evidence: output/batch27-final-import-check.json and output/batch27-semantic-diff.json. The two scoped photo updates preserve all21 final JSON values and all1534 other runtime guides. Evidence: output/batch28-final-import-check.json and output/batch28-semantic-diff.json. The10 scoped Kino revisions and6 additions preserve all21 final JSON values,3563 imported sections and all1526 other runtime guides. Evidence: output/batch29-final-import-check.json and output/batch29-semantic-diff.json. The standalone Kino firearm reference preserves all21 final JSON values and all1542 existing runtime guides. Evidence: output/batch30-final-import-check.json and output/batch30-semantic-diff.json."
+    "currentBatchResponsiveLimit": "The19 revised/new BO3 Ascension pages passed desktop and actual390x844 phone checks with110 chapters and13 native references. Clock/launch disagreements, original-radio census, exact Monty inputs and other recorded gaps remain open; no retail playtest or exhaustive map certification is implied. Evidence: output/batch31-browser-qa.json.",
+    "importerChecks": "Complete importer passed against an isolated changed-output fixture and its unchanged rerun:866 community topics, exact regenerated bytes, preserved five-chapter DE correction and no unnecessary rewrite. Evidence: output/batch19-import-check.json. Zetsubou’s29 imported revisions also survive full regeneration with their authored quotation flags,67 new image placements and all21 JSON values unchanged;3231 imported checklist sections. Evidence: output/batch20-semantic-diff.json. Final Zetsubou Skull correction and two new references preserve all21 JSON values after full regeneration. Evidence: output/batch21-final-import-check.json and output/batch21-semantic-diff.json. Gorod’s27 durable corrections preserve all21 JSON values after full regeneration, with3368 imported checklist sections. Evidence: output/batch22-final-import-check.json and output/batch22-semantic-diff.json. The41-chapter firearm addition and one-step Trials correction preserve all21 final JSON values, with3368 imported checklist sections. Evidence: output/batch23-final-import-check.json and output/batch23-semantic-diff.json. Revelations’32 durable authored corrections preserve all21 final JSON values after full regeneration, with3530 imported checklist sections. Evidence: output/batch24-final-import-check.json and output/batch24-semantic-diff.json. Revelations firearm addition preserves all21 final JSON values, with3530 imported checklist sections and all1527 existing runtime guides unchanged. Evidence: output/batch25-final-import-check.json and output/batch25-semantic-diff.json. The five-chapter Monty addition preserves all21 final JSON values and all1528 existing runtime guides. Evidence: output/batch26-final-import-check.json and output/batch26-semantic-diff.json. The 21 revisions and seven additions preserve all 21 final JSON values after full regeneration, with 3563 imported checklist sections and 1508 other runtime guides unchanged. Evidence: output/batch27-final-import-check.json and output/batch27-semantic-diff.json. The two scoped photo updates preserve all21 final JSON values and all1534 other runtime guides. Evidence: output/batch28-final-import-check.json and output/batch28-semantic-diff.json. The10 scoped Kino revisions and6 additions preserve all21 final JSON values,3563 imported sections and all1526 other runtime guides. Evidence: output/batch29-final-import-check.json and output/batch29-semantic-diff.json. The standalone Kino firearm reference preserves all21 final JSON values and all1542 existing runtime guides. Evidence: output/batch30-final-import-check.json and output/batch30-semantic-diff.json. Ascension’s12 scoped revisions and7 additions preserve all21 final JSON values,3563 imported sections and all1531 other runtime guides. Evidence: output/batch31-final-import-check.json and output/batch31-semantic-diff.json."
   }
 }

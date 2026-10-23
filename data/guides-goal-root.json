@@ -6374,5 +6374,820 @@
         "url": "https://www.reddit.com/r/CODZombies/comments/114qz2r/bo3_dlc_weapons/"
       }
     ]
+  },
+  {
+    "id": "bo3-ascension-lunar-landers",
+    "mapId": "bo3-ascension",
+    "title": "Lunar landers — pads, calls and return trips",
+    "category": "side",
+    "summary": "Use the four stations to move around the map and distinguish calling from a self-activated flight.",
+    "difficulty": "Easy",
+    "players": "Solo / co-op",
+    "requirements": [
+      "Black Ops III: Zombies Chronicles Ascension.",
+      "Power on and access to the desired pad.",
+      "Keep 250 points for a self-activated ride."
+    ],
+    "reward": "Transport between spawn and the three outer pads; quest letters and rocket progress use specific trips.",
+    "steps": [
+      {
+        "title": "Find the four stations",
+        "body": "The four stations are in spawn, the Widow’s Wine area, the Stamin-Up area and the Speed Cola / Sickle area. Earlier BO1 guides name the Widow’s station after PhD Flopper. Use these room names to avoid conflicting Latin/Cyrillic pad-letter labels.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+      },
+      {
+        "title": "Call the platform from a destination",
+        "body": "At an empty station, use its control to bring the lander to that station. According to the shared guide, anyone already standing aboard travels with it, and the call itself is free. For the LUNA quest, keep the designated rider aboard and have teammates make the destination calls.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+      },
+      {
+        "title": "Activate a ride from the platform",
+        "body": "Board the platform and use its own paid transport interaction for the return flight. The shared guide reports 250 points and a roughly thirty-second interval between uses. For rocket access, ride each of the three outer pads back to spawn at least once.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+      },
+      {
+        "title": "Check the destination before spending",
+        "body": "For Pack-a-Punch, use outer pad → spawn returns. For the main quest letters, use the ordered called flights in the companion guide. These are different purposes for the same transport.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/",
+        "tip": "Actual control prompts, cooldown, in-flight invulnerability and co-op call/payment edge cases remain untested here."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Ascension reference",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+      }
+    ],
+    "sourceQuote": null,
+    "sharedSource": false,
+    "checked": "2026-10-23",
+    "sourceOmissions": [
+      "Actual controls, cooldown and in-flight damage/call edge cases remain unverified."
+    ],
+    "supplementNote": "Instructions for the BO3 Chronicles edition. These source-reviewed routes have not been independently playtested.",
+    "relatedGuideIds": [
+      "bo3-ascension-community-ascension-map-walkthrough-power",
+      "bo3-ascension-community-ascension-map-walkthrough-pack-a-punch",
+      "bo3-ascension-community-ascension-easter-eggs-main-easter-egg"
+    ]
+  },
+  {
+    "id": "bo3-ascension-not-ready-to-die",
+    "mapId": "bo3-ascension",
+    "title": "Not Ready to Die — melee the three red phones",
+    "category": "music",
+    "summary": "Melee the phones at spawn, Widow’s Wine and the Mule Kick Box site; listen for an electric cue.",
+    "difficulty": "Easy",
+    "players": "Solo / co-op",
+    "requirements": [
+      "Black Ops III: Zombies Chronicles Ascension.",
+      "Play the BO3 remaster; the original discovery is specifically for this edition.",
+      "Open access to the three phone areas and use your melee control."
+    ],
+    "reward": "Not Ready to Die plays after the three phone activations.",
+    "steps": [
+      {
+        "title": "Spawn lander phone",
+        "body": "Find the red telephone next to the lunar lander in spawn. Melee the phone and listen for the reported electric-shock cue. The original report distinguishes this from using Interact to play a quote.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/cd0g1p/not_ready_to_die_easter_egg_found_on_bo3_ascension/",
+        "images": [
+          {
+            "src": "./assets/classic-batch41-ascension-phone-03.webp",
+            "alt": "Phone",
+            "caption": "Phone",
+            "credit": "JokerAlex21",
+            "source": "https://www.youtube.com/watch?v=ovMYpgj1dk4&t=50s"
+          }
+        ]
+      },
+      {
+        "title": "Widow’s Wine phone",
+        "body": "Find the red phone beside Widow’s Wine at its lander area, then melee it. Check for the electric cue rather than treating ordinary spoken phone audio as a successful song activation.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/cd0g1p/not_ready_to_die_easter_egg_found_on_bo3_ascension/",
+        "images": [
+          {
+            "src": "./assets/classic-batch41-ascension-phone-01.webp",
+            "alt": "Phone",
+            "caption": "Phone",
+            "credit": "JokerAlex21",
+            "source": "https://www.youtube.com/watch?v=ovMYpgj1dk4&t=34s"
+          }
+        ]
+      },
+      {
+        "title": "Mule Kick Box-site phone",
+        "body": "Go to the Mystery Box location near Mule Kick and find the third red phone beside it. Melee it; after all three are accepted, the song should begin.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/cd0g1p/not_ready_to_die_easter_egg_found_on_bo3_ascension/",
+        "images": [
+          {
+            "src": "./assets/classic-batch41-ascension-phone-02.webp",
+            "alt": "Phone",
+            "caption": "Phone",
+            "credit": "JokerAlex21",
+            "source": "https://www.youtube.com/watch?v=ovMYpgj1dk4&t=40s"
+          }
+        ]
+      },
+      {
+        "title": "Handle the ringing disagreement",
+        "body": "The discoverer says to melee while the phone is ringing; another reply says ringing is unnecessary and the tester reports no prerequisite. Start with the discoverer’s ringing/cue method. If only a voice quote plays, check that you used melee rather than Interact. No tested order or guaranteed ring trigger is established.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/cd0g1p/not_ready_to_die_easter_egg_found_on_bo3_ascension/",
+        "tip": "Ringing requirements conflict within the original discussion. Current ring timing, exact hit region, repeat rules and music overlap have not been independently tested. No lyrics are reproduced."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Original phone discovery",
+        "url": "https://www.reddit.com/r/CODZombies/comments/cd0g1p/not_ready_to_die_easter_egg_found_on_bo3_ascension/"
+      },
+      {
+        "title": "Footage",
+        "url": "https://www.youtube.com/watch?v=ovMYpgj1dk4"
+      }
+    ],
+    "sourceQuote": null,
+    "sharedSource": false,
+    "checked": "2026-10-23",
+    "sourceOmissions": [
+      "Original discussion conflicts on whether ringing is necessary.",
+      "Exact hit area, order requirements, ring trigger/timing, repeat rules and music overlap remain unverified."
+    ],
+    "supplementNote": "Instructions for the BO3 Chronicles edition. These source-reviewed routes have not been independently playtested.",
+    "relatedGuideIds": [
+      "bo3-ascension-red-phone-audio",
+      "bo3-ascension-community-ascension-easter-eggs-abracadavre-music-easter-egg",
+      "bo3-ascension-community-ascension-easter-eggs-samantha-s-lullaby-zombies-chronicles"
+    ]
+  },
+  {
+    "id": "bo3-ascension-red-phone-audio",
+    "mapId": "bo3-ascension",
+    "title": "Red phones — listen to character audio",
+    "category": "side",
+    "summary": "Use Interact at the three phone landmarks to hear the remaster’s reported Call of the Dead audio.",
+    "difficulty": "Easy",
+    "players": "Solo / co-op",
+    "requirements": [
+      "Black Ops III: Zombies Chronicles Ascension.",
+      "Open the spawn lander, Widow’s Wine and Mule Kick Box-site phone areas."
+    ],
+    "reward": "Character audio; the melee song uses a separate input.",
+    "steps": [
+      {
+        "title": "Visit the three telephone sites",
+        "body": "Check beside spawn’s lander, beside Widow’s Wine, and beside the Box location near Mule Kick. These are the same three red phones used for Not Ready to Die.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/cd0g1p/not_ready_to_die_easter_egg_found_on_bo3_ascension/"
+      },
+      {
+        "title": "Use Interact to hear a quote",
+        "body": "Use your configured Interact control on a phone. The original discovery report distinguishes quote playback through Interact from the song’s melee/electric cue. A reply identifies the remaster audio as Call of the Dead material. The comments disagree about ringing prerequisites.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/cd0g1p/not_ready_to_die_easter_egg_found_on_bo3_ascension/",
+        "tip": "Quote trigger conditions, complete dialogue order, repeat timing and exact per-phone audio assignments remain unverified. The separate lore-radio location and activation census is still missing. No fictional dialogue is transcribed."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Original phone discovery",
+        "url": "https://www.reddit.com/r/CODZombies/comments/cd0g1p/not_ready_to_die_easter_egg_found_on_bo3_ascension/"
+      }
+    ],
+    "sourceQuote": null,
+    "sharedSource": false,
+    "checked": "2026-10-23",
+    "sourceOmissions": [
+      "Exact dialogue assignments, ringing requirements, repeat timing and complete ordering remain unverified.",
+      "The separate lore-radio location and activation census is still missing."
+    ],
+    "supplementNote": "Instructions for the BO3 Chronicles edition. These source-reviewed routes have not been independently playtested.",
+    "relatedGuideIds": [
+      "bo3-ascension-not-ready-to-die"
+    ]
+  },
+  {
+    "id": "bo3-ascension-monty-radio",
+    "mapId": "bo3-ascension",
+    "title": "Monty radio",
+    "category": "side",
+    "summary": "Find the radio in spawn.",
+    "difficulty": "Easy",
+    "players": "Solo / co-op",
+    "requirements": [
+      "Black Ops III: Zombies Chronicles Ascension."
+    ],
+    "reward": "Map commentary.",
+    "steps": [
+      {
+        "title": "Locate",
+        "body": "From spawn, face Quick Revive, turn right and look beneath the large metal cylinder.",
+        "original": true,
+        "researchSource": "https://www.youtube.com/watch?v=UfjCjXtlszM&t=233s",
+        "tip": "The dark photograph identifies the cylinder and radio area. Native footage supplies the location, but the exact activation input, range and repeat rule remain unverified.",
+        "images": [
+          {
+            "src": "./assets/classic-batch41-ascension-monty-radio.webp",
+            "alt": "Radio",
+            "caption": "Radio",
+            "credit": "JokerAlex21",
+            "source": "https://www.youtube.com/watch?v=UfjCjXtlszM&t=236s"
+          }
+        ],
+        "corroboratingSources": [
+          "https://www.codzombieguides.com/ascension-remastered"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "Hub",
+        "url": "https://www.codzombieguides.com/ascension-remastered"
+      },
+      {
+        "title": "Footage",
+        "url": "https://www.youtube.com/watch?v=UfjCjXtlszM"
+      }
+    ],
+    "sourceQuote": null,
+    "sharedSource": false,
+    "checked": "2026-10-23",
+    "sourceOmissions": [
+      "Exact activation input/range, playback order and replay behaviour are unverified. No monologue is reproduced."
+    ],
+    "supplementNote": "Instructions for the BO3 Chronicles edition. These source-reviewed routes have not been independently playtested.",
+    "relatedGuideIds": []
+  },
+  {
+    "id": "bo3-ascension-perks-and-loose-change",
+    "mapId": "bo3-ascension",
+    "title": "Perks, Wunderfizz and loose change",
+    "category": "side",
+    "summary": "Locate the six machines, find the two extra Wunderfizz perks and claim unused 100-point returns.",
+    "difficulty": "Easy",
+    "players": "Solo / co-op",
+    "requirements": [
+      "Black Ops III: Zombies Chronicles Ascension.",
+      "Power on for ordinary powered machines; keep points for the actual purchase.",
+      "A machine’s loose-change claim is shared across the lobby."
+    ],
+    "reward": "Purchased perks and eligible loose change; normal perk-slot limits still apply.",
+    "steps": [
+      {
+        "title": "Find the six ordinary machines",
+        "body": "Quick Revive is in spawn. Juggernog is on the stairs between the lower spawn exit and power. Speed Cola is by the upper Sickle / lander area, with Mule Kick one floor below Speed Cola and power. Stamin-Up is in the back / junkyard area. Widow’s Wine occupies the former PhD lander area. Widow’s Wine replaces PhD here; do not follow a BO1 dive-explosion purchase route.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+      },
+      {
+        "title": "Read the ordinary purchase prices",
+        "body": "The shared table lists Juggernog at 2,500, Speed Cola at 3,000, Stamin-Up at 2,000, Widow’s Wine at 4,000 and Mule Kick at 4,000. Quick Revive is listed at 500 solo or 1,500 co-op. Read the live prompt before buying; these are historical reference prices.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+      },
+      {
+        "title": "Use Wunderfizz for the extra perks",
+        "body": "The Chronicles section identifies Double Tap II and Deadshot Daiquiri as obtainable from Wunderfizz. Use its active machine’s current prompt and check the offered bottle before taking it. The written map source does not give a precise complete Wunderfizz location census, guaranteed selection rule or current price.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+      },
+      {
+        "title": "Go prone for an unused change return",
+        "body": "At an ordinary perk machine, lie fully prone against the front return area and check for 100 points. The BO3 player reports describe this across the maps; the first-player reports say only the first person to claim that machine’s return in a match receives it. Crouching alone is not the reported action.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/z8l161/a_zombies_history_question/",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/1hpvrte/how_do_i_get_points_from_the_perk_machine/"
+        ]
+      },
+      {
+        "title": "Check solo Quick Revive and extra-perk routes",
+        "body": "The shared map guide reports solo Quick Revive at 500 points for up to three self-revive purchases, with the machine leaving after the third purchase; co-op Quick Revive is a different 1,500-point revive-speed purchase. Monkey bottles and the main quest can add perks beyond ordinary purchases, but their rules are separate.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/",
+        "tip": "Current machine prices, Wunderfizz’s exact active locations, bottle pool/odds, change-return edge cases and Quick Revive exceptions remain unverified."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Ascension reference",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+      },
+      {
+        "title": "BO3 loose-change reports",
+        "url": "https://www.reddit.com/r/CODZombies/comments/z8l161/a_zombies_history_question/"
+      },
+      {
+        "title": "First-player claim reports",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1hpvrte/how_do_i_get_points_from_the_perk_machine/"
+      }
+    ],
+    "sourceQuote": null,
+    "sharedSource": false,
+    "checked": "2026-10-23",
+    "sourceOmissions": [
+      "Precise complete Wunderfizz locations and current price/selection behaviour remain undocumented here.",
+      "Current perk prices, loose-change exceptions and Quick Revive mode rules remain untested."
+    ],
+    "supplementNote": "Instructions for the BO3 Chronicles edition. These source-reviewed routes have not been independently playtested.",
+    "relatedGuideIds": [
+      "bo3-ascension-community-ascension-map-walkthrough-monkey-rounds",
+      "bo3-ascension-solo-eight-perk-route",
+      "bo3-ascension-community-ascension-easter-eggs-main-easter-egg"
+    ]
+  },
+  {
+    "id": "bo3-ascension-solo-eight-perk-route",
+    "mapId": "bo3-ascension",
+    "title": "Solo eight-perk experiment — restricted-door route",
+    "category": "side",
+    "summary": "Follow the reported Quick Revive removal setup and clean monkey defences to collect eight perks.",
+    "difficulty": "Conditional / experimental",
+    "players": "Solo; reported setup",
+    "requirements": [
+      "Black Ops III: Zombies Chronicles Ascension.",
+      "Solo BO3 Ascension; this is the linked players’ experiment, not a main quest.",
+      "Know that the closed-door route blocks the normal Pack-a-Punch setup.",
+      "Removing Quick Revive uses two downs and the third purchase, leaving fewer recovery chances."
+    ],
+    "reward": "A reported all-eight-perk loadout without Mega GobbleGums; this route restricts normal Pack-a-Punch access.",
+    "steps": [
+      {
+        "title": "Open only the reported upper route",
+        "body": "Open spawn’s second-level exit, the door across from the Widow’s Wine lander platform and the right-hand power-building entrance. Continue upstairs to activate power. Leave the other perk routes closed for this reported setup.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/vtpbg1/the_ascension_trilogy_of_finding_perkaholic/"
+      },
+      {
+        "title": "Remove the Quick Revive machine",
+        "body": "Return to spawn, buy solo Quick Revive, use its self-revive and repeat. Buy the third Quick Revive so the machine leaves while that last self-revive remains in your loadout. The first tester specifically explains this as two downs followed by the third purchase.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/vtpbg1/the_ascension_trilogy_of_finding_perkaholic/",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/vqi59n/in_ascension_bo3_once_you_have_7_perks_monkeys/"
+        ]
+      },
+      {
+        "title": "Set the four starting perks",
+        "body": "Buy Widow’s Wine and obtain Double Tap II and Deadshot from Wunderfizz, keeping the final Quick Revive. The final experiment lists those four as the initial loadout. Do this before collecting the later free monkey bottles.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/vtpbg1/the_ascension_trilogy_of_finding_perkaholic/"
+      },
+      {
+        "title": "Defend Widow’s Wine without a touch",
+        "body": "Stay near the open Widow’s Wine lander area during monkey waves and kill the monkeys before they touch the machine. The experiment’s unopened paths are meant to limit the defence to this machine. Collect the free bottles after successful waves to add the remaining perks.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/vtpbg1/the_ascension_trilogy_of_finding_perkaholic/"
+      },
+      {
+        "title": "Keep the experiment’s limits visible",
+        "body": "The original seven-perk-cap claim was corrected after the Quick Revive machine was removed. The successful follow-up reports eight perks but also confirms that its door setup blocks normal Pack-a-Punch access. Opening those paths changes what must be defended; it is no longer the same one-machine experiment.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/vtpbg1/the_ascension_trilogy_of_finding_perkaholic/",
+        "tip": "This route deliberately spends two solo lives and conflicts with the map wiki’s general unopened-room warning. Present platform/patch behaviour and a full repeat playthrough remain unverified."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Final solo experiment",
+        "url": "https://www.reddit.com/r/CODZombies/comments/vtpbg1/the_ascension_trilogy_of_finding_perkaholic/"
+      },
+      {
+        "title": "Earlier experiment and corrections",
+        "url": "https://www.reddit.com/r/CODZombies/comments/vqi59n/in_ascension_bo3_once_you_have_7_perks_monkeys/"
+      },
+      {
+        "title": "Ascension reference",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+      }
+    ],
+    "sourceQuote": null,
+    "sharedSource": false,
+    "checked": "2026-10-23",
+    "sourceOmissions": [
+      "No independent retail repeat; platform/patch applicability is unverified.",
+      "Requires two downs, third Quick Revive purchase and closed paths that block normal Pack-a-Punch.",
+      "Closed-door protection differs from the general wiki warning; do not treat it as universal."
+    ],
+    "supplementNote": "Instructions for the BO3 Chronicles edition. These source-reviewed routes have not been independently playtested.",
+    "relatedGuideIds": [
+      "bo3-ascension-community-ascension-map-walkthrough-monkey-rounds",
+      "bo3-ascension-perks-and-loose-change",
+      "bo3-ascension-community-ascension-map-walkthrough-pack-a-punch"
+    ]
+  },
+  {
+    "id": "bo3-ascension-firearms-and-upgrades",
+    "mapId": "bo3-ascension",
+    "title": "Firearms — acquisition, Pack-a-Punch and ammo effects",
+    "category": "weapon",
+    "summary": "Read the 27 historical firearm rows alongside separately attributed BO3 upgraded names and machine instructions.",
+    "difficulty": "Reference / setup",
+    "players": "Solo / co-op",
+    "requirements": [
+      "Black Ops III: Zombies Chronicles Ascension.",
+      "Play the Chronicles edition; BO1’s weapon pool is different.",
+      "Open Pack-a-Punch and keep 5,000 points for an ordinary first machine upgrade, plus 2,500 for a supported ammo-effect reroll.",
+      "The historical table is a documented inventory, not certification of every present weapon, starting-pistol variant, capacity or refill rule."
+    ],
+    "reward": "The purchased firearm and supported upgrade; no separate inventory-completion reward is established.",
+    "steps": [
+      {
+        "title": "Acquire a gun before upgrading it",
+        "body": "The initial Mystery Box is in the power room. The map guide reports 950 points per attempt, reduced to 10 during Fire Sale. Buy a wall gun from its listed region or take the gun offered by the Box. The 27 six-column rows quote the Chronicles table. Arrow titles and Field notes give separately reported BO3 aliases. A dash preserves the source’s blank/nonapplicable value, not an exact room.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+      },
+      {
+        "title": "Purchase the first machine upgrade",
+        "body": "Hold the desired firearm at Pack-a-Punch in the opened rocket bay, pay its prompt and retrieve the upgraded gun. The general BO3 purchase report gives 5,000 points. A name in the table does not independently establish current capacity, damage, ammunition price or a special secret-upgrade task.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/pg8sux/i_just_bought_black_ops_3zombie_chronicles_any/",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/wiki/ascension/",
+          "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+          "https://www.reddit.com/r/CODZombies/comments/54v8y1/weapon_name_list_for_command_console/"
+        ]
+      },
+      {
+        "title": "Choose a supported Alternate Ammo Type",
+        "body": "Insert an eligible already-upgraded firearm again for the reported 2,500-point reroll. Turned makes a zombie attack other zombies; Dead Wire creates an electrical chain; Blast Furnace burns the affected group; Thunder Wall knocks zombies upward; Fire Works briefly spawns a firing gun copy. Different weapons support different machine actions; exact current activation intervals and per-gun eligibility remain unverified.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/game-mechanics/"
+      },
+      {
+        "title": "RK5 → Rex-Kalibur 115",
+        "body": "RK5 | Yes | 500 | Spawn & Bottom of the staircase near Widow's Wine | No | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>RK5</td><td>Yes</td><td>500</td><td>Spawn &amp; Bottom of the staircase near Widow&#x27;s Wine</td><td>No</td><td>Yes</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+          "https://www.reddit.com/r/CODZombies/comments/54v8y1/weapon_name_list_for_command_console/"
+        ],
+        "tip": "The historical wall row lists Spawn & Bottom of the staircase near Widow's Wine at 500 points; confirm the actual gun and prompt. Separate BO3 name reports attribute Rex-Kalibur 115 to RK5; that is not part of the quoted acquisition row. Present capacity, refill costs and transaction eligibility remain untested."
+      },
+      {
+        "title": "L-CAR 9 → Flux Collider 935",
+        "body": "L-CAR 9 | Yes | 750 | In the room next to Quick Revive | Yes | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>L-CAR 9</td><td>Yes</td><td>750</td><td>In the room next to Quick Revive</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+          "https://www.reddit.com/r/CODZombies/comments/54v8y1/weapon_name_list_for_command_console/"
+        ],
+        "tip": "The historical wall row lists In the room next to Quick Revive at 750 points; confirm the actual gun and prompt. Separate BO3 name reports attribute Flux Collider 935 to L-CAR 9; that is not part of the quoted acquisition row. Present capacity, refill costs and transaction eligibility remain untested."
+      },
+      {
+        "title": "KRM-262 → Dagon’s Glare",
+        "body": "KRM-262 | No | - | - | Yes | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>KRM-262</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+          "https://www.reddit.com/r/CODZombies/comments/54v8y1/weapon_name_list_for_command_console/"
+        ],
+        "tip": "The historical table lists a Box route and no wall purchase; find the active Box and take the gun when offered. Separate BO3 name reports attribute Dagon’s Glare to KRM-262; that is not part of the quoted acquisition row. Present capacity, refill costs and transaction eligibility remain untested."
+      },
+      {
+        "title": "Kuda → Crocuta",
+        "body": "Kuda | Yes | 1200 | Opposite side of the door next to the RK5 | No | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>Kuda</td><td>Yes</td><td>1200</td><td>Opposite side of the door next to the RK5</td><td>No</td><td>Yes</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+          "https://www.reddit.com/r/CODZombies/comments/54v8y1/weapon_name_list_for_command_console/"
+        ],
+        "tip": "The historical wall row lists Opposite side of the door next to the RK5 at 1200 points; confirm the actual gun and prompt. Its relative RK5 locator is imprecise. Separate BO3 name reports attribute Crocuta to Kuda; that is not part of the quoted acquisition row. Present capacity, refill costs and transaction eligibility remain untested."
+      },
+      {
+        "title": "Vesper → Infernus",
+        "body": "Vesper | Yes | 1200 | Stamin-up room | No | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>Vesper</td><td>Yes</td><td>1200</td><td>Stamin-up room</td><td>No</td><td>Yes</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+          "https://www.reddit.com/r/CODZombies/comments/54v8y1/weapon_name_list_for_command_console/"
+        ],
+        "tip": "The historical wall row lists Stamin-up room at 1200 points; confirm the actual gun and prompt. Separate BO3 name reports attribute Infernus to Vesper; that is not part of the quoted acquisition row. Present capacity, refill costs and transaction eligibility remain untested."
+      },
+      {
+        "title": "Sheiva → Cumulus Struggle",
+        "body": "Sheiva | Yes | 500 | Spawn | Yes | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>Sheiva</td><td>Yes</td><td>500</td><td>Spawn</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+          "https://www.reddit.com/r/CODZombies/comments/54v8y1/weapon_name_list_for_command_console/"
+        ],
+        "tip": "The historical wall row lists Spawn at 500 points; confirm the actual gun and prompt. Separate BO3 name reports attribute Cumulus Struggle to Sheiva; that is not part of the quoted acquisition row. Present capacity, refill costs and transaction eligibility remain untested."
+      },
+      {
+        "title": "HVK-30 → High Velocity Kicker",
+        "body": "HVK-30 | Yes | 1600 | Nest to Speed Cola | Yes | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>HVK-30</td><td>Yes</td><td>1600</td><td>Nest to Speed Cola</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+          "https://www.reddit.com/r/CODZombies/comments/54v8y1/weapon_name_list_for_command_console/"
+        ],
+        "tip": "The historical wall row lists Nest to Speed Cola at 1600 points; confirm the actual gun and prompt. Separate BO3 name reports attribute High Velocity Kicker to HVK-30; that is not part of the quoted acquisition row. Present capacity, refill costs and transaction eligibility remain untested."
+      },
+      {
+        "title": "KN-44 → Anointed Avenger",
+        "body": "KN-44 | Yes | 1400 | Bottom of the staircase near Mule Kick | Yes | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>KN-44</td><td>Yes</td><td>1400</td><td>Bottom of the staircase near Mule Kick</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+          "https://www.reddit.com/r/CODZombies/comments/54v8y1/weapon_name_list_for_command_console/"
+        ],
+        "tip": "The historical wall row lists Bottom of the staircase near Mule Kick at 1400 points; confirm the actual gun and prompt. Separate BO3 name reports attribute Anointed Avenger to KN-44; that is not part of the quoted acquisition row. Present capacity, refill costs and transaction eligibility remain untested."
+      },
+      {
+        "title": "M8A7 → The Unspeakable",
+        "body": "M8A7 | No | - | - | Yes | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>M8A7</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+          "https://www.reddit.com/r/CODZombies/comments/54v8y1/weapon_name_list_for_command_console/"
+        ],
+        "tip": "The historical table lists a Box route and no wall purchase; find the active Box and take the gun when offered. Separate BO3 name reports attribute The Unspeakable to M8A7; that is not part of the quoted acquisition row. Present capacity, refill costs and transaction eligibility remain untested."
+      },
+      {
+        "title": "ICR-1 → Illuminated Deanimator",
+        "body": "ICR-1 | Yes | 1200 | Next to Lunar Lander Ф | No | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>ICR-1</td><td>Yes</td><td>1200</td><td>Next to Lunar Lander Ф</td><td>No</td><td>Yes</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+          "https://www.reddit.com/r/CODZombies/comments/54v8y1/weapon_name_list_for_command_console/"
+        ],
+        "tip": "The historical wall row lists Next to Lunar Lander Ф at 1200 points; confirm the actual gun and prompt. Separate BO3 name reports attribute Illuminated Deanimator to ICR-1; that is not part of the quoted acquisition row. Present capacity, refill costs and transaction eligibility remain untested."
+      },
+      {
+        "title": "Argus → Ancient Messenger",
+        "body": "Argus | Yes | 1500 | Floor below the Power Switch | No | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>Argus</td><td>Yes</td><td>1500</td><td>Floor below the Power Switch</td><td>No</td><td>Yes</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+          "https://www.reddit.com/r/CODZombies/comments/54v8y1/weapon_name_list_for_command_console/"
+        ],
+        "tip": "The historical wall row lists Floor below the Power Switch at 1500 points; confirm the actual gun and prompt. Separate BO3 name reports attribute Ancient Messenger to Argus; that is not part of the quoted acquisition row. Present capacity, refill costs and transaction eligibility remain untested."
+      },
+      {
+        "title": "VMP → The Impaler",
+        "body": "VMP | Yes | 1300 | Next to Juggernog | No | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>VMP</td><td>Yes</td><td>1300</td><td>Next to Juggernog</td><td>No</td><td>Yes</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+          "https://www.reddit.com/r/CODZombies/comments/54v8y1/weapon_name_list_for_command_console/"
+        ],
+        "tip": "The historical wall row lists Next to Juggernog at 1300 points; confirm the actual gun and prompt. Separate BO3 name reports attribute The Impaler to VMP; that is not part of the quoted acquisition row. Present capacity, refill costs and transaction eligibility remain untested."
+      },
+      {
+        "title": "Pharo → Whispering Regurgitator",
+        "body": "Pharo | No | - | - | Yes | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>Pharo</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+          "https://www.reddit.com/r/CODZombies/comments/54v8y1/weapon_name_list_for_command_console/"
+        ],
+        "tip": "The historical table lists a Box route and no wall purchase; find the active Box and take the gun when offered. Separate BO3 name reports attribute Whispering Regurgitator to Pharo; that is not part of the quoted acquisition row. Present capacity, refill costs and transaction eligibility remain untested."
+      },
+      {
+        "title": "Weevil → Barrage",
+        "body": "Weevil | No | - | - | Yes | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>Weevil</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+          "https://www.reddit.com/r/CODZombies/comments/54v8y1/weapon_name_list_for_command_console/"
+        ],
+        "tip": "The historical table lists a Box route and no wall purchase; find the active Box and take the gun when offered. Separate BO3 name reports attribute Barrage to Weevil; that is not part of the quoted acquisition row. Present capacity, refill costs and transaction eligibility remain untested."
+      },
+      {
+        "title": "BRM → Blight Oblivion",
+        "body": "BRM | No | - | - | Yes | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>BRM</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+          "https://www.reddit.com/r/CODZombies/comments/54v8y1/weapon_name_list_for_command_console/"
+        ],
+        "tip": "The historical table lists a Box route and no wall purchase; find the active Box and take the gun when offered. Separate BO3 name reports attribute Blight Oblivion to BRM; that is not part of the quoted acquisition row. Present capacity, refill costs and transaction eligibility remain untested."
+      },
+      {
+        "title": "Dingo → Dire Wolf",
+        "body": "Dingo | No | - | - | Yes | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>Dingo</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+          "https://www.reddit.com/r/CODZombies/comments/54v8y1/weapon_name_list_for_command_console/"
+        ],
+        "tip": "The historical table lists a Box route and no wall purchase; find the active Box and take the gun when offered. Separate BO3 name reports attribute Dire Wolf to Dingo; that is not part of the quoted acquisition row. Present capacity, refill costs and transaction eligibility remain untested."
+      },
+      {
+        "title": "48 Dredge → Trapezohedron Shard",
+        "body": "48 Dredge | No | - | - | Yes | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>48 Dredge</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+          "https://www.reddit.com/r/CODZombies/comments/54v8y1/weapon_name_list_for_command_console/"
+        ],
+        "tip": "The historical table lists a Box route and no wall purchase; find the active Box and take the gun when offered. Separate BO3 name reports attribute Trapezohedron Shard to 48 Dredge; that is not part of the quoted acquisition row. Present capacity, refill costs and transaction eligibility remain untested."
+      },
+      {
+        "title": "Gorgon → Athena’s Spear",
+        "body": "Gorgon | No | - | - | Yes | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>Gorgon</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+          "https://www.reddit.com/r/CODZombies/comments/54v8y1/weapon_name_list_for_command_console/"
+        ],
+        "tip": "The historical table lists a Box route and no wall purchase; find the active Box and take the gun when offered. Separate BO3 name reports attribute Athena’s Spear to Gorgon; that is not part of the quoted acquisition row. Present capacity, refill costs and transaction eligibility remain untested."
+      },
+      {
+        "title": "Locus → Arrhythmic Dirge",
+        "body": "Locus | No | - | - | Yes | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>Locus</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+          "https://www.reddit.com/r/CODZombies/comments/54v8y1/weapon_name_list_for_command_console/"
+        ],
+        "tip": "The historical table lists a Box route and no wall purchase; find the active Box and take the gun when offered. Separate BO3 name reports attribute Arrhythmic Dirge to Locus; that is not part of the quoted acquisition row. Present capacity, refill costs and transaction eligibility remain untested."
+      },
+      {
+        "title": "Drakon → Bahamut",
+        "body": "Drakon | No | - | - | Yes | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>Drakon</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+          "https://www.reddit.com/r/CODZombies/comments/54v8y1/weapon_name_list_for_command_console/"
+        ],
+        "tip": "The historical table lists a Box route and no wall purchase; find the active Box and take the gun when offered. Separate BO3 name reports attribute Bahamut to Drakon; that is not part of the quoted acquisition row. Present capacity, refill costs and transaction eligibility remain untested."
+      },
+      {
+        "title": "SVG-100 → Ikken Hissatsu",
+        "body": "SVG-100 | No | - | - | Yes | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>SVG-100</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+          "https://www.reddit.com/r/CODZombies/comments/54v8y1/weapon_name_list_for_command_console/"
+        ],
+        "tip": "The historical table lists a Box route and no wall purchase; find the active Box and take the gun when offered. Separate BO3 name reports attribute Ikken Hissatsu to SVG-100; that is not part of the quoted acquisition row. Present capacity, refill costs and transaction eligibility remain untested."
+      },
+      {
+        "title": "Man-O-War → Dread Armada",
+        "body": "Man-O-War | No | - | - | Yes | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>Man-O-War</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+          "https://www.reddit.com/r/CODZombies/comments/54v8y1/weapon_name_list_for_command_console/"
+        ],
+        "tip": "The historical table lists a Box route and no wall purchase; find the active Box and take the gun when offered. Separate BO3 name reports attribute Dread Armada to Man-O-War; that is not part of the quoted acquisition row. Present capacity, refill costs and transaction eligibility remain untested."
+      },
+      {
+        "title": "205 Brecci → Stellar Screech",
+        "body": "205 Brecci | No | - | - | Yes | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>205 Brecci</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+          "https://www.reddit.com/r/CODZombies/comments/54v8y1/weapon_name_list_for_command_console/"
+        ],
+        "tip": "The historical table lists a Box route and no wall purchase; find the active Box and take the gun when offered. Separate BO3 name reports attribute Stellar Screech to 205 Brecci; that is not part of the quoted acquisition row. Present capacity, refill costs and transaction eligibility remain untested."
+      },
+      {
+        "title": "Haymaker 12 → Shoeshining 100",
+        "body": "Haymaker 12 | No | - | - | Yes | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>Haymaker 12</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+          "https://www.reddit.com/r/CODZombies/comments/54v8y1/weapon_name_list_for_command_console/"
+        ],
+        "tip": "The historical table lists a Box route and no wall purchase; find the active Box and take the gun when offered. Separate BO3 name reports attribute Shoeshining 100 to Haymaker 12; that is not part of the quoted acquisition row. Present capacity, refill costs and transaction eligibility remain untested."
+      },
+      {
+        "title": "XM-53 → Heliacal Incandescence",
+        "body": "XM-53 | No | - | - | Yes | Yes",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>XM-53</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+          "https://www.reddit.com/r/CODZombies/comments/54v8y1/weapon_name_list_for_command_console/"
+        ],
+        "tip": "The historical table lists a Box route and no wall purchase; find the active Box and take the gun when offered. Separate BO3 name reports attribute Heliacal Incandescence to XM-53; that is not part of the quoted acquisition row. Present capacity, refill costs and transaction eligibility remain untested."
+      },
+      {
+        "title": "Galil — reported acquisition",
+        "body": "Galil | No | - | - | Yes | No",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>Galil</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>No</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/",
+        "corroboratingSources": [],
+        "tip": "The historical table lists a Box route and no wall purchase; find the active Box and take the gun when offered. The reviewed name reports do not establish Galil’s Chronicles upgraded name. Present capacity, refill costs and transaction eligibility remain untested."
+      },
+      {
+        "title": "M16 — reported acquisition",
+        "body": "M16 | No | - | - | Yes | No",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>M16</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>No</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/",
+        "corroboratingSources": [],
+        "tip": "The historical table lists a Box route and no wall purchase; find the active Box and take the gun when offered. The reviewed name reports do not establish M16’s Chronicles upgraded name. Present capacity, refill costs and transaction eligibility remain untested."
+      },
+      {
+        "title": "Keep Ray Guns, wonder weapons and equipment separate",
+        "body": "The Chronicles map table also lists the Ray Gun, Ray Gun Mark II and Thundergun as Box weapons, plus Gersch Devices and explosive Matryoshka Dolls. The Thundergun companion explains its documented machine upgrade. Ray Gun → Porter’s X2 Ray Gun is independently named by both BO3 reports; a checked Mark II upgrade-name/capacity route remains missing here.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ascension/",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/",
+          "https://www.reddit.com/r/CODZombies/comments/54v8y1/weapon_name_list_for_command_console/"
+        ],
+        "tip": "Galil, M16 and Ray Gun Mark II upgraded-name details, current acquisition completeness, starting-pistol variants, per-gun capacity/refills, exact wall mounts and machine/gum eligibility remain unverified."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Ascension reference",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/ascension/"
+      },
+      {
+        "title": "BO3 definitions",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/game-mechanics/"
+      },
+      {
+        "title": "BO3 purchase reports",
+        "url": "https://www.reddit.com/r/CODZombies/comments/pg8sux/i_just_bought_black_ops_3zombie_chronicles_any/"
+      },
+      {
+        "title": "ravnos13: BO3 names",
+        "url": "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/"
+      },
+      {
+        "title": "Terminus259: names; map limits apply",
+        "url": "https://www.reddit.com/r/CODZombies/comments/54v8y1/weapon_name_list_for_command_console/"
+      }
+    ],
+    "sourceQuote": "https://www.reddit.com/r/CODZombies/wiki/ascension/",
+    "sharedSource": false,
+    "checked": "2026-10-23",
+    "sourceOmissions": [
+      "Historical 27 ordinary firearm rows exclude wonder weapons, equipment and account-dependent starting-pistol variants; no present complete inventory claim.",
+      "Galil, M16 and Ray Gun Mark II upgrade details need primary verification.",
+      "Per-gun capacities, damage, refill costs, current exact wall mounts and gum/machine eligibility are unverified."
+    ],
+    "supplementNote": "The 27 six-column table rows are literal excerpts from the Chronicles-specific Reddit reference. Authored setup, arrow titles and Field notes explain machine use and separately reported BO3 aliases. These are historical rows, not a current retail inventory certification.",
+    "relatedGuideIds": [
+      "bo3-ascension-community-ascension-map-walkthrough-pack-a-punch",
+      "bo3-ascension-community-ascension-special-weapons-thundergun",
+      "bo3-ascension-community-ascension-special-weapons-thundergun-upgrade",
+      "bo3-ascension-community-ascension-special-weapons-special-grenades"
+    ]
   }
 ]
