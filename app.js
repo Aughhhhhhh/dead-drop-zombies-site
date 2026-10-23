@@ -73,7 +73,8 @@ function imageFor(map) {
 }
 
 function guideImage(image) {
-  return `<figure class="reader-figure"><a href="${e(image.src)}" target="_blank" rel="noopener noreferrer" aria-label="Open full-size image: ${e(image.alt)}"><img src="${e(image.src)}" alt="${e(image.alt)}" loading="lazy" width="960" height="540"></a><figcaption>${e(image.caption || "Map reconnaissance")} · <a href="${e(image.source)}" target="_blank" rel="noopener noreferrer">${e(image.credit)} ${arrow}</a> · Open image for full size</figcaption></figure>`;
+  const [width, height] = media.sizes?.[image.src] || [image.width || 960, image.height || 540];
+  return `<figure class="reader-figure"><a href="${e(image.src)}" target="_blank" rel="noopener noreferrer" aria-label="Open full-size image: ${e(image.alt)}"><img src="${e(image.src)}" alt="${e(image.alt)}" loading="lazy" width="${e(width)}" height="${e(height)}"></a><figcaption>${e(image.caption || "Map reconnaissance")} · <a href="${e(image.source)}" target="_blank" rel="noopener noreferrer">${e(image.credit)} ${arrow}</a> · Open image for full size</figcaption></figure>`;
 }
 
 function completedFor(guide) {

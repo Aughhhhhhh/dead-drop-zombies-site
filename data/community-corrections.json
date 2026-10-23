@@ -1475,6 +1475,253 @@
         "sharedSource": false,
         "sourceQuote": null,
         "supplementNote": "Original prose checked specifically for original BO1 Moon. Source disagreements and photo limitations are recorded in the batch6 audit; no Chronicles-only trigger is included."
+      },
+      "bo3-moon": {
+        "title": "Main Easter Egg: Chronicles route",
+        "category": "main",
+        "difficulty": "Hard",
+        "players": "Solo / co-op",
+        "summary": "The written BO3 route through solo setup, the lab puzzle, MPD stages and a consistent QED-first finale.",
+        "requirements": [
+          "Black Ops III Zombies Chronicles Moon.",
+          "Power, laboratory access, both tunnels and the MPD.",
+          "Wave Gun, Hacker, Gersh Devices and QEDs; points to replace the tactical-grenade slot.",
+          "Richtofen performs Vril Device interactions. Earlier-map quest completions are unnecessary in Chronicles."
+        ],
+        "reward": "The MPD reveal, soul exchange, missile finale and reported quest perks.",
+        "steps": [
+          {
+            "title": "Use the Chronicles prerequisites",
+            "body": "The full quest supports solo in BO3. Richtofen starts with the assembled Vril Device, so earlier Shangri-La or Call of the Dead completions are unnecessary. In co-op, identify Richtofen for the device interactions. Obtain the Wave Gun and Hacker, and budget for repeated Mystery Box rolls: Gersh Devices and QEDs occupy the same tactical slot, so a solo player must swap between them during the quest.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/xe53wv/do_i_need_to_complete_the_shangrila_easter_egg_to/",
+            "tip": "The BO1 prerequisite and achievement rules do not establish BO3 awards. This route makes no promise about a named BO3 trophy unlocking.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/1e3okcu/moon_solo_easter_egg/",
+              "https://www.reddit.com/r/CODZombies/wiki/moon/"
+            ]
+          },
+          {
+            "title": "Take a PES on Moon and turn on power",
+            "body": "Use the Area 51 teleporter to reach lunar receiving, then collect a PES from the cabinet across from Quick Revive. Open a route through the tunnels to the MPD pyramid and use the power switch beside it. Keep the suit available for the surface and breached rooms. Carrying the Hacker later replaces the PES; use oxygenated rooms for Hacker work and make exposed trips short.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+            "tip": "No oxygen countdown has been measured here. Do not assume a breached tunnel regains air when its excavator retracts.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/ec3xsb/help_with_moon/"
+            ]
+          },
+          {
+            "title": "Repeat the first Samantha Says pattern",
+            "body": "Outside the lunar receiving bay, find the four colored computer screens. Facing them, the order is red, green, blue, yellow from left to right. Interact to begin, watch the displayed sequence, then interact with the screens in that same order. Repeat the growing pattern until the game signals success. These are generated colors for your run, not the fixed MPD-button puzzle used by the separate Samantha music secret.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/j8b2c8/requested_moon_loading_screen/"
+            ]
+          },
+          {
+            "title": "Find the Hacker and start the lab sequence",
+            "body": "Search the six laboratory spots: first floor, the shelf left of the stairs up and the shelf right of the exit; second floor, the blue railing right of the stairs up and the electrical box left of those stairs; third floor, the tanks right of Deadshot and the shelf left of the Biodome exit. Pick up the Hacker. On the second floor, hack the leftmost of the four wall buttons for 500 points.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+            "tip": "The six Hacker spots and lead candidates are written landmarks, without verified close-up photos. The cable candidates are examples, not an exhaustive spawn list."
+          },
+          {
+            "title": "Hack four green access panels",
+            "body": "During the timed attempt, search all three laboratory floors for four access panels glowing green. Equip the Hacker and complete the hack on each. These are scattered panels, not simply the original row of four buttons. If the attempt fails, return to the starting button, restart and search again.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+            "tip": "The written sources do not establish an independently verified timer duration; finish all four promptly.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/j8b2c8/requested_moon_loading_screen/"
+            ]
+          },
+          {
+            "title": "Light the original four buttons",
+            "body": "Return to the second-floor row where the attempt began. Interact with all four buttons quickly from left to right. Check that all four remain lit before advancing. If they do not, repeat the failed lab sequence rather than assuming that an unfinished attempt counted.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/"
+          },
+          {
+            "title": "Allow the Tunnel 6 excavator to breach",
+            "body": "Progress rounds while listening to the station announcements. The needed event is Excavator Pi cutting Tunnel 6. Let that breach finish; stopping the machine before it cuts the tunnel prevents the required sphere from appearing. Other excavator warnings do not substitute for Tunnel 6.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+            "tip": "Excavator selection is random in the reports. No fixed round or guaranteed number of rounds is established.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/j8b2c8/requested_moon_loading_screen/"
+            ]
+          },
+          {
+            "title": "Retract the excavator from receiving",
+            "body": "After Tunnel 6 has been cut, carry the Hacker to the lunar receiving bay and hack the control panel for the active Tunnel 6 excavator. Check that the obstruction retracts before entering the tunnel. Use the PES for the breached passage once the Hacker work is finished.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+            "tip": "Retraction removes the moving obstruction; it does not repair the decompressed tunnel.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/ec3xsb/help_with_moon/"
+            ]
+          },
+          {
+            "title": "Move the sphere through Tunnel 6",
+            "body": "Find the small stone sphere in Tunnel 6. Knife it or shoot it to send it onward, follow its movement and hit it again at each stop. Guide it toward the receiving bay until it rests high on the satellite dish outside spawn. Look above floor level when tracking it.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/j8b2c8/requested_moon_loading_screen/"
+            ]
+          },
+          {
+            "title": "Shoot the dish with the combined Wave Gun",
+            "body": "Obtain the Wave Gun from the Mystery Box if you have not already. Merge the two Zap Guns into the combined Wave Gun with the weapon-mode control; the source gives left on the controller D-pad. Shoot the sphere on the satellite dish with the combined weapon. It moves toward the Tunnel 11 entrance.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+            "tip": "Use your configured mode-switch binding on PC; an unverified keyboard key is not supplied.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/j8b2c8/requested_moon_loading_screen/"
+            ]
+          },
+          {
+            "title": "Guide the sphere through Tunnel 11",
+            "body": "Enter Tunnel 11 and continue shooting or knifing the sphere at its stops. Track it along raised positions as well as the floor. Keep following until it reaches the MPD and inserts into its front panel. A soul canister appears at the front-right corner.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/"
+          },
+          {
+            "title": "Fill the first soul canister and open the MPD",
+            "body": "Stand near the exposed canister and kill 25 zombies close enough for their souls to enter it. Wait for its completion cue. Use the lever beside that corner to open the pyramid and reveal Samantha. The source describes a temporary Death Machine reward; completing this reveal does not end the BO3 solo route.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+            "tip": "A precise Death Machine duration and named BO3 achievement award have not been independently checked.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/xe53wv/do_i_need_to_complete_the_shangrila_easter_egg_to/"
+            ]
+          },
+          {
+            "title": "Collect the Area 51 plates with a Gersh Device",
+            "body": "Acquire Gersh Devices and return to Area 51 using the lunar teleporter pad; in co-op gather all living players on it. Find the shelving outside the playable fence, described in the written route as right of the teleporter mainframe. Throw a grenade to knock down the metal plates, then throw a Gersh Device near the fallen plates so they are pulled onto the teleporter. Return to Moon with them.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+            "tip": "The written right-side bearing needs a native view. Check the fallen plates and transport result before spending another tactical grenade.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/j8b2c8/requested_moon_loading_screen/"
+            ]
+          },
+          {
+            "title": "Move the plates to the spawn computer with a QED",
+            "body": "After returning, find the plates on the ground near Quick Revive in lunar spawn. Obtain QEDs, replacing your Gersh slot when needed, and throw one at the plates. Confirm that the plates move onto the computer apparatus before continuing.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/j8b2c8/requested_moon_loading_screen/"
+            ]
+          },
+          {
+            "title": "Find a lead and connect the computer",
+            "body": "Look for the curved silver lead around the laboratory: the original walkthrough gives lab corners, a table, the upstairs lab doorway and the material pile outside toward Mule Kick as candidate checks. Pick it up and attach it between the receiving-bay computer and the plates. Have Richtofen insert his Vril Device into the apparatus.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/j8b2c8/requested_moon_loading_screen/",
+            "tip": "The six Hacker spots and lead candidates are written landmarks, without verified close-up photos. The cable candidates are examples, not an exhaustive spawn list.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/wiki/moon/"
+            ]
+          },
+          {
+            "title": "Charge and retrieve the Vril Device",
+            "body": "As Richtofen, interact with the receiving-bay computer to advance the exchange. Let each exchange progress and interact again as needed until the screen turns green. Retrieve the charged Vril Device from the apparatus. Keep the text and audio cues as your progress check rather than counting an assumed number of interactions.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+            "tip": "The number of uses, dialogue timing and co-op ownership details have not been independently measured.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/j8b2c8/requested_moon_loading_screen/"
+            ]
+          },
+          {
+            "title": "Fill the four corner canisters",
+            "body": "Return to the MPD and feed the four corner canisters with nearby zombie kills. The written target is 25 souls at each corner, 100 total for this stage. Check each canister rather than sending all kills toward a corner that is already full. Continue only after all four indicate completion.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+            "tip": "The demonstration shows all four tubes raised after the MPD opens and the charged Vril is collected. A separate raising input is not shown.",
+            "corroboratingSources": [
+              "https://www.youtube.com/watch?v=wFIG6Zul2L0&t=575"
+            ]
+          },
+          {
+            "title": "Insert the charged device at the MPD",
+            "body": "Have Richtofen place the charged Vril Device in the front receptacle after the four-canister stage is complete. Wait for the soul-exchange scene and check its completion before moving to the missile sequence. The source reports all eight perks for Richtofen at this point.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+            "tip": "Exact persistence after later downs, solo Quick Revive limits and current award behavior have not been tested here."
+          },
+          {
+            "title": "Use a QED to release the sphere",
+            "body": "Throw a QED at the sphere on the front of the MPD. Confirm that it leaves the pyramid and reaches the outdoor Samantha Says computers. This route puts the sphere transfer before the final three games, following the original player walkthrough.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/j8b2c8/requested_moon_loading_screen/",
+            "tip": "The recorded BO3 route confirms this order: QED, three games, then Gersh.",
+            "corroboratingSources": [
+              "https://www.youtube.com/watch?v=wFIG6Zul2L0&t=615"
+            ]
+          },
+          {
+            "title": "Win three final Samantha Says games",
+            "body": "At the outdoor computers, watch and repeat the displayed colors as before: red, green, blue, yellow from left to right. Complete three successful games and check the rocket-stage confirmations. Protect the player entering the patterns and do not replace a generated sequence with a fixed remembered code.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/j8b2c8/requested_moon_loading_screen/",
+            "tip": "The recorded BO3 route confirms this order: QED, three games, then Gersh.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/wiki/moon/",
+              "https://www.youtube.com/watch?v=wFIG6Zul2L0&t=615"
+            ]
+          },
+          {
+            "title": "Send the sphere into a Gersh Device",
+            "body": "Obtain Gersh Devices again if needed. Throw one beside the sphere at the outdoor computers so the portal takes it in. Wait for the rocket launch and Earth-destruction sequence to finish. The written route reports the remaining players receiving the quest perks; the match can continue afterward.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/j8b2c8/requested_moon_loading_screen/",
+            "tip": "No named BO3 trophy, exact ending timer or retail completion has been certified in this research pass.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/wiki/moon/"
+            ]
+          }
+        ],
+        "sourceOmissions": [
+          "The six Hacker spots and lead candidates are written landmarks, without verified close-up photos. The cable candidates are examples, not an exhaustive spawn list.",
+          "The exact lab timer, canister-raising/lever trigger details, dialogue pacing, throw tolerances, retries and current co-op behavior have not been tested here.",
+          "Written sources conflict on the final order. This route follows the original player walkthrough: QED sphere, three Samantha Says games, then Gersh. The recorded BO3 route supports this order.",
+          "The BO1 prerequisite and achievement rules do not establish BO3 awards. This route makes no promise about a named BO3 trophy unlocking."
+        ],
+        "sources": [
+          {
+            "title": "Moon wiki",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/moon/"
+          },
+          {
+            "title": "Chronicles prerequisites",
+            "url": "https://www.reddit.com/r/CODZombies/comments/xe53wv/do_i_need_to_complete_the_shangrila_easter_egg_to/"
+          },
+          {
+            "title": "Original walkthrough",
+            "url": "https://www.reddit.com/r/CODZombies/comments/j8b2c8/requested_moon_loading_screen/"
+          },
+          {
+            "title": "Oxygen and Hacker",
+            "url": "https://www.reddit.com/r/CODZombies/comments/ec3xsb/help_with_moon/"
+          },
+          {
+            "title": "Solo report",
+            "url": "https://www.reddit.com/r/CODZombies/comments/1e3okcu/moon_solo_easter_egg/"
+          },
+          {
+            "title": "Demonstration",
+            "url": "https://www.youtube.com/watch?v=wFIG6Zul2L0"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "supplementNote": "Edition-specific instructions with attributed frames from the recorded demonstrations. No independent retail playtest."
       }
     }
   },
@@ -20349,6 +20596,63 @@
         "sharedSource": false,
         "sourceQuote": null,
         "supplementNote": "Original prose checked specifically for original BO1 Moon. Source disagreements and photo limitations are recorded in the batch6 audit; no Chronicles-only trigger is included."
+      },
+      "bo3-moon": {
+        "title": "Power and the route to the MPD",
+        "category": "side",
+        "difficulty": "Setup / reference",
+        "players": "Solo / co-op",
+        "summary": "Leave Area 51, collect the lunar suit and switch on the Moon base.",
+        "requirements": [
+          "Black Ops III Zombies Chronicles Moon.",
+          "Open a tunnel route to the pyramid."
+        ],
+        "reward": "Base power for perks and map interactions.",
+        "steps": [
+          {
+            "title": "Reach lunar receiving and take a PES",
+            "body": "Use the Area 51 starting teleporter to reach the lunar receiving room. Collect a PES from the cabinet across from Quick Revive and equip it for the surface or any room that has lost its air. Follow your configured equipment control rather than an assumed keyboard binding.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+            "tip": "No oxygen countdown is certified here.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/ec3xsb/help_with_moon/"
+            ]
+          },
+          {
+            "title": "Open a tunnel route to the pyramid",
+            "body": "From lunar receiving, open the available route through Tunnel 6 or Tunnel 11 toward the MPD room. Read door prompts and keep enough points for the route. The MPD is the large black pyramid; reach its room before looking for the switch.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/"
+          },
+          {
+            "title": "Use the switch beside the MPD",
+            "body": "Interact with the power switch in the MPD room near the Tunnel 6 side. Check the base power response. Later excavator cuts or broken lab windows can still remove oxygen from individual rooms, so power does not make every area safe without a PES.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+            "tip": "Hacker carriage replaces the PES. Do oxygen-sensitive work from an intact room.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/ec3xsb/help_with_moon/"
+            ]
+          }
+        ],
+        "sourceOmissions": [
+          "Door-by-door cost and oxygen timers have not been checked in current retail gameplay."
+        ],
+        "sources": [
+          {
+            "title": "Moon wiki",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/moon/"
+          },
+          {
+            "title": "Oxygen report",
+            "url": "https://www.reddit.com/r/CODZombies/comments/ec3xsb/help_with_moon/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "supplementNote": "Edition-specific authored instructions from the linked primary reports. No new step photos or independent retail playtest."
       }
     }
   },
@@ -20415,6 +20719,89 @@
         "sharedSource": false,
         "sourceQuote": null,
         "supplementNote": "Original prose checked specifically for original BO1 Moon. Source disagreements and photo limitations are recorded in the batch6 audit; no Chronicles-only trigger is included."
+      },
+      "bo3-moon": {
+        "title": "Pack-a-Punch and alternate ammo",
+        "category": "weapon",
+        "difficulty": "Setup / reference",
+        "players": "Solo / co-op",
+        "summary": "Use the Area 51 machine, return from Moon and re-pack compatible BO3 firearms.",
+        "requirements": [
+          "Black Ops III Zombies Chronicles Moon.",
+          "A compatible firearm and 5,000 points for its standard first upgrade.",
+          "For a lunar return, gather every living player on the pad outside the laboratory."
+        ],
+        "reward": "A first weapon upgrade and, for compatible firearms, a BO3 alternate-ammo effect.",
+        "steps": [
+          {
+            "title": "Find the ready machine at Area 51",
+            "body": "Pack-a-Punch is already accessible at the Area 51 starting area; there is no Moon machine-unlock puzzle. Survive long enough to earn the required points or return later from the lunar base. Keep a path back to the teleporter while using the machine.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/"
+          },
+          {
+            "title": "Return from the lunar teleporter pad",
+            "body": "Reach the lunar pad above the MPD area, outside the Biodome/laboratory route near the KN-44 and Mule Kick landmarks. All living players must stand on the pad together to trigger the Area 51 trip. Use a PES on the exposed route. The old AK74u landmark belongs to a different edition.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+            "tip": "Public co-op coordination can block a return. Exact pad reset timing has not been measured."
+          },
+          {
+            "title": "Buy the standard first upgrade",
+            "body": "Equip the firearm you want to upgrade and use the machine for 5,000 points. Wait for it to return and collect it. Read its resulting name and ammunition display rather than assuming every weapon gains the same effect or capacity.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/pg8sux/",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/wiki/moon/"
+            ]
+          },
+          {
+            "title": "Re-pack an eligible firearm for 2,500",
+            "body": "For an already-upgraded compatible BO3 firearm, check the machine for its 2,500-point repeat purchase. This can give Dead Wire, Blast Furnace, Thunder Wall, Turned or Fire Works. Collect the gun and check its effect label. These effects activate periodically; an ordinary repeat purchase is not a new base-damage tier on every use.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/game-mechanics/",
+            "tip": "This replaces the shared source’s once-per-weapon wording. Wonder weapons are not assumed to support alternate ammo.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/pg8sux/",
+              "https://www.reddit.com/r/CODZombies/wiki/moon/"
+            ]
+          },
+          {
+            "title": "Use the Hacker gate option when needed",
+            "body": "The Hacker can operate the Pack-a-Punch area’s protection gates while someone uses the machine. Complete the hack and confirm that protection is active before relying on it. Coordinate who keeps a PES and who brings the Hacker for the trip.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/h9qx2m/multiple_hacker_uses_on_moon_bo3/",
+            "tip": "An exact gate duration and current point award are not certified here.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/hb1n3o/how_do_i_play_moon/"
+            ]
+          }
+        ],
+        "sourceOmissions": [
+          "Exact gate timing, per-weapon eligibility, ammunition capacities and current purchase prompts remain unchecked."
+        ],
+        "sources": [
+          {
+            "title": "Moon wiki",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/moon/"
+          },
+          {
+            "title": "BO3 prices",
+            "url": "https://www.reddit.com/r/CODZombies/comments/pg8sux/"
+          },
+          {
+            "title": "BO3 mechanics",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/game-mechanics/"
+          },
+          {
+            "title": "BO3 Hacker",
+            "url": "https://www.reddit.com/r/CODZombies/comments/h9qx2m/multiple_hacker_uses_on_moon_bo3/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "supplementNote": "Edition-specific authored instructions from the linked primary reports. No new step photos or independent retail playtest."
       }
     }
   },
@@ -20477,6 +20864,91 @@
         "sharedSource": false,
         "sourceQuote": null,
         "supplementNote": "Original prose checked specifically for original BO1 Moon. Source disagreements and photo limitations are recorded in the batch6 audit; no Chronicles-only trigger is included."
+      },
+      "bo3-moon": {
+        "title": "Wave Gun and Zap Guns: acquisition and upgrade",
+        "category": "weapon",
+        "difficulty": "Setup / reference",
+        "players": "Solo / co-op",
+        "summary": "Get the lunar wonder weapon, switch its two modes and make the standard Pack-a-Punch upgrade.",
+        "requirements": [
+          "Black Ops III Zombies Chronicles Moon.",
+          "Mystery Box access and points for random rolls.",
+          "Area 51 access and 5,000 points for the ordinary first upgrade."
+        ],
+        "reward": "Wave Gun / dual Zap Guns, upgraded as Max Wave Gun / Porter’s X2 Zap Guns.",
+        "steps": [
+          {
+            "title": "Roll the active Mystery Box",
+            "body": "Find the active Box and pay for offers until the Wave Gun / Zap Gun Dual Wield is offered. Take it before the offer expires. The Chronicles table lists the weapon in the Box, with no wall purchase. It is also needed for the main quest and Space Dog; neither route guarantees an early roll.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+            "tip": "No current Box odds or simultaneous co-op ownership rule has been independently verified."
+          },
+          {
+            "title": "Switch between dual and combined modes",
+            "body": "The weapon has dual Zap Guns and a combined two-handed Wave Gun mode. Use the weapon-mode control to change between them; the written controller instruction is left on the D-pad. Check which mode is equipped before firing, especially for a quest shot that explicitly needs the combined weapon.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+            "tip": "Use the configured PC binding. No unverified universal keyboard key is supplied."
+          },
+          {
+            "title": "Upgrade at the Area 51 machine",
+            "body": "Carry the weapon to Pack-a-Punch and make the standard 5,000-point first purchase when the prompt is available. Collect it afterward. The documented upgraded names are Max Wave Gun for combined mode and Porter’s X2 Zap Guns for dual mode.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+            "tip": "Exact current magazine/reserve capacities are not certified by this written-source pass.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/pg8sux/"
+            ]
+          },
+          {
+            "title": "Do not budget for alternate ammo on this weapon",
+            "body": "The Moon wiki explicitly separates the BO3 wonder weapon from double Pack-a-Punch. Use the ordinary first upgrade, then read the machine’s prompt rather than assuming the 2,500-point alternate-ammo route applies to the Wave Gun.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/"
+          },
+          {
+            "title": "Plan an ammunition route",
+            "body": "The linked BO3 player reports use hacked Max Ammo drops and optional Alchemical Antithesis to sustain the Wave Gun. Keep points for a Hacker conversion when using that option and protect the player carrying it. A player report says Wave Gun kills do not produce normal drops; do not rely on such a kill to supply the next refill.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/135syko/my_opinion_of_moon_has_changed_thanks_to_the_bo3/",
+            "tip": "Drop behavior, exact ammo stocks and optional gum interactions have not been retail-tested here.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/jdq4vi/bo3_moon_help/",
+              "https://www.reddit.com/r/CODZombies/wiki/game-mechanics/"
+            ]
+          }
+        ],
+        "sourceOmissions": [
+          "A complete current QED weapon-award pool, ownership limits and all ammunition capacities remain unverified."
+        ],
+        "sources": [
+          {
+            "title": "Moon wiki",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/moon/"
+          },
+          {
+            "title": "BO3 prices",
+            "url": "https://www.reddit.com/r/CODZombies/comments/pg8sux/"
+          },
+          {
+            "title": "BO3 Wave Gun report",
+            "url": "https://www.reddit.com/r/CODZombies/comments/135syko/my_opinion_of_moon_has_changed_thanks_to_the_bo3/"
+          },
+          {
+            "title": "BO3 ammunition report",
+            "url": "https://www.reddit.com/r/CODZombies/comments/jdq4vi/bo3_moon_help/"
+          },
+          {
+            "title": "BO3 mechanics",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/game-mechanics/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "supplementNote": "Edition-specific authored instructions from the linked primary reports. No new step photos or independent retail playtest."
       }
     }
   },
@@ -20579,6 +21051,98 @@
         "sharedSource": false,
         "sourceQuote": null,
         "supplementNote": "Original prose checked specifically for original BO1 Moon. Source disagreements and photo limitations are recorded in the batch6 audit; no Chronicles-only trigger is included."
+      },
+      "bo3-moon": {
+        "title": "Gersh Devices and QEDs",
+        "category": "weapon",
+        "difficulty": "Setup / reference",
+        "players": "Solo / co-op",
+        "summary": "Acquire the two lunar tactical grenades, use their documented roles and plan the quest swaps.",
+        "requirements": [
+          "Black Ops III Zombies Chronicles Moon.",
+          "Access to the active Mystery Box.",
+          "Keep points for replacement rolls if a quest needs the other tactical type."
+        ],
+        "reward": "A Gersh or QED tactical slot and the supported quest uses.",
+        "steps": [
+          {
+            "title": "Find either tactical in the Box",
+            "body": "The Chronicles weapon table lists both Gersh Devices and QEDs as Mystery Box offers, with no wall-buy route. Roll the active Box and take the type you need. Do not treat a certain number of rolls as guaranteed.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/"
+          },
+          {
+            "title": "Plan around one tactical slot",
+            "body": "Taking the other type replaces the tactical already carried. Solo main-quest reports explicitly describe swapping Gersh to QED and back through further Box hits. Use the Hacker reroll method if you choose to spend points on it, and leave enough reserve to continue the route.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/1e3okcu/moon_solo_easter_egg/",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/1bxo1ci/im_going_to_lose_it/"
+            ]
+          },
+          {
+            "title": "Use Gersh for a black-hole escape",
+            "body": "Throw a Gersh Device onto a suitable surface to open its temporary purple portal. Nearby zombies are pulled in. A player can jump into the portal for a random teleport, which can provide an escape but does not choose a guaranteed destination. The written equipment entry lists three throws before a Max Ammo refill.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+            "tip": "The old entry’s exact portal duration and all target immunities have not been checked for current BO3."
+          },
+          {
+            "title": "Treat QED outcomes as random",
+            "body": "A QED produces a random event rather than a guaranteed defensive portal. The written entry lists three uses before a Max Ammo refill. BO3 reports confirm the equipment and its quest interactions, but the long legacy effect list includes BO1 weapons and does not establish the full remaster pool.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+            "tip": "No complete BO3 event pool, outcome odds or safe radius is certified. Do not repeat the old Python, China Lake or SPAS-12 list as a current BO3 inventory."
+          },
+          {
+            "title": "Reserve the correct main-quest throws",
+            "body": "Use Gersh for the fallen Area 51 plates, then QED for the plates beside Quick Revive. Near the finale, use QED at the MPD sphere, finish three Samantha Says games and use Gersh beside the outdoor sphere. Check the visible transfer after each throw. The main guide expands each stage and flags the written final-order conflict.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/j8b2c8/requested_moon_loading_screen/",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/wiki/moon/"
+            ]
+          },
+          {
+            "title": "Use a reported QED perk attempt carefully",
+            "body": "A firsthand BO3 challenge report describes throwing QEDs near perk machines for a chance at that machine’s perk. This is random and is separate from the reliable point-purchase route. The linked QED perk guide explains the report and why repeated throws should wait for an existing effect to finish.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/u0beuv/rainbow_perk_challenge_on_moon_using_qeds_worlds/",
+            "tip": "The full reward conditions, odds and behavior at already-owned or disabled machines remain unverified.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/1lsft8b/has_anyone_gotten_a_free_perk_on_bo1_moon_lately/"
+            ]
+          }
+        ],
+        "sourceOmissions": [
+          "The legacy QED list is mixed-edition. Current random effects, portal timing, refill edge cases and co-op ownership limits are not exhaustively verified."
+        ],
+        "sources": [
+          {
+            "title": "Moon wiki",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/moon/"
+          },
+          {
+            "title": "Solo tactical swaps",
+            "url": "https://www.reddit.com/r/CODZombies/comments/1e3okcu/moon_solo_easter_egg/"
+          },
+          {
+            "title": "Original walkthrough",
+            "url": "https://www.reddit.com/r/CODZombies/comments/j8b2c8/requested_moon_loading_screen/"
+          },
+          {
+            "title": "BO3 QED report",
+            "url": "https://www.reddit.com/r/CODZombies/comments/u0beuv/rainbow_perk_challenge_on_moon_using_qeds_worlds/"
+          },
+          {
+            "title": "BO3 QED follow-up",
+            "url": "https://www.reddit.com/r/CODZombies/comments/1lsft8b/has_anyone_gotten_a_free_perk_on_bo1_moon_lately/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "supplementNote": "Edition-specific authored instructions from the linked primary reports. No new step photos or independent retail playtest."
       }
     }
   },
@@ -20635,6 +21199,58 @@
         "sharedSource": false,
         "sourceQuote": null,
         "supplementNote": "Original prose checked specifically for original BO1 Moon. Source disagreements and photo limitations are recorded in the batch6 audit; no Chronicles-only trigger is included."
+      },
+      "bo3-moon": {
+        "title": "Coming Home: three astronaut bears",
+        "category": "music",
+        "difficulty": "Setup / reference",
+        "players": "Solo / co-op",
+        "summary": "Activate the three helmeted bears on the lunar map.",
+        "requirements": [
+          "Black Ops III Zombies Chronicles Moon.",
+          "Access to the lower receiving area, Tunnel 6 airlock and Stamin-Up route."
+        ],
+        "reward": "Coming Home playback.",
+        "steps": [
+          {
+            "title": "Activate the bear below receiving",
+            "body": "Find the teddy bear wearing an astronaut helmet on the crates below the lunar starting room. Approach it and interact until the activation response occurs. These helmeted music bears are different from the bear prop shot for Space Dog.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/"
+          },
+          {
+            "title": "Activate the Tunnel 6 airlock bear",
+            "body": "Look in the airlock between the Tunnel 6 weapon area and the power/MPD room. Interact with the helmeted bear there. The old source calls this the M16-side airlock; the BO3 Moon wall table places Kuda in Tunnel 6, so follow the room connection rather than a BO1 gun name.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/"
+          },
+          {
+            "title": "Activate the bear near Stamin-Up",
+            "body": "Reach Stamin-Up and look in the broken section of wall nearby. Interact with the helmeted bear to register it. Use a PES if the approach or room has lost oxygen.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/"
+          },
+          {
+            "title": "Listen after all three activations",
+            "body": "Once every bear has registered, the source says Coming Home begins playing. If it does not start, revisit the three locations and confirm an interaction response at each. Do not confuse this vocal track with the separate computer-triggered 8-bit version.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+            "tip": "Repeat-play, co-op sharing and exact interaction range have not been checked. No lyrics are reproduced."
+          }
+        ],
+        "sourceOmissions": [
+          "Exact step photos and replay conditions remain unverified."
+        ],
+        "sources": [
+          {
+            "title": "Moon music route",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/moon/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "supplementNote": "Edition-specific authored instructions from the linked primary reports. No new step photos or independent retail playtest."
       }
     }
   },
@@ -20688,6 +21304,53 @@
         "sharedSource": false,
         "sourceQuote": null,
         "supplementNote": "Original prose checked specifically for original BO1 Moon. Source disagreements and photo limitations are recorded in the batch6 audit; no Chronicles-only trigger is included."
+      },
+      "bo3-moon": {
+        "title": "Re-Damned: 8-bit terminal",
+        "category": "music",
+        "difficulty": "Setup / reference",
+        "players": "Solo / co-op",
+        "summary": "An instrumental music trigger on the Moon base.",
+        "requirements": [
+          "Black Ops III Zombies Chronicles Moon.",
+          "Power on."
+        ],
+        "reward": "The named instrumental playback.",
+        "steps": [
+          {
+            "title": "Turn on base power",
+            "body": "Reach the MPD room and use its power switch. Keep oxygen equipment for any exposed or breached part of the route.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/"
+          },
+          {
+            "title": "Use the computer",
+            "body": "From Stamin-Up, enter the final Tunnel 11 room before the MPD. Interact three times with the tall terminal beside the MPD doorway.",
+            "original": true,
+            "researchSource": "https://www.youtube.com/watch?v=qryMUn2UFC0"
+          }
+        ],
+        "sourceOmissions": [
+          "The recorded BO3 demonstration supports this terminal and three interactions. Playback has not been independently heard here; replay, hold timing and co-op behavior remain untested."
+        ],
+        "sources": [
+          {
+            "title": "Moon setup",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/moon/"
+          },
+          {
+            "title": "Hub",
+            "url": "https://www.codzombieguides.com/moon-remastered"
+          },
+          {
+            "title": "Demonstration",
+            "url": "https://www.youtube.com/watch?v=qryMUn2UFC0"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "supplementNote": "Edition-specific instructions with attributed frames from the recorded demonstrations. No independent retail playtest."
       }
     }
   },
@@ -20741,6 +21404,53 @@
         "sharedSource": false,
         "sourceQuote": null,
         "supplementNote": "Original prose checked specifically for original BO1 Moon. Source disagreements and photo limitations are recorded in the batch6 audit; no Chronicles-only trigger is included."
+      },
+      "bo3-moon": {
+        "title": "Coming Home: 8-bit terminal",
+        "category": "music",
+        "difficulty": "Setup / reference",
+        "players": "Solo / co-op",
+        "summary": "An instrumental music trigger on the Moon base.",
+        "requirements": [
+          "Black Ops III Zombies Chronicles Moon.",
+          "Power on."
+        ],
+        "reward": "The named instrumental playback.",
+        "steps": [
+          {
+            "title": "Turn on base power",
+            "body": "Reach the MPD room and use its power switch. Keep oxygen equipment for any exposed or breached part of the route.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/"
+          },
+          {
+            "title": "Use the computer",
+            "body": "In the Quick Revive receiving room, find the computer to the right of the Tunnel 11 excavator control panel. Interact with that computer three times.",
+            "original": true,
+            "researchSource": "https://www.youtube.com/watch?v=taqVsqFAUvU"
+          }
+        ],
+        "sourceOmissions": [
+          "The recorded BO3 demonstration supports this terminal and three interactions. Playback has not been independently heard here; replay, hold timing and co-op behavior remain untested."
+        ],
+        "sources": [
+          {
+            "title": "Moon setup",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/moon/"
+          },
+          {
+            "title": "Hub",
+            "url": "https://www.codzombieguides.com/moon-remastered"
+          },
+          {
+            "title": "Demonstration",
+            "url": "https://www.youtube.com/watch?v=taqVsqFAUvU"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "supplementNote": "Edition-specific instructions with attributed frames from the recorded demonstrations. No independent retail playtest."
       }
     }
   },
@@ -20781,6 +21491,53 @@
         "sharedSource": false,
         "sourceQuote": null,
         "supplementNote": "Original prose checked specifically for original BO1 Moon. Source disagreements and photo limitations are recorded in the batch6 audit; no Chronicles-only trigger is included."
+      },
+      "bo3-moon": {
+        "title": "Pareidolia: 8-bit terminal",
+        "category": "music",
+        "difficulty": "Setup / reference",
+        "players": "Solo / co-op",
+        "summary": "An instrumental music trigger on the Moon base.",
+        "requirements": [
+          "Black Ops III Zombies Chronicles Moon.",
+          "Power on."
+        ],
+        "reward": "The named instrumental playback.",
+        "steps": [
+          {
+            "title": "Turn on base power",
+            "body": "Reach the MPD room and use its power switch. Keep oxygen equipment for any exposed or breached part of the route.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/"
+          },
+          {
+            "title": "Use the computer",
+            "body": "On the upper laboratory floor, enter the Deadshot room. Interact three times with the computer immediately right of the door to the Biodome.",
+            "original": true,
+            "researchSource": "https://www.youtube.com/watch?v=VWAcELsPxwM"
+          }
+        ],
+        "sourceOmissions": [
+          "The recorded BO3 demonstration supports this terminal and three interactions. Playback has not been independently heard here; replay, hold timing and co-op behavior remain untested."
+        ],
+        "sources": [
+          {
+            "title": "Moon setup",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/moon/"
+          },
+          {
+            "title": "Hub",
+            "url": "https://www.codzombieguides.com/moon-remastered"
+          },
+          {
+            "title": "Demonstration",
+            "url": "https://www.youtube.com/watch?v=VWAcELsPxwM"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "supplementNote": "Edition-specific instructions with attributed frames from the recorded demonstrations. No independent retail playtest."
       }
     }
   },
@@ -20853,6 +21610,71 @@
         "sharedSource": false,
         "sourceQuote": null,
         "supplementNote": "Original prose checked specifically for original BO1 Moon. Source disagreements and photo limitations are recorded in the batch6 audit; no Chronicles-only trigger is included."
+      },
+      "bo3-moon": {
+        "title": "Nightmare: co-op breach and respawn song",
+        "category": "music",
+        "difficulty": "Setup / reference",
+        "players": "2–4 co-op",
+        "summary": "Use the BO3 player-reported trapped-spawn setup and next-round respawn trigger.",
+        "requirements": [
+          "Black Ops III Zombies Chronicles Moon.",
+          "At least two players for the reported route.",
+          "Power and both Tunnel 6 and Tunnel 11 excavator breaches.",
+          "One player in lunar receiving, another on the far side of the blocked tunnels."
+        ],
+        "reward": "Reported Nightmare playback when the trapped player respawns.",
+        "steps": [
+          {
+            "title": "Arrange the two-player positions",
+            "body": "Before sealing the route, keep one player in lunar receiving and another beyond the two tunnel excavators on the laboratory/MPD side. The explicit BO3 reply corrects the opposite arrangement: the player who will die is trapped in lunar spawn.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/1uypt5o/bo3_moon_nightmare/",
+            "tip": "Solo activation is not established by this report."
+          },
+          {
+            "title": "Let both tunnel excavators finish breaching",
+            "body": "Allow the excavators cutting Tunnel 6 and Tunnel 11 to remain in place so both tunnel routes from receiving are blocked. Do not retract them with the Hacker before attempting the trigger. Keep a safe plan for the surviving player to finish the round.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/1uypt5o/bo3_moon_nightmare/",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/wiki/moon/"
+            ]
+          },
+          {
+            "title": "Let the spawn player bleed out",
+            "body": "The player trapped in lunar receiving must go down and fully bleed out. The other player stays alive beyond the obstructions and finishes the round. Do not revive the downed player if you are deliberately attempting this reported song condition.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/1uypt5o/bo3_moon_nightmare/"
+          },
+          {
+            "title": "Check playback on the next-round respawn",
+            "body": "When the dead player respawns for the next round, the BO3 report says Nightmare plays. Keep the surviving player safe until that respawn occurs. The old wiki describes the BO1 One Giant Leap trophy condition; that text is not proof of a matching BO3 trophy award.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/1uypt5o/bo3_moon_nightmare/",
+            "tip": "Exact respawn placement, replay behavior and BO3 trophy eligibility have not been retail-tested. No song lyrics are reproduced.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/wiki/moon/"
+            ]
+          }
+        ],
+        "sourceOmissions": [
+          "This is a typed BO3 co-op report, not a solo route or verified BO3 trophy procedure."
+        ],
+        "sources": [
+          {
+            "title": "BO3 Nightmare report",
+            "url": "https://www.reddit.com/r/CODZombies/comments/1uypt5o/bo3_moon_nightmare/"
+          },
+          {
+            "title": "Moon original wording",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/moon/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "supplementNote": "Edition-specific authored instructions from the linked primary reports. No new step photos or independent retail playtest."
       }
     }
   },
@@ -57236,6 +58058,581 @@
           "bo3-ascension-community-ascension-map-walkthrough-pack-a-punch",
           "bo3-ascension-community-ascension-special-weapons-special-grenades"
         ]
+      }
+    }
+  },
+  "moon-game-features-black-ops-3-weapons-list-locations": {
+    "mapOverrides": {
+      "bo3-moon": {
+        "title": "Moon firearms: acquisition and reported upgrade names",
+        "category": "weapon",
+        "difficulty": "Setup / reference",
+        "players": "Solo / co-op",
+        "summary": "27 historical Moon firearm rows, a starting-pistol route and separately supported BO3 upgrade aliases.",
+        "requirements": [
+          "Black Ops III Zombies Chronicles Moon.",
+          "Read the actual wall or Box prompt; historical rows are not a current pool census.",
+          "Area 51 access, a compatible gun and 5,000 points for its standard first upgrade."
+        ],
+        "reward": "The acquired firearm and its supported upgrade or alternate-ammo effect.",
+        "steps": [
+          {
+            "title": "Read the edition and the historical rows",
+            "body": "This reference quotes the 27 ordinary-firearm rows in the Moon wiki’s BO3 table. Six equipment and wonder-weapon rows are handled in their own guides. The M1911 starting route is separate. A name after an arrow comes from an independent BO3 name report; it does not come from the quoted acquisition table.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+            "tip": "Later gun additions and the current complete Box pool have not been established by this bounded research pass."
+          },
+          {
+            "title": "Buy a wall gun or take a Box offer",
+            "body": "For a listed wall route, open the named area, approach the weapon mount and confirm the actual gun and price before purchasing. For a Box route, locate the active Box, pay its displayed price and take the offered gun you want. Weapon Kit availability concerns customization and does not itself grant an acquisition route.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+            "tip": "Current wall prices, Box odds, ammo capacities, refill costs and simultaneous ownership have not been measured."
+          },
+          {
+            "title": "Make a first Pack-a-Punch upgrade",
+            "body": "At Area 51, equip the firearm and use the standard 5,000-point first purchase. Wait for it to return and collect it. If you are on Moon, gather all living players on the lunar return pad first. The separate Pack-a-Punch guide explains the pad and Hacker gate option.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/pg8sux/",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/wiki/moon/"
+            ]
+          },
+          {
+            "title": "Check the compatible 2,500-point repeat prompt",
+            "body": "A compatible upgraded BO3 firearm can receive an alternate-ammo effect through the 2,500-point repeat purchase. Dead Wire, Blast Furnace, Thunder Wall, Turned and Fire Works are the documented effects. Read the collected gun’s label; an alias alone does not establish its compatibility or guarantee the effect you want.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/game-mechanics/",
+            "tip": "Eligibility is not individually tested for every firearm in these historical rows.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/pg8sux/"
+            ]
+          },
+          {
+            "title": "RK5 → Rex-Kalibur 115",
+            "body": "RK5 | Yes | 500 | Outside Spawn Door | No | Yes",
+            "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>RK5</td><td>Yes</td><td>500</td><td>Outside Spawn Door</td><td>No</td><td>Yes</td></tr></tbody></table>",
+            "original": false,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+            "tip": "Historical wall listing: Outside Spawn Door, 500 points. Open that route and read the actual weapon and price prompt before buying. The table does not list a Box route. Separate BO3 name evidence reports Rex-Kalibur 115; it is not part of the quoted acquisition row. Current retail prompts, Weapon Kit status and per-weapon alternate-ammo eligibility have not been tested.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/"
+            ]
+          },
+          {
+            "title": "L-CAR 9 → Flux Collider 935",
+            "body": "L-CAR 9 | Yes | 750 | Between Tunnel 6 and Spawn | No | Yes",
+            "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>L-CAR 9</td><td>Yes</td><td>750</td><td>Between Tunnel 6 and Spawn</td><td>No</td><td>Yes</td></tr></tbody></table>",
+            "original": false,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+            "tip": "Historical wall listing: Between Tunnel 6 and Spawn, 750 points. Open that route and read the actual weapon and price prompt before buying. The table does not list a Box route. Separate BO3 name evidence reports Flux Collider 935; it is not part of the quoted acquisition row. Current retail prompts, Weapon Kit status and per-weapon alternate-ammo eligibility have not been tested.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/"
+            ]
+          },
+          {
+            "title": "KRM-262 → Dagon’s Glare",
+            "body": "KRM-262 | No | - | - | Yes | No",
+            "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>KRM-262</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>No</td></tr></tbody></table>",
+            "original": false,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+            "tip": "The historical table lists a Box route and no wall purchase. Find the active Box, roll until this weapon is offered and take it. Separate BO3 name evidence reports Dagon’s Glare; it is not part of the quoted acquisition row. Current retail prompts, Weapon Kit status and per-weapon alternate-ammo eligibility have not been tested.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/"
+            ]
+          },
+          {
+            "title": "Kuda → Crocuta",
+            "body": "Kuda | Yes | 1200 | Tunnel 6 | Yes | Yes",
+            "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>Kuda</td><td>Yes</td><td>1200</td><td>Tunnel 6</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+            "original": false,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+            "tip": "Historical wall listing: Tunnel 6, 1200 points. Open that route and read the actual weapon and price prompt before buying. The table also lists a Box route. Separate BO3 name evidence reports Crocuta; it is not part of the quoted acquisition row. Current retail prompts, Weapon Kit status and per-weapon alternate-ammo eligibility have not been tested.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/"
+            ]
+          },
+          {
+            "title": "Vesper → Infernus",
+            "body": "Vesper | No | - | - | Yes | No",
+            "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>Vesper</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>No</td></tr></tbody></table>",
+            "original": false,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+            "tip": "The historical table lists a Box route and no wall purchase. Find the active Box, roll until this weapon is offered and take it. Separate BO3 name evidence reports Infernus; it is not part of the quoted acquisition row. Current retail prompts, Weapon Kit status and per-weapon alternate-ammo eligibility have not been tested.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/"
+            ]
+          },
+          {
+            "title": "Sheiva → Cumulus Struggle",
+            "body": "Sheiva | Yes | 500 | Outside Spawn Door | Yes | Yes",
+            "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>Sheiva</td><td>Yes</td><td>500</td><td>Outside Spawn Door</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+            "original": false,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+            "tip": "Historical wall listing: Outside Spawn Door, 500 points. Open that route and read the actual weapon and price prompt before buying. The table also lists a Box route. Separate BO3 name evidence reports Cumulus Struggle; it is not part of the quoted acquisition row. Current retail prompts, Weapon Kit status and per-weapon alternate-ammo eligibility have not been tested.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/"
+            ]
+          },
+          {
+            "title": "HVK-30 → High Velocity Kicker",
+            "body": "HVK-30 | No | - | - | Yes | No",
+            "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>HVK-30</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>No</td></tr></tbody></table>",
+            "original": false,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+            "tip": "The historical table lists a Box route and no wall purchase. Find the active Box, roll until this weapon is offered and take it. Separate BO3 name evidence reports High Velocity Kicker; it is not part of the quoted acquisition row. Current retail prompts, Weapon Kit status and per-weapon alternate-ammo eligibility have not been tested.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/"
+            ]
+          },
+          {
+            "title": "KN-44 → Anointed Avenger",
+            "body": "KN-44 | Yes | 1400 | Next to Mule Kick | Yes | Yes",
+            "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>KN-44</td><td>Yes</td><td>1400</td><td>Next to Mule Kick</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+            "original": false,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+            "tip": "Historical wall listing: Next to Mule Kick, 1400 points. Open that route and read the actual weapon and price prompt before buying. The table also lists a Box route. Separate BO3 name evidence reports Anointed Avenger; it is not part of the quoted acquisition row. Current retail prompts, Weapon Kit status and per-weapon alternate-ammo eligibility have not been tested.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/"
+            ]
+          },
+          {
+            "title": "M8A7 → The Unspeakable",
+            "body": "M8A7 | No | - | - | Yes | No",
+            "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>M8A7</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>No</td></tr></tbody></table>",
+            "original": false,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+            "tip": "The historical table lists a Box route and no wall purchase. Find the active Box, roll until this weapon is offered and take it. Separate BO3 name evidence reports The Unspeakable; it is not part of the quoted acquisition row. Current retail prompts, Weapon Kit status and per-weapon alternate-ammo eligibility have not been tested.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/"
+            ]
+          },
+          {
+            "title": "ICR-1 → Illuminated Deanimator",
+            "body": "ICR-1 | No | - | - | Yes | Yes",
+            "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>ICR-1</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+            "original": false,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+            "tip": "The historical table lists a Box route and no wall purchase. Find the active Box, roll until this weapon is offered and take it. Separate BO3 name evidence reports Illuminated Deanimator; it is not part of the quoted acquisition row. Current retail prompts, Weapon Kit status and per-weapon alternate-ammo eligibility have not been tested.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/"
+            ]
+          },
+          {
+            "title": "Argus → Ancient Messenger",
+            "body": "Argus | No | - | - | Yes | No",
+            "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>Argus</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>No</td></tr></tbody></table>",
+            "original": false,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+            "tip": "The historical table lists a Box route and no wall purchase. Find the active Box, roll until this weapon is offered and take it. Separate BO3 name evidence reports Ancient Messenger; it is not part of the quoted acquisition row. Current retail prompts, Weapon Kit status and per-weapon alternate-ammo eligibility have not been tested.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/"
+            ]
+          },
+          {
+            "title": "VMP → The Impaler",
+            "body": "VMP | Yes | 1300 | Top Floor of Laboratory | No | Yes",
+            "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>VMP</td><td>Yes</td><td>1300</td><td>Top Floor of Laboratory</td><td>No</td><td>Yes</td></tr></tbody></table>",
+            "original": false,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+            "tip": "Historical wall listing: Top Floor of Laboratory, 1300 points. Open that route and read the actual weapon and price prompt before buying. The table does not list a Box route. Separate BO3 name evidence reports The Impaler; it is not part of the quoted acquisition row. Current retail prompts, Weapon Kit status and per-weapon alternate-ammo eligibility have not been tested.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/"
+            ]
+          },
+          {
+            "title": "Pharo → Whispering Regurgitator",
+            "body": "Pharo | Yes | 1200 | Tunnel 11 | Yes | Yes",
+            "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>Pharo</td><td>Yes</td><td>1200</td><td>Tunnel 11</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+            "original": false,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+            "tip": "Historical wall listing: Tunnel 11, 1200 points. Open that route and read the actual weapon and price prompt before buying. The table also lists a Box route. Separate BO3 name evidence reports Whispering Regurgitator; it is not part of the quoted acquisition row. Current retail prompts, Weapon Kit status and per-weapon alternate-ammo eligibility have not been tested.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/"
+            ]
+          },
+          {
+            "title": "Weevil → Barrage",
+            "body": "Weevil | No | - | - | Yes | Yes",
+            "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>Weevil</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+            "original": false,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+            "tip": "The historical table lists a Box route and no wall purchase. Find the active Box, roll until this weapon is offered and take it. Separate BO3 name evidence reports Barrage; it is not part of the quoted acquisition row. Current retail prompts, Weapon Kit status and per-weapon alternate-ammo eligibility have not been tested.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/"
+            ]
+          },
+          {
+            "title": "BRM → Blight Oblivion",
+            "body": "BRM | No | - | - | Yes | Yes",
+            "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>BRM</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+            "original": false,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+            "tip": "The historical table lists a Box route and no wall purchase. Find the active Box, roll until this weapon is offered and take it. Separate BO3 name evidence reports Blight Oblivion; it is not part of the quoted acquisition row. Current retail prompts, Weapon Kit status and per-weapon alternate-ammo eligibility have not been tested.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/"
+            ]
+          },
+          {
+            "title": "Dingo → Dire Wolf",
+            "body": "Dingo | No | - | - | Yes | Yes",
+            "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>Dingo</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+            "original": false,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+            "tip": "The historical table lists a Box route and no wall purchase. Find the active Box, roll until this weapon is offered and take it. Separate BO3 name evidence reports Dire Wolf; it is not part of the quoted acquisition row. Current retail prompts, Weapon Kit status and per-weapon alternate-ammo eligibility have not been tested.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/"
+            ]
+          },
+          {
+            "title": "48 Dredge → Trapezohedron Shard",
+            "body": "48 Dredge | No | - | - | Yes | Yes",
+            "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>48 Dredge</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+            "original": false,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+            "tip": "The historical table lists a Box route and no wall purchase. Find the active Box, roll until this weapon is offered and take it. Separate BO3 name evidence reports Trapezohedron Shard; it is not part of the quoted acquisition row. Current retail prompts, Weapon Kit status and per-weapon alternate-ammo eligibility have not been tested.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/"
+            ]
+          },
+          {
+            "title": "Gorgon → Athena’s Spear",
+            "body": "Gorgon | No | - | - | Yes | Yes",
+            "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>Gorgon</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+            "original": false,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+            "tip": "The historical table lists a Box route and no wall purchase. Find the active Box, roll until this weapon is offered and take it. Separate BO3 name evidence reports Athena’s Spear; it is not part of the quoted acquisition row. Current retail prompts, Weapon Kit status and per-weapon alternate-ammo eligibility have not been tested.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/"
+            ]
+          },
+          {
+            "title": "Locus → Arrhythmic Dirge",
+            "body": "Locus | No | - | - | Yes | Yes",
+            "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>Locus</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+            "original": false,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+            "tip": "The historical table lists a Box route and no wall purchase. Find the active Box, roll until this weapon is offered and take it. Separate BO3 name evidence reports Arrhythmic Dirge; it is not part of the quoted acquisition row. Current retail prompts, Weapon Kit status and per-weapon alternate-ammo eligibility have not been tested.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/54v8y1/weapon_name_list_for_command_console/"
+            ]
+          },
+          {
+            "title": "Drakon → Bahamut",
+            "body": "Drakon | No | - | - | Yes | Yes",
+            "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>Drakon</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+            "original": false,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+            "tip": "The historical table lists a Box route and no wall purchase. Find the active Box, roll until this weapon is offered and take it. Separate BO3 name evidence reports Bahamut; it is not part of the quoted acquisition row. Current retail prompts, Weapon Kit status and per-weapon alternate-ammo eligibility have not been tested.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/"
+            ]
+          },
+          {
+            "title": "SVG-100 → Ikken Hissatsu",
+            "body": "SVG-100 | No | - | - | Yes | Yes",
+            "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>SVG-100</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+            "original": false,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+            "tip": "The historical table lists a Box route and no wall purchase. Find the active Box, roll until this weapon is offered and take it. Separate BO3 name evidence reports Ikken Hissatsu; it is not part of the quoted acquisition row. Current retail prompts, Weapon Kit status and per-weapon alternate-ammo eligibility have not been tested.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/"
+            ]
+          },
+          {
+            "title": "Man-O-War → Dread Armada",
+            "body": "Man-O-War | No | - | - | Yes | Yes",
+            "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>Man-O-War</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+            "original": false,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+            "tip": "The historical table lists a Box route and no wall purchase. Find the active Box, roll until this weapon is offered and take it. Separate BO3 name evidence reports Dread Armada; it is not part of the quoted acquisition row. Current retail prompts, Weapon Kit status and per-weapon alternate-ammo eligibility have not been tested.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/"
+            ]
+          },
+          {
+            "title": "205 Brecci → Stellar Screech",
+            "body": "205 Brecci | No | - | - | Yes | Yes",
+            "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>205 Brecci</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+            "original": false,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+            "tip": "The historical table lists a Box route and no wall purchase. Find the active Box, roll until this weapon is offered and take it. Separate BO3 name evidence reports Stellar Screech; it is not part of the quoted acquisition row. Current retail prompts, Weapon Kit status and per-weapon alternate-ammo eligibility have not been tested.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/"
+            ]
+          },
+          {
+            "title": "Haymaker 12 → Shoeshining 100",
+            "body": "Haymaker 12 | No | - | - | Yes | Yes",
+            "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>Haymaker 12</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+            "original": false,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+            "tip": "The historical table lists a Box route and no wall purchase. Find the active Box, roll until this weapon is offered and take it. Separate BO3 name evidence reports Shoeshining 100; it is not part of the quoted acquisition row. Current retail prompts, Weapon Kit status and per-weapon alternate-ammo eligibility have not been tested.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/"
+            ]
+          },
+          {
+            "title": "XM-53 → Heliacal Incandescence",
+            "body": "XM-53 | No | - | - | Yes | Yes",
+            "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>XM-53</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+            "original": false,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+            "tip": "The historical table lists a Box route and no wall purchase. Find the active Box, roll until this weapon is offered and take it. Separate BO3 name evidence reports Heliacal Incandescence; it is not part of the quoted acquisition row. Current retail prompts, Weapon Kit status and per-weapon alternate-ammo eligibility have not been tested.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/"
+            ]
+          },
+          {
+            "title": "Galil: upgrade name pending",
+            "body": "Galil | No | - | - | Yes | No",
+            "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>Galil</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>No</td></tr></tbody></table>",
+            "original": false,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+            "tip": "The historical table lists a Box route and no wall purchase. Find the active Box, roll until this weapon is offered and take it. A BO3-specific Galil upgrade name is unresolved in the primary evidence read here; no BO1 alias is substituted. Current retail prompts, Weapon Kit status and per-weapon alternate-ammo eligibility have not been tested."
+          },
+          {
+            "title": "M16 → SkullSplitter",
+            "body": "M16 | No | - | - | Yes | No",
+            "html": "<table><thead><tr><th>Weapon Name</th><th>Wall Weapon?</th><th>Cost (Points)</th><th>Location</th><th>Box Weapon?</th><th>Weapon Kit?</th></tr></thead><tbody><tr><td>M16</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>No</td></tr></tbody></table>",
+            "original": false,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+            "tip": "The historical table lists a Box route and no wall purchase. Find the active Box, roll until this weapon is offered and take it. Separate BO3 name evidence reports SkullSplitter; it is not part of the quoted acquisition row. This explicit Chronicles report uses SkullSplitter; BO1’s Skullcrusher label and the older conflicting Kino report are not silently treated as the same HUD name. Current retail prompts, Weapon Kit status and per-weapon alternate-ammo eligibility have not been tested.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/w6avb0/most_underrated_gun_in_bo1_bo2_and_bo3/"
+            ]
+          },
+          {
+            "title": "Starting M1911 → Mustang and Sally",
+            "body": "The primary Chronicles starting-weapon replies say every remastered map except Origins starts with the M1911. Keep that pistol through the Area 51 return if you want its ordinary Pack-a-Punch route; the separate BO3 name report calls the upgrade Mustang and Sally. An account’s completed BO3 super-quest can alter the starting loadout, so a reported starting RK5 is not a Moon wall/Box addition.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/g13sax/just_got_chronicles/",
+            "tip": "Starting-loadout entitlement and exact explosive damage behavior have not been tested here.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/1ftlgvq/only_just_realised_electric_cherry_is_a_pun_on/",
+              "https://www.reddit.com/r/CODZombies/comments/135syko/my_opinion_of_moon_has_changed_thanks_to_the_bo3/"
+            ]
+          }
+        ],
+        "sourceOmissions": [
+          "The 27 quoted rows are a historical BO3 table, not certification of today’s complete Moon Box pool or every later addition.",
+          "Galil’s BO3 upgrade name remains unresolved. All alias evidence is separate from map availability; a command-name index alone does not prove a gun can spawn on Moon.",
+          "Current prices, wall close-ups, ammunition/refill values, Weapon Kit flags, co-op ownership and per-weapon alternate-ammo eligibility remain untested."
+        ],
+        "sources": [
+          {
+            "title": "Moon acquisition table",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/moon/"
+          },
+          {
+            "title": "BO3 names",
+            "url": "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/"
+          },
+          {
+            "title": "BO3 name index",
+            "url": "https://www.reddit.com/r/CODZombies/comments/54v8y1/weapon_name_list_for_command_console/"
+          },
+          {
+            "title": "Chronicles M16 report",
+            "url": "https://www.reddit.com/r/CODZombies/comments/w6avb0/most_underrated_gun_in_bo1_bo2_and_bo3/"
+          },
+          {
+            "title": "Chronicles start",
+            "url": "https://www.reddit.com/r/CODZombies/comments/g13sax/just_got_chronicles/"
+          },
+          {
+            "title": "BO3 pistol name",
+            "url": "https://www.reddit.com/r/CODZombies/comments/1ftlgvq/only_just_realised_electric_cherry_is_a_pun_on/"
+          },
+          {
+            "title": "BO3 prices",
+            "url": "https://www.reddit.com/r/CODZombies/comments/pg8sux/"
+          },
+          {
+            "title": "BO3 mechanics",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/game-mechanics/"
+          },
+          {
+            "title": "BO3 loadout report",
+            "url": "https://www.reddit.com/r/CODZombies/comments/135syko/my_opinion_of_moon_has_changed_thanks_to_the_bo3/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+        "sharedSource": false,
+        "supplementNote": "Six-column historical BO3 rows are quoted from the primary Moon table. Setup chapters and Field notes are authored; upgrade aliases are independently attributed. No image or gameplay validation is implied."
+      }
+    }
+  },
+  "moon-easter-eggs-samantha-s-lullaby-black-ops-3-zombie-chronicles": {
+    "mapOverrides": {
+      "bo3-moon": {
+        "title": "Samantha speakers and doll hunt",
+        "category": "music",
+        "difficulty": "Setup / reference",
+        "players": "Solo / co-op",
+        "summary": "Enter the speaker sequence and complete the doll hunt.",
+        "requirements": [
+          "Black Ops III Zombies Chronicles Moon.",
+          "Access to the MPD room and a normal firearm."
+        ],
+        "reward": "Max Ammo and playback of Samantha’s Journey.",
+        "steps": [
+          {
+            "title": "Separate this secret from Samantha Says",
+            "body": "Face the computer screens beside the MPD Box site. Number the speakers 1 front-left, 2 rear-left, 3 rear-right, 4 front-right. Interact in this order: 3, 1, 1, 4, 4, 1, 4, 2, 4, 2, 4, 1, 1, 2, 3. Samantha’s laugh confirms acceptance.",
+            "original": true,
+            "researchSource": "https://www.youtube.com/watch?v=LhrSvw1CfUo"
+          },
+          {
+            "title": "Keep the tone report as a clue",
+            "body": "A BO3 discussion reports four repeating tones near the outside rocket-cliff area and identifies them as a clue to the 15-button MPD secret. Treat that as a player report rather than proof of the sound’s fictional origin. No recorded tone or music has been heard in this pass.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/1qqtbdy/i_found_some_extremely_weird_alienwhale_noises_on/",
+            "tip": "The exact listening position and pitch-to-speaker associations remain unverified."
+          },
+          {
+            "title": "Find the initial doll after accepted input",
+            "body": "Once the opening button puzzle is accepted, find the Samantha doll to the left of the MPD and interact with it. Use its appearance and response as the checkpoint before searching for the follow-up targets.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/"
+          },
+          {
+            "title": "Shoot the dolls in front of the MPD",
+            "body": "The written route sends the player to shoot Samantha dolls spawning in front of the pyramid. Use normal firearm bullets and hit the appearing dolls, then watch for the next target. The source excludes wonder weapons for these hits.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+            "tip": "The exact number, interval, hunt timer, retry behavior and co-op sharing have not been independently counted."
+          },
+          {
+            "title": "Return to the first doll",
+            "body": "After the target sequence is completed, return to the initial doll left of the MPD and interact again. The written route reports a Max Ammo and the Samantha music reward. Check those actual responses rather than assuming the secret completed after the last visible shot.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+            "tip": "The soundtrack name is reported in the demonstration; audio playback, replay and co-op behavior have not been independently tested."
+          }
+        ],
+        "sourceOmissions": [
+          "The button mapping and sequence are now supported by the recorded BO3 demonstration. Exact target count, time limit, retry and co-op rules remain unmeasured."
+        ],
+        "sources": [
+          {
+            "title": "Moon written route",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/moon/"
+          },
+          {
+            "title": "BO3 tone report",
+            "url": "https://www.reddit.com/r/CODZombies/comments/1qqtbdy/i_found_some_extremely_weird_alienwhale_noises_on/"
+          },
+          {
+            "title": "Demonstration",
+            "url": "https://www.youtube.com/watch?v=LhrSvw1CfUo"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "supplementNote": "Edition-specific instructions with attributed frames from the recorded demonstrations. No independent retail playtest."
+      }
+    }
+  },
+  "moon-easter-eggs-space-dog-black-ops-3-zombie-chronicles": {
+    "mapOverrides": {
+      "bo3-moon": {
+        "title": "Space Dog: toys, bowls and the sighting",
+        "category": "side",
+        "difficulty": "Setup / reference",
+        "players": "Solo / co-op",
+        "summary": "Collect the three toy props with the Wave Gun, hack the lab bowls and complete the feeding stage.",
+        "requirements": [
+          "Black Ops III Zombies Chronicles Moon.",
+          "Combined Wave Gun, laboratory access and a Hacker.",
+          "Area 51 return access for the toy dog."
+        ],
+        "reward": "A barking cue and the Space Dog sighting outside the lunar base.",
+        "steps": [
+          {
+            "title": "Equip the combined Wave Gun",
+            "body": "Obtain the weapon from the Mystery Box and merge the dual Zap Guns into the combined Wave Gun. The written toy route uses the combined mode. Keep enough ammunition for all three separate props and use the ordinary lunar and Area 51 travel routes to reach them.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/"
+          },
+          {
+            "title": "Shoot the toy dog beside the Area 51 truck",
+            "body": "At Area 51, face the teleporter and look left of Pack-a-Punch for the truck outside the playable area. Shoot the small toy Hellhound standing beside a wheel with the Wave Gun. The firsthand BO3 tests distinguish this prop from an actual Hellhound kill. Check that the toy has appeared by the laboratory bowls.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/10fgrjf/new_space_dog_ee_discovery_on_moon_bo3/",
+            "tip": "Do not spend time killing a real Hellhound to satisfy this toy step; the author tested and rejected that earlier guess."
+          },
+          {
+            "title": "Shoot the bear behind the Biodome Box site",
+            "body": "In the Biodome, look behind the Mystery Box position, slightly to its right, at a ledge higher than the usual forward view. Shoot the small bear prop there with the combined Wave Gun. It is not the teddy inside a moving Box and does not require firing at every possible Box position. Check for the collected toy near the lab bowls.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/10fgrjf/new_space_dog_ee_discovery_on_moon_bo3/",
+            "tip": "The author used a scoped view or jump-pad height to see the ledge. The exact target still needs a confirmed step photo."
+          },
+          {
+            "title": "Shoot the bone by the lunar return pad",
+            "body": "At the lunar teleporter used to return to Area 51, look outside the playable area near the rocks for the bone. Hit that prop with the combined Wave Gun. Check the bowls area for the third collected item before starting the next stage.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+            "tip": "An exact close-up firing angle for the bone remains unverified."
+          },
+          {
+            "title": "Hack the second-floor bowls",
+            "body": "Pick up the Hacker from a laboratory spawn and reach the dog bowls on the second laboratory floor. With the collected toys present, hack the bowl interaction to start the feeding stage. Plan the oxygen route because the Hacker replaces your PES.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+            "tip": "The exact hack duration and whether a single bowl or both provide separate prompts have not been measured."
+          },
+          {
+            "title": "Feed the bowls",
+            "body": "Kill regular zombies and Nova Crawlers by the bowls. The creator reports 50 kills combined.",
+            "original": true,
+            "researchSource": "https://www.codzombieguides.com/moon-remastered",
+            "tip": "The individual bowl split, exact collection radius and a retail recount remain unverified."
+          },
+          {
+            "title": "Check the barking cue",
+            "body": "Continue close kills until the source’s barking completion cue occurs. If the response has not played, keep checking that the enemies die close to the active bowls rather than assuming distant kills counted. Preserve a safe route out of the lab.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+            "tip": "No independently measured kill tracker, retry rule or round restriction is established."
+          },
+          {
+            "title": "Look toward lunar spawn for Space Dog",
+            "body": "Return to the lunar pad used for Area 51 and look outside the playable map toward the receiving bay. The written route describes Space Dog leaping in the distance after the feeding stage. This is an observation reward, not an instruction to jump out of bounds.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+            "tip": "All sighting paths, visibility windows and co-op persistence have not been independently recorded."
+          }
+        ],
+        "sourceOmissions": [
+          "The truck toy is visible in the new photo. The bear ledge and bone rocks are landmark views; the small targets are difficult to distinguish. Per-bowl split, collection radius, exact sighting paths and a retail recount remain open."
+        ],
+        "sources": [
+          {
+            "title": "Moon written route",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/moon/"
+          },
+          {
+            "title": "BO3 toy tests",
+            "url": "https://www.reddit.com/r/CODZombies/comments/10fgrjf/new_space_dog_ee_discovery_on_moon_bo3/"
+          },
+          {
+            "title": "Hub",
+            "url": "https://www.codzombieguides.com/moon-remastered"
+          },
+          {
+            "title": "Demonstration",
+            "url": "https://www.youtube.com/watch?v=jsQUGSWFH3A"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "supplementNote": "Edition-specific instructions with attributed frames from the recorded demonstrations. No independent retail playtest."
       }
     }
   }

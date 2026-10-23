@@ -4337,102 +4337,251 @@
   {
     "id": "bo3-moon-richtofens-grand-scheme",
     "mapId": "bo3-moon",
-    "title": "Richtofen's Grand Scheme",
+    "title": "Richtofen's Grand Scheme: Chronicles route",
     "category": "main",
     "difficulty": "Hard",
-    "players": "Solo or 2–4",
-    "summary": "The MPD reveal and Big Bang Theory in Zombies Chronicles. This version supplies the Vril Device and supports the complete route solo.",
+    "players": "Solo / co-op",
+    "summary": "The written BO3 route through solo setup, the lab puzzle, MPD stages and a consistent QED-first finale.",
     "requirements": [
-      "Power on and access to the three laboratory floors, both tunnels and the MPD pyramid",
-      "Wave Gun from the box",
-      "Hacker",
-      "Gersh Devices and QEDs from the Mystery Box. Solo players must swap them at the relevant steps.",
-      "Chronicles requires no earlier quest completions. Solo spawns as Richtofen with the Vril Device; in co-op use Richtofen for his item interactions.",
-      "A PES suit for areas that have lost oxygen"
+      "Black Ops III Zombies Chronicles Moon.",
+      "Power, laboratory access, both tunnels and the MPD.",
+      "Wave Gun, Hacker, Gersh Devices and QEDs; points to replace the tactical-grenade slot.",
+      "Richtofen performs Vril Device interactions. Earlier-map quest completions are unnecessary in Chronicles."
     ],
-    "reward": "Cryogenic Slumber Party, Big Bang Theory and permanent perks; solo Quick Revive still has its normal use limit.",
+    "reward": "The MPD reveal, soul exchange, missile finale and reported quest perks.",
     "steps": [
       {
-        "title": "Check the version and quest items",
-        "body": "This is BO3 Zombies Chronicles. Take a PES, reach the MPD and turn on power. Richtofen starts with the assembled Vril Device; earlier quests are unnecessary. Solo is supported. Plan tactical grenades: Gersh for the Area 51 plates, QED to move the plates, QED again at the MPD sphere, then Gersh for the finale. You cannot carry both types together, so save points for replacement box hits."
+        "title": "Use the Chronicles prerequisites",
+        "body": "The full quest supports solo in BO3. Richtofen starts with the assembled Vril Device, so earlier Shangri-La or Call of the Dead completions are unnecessary. In co-op, identify Richtofen for the device interactions. Obtain the Wave Gun and Hacker, and budget for repeated Mystery Box rolls: Gersh Devices and QEDs occupy the same tactical slot, so a solo player must swap between them during the quest.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/xe53wv/do_i_need_to_complete_the_shangrila_easter_egg_to/",
+        "tip": "The BO1 prerequisite and achievement rules do not establish BO3 awards. This route makes no promise about a named BO3 trophy unlocking.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/1e3okcu/moon_solo_easter_egg/",
+          "https://www.reddit.com/r/CODZombies/wiki/moon/"
+        ]
       },
       {
-        "title": "Play Samantha Says",
-        "body": "Outside the lunar starting room are four colored computer screens. Facing them, their colors left to right are red, green, blue and yellow. Activate the game, watch each shown sequence, then press interact on the screens in exactly the same order. Repeat the growing pattern until the game confirms success. The sequences are generated for the run, not a fixed code."
+        "title": "Take a PES on Moon and turn on power",
+        "body": "Use the Area 51 teleporter to reach lunar receiving, then collect a PES from the cabinet across from Quick Revive. Open a route through the tunnels to the MPD pyramid and use the power switch beside it. Keep the suit available for the surface and breached rooms. Carrying the Hacker later replaces the PES; use oxygenated rooms for Hacker work and make exposed trips short.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+        "tip": "No oxygen countdown has been measured here. Do not assume a breached tunnel regains air when its excavator retracts.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/ec3xsb/help_with_moon/"
+        ]
       },
       {
-        "title": "Find the Hacker and start the lab puzzle",
-        "body": "The Hacker replaces your PES while carried. Search the six spots across the laboratory's three floors: two shelves on the first floor, the electrical box and blue railing by the second-floor stairs, and the tanks near Deadshot and shelf by the Biodome exit on the third floor. On the second floor, hack the leftmost of the four wall buttons for 500 points."
+        "title": "Repeat the first Samantha Says pattern",
+        "body": "Outside the lunar receiving bay, find the four colored computer screens. Facing them, the order is red, green, blue, yellow from left to right. Interact to begin, watch the displayed sequence, then interact with the screens in that same order. Repeat the growing pattern until the game signals success. These are generated colors for your run, not the fixed MPD-button puzzle used by the separate Samantha music secret.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/j8b2c8/requested_moon_loading_screen/"
+        ]
       },
       {
-        "title": "Hack the green panels",
-        "body": "Within the timed window, search all three lab floors for four access panels glowing green and hack each. Move quickly between floors and check the wall panels, not only the four starting buttons. If the timer fails, hack the starting button again. After all four green panels are hacked, quickly use the original four buttons from left to right so all remain illuminated."
+        "title": "Find the Hacker and start the lab sequence",
+        "body": "Search the six laboratory spots: first floor, the shelf left of the stairs up and the shelf right of the exit; second floor, the blue railing right of the stairs up and the electrical box left of those stairs; third floor, the tanks right of Deadshot and the shelf left of the Biodome exit. Pick up the Hacker. On the second floor, hack the leftmost of the four wall buttons for 500 points.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+        "tip": "The six Hacker spots and lead candidates are written landmarks, without verified close-up photos. The cable candidates are examples, not an exhaustive spawn list."
       },
       {
-        "title": "Let Excavator Pi breach Tunnel 6",
-        "body": "Advance rounds until the station announces the excavator approaching Tunnel 6. Let it finish cutting through the tunnel; stopping it early prevents the sphere from appearing. Then take the Hacker to the lunar spawn and hack the control panel for that excavator to retract it. Use a teammate with a PES as protection if needed, and avoid spending too long without oxygen."
+        "title": "Hack four green access panels",
+        "body": "During the timed attempt, search all three laboratory floors for four access panels glowing green. Equip the Hacker and complete the hack on each. These are scattered panels, not simply the original row of four buttons. If the attempt fails, return to the starting button, restart and search again.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+        "tip": "The written sources do not establish an independently verified timer duration; finish all four promptly.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/j8b2c8/requested_moon_loading_screen/"
+        ]
       },
       {
-        "title": "Move the sphere to the satellite dish",
-        "body": "Find the stone sphere in Tunnel 6. Knife or shoot it and follow each movement toward spawn. Continue nudging it until it sits high on the satellite dish outside the starting room. Equip the Wave Gun in its combined two-handed mode and shoot the sphere on the dish. It drops toward Tunnel 11."
+        "title": "Light the original four buttons",
+        "body": "Return to the second-floor row where the attempt began. Interact with all four buttons quickly from left to right. Check that all four remain lit before advancing. If they do not, repeat the failed lab sequence rather than assuming that an unfinished attempt counted.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/"
       },
       {
-        "title": "Move the sphere into the pyramid",
-        "body": "Follow the sphere through Tunnel 11, shooting or knifing it at each stop. Check the ceiling/raised ledges when it disappears from floor level. Guide it to the MPD, where it locks into the front panel and raises one soul canister. Kill 25 zombies close to that canister until it is full, then use the lever beside the pyramid. Samantha is revealed and Death Machines are awarded.",
-        "tip": "This completes Cryogenic Slumber Party and is the stopping point for a BO1 Solo game."
+        "title": "Allow the Tunnel 6 excavator to breach",
+        "body": "Progress rounds while listening to the station announcements. The needed event is Excavator Pi cutting Tunnel 6. Let that breach finish; stopping the machine before it cuts the tunnel prevents the required sphere from appearing. Other excavator warnings do not substitute for Tunnel 6.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+        "tip": "Excavator selection is random in the reports. No fixed round or guaranteed number of rounds is established.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/j8b2c8/requested_moon_loading_screen/"
+        ]
       },
       {
-        "title": "Bring the plates from Area 51",
-        "body": "For the second half, teleport to Area 51. In co-op, gather every living player on the teleporter. Throw a grenade at the metal plates/tiles resting on the shelving outside the fence to the right of the teleporter. Once they fall, throw a Gersh Device nearby to pull them onto the teleporter. Return to Moon with the plates. They land near Quick Revive; throw a QED at them to move them onto the adjacent computer apparatus."
+        "title": "Retract the excavator from receiving",
+        "body": "After Tunnel 6 has been cut, carry the Hacker to the lunar receiving bay and hack the control panel for the active Tunnel 6 excavator. Check that the obstruction retracts before entering the tunnel. Use the PES for the breached passage once the Hacker work is finished.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+        "tip": "Retraction removes the moving obstruction; it does not repair the decompressed tunnel.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/ec3xsb/help_with_moon/"
+        ]
       },
       {
-        "title": "Connect the lead cable",
-        "body": "Find the long curved silver S-shaped lead in or near the labs. Check shelves/desks where the Hacker can spawn, the floor beside the wall panels/stairs, and the crates immediately outside the lab exit toward the teleporter. It can be picked up ahead of time. Attach it between the spawn computer and the plates. Richtofen then inserts his Vril Device into the apparatus."
+        "title": "Move the sphere through Tunnel 6",
+        "body": "Find the small stone sphere in Tunnel 6. Knife it or shoot it to send it onward, follow its movement and hit it again at each stop. Guide it toward the receiving bay until it rests high on the satellite dish outside spawn. Look above floor level when tracking it.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/j8b2c8/requested_moon_loading_screen/"
+        ]
       },
       {
-        "title": "Charge the Vril Device",
-        "body": "Richtofen repeatedly interacts with the spawn computer to continue his exchange with Maxis. Let the dialogue complete and keep using it when prompted until the monitor turns green. Retrieve the charged Vril Device from the apparatus; a different player cannot perform Richtofen's item placement."
+        "title": "Shoot the dish with the combined Wave Gun",
+        "body": "Obtain the Wave Gun from the Mystery Box if you have not already. Merge the two Zap Guns into the combined Wave Gun with the weapon-mode control; the source gives left on the controller D-pad. Shoot the sphere on the satellite dish with the combined weapon. It moves toward the Tunnel 11 entrance.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+        "tip": "Use your configured mode-switch binding on PC; an unverified keyboard key is not supplied.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/j8b2c8/requested_moon_loading_screen/"
+        ]
       },
       {
-        "title": "Fill all four MPD canisters",
-        "body": "Return to the pyramid, where all four corner canisters are exposed. Kill zombies close to each until every canister is full: 25 souls per canister, 100 total for this stage. Spread the team around the corners or deliberately feed one at a time so kills do not all accumulate on a canister already finished. Once all four are full, have Richtofen place the charged Device in the MPD's front receptacle. The soul exchange occurs; Richtofen receives permanent perks at this stage."
+        "title": "Guide the sphere through Tunnel 11",
+        "body": "Enter Tunnel 11 and continue shooting or knifing the sphere at its stops. Track it along raised positions as well as the floor. Keep following until it reaches the MPD and inserts into its front panel. A soul canister appears at the front-right corner.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/"
       },
       {
-        "title": "Complete three more Samantha Says games",
-        "body": "Return to the four outdoor computer screens. Complete three additional rounds/games by watching and repeating each generated color sequence. Keep count of successful games and listen for the confirmation. Save a slow zombie and have a teammate protect the player entering sequences."
+        "title": "Fill the first soul canister and open the MPD",
+        "body": "Stand near the exposed canister and kill 25 zombies close enough for their souls to enter it. Wait for its completion cue. Use the lever beside that corner to open the pyramid and reveal Samantha. The source describes a temporary Death Machine reward; completing this reveal does not end the BO3 solo route.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+        "tip": "A precise Death Machine duration and named BO3 achievement award have not been independently checked.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/xe53wv/do_i_need_to_complete_the_shangrila_easter_egg_to/"
+        ]
       },
       {
-        "title": "Send the sphere to the computers",
-        "body": "Throw a QED at the sphere/receptacle on the front of the MPD. A correct throw moves the sphere outside to the Samantha Says computers. Walk there and visually confirm its position before using your Gersh Device."
+        "title": "Collect the Area 51 plates with a Gersh Device",
+        "body": "Acquire Gersh Devices and return to Area 51 using the lunar teleporter pad; in co-op gather all living players on it. Find the shelving outside the playable fence, described in the written route as right of the teleporter mainframe. Throw a grenade to knock down the metal plates, then throw a Gersh Device near the fallen plates so they are pulled onto the teleporter. Return to Moon with them.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+        "tip": "The written right-side bearing needs a native view. Check the fallen plates and transport result before spending another tactical grenade.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/j8b2c8/requested_moon_loading_screen/"
+        ]
       },
       {
-        "title": "Launch the rockets",
-        "body": "Throw a Gersh Device beside the sphere at the outdoor computers so the portal takes it in. Wait through the missile launch and Earth destruction sequence. The full quest awards Big Bang Theory and permanent perks to the rest of the team. Keep playing if desired; the quest itself does not force a game-over screen."
+        "title": "Move the plates to the spawn computer with a QED",
+        "body": "After returning, find the plates on the ground near Quick Revive in lunar spawn. Obtain QEDs, replacing your Gersh slot when needed, and throw one at the plates. Confirm that the plates move onto the computer apparatus before continuing.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/j8b2c8/requested_moon_loading_screen/"
+        ]
+      },
+      {
+        "title": "Find a lead and connect the computer",
+        "body": "Look for the curved silver lead around the laboratory: the original walkthrough gives lab corners, a table, the upstairs lab doorway and the material pile outside toward Mule Kick as candidate checks. Pick it up and attach it between the receiving-bay computer and the plates. Have Richtofen insert his Vril Device into the apparatus.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/j8b2c8/requested_moon_loading_screen/",
+        "tip": "The six Hacker spots and lead candidates are written landmarks, without verified close-up photos. The cable candidates are examples, not an exhaustive spawn list.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/wiki/moon/"
+        ]
+      },
+      {
+        "title": "Charge and retrieve the Vril Device",
+        "body": "As Richtofen, interact with the receiving-bay computer to advance the exchange. Let each exchange progress and interact again as needed until the screen turns green. Retrieve the charged Vril Device from the apparatus. Keep the text and audio cues as your progress check rather than counting an assumed number of interactions.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+        "tip": "The number of uses, dialogue timing and co-op ownership details have not been independently measured.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/j8b2c8/requested_moon_loading_screen/"
+        ]
+      },
+      {
+        "title": "Fill the four corner canisters",
+        "body": "Return to the MPD and feed the four corner canisters with nearby zombie kills. The written target is 25 souls at each corner, 100 total for this stage. Check each canister rather than sending all kills toward a corner that is already full. Continue only after all four indicate completion.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+        "tip": "The demonstration shows all four tubes raised after the MPD opens and the charged Vril is collected. A separate raising input is not shown.",
+        "corroboratingSources": [
+          "https://www.youtube.com/watch?v=wFIG6Zul2L0&t=575"
+        ]
+      },
+      {
+        "title": "Insert the charged device at the MPD",
+        "body": "Have Richtofen place the charged Vril Device in the front receptacle after the four-canister stage is complete. Wait for the soul-exchange scene and check its completion before moving to the missile sequence. The source reports all eight perks for Richtofen at this point.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+        "tip": "Exact persistence after later downs, solo Quick Revive limits and current award behavior have not been tested here."
+      },
+      {
+        "title": "Use a QED to release the sphere",
+        "body": "Throw a QED at the sphere on the front of the MPD. Confirm that it leaves the pyramid and reaches the outdoor Samantha Says computers. This route puts the sphere transfer before the final three games, following the original player walkthrough.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/j8b2c8/requested_moon_loading_screen/",
+        "tip": "The recorded BO3 route confirms this order: QED, three games, then Gersh.",
+        "corroboratingSources": [
+          "https://www.youtube.com/watch?v=wFIG6Zul2L0&t=615"
+        ]
+      },
+      {
+        "title": "Win three final Samantha Says games",
+        "body": "At the outdoor computers, watch and repeat the displayed colors as before: red, green, blue, yellow from left to right. Complete three successful games and check the rocket-stage confirmations. Protect the player entering the patterns and do not replace a generated sequence with a fixed remembered code.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/j8b2c8/requested_moon_loading_screen/",
+        "tip": "The recorded BO3 route confirms this order: QED, three games, then Gersh.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/wiki/moon/",
+          "https://www.youtube.com/watch?v=wFIG6Zul2L0&t=615"
+        ]
+      },
+      {
+        "title": "Send the sphere into a Gersh Device",
+        "body": "Obtain Gersh Devices again if needed. Throw one beside the sphere at the outdoor computers so the portal takes it in. Wait for the rocket launch and Earth-destruction sequence to finish. The written route reports the remaining players receiving the quest perks; the match can continue afterward.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/j8b2c8/requested_moon_loading_screen/",
+        "tip": "No named BO3 trophy, exact ending timer or retail completion has been certified in this research pass.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/wiki/moon/"
+        ]
       }
     ],
     "sources": [
       {
-        "title": "r/CODZombies — Moon quest and original/remaster differences",
+        "title": "Moon wiki",
         "url": "https://www.reddit.com/r/CODZombies/wiki/moon/"
       },
       {
-        "title": "GameFAQs — original Moon lead-wire locations",
-        "url": "https://gamefaqs.gamespot.com/xbox360/960189-call-of-duty-black-ops/answers/297082-how-do-i-find-the-quotsquot-shaped-tube-on-moon"
-      },
-      {
-        "title": "r/CODZombies — BO1 prior-quest requirements",
-        "url": "https://www.reddit.com/r/CODZombies/comments/1ih8zf7/"
-      },
-      {
-        "title": "r/CODZombies: Chronicles supplies the Vril Device",
+        "title": "Chronicles prerequisites",
         "url": "https://www.reddit.com/r/CODZombies/comments/xe53wv/do_i_need_to_complete_the_shangrila_easter_egg_to/"
       },
       {
-        "title": "FreeMetal — firsthand BO3 Moon main quest, part 2",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=935312551"
+        "title": "Original walkthrough",
+        "url": "https://www.reddit.com/r/CODZombies/comments/j8b2c8/requested_moon_loading_screen/"
+      },
+      {
+        "title": "Oxygen and Hacker",
+        "url": "https://www.reddit.com/r/CODZombies/comments/ec3xsb/help_with_moon/"
+      },
+      {
+        "title": "Solo report",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1e3okcu/moon_solo_easter_egg/"
+      },
+      {
+        "title": "Demonstration",
+        "url": "https://www.youtube.com/watch?v=wFIG6Zul2L0"
       }
     ],
-    "checked": "2026-10-16"
+    "checked": "2026-10-23",
+    "sourceQuote": null,
+    "sharedSource": false,
+    "sourceOmissions": [
+      "The six Hacker spots and lead candidates are written landmarks, without verified close-up photos. The cable candidates are examples, not an exhaustive spawn list.",
+      "The exact lab timer, canister-raising/lever trigger details, dialogue pacing, throw tolerances, retries and current co-op behavior have not been tested here.",
+      "Written sources conflict on the final order. This route follows the original player walkthrough: QED sphere, three Samantha Says games, then Gersh. The recorded BO3 route supports this order.",
+      "The BO1 prerequisite and achievement rules do not establish BO3 awards. This route makes no promise about a named BO3 trophy unlocking."
+    ],
+    "supplementNote": "Edition-specific instructions with attributed frames from the recorded demonstrations. No independent retail playtest."
   },
   {
     "id": "bo1-shangri-la-pareidolia",

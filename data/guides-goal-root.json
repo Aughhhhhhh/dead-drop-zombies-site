@@ -7462,5 +7462,690 @@
       }
     ],
     "checked": "2026-10-23"
+  },
+  {
+    "id": "bo3-moon-pes-and-oxygen",
+    "mapId": "bo3-moon",
+    "title": "PES and oxygen: suit or Hacker",
+    "category": "side",
+    "difficulty": "Setup / reference",
+    "players": "Solo / co-op",
+    "summary": "Use the lunar suit, recognize decompressed rooms and plan Hacker trips.",
+    "requirements": [
+      "Black Ops III Zombies Chronicles Moon.",
+      "Access to the PES rack and laboratory."
+    ],
+    "reward": "An equipped suit or a planned short Hacker route.",
+    "steps": [
+      {
+        "title": "Take and equip the PES",
+        "body": "Take the suit from a PES rack and use your mapped equipment control to equip it. Wear it on the lunar surface and inside rooms whose air has been lost. The receiving-bay rack is across from Quick Revive, providing a recognizable place to return for a suit.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+        "tip": "No oxygen countdown or exact rack-respawn timer is measured here.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/ec3xsb/help_with_moon/"
+        ]
+      },
+      {
+        "title": "Check whether the room still has air",
+        "body": "A breached tunnel or broken laboratory window can leave an interior without oxygen. Do not use the roof as proof that a room is safe. Return to intact air or equip the PES when an oxygen warning occurs.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/ec3xsb/help_with_moon/"
+      },
+      {
+        "title": "Trade the suit for the Hacker deliberately",
+        "body": "Picking up the Hacker replaces the PES; you cannot carry both at once. Do your longer hacks from intact rooms and plan the route across airlocks or exposed ground before taking the device. In co-op, a suited player can protect the Hacker carrier while the action finishes.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/h9qx2m/multiple_hacker_uses_on_moon_bo3/",
+        "tip": "No safe universal time without the suit is promised.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/ec3xsb/help_with_moon/"
+        ]
+      },
+      {
+        "title": "Recover the equipment you need",
+        "body": "When you switch back to a PES, the BO3 reply says the Hacker returns to a laboratory spawn rather than remaining guaranteed at the exchange point. Search its six documented lab positions again when needed. Retracting an excavator clears the obstruction but does not repair the cut room’s oxygen.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/ec3xsb/help_with_moon/",
+        "tip": "Precise device respawn and decompression rules have not been independently tested."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Moon equipment",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/moon/"
+      },
+      {
+        "title": "BO3 oxygen report",
+        "url": "https://www.reddit.com/r/CODZombies/comments/ec3xsb/help_with_moon/"
+      },
+      {
+        "title": "BO3 Hacker",
+        "url": "https://www.reddit.com/r/CODZombies/comments/h9qx2m/multiple_hacker_uses_on_moon_bo3/"
+      }
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": null,
+    "sharedSource": false,
+    "sourceOmissions": [
+      "Oxygen duration, exact respawn timing and every decompression edge case remain unverified."
+    ],
+    "supplementNote": "Edition-specific authored instructions from the linked primary reports. No new step photos or independent retail playtest."
+  },
+  {
+    "id": "bo3-moon-hacker-uses",
+    "mapId": "bo3-moon",
+    "title": "Hacker: locations, Box tricks and utilities",
+    "category": "side",
+    "difficulty": "Setup / reference",
+    "players": "Solo / co-op",
+    "summary": "Find all six documented device spots and use the BO3 player-reported hacks with their limits.",
+    "requirements": [
+      "Black Ops III Zombies Chronicles Moon.",
+      "Laboratory access, safe air and points for paid actions.",
+      "The Hacker replaces the PES and only one player carries it at a time in the reports."
+    ],
+    "reward": "The supported rerolls, utility interactions and quest controls.",
+    "steps": [
+      {
+        "title": "Search the two first-floor spots",
+        "body": "On the lowest laboratory floor, check the shelf left of the stairs to the second floor and the shelf right of the exit. Interact with the Hacker if it is present. Picking it up trades away the PES, so check the room’s air first.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/h9qx2m/multiple_hacker_uses_on_moon_bo3/"
+        ]
+      },
+      {
+        "title": "Search the two middle-floor spots",
+        "body": "On the second laboratory floor, look on the blue railing right of the staircase to the upper floor and on the electrical box left of that staircase. A previous carrier may need to switch away from the Hacker before another player can take it.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/h9qx2m/multiple_hacker_uses_on_moon_bo3/"
+        ]
+      },
+      {
+        "title": "Search the two upper-floor spots",
+        "body": "On the third floor, check the tanks right of Deadshot and the shelf left of the Biodome exit. These six written landmarks are the search set; confirmed close-up photos are still needed.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/"
+      },
+      {
+        "title": "Equip it and finish a hack",
+        "body": "With the Hacker carried, aim at the supported object and hold the mapped interaction until the hack completes. The device is reusable, but particular actions charge points. Watch the completion response and your balance; a partial hold is not a completed hack.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/h9qx2m/multiple_hacker_uses_on_moon_bo3/",
+        "tip": "Current hold times and a complete eligible-object census have not been measured."
+      },
+      {
+        "title": "Reroll a Mystery Box offer",
+        "body": "Make a normal 950-point Box roll. While its weapon is offered, hack it for the reported 600-point reroll. Check the replacement offer before taking it. This buys a second result; it does not guarantee a Gersh, QED or wonder weapon.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/1bxo1ci/im_going_to_lose_it/",
+        "tip": "The original BO3 reply gives these prices; confirm the displayed prompts in your run."
+      },
+      {
+        "title": "Hack the replacement again for a refund/share offer",
+        "body": "The same BO3 report says hacking the replacement a second time refunds the original 950 points and makes the offer available to teammates. That leaves the reported 600-point cost across the two results. Check the offer’s state and coordinate who takes it.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/1bxo1ci/im_going_to_lose_it/",
+        "tip": "The exact sharing window and host/co-op edge cases remain unverified.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/h9qx2m/multiple_hacker_uses_on_moon_bo3/"
+        ]
+      },
+      {
+        "title": "Block an empty Box position",
+        "body": "The BO3 Hacker report describes hacking an inactive Box location to block that destination for five rounds. Use the device on the empty position and confirm the interaction. This is a destination-control option rather than a guaranteed way to force the item you need.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/h9qx2m/multiple_hacker_uses_on_moon_bo3/",
+        "tip": "The five-round duration is a typed report, without an independent round-by-round test."
+      },
+      {
+        "title": "Convert a dropped power-up to Max Ammo",
+        "body": "The explicit BO3 replies describe hacking a dropped power-up into Max Ammo, with a reported cost of 5,000 points. Keep the drop alive long enough to finish, then collect the resulting Max Ammo. This can support a solo quest waiting for the next tactical swap or Wave Gun refill.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/jdq4vi/bo3_moon_help/",
+        "tip": "Eligible drop types, despawn timing and every interaction exception have not been checked.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/1e3okcu/moon_solo_easter_egg/"
+        ]
+      },
+      {
+        "title": "Convert Max Ammo to Fire Sale if that is the needed option",
+        "body": "A BO3-context Hacker explanation describes hacking a Max Ammo into Fire Sale. Decide which reward you need before using the device: a Fire Sale is useful for Box access but does not refill the weapon for which you were saving the Max Ammo.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/hb1n3o/how_do_i_play_moon/",
+        "tip": "The exact current cost and drop-expiry timing for this conversion are not established here."
+      },
+      {
+        "title": "Hack a wall purchase for the reported refill saving",
+        "body": "A firsthand BO3 Moon player reports that hacked wall ammunition gives packed-gun refills around 250–750 points. Use the Hacker on the wall mount for a gun you actually own, then read the ammo prompt and price before buying. Keep the linked gun’s wall location available during a long run.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/135syko/my_opinion_of_moon_has_changed_thanks_to_the_bo3/",
+        "tip": "The initial hack fee, normal/packed price flip, reversibility and individual refill values remain unverified for current BO3; BO1’s 3,000-point claim is not substituted."
+      },
+      {
+        "title": "Refund an owned perk",
+        "body": "The BO3 Hacker reports describe using the device on a machine for a perk you already own to remove that perk and refund its purchase. Read the target carefully and confirm that you want to lose it before completing the hack. This is not the same as buying an extra perk slot.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/h9qx2m/multiple_hacker_uses_on_moon_bo3/",
+        "tip": "Current refund prices and special quest-perk interactions have not been independently tested.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/hb1n3o/how_do_i_play_moon/"
+        ]
+      },
+      {
+        "title": "Use the reported door discount",
+        "body": "A BO3-context explanation gives a 200-point hacked-door opening. Equip the Hacker at an eligible unopened door, check the prompt and finish the hack. Let teammates cover you during the slower interaction.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/hb1n3o/how_do_i_play_moon/",
+        "tip": "Exact eligibility and hold time are not certified for every door."
+      },
+      {
+        "title": "Transfer points or repair a barrier",
+        "body": "The written BO3 explanations describe hacking a teammate to give 500 points and hacking a barrier for a 100-point repair reward. Select the intended target and complete the action, then check both balances or the repaired barrier before repeating.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/hb1n3o/how_do_i_play_moon/",
+        "tip": "The barrier reward is independently supported by the explicit BO3 Hacker list; current cooldowns and every target condition remain unchecked.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/h9qx2m/multiple_hacker_uses_on_moon_bo3/"
+        ]
+      },
+      {
+        "title": "Operate the Pack-a-Punch gates",
+        "body": "At Area 51, hack the Pack-a-Punch area’s gate interaction for temporary protection while a player upgrades. Confirm the gates are active and keep an escape plan. Coordinate the suit/Hacker exchange before leaving Moon.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/h9qx2m/multiple_hacker_uses_on_moon_bo3/",
+        "tip": "No precise protection duration or point award is promised.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/hb1n3o/how_do_i_play_moon/"
+        ]
+      },
+      {
+        "title": "Use receiving-bay excavator controls",
+        "body": "When an excavator warning occurs, find its green control panel in lunar receiving and complete the corresponding hack. A timely hack prevents that cut; a later one retracts an existing obstruction. The main quest deliberately lets Tunnel 6 be cut before retracting it.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/hb1n3o/how_do_i_play_moon/",
+        "tip": "A late hack does not restore oxygen to a room that has already been breached.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/wiki/moon/",
+          "https://www.reddit.com/r/CODZombies/comments/ec3xsb/help_with_moon/"
+        ]
+      },
+      {
+        "title": "Keep the reported passive bonus in perspective",
+        "body": "BO3 solo players describe a round-based bonus for continuing to carry the Hacker, rising to 2,500 points per round. If using this strategy, keep the device through round transitions and watch the actual balance change. It is optional economy support, not a quest requirement.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/1e3okcu/moon_solo_easter_egg/",
+        "tip": "The starting round count, interruption/reset rules and exact progression have not been independently measured."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Moon Hacker positions",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/moon/"
+      },
+      {
+        "title": "Explicit BO3 Hacker list",
+        "url": "https://www.reddit.com/r/CODZombies/comments/h9qx2m/multiple_hacker_uses_on_moon_bo3/"
+      },
+      {
+        "title": "BO3-context utilities",
+        "url": "https://www.reddit.com/r/CODZombies/comments/hb1n3o/how_do_i_play_moon/"
+      },
+      {
+        "title": "BO3 Box arithmetic",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1bxo1ci/im_going_to_lose_it/"
+      },
+      {
+        "title": "BO3 drops",
+        "url": "https://www.reddit.com/r/CODZombies/comments/jdq4vi/bo3_moon_help/"
+      },
+      {
+        "title": "BO3 wall refills",
+        "url": "https://www.reddit.com/r/CODZombies/comments/135syko/my_opinion_of_moon_has_changed_thanks_to_the_bo3/"
+      },
+      {
+        "title": "BO3 solo economy",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1e3okcu/moon_solo_easter_egg/"
+      },
+      {
+        "title": "Oxygen report",
+        "url": "https://www.reddit.com/r/CODZombies/comments/ec3xsb/help_with_moon/"
+      }
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": null,
+    "sharedSource": false,
+    "sourceOmissions": [
+      "Exact hack hold/cooldown times, full object eligibility, current price schedule, passive progression and all co-op edge cases remain unverified."
+    ],
+    "supplementNote": "Edition-specific authored instructions from the linked primary reports. No new step photos or independent retail playtest."
+  },
+  {
+    "id": "bo3-moon-excavator-controls",
+    "mapId": "bo3-moon",
+    "title": "Excavators: prevent a breach or retract a cut",
+    "category": "side",
+    "difficulty": "Setup / reference",
+    "players": "Solo / co-op",
+    "summary": "Respond to station warnings with the Hacker and preserve the one breach needed for the main quest.",
+    "requirements": [
+      "Black Ops III Zombies Chronicles Moon.",
+      "Power, Hacker access and a planned oxygen route to lunar receiving."
+    ],
+    "reward": "A prevented cut or a retracted obstruction; quest-specific Tunnel 6 access.",
+    "steps": [
+      {
+        "title": "Identify the threatened zone",
+        "body": "Listen to the station warning and identify whether the approaching excavator threatens Tunnel 6, Tunnel 11 or the Biodome. The BO3 Hacker explanations describe three excavators. Pick the matching receiving-bay control instead of hacking a random panel.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/hb1n3o/how_do_i_play_moon/",
+        "tip": "Names and announcement timings for the other two machines are not certified here; the main quest’s Tunnel 6 machine is documented as Pi.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/wiki/moon/"
+        ]
+      },
+      {
+        "title": "Hack the green receiving-bay panel",
+        "body": "Carry the Hacker to lunar receiving, find the corresponding green excavator panel and complete its hack. Do this before the cut if your goal is to preserve the area. The BO3 report places two controls near the door and another across the room; use the warning and active indicator to choose.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/ec3xsb/help_with_moon/",
+        "tip": "The precise warning window, panel input duration and current cooldowns have not been measured.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/hb1n3o/how_do_i_play_moon/"
+        ]
+      },
+      {
+        "title": "Distinguish retraction from repair",
+        "body": "If the machine has already cut the room, the same control retracts its physical obstruction. Continue wearing a PES in the decompressed area. Removing the excavator does not make the broken tunnel or Biodome airtight again.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/ec3xsb/help_with_moon/"
+      },
+      {
+        "title": "Keep the main quest exception",
+        "body": "For Richtofen’s Grand Scheme, let Pi fully breach Tunnel 6 so the stone sphere becomes available, then retract it from receiving. Preventing that particular cut too early delays the required sphere stage. Follow the separate main route for the sphere and combined Wave Gun shot.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+        "tip": "Excavator selection is reported as random; no guaranteed arrival round is established.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/j8b2c8/requested_moon_loading_screen/"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "BO3 excavator utility",
+        "url": "https://www.reddit.com/r/CODZombies/comments/hb1n3o/how_do_i_play_moon/"
+      },
+      {
+        "title": "BO3 controls and oxygen",
+        "url": "https://www.reddit.com/r/CODZombies/comments/ec3xsb/help_with_moon/"
+      },
+      {
+        "title": "Moon quest",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/moon/"
+      }
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": null,
+    "sharedSource": false,
+    "sourceOmissions": [
+      "Random scheduling, warning windows, exact controls and all machine-name mappings still need native or retail checks."
+    ],
+    "supplementNote": "Edition-specific authored instructions from the linked primary reports. No new step photos or independent retail playtest."
+  },
+  {
+    "id": "bo3-moon-perks-and-gobblegum",
+    "mapId": "bo3-moon",
+    "title": "Perks and GobbleGum: Moon edition reference",
+    "category": "side",
+    "difficulty": "Setup / reference",
+    "players": "Solo / co-op",
+    "summary": "Find the remaster machines, distinguish Widow’s Wine from BO1 PhD and plan optional gums.",
+    "requirements": [
+      "Black Ops III Zombies Chronicles Moon.",
+      "Power and access to the relevant rooms.",
+      "Read each current purchase prompt and your available perk slots."
+    ],
+    "reward": "Purchased perks or optional GobbleGum effects; no secret is unlocked merely by owning a gum.",
+    "steps": [
+      {
+        "title": "Use the Area 51 and receiving machines",
+        "body": "The Moon table places Juggernog and Speed Cola beside the Area 51 teleporter and Quick Revive in lunar receiving across from the PES cabinet. Treat the Earth entries as a shared location rather than a promise that both are simultaneously present. The listed prices are Juggernog 2,500, Speed Cola 3,000, and Quick Revive 500 solo or 1,500 co-op; confirm the actual prompt.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+        "tip": "The exact current Earth-machine alternation/reset rule is not independently established here."
+      },
+      {
+        "title": "Find the laboratory and tunnel perks",
+        "body": "Double Tap 2.0 is at the bottom of the laboratory across from the stairs; Deadshot is on the top laboratory floor. Stamin-Up is in the rocky Tunnel 11 area on the right. The historical prices are 2,000, 1,500 and 2,000 respectively. Use room landmarks rather than the old MP5K label in the shared table.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+        "tip": "The table’s exact multipliers and platform-specific Deadshot behavior are not treated as a verified current mechanic."
+      },
+      {
+        "title": "Use Widow’s Wine and the surface Mule Kick landmark",
+        "body": "In Chronicles, Widow’s Wine replaces BO1 PhD Flopper in the Biodome near the Mystery Box site; the listed price is 4,000. Mule Kick is on the surface outside the laboratory near the KN-44 wall route, also historically 4,000. The wiki’s Mule Kick BO3 flag conflicts with its BO3 wall and GobbleGum landmarks, so that flag is not used to remove the machine.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+        "tip": "Current machine close-ups, prices and exact weapon-loss behavior with Mule Kick remain unchecked."
+      },
+      {
+        "title": "Keep normal slots separate from bonus perks",
+        "body": "The shared BO3 mechanics entry describes the normal four-perk purchase limit, with extra-perk routes supplied by appropriate gums or quest rewards. Read a gum’s own effect and restrictions before using it. The Moon quest’s all-perk stage and the random QED perk report are separate from a normal machine purchase.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/game-mechanics/",
+        "tip": "No gum is required merely to begin the BO3 solo main quest.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/xe53wv/do_i_need_to_complete_the_shangrila_easter_egg_to/",
+          "https://www.reddit.com/r/CODZombies/comments/u0beuv/rainbow_perk_challenge_on_moon_using_qeds_worlds/"
+        ]
+      },
+      {
+        "title": "Locate a GobbleGum machine",
+        "body": "The Moon edition list gives eight sites: beside the Area 51 teleporter; inside the Biodome; lunar receiving; Tunnel 6; the surface near Mule Kick; the middle laboratory floor; the power room beside its Mystery Box position; and Tunnel 11 near Stamin-Up. Read the active machine’s prompt and your equipped pack before buying.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+        "tip": "Current pricing cycles, stock and every optional gum’s behavior are not certified by this location list."
+      },
+      {
+        "title": "Choose optional support without changing the quest rules",
+        "body": "BO3 Moon players discuss Cache Back or Alchemical Antithesis for ammunition and Box-related gums for faster setup. These are optional conveniences. The same Chronicles quest supports solo with the provided Vril Device; ownership of a particular Mega gum is not an earlier-map completion requirement.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/jdq4vi/bo3_moon_help/",
+        "tip": "Availability depends on the player’s equipped pack and stock. No guaranteed setup round is promised.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/wiki/game-mechanics/",
+          "https://www.reddit.com/r/CODZombies/comments/xe53wv/do_i_need_to_complete_the_shangrila_easter_egg_to/"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "Moon edition and machine table",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/moon/"
+      },
+      {
+        "title": "BO3 mechanics",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/game-mechanics/"
+      },
+      {
+        "title": "BO3 ammunition options",
+        "url": "https://www.reddit.com/r/CODZombies/comments/jdq4vi/bo3_moon_help/"
+      },
+      {
+        "title": "Chronicles prerequisites",
+        "url": "https://www.reddit.com/r/CODZombies/comments/xe53wv/do_i_need_to_complete_the_shangrila_easter_egg_to/"
+      },
+      {
+        "title": "BO3 QED perk report",
+        "url": "https://www.reddit.com/r/CODZombies/comments/u0beuv/rainbow_perk_challenge_on_moon_using_qeds_worlds/"
+      }
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": null,
+    "sharedSource": false,
+    "sourceOmissions": [
+      "Earth perk cycling, current prices, all perk multipliers and every gum interaction still need current retail verification."
+    ],
+    "supplementNote": "Edition-specific authored instructions from the linked primary reports. No new step photos or independent retail playtest."
+  },
+  {
+    "id": "bo3-moon-ray-gun",
+    "mapId": "bo3-moon",
+    "title": "Ray Gun: acquisition and Pack-a-Punch",
+    "category": "weapon",
+    "difficulty": "Setup / reference",
+    "players": "Solo / co-op",
+    "summary": "Use the Moon Box listing and the separately documented upgrade name.",
+    "requirements": [
+      "Black Ops III Zombies Chronicles Moon.",
+      "Mystery Box access.",
+      "Area 51 access and the ordinary first-upgrade price."
+    ],
+    "reward": "Ray Gun, with Porter’s X2 Ray Gun as the reported upgraded name.",
+    "steps": [
+      {
+        "title": "Take a Ray Gun Box offer",
+        "body": "The Moon Chronicles table lists Raygun as a Mystery Box weapon with no wall route. Roll the active Box and take the weapon when offered. No particular roll count or simultaneous-ownership limit is established by the table.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/"
+      },
+      {
+        "title": "Make its ordinary first upgrade",
+        "body": "Carry the Ray Gun to the Area 51 machine and check the standard first-upgrade prompt. Separate BO3-inclusive name evidence identifies the upgrade as Porter’s X2 Ray Gun. Collect it after the transaction.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/1ftlgvq/only_just_realised_electric_cherry_is_a_pun_on/",
+        "tip": "The reported name is separate from current ammunition, damage or machine-eligibility testing.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/pg8sux/",
+          "https://www.reddit.com/r/CODZombies/wiki/moon/"
+        ]
+      },
+      {
+        "title": "Check its own upgrade behavior",
+        "body": "Treat the Ray Gun as a wonder weapon, not an ordinary firearm automatically eligible for every alternate-ammo effect. Read the actual machine prompt after its first upgrade. Use the separate Box/Hacker guide if you want a reported reroll option while acquiring it.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/game-mechanics/",
+        "tip": "No per-weapon alternate-ammo transaction or complete refill behavior has been tested here."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Moon Box table",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/moon/"
+      },
+      {
+        "title": "BO3 name report",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1ftlgvq/only_just_realised_electric_cherry_is_a_pun_on/"
+      },
+      {
+        "title": "BO3 prices",
+        "url": "https://www.reddit.com/r/CODZombies/comments/pg8sux/"
+      },
+      {
+        "title": "BO3 mechanics",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/game-mechanics/"
+      }
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": null,
+    "sharedSource": false,
+    "sourceOmissions": [
+      "Exact ammo, damage, splash behavior, refill values and co-op ownership are not certified."
+    ],
+    "supplementNote": "Edition-specific authored instructions from the linked primary reports. No new step photos or independent retail playtest."
+  },
+  {
+    "id": "bo3-moon-ray-gun-mark-ii",
+    "mapId": "bo3-moon",
+    "title": "Ray Gun Mark II: acquisition and Pack-a-Punch",
+    "category": "weapon",
+    "difficulty": "Setup / reference",
+    "players": "Solo / co-op",
+    "summary": "Use the Moon Chronicles Box route and separate upgrade-name evidence.",
+    "requirements": [
+      "Black Ops III Zombies Chronicles Moon.",
+      "Mystery Box access and points for random rolls.",
+      "Area 51 machine access for the first upgrade."
+    ],
+    "reward": "Ray Gun Mark II, reported as Porter’s Mark II Ray Gun after upgrading.",
+    "steps": [
+      {
+        "title": "Look for the Mark II Box offer",
+        "body": "The Moon BO3 table separately lists Raygun Mark II as a Mystery Box offer, with no wall purchase. Keep rolling the active Box until it is offered and take it before it expires. A Mark II entry does not guarantee an early roll or prove a particular ownership limit.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/"
+      },
+      {
+        "title": "Upgrade at Area 51",
+        "body": "With the Mark II equipped, read Pack-a-Punch’s first-upgrade prompt and make the standard transaction when available. The independent multi-edition name report explicitly includes BO3 and calls the upgraded weapon Porter’s Mark II Ray Gun. Collect it and check your own label.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/1ftlgvq/only_just_realised_electric_cherry_is_a_pun_on/",
+        "tip": "The name report does not establish every current transaction, damage value or ammo capacity.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/pg8sux/"
+        ]
+      },
+      {
+        "title": "Keep its rules separate from the standard Ray Gun",
+        "body": "The Moon table lists the two Ray Guns separately. Use the Mark II’s actual prompt and ammunition display rather than transferring stats or alternate-ammo assumptions from the standard Ray Gun or ordinary firearms.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+        "tip": "Exact alternate-ammo eligibility, current ammo behavior and co-op limits remain unverified."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Moon Box table",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/moon/"
+      },
+      {
+        "title": "BO3-inclusive Mark II name report",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1ftlgvq/only_just_realised_electric_cherry_is_a_pun_on/"
+      },
+      {
+        "title": "BO3 prices",
+        "url": "https://www.reddit.com/r/CODZombies/comments/pg8sux/"
+      }
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": null,
+    "sharedSource": false,
+    "sourceOmissions": [
+      "The entry is not a certification of stats, odds, alternate ammo or simultaneous ownership."
+    ],
+    "supplementNote": "Edition-specific authored instructions from the linked primary reports. No new step photos or independent retail playtest."
+  },
+  {
+    "id": "bo3-moon-trip-mines-and-bowie",
+    "mapId": "bo3-moon",
+    "title": "Trip Mines and the high laboratory Bowie Knife",
+    "category": "weapon",
+    "difficulty": "Setup / reference",
+    "players": "Solo / co-op",
+    "summary": "Use the historical Biodome mine listing and a firsthand Chronicles knife-acquisition route.",
+    "requirements": [
+      "Black Ops III Zombies Chronicles Moon.",
+      "Biodome access for Trip Mines.",
+      "Laboratory stairs and enough points for the actual Bowie Knife prompt."
+    ],
+    "reward": "The purchased mine equipment or Bowie Knife.",
+    "steps": [
+      {
+        "title": "Read the Biodome Trip Mine prompt",
+        "body": "The Chronicles Moon table lists Trip Mines as a 1,000-point wall purchase inside the Biodome, with no Box route. Locate the equipment mount, confirm its actual label and price, then buy it. Use the configured equipment control to place mines.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+        "tip": "Exact mount close-up, active-mine limit, damage, refill and round-reset rules have not been verified."
+      },
+      {
+        "title": "Find the high knife mount from the lab stairs",
+        "body": "The firsthand Chronicles Bowie thread describes a high knife purchase near the laboratory stair corner. Position at the stair edge and look toward the high mount. Players report that reaching it is easier before power removes the room’s low-gravity movement.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/c9gw26/how_to_get_the_bowie_knife_in_moon_chronicles/",
+        "tip": "The exact mount and current purchase cost have not been inspected in a native close-up here."
+      },
+      {
+        "title": "Jump while aiming slightly above the knife",
+        "body": "Jump toward the purchase while looking a little above the knife and use interact when the buy prompt appears. The original questioner reports succeeding after advice to use the stair edge. Repeat from that position rather than guessing that a missed interaction proves the mount is unavailable.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/c9gw26/how_to_get_the_bowie_knife_in_moon_chronicles/",
+        "tip": "Some PC players report a temporary 60-FPS cap helping this jump. That is a player workaround, not a universal or retail-tested requirement."
+      },
+      {
+        "title": "Confirm the bought item and its actual rules",
+        "body": "Check the purchase response and equipped melee item. This entry follows the explicit BO3 Chronicles Bowie report; it does not substitute the shared BO1 table’s Sickle wording. No Pack-a-Punch or secret melee-upgrade route is established by the sources read.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/c9gw26/how_to_get_the_bowie_knife_in_moon_chronicles/",
+        "tip": "Damage breakpoints, exact jump inputs on each platform and current knife cost remain open."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Moon mine table",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/moon/"
+      },
+      {
+        "title": "Chronicles Bowie player route",
+        "url": "https://www.reddit.com/r/CODZombies/comments/c9gw26/how_to_get_the_bowie_knife_in_moon_chronicles/"
+      }
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": null,
+    "sharedSource": false,
+    "sourceOmissions": [
+      "Current mine behavior and the knife’s exact cost, photo, platform inputs and damage breakpoints remain unverified."
+    ],
+    "supplementNote": "Edition-specific authored instructions from the linked primary reports. No new step photos or independent retail playtest."
+  },
+  {
+    "id": "bo3-moon-qed-perk-attempt",
+    "mapId": "bo3-moon",
+    "title": "QED perk-machine bonus: reported random route",
+    "category": "side",
+    "difficulty": "Setup / reference",
+    "players": "Solo / co-op",
+    "summary": "Attempt the firsthand BO3 perk-machine QED result without treating it as a guaranteed reward.",
+    "requirements": [
+      "Black Ops III Zombies Chronicles Moon.",
+      "A QED tactical slot and access to the intended perk machine.",
+      "This is an optional random attempt, not the main quest’s all-perk reward."
+    ],
+    "reward": "A chance at the nearby machine’s perk, as reported by a BO3 challenge player.",
+    "steps": [
+      {
+        "title": "Get QEDs from the active Box",
+        "body": "Acquire QEDs through the Mystery Box. Remember that they replace Gersh Devices in the tactical slot, so do this between quest stages only when you can afford the swap. Keep the specific machine you want reachable.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/moon/",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/1e3okcu/moon_solo_easter_egg/"
+        ]
+      },
+      {
+        "title": "Throw a QED near the chosen perk machine",
+        "body": "The original BO3 challenge author describes a small chance of getting that machine’s perk from a QED thrown nearby. Use one throw near the machine and check the resulting effect and perk icons. A failed attempt or different random result does not prove that the perk route is guaranteed on the next throw.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/u0beuv/rainbow_perk_challenge_on_moon_using_qeds_worlds/",
+        "tip": "The exact placement radius, odds, machine-state requirements and interaction with an already-owned perk are not established."
+      },
+      {
+        "title": "Wait for an ongoing random effect to finish",
+        "body": "The same player’s later explicit BO3 recollection says to throw one QED at a time: an ongoing weapon-circle effect can prevent the next perk attempt. Let such an effect finish before spending another throw. Check the actual reward rather than expecting a particular bottle animation.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/1lsft8b/has_anyone_gotten_a_free_perk_on_bo1_moon_lately/",
+        "tip": "This imports only the author’s typed BO3 recollection from a BO1-titled discussion. BO1 patch claims, red-bottle rules and a complete BO3 outcome pool are not adopted."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Moon QED acquisition",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/moon/"
+      },
+      {
+        "title": "Firsthand BO3 perk attempt",
+        "url": "https://www.reddit.com/r/CODZombies/comments/u0beuv/rainbow_perk_challenge_on_moon_using_qeds_worlds/"
+      },
+      {
+        "title": "Same player’s BO3 follow-up",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1lsft8b/has_anyone_gotten_a_free_perk_on_bo1_moon_lately/"
+      },
+      {
+        "title": "Solo tactical swaps",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1e3okcu/moon_solo_easter_egg/"
+      }
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": null,
+    "sharedSource": false,
+    "sourceOmissions": [
+      "Exact odds, eligibility, bottle/direct-perk animation and all QED events remain unresolved; no gameplay test was performed."
+    ],
+    "supplementNote": "Edition-specific authored instructions from the linked primary reports. No new step photos or independent retail playtest."
   }
 ]

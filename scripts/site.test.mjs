@@ -292,6 +292,8 @@ test("all delivered images exist and have usable attribution", async () => {
   const assetNames = new Set(await readdir(new URL("../assets/", import.meta.url)));
   for (const image of images) {
     assert.ok(image.alt && image.source && image.credit);
+    const size = media.sizes?.[image.src] || [image.width, image.height];
+    assert.ok(size.every((value) => Number.isInteger(value) && value > 0), `Missing image size: ${image.src}`);
     assert.ok(externalUrl(image.source));
     assert.ok(image.src.startsWith("./assets/"));
     assert.ok(assetNames.has(image.src.slice("./assets/".length)), `Image filename case: ${image.src}`);
