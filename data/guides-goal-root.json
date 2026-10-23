@@ -8147,5 +8147,1262 @@
       "Exact odds, eligibility, bottle/direct-perk animation and all QED events remain unresolved; no gameplay test was performed."
     ],
     "supplementNote": "Edition-specific authored instructions from the linked primary reports. No new step photos or independent retail playtest."
+  },
+  {
+    "id": "classic46-bo3-origins-firearms",
+    "mapId": "bo3-origins",
+    "title": "Origins firearms: routes and reported upgrade names",
+    "category": "weapon",
+    "difficulty": "Setup / reference",
+    "players": "Solo / co-op",
+    "summary": "31 historical Chronicles firearm rows with separately supported names and three unresolved aliases.",
+    "requirements": [
+      "Black Ops III Zombies Chronicles Origins.",
+      "Read the actual wall or Mystery Box prompt; a historical table is not a current inventory census.",
+      "All six generators active and 5,000 points for a standard first Pack-a-Punch purchase."
+    ],
+    "reward": "The chosen firearm and its supported first upgrade, with eligible BO3 alternate-ammo purchases handled separately.",
+    "steps": [
+      {
+        "title": "Read this as the Chronicles table",
+        "body": "The 31 rows below are the ordinary firearms in the Origins wiki’s explicit BO3 table. The other nine rows are four staffs, two Ray Guns, Trip Mines, G-Strikes and Monkey Bombs, which have separate cards. Each quoted row preserves the source’s six cells. An arrow name is separately researched and is not part of that acquisition row.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+        "tip": "This is a historical listing. It does not certify every current Box addition or remove a weapon merely because it is absent from the old table."
+      },
+      {
+        "title": "Buy the listed wall gun or collect the Box offer",
+        "body": "For a wall route, open the named region, inspect the mount and read the actual gun and price before paying. For a Box route, find the active Mystery Box and use its prompt, then take a desired offer before it disappears. Written Box sites are spawn, Tank Station/Generator 2, Generator 3, Generator 4, Generator 5 and Generator 6.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+        "tip": "The table’s dash means no listed route in that column, not independent proof about a current build. Exact Box cost, odds and move rules are not established here."
+      },
+      {
+        "title": "Use the six-generator Pack-a-Punch machine",
+        "body": "Power all six generators, climb the excavation mound and put the wanted gun into Pack-a-Punch for its standard 5,000-point first upgrade. Wait for it to return and collect it. The Mauser route becomes Boomhilda; keep the starting pistol or use the dig route if you traded it away.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/pg8sux/",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/wiki/origins/",
+          "https://www.reddit.com/r/CODZombies/comments/euwc4u/"
+        ]
+      },
+      {
+        "title": "Re-pack only when the actual BO3 prompt permits",
+        "body": "For a compatible upgraded firearm, a 2,500-point repeat purchase can assign an alternate-ammo effect. The documented five are Dead Wire, Blast Furnace, Thunder Wall, Turned and Fire Works. Check the effect label after collecting the gun; do not assume a reported upgrade name proves every alternate-ammo option.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/game-mechanics/",
+        "tip": "Exact ammo capacities, damage, attachment/Weapon Kit behavior and per-gun repeat eligibility remain untested.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/pg8sux/"
+        ]
+      },
+      {
+        "title": "Mauser C96 → Boomhilda",
+        "body": "Mauser C96 | No | - | On Spawn/Dig Sites | No | No",
+        "html": "<table><thead><tr><th>Weapon</th><th>Wall Weapon</th><th>Cost</th><th>Location</th><th>Box Weapon</th><th>Weapon Kit</th></tr></thead><tbody><tr><td>Mauser C96</td><td>No</td><td>-</td><td>On Spawn/Dig Sites</td><td>No</td><td>No</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+        "tip": "Keep the starting Mauser or reacquire it through ordinary shovel digs. The table lists neither a wall nor Box route; the separate BO3 dig analysis also includes the Mauser. Separate written name evidence reports Boomhilda. Current ammo, Weapon Kit status, later Box additions and individual alternate-ammo eligibility remain untested.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/euwc4u/",
+          "https://www.reddit.com/r/CODZombies/comments/1vr8lve/"
+        ]
+      },
+      {
+        "title": "RK5 → Rex-Kalibur 115",
+        "body": "RK5 | Yes | 500 | Spawn | No | Yes",
+        "html": "<table><thead><tr><th>Weapon</th><th>Wall Weapon</th><th>Cost</th><th>Location</th><th>Box Weapon</th><th>Weapon Kit</th></tr></thead><tbody><tr><td>RK5</td><td>Yes</td><td>500</td><td>Spawn</td><td>No</td><td>Yes</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+        "tip": "Historical wall listing: Spawn, 500 points. Open that route and read its actual weapon/price prompt before buying. The historical table does not list a Box route. Separate written name evidence reports Rex-Kalibur 115. Current ammo, Weapon Kit status, later Box additions and individual alternate-ammo eligibility remain untested.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/"
+        ]
+      },
+      {
+        "title": "L-CAR 9 → Flux Collider 935",
+        "body": "L-CAR 9 | Yes | 750 | Between Spawn & Generator 3 | No | Yes",
+        "html": "<table><thead><tr><th>Weapon</th><th>Wall Weapon</th><th>Cost</th><th>Location</th><th>Box Weapon</th><th>Weapon Kit</th></tr></thead><tbody><tr><td>L-CAR 9</td><td>Yes</td><td>750</td><td>Between Spawn &amp; Generator 3</td><td>No</td><td>Yes</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+        "tip": "Historical wall listing: Between Spawn & Generator 3, 750 points. Open that route and read its actual weapon/price prompt before buying. The historical table does not list a Box route. Separate written name evidence reports Flux Collider 935. Current ammo, Weapon Kit status, later Box additions and individual alternate-ammo eligibility remain untested.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/"
+        ]
+      },
+      {
+        "title": "KRM-262 → Dagon’s Glare",
+        "body": "KRM-262 | Yes | 750 | Between Spawn & Generator 2 | No | Yes",
+        "html": "<table><thead><tr><th>Weapon</th><th>Wall Weapon</th><th>Cost</th><th>Location</th><th>Box Weapon</th><th>Weapon Kit</th></tr></thead><tbody><tr><td>KRM-262</td><td>Yes</td><td>750</td><td>Between Spawn &amp; Generator 2</td><td>No</td><td>Yes</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+        "tip": "Historical wall listing: Between Spawn & Generator 2, 750 points. Open that route and read its actual weapon/price prompt before buying. The historical table does not list a Box route. Separate written name evidence reports Dagon’s Glare. Current ammo, Weapon Kit status, later Box additions and individual alternate-ammo eligibility remain untested.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/"
+        ]
+      },
+      {
+        "title": "Kuda → Crocuta",
+        "body": "Kuda | Yes | 1200 | Generator 3 | No | Yes",
+        "html": "<table><thead><tr><th>Weapon</th><th>Wall Weapon</th><th>Cost</th><th>Location</th><th>Box Weapon</th><th>Weapon Kit</th></tr></thead><tbody><tr><td>Kuda</td><td>Yes</td><td>1200</td><td>Generator 3</td><td>No</td><td>Yes</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+        "tip": "Historical wall listing: Generator 3, 1200 points. Open that route and read its actual weapon/price prompt before buying. The historical table does not list a Box route. Separate written name evidence reports Crocuta. Current ammo, Weapon Kit status, later Box additions and individual alternate-ammo eligibility remain untested.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/"
+        ]
+      },
+      {
+        "title": "Vesper → Infernus",
+        "body": "Vesper | No | - | - | Yes | Yes",
+        "html": "<table><thead><tr><th>Weapon</th><th>Wall Weapon</th><th>Cost</th><th>Location</th><th>Box Weapon</th><th>Weapon Kit</th></tr></thead><tbody><tr><td>Vesper</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+        "tip": "The historical table lists a Box route and no wall purchase. Locate the active Box, use its actual prompt and take the offered gun if it is the one you wanted; a random roll does not guarantee it. Separate written name evidence reports Infernus. Current ammo, Weapon Kit status, later Box additions and individual alternate-ammo eligibility remain untested.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/"
+        ]
+      },
+      {
+        "title": "Sheiva → Cumulus Struggle",
+        "body": "Sheiva | Yes | 500 | Spawn | Yes | Yes",
+        "html": "<table><thead><tr><th>Weapon</th><th>Wall Weapon</th><th>Cost</th><th>Location</th><th>Box Weapon</th><th>Weapon Kit</th></tr></thead><tbody><tr><td>Sheiva</td><td>Yes</td><td>500</td><td>Spawn</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+        "tip": "Historical wall listing: Spawn, 500 points. Open that route and read its actual weapon/price prompt before buying. The historical table also lists a Box route. Separate written name evidence reports Cumulus Struggle. Current ammo, Weapon Kit status, later Box additions and individual alternate-ammo eligibility remain untested.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/"
+        ]
+      },
+      {
+        "title": "HVK-30 → High Velocity Kicker",
+        "body": "HVK-30 | No | - | - | Yes | Yes",
+        "html": "<table><thead><tr><th>Weapon</th><th>Wall Weapon</th><th>Cost</th><th>Location</th><th>Box Weapon</th><th>Weapon Kit</th></tr></thead><tbody><tr><td>HVK-30</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+        "tip": "The historical table lists a Box route and no wall purchase. Locate the active Box, use its actual prompt and take the offered gun if it is the one you wanted; a random roll does not guarantee it. Separate written name evidence reports High Velocity Kicker. Current ammo, Weapon Kit status, later Box additions and individual alternate-ammo eligibility remain untested.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/"
+        ]
+      },
+      {
+        "title": "KN-44 → Anointed Avenger",
+        "body": "KN-44 | Yes | 1400 | Giant's foot to the right of Generator 4 | Yes | Yes",
+        "html": "<table><thead><tr><th>Weapon</th><th>Wall Weapon</th><th>Cost</th><th>Location</th><th>Box Weapon</th><th>Weapon Kit</th></tr></thead><tbody><tr><td>KN-44</td><td>Yes</td><td>1400</td><td>Giant's foot to the right of Generator 4</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+        "tip": "Historical wall listing: Giant's foot to the right of Generator 4, 1400 points. Open that route and read its actual weapon/price prompt before buying. The historical table also lists a Box route. Separate written name evidence reports Anointed Avenger. Current ammo, Weapon Kit status, later Box additions and individual alternate-ammo eligibility remain untested.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/"
+        ]
+      },
+      {
+        "title": "M8A7 → The Unspeakable",
+        "body": "M8A7 | Yes | 1400 | Next to Pack-A-Punch | Yes | Yes",
+        "html": "<table><thead><tr><th>Weapon</th><th>Wall Weapon</th><th>Cost</th><th>Location</th><th>Box Weapon</th><th>Weapon Kit</th></tr></thead><tbody><tr><td>M8A7</td><td>Yes</td><td>1400</td><td>Next to Pack-A-Punch</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+        "tip": "Historical wall listing: Next to Pack-A-Punch, 1400 points. Open that route and read its actual weapon/price prompt before buying. The historical table also lists a Box route. Separate written name evidence reports The Unspeakable. Current ammo, Weapon Kit status, later Box additions and individual alternate-ammo eligibility remain untested.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/"
+        ]
+      },
+      {
+        "title": "ICR-1 → Illuminated Deanimator",
+        "body": "ICR-1 | Yes | 1500 | Crazy Place | Yes | Yes",
+        "html": "<table><thead><tr><th>Weapon</th><th>Wall Weapon</th><th>Cost</th><th>Location</th><th>Box Weapon</th><th>Weapon Kit</th></tr></thead><tbody><tr><td>ICR-1</td><td>Yes</td><td>1500</td><td>Crazy Place</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+        "tip": "Historical wall listing: Crazy Place, 1500 points. Open that route and read its actual weapon/price prompt before buying. The historical table also lists a Box route. Separate written name evidence reports Illuminated Deanimator. Current ammo, Weapon Kit status, later Box additions and individual alternate-ammo eligibility remain untested.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/"
+        ]
+      },
+      {
+        "title": "Argus → Ancient Messenger",
+        "body": "Argus | Yes | 1500 | Workshop & Generator 6 | Yes | Yes",
+        "html": "<table><thead><tr><th>Weapon</th><th>Wall Weapon</th><th>Cost</th><th>Location</th><th>Box Weapon</th><th>Weapon Kit</th></tr></thead><tbody><tr><td>Argus</td><td>Yes</td><td>1500</td><td>Workshop &amp; Generator 6</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+        "tip": "Historical wall listing: Workshop & Generator 6, 1500 points. Open that route and read its actual weapon/price prompt before buying. The historical table also lists a Box route. Separate written name evidence reports Ancient Messenger. Current ammo, Weapon Kit status, later Box additions and individual alternate-ammo eligibility remain untested.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/"
+        ]
+      },
+      {
+        "title": "VMP → The Impaler",
+        "body": "VMP | Yes | 1300 | Tank Station | No | Yes",
+        "html": "<table><thead><tr><th>Weapon</th><th>Wall Weapon</th><th>Cost</th><th>Location</th><th>Box Weapon</th><th>Weapon Kit</th></tr></thead><tbody><tr><td>VMP</td><td>Yes</td><td>1300</td><td>Tank Station</td><td>No</td><td>Yes</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+        "tip": "Historical wall listing: Tank Station, 1300 points. Open that route and read its actual weapon/price prompt before buying. The historical table does not list a Box route. Separate written name evidence reports The Impaler. Current ammo, Weapon Kit status, later Box additions and individual alternate-ammo eligibility remain untested.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/"
+        ]
+      },
+      {
+        "title": "Pharo → Whispering Regurgitator",
+        "body": "Pharo | No | - | - | Yes | Yes",
+        "html": "<table><thead><tr><th>Weapon</th><th>Wall Weapon</th><th>Cost</th><th>Location</th><th>Box Weapon</th><th>Weapon Kit</th></tr></thead><tbody><tr><td>Pharo</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+        "tip": "The historical table lists a Box route and no wall purchase. Locate the active Box, use its actual prompt and take the offered gun if it is the one you wanted; a random roll does not guarantee it. Separate written name evidence reports Whispering Regurgitator. Current ammo, Weapon Kit status, later Box additions and individual alternate-ammo eligibility remain untested.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/"
+        ]
+      },
+      {
+        "title": "Weevil → Barrage",
+        "body": "Weevil | No | - | - | Yes | Yes",
+        "html": "<table><thead><tr><th>Weapon</th><th>Wall Weapon</th><th>Cost</th><th>Location</th><th>Box Weapon</th><th>Weapon Kit</th></tr></thead><tbody><tr><td>Weevil</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+        "tip": "The historical table lists a Box route and no wall purchase. Locate the active Box, use its actual prompt and take the offered gun if it is the one you wanted; a random roll does not guarantee it. Separate written name evidence reports Barrage. Current ammo, Weapon Kit status, later Box additions and individual alternate-ammo eligibility remain untested.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/"
+        ]
+      },
+      {
+        "title": "BRM → Blight Oblivion",
+        "body": "BRM | No | - | - | Yes | Yes",
+        "html": "<table><thead><tr><th>Weapon</th><th>Wall Weapon</th><th>Cost</th><th>Location</th><th>Box Weapon</th><th>Weapon Kit</th></tr></thead><tbody><tr><td>BRM</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+        "tip": "The historical table lists a Box route and no wall purchase. Locate the active Box, use its actual prompt and take the offered gun if it is the one you wanted; a random roll does not guarantee it. Separate written name evidence reports Blight Oblivion. Current ammo, Weapon Kit status, later Box additions and individual alternate-ammo eligibility remain untested.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/"
+        ]
+      },
+      {
+        "title": "Dingo → Dire Wolf",
+        "body": "Dingo | No | - | - | Yes | Yes",
+        "html": "<table><thead><tr><th>Weapon</th><th>Wall Weapon</th><th>Cost</th><th>Location</th><th>Box Weapon</th><th>Weapon Kit</th></tr></thead><tbody><tr><td>Dingo</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+        "tip": "The historical table lists a Box route and no wall purchase. Locate the active Box, use its actual prompt and take the offered gun if it is the one you wanted; a random roll does not guarantee it. Separate written name evidence reports Dire Wolf. Current ammo, Weapon Kit status, later Box additions and individual alternate-ammo eligibility remain untested.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/"
+        ]
+      },
+      {
+        "title": "48 Dredge → Trapezohedron Shard",
+        "body": "48 Dredge | No | - | - | Yes | Yes",
+        "html": "<table><thead><tr><th>Weapon</th><th>Wall Weapon</th><th>Cost</th><th>Location</th><th>Box Weapon</th><th>Weapon Kit</th></tr></thead><tbody><tr><td>48 Dredge</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+        "tip": "The historical table lists a Box route and no wall purchase. Locate the active Box, use its actual prompt and take the offered gun if it is the one you wanted; a random roll does not guarantee it. Separate written name evidence reports Trapezohedron Shard. Current ammo, Weapon Kit status, later Box additions and individual alternate-ammo eligibility remain untested.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/"
+        ]
+      },
+      {
+        "title": "Gorgon → Athena’s Spear",
+        "body": "Gorgon | No | - | - | Yes | Yes",
+        "html": "<table><thead><tr><th>Weapon</th><th>Wall Weapon</th><th>Cost</th><th>Location</th><th>Box Weapon</th><th>Weapon Kit</th></tr></thead><tbody><tr><td>Gorgon</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+        "tip": "The historical table lists a Box route and no wall purchase. Locate the active Box, use its actual prompt and take the offered gun if it is the one you wanted; a random roll does not guarantee it. Separate written name evidence reports Athena’s Spear. Current ammo, Weapon Kit status, later Box additions and individual alternate-ammo eligibility remain untested.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/"
+        ]
+      },
+      {
+        "title": "Locus → Arrhythmic Dirge",
+        "body": "Locus | No | - | - | Yes | Yes",
+        "html": "<table><thead><tr><th>Weapon</th><th>Wall Weapon</th><th>Cost</th><th>Location</th><th>Box Weapon</th><th>Weapon Kit</th></tr></thead><tbody><tr><td>Locus</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+        "tip": "The historical table lists a Box route and no wall purchase. Locate the active Box, use its actual prompt and take the offered gun if it is the one you wanted; a random roll does not guarantee it. Separate written name evidence reports Arrhythmic Dirge. Current ammo, Weapon Kit status, later Box additions and individual alternate-ammo eligibility remain untested.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/54v8y1/weapon_name_list_for_command_console/"
+        ]
+      },
+      {
+        "title": "Drakon → Bahamut",
+        "body": "Drakon | No | - | - | Yes | Yes",
+        "html": "<table><thead><tr><th>Weapon</th><th>Wall Weapon</th><th>Cost</th><th>Location</th><th>Box Weapon</th><th>Weapon Kit</th></tr></thead><tbody><tr><td>Drakon</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+        "tip": "The historical table lists a Box route and no wall purchase. Locate the active Box, use its actual prompt and take the offered gun if it is the one you wanted; a random roll does not guarantee it. Separate written name evidence reports Bahamut. Current ammo, Weapon Kit status, later Box additions and individual alternate-ammo eligibility remain untested.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/"
+        ]
+      },
+      {
+        "title": "SVG-100 → Ikken Hissatsu",
+        "body": "SVG-100 | No | - | - | Yes | Yes",
+        "html": "<table><thead><tr><th>Weapon</th><th>Wall Weapon</th><th>Cost</th><th>Location</th><th>Box Weapon</th><th>Weapon Kit</th></tr></thead><tbody><tr><td>SVG-100</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+        "tip": "The historical table lists a Box route and no wall purchase. Locate the active Box, use its actual prompt and take the offered gun if it is the one you wanted; a random roll does not guarantee it. Separate written name evidence reports Ikken Hissatsu. Current ammo, Weapon Kit status, later Box additions and individual alternate-ammo eligibility remain untested.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/"
+        ]
+      },
+      {
+        "title": "Man-O-War → Dread Armada",
+        "body": "Man-O-War | No | - | - | Yes | Yes",
+        "html": "<table><thead><tr><th>Weapon</th><th>Wall Weapon</th><th>Cost</th><th>Location</th><th>Box Weapon</th><th>Weapon Kit</th></tr></thead><tbody><tr><td>Man-O-War</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+        "tip": "The historical table lists a Box route and no wall purchase. Locate the active Box, use its actual prompt and take the offered gun if it is the one you wanted; a random roll does not guarantee it. Separate written name evidence reports Dread Armada. Current ammo, Weapon Kit status, later Box additions and individual alternate-ammo eligibility remain untested.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/"
+        ]
+      },
+      {
+        "title": "205 Brecci → Stellar Screech",
+        "body": "205 Brecci | No | - | - | Yes | Yes",
+        "html": "<table><thead><tr><th>Weapon</th><th>Wall Weapon</th><th>Cost</th><th>Location</th><th>Box Weapon</th><th>Weapon Kit</th></tr></thead><tbody><tr><td>205 Brecci</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+        "tip": "The historical table lists a Box route and no wall purchase. Locate the active Box, use its actual prompt and take the offered gun if it is the one you wanted; a random roll does not guarantee it. Separate written name evidence reports Stellar Screech. Current ammo, Weapon Kit status, later Box additions and individual alternate-ammo eligibility remain untested.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/"
+        ]
+      },
+      {
+        "title": "Haymaker 12 → Shoeshining 100",
+        "body": "Haymaker 12 | No | - | - | Yes | Yes",
+        "html": "<table><thead><tr><th>Weapon</th><th>Wall Weapon</th><th>Cost</th><th>Location</th><th>Box Weapon</th><th>Weapon Kit</th></tr></thead><tbody><tr><td>Haymaker 12</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+        "tip": "The historical table lists a Box route and no wall purchase. Locate the active Box, use its actual prompt and take the offered gun if it is the one you wanted; a random roll does not guarantee it. Separate written name evidence reports Shoeshining 100. Current ammo, Weapon Kit status, later Box additions and individual alternate-ammo eligibility remain untested.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/"
+        ]
+      },
+      {
+        "title": "XM-53 → Heliacal Incandescence",
+        "body": "XM-53 | No | - | - | Yes | Yes",
+        "html": "<table><thead><tr><th>Weapon</th><th>Wall Weapon</th><th>Cost</th><th>Location</th><th>Box Weapon</th><th>Weapon Kit</th></tr></thead><tbody><tr><td>XM-53</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+        "tip": "The historical table lists a Box route and no wall purchase. Locate the active Box, use its actual prompt and take the offered gun if it is the one you wanted; a random roll does not guarantee it. Separate written name evidence reports Heliacal Incandescence. Current ammo, Weapon Kit status, later Box additions and individual alternate-ammo eligibility remain untested.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/"
+        ]
+      },
+      {
+        "title": "MP-40: upgrade name pending",
+        "body": "MP-40 | Yes | 1000 | Entrance to No Man's Land | Yes | No",
+        "html": "<table><thead><tr><th>Weapon</th><th>Wall Weapon</th><th>Cost</th><th>Location</th><th>Box Weapon</th><th>Weapon Kit</th></tr></thead><tbody><tr><td>MP-40</td><td>Yes</td><td>1000</td><td>Entrance to No Man's Land</td><td>Yes</td><td>No</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+        "tip": "Historical wall listing: Entrance to No Man's Land, 1000 points. Open that route and read its actual weapon/price prompt before buying. The historical table also lists a Box route. An edition-specific upgrade alias remains unresolved here; no BO2 name is silently substituted. Current ammo, Weapon Kit status, later Box additions and individual alternate-ammo eligibility remain untested."
+      },
+      {
+        "title": "STG-44: upgrade name pending",
+        "body": "STG-44 | Yes | 1500 | Church | Yes | No",
+        "html": "<table><thead><tr><th>Weapon</th><th>Wall Weapon</th><th>Cost</th><th>Location</th><th>Box Weapon</th><th>Weapon Kit</th></tr></thead><tbody><tr><td>STG-44</td><td>Yes</td><td>1500</td><td>Church</td><td>Yes</td><td>No</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+        "tip": "Historical wall listing: Church, 1500 points. Open that route and read its actual weapon/price prompt before buying. The historical table also lists a Box route. An edition-specific upgrade alias remains unresolved here; no BO2 name is silently substituted. Current ammo, Weapon Kit status, later Box additions and individual alternate-ammo eligibility remain untested."
+      },
+      {
+        "title": "Galil: upgrade name pending",
+        "body": "Galil | No | - | - | Yes | No",
+        "html": "<table><thead><tr><th>Weapon</th><th>Wall Weapon</th><th>Cost</th><th>Location</th><th>Box Weapon</th><th>Weapon Kit</th></tr></thead><tbody><tr><td>Galil</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>No</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+        "tip": "The historical table lists a Box route and no wall purchase. Locate the active Box, use its actual prompt and take the offered gun if it is the one you wanted; a random roll does not guarantee it. An edition-specific upgrade alias remains unresolved here; no BO2 name is silently substituted. Current ammo, Weapon Kit status, later Box additions and individual alternate-ammo eligibility remain untested."
+      },
+      {
+        "title": "M1927 → Untouchable",
+        "body": "M1927 | Yes | 1500 | Excavation site | Yes | Yes",
+        "html": "<table><thead><tr><th>Weapon</th><th>Wall Weapon</th><th>Cost</th><th>Location</th><th>Box Weapon</th><th>Weapon Kit</th></tr></thead><tbody><tr><td>M1927</td><td>Yes</td><td>1500</td><td>Excavation site</td><td>Yes</td><td>Yes</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+        "tip": "Historical wall listing: Excavation site, 1500 points. Open that route and read its actual weapon/price prompt before buying. The historical table also lists a Box route. Separate written name evidence reports Untouchable. The BO3 correction says Untouchable; the original BO2 Speakeasy name is a different edition. Current ammo, Weapon Kit status, later Box additions and individual alternate-ammo eligibility remain untested.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/1j027m5/"
+        ]
+      },
+      {
+        "title": "MG-08 → Magna Collider",
+        "body": "MG-08 | No | - | - | Yes | No",
+        "html": "<table><thead><tr><th>Weapon</th><th>Wall Weapon</th><th>Cost</th><th>Location</th><th>Box Weapon</th><th>Weapon Kit</th></tr></thead><tbody><tr><td>MG-08</td><td>No</td><td>-</td><td>-</td><td>Yes</td><td>No</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+        "tip": "The historical table lists a Box route and no wall purchase. Locate the active Box, use its actual prompt and take the offered gun if it is the one you wanted; a random roll does not guarantee it. Separate written name evidence reports Magna Collider. Magna Collider is also the named free four-disc reward. The independent coin discussion is original/shared-edition evidence, not a new BO3 retail HUD check. Current ammo, Weapon Kit status, later Box additions and individual alternate-ammo eligibility remain untested.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/wiki/origins/",
+          "https://www.reddit.com/r/CODZombies/comments/122yffu/"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "Origins BO3 acquisition table",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/origins/"
+      },
+      {
+        "title": "BO3 core upgrade names",
+        "url": "https://www.reddit.com/r/CODZombies/comments/3wakiu/packapunch_gun_name_references_a_complete_guide/"
+      },
+      {
+        "title": "Exact Locus spelling",
+        "url": "https://www.reddit.com/r/CODZombies/comments/54v8y1/weapon_name_list_for_command_console/"
+      },
+      {
+        "title": "BO3 Mauser report",
+        "url": "https://www.reddit.com/r/CODZombies/comments/euwc4u/"
+      },
+      {
+        "title": "BO3 M1927 correction",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1j027m5/"
+      },
+      {
+        "title": "Edition-labelled dig arrays",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1vr8lve/"
+      },
+      {
+        "title": "Original MG08 reward report",
+        "url": "https://www.reddit.com/r/CODZombies/comments/122yffu/"
+      },
+      {
+        "title": "BO3 upgrade prices",
+        "url": "https://www.reddit.com/r/CODZombies/comments/pg8sux/"
+      },
+      {
+        "title": "BO3 alternate-ammo definitions",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/game-mechanics/"
+      }
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+    "sharedSource": false,
+    "sourceOmissions": [
+      "MP40, STG-44 and Galil upgrade aliases remain unresolved. This is not a current Box, kit, ammo, attachment or alternate-ammo census."
+    ],
+    "supplementNote": "Authored edition-specific instructions from the linked primary written reports. Exact photos, inputs and retail behavior remain qualified below."
+  },
+  {
+    "id": "classic46-bo3-origins-one-inch-punch",
+    "mapId": "bo3-origins",
+    "title": "One Inch Punch: four footprint soul chests",
+    "category": "weapon",
+    "difficulty": "Setup / reference",
+    "players": "Solo / co-op",
+    "summary": "Finish the four robot-footprint chests and claim the melee reward.",
+    "requirements": [
+      "Black Ops III Zombies Chronicles Origins.",
+      "Access to central No Man’s Land and the church-side footprint.",
+      "Weapons that can safely kill near a chest."
+    ],
+    "reward": "One Inch Punch / Thunder Fists from a reward chest.",
+    "steps": [
+      {
+        "title": "Wait for the robot to pass before committing",
+        "body": "Locate a soul chest inside a robot footprint and watch the robot route first. Kill zombies near the chest while it is open and collecting. A robot step resets an unfinished chest, so begin just after its robot passes and keep checking the footprint while filling it.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/hc3ihs/",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/tmrjqn/"
+        ]
+      },
+      {
+        "title": "Chest: below excavation",
+        "body": "Search the footprint at the base/below the excavation mound for a soul chest. Gather nearby kills until the chest finishes and closes or gives its completion response.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+        "tip": "Exact corner and collection radius need a step image."
+      },
+      {
+        "title": "Chest: Generator 5 side",
+        "body": "Find the footprint chest near Generator 5 and finish its soul collection. Check that the chest itself completes before leaving; kills outside its collection range are not a reliable substitute.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/"
+      },
+      {
+        "title": "Chest: Generator 4 side",
+        "body": "Locate the chest near Generator 4 and repeat the nearby-kill stage after the robot passes. Use its completed state as the checkpoint.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/"
+      },
+      {
+        "title": "Chest: outside church",
+        "body": "Find the church-side footprint chest and fill it. The source lists this as the fourth separate location; filling one central chest repeatedly does not replace all four.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/"
+      },
+      {
+        "title": "Use completion rather than the disputed count",
+        "body": "The shared wiki writes 20 souls for each chest. An explicit BO3-context discussion corrects an increasing 20/30/40/50 claim to 30 each, and the original author accepts it. This pass has not independently counted them; continue until each chest visibly completes.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/hc3ihs/",
+        "tip": "Multi-kills can contribute multiple souls in the original report. No special single-kill-only rule is imposed.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/wiki/origins/"
+        ]
+      },
+      {
+        "title": "Collect the reward and use the later main-quest route",
+        "body": "Check the ancient reward chest at spawn or the Generator 6/church reward area for the fist reward and take it. Later in Little Lost Girl, punching white-smoke hands earns each player’s upgraded-fist tablet. Chronicles edition notes say fists do not gain a staff-dependent elemental effect.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/blackops3/comments/1dzakxy/",
+        "tip": "Exact first-reward sharing, melee damage and every-player tablet behavior still need a current test.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/wiki/origins/",
+          "https://www.reddit.com/r/CODZombies/comments/tmrjqn/"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "Origins chest positions",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/origins/"
+      },
+      {
+        "title": "BO3 count correction",
+        "url": "https://www.reddit.com/r/CODZombies/comments/hc3ihs/"
+      },
+      {
+        "title": "BO3 reward challenge",
+        "url": "https://www.reddit.com/r/blackops3/comments/1dzakxy/"
+      },
+      {
+        "title": "Firsthand quest mechanics",
+        "url": "https://www.reddit.com/r/CODZombies/comments/tmrjqn/"
+      }
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": null,
+    "sharedSource": false,
+    "sourceOmissions": [
+      "The 20/30 count conflict, precise chest corners, reward sharing and current melee values are unresolved."
+    ],
+    "supplementNote": "Authored edition-specific instructions from the linked primary written reports. Exact photos, inputs and retail behavior remain qualified below."
+  },
+  {
+    "id": "classic46-bo3-origins-gstrike",
+    "mapId": "bo3-origins",
+    "title": "G-Strikes: cleanse and return the tablet",
+    "category": "weapon",
+    "difficulty": "Setup / reference",
+    "players": "Solo / co-op",
+    "summary": "Use real melee at church, keep the tablet off mud and finish the Tank Station phase.",
+    "requirements": [
+      "Black Ops III Zombies Chronicles Origins.",
+      "Access to the Tank Station and upper church.",
+      "A workable melee method; One Inch Punch or shield melee is reported for BO3."
+    ],
+    "reward": "G-Strike tactical equipment; Chronicles is documented as allowing three carried.",
+    "steps": [
+      {
+        "title": "Pick up a Tank Station tablet",
+        "body": "Inside the bunker/Tank Station at Generator 2, interact with an available tablet on the table. Carry it to church’s upstairs basin.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/blackops3/comments/xb1aay/",
+        "tip": "The shared text describes three available tablets; current co-op sharing and respawn behavior have not been tested.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/wiki/origins/"
+        ]
+      },
+      {
+        "title": "Place it in the church basin",
+        "body": "At the upstairs church bath/basin, place the tablet using interact. Kill zombies with melee near that basin until the cleansing response occurs. The shared guide gives 20 melee kills for the first stage.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/blackops3/comments/xb1aay/",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/wiki/origins/"
+        ]
+      },
+      {
+        "title": "Use a BO3 melee method",
+        "body": "Use actual melee attacks, including the reported shield-melee or fist route. A BO3 setup author distinguishes this from the old BO2 charged-staff-shot-then-shield behavior. Watch for souls/cleansing progress rather than assuming a weapon shot counted as a melee kill.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/blackops3/comments/1va358f/whats_your_guys_beginner_advice_for_origins_only/",
+        "tip": "Exact damage breakpoints and every melee/GobbleGum combination are not certified.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/blackops3/comments/xb1aay/",
+          "https://www.reddit.com/r/CODZombies/comments/tmrjqn/"
+        ]
+      },
+      {
+        "title": "Carry the clean tablet back on dry surfaces",
+        "body": "Take the clean tablet and walk back to the Tank Station using wooden planks, trench flooring and other dry surfaces. Avoid the mud on the route; the challenge is a clean return, not merely arriving before a timer.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/blackops3/comments/xb1aay/",
+        "tip": "A precise plank-by-plank route needs native step photos.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/blackops3/comments/1va358f/whats_your_guys_beginner_advice_for_origins_only/"
+        ]
+      },
+      {
+        "title": "Re-purify a tablet dirtied by mud",
+        "body": "If you touch mud and the tablet becomes dirty, take it back to the church basin and put it in again. The BO3 beginner report says this re-purification does not require another set of kills. Then attempt the dry return again.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/blackops3/comments/1va358f/whats_your_guys_beginner_advice_for_origins_only/",
+        "tip": "Exact dirt/clean prompt and all mud-contact edge cases remain untested.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/blackops3/comments/xb1aay/"
+        ]
+      },
+      {
+        "title": "Finish the second melee stage at the table",
+        "body": "Place the clean tablet back on its Generator 2 table and kill nearby zombies with melee until the G-Strike reward manifests. The shared guide writes 20 for this stage; other BO3 discussions vary, so use the actual completion/reward cue before leaving.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/blackops3/comments/xb1aay/",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/wiki/origins/"
+        ]
+      },
+      {
+        "title": "Take the G-Strikes and check the equipment slot",
+        "body": "Collect the reward. The firsthand BO3 account says G-Strikes replace Monkey Bombs in the tactical slot, and the Chronicles edition notes allow three carried. Their main-quest use is the cracked Generator 5 seal during the robot-button window; follow the main quest’s recorded solo button recipe.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/tmrjqn/",
+        "tip": "Current refill, Box reacquisition and per-player tablet rules have not been tested.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/wiki/origins/",
+          "https://www.youtube.com/watch?v=b-Kn3iWJZ-E"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "BO3 tablet thread",
+        "url": "https://www.reddit.com/r/blackops3/comments/xb1aay/"
+      },
+      {
+        "title": "BO3 cleansing and mud report",
+        "url": "https://www.reddit.com/r/blackops3/comments/1va358f/whats_your_guys_beginner_advice_for_origins_only/"
+      },
+      {
+        "title": "Origins shared route and edition notes",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/origins/"
+      },
+      {
+        "title": "Firsthand equipment replacement",
+        "url": "https://www.reddit.com/r/CODZombies/comments/tmrjqn/"
+      }
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": null,
+    "sharedSource": false,
+    "sourceOmissions": [
+      "Exact second-phase count, dry-route photos, co-op tablet sharing and seal timing remain open."
+    ],
+    "supplementNote": "Authored edition-specific instructions from the linked primary written reports. Exact photos, inputs and retail behavior remain qualified below."
+  },
+  {
+    "id": "classic46-bo3-origins-free-zombie-blood",
+    "mapId": "bo3-origins",
+    "title": "Free Zombie Blood: Ice Staff burning carts",
+    "category": "side",
+    "difficulty": "Setup / reference",
+    "players": "Solo / co-op",
+    "summary": "Use the reported non-rain cart route for the hidden pilot and red-mound searches.",
+    "requirements": [
+      "Black Ops III Zombies Chronicles Origins.",
+      "Ice Staff built and available.",
+      "A non-rain weather window in the player reports."
+    ],
+    "reward": "A reported Zombie Blood pickup near Pack-a-Punch, usable once per round in the setup account.",
+    "steps": [
+      {
+        "title": "Wait for the reported weather condition",
+        "body": "The BO3 red-mound reply and setup guide describe an Ice Staff route to free Zombie Blood when it is not raining. If you need it for the pilot or perk mounds, plan around that weather window rather than relying on ordinary BO3 digs.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/wc1h4o/",
+        "tip": "The edition-labelled dig analysis excludes Zombie Blood from ordinary BO3 dig rewards.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/blackops3/comments/1va358f/whats_your_guys_beginner_advice_for_origins_only/",
+          "https://www.reddit.com/r/CODZombies/comments/tmrjqn/",
+          "https://www.reddit.com/r/CODZombies/comments/1vr8lve/"
+        ]
+      },
+      {
+        "title": "Find and extinguish the three burning carts",
+        "body": "Search the burning carts around excavation and hit their fires with the Ice Staff. Extinguish the three in succession before earlier flames return. The sources read here do not give all three precise physical cart bearings or a measured relight window, so this part still needs a locator reference.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/tmrjqn/",
+        "tip": "This is a practical locator/timing gap, not a complete three-position visual route.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/blackops3/comments/1va358f/whats_your_guys_beginner_advice_for_origins_only/"
+        ]
+      },
+      {
+        "title": "Check the pickup near the mound machine",
+        "body": "After the extinguishing stage registers, check near Pack-a-Punch on excavation for the Zombie Blood pickup and collect it when you are ready for the next task. Do not assume a failed attempt succeeded merely because one cart went out.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/blackops3/comments/1va358f/whats_your_guys_beginner_advice_for_origins_only/",
+        "tip": "Exact spawn point and duration have not been measured.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/tmrjqn/"
+        ]
+      },
+      {
+        "title": "Use it for the intended quest stage",
+        "body": "For the main quest, keep the effect active when shooting the special plane and meeting its running pilot. For perk slots, use the Golden Shovel while searching the reported red mounds. The setup account describes the cart reward as once per round; exact repeat/reset conditions remain untested.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/tmrjqn/",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/blackops3/comments/1va358f/whats_your_guys_beginner_advice_for_origins_only/",
+          "https://www.reddit.com/r/CODZombies/comments/wc1h4o/"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "BO3 cart and pilot report",
+        "url": "https://www.reddit.com/r/CODZombies/comments/tmrjqn/"
+      },
+      {
+        "title": "BO3 setup account",
+        "url": "https://www.reddit.com/r/blackops3/comments/1va358f/whats_your_guys_beginner_advice_for_origins_only/"
+      },
+      {
+        "title": "BO3 red mound reply",
+        "url": "https://www.reddit.com/r/CODZombies/comments/wc1h4o/"
+      },
+      {
+        "title": "Edition-labelled dig analysis",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1vr8lve/"
+      }
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": null,
+    "sharedSource": false,
+    "sourceOmissions": [
+      "All three cart bearings, exact relight timer, reward duration and current repeat/weather rules remain unresolved."
+    ],
+    "supplementNote": "Authored edition-specific instructions from the linked primary written reports. Exact photos, inputs and retail behavior remain qualified below."
+  },
+  {
+    "id": "classic46-bo3-origins-extra-perk-slots",
+    "mapId": "bo3-origins",
+    "title": "Extra perk slots: sixteen reported red-mound sites",
+    "category": "side",
+    "difficulty": "Setup / reference",
+    "players": "Solo / co-op",
+    "summary": "Combine the Golden Shovel and Zombie Blood, then check the BO3 player’s location list.",
+    "requirements": [
+      "Black Ops III Zombies Chronicles Origins.",
+      "Golden Shovel after the reported 30 personal digs.",
+      "Zombie Blood active while locating and digging the hidden red mound."
+    ],
+    "reward": "A reported empty-bottle perk-slot reward; buy a perk afterward to use the added slot.",
+    "steps": [
+      {
+        "title": "Bring the Golden Shovel and Zombie Blood together",
+        "body": "Earn the Golden Shovel first, then collect Zombie Blood. Search for the special red dig mound while that effect is active. This is separate from ordinary visible dig sites and their weapon/power-up rewards.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/wc1h4o/",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/1vr8lve/",
+          "https://www.reddit.com/r/blackops3/comments/1va358f/whats_your_guys_beginner_advice_for_origins_only/"
+        ]
+      },
+      {
+        "title": "Group nearby checks into each power-up",
+        "body": "The original BO3 reply lists the following 16 positions and suggests checking groups of nearby sites during one Zombie Blood. Several bearings are broad, so use this as a reported search reference rather than a certified current complete spawn pool. Exact mound photos are still needed.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/wc1h4o/"
+      },
+      {
+        "title": "Reported site: Generator 6",
+        "body": "Check the Generator 6 area beyond church while Zombie Blood is active. If a hidden red mound is present, use the Golden Shovel dig interaction and inspect the reward. A bare spot does not prove the entire quest is unavailable.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/wc1h4o/",
+        "tip": "Reported written location only; no exact mound pixels or exhaustive current spawn validation."
+      },
+      {
+        "title": "Reported site: Church-to-Stamin-Up tank path",
+        "body": "Check the tank trail running from church toward the Stamin-Up/Generator 5 side. If a hidden red mound is present, use the Golden Shovel dig interaction and inspect the reward. A bare spot does not prove the entire quest is unavailable.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/wc1h4o/",
+        "tip": "Reported written location only; no exact mound pixels or exhaustive current spawn validation."
+      },
+      {
+        "title": "Reported site: Church-to-Generator 4 tank path",
+        "body": "Check the other church-side tank path toward Generator 4. If a hidden red mound is present, use the Golden Shovel dig interaction and inspect the reward. A bare spot does not prove the entire quest is unavailable.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/wc1h4o/",
+        "tip": "Reported written location only; no exact mound pixels or exhaustive current spawn validation."
+      },
+      {
+        "title": "Reported site: Generator 4",
+        "body": "Check the area around Generator 4; keep clear of the robot’s footprint while searching. If a hidden red mound is present, use the Golden Shovel dig interaction and inspect the reward. A bare spot does not prove the entire quest is unavailable.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/wc1h4o/",
+        "tip": "Reported written location only; no exact mound pixels or exhaustive current spawn validation."
+      },
+      {
+        "title": "Reported site: Excavation Fire-part landing area",
+        "body": "Check near the excavation-side place where the shot-down Fire Staff plane drops its part. If a hidden red mound is present, use the Golden Shovel dig interaction and inspect the reward. A bare spot does not prove the entire quest is unavailable.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/wc1h4o/",
+        "tip": "Reported written location only; no exact mound pixels or exhaustive current spawn validation."
+      },
+      {
+        "title": "Reported site: Excavation footprint nearest Generator 5",
+        "body": "Inspect the robot’s right-footprint area beside excavation, on the side closest to Generator 5. If a hidden red mound is present, use the Golden Shovel dig interaction and inspect the reward. A bare spot does not prove the entire quest is unavailable.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/wc1h4o/",
+        "tip": "Reported written location only; no exact mound pixels or exhaustive current spawn validation."
+      },
+      {
+        "title": "Reported site: Generator 5 soul chest",
+        "body": "Search near the soul chest by Generator 5. If a hidden red mound is present, use the Golden Shovel dig interaction and inspect the reward. A bare spot does not prove the entire quest is unavailable.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/wc1h4o/",
+        "tip": "Reported written location only; no exact mound pixels or exhaustive current spawn validation."
+      },
+      {
+        "title": "Reported site: Generator 4-to-spawn tank path",
+        "body": "Check the tank path connecting the Generator 4 side toward the starting area. If a hidden red mound is present, use the Golden Shovel dig interaction and inspect the reward. A bare spot does not prove the entire quest is unavailable.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/wc1h4o/",
+        "tip": "Reported written location only; no exact mound pixels or exhaustive current spawn validation."
+      },
+      {
+        "title": "Reported site: Generator 5-to-Generator 2 tank path",
+        "body": "Check the tank trail running between the Generator 5 side and Generator 2. If a hidden red mound is present, use the Golden Shovel dig interaction and inspect the reward. A bare spot does not prove the entire quest is unavailable.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/wc1h4o/",
+        "tip": "Reported written location only; no exact mound pixels or exhaustive current spawn validation."
+      },
+      {
+        "title": "Reported site: Generator 2 wheelbarrow / shield candidate",
+        "body": "Check beside the wheelbarrow in the Generator 2 shield-part area. If a hidden red mound is present, use the Golden Shovel dig interaction and inspect the reward. A bare spot does not prove the entire quest is unavailable.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/wc1h4o/",
+        "tip": "Reported written location only; no exact mound pixels or exhaustive current spawn validation."
+      },
+      {
+        "title": "Reported site: Tank Station at Generator 2",
+        "body": "Search the Tank Station area at Generator 2. If a hidden red mound is present, use the Golden Shovel dig interaction and inspect the reward. A bare spot does not prove the entire quest is unavailable.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/wc1h4o/",
+        "tip": "Reported written location only; no exact mound pixels or exhaustive current spawn validation."
+      },
+      {
+        "title": "Reported site: Outside spawn toward Generator 2",
+        "body": "Check the trench route immediately outside Generator 1/spawn toward Generator 2. If a hidden red mound is present, use the Golden Shovel dig interaction and inspect the reward. A bare spot does not prove the entire quest is unavailable.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/wc1h4o/",
+        "tip": "Reported written location only; no exact mound pixels or exhaustive current spawn validation."
+      },
+      {
+        "title": "Reported site: Generator 2 KRM landmark",
+        "body": "Check near the KRM-262 mount on the Generator 2 route; the original reply also uses the old Remington landmark name. If a hidden red mound is present, use the Golden Shovel dig interaction and inspect the reward. A bare spot does not prove the entire quest is unavailable.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/wc1h4o/",
+        "tip": "Reported written location only; no exact mound pixels or exhaustive current spawn validation."
+      },
+      {
+        "title": "Reported site: Fire tunnel",
+        "body": "Check inside the Fire tunnel during Zombie Blood. If a hidden red mound is present, use the Golden Shovel dig interaction and inspect the reward. A bare spot does not prove the entire quest is unavailable.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/wc1h4o/",
+        "tip": "Reported written location only; no exact mound pixels or exhaustive current spawn validation."
+      },
+      {
+        "title": "Reported site: Generator 1-to-Generator 3 mine mount",
+        "body": "Check the route from spawn/Generator 1 toward Generator 3 near the Trip Mines mount, called the Claymore position in older references. If a hidden red mound is present, use the Golden Shovel dig interaction and inspect the reward. A bare spot does not prove the entire quest is unavailable.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/wc1h4o/",
+        "tip": "Reported written location only; no exact mound pixels or exhaustive current spawn validation."
+      },
+      {
+        "title": "Reported site: Generator 3",
+        "body": "Search the Generator 3 area for the final separately reported candidate. If a hidden red mound is present, use the Golden Shovel dig interaction and inspect the reward. A bare spot does not prove the entire quest is unavailable.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/wc1h4o/",
+        "tip": "Reported written location only; no exact mound pixels or exhaustive current spawn validation."
+      },
+      {
+        "title": "Collect the slot reward before buying another perk",
+        "body": "Take the empty-bottle/slot reward if it appears, then visit a powered perk machine or the active Wunderfizz to buy the perk you want to add. The BO3 setup report describes up to four extra slots and recommends taking the 30,000-point Double Tap challenge last when aiming for nine perks.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/blackops3/comments/1va358f/whats_your_guys_beginner_advice_for_origins_only/",
+        "tip": "That nine-perk route is a reported setup, not an independently tested current cap, guaranteed spawn sequence or rule for every reward/GobbleGum interaction.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/wc1h4o/",
+          "https://www.reddit.com/r/blackops3/comments/1dzakxy/"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "Original BO3 sixteen-site reply",
+        "url": "https://www.reddit.com/r/CODZombies/comments/wc1h4o/"
+      },
+      {
+        "title": "BO3 slot/reward setup",
+        "url": "https://www.reddit.com/r/blackops3/comments/1va358f/whats_your_guys_beginner_advice_for_origins_only/"
+      },
+      {
+        "title": "Golden Shovel analysis",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1vr8lve/"
+      },
+      {
+        "title": "Double Tap challenge correction",
+        "url": "https://www.reddit.com/r/blackops3/comments/1dzakxy/"
+      }
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": null,
+    "sharedSource": false,
+    "sourceOmissions": [
+      "Broad site bearings, exact active-mound logic, relocation, all slot/cap interactions, photos and retail verification remain open."
+    ],
+    "supplementNote": "Authored edition-specific instructions from the linked primary written reports. Exact photos, inputs and retail behavior remain qualified below."
+  },
+  {
+    "id": "classic46-bo3-origins-ritual-challenges",
+    "mapId": "bo3-origins",
+    "title": "Ritual challenges: four reward tracks",
+    "category": "side",
+    "difficulty": "Setup / reference",
+    "players": "Solo / co-op",
+    "summary": "Track personal generator captures, headshots, spending and the four soul chests.",
+    "requirements": [
+      "Black Ops III Zombies Chronicles Origins.",
+      "Access to the ancient reward chests at spawn and the church/Generator 6 side."
+    ],
+    "reward": "Reported Max Ammo, a random upgraded gun, Double Tap and One Inch Punch rewards.",
+    "steps": [
+      {
+        "title": "Read and claim the available chest challenge",
+        "body": "Inspect the ancient reward chest in spawn or at the church/Generator 6 area and check your own challenge/reward state. The four tracks below are distinct; the Fire Staff head for powering Generator 6 is a separate local reward.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/blackops3/comments/1dzakxy/",
+        "tip": "Exact on-screen tracking, co-op sharing and per-match claim rules have not been visually inspected.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/wiki/origins/"
+        ]
+      },
+      {
+        "title": "Six personal generator participations → Max Ammo",
+        "body": "Participate in six successful generator captures, then check the chest for the Max Ammo reward. The explicit BO3 correction says a repeated capture can count, so this is not necessarily a checklist of six distinct numbered generators. Do not label it as the Fire Staff head challenge.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/blackops3/comments/1dzakxy/"
+      },
+      {
+        "title": "115 headshots → a random packed gun",
+        "body": "Earn 115 headshot kills and inspect the reward chest for the random upgraded firearm. Firsthand replies mention possible guns such as MP40, Weevil and ICR-1, but some suggestions are uncertain. The weapon offered is not guaranteed and those use reports are not a complete reward pool.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/blackops3/comments/1dzakxy/",
+        "tip": "No damage, weapon choice, odds or current complete prize list is established.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/pp4316/"
+        ]
+      },
+      {
+        "title": "Spend 30,000 points → Double Tap",
+        "body": "Accumulate 30,000 points spent during the match and check the chest for Double Tap. The BO3 correction describes this reward as able to go beyond the normal perk cap. It is the spending reward, not the 115-headshot weapon reward.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/blackops3/comments/1dzakxy/",
+        "tip": "The BO3 slot setup recommends taking this last for a nine-perk attempt. Current loss/reclaim and other reward interactions remain untested.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/pp4316/",
+          "https://www.reddit.com/r/blackops3/comments/1va358f/whats_your_guys_beginner_advice_for_origins_only/"
+        ]
+      },
+      {
+        "title": "Four completed soul chests → One Inch Punch",
+        "body": "Finish the four footprint soul chests below excavation, by Generator 5, by Generator 4 and outside church. Claim the fist reward from a reward chest. Follow the separate soul-chest card for robot resets and the written 20 versus 30 soul-count dispute.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/blackops3/comments/1dzakxy/",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/wiki/origins/",
+          "https://www.reddit.com/r/CODZombies/comments/hc3ihs/"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "BO3 corrected rewards and repeat captures",
+        "url": "https://www.reddit.com/r/blackops3/comments/1dzakxy/"
+      },
+      {
+        "title": "Independent BO3 reward correction",
+        "url": "https://www.reddit.com/r/CODZombies/comments/pp4316/"
+      },
+      {
+        "title": "Origins chest route",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/origins/"
+      },
+      {
+        "title": "BO3 slot setup",
+        "url": "https://www.reddit.com/r/blackops3/comments/1va358f/whats_your_guys_beginner_advice_for_origins_only/"
+      },
+      {
+        "title": "Soul-count dispute",
+        "url": "https://www.reddit.com/r/CODZombies/comments/hc3ihs/"
+      }
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": null,
+    "sharedSource": false,
+    "sourceOmissions": [
+      "Current prize pool, tracking photos, co-op claim sharing, exact soul counts and perk-cap edge cases remain untested."
+    ],
+    "supplementNote": "Authored edition-specific instructions from the linked primary written reports. Exact photos, inputs and retail behavior remain qualified below."
+  },
+  {
+    "id": "classic46-bo3-origins-perks-gobblegum",
+    "mapId": "bo3-origins",
+    "title": "Perk machines, Wunderfizz and GobbleGum",
+    "category": "side",
+    "difficulty": "Setup / reference",
+    "players": "Solo / co-op",
+    "summary": "Find the written machine sites and apply the Chronicles differences before choosing a setup.",
+    "requirements": [
+      "Black Ops III Zombies Chronicles Origins.",
+      "Power the relevant generator and read each machine’s actual prompt.",
+      "Selected GobbleGums are optional; no specific consumable is required by this guide."
+    ],
+    "reward": "Purchased perks and optional BO3 GobbleGum effects.",
+    "steps": [
+      {
+        "title": "Spawn Quick Revive and Generator 4 Juggernog",
+        "body": "Quick Revive is beside Generator 1 in the starting laboratory; Juggernog is on the tight path at Generator 4. Power the associated area and read the actual machine price. The historical solo Quick Revive listing is 500 and Juggernog is 2,500.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+        "tip": "The 500 listing is not a co-op price. Exact revive availability, current prices and use limits need a retail check."
+      },
+      {
+        "title": "Generator 3 Speed Cola and Generator 5 Stamin-Up",
+        "body": "Speed Cola is described in a Thor footprint across the bridge from Generator 3, sitting in the corner. Stamin-Up is in the corner at Generator 5. The written prices are 3,000 and 2,000 respectively; watch the robot route when approaching the footprint machine.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/"
+      },
+      {
+        "title": "Mule Kick beneath excavation",
+        "body": "Find Mule Kick on the wooden platform beneath the excavation dig site. The historical price is 4,000. Read its actual prompt and remember that this guide has not tested which weapon is lost if the perk is lost.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/wiki/game-mechanics/"
+        ]
+      },
+      {
+        "title": "Locate the active Wunderfizz",
+        "body": "The written candidates are spawn laboratory, beside Generator 2, across the bridge from Speed Cola near Generator 3, left of Juggernog at Generator 4, left of Stamin-Up at Generator 5 and Generator 6. Find the machine that is currently usable, read its prompt and inspect the random perk offer before taking it.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+        "tip": "The historical source does not establish every current offer, probability, movement rule or rejection behavior."
+      },
+      {
+        "title": "Apply the Chronicles perk difference",
+        "body": "The BO3 edition notes replace PhD Flopper with Widow’s Wine. Do not follow the older shared perk list as a promise of a BO3 PhD offer. That historical list also names Quick Revive, Speed Cola, Stamin-Up, Juggernog, Mule Kick, Double Tap, Electric Cherry and Deadshot; current offer/cap rules still need verification.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/"
+      },
+      {
+        "title": "Use slot rewards and the Double Tap challenge deliberately",
+        "body": "A Golden Shovel plus Zombie Blood can reveal red-mound rewards that add perk slots. A BO3 setup account describes four extra slots and taking the 30,000-points-spent Double Tap reward last for a possible nine-perk setup. Follow the slot and challenge cards rather than assuming buying a fifth ordinary perk is always allowed.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/blackops3/comments/1va358f/whats_your_guys_beginner_advice_for_origins_only/",
+        "tip": "No complete current cap/consumable interaction matrix is claimed.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/blackops3/comments/1dzakxy/",
+          "https://www.reddit.com/r/CODZombies/comments/wc1h4o/"
+        ]
+      },
+      {
+        "title": "Find the eight written GobbleGum sites",
+        "body": "The Chronicles list places machines left of the spawn reward chest, at Generator 3, Generator 4, Generator 6, under church, beside Pack-a-Punch, on the workshop’s top floor and inside the Tank Station. Use your selected pack and read the actual price/availability prompt. Their effects are optional setup choices.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+        "tip": "The quest instructions do not require a particular paid or finite-stock gum. Current activation costs, machine state and every consumable effect remain untested.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/wiki/game-mechanics/"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "Origins sites and BO3 differences",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/origins/"
+      },
+      {
+        "title": "BO3 perk/gum definitions",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/game-mechanics/"
+      },
+      {
+        "title": "BO3 slot setup",
+        "url": "https://www.reddit.com/r/blackops3/comments/1va358f/whats_your_guys_beginner_advice_for_origins_only/"
+      },
+      {
+        "title": "Double Tap challenge correction",
+        "url": "https://www.reddit.com/r/blackops3/comments/1dzakxy/"
+      },
+      {
+        "title": "Reported red mound sites",
+        "url": "https://www.reddit.com/r/CODZombies/comments/wc1h4o/"
+      }
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": null,
+    "sharedSource": false,
+    "sourceOmissions": [
+      "Current Wunderfizz pool/odds, machine prices, co-op revive rules, perk-cap interactions and exact machine photos remain unverified."
+    ],
+    "supplementNote": "Authored edition-specific instructions from the linked primary written reports. Exact photos, inputs and retail behavior remain qualified below."
+  },
+  {
+    "id": "classic46-bo3-origins-monkeys-trip-mines",
+    "mapId": "bo3-origins",
+    "title": "Monkey Bombs, Trip Mines and tactical slots",
+    "category": "weapon",
+    "difficulty": "Setup / reference",
+    "players": "Solo / co-op",
+    "summary": "Use the explicit Chronicles equipment rows and keep Monkey Bombs separate from the G-Strike reward.",
+    "requirements": [
+      "Black Ops III Zombies Chronicles Origins.",
+      "Points for the actual Box or wall prompt.",
+      "Generator 3 trench or lower-church access for the listed Trip Mines mounts."
+    ],
+    "reward": "The offered Monkey Bombs or purchased Trip Mines; G-Strikes require their own quest.",
+    "steps": [
+      {
+        "title": "Take Monkey Bombs from a Box offer",
+        "body": "The BO3 table lists Monkey Bombs as a Mystery Box item, with no wall route and no Weapon Kit entry. Use the active Box and collect the Monkey offer when it appears. The table does not guarantee a particular roll or establish every current inventory rule.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/"
+      },
+      {
+        "title": "Buy Trip Mines from a listed mount",
+        "body": "The explicit Chronicles row lists Trip Mines for 1,000 points between spawn and Generator 3 and underneath church. Open the route, check the actual wall label and buy if wanted. An older Claymore landmark refers to a different edition’s equipment.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+        "tip": "The analyzed Golden Shovel weapon group can also include Trip Mines.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/1vr8lve/"
+        ]
+      },
+      {
+        "title": "Check the G-Strike replacement before completing its quest",
+        "body": "The BO3 firsthand account describes collecting G-Strikes as replacing Monkey Bombs. Finish the tablet route when you want that tactical equipment, then check your actual slot and count. Chronicles is documented as allowing three carried G-Strikes.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/tmrjqn/",
+        "tip": "Exact Box reacquisition, ammo refill, per-round mine replenishment and simultaneous-slot edge cases are not established.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/wiki/origins/"
+        ]
+      },
+      {
+        "title": "Leave unverified equipment routes separate",
+        "body": "The shared older guide names Semtex, but its BO3 purchase position and price are not established by the primary rows read here. Do not substitute the BO2 wall/equipment table for an exact Chronicles locator. Use the currently labelled game prompt if encountered.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+        "tip": "An exhaustive current equipment inventory and upgrade matrix still need separate verification."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Origins BO3 equipment rows",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/origins/"
+      },
+      {
+        "title": "BO3 replacement report",
+        "url": "https://www.reddit.com/r/CODZombies/comments/tmrjqn/"
+      },
+      {
+        "title": "Edition-labelled dig arrays",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1vr8lve/"
+      }
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": null,
+    "sharedSource": false,
+    "sourceOmissions": [
+      "Semtex’s exact BO3 route, refill rules, Box reacquisition, equipment damage and a complete current inventory remain unresolved."
+    ],
+    "supplementNote": "Authored edition-specific instructions from the linked primary written reports. Exact photos, inputs and retail behavior remain qualified below."
+  },
+  {
+    "id": "classic46-bo3-origins-ray-guns",
+    "mapId": "bo3-origins",
+    "title": "Ray Gun and Mark II: Box and Pack-a-Punch",
+    "category": "weapon",
+    "difficulty": "Setup / reference",
+    "players": "Solo / co-op",
+    "summary": "Use the Chronicles Box rows and separately reported packed Ray Gun names.",
+    "requirements": [
+      "Black Ops III Zombies Chronicles Origins.",
+      "Access to the active Mystery Box.",
+      "All six generators active and 5,000 points for an ordinary first upgrade."
+    ],
+    "reward": "Ray Gun → Porter’s X2 Ray Gun; Ray Gun Mark II → Porter’s Mark II Ray Gun, as reported by the name source.",
+    "steps": [
+      {
+        "title": "Use the Box for the original Ray Gun",
+        "body": "The explicit BO3 Origins table lists the Ray Gun in the Mystery Box, without a wall route or Weapon Kit entry. Roll the active Box and take the offer if it appears. No particular number of rolls or complete current Box pool is promised.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/"
+      },
+      {
+        "title": "Use the Box for the Mark II",
+        "body": "The same Chronicles table lists Ray Gun Mark II as a Box weapon, without a wall or Weapon Kit route. The old shared BO2 note about needing Vengeance is not adopted as a separate requirement for this Zombies Chronicles guide.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/"
+      },
+      {
+        "title": "Do not use the old Ray Gun dig table for BO3",
+        "body": "The edition-labelled dig analysis lists neither Ray Gun in the ordinary BO3 shovel arrays. The shared wiki’s old Ray Gun and Mark II dig rows belong to the older edition context, so this guide does not promise them from normal Chronicles digs.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/1vr8lve/",
+        "tip": "This is an analyzed-array report, not an independently checked current retail script.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/wiki/origins/"
+        ]
+      },
+      {
+        "title": "Buy and collect the first upgrade",
+        "body": "With all six generators powered, climb to the mound’s Pack-a-Punch machine. Equip the wanted Ray Gun, pay the ordinary 5,000-point first-upgrade cost and collect it when it returns. The fully read cross-game name report lists Porter’s X2 Ray Gun and Porter’s Mark II Ray Gun for their respective upgrades.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/1ftlgvq/only_just_realised_electric_cherry_is_a_pun_on/",
+        "tip": "Those are written aliases; this pass has not inspected a current BO3 Origins HUD.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/wiki/origins/",
+          "https://www.reddit.com/r/CODZombies/comments/pg8sux/"
+        ]
+      },
+      {
+        "title": "Check the actual repeat-upgrade prompt",
+        "body": "Do not infer ordinary-firearm alternate-ammo eligibility merely from having a packed Ray Gun name. Read the actual machine prompt. Current damage, ammo, splash behavior, simultaneous ownership and repeat purchase behavior are not established by the acquisition/name evidence.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/wiki/game-mechanics/"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "Origins BO3 Box rows",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/origins/"
+      },
+      {
+        "title": "Ray Gun name report",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1ftlgvq/only_just_realised_electric_cherry_is_a_pun_on/"
+      },
+      {
+        "title": "BO3 upgrade prices",
+        "url": "https://www.reddit.com/r/CODZombies/comments/pg8sux/"
+      },
+      {
+        "title": "Edition-labelled dig analysis",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1vr8lve/"
+      },
+      {
+        "title": "BO3 mechanics reference",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/game-mechanics/"
+      }
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": null,
+    "sharedSource": false,
+    "sourceOmissions": [
+      "Current ammo/damage, ownership interactions, Box pool/odds, alternate-ammo behavior and native HUD names remain untested."
+    ],
+    "supplementNote": "Authored edition-specific instructions from the linked primary written reports. Exact photos, inputs and retail behavior remain qualified below."
   }
 ]

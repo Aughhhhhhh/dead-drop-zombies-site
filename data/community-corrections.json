@@ -2219,6 +2219,255 @@
           "bo2-origins-wind-staff",
           "bo2-origins-lightning-staff"
         ]
+      },
+      "bo3-origins": {
+        "title": "Little Lost Girl: BO3 main quest",
+        "category": "main",
+        "difficulty": "Hard",
+        "players": "Solo / co-op",
+        "summary": "Build the four upgrades, complete the seal and pilot stages, then choose whether to play the ending.",
+        "requirements": [
+          "Black Ops III Zombies Chronicles Origins.",
+          "All six generators and excavation access.",
+          "All four fully upgraded staffs; use the linked individual upgrade guides.",
+          "One Inch Punch, G-Strikes, a Maxis Drone, an ordinary bullet firearm and a reliable Zombie Blood route.",
+          "In co-op, coordinate staff ownership and each player’s personal fist-upgrade tablet."
+        ],
+        "reward": "The quest gateway, upgraded fists and the optional match-ending cutscene.",
+        "steps": [
+          {
+            "title": "Capture all six generators",
+            "body": "Power Generator 1 in spawn, 2 at the Tank Station, 3 on the Fire-tunnel route, 4 at Juggernog/Wind, 5 at Stamin-Up/Lightning and 6 on the church side. Keep all six active together for Pack-a-Punch and check the indicators again if a later stage stalls.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/i59uh2/"
+            ]
+          },
+          {
+            "title": "Build and fully upgrade all four staffs",
+            "body": "Complete the Fire, Wind, Ice and Lightning acquisition and upgrade guides. Each needs its parts, colored record and crystal, its element puzzles, matching excavation rings/orb and Crazy Place soul charge. All four upgraded weapons are needed later. Wind’s ceiling arrangement is still a blocking image-only key in this research package.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+            "tip": "The four dedicated cards retain their written input limits; no skipped visual puzzle is treated as solved."
+          },
+          {
+            "title": "Fill the four footprint soul chests",
+            "body": "Find the chests below excavation, near Generator 5, near Generator 4 and outside church. Kill zombies close enough to each chest for it to collect souls. Finish one chest before its robot steps on it; a step resets an unfinished chest. Wait until the chest closes or otherwise completes before counting it.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/hc3ihs/",
+            "tip": "The shared wiki says 20 souls per chest; a BO3-context correction says 30 each and is accepted by the original author. Use the completion response instead of relying on either untested count.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/wiki/origins/",
+              "https://www.reddit.com/r/CODZombies/comments/tmrjqn/"
+            ]
+          },
+          {
+            "title": "Claim One Inch Punch from a reward chest",
+            "body": "After all four soul chests are complete, collect the fist reward at the ancient reward chest in spawn or the church-side Generator 6 reward area. Check that the melee reward is registered. The map’s written names include Thunder Fists and One Inch Punch.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/blackops3/comments/1dzakxy/",
+            "tip": "The BO3 edition notes say fists no longer gain a staff-dependent elemental ability.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/wiki/origins/"
+            ]
+          },
+          {
+            "title": "Take a tablet to the upstairs church basin",
+            "body": "In the Generator 2 Tank Station bunker, pick up an available tablet from the table and carry it to the basin on church’s upper floor. Place it in the water. Kill zombies with actual melee attacks near the basin until cleansing completes; the written target is 20.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/blackops3/comments/xb1aay/",
+            "tip": "Shield melee and the fist route are supported by BO3 reports. The old BO2 charged-staff-then-shield trick is not adopted as a BO3 method.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/blackops3/comments/1va358f/whats_your_guys_beginner_advice_for_origins_only/",
+              "https://www.reddit.com/r/CODZombies/wiki/origins/"
+            ]
+          },
+          {
+            "title": "Return the clean tablet without touching mud",
+            "body": "Take the cleansed tablet and return to the Tank Station table using planks, trench flooring and dry ground. Avoid stepping into mud. If it becomes dirty, return it to the church basin to re-purify it; a BO3 report says that repeat cleansing does not need a new set of kills.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/blackops3/comments/1va358f/whats_your_guys_beginner_advice_for_origins_only/",
+            "tip": "The exact plank route needs photos. Do not assume a jump across visible mud is safe in the remaster.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/blackops3/comments/xb1aay/",
+              "https://www.reddit.com/r/CODZombies/wiki/origins/"
+            ]
+          },
+          {
+            "title": "Finish the Tank Station melee phase",
+            "body": "Place the clean tablet back on the Generator 2 table and perform nearby melee kills until the reward manifests. The shared guide writes 20 kills for this phase; the BO3 discussions vary, so collect the G-Strikes only when the actual reward is ready. G-Strikes replace Monkey Bombs in the tactical slot.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/blackops3/comments/xb1aay/",
+            "tip": "Chronicles is documented as allowing three carried G-Strikes. Exact refill and per-player tablet-sharing behavior remain untested.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/wiki/origins/",
+              "https://www.reddit.com/r/CODZombies/comments/tmrjqn/"
+            ]
+          },
+          {
+            "title": "Build and collect the Maxis Drone",
+            "body": "Gather the brain from spawn, a body from the Ice/church-side candidates and a rotor from the excavation candidates. Assemble at a free workbench and take the drone. Save its deployment for the required seal stage; it may kill a zombie being held to keep a round open.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/blackops3/comments/1va358f/whats_your_guys_beginner_advice_for_origins_only/"
+            ]
+          },
+          {
+            "title": "Place Fire in the excavation quest pedestal",
+            "body": "Put the upgraded Fire Staff into its quest pedestal in excavation. This is the Fire placement for this stage; it is separate from returning all four staffs to their Crazy Place charging pedestals later.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/"
+          },
+          {
+            "title": "Place Ice inside the church-side robot",
+            "body": "Enter Freya through a shot-open glowing foot and insert the upgraded Ice Staff into the robot’s quest pedestal. Use the church-side robot rather than whichever robot happens to pass first.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/"
+          },
+          {
+            "title": "Place Wind inside the middle robot",
+            "body": "Enter central Odin through an opened foot and place the upgraded Wind Staff into its quest pedestal.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/"
+          },
+          {
+            "title": "Place Lightning inside the spawn-side robot",
+            "body": "Enter spawn-side Thor through an opened foot and place the upgraded Lightning Staff into its quest pedestal. Check that the four separate placements register before proceeding.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/"
+          },
+          {
+            "title": "Check all-generator power when recovering staffs",
+            "body": "A firsthand answer to an explicit BO3 question says all generators must be on for staffs to return from the robot pedestals to excavation. If a staff has not returned, check the six power indicators before assuming the red-button stage is always required merely to recover it.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/i59uh2/",
+            "tip": "The competing button-before-recovery claim is not treated as a universal condition. Exact co-op inventory behavior remains unchecked."
+          },
+          {
+            "title": "Coordinate the robot button and Generator 5 seal",
+            "body": "Find the cracked concrete seal beyond Generator 5, near the tree, crates and crashed plane. The shared route enters a robot, presses its red button and promptly lands a G-Strike on that cracked ground. In co-op, coordinate the button player and the outside thrower so the throw lands during the active window. Check that the seal actually opens.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+            "corroboratingSources": [
+              "https://www.youtube.com/watch?v=b-Kn3iWJZ-E"
+            ]
+          },
+          {
+            "title": "Time the solo button and throw",
+            "body": "For the recorded solo route, enter central Odin through the Stamin-Up-side foot. Wait until the purge countdown reaches 1, press the red button, let the robot eject you, then sprint and throw a G-Strike onto the cracked seal. Confirm that the bombardment opens it.",
+            "original": true,
+            "researchSource": "https://www.youtube.com/watch?v=b-Kn3iWJZ-E",
+            "tip": "This is a recorded recipe; the complete button-to-impact window and retry conditions have not been measured."
+          },
+          {
+            "title": "Deploy the drone into the opened hole",
+            "body": "Once the cracked seal has opened, deploy the Maxis Drone at the hole. Fight the resulting Panzers until the quest gives its completion response. Keep room to move and use suitable upgraded weapons; do not stop merely because a fixed number from another edition has been killed.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/tmrjqn/",
+            "tip": "The shared guide says 10; the BO3 player describes an uncertain six or eight. Current counts by player number are unverified.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/wiki/origins/"
+            ]
+          },
+          {
+            "title": "Shoot the quest plane while in Zombie Blood",
+            "body": "Obtain Zombie Blood and look above excavation for the glowing quest plane. Shoot it while the effect is active. This is a later main-quest aircraft stage, separate from the earlier Fire Staff part plane.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/tmrjqn/",
+            "tip": "A free Ice Staff cart route is reported outside rain; ordinary BO3 shovel digs are not a proven Zombie Blood source.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/wiki/origins/",
+              "https://www.reddit.com/r/CODZombies/comments/1vr8lve/"
+            ]
+          },
+          {
+            "title": "Meet the running pilot and recover the drone",
+            "body": "Keep Zombie Blood active and follow the excavation loop counterclockwise to meet the pilot running clockwise. Kill him while still in Zombie Blood, then pick up the drone he drops. If the effect ends, obtain another Zombie Blood before continuing the hidden-pilot pursuit.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/tmrjqn/",
+            "tip": "Exact hit eligibility, expiration behavior and recovery from a failed stage are not tested. Do not attack an unseen pilot outside the effect as a supposed workaround.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/wiki/origins/"
+            ]
+          },
+          {
+            "title": "Punch the white-hand zombies for your own tablet",
+            "body": "At the bottom of excavation, use One Inch Punch on zombies with white smoke around their hands. Successful punches remove that smoke; the firsthand correction says the punch need not be the killing blow. Continue until your upgrade tablet appears, then take it. In co-op, make sure each participating player obtains their own upgrade before moving on.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/tmrjqn/",
+            "tip": "The shared text writes 20 melee kills, which does not capture the reported hit-based mechanic. Exact BO3 hit count and per-player progression remain untested.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/wiki/origins/"
+            ]
+          },
+          {
+            "title": "Charge the final gateway with all four staffs inserted",
+            "body": "Put all four upgraded staffs in their matching Crazy Place pedestals. Kill zombies inside the realm while all four are inserted. The shared text gives 100 kills; the firsthand guide confirms that souls do not count until all four staffs are down. Continue until the white completion response, open gateway and stopped moving walls.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/tmrjqn/",
+            "tip": "Exact final count, soul radius and co-op positioning rules have not been measured. Follow the completed gateway rather than a guessed partial total.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/wiki/origins/"
+            ]
+          },
+          {
+            "title": "Choose whether to continue playing or end the match",
+            "body": "The opened-gateway state can be left without launching the ending. For the cutscene, use the recovered Maxis Drone at the central Crazy Place portal, then hold the actual interact control at the white central light/teleporter. The firsthand account describes this separate interaction as the step that ends the game.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/tmrjqn/",
+            "tip": "Achievement trigger, all-generator state at the final interaction, host behavior and staff recovery after completion still need a BO3 retail check. Ending the match is optional; decide with teammates first.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/wiki/origins/"
+            ]
+          }
+        ],
+        "sourceOmissions": [
+          "A recorded solo button recipe is now included, but its full timing window has not been measured. Written soul counts conflict. Current Panzer counts, ending/achievement triggers and retail behavior remain unverified."
+        ],
+        "sources": [
+          {
+            "title": "Origins shared quest",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/origins/"
+          },
+          {
+            "title": "Firsthand BO3 quest corrections",
+            "url": "https://www.reddit.com/r/CODZombies/comments/tmrjqn/"
+          },
+          {
+            "title": "BO3 tablet route",
+            "url": "https://www.reddit.com/r/blackops3/comments/xb1aay/"
+          },
+          {
+            "title": "BO3 setup and cleansing report",
+            "url": "https://www.reddit.com/r/blackops3/comments/1va358f/whats_your_guys_beginner_advice_for_origins_only/"
+          },
+          {
+            "title": "BO3 challenge reward correction",
+            "url": "https://www.reddit.com/r/blackops3/comments/1dzakxy/"
+          },
+          {
+            "title": "Soul chest count dispute",
+            "url": "https://www.reddit.com/r/CODZombies/comments/hc3ihs/"
+          },
+          {
+            "title": "BO3 staff-return power condition",
+            "url": "https://www.reddit.com/r/CODZombies/comments/i59uh2/"
+          },
+          {
+            "title": "Edition-labelled dig analysis",
+            "url": "https://www.reddit.com/r/CODZombies/comments/1vr8lve/"
+          },
+          {
+            "title": "Demonstration",
+            "url": "https://www.youtube.com/watch?v=b-Kn3iWJZ-E"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "supplementNote": "Authored edition-specific instructions from the linked written reports and selected recorded demonstrations."
       }
     }
   },
@@ -2324,6 +2573,73 @@
           "bo2-origins-maxis-audio-logs",
           "bo2-origins-community-origins-easter-eggs-archangel"
         ]
+      },
+      "bo3-origins": {
+        "title": "Shepherd of Fire: three small radios",
+        "category": "music",
+        "difficulty": "Setup / reference",
+        "players": "Solo / co-op",
+        "summary": "Activate the excavation, Freya and Fire-area radios, allowing for quiet BO3 playback.",
+        "requirements": [
+          "Black Ops III Zombies Chronicles Origins.",
+          "Excavation and Crazy Place access.",
+          "An ordinary firearm to enter the church-side robot through an opened foot."
+        ],
+        "reward": "Reported Shepherd of Fire playback after the three radios.",
+        "steps": [
+          {
+            "title": "Radio: excavation scaffolding",
+            "body": "Inside excavation, search the scaffolding above the possible Maxis Drone rotor position for the small red radio. Approach and interact with it. This is the song object, separate from an unidentified storyline radio.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+            "tip": "The exact rotor candidate beneath it and radio close-up still need a verified image."
+          },
+          {
+            "title": "Radio: inside the church-side robot Freya",
+            "body": "Shoot an illuminated foot opening on the church-side robot with an ordinary bullet firearm, enter when that opened foot steps on you, and locate the small radio opposite the audio log inside Freya. Interact before leaving through the robot exit.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+            "tip": "Robot-entry timing is not measured; use the opened foot rather than stepping under a closed one."
+          },
+          {
+            "title": "Radio: left edge of the Crazy Place Fire area",
+            "body": "Open an elemental portal, enter the Crazy Place and go to the Fire section. Search its left edge for the red radio and interact. Check all three song-radio positions rather than the Fire Staff pedestal alone.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/"
+          },
+          {
+            "title": "Check playback without relying on a loud chime",
+            "body": "Two firsthand BO3 replies report activating this song in the remaster, refuting a claim that it had been removed. A separate original song report says the little radios can lack an activation cue and play quietly. After the third interaction, listen with suitable music/audio settings before assuming the route failed.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/avengedsevenfold/comments/182d0zr/",
+            "tip": "The quiet-radio report does not independently label every location as BO3. Exact audio mix, activation order and replay rules remain untested.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/16kztat/",
+              "https://www.reddit.com/r/CODZombies/wiki/origins/"
+            ]
+          }
+        ],
+        "sourceOmissions": [
+          "The three radio photos, activation/order/replay rules and actual audio are unchecked. Old non-Reddit radio references are not newly adopted."
+        ],
+        "sources": [
+          {
+            "title": "Origins radio locations",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/origins/"
+          },
+          {
+            "title": "Firsthand BO3 activations",
+            "url": "https://www.reddit.com/r/avengedsevenfold/comments/182d0zr/"
+          },
+          {
+            "title": "Original quiet-radio report",
+            "url": "https://www.reddit.com/r/CODZombies/comments/16kztat/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "supplementNote": "Authored edition-specific instructions from the linked primary written reports. Exact photos, inputs and retail behavior remain qualified below."
       }
     }
   },
@@ -28692,46 +29008,90 @@
         ]
       },
       "bo3-origins": {
+        "title": "Shovels, thirty digs and the BO3 reward pool",
+        "category": "side",
+        "difficulty": "Setup / reference",
+        "players": "Solo / co-op",
+        "summary": "Find a shovel, earn its golden version and use the edition-labelled dig analysis.",
+        "requirements": [
+          "Black Ops III Zombies Chronicles Origins.",
+          "A shovel pickup and accessible dirt/bone dig sites."
+        ],
+        "reward": "Golden Shovel on the reported thirtieth personal dig, plus the reward from each ordinary dig.",
         "steps": [
           {
-            "title": "Preparation & context",
-            "body": "The Shovel is an equipable item used to dig the dirt and bone dig sites, which by doing so, can yield random results such as Weapons, Power-Ups, Zombies, or a live Grenade. 4 Shovels will spawn in the map, 1 for each player. However, there are 6 possible spawn locations: * Spawn, next to the M14 Wallbuy * Spawn, next to the door leading to Generator 3 * Wind Staff Tunnel, next to the building table * Church, next to the building table * Church, in front of the torch that has a number \"3\" beneath it * Lighting Tubnel, next to a table",
-            "html": "<p>The Shovel is an equipable item used to dig the dirt and bone dig sites, which by doing so, can yield random results such as Weapons, Power-Ups, Zombies, or a live Grenade.</p>\n<p>4 Shovels will spawn in the map, 1 for each player. However, there are 6 possible spawn locations:</p>\n<ul>\n<li>Spawn, next to the M14 Wallbuy</li>\n<li>Spawn, next to the door leading to Generator 3</li>\n<li>Wind Staff Tunnel, next to the building table</li>\n<li>Church, next to the building table</li>\n<li>Church, in front of the torch that has a number &quot;3&quot; beneath it</li>\n<li>Lighting Tubnel, next to a table</li>\n</ul>",
+            "title": "Check the two starting shovel positions",
+            "body": "In the starting laboratory, check the old M14-side wall corner and the position beside the door toward Generator 3. The M14 name is a BO2 landmark; use the room corner in Chronicles rather than searching for an M14 mount. Pick up an available shovel with interact.",
+            "original": true,
             "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
-            "tip": "The quoted M14 label is an original BO2 landmark. In Zombies Chronicles, look in that spawn-room wall corner; the other starting shovel is beside the door toward Generator 3."
+            "tip": "The source describes four available shovels across six candidate positions; exact simultaneous spawn behavior has not been tested."
           },
           {
-            "title": "Golden Shovel",
-            "body": "The Golden Shovel is the upgraded variant of the Shovel, which gives you a higher chance of receiving a good item such as a Weapon or Power-Up. To obtain the Golden Shovel, you must first obtain the Shovel then: 1. Dig 30 dig sites, once complete you will get a confirmation ding and your Shovel will be Golden as indicated on your HUD.",
-            "html": "<p>The Golden Shovel is the upgraded variant of the Shovel, which gives you a higher chance of receiving a good item such as a Weapon or Power-Up.</p>\n<p>To obtain the Golden Shovel, you must first obtain the Shovel then:</p>\n<ol>\n<li>Dig 30 dig sites, once complete you will get a confirmation ding and your Shovel will be Golden as indicated on your HUD.</li>\n</ol>",
+            "title": "Check the four other candidate positions",
+            "body": "Check beside the Wind-tunnel workbench, beside the church workbench, in front of the church torch marked 3, and beside a table in the Lightning tunnel. These are alternate shovel candidates, not additional requirements to collect six separate shovels.",
+            "original": true,
             "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/"
           },
           {
-            "title": "Rewards",
-            "body": "Zombies Chronicles dig weapons: Mauser C96, Sheiva and KRM-262 use the common pool; Drakon and Haymaker 12 use the rarer pool. With the Golden Shovel, that rarer pool also includes StG-44, MP40, Kuda, Argus and Trip Mines. Neither Ray Gun is in this weapon pool.\nOther finds include live grenades, a zombie, Blood Money, Nuke, Double Points and Fire Sale. Fire Sale requires the Mystery Box to have moved; Insta-Kill and Max Ammo join the pool only after the Golden Shovel. Ordinary digs do not drop Zombie Blood in BO3. Ice Staff pieces use a separate snow-dependent check. The Golden Helmet requires the Golden Shovel. Empty Perk Bottles use a separate hidden red-mound hunt during Zombie Blood.",
+            "title": "Dig ordinary dirt and bone mounds",
+            "body": "Approach a dig mound with your shovel and interact. Check the result before moving on: a reward can be useful, but a live grenade or zombie can appear. Ice Staff pieces are a separate snow-dependent check and take priority when that check succeeds.",
             "original": true,
             "researchSource": "https://www.reddit.com/r/CODZombies/comments/1vr8lve/",
-            "tip": "Reward pools follow Hadi77KSA’s game-code analysis. The linked BO2 script corroborates its BO2 weapon arrays, power-up gates and thirty-dig Golden Shovel threshold. Exact retail-build probabilities were not independently measured."
-          }
-        ],
-        "checked": "2026-10-17",
-        "sources": [
-          {
-            "title": "r/CODZombies community map guide",
-            "url": "https://www.reddit.com/r/CODZombies/wiki/origins/"
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/wiki/origins/"
+            ]
           },
           {
-            "title": "Hadi77KSA: BO2 and BO3 dig reward pools from game-code analysis",
-            "url": "https://www.reddit.com/r/CODZombies/comments/1vr8lve/"
+            "title": "Reach the thirtieth personal dig",
+            "body": "The fully read code analysis identifies the Golden Shovel at your 30th dig, processed after that dig’s ordinary reward. Listen for the confirmation and check the golden shovel indicator. You do not need to pick up a separate Golden Shovel reward object.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/1vr8lve/"
           },
           {
-            "title": "Archived BO2 dig script: weapon arrays and reward gates",
-            "url": "https://github.com/JezuzLizard/Recompilable-gscs-for-BO2-zombies-and-multiplayer/blob/d02a9efd4382689180aaadcb609452babf5dc4c8/ZM/Maps/Origins/maps/mp/zm_tomb_dig.gsc"
+            "title": "Use the reported Chronicles weapon arrays",
+            "body": "The analysis lists Mauser C96, Sheiva and KRM-262 in the common weapon group; Drakon and Haymaker 12 in the rarer group. With the Golden Shovel, that rarer group can also contain StG-44, MP40, Kuda, Argus and Trip Mines. Neither Ray Gun appears in the analyzed ordinary-dig weapon arrays.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/1vr8lve/",
+            "tip": "These are the edition-labelled arrays in a player’s code analysis, not an independently inspected current retail build or a complete Mystery Box pool."
+          },
+          {
+            "title": "Keep the power-up gates separate",
+            "body": "Other analyzed finds include live grenades, a zombie, Blood Money, Nuke, Double Points and Fire Sale. Fire Sale requires the Box to have moved; Insta-Kill and Max Ammo require the Golden Shovel in this analysis. Blood Money is described as a random 50-point multiple from 50 to 250. Ordinary BO3 digs do not supply Zombie Blood in the analyzed rules.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/1vr8lve/",
+            "tip": "A separate Ice Staff burning-cart route can supply Zombie Blood. Exact current drop odds and respawn timing are not certified."
+          },
+          {
+            "title": "Use the golden shovel for the two further secrets",
+            "body": "Continue digging for the Golden Helmet, or combine the Golden Shovel with Zombie Blood to search hidden red mounds for extra perk slots. These are separate checks; a normal mound is not automatically a red-mound perk reward. Follow the dedicated helmet and extra-slot guides.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/1vr8lve/",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/wc1h4o/"
+            ]
           }
         ],
         "sourceOmissions": [
-          "The shared source table mixed edition-specific weapons and listed unsupported Ray Gun rewards. The Rewards chapter replaces that table with the selected edition’s inventory. Independent retail replay and a full red-mound location guide remain pending."
-        ]
+          "The analysis is not a current independent script audit or retail probability test. Exact dig respawns, all mound photos and retail reward odds remain unchecked."
+        ],
+        "sources": [
+          {
+            "title": "Origins shovel positions",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/origins/"
+          },
+          {
+            "title": "BO2/BO3 code analysis",
+            "url": "https://www.reddit.com/r/CODZombies/comments/1vr8lve/"
+          },
+          {
+            "title": "BO3 red mound report",
+            "url": "https://www.reddit.com/r/CODZombies/comments/wc1h4o/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "supplementNote": "Authored edition-specific instructions from the linked primary written reports. Exact photos, inputs and retail behavior remain qualified below."
       }
     }
   },
@@ -28823,6 +29183,108 @@
           "bo2-origins-rituals-of-the-ancients",
           "bo2-origins-little-lost-girl"
         ]
+      },
+      "bo3-origins": {
+        "title": "Six generators: local power and Pack-a-Punch",
+        "category": "side",
+        "difficulty": "Setup / reference",
+        "players": "Solo / co-op",
+        "summary": "Capture the six numbered generators, stay on their pads and recognize a later shutdown.",
+        "requirements": [
+          "Black Ops III Zombies Chronicles Origins.",
+          "Points for each activation and a route through the base."
+        ],
+        "reward": "Powered local machines and, with all six active, excavation Pack-a-Punch.",
+        "steps": [
+          {
+            "title": "Pay and stay on the active pad",
+            "body": "Interact with a generator to start conversion. The historical price is 200 points per player in the match: 200 solo, 400 for two, 600 for three or 800 for four. Stay within its pad while defending against Templars; leaving makes conversion lose progress. More players on the pad speed the written sequence.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+            "tip": "Current hold times, point prompts and exact co-op speed scaling have not been measured."
+          },
+          {
+            "title": "Check the completion and refund",
+            "body": "Keep defending until conversion completes. The wiki reports a 100-point completion bonus to players still standing on the pad, and a refund to the player who paid. The first ten Templars killed that round per player are described as 10 points each; ordinary bullet-hit point farming is not the same for them.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/"
+          },
+          {
+            "title": "Generator 1: spawn laboratory",
+            "body": "Find Generator 1 on the upper level of the starting laboratory, near Quick Revive. Start here or return through either of the two starting trench routes.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/"
+          },
+          {
+            "title": "Generator 2: Tank Station",
+            "body": "Follow the starting trench route toward the Tank Station. Generator 2 stands out front. This area also contains the Ice record candidates and the tablet used for G-Strikes.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/blackops3/comments/1va358f/whats_your_guys_beginner_advice_for_origins_only/"
+            ]
+          },
+          {
+            "title": "Generator 3: Fire tunnel route",
+            "body": "Use the other starting trench route. Generator 3 is between the workshop and Fire tunnel, with a separate shield-part search area nearby.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/"
+          },
+          {
+            "title": "Generator 4: Juggernog and Wind tunnel",
+            "body": "From No Man’s Land, find Generator 4 between Juggernog and the Wind tunnel. Watch the nearby robot footprint before trying to hold the pad or collect a part.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/"
+          },
+          {
+            "title": "Generator 5: Stamin-Up and Lightning tunnel",
+            "body": "Find Generator 5 beside the Lightning tunnel and Stamin-Up area. Keep its nearby red-mound and soul-chest checks separate from the generator activation itself.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/"
+          },
+          {
+            "title": "Generator 6: church side",
+            "body": "Open the church route and reach Generator 6 near the church and Ice-tunnel approach. Powering this particular generator makes its Fire Staff head reward available; it is not necessary to capture every other generator merely to obtain that head.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+            "tip": "The old wording conflates all-map power with the local Fire-part reward. The explicit BO3 reward correction separates them.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/blackops3/comments/1dzakxy/",
+              "https://www.reddit.com/r/blackops3/comments/1va358f/whats_your_guys_beginner_advice_for_origins_only/"
+            ]
+          },
+          {
+            "title": "Re-power a generator that has been shut down",
+            "body": "Watch the generator indicators during the match. If Templars disable one, return and capture it again. Pack-a-Punch requires all six active together. Personal generator-challenge credit is a separate counter: the BO3 report says participating in a re-capture can count again.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/blackops3/comments/1dzakxy/",
+            "tip": "Do not confuse six personal captures with all six distinct generators currently being powered.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/wiki/origins/"
+            ]
+          }
+        ],
+        "sourceOmissions": [
+          "Exact conversion timers, shutdown schedules, current prices and co-op scaling are not retail-tested."
+        ],
+        "sources": [
+          {
+            "title": "Origins power",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/origins/"
+          },
+          {
+            "title": "BO3 reward correction",
+            "url": "https://www.reddit.com/r/blackops3/comments/1dzakxy/"
+          },
+          {
+            "title": "BO3 setup report",
+            "url": "https://www.reddit.com/r/blackops3/comments/1va358f/whats_your_guys_beginner_advice_for_origins_only/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "supplementNote": "Authored edition-specific instructions from the linked primary written reports. Exact photos, inputs and retail behavior remain qualified below."
       }
     }
   },
@@ -28889,6 +29351,73 @@
           "bo2-origins-wind-staff",
           "bo2-origins-lightning-staff"
         ]
+      },
+      "bo3-origins": {
+        "title": "Pack-a-Punch and BO3 alternate ammo",
+        "category": "weapon",
+        "difficulty": "Setup / reference",
+        "players": "Solo / co-op",
+        "summary": "Power all six generators, use the mound machine and re-pack eligible firearms.",
+        "requirements": [
+          "Black Ops III Zombies Chronicles Origins.",
+          "All six generators active together.",
+          "A compatible firearm and 5,000 points for its ordinary first upgrade."
+        ],
+        "reward": "A first upgrade, with a 2,500-point alternate-ammo route for compatible BO3 firearms.",
+        "steps": [
+          {
+            "title": "Keep all six generators powered",
+            "body": "Use the numbered generator guide to capture the entire set. Pack-a-Punch is on top of the central excavation mound and becomes usable when all six are active. If one is shut down later, re-power it before trying another machine visit.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/"
+          },
+          {
+            "title": "Reach the mound machine",
+            "body": "Open the excavation route from No Man’s Land and climb to the Pack-a-Punch machine on top. Read the actual weapon and transaction prompt. The staff chamber below it is a separate gramophone/record unlock, not an ordinary firearm upgrade requirement.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/"
+          },
+          {
+            "title": "Buy the first upgrade and collect it",
+            "body": "Equip the wanted firearm and spend the standard 5,000 points. Wait for the weapon to return and collect it before leaving. Read the new name and ammo display; staff upgrades and the free MG08 disc reward have their own routes.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/pg8sux/",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/wiki/origins/"
+            ]
+          },
+          {
+            "title": "Check the compatible repeat purchase",
+            "body": "A compatible already-upgraded BO3 firearm has a 2,500-point repeat purchase for an alternate-ammo effect. The five documented effects are Dead Wire, Blast Furnace, Thunder Wall, Turned and Fire Works. Collect the gun and check its effect label; these effects activate periodically rather than on every shot.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/game-mechanics/",
+            "tip": "A gun-name report alone does not prove every alternate-ammo transaction. Per-weapon eligibility and current damage/ammo values remain untested.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/pg8sux/"
+            ]
+          }
+        ],
+        "sourceOmissions": [
+          "The individual weapon eligibility matrix and current upgrade/ammunition prompts are not a retail census."
+        ],
+        "sources": [
+          {
+            "title": "Origins machine",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/origins/"
+          },
+          {
+            "title": "BO3 prices",
+            "url": "https://www.reddit.com/r/CODZombies/comments/pg8sux/"
+          },
+          {
+            "title": "BO3 mechanics",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/game-mechanics/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "supplementNote": "Authored edition-specific instructions from the linked primary written reports. Exact photos, inputs and retail behavior remain qualified below."
       }
     }
   },
@@ -28949,6 +29478,57 @@
           "bo2-origins-community-origins-walkthrough-shovel",
           "bo2-origins-wind-staff"
         ]
+      },
+      "bo3-origins": {
+        "title": "Golden Helmet: the post-shovel dig reward",
+        "category": "side",
+        "difficulty": "Setup / reference",
+        "players": "Solo / co-op",
+        "summary": "Continue ordinary digging after earning the Golden Shovel and check the helmet response.",
+        "requirements": [
+          "Black Ops III Zombies Chronicles Origins.",
+          "Golden Shovel, earned on the reported 30th personal dig."
+        ],
+        "reward": "The reported Golden Helmet and protection from a robot stomp.",
+        "steps": [
+          {
+            "title": "Earn the Golden Shovel first",
+            "body": "Pick up a shovel and complete 30 personal digs. Check that its HUD indicator turns gold. A helmet is a subsequent eligible dig reward, not a substitute for this prerequisite.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/1vr8lve/"
+          },
+          {
+            "title": "Continue digging eligible mounds",
+            "body": "Keep interacting with ordinary dig sites after you have the Golden Shovel. The original code analysis describes a 5% helmet check when the player has the golden shovel but lacks the helmet. That is a reported code probability, not a guarantee within a fixed number of digs.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/1vr8lve/",
+            "tip": "Current retail odds and interaction with the separate snow/Ice-piece branch have not been independently measured."
+          },
+          {
+            "title": "Confirm the helmet before relying on it",
+            "body": "Check the helmet HUD response; the written Chronicles entry also describes it appearing on the character. The stated benefit is surviving a giant-robot step. Continue using a properly opened glowing foot when you need to enter a robot for a staff part; protection is not an instruction to stand under every foot.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+            "tip": "No protection against other enemy attacks, complete stomp edge-case rule or native image inspection is claimed."
+          }
+        ],
+        "sourceOmissions": [
+          "Current probability, all stomp edge cases and the actual helmet visual remain unverified here."
+        ],
+        "sources": [
+          {
+            "title": "Origins helmet",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/origins/"
+          },
+          {
+            "title": "Code-analysis reward check",
+            "url": "https://www.reddit.com/r/CODZombies/comments/1vr8lve/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "supplementNote": "Authored edition-specific instructions from the linked primary written reports. Exact photos, inputs and retail behavior remain qualified below."
       }
     }
   },
@@ -29021,6 +29601,92 @@
           "bo2-origins-lightning-staff",
           "bo2-origins-little-lost-girl"
         ]
+      },
+      "bo3-origins": {
+        "title": "Gramophone, records and the four staff routes",
+        "category": "weapon",
+        "difficulty": "Setup / reference",
+        "players": "Solo / co-op",
+        "summary": "Open the excavation chamber and use the colored tunnel portals before assembling individual staffs.",
+        "requirements": [
+          "Black Ops III Zombies Chronicles Origins.",
+          "Excavation access and the gramophone/records below."
+        ],
+        "reward": "Access to the staff-building chamber, element crystals and staff-upgrade routes.",
+        "steps": [
+          {
+            "title": "Find the gramophone beside its excavation table",
+            "body": "Enter the middle level below Pack-a-Punch and pick up the gramophone from the floor beside the table. This device is used both to open the lower staff chamber and to open a colored tunnel portal.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/blackops3/comments/1va358f/whats_your_guys_beginner_advice_for_origins_only/"
+            ]
+          },
+          {
+            "title": "Check the excavation record’s three candidates",
+            "body": "Search beside Pack-a-Punch, below the Excavation Site sign at the No Man’s Land approach, and on the church-side path by the pillar/wooden structure with boxes. Players call this the black record; the shared wiki calls it white. Use the excavation record rather than a staff’s colored disc.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+            "tip": "The two written color names differ. Exact item close-ups and each bearing still need a confirmed reference.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/blackops3/comments/1va358f/whats_your_guys_beginner_advice_for_origins_only/"
+            ]
+          },
+          {
+            "title": "Open the lower excavation chamber",
+            "body": "With the excavation record collected, place the gramophone on the table below Pack-a-Punch and wait for the staircase/chamber to open. Descend to the four staff pedestals. Recover the gramophone before taking it to an elemental tunnel when you need to open that portal.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/"
+          },
+          {
+            "title": "Collect the matching colored record",
+            "body": "Each staff uses a different colored disc: Fire red near church, Wind yellow near Generator 5, Ice blue inside the Tank Station, and Lightning purple near Generator 4. The individual staff guides list the three written candidate positions for each record.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/blackops3/comments/1va358f/whats_your_guys_beginner_advice_for_origins_only/",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/wiki/origins/"
+            ]
+          },
+          {
+            "title": "Open the correct elemental tunnel",
+            "body": "Carry the gramophone and matching record to that element’s tunnel table: Fire on the Generator 3 side, Wind near Generator 4, Lightning beside Generator 5, or Ice behind church. Place the gramophone and wait for the portal, then enter the Crazy Place and collect that element’s crystal from its pillar.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+            "tip": "The four tunnel/record pairings matter. An already-owned different colored record is not a substitute."
+          },
+          {
+            "title": "Recover the gramophone for the next portal",
+            "body": "Return through the portal and take the gramophone when you move to another tunnel. The wiki describes only one overworld tunnel portal active at a time, while the Crazy Place can provide exits to other tunnels. Confirm the exit destination and current prompt before leaving teammates without a planned route.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+            "tip": "Exact portal reset, co-op recovery and trapped-player edge cases have not been tested."
+          },
+          {
+            "title": "Assemble and upgrade each staff at its own pedestal",
+            "body": "Collect all three parts and that element’s crystal, then build at the matching pedestal on the bottom excavation level. Complete the element’s Crazy Place puzzle and surface puzzle, align the matching excavation rings, shoot the orb, then charge the staff on its Crazy Place pedestal. The four dedicated guides expand these steps.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+            "tip": "The written character favorites are Fire for Takeo, Wind for Dempsey, Ice for Nikolai and Lightning for Richtofen; they are voice-line preferences rather than ownership locks. Wind’s ordered ceiling key remains missing."
+          }
+        ],
+        "sourceOmissions": [
+          "White/black record terminology, precise item photos, portal timing and some image-only puzzle keys remain unresolved."
+        ],
+        "sources": [
+          {
+            "title": "Origins builds and puzzles",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/origins/"
+          },
+          {
+            "title": "BO3 part and travel report",
+            "url": "https://www.reddit.com/r/blackops3/comments/1va358f/whats_your_guys_beginner_advice_for_origins_only/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "supplementNote": "Authored edition-specific instructions from the linked primary written reports. Exact photos, inputs and retail behavior remain qualified below."
       }
     }
   },
@@ -29109,6 +29775,163 @@
           "bo2-origins-records-and-portals",
           "bo2-origins-little-lost-girl"
         ]
+      },
+      "bo3-origins": {
+        "title": "Fire Staff → Kagutsuchi’s Blood",
+        "category": "weapon",
+        "difficulty": "Setup / reference",
+        "players": "Solo / co-op",
+        "summary": "Collect the three Fire parts and red crystal, then complete the grate, church and charging puzzles.",
+        "requirements": [
+          "Black Ops III Zombies Chronicles Origins.",
+          "Gramophone, excavation record, the element’s colored record, its crystal and all three staff parts.",
+          "Open the matching tunnel and the bottom of excavation."
+        ],
+        "reward": "Staff of Fire, upgraded as Kagutsuchi’s Blood.",
+        "steps": [
+          {
+            "title": "Search the three red-record candidates",
+            "body": "At church, check between the tank and stairs, among the burning upstairs pews, and on boxes near Generator 6 and its challenge chest. Pick up the red Fire record. A BO3 player says the tank can block the lower candidate, so move it if that position is inaccessible.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+            "tip": "Exact red-disc close-ups remain unverified.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/blackops3/comments/1va358f/whats_your_guys_beginner_advice_for_origins_only/"
+            ]
+          },
+          {
+            "title": "Collect the Fire crystal",
+            "body": "Take the gramophone and red record into the Fire tunnel on the Generator 3 side. Open its portal, enter the Crazy Place and take the red crystal from the Fire pillar. Return and recover the gramophone for other portal trips.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/"
+          },
+          {
+            "title": "Take the Generator 6 head reward",
+            "body": "Capture Generator 6 on the church side and check its reward chest for the Fire Staff head. This local part reward is separate from the personal challenge for participating in six generator captures.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/blackops3/comments/1dzakxy/",
+            "tip": "You do not need to label all six generators as a prerequisite for this single head reward.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/wiki/origins/",
+              "https://www.reddit.com/r/blackops3/comments/1va358f/whats_your_guys_beginner_advice_for_origins_only/"
+            ]
+          },
+          {
+            "title": "Shoot down the glowing plane for the middle part",
+            "body": "Watch for the glowing or burning plane circling the map. Shoot it with an ordinary bullet weapon, then collect the fallen Fire Staff part near the excavation soul-chest area. Check the dropped part before leaving; the later main-quest plane is a separate Zombie Blood stage.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+            "tip": "Its exact appearance round is not guaranteed by the uncertain player report.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/blackops3/comments/1va358f/whats_your_guys_beginner_advice_for_origins_only/"
+            ]
+          },
+          {
+            "title": "Defeat the first Panzer for the final part",
+            "body": "Kill the first Panzersoldat and pick up the Fire part it drops. Bring a suitable weapon and use the environment to keep distance while fighting. The BO3 setup report describes the first Panzer around round 8. Chronicles edition notes say two can spawn together in solo after that first Panzer round; exact schedules and current spawn conditions remain untested.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/blackops3/comments/1va358f/whats_your_guys_beginner_advice_for_origins_only/"
+            ]
+          },
+          {
+            "title": "Assemble Fire at the bottom of excavation",
+            "body": "With all three Fire parts and its crystal collected, open the lower chamber with the excavation record and gramophone. Build and take the Fire Staff at the red pedestal. You do not have to build every other staff merely to use this staff’s own upgrade route.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/1lcjh3/origins_easter_egg_fire_staff_upgrade_challenge/"
+            ]
+          },
+          {
+            "title": "Feed the Fire grate in the Crazy Place",
+            "body": "Return to the Crazy Place and stand on the metal-chain/grate area in front of the Fire portal while killing nearby zombies. Continue until the puzzle gives its completion response and Samantha’s acknowledgement, then return to church.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+            "tip": "The shared guide says approximately 30 kills. The exact BO3 requirement and collection radius have not been counted here."
+          },
+          {
+            "title": "Read the glowing church dot groups",
+            "body": "Upstairs in church, identify the molten/glowing dot groups. The recorded BO3 chart reads left to right: 11, 5, 9, 7, 6, 3, 4. To read a group, count its solid dots in each digit column; a hollow dot contributes 0. Use those counts as base-three digits: for two columns use left×3 plus right; for three use left×9 plus middle×3 plus right.",
+            "original": true,
+            "researchSource": "https://www.youtube.com/watch?v=3d-l8B48Q34",
+            "tip": "The original BO2 typed list swaps 3 and 6; use the pictured BO3 mapping.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/195wkxr/",
+              "https://www.reddit.com/r/CODZombies/comments/1kl5jj7/",
+              "https://www.youtube.com/watch?v=3d-l8B48Q34",
+              "https://www.reddit.com/r/CODZombies/comments/1lcjh3/origins_easter_egg_fire_staff_upgrade_challenge/"
+            ]
+          },
+          {
+            "title": "Light the numbered torches",
+            "body": "Beneath church, shoot the matching numbered torches with the Fire Staff from left to right. The blood-smudged label is 4. Listen for acceptance before leaving.",
+            "original": true,
+            "researchSource": "https://www.youtube.com/watch?v=3d-l8B48Q34",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/wiki/origins/"
+            ]
+          },
+          {
+            "title": "Align the red excavation rings",
+            "body": "After both Fire puzzles give their completion responses, go below Pack-a-Punch into excavation. Operate the surrounding switches until all four visible ring lights show red. Shoot the orb below the rings with the Fire Staff. Confirm that the orb moves before returning to the Crazy Place.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+            "tip": "Switch positions and the orb’s exact close-up have not been inspected in this research pass. If the orb is absent, check the completed puzzle and generator state rather than assuming a particular reset is guaranteed."
+          },
+          {
+            "title": "Charge the staff on its Crazy Place pedestal",
+            "body": "Place the Fire Staff into its matching Crazy Place pedestal and kill zombies close enough for the souls to be collected. Keep moving through open space as the walls change. When charging finishes, interact with the pedestal and retrieve Kagutsuchi’s Blood.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+            "tip": "The shared written guide gives 20 kills for this final stage. The current BO3 count and radius have not been measured; use the completion response and the returned upgrade as the checkpoint."
+          },
+          {
+            "title": "Use the upgraded staff’s two functions",
+            "body": "Use the upgraded weapon’s ordinary or charged attack as appropriate, and switch to Sekhmet’s Vigor with the documented right-D-pad function when you need its revive shot. Use your configured binding on PC. Any character can use any staff; favorite-weapon voice lines do not lock a staff to that character.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+            "tip": "Exact current ammo, damage, charge duration, revive range and per-platform input bindings remain untested."
+          }
+        ],
+        "sourceOmissions": [
+          "Recorded torch method included. Exact soul counts, timers and current retail behavior remain unverified."
+        ],
+        "sources": [
+          {
+            "title": "Origins builds and puzzles",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/origins/"
+          },
+          {
+            "title": "BO3 part and travel report",
+            "url": "https://www.reddit.com/r/blackops3/comments/1va358f/whats_your_guys_beginner_advice_for_origins_only/"
+          },
+          {
+            "title": "Original typed Fire solution",
+            "url": "https://www.reddit.com/r/CODZombies/comments/1lcjh3/origins_easter_egg_fire_staff_upgrade_challenge/"
+          },
+          {
+            "title": "BO2/BO3 numerical explanation",
+            "url": "https://www.reddit.com/r/CODZombies/comments/195wkxr/"
+          },
+          {
+            "title": "Dot and glyph explanation",
+            "url": "https://www.reddit.com/r/CODZombies/comments/1kl5jj7/"
+          },
+          {
+            "title": "BO3 Gen6 correction",
+            "url": "https://www.reddit.com/r/blackops3/comments/1dzakxy/"
+          },
+          {
+            "title": "Demonstration",
+            "url": "https://www.youtube.com/watch?v=3d-l8B48Q34"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "supplementNote": "Authored edition-specific instructions from the linked written reports and selected recorded demonstrations."
       }
     }
   },
@@ -29206,6 +30029,123 @@
           "bo2-origins-records-and-portals",
           "bo2-origins-little-lost-girl"
         ]
+      },
+      "bo3-origins": {
+        "title": "Wind Staff → Boreas’ Fury",
+        "category": "weapon",
+        "difficulty": "Setup / reference",
+        "players": "Solo / co-op",
+        "summary": "Recover a part from each giant robot, match the ceiling key and direct the smoke plumes.",
+        "requirements": [
+          "Black Ops III Zombies Chronicles Origins.",
+          "Gramophone, excavation record, the element’s colored record, its crystal and all three staff parts.",
+          "Open the matching tunnel and the bottom of excavation."
+        ],
+        "reward": "Staff of Wind, upgraded as Boreas’ Fury after its full puzzle is completed.",
+        "steps": [
+          {
+            "title": "Find the yellow record near Generator 5",
+            "body": "Check beside Stamin-Up, on the boxes facing the Lightning-tunnel entrance, and on the table near the entrance inside that tunnel. Take the yellow Wind record even though it is found beside the Lightning side of the map.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/blackops3/comments/1va358f/whats_your_guys_beginner_advice_for_origins_only/"
+            ]
+          },
+          {
+            "title": "Enter each robot through an opened foot",
+            "body": "Carry an ordinary bullet firearm and watch a robot’s feet before entering its footprint. Shoot the illuminated opening plate and let that opened foot step on you to reach the head. Take the staff part inside and leave through the robot’s exit when ready. Do not stand under an unopened foot.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+            "tip": "The BO3 report warns that Ray Guns and Boomhilda are poor or unsuitable foot-opening choices. Exact eligible-weapon and foot-timing rules remain untested.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/tmrjqn/",
+              "https://www.reddit.com/r/blackops3/comments/1va358f/whats_your_guys_beginner_advice_for_origins_only/"
+            ]
+          },
+          {
+            "title": "Collect the spawn-side Thor part",
+            "body": "Use the robot crossing the starting trench/Tank Station side, identified as Thor in the written route. Enter its opened foot, take its one Wind Staff part from the head and check that the part collection registered.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/"
+          },
+          {
+            "title": "Collect the central Odin part",
+            "body": "Use the middle robot crossing No Man’s Land, identified as Odin. Enter its opened foot and take the Wind Staff part inside. Watch its footprint before waiting for the next opening.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/"
+          },
+          {
+            "title": "Collect the church-side Freya part",
+            "body": "Use the church-side robot, Freya, for the third Wind part. Repeat the opened-foot entry and collect the part inside. The three robots are separate checks; entering the same head three times does not supply the full set.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/"
+          },
+          {
+            "title": "Take the Wind crystal and build",
+            "body": "Place the gramophone with the yellow record at the Wind tunnel near Generator 4. Enter the Crazy Place and take its yellow crystal, return to excavation and build at the Wind pedestal with all three robot parts.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/"
+          },
+          {
+            "title": "Match the four ceiling symbols",
+            "body": "At the Wind portal, look up at the ceiling. Shoot each ring with the Wind Staff until the row above the portal matches the photo, reading outside edge toward central opening. Wait for the rings to spin and the completion sound.",
+            "original": true,
+            "researchSource": "https://www.youtube.com/watch?v=3d-l8B48Q34",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/1vq7ydh/wind_staff/"
+            ]
+          },
+          {
+            "title": "Direct all three smoke plumes toward excavation",
+            "body": "After the ceiling puzzle is accepted, use the Wind Staff on the smoking object near Juggernog so its smoke points toward the excavation mound. Repeat at the object beside the muddy tank-return trail and the object near Generator 5. Check for the stage response before aligning the rings.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+            "tip": "Exact object close-ups, direction tolerances and retry inputs remain unverified."
+          },
+          {
+            "title": "Align the yellow excavation rings",
+            "body": "After both Wind puzzles give their completion responses, go below Pack-a-Punch into excavation. Operate the surrounding switches until all four visible ring lights show yellow. Shoot the orb below the rings with the Wind Staff. Confirm that the orb moves before returning to the Crazy Place.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+            "tip": "Switch positions and the orb’s exact close-up have not been inspected in this research pass. If the orb is absent, check the completed puzzle and generator state rather than assuming a particular reset is guaranteed."
+          },
+          {
+            "title": "Charge the staff on its Crazy Place pedestal",
+            "body": "Place the Wind Staff into its matching Crazy Place pedestal and kill zombies close enough for the souls to be collected. Keep moving through open space as the walls change. When charging finishes, interact with the pedestal and retrieve Boreas’ Fury.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+            "tip": "The shared written guide gives 20 kills for this final stage. The current BO3 count and radius have not been measured; use the completion response and the returned upgrade as the checkpoint."
+          },
+          {
+            "title": "Use the upgraded staff’s two functions",
+            "body": "Use the upgraded weapon’s ordinary or charged attack as appropriate, and switch to Sekhmet’s Vigor with the documented right-D-pad function when you need its revive shot. Use your configured binding on PC. Any character can use any staff; favorite-weapon voice lines do not lock a staff to that character.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+            "tip": "Exact current ammo, damage, charge duration, revive range and per-platform input bindings remain untested."
+          }
+        ],
+        "sourceOmissions": [
+          "Recorded ceiling key included. Exact smoke tolerances, soul counts, robot input timing and retail behavior remain unmeasured."
+        ],
+        "sources": [
+          {
+            "title": "Origins builds and puzzles",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/origins/"
+          },
+          {
+            "title": "BO3 part and travel report",
+            "url": "https://www.reddit.com/r/blackops3/comments/1va358f/whats_your_guys_beginner_advice_for_origins_only/"
+          },
+          {
+            "title": "Demonstration",
+            "url": "https://www.youtube.com/watch?v=3d-l8B48Q34"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "supplementNote": "Authored edition-specific instructions from the linked written reports and selected recorded demonstrations."
       }
     }
   },
@@ -29285,6 +30225,162 @@
           "bo2-origins-records-and-portals",
           "bo2-origins-little-lost-girl"
         ]
+      },
+      "bo3-origins": {
+        "title": "Ice Staff → Ull’s Arrow",
+        "category": "weapon",
+        "difficulty": "Setup / reference",
+        "players": "Solo / co-op",
+        "summary": "Dig the three snow-zone parts, translate the dot/glyph puzzle and freeze the tombstones.",
+        "requirements": [
+          "Black Ops III Zombies Chronicles Origins.",
+          "Gramophone, excavation record, the element’s colored record, its crystal and all three staff parts.",
+          "Open the matching tunnel and the bottom of excavation.",
+          "A shovel and a snow round for the staff parts."
+        ],
+        "reward": "Staff of Ice, upgraded as Ull’s Arrow.",
+        "steps": [
+          {
+            "title": "Search the blue record’s Tank Station positions",
+            "body": "Inside the Tank Station, check the shelf right of the Mystery Box position, the shelf right of the back exit and the shelf/table beside the front entrance. Pick up the blue Ice record; it is found near Generator 2 although the Ice portal is behind church.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/blackops3/comments/1va358f/whats_your_guys_beginner_advice_for_origins_only/"
+            ]
+          },
+          {
+            "title": "Dig during snow in the starting trenches",
+            "body": "With a shovel, dig sites in the starting/trench region between spawn and the workshop while it is snowing. The BO3 player report describes one Ice part for this broad region. Continue checking eligible digs in that zone until its part appears and take it.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/blackops3/comments/1va358f/whats_your_guys_beginner_advice_for_origins_only/",
+            "tip": "No exact snow-round schedule or mound-by-mound spawn census is established.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/wiki/origins/",
+              "https://www.reddit.com/r/CODZombies/comments/1vr8lve/"
+            ]
+          },
+          {
+            "title": "Dig during snow in No Man’s Land",
+            "body": "Check snow-round digs around the central Generator 4/5 and excavation region for the second broad-zone part. Take the revealed Ice piece rather than continuing only in the starting trenches.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/blackops3/comments/1va358f/whats_your_guys_beginner_advice_for_origins_only/",
+            "tip": "The code analysis describes per-zone miss handling; a claimed fixed number of random digs is not a universal retail guarantee.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/1vr8lve/"
+            ]
+          },
+          {
+            "title": "Dig during snow on the church side",
+            "body": "Check eligible snow-round sites around church and Generator 6 for the third broad-zone part. Ice-piece handling is separate from ordinary dig rewards, so a useful weapon or power-up alone does not mean that zone’s staff part has been collected.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/blackops3/comments/1va358f/whats_your_guys_beginner_advice_for_origins_only/",
+            "tip": "The beginner reply’s advice that non-snow digging makes later piece chances worse conflicts with the code analysis and is not adopted.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/1vr8lve/"
+            ]
+          },
+          {
+            "title": "Collect the Ice crystal and build",
+            "body": "Place the gramophone and blue record in the Ice tunnel behind church. Take the blue crystal from its Crazy Place pillar, return, and build the staff at the blue pedestal at the bottom of excavation.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/"
+          },
+          {
+            "title": "Translate the dot tablet into the hanging glyph",
+            "body": "At the Crazy Place Ice portal, read the dot tablet and match it to the hanging block. Count solid dots in each digit column, with a hollow dot contributing 0, to get the base-three digits. The line glyphs use base 4: a no-line/dot mark is 0, a straight I is 1, a corner L is 2 and an inverted-F-shaped three-line mark is 3. Convert the dot number to the same value in base 4, then shoot that matching block with the Ice Staff. Repeat for each new tablet until the stage responds.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/195wkxr/",
+            "tip": "Match each displayed dot tablet to its paired glyph in the photo. Repeat until the puzzle accepts the sequence.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/1kl5jj7/",
+              "https://www.reddit.com/r/CODZombies/wiki/origins/"
+            ]
+          },
+          {
+            "title": "Use digit values rather than a fixed screenshot guess",
+            "body": "For a two-digit dot value, multiply the left digit by 3 and add the right; for three digits use 9, 3, 1. As an arithmetic example, two solid dots in the left column and a hollow right column give 20 in base 3. That equals 6, which is 12 in base 4: the straight I glyph followed by L. This explains the typed method; do not use the source reply’s incomplete subtract-six shortcut as a universal conversion rule.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/1kl5jj7/",
+            "tip": "The numerical conversion is an arithmetic explanation of the reported grammar. It does not establish unviewed glyph alignment or an exhaustive game-input inventory.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/195wkxr/"
+            ]
+          },
+          {
+            "title": "Freeze and break the Generator 4 tombstone",
+            "body": "Find the tombstone in the back-right corner of the giant footprint near Generator 4. Hit it with the Ice Staff, then destroy the frozen stone using an ordinary bullet weapon. Check the shatter before moving to the next.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/"
+          },
+          {
+            "title": "Freeze and break the Tank Station tombstone",
+            "body": "Follow the muddy path behind the Tank Station and check the back-left side for the tombstone. Freeze it with the Ice Staff and then break it with bullets.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+            "tip": "The written left/right bearings lack a verified camera view; exact close-ups remain pending."
+          },
+          {
+            "title": "Freeze and break the excavation tombstone",
+            "body": "Find the tombstone on the front-middle side of the excavation mound near the footprint. Freeze it and follow with bullets to break it. After the three stones and the Crazy Place puzzle are accepted, continue to the blue excavation rings.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/"
+          },
+          {
+            "title": "Align the blue excavation rings",
+            "body": "After both Ice puzzles give their completion responses, go below Pack-a-Punch into excavation. Operate the surrounding switches until all four visible ring lights show blue. Shoot the orb below the rings with the Ice Staff. Confirm that the orb moves before returning to the Crazy Place.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+            "tip": "Switch positions and the orb’s exact close-up have not been inspected in this research pass. If the orb is absent, check the completed puzzle and generator state rather than assuming a particular reset is guaranteed."
+          },
+          {
+            "title": "Charge the staff on its Crazy Place pedestal",
+            "body": "Place the Ice Staff into its matching Crazy Place pedestal and kill zombies close enough for the souls to be collected. Keep moving through open space as the walls change. When charging finishes, interact with the pedestal and retrieve Ull’s Arrow.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+            "tip": "The shared written guide gives 20 kills for this final stage. The current BO3 count and radius have not been measured; use the completion response and the returned upgrade as the checkpoint."
+          },
+          {
+            "title": "Use the upgraded staff’s two functions",
+            "body": "Use the upgraded weapon’s ordinary or charged attack as appropriate, and switch to Sekhmet’s Vigor with the documented right-D-pad function when you need its revive shot. Use your configured binding on PC. Any character can use any staff; favorite-weapon voice lines do not lock a staff to that character.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+            "tip": "Exact current ammo, damage, charge duration, revive range and per-platform input bindings remain untested."
+          }
+        ],
+        "sourceOmissions": [
+          "Recorded glyph key included. Snow schedules, tombstone close-ups, soul counts and current charge behavior remain untested."
+        ],
+        "sources": [
+          {
+            "title": "Origins builds and puzzles",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/origins/"
+          },
+          {
+            "title": "BO3 part and travel report",
+            "url": "https://www.reddit.com/r/blackops3/comments/1va358f/whats_your_guys_beginner_advice_for_origins_only/"
+          },
+          {
+            "title": "Dig-zone analysis",
+            "url": "https://www.reddit.com/r/CODZombies/comments/1vr8lve/"
+          },
+          {
+            "title": "BO2/BO3 number grammar",
+            "url": "https://www.reddit.com/r/CODZombies/comments/195wkxr/"
+          },
+          {
+            "title": "Typed dot and glyph explanation",
+            "url": "https://www.reddit.com/r/CODZombies/comments/1kl5jj7/"
+          },
+          {
+            "title": "Demonstration",
+            "url": "https://www.youtube.com/watch?v=3d-l8B48Q34"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "supplementNote": "Authored edition-specific instructions from the linked written reports and selected recorded demonstrations."
       }
     }
   },
@@ -29376,6 +30472,191 @@
           "bo2-origins-records-and-portals",
           "bo2-origins-little-lost-girl"
         ]
+      },
+      "bo3-origins": {
+        "title": "Lightning Staff → Kimat’s Bite",
+        "category": "weapon",
+        "difficulty": "Setup / reference",
+        "players": "Solo / co-op",
+        "summary": "Collect the tank-route parts, play three bottom-row chords and set all seven reported dials.",
+        "requirements": [
+          "Black Ops III Zombies Chronicles Origins.",
+          "Gramophone, excavation record, the element’s colored record, its crystal and all three staff parts.",
+          "Open the matching tunnel and the bottom of excavation.",
+          "Tank access for three raised part paths."
+        ],
+        "reward": "Staff of Lightning, upgraded as Kimat’s Bite.",
+        "steps": [
+          {
+            "title": "Search the purple record near Generator 4",
+            "body": "Check beside the Generator 4 Wunderfizz position, on the wooden cart nearby and at the end of the Wind tunnel. Take the purple Lightning record; its portal is on the opposite Generator 5 side.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/"
+          },
+          {
+            "title": "Start the tank route",
+            "body": "Board the tank at church and pay the written 500-point activation when the prompt is available. It travels toward the Tank Station, pauses to cool and later returns to church. Watch for raised wooden paths that can only be reached from the tank; the three Lightning parts are on those side paths.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+            "tip": "Exact cooldown and jump timing have not been measured. Avoid standing in the tank’s damaging flamethrower paths."
+          },
+          {
+            "title": "Jump to the first raised part route",
+            "body": "On the church-to-Tank Station leg, look for the raised platform after the Generator 4 side and near the Generator 3/trench approach. Jump from the moving tank onto that platform and follow its path into the footprint for the staff piece. Reboard safely or let the tank complete its leg if you miss.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+            "tip": "The exact takeoff point and facing need a confirmed step image; no platform-specific jump exploit is assumed."
+          },
+          {
+            "title": "Jump left toward excavation for the next part",
+            "body": "On the return leg near Generator 5, the written route directs a left-side jump from the tank onto the raised path leading into excavation. Follow that isolated path and take the Lightning piece.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+            "tip": "The source’s left-side bearing is retained as a written route, without a native camera reference."
+          },
+          {
+            "title": "Jump to the upper church part route",
+            "body": "Before the tank reaches the church stopping area, jump onto the raised path leading into the upper church and collect the third piece. These are three distinct paths; recover a missed piece on another circuit if needed.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/"
+          },
+          {
+            "title": "Collect the Lightning crystal and build",
+            "body": "Use the gramophone and purple record in the Lightning tunnel beside Generator 5. Take its purple Crazy Place crystal, then return to the purple pedestal at the bottom of excavation and assemble the staff.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/"
+          },
+          {
+            "title": "Play the three bottom-row chords",
+            "body": "At the Crazy Place Lightning puzzle, number the seven lower triangles from left to right. Shoot 1, 3, 6; wait until that set’s lightning disappears; shoot 3, 5, 7 and wait again; then shoot 2, 4, 6. Listen for the completion response. Do not fire a continuous nine-shot stream or use the upper triangles as the numbered row.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/12sbfsq/need_some_help_upgrading_the_black_ops_3/",
+            "tip": "A reply suggests about 3 seconds between sets, but disappearing shots and the success response are the better checkpoint; no exact universal delay is certified."
+          },
+          {
+            "title": "Dial: Generator 5 / Stamin-Up",
+            "body": "Set the dial at Generator 5 / Stamin-Up so the concave side points up. The explicit BO3 reply uses the concave side as its reference; charts using the opposite flat face reverse the apparent bearing. If this dial is untouched from its starting state, a second BO3 report gives 3 turns as the preset.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/12sbfsq/need_some_help_upgrading_the_black_ops_3/",
+            "tip": "Turn counts assume nobody has already moved the dial. Use the named face and the stage’s spark/completion responses instead of repeatedly adding the preset count.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/upm64z/"
+            ]
+          },
+          {
+            "title": "Dial: Lower church",
+            "body": "Set the dial at Lower church so the concave side points left. The explicit BO3 reply uses the concave side as its reference; charts using the opposite flat face reverse the apparent bearing. If this dial is untouched from its starting state, a second BO3 report gives 2 turns as the preset.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/12sbfsq/need_some_help_upgrading_the_black_ops_3/",
+            "tip": "Turn counts assume nobody has already moved the dial. Use the named face and the stage’s spark/completion responses instead of repeatedly adding the preset count.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/upm64z/"
+            ]
+          },
+          {
+            "title": "Dial: Upper church",
+            "body": "Set the dial at Upper church so the concave side points down. The explicit BO3 reply uses the concave side as its reference; charts using the opposite flat face reverse the apparent bearing. If this dial is untouched from its starting state, a second BO3 report gives 1 turn as the preset.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/12sbfsq/need_some_help_upgrading_the_black_ops_3/",
+            "tip": "Turn counts assume nobody has already moved the dial. Use the named face and the stage’s spark/completion responses instead of repeatedly adding the preset count.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/upm64z/"
+            ]
+          },
+          {
+            "title": "Dial: Generator 4 / Wind tunnel",
+            "body": "Set the dial at Generator 4 / Wind tunnel so the concave side points down. The explicit BO3 reply uses the concave side as its reference; charts using the opposite flat face reverse the apparent bearing. If this dial is untouched from its starting state, a second BO3 report gives 2 turns as the preset.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/12sbfsq/need_some_help_upgrading_the_black_ops_3/",
+            "tip": "Turn counts assume nobody has already moved the dial. Use the named face and the stage’s spark/completion responses instead of repeatedly adding the preset count.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/upm64z/"
+            ]
+          },
+          {
+            "title": "Dial: Spawn / Generator 1",
+            "body": "Set the dial at Spawn / Generator 1 so the concave side points right. The explicit BO3 reply uses the concave side as its reference; charts using the opposite flat face reverse the apparent bearing. If this dial is untouched from its starting state, a second BO3 report gives 2 turns as the preset.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/12sbfsq/need_some_help_upgrading_the_black_ops_3/",
+            "tip": "Turn counts assume nobody has already moved the dial. Use the named face and the stage’s spark/completion responses instead of repeatedly adding the preset count.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/upm64z/"
+            ]
+          },
+          {
+            "title": "Dial: Generator 2 hut",
+            "body": "Set the dial at Generator 2 hut so the concave side points up. The explicit BO3 reply uses the concave side as its reference; charts using the opposite flat face reverse the apparent bearing. If this dial is untouched from its starting state, a second BO3 report gives 3 turns as the preset.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/12sbfsq/need_some_help_upgrading_the_black_ops_3/",
+            "tip": "Turn counts assume nobody has already moved the dial. Use the named face and the stage’s spark/completion responses instead of repeatedly adding the preset count.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/upm64z/"
+            ]
+          },
+          {
+            "title": "Dial: Excavation church-side path",
+            "body": "Set the dial at Excavation church-side path so the concave side points down. The explicit BO3 reply uses the concave side as its reference; charts using the opposite flat face reverse the apparent bearing. If this dial is untouched from its starting state, a second BO3 report gives 3 turns as the preset.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/12sbfsq/need_some_help_upgrading_the_black_ops_3/",
+            "tip": "Turn counts assume nobody has already moved the dial. Use the named face and the stage’s spark/completion responses instead of repeatedly adding the preset count.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/upm64z/"
+            ]
+          },
+          {
+            "title": "Check the active spark sequence before leaving",
+            "body": "After the piano stage, check the seven panels in the reported spark order: Generator 5, lower church, upper church, Generator 4, spawn, Generator 2, excavation. Finish a sparking panel so the next can begin. If the purple orb is absent, first confirm the piano success and each dial; one player’s claimed reset is not a guaranteed repair for every failure.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/12sbfsq/need_some_help_upgrading_the_black_ops_3/",
+            "tip": "A recent reply claims BO3 directions changed; the original responder reports completing the named concave-side settings recently. This remains typed evidence without native verification."
+          },
+          {
+            "title": "Align the purple excavation rings",
+            "body": "After both Lightning puzzles give their completion responses, go below Pack-a-Punch into excavation. Operate the surrounding switches until all four visible ring lights show purple. Shoot the orb below the rings with the Lightning Staff. Confirm that the orb moves before returning to the Crazy Place.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+            "tip": "Switch positions and the orb’s exact close-up have not been inspected in this research pass. If the orb is absent, check the completed puzzle and generator state rather than assuming a particular reset is guaranteed."
+          },
+          {
+            "title": "Charge the staff on its Crazy Place pedestal",
+            "body": "Place the Lightning Staff into its matching Crazy Place pedestal and kill zombies close enough for the souls to be collected. Keep moving through open space as the walls change. When charging finishes, interact with the pedestal and retrieve Kimat’s Bite.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+            "tip": "The shared written guide gives 20 kills for this final stage. The current BO3 count and radius have not been measured; use the completion response and the returned upgrade as the checkpoint."
+          },
+          {
+            "title": "Use the upgraded staff’s two functions",
+            "body": "Use the upgraded weapon’s ordinary or charged attack as appropriate, and switch to Sekhmet’s Vigor with the documented right-D-pad function when you need its revive shot. Use your configured binding on PC. Any character can use any staff; favorite-weapon voice lines do not lock a staff to that character.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+            "tip": "Exact current ammo, damage, charge duration, revive range and per-platform input bindings remain untested."
+          }
+        ],
+        "sourceOmissions": [
+          "Tank jump photos/timing, actual dial faces, reset behavior, precise soul counts and per-platform bindings remain unverified."
+        ],
+        "sources": [
+          {
+            "title": "Origins builds and puzzles",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/origins/"
+          },
+          {
+            "title": "BO3 part and travel report",
+            "url": "https://www.reddit.com/r/blackops3/comments/1va358f/whats_your_guys_beginner_advice_for_origins_only/"
+          },
+          {
+            "title": "BO3 chords and dial faces",
+            "url": "https://www.reddit.com/r/CODZombies/comments/12sbfsq/need_some_help_upgrading_the_black_ops_3/"
+          },
+          {
+            "title": "BO3 initial-state turn counts",
+            "url": "https://www.reddit.com/r/CODZombies/comments/upm64z/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "supplementNote": "Authored edition-specific instructions from the linked primary written reports. Exact photos, inputs and retail behavior remain qualified below."
       }
     }
   },
@@ -29445,6 +30726,92 @@
           "bo2-origins-community-origins-walkthrough-power",
           "bo2-origins-little-lost-girl"
         ]
+      },
+      "bo3-origins": {
+        "title": "Zombie Shield: parts and workbenches",
+        "category": "weapon",
+        "difficulty": "Setup / reference",
+        "players": "Solo / co-op",
+        "summary": "Search the three part regions, assemble at a workbench and keep the shield available for melee.",
+        "requirements": [
+          "Black Ops III Zombies Chronicles Origins.",
+          "Access to the starting trenches, Tank Station and No Man’s Land."
+        ],
+        "reward": "A buildable Zombie Shield.",
+        "steps": [
+          {
+            "title": "Search the Generator 3 part region",
+            "body": "Check beside the brown crate near Generator 3, in the first room on the right after leaving spawn toward Generator 3, and inside the Fire tunnel to the right of its portal. The source calls this the top piece. Its old AK-74u reference is a BO2 landmark; use the crate and room in Chronicles.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+            "tip": "These three written candidates have not been photographed in this pass.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/blackops3/comments/1va358f/whats_your_guys_beginner_advice_for_origins_only/"
+            ]
+          },
+          {
+            "title": "Search the middle robot’s right footprints",
+            "body": "Look in the right-foot prints along Odin’s route through central No Man’s Land. The middle shield piece can be in one of those footprint positions. Check the area after the robot passes rather than standing in a footprint waiting for its next step.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+            "tip": "The source groups the footprint candidates together; exact corners and camera bearings still need images.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/blackops3/comments/1va358f/whats_your_guys_beginner_advice_for_origins_only/"
+            ]
+          },
+          {
+            "title": "Search the Generator 2 part region",
+            "body": "Check the Tank Station roof beside a pipe, the dead end near Generator 2, and the first room on the right after leaving spawn toward Generator 2. Collect the remaining shield piece from its available candidate.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/blackops3/comments/1va358f/whats_your_guys_beginner_advice_for_origins_only/"
+            ]
+          },
+          {
+            "title": "Assemble at one of the three workbenches",
+            "body": "With all three parts registered, use a build table: the back-right corner of the workshop’s lower floor, the bottom of the Wind-tunnel staircase, or the back corner of lower church beside the tank boarding area. Follow the build prompt and take the completed shield.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+            "tip": "Workbench occupancy and exact replacement rules have not been retail-tested."
+          },
+          {
+            "title": "Use the shield’s melee deliberately",
+            "body": "Equip the shield when using its melee attack for the church/tablet route. The BO3 player reports accept shield melee there; the old BO2 trick of charging a staff shot and finishing with a shield is reported as different in BO3. Check the shield’s condition and return to its build table if the actual prompt offers a replacement.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/blackops3/comments/1va358f/whats_your_guys_beginner_advice_for_origins_only/",
+            "tip": "This pass does not establish a separate shield-upgrade quest, exact durability or every protection angle.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/blackops3/comments/xb1aay/",
+              "https://www.reddit.com/r/CODZombies/comments/tmrjqn/"
+            ]
+          }
+        ],
+        "sourceOmissions": [
+          "Footprint corners, current durability/protection rules and a separate shield upgrade are not established."
+        ],
+        "sources": [
+          {
+            "title": "Origins parts and tables",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/origins/"
+          },
+          {
+            "title": "BO3 shield and melee report",
+            "url": "https://www.reddit.com/r/blackops3/comments/1va358f/whats_your_guys_beginner_advice_for_origins_only/"
+          },
+          {
+            "title": "BO3 tablet route",
+            "url": "https://www.reddit.com/r/blackops3/comments/xb1aay/"
+          },
+          {
+            "title": "Firsthand quest report",
+            "url": "https://www.reddit.com/r/CODZombies/comments/tmrjqn/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "supplementNote": "Authored edition-specific instructions from the linked primary written reports. Exact photos, inputs and retail behavior remain qualified below."
       }
     }
   },
@@ -29512,6 +30879,101 @@
           "bo2-origins-community-origins-easter-eggs-free-magna-collider-pap-mg08-15",
           "bo2-origins-little-lost-girl"
         ]
+      },
+      "bo3-origins": {
+        "title": "Maxis Drone: parts, build and quest recovery",
+        "category": "weapon",
+        "difficulty": "Setup / reference",
+        "players": "Solo / co-op",
+        "summary": "Collect the brain, body and rotor, then distinguish the drone’s different quest uses.",
+        "requirements": [
+          "Black Ops III Zombies Chronicles Origins.",
+          "Access to spawn, church-side paths and excavation."
+        ],
+        "reward": "A deployable Maxis Drone and access to its free-gun and main-quest stages.",
+        "steps": [
+          {
+            "title": "Take the brain in the starting laboratory",
+            "body": "Search the table in spawn for the brain and collect it. This is the single written brain position, separate from the three-candidate body and rotor regions.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/blackops3/comments/1va358f/whats_your_guys_beginner_advice_for_origins_only/"
+            ]
+          },
+          {
+            "title": "Search the body’s church-side candidates",
+            "body": "Check inside the Ice tunnel behind church, on the path between church and Generator 4, and on the path between church and Generator 5. Collect the body from the available position.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+            "tip": "Exact ground-level bearings and current candidate close-ups remain pending.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/blackops3/comments/1va358f/whats_your_guys_beginner_advice_for_origins_only/"
+            ]
+          },
+          {
+            "title": "Search the rotor’s excavation candidates",
+            "body": "Check excavation beside the old AK-74u landmark, on the staircase near Mule Kick, and beside the oxygen tanks inside excavation. The gun name is a historical BO2 reference rather than a claim that an AK-74u wall mount exists in Chronicles.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/blackops3/comments/1va358f/whats_your_guys_beginner_advice_for_origins_only/"
+            ]
+          },
+          {
+            "title": "Build and collect at a free workbench",
+            "body": "Use the lower-workshop back-right table, the table at the bottom of the Wind-tunnel staircase, or the lower-church back-corner table near the tank. Assemble the registered parts and take the drone using the actual prompt.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+            "tip": "Exact bench sharing, recharge time and per-player pickup behavior have not been tested."
+          },
+          {
+            "title": "Deploy for the task you are doing",
+            "body": "Use the configured equipment control to deploy it when ready. It can attack nearby zombies, so a BO3 setup report warns that it may kill the zombie you saved to keep a round open. For the free Magna Collider, direct it toward all four yellow-disc positions; the dedicated guide lists them.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/blackops3/comments/1va358f/whats_your_guys_beginner_advice_for_origins_only/",
+            "tip": "The four-disc reward is a free packed gun. A stray reply calling it a drone upgrade is not adopted.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/wiki/origins/",
+              "https://www.reddit.com/r/CODZombies/comments/122yffu/"
+            ]
+          },
+          {
+            "title": "Recover it at the main-quest pilot stage",
+            "body": "During the main quest, first use the drone at the opened Generator 5 seal and finish the Panzer response. Later shoot the special plane and kill its running pilot while Zombie Blood is active, then collect the dropped drone. The main guide gives that sequence and the separate optional ending interaction.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/tmrjqn/",
+            "tip": "This is a quest-gated recovery, not a claim that the free-disc quest upgrades the drone. Exact recharge, damage and return behavior remain unverified.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/wiki/origins/"
+            ]
+          }
+        ],
+        "sourceOmissions": [
+          "Parts need step photos. Drone recharge, damage, pickup sharing and the exact upgrade/recovery HUD are untested."
+        ],
+        "sources": [
+          {
+            "title": "Origins drone and benches",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/origins/"
+          },
+          {
+            "title": "BO3 setup details",
+            "url": "https://www.reddit.com/r/blackops3/comments/1va358f/whats_your_guys_beginner_advice_for_origins_only/"
+          },
+          {
+            "title": "Firsthand quest sequence",
+            "url": "https://www.reddit.com/r/CODZombies/comments/tmrjqn/"
+          },
+          {
+            "title": "Original four-disc correction",
+            "url": "https://www.reddit.com/r/CODZombies/comments/122yffu/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "supplementNote": "Authored edition-specific instructions from the linked primary written reports. Exact photos, inputs and retail behavior remain qualified below."
       }
     }
   },
@@ -29586,6 +31048,86 @@
           "bo2-origins-community-origins-buildables-maxis-drone",
           "bo2-origins-ordinary-pack-a-punch-inventory"
         ]
+      },
+      "bo3-origins": {
+        "title": "Free Magna Collider: four yellow discs",
+        "category": "weapon",
+        "difficulty": "Setup / reference",
+        "players": "Solo / co-op",
+        "summary": "Use the Maxis Drone at four written disc locations, then check the mound for the free packed MG08.",
+        "requirements": [
+          "Black Ops III Zombies Chronicles Origins.",
+          "Maxis Drone built and available to deploy.",
+          "Access to church, excavation, Generator 5 and the Generator 2 trench route."
+        ],
+        "reward": "One free Magna Collider, the packed MG08 reward described by the shared guide.",
+        "steps": [
+          {
+            "title": "Bring the Maxis Drone to the disc route",
+            "body": "Build the drone from its brain, body and rotor, collect it at a workbench and wait until its deployment prompt is available. The written quest requires four yellow discs. An original player correction also identifies four rather than the initially guessed three.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+            "tip": "The independent correction discusses the original/shared route; it is not a separate current BO3 retail demonstration.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/122yffu/"
+            ]
+          },
+          {
+            "title": "Disc: church entrance roof",
+            "body": "Aim toward the roof over the entrance into church and deploy or direct the available drone toward the yellow disc. Watch for the drone to collect it before counting that position as complete.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/122yffu/"
+            ]
+          },
+          {
+            "title": "Disc: excavation scaffolding",
+            "body": "At the excavation mound, inspect the scaffolding for its yellow disc. Send the drone toward that position and check for its collection rather than assuming a nearby deployment always succeeds.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/"
+          },
+          {
+            "title": "Disc: Generator 5 roof",
+            "body": "Check the roof at Generator 5 for the third written disc position. Direct the drone toward it when deployment is available and confirm it is taken.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+            "tip": "The exact roof bearing and all disc close-ups still need images."
+          },
+          {
+            "title": "Disc: burning debris on the Generator 2 route",
+            "body": "Leave spawn toward Generator 2 and look to the right in the flaming debris. Aim toward its yellow disc and let the drone collect it. Keep this trench-side object separate from the Tank Station roof and shield part.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/"
+          },
+          {
+            "title": "Claim the free gun in front of Pack-a-Punch",
+            "body": "After all four discs are collected, climb excavation to the Pack-a-Punch machine. Inspect the space in front of the machine for the Magna Collider and take the free weapon if the prompt is present. The shared guide describes a one-time free pickup; current sharing and repeat rules have not been replayed.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+            "tip": "This reward is a packed MG08. The four-disc route is not treated as a proven drone upgrade.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/122yffu/"
+            ]
+          }
+        ],
+        "sourceOmissions": [
+          "Exact disc pixels, drone aiming/recharge behavior and current co-op pickup sharing remain untested."
+        ],
+        "sources": [
+          {
+            "title": "Origins four-disc route",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/origins/"
+          },
+          {
+            "title": "Original disc-count correction",
+            "url": "https://www.reddit.com/r/CODZombies/comments/122yffu/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "supplementNote": "Authored edition-specific instructions from the linked primary written reports. Exact photos, inputs and retail behavior remain qualified below."
       }
     }
   },
@@ -29641,6 +31183,52 @@
         "relatedGuideIds": [
           "bo2-origins-community-origins-walkthrough-pack-a-punch"
         ]
+      },
+      "bo3-origins": {
+        "title": "Church-tower scope jumpscare",
+        "category": "side",
+        "difficulty": "Setup / reference",
+        "players": "Solo / co-op",
+        "summary": "Aim a scoped sniper at the church-tower fire from the excavation mound.",
+        "requirements": [
+          "Black Ops III Zombies Chronicles Origins.",
+          "A scoped sniper rifle and access to the top of excavation."
+        ],
+        "reward": "A reported scope image and scream when the trigger registers.",
+        "steps": [
+          {
+            "title": "Equip a scoped sniper rifle",
+            "body": "Obtain a sniper rifle with a functioning scope. This route uses a scoped view; the written source does not establish every optic or weapon that qualifies.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/"
+          },
+          {
+            "title": "Stand on top of excavation facing church",
+            "body": "Climb to the top of the central mound, near Pack-a-Punch, and face the church tower. Identify the fire at the top of that tower.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/"
+          },
+          {
+            "title": "Hold the scope on the tower fire",
+            "body": "Scope in on the fire and wait for the trigger. The source describes a scream with a jumpscare image inside the scope when it registers. Exact zoom, aim tolerance, wait time and replay rules have not been measured.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+            "tip": "No jumpscare image or soundtrack has been opened or added to this guide."
+          }
+        ],
+        "sourceOmissions": [
+          "Weapon/optic eligibility, trigger timer, aim tolerance and actual scare pixels remain unchecked."
+        ],
+        "sources": [
+          {
+            "title": "Origins scope interaction",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/origins/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "supplementNote": "Authored edition-specific instructions from the linked primary written reports. Exact photos, inputs and retail behavior remain qualified below."
       }
     }
   },
@@ -29702,6 +31290,59 @@
           "bo2-origins-community-origins-easter-eggs-shepard-of-fire",
           "bo2-origins-community-origins-easter-eggs-aether"
         ]
+      },
+      "bo3-origins": {
+        "title": "Archangel: three green rocks",
+        "category": "music",
+        "difficulty": "Setup / reference",
+        "players": "Solo / co-op",
+        "summary": "Interact with the green Element 115 rocks in spawn, the workshop and excavation.",
+        "requirements": [
+          "Black Ops III Zombies Chronicles Origins.",
+          "Access to the workshop’s upper floor and the excavation approach."
+        ],
+        "reward": "Archangel, credited by the source to Elena Siegman, Malukah and Clark S. Nova.",
+        "steps": [
+          {
+            "title": "Rock: starting laboratory bunk area",
+            "body": "In spawn, go to the right of the ancient reward chest and check the other side of the bunk bed. Approach the green Element 115 rock and use interact.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+            "tip": "No step image has been inspected; the written room landmarks are retained."
+          },
+          {
+            "title": "Rock: under the upper workshop bed",
+            "body": "Go to the second floor of the workshop. Opposite the stairway, look beneath the bed for another green rock and interact with it.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/"
+          },
+          {
+            "title": "Rock: excavation entrance scaffolding",
+            "body": "At the excavation entrance, face back toward the spawn/workshop side. Check the scaffolding on the left beside a crate, locate the green rock and interact.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/"
+          },
+          {
+            "title": "Check for the song after the third rock",
+            "body": "When the three activations register, Archangel should begin. If it does not, recheck the three physical objects and current audio settings. This pass does not establish replay, ordering or overlapping-song behavior.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+            "tip": "Lyrics and the full soundtrack are not copied into the guide."
+          }
+        ],
+        "sourceOmissions": [
+          "Exact rock close-ups, activation cue, ordering and replay rules are not tested."
+        ],
+        "sources": [
+          {
+            "title": "Origins three-rock song",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/origins/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "supplementNote": "Authored edition-specific instructions from the linked primary written reports. Exact photos, inputs and retail behavior remain qualified below."
       }
     }
   },
@@ -29765,6 +31406,55 @@
           "bo2-origins-community-origins-easter-eggs-archangel",
           "bo2-origins-community-origins-easter-eggs-shepard-of-fire"
         ]
+      },
+      "bo3-origins": {
+        "title": "Aether: prone generator-panel sequence",
+        "category": "music",
+        "difficulty": "Setup / reference",
+        "players": "Solo / co-op",
+        "summary": "Interact with both Generator 1 floor plates, then the plate at powered Generator 5.",
+        "requirements": [
+          "Black Ops III Zombies Chronicles Origins.",
+          "Access to Generator 1 and Generator 5; power Generator 5."
+        ],
+        "reward": "Reported Aether playback when the sequence registers.",
+        "steps": [
+          {
+            "title": "Go prone at the first Generator 1 panel",
+            "body": "Go prone beside one floor plate marked 1 at Generator 1 and interact with it. This starts the song sequence; it is separate from paying to convert the generator.",
+            "original": true,
+            "researchSource": "https://www.youtube.com/watch?v=nlnU2gL2Ers"
+          },
+          {
+            "title": "Use the other Generator 1 plate",
+            "body": "Move to the other floor plate marked 1, beside the bench in the Quick Revive room. Go prone and interact with that plate too.",
+            "original": true,
+            "researchSource": "https://www.youtube.com/watch?v=nlnU2gL2Ers"
+          },
+          {
+            "title": "Finish prone at the Generator 5 panel",
+            "body": "With Generator 5 powered, go prone at its floor plate marked 5 and interact. The successful sequence starts Aether.",
+            "original": true,
+            "researchSource": "https://www.youtube.com/watch?v=nlnU2gL2Ers"
+          }
+        ],
+        "sourceOmissions": [
+          "The two distinct Generator 1 plates are pictured from the remaster demonstration. Exact timer, reset and replay rules remain untested."
+        ],
+        "sources": [
+          {
+            "title": "Origins generator-panel song",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/origins/"
+          },
+          {
+            "title": "Demonstration",
+            "url": "https://www.youtube.com/watch?v=nlnU2gL2Ers"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "supplementNote": "Authored edition-specific instructions from the linked written reports and selected recorded demonstrations."
       }
     }
   },
@@ -58633,6 +60323,84 @@
         "sourceQuote": null,
         "sharedSource": false,
         "supplementNote": "Edition-specific instructions with attributed frames from the recorded demonstrations. No independent retail playtest."
+      }
+    }
+  },
+  "origins-easter-eggs-samantha-s-lullaby-zombies-chronicles": {
+    "mapOverrides": {
+      "bo3-origins": {
+        "title": "Remember Forever: Samantha’s doll song",
+        "category": "music",
+        "difficulty": "Setup / reference",
+        "players": "Solo / co-op",
+        "summary": "Reveal the four staff targets, then complete Samantha’s Crazy Place doll hunt.",
+        "requirements": [
+          "Black Ops III Zombies Chronicles Origins.",
+          "All four Elemental Staffs built.",
+          "Zombie Blood to reveal the four staff-target colors.",
+          "An ordinary bullet weapon for the dolls."
+        ],
+        "reward": "Reported Max Ammo and Remember Forever after the final doll leaves.",
+        "steps": [
+          {
+            "title": "Build the four different staffs",
+            "body": "Assemble Fire, Wind, Ice and Lightning using their three parts and matching crystals. The shared Chronicles instructions call for all four built staffs; they do not explicitly require all four upgrades merely to start this separate song challenge.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/"
+          },
+          {
+            "title": "Match the four colored staff targets",
+            "body": "Under Zombie Blood, inspect the four squares on the lowest excavation ring above the staff-building floor. Each reveals a colored orb. Shoot each with the matching staff. Zombie Blood reveals the colors; hits also register without it.",
+            "original": true,
+            "researchSource": "https://www.youtube.com/watch?v=_nVP7myKICE"
+          },
+          {
+            "title": "Interact with the initial Crazy Place doll",
+            "body": "After the square stage is accepted, go into the Crazy Place and inspect the inner blue 115 circle for the Samantha doll. Approach and interact with that doll to begin the target stage.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+            "tip": "Exact activation prompt, timing and failed-attempt reset have not been measured."
+          },
+          {
+            "title": "Shoot the dolls that appear in the blue circle",
+            "body": "Use an ordinary bullet weapon to hit the dolls spawning in the middle of the blue circle. Continue through the target stage until the final doll begins rising. Exact target count and time limit are not established by this written source. Staff shots fail in the recorded demonstration.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+            "corroboratingSources": [
+              "https://www.youtube.com/watch?v=_nVP7myKICE"
+            ]
+          },
+          {
+            "title": "Let the final doll leave",
+            "body": "Do not shoot the doll flying upward at the end. Let it finish leaving; the source describes a Max Ammo spawning and Remember Forever beginning afterward. The exact reward position and replay behavior still need a native check.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/origins/",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/x2cei8/all_origins_side_easter_eggs_and_quests/"
+            ]
+          }
+        ],
+        "sourceOmissions": [
+          "The colored-target method and initial doll are shown in the linked original demonstration. Exact target count, timer, reward position, reset and replay rules remain unverified."
+        ],
+        "sources": [
+          {
+            "title": "Chronicles doll procedure",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/origins/"
+          },
+          {
+            "title": "Fourth-song identification",
+            "url": "https://www.reddit.com/r/CODZombies/comments/x2cei8/all_origins_side_easter_eggs_and_quests/"
+          },
+          {
+            "title": "Demonstration",
+            "url": "https://www.youtube.com/watch?v=_nVP7myKICE"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "supplementNote": "Authored edition-specific instructions from the linked written reports and selected recorded demonstrations."
       }
     }
   }

@@ -934,12 +934,14 @@
     ],
     "bo3-origins-community-origins-wonder-weapons-staff-of-ice": [
       {
-        "src": "./assets/origins-ice-symbols.svg",
-        "alt": "Origins Ice Staff circle and rune digit values, with a worked example for eleven",
-        "step": 2,
-        "caption": "Symbol-reading schematic based on the community explanation. Use each symbol's in-game orientation.",
-        "source": "https://www.reddit.com/r/CODZombies/comments/hmmv3u/how_the_ice_staff_code_works_and_an_easy_way_to/",
-        "credit": "Dead Drop schematic / r/CODZombies research"
+        "step": 6,
+        "src": "./assets/origins-chronicles-ice-symbol-key.webp",
+        "alt": "Ice key",
+        "caption": "Dot tablets beside matching glyphs.",
+        "source": "https://www.youtube.com/watch?v=3d-l8B48Q34&t=240",
+        "credit": "MrDalekJD",
+        "width": 968,
+        "height": 457
       }
     ],
     "bo7-kowakujo-dragon-egg-relic-full": [
@@ -3088,6 +3090,106 @@
         "credit": "MysteryHQ",
         "width": 700,
         "height": 315
+      }
+    ],
+    "bo3-origins-community-origins-wonder-weapons-staff-of-wind": [
+      {
+        "step": 7,
+        "src": "./assets/origins-chronicles-wind-ceiling-key.webp",
+        "alt": "Wind key",
+        "caption": "Outer ring at top.",
+        "source": "https://www.youtube.com/watch?v=3d-l8B48Q34&t=110",
+        "credit": "MrDalekJD",
+        "width": 220,
+        "height": 263
+      }
+    ],
+    "bo3-origins-community-origins-wonder-weapons-staff-of-fire": [
+      {
+        "step": 8,
+        "src": "./assets/origins-chronicles-fire-number-key.webp",
+        "alt": "Fire key",
+        "caption": "Read left to right.",
+        "source": "https://www.youtube.com/watch?v=3d-l8B48Q34&t=610",
+        "credit": "MrDalekJD",
+        "width": 950,
+        "height": 222
+      }
+    ],
+    "bo3-origins-community-origins-easter-eggs-samantha-s-lullaby-zombies-chronicles": [
+      {
+        "step": 2,
+        "src": "./assets/origins-chronicles-samantha-colored-orb.webp",
+        "alt": "Colored target",
+        "caption": "Zombie Blood reveals the color.",
+        "source": "https://www.youtube.com/watch?v=_nVP7myKICE&t=55",
+        "credit": "NGTZombies",
+        "width": 355,
+        "height": 265
+      },
+      {
+        "step": 3,
+        "src": "./assets/origins-chronicles-samantha-first-doll.webp",
+        "alt": "Starting doll",
+        "caption": "Against the central blue circle.",
+        "source": "https://www.youtube.com/watch?v=_nVP7myKICE&t=105",
+        "credit": "NGTZombies",
+        "width": 400,
+        "height": 342
+      }
+    ],
+    "bo3-origins-community-origins-easter-eggs-aether": [
+      {
+        "step": 1,
+        "src": "./assets/origins-chronicles-aether-first-plate.webp",
+        "alt": "First 1 plate",
+        "caption": "Interact at floor level.",
+        "source": "https://www.youtube.com/watch?v=nlnU2gL2Ers&t=30",
+        "credit": "GregFPS",
+        "width": 665,
+        "height": 425
+      },
+      {
+        "step": 2,
+        "src": "./assets/origins-chronicles-aether-second-plate.webp",
+        "alt": "Other 1 plate",
+        "caption": "Beside the room’s bench.",
+        "source": "https://www.youtube.com/watch?v=nlnU2gL2Ers&t=35",
+        "credit": "GregFPS",
+        "width": 615,
+        "height": 474
+      },
+      {
+        "step": 3,
+        "src": "./assets/origins-chronicles-aether-five-plate.webp",
+        "alt": "5 plate",
+        "caption": "Power this generator first.",
+        "source": "https://www.youtube.com/watch?v=nlnU2gL2Ers&t=45",
+        "credit": "GregFPS",
+        "width": 660,
+        "height": 400
+      }
+    ],
+    "bo3-origins-community-origins-easter-eggs-main-easter-egg": [
+      {
+        "step": 15,
+        "src": "./assets/origins-chronicles-solo-robot-foot.webp",
+        "alt": "Illuminated foot",
+        "caption": "Open this plate before entering.",
+        "source": "https://www.youtube.com/watch?v=b-Kn3iWJZ-E&t=240",
+        "credit": "MrDalekJD / NoahJ456",
+        "width": 670,
+        "height": 395
+      },
+      {
+        "step": 15,
+        "src": "./assets/origins-chronicles-solo-robot-button.webp",
+        "alt": "Robot button",
+        "caption": "Press at countdown 1.",
+        "source": "https://www.youtube.com/watch?v=b-Kn3iWJZ-E&t=265",
+        "credit": "MrDalekJD / NoahJ456",
+        "width": 275,
+        "height": 210
       }
     ]
   },
@@ -11767,6 +11869,46 @@
     "./assets/zetsubou-melody-bulbs.svg": [
       1200,
       650
+    ],
+    "./assets/origins-chronicles-wind-ceiling-key.webp": [
+      220,
+      263
+    ],
+    "./assets/origins-chronicles-ice-symbol-key.webp": [
+      968,
+      457
+    ],
+    "./assets/origins-chronicles-fire-number-key.webp": [
+      950,
+      222
+    ],
+    "./assets/origins-chronicles-samantha-colored-orb.webp": [
+      355,
+      265
+    ],
+    "./assets/origins-chronicles-samantha-first-doll.webp": [
+      400,
+      342
+    ],
+    "./assets/origins-chronicles-aether-first-plate.webp": [
+      665,
+      425
+    ],
+    "./assets/origins-chronicles-aether-second-plate.webp": [
+      615,
+      474
+    ],
+    "./assets/origins-chronicles-aether-five-plate.webp": [
+      660,
+      400
+    ],
+    "./assets/origins-chronicles-solo-robot-foot.webp": [
+      670,
+      395
+    ],
+    "./assets/origins-chronicles-solo-robot-button.webp": [
+      275,
+      210
     ]
   }
 }
