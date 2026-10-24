@@ -12624,5 +12624,821 @@
         "height": 660
       }
     ]
+  },
+  {
+    "mapId": "bo4-classified",
+    "difficulty": "Standard Classic / source reviewed",
+    "players": "Solo / co-op; read conditions",
+    "requirements": [
+      "BO4 Classified, Standard Classic. Normal is the recommended reference setting; Casual, Custom Mutations, Gauntlet and offline availability are not assumed equivalent.",
+      "Use actual wall, loadout and Box prompts; the tables are dated reports.",
+      "Unlock Groom Lake before ordinary weapon upgrades."
+    ],
+    "sourceOmissions": [
+      "The base table includes Bowie Knife; it is not a table of thirty-three ordinary firearms. Seventeen 2019 acquisition additions lack separately verified packed names here. Later additions, current complete Box pool, attachments, effects, unlocks and ammunition rules remain pending."
+    ],
+    "sources": [
+      {
+        "title": "Classified community guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/classified/"
+      },
+      {
+        "title": "StreetRaging: 2019 acquisition table",
+        "url": "https://www.reddit.com/r/CODZombies/comments/cwzuuk/weapon_locations_table/"
+      },
+      {
+        "title": "Player reports",
+        "url": "https://www.reddit.com/r/CODZombies/comments/178uez2/can_you_have_both_the_winters_howl_and_the_ray/"
+      }
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": "https://www.reddit.com/r/CODZombies/wiki/classified/",
+    "sharedSource": false,
+    "supplementNote": "Authored route notes use the linked written primary sections. Only the explicit tables are quoted. Remaining inputs and source conflicts are identified below; no retail or image verification is claimed.",
+    "id": "bo4-classified-firearms",
+    "title": "Classified firearms: acquisition and packed names",
+    "category": "weapon",
+    "summary": "Thirty-three historical weapon rows, plus seventeen later acquisition entries with packed names still pending.",
+    "reward": "A practical acquisition reference and the packed names explicitly written in the map table.",
+    "relatedGuideIds": [
+      "bo4-classified-community-classified-map-features-pack-a-punch",
+      "bo4-classified-community-classified-map-features-mystery-box-locations",
+      "bo4-classified-community-classified-map-features-winter-s-howl-project-skadi",
+      "bo4-classified-other-box-weapons"
+    ],
+    "steps": [
+      {
+        "title": "Read the dates and route columns",
+        "body": "The base map table has thirty-three five-cell entries: thirty-two guns and Bowie Knife. It gives packed names for the guns and a dash for the knife. The independent 2019 table adds seventeen acquisition entries for Classified. The separate M1927 row has a dash in its Classified column and is not added as a Classified purchase.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/cwzuuk/weapon_locations_table/"
+      },
+      {
+        "title": "Choose a listed wall or Box route",
+        "body": "For a wall entry, reach the written room and inspect the mount’s gun and price before buying. For a Box entry, locate the active Box and take the wanted offer when it appears. Welling is listed as a starting weapon, but the live loadout menu determines what your account can select. A historical Box route is not guaranteed within any number of rolls.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/classified/"
+      },
+      {
+        "title": "Use the machine prompt for upgrades",
+        "body": "Unlock Groom Lake with the amplifier, hold the gun you want to upgrade and use the machine’s displayed transaction. The rows below pair the source’s ordinary guns with their packed names. Those names do not establish attachments, special effects, damage tiers, ammunition prices or present-day loadout unlocks.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/classified/"
+      },
+      {
+        "title": "ICR-7 → Impertinent Deanimator",
+        "body": "ICR-7 | Impertinent Deanimator | Wall Weapon | 1550 Points | War Room: Lower Level",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>ICR-7</td><td>Impertinent Deanimator</td><td>Wall Weapon</td><td>1550 Points</td><td>War Room: Lower Level</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/classified/",
+        "tip": "Historical Classified row. “Mail Offices” spelling is preserved in the quotation; the room is called Main Offices in the original hunt. Verify live pricing and availability."
+      },
+      {
+        "title": "Rampart 17 → Parapetrifier",
+        "body": "Rampart 17 | Parapetrifier | Mystery Box | - | -",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>Rampart 17</td><td>Parapetrifier</td><td>Mystery Box</td><td>-</td><td>-</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/classified/",
+        "tip": "Historical Classified row. “Mail Offices” spelling is preserved in the quotation; the room is called Main Offices in the original hunt. Verify live pricing and availability."
+      },
+      {
+        "title": "Vapr-XKG → Creeping Haze",
+        "body": "Vapr-XKG | Creeping Haze | Wall Weapon | 1550 Points | Server Room",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>Vapr-XKG</td><td>Creeping Haze</td><td>Wall Weapon</td><td>1550 Points</td><td>Server Room</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/classified/",
+        "tip": "Historical Classified row. “Mail Offices” spelling is preserved in the quotation; the room is called Main Offices in the original hunt. Verify live pricing and availability."
+      },
+      {
+        "title": "KN-57 → Ruined Revenger",
+        "body": "KN-57 | Ruined Revenger | Wall Weapon | 1450 Points | Porcine Research",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>KN-57</td><td>Ruined Revenger</td><td>Wall Weapon</td><td>1450 Points</td><td>Porcine Research</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/classified/",
+        "tip": "Historical Classified row. “Mail Offices” spelling is preserved in the quotation; the room is called Main Offices in the original hunt. Verify live pricing and availability."
+      },
+      {
+        "title": "Maddox RFB → Red Fiend Bull",
+        "body": "Maddox RFB | Red Fiend Bull | Wall Weapon | 1400 Points | North Laboratories",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>Maddox RFB</td><td>Red Fiend Bull</td><td>Wall Weapon</td><td>1400 Points</td><td>North Laboratories</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/classified/",
+        "tip": "Historical Classified row. “Mail Offices” spelling is preserved in the quotation; the room is called Main Offices in the original hunt. Verify live pricing and availability."
+      },
+      {
+        "title": "Hitchcock M9 → Waking Nightmare",
+        "body": "Hitchcock M9 | Waking Nightmare | Mystery Box | - | -",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>Hitchcock M9</td><td>Waking Nightmare</td><td>Mystery Box</td><td>-</td><td>-</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/classified/",
+        "tip": "Historical Classified row. “Mail Offices” spelling is preserved in the quotation; the room is called Main Offices in the original hunt. Verify live pricing and availability."
+      },
+      {
+        "title": "SwordFish → Australo-Packy-Cormus",
+        "body": "SwordFish | Australo-Packy-Cormus | Mystery Box | - | -",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>SwordFish</td><td>Australo-Packy-Cormus</td><td>Mystery Box</td><td>-</td><td>-</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/classified/",
+        "tip": "Historical Classified row. “Mail Offices” spelling is preserved in the quotation; the room is called Main Offices in the original hunt. Verify live pricing and availability."
+      },
+      {
+        "title": "Auger DMR → Dead Man’s Refracker",
+        "body": "Auger DMR | Dead Man’s Refracker | Wall Weapon | 1600 Points | North Laboratories",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>Auger DMR</td><td>Dead Man’s Refracker</td><td>Wall Weapon</td><td>1600 Points</td><td>North Laboratories</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/classified/",
+        "tip": "Historical Classified row. “Mail Offices” spelling is preserved in the quotation; the room is called Main Offices in the original hunt. Verify live pricing and availability."
+      },
+      {
+        "title": "ABR 223 → BR-R-RAH",
+        "body": "ABR 223 | BR-R-RAH | Mystery Box | - | -",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>ABR 223</td><td>BR-R-RAH</td><td>Mystery Box</td><td>-</td><td>-</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/classified/",
+        "tip": "Historical Classified row. “Mail Offices” spelling is preserved in the quotation; the room is called Main Offices in the original hunt. Verify live pricing and availability."
+      },
+      {
+        "title": "Essex Model 07 → Quartermaster’s Repeater",
+        "body": "Essex Model 07 | Quartermaster’s Repeater | Wall Weapon | 500 Points | Conference Room",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>Essex Model 07</td><td>Quartermaster’s Repeater</td><td>Wall Weapon</td><td>500 Points</td><td>Conference Room</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/classified/",
+        "tip": "Historical Classified row. “Mail Offices” spelling is preserved in the quotation; the room is called Main Offices in the original hunt. Verify live pricing and availability."
+      },
+      {
+        "title": "MX9 → Nueve Muertes XX",
+        "body": "MX9 | Nueve Muertes XX | Wall Weapon | 1250 Points | War Room: Upper Level",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>MX9</td><td>Nueve Muertes XX</td><td>Wall Weapon</td><td>1250 Points</td><td>War Room: Upper Level</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/classified/",
+        "tip": "Historical Classified row. “Mail Offices” spelling is preserved in the quotation; the room is called Main Offices in the original hunt. Verify live pricing and availability."
+      },
+      {
+        "title": "Cordite → Corpsemaker",
+        "body": "Cordite | Corpsemaker | Mystery Box | - | -",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>Cordite</td><td>Corpsemaker</td><td>Mystery Box</td><td>-</td><td>-</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/classified/",
+        "tip": "Historical Classified row. “Mail Offices” spelling is preserved in the quotation; the room is called Main Offices in the original hunt. Verify live pricing and availability."
+      },
+      {
+        "title": "Saug 9mm → Stellar 92",
+        "body": "Saug 9mm | Stellar 92 | Wall Weapon | 750 Points | Mail Offices",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>Saug 9mm</td><td>Stellar 92</td><td>Wall Weapon</td><td>750 Points</td><td>Mail Offices</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/classified/",
+        "tip": "Historical Classified row. “Mail Offices” spelling is preserved in the quotation; the room is called Main Offices in the original hunt. Verify live pricing and availability."
+      },
+      {
+        "title": "Spitfire → Sky Scorcher",
+        "body": "Spitfire | Sky Scorcher | Wall Weapon | 1400 Points | War Room: Upper Level",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>Spitfire</td><td>Sky Scorcher</td><td>Wall Weapon</td><td>1400 Points</td><td>War Room: Upper Level</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/classified/",
+        "tip": "Historical Classified row. “Mail Offices” spelling is preserved in the quotation; the room is called Main Offices in the original hunt. Verify live pricing and availability."
+      },
+      {
+        "title": "GKS → Ghoul Keeper’s Subjugator",
+        "body": "GKS | Ghoul Keeper’s Subjugator | Mystery Box | - | -",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>GKS</td><td>Ghoul Keeper’s Subjugator</td><td>Mystery Box</td><td>-</td><td>-</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/classified/",
+        "tip": "Historical Classified row. “Mail Offices” spelling is preserved in the quotation; the room is called Main Offices in the original hunt. Verify live pricing and availability."
+      },
+      {
+        "title": "Escargot → Pièce De Résistance",
+        "body": "Escargot | Pièce De Résistance | Wall Weapon | 1000 Points | Mail Offices",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>Escargot</td><td>Pièce De Résistance</td><td>Wall Weapon</td><td>1000 Points</td><td>Mail Offices</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/classified/",
+        "tip": "Historical Classified row. “Mail Offices” spelling is preserved in the quotation; the room is called Main Offices in the original hunt. Verify live pricing and availability."
+      },
+      {
+        "title": "Titan → Tartarus Veil",
+        "body": "Titan | Tartarus Veil | Wall Weapon | 3750 Points | Morgue",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>Titan</td><td>Tartarus Veil</td><td>Wall Weapon</td><td>3750 Points</td><td>Morgue</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/classified/",
+        "tip": "Historical Classified row. “Mail Offices” spelling is preserved in the quotation; the room is called Main Offices in the original hunt. Verify live pricing and availability."
+      },
+      {
+        "title": "Zweihänder → Sumabrandr",
+        "body": "Zweihänder | Sumabrandr | Mystery Box | - | -",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>Zweihänder</td><td>Sumabrandr</td><td>Mystery Box</td><td>-</td><td>-</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/classified/",
+        "tip": "Historical Classified row. “Mail Offices” spelling is preserved in the quotation; the room is called Main Offices in the original hunt. Verify live pricing and availability."
+      },
+      {
+        "title": "Hades → Acheron Alliterator",
+        "body": "Hades | Acheron Alliterator | Mystery Box | - | -",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>Hades</td><td>Acheron Alliterator</td><td>Mystery Box</td><td>-</td><td>-</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/classified/",
+        "tip": "Historical Classified row. “Mail Offices” spelling is preserved in the quotation; the room is called Main Offices in the original hunt. Verify live pricing and availability."
+      },
+      {
+        "title": "VKM 750 → Cackling Kaftar",
+        "body": "VKM 750 | Cackling Kaftar | Mystery Box | - | -",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>VKM 750</td><td>Cackling Kaftar</td><td>Mystery Box</td><td>-</td><td>-</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/classified/",
+        "tip": "Historical Classified row. “Mail Offices” spelling is preserved in the quotation; the room is called Main Offices in the original hunt. Verify live pricing and availability."
+      },
+      {
+        "title": "Paladin HB50 → Righteous Fury",
+        "body": "Paladin HB50 | Righteous Fury | Mystery Box | - | -",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>Paladin HB50</td><td>Righteous Fury</td><td>Mystery Box</td><td>-</td><td>-</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/classified/",
+        "tip": "Historical Classified row. “Mail Offices” spelling is preserved in the quotation; the room is called Main Offices in the original hunt. Verify live pricing and availability."
+      },
+      {
+        "title": "Koshka → Bakeneko",
+        "body": "Koshka | Bakeneko | Wall Weapon | 4500 Points | Weapon Testing",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>Koshka</td><td>Bakeneko</td><td>Wall Weapon</td><td>4500 Points</td><td>Weapon Testing</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/classified/",
+        "tip": "Historical Classified row. “Mail Offices” spelling is preserved in the quotation; the room is called Main Offices in the original hunt. Verify live pricing and availability."
+      },
+      {
+        "title": "SDM → IT-5 LYT",
+        "body": "SDM | IT-5 LYT | Mystery Box | - | -",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>SDM</td><td>IT-5 LYT</td><td>Mystery Box</td><td>-</td><td>-</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/classified/",
+        "tip": "Historical Classified row. “Mail Offices” spelling is preserved in the quotation; the room is called Main Offices in the original hunt. Verify live pricing and availability."
+      },
+      {
+        "title": "Outlaw → D3SOL8 Regulator",
+        "body": "Outlaw | D3SOL8 Regulator | Mystery Box | - | -",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>Outlaw</td><td>D3SOL8 Regulator</td><td>Mystery Box</td><td>-</td><td>-</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/classified/",
+        "tip": "Historical Classified row. “Mail Offices” spelling is preserved in the quotation; the room is called Main Offices in the original hunt. Verify live pricing and availability."
+      },
+      {
+        "title": "Strife → Z Harmony",
+        "body": "Strife | Z Harmony | Wall Weapon | 500 Points | Side Passage",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>Strife</td><td>Z Harmony</td><td>Wall Weapon</td><td>500 Points</td><td>Side Passage</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/classified/",
+        "tip": "Historical Classified row. “Mail Offices” spelling is preserved in the quotation; the room is called Main Offices in the original hunt. Verify live pricing and availability."
+      },
+      {
+        "title": "Welling → King And Country",
+        "body": "Welling | King And Country | Starting Weapon | - | -",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>Welling</td><td>King And Country</td><td>Starting Weapon</td><td>-</td><td>-</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/classified/",
+        "tip": "Historical Classified row. “Mail Offices” spelling is preserved in the quotation; the room is called Main Offices in the original hunt. Verify live pricing and availability."
+      },
+      {
+        "title": "Mozu → Belle of the Ball",
+        "body": "Mozu | Belle of the Ball | Mystery Box | - | -",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>Mozu</td><td>Belle of the Ball</td><td>Mystery Box</td><td>-</td><td>-</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/classified/",
+        "tip": "Historical Classified row. “Mail Offices” spelling is preserved in the quotation; the room is called Main Offices in the original hunt. Verify live pricing and availability."
+      },
+      {
+        "title": "RK 7 Garrison → Rapskallion 3D",
+        "body": "RK 7 Garrison | Rapskallion 3D | Wall Weapon | 700 Points | Central Filing",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>RK 7 Garrison</td><td>Rapskallion 3D</td><td>Wall Weapon</td><td>700 Points</td><td>Central Filing</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/classified/",
+        "tip": "Historical Classified row. “Mail Offices” spelling is preserved in the quotation; the room is called Main Offices in the original hunt. Verify live pricing and availability."
+      },
+      {
+        "title": "MOG 12 → OMG Right Hook",
+        "body": "MOG 12 | OMG Right Hook | Wall Weapon | 1000 Points | Deserted Hallway",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>MOG 12</td><td>OMG Right Hook</td><td>Wall Weapon</td><td>1000 Points</td><td>Deserted Hallway</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/classified/",
+        "tip": "Historical Classified row. “Mail Offices” spelling is preserved in the quotation; the room is called Main Offices in the original hunt. Verify live pricing and availability."
+      },
+      {
+        "title": "M1897 Trebuchet → M9-TKG Home Wrecker",
+        "body": "M1897 Trebuchet | M9-TKG Home Wrecker | Wall Weapon | 1400 Points | War Room: Lower Level",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>M1897 Trebuchet</td><td>M9-TKG Home Wrecker</td><td>Wall Weapon</td><td>1400 Points</td><td>War Room: Lower Level</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/classified/",
+        "tip": "Historical Classified row. “Mail Offices” spelling is preserved in the quotation; the room is called Main Offices in the original hunt. Verify live pricing and availability."
+      },
+      {
+        "title": "SG12 → Breccius Rebornus",
+        "body": "SG12 | Breccius Rebornus | Mystery Box | - | -",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>SG12</td><td>Breccius Rebornus</td><td>Mystery Box</td><td>-</td><td>-</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/classified/",
+        "tip": "Historical Classified row. “Mail Offices” spelling is preserved in the quotation; the room is called Main Offices in the original hunt. Verify live pricing and availability."
+      },
+      {
+        "title": "Hellion Salvo → Zitro’s Orbital Arbalest",
+        "body": "Hellion Salvo | Zitro’s Orbital Arbalest | Mystery Box | - | -",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>Hellion Salvo</td><td>Zitro’s Orbital Arbalest</td><td>Mystery Box</td><td>-</td><td>-</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/classified/",
+        "tip": "Historical Classified row. “Mail Offices” spelling is preserved in the quotation; the room is called Main Offices in the original hunt. Verify live pricing and availability."
+      },
+      {
+        "title": "Bowie Knife",
+        "body": "Bowie Knife | - | Wall Weapon | 3000 Points | Weapon Testing",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>Bowie Knife</td><td>-</td><td>Wall Weapon</td><td>3000 Points</td><td>Weapon Testing</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/classified/",
+        "tip": "The dash is preserved: the source does not supply a packed Bowie Knife name."
+      },
+      {
+        "title": "Read the later acquisition rows separately",
+        "body": "StreetRaging’s August 2019 table lists the following additional names as MB in the Classified column. Their packed names are not present in that table, so none are guessed below. “Peacekepper” and “Switchblade MX9” are the table’s original spellings; the later player list uses Peacekeeper and Switchblade X9.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/cwzuuk/weapon_locations_table/"
+      },
+      {
+        "title": "Grav: later acquisition listing",
+        "body": "Grav | MB",
+        "html": "<table><thead><tr><th>Weapon spelling in 2019 table</th><th>Classified acquisition</th></tr></thead><tbody><tr><td>Grav</td><td>MB</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/cwzuuk/weapon_locations_table/",
+        "tip": "MB is the source table’s Mystery Box designation. Packed alias and current pool status are unverified in this pass."
+      },
+      {
+        "title": "SWAT RFT: later acquisition listing",
+        "body": "SWAT RFT | MB",
+        "html": "<table><thead><tr><th>Weapon spelling in 2019 table</th><th>Classified acquisition</th></tr></thead><tbody><tr><td>SWAT RFT</td><td>MB</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/cwzuuk/weapon_locations_table/",
+        "tip": "MB is the source table’s Mystery Box designation. Packed alias and current pool status are unverified in this pass."
+      },
+      {
+        "title": "Peacekepper: later acquisition listing",
+        "body": "Peacekepper | MB",
+        "html": "<table><thead><tr><th>Weapon spelling in 2019 table</th><th>Classified acquisition</th></tr></thead><tbody><tr><td>Peacekepper</td><td>MB</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/cwzuuk/weapon_locations_table/",
+        "tip": "MB is the source table’s Mystery Box designation. Packed alias and current pool status are unverified in this pass."
+      },
+      {
+        "title": "MP-40: later acquisition listing",
+        "body": "MP-40 | MB",
+        "html": "<table><thead><tr><th>Weapon spelling in 2019 table</th><th>Classified acquisition</th></tr></thead><tbody><tr><td>MP-40</td><td>MB</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/cwzuuk/weapon_locations_table/",
+        "tip": "MB is the source table’s Mystery Box designation. Packed alias and current pool status are unverified in this pass."
+      },
+      {
+        "title": "Daemon 3XB: later acquisition listing",
+        "body": "Daemon 3XB | MB",
+        "html": "<table><thead><tr><th>Weapon spelling in 2019 table</th><th>Classified acquisition</th></tr></thead><tbody><tr><td>Daemon 3XB</td><td>MB</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/cwzuuk/weapon_locations_table/",
+        "tip": "MB is the source table’s Mystery Box designation. Packed alias and current pool status are unverified in this pass."
+      },
+      {
+        "title": "Switchblade MX9: later acquisition listing",
+        "body": "Switchblade MX9 | MB",
+        "html": "<table><thead><tr><th>Weapon spelling in 2019 table</th><th>Classified acquisition</th></tr></thead><tbody><tr><td>Switchblade MX9</td><td>MB</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/cwzuuk/weapon_locations_table/",
+        "tip": "MB is the source table’s Mystery Box designation. Packed alias and current pool status are unverified in this pass."
+      },
+      {
+        "title": "S6 Stingray: later acquisition listing",
+        "body": "S6 Stingray | MB",
+        "html": "<table><thead><tr><th>Weapon spelling in 2019 table</th><th>Classified acquisition</th></tr></thead><tbody><tr><td>S6 Stingray</td><td>MB</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/cwzuuk/weapon_locations_table/",
+        "tip": "MB is the source table’s Mystery Box designation. Packed alias and current pool status are unverified in this pass."
+      },
+      {
+        "title": "M16: later acquisition listing",
+        "body": "M16 | MB",
+        "html": "<table><thead><tr><th>Weapon spelling in 2019 table</th><th>Classified acquisition</th></tr></thead><tbody><tr><td>M16</td><td>MB</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/cwzuuk/weapon_locations_table/",
+        "tip": "MB is the source table’s Mystery Box designation. Packed alias and current pool status are unverified in this pass."
+      },
+      {
+        "title": "Tigershark: later acquisition listing",
+        "body": "Tigershark | MB",
+        "html": "<table><thead><tr><th>Weapon spelling in 2019 table</th><th>Classified acquisition</th></tr></thead><tbody><tr><td>Tigershark</td><td>MB</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/cwzuuk/weapon_locations_table/",
+        "tip": "MB is the source table’s Mystery Box designation. Packed alias and current pool status are unverified in this pass."
+      },
+      {
+        "title": "Vendetta: later acquisition listing",
+        "body": "Vendetta | MB",
+        "html": "<table><thead><tr><th>Weapon spelling in 2019 table</th><th>Classified acquisition</th></tr></thead><tbody><tr><td>Vendetta</td><td>MB</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/cwzuuk/weapon_locations_table/",
+        "tip": "MB is the source table’s Mystery Box designation. Packed alias and current pool status are unverified in this pass."
+      },
+      {
+        "title": "Locus: later acquisition listing",
+        "body": "Locus | MB",
+        "html": "<table><thead><tr><th>Weapon spelling in 2019 table</th><th>Classified acquisition</th></tr></thead><tbody><tr><td>Locus</td><td>MB</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/cwzuuk/weapon_locations_table/",
+        "tip": "MB is the source table’s Mystery Box designation. Packed alias and current pool status are unverified in this pass."
+      },
+      {
+        "title": "Havelina AA50: later acquisition listing",
+        "body": "Havelina AA50 | MB",
+        "html": "<table><thead><tr><th>Weapon spelling in 2019 table</th><th>Classified acquisition</th></tr></thead><tbody><tr><td>Havelina AA50</td><td>MB</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/cwzuuk/weapon_locations_table/",
+        "tip": "MB is the source table’s Mystery Box designation. Packed alias and current pool status are unverified in this pass."
+      },
+      {
+        "title": "KAP 45: later acquisition listing",
+        "body": "KAP 45 | MB",
+        "html": "<table><thead><tr><th>Weapon spelling in 2019 table</th><th>Classified acquisition</th></tr></thead><tbody><tr><td>KAP 45</td><td>MB</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/cwzuuk/weapon_locations_table/",
+        "tip": "MB is the source table’s Mystery Box designation. Packed alias and current pool status are unverified in this pass."
+      },
+      {
+        "title": "Rampage: later acquisition listing",
+        "body": "Rampage | MB",
+        "html": "<table><thead><tr><th>Weapon spelling in 2019 table</th><th>Classified acquisition</th></tr></thead><tbody><tr><td>Rampage</td><td>MB</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/cwzuuk/weapon_locations_table/",
+        "tip": "MB is the source table’s Mystery Box designation. Packed alias and current pool status are unverified in this pass."
+      },
+      {
+        "title": "Balistic Knife: later acquisition listing",
+        "body": "Balistic Knife | MB",
+        "html": "<table><thead><tr><th>Weapon spelling in 2019 table</th><th>Classified acquisition</th></tr></thead><tbody><tr><td>Balistic Knife</td><td>MB</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/cwzuuk/weapon_locations_table/",
+        "tip": "MB is the source table’s Mystery Box designation. Packed alias and current pool status are unverified in this pass."
+      },
+      {
+        "title": "Argus: later acquisition listing",
+        "body": "Argus | MB",
+        "html": "<table><thead><tr><th>Weapon spelling in 2019 table</th><th>Classified acquisition</th></tr></thead><tbody><tr><td>Argus</td><td>MB</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/cwzuuk/weapon_locations_table/",
+        "tip": "MB is the source table’s Mystery Box designation. Packed alias and current pool status are unverified in this pass."
+      },
+      {
+        "title": "Reaver C86: later acquisition listing",
+        "body": "Reaver C86 | MB",
+        "html": "<table><thead><tr><th>Weapon spelling in 2019 table</th><th>Classified acquisition</th></tr></thead><tbody><tr><td>Reaver C86</td><td>MB</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/cwzuuk/weapon_locations_table/",
+        "tip": "MB is the source table’s Mystery Box designation. Packed alias and current pool status are unverified in this pass."
+      },
+      {
+        "title": "Keep Koshka’s Box status unresolved",
+        "body": "The 2019 table and its correction identify Koshka as a Weapon Testing wall route and say it is no longer in the Box. A 2023 comment’s longer claimed Box list includes Koshka again. This disagreement is not repaired by declaring either date to be the current complete pool; use the documented wall route and keep the Box claim qualified.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/178uez2/can_you_have_both_the_winters_howl_and_the_ray/"
+      }
+    ],
+    "images": [
+      {
+        "src": "./assets/classified-firearm-upgrades.svg",
+        "alt": "Ordinary weapon upgrades",
+        "caption": "Original reference diagram. Dated reference; no current complete Box inventory is established.",
+        "credit": "Dead Drop",
+        "source": "https://www.reddit.com/r/CODZombies/wiki/classified/",
+        "width": 420,
+        "height": 660
+      }
+    ]
+  },
+  {
+    "mapId": "bo4-classified",
+    "difficulty": "Standard Classic / source reviewed",
+    "players": "Solo / co-op; read conditions",
+    "requirements": [
+      "BO4 Classified, Standard Classic. Normal is the recommended reference setting; Casual, Custom Mutations, Gauntlet and offline availability are not assumed equivalent."
+    ],
+    "sourceOmissions": [
+      "Current timer scaling, magazine-versus-reserve behavior, drop caps, shield health/ammunition details and event guarantees are not retail-tested."
+    ],
+    "sources": [
+      {
+        "title": "Classified community guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/classified/"
+      }
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": "https://www.reddit.com/r/CODZombies/wiki/classified/",
+    "sharedSource": false,
+    "supplementNote": "Authored route notes use the linked written primary sections. Only the explicit tables are quoted. Remaining inputs and source conflicts are identified below; no retail or image verification is claimed.",
+    "id": "bo4-classified-power-ups",
+    "title": "Classified power-ups: nine written entries",
+    "category": "side",
+    "summary": "Read the recorded drops and timers, including Carpenter and the Groom Lake sale reward.",
+    "reward": "A reference for the nine power-ups named by the map guide.",
+    "relatedGuideIds": [
+      "bo4-classified-community-classified-map-features-clearing-groom-lake",
+      "bo4-classified-community-classified-map-features-riot-shield",
+      "bo4-classified-community-classified-map-features-pack-a-punch"
+    ],
+    "steps": [
+      {
+        "title": "Read effects and timers as source listings",
+        "body": "The table quotes the map guide’s nine entries. A dash means the source does not list a timed duration. A listed drop is not proof of a guaranteed event, drop rate or identical behavior in every mode. Read the live effect and coordinate pickups with teammates.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/classified/"
+      },
+      {
+        "title": "Insta-Kill",
+        "body": "Insta-Kill | Allows all players to insta-kill all normal zombies. | 30 Seconds",
+        "html": "<table><thead><tr><th>Name</th><th>Description</th><th>Duration</th></tr></thead><tbody><tr><td>Insta-Kill</td><td>Allows all players to insta-kill all normal zombies.</td><td>30 Seconds</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/classified/"
+      },
+      {
+        "title": "Max Ammo",
+        "body": "Max Ammo | Refills the ammo reserve of all held weapons for every player. | -",
+        "html": "<table><thead><tr><th>Name</th><th>Description</th><th>Duration</th></tr></thead><tbody><tr><td>Max Ammo</td><td>Refills the ammo reserve of all held weapons for every player.</td><td>-</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/classified/"
+      },
+      {
+        "title": "Double Points",
+        "body": "Double Points | Players receive double the amount of points for the duration of the power-up. | 30 Seconds",
+        "html": "<table><thead><tr><th>Name</th><th>Description</th><th>Duration</th></tr></thead><tbody><tr><td>Double Points</td><td>Players receive double the amount of points for the duration of the power-up.</td><td>30 Seconds</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/classified/"
+      },
+      {
+        "title": "Nuke",
+        "body": "Nuke | Kills all normal zombies on the map at once. | -",
+        "html": "<table><thead><tr><th>Name</th><th>Description</th><th>Duration</th></tr></thead><tbody><tr><td>Nuke</td><td>Kills all normal zombies on the map at once.</td><td>-</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/classified/"
+      },
+      {
+        "title": "Bonus Points",
+        "body": "Bonus Points | Gives each player in the match 500 Points | -",
+        "html": "<table><thead><tr><th>Name</th><th>Description</th><th>Duration</th></tr></thead><tbody><tr><td>Bonus Points</td><td>Gives each player in the match 500 Points</td><td>-</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/classified/"
+      },
+      {
+        "title": "Full Power",
+        "body": "Full Power | Gives the player that ran into it a full specialist weapon meter. | -",
+        "html": "<table><thead><tr><th>Name</th><th>Description</th><th>Duration</th></tr></thead><tbody><tr><td>Full Power</td><td>Gives the player that ran into it a full specialist weapon meter.</td><td>-</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/classified/"
+      },
+      {
+        "title": "Carpenter",
+        "body": "Carpenter | Repairs all wooden barricades on the map as well as refills the meter on each player's shield | -",
+        "html": "<table><thead><tr><th>Name</th><th>Description</th><th>Duration</th></tr></thead><tbody><tr><td>Carpenter</td><td>Repairs all wooden barricades on the map as well as refills the meter on each player&#39;s shield</td><td>-</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/classified/"
+      },
+      {
+        "title": "Fire Sale",
+        "body": "Fire Sale | Causes all box locations to be active and makes the Mystery Box only cost 10 Points. | 30 Seconds",
+        "html": "<table><thead><tr><th>Name</th><th>Description</th><th>Duration</th></tr></thead><tbody><tr><td>Fire Sale</td><td>Causes all box locations to be active and makes the Mystery Box only cost 10 Points.</td><td>30 Seconds</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/classified/"
+      },
+      {
+        "title": "Bonfire Sale",
+        "body": "Bonfire Sale | Makes the Pack-a-Punch cost 1000 Points and Re-packing costs 500 Points. | 30 Seconds",
+        "html": "<table><thead><tr><th>Name</th><th>Description</th><th>Duration</th></tr></thead><tbody><tr><td>Bonfire Sale</td><td>Makes the Pack-a-Punch cost 1000 Points and Re-packing costs 500 Points.</td><td>30 Seconds</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/classified/"
+      },
+      {
+        "title": "Connect drops to the setup routes",
+        "body": "Carpenter’s listed shield refill matters to shield use, and the Groom Lake clearance records a Max Ammo with a possible Bonfire Sale. The table lists the sale’s reduced Pack-a-Punch and re-pack prices. Do not turn that conditional reward into a promise that both drops always appear after every debris cycle.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/classified/"
+      }
+    ],
+    "images": [
+      {
+        "src": "./assets/classified-power-up-reference.svg",
+        "alt": "Power-up reference",
+        "caption": "Original reference diagram. Recorded effects; live timers, drop rates and event guarantees remain untested.",
+        "credit": "Dead Drop",
+        "source": "https://www.reddit.com/r/CODZombies/wiki/classified/",
+        "width": 420,
+        "height": 660
+      }
+    ]
+  },
+  {
+    "mapId": "bo4-classified",
+    "difficulty": "Standard Classic / source reviewed",
+    "players": "Solo / co-op; read conditions",
+    "requirements": [
+      "BO4 Classified, Standard Classic. Normal is the recommended reference setting; Casual, Custom Mutations, Gauntlet and offline availability are not assumed equivalent."
+    ],
+    "sourceOmissions": [
+      "Special-round schedule, health curves, explosion-suppression matrix, freeze/shatter credit and platform challenge behavior remain pending."
+    ],
+    "sources": [
+      {
+        "title": "Classified community guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/classified/"
+      }
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": "https://www.reddit.com/r/CODZombies/wiki/classified/",
+    "sharedSource": false,
+    "supplementNote": "Authored route notes use the linked written primary sections. Only the explicit tables are quoted. Remaining inputs and source conflicts are identified below; no retail or image verification is claimed.",
+    "id": "bo4-classified-enemies",
+    "title": "Classified enemies and crawler challenges",
+    "category": "side",
+    "summary": "Identify the two special-enemy types in the map guide and the related challenge conditions.",
+    "reward": "A limited enemy reference and links to the optional scripted crawler wave.",
+    "relatedGuideIds": [
+      "bo4-classified-community-classified-easter-eggs-quests-nova-crawler-easter-egg",
+      "bo4-classified-community-classified-map-features-traps",
+      "bo4-classified-community-classified-map-features-winter-s-howl-project-skadi"
+    ],
+    "steps": [
+      {
+        "title": "Recognize Nova Six Crawlers",
+        "body": "The community table describes enemies that crawl on the ground and explode into blinding Nova Six gas when killed with a bullet gun. Prepare a route before the extra crawler spawn at McNamara’s door; an ordinary gun kill can produce gas rather than a clear corridor.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/classified/"
+      },
+      {
+        "title": "Recognize Hellhounds",
+        "body": "The same table describes Hellhounds as faster than ordinary zombies but with much less health. Exact special-round frequency, health scaling and a guaranteed post-round drop are not specified by that table and are not filled in from another game.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/classified/"
+      },
+      {
+        "title": "Read the crawler challenge targets",
+        "body": "Preemptive Strike requires killing 50 Nova Six Crawlers without allowing their explosion in one game. Step on the Gas requires killing 50 zombies while affected by crawler gas in one game. These are different conditions; the source does not provide a tested list of every explosion-suppressing weapon or a safe universal gas timer.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/classified/"
+      },
+      {
+        "title": "Keep the freezing challenge distinct",
+        "body": "Breaking the Ice asks for shattering 115 zombies in one game. Project Skadi supplies the free Winter’s Howl route and the packed form is Winter’s Fury. No claim is made here about exactly which freeze stage, damage source or teammate gets credit for a shatter.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/classified/"
+      }
+    ],
+    "images": [
+      {
+        "src": "./assets/classified-enemy-reference.svg",
+        "alt": "Crawler challenge reference",
+        "caption": "Original reference diagram. Original objective summary; exact weapon suppression and team credit remain unchecked.",
+        "credit": "Dead Drop",
+        "source": "https://www.reddit.com/r/CODZombies/wiki/classified/",
+        "width": 420,
+        "height": 660
+      }
+    ]
+  },
+  {
+    "mapId": "bo4-classified",
+    "difficulty": "Standard Classic / source reviewed",
+    "players": "Solo / co-op; read conditions",
+    "requirements": [
+      "BO4 Classified, Standard Classic. Normal is the recommended reference setting; Casual, Custom Mutations, Gauntlet and offline availability are not assumed equivalent."
+    ],
+    "sourceOmissions": [
+      "Ray Gun packed aliases/effects, Monkey Bomb route details, current wonder-weapon limits and a current complete Box inventory remain unverified."
+    ],
+    "sources": [
+      {
+        "title": "Player reports",
+        "url": "https://www.reddit.com/r/CODZombies/comments/178uez2/can_you_have_both_the_winters_howl_and_the_ray/"
+      },
+      {
+        "title": "Classified community guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/classified/"
+      },
+      {
+        "title": "StreetRaging: 2019 acquisition table",
+        "url": "https://www.reddit.com/r/CODZombies/comments/cwzuuk/weapon_locations_table/"
+      }
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": "https://www.reddit.com/r/CODZombies/wiki/classified/",
+    "sharedSource": false,
+    "supplementNote": "Authored route notes use the linked written primary sections. Only the explicit tables are quoted. Remaining inputs and source conflicts are identified below; no retail or image verification is claimed.",
+    "id": "bo4-classified-other-box-weapons",
+    "title": "Ray Guns and other Box reports",
+    "category": "weapon",
+    "summary": "Separate reported Ray Gun combinations from a complete current Box or upgrade inventory.",
+    "reward": "The reported acquisition routes and a reliable alternative for Winter’s Howl.",
+    "relatedGuideIds": [
+      "bo4-classified-community-classified-map-features-mystery-box-locations",
+      "bo4-classified-community-classified-map-features-winter-s-howl-project-skadi",
+      "bo4-classified-firearms"
+    ],
+    "steps": [
+      {
+        "title": "Use the Classified report’s limited claim",
+        "body": "A 2023 Classified player reports holding Ray Gun and Ray Gun Mark II in the same match while seeking Winter’s Howl. Replies state that the Howl can coexist with the Ray Gun and point to Project Skadi as its free alternative. These are player reports for Classified, not a rule copied from Alpha Omega, Tag or Cold War.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/178uez2/can_you_have_both_the_winters_howl_and_the_ray/"
+      },
+      {
+        "title": "Do not calculate a drop chance from the comment list",
+        "body": "That discussion contains a claimed fifty-five-entry Box list and a disputed probability calculation. It includes Monkey Bomb, Koshka and other later names. Neither the count nor uniform odds are established by listing those names. No finite number of purchases is promised to yield a specific wonder weapon.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/178uez2/can_you_have_both_the_winters_howl_and_the_ray/"
+      },
+      {
+        "title": "Upgrade only the supported weapon form",
+        "body": "The map table explicitly names Winter’s Howl → Winter’s Fury. The read Classified tables do not provide packed aliases or complete upgrade effects for Ray Gun and Ray Gun Mark II. Those aliases, Monkey Bomb behavior and any other special-weapon upgrades remain separate verification tasks rather than being imported from another edition.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/classified/"
+      }
+    ],
+    "images": [
+      {
+        "src": "./assets/classified-special-weapon-reports.svg",
+        "alt": "Special weapon reports",
+        "caption": "Original reference diagram. Limited acquisition reference; no fixed number of Box purchases guarantees a weapon.",
+        "credit": "Dead Drop",
+        "source": "https://www.reddit.com/r/CODZombies/comments/178uez2/can_you_have_both_the_winters_howl_and_the_ray/",
+        "width": 420,
+        "height": 660
+      }
+    ]
+  },
+  {
+    "mapId": "bo4-classified",
+    "difficulty": "Standard Classic / source reviewed",
+    "players": "Solo / co-op; read conditions",
+    "requirements": [
+      "BO4 Classified, Standard Classic. Normal is the recommended reference setting; Casual, Custom Mutations, Gauntlet and offline availability are not assumed equivalent."
+    ],
+    "sourceOmissions": [
+      "This is a text-only historical solve catalogue. Exact document locations, current fifth-cipher status, image/ciphertext comparison and independent arithmetic verification remain open."
+    ],
+    "sources": [
+      {
+        "title": "Classified community guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/classified/"
+      }
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": "https://www.reddit.com/r/CODZombies/wiki/classified/",
+    "sharedSource": false,
+    "supplementNote": "Authored route notes use the linked written primary sections. Only the explicit tables are quoted. Remaining inputs and source conflicts are identified below; no retail or image verification is claimed.",
+    "id": "bo4-classified-cipher-notes",
+    "title": "Classified ciphers: recorded keys and limits",
+    "category": "side",
+    "summary": "Identify the four recorded solve methods and keep the fifth historical lead’s status open.",
+    "reward": "A credited cipher research reference without full fictional plaintext.",
+    "relatedGuideIds": [
+      "bo4-classified-community-classified-easter-eggs-quests-punch-cards-audio-easter-egg",
+      "bo4-classified-community-classified-easter-eggs-quests-red-phones",
+      "bo4-classified-community-classified-easter-eggs-quests-samantha-wisps"
+    ],
+    "steps": [
+      {
+        "title": "Class one: recorded Playfair key",
+        "body": "The wiki labels Class_#1 as Playfair and records the key CLASIFEDBGHJKNOPQRTUVWXYZ. It credits Richkiller, certainpersonio and coldstone_the_gamer. Its plaintext concerns Division 9 materials and the missing Elemental Shard; the full memorandum is left in the original source.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/classified/"
+      },
+      {
+        "title": "Class two: recorded substitution",
+        "body": "Class_#2 is listed as a substitution cipher, solved by wcownz12233. Its memorandum concerns the Hanford project, Broken Arrow and weapon research. The read source does not provide an operative substitution alphabet or a precise physical locator, so neither is fabricated here.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/classified/"
+      },
+      {
+        "title": "Class three: recorded Ubchi key",
+        "body": "Class_#3 is labelled Ubchi with the key Classified, credited to Richkiller and coldstone_the_gamer. Its document concerns Operation Stapler and Richtofen’s demands. This is a solve catalogue, not a full transcription or a claim that each demand unlocks a gameplay step.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/classified/"
+      },
+      {
+        "title": "Class four: recorded Vigenère key",
+        "body": "Class_#4 is labelled Vigenère with the key Classified and credited to Randomiser. The decoded field report describes failure and the need to contact others. The fictional monologue is not copied, and this card does not turn its story statements into new mandatory quest instructions.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/classified/"
+      },
+      {
+        "title": "Keep the fifth lead’s status qualified",
+        "body": "The wiki links the original “New Cipher found on Classified” thread for Class_#5 and historically labels it unsolved. This pass has not read that thread or established a current solve status. Do not treat that old label as a present-day unsolved certificate. Exact in-map document positions, ciphertexts and independent solve verification remain pending.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/classified/"
+      }
+    ],
+    "images": [
+      {
+        "src": "./assets/classified-cipher-reference.svg",
+        "alt": "Recorded cipher methods",
+        "caption": "Original reference diagram. Historical catalogue only; physical document locations and independent solves remain open.",
+        "credit": "Dead Drop",
+        "source": "https://www.reddit.com/r/CODZombies/wiki/classified/",
+        "width": 420,
+        "height": 660
+      }
+    ]
   }
 ]
