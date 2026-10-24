@@ -2788,7 +2788,228 @@
       }
     ],
     "supplementNote": "The ghost search, vampire completion cue and crypt entrance are original supplemental instructions. The other sections are quoted from the credited subreddit wiki.",
-    "checked": "2026-10-16"
+    "checked": "2026-10-16",
+    "mapOverrides": {
+      "bo4-dead-of-the-night": {
+        "title": "Savage Impaler: candles, Bloodrush and jewelry kills",
+        "category": "weapon",
+        "difficulty": "Standard setup / reference",
+        "players": "1–4 players; all players must enter the crypt to claim the weapon",
+        "summary": "Escort the ghost, use four distinct kill methods and unlock the crypt.",
+        "requirements": [
+          "Black Ops 4 — Dead of the Night.",
+          "For these quest routes use an online Standard match on Normal or higher, without Custom Mutations. General BO4 player reports support this scope; individual Casual, offline and Gauntlet exceptions are not fully audited.",
+          "Forest / Pack-a-Punch access, Ballistic Shield, charged Specialist and equipment such as Wraith Fire."
+        ],
+        "reward": "One quest Savage Impaler; claiming it adds the weapon to the Mystery Box for the other players.",
+        "steps": [
+          {
+            "title": "Extinguish the six quest candles",
+            "body": "Knife the burning candle in each of these rooms so its flame goes out: East Hallway, Music Room, East Gallery, Master Bedroom, Wine Cellar and Study.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "tip": "Use the retained six candle photos for the actual surfaces. These are the extinguishing candles for the Impaler route.",
+            "images": [
+              {
+                "src": "./assets/audit-dotn-savage-impaler-first-candle.webp",
+                "alt": "Study candle",
+                "caption": "Candle: Study",
+                "credit": "Screenshots: COD:ZG; game © Activision / Treyarch",
+                "source": "https://www.codzombiesguides.com/side-quests/black-ops-4/dead-of-the-night/savage-impaler/"
+              },
+              {
+                "src": "./assets/audit-dotn-savage-impaler-second-candle.webp",
+                "alt": "Wine Cellar candle",
+                "caption": "Candle: Wine Cellar",
+                "credit": "Screenshots: COD:ZG; game © Activision / Treyarch",
+                "source": "https://www.codzombiesguides.com/side-quests/black-ops-4/dead-of-the-night/savage-impaler/"
+              },
+              {
+                "src": "./assets/audit-dotn-savage-impaler-third-candle.webp",
+                "alt": "East Hallway candle",
+                "caption": "Candle: East Hallway",
+                "credit": "Screenshots: COD:ZG; game © Activision / Treyarch",
+                "source": "https://www.codzombiesguides.com/side-quests/black-ops-4/dead-of-the-night/savage-impaler/"
+              },
+              {
+                "src": "./assets/audit-dotn-savage-impaler-fourth-candle.webp",
+                "alt": "Music Room candle",
+                "caption": "Candle: Music Room",
+                "credit": "Screenshots: COD:ZG; game © Activision / Treyarch",
+                "source": "https://www.codzombiesguides.com/side-quests/black-ops-4/dead-of-the-night/savage-impaler/"
+              },
+              {
+                "src": "./assets/audit-dotn-savage-impaler-fifth-candle.webp",
+                "alt": "East Gallery candle",
+                "caption": "Candle: East Gallery",
+                "credit": "Screenshots: COD:ZG; game © Activision / Treyarch",
+                "source": "https://www.codzombiesguides.com/side-quests/black-ops-4/dead-of-the-night/savage-impaler/"
+              },
+              {
+                "src": "./assets/audit-dotn-savage-impaler-sixth-candle.webp",
+                "alt": "Master Bedroom candle",
+                "caption": "Candle: Master Bedroom",
+                "credit": "Screenshots: COD:ZG; game © Activision / Treyarch",
+                "source": "https://www.codzombiesguides.com/side-quests/black-ops-4/dead-of-the-night/savage-impaler/"
+              }
+            ]
+          },
+          {
+            "title": "Enter Bloodrush at the Forest tombstone",
+            "body": "At the Forest tombstone to the right of Pack-a-Punch, interact to enter the timed red Bloodrush view. Each player can obtain it once per round, so an escort may require more than one player or round.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "tip": "This tombstone and state belong to the Impaler quest; exact duration and reset timing remain unmeasured.",
+            "images": [
+              {
+                "src": "./assets/audit-dotn-savage-impaler-stone.webp",
+                "alt": "Forest stone used to enter Bloodrush",
+                "caption": "Bloodrush stone in the Forest",
+                "credit": "Screenshots: COD:ZG; game © Activision / Treyarch",
+                "source": "https://www.codzombiesguides.com/side-quests/black-ops-4/dead-of-the-night/savage-impaler/"
+              }
+            ]
+          },
+          {
+            "title": "Find the ghost and escort her to the Mausoleum",
+            "original": true,
+            "body": "While Bloodrush is active, find the blue ghost. Check Entrance Hall, Master Bedroom, Music Room, Billiards Room, Greenhouse Laboratory and Dining Room, including the spaces behind zombie windows. Approach her and escort her to the Mausoleum. If the red view expires, return to the Forest tombstone; each player can renew Bloodrush once per round.",
+            "images": [
+              {
+                "src": "./assets/audit-dotn-savage-impaler-ghost.webp",
+                "alt": "Blue ghost beside the Grand Staircase",
+                "caption": "The ghost being escorted through the mansion",
+                "credit": "Screenshots: COD:ZG; game © Activision / Treyarch",
+                "source": "https://www.codzombiesguides.com/side-quests/black-ops-4/dead-of-the-night/savage-impaler/"
+              }
+            ],
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/a59pmc/dead_of_the_night_easter_egg_hunt_general_map/",
+              "https://www.codzombiesguides.com/side-quests/black-ops-4/dead-of-the-night/savage-impaler/"
+            ],
+            "tip": "The primary hunt additionally lists Wine Cellar and the staircase between Trophy Room and Dining Room. The published COD:ZG-derived candidate extension above is retained, with its attribution, rather than certified as a complete primary locator census. Search behind windows while Bloodrush is active."
+          },
+          {
+            "title": "Jewelry one: ordinary firearm kill",
+            "body": "Let the ghost summon a possessed blue zombie, then kill it with an ordinary gun and collect the dropped jewelry piece. The four pieces named by the source are watch, necklace, earring and ring; it does not assign a fixed item name to each method.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/a59pmc/dead_of_the_night_easter_egg_hunt_general_map/"
+          },
+          {
+            "title": "Jewelry two: equipment kill",
+            "body": "Kill the next required possessed blue zombie with equipment and collect its jewelry drop. Y_Blace reports Wraith Fire working for this stage.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/a59pmc/dead_of_the_night_easter_egg_hunt_general_map/",
+            "tip": "Use fire for the second possessed zombie, such as Wraith Fire or the fire trap. Collect each dropped jewel before progressing. If a kill does not release a jewel, wait for the next possessed zombie and repeat the required method."
+          },
+          {
+            "title": "Jewelry three: Specialist Weapon kill",
+            "body": "Use your charged Specialist Weapon to kill the next possessed blue zombie, then collect its jewelry. The original hunt participant reports testing the hammer; no complete Specialist compatibility table is established.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/a59pmc/dead_of_the_night_easter_egg_hunt_general_map/"
+          },
+          {
+            "title": "Jewelry four: use the shield’s gun",
+            "body": "Kill the final required possessed blue zombie using the Ballistic Shield’s firearm/blast and collect the last jewelry piece. boomboomsaIoon reports repeated success with the shield gun after shield melee failed.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/a59pmc/dead_of_the_night_easter_egg_hunt_general_map/",
+            "tip": "The source’s generic “shield kill” is not treated as proof that any melee hit qualifies. Exact controls and shared credit still need direct checks."
+          },
+          {
+            "title": "Activate all four floor squares",
+            "body": "With all four jewelry pieces collected, interact with each of the four white floor squares at the Mausoleum. Each should turn blue. After all four are activated, the large white ritual circle appears.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/"
+          },
+          {
+            "title": "Fill the ritual circle until it turns blue",
+            "original": true,
+            "body": "Kill Nosferatu inside the large white ritual circle in the Mausoleum. Continue until the circle and floor markings turn blue and the completion sound plays. Do not stop at a fixed six kills; published routes disagree about a numerical total. If the crypt still will not open, return and charge the circle with more vampire kills.",
+            "images": [
+              {
+                "src": "./assets/audit-dotn-savage-impaler-blue-circles.webp",
+                "alt": "Completed blue Mausoleum ritual circle",
+                "caption": "Blue circle: the visible completion cue",
+                "credit": "Screenshots: COD:ZG; game © Activision / Treyarch",
+                "source": "https://www.codzombiesguides.com/side-quests/black-ops-4/dead-of-the-night/savage-impaler/"
+              }
+            ],
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/a59pmc/dead_of_the_night_easter_egg_hunt_general_map/",
+              "https://www.codzombiesguides.com/side-quests/black-ops-4/dead-of-the-night/savage-impaler/"
+            ],
+            "tip": "The wiki says six vampires; boomboomsaIoon reports four while inside the Mausoleum, and another reply suggests one in each circle. Those counts conflict. The existing blue-floor and sound completion cue is retained; it is not a newly tested fixed quota."
+          },
+          {
+            "title": "Open the Cemetery coffin and descend",
+            "original": true,
+            "body": "Leave the Mausoleum for the Cemetery and interact with the stone coffin beside its staircase. It slides away to expose the crypt stairs. Descend to find the Savage Impaler at the back.",
+            "images": [
+              {
+                "src": "./assets/audit-dotn-savage-impaler-tomb.webp",
+                "alt": "Stone coffin beside the Cemetery staircase",
+                "caption": "Interact with this coffin to reveal the crypt",
+                "credit": "Screenshots: COD:ZG; game © Activision / Treyarch",
+                "source": "https://www.codzombiesguides.com/side-quests/black-ops-4/dead-of-the-night/savage-impaler/"
+              }
+            ],
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "corroboratingSources": [
+              "https://www.codzombiesguides.com/side-quests/black-ops-4/dead-of-the-night/savage-impaler/"
+            ],
+            "tip": "The specific coffin entrance wording and retained locator image come from the previously published supplement. This review did not request the external work or inspect new pixels."
+          },
+          {
+            "title": "Gather all players, claim and survive",
+            "body": "Have every player descend into the crypt. The source says all must be present to unlock the Savage Impaler. One player takes the quest weapon, then the team survives the large assault until the bunker reopens. Other players are reported to obtain copies through the Mystery Box after that first claim.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "tip": "The original hunt also contains a teammate Box-access failure report. Current odds, between-match persistence, co-op ownership and an additional upgrade route are not established.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/a59pmc/dead_of_the_night_easter_egg_hunt_general_map/"
+            ]
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "r/CODZombies — Dead of the Night map article",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/"
+          },
+          {
+            "title": "Original 2018 hunt and named firsthand participants",
+            "url": "https://www.reddit.com/r/CODZombies/comments/a59pmc/dead_of_the_night_easter_egg_hunt_general_map/"
+          },
+          {
+            "title": "COD:ZG creator guide — Savage Impaler ghost candidates",
+            "url": "https://www.codzombiesguides.com/side-quests/black-ops-4/dead-of-the-night/savage-impaler/"
+          },
+          {
+            "title": "FreeMetal — firsthand Dead of the Night guide, Savage Impaler section",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2255706435"
+          },
+          {
+            "title": "BigDong1142 — reported BO4 quest mode restrictions",
+            "url": "https://www.reddit.com/r/CODZombies/comments/s9pfm0/help_i_cant_do_any_easter_egg_on_bo4/"
+          },
+          {
+            "title": "BO4 players — Custom Mutations restrictions and side-quest exceptions",
+            "url": "https://www.reddit.com/r/CODZombies/comments/135fr65/black_ops_4/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "supplementNote": "Previously published COD:ZG locator photographs and three locator/completion supplements are retained with their attribution. The shield-gun detail and conflicting vampire totals are attributed to the original Reddit hunt participants.",
+        "relatedGuideIds": [
+          "bo4-dead-of-the-night-community-dead-of-the-night-map-features-pack-a-punch",
+          "bo4-dead-of-the-night-community-dead-of-the-night-map-features-ballistic-shield",
+          "bo4-dead-of-the-night-weapon-name-reference"
+        ]
+      }
+    }
   },
   "shattered-veil-main-quest-main-quest": {
     "steps": [
@@ -69613,6 +69834,1290 @@
         "relatedGuideIds": [
           "bo4-classified-firearms",
           "bo4-classified-community-classified-map-features-pack-a-punch"
+        ]
+      }
+    }
+  },
+  "dead-of-the-night-map-features-traps": {
+    "mapOverrides": {
+      "bo4-dead-of-the-night": {
+        "title": "Electric and Fire Gate traps: cores, sites and costs",
+        "category": "side",
+        "difficulty": "Standard setup / reference",
+        "players": "Solo / co-op",
+        "summary": "Find the two trap types and reserve a Fire Energy Core for the Knight quest.",
+        "requirements": [
+          "Black Ops 4 — Dead of the Night.",
+          "Open the required areas and check current purchase prompts."
+        ],
+        "reward": "Reported 1,500-point trap activations and three placeable Fire Energy Cores.",
+        "steps": [
+          {
+            "title": "Use the Greenhouse electric trap",
+            "body": "The map article lists the Electric Trap at the Greenhouse for 1,500 points. It electrocutes zombies. The Telescope branch uses this trap to electrify each player’s drawn shield before a coordinated telescope bash.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "tip": "Current damage, durations, cooldowns and player-protection rules are not established by this written listing."
+          },
+          {
+            "title": "Install a core before using a Fire Gate",
+            "body": "The Fire Trap is listed at the Library, Greenhouse, Mausoleum and Entrance Hall, at 1,500 points. Each Fire Gate must receive a Fire Energy Core before it can be activated. There are three cores per game, usable at three of those four locations.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "tip": "The Knight route uses a blue-fire shield run. Reserve a core for a convenient gate before committing all three elsewhere; the source recommends the Library gate."
+          },
+          {
+            "title": "Search the outside core candidates",
+            "body": "The source’s fifteen photographed core candidates include Cemetery Path; two Cemetery positions; two Gardens positions; two Greenhouse Laboratory positions; and two Mausoleum positions.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "tip": "Repeated room names represent distinct pictured positions. Their exact surfaces are not transcribed in the text; no extra or guaranteed core spawn is inferred."
+          },
+          {
+            "title": "Search the mansion core candidates",
+            "body": "The remaining listed candidates are Music Room, Smoking Room, Main Hall, Wine Cellar, Trophy Room and Dining Room. Collect a found core and use it at the desired Fire Gate.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "tip": "The original photo labels are area names only. Complete physical core locators, placement prompts, and any relocation behavior still need direct images or testing."
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "r/CODZombies — Dead of the Night map article",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "bo4-dead-of-the-night-community-dead-of-the-night-easter-eggs-quests-main-quest",
+          "bo4-dead-of-the-night-community-dead-of-the-night-map-features-ballistic-shield"
+        ]
+      }
+    }
+  },
+  "dead-of-the-night-map-features-pack-a-punch": {
+    "mapOverrides": {
+      "bo4-dead-of-the-night": {
+        "title": "Open Pack-a-Punch: three crystals and tuning forks",
+        "category": "weapon",
+        "difficulty": "Standard setup / reference",
+        "players": "Solo / co-op",
+        "summary": "Identify each crystal vision, finish its task and open the Forest.",
+        "requirements": [
+          "Black Ops 4 — Dead of the Night.",
+          "Activate the Sentinel Artifact.",
+          "Use the live crystal image to choose the matching task."
+        ],
+        "reward": "The Forest and Pack-a-Punch; opening the gate also spawns a Werewolf.",
+        "steps": [
+          {
+            "title": "Activate the Artifact before searching",
+            "body": "Interact with the Sentinel Artifact at the Grand Staircase / North Atrium Bridge. Then find one smoking vase for each of the purple, blue and green crystals.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/a59pmc/dead_of_the_night_easter_egg_hunt_general_map/"
+            ]
+          },
+          {
+            "title": "Purple vase: check three upstairs rooms",
+            "body": "Look for colored smoke at the Trophy Room table in front of its fireplace; the chest at the foot of the Master Bedroom bed; or the Bedroom Hallway table in front of the couch. Melee the active vase to expose its crystal.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/a59pmc/dead_of_the_night_easter_egg_hunt_general_map/",
+            "tip": "The original hunt associates these three areas with the purple crystal; this is a candidate list, not three purple vases in one match."
+          },
+          {
+            "title": "Blue vase: Study or Library",
+            "body": "Check the Study table between two chairs, the Library table with the gramophone, and the Library desk near the stone statue. Melee the smoking vase to expose the blue crystal.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/a59pmc/dead_of_the_night_easter_egg_hunt_general_map/"
+            ]
+          },
+          {
+            "title": "Green vase: two Wine Cellar candidates",
+            "body": "Check the small Wine Cellar table with a candle and the small crate to the right of the possible perk statue position. Melee the smoking vase to expose the green crystal.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/a59pmc/dead_of_the_night_easter_egg_hunt_general_map/"
+            ]
+          },
+          {
+            "title": "Charge and gaze into each crystal",
+            "body": "Kill four zombies close to a crystal, then interact to gaze into it. Record the object or perk statue shown. Complete that object’s task, collect its Tuning Fork, and repeat for the other two crystals.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "tip": "The vision determines the task; the candidate locations below are not a fixed sequence."
+          },
+          {
+            "title": "Clock vision: hold the ticking-clock circle",
+            "body": "Check the grandfather clocks in Billiards Room, Dining Room and Main Hall. Activate the ticking clock matching the vision. Stand within its circle until the event finishes, then collect the Tuning Fork from that clock.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "tip": "The main setup text says one minute; the achievement notes give 30–60 seconds. Use completion and the fork rather than leaving at an assumed timer. Current co-op occupancy and failure/retry rules are not established."
+          },
+          {
+            "title": "Perk vision: clear its vampire attack",
+            "body": "Visit the perk statue shown in the vision. Listed candidate areas are Mausoleum, Forest Terrace, Wine Cellar, Gardens and Entrance Hall. Kill the attacking vampires until the Tuning Fork drops, then collect it.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "tip": "The early hunt says bats; the later map article says vampires. Exact enemy count, physical statue matching and current behavior are not independently tested.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/a59pmc/dead_of_the_night_easter_egg_hunt_general_map/"
+            ]
+          },
+          {
+            "title": "Burned doll — Entrance Hall",
+            "body": "If this is your vision, interact with the burned doll in the back-left corner of the Entrance Hall. Follow the revealed ghost closely through the mansion to its destination and collect the Tuning Fork it reveals.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/a59pmc/dead_of_the_night_easter_egg_hunt_general_map/",
+            "tip": "Use the object shown in your match. Exact escort distance, all destination variants and recovery after losing the ghost remain unmeasured.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/a59pmc/dead_of_the_night_easter_egg_hunt_general_map/"
+            ]
+          },
+          {
+            "title": "Will and Testament — Study",
+            "body": "If this is your vision, interact with Alistair’s Will & Testament on the Study shelf in its red box/chest. Follow the revealed ghost closely through the mansion to its destination and collect the Tuning Fork it reveals.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "tip": "Use the object shown in your match. Exact escort distance, all destination variants and recovery after losing the ghost remain unmeasured.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/a59pmc/dead_of_the_night_easter_egg_hunt_general_map/"
+            ]
+          },
+          {
+            "title": "Noose — Wine Cellar",
+            "body": "If this is your vision, interact with the noose on a chair in the Wine Cellar. Follow the revealed ghost closely through the mansion to its destination and collect the Tuning Fork it reveals.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "tip": "Use the object shown in your match. Exact escort distance, all destination variants and recovery after losing the ghost remain unmeasured.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/a59pmc/dead_of_the_night_easter_egg_hunt_general_map/"
+            ]
+          },
+          {
+            "title": "Scared woman — East Gallery",
+            "body": "If this is your vision, interact with the scared-woman painting in the East Gallery. Follow the revealed ghost closely through the mansion to its destination and collect the Tuning Fork it reveals.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "tip": "Use the object shown in your match. Exact escort distance, all destination variants and recovery after losing the ghost remain unmeasured.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/a59pmc/dead_of_the_night_easter_egg_hunt_general_map/"
+            ]
+          },
+          {
+            "title": "Woman and older man — Smoking Room",
+            "body": "If this is your vision, interact with the painting of a woman with an elderly man in the Smoking Room. Follow the revealed ghost closely through the mansion to its destination and collect the Tuning Fork it reveals.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "tip": "Use the object shown in your match. Exact escort distance, all destination variants and recovery after losing the ghost remain unmeasured.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/a59pmc/dead_of_the_night_easter_egg_hunt_general_map/"
+            ]
+          },
+          {
+            "title": "Scratched woman — Music Room",
+            "body": "If this is your vision, interact with the scratched-woman painting in the Music Room. Follow the revealed ghost closely through the mansion to its destination and collect the Tuning Fork it reveals.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "tip": "Use the object shown in your match. Exact escort distance, all destination variants and recovery after losing the ghost remain unmeasured.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/a59pmc/dead_of_the_night_easter_egg_hunt_general_map/"
+            ]
+          },
+          {
+            "title": "Sad woman — Tea Room",
+            "body": "If this is your vision, interact with the sad-woman / maiden painting in the Tea Room. Follow the revealed ghost closely through the mansion to its destination and collect the Tuning Fork it reveals.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "tip": "Use the object shown in your match. Exact escort distance, all destination variants and recovery after losing the ghost remain unmeasured.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/a59pmc/dead_of_the_night_easter_egg_hunt_general_map/"
+            ]
+          },
+          {
+            "title": "Use all three forks at the Forest gate",
+            "body": "After collecting all three Tuning Forks, go to the Forest Terrace and interact with the blocked debris at the gate. The Forest opens and a Werewolf appears. Continue to the far end of the Forest to find Pack-a-Punch.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "tip": "Prepare to fight or evade the Werewolf. The written article does not establish current machine prices, repeat-upgrade tiers, ammo-effect rules or every weapon exception."
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "r/CODZombies — Dead of the Night map article",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/"
+          },
+          {
+            "title": "Original 2018 hunt and named firsthand participants",
+            "url": "https://www.reddit.com/r/CODZombies/comments/a59pmc/dead_of_the_night_easter_egg_hunt_general_map/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "bo4-dead-of-the-night-setup-and-modes",
+          "bo4-dead-of-the-night-community-dead-of-the-night-map-features-silver-bullets",
+          "bo4-dead-of-the-night-community-dead-of-the-night-map-features-ballistic-shield",
+          "bo4-dead-of-the-night-community-dead-of-the-night-map-features-alistair-s-folly",
+          "bo4-dead-of-the-night-weapon-name-reference"
+        ]
+      }
+    }
+  },
+  "dead-of-the-night-map-features-mystery-box-locations": {
+    "mapOverrides": {
+      "bo4-dead-of-the-night": {
+        "title": "Six reported Mystery Box areas",
+        "category": "side",
+        "difficulty": "Standard setup / reference",
+        "players": "Solo / co-op",
+        "summary": "Check the current active Box among six historical map locations.",
+        "requirements": [
+          "Black Ops 4 — Dead of the Night."
+        ],
+        "reward": "A map-specific Box location reference.",
+        "steps": [
+          {
+            "title": "Check the six listed Box areas",
+            "body": "The map article lists Cemetery, Library, Gardens, Dining Room, Grand Staircase and Forest. Reach the active Box and inspect its current purchase prompt before paying.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "tip": "The list does not establish the starting Box, precise stand surfaces, movement rule, current odds, price or a complete final-build pool."
+          },
+          {
+            "title": "Follow the special weapon’s own route",
+            "body": "Alistair’s Folly can be a Box reward or the Library case quest reward. The Savage Impaler article says that claiming its crypt reward adds it to the Box for other players. The weapon reference preserves the historical item rows separately.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "tip": "The original hunt includes a player report that teammates could not roll the Impaler after the quest. Its current unlock persistence and odds remain unverified.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/a59pmc/dead_of_the_night_easter_egg_hunt_general_map/"
+            ]
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "r/CODZombies — Dead of the Night map article",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/"
+          },
+          {
+            "title": "Original 2018 hunt and named firsthand participants",
+            "url": "https://www.reddit.com/r/CODZombies/comments/a59pmc/dead_of_the_night_easter_egg_hunt_general_map/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "bo4-dead-of-the-night-community-dead-of-the-night-map-features-alistair-s-folly",
+          "bo4-dead-of-the-night-community-dead-of-the-night-easter-eggs-quests-savage-impaler",
+          "bo4-dead-of-the-night-weapon-name-reference"
+        ]
+      }
+    }
+  },
+  "dead-of-the-night-map-features-fast-travel": {
+    "mapOverrides": {
+      "bo4-dead-of-the-night": {
+        "title": "Fast Travel: three returns to the Main Hall",
+        "category": "side",
+        "difficulty": "Standard setup / reference",
+        "players": "Solo / co-op",
+        "summary": "Use the Greenhouse, Mausoleum or Forest return portal.",
+        "requirements": [
+          "Black Ops 4 — Dead of the Night.",
+          "Reach the relevant outdoor destination."
+        ],
+        "reward": "Three historically listed 500-point return routes.",
+        "steps": [
+          {
+            "title": "Greenhouse Laboratory → Main Hall",
+            "body": "Use the Fast Travel portal in Greenhouse Laboratory to return to the Main Hall. The source lists a 500-point cost for this route.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "tip": "Check the active prompt. Exact portal landmarks, unlocking controls, cooldowns, arrival placement and any reverse routes are not supplied by the table."
+          },
+          {
+            "title": "Mausoleum → Main Hall",
+            "body": "Use the Fast Travel portal in Mausoleum to return to the Main Hall. The source lists a 500-point cost for this route.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "tip": "Check the active prompt. Exact portal landmarks, unlocking controls, cooldowns, arrival placement and any reverse routes are not supplied by the table."
+          },
+          {
+            "title": "Forest → Main Hall",
+            "body": "Use the Fast Travel portal in Forest to return to the Main Hall. The source lists a 500-point cost for this route.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "tip": "Check the active prompt. Exact portal landmarks, unlocking controls, cooldowns, arrival placement and any reverse routes are not supplied by the table."
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "r/CODZombies — Dead of the Night map article",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "bo4-dead-of-the-night-community-dead-of-the-night-easter-eggs-quests-main-quest",
+          "bo4-dead-of-the-night-community-dead-of-the-night-map-features-pack-a-punch"
+        ]
+      }
+    }
+  },
+  "dead-of-the-night-map-features-silver-bullets": {
+    "mapOverrides": {
+      "bo4-dead-of-the-night": {
+        "title": "Silver Bullets: six parts, two benches and ammo refills",
+        "category": "weapon",
+        "difficulty": "Standard setup / reference",
+        "players": "Solo / co-op",
+        "summary": "Collect the silver and gunpowder ingredients, melt the metal and equip silver ammunition.",
+        "requirements": [
+          "Black Ops 4 — Dead of the Night.",
+          "Open the mansion, Cemetery and Greenhouse routes."
+        ],
+        "reward": "Silver Bullets for eligible non-Wonder-Weapon guns, useful against Werewolves and required by the Telescope branch.",
+        "steps": [
+          {
+            "title": "Find the Candle Holder",
+            "body": "Collect this ingredient from one of its three reported candidates: Entrance Hall round table; floor beside the Billiards Room fireplace; or Main Hall near the Mozu wall buy and clock.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/"
+          },
+          {
+            "title": "Find the Trophy",
+            "body": "Collect this ingredient from one of its three reported candidates: Dining Room red table opposite the clock; ground beside the West Hallway sofa; or the corner of the large Dining Room table.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/"
+          },
+          {
+            "title": "Find the Plate",
+            "body": "Collect this ingredient from one of its three reported candidates: Wine Cellar wall near a smoking-vase candidate; shelf opposite the workbench; or large wooden table beside the noose.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/"
+          },
+          {
+            "title": "Find the Guano",
+            "body": "Collect this ingredient from one of its three reported candidates: Behind a tree on the right side of the Mausoleum; near the bottom of the left stairs leading to the Mausoleum; or the path’s right corner after turning left near those stairs.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/"
+          },
+          {
+            "title": "Find the Charcoal",
+            "body": "Collect this ingredient from one of its three reported candidates: Fireplace in Billiards Room, Master Bedroom or Main Hall.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/"
+          },
+          {
+            "title": "Find the Sulfur",
+            "body": "Collect this ingredient from one of its three reported candidates: Left of the Greenhouse Laboratory entrance; right of that entrance; or the back-left Laboratory table.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "tip": "The original hunt calls the table upper-left; the later article calls it back-left. The exact table facing still needs a locator photo."
+          },
+          {
+            "title": "Melt the three silver objects in the Wine Cellar",
+            "body": "Bring the Candle Holder, Trophy and Plate to the Wine Cellar buildable table. Interact to melt them into silver. Keep the Guano, Charcoal and Sulfur for the ammunition recipe.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "tip": "The two benches perform different stages; carrying the parts alone does not equip Silver Bullets."
+          },
+          {
+            "title": "Craft and equip at the Library bench",
+            "body": "Go to the Library buildable table and craft/obtain Silver Bullets after the melt stage and gunpowder collection. Apply them to the eligible ordinary gun you intend to use. The map article excludes Wonder Weapons from this ammunition recipe.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "tip": "Exact purchase prices, every eligible DLC weapon, down/loss behavior and switching between packed tiers are not fully listed."
+          },
+          {
+            "title": "Buy more for the held eligible weapon",
+            "body": "Return to the silver-bullet table in the Library with the desired silver-equipped gun in hand to buy another refill. ps4yetsir describes this map-specific exception for Box weapons, and MrJzM reports repeatedly using the table and confirms that the refill serves the held weapon.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/fddstc/bo4_zombies_can_you_buy_ammo_for_pap_weapons_or/",
+            "tip": "This is a paid refill route while you have points, separate from the later invisible-ghost quest’s reported infinite reserve reward. Check the live price; a universal fixed ammo cost is not supplied.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/gjfl5e/dead_of_the_night_is_a_joke/"
+            ]
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "r/CODZombies — Dead of the Night map article",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/"
+          },
+          {
+            "title": "ps4yetsir — Dead of the Night silver-bullet ammunition purchase",
+            "url": "https://www.reddit.com/r/CODZombies/comments/fddstc/bo4_zombies_can_you_buy_ammo_for_pap_weapons_or/"
+          },
+          {
+            "title": "MrJzM — firsthand repeated silver-bullet table refills",
+            "url": "https://www.reddit.com/r/CODZombies/comments/gjfl5e/dead_of_the_night_is_a_joke/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "bo4-dead-of-the-night-community-dead-of-the-night-easter-eggs-quests-main-quest",
+          "bo4-dead-of-the-night-chaos-theory",
+          "bo4-dead-of-the-night-weapon-name-reference",
+          "bo4-dead-of-the-night-six-perks-infinite-reserve"
+        ]
+      }
+    }
+  },
+  "dead-of-the-night-map-features-alistair-s-folly": {
+    "mapOverrides": {
+      "bo4-dead-of-the-night": {
+        "title": "Alistair’s Folly: four colored symbols and the Library case",
+        "category": "weapon",
+        "difficulty": "Standard setup / reference",
+        "players": "Solo / co-op",
+        "summary": "Record one live symbol of each color and enter the case combination.",
+        "requirements": [
+          "Black Ops 4 — Dead of the Night.",
+          "For these quest routes use an online Standard match on Normal or higher, without Custom Mutations. General BO4 player reports support this scope; individual Casual, offline and Gauntlet exceptions are not fully audited.",
+          "Open the four candidate regions."
+        ],
+        "reward": "Alistair’s Folly; its two upgrade routes have separate linked walkthroughs.",
+        "steps": [
+          {
+            "title": "Record the blue symbol",
+            "body": "Find the live blue symbol at one of these four candidates: Cemetery gravestone behind the tree near the Stake workbench; gravestone to the right of the Mausoleum stairs; top of a crypt on the right of the Mausoleum; or base of the lion statue. Record its shape with its color.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "tip": "Read the current match’s symbol instead of treating a source example as a universal code. Exact glyph shapes require the original game view."
+          },
+          {
+            "title": "Record the green symbol",
+            "body": "Find the live green symbol at one of these four candidates: Outside the gate left of the Greenhouse Laboratory entrance; inside the Gardens gazebo; outside the gate right of the Gardens perk statue; or outside the gate left of that statue. Record its shape with its color.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "tip": "Read the current match’s symbol instead of treating a source example as a universal code. Exact glyph shapes require the original game view."
+          },
+          {
+            "title": "Record the yellow symbol",
+            "body": "Find the live yellow symbol at one of these four candidates: Forest Terrace wall left of the Bowie Knife; outside the gate left of the GKS; behind the gate right of the Bowie Knife; or right of the window to the right of the GKS. Record its shape with its color.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "tip": "Read the current match’s symbol instead of treating a source example as a universal code. Exact glyph shapes require the original game view."
+          },
+          {
+            "title": "Record the red symbol",
+            "body": "Find the live red symbol at one of these four candidates: Right of the Master Bedroom fireplace; East Gallery above the table between two chairs; bottom of a barrel outside a Wine Cellar barrier; or Dining Room above the painting behind the bar. Record its shape with its color.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "tip": "Read the current match’s symbol instead of treating a source example as a universal code. Exact glyph shapes require the original game view."
+          },
+          {
+            "title": "Match the Library case to your four symbols",
+            "body": "At the Library gun case, rotate each colored lock until it matches the symbol recorded for that color. Complete the combination and collect Alistair’s Folly. The article also lists the Folly as obtainable from the Mystery Box.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "tip": "The source does not establish case ownership, co-op claim rules or a guaranteed repeated free copy."
+          },
+          {
+            "title": "Continue through Chaos Theory, then Annihilator",
+            "body": "The first upgrade combines processed Werewolf Chaos Materia with the hidden Library part. The second upgrade adds bat, Nosferatu and mushroom-mound parts. Use the separate Chaos Theory and Alistair’s Annihilator guides for the full sequence.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "tip": "The Knight and Effigy main-quest branches require the final Annihilator form, rather than merely the base Folly."
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "r/CODZombies — Dead of the Night map article",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/"
+          },
+          {
+            "title": "BigDong1142 — reported BO4 quest mode restrictions",
+            "url": "https://www.reddit.com/r/CODZombies/comments/s9pfm0/help_i_cant_do_any_easter_egg_on_bo4/"
+          },
+          {
+            "title": "BO4 players — Custom Mutations restrictions and side-quest exceptions",
+            "url": "https://www.reddit.com/r/CODZombies/comments/135fr65/black_ops_4/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "bo4-dead-of-the-night-chaos-theory",
+          "bo4-dead-of-the-night-alistairs-annihilator",
+          "bo4-dead-of-the-night-community-dead-of-the-night-map-features-ballistic-shield",
+          "bo4-dead-of-the-night-community-dead-of-the-night-map-features-silver-bullets",
+          "bo4-dead-of-the-night-community-dead-of-the-night-easter-eggs-quests-main-quest"
+        ]
+      }
+    }
+  },
+  "dead-of-the-night-map-features-ballistic-shield": {
+    "mapOverrides": {
+      "bo4-dead-of-the-night": {
+        "title": "Ballistic Shield: nine part candidates and the Smoking Room bench",
+        "category": "weapon",
+        "difficulty": "Standard setup / reference",
+        "players": "Solo / co-op",
+        "summary": "Collect one part from each three-position group and build the shield.",
+        "requirements": [
+          "Black Ops 4 — Dead of the Night.",
+          "Open the East/West Balcony, Library/Study and Dining Room routes."
+        ],
+        "reward": "Ballistic Shield for protection, its firearm and several quest interactions.",
+        "steps": [
+          {
+            "title": "Part group one: the balconies and Grand Staircase",
+            "body": "Check left of the Saug wall buy on East Balcony, against a pillar at the Grand Staircase, and against the stained glass on West Balcony. Collect the part present in this group.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/"
+          },
+          {
+            "title": "Part group two: Study and Library",
+            "body": "Check the top of the Study table, the Library couch, and the broken Library shelf. Collect the part present in this group.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/"
+          },
+          {
+            "title": "Part group three: East Hallway and Dining Room",
+            "body": "Check the chair in East Hallway; Dining Room floor right of the Swordfish wall buy; and the Dining Room shelf left of the stairs. Collect the part present in this group.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/"
+          },
+          {
+            "title": "Build at the Smoking Room table",
+            "body": "Take the three collected parts to the Smoking Room buildable table and interact to construct the Ballistic Shield.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/"
+          },
+          {
+            "title": "Keep its quest functions available",
+            "body": "The shield opens the hidden Chaos Theory compartment, locks the telescope crank, carries electric and blue-fire charges, and bashes the Stake tree. For the Savage Impaler’s last possessed enemy, firsthand reports specifically use the shield’s gun.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "tip": "Exact firearm inputs, ammunition purchases, durability/repair prices and replacement behavior are not supplied by these sources.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/a59pmc/dead_of_the_night_easter_egg_hunt_general_map/"
+            ]
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "r/CODZombies — Dead of the Night map article",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/"
+          },
+          {
+            "title": "Original 2018 hunt and named firsthand participants",
+            "url": "https://www.reddit.com/r/CODZombies/comments/a59pmc/dead_of_the_night_easter_egg_hunt_general_map/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "bo4-dead-of-the-night-community-dead-of-the-night-easter-eggs-quests-main-quest",
+          "bo4-dead-of-the-night-chaos-theory",
+          "bo4-dead-of-the-night-community-dead-of-the-night-easter-eggs-quests-stake-knife",
+          "bo4-dead-of-the-night-community-dead-of-the-night-easter-eggs-quests-savage-impaler"
+        ]
+      }
+    }
+  },
+  "dead-of-the-night-game-features-perk-locations": {
+    "mapOverrides": {
+      "bo4-dead-of-the-night": {
+        "title": "Perk statues: Danu and the Main Hall animal signs",
+        "category": "side",
+        "difficulty": "Standard setup / reference",
+        "players": "Solo / co-op",
+        "summary": "Find the four altar identities and use the plaques to choose a route.",
+        "requirements": [
+          "Black Ops 4 — Dead of the Night."
+        ],
+        "reward": "A location reference for your selected perk loadout.",
+        "steps": [
+          {
+            "title": "Danu stays in the Entrance Hall",
+            "body": "The source always places Danu in the Entrance Hall. Check its active purchase prompt for the perk selected in your loadout.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/"
+          },
+          {
+            "title": "Search the changing outdoor and cellar sites",
+            "body": "Ra, Odin and Zeus move between Mausoleum, Gardens, and the Forest Terrace or Wine Cellar position across matches. Match each altar’s identity in the live game rather than assigning a fixed perk to a room.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/"
+          },
+          {
+            "title": "Read the Main Hall doorway plaques",
+            "body": "The original hunt identifies a cobra for Ra, a wolf for Odin and a bird for Zeus above the relevant Main Hall doorways. Follow that animal sign toward the altar you need.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/a59pmc/dead_of_the_night_easter_egg_hunt_general_map/",
+            "tip": "The text does not establish the exact plaque surface for every view, current prices, the complete selectable-perk list, modifier-slot behavior or down/loss exceptions."
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "r/CODZombies — Dead of the Night map article",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/"
+          },
+          {
+            "title": "Original 2018 hunt and named firsthand participants",
+            "url": "https://www.reddit.com/r/CODZombies/comments/a59pmc/dead_of_the_night_easter_egg_hunt_general_map/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "bo4-dead-of-the-night-setup-and-modes",
+          "bo4-dead-of-the-night-community-dead-of-the-night-map-features-pack-a-punch",
+          "bo4-dead-of-the-night-six-perks-infinite-reserve"
+        ]
+      }
+    }
+  },
+  "dead-of-the-night-easter-eggs-quests-main-quest": {
+    "mapOverrides": {
+      "bo4-dead-of-the-night": {
+        "title": "Main quest: Telescope, Knight, Effigy and Werewolf",
+        "category": "main",
+        "difficulty": "Standard quest — Normal or higher",
+        "players": "Solo / co-op",
+        "summary": "Complete the three crystal branches and the Forest boss with full room-by-room clue lists.",
+        "requirements": [
+          "Black Ops 4 — Dead of the Night.",
+          "For these quest routes use an online Standard match on Normal or higher, without Custom Mutations. General BO4 player reports support this scope; individual Casual, offline and Gauntlet exceptions are not fully audited.",
+          "Pack-a-Punch, Silver Bullets, Ballistic Shield and Alistair’s Annihilator.",
+          "All players coordinate the rod shot, telescope strike and slab activations."
+        ],
+        "reward": "Three branch slabs, the Werewolf boss defeat and the ending.",
+        "steps": [
+          {
+            "title": "Choose the match and prepare the tools",
+            "body": "Use the online Standard quest scope, open Pack-a-Punch, build the shield and Silver Bullets, and finish Alistair’s Annihilator before the Knight and Effigy stages. The article recommends either Scepter of Ra with Timeslip, Stamin-Up, Dying Wish and Victorious Tortoise; or Viper and Dragon with Quick Revive, Dying Wish, PhD Slider and Stamin-Up. Both listed examples use Strife and Wraith Fire.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "tip": "Those are optional historical loadout suggestions, not mandatory perk or weapon checks. Current difficulty, equipment ownership, bot behavior and recovery exceptions are not retail-tested.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/s9pfm0/help_i_cant_do_any_easter_egg_on_bo4/",
+              "https://www.reddit.com/r/CODZombies/comments/135fr65/black_ops_4/"
+            ]
+          },
+          {
+            "title": "Revisit all three charged crystals",
+            "body": "After opening the Forest / Pack-a-Punch, interact again with the three crystals used for the tuning forks. Their new visions are a knight, a circular object and twigs. These unlock the Knight, Telescope and Effigy branches. You can complete the branches in any order.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "tip": "Do not skip the second crystal interactions. A firsthand player who could not shoot branches identified the missing effigy vision as the cause.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/15ic0lu/dead_of_the_night_easter_egg_glitched/",
+              "https://www.reddit.com/r/CODZombies/comments/156xy08/need_help_with_dead_of_the_night_branches_step/"
+            ]
+          },
+          {
+            "title": "Telescope: shoot the Mausoleum rod together",
+            "body": "Have every player equip a gun with Silver Bullets and shoot the rod above the Mausoleum at the same time. On success the rod disappears and a beam reaches the crystal above Atlas’s head.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "tip": "The source does not quantify simultaneous-shot tolerance, ammunition needed or recovery after a failed attempt."
+          },
+          {
+            "title": "Telescope: align the Atlas rings",
+            "body": "At the three-wheel panel on North Atrium Bridge, turn the middle wheel until green aligns, then the left wheel until blue aligns, then the right wheel until red aligns. Repeat that order until the aligned beam destroys Atlas’s head and reaches the Greenhouse telescope.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "tip": "This is the later map article’s iterative recipe. It does not supply a fixed number of turns, the complete coupling matrix or an exact starting-position chart. Use the visible colored alignment and beam completion cue."
+          },
+          {
+            "title": "Telescope: record the three live zodiac signs",
+            "body": "Find the three zodiac symbols active in your match. For each, count the associated scratch marks in the same room and keep the symbol with its total. Check the room-specific candidates in the following chapters.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "tip": "The source describes three scratch groups and says an absent group contributes zero. Its Dining Room list contains four candidate descriptions, so do not count an overlapping surface twice. The exact physical distinctions and equal-total tie handling remain unresolved."
+          },
+          {
+            "title": "Zodiac search: Billiards Room",
+            "body": "Look for the zodiac under the chess table. Scratch candidates: 1) left of the bookcase; 2) above the cabinet nearest the Smoking Room; 3) under the table on the right when entering from the Smoking Room. Record the marks actually present with this room’s active symbol.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/"
+          },
+          {
+            "title": "Zodiac search: Entrance Hall",
+            "body": "Look for the zodiac under the table across the room, left of the perk machine. Scratch candidates: 1) on the shield right of the perk machine; 2) on the corner right of the portal; 3) above the painting on the left when entering. Record the marks actually present with this room’s active symbol.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/"
+          },
+          {
+            "title": "Zodiac search: Trophy Room",
+            "body": "Look for the zodiac at the far back-left, on the right side of the closet with the lamp. Scratch candidates: 1) left of the fireplace across from the symbol; 2) on the desk left of the bed; 3) through the left window after passing the fire trap. Record the marks actually present with this room’s active symbol.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/"
+          },
+          {
+            "title": "Zodiac search: Main Hall",
+            "body": "Look for the zodiac right of the stairs before going toward west spawn. Scratch candidates: 1) right of the stairs before the Sentinel Artifact; 2) right of the clock above the chimney; 3) high in the left corner when entering from the Forest. Record the marks actually present with this room’s active symbol.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/"
+          },
+          {
+            "title": "Zodiac search: Library",
+            "body": "Look for the zodiac in the broken cabinet left of the gun case. Scratch candidates: 1) upper-right corner of the first window left of the symbol; 2) on the box behind you while facing the symbol; 3) beside the dinosaur’s left foot. Record the marks actually present with this room’s active symbol.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/"
+          },
+          {
+            "title": "Zodiac search: Wine Cellar",
+            "body": "Look for the zodiac bottom row of the wine rack nearest the perk machine. Scratch candidates: 1) on the large barrel to the right after descending the stairs; 2) on the cabinet between the left stairs and perk machine; 3) on a barrel behind the buildable table. Record the marks actually present with this room’s active symbol.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/"
+          },
+          {
+            "title": "Zodiac search: Dining Room",
+            "body": "Look for the zodiac on the wall between the broken pillar and green sofa. Scratch candidates: 1) ceiling in front of the stairs; 2) corner of the dining table near the stairs; 3) wall behind the tables opposite the East Hallway entrance; 4) ceiling near the Main Hall entrance beside a painting. Record the marks actually present with this room’s active symbol.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "tip": "All four published candidate descriptions are retained. The source’s general three-group wording conflicts with this four-description room list; an original physical key is still needed to resolve any overlapping or alternate locations."
+          },
+          {
+            "title": "Telescope: order the totals and enter the signs",
+            "body": "Sort your three symbol/total pairs from the fewest scratches to the most. At the telescope’s rotating zodiac panel upstairs in the Greenhouse, enter those symbols in that order and confirm using melee. Correctly entered symbols remain visible.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "tip": "A wrong combination removes all three entered symbols and changes the symbols/scratches around the map. Re-read the live clues before retrying. Exact equal-total behavior and input tolerance are not established."
+          },
+          {
+            "title": "Telescope: open and lock the dome",
+            "body": "Draw the shield and hold the dome-crank interaction to open the roof section. When it is fully open, shield-melee the crank to lock it in that position.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/"
+          },
+          {
+            "title": "Telescope: electrify every shield and bash together",
+            "body": "Activate the Greenhouse electric trap. Every player draws the shield and runs it through the electricity, then goes upstairs. Shield-bash the telescope together. Success fires a beam upward and exposes the full moon.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "tip": "Prepare the open dome first. Current shield charge lifetime, hit synchronization and damage tolerance remain unmeasured."
+          },
+          {
+            "title": "Telescope: complete the slab lockdown",
+            "body": "Go downstairs to the stone slab beneath the telescope and have every player interact with it. Survive the locked-area assault of zombies, vampires and Werewolves. When the event ends, pick up the slab and take the Max Ammo.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "tip": "A firsthand hunt reply reports three Werewolves for a solo lockdown, but does not establish co-op scaling. Use the event end and slab pickup rather than treating an estimated timer or kill total as a guarantee.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/a59pmc/dead_of_the_night_easter_egg_hunt_general_map/"
+            ]
+          },
+          {
+            "title": "Knight: make a blue Fire Gate and charge the shield",
+            "body": "Use Alistair’s Annihilator and an installed Fire Energy Core; the article recommends the Library gate. Activate the Fire Gate, shoot its flames with a charged Annihilator shot until they turn blue, then draw the shield and pass through the blue fire.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/"
+          },
+          {
+            "title": "Knight fire run one: Smoking Room to Billiards",
+            "body": "With the burning shield, melee these fireplaces in this exact order: Smoking Room; Library right of the trap; Library left of the trap; Billiards Room. Collect the crystal from the final fireplace after the set succeeds.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "tip": "All four fireplace interactions belong to one ordered run. Exact charge lifetime and wrong-order reset behavior are not supplied."
+          },
+          {
+            "title": "Knight fire run two: the Main Hall and galleries",
+            "body": "Refresh the blue-fire shield charge for the next run. Melee Main Hall left; East Gallery; Main Hall right; West Gallery, in that order. Collect the crystal from the final fireplace.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/"
+          },
+          {
+            "title": "Knight fire run three: Trophy Room to Dining Room",
+            "body": "Complete the third blue-fire shield run in this order: Trophy Room; Master Bedroom; Music Room; Dining Room. Collect its final crystal.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "tip": "The original hunt contains an explicit correction placing Trophy Room before Master Bedroom. The later map article already uses that corrected order.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/a59pmc/dead_of_the_night_easter_egg_hunt_general_map/"
+            ]
+          },
+          {
+            "title": "Knight: escort the three colored crystals",
+            "body": "Interact with the knight figures in Main Hall, Greenhouse Terrace and Graveyard. Their crystals follow while you stay close. Lead each to the Forest ground symbol matching its color. With all three in position, three ghost knights appear.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "tip": "The exact knight figures, floor artwork and maximum escort distance require physical references. No invented color-to-symbol chart is supplied."
+          },
+          {
+            "title": "Knight: move the knights and kill inside the triangle",
+            "body": "Kill zombies near each ghost knight to move it toward Pack-a-Punch. When they form a triangle there, Werewolves start spawning. Kill a Werewolf inside that triangle to reveal the next stone slab.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/"
+          },
+          {
+            "title": "Knight: complete the second slab event",
+            "body": "Have all players interact with the revealed slab. Survive the enclosed zombie, vampire and Werewolf assault, then collect the slab and the Max Ammo when the challenge ends.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/"
+          },
+          {
+            "title": "Effigy: confirm its crystal and collect five branches",
+            "body": "After seeing the twigs/effigy vision, find the white birch trees shedding leaves in the Graveyard. Shoot each branch, then interact with the fallen branch to collect it. Collect five. TheMossyCastle reports one entrance candidate, two Cemetery candidates and two near the Mausoleum.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "tip": "Their firsthand reply says an ordinary bullet gun can shoot the branch itself, or Annihilator can be used on the trunk. Failed players are told to recheck the effigy crystal and already collected branches; no guaranteed glitch recovery is established.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/156xy08/need_help_with_dead_of_the_night_branches_step/",
+              "https://www.reddit.com/r/CODZombies/comments/15ic0lu/dead_of_the_night_easter_egg_glitched/",
+              "https://www.reddit.com/r/CODZombies/comments/a59pmc/dead_of_the_night_easter_egg_hunt_general_map/"
+            ]
+          },
+          {
+            "title": "Effigy: find the eligible 1912 grave and build",
+            "body": "When the five branches stand near the Cemetery center, find the character gravestone with 1912 as its death date. The player matching that grave activates it, enters spirit mode and approaches/interacts with the branch effigy to build it, as described by TheMossyCastle.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/156xy08/need_help_with_dead_of_the_night_branches_step/",
+            "tip": "Only one player is eligible in the map article’s account. The exact portrait/name reading and pyre interaction surface still need a photo. If no 1912 grave appears after the prerequisites, the read reports do not establish a reliable reset.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+              "https://www.reddit.com/r/CODZombies/comments/a59pmc/dead_of_the_night_easter_egg_hunt_general_map/"
+            ]
+          },
+          {
+            "title": "Effigy: ignite it and enter afterlife",
+            "body": "Shoot the ground in front of the built effigy with Alistair’s Annihilator’s fireball charged effect. While it burns, the spirit-mode player interacts with the effigy. That player is pulled onto it and falls through a red corridor into afterlife mode.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "tip": "Other players cannot see the afterlife player, but enemies can still attack them. Exact effect selection, timing and failed-interaction recovery are not established."
+          },
+          {
+            "title": "Effigy: find and escort the female ghost",
+            "body": "The afterlife player searches the mansion for the female ghost, including perk machines and spaces behind zombie barriers. Escort her back to the Graveyard effigy. A large flame column marks arrival and the slab appears.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "tip": "The primary text does not enumerate every ghost start or define the exact escort radius. Search the room edges instead of assuming one fixed spawn."
+          },
+          {
+            "title": "Effigy: complete the third slab event",
+            "body": "Have every player activate the slab. Survive the locked-area assault, then collect this final branch slab and its Max Ammo.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/"
+          },
+          {
+            "title": "Prepare before entering the Forest boss door",
+            "body": "After finishing all three branches, go to the Forest door and interact to enter the boss fight. Bring the shield, silver-equipped ordinary weapons and Alistair’s Annihilator. The source suggests Hellion Salvo, MOG 12 or Spitfire with Wild Fire among its weapon choices.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "tip": "These are source suggestions, not guaranteed damage thresholds. The exact final-door team trigger and current co-op recovery are not fully documented."
+          },
+          {
+            "title": "Boss arena: watch the two replenishment corners",
+            "body": "The arena has Max Ammo and Carpenter pickups in two corners. The source says later phase pickups use those same positions and only spawn when the earlier pickup has been taken.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "tip": "Exact corner views, despawn behavior and co-op pickup timing remain unverified."
+          },
+          {
+            "title": "Boss phase one: aim all beams at the visible square",
+            "body": "Rotate the arena statues so their white beams point at the glowing green ground square. A correctly aligned beam turns green. Once the trap is ready, stand in the square to lure the invisible Werewolf boss into it. Damage the trapped, vulnerable boss until the next phase begins.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/"
+          },
+          {
+            "title": "Boss phase two: survive the mixed assault",
+            "body": "Survive zombies, Catalysts, vampires, Werewolves and Crimson Nosferatu. The boss returns when the holdout ends, and the next Max Ammo/Carpenter pair can appear at the shared pickup spots.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "tip": "The source does not give a fixed holdout timer, phase health, enemy count or universal safe position."
+          },
+          {
+            "title": "Boss phase three: find the hidden square with the beams",
+            "body": "The green square is now hidden until a statue beam finds it. Rotate the three statues until every relevant beam is green. Lure the boss into the revealed trap and damage it. Repeat the trap-and-damage cycle until the boss dies and the quest ending plays.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "tip": "No current damage, ammunition, revive or achievement-edge-case certification is claimed."
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "r/CODZombies — Dead of the Night map article",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/"
+          },
+          {
+            "title": "BigDong1142 — reported BO4 quest mode restrictions",
+            "url": "https://www.reddit.com/r/CODZombies/comments/s9pfm0/help_i_cant_do_any_easter_egg_on_bo4/"
+          },
+          {
+            "title": "BO4 players — Custom Mutations restrictions and side-quest exceptions",
+            "url": "https://www.reddit.com/r/CODZombies/comments/135fr65/black_ops_4/"
+          },
+          {
+            "title": "nigmusmaximus and bigoof13 — activate the effigy crystal first",
+            "url": "https://www.reddit.com/r/CODZombies/comments/15ic0lu/dead_of_the_night_easter_egg_glitched/"
+          },
+          {
+            "title": "TheMossyCastle — branch prerequisites and eligible effigy character",
+            "url": "https://www.reddit.com/r/CODZombies/comments/156xy08/need_help_with_dead_of_the_night_branches_step/"
+          },
+          {
+            "title": "Original 2018 hunt and named firsthand participants",
+            "url": "https://www.reddit.com/r/CODZombies/comments/a59pmc/dead_of_the_night_easter_egg_hunt_general_map/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "bo4-dead-of-the-night-setup-and-modes",
+          "bo4-dead-of-the-night-community-dead-of-the-night-map-features-pack-a-punch",
+          "bo4-dead-of-the-night-community-dead-of-the-night-map-features-ballistic-shield",
+          "bo4-dead-of-the-night-community-dead-of-the-night-map-features-silver-bullets",
+          "bo4-dead-of-the-night-alistairs-annihilator",
+          "bo4-dead-of-the-night-enemies-powerups-achievements"
+        ]
+      }
+    }
+  },
+  "dead-of-the-night-easter-eggs-quests-mystery-song": {
+    "mapOverrides": {
+      "bo4-dead-of-the-night": {
+        "title": "Mystery: shoot the four hidden coins",
+        "category": "music",
+        "difficulty": "Standard setup / reference",
+        "players": "Solo / co-op",
+        "summary": "Find the Main Hall, East Hallway, Wine Cellar and Library song targets.",
+        "requirements": [
+          "Black Ops 4 — Dead of the Night.",
+          "For these quest routes use an online Standard match on Normal or higher, without Custom Mutations. General BO4 player reports support this scope; individual Casual, offline and Gauntlet exceptions are not fully audited."
+        ],
+        "reward": "Mystery by Kevin Sherwood and Elena Siegman plays.",
+        "steps": [
+          {
+            "title": "Main Hall coin",
+            "body": "Shoot the coin on the underside of the table opposite the Mozu wall buy in the Main Hall.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/"
+          },
+          {
+            "title": "East Hallway coin",
+            "body": "Shoot the coin behind the right-hand door leading into the Dining Hall from East Hallway.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/"
+          },
+          {
+            "title": "Wine Cellar coin",
+            "body": "Shoot the coin inside the broken wooden barrel near the stairs in the Wine Cellar.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/"
+          },
+          {
+            "title": "Library coin",
+            "body": "From the Study, look down toward the Library Ra statue and shoot the coin on top of it.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "tip": "This target is a statue landmark, independent of where the live Ra perk altar spawned."
+          },
+          {
+            "title": "Confirm all four hits and listen",
+            "body": "Complete all four coin hits to start Mystery. The source gives these four locations without a required firing order.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "tip": "Exact hit feedback, replay, per-player credit and Casual/Custom Mutation behavior have not been independently tested. No lyrics are reproduced."
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "r/CODZombies — Dead of the Night map article",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/"
+          },
+          {
+            "title": "BigDong1142 — reported BO4 quest mode restrictions",
+            "url": "https://www.reddit.com/r/CODZombies/comments/s9pfm0/help_i_cant_do_any_easter_egg_on_bo4/"
+          },
+          {
+            "title": "BO4 players — Custom Mutations restrictions and side-quest exceptions",
+            "url": "https://www.reddit.com/r/CODZombies/comments/135fr65/black_ops_4/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "bo4-dead-of-the-night-recordings-ciphers-cast",
+          "bo4-dead-of-the-night-community-dead-of-the-night-easter-eggs-quests-hidden-rooms"
+        ]
+      }
+    }
+  },
+  "dead-of-the-night-easter-eggs-quests-hidden-rooms": {
+    "mapOverrides": {
+      "bo4-dead-of-the-night": {
+        "title": "Three secret reward rooms: pool, wine and seasonal books",
+        "category": "side",
+        "difficulty": "Standard setup / reference",
+        "players": "Solo / co-op",
+        "summary": "Pocket balls in order, compare dripping barrels and enter the four book symbols.",
+        "requirements": [
+          "Black Ops 4 — Dead of the Night.",
+          "For these quest routes use an online Standard match on Normal or higher, without Custom Mutations. General BO4 player reports support this scope; individual Casual, offline and Gauntlet exceptions are not fully audited.",
+          "Read each puzzle before making its first input."
+        ],
+        "reward": "Reported random weapon, elixir, non-despawning power-up or Silver Bullets.",
+        "steps": [
+          {
+            "title": "Treat each room as a one-attempt Standard puzzle",
+            "body": "The map article warns that a failed secret room cannot be opened again in that game. It lists random rewards including a weapon, elixir, Silver Bullets or a power-up that does not despawn.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "tip": "That is the source’s Standard warning. The existing Gauntlet checklist has separate Pool Party conditions and unverified retry behavior; no shared lockout is assumed."
+          },
+          {
+            "title": "Billiards: identify balls one through nine",
+            "body": "At the Billiards Room pool table, locate the numbered balls and plan one shot at a time. The written recipe requires pocketing numbers one through nine in ascending order.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/"
+          },
+          {
+            "title": "Billiards: pocket 1, 2, 3, 4, 5, 6, 7, 8, 9",
+            "body": "Shoot each numbered ball into any pocket in that order. After the ninth correct ball, the secret room opens. An incorrect order spawns a grenade.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "tip": "Exact ricochet behavior, accidental multi-ball input and recovery after a failed shot are not established."
+          },
+          {
+            "title": "Wine Cellar: compare the leaking barrels first",
+            "body": "Listen to and inspect the Wine Cellar barrels that are dripping. Rank the live dripping rates from fastest to slowest before hitting any of them.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/"
+          },
+          {
+            "title": "Wine Cellar: melee fastest to slowest",
+            "body": "Knife the leaking barrels in the observed fastest-to-slowest order. A successful sequence opens the Wine Cellar secret room.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "tip": "The source does not enumerate the number of leaking barrels, fixed positions, equal-rate handling or a safe retry. Do not use a remembered sequence from another match."
+          },
+          {
+            "title": "Balconies: locate the four special books",
+            "body": "Inspect the bookshelves on East Balcony and West Balcony for the four books with distinct seasonal symbols. Match their actual shapes before interacting.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "tip": "The primary map article links pictures labelled Spring, Summer, Autumn and Winter. A later solo author approximates the shapes as C, X, U and n; that is a rough mnemonic, not an inspected glyph key.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/16dxisf/dead_of_the_night_infinite_ammo_easter_egg/"
+            ]
+          },
+          {
+            "title": "Balconies: enter Spring, Summer, Autumn, Winter",
+            "body": "Interact with the four identified books in Spring, Summer, Autumn, Winter order to open the hidden bookshelf room.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "tip": "The exact physical book-to-symbol mapping still needs the original pictures. Do not guess shapes on a one-attempt route."
+          },
+          {
+            "title": "Inspect the opened room before leaving",
+            "body": "Collect or deliberately leave the revealed reward as appropriate. The later invisible-ghost reserve-ammo quest also needs the record player behind the opened bookshelf to be observed and recorded in its own observation order.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "tip": "A room reward alone does not complete that later quest; it has separate door, vase, candle and record-player sequences.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/16dxisf/dead_of_the_night_infinite_ammo_easter_egg/"
+            ]
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "r/CODZombies — Dead of the Night map article",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/"
+          },
+          {
+            "title": "pkcrossing89 — solo six-perk and reserve-ammo route; co-op replies",
+            "url": "https://www.reddit.com/r/CODZombies/comments/16dxisf/dead_of_the_night_infinite_ammo_easter_egg/"
+          },
+          {
+            "title": "BigDong1142 — reported BO4 quest mode restrictions",
+            "url": "https://www.reddit.com/r/CODZombies/comments/s9pfm0/help_i_cant_do_any_easter_egg_on_bo4/"
+          },
+          {
+            "title": "BO4 players — Custom Mutations restrictions and side-quest exceptions",
+            "url": "https://www.reddit.com/r/CODZombies/comments/135fr65/black_ops_4/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "bo4-dead-of-the-night-six-perks-infinite-reserve",
+          "bo4-dead-of-the-night-community-dead-of-the-night-map-features-silver-bullets",
+          "bo4-dead-of-the-night-weapon-name-reference"
+        ]
+      }
+    }
+  },
+  "dead-of-the-night-easter-eggs-quests-stake-knife": {
+    "mapOverrides": {
+      "bo4-dead-of-the-night": {
+        "title": "Stake Knife: ordered symbols, Bowie cuts and vampire souls",
+        "category": "weapon",
+        "difficulty": "Standard setup / reference",
+        "players": "Solo / co-op",
+        "summary": "Read the four Forest trees, enter the Garden stones and prepare the stake branch.",
+        "requirements": [
+          "Black Ops 4 — Dead of the Night.",
+          "For these quest routes use an online Standard match on Normal or higher, without Custom Mutations. General BO4 player reports support this scope; individual Casual, offline and Gauntlet exceptions are not fully audited.",
+          "Forest access, Bowie Knife and Ballistic Shield.",
+          "Read the live symbol sequence before the one-attempt Garden input."
+        ],
+        "reward": "Stake Knife, built at the Cemetery Path table.",
+        "steps": [
+          {
+            "title": "Read four trees from the lantern landmark",
+            "body": "On the left side of the Forest, find the lantern tree with a symbol above the lantern. Record the symbols in this order: tree behind-left; tree at the far back/middle; lantern tree; tree behind-right. The symbols vary between matches.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "tip": "The landmark-based order is the key, not an assumed fixed glyph sequence. Exact tree facing needs an original view."
+          },
+          {
+            "title": "Find the four matching Garden slabs",
+            "body": "Check the Gardens gazebo/window; the outside ledge left of the nearby wall buy / behind the vase left of Vapr-XKG; the back of the fountain right of the perk machine; and the handrail / crevice between the perk machine and metal gate.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "tip": "The older wiki and hunt use different camera descriptions for these candidates. Match the actual glyphs, not this list’s location order. Physical equivalence of every description remains unverified.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/a59pmc/dead_of_the_night_easter_egg_hunt_general_map/"
+            ]
+          },
+          {
+            "title": "Shoot the slabs in your recorded tree order",
+            "body": "Shoot the matching Garden symbols in behind-left, far-back, lantern, behind-right order. A successful sequence produces the character confirmation and sparkling final stone.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "tip": "The Standard guide warns that a wrong sequence cannot be reset without restarting the game. That warning is not certified as a Gauntlet retry rule."
+          },
+          {
+            "title": "Bowie-melee the separate four-sided tree",
+            "body": "Buy the Bowie Knife if needed; the historical weapon table lists 3,000 points at Forest Terrace. Find the separate tree left of / just past the lantern tree, with four symbols around its bark. Bowie-melee those symbols in the same recorded order. Correct hits leave scratches.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "tip": "This is a different tree from the four clue trees. Exact knife controls, eligible substitutes and failure recovery have not been fully checked."
+          },
+          {
+            "title": "Shield-bash and collect the branch",
+            "body": "After all four symbols are scratched, shield-bash the symbols on the tree. The source says this bash stage has no required order. Interact with the fallen branch to collect it.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/"
+          },
+          {
+            "title": "Charge the branch near the Mausoleum perk area",
+            "body": "Place the branch on the altar in front of the Mausoleum perk area. Kill vampires near it until it is charged and lit. The source estimates ten to fifteen vampire kills; pick up the ready branch with interact.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "tip": "Use the visible charged state rather than treating the estimate as an exact current solo/co-op quota."
+          },
+          {
+            "title": "Craft at the Cemetery Path table",
+            "body": "Take the charged branch to the Cemetery Path buildable table and craft the Stake Knife.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "tip": "The original hunt reports one-hit normal zombie kills through about round twenty-five and higher vampire effectiveness, without an exact vampire limit. Those historical damage claims are not a current statistics certificate.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/a59pmc/dead_of_the_night_easter_egg_hunt_general_map/"
+            ]
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "r/CODZombies — Dead of the Night map article",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/"
+          },
+          {
+            "title": "Original 2018 hunt and named firsthand participants",
+            "url": "https://www.reddit.com/r/CODZombies/comments/a59pmc/dead_of_the_night_easter_egg_hunt_general_map/"
+          },
+          {
+            "title": "BigDong1142 — reported BO4 quest mode restrictions",
+            "url": "https://www.reddit.com/r/CODZombies/comments/s9pfm0/help_i_cant_do_any_easter_egg_on_bo4/"
+          },
+          {
+            "title": "BO4 players — Custom Mutations restrictions and side-quest exceptions",
+            "url": "https://www.reddit.com/r/CODZombies/comments/135fr65/black_ops_4/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "bo4-dead-of-the-night-community-dead-of-the-night-map-features-pack-a-punch",
+          "bo4-dead-of-the-night-community-dead-of-the-night-map-features-ballistic-shield",
+          "bo4-dead-of-the-night-weapon-name-reference",
+          "bo4-dead-of-the-night-super-blood-wolf-moon-normal-30-rounds"
+        ]
+      }
+    }
+  },
+  "dead-of-the-night-easter-eggs-quests-jump-scare": {
+    "mapOverrides": {
+      "bo4-dead-of-the-night": {
+        "title": "Crystal jump scare",
+        "category": "side",
+        "difficulty": "Standard setup / reference",
+        "players": "Solo / co-op",
+        "summary": "Repeatedly gaze into a crystal to trigger the reported portrait scare.",
+        "requirements": [
+          "Black Ops 4 — Dead of the Night.",
+          "For these quest routes use an online Standard match on Normal or higher, without Custom Mutations. General BO4 player reports support this scope; individual Casual, offline and Gauntlet exceptions are not fully audited.",
+          "Expose a Pack-a-Punch crystal."
+        ],
+        "reward": "The reported zombified-woman jump scare.",
+        "steps": [
+          {
+            "title": "Repeatedly look into one crystal",
+            "body": "Interact with any of the crystals used by the Pack-a-Punch route several times in succession. The article says this eventually triggers the zombified-woman jump scare.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+            "tip": "No exact interaction count, cooldown, timing, account restriction or separate reward is established."
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "r/CODZombies — Dead of the Night map article",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/"
+          },
+          {
+            "title": "BigDong1142 — reported BO4 quest mode restrictions",
+            "url": "https://www.reddit.com/r/CODZombies/comments/s9pfm0/help_i_cant_do_any_easter_egg_on_bo4/"
+          },
+          {
+            "title": "BO4 players — Custom Mutations restrictions and side-quest exceptions",
+            "url": "https://www.reddit.com/r/CODZombies/comments/135fr65/black_ops_4/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "bo4-dead-of-the-night-community-dead-of-the-night-map-features-pack-a-punch",
+          "bo4-dead-of-the-night-six-perks-infinite-reserve"
         ]
       }
     }

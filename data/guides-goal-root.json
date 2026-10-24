@@ -13440,5 +13440,920 @@
         "height": 660
       }
     ]
+  },
+  {
+    "id": "bo4-dead-of-the-night-setup-and-modes",
+    "mapId": "bo4-dead-of-the-night",
+    "title": "Start the map: Sentinel Artifact and quest modes",
+    "category": "side",
+    "summary": "Activate the mansion and choose the correct Standard quest scope.",
+    "difficulty": "Standard setup / reference",
+    "players": "Solo / co-op",
+    "requirements": [
+      "Black Ops 4 — Dead of the Night."
+    ],
+    "reward": "Sentinel access and a clear distinction between Standard quest routes and the separate Gauntlet.",
+    "steps": [
+      {
+        "title": "Choose a quest-enabled match",
+        "body": "For the main quest and the side routes below, use an online Standard game on Normal or higher without Custom Mutations. BigDong1142 reports these BO4 restrictions; other players note that some small side interactions can remain available outside that scope.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/s9pfm0/help_i_cant_do_any_easter_egg_on_bo4/",
+        "tip": "This is a reported BO4 mode rule, not a current per-interaction code audit. Normal is the working scope here. The published Super Blood Wolf Moon checklist has its own conditions; its retries and rewards are not inferred from Standard rules.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/135fr65/black_ops_4/"
+        ]
+      },
+      {
+        "title": "Activate the Sentinel Artifact",
+        "body": "Reach the Grand Staircase / North Atrium Bridge and interact with the Sentinel Artifact. The map article locates it on the Grand Staircase; the original hunt describes crossing the North Atrium Bridge. Continue with the vase-and-tuning-fork route to open the Forest.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+        "tip": "A complete starting-door price map and exact approach photo remain useful. Activating the Artifact does not replace the three tuning-fork tasks.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/a59pmc/dead_of_the_night_easter_egg_hunt_general_map/"
+        ]
+      },
+      {
+        "title": "Prepare for the actions your route requires",
+        "body": "Build the Ballistic Shield and Silver Bullets. The main quest needs Alistair’s Annihilator for the Knight and Effigy branches, and every player participates in the stated simultaneous shots, shield strikes and slab activations. The Savage Impaler also requires all players in its crypt at the claim stage.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+        "tip": "Solo means one participant performs those actions. Bot cooperation, disconnect recovery, split-screen edge cases and every higher-difficulty difference have not been verified."
+      }
+    ],
+    "relatedGuideIds": [
+      "bo4-dead-of-the-night-community-dead-of-the-night-map-features-pack-a-punch",
+      "bo4-dead-of-the-night-community-dead-of-the-night-map-features-ballistic-shield",
+      "bo4-dead-of-the-night-community-dead-of-the-night-map-features-silver-bullets",
+      "bo4-dead-of-the-night-community-dead-of-the-night-easter-eggs-quests-main-quest"
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": null,
+    "sharedSource": false,
+    "sourceOmissions": [],
+    "sources": [
+      {
+        "title": "BigDong1142 — reported BO4 quest mode restrictions",
+        "url": "https://www.reddit.com/r/CODZombies/comments/s9pfm0/help_i_cant_do_any_easter_egg_on_bo4/"
+      },
+      {
+        "title": "BO4 players — Custom Mutations restrictions and side-quest exceptions",
+        "url": "https://www.reddit.com/r/CODZombies/comments/135fr65/black_ops_4/"
+      },
+      {
+        "title": "r/CODZombies — Dead of the Night map article",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/"
+      },
+      {
+        "title": "Original 2018 hunt and named firsthand participants",
+        "url": "https://www.reddit.com/r/CODZombies/comments/a59pmc/dead_of_the_night_easter_egg_hunt_general_map/"
+      }
+    ],
+    "images": [
+      {
+        "src": "./assets/dotn-starting-reference.svg",
+        "alt": "Sentinel Artifact",
+        "caption": "Original reference diagram. Individual Casual, offline and Gauntlet exceptions remain unchecked.",
+        "credit": "Dead Drop",
+        "source": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+        "width": 420,
+        "height": 660
+      }
+    ]
+  },
+  {
+    "id": "bo4-dead-of-the-night-chaos-theory",
+    "mapId": "bo4-dead-of-the-night",
+    "title": "Chaos Theory: first Alistair upgrade",
+    "category": "weapon",
+    "summary": "Use a silver-bullet Werewolf kill and the shield-opened Library compartment.",
+    "difficulty": "Standard setup / reference",
+    "players": "Solo / co-op",
+    "requirements": [
+      "Black Ops 4 — Dead of the Night.",
+      "For these quest routes use an online Standard match on Normal or higher, without Custom Mutations. General BO4 player reports support this scope; individual Casual, offline and Gauntlet exceptions are not fully audited.",
+      "Alistair’s Folly, Ballistic Shield and Silver Bullets.",
+      "Forest / Pack-a-Punch access."
+    ],
+    "reward": "Chaos Theory and its charged effects; prerequisite for Alistair’s Annihilator.",
+    "steps": [
+      {
+        "title": "Kill a Werewolf with Silver Bullets",
+        "body": "Equip Silver Bullets on an eligible ordinary gun and kill a Werewolf with it. Pick up the dropped Werewolf Chaos Materia.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+        "tip": "The Werewolf spawned while opening the Forest is an available early target. Exact shared kill credit, dropped-part lifetime and lost-drop recovery are not established."
+      },
+      {
+        "title": "Process the Werewolf material",
+        "body": "At the large machine in the Greenhouse Laboratory, insert the Werewolf Chaos Materia and activate the machinery. Collect the resulting Prima Materia from its left side.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+        "tip": "Collect the output; inserting material alone is not the crafting-table step.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/a59pmc/dead_of_the_night_easter_egg_hunt_general_map/"
+        ]
+      },
+      {
+        "title": "Shield-bash the hidden Library shelf",
+        "body": "With the Folly obtained and the Ballistic Shield equipped, go to the bookshelf at the back-left of the Library, left of the gun-case area. Bash it with the shield to reveal a compartment and take the blue part from its podium.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+        "tip": "A firsthand hunt report identifies a shield-symbol book as the target. Exact camera facing still needs the original shelf photo.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/a59pmc/dead_of_the_night_easter_egg_hunt_general_map/"
+        ]
+      },
+      {
+        "title": "Craft Chaos Theory in the Laboratory",
+        "body": "Bring the Prima Materia and blue part to the buildable table at the back-right of the Greenhouse Laboratory. Craft and collect Chaos Theory.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+        "tip": "This is the first quest upgrade, not an assumed Pack-a-Punch transaction."
+      },
+      {
+        "title": "Identify the effect needed by the next stage",
+        "body": "The next upgrade uses the tornado charged effect for vampire bile and a direct charged green shot on a zombie or vampire beside a mushroom mound. Read the next guide before spending the relevant targets.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+        "tip": "The read sources do not establish a complete controller/keyboard input table, exact charge time, full damage values or a guaranteed effect-selection mechanism."
+      }
+    ],
+    "relatedGuideIds": [
+      "bo4-dead-of-the-night-alistairs-annihilator",
+      "bo4-dead-of-the-night-community-dead-of-the-night-map-features-alistair-s-folly",
+      "bo4-dead-of-the-night-community-dead-of-the-night-map-features-silver-bullets",
+      "bo4-dead-of-the-night-community-dead-of-the-night-map-features-ballistic-shield"
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": null,
+    "sharedSource": false,
+    "sourceOmissions": [],
+    "sources": [
+      {
+        "title": "r/CODZombies — Dead of the Night map article",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/"
+      },
+      {
+        "title": "Original 2018 hunt and named firsthand participants",
+        "url": "https://www.reddit.com/r/CODZombies/comments/a59pmc/dead_of_the_night_easter_egg_hunt_general_map/"
+      },
+      {
+        "title": "BigDong1142 — reported BO4 quest mode restrictions",
+        "url": "https://www.reddit.com/r/CODZombies/comments/s9pfm0/help_i_cant_do_any_easter_egg_on_bo4/"
+      },
+      {
+        "title": "BO4 players — Custom Mutations restrictions and side-quest exceptions",
+        "url": "https://www.reddit.com/r/CODZombies/comments/135fr65/black_ops_4/"
+      }
+    ],
+    "images": [
+      {
+        "src": "./assets/dotn-chaos-theory.svg",
+        "alt": "Chaos Theory",
+        "caption": "Original reference diagram. First upgrade; the Library supplies a part, not the crafting bench.",
+        "credit": "Dead Drop",
+        "source": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+        "width": 420,
+        "height": 660
+      }
+    ]
+  },
+  {
+    "id": "bo4-dead-of-the-night-alistairs-annihilator",
+    "mapId": "bo4-dead-of-the-night",
+    "title": "Alistair’s Annihilator: bat, bile and mushroom mounds",
+    "category": "weapon",
+    "summary": "Collect the three second-upgrade ingredients and process both Chaos Materia drops.",
+    "difficulty": "Standard setup / reference",
+    "players": "Solo / co-op",
+    "requirements": [
+      "Black Ops 4 — Dead of the Night.",
+      "For these quest routes use an online Standard match on Normal or higher, without Custom Mutations. General BO4 player reports support this scope; individual Casual, offline and Gauntlet exceptions are not fully audited.",
+      "Obtain Chaos Theory first.",
+      "Reach Mausoleum, Cemetery, Forest and Greenhouse Laboratory."
+    ],
+    "reward": "Alistair’s Annihilator, required for the main quest’s blue fire and effigy.",
+    "steps": [
+      {
+        "title": "Find the orange lamp on the Mausoleum railing",
+        "body": "Inspect the lamps on the railing joining the two Mausoleum staircases. One has a deeper orange glow. Shoot that lamp with Chaos Theory, then find and shoot the next lit lamp promptly.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/a59pmc/dead_of_the_night_easter_egg_hunt_general_map/",
+        "tip": "The original hunt says only a few seconds are available between hits. If the sequence fails, it reports waiting sixty seconds for an orange lamp to reappear, with more than one attempt possible in a round."
+      },
+      {
+        "title": "Finish four lamps and shoot the bat",
+        "body": "Hit four orange lamps consecutively before the sequence times out. A large bat flies out and hovers above the area. Kill it and collect the Bat Chaos Materia it drops.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/a59pmc/dead_of_the_night_easter_egg_hunt_general_map/",
+        "tip": "The bat’s drop position, aiming angles and recovery if a drop is lost remain unmeasured."
+      },
+      {
+        "title": "Collect four bile drops with tornado kills",
+        "body": "Kill vampires using Chaos Theory’s tornado charged effect and collect four Bat Bile drops. Then interact with the glowing red coffin in the Cemetery.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+        "tip": "The charged effect and actual bile pickup matter. The text does not give a dependable method to select the next effect or recover a missing bile drop."
+      },
+      {
+        "title": "Defeat the Crimson Nosferatu ambush",
+        "body": "The red coffin summons a Crimson Nosferatu. Kill it and pick up the Nosferatu Chaos Materia. The original hunt also reports a large additional vampire group during this ambush, so prepare before activating the coffin.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+        "tip": "The hunt’s fifteen-plus enemy estimate is historical; the exact current solo/co-op count and lost-part recovery are not established.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/a59pmc/dead_of_the_night_easter_egg_hunt_general_map/"
+        ]
+      },
+      {
+        "title": "Use a direct green charged hit by the mushroom mounds",
+        "body": "Find the three Forest dirt mounds with blue mushrooms. Position a zombie or vampire beside a mound and hit that enemy directly with the charged green Chaos shot. The affected enemy digs the mound. Repeat at the candidate mounds until the upgrade part is uncovered, then collect it.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+        "tip": "Merely shooting an empty mound is not the written method. Exact mound photos, enemy distance, dig retry behavior and effect controls still need direct checks."
+      },
+      {
+        "title": "Process Bat Chaos Materia and collect its output",
+        "body": "Put the Bat Chaos Materia into the Greenhouse Laboratory machine. Complete processing and collect the resulting part from the other side before proceeding.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/"
+      },
+      {
+        "title": "Process Nosferatu Chaos Materia and collect its output",
+        "body": "Repeat that machine process for the Nosferatu Chaos Materia and collect its output. Keep the separate mound part as well.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+        "tip": "Both material-processing passes are required by the recorded route; no duplicated processing shortcut is inferred."
+      },
+      {
+        "title": "Craft and collect Alistair’s Annihilator",
+        "body": "At the workbench near the back of the Laboratory, combine the collected upgrade parts to craft Alistair’s Annihilator. The map article describes a scope and a shrinking charge effect; the main quest uses its fireball and blue-fire interactions.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+        "tip": "Exact attack inputs, all five reported effects, selection rules, damage, ammunition statistics and co-op ownership remain outside the written evidence."
+      }
+    ],
+    "relatedGuideIds": [
+      "bo4-dead-of-the-night-chaos-theory",
+      "bo4-dead-of-the-night-community-dead-of-the-night-easter-eggs-quests-main-quest",
+      "bo4-dead-of-the-night-enemies-powerups-achievements"
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": null,
+    "sharedSource": false,
+    "sourceOmissions": [],
+    "sources": [
+      {
+        "title": "Original 2018 hunt and named firsthand participants",
+        "url": "https://www.reddit.com/r/CODZombies/comments/a59pmc/dead_of_the_night_easter_egg_hunt_general_map/"
+      },
+      {
+        "title": "r/CODZombies — Dead of the Night map article",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/"
+      },
+      {
+        "title": "BigDong1142 — reported BO4 quest mode restrictions",
+        "url": "https://www.reddit.com/r/CODZombies/comments/s9pfm0/help_i_cant_do_any_easter_egg_on_bo4/"
+      },
+      {
+        "title": "BO4 players — Custom Mutations restrictions and side-quest exceptions",
+        "url": "https://www.reddit.com/r/CODZombies/comments/135fr65/black_ops_4/"
+      }
+    ],
+    "images": [
+      {
+        "src": "./assets/dotn-annihilator-materials.svg",
+        "alt": "Annihilator materials",
+        "caption": "Original reference diagram. Read the full lamp order, timers and three mound candidates in the chapters.",
+        "credit": "Dead Drop",
+        "source": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+        "width": 420,
+        "height": 660
+      }
+    ]
+  },
+  {
+    "id": "bo4-dead-of-the-night-six-perks-infinite-reserve",
+    "mapId": "bo4-dead-of-the-night",
+    "title": "Invisible ghost: six perks and reported infinite reserve ammo",
+    "category": "side",
+    "summary": "Record door and gaze orders, match vases and candles, then escort the ghost into the Cellar.",
+    "difficulty": "Long side quest — source conflict remains",
+    "players": "Solo route reported; co-op rewards and split-screen failures documented",
+    "requirements": [
+      "Black Ops 4 — Dead of the Night.",
+      "For these quest routes use an online Standard match on Normal or higher, without Custom Mutations. General BO4 player reports support this scope; individual Casual, offline and Gauntlet exceptions are not fully audited.",
+      "Begin recording the six door purchases before forgetting their order.",
+      "Alistair’s Folly or an upgrade, the seasonal-book room, Forest access and a packed M1897 Trebuchet.",
+      "Resolve the primary post’s Study-door label conflict with the original demonstration before treating its mapping as verified."
+    ],
+    "reward": "Reported solo Homunculus, six perks and held-weapon infinite reserve; co-op distribution and split-screen reliability unresolved.",
+    "steps": [
+      {
+        "title": "Start a written door-order and gaze-order log",
+        "body": "pkcrossing89 reports this route from solo play. Before opening its six important doors, start an ordered purchase log. Separately record the order in which you first look at the six record players. The two orders can differ.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/16dxisf/dead_of_the_night_infinite_ammo_easter_egg/",
+        "tip": "Use an online Standard quest-enabled match. The source does not establish a way to recover forgotten order, reset a failed sequence or guarantee split-screen/co-op rewards."
+      },
+      {
+        "title": "Record these six door purchases",
+        "body": "Record the purchase order of Main Hall → Library; Study → Graveyard; Main Hall → Dining Room; Dining Room → Greenhouse; Main Hall → Cellar; and Main Hall → Forest. Other doors are not part of this author’s six-door list.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/16dxisf/dead_of_the_night_infinite_ammo_easter_egg/",
+        "tip": "The author later labels the Study door “Study to Greenhouse” in the vase section, conflicting with “Study to Graveyard” here. This unresolved label conflict needs the linked original demonstration before treating the complete map as a verified input key."
+      },
+      {
+        "title": "Observe the six record players in a recorded order",
+        "body": "Walk right up to each of these players and look at it: 1) Music Room’s left record player, rather than the wax-cylinder phonograph; 2) Master Bedroom beside the fire trap; 3) staircase from Main Hall to West Gallery; 4) inside the seasonal-book secret room; 5) left side of the Library; 6) left of the Dining Room fireplace. Write the actual observation order as a separate list.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/16dxisf/dead_of_the_night_infinite_ammo_easter_egg/",
+        "tip": "The author says looking is sufficient, without shooting, interacting or aiming down sights, and suggests roughly three seconds as a comfort margin. The exact gaze angle/time threshold is not established."
+      },
+      {
+        "title": "Open the seasonal bookshelf for its player",
+        "body": "Complete the four-book secret-room puzzle to reach its record player. Use the published Spring, Summer, Autumn, Winter key and inspect the actual symbols. The solo author’s rough mnemonic is C, X, U, n.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/16dxisf/dead_of_the_night_infinite_ammo_easter_egg/",
+        "tip": "The source explicitly says those letters are an approximation of glyph shapes. The real book key and physical record-player view still need the original pictures; do not invent an exact alphabet from the mnemonic.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/"
+        ]
+      },
+      {
+        "title": "Pack the Library pump shotgun",
+        "body": "Obtain the Library-wall M1897 Trebuchet and Pack-a-Punch it. The solo route uses its explosive upgraded shots to break the high vases. The map weapon table names that packed weapon M9-TKG Home Wrecker.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/16dxisf/dead_of_the_night_infinite_ammo_easter_egg/",
+        "tip": "The grenade must explode on top of a vase for the break to register, according to the author. Exact safe shooting lineups and the full failure/reset rule remain unmeasured.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/"
+        ]
+      },
+      {
+        "title": "D1 vase: Main Hall → Library",
+        "body": "Lower vase above the Library door, on the left side of that wall. When this door comes up in your recorded purchase order, break that corresponding vase with an explosive shotgun shot detonating on its top. Work through all six vases in the same order as the door purchases.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/16dxisf/dead_of_the_night_infinite_ammo_easter_egg/",
+        "tip": "These labels identify the mapping, not a mandatory D1-through-D6 input sequence. Your remembered purchase order controls the sequence."
+      },
+      {
+        "title": "D2 vase: Study → Graveyard",
+        "body": "Upper vase to the right of the Library door, on the right side of that wall. When this door comes up in your recorded purchase order, break that corresponding vase with an explosive shotgun shot detonating on its top. Work through all six vases in the same order as the door purchases.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/16dxisf/dead_of_the_night_infinite_ammo_easter_egg/",
+        "tip": "This is the upper Library-side vase. The primary post calls its door Study → Greenhouse in this section but Study → Graveyard in its door list. The mapping is retained as an explicit unresolved source conflict, not silently corrected."
+      },
+      {
+        "title": "D3 vase: Main Hall → Dining Room",
+        "body": "Lower vase above the Dining Room door. When this door comes up in your recorded purchase order, break that corresponding vase with an explosive shotgun shot detonating on its top. Work through all six vases in the same order as the door purchases.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/16dxisf/dead_of_the_night_infinite_ammo_easter_egg/",
+        "tip": "These labels identify the mapping, not a mandatory D1-through-D6 input sequence. Your remembered purchase order controls the sequence."
+      },
+      {
+        "title": "D4 vase: Dining Room → Greenhouse",
+        "body": "Upper vase above the Dining Room door. When this door comes up in your recorded purchase order, break that corresponding vase with an explosive shotgun shot detonating on its top. Work through all six vases in the same order as the door purchases.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/16dxisf/dead_of_the_night_infinite_ammo_easter_egg/",
+        "tip": "These labels identify the mapping, not a mandatory D1-through-D6 input sequence. Your remembered purchase order controls the sequence."
+      },
+      {
+        "title": "D5 vase: Main Hall → Cellar",
+        "body": "Vase in the waterfall left of the large Main Hall staircase. When this door comes up in your recorded purchase order, break that corresponding vase with an explosive shotgun shot detonating on its top. Work through all six vases in the same order as the door purchases.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/16dxisf/dead_of_the_night_infinite_ammo_easter_egg/",
+        "tip": "These labels identify the mapping, not a mandatory D1-through-D6 input sequence. Your remembered purchase order controls the sequence."
+      },
+      {
+        "title": "D6 vase: Main Hall → Forest",
+        "body": "Vase above the Forest exit. When this door comes up in your recorded purchase order, break that corresponding vase with an explosive shotgun shot detonating on its top. Work through all six vases in the same order as the door purchases.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/16dxisf/dead_of_the_night_infinite_ammo_easter_egg/",
+        "tip": "These labels identify the mapping, not a mandatory D1-through-D6 input sequence. Your remembered purchase order controls the sequence."
+      },
+      {
+        "title": "Relight corresponding candles in reverse door order",
+        "body": "After the vase sequence, use Alistair’s Folly or an upgrade to relight the extinguished quest candles in reverse door-purchase order. Candle mapping: D1 (Main Hall → Library): First table in the hallway from Main Hall to Library; D2 (Study → Graveyard): Bookshelf on the far right of Study before exiting toward Graveyard; D3 (Main Hall → Dining Room): Small round lamp table in the hallway from Main Hall to Dining Room; D4 (Dining Room → Greenhouse): Banister on the left immediately outside Dining Room toward Greenhouse; D5 (Main Hall → Cellar): High barrels in the back-right Wine Cellar; to the right after descending the right-hand stairs; D6 (Main Hall → Forest): Edge of the small pool just outside toward Forest.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/16dxisf/dead_of_the_night_infinite_ammo_easter_egg/",
+        "tip": "The author reports Folly shots working as an alternative to the Wraith Fire shown in another guide. These relighting candles are a separate set/state from the Impaler’s six extinguishing candles. D2’s door-label conflict remains unresolved."
+      },
+      {
+        "title": "Collect the black record by the Bedroom stairs",
+        "body": "Pick up the black record leaning against the furniture on the staircase from Dining Room to Bedroom Hallway.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/16dxisf/dead_of_the_night_infinite_ammo_easter_egg/"
+      },
+      {
+        "title": "Activate the players in reverse gaze order",
+        "body": "Return to the six observed record players and interact with them in the reverse of your separately recorded gaze order. Each correct activation produces a distorted music fragment. Finish the whole reverse sequence.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/16dxisf/dead_of_the_night_infinite_ammo_easter_egg/",
+        "tip": "A split-screen player reports repeated failure/laughter despite using the reversed order, while solo worked. There is no verified fix in the read replies. A guessed speed or extra interaction is not added."
+      },
+      {
+        "title": "Follow the whispers from Forest windows to the bedroom route",
+        "body": "At the opaque Main Hall windows beside the Forest exit, listen for the invisible ghost. Stay close to its whispering position. It goes left of the band stage, through the Dining Room hallway and behind the Dining Room clock, then up the stairs to the furniture where the record was picked up. It pauses there before continuing up through Bedroom Hallway and east spawn.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/16dxisf/dead_of_the_night_infinite_ammo_easter_egg/",
+        "tip": "The author describes proximity pauses and acknowledges uncertainty about exact distance. The ghost does not kill zombies; keep yourself protected while listening."
+      },
+      {
+        "title": "Continue over the balconies and through Billiards",
+        "body": "Follow across East Balcony, through Music Room and along the Sentinel Artifact banisters from left to right. Continue into Smoking Room, then Billiards Room, where the ghost pauses at the fireplace.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/16dxisf/dead_of_the_night_infinite_ammo_easter_egg/"
+      },
+      {
+        "title": "Follow through Study, Library and back to the Cellar",
+        "body": "The ghost next visits Study and pauses at the red Will & Testament box. It goes to the broken banister, descends to the Library floor, returns through the hallway to Main Hall, pauses at the knight armor and goes down into the Wine Cellar.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/16dxisf/dead_of_the_night_infinite_ammo_easter_egg/",
+        "tip": "This complete path comes from the retrieved full original post; do not stop the escort at the earlier Billiards fireplace."
+      },
+      {
+        "title": "Go prone and follow the Cellar floor route",
+        "body": "As the ghost reaches the Cellar floor, go prone and face its whispering position. Crawl slowly behind it across the trapdoor, to the left of the small round table, then past the candelabra on its left. It enters the narrow wall space between the barrels and wall behind the candelabra.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/16dxisf/dead_of_the_night_infinite_ammo_easter_egg/",
+        "tip": "The author believes facing the ghost is required, as well as being close. Exact view cone and movement tolerance remain unmeasured; the linked Serious demonstration uses a modified visible-ghost path."
+      },
+      {
+        "title": "Face the candelabra base with the desired gun held",
+        "body": "Look at the base of the candelabra for about three seconds in the reported finishing position. A woman’s head rises from the floor and the scare triggers. Have the gun you want affected in hand before that trigger.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/16dxisf/dead_of_the_night_infinite_ammo_easter_egg/",
+        "tip": "The photo shows the finishing area in PK’s September 2023 gameplay. The ghost itself is invisible; the image is a landmark reference.",
+        "images": [
+          {
+            "src": "./assets/dotn-cellar-candelabra.webp",
+            "alt": "Cellar candelabra",
+            "caption": "Wine Cellar: candelabra beside barrels.",
+            "credit": "PK",
+            "source": "https://www.youtube.com/watch?v=VEUPOGig0_Y&t=2006s",
+            "width": 1260,
+            "height": 710
+          }
+        ]
+      },
+      {
+        "title": "Check the reported reward and its limits",
+        "body": "The solo author reports a Homunculus, all four loadout perks, two extra perks and infinite reserve ammunition on the gun held at the scare. They say the reserve effect survives Folly → Chaos Theory → Annihilator upgrades, but is lost if the affected weapon is swapped away and does not automatically apply to the other gun.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/16dxisf/dead_of_the_night_infinite_ammo_easter_egg/",
+        "tip": "A firsthand four-player reply reports unequal rewards and suggests vase participation may matter, without a tested formula. Split-screen failures are also reported. This route does not promise full rewards to every player or certify current retail behavior."
+      }
+    ],
+    "relatedGuideIds": [
+      "bo4-dead-of-the-night-community-dead-of-the-night-easter-eggs-quests-hidden-rooms",
+      "bo4-dead-of-the-night-community-dead-of-the-night-map-features-pack-a-punch",
+      "bo4-dead-of-the-night-community-dead-of-the-night-map-features-alistair-s-folly",
+      "bo4-dead-of-the-night-weapon-name-reference"
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": null,
+    "sharedSource": false,
+    "sourceOmissions": [],
+    "sources": [
+      {
+        "title": "pkcrossing89 — solo six-perk and reserve-ammo route; co-op replies",
+        "url": "https://www.reddit.com/r/CODZombies/comments/16dxisf/dead_of_the_night_infinite_ammo_easter_egg/"
+      },
+      {
+        "title": "r/CODZombies — Dead of the Night map article",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/"
+      },
+      {
+        "title": "BigDong1142 — reported BO4 quest mode restrictions",
+        "url": "https://www.reddit.com/r/CODZombies/comments/s9pfm0/help_i_cant_do_any_easter_egg_on_bo4/"
+      },
+      {
+        "title": "BO4 players — Custom Mutations restrictions and side-quest exceptions",
+        "url": "https://www.reddit.com/r/CODZombies/comments/135fr65/black_ops_4/"
+      },
+      {
+        "title": "PK gameplay",
+        "url": "https://www.youtube.com/watch?v=VEUPOGig0_Y"
+      }
+    ],
+    "images": [
+      {
+        "src": "./assets/dotn-invisible-ghost-orders.svg",
+        "alt": "Two independent orders",
+        "caption": "Original reference diagram. Do not substitute a fixed example order for the order recorded in your match.",
+        "credit": "Dead Drop",
+        "source": "https://www.reddit.com/r/CODZombies/comments/16dxisf/dead_of_the_night_infinite_ammo_easter_egg/",
+        "width": 420,
+        "height": 660
+      }
+    ]
+  },
+  {
+    "id": "bo4-dead-of-the-night-recordings-ciphers-cast",
+    "mapId": "bo4-dead-of-the-night",
+    "title": "Lore reference: six audio reels, cast and alchemical ciphers",
+    "category": "side",
+    "summary": "Play each cylinder in the Music Room and find the credited cipher references without dialogue transcripts.",
+    "difficulty": "Standard setup / reference",
+    "players": "Solo / co-op",
+    "requirements": [
+      "Black Ops 4 — Dead of the Night.",
+      "Open the relevant mansion/outdoor regions.",
+      "You can hold one audio reel at a time, according to the hunt and zbx7."
+    ],
+    "reward": "Six reported recording pickups and a compact cast/cipher reading reference.",
+    "steps": [
+      {
+        "title": "Audio reel: Entrance Hall",
+        "body": "Pick up the cylinder at the table to the left of the entrance doorway when walking in. Return it to the Music Room phonograph before collecting the next cylinder.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/a59pmc/dead_of_the_night_easter_egg_hunt_general_map/"
+      },
+      {
+        "title": "Audio reel: Greenhouse Laboratory",
+        "body": "Pick up the cylinder at the table left of the teleporter; zbx7 further describes it as behind the ladder beside the Annihilator build table. Return it to the Music Room phonograph before collecting the next cylinder.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/a59pmc/dead_of_the_night_easter_egg_hunt_general_map/",
+        "tip": "Both published descriptions are retained. The exact relation between the teleporter, ladder and workbench needs the original view."
+      },
+      {
+        "title": "Audio reel: Billiards Room",
+        "body": "Pick up the cylinder at the chair on the right when entering from Smoking Room. Return it to the Music Room phonograph before collecting the next cylinder.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/a59pmc/dead_of_the_night_easter_egg_hunt_general_map/"
+      },
+      {
+        "title": "Audio reel: Mausoleum",
+        "body": "Pick up the cylinder at the stair railing across from Auger DMR, on the railing used by the bat-lamp upgrade step. Return it to the Music Room phonograph before collecting the next cylinder.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/a59pmc/dead_of_the_night_easter_egg_hunt_general_map/"
+      },
+      {
+        "title": "Audio reel: Dining Room",
+        "body": "Pick up the cylinder at the large dining table corner closest to the fireplace. Return it to the Music Room phonograph before collecting the next cylinder.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/a59pmc/dead_of_the_night_easter_egg_hunt_general_map/"
+      },
+      {
+        "title": "Audio reel: Forest Terrace",
+        "body": "Pick up the cylinder at the railing just after the steps to the right of the Forest entrance, left of the small right-hand gate. Return it to the Music Room phonograph before collecting the next cylinder.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/a59pmc/dead_of_the_night_easter_egg_hunt_general_map/"
+      },
+      {
+        "title": "Play and clear the Music Room phonograph",
+        "body": "Insert the held cylinder into the phonograph in the Music Room to play its recording. zbx7 says to knife the played cylinder off the phonograph before inserting the next. Repeat until you have played the six reported pickups.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/a59pmc/dead_of_the_night_easter_egg_hunt_general_map/",
+        "tip": "Current replay, account-collection persistence and whether a particular quest state affects a pickup remain unverified. No fictional dialogue is transcribed."
+      },
+      {
+        "title": "Know the four playable mansion guests",
+        "body": "The map reference names Jonathan Warwick as the Brigadier, Christina Fowler as the Psychic, Gideon Jones as the Gunslinger and Godfrey as the Butler. Its setting is an English mansion party overtaken by the undead.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/"
+      },
+      {
+        "title": "Read the two alchemical cipher references",
+        "body": "The Media section lists DOTN_Alchemy1 and DOTN_Alchemy2 as alchemical symbols used as text. It links a periodic-table/alchemical-symbol key and credits u/Kalinine for both solutions.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+        "tip": "The original ciphertext/key pictures were not requested here. Complete inscription surfaces, a glyph-by-glyph key and an independently checked decode remain physical-reference gaps; no fictional message transcript is added."
+      },
+      {
+        "title": "Use the intro and quest ending as story references",
+        "body": "The Media section links the map’s intro and outro cinematics. The outro is reached through the main quest’s three branches and Werewolf boss. Use the recording and cipher sources for the additional mansion context.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+        "tip": "A linked cinematic’s existence does not establish unviewed dialogue or a new gameplay reward. No film bytes were requested."
+      }
+    ],
+    "relatedGuideIds": [
+      "bo4-dead-of-the-night-community-dead-of-the-night-easter-eggs-quests-mystery-song",
+      "bo4-dead-of-the-night-community-dead-of-the-night-easter-eggs-quests-main-quest",
+      "bo4-dead-of-the-night-six-perks-infinite-reserve"
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": null,
+    "sharedSource": false,
+    "sourceOmissions": [],
+    "sources": [
+      {
+        "title": "Original 2018 hunt and named firsthand participants",
+        "url": "https://www.reddit.com/r/CODZombies/comments/a59pmc/dead_of_the_night_easter_egg_hunt_general_map/"
+      },
+      {
+        "title": "r/CODZombies — Dead of the Night map article",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/"
+      }
+    ],
+    "images": [
+      {
+        "src": "./assets/dotn-recording-reference.svg",
+        "alt": "Six recording locations",
+        "caption": "Original reference diagram. Locator reference; the guide omits fictional audio transcripts.",
+        "credit": "Dead Drop",
+        "source": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+        "width": 420,
+        "height": 660
+      }
+    ]
+  },
+  {
+    "id": "bo4-dead-of-the-night-weapon-name-reference",
+    "mapId": "bo4-dead-of-the-night",
+    "title": "Weapons: base upgrades and later acquisitions",
+    "category": "weapon",
+    "summary": "Compare 36 recorded base entries and 17 later acquisition rows, with source limits.",
+    "difficulty": "Standard setup / reference",
+    "players": "Solo / co-op",
+    "requirements": [
+      "Black Ops 4 — Dead of the Night.",
+      "Read current wall, Box and machine prompts for actual price and eligibility."
+    ],
+    "reward": "A source-attributed historical catalogue, not a certified current complete pool.",
+    "steps": [
+      {
+        "title": "Read the table’s scope and blanks",
+        "body": "The map article supplies the following thirty-six rows, including special quest weapons and the Bowie Knife. A blank or dash is missing source information, not proof that an item cannot be upgraded or obtained elsewhere.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+        "tip": "The Spitfire price is blank. Koshka is listed as 4500 without a unit in its cell. The catalogue includes a Hitchcock M9 row; its current availability and the complete final-build DLC/Box pool have not been checked."
+      },
+      {
+        "title": "Assault rifles",
+        "body": "ICR-7 | Impertinent Deanimator | Wall Weapon | 1550 Points | Greenhouse Laboratory\nRampart 17 | Parapetrifier | Mystery Box | - | -\nVapr-XKG | Creeping Haze | Wall Weapon | 1550 Points | Gardens\nKN-57 | Ruined Revenger | Wall Weapon | 1450 Points | Cemetery Path\nMaddox RFB | Red Fiend Bull | Wall Weapon | 1400 Points | Greenhouse Entrance\nHitchcock M9 | Waking Nightmare | Mystery Box | - | -",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>PaP Name</th><th>How To Acquire</th><th>Cost</th><th>Wall Location(s)</th></tr></thead><tbody><tr><td>ICR-7</td><td>Impertinent Deanimator</td><td>Wall Weapon</td><td>1550 Points</td><td>Greenhouse Laboratory</td></tr><tr><td>Rampart 17</td><td>Parapetrifier</td><td>Mystery Box</td><td>-</td><td>-</td></tr><tr><td>Vapr-XKG</td><td>Creeping Haze</td><td>Wall Weapon</td><td>1550 Points</td><td>Gardens</td></tr><tr><td>KN-57</td><td>Ruined Revenger</td><td>Wall Weapon</td><td>1450 Points</td><td>Cemetery Path</td></tr><tr><td>Maddox RFB</td><td>Red Fiend Bull</td><td>Wall Weapon</td><td>1400 Points</td><td>Greenhouse Entrance</td></tr><tr><td>Hitchcock M9</td><td>Waking Nightmare</td><td>Mystery Box</td><td>-</td><td>-</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+        "tip": "Literal Reddit table cells retained; only heading-only navigation rows were removed. Current weapon kits, damage, ammo counts, attachment unlocks, operator-mod availability and all special effects remain unverified."
+      },
+      {
+        "title": "Tactical rifles",
+        "body": "SwordFish | Australo-Packy-Cormus | Wall Weapon | 1400 Points | Dining Room\nAuger DMR | Dead Man’s Refracker | Wall Weapon | 1600 Points | Mausoleum\nABR 223 | BR-R-RAH | Mystery Box | - | -\nEssex Model 07 | Quartermaster’s Repeater | Wall Weapon | 500 Points | West Gallery",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>PaP Name</th><th>How To Acquire</th><th>Cost</th><th>Wall Location(s)</th></tr></thead><tbody><tr><td>SwordFish</td><td>Australo-Packy-Cormus</td><td>Wall Weapon</td><td>1400 Points</td><td>Dining Room</td></tr><tr><td>Auger DMR</td><td>Dead Man’s Refracker</td><td>Wall Weapon</td><td>1600 Points</td><td>Mausoleum</td></tr><tr><td>ABR 223</td><td>BR-R-RAH</td><td>Mystery Box</td><td>-</td><td>-</td></tr><tr><td>Essex Model 07</td><td>Quartermaster’s Repeater</td><td>Wall Weapon</td><td>500 Points</td><td>West Gallery</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+        "tip": "Literal Reddit table cells retained; only heading-only navigation rows were removed. Current weapon kits, damage, ammo counts, attachment unlocks, operator-mod availability and all special effects remain unverified."
+      },
+      {
+        "title": "SMGs",
+        "body": "MX9 | Nueve Muertes XX | Wall Weapon | 1250 Points | Wine Cellar\nCordite | Corpsemaker | Mystery Box | - | -\nSaug 9mm | Stellar 92 | Wall Weapon | 750 Points | East Balcony\nSpitfire | Sky Scorcher | Wall Weapon |  | Study\nGKS | Ghoul Keeper’s Subjugator | Wall Weapon | 1300 Points | Forest Terrace\nEscargot | Pièce De Résistance | Wall Weapon | 1000 Points | Master Bedroom",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>PaP Name</th><th>How To Acquire</th><th>Cost</th><th>Wall Location(s)</th></tr></thead><tbody><tr><td>MX9</td><td>Nueve Muertes XX</td><td>Wall Weapon</td><td>1250 Points</td><td>Wine Cellar</td></tr><tr><td>Cordite</td><td>Corpsemaker</td><td>Mystery Box</td><td>-</td><td>-</td></tr><tr><td>Saug 9mm</td><td>Stellar 92</td><td>Wall Weapon</td><td>750 Points</td><td>East Balcony</td></tr><tr><td>Spitfire</td><td>Sky Scorcher</td><td>Wall Weapon</td><td></td><td>Study</td></tr><tr><td>GKS</td><td>Ghoul Keeper’s Subjugator</td><td>Wall Weapon</td><td>1300 Points</td><td>Forest Terrace</td></tr><tr><td>Escargot</td><td>Pièce De Résistance</td><td>Wall Weapon</td><td>1000 Points</td><td>Master Bedroom</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+        "tip": "Literal Reddit table cells retained; only heading-only navigation rows were removed. Current weapon kits, damage, ammo counts, attachment unlocks, operator-mod availability and all special effects remain unverified."
+      },
+      {
+        "title": "Light machine guns",
+        "body": "Titan | Tartarus Veil | Wall Weapon | 3750 Points | Forest\nZweihänder | Sumabrandr | Mystery Box | - | -\nHades | Acheron Alliterator | Mystery Box | - | -\nVKM 750 | Cackling Kaftar | Mystery Box | - | -",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>PaP Name</th><th>How To Acquire</th><th>Cost</th><th>Wall Location(s)</th></tr></thead><tbody><tr><td>Titan</td><td>Tartarus Veil</td><td>Wall Weapon</td><td>3750 Points</td><td>Forest</td></tr><tr><td>Zweihänder</td><td>Sumabrandr</td><td>Mystery Box</td><td>-</td><td>-</td></tr><tr><td>Hades</td><td>Acheron Alliterator</td><td>Mystery Box</td><td>-</td><td>-</td></tr><tr><td>VKM 750</td><td>Cackling Kaftar</td><td>Mystery Box</td><td>-</td><td>-</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+        "tip": "Literal Reddit table cells retained; only heading-only navigation rows were removed. Current weapon kits, damage, ammo counts, attachment unlocks, operator-mod availability and all special effects remain unverified."
+      },
+      {
+        "title": "Sniper rifles",
+        "body": "Paladin HB50 | Righteous Fury | Mystery Box | - | -\nKoshka | Bakeneko | Wall Weapon | 4500 | Forest\nSDM | IT-5 LYT | Mystery Box | - | -\nOutlaw | D3SOL8 Regulator | Mystery Box | - | -",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>PaP Name</th><th>How To Acquire</th><th>Cost</th><th>Wall Location(s)</th></tr></thead><tbody><tr><td>Paladin HB50</td><td>Righteous Fury</td><td>Mystery Box</td><td>-</td><td>-</td></tr><tr><td>Koshka</td><td>Bakeneko</td><td>Wall Weapon</td><td>4500</td><td>Forest</td></tr><tr><td>SDM</td><td>IT-5 LYT</td><td>Mystery Box</td><td>-</td><td>-</td></tr><tr><td>Outlaw</td><td>D3SOL8 Regulator</td><td>Mystery Box</td><td>-</td><td>-</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+        "tip": "Literal Reddit table cells retained; only heading-only navigation rows were removed. Current weapon kits, damage, ammo counts, attachment unlocks, operator-mod availability and all special effects remain unverified."
+      },
+      {
+        "title": "Secondaries and Bowie Knife",
+        "body": "Strife | Z Harmony | Wall Weapon | 500 Points | East Gallery\nWelling | King And Country | Starting Weapon | - | -\nMozu | Belle of the Ball | Wall Weapon | 1250 Points | Main Hall\nRK 7 Garrison | Rapskallion 3D | Wall Weapon | 1000 Points | West Balcony\nMOG 12 | OMG Right Hook | Wall Weapon | 1000 Points | Grand Staircase\nM1897 Trebuchet | M9-TKG Home Wrecker | Wall Weapon | 1400 Points | Library\nSG12 | Breccius Rebornus | Mystery Box | - | -\nBowie Knife | - | Wall Weapon | 3000 Points | Forest Terrace\nHellion Salvo | Zitro’s Orbital Arbalest | Mystery Box | - | -",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>PaP Name</th><th>How To Acquire</th><th>Cost</th><th>Wall Location(s)</th></tr></thead><tbody><tr><td>Strife</td><td>Z Harmony</td><td>Wall Weapon</td><td>500 Points</td><td>East Gallery</td></tr><tr><td>Welling</td><td>King And Country</td><td>Starting Weapon</td><td>-</td><td>-</td></tr><tr><td>Mozu</td><td>Belle of the Ball</td><td>Wall Weapon</td><td>1250 Points</td><td>Main Hall</td></tr><tr><td>RK 7 Garrison</td><td>Rapskallion 3D</td><td>Wall Weapon</td><td>1000 Points</td><td>West Balcony</td></tr><tr><td>MOG 12</td><td>OMG Right Hook</td><td>Wall Weapon</td><td>1000 Points</td><td>Grand Staircase</td></tr><tr><td>M1897 Trebuchet</td><td>M9-TKG Home Wrecker</td><td>Wall Weapon</td><td>1400 Points</td><td>Library</td></tr><tr><td>SG12</td><td>Breccius Rebornus</td><td>Mystery Box</td><td>-</td><td>-</td></tr><tr><td>Bowie Knife</td><td>-</td><td>Wall Weapon</td><td>3000 Points</td><td>Forest Terrace</td></tr><tr><td>Hellion Salvo</td><td>Zitro’s Orbital Arbalest</td><td>Mystery Box</td><td>-</td><td>-</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+        "tip": "Literal Reddit table cells retained; only heading-only navigation rows were removed. Current weapon kits, damage, ammo counts, attachment unlocks, operator-mod availability and all special effects remain unverified."
+      },
+      {
+        "title": "Special weapons",
+        "body": "Alistair's Folly | - | Quest/Mystery Box | -\nStake | - | Quest | -\nSavage Impaler | - | Quest | -",
+        "html": "<table><thead><tr><th>Weapon Name</th><th>PaP Name</th><th>How To Acquire</th><th>Cost</th></tr></thead><tbody><tr><td>Alistair&#39;s Folly</td><td>-</td><td>Quest/Mystery Box</td><td>-</td></tr><tr><td>Stake</td><td>-</td><td>Quest</td><td>-</td></tr><tr><td>Savage Impaler</td><td>-</td><td>Quest</td><td>-</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+        "tip": "Literal Reddit table cells retained; only heading-only navigation rows were removed. Current weapon kits, damage, ammo counts, attachment unlocks, operator-mod availability and all special effects remain unverified."
+      },
+      {
+        "title": "Use the named quests for the special rows",
+        "body": "Alistair’s Folly has its Library case/Box route and the separate Chaos Theory and Annihilator upgrades. Build the Stake Knife and Savage Impaler through their linked quests. The ordinary PaP-name column is not a separate construction quest for each listed firearm.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/"
+      },
+      {
+        "title": "Separate paid silver refills from the ghost reward",
+        "body": "Eligible ordinary guns can use the Library silver-bullet refill route. The invisible-ghost side quest reports a separate infinite-reserve reward on the held gun. Neither description guarantees a universal live weapon pool or every Wonder Weapon exception.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/fddstc/bo4_zombies_can_you_buy_ammo_for_pap_weapons_or/",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/16dxisf/dead_of_the_night_infinite_ammo_easter_egg/",
+          "https://www.reddit.com/r/CODZombies/comments/gjfl5e/dead_of_the_night_is_a_joke/",
+          "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/"
+        ]
+      },
+      {
+        "title": "Later acquisition listings",
+        "body": "Grav | MB\nSWAT RFT | MB\nPeacekepper | MB\nMP-40 | MB\nDaemon 3XB | MB\nSwitchblade MX9 | MB\nS6 Stingray | MB\nM16 | MB\nTigershark | MB\nVendetta | MB\nLocus | MB\nHavelina AA50 | MB\nKAP 45 | MB\nRampage | MB\nBalistic Knife | MB\nArgus | MB\nReaver C86 | MB",
+        "html": "<table><thead><tr><th>Weapon</th><th>DOTN</th></tr></thead><tbody><tr><td>Grav</td><td>MB</td></tr><tr><td>SWAT RFT</td><td>MB</td></tr><tr><td>Peacekepper</td><td>MB</td></tr><tr><td>MP-40</td><td>MB</td></tr><tr><td>Daemon 3XB</td><td>MB</td></tr><tr><td>Switchblade MX9</td><td>MB</td></tr><tr><td>S6 Stingray</td><td>MB</td></tr><tr><td>M16</td><td>MB</td></tr><tr><td>Tigershark</td><td>MB</td></tr><tr><td>Vendetta</td><td>MB</td></tr><tr><td>Locus</td><td>MB</td></tr><tr><td>Havelina AA50</td><td>MB</td></tr><tr><td>KAP 45</td><td>MB</td></tr><tr><td>Rampage</td><td>MB</td></tr><tr><td>Balistic Knife</td><td>MB</td></tr><tr><td>Argus</td><td>MB</td></tr><tr><td>Reaver C86</td><td>MB</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/cwzuuk/weapon_locations_table/",
+        "tip": "MB means Mystery Box in this later player table. Source spellings such as Peacekepper, Switchblade MX9 and Balistic Knife are retained. These seventeen additions have no packed-name cells here; final-build availability, names and the full current Box pool remain unchecked."
+      }
+    ],
+    "relatedGuideIds": [
+      "bo4-dead-of-the-night-community-dead-of-the-night-map-features-pack-a-punch",
+      "bo4-dead-of-the-night-community-dead-of-the-night-map-features-silver-bullets",
+      "bo4-dead-of-the-night-community-dead-of-the-night-map-features-alistair-s-folly",
+      "bo4-dead-of-the-night-chaos-theory",
+      "bo4-dead-of-the-night-alistairs-annihilator",
+      "bo4-dead-of-the-night-community-dead-of-the-night-easter-eggs-quests-stake-knife",
+      "bo4-dead-of-the-night-community-dead-of-the-night-easter-eggs-quests-savage-impaler",
+      "bo4-dead-of-the-night-six-perks-infinite-reserve"
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+    "sharedSource": false,
+    "sourceOmissions": [],
+    "sources": [
+      {
+        "title": "r/CODZombies — Dead of the Night map article",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/"
+      },
+      {
+        "title": "ps4yetsir — Dead of the Night silver-bullet ammunition purchase",
+        "url": "https://www.reddit.com/r/CODZombies/comments/fddstc/bo4_zombies_can_you_buy_ammo_for_pap_weapons_or/"
+      },
+      {
+        "title": "pkcrossing89 — solo six-perk and reserve-ammo route; co-op replies",
+        "url": "https://www.reddit.com/r/CODZombies/comments/16dxisf/dead_of_the_night_infinite_ammo_easter_egg/"
+      },
+      {
+        "title": "MrJzM — firsthand repeated silver-bullet table refills",
+        "url": "https://www.reddit.com/r/CODZombies/comments/gjfl5e/dead_of_the_night_is_a_joke/"
+      },
+      {
+        "title": "StreetRaging — later weapon acquisitions",
+        "url": "https://www.reddit.com/r/CODZombies/comments/cwzuuk/weapon_locations_table/"
+      }
+    ],
+    "images": [
+      {
+        "src": "./assets/dotn-weapon-reference.svg",
+        "alt": "Weapon reference",
+        "caption": "Original reference diagram. Historical tables; final-build pools and later packed aliases remain unchecked.",
+        "credit": "Dead Drop",
+        "source": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+        "width": 420,
+        "height": 660
+      }
+    ]
+  },
+  {
+    "id": "bo4-dead-of-the-night-enemies-powerups-achievements",
+    "mapId": "bo4-dead-of-the-night",
+    "title": "Enemies, power-ups and ten achievement objectives",
+    "category": "side",
+    "summary": "Read the seven enemy types, seven drops and the finite source trophy checklist.",
+    "difficulty": "Standard setup / reference",
+    "players": "Solo / co-op",
+    "requirements": [
+      "Black Ops 4 — Dead of the Night.",
+      "Use the relevant setup and weapon routes before attempting restricted objectives.",
+      "The listed objectives and methods are historical source reports; check current platform wording."
+    ],
+    "reward": "A practical reference with explicit eligibility and damage-rule limits.",
+    "steps": [
+      {
+        "title": "Seven reported enemy types",
+        "body": "Nosferatu | Fast running, will prevent you from regening health for roughly 5 seconds after being hit.\nCrimson Nosferatu | Similar to the standard vampires, but with an additional pounce attack that prevents the player from moving while the vampire bites you. It also has more health than a standard vampire.\nWerewolf | Will rush at the player and melee them. They take increased damage when shot with silver bullets.\nFire Catalyst | Walks slowly towards players. If a player gets too close to it it will explode.\nPoison Catalyst | Does damage to players who walk near it. It turns other zombies in the nearby area also into Poison Catalysts.\nElectric Catalyst | Charges up and can unleash a blinding scream that can impair a players vision.\nWater Catalyst | Actively avoids players and can infect normal zombies and make them have more health.",
+        "html": "<table><thead><tr><th>Enemy Name</th><th>Special Abilities</th></tr></thead><tbody><tr><td>Nosferatu</td><td>Fast running, will prevent you from regening health for roughly 5 seconds after being hit.</td></tr><tr><td>Crimson Nosferatu</td><td>Similar to the standard vampires, but with an additional pounce attack that prevents the player from moving while the vampire bites you. It also has more health than a standard vampire.</td></tr><tr><td>Werewolf</td><td>Will rush at the player and melee them. They take increased damage when shot with silver bullets.</td></tr><tr><td>Fire Catalyst</td><td>Walks slowly towards players. If a player gets too close to it it will explode.</td></tr><tr><td>Poison Catalyst</td><td>Does damage to players who walk near it. It turns other zombies in the nearby area also into Poison Catalysts.</td></tr><tr><td>Electric Catalyst</td><td>Charges up and can unleash a blinding scream that can impair a players vision.</td></tr><tr><td>Water Catalyst</td><td>Actively avoids players and can infect normal zombies and make them have more health.</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+        "tip": "Exact enemy statistics, spawn schedules, current debuff durations and all difficulty differences are not established beyond these source descriptions."
+      },
+      {
+        "title": "Seven reported power-ups",
+        "body": "Insta-Kill | Allows all players to insta-kill all normal zombies. | 30 Seconds\nMax Ammo | Refills the ammo reserve of all held weapons for every player. | -\nDouble Points | Players receive double the amount of points for the duration of the power-up. | 30 Seconds\nNuke | Kills all normal zombies on the map at once. | -\nBonus Points | Gives each player in the match 500 Points | -\nFull Power | Gives the player that ran into it a full specialist weapon meter. | -\nCarpenter | Repairs all wooden barricades on the map as well as refills the meter on each player's shield | -",
+        "html": "<table><thead><tr><th>Name</th><th>Description</th><th>Duration</th></tr></thead><tbody><tr><td>Insta-Kill</td><td>Allows all players to insta-kill all normal zombies.</td><td>30 Seconds</td></tr><tr><td>Max Ammo</td><td>Refills the ammo reserve of all held weapons for every player.</td><td>-</td></tr><tr><td>Double Points</td><td>Players receive double the amount of points for the duration of the power-up.</td><td>30 Seconds</td></tr><tr><td>Nuke</td><td>Kills all normal zombies on the map at once.</td><td>-</td></tr><tr><td>Bonus Points</td><td>Gives each player in the match 500 Points</td><td>-</td></tr><tr><td>Full Power</td><td>Gives the player that ran into it a full specialist weapon meter.</td><td>-</td></tr><tr><td>Carpenter</td><td>Repairs all wooden barricades on the map as well as refills the meter on each player&#39;s shield</td><td>-</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+        "tip": "The source lists Full Power as filling the meter of the collecting player. Current sharing, duration exceptions and all drop rules remain unverified."
+      },
+      {
+        "title": "Alchemical Opus",
+        "body": "Alchemical Opus | In Dead of the Night, create Prima Materia 3 times. | Fully upgrade Alistair's Folly | Bronze",
+        "html": "<table><thead><tr><th>Name</th><th>Description</th><th>How to Obtain</th><th>Rarity</th></tr></thead><tbody><tr><td>Alchemical Opus</td><td>In Dead of the Night, create Prima Materia 3 times.</td><td>Fully upgrade Alistair&#39;s Folly</td><td>Bronze</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+        "tip": "Use the linked route for the required equipment. Exact shared credit, damage exclusions, area boundaries, timer edges and current unlock behavior have not been independently tested."
+      },
+      {
+        "title": "Board Gamer",
+        "body": "Board Gamer | In Dead of the Night, kill a Werewolf in the Library with a revolver. | Kill a werewolf in the Library with Alistair's Folly, Welling, or Mozu | Bronze",
+        "html": "<table><thead><tr><th>Name</th><th>Description</th><th>How to Obtain</th><th>Rarity</th></tr></thead><tbody><tr><td>Board Gamer</td><td>In Dead of the Night, kill a Werewolf in the Library with a revolver.</td><td>Kill a werewolf in the Library with Alistair&#39;s Folly, Welling, or Mozu</td><td>Bronze</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+        "tip": "The objective says revolver. The historical method cell also lists Welling; that eligibility was not independently established. The source list is preserved without certifying that every listed gun currently counts."
+      },
+      {
+        "title": "Master Your Craft",
+        "body": "Master Your Craft | In Dead of the Night, use every crafting table. | Fully upgrade Alistair's Folly, build silver bullets and build the Stake knife | Bronze",
+        "html": "<table><thead><tr><th>Name</th><th>Description</th><th>How to Obtain</th><th>Rarity</th></tr></thead><tbody><tr><td>Master Your Craft</td><td>In Dead of the Night, use every crafting table.</td><td>Fully upgrade Alistair&#39;s Folly, build silver bullets and build the Stake knife</td><td>Bronze</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+        "tip": "Use the linked route for the required equipment. Exact shared credit, damage exclusions, area boundaries, timer edges and current unlock behavior have not been independently tested."
+      },
+      {
+        "title": "Mega Bite",
+        "body": "Mega Bite | In Dead of the Night, get bitten by a Crimson Nosferatu. | During the process of upgrading the Chaos Theory to Alistair's Annihilator, Crimson Vampires will begin to spawn in to the map. Allow one to pounce onto you. | Bronze",
+        "html": "<table><thead><tr><th>Name</th><th>Description</th><th>How to Obtain</th><th>Rarity</th></tr></thead><tbody><tr><td>Mega Bite</td><td>In Dead of the Night, get bitten by a Crimson Nosferatu.</td><td>During the process of upgrading the Chaos Theory to Alistair&#39;s Annihilator, Crimson Vampires will begin to spawn in to the map. Allow one to pounce onto you.</td><td>Bronze</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+        "tip": "Use the linked route for the required equipment. Exact shared credit, damage exclusions, area boundaries, timer edges and current unlock behavior have not been independently tested."
+      },
+      {
+        "title": "On the Clock",
+        "body": "On the Clock | In Dead of the Night, stay within the clock circle until the time runs out. | During the Pack a Punch steps, you will have to tune a clock by standing in a circle for 30-60 seconds. Complete this step without leaving the circle. | Bronze",
+        "html": "<table><thead><tr><th>Name</th><th>Description</th><th>How to Obtain</th><th>Rarity</th></tr></thead><tbody><tr><td>On the Clock</td><td>In Dead of the Night, stay within the clock circle until the time runs out.</td><td>During the Pack a Punch steps, you will have to tune a clock by standing in a circle for 30-60 seconds. Complete this step without leaving the circle.</td><td>Bronze</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+        "tip": "The main setup text says one minute; this method cell says 30–60 seconds. Stay until the event ends and the fork appears."
+      },
+      {
+        "title": "Quick Thinking",
+        "body": "Quick Thinking | In Dead of the Night, unlock the Forest by round 7. | Open Pack a Punch (see above) by round 7 | Bronze",
+        "html": "<table><thead><tr><th>Name</th><th>Description</th><th>How to Obtain</th><th>Rarity</th></tr></thead><tbody><tr><td>Quick Thinking</td><td>In Dead of the Night, unlock the Forest by round 7.</td><td>Open Pack a Punch (see above) by round 7</td><td>Bronze</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+        "tip": "Use the linked route for the required equipment. Exact shared credit, damage exclusions, area boundaries, timer edges and current unlock behavior have not been independently tested."
+      },
+      {
+        "title": "Shockingly Good Time",
+        "body": "Shockingly Good Time | In Dead of the Night, electrocute a Werewolf. | Kill a werewolf with the trap located in the Greenhouse | Bronze",
+        "html": "<table><thead><tr><th>Name</th><th>Description</th><th>How to Obtain</th><th>Rarity</th></tr></thead><tbody><tr><td>Shockingly Good Time</td><td>In Dead of the Night, electrocute a Werewolf.</td><td>Kill a werewolf with the trap located in the Greenhouse</td><td>Bronze</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+        "tip": "Use the linked route for the required equipment. Exact shared credit, damage exclusions, area boundaries, timer edges and current unlock behavior have not been independently tested."
+      },
+      {
+        "title": "Shrinking Feeling",
+        "body": "Shrinking Feeling | In Dead of the Night, shrink 15 zombies with a single shot from Alistair’s Annihilator. | One of the charge effects of the Alistair's Annihilator shrinks zombies. As these effects are random, train up a horde of zombies and kill them with a charged shot until you get the desired effect. | Bronze",
+        "html": "<table><thead><tr><th>Name</th><th>Description</th><th>How to Obtain</th><th>Rarity</th></tr></thead><tbody><tr><td>Shrinking Feeling</td><td>In Dead of the Night, shrink 15 zombies with a single shot from Alistair’s Annihilator.</td><td>One of the charge effects of the Alistair&#39;s Annihilator shrinks zombies. As these effects are random, train up a horde of zombies and kill them with a charged shot until you get the desired effect.</td><td>Bronze</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+        "tip": "Use the linked route for the required equipment. Exact shared credit, damage exclusions, area boundaries, timer edges and current unlock behavior have not been independently tested."
+      },
+      {
+        "title": "Trial by Ordeal",
+        "body": "Trial by Ordeal | In Dead of the Night, defeat the evil within. | Complete the Main Quest | Silver",
+        "html": "<table><thead><tr><th>Name</th><th>Description</th><th>How to Obtain</th><th>Rarity</th></tr></thead><tbody><tr><td>Trial by Ordeal</td><td>In Dead of the Night, defeat the evil within.</td><td>Complete the Main Quest</td><td>Silver</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+        "tip": "Use the linked route for the required equipment. Exact shared credit, damage exclusions, area boundaries, timer edges and current unlock behavior have not been independently tested."
+      },
+      {
+        "title": "Well Done",
+        "body": "Well Done | In Dead of the Night, stake a Nosferatu in the Dining Room. | Obtain the Stake Knife, and then melee a Vampire in the Dining Room | Bronze",
+        "html": "<table><thead><tr><th>Name</th><th>Description</th><th>How to Obtain</th><th>Rarity</th></tr></thead><tbody><tr><td>Well Done</td><td>In Dead of the Night, stake a Nosferatu in the Dining Room.</td><td>Obtain the Stake Knife, and then melee a Vampire in the Dining Room</td><td>Bronze</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+        "tip": "Use the linked route for the required equipment. Exact shared credit, damage exclusions, area boundaries, timer edges and current unlock behavior have not been independently tested."
+      }
+    ],
+    "relatedGuideIds": [
+      "bo4-dead-of-the-night-community-dead-of-the-night-easter-eggs-quests-main-quest",
+      "bo4-dead-of-the-night-community-dead-of-the-night-map-features-pack-a-punch",
+      "bo4-dead-of-the-night-community-dead-of-the-night-map-features-ballistic-shield",
+      "bo4-dead-of-the-night-community-dead-of-the-night-map-features-silver-bullets",
+      "bo4-dead-of-the-night-community-dead-of-the-night-map-features-alistair-s-folly",
+      "bo4-dead-of-the-night-alistairs-annihilator",
+      "bo4-dead-of-the-night-community-dead-of-the-night-easter-eggs-quests-stake-knife"
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+    "sharedSource": false,
+    "sourceOmissions": [],
+    "sources": [
+      {
+        "title": "r/CODZombies — Dead of the Night map article",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/"
+      }
+    ],
+    "images": [
+      {
+        "src": "./assets/dotn-enemy-objectives.svg",
+        "alt": "Enemy objectives",
+        "caption": "Original reference diagram. Recorded effects and objectives; current team credit and timers remain unchecked.",
+        "credit": "Dead Drop",
+        "source": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+        "width": 420,
+        "height": 660
+      }
+    ]
   }
 ]
