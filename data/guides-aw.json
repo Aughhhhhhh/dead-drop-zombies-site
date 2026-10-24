@@ -403,74 +403,134 @@
       "Advanced Warfare: Reckoning / Descent",
       "Exo Suit from Galleria; Exo Slam for the number board",
       "A Goliath scorestreak from a random supply drop",
-      "An upgraded weapon for flying drones and Oz; Exo Health and Exo Reload are strongly recommended"
+      "An upgraded weapon for flying drones and Oz; Exo Health and Exo Reload are strongly recommended",
+      "Buy Contact Grenades before the grenade-only challenge; the written hunt guide explicitly asks for a purchase"
     ],
-    "reward": "Reunion achievement / trophy and permanent access to Double Feature mode. Completion ends the match and restarts the map in Double Feature.",
+    "reward": "Reunion achievement / trophy and the reported transition into Double Feature. The earlier route describes permanent mode access; current account, host and offline persistence are not established here.",
     "steps": [
       {
         "title": "Equip yourself and plan for the arena interruptions",
-        "body": "Open the resort routes, activate local generators, and collect the Exo Suit in Galleria. Obtain Exo Health, a useful upgraded weapon, and eventually Exo Slam. Keep a Goliath drop for the underwater switch. Save a zombie before puzzles so you can work without prematurely ending the round.\nOz automatically teleports you to an arena on round 5, around round 12, and on round 20 if you reach it. The round-5 visit is only dialogue; wait for the return teleport. The two later fights are described near the end of this guide. After an arena interruption, resume the quest step you were doing."
+        "body": "Open the resort routes, activate local generators, and collect the Exo Suit in Galleria. Obtain Exo Health, a useful upgraded weapon, and eventually Exo Slam. Keep a Goliath drop for the underwater switch. Save a zombie before puzzles so you can work without prematurely ending the round.\nExpect automatic Oz arena interruptions. The earlier route places the dialogue visit at 5 and mutated Oz at 20; a launch-day player reports the teaser at 6. Wait for the return teleport after the dialogue visit. The two later fights are described near the end of this guide. After an arena interruption, resume the quest step you were doing.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/3frel0/exo_zombies_dlc4_descent_easter_eggs_achievements/",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/3frel0/exo_zombies_dlc4_descent_easter_eggs_achievements/",
+          "https://www.reddit.com/r/CODZombies/comments/uwa65u/is_there_any_way_to_skip_the_boss_fight_and_to_go/"
+        ],
+        "tip": "The two fights are mandatory even when you are only playing for high rounds; defeating the second Oz does not itself end the match. Do not add an all-three-earlier-quests prerequisite: EZyne reported starting Descent without completing Carrier. Exact arena transition timing and the earlier setup landmarks have not been checked on a current build.",
+        "original": true
       },
       {
         "title": "Open the secret Tidal Generator room",
-        "body": "Find the three valves on the wall beside Tidal Generator's spiral staircase: left of the power generator, above the right yellow door, and right of the AMR9 wallbuy. Shoot each valve until its indicator turns blue. A side-room door opens halfway up the stairs. Interact with its terminal, wait through Angie's dialogue, then interact again to receive Access Denied. This is the required starting response, not a failed attempt."
+        "body": "Find the three valves on the wall beside Tidal Generator's spiral staircase: left of the power generator, above the right yellow door, and right of the AMR9 wallbuy. Shoot each valve until its indicator turns blue. A side-room door opens halfway up the stairs. Interact with its terminal, wait through Angie's dialogue, then interact again to receive Access Denied. This is the required starting response, not a failed attempt.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/3frel0/exo_zombies_dlc4_descent_easter_eggs_achievements/",
+        "tip": "The original written route confirms three black valves around the staircase below Exo Health, blue indicators and two terminal interactions. The three finer valve bearings and the Access Denied wording above are retained from the earlier site route; no independent locator photo or current input timing was checked.",
+        "original": true
       },
       {
         "title": "Depressurize the Lounge airlock and reroute power",
         "body": "Hold interact at the Floodable Airlock in Lounge, near the Printer, for roughly 45 seconds. You can stop to defend yourself and resume without losing the depressurization progress. Equip a Goliath suit from a supply drop, open the prepared airlock, and walk along the seafloor route toward its red switch. Punch the floating zombie blocking the path. Interact with the switch to change it to blue, then return along the same path before the suit expires. Oz announces a challenge for the next round.",
-        "tip": "A Goliath drop is random. Keep opening routes and improving your weapon while you wait for one."
+        "tip": "A Goliath drop is random. Keep opening routes and improving your weapon while you wait for one. The original route confirms saved depressurization progress, a Goliath, the underwater path, meleeing the Host and a color-changing switch. The roughly 45-second duration, suit-drop timing and return deadline are earlier-route details; use the live door and suit indicators rather than a fixed stopwatch.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/3frel0/exo_zombies_dlc4_descent_easter_eggs_achievements/",
+        "original": true
       },
       {
         "title": "Drone challenge — destroy five empty drones",
-        "body": "At the start of the next round, hunt the empty Treasure Drone. Shooting it spawns the next empty drone elsewhere; destroy five in total. A normal drone carrying loot may also appear and does not count. Once approached or damaged, a challenge drone heads for a map exit, so chase and shoot it immediately. Keep the round's last zombie alive until all five are destroyed.\nIf a drone escapes, or you end the round before destroying all five, the challenge fails and restarts next round. Wait for the green Challenge Success message and Oz's confirmation before moving on.",
-        "tip": "An upgraded shotgun such as the S12 or Blunderbuss deals strong close-range drone damage. Have your weapon ready before triggering the next round."
+        "body": "At the start of the next round, hunt the empty Treasure Drone. Shooting it spawns the next empty drone elsewhere; work toward the earlier route's five-drone target. The original hunt post says around five, so the Challenge Success message is the completion check; an exact solo/co-op count is not established here. A normal drone carrying loot may also appear and does not count. Once approached or damaged, a challenge drone heads for a map exit, so chase and shoot it immediately. Keep the round's last zombie alive until the challenge reports success.\nIf a drone escapes, or you end the round before completing the drone objective, the challenge fails and restarts next round. Wait for the green Challenge Success message and Oz's confirmation before moving on.",
+        "tip": "An upgraded shotgun such as the S12 or Blunderbuss deals strong close-range drone damage. Have your weapon ready before triggering the next round. The one-round deadline is explicit in the original written route. Empty-versus-loot identification, sequential spawns and the precise next-round retry behavior above are retained from the earlier route, not a complete spawn census. QueenLa3fah independently recommends an S12 or Blunderbuss from the Printer.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/3frel0/exo_zombies_dlc4_descent_easter_eggs_achievements/",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/1vomjv2/just_beat_the_descent_ee_for_the_first_time/"
+        ],
+        "original": true
       },
       {
         "title": "Charge the Galleria capacitor",
-        "body": "At the capacitor on the lower Galleria wall near the fountain, lure electric EMZ enemies close and allow their shock attack to hit you beside the device. The charge transfers to its meter. Electric dogs and the armored or teleporting electric variants also work. Repeat until the display reaches 100% and Angie confirms the power diversion. Remove ordinary zombies first, take only a manageable electric enemy at a time, and recover between hits so the disabled Exo Suit does not leave you trapped."
+        "body": "At the capacitor on the lower Galleria wall near the fountain, lure electric EMZ enemies close and allow their shock attack to hit you beside the device. The charge transfers to its meter. Electric dogs and the armored or teleporting electric variants also work. Repeat until the display reaches 100% and Angie confirms the power diversion. Remove ordinary zombies first, take only a manageable electric enemy at a time, and recover between hits so the disabled Exo Suit does not leave you trapped.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/3frel0/exo_zombies_dlc4_descent_easter_eggs_achievements/",
+        "tip": "The written hunt locates the circuit by the broken Galleria fish tank and requires an electric zombie shock while you stand beside it; Hoiyah reports a 100% target. The earlier route also lists electric dogs and hybrid variants, but those variant-specific charging rules have not been independently tested here.",
+        "original": true
       },
       {
         "title": "Contact Grenade challenge — clear a full round",
-        "body": "On the following challenge round, you receive unlimited Contact Grenades, even if you did not buy them. Guns, tactical grenades, and offensive scorestreaks cannot be used for this challenge. Kill the entire wave with Contact Grenades. Throw ahead of moving zombie groups and keep enough distance that the blast does not catch you. The round's completion advances the quest."
+        "body": "Buy Contact Grenades before this round. The original written hunt explicitly tells you to buy them; a player who reached the challenge reports infinite grenades and disabled gunfire. Clear the entire grenade-only round, then wait for Challenge Success. The earlier route also excludes tacticals and offensive scorestreaks; do not rely on them to bypass the challenge.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/3frel0/exo_zombies_dlc4_descent_easter_eggs_achievements/",
+        "tip": "This corrects the earlier claim that you need not buy Contact Grenades. Exact self-damage and tactical/scorestreak eligibility remain untested; the earlier route warns about blast damage, so keep room to throw and recover.",
+        "original": true
       },
       {
         "title": "Complete the Landing jumping platforms",
-        "body": "Return to Landing / spawn. Use Exo jumps and boosts to land on the floating blue platforms and reach each layout's final marker. A completed layout bounces you back and produces another. Work through all nine layouts until the success response.\nPlatforms disappear shortly after you stand on them, so decide the next jump before landing. Missing a jump returns you to Landing for another try; it does not erase already completed layouts. Wait for vanished platforms to reappear rather than jumping into an empty spot."
+        "body": "Return to Landing / spawn. Use Exo jumps and boosts to land on the floating blue platforms and reach each layout's final marker. A completed layout bounces you back and produces another. The earlier route describes nine layouts; follow the active platforms until the success response.\nPlatforms disappear shortly after you stand on them, so decide the next jump before landing. Missing a jump returns you to Landing for another try; it does not erase already completed layouts. Wait for vanished platforms to reappear rather than jumping into an empty spot.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/3frel0/exo_zombies_dlc4_descent_easter_eggs_achievements/",
+        "tip": "Follow the glowing platforms until the game advances. Launch-day replies mention five platforms/stages while the earlier site route says nine layouts; those may count different things, and neither is a current full census. As a practice option, oehmer08 and spiderrichard describe sliding, jumping before the edge, boost-jumping and dashing forward twice. No linked tutorial or exact jump-frame timing was used.",
+        "original": true
       },
       {
         "title": "Move challenge — keep a positive credit balance",
-        "body": "The next challenge round spends your credits whenever you move. Choose an open position with escape space and reduce unnecessary walking; turning to aim does not require moving across the map. Use your normal weapons to clear the wave and earn credits. Move when needed to avoid a down, but keep your balance above zero: reaching zero can leave you unable to move. Bank credits before starting this round instead of spending everything on upgrades immediately beforehand."
+        "body": "The next challenge round spends your credits whenever you move. Choose an open position with escape space and reduce unnecessary walking; turning to aim does not require moving across the map. Use your normal weapons to clear the wave and earn credits. Move when needed to avoid a down. The earlier route says reaching zero can prevent movement and therefore recommends banking credits before starting; those threshold and preparation rules are not independently established by the written hunt.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/3frel0/exo_zombies_dlc4_descent_easter_eggs_achievements/",
+        "tip": "The original route confirms that movement costs credits for one round, but advises spending points before the preceding jump puzzle. That advice conflicts with the earlier site recommendation to bank credits. No reliable zero-credit failure rule or exact cost per movement input is established; watch your live balance and clear the wave with minimal repositioning.",
+        "original": true
       },
       {
         "title": "Reception Simon Says — repeat the actual flashes",
-        "body": "Go to the four monitors at the Reception desk and interact with the glowing right-hand screen. Watch the displayed sequence, then interact with the monitors in the same order. Repeat the sequence as the game extends it until the cheerful completion sound and power-diversion dialogue play. Record positions or colors as they flash. The monitor colors and sequence vary by run; a fixed internet code will not solve every game.",
-        "tip": "Have one player call and enter the sequence while another controls the remaining zombie."
+        "body": "Go to the four monitors at the Reception desk. The earlier route begins by interacting with the glowing right-hand screen; the original written hunt does not prescribe a fixed start screen. Watch the displayed sequence, then interact with the monitors in the same order. Repeat the sequence as the game extends it until the cheerful completion sound and power-diversion dialogue play. Record positions or colors as they flash. The monitor colors and sequence vary by run; a fixed internet code will not solve every game.",
+        "tip": "Have one player call and enter the sequence while another controls the remaining zombie. Four Self-Check-In monitors to the right of the Reception trophies and repeating their flashes are supported. The earlier route chooses the right-hand start screen; no fixed universal start screen or final sequence length is established in the original text. Copy the sequence your game actually shows.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/3frel0/exo_zombies_dlc4_descent_easter_eggs_achievements/",
+        "original": true
       },
       {
         "title": "Friendly Fire challenge — finish without a friendly casualty",
-        "body": "Friendly Fire turns on for the next challenge round. Complete the wave without downing a teammate with your weapons. Spread out, communicate your lanes, and avoid explosives or ricocheting shots near other players. In solo or an incomplete lobby, AI survivors can appear and shoot you; keep clear of their lines of fire and focus on ordinary zombies. A Friendly Fire casualty fails the challenge, requiring another challenge round. Wait for the success confirmation before proceeding."
+        "body": "Friendly Fire turns on for the next challenge round. Complete the wave without downing a teammate with your weapons. Spread out, communicate your lanes, and avoid explosives or ricocheting shots near other players. In solo or an incomplete lobby, AI survivors can appear and shoot you; keep clear of their lines of fire and focus on ordinary zombies. A Friendly Fire casualty fails the challenge, requiring another challenge round. Wait for the success confirmation before proceeding.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/3frel0/exo_zombies_dlc4_descent_easter_eggs_achievements/",
+        "tip": "Protect human teammates and keep the firing lines clear. AI rules conflict: the OP says they cannot be killed, an early attempt says to kill them, and another reply says not to damage teammates. The exact human-down versus damage failure trigger and next-round reset rule are not established; the earlier no-casualty instruction is retained as a cautious play plan.",
+        "original": true
       },
       {
         "title": "Match the four number-board columns",
-        "body": "Return to the Tidal Generator side room. The top row is the target; make the four lower digits match it. Read the columns left to right:\n1. Zombies hit by Exo Slam; buy Exo Slam first.\n2. Player jumps.\n3. Wall purchases; buying grenades works, buying ammunition for an already-owned gun does not.\n4. Zombie deaths.\nThe digits cycle back after 9 if you overshoot. Team actions affect the board, so pause unnecessary kills, jumps, and shopping. Set the slam column first, then fix the kill count it also changes; adjust jumps and purchases last. All four matches trigger completion automatically and unlock the side room's Mk 25 station.",
-        "tip": "Slam a single separated zombie when you need a small adjustment. Hitting a whole group can advance the first column several times."
+        "body": "Return to the secret Tidal Generator room. Match each of the four bottom numbers to the top target in the same column. The original OP restricts actions to the staircase, but xImJakeyy explicitly corrects this: they register across the whole map.\nColumn | Action | Written-source qualification\n1 — left | Exo Slam zombies | OP: Exo Slam hits. NS96: Slam kills. Watch which action actually increments your bottom digit.\n2 | Jump | Each jump changes this column in the written reports.\n3 | Make a wall/equipment purchase | OP says equipment purchases; NS96 recommends buying Contact Grenades from the wall.\n4 — right | Kill zombies | Regular kills change this column; Slam kills may also affect it.\nDo Slam actions first, then adjust kills, jumps and purchases while checking the display after each action. The earlier route says digits cycle 0–9, ammo refills do not count as purchases and matching the board unlocks Mk 25. Those finer rules are not independently established here. In an unfinished attempt, a player says a weapon upgrade station should open after Simon Says, but does not name Mk 25 or identify the machine. That statement does not establish an alternative experimental-station trigger. The earlier board-unlock rule remains uncorroborated.",
+        "html": "<p>Return to the secret Tidal Generator room. Match each of the four bottom numbers to the top target in the same column. The original OP restricts actions to the staircase, but xImJakeyy explicitly corrects this: they register across the whole map.</p><table><thead><tr><th>Column</th><th>Action</th><th>Written-source qualification</th></tr></thead><tbody><tr><td>1 — left</td><td>Exo Slam zombies</td><td>OP: Exo Slam hits. NS96: Slam kills. Watch which action actually increments your bottom digit.</td></tr><tr><td>2</td><td>Jump</td><td>Each jump changes this column in the written reports.</td></tr><tr><td>3</td><td>Make a wall/equipment purchase</td><td>OP says equipment purchases; NS96 recommends buying Contact Grenades from the wall.</td></tr><tr><td>4 — right</td><td>Kill zombies</td><td>Regular kills change this column; Slam kills may also affect it.</td></tr></tbody></table><p>Do Slam actions first, then adjust kills, jumps and purchases while checking the display after each action. The earlier route says digits cycle 0–9, ammo refills do not count as purchases and matching the board unlocks Mk 25. Those finer rules are not independently established here. In an unfinished attempt, a player says a weapon upgrade station should open after Simon Says, but does not name Mk 25 or identify the machine. That statement does not establish an alternative experimental-station trigger. The earlier board-unlock rule remains uncorroborated.</p>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/3frel0/exo_zombies_dlc4_descent_easter_eggs_achievements/",
+        "tip": "Keep a teammate watching the board in co-op because actions elsewhere can alter it. The Exo Slam hits-versus-kills rule remains unresolved. This table preserves the four actions and makes the map-wide correction explicit; it does not claim a tested input solver."
       },
       {
         "title": "MAHEM challenge — clear the rocket-only round",
-        "body": "The next challenge gives you a Mk 25 MAHEM with unlimited rockets. Use it to kill the entire wave. Your movement is restricted and close explosions can damage you, so fire into groups at a distance and avoid shooting the ground at your feet or a wall beside you. Once the round is cleared, listen for Oz's completion response."
+        "body": "The next challenge gives you a Mk 25 MAHEM with unlimited rockets. Use it to kill the entire wave. Your movement is restricted and close explosions can damage you, so fire into groups at a distance and avoid shooting the ground at your feet or a wall beside you. Once the round is cleared, listen for Oz's completion response.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/3frel0/exo_zombies_dlc4_descent_easter_eggs_achievements/",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/d7g5ka/thoughts_on_exo_zombies/"
+        ],
+        "tip": "Receiving a Mk 25 MAHEM, using only it for the round and its self-damage warning are explicit in the written hunt. Unlimited ammo and the exact movement restrictions above remain earlier-route details; follow the active challenge UI rather than assuming normal loadout rules.",
+        "original": true
       },
       {
         "title": "If interrupted around round 12 — defeat Oz at four windows",
-        "body": "The first real arena fight begins around round 12, or 13 when the preceding round is a dog round. Listen for the opening-window cue, find Oz behind one of four windows, and shoot him until that console explodes. If the window shuts too soon, survive until it reopens. Repeat at the other windows.\nBetween damage opportunities, destroy ceiling turrets and sentries and dodge the traps: stay out of the overhead laser grid, leave sparking floor sections, and use the central decontamination pad if gas infects you. Pillars and upper walkways help avoid the electric floor when safe to jump. The later phases combine more traps. After four destroyed consoles, collect the reload / DNA Bomb drops and any nearby credit crates before the countdown returns you to the resort."
+        "body": "Prepare for the first battle at round 13, as identified in the publisher's 2015 introduction. Listen for the opening-window cue, find Oz behind one of four windows, and shoot him until that console explodes. If the window shuts too soon, survive until it reopens. Repeat at the other windows.\nBetween damage opportunities, destroy ceiling turrets and sentries and dodge the traps: stay out of the overhead laser grid, leave sparking floor sections, and use the central decontamination pad if gas infects you. Pillars and upper walkways help avoid the electric floor when safe to jump. The later phases combine more traps. After four destroyed consoles, collect the reload / DNA Bomb drops and any nearby credit crates before the countdown returns you to the resort.",
+        "researchSource": "https://www.callofduty.com/ca/fr/blog/archives/pro-tips--exo-zombies-part-four-descent",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/3frel0/exo_zombies_dlc4_descent_easter_eggs_achievements/",
+          "https://www.reddit.com/r/CODZombies/comments/uwa65u/is_there_any_way_to_skip_the_boss_fight_and_to_go/"
+        ],
+        "tip": "JacksonSX35 reports the first fight at 13, four progressively tougher windows, a laser ceiling that punishes jumping, an electric floor, possible infected zones and individual ammo drops. They say normal kill money is unavailable in the arena. The earlier console-opening action, turrets/sentries, exact trap combinations and countdown/drop sequence are retained context rather than newly tested mechanics. The publisher supplies timing, not the fight procedure, and does not compare ordinary and Double Feature schedules.",
+        "original": true
       },
       {
         "title": "If interrupted on round 20 — defeat mutated Oz",
-        "body": "Run around the arena activating the four corner generators to power the central decontamination pad. Lure mutated Oz onto that pad, then activate it. Only while his shield is down can you damage him. Fire your upgraded weapon until the blue shield returns; roughly a quarter of his health is the most one activation can remove.\nAfter every pad use, activate all four generators again, even if you missed Oz. Repeat the lure, cleanse, and damage cycle until his health is gone. Avoid his infecting melee attacks, gas, and lasers while clearing interfering zombies. Take the reward drops and wait for the return teleport. This fight alone does not complete Reunion; continue the unfinished challenge chain."
+        "body": "Run around the arena activating the four corner generators to power the central decontamination pad. Lure mutated Oz onto that pad, then activate it. Only while his shield is down can you damage him. Fire your upgraded weapon until the blue shield returns; roughly a quarter of his health is the most one activation can remove.\nAfter every pad use, activate all four generators again, even if you missed Oz. Repeat the lure, cleanse, and damage cycle until his health is gone. Avoid his infecting melee attacks, gas, and lasers while clearing interfering zombies. Take the reward drops and wait for the return teleport. This fight alone does not complete Reunion; continue the unfinished challenge chain.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/uwa65u/is_there_any_way_to_skip_the_boss_fight_and_to_go/",
+        "tip": "The original player replies support the mandatory second fight and continued play afterward. The four-corner-generator/decontamination-pad loop, quarter-health damage cap, missed-use reset and exact round 20 timing above are inherited from the earlier detailed route; the healthy primary text read for this pass does not independently establish that procedure. Keep that distinction when planning Double Feature.",
+        "original": true
       },
       {
         "title": "Enter Oz's memory and finish the quest",
-        "body": "After the rocket challenge, gather the team at the Tidal Generator side-room terminal. Interact for the completed power diversion; the machine beside it turns red. Interact once more to turn it blue and transport the lobby into Oz's memory, a small area resembling Outbreak's spawn with the bus.\nSurvive two zombie waves, remaining inside the playable area and listening to the dialogue between them. Missing survivors appear as friendly AI. After the second wave and final dialogue, the game returns you, awards Reunion, ends the match, and restarts Descent in Double Feature mode.",
-        "tip": "Double Feature is now available from the keypad behind your Landing spawn in later matches. Its separate round-20 Oz completion is the Double Tap trophy, not an extra requirement for Reunion."
+        "body": "After the rocket challenge, gather the team at the Tidal Generator side-room terminal. Interact for the completed power diversion; the machine beside it turns red. Interact once more to turn it blue and transport the lobby into Oz's memory, a small area resembling Outbreak's spawn with the bus.\nSurvive the full memory sequence, remaining inside the playable area and listening to the dialogue. The earlier route counts two zombie waves with dialogue between them; the original written hunt calls it finishing the round. Missing survivors appear as friendly AI. After the sequence and final dialogue, the game returns you, awards Reunion, ends the match, and restarts Descent in Double Feature mode.",
+        "tip": "Double Feature is now available from the keypad behind your Landing spawn in later matches. Its separate round-20 Oz completion is the Double Tap trophy, not an extra requirement for Reunion. The original written ending says to finish the memory round, while the earlier route counts two waves. A completed-run reply confirms Double Feature starts afterward, but Double Tap still requires Oz to be killed in that mode. Permanent unlocks, the later Landing keypad, all-player activation and offline/account trophy persistence are not established by those reports.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/3frel0/exo_zombies_dlc4_descent_easter_eggs_achievements/",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/uwa65u/is_there_any_way_to_skip_the_boss_fight_and_to_go/",
+          "https://www.reddit.com/r/AdvancedWarfare/comments/1j3jcuc/descent_ee_help_ps5/",
+          "https://www.reddit.com/r/CODZombies/comments/h7znz6/i_unlocked_all_of_the_trophies_in_exo_zombies/"
+        ],
+        "original": true
       }
     ],
     "sources": [
@@ -517,8 +577,42 @@
       {
         "title": "Community explanation: Oz fights versus quest completion",
         "url": "https://www.reddit.com/r/CODZombies/comments/uwa65u/"
+      },
+      {
+        "title": "LackingAGoodName — Descent quest and music discussion, with original player corrections",
+        "url": "https://www.reddit.com/r/CODZombies/comments/3frel0/exo_zombies_dlc4_descent_easter_eggs_achievements/"
+      },
+      {
+        "title": "DanC0ach and Bossuter — mandatory Oz fights versus quest ending",
+        "url": "https://www.reddit.com/r/CODZombies/comments/uwa65u/is_there_any_way_to_skip_the_boss_fight_and_to_go/"
+      },
+      {
+        "title": "TrixStudio — Exo Zombies play review and Double Feature price report",
+        "url": "https://www.reddit.com/r/CODZombies/comments/d7g5ka/thoughts_on_exo_zombies/"
+      },
+      {
+        "title": "-Ughly- — main quest finished before seeking Double Feature help",
+        "url": "https://www.reddit.com/r/AdvancedWarfare/comments/1j3jcuc/descent_ee_help_ps5/"
+      },
+      {
+        "title": "RdJokr1993 and RealBlazeStorm — harpoon trophy and offline reports",
+        "url": "https://www.reddit.com/r/CODZombies/comments/h7znz6/i_unlocked_all_of_the_trophies_in_exo_zombies/"
+      },
+      {
+        "title": "Publisher timing",
+        "url": "https://www.callofduty.com/ca/fr/blog/archives/pro-tips--exo-zombies-part-four-descent"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-24",
+    "relatedGuideIds": [
+      "aw-descent-dies-irae-song",
+      "aw-descent-double-tap",
+      "aw-descent-trident-upgrades",
+      "aw-descent-weapons-and-machines-reference",
+      "aw-descent-achievements-and-trophies-reference"
+    ],
+    "sourceQuote": "https://www.reddit.com/r/CODZombies/comments/3frel0/exo_zombies_dlc4_descent_easter_eggs_achievements/",
+    "sharedSource": false,
+    "sourceOmissions": []
   }
 ]
