@@ -14785,5 +14785,490 @@
         "height": 660
       }
     ]
+  },
+  {
+    "id": "bo4-tag-der-toten-secret-island",
+    "mapId": "bo4-tag-der-toten",
+    "title": "Secret island: reported solo launch and swim",
+    "category": "side",
+    "difficulty": "Standard Classic / source reviewed",
+    "players": "Solo / co-op; read conditions",
+    "summary": "Try the documented crouch-and-spin launch, then complete the cold-water cavern crossing.",
+    "requirements": [
+      "Black Ops 4: Tag der Toten. Standard Classic is the reference mode here; the separate Normal Gauntlet has its own deadlines and restrictions.",
+      "Repair the Outer Walkway laboratory flinger via the Heat Pack gearbox route. Prepare for a long, damaging icy-water swim.",
+      "The successful solo PC report identifies Normal difficulty. Online play was suggested in a reply, but was not explicitly confirmed by the successful reporter. Other modes and a guaranteed trigger on every current build are not established."
+    ],
+    "reward": "The Secret island scene and achievement progression.",
+    "steps": [
+      {
+        "title": "Prepare the laboratory flinger and swim",
+        "body": "Clear the Outer Walkway debris, have its gearbox repaired by the Hermit and reinstall it. Bring the Heat Pack and a ready survival option for the water. The 2019 guide suggests Talkin' Bout Regeneration or a charged specialist for the crossing, without a verified immunity duration.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/daps94/tag_der_toten_easter_egg_step_by_step/",
+        "original": true
+      },
+      {
+        "title": "Try the solo reporter's corner method",
+        "body": "Crouch before moving onto the flinger. The successful PC author calls the position its back-left corner: remain crouched and rotate continuously in one direction as it launches. That author raised mouse sensitivity and used a slow continuous swipe rather than repeated short swipes.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/14sqtwh/help_with_tag_der_toten_secret_ee/",
+        "original": true,
+        "tip": "The corner label conflicts with a reply's top-right description, and no close-up of this corner has been inspected. Treat this as the reporter's attempt method, not a guaranteed coordinate or script rule."
+      },
+      {
+        "title": "Distinguish the special landing",
+        "body": "A successful special launch lands away from the usual map route at a remote snowy shore. If you land at an ordinary destination, return and reassess the corner and rotation. Later firsthand reports include inconsistent launches and accidental ship-flinger redirects, so a fixed attempt count is not promised.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/ofhkmo/tag_der_toten_flinger_for_from_ship_to_lighthouse/",
+        "original": true,
+        "images": [
+          {
+            "src": "./assets/tag-der-toten-secret-island.webp",
+            "alt": "Secret island landing",
+            "caption": "Secret island from above.",
+            "credit": "u/Lanky_Recognition192",
+            "source": "https://www.reddit.com/r/CODZombies/comments/1jfysoy/what_happened/",
+            "width": 750,
+            "height": 750
+          }
+        ],
+        "tip": "This player's accidental launch shows the island destination. It does not establish a reliable launch method."
+      },
+      {
+        "title": "Swim all the way through the cavern",
+        "body": "From the remote shore, enter the icy-water passage and swim through to the other side. Watch your health and use your prepared survival option if needed; merely reaching the first shore is not the achievement finish described by players.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/1jfysoy/what_happened/",
+        "original": true
+      },
+      {
+        "title": "Reach the far-side scene",
+        "body": "Continue until you emerge at the far side and the Secret achievement registers. The far-side planet view and music have not been verified in this source pass. The notes do not establish a complete return route or safe teleport behavior, so this guide does not turn the OP's accidental elixir behavior into a recommended step.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/1jfysoy/what_happened/",
+        "original": true
+      }
+    ],
+    "sourceOmissions": [
+      "The solo OP says back-left; a reply calls it top-right. Camera orientation, spin speed/direction and exact trigger are not reconciled by inspected gameplay here.",
+      "A later firsthand report failed about ten Facility attempts and then launched from a ship flinger. Do not treat the method, one-player limit or per-match repeatability as certified.",
+      "No claim about the scene proving a location in the story is made."
+    ],
+    "sources": [
+      {
+        "title": "Solo PC island report",
+        "url": "https://www.reddit.com/r/CODZombies/comments/14sqtwh/help_with_tag_der_toten_secret_ee/"
+      },
+      {
+        "title": "AvatarWarmech and launch reports",
+        "url": "https://www.reddit.com/r/CODZombies/comments/ofhkmo/tag_der_toten_flinger_for_from_ship_to_lighthouse/"
+      },
+      {
+        "title": "Island swim reports",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1jfysoy/what_happened/"
+      },
+      {
+        "title": "Robo_TeamJABS: updated Tag walkthrough",
+        "url": "https://www.reddit.com/r/CODZombies/comments/daps94/tag_der_toten_easter_egg_step_by_step/"
+      },
+      {
+        "title": "u/Lanky_Recognition192: original island clip",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1jfysoy/what_happened/"
+      }
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": "https://www.reddit.com/r/CODZombies/comments/14sqtwh/help_with_tag_der_toten_secret_ee/",
+    "sharedSource": false,
+    "supplementNote": "Route paragraphs are authored from the credited original Reddit writing. Explicit tables preserve short source entries or identify a combined reference. Inputs use the action name Interact; platform bindings, exact timers and unlisted locations are not inferred. No retail playtest is claimed. The inline frame was inspected only as an island landing landmark.",
+    "relatedGuideIds": [
+      "bo4-tag-der-toten-community-tag-der-toten-map-features-heat-pack",
+      "bo4-tag-der-toten-community-tag-der-toten-map-features-golden-pack-a-punch",
+      "bo4-tag-der-toten-achievement-checklist"
+    ],
+    "images": [
+      {
+        "src": "./assets/tag-der-toten-island-reference.svg",
+        "alt": "Island route reference",
+        "caption": "Original reference diagram. Read the guide for source limits and the complete supported instructions.",
+        "credit": "Dead Drop",
+        "source": "https://www.reddit.com/r/CODZombies/comments/14sqtwh/help_with_tag_der_toten_secret_ee/",
+        "width": 420,
+        "height": 660
+      }
+    ]
+  },
+  {
+    "id": "bo4-tag-der-toten-campfire-song",
+    "mapId": "bo4-tag-der-toten",
+    "title": "Campfire song: extra Sunken Path interaction",
+    "category": "music",
+    "difficulty": "Standard Classic / source reviewed",
+    "players": "Solo / co-op; read conditions",
+    "summary": "After the story's Music Box fire ritual, interact with the Sunken Path fire again for the reported campfire song.",
+    "requirements": [
+      "Black Ops 4: Tag der Toten. Standard Classic is the reference mode here; the separate Normal Gauntlet has its own deadlines and restrictions.",
+      "Reach a Sunken Path story ritual with the Seal of Duality and Samantha's Music Box."
+    ],
+    "reward": "The optional Aether crew campfire song.",
+    "steps": [
+      {
+        "title": "Finish the Music Box fire ritual",
+        "body": "During the story quest, place the Seal at the Sunken Path campfire and throw Samantha's Music Box onto it. Allow the normal ritual dialogue to finish.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/daps94/tag_der_toten_easter_egg_step_by_step/",
+        "original": true
+      },
+      {
+        "title": "Interact with the campfire again",
+        "body": "The updated author lists a third optional song: interact with that campfire a few times after the Music Box ritual. Listen for the crew campfire song. The source gives no precise interaction count or independent activation cue.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/daps94/tag_der_toten_easter_egg_step_by_step/",
+        "original": true
+      },
+      {
+        "title": "Keep the song separate from story completion",
+        "body": "Continue the main quest using its actual device and objective cues. Hearing this extra song is not described as a substitute for the remaining orb charges, lockdown, Pack-a-Punch stages or finale.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/daps94/tag_der_toten_easter_egg_step_by_step/",
+        "original": true
+      }
+    ],
+    "sourceOmissions": [
+      "The author says interact a few times after using the Music Box; exact count, eligible ritual number, current timing and replay rules are not established.",
+      "No lyrics, dialogue or performance transcript is reproduced."
+    ],
+    "sources": [
+      {
+        "title": "Robo_TeamJABS: updated Tag walkthrough",
+        "url": "https://www.reddit.com/r/CODZombies/comments/daps94/tag_der_toten_easter_egg_step_by_step/"
+      }
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": "https://www.reddit.com/r/CODZombies/comments/daps94/tag_der_toten_easter_egg_step_by_step/",
+    "sharedSource": false,
+    "supplementNote": "Route paragraphs are authored from the credited original Reddit writing. Explicit tables preserve short source entries or identify a combined reference. Inputs use the action name Interact; platform bindings, exact timers and unlisted locations are not inferred. No retail playtest or step image inspection is claimed.",
+    "relatedGuideIds": [
+      "bo4-tag-der-toten-community-tag-der-toten-easter-eggs-quests-main-quest",
+      "bo4-tag-der-toten-community-tag-der-toten-map-features-samanthas-music-box",
+      "bo4-tag-der-toten-community-tag-der-toten-easter-eggs-quests-a-light-from-the-shore-easter-egg-song",
+      "bo4-tag-der-toten-community-tag-der-toten-easter-eggs-quests-reflections-easter-egg-song"
+    ],
+    "images": [
+      {
+        "src": "./assets/tag-der-toten-campfire-reference.svg",
+        "alt": "Campfire song reference",
+        "caption": "Original reference diagram. Read the guide for source limits and the complete supported instructions.",
+        "credit": "Dead Drop",
+        "source": "https://www.reddit.com/r/CODZombies/comments/daps94/tag_der_toten_easter_egg_step_by_step/",
+        "width": 420,
+        "height": 660
+      }
+    ]
+  },
+  {
+    "id": "bo4-tag-der-toten-records-and-wisps",
+    "mapId": "bo4-tag-der-toten",
+    "title": "Story recordings: documented starting points",
+    "category": "side",
+    "difficulty": "Standard Classic / source reviewed",
+    "players": "Solo / co-op; read conditions",
+    "summary": "Find the reported red records and Lighthouse Approach wisp while keeping the missing recorder route visible.",
+    "requirements": [
+      "Black Ops 4: Tag der Toten. Standard Classic is the reference mode here; the separate Normal Gauntlet has its own deadlines and restrictions."
+    ],
+    "reward": "A small set of supported lore interactions; the full pickup route remains open.",
+    "steps": [
+      {
+        "title": "Check the Boathouse chair for a red record",
+        "body": "A firsthand hunter reports finding a collectible red phonograph-style record on a chair inside Boathouse. Approach the chair and try Interact on the record. El_Schappo independently reports that this pickup had no action-button message and did not appear in the inventory display.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/d89oo5/tag_der_toten_easter_egg_hunt_general_map/",
+        "original": true
+      },
+      {
+        "title": "Check the old starting shore snow",
+        "body": "Therabwiser reports picking up a red record disk in the snow at the original Call of the Dead spawn area. Search that shoreline snow for the reported record and interact with it. This is the author's location description; an exact pixel or named-room offset is not available here.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/d89oo5/tag_der_toten_easter_egg_hunt_general_map/",
+        "original": true
+      },
+      {
+        "title": "Look for record playback in the labs",
+        "body": "MrSureshot27 reports finding a place to use the records up in the labs and hearing quotes from them. The early hunt describes placing records into a record player, but leaves the room unknown. The precise player landmark and any per-round playback restriction still need verification before this can be a full route.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/d89oo5/tag_der_toten_easter_egg_hunt_general_map/",
+        "original": true
+      },
+      {
+        "title": "Shoot the reported Lighthouse Approach wisp",
+        "body": "A firsthand report identifies a yellow cloud in Lighthouse Approach: shooting it produces a Samantha voice line. The hunt describes yellow wisps as shot-to-play interactions. This identifies one reported starting point; it does not locate all four wisps.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/d89oo5/tag_der_toten_easter_egg_hunt_general_map/",
+        "original": true
+      },
+      {
+        "title": "Keep the four recording types separate",
+        "body": "The updated author counts five audio reels, six film reels, five radios and five phonograph records, and separately four wisps. The stored reference has corresponding recording text headings, but headings are not physical pickup coordinates. Use those counts as a historical research checklist, not proof that you have found every current device.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/daps94/tag_der_toten_easter_egg_step_by_step/",
+        "original": true
+      }
+    ],
+    "sourceOmissions": [
+      "This is not a complete recording-location guide. The primary sources give 5 audio reels, 6 film reels, 5 radios, 5 records and 4 wisps, but do not supply a complete locator/playback route.",
+      "The Boathouse chair and old-spawn snow are reported pickup landmarks, but they are not assigned to the five numbered record texts. The writing does not establish whether those reports identify two fixed objects or spawn alternatives. Other record spots, the exact lab player, all reel/radio locations, the other wisps and object-to-audio assignments remain unverified.",
+      "Original image albums are unrequested and do not supply unseen landmarks. No fictional recording transcript is copied."
+    ],
+    "sources": [
+      {
+        "title": "Original Tag hunt and player reports",
+        "url": "https://www.reddit.com/r/CODZombies/comments/d89oo5/tag_der_toten_easter_egg_hunt_general_map/"
+      },
+      {
+        "title": "Robo_TeamJABS: updated Tag walkthrough",
+        "url": "https://www.reddit.com/r/CODZombies/comments/daps94/tag_der_toten_easter_egg_step_by_step/"
+      },
+      {
+        "title": "Tag community reference",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/tag-der-toten/"
+      }
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": "https://www.reddit.com/r/CODZombies/comments/d89oo5/tag_der_toten_easter_egg_hunt_general_map/",
+    "sharedSource": false,
+    "supplementNote": "Route paragraphs are authored from the credited original Reddit writing. Explicit tables preserve short source entries or identify a combined reference. Inputs use the action name Interact; platform bindings, exact timers and unlisted locations are not inferred. No retail playtest or step image inspection is claimed.",
+    "relatedGuideIds": [
+      "bo4-tag-der-toten-community-tag-der-toten-easter-eggs-quests-a-light-from-the-shore-easter-egg-song",
+      "bo4-tag-der-toten-campfire-song",
+      "bo4-tag-der-toten-community-tag-der-toten-easter-eggs-quests-george-romero-tribute-free-500-points"
+    ],
+    "images": [
+      {
+        "src": "./assets/tag-der-toten-recording-reference.svg",
+        "alt": "Recording location reference",
+        "caption": "Original reference diagram. Read the guide for source limits and the complete supported instructions.",
+        "credit": "Dead Drop",
+        "source": "https://www.reddit.com/r/CODZombies/comments/d89oo5/tag_der_toten_easter_egg_hunt_general_map/",
+        "width": 420,
+        "height": 660
+      }
+    ]
+  },
+  {
+    "id": "bo4-tag-der-toten-achievement-checklist",
+    "mapId": "bo4-tag-der-toten",
+    "title": "Tag achievement checklist and route limits",
+    "category": "side",
+    "difficulty": "Standard Classic / source reviewed",
+    "players": "Solo / co-op; read conditions",
+    "summary": "Track the ten reported conditions and the setup decisions that can invalidate an attempt.",
+    "requirements": [
+      "Black Ops 4: Tag der Toten. Standard Classic is the reference mode here; the separate Normal Gauntlet has its own deadlines and restrictions.",
+      "Use a normal eligible game for achievement attempts. Current platform/build parity and every achievement's mode restrictions have not been retail tested here.",
+      "Plan Going Green before activating any power switch, and Lifeline before killing enemies."
+    ],
+    "reward": "Progress toward the map's ten reported achievements/trophies.",
+    "steps": [
+      {
+        "title": "Ten primary condition strings",
+        "body": "Achievement | Condition\nSalvation Lies Above | In Tag der Toten, Ascend from Darkness\nEverybody Freeze! | In Tag der Toten, freeze 10 zombies at once in a single match\nFetch | In Tag der Toten, kill 5 Hellhounds with snowballs in a single match\nLifeline | In Tag der Toten, use all the ziplines without killing an enemy or going in to last stand in a single match\nGoing Green | In Tag der Toten, open all paths without turning on the power\nMile High Jug | In Tag der Toten, break the jar on top of the lighthouse with the Strife\nAbnormal Energy Bill | In Tag der Toten, light up all the totems in a single match\nPack Your Bags | In Tag der Toten, pack a weapon in all Pack-a-Punch locations in a single match\nBell of the Snowball | In Tag der Toten, ring all four bells with thrown snowballs in under 12 seconds\nSecret | In Tag der Toten, find the secret",
+        "html": "<table><thead><tr><th>Achievement</th><th>Condition</th></tr></thead><tbody><tr><td>Salvation Lies Above</td><td>In Tag der Toten, Ascend from Darkness</td></tr><tr><td>Everybody Freeze!</td><td>In Tag der Toten, freeze 10 zombies at once in a single match</td></tr><tr><td>Fetch</td><td>In Tag der Toten, kill 5 Hellhounds with snowballs in a single match</td></tr><tr><td>Lifeline</td><td>In Tag der Toten, use all the ziplines without killing an enemy or going in to last stand in a single match</td></tr><tr><td>Going Green</td><td>In Tag der Toten, open all paths without turning on the power</td></tr><tr><td>Mile High Jug</td><td>In Tag der Toten, break the jar on top of the lighthouse with the Strife</td></tr><tr><td>Abnormal Energy Bill</td><td>In Tag der Toten, light up all the totems in a single match</td></tr><tr><td>Pack Your Bags</td><td>In Tag der Toten, pack a weapon in all Pack-a-Punch locations in a single match</td></tr><tr><td>Bell of the Snowball</td><td>In Tag der Toten, ring all four bells with thrown snowballs in under 12 seconds</td></tr><tr><td>Secret</td><td>In Tag der Toten, find the secret</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/d89oo5/tag_der_toten_easter_egg_hunt_general_map/",
+        "original": false
+      },
+      {
+        "title": "Salvation Lies Above: finish the device story",
+        "body": "Follow the complete main quest through the Hermit hand-in, Sun Deck event and final Forecastle interaction. Surviving the last dome is only part of that chain; use the main guide's final chapters to reach its ending.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/daps94/tag_der_toten_easter_egg_step_by_step/",
+        "original": true
+      },
+      {
+        "title": "Everybody Freeze!: ten at once",
+        "body": "Build a group of at least ten zombies and freeze them together in one match. The condition requires simultaneous freezing; ten separate freezes over a round are not the stated condition. The Tundra Gun provides a source-described freezing tool, but an exact radius/tested shot recipe is still missing.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/d89oo5/tag_der_toten_easter_egg_hunt_general_map/",
+        "original": true
+      },
+      {
+        "title": "Fetch: five snowball Hellhound kills",
+        "body": "Refill snowballs and kill five Hellhounds with thrown snowballs during the same match. Keep the snowball as the finishing damage source. No special early-round limit or requirement for yellow snowballs appears in the condition.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/d89oo5/tag_der_toten_easter_egg_hunt_general_map/",
+        "original": true
+      },
+      {
+        "title": "Lifeline: plan a no-kill zipline run",
+        "body": "Work toward all zipline rides while keeping your own kill count at zero and avoiding last stand throughout that match. Open the two ship cranks and obtain the handle for Facility access. This is a planning aid: the sources do not enumerate every required directional ride or co-op kill attribution.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/d89oo5/tag_der_toten_easter_egg_hunt_general_map/",
+        "original": true
+      },
+      {
+        "title": "Going Green: keep power off from the start",
+        "body": "Start this attempt without activating Docks, Bridge or Human Infusion. The condition asks for all paths opened while power remains off; a power switch cannot be undone for this purpose. The available writing does not give a verified all-paths/no-power sequence, so this remains a condition checklist rather than a complete route.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/d89oo5/tag_der_toten_easter_egg_hunt_general_map/",
+        "original": true
+      },
+      {
+        "title": "Mile High Jug: keep access to a Strife",
+        "body": "With a Strife, aim at the jar on top of the lighthouse and break it. Keep access to the required weapon instead of replacing it before trying. The sources do not establish the precise jar offset, shooting position or acceptance of its packed form.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/d89oo5/tag_der_toten_easter_egg_hunt_general_map/",
+        "original": true
+      },
+      {
+        "title": "Abnormal Energy Bill: all five stations",
+        "body": "Finish and light all five challenge totems in one match. The companion lists every three-task chain. Lighting two stations for the main quest is insufficient for this condition.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/d89oo5/tag_der_toten_easter_egg_hunt_general_map/",
+        "original": true
+      },
+      {
+        "title": "Pack Your Bags: visit all machine sites",
+        "body": "Unlock normal and Golden Pack-a-Punch, then pack at Beach, Lagoon, Sunken Path, Boathouse and the Iceberg golden machine in the same match. Follow the spotlight and budget for actual purchases. The written condition does not settle whether re-packing one weapon satisfies every site.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/daps94/tag_der_toten_easter_egg_step_by_step/",
+        "original": true
+      },
+      {
+        "title": "Bell of the Snowball: four bells under twelve seconds",
+        "body": "Locate all four Docks bells using the totem guide's A/C/E/G landmarks. Refill snowballs, establish a view of the four targets and hit each with thrown snowballs in less than twelve seconds. This uses all four bells once each; it is distinct from the Hermit's five-note tune, whose order is supplied for the current run.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/d89oo5/tag_der_toten_easter_egg_hunt_general_map/",
+        "original": true
+      },
+      {
+        "title": "Secret: finish the island crossing",
+        "body": "Use the reported launch attempt in the Secret island guide, then swim through the cavern to the far side. The modern solo report supports solo feasibility, but corner orientation, timing and guaranteed repeatability remain unresolved in this written pass.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/14sqtwh/help_with_tag_der_toten_secret_ee/",
+        "original": true
+      }
+    ],
+    "sourceOmissions": [
+      "Going Green lacks a complete written power-free door/debris route; Lifeline lacks a validated census of every zipline ownership/use condition.",
+      "Freeze simultaneity, jar hit point/range, packed-Strife acceptance, co-op aggregation and platform eligibility are unresolved.",
+      "The ten condition strings are a historical primary list, not a certificate that every platform presently awards them identically."
+    ],
+    "sources": [
+      {
+        "title": "Original Tag hunt and player reports",
+        "url": "https://www.reddit.com/r/CODZombies/comments/d89oo5/tag_der_toten_easter_egg_hunt_general_map/"
+      },
+      {
+        "title": "Robo_TeamJABS: updated Tag walkthrough",
+        "url": "https://www.reddit.com/r/CODZombies/comments/daps94/tag_der_toten_easter_egg_step_by_step/"
+      }
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": "https://www.reddit.com/r/CODZombies/comments/d89oo5/tag_der_toten_easter_egg_hunt_general_map/",
+    "sharedSource": false,
+    "supplementNote": "Route paragraphs are authored from the credited original Reddit writing. Explicit tables preserve short source entries or identify a combined reference. Inputs use the action name Interact; platform bindings, exact timers and unlisted locations are not inferred. No retail playtest or step image inspection is claimed.",
+    "relatedGuideIds": [
+      "bo4-tag-der-toten-community-tag-der-toten-easter-eggs-quests-main-quest",
+      "bo4-tag-der-toten-community-tag-der-toten-easter-eggs-quests-challenge-totems",
+      "bo4-tag-der-toten-secret-island",
+      "bo4-tag-der-toten-community-tag-der-toten-map-features-golden-pack-a-punch",
+      "bo4-tag-der-toten-community-tag-der-toten-map-features-tundra-gun",
+      "bo4-tag-der-toten-community-tag-der-toten-map-features-heat-pack"
+    ],
+    "images": [
+      {
+        "src": "./assets/tag-der-toten-achievement-reference.svg",
+        "alt": "Achievement planning reference",
+        "caption": "Original reference diagram. Read the guide for source limits and the complete supported instructions.",
+        "credit": "Dead Drop",
+        "source": "https://www.reddit.com/r/CODZombies/comments/daps94/tag_der_toten_easter_egg_step_by_step/",
+        "width": 420,
+        "height": 660
+      }
+    ]
+  },
+  {
+    "id": "bo4-tag-der-toten-documented-firearms",
+    "mapId": "bo4-tag-der-toten",
+    "title": "Documented wall guns and BO4 name cross-reference",
+    "category": "weapon",
+    "difficulty": "Standard Classic / source reviewed",
+    "players": "Solo / co-op; read conditions",
+    "summary": "Find source-named Tag wall guns, including a reported Beach M1927, alongside a separately labelled BO4 packed-name comparison.",
+    "requirements": [
+      "Black Ops 4: Tag der Toten. Standard Classic is the reference mode here; the separate Normal Gauntlet has its own deadlines and restrictions."
+    ],
+    "reward": "A limited acquisition reference; a complete Tag weapon census remains pending.",
+    "steps": [
+      {
+        "title": "Read the table as two separate observations",
+        "body": "The location column contains Tag landmarks named in primary written setup reports. The final column cross-references the same base gun names against BO4's Dead of the Night packed-name table. Those alias matches are a labelled same-game comparison; this pass did not acquire and pack each gun on Tag.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+        "original": true
+      },
+      {
+        "title": "Five named wall-gun landmarks",
+        "body": "Base gun | Documented Tag landmark | BO4 packed-name reference; Tag untested\nMX9 | Lighthouse Approach, near the blue-rock tunnel | Nueve Muertes XX\nAuger DMR | Forecastle, beside the crank/ladder search area | Dead Man’s Refracker\nMaddox RFB | Hidden Path song-object route | Red Fiend Bull\nMOG 12 | Boathouse soup-ingredient landmark | OMG Right Hook\nStrife | Docks bell sightline landmark; exact wall spot not established | Z Harmony",
+        "html": "<table><thead><tr><th>Base gun</th><th>Documented Tag landmark</th><th>BO4 packed-name reference; Tag untested</th></tr></thead><tbody><tr><td>MX9</td><td>Lighthouse Approach, near the blue-rock tunnel</td><td>Nueve Muertes XX</td></tr><tr><td>Auger DMR</td><td>Forecastle, beside the crank/ladder search area</td><td>Dead Man’s Refracker</td></tr><tr><td>Maddox RFB</td><td>Hidden Path song-object route</td><td>Red Fiend Bull</td></tr><tr><td>MOG 12</td><td>Boathouse soup-ingredient landmark</td><td>OMG Right Hook</td></tr><tr><td>Strife</td><td>Docks bell sightline landmark; exact wall spot not established</td><td>Z Harmony</td></tr></tbody></table>",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/",
+        "original": false
+      },
+      {
+        "title": "Use the opened machine with the desired gun held",
+        "body": "Finish the normal blue-rock setup or use the Golden Pack-a-Punch route. Hold the gun you want to upgrade, read its purchase prompt, pay and collect it. Golden Pack-a-Punch is listed as a 5,000-point full upgrade where applicable; no other-map acquisition prices or current re-pack ladder is imported into this reference.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/tag-der-toten/",
+        "original": true
+      },
+      {
+        "title": "Use the three supported special-weapon routes",
+        "body": "The Tundra Gun has the five-target snowball route, the Thundergun has all five totems and the sniper Wunderwaffe has the icicle/safe route. All three are also listed in the Mystery Box and can be packed. The Tag wiki explicitly names only the Wunderwaffe upgrade, DG-Funkenschütze; the other packed aliases are not inferred from an older game.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/tag-der-toten/",
+        "original": true
+      },
+      {
+        "title": "Treat copy limits as disputed reports",
+        "body": "One hunter's large Box test argues for a match-wide limit, but several firsthand replies report multiple copies and directly dispute that conclusion. A separate Tag hunter reports that claiming one free special weapon swaps another even with Mule Kick. Read the live reward prompt and do not plan a run around an unverified universal copy cap or an ownership workaround.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/dk2iqy/tag_der_toten_multiple_thunderguns_question/",
+        "original": true
+      },
+      {
+        "title": "Check the Beach shortcut for the M1927",
+        "body": "On the Beach, check beside the shortcut in front of Lighthouse Station for the M1927, also called the Tommy gun in the source. The original poster personally reports seeing this Tag wall-buy, and Feisty_Area8023 supplies that landmark. Read the weapon name on your wall-buy prompt before purchasing; the written report gives no price, packed name or exact camera offset.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/13rnply/m1927_tommy_gun_wall_buy_on_black_ops_4/",
+        "original": true,
+        "tip": "The source does not identify the platform or build. Its replies disagree about Mystery Box availability, so this wall-buy report does not establish a current Box pool or a wall-only restriction."
+      }
+    ],
+    "sourceOmissions": [
+      "The Tag writings name these wall guns as landmarks; they do not give a complete wall/Box/loadout roster or every price.",
+      "Packed-name cells are a same-game comparison from the original BO4 Dead of the Night table, not an independent Tag packing test. Acquisition locations/prices from that other map are not imported.",
+      "The early hunt calls its Beach landmark Thompson. A later M1927/Tommy gun wall-buy report places that weapon beside the Beach shortcut in front of Lighthouse Station. Its exact price, packed name, camera offset and current Box availability remain unverified.",
+      "Current DLC/Box pool, Ray Guns, Monkey Bombs, Matryoshka equipment, starting unlocks, attachments and upgrade exceptions need a separate primary check."
+    ],
+    "sources": [
+      {
+        "title": "Original Tag hunt and player reports",
+        "url": "https://www.reddit.com/r/CODZombies/comments/d89oo5/tag_der_toten_easter_egg_hunt_general_map/"
+      },
+      {
+        "title": "Robo_TeamJABS: updated Tag walkthrough",
+        "url": "https://www.reddit.com/r/CODZombies/comments/daps94/tag_der_toten_easter_egg_step_by_step/"
+      },
+      {
+        "title": "Tag community reference",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/tag-der-toten/"
+      },
+      {
+        "title": "BO4 packed-name reference: DOTN",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/dead-of-the-night/"
+      },
+      {
+        "title": "Conflicting Wonder Weapon ownership reports",
+        "url": "https://www.reddit.com/r/CODZombies/comments/dk2iqy/tag_der_toten_multiple_thunderguns_question/"
+      },
+      {
+        "title": "Deleted OP / Feisty_Area8023: Tag M1927 wall-buy report",
+        "url": "https://www.reddit.com/r/CODZombies/comments/13rnply/m1927_tommy_gun_wall_buy_on_black_ops_4/"
+      }
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": "https://www.reddit.com/r/CODZombies/comments/d89oo5/tag_der_toten_easter_egg_hunt_general_map/",
+    "sharedSource": false,
+    "supplementNote": "Route paragraphs are authored from the credited original Reddit writing. Explicit tables preserve short source entries or identify a combined reference. Inputs use the action name Interact; platform bindings, exact timers and unlisted locations are not inferred. No retail playtest or step image inspection is claimed.",
+    "relatedGuideIds": [
+      "bo4-tag-der-toten-community-tag-der-toten-map-features-pack-a-punch",
+      "bo4-tag-der-toten-community-tag-der-toten-map-features-golden-pack-a-punch",
+      "bo4-tag-der-toten-community-tag-der-toten-map-features-tundra-gun",
+      "bo4-tag-der-toten-community-tag-der-toten-map-features-thundergun",
+      "bo4-tag-der-toten-community-tag-der-toten-map-features-wunderwaffe-dg-scharfschutze"
+    ],
+    "images": [
+      {
+        "src": "./assets/tag-der-toten-weapon-reference.svg",
+        "alt": "Weapon upgrade reference",
+        "caption": "Original reference diagram combining this guide's credited written sources. The linked reference covers machine setup; read the guide for the remaining sources and limits.",
+        "credit": "Dead Drop",
+        "source": "https://www.reddit.com/r/CODZombies/wiki/tag-der-toten/",
+        "width": 420,
+        "height": 660
+      }
+    ]
   }
 ]
