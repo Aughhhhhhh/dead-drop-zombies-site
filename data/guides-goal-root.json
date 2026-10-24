@@ -11919,5 +11919,710 @@
         "height": 600
       }
     ]
+  },
+  {
+    "title": "Iron Bull: three sparkling parts and shield ignitions",
+    "category": "weapon",
+    "summary": "Use the later firsthand counter report to work through the shield upgrade and its older conflicting instructions.",
+    "difficulty": "Hard",
+    "players": "Solo / co-op",
+    "requirements": [
+      "Black Ops 4: IX.",
+      "Build Brazen Bull first.",
+      "Collect each sparkling part before progressing to the next stage.",
+      "Use an eligible online Classic game; current cross-mode and co-op ownership rules remain unverified."
+    ],
+    "reward": "The reported Iron Bull shield upgrade at The Pit workbench.",
+    "steps": [
+      {
+        "title": "Shoot three Zeus bull heads with the shield’s ranged attack",
+        "body": "Build and equip the Brazen Bull. In Zeus Altar Room, shoot the three bull heads using its ranged fire attack. The map wiki identifies heads on the ceiling, above the Mystery Box and above the Titan wall buy.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ix/",
+        "tip": "MarioVX’s report confirms the three-head step but supplies no pictures. Exact bull surfaces still need visual verification."
+      },
+      {
+        "title": "Shoot down and collect the Temple ceiling part",
+        "body": "After all three heads are activated, go to the Temple. Shoot the sparkling part in its ceiling so it drops, then pick it up. MarioVX warns that a later stage does not begin until the preceding part is collected.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g76h4m/ix_shield_mechanics_and_some_tips_for_those/"
+      },
+      {
+        "title": "Use the gems to track a nine-kill ignition",
+        "body": "MarioVX reports that a fresh, unlit shield lights its first gem pair on melee kill three, its next pair on six, and ignites its blade on kill nine. Once the second pair lights, count two further kills, then reserve the ninth kill for the required special enemy.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g76h4m/ix_shield_mechanics_and_some_tips_for_those/",
+        "tip": "A replacement shield resets its local melee counter. Repairing is reported to retain the counter and ignition state. Exact durability, ranged-kill counter effects and extinction timing are not fully established."
+      },
+      {
+        "title": "Ignite the blade with a special ninth kill four times",
+        "body": "For each of four qualifying ignitions, make the ninth shield melee kill a Catalyst, Gladiator or Brawler. The preceding eight kills can be any enemies according to MarioVX. If a normal zombie ignites the blade, that ignition does not add to the four qualifying ones; the report says it does not erase earlier successful ignitions.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g76h4m/ix_shield_mechanics_and_some_tips_for_those/",
+        "tip": "The older wiki requires a Catalyst specifically as kill nine and eight regular kills beforehand. This broader set is MarioVX’s later firsthand finding, not a current code or retail verification. Isolate the ninth target so another kill does not take its place."
+      },
+      {
+        "title": "Collect the second part before killing the heavy types",
+        "body": "After the fourth qualifying ignition, collect the sparkling part at Odin-Zeus Temple Entrance. The wiki places it in a broken statue’s hand. Collect it before attempting the next stage.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g76h4m/ix_shield_mechanics_and_some_tips_for_those/",
+        "tip": "MarioVX supplies the area; the statue-hand surface comes from the wiki. Co-op ownership and whether every player must repeat all four ignitions are not established by these sources."
+      },
+      {
+        "title": "Kill a Gladiator and Brawler with an already burning blade",
+        "body": "After taking the second part, use the ignited shield blade’s melee attack to kill a Gladiator and a Brawler. MarioVX says the blade must already be burning before each kill; a kill that first lights it does not count for this stage.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g76h4m/ix_shield_mechanics_and_some_tips_for_those/",
+        "tip": "The old wiki also includes a Tiger. MarioVX explicitly reports that a Tiger is unnecessary. That conflict is retained; this guide does not invent a particular same-ignition requirement or guarantee how downing changes progress."
+      },
+      {
+        "title": "Collect the Fallen Hero part and take Iron Bull",
+        "body": "Once the heavy-kill stage is satisfied, collect the third sparkling part in Fallen Hero. The wiki places it above the doorway. Return to the workbench in The Pit and pick up the Iron Bull.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/g76h4m/ix_shield_mechanics_and_some_tips_for_those/",
+        "tip": "No exact durability or damage increase is established here. Current build parity, precise final pickup surface, replacement pricing and every co-op rule remain unverified."
+      }
+    ],
+    "relatedGuideIds": [
+      "bo4-ix-community-ix-map-features-brazen-bull",
+      "bo4-ix-community-ix-easter-eggs-quests-main-quest",
+      "bo4-ix-community-ix-easter-eggs-quests-fire-immunity"
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": null,
+    "sharedSource": false,
+    "sourceOmissions": [],
+    "sources": [
+      {
+        "title": "The_Beebat and r/CODZombies — IX map guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/ix/"
+      },
+      {
+        "title": "MarioVX — firsthand shield counter and Iron Bull report",
+        "url": "https://www.reddit.com/r/CODZombies/comments/g76h4m/ix_shield_mechanics_and_some_tips_for_those/"
+      }
+    ],
+    "id": "bo4-ix-iron-bull-upgrade",
+    "mapId": "bo4-ix",
+    "images": [
+      {
+        "src": "./assets/ix-iron-bull-route.svg",
+        "alt": "Iron Bull route",
+        "caption": "Original reference diagram. Later firsthand route; older target conflicts remain visible in the steps.",
+        "credit": "Dead Drop",
+        "source": "https://www.reddit.com/r/CODZombies/comments/g76h4m/ix_shield_mechanics_and_some_tips_for_those/",
+        "width": 420,
+        "height": 660
+      }
+    ]
+  },
+  {
+    "title": "Nos Fideles: survive on the Challenge Podium",
+    "category": "music",
+    "summary": "Stay on the Arena podium for the reported intro-music trigger, with the original timing correction visible.",
+    "difficulty": "Moderate",
+    "players": "Solo demonstrated; co-op trigger unresolved",
+    "requirements": [
+      "Black Ops 4: IX.",
+      "Use online Classic IX on Normal or higher for the reported song trigger.",
+      "Prepare equipment before committing to the podium; do not leave it during the attempt."
+    ],
+    "reward": "The intro music Nos Fideles, separate from the Mad Hatter coins.",
+    "steps": [
+      {
+        "title": "Enter the Challenge Podium and stay there",
+        "body": "Stand on the central Challenge Podium in the Arena and keep surviving there without leaving. MistuhWhite’s original posted demonstration is a solo attempt and does not require starting the attempt on round one.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/eyzo6q/confirmed_new_music_ee_on_ix_survive_for_5_full/"
+      },
+      {
+        "title": "Use six full rounds as a report, not an exact guarantee",
+        "body": "MistuhWhite corrects the post’s five-round title: the player entered at the end of round 22 and heard the music at the start of round 29, after six complete rounds. Keep the same continuous podium attempt until the music actually starts.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/eyzo6q/confirmed_new_music_ee_on_ix_survive_for_5_full/",
+        "tip": "Zombies4EvaDude reports entering on round two and hearing it at round twelve. The reports do not settle whether enemy count or special rounds affect timing. No exact universal five-round or six-round timer is promised."
+      },
+      {
+        "title": "Recognise the song and the unresolved co-op rule",
+        "body": "The discussion names the reward Nos Fideles. This is the podium music trigger; shooting the four tower coins activates Mad Hatter instead.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/eyzo6q/confirmed_new_music_ee_on_ix_survive_for_5_full/",
+        "tip": "The original demonstrator had only done it solo and could not answer whether one or all co-op players must stay on the podium. A later commenter reports failed multiplayer attempts. Solo is the supported report; co-op conditions remain unresolved."
+      }
+    ],
+    "relatedGuideIds": [
+      "bo4-ix-community-ix-easter-eggs-quests-music-easter-egg",
+      "bo4-ix-community-ix-map-features-challenge-banners",
+      "bo4-ix-minor-secrets-lore-evidence"
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": null,
+    "sharedSource": false,
+    "sourceOmissions": [],
+    "sources": [
+      {
+        "title": "MistuhWhite, RealBlazeStorm and Zombies4EvaDude — podium-song reports",
+        "url": "https://www.reddit.com/r/CODZombies/comments/eyzo6q/confirmed_new_music_ee_on_ix_survive_for_5_full/"
+      }
+    ],
+    "id": "bo4-ix-nos-fideles-podium-song",
+    "mapId": "bo4-ix",
+    "images": [
+      {
+        "src": "./assets/ix-podium-song.svg",
+        "alt": "Nos Fideles",
+        "caption": "Original reference diagram. Original solo reports differ on timing. Co-op trigger conditions remain unresolved.",
+        "credit": "Dead Drop",
+        "source": "https://www.reddit.com/r/CODZombies/comments/eyzo6q/confirmed_new_music_ee_on_ix_survive_for_5_full/",
+        "width": 420,
+        "height": 660
+      }
+    ]
+  },
+  {
+    "title": "Weapons: IX acquisition reports and packed names",
+    "category": "weapon",
+    "summary": "Compare 34 historical name rows with a later 51-row IX acquisition column and its Koshka correction.",
+    "difficulty": "Reference",
+    "players": "Solo / co-op",
+    "requirements": [
+      "Black Ops 4: IX.",
+      "Treat all lists as dated player / community reports; use current purchase prompts.",
+      "A name table, strategy recommendation or generic BO4 list does not establish IX’s current complete Box pool.",
+      "Spitfire’s old price, later added weapons’ packed aliases, current pool / prices and exact weapon statistics remain missing."
+    ],
+    "reward": "A source-attributed acquisition and base-to-packed-name reference.",
+    "steps": [
+      {
+        "title": "Read the two dated lists separately",
+        "body": "The map wiki supplies the packed-name, cost and wall-area cells below. StreetRaging’s August 2019 acquisition table supplies a later IX-only column, including additional reported Box items. Neither is a current complete acquisition census.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ix/",
+        "tip": "The later table does not supply packed aliases or prices. The older source leaves Spitfire’s price blank and contains the unverified label Hitchcock M9. These are retained as source limitations instead of silently filled from an edition-agnostic list."
+      },
+      {
+        "title": "Assault rifles — historical names and acquisition cells",
+        "body": "Weapon Name PaP Name How To Acquire Cost Wall Location(s) ICR-7 Impertinent Deanimator Wall Weapon 1550 Points Zeus Tower: Entrance Rampart 17 Parapetrifier Mystery Box - - Vapr-XKG Creeping Haze Wall Weapon 1550 Points Odin Tower: Entrance KN-57 Ruined Revenger Wall Weapon 1450 Points The Crypts Maddox RFB Red Fiend Bull Wall Weapon 1400 Points Odin-Zeus Temple Entrance Hitchcock M9 Waking Nightmare Mystery Box - -",
+        "html": "<table>\n<thead>\n<tr>\n<th>Weapon Name</th>\n<th>PaP Name</th>\n<th>How To Acquire</th>\n<th>Cost</th>\n<th>Wall Location(s)</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>ICR-7</td>\n<td>Impertinent Deanimator</td>\n<td>Wall Weapon</td>\n<td>1550 Points</td>\n<td>Zeus Tower: Entrance</td>\n</tr>\n<tr>\n<td>Rampart 17</td>\n<td>Parapetrifier</td>\n<td>Mystery Box</td>\n<td>-</td>\n<td>-</td>\n</tr>\n<tr>\n<td>Vapr-XKG</td>\n<td>Creeping Haze</td>\n<td>Wall Weapon</td>\n<td>1550 Points</td>\n<td>Odin Tower: Entrance</td>\n</tr>\n<tr>\n<td>KN-57</td>\n<td>Ruined Revenger</td>\n<td>Wall Weapon</td>\n<td>1450 Points</td>\n<td>The Crypts</td>\n</tr>\n<tr>\n<td>Maddox RFB</td>\n<td>Red Fiend Bull</td>\n<td>Wall Weapon</td>\n<td>1400 Points</td>\n<td>Odin-Zeus Temple Entrance</td>\n</tr>\n<tr>\n<td>Hitchcock M9</td>\n<td>Waking Nightmare</td>\n<td>Mystery Box</td>\n<td>-</td>\n<td>-</td>\n</tr>\n\n</tbody>\n</table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ix/",
+        "tip": "Quoted historical IX cells: source prices, names and empty cells are retained. A dash is missing source data, not proof that an upgrade, price or other route is impossible. Hitchcock M9 is the source’s label; its spelling and actual current item identity have not been independently resolved."
+      },
+      {
+        "title": "Tactical rifles — historical names and acquisition cells",
+        "body": "Weapon Name PaP Name How To Acquire Cost Wall Location(s) SwordFish Australo-Packy-Cormus Wall Weapon 1400 Points Temple Auger DMR Dead Man’s Refracker Wall Weapon 1600 Points Odin Altar Room ABR 223 BR-R-RAH Mystery Box - - Essex Model 07 Quartermaster’s Repeater Wall Weapon 500 Points Arena",
+        "html": "<table>\n<thead>\n<tr>\n<th>Weapon Name</th>\n<th>PaP Name</th>\n<th>How To Acquire</th>\n<th>Cost</th>\n<th>Wall Location(s)</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>SwordFish</td>\n<td>Australo-Packy-Cormus</td>\n<td>Wall Weapon</td>\n<td>1400 Points</td>\n<td>Temple</td>\n</tr>\n<tr>\n<td>Auger DMR</td>\n<td>Dead Man’s Refracker</td>\n<td>Wall Weapon</td>\n<td>1600 Points</td>\n<td>Odin Altar Room</td>\n</tr>\n<tr>\n<td>ABR 223</td>\n<td>BR-R-RAH</td>\n<td>Mystery Box</td>\n<td>-</td>\n<td>-</td>\n</tr>\n<tr>\n<td>Essex Model 07</td>\n<td>Quartermaster’s Repeater</td>\n<td>Wall Weapon</td>\n<td>500 Points</td>\n<td>Arena</td>\n</tr>\n</tbody>\n</table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ix/",
+        "tip": "Quoted historical IX cells: source prices, names and empty cells are retained. A dash is missing source data, not proof that an upgrade, price or other route is impossible."
+      },
+      {
+        "title": "Submachine guns — historical names and acquisition cells",
+        "body": "Weapon Name PaP Name How To Acquire Cost Wall Location(s) MX9 Nueve Muertes XX Wall Weapon 1250 Points The Collapsed Tunnel Cordite Corpsemaker Mystery Box - - Saug 9mm Stellar 92 Wall Weapon 750 Points Danu Tower: Arboretum Spitfire Sky Scorcher Wall Weapon The Pit GKS Ghoul Keeper’s Subjugator Wall Weapon 1300 Points Flooded Crypt Escargot Pièce De Résistance Wall Weapon 1000 Points Ra Tower: Entrance",
+        "html": "<table>\n<thead>\n<tr>\n<th>Weapon Name</th>\n<th>PaP Name</th>\n<th>How To Acquire</th>\n<th>Cost</th>\n<th>Wall Location(s)</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>MX9</td>\n<td>Nueve Muertes XX</td>\n<td>Wall Weapon</td>\n<td>1250 Points</td>\n<td>The Collapsed Tunnel</td>\n</tr>\n<tr>\n<td>Cordite</td>\n<td>Corpsemaker</td>\n<td>Mystery Box</td>\n<td>-</td>\n<td>-</td>\n</tr>\n<tr>\n<td>Saug 9mm</td>\n<td>Stellar 92</td>\n<td>Wall Weapon</td>\n<td>750 Points</td>\n<td>Danu Tower: Arboretum</td>\n</tr>\n<tr>\n<td>Spitfire</td>\n<td>Sky Scorcher</td>\n<td>Wall Weapon</td>\n<td></td>\n<td>The Pit</td>\n</tr>\n<tr>\n<td>GKS</td>\n<td>Ghoul Keeper’s Subjugator</td>\n<td>Wall Weapon</td>\n<td>1300 Points</td>\n<td>Flooded Crypt</td>\n</tr>\n<tr>\n<td>Escargot</td>\n<td>Pièce De Résistance</td>\n<td>Wall Weapon</td>\n<td>1000 Points</td>\n<td>Ra Tower: Entrance</td>\n</tr>\n\n</tbody>\n</table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ix/",
+        "tip": "Quoted historical IX cells: source prices, names and empty cells are retained. A dash is missing source data, not proof that an upgrade, price or other route is impossible. Spitfire’s source price is blank and remains blank here."
+      },
+      {
+        "title": "Light machine guns — historical names and acquisition cells",
+        "body": "Weapon Name PaP Name How To Acquire Cost Wall Location(s) Titan Tartarus Veil Wall Weapon 3750 Points Zeus Altar Room Zweihänder Sumabrandr Mystery Box - - Hades Acheron Alliterator Mystery Box - - VKM 750 Cackling Kaftar Mystery Box - -",
+        "html": "<table>\n<thead>\n<tr>\n<th>Weapon Name</th>\n<th>PaP Name</th>\n<th>How To Acquire</th>\n<th>Cost</th>\n<th>Wall Location(s)</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Titan</td>\n<td>Tartarus Veil</td>\n<td>Wall Weapon</td>\n<td>3750 Points</td>\n<td>Zeus Altar Room</td>\n</tr>\n<tr>\n<td>Zweihänder</td>\n<td>Sumabrandr</td>\n<td>Mystery Box</td>\n<td>-</td>\n<td>-</td>\n</tr>\n<tr>\n<td>Hades</td>\n<td>Acheron Alliterator</td>\n<td>Mystery Box</td>\n<td>-</td>\n<td>-</td>\n</tr>\n<tr>\n<td>VKM 750</td>\n<td>Cackling Kaftar</td>\n<td>Mystery Box</td>\n<td>-</td>\n<td>-</td>\n</tr>\n</tbody>\n</table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ix/",
+        "tip": "Quoted historical IX cells: source prices, names and empty cells are retained. A dash is missing source data, not proof that an upgrade, price or other route is impossible."
+      },
+      {
+        "title": "Sniper rifles — historical names and acquisition cells",
+        "body": "Weapon Name PaP Name How To Acquire Cost Wall Location(s) Paladin HB50 Righteous Fury Mystery Box - - Koshka Bakeneko Mystery Box - - SDM IT-5 LYT Mystery Box - - Outlaw D3SOL8 Regulator Mystery Box - -",
+        "html": "<table>\n<thead>\n<tr>\n<th>Weapon Name</th>\n<th>PaP Name</th>\n<th>How To Acquire</th>\n<th>Cost</th>\n<th>Wall Location(s)</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Paladin HB50</td>\n<td>Righteous Fury</td>\n<td>Mystery Box</td>\n<td>-</td>\n<td>-</td>\n</tr>\n<tr>\n<td>Koshka</td>\n<td>Bakeneko</td>\n<td>Mystery Box</td>\n<td>-</td>\n<td>-</td>\n</tr>\n<tr>\n<td>SDM</td>\n<td>IT-5 LYT</td>\n<td>Mystery Box</td>\n<td>-</td>\n<td>-</td>\n</tr>\n<tr>\n<td>Outlaw</td>\n<td>D3SOL8 Regulator</td>\n<td>Mystery Box</td>\n<td>-</td>\n<td>-</td>\n</tr>\n</tbody>\n</table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ix/",
+        "tip": "Quoted historical IX cells: source prices, names and empty cells are retained. A dash is missing source data, not proof that an upgrade, price or other route is impossible. Koshka is a contradicted historical row: the August 2019 table and replies report removal from the Box and leave IX unavailable. No present IX Koshka route is established."
+      },
+      {
+        "title": "Secondaries — historical names and acquisition cells",
+        "body": "Weapon Name PaP Name How To Acquire Cost Wall Location(s) Strife Z Harmony Wall Weapon 500 Points Arena Welling King And Country Starting Weapon - - Mozu Belle of the Ball Wall Weapon 1250 Points Danu Tunnel RK 7 Garrison Rapskallion 3D Wall Weapon 1000 Points Danu Tower: Entrance MOG 12 OMG Right Hook Wall Weapon 1000 Points Danu Altar Room M1897 Trebuchet M9-TKG Home Wrecker Wall Weapon 1400 Points Ra Altar Room SG12 Breccius Rebornus Mystery Box - - Bowie Knife - Wall Weapon 3000 Points Ra Tower: Burial Chamber Hellion Salvo Zitro’s Orbital Arbalest Mystery Box - -",
+        "html": "<table>\n<thead>\n<tr>\n<th>Weapon Name</th>\n<th>PaP Name</th>\n<th>How To Acquire</th>\n<th>Cost</th>\n<th>Wall Location(s)</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Strife</td>\n<td>Z Harmony</td>\n<td>Wall Weapon</td>\n<td>500 Points</td>\n<td>Arena</td>\n</tr>\n<tr>\n<td>Welling</td>\n<td>King And Country</td>\n<td>Starting Weapon</td>\n<td>-</td>\n<td>-</td>\n</tr>\n<tr>\n<td>Mozu</td>\n<td>Belle of the Ball</td>\n<td>Wall Weapon</td>\n<td>1250 Points</td>\n<td>Danu Tunnel</td>\n</tr>\n<tr>\n<td>RK 7 Garrison</td>\n<td>Rapskallion 3D</td>\n<td>Wall Weapon</td>\n<td>1000 Points</td>\n<td>Danu Tower: Entrance</td>\n</tr>\n<tr>\n<td>MOG 12</td>\n<td>OMG Right Hook</td>\n<td>Wall Weapon</td>\n<td>1000 Points</td>\n<td>Danu Altar Room</td>\n</tr>\n<tr>\n<td>M1897 Trebuchet</td>\n<td>M9-TKG Home Wrecker</td>\n<td>Wall Weapon</td>\n<td>1400 Points</td>\n<td>Ra Altar Room</td>\n</tr>\n<tr>\n<td>SG12</td>\n<td>Breccius Rebornus</td>\n<td>Mystery Box</td>\n<td>-</td>\n<td>-</td>\n</tr>\n<tr>\n<td>Bowie Knife</td>\n<td>-</td>\n<td>Wall Weapon</td>\n<td>3000 Points</td>\n<td>Ra Tower: Burial Chamber</td>\n</tr>\n<tr>\n<td>Hellion Salvo</td>\n<td>Zitro’s Orbital Arbalest</td>\n<td>Mystery Box</td>\n<td>-</td>\n<td>-</td>\n</tr>\n\n</tbody>\n</table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ix/",
+        "tip": "Quoted historical IX cells: source prices, names and empty cells are retained. A dash is missing source data, not proof that an upgrade, price or other route is impossible."
+      },
+      {
+        "title": "Death of Orion — historical names and acquisition cells",
+        "body": "Weapon Name PaP Name How To Acquire Cost Death of Orion Serket's Kiss Quest/Mystery Box -",
+        "html": "<table>\n<thead>\n<tr>\n<th>Weapon Name</th>\n<th>PaP Name</th>\n<th>How To Acquire</th>\n<th>Cost</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Death of Orion</td>\n<td>Serket&#x27;s Kiss</td>\n<td>Quest/Mystery Box</td>\n<td>-</td>\n</tr>\n</tbody>\n</table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ix/",
+        "tip": "Quoted historical IX cells: source prices, names and empty cells are retained. A dash is missing source data, not proof that an upgrade, price or other route is impossible."
+      },
+      {
+        "title": "Later IX-only acquisition column — August 2019",
+        "body": "Weapon (source spelling) IX acquisition cell, August 2019 ICR-7 Zeus Tower: Entrance Maddox RFB Odin-Zeus Temple Entrance KN-57 The Crypts Hitchcock M9 MB Rampart 17 MB Vapr-XKG Odin Tower: Entrance Grav MB SWAT RFT MB Peacekepper MB Escargot Ra Tower: Entrance MX9 The Collapsed Tunnel Spitfire The Pit Saug 9mm Danu Tower: Arboretum GKS Flooded Crypt Cordite MB M1927 - MP-40 MB Daemon 3XB MB Switchblade MX9 MB Swordfish Temple Essex Model 07 Arena ABR 223 MB Auger DMR Odin Altar Room S6 Stingray MB M16 MB Titan Zeus Altar Room Hades MG VKM 750 MB Zweihander MB Tigershark MB SDM MB Paladin HB50 MB Koshka - Outlaw MB Vendetta MB Locus MB Havelina AA50 MB Bowie Knife Ra Tower: Burial Chamber Welling Starting Weapon Mozu Danu Tunnel M1897 Trebuchet Ra Altar Room Strife Arena RK7 Garrison Danu Tower: Entrance SG12 MB Helion Salvo MB Mog 12 Danu Altar Room KAP 45 MB Rampage MB Balistic Knife MB Argus MB Reaver C86 MB",
+        "html": "<table><thead><tr><th>Weapon (source spelling)</th><th>IX acquisition cell, August 2019</th></tr></thead><tbody><tr><td>ICR-7</td><td>Zeus Tower: Entrance</td></tr><tr><td>Maddox RFB</td><td>Odin-Zeus Temple Entrance</td></tr><tr><td>KN-57</td><td>The Crypts</td></tr><tr><td>Hitchcock M9</td><td>MB</td></tr><tr><td>Rampart 17</td><td>MB</td></tr><tr><td>Vapr-XKG</td><td>Odin Tower: Entrance</td></tr><tr><td>Grav</td><td>MB</td></tr><tr><td>SWAT RFT</td><td>MB</td></tr><tr><td>Peacekepper</td><td>MB</td></tr><tr><td>Escargot</td><td>Ra Tower: Entrance</td></tr><tr><td>MX9</td><td>The Collapsed Tunnel</td></tr><tr><td>Spitfire</td><td>The Pit</td></tr><tr><td>Saug 9mm</td><td>Danu Tower: Arboretum</td></tr><tr><td>GKS</td><td>Flooded Crypt</td></tr><tr><td>Cordite</td><td>MB</td></tr><tr><td>M1927</td><td>-</td></tr><tr><td>MP-40</td><td>MB</td></tr><tr><td>Daemon 3XB</td><td>MB</td></tr><tr><td>Switchblade MX9</td><td>MB</td></tr><tr><td>Swordfish</td><td>Temple</td></tr><tr><td>Essex Model 07</td><td>Arena</td></tr><tr><td>ABR 223</td><td>MB</td></tr><tr><td>Auger DMR</td><td>Odin Altar Room</td></tr><tr><td>S6 Stingray</td><td>MB</td></tr><tr><td>M16</td><td>MB</td></tr><tr><td>Titan</td><td>Zeus Altar Room</td></tr><tr><td>Hades</td><td>MG</td></tr><tr><td>VKM 750</td><td>MB</td></tr><tr><td>Zweihander</td><td>MB</td></tr><tr><td>Tigershark</td><td>MB</td></tr><tr><td>SDM</td><td>MB</td></tr><tr><td>Paladin HB50</td><td>MB</td></tr><tr><td>Koshka</td><td>-</td></tr><tr><td>Outlaw</td><td>MB</td></tr><tr><td>Vendetta</td><td>MB</td></tr><tr><td>Locus</td><td>MB</td></tr><tr><td>Havelina AA50</td><td>MB</td></tr><tr><td>Bowie Knife</td><td>Ra Tower: Burial Chamber</td></tr><tr><td>Welling</td><td>Starting Weapon</td></tr><tr><td>Mozu</td><td>Danu Tunnel</td></tr><tr><td>M1897 Trebuchet</td><td>Ra Altar Room</td></tr><tr><td>Strife</td><td>Arena</td></tr><tr><td>RK7 Garrison</td><td>Danu Tower: Entrance</td></tr><tr><td>SG12</td><td>MB</td></tr><tr><td>Helion Salvo</td><td>MB</td></tr><tr><td>Mog 12</td><td>Danu Altar Room</td></tr><tr><td>KAP 45</td><td>MB</td></tr><tr><td>Rampage</td><td>MB</td></tr><tr><td>Balistic Knife</td><td>MB</td></tr><tr><td>Argus</td><td>MB</td></tr><tr><td>Reaver C86</td><td>MB</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/cwzuuk/weapon_locations_table/",
+        "tip": "Literal IX column only; MB is the author’s Mystery Box shorthand. MG for Hades is preserved as printed and is not expanded speculatively; the separate wiki lists Hades as Box and its packed form as a banner reward. A dash for M1927 or Koshka is not a newly verified current absence. Source spellings Peacekepper, Switchblade MX9, Helion, Mog and Balistic are preserved."
+      },
+      {
+        "title": "Do not plan a Koshka Box roll from the old table",
+        "body": "The August 2019 table marks Koshka unavailable in IX. actualjumpscare says it is no longer in the Mystery Box; StreetRaging reports failing to roll it and instead using Voyage of Despair, then updating the table. RealBlazeStorm repeats the IX removal in the 2020 podium-song discussion.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/cwzuuk/weapon_locations_table/",
+        "tip": "The Bakeneko alias is retained as the old source’s mapping. It does not establish an obtainable current IX weapon. No replacement wall location is invented."
+      },
+      {
+        "title": "Upgrade an eligible ordinary gun, then re-pack for damage",
+        "body": "In the December 2022 IX discussion, players report an initial 5,000-point Pack-a-Punch purchase followed by four 2,500-point damage upgrades. Once the next purchase reads 1,500 points, further re-packs change the alternate ammo type instead of adding damage. Use the actual prompt to check your weapon’s stage.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/zsv0aj/how_does_pap_work_on_ix_how_many_times_can_i_pap/",
+        "tip": "These are player-reported ordinary-gun rules from a PS5 discussion, not a current cross-platform statistic audit. They do not establish that the Death of Orion, Bowie Knife or every special weapon accepts the same repeated upgrades. Fire Bomb and Kill-O-Watt are needed at different main-quest stages."
+      },
+      {
+        "title": "Use the direct quest and banner rewards",
+        "body": "The three-challenge reward is Z Harmony, the packed Strife. The ninth tier gives Acheron Alliterator, the packed Hades. Death of Orion can also be obtained through the poisoned Box quest and becomes Serket’s Kiss through Pack-a-Punch. Use those linked routes for the required interactions.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ix/"
+      }
+    ],
+    "relatedGuideIds": [
+      "bo4-ix-community-ix-map-features-pack-a-punch",
+      "bo4-ix-community-ix-map-features-mystery-box-locations",
+      "bo4-ix-community-ix-map-features-challenge-banners",
+      "bo4-ix-community-ix-map-features-death-of-orion",
+      "bo4-ix-community-ix-map-features-brazen-bull",
+      "bo4-ix-iron-bull-upgrade",
+      "bo4-ix-perk-altars-crowd-setup"
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": "https://www.reddit.com/r/CODZombies/wiki/ix/",
+    "sharedSource": false,
+    "sourceOmissions": [],
+    "sources": [
+      {
+        "title": "The_Beebat and r/CODZombies — IX map guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/ix/"
+      },
+      {
+        "title": "StreetRaging and commenters — August 2019 acquisition table",
+        "url": "https://www.reddit.com/r/CODZombies/comments/cwzuuk/weapon_locations_table/"
+      },
+      {
+        "title": "SHBxSpenco, TheETERNAL20 and ThunderStruck115 — IX upgrade-price replies",
+        "url": "https://www.reddit.com/r/CODZombies/comments/zsv0aj/how_does_pap_work_on_ix_how_many_times_can_i_pap/"
+      },
+      {
+        "title": "MistuhWhite, RealBlazeStorm and Zombies4EvaDude — podium-song reports",
+        "url": "https://www.reddit.com/r/CODZombies/comments/eyzo6q/confirmed_new_music_ee_on_ix_survive_for_5_full/"
+      }
+    ],
+    "id": "bo4-ix-weapons-acquisition-packed-reference",
+    "mapId": "bo4-ix",
+    "images": [
+      {
+        "src": "./assets/ix-ordinary-upgrades.svg",
+        "alt": "Ordinary gun upgrades",
+        "caption": "Original reference diagram. Historical player reports; read the live prompt. Special-weapon parity is not established.",
+        "credit": "Dead Drop",
+        "source": "https://www.reddit.com/r/CODZombies/comments/zsv0aj/how_does_pap_work_on_ix_how_many_times_can_i_pap/",
+        "width": 420,
+        "height": 660
+      }
+    ]
+  },
+  {
+    "title": "Perk altars, crowd affinity and quest setup",
+    "category": "side",
+    "summary": "Find the four God altars, understand the crowd jar and connect the two free-perk routes.",
+    "difficulty": "Setup",
+    "players": "Solo / co-op",
+    "requirements": [
+      "Black Ops 4: IX.",
+      "Open the four God towers.",
+      "Loadout recommendations below are optional player choices; read the actual perk menu and current buy prompts."
+    ],
+    "reward": "A setup reference linking PaP, shield, crowd gifts, banner rewards and the Viking perk.",
+    "steps": [
+      {
+        "title": "Find all four perk-altar areas",
+        "body": "The original hunt lists Ra at Ra Altar Room, Odin at Odin Altar Room, Zeus at Zeus Altar Room and Danu at Danu Altar Room. Reach the upper altar floor of the relevant tower to use its perk station.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/9n90p7/ix_easter_egg_hunt_general_map_discussion/",
+        "tip": "The read original text does not provide a complete perk-name / slot / price / modifier chart. Do not substitute the gods’ names for fixed Juggernog-style perk identities or assume a universal price."
+      },
+      {
+        "title": "Use a reported loadout as a starting point",
+        "body": "In a 2019 PC speedrun report, ibefuzzy uses TimeSlip, Stamin-Up, Dying Wish and Victorious Tortoise in the modifier slot, with Stock Option, Temporal Gift, Equip Mint and Arsenal Accelerator. This is one reported route’s optional loadout.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/cdn4pb/critique_my_ix_speedrun_method/",
+        "tip": "No Elixir, listed perk or specialist choice is promoted into a main-quest requirement. The report does not establish that its speed or survivability applies to another difficulty or player count."
+      },
+      {
+        "title": "Raise and protect good crowd affinity",
+        "body": "BesTibi reports that zombie kills, Special Weapon / equipment kills and challenges raise affinity. BesTibi lists fire / trap damage, a broken shield, repeated hits and long periods without attacking as causes of lost affinity.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/ffb6z7/bo4_ix_easter_egg_questions_plus_general/",
+        "tip": "These are firsthand practical reports, not exact probability or numeric-counter measurements. Use the live hand meter; no universal point value per kill is claimed."
+      },
+      {
+        "title": "Use good affinity for the Orion jar after collecting the key",
+        "body": "Collect the Scorpion Key first, then maintain maximum good affinity across a full round and check the Arena for the crowd jar. Interact to collect it. The Orion card explains the one-round / two-round source discrepancy and the tree / Box interactions.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/ffb6z7/bo4_ix_easter_egg_questions_plus_general/"
+      },
+      {
+        "title": "Get the two reported free extra perks",
+        "body": "The wiki’s seventh Challenge Banner tier awards a free fifth perk. Its separate Odin Viking route awards a perk beside the burned boat. Complete each route’s own actions; neither is a substitute for the Gauntlet requirement to keep all four base perks active.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ix/"
+      },
+      {
+        "title": "Use bad affinity only when ready for the fertilizer",
+        "body": "The main quest requires the crowd’s poop at maximum bad affinity. The original hunt reports grenade throws toward the spectators and Arena fire damage as methods. That goal conflicts with maintaining good affinity for the Orion jar, so plan the two stages in sequence.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/9n90p7/ix_easter_egg_hunt_general_map_discussion/"
+      },
+      {
+        "title": "Prioritise the required tools over optional Box recommendations",
+        "body": "The firsthand PC route builds the shield, opens PaP and obtains Death of Orion before its trials. It labels the Homunculus and fully packed Hellion Box rolls optional. Those recommendations do not prove any other item’s acquisition or a complete current Box pool.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/cdn4pb/critique_my_ix_speedrun_method/"
+      },
+      {
+        "title": "Seven power-ups listed by the map guide",
+        "body": "Name Description Duration Insta-Kill Allows all players to insta-kill all normal zombies. 30 Seconds Max Ammo Refills the ammo reserve of all held weapons for every player. - Double Points Players receive double the amount of points for the duration of the power-up. 30 Seconds Nuke Kills all normal zombies on the map at once. - Bonus Points Gives each player in the match 500 Points - Full Power Gives the player that ran into it a full specialist weapon meter. - Carpenter Repairs all wooden barricades on the map as well as refills the meter on each player's shield -",
+        "html": "<table>\n<thead>\n<tr>\n<th>Name</th>\n<th>Description</th>\n<th>Duration</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Insta-Kill</td>\n<td>Allows all players to insta-kill all normal zombies.</td>\n<td>30 Seconds</td>\n</tr>\n<tr>\n<td>Max Ammo</td>\n<td>Refills the ammo reserve of all held weapons for every player.</td>\n<td>-</td>\n</tr>\n<tr>\n<td>Double Points</td>\n<td>Players receive double the amount of points for the duration of the power-up.</td>\n<td>30 Seconds</td>\n</tr>\n<tr>\n<td>Nuke</td>\n<td>Kills all normal zombies on the map at once.</td>\n<td>-</td>\n</tr>\n<tr>\n<td>Bonus Points</td>\n<td>Gives each player in the match 500 Points</td>\n<td>-</td>\n</tr>\n<tr>\n<td>Full Power</td>\n<td>Gives the player that ran into it a full specialist weapon meter.</td>\n<td>-</td>\n</tr>\n<tr>\n<td>Carpenter</td>\n<td>Repairs all wooden barricades on the map as well as refills the meter on each player&#x27;s shield</td>\n<td>-</td>\n</tr>\n</tbody>\n</table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ix/",
+        "tip": "Quoted historical descriptions, recipients and durations. This is the source’s seven-row list, not a complete current power-up pool or a validation of every ammunition interaction. The Full Power row applies to the pickup player; the Bonus Points row says 500 points per player."
+      }
+    ],
+    "relatedGuideIds": [
+      "bo4-ix-community-ix-map-features-pack-a-punch",
+      "bo4-ix-community-ix-map-features-challenge-banners",
+      "bo4-ix-community-ix-map-features-death-of-orion",
+      "bo4-ix-community-ix-map-features-brazen-bull",
+      "bo4-ix-community-ix-easter-eggs-quests-odin-viking",
+      "bo4-ix-community-ix-easter-eggs-quests-main-quest",
+      "bo4-ix-weapons-acquisition-packed-reference"
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": "https://www.reddit.com/r/CODZombies/wiki/ix/",
+    "sharedSource": false,
+    "sourceOmissions": [],
+    "sources": [
+      {
+        "title": "r/CODZombies — original IX hunt and firsthand reports",
+        "url": "https://www.reddit.com/r/CODZombies/comments/9n90p7/ix_easter_egg_hunt_general_map_discussion/"
+      },
+      {
+        "title": "ibefuzzy — firsthand 2019 PC route and optional loadout",
+        "url": "https://www.reddit.com/r/CODZombies/comments/cdn4pb/critique_my_ix_speedrun_method/"
+      },
+      {
+        "title": "EliteSnackist, BesTibi, DonIsmail and jayje2874 — firsthand IX quest help",
+        "url": "https://www.reddit.com/r/CODZombies/comments/ffb6z7/bo4_ix_easter_egg_questions_plus_general/"
+      },
+      {
+        "title": "The_Beebat and r/CODZombies — IX map guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/ix/"
+      }
+    ],
+    "id": "bo4-ix-perk-altars-crowd-setup",
+    "mapId": "bo4-ix",
+    "images": [
+      {
+        "src": "./assets/ix-altar-crowd-reference.svg",
+        "alt": "Altars and crowd rewards",
+        "caption": "Original reference diagram. Original setup summary; exact crowd thresholds and current perk rules remain qualified.",
+        "credit": "Dead Drop",
+        "source": "https://www.reddit.com/r/CODZombies/comments/9n90p7/ix_easter_egg_hunt_general_map_discussion/",
+        "width": 420,
+        "height": 660
+      }
+    ]
+  },
+  {
+    "title": "Homunculus: make the crowd do the wave",
+    "category": "side",
+    "summary": "Throw a Homunculus into the front spectator rows for the reported crowd animation.",
+    "difficulty": "Easy",
+    "players": "Solo / co-op",
+    "requirements": [
+      "Black Ops 4: IX.",
+      "Obtain a Homunculus; the firsthand 2019 PC route reports optional Box acquisition.",
+      "Use an eligible online Classic game; cross-mode parity is not established."
+    ],
+    "reward": "A reported crowd wave and brief musical cue.",
+    "steps": [
+      {
+        "title": "Obtain a Homunculus before attempting the throw",
+        "body": "ibefuzzy’s 2019 PC quest route explicitly lists rolling the Mystery Box for Homunculus as optional. Have one available before approaching the spectator stands.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/cdn4pb/critique_my_ix_speedrun_method/",
+        "tip": "This report does not establish a current Box price, unlock level, complete equipment pool or guaranteed roll odds."
+      },
+      {
+        "title": "Land it in the first or second spectator row",
+        "body": "From the Arena, throw the Homunculus into the crowd. Green_Dayzed’s original follow-up says it may bounce off the stands, but the animation triggers if it remains in the first or second row.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/ezfets/whole_crowd_doing_the_wave_ix_ee/",
+        "tip": "The post does not provide a complete set of exact floor / crosshair lineups. If it lands out of bounds, that does not establish completion."
+      },
+      {
+        "title": "Watch for the crowd animation and cue",
+        "body": "Jacobthesoviet reports a brief musical cue followed by spectators standing and sitting in a wave for a lap or two. Green_Dayzed posts a follow-up demonstrating the whole crowd and confirms the front-row throw.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/ezacwh/make_the_crowd_do_the_wave_in_ix/",
+        "tip": "The source does not establish an extra weapon, perk, persistent unlock, connection to the drummer quest or current difficulty-specific behaviour. The animation is the supported reported result."
+      }
+    ],
+    "relatedGuideIds": [
+      "bo4-ix-community-ix-map-features-mystery-box-locations",
+      "bo4-ix-minor-secrets-lore-evidence",
+      "bo4-ix-perk-altars-crowd-setup"
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": null,
+    "sharedSource": false,
+    "sourceOmissions": [],
+    "sources": [
+      {
+        "title": "ibefuzzy — firsthand 2019 PC route and optional loadout",
+        "url": "https://www.reddit.com/r/CODZombies/comments/cdn4pb/critique_my_ix_speedrun_method/"
+      },
+      {
+        "title": "Green_Dayzed — original whole-crowd wave demonstration and throw advice",
+        "url": "https://www.reddit.com/r/CODZombies/comments/ezfets/whole_crowd_doing_the_wave_ix_ee/"
+      },
+      {
+        "title": "Jacobthesoviet — firsthand crowd-wave report",
+        "url": "https://www.reddit.com/r/CODZombies/comments/ezacwh/make_the_crowd_do_the_wave_in_ix/"
+      }
+    ],
+    "id": "bo4-ix-homunculus-crowd-wave",
+    "mapId": "bo4-ix",
+    "images": [
+      {
+        "src": "./assets/ix-crowd-wave.svg",
+        "alt": "Make the crowd wave",
+        "caption": "Original reference diagram. Original throw summary; no extra weapon, perk or permanent reward is established.",
+        "credit": "Dead Drop",
+        "source": "https://www.reddit.com/r/CODZombies/comments/ezfets/whole_crowd_doing_the_wave_ix_ee/",
+        "width": 420,
+        "height": 660
+      }
+    ]
+  },
+  {
+    "title": "Minor secrets and lore: reported actions and remaining gaps",
+    "category": "side",
+    "summary": "Keep the bowl sequence, early drummer reports, Remus and scroll limits distinct from finished quest routes.",
+    "difficulty": "Reference",
+    "players": "Solo / co-op",
+    "requirements": [
+      "Black Ops 4: IX.",
+      "Use an eligible online Normal-or-higher Classic game when following reported IX secrets.",
+      "This reference exposes incomplete written evidence; it does not label old leads as currently unsolved or promise an extra reward."
+    ],
+    "reward": "A finite record of supported minor-secret actions and unrecovered lore routes.",
+    "steps": [
+      {
+        "title": "Light the eight outer bowls in the reported order",
+        "body": "Myst3ryo’s May 2019 report gives this Wraith Fire sequence for the bowls outside the Arena: left Ra, left Zeus, right Odin, right Danu, left Danu, left Odin, right Ra, right Zeus. It reports that a wrong bowl extinguishes the sequence.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/bpebul/unsolved_side_easter_eggs_in_black_ops_4_zombies/",
+        "tip": "Exact left / right viewpoint, throwing positions and any later reward are not established by the read prose. The report ended at eight lit bowls. No connection to the main trials or completed drummer quest is invented."
+      },
+      {
+        "title": "Recognise the early drummer trigger",
+        "body": "Zaru-X’s August 2019 report says to shoot one Arena-side drummer / drum with the shield’s ranged attack during a Max Ammo special round. A guitar riff is the reported confirmation. The same report then keeps a Kill-O-Watt gun in the inventory while getting nine headshots, with a riff on each.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/cpmsow/ixs_unsolved_guitar_riff_ee/",
+        "tip": "This is a partial 2019 report, not the full present route. Early discussions differ on alternate-ammo details. A later April 2021 script-release discussion explicitly says the guitar-riff Easter egg was solved, so it is not described here as currently unsolved."
+      },
+      {
+        "title": "Keep the later drummer solution marked as unrecovered",
+        "body": "serious-yt’s 2021 release discussion records that the guitar-riff secret had been solved after script inspection. The written post does not enumerate the later actions or a complete repeatable reward route.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/n10huo/release_black_ops_4_decompiled_game_scripts/",
+        "tip": "Do not substitute the Iron Bull ignition / heavy-kill sequence or an old tester leak for the missing drummer stages. The exact later kill order, which player owns progress, completion trigger and reward need the original solution recording or current code review."
+      },
+      {
+        "title": "Keep Remus separate from an unproved extra reward",
+        "body": "DarthShaddix reports repeatedly breaking the wall and completing the Remus sequence, while asking what follows. The discussion identifies a cipher on the back wall but does not establish a further gameplay reward.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/cim9jw/remus_easter_egg_ending_ix/",
+        "tip": "The exact wall interaction, riddles, answers and complete sequence were not recovered in the read primary text. No complete “free the prisoner” walkthrough or alternative ending is claimed, and decoded fictional dialogue is not reproduced."
+      },
+      {
+        "title": "Treat the seven scrolls as a remaining locator gap",
+        "body": "The same firsthand Remus discussion explicitly refers to doing all seven scrolls. echochilde separately describes having used the scrolls for backstory, but does not enumerate their seven surfaces or activation sequence.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/cim9jw/remus_easter_egg_ending_ix/",
+        "tip": "All seven exact scroll locators, interaction inputs, repeat / order rules and online-mode eligibility remain unrecovered here. No list inferred from lore transcripts is presented as a playable route."
+      }
+    ],
+    "relatedGuideIds": [
+      "bo4-ix-community-ix-easter-eggs-quests-music-easter-egg",
+      "bo4-ix-nos-fideles-podium-song",
+      "bo4-ix-homunculus-crowd-wave",
+      "bo4-ix-iron-bull-upgrade",
+      "bo4-ix-community-ix-easter-eggs-quests-odin-viking"
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": null,
+    "sharedSource": false,
+    "sourceOmissions": [
+      "Later drummer solution, exact bowl viewpoints / continuation, full Remus route, seven scroll locations, and physical cipher locators remain incomplete."
+    ],
+    "sources": [
+      {
+        "title": "Myst3ryo and commenters — original 2019 bowl / drummer discussion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/bpebul/unsolved_side_easter_eggs_in_black_ops_4_zombies/"
+      },
+      {
+        "title": "Zaru-X — original 2019 drummer sequence report",
+        "url": "https://www.reddit.com/r/CODZombies/comments/cpmsow/ixs_unsolved_guitar_riff_ee/"
+      },
+      {
+        "title": "serious-yt and commenters — 2021 script release and later solved announcement",
+        "url": "https://www.reddit.com/r/CODZombies/comments/n10huo/release_black_ops_4_decompiled_game_scripts/"
+      },
+      {
+        "title": "DarthShaddix and commenters — firsthand Remus / cipher discussion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/cim9jw/remus_easter_egg_ending_ix/"
+      },
+      {
+        "title": "echochilde — firsthand Viking part and throw route",
+        "url": "https://www.reddit.com/r/BlackOps4Zombies/comments/18sfe3u/ix_easter_eggs/"
+      }
+    ],
+    "id": "bo4-ix-minor-secrets-lore-evidence",
+    "mapId": "bo4-ix",
+    "images": [
+      {
+        "src": "./assets/ix-reported-bowl-order.svg",
+        "alt": "Reported bowl order",
+        "caption": "Original reference diagram. Historical order only. The left/right viewpoint and later continuation remain unverified.",
+        "credit": "Dead Drop",
+        "source": "https://www.reddit.com/r/CODZombies/comments/bpebul/unsolved_side_easter_eggs_in_black_ops_4_zombies/",
+        "width": 420,
+        "height": 660
+      }
+    ]
+  },
+  {
+    "title": "Special enemies and IX’s listed achievements",
+    "category": "side",
+    "summary": "Recognise the quest enemies and plan the nine listed trophies plus Sands of Time.",
+    "difficulty": "Reference",
+    "players": "Solo / co-op",
+    "requirements": [
+      "Black Ops 4: IX.",
+      "Check your platform’s live achievement wording and difficulty eligibility before a restricted run.",
+      "These are reported objectives and planning routes; exact hidden checks and every co-op credit rule remain unverified."
+    ],
+    "reward": "A finite enemy and achievement checklist linked to playable routes.",
+    "steps": [
+      {
+        "title": "Recognise the heavy enemies",
+        "body": "The guide’s axe-throwing Gladiator has breakable armor. Its Brawler charges / jumps and has a removable helmet. Blightfather can spit acid onto wall buys and grab a player with its tongue; the listed weak point is its back bulbs.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ix/",
+        "tip": "The sources use Gladiator and Brawler labels; exact current damage and health values across difficulty levels are not established. No old Tiger pounce damage number is treated as universal."
+      },
+      {
+        "title": "Recognise the four Catalysts and Tigers",
+        "body": "The map guide lists Fire, Poison, Electric and Water Catalysts. Fire explodes near players; Poison creates a close-range hazard; Electric charges a blinding scream; Water avoids players and buffs other zombies. Tigers pounce toward players. Track distinct types for the reported Fire Immunity sequence.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ix/"
+      },
+      {
+        "title": "My Home is the Arena",
+        "body": "Reach round twenty without opening a gate. The wiki suggests a separate Casual attempt and using the tier-three Z Harmony reward; if its selected challenge needs a gate, the source suggests restarting for another objective.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ix/",
+        "tip": "This Casual trophy suggestion is not permission to do the story quest or music secrets in Casual. Every weapon, teammate and damage-source exclusion has not been independently tested."
+      },
+      {
+        "title": "Venerated Warrior and Skilled Adversary",
+        "body": "Defeat the main quest’s most venerated warrior for Venerated Warrior. Obtain all nine medallions on a Challenge Banner in one game for Skilled Adversary. Use the linked main route and nine-tier banner table.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ix/"
+      },
+      {
+        "title": "The Slaughterhouse and Going Like the Wind",
+        "body": "Dismember thirteen limbs in one match while in The Pit for The Slaughterhouse. Defeat all eight gong challengers within five minutes for Going Like the Wind. Plan a route through all four God Altar Rooms before starting the timed attempt.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ix/",
+        "tip": "The read achievement text does not fully define timer start, simultaneous co-op credit or every valid limb / damage check. Four sacrificial heads and eight challengers are different counts."
+      },
+      {
+        "title": "Gift of Serket",
+        "body": "Obtain Serket’s Kiss by Pack-a-Punching Death of Orion. Use the linked Orion quest or its reported ordinary Box route, then upgrade at the open Temple altar.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ix/"
+      },
+      {
+        "title": "Here Kitty, Kitty",
+        "body": "Use Brain Rot to turn a Zombie Tiger, then have that converted Tiger kill another Tiger. The map guide identifies Brain Rot as a re-pack effect.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ix/",
+        "tip": "Exact target-selection reliability, AAT eligibility per weapon and current trophy credit edge cases remain unverified. A converted ordinary zombie is not the stated Tiger requirement."
+      },
+      {
+        "title": "Acidic Alchemy",
+        "body": "Get an Acid Trap kill at each of the four craftable sites listed in the Acid Trap card. Track the Ra, Danu, Odin and Zeus sites separately.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ix/",
+        "tip": "The source does not supply a fully verified same-match four-site build / rebuild procedure, all ownership rules or achievement-reset conditions."
+      },
+      {
+        "title": "Constellation Prize",
+        "body": "Kill nine zombies with one uncharged Death of Orion shot. The wiki’s suggested setup lines enemies up on a bridge; use the uncharged shot required by the objective.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ix/",
+        "tip": "The late Challenge Banner can instead ask for nine hits with a charged shot. These are different conditions. Exact packed-weapon eligibility and every damage-credit rule remain unverified."
+      },
+      {
+        "title": "Sands of Time",
+        "body": "The source lists this Dark Ops objective as completing IX’s main Easter egg in under ninety-nine minutes. Plan the ingredient waits and required tools before committing to the run.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ix/",
+        "tip": "The guide does not establish every timer boundary, pause behaviour, platform exception or post-cutscene credit condition. No speedrun or completion time is guaranteed."
+      }
+    ],
+    "relatedGuideIds": [
+      "bo4-ix-community-ix-easter-eggs-quests-main-quest",
+      "bo4-ix-community-ix-map-features-challenge-banners",
+      "bo4-ix-community-ix-map-features-pack-a-punch",
+      "bo4-ix-community-ix-map-features-death-of-orion",
+      "bo4-ix-community-ix-map-features-acid-trap",
+      "bo4-ix-community-ix-easter-eggs-quests-fire-immunity"
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": null,
+    "sharedSource": false,
+    "sourceOmissions": [],
+    "sources": [
+      {
+        "title": "The_Beebat and r/CODZombies — IX map guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/ix/"
+      }
+    ],
+    "id": "bo4-ix-enemies-achievement-reference",
+    "mapId": "bo4-ix",
+    "images": [
+      {
+        "src": "./assets/ix-enemy-reference.svg",
+        "alt": "Special-enemy reference",
+        "caption": "Original reference diagram. Original type summary; exact health, damage and quest-credit rules remain unverified.",
+        "credit": "Dead Drop",
+        "source": "https://www.reddit.com/r/CODZombies/wiki/ix/",
+        "width": 420,
+        "height": 660
+      }
+    ]
   }
 ]
