@@ -15868,5 +15868,597 @@
         "height": 660
       }
     ]
+  },
+  {
+    "id": "wwii-the-tortured-path-weapon-methods-and-upgrade-limits",
+    "mapId": "wwii-the-tortured-path",
+    "title": "Objective weapons: random wall buys, guarantees and upgrades",
+    "category": "weapon",
+    "summary": "Use the original tested acquisition method without inventing a complete current weapon pool.",
+    "reward": "A supported method reference for random wall buys, the PPSh chance, the Sword and upgrading.",
+    "requirements": [
+      "Call of Duty: WWII — The Tortured Path objective playlist or named objective chapter. The separate Survival editions have their own guides."
+    ],
+    "steps": [
+      {
+        "title": "Use the historical random-wall-buy guarantee report",
+        "body": "QueenLa3fah reports that weapon-guarantee consumables work at the random wall buys. They specifically tested a Toggle Action guarantee at the 500-Jolt random starting-pistol wall buy and obtained that weapon on Round 1.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/8tuv63/the_tortured_path_easter_egg_hunt_general_map/",
+        "tip": "The same comment asserts MG-15 also works. Only the Toggle Action purchase is explicitly described as tested; this is an old personal report, not a current all-consumables guarantee."
+      },
+      {
+        "title": "Do not turn that report into a universal weapon list",
+        "body": "The original comment supports a consumable-plus-random-wall-buy method. It does not enumerate the complete random pool, every category location, all roll prices, or every packed alias.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/8tuv63/the_tortured_path_easter_egg_hunt_general_map/",
+        "tip": "The boss’s recommended guns and the class table’s starting weapons are suggestions, not proof that every weapon is available from every chapter’s random buy."
+      },
+      {
+        "title": "Unlock each chapter’s Pack-a-Punch separately",
+        "body": "Charge the three chapter-specific machines at the recorded Wave 1, 4 and 7 thresholds. Use the linked chapter setup for the exact named locations and final machine.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-tortured-path/",
+        "tip": "The written mode guide does not give current upgrade prices, all packed names, damage, ammunition, upgrade effects or weapon-specific refill rules."
+      },
+      {
+        "title": "Use the two documented special-weapon routes",
+        "body": "The Classic PPSh-41 has the 1,750-Jolt resupply-flare chance described in its own guide. The Sword is forged in Beneath the Ice; the consecutive three-quest reward also describes later Sword access after Into the Storm and Across the Depths quests.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-tortured-path/",
+        "tip": "These are separate reward routes. No current universal inventory compatibility, shared ownership or Sword pickup census is supplied."
+      },
+      {
+        "title": "Treat rank and Engineered Parts as separately tracked systems",
+        "body": "RichOversteers describes a Bureau-rank damage bonus, with a reported rank-50 maximum of +200%. The achievement table separately tracks collecting twenty-five Engineered Parts.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/gwopy8/is_the_ww2_season_pass_worth_it/",
+        "tip": "The source set does not explain every Part drop, equip input, stacking rule, transfer to other modes or exact current damage calculation.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/wiki/the-tortured-path/"
+        ]
+      }
+    ],
+    "players": "Solo / co-op",
+    "difficulty": "Objective chapter / historical written reference",
+    "sources": [
+      {
+        "title": "r/CODZombies — stored Tortured Path map article",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/the-tortured-path/"
+      },
+      {
+        "title": "rCODZombiesBot and named players — original Tortured Path hunt",
+        "url": "https://www.reddit.com/r/CODZombies/comments/8tuv63/the_tortured_path_easter_egg_hunt_general_map/"
+      },
+      {
+        "title": "RichOversteers — original progression and Bureau-rank report",
+        "url": "https://www.reddit.com/r/CODZombies/comments/gwopy8/is_the_ww2_season_pass_worth_it/"
+      }
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": null,
+    "sharedSource": false,
+    "sourceOmissions": [],
+    "relatedGuideIds": [
+      "wwii-the-tortured-path-community-the-tortured-path-into-the-storm-pack-a-punch-ubersprengen",
+      "wwii-the-tortured-path-community-the-tortured-path-across-the-depths-pack-a-punch-ubersprengen",
+      "wwii-the-tortured-path-community-the-tortured-path-beneath-the-ice-pack-a-punch-ubersprengen",
+      "wwii-the-tortured-path-community-the-tortured-path-the-classic-ppsh-41-the-classic-ppsh-41",
+      "wwii-the-tortured-path-community-the-tortured-path-easter-egg-rewards-easter-egg-rewards",
+      "wwii-the-tortured-path-achievement-reference"
+    ],
+    "images": [
+      {
+        "src": "./assets/tortured-path-weapons.svg",
+        "alt": "Objective weapons",
+        "caption": "Original reference diagram. Complete current weapon pools and upgrade rules remain unverified.",
+        "credit": "Dead Drop",
+        "source": "https://www.reddit.com/r/CODZombies/wiki/the-tortured-path/",
+        "width": 420,
+        "height": 660
+      }
+    ]
+  },
+  {
+    "id": "wwii-into-the-storm-blitz-enemies-recording",
+    "mapId": "wwii-into-the-storm",
+    "title": "Into the Storm: Blitz, enemies, recording and chapter extras",
+    "category": "side",
+    "summary": "Find the named perk locations and the original recording hint, with the remaining locator limits visible.",
+    "reward": "A chapter setup/reference plus the supported partial recording and side-secret instructions.",
+    "requirements": [
+      "Call of Duty: WWII — The Tortured Path objective playlist or named objective chapter. The separate Survival editions have their own guides."
+    ],
+    "steps": [
+      {
+        "title": "Seven stored Blitz entries and locations",
+        "body": "Perk | Cost | Location | Description\nLebenblitz (Solo) | 500 Jolts | Spawn | While solo, Lebenblitz automatically revives the user, but is limited to 3 uses.\nLebenblitz (Co-op) | 1500 Jolts | Spawn | While cooperating with others, Lebenblitz increases how fast you revive allies.\nLaufenblitz | 2000 Jolts | Windmill | Laufenblitz ensures your legs keep moving and never tire. Gain increased sprint speed and sprint indefinitely.\nFaustblitz | 2000 Jolts | House | Faustblitz makes every strike your best. Your melee damage is increased.\nSchnellblitz | 3000 Jolts | Winery Cellar | With Schnellblitz, your weapon feels like an extension of you, as if you have used it your whole life. Gain increased reload speed.\nSchildblitz | 2000 Jolts | Next to SMG Wallbuy | Schildblitz will protect you when your gun cannot. A burst of damaging electricity comes forth when you reload.\nKugelblitz | 2000 Jolts | Between House & Windmill | With Kugelblitz, your weapons have new life, increasing their damage output.",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-tortured-path/",
+        "tip": "Literal source prices and effects are preserved, including separate solo/co-op Lebenblitz entries. Current price changes, perk caps and all reward-sharing exceptions are untested.",
+        "html": "<table><thead><tr><th>Perk</th><th>Cost</th><th>Location</th><th>Description</th></tr></thead><tbody><tr><td>Lebenblitz (Solo)</td><td>500 Jolts</td><td>Spawn</td><td>While solo, Lebenblitz automatically revives the user, but is limited to 3 uses.</td></tr><tr><td>Lebenblitz (Co-op)</td><td>1500 Jolts</td><td>Spawn</td><td>While cooperating with others, Lebenblitz increases how fast you revive allies.</td></tr><tr><td>Laufenblitz</td><td>2000 Jolts</td><td>Windmill</td><td>Laufenblitz ensures your legs keep moving and never tire. Gain increased sprint speed and sprint indefinitely.</td></tr><tr><td>Faustblitz</td><td>2000 Jolts</td><td>House</td><td>Faustblitz makes every strike your best. Your melee damage is increased.</td></tr><tr><td>Schnellblitz</td><td>3000 Jolts</td><td>Winery Cellar</td><td>With Schnellblitz, your weapon feels like an extension of you, as if you have used it your whole life. Gain increased reload speed.</td></tr><tr><td>Schildblitz</td><td>2000 Jolts</td><td>Next to SMG Wallbuy</td><td>Schildblitz will protect you when your gun cannot. A burst of damaging electricity comes forth when you reload.</td></tr><tr><td>Kugelblitz</td><td>2000 Jolts</td><td>Between House &amp; Windmill</td><td>With Kugelblitz, your weapons have new life, increasing their damage output.</td></tr></tbody></table>"
+      },
+      {
+        "title": "Six recorded special-enemy descriptions",
+        "body": "Enemy Name | Special Abilities | Pronunciation\nPest | Pests will spawn on special waves and will chase you at alarming speeds. | -\nWüstling | The Wüstling has a powerful charge attack that can deal massive damage and knock over zombies in it's path. It's weak spot is the spine. | Woost-ling\nBomber | Bombers can explode when they get close to you. Their explosions can also kill zombies. You can shoot the bombs off the Bombers by shooting the 2nd zombie head on the back | -\nBrenner | The Brenner will chase you around and use a flamethrower to damage you. If you damage his fuel tanks enough he will be unable to use his flamethrower. | -\nMeuchler | A zombie that can track you through fog, it will often prioritize picking off players that are alone. Their weak spot is their tongue. | Moy-shla\nGekocht (Sizzler) | A normal zombie is shot by a Geistbolt from a blimp and turned into a Sizzler. It can run faster than any player even with the help of Laufenblitz. | Geh-co-ckt",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-tortured-path/",
+        "tip": "The linked Picture column is omitted rather than replaced by guessed media. These are source descriptions, not a measured health, damage, spawn or resistance catalogue.",
+        "html": "<table><thead><tr><th>Enemy Name</th><th>Special Abilities</th><th>Pronunciation</th></tr></thead><tbody><tr><td>Pest</td><td>Pests will spawn on special waves and will chase you at alarming speeds.</td><td>-</td></tr><tr><td>Wüstling</td><td>The Wüstling has a powerful charge attack that can deal massive damage and knock over zombies in it&#x27;s path. It&#x27;s weak spot is the spine.</td><td>Woost-ling</td></tr><tr><td>Bomber</td><td>Bombers can explode when they get close to you. Their explosions can also kill zombies. You can shoot the bombs off the Bombers by shooting the 2nd zombie head on the back</td><td>-</td></tr><tr><td>Brenner</td><td>The Brenner will chase you around and use a flamethrower to damage you. If you damage his fuel tanks enough he will be unable to use his flamethrower.</td><td>-</td></tr><tr><td>Meuchler</td><td>A zombie that can track you through fog, it will often prioritize picking off players that are alone. Their weak spot is their tongue.</td><td>Moy-shla</td></tr><tr><td>Gekocht (Sizzler)</td><td>A normal zombie is shot by a Geistbolt from a blimp and turned into a Sizzler. It can run faster than any player even with the help of Laufenblitz.</td><td>Geh-co-ckt</td></tr></tbody></table>"
+      },
+      {
+        "title": "Shoot the House-ceiling recording down",
+        "body": "The original hunt places the Into the Storm recording in the ceiling of the House. Shoot it down, then retrieve it from the Gramophone.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/8tuv63/the_tortured_path_easter_egg_hunt_general_map/",
+        "tip": "Historical visual reference; pickup controls and co-op credit remain unverified.",
+        "images": [
+          {
+            "src": "./assets/tortured-path-storm-recording.webp",
+            "alt": "House gramophone",
+            "caption": "Gramophone beside floral curtains.",
+            "credit": "Beebat",
+            "source": "https://www.youtube.com/watch?v=7NuPy-NbrBY",
+            "width": 800,
+            "height": 800
+          }
+        ]
+      },
+      {
+        "title": "Account for the recording’s one-time claim limit",
+        "body": "The map article describes one secret audio recording per chapter and says each can be obtained only once per account. That account restriction is separate from the hunt’s partial physical pickup hints.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-tortured-path/",
+        "tip": "Exact platform persistence, replay, co-op credit, file/device correspondence and all playback controls are not independently established. No recording dialogue or lyrics are reproduced."
+      },
+      {
+        "title": "Use the chapter quest and the shared PPSh recipe",
+        "body": "Follow the linked chapter main quest for its Hilt, Pommel or Sword reward and the reported all-Blitz award. The same objective-mode article applies The Classic PPSh flare contribution to any of the three chapters.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-tortured-path/",
+        "tip": "The standalone Survival map is a separate edition. A shared setting does not transfer the full objective quest into Survival."
+      },
+      {
+        "title": "Activate the optional difficulty modifier only with its conditions",
+        "body": "The shared Darkened Path recipe uses the rank-50 Spawn skull and requires every player to interact. Its three-main-quest charm condition and the character-specific defense requirement have separate linked walkthroughs.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-tortured-path/",
+        "tip": "Current mixed-rank, solo/team credit and interrupted-run handling remain unverified."
+      },
+      {
+        "title": "Keep the wooden ducks and rooftop coils as unfinished leads",
+        "body": "The original hunt lists wooden ducks around Into the Storm and Tesla coils on house roofs under Unknown Leads. It does not give a completed input sequence or reward for either.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/8tuv63/the_tortured_path_easter_egg_hunt_general_map/",
+        "tip": "No duck count, coil activation order or completed secret is inferred from those observations."
+      }
+    ],
+    "players": "Solo / co-op",
+    "difficulty": "Objective chapter / historical written reference",
+    "sources": [
+      {
+        "title": "r/CODZombies — stored Tortured Path map article",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/the-tortured-path/"
+      },
+      {
+        "title": "rCODZombiesBot and named players — original Tortured Path hunt",
+        "url": "https://www.reddit.com/r/CODZombies/comments/8tuv63/the_tortured_path_easter_egg_hunt_general_map/"
+      },
+      {
+        "title": "Beebat: recording reference",
+        "url": "https://www.youtube.com/watch?v=7NuPy-NbrBY"
+      }
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": "https://www.reddit.com/r/CODZombies/wiki/the-tortured-path/",
+    "sharedSource": false,
+    "sourceOmissions": [
+      "The saved objective-mode sources do not establish Geistschild/armour availability, acquisition, refill or pricing. The separate Survival-map armour instructions are not verified for this objective chapter."
+    ],
+    "relatedGuideIds": [
+      "wwii-into-the-storm-community-the-tortured-path-into-the-storm-pack-a-punch-ubersprengen",
+      "wwii-into-the-storm-community-the-tortured-path-into-the-storm-main-easter-egg-quest",
+      "wwii-into-the-storm-community-the-tortured-path-into-the-storm-objective-wave-variations",
+      "wwii-into-the-storm-community-the-tortured-path-into-the-storm-character-unlock-challenges",
+      "wwii-the-tortured-path-community-the-tortured-path-the-classic-ppsh-41-the-classic-ppsh-41",
+      "wwii-the-tortured-path-community-the-tortured-path-the-darkened-path-the-darkened-path",
+      "wwii-the-tortured-path-community-the-tortured-path-easter-egg-rewards-easter-egg-rewards",
+      "wwii-the-tortured-path-weapon-methods-and-upgrade-limits",
+      "wwii-the-tortured-path-achievement-reference"
+    ],
+    "images": [
+      {
+        "src": "./assets/tortured-path-storm-extras.svg",
+        "alt": "Into the Storm",
+        "caption": "Original reference diagram. Objective chapter reference. Separate Survival rules may differ.",
+        "credit": "Dead Drop",
+        "source": "https://www.reddit.com/r/CODZombies/wiki/the-tortured-path/",
+        "width": 420,
+        "height": 660
+      }
+    ]
+  },
+  {
+    "id": "wwii-across-the-depths-blitz-enemies-recording",
+    "mapId": "wwii-across-the-depths",
+    "title": "Across the Depths: Blitz, enemies, recording and chapter extras",
+    "category": "side",
+    "summary": "Find the named perk locations and the original recording hint, with the remaining locator limits visible.",
+    "reward": "A chapter setup/reference plus the supported partial recording and side-secret instructions.",
+    "requirements": [
+      "Call of Duty: WWII — The Tortured Path objective playlist or named objective chapter. The separate Survival editions have their own guides."
+    ],
+    "steps": [
+      {
+        "title": "Seven stored Blitz entries and locations",
+        "body": "Perk | Cost | Location | Description\nLebenblitz (Solo) | 500 Jolts | Upper Deck | While solo, Lebenblitz automatically revives the user, but is limited to 3 uses.\nLebenblitz (Co-op) | 1500 Jolts | Upper Deck | While cooperating with others, Lebenblitz increases how fast you revive allies.\nLaufenblitz | 2000 Jolts | Upper Deck | Laufenblitz ensures your legs keep moving and never tire. Gain increased sprint speed and sprint indefinitely.\nFaustblitz | 2000 Jolts | Projector Room | Faustblitz makes every strike your best. Your melee damage is increased.\nSchnellblitz | 3000 Jolts | Cafeteria | With Schnellblitz, your weapon feels like an extension of you, as if you have used it your whole life. Gain increased reload speed.\nSchildblitz | 2000 Jolts | Lower Deck | Schildblitz will protect you when your gun cannot. A burst of damaging electricity comes forth when you reload.\nKugelblitz | 2000 Jolts | Barracks | With Kugelblitz, your weapons have new life, increasing their damage output.",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-tortured-path/",
+        "tip": "Literal source prices and effects are preserved, including separate solo/co-op Lebenblitz entries. Current price changes, perk caps and all reward-sharing exceptions are untested.",
+        "html": "<table><thead><tr><th>Perk</th><th>Cost</th><th>Location</th><th>Description</th></tr></thead><tbody><tr><td>Lebenblitz (Solo)</td><td>500 Jolts</td><td>Upper Deck</td><td>While solo, Lebenblitz automatically revives the user, but is limited to 3 uses.</td></tr><tr><td>Lebenblitz (Co-op)</td><td>1500 Jolts</td><td>Upper Deck</td><td>While cooperating with others, Lebenblitz increases how fast you revive allies.</td></tr><tr><td>Laufenblitz</td><td>2000 Jolts</td><td>Upper Deck</td><td>Laufenblitz ensures your legs keep moving and never tire. Gain increased sprint speed and sprint indefinitely.</td></tr><tr><td>Faustblitz</td><td>2000 Jolts</td><td>Projector Room</td><td>Faustblitz makes every strike your best. Your melee damage is increased.</td></tr><tr><td>Schnellblitz</td><td>3000 Jolts</td><td>Cafeteria</td><td>With Schnellblitz, your weapon feels like an extension of you, as if you have used it your whole life. Gain increased reload speed.</td></tr><tr><td>Schildblitz</td><td>2000 Jolts</td><td>Lower Deck</td><td>Schildblitz will protect you when your gun cannot. A burst of damaging electricity comes forth when you reload.</td></tr><tr><td>Kugelblitz</td><td>2000 Jolts</td><td>Barracks</td><td>With Kugelblitz, your weapons have new life, increasing their damage output.</td></tr></tbody></table>"
+      },
+      {
+        "title": "Six recorded special-enemy descriptions",
+        "body": "Enemy Name | Special Abilities | Pronunciation\nPest | Pests will spawn on special waves and will chase you at alarming speeds. | -\nWüstling | The Wüstling has a powerful charge attack that can deal massive damage and knock over zombies in it's path. It's weak spot is the spine. | Woost-ling\nBomber | Bombers can explode when they get close to you. Their explosions can also kill zombies. You can shoot the bombs off the Bombers by shooting the 2nd zombie head on the back | -\nMeuchler | A zombie that can track you through fog, it will often prioritize picking off players that are alone. Their weak spot is their tongue. | Moy-shla\nGekocht (Sizzler) | A normal zombie is shot by a Geistbolt from a blimp and turned into a Sizzler. It can run faster than any player even with the help of Laufenblitz. | Geh-co-ckt\nStadtjäger | A terrifying beast that uses an engine to overload itself with Geistkraft in order to terrorize its prey. | Stat-yager",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-tortured-path/",
+        "tip": "The linked Picture column is omitted rather than replaced by guessed media. These are source descriptions, not a measured health, damage, spawn or resistance catalogue.",
+        "html": "<table><thead><tr><th>Enemy Name</th><th>Special Abilities</th><th>Pronunciation</th></tr></thead><tbody><tr><td>Pest</td><td>Pests will spawn on special waves and will chase you at alarming speeds.</td><td>-</td></tr><tr><td>Wüstling</td><td>The Wüstling has a powerful charge attack that can deal massive damage and knock over zombies in it&#x27;s path. It&#x27;s weak spot is the spine.</td><td>Woost-ling</td></tr><tr><td>Bomber</td><td>Bombers can explode when they get close to you. Their explosions can also kill zombies. You can shoot the bombs off the Bombers by shooting the 2nd zombie head on the back</td><td>-</td></tr><tr><td>Meuchler</td><td>A zombie that can track you through fog, it will often prioritize picking off players that are alone. Their weak spot is their tongue.</td><td>Moy-shla</td></tr><tr><td>Gekocht (Sizzler)</td><td>A normal zombie is shot by a Geistbolt from a blimp and turned into a Sizzler. It can run faster than any player even with the help of Laufenblitz.</td><td>Geh-co-ckt</td></tr><tr><td>Stadtjäger</td><td>A terrifying beast that uses an engine to overload itself with Geistkraft in order to terrorize its prey.</td><td>Stat-yager</td></tr></tbody></table>"
+      },
+      {
+        "title": "Shoot the recording held above Spawn",
+        "body": "The Across the Depths hunt says to shoot down the recording from the hand of a hanging zombie above Spawn.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/8tuv63/the_tortured_path_easter_egg_hunt_general_map/",
+        "tip": "Historical visual reference; pickup controls and co-op credit remain unverified.",
+        "images": [
+          {
+            "src": "./assets/tortured-path-depths-recording.webp",
+            "alt": "Spawn crane",
+            "caption": "Crane above Spawn.",
+            "credit": "Beebat",
+            "source": "https://www.youtube.com/watch?v=7NuPy-NbrBY",
+            "width": 820,
+            "height": 820
+          }
+        ]
+      },
+      {
+        "title": "Account for the recording’s one-time claim limit",
+        "body": "The map article describes one secret audio recording per chapter and says each can be obtained only once per account. That account restriction is separate from the hunt’s partial physical pickup hints.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-tortured-path/",
+        "tip": "Exact platform persistence, replay, co-op credit, file/device correspondence and all playback controls are not independently established. No recording dialogue or lyrics are reproduced."
+      },
+      {
+        "title": "Use the chapter quest and the shared PPSh recipe",
+        "body": "Follow the linked chapter main quest for its Hilt, Pommel or Sword reward and the reported all-Blitz award. The same objective-mode article applies The Classic PPSh flare contribution to any of the three chapters.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-tortured-path/",
+        "tip": "The standalone Survival map is a separate edition. A shared setting does not transfer the full objective quest into Survival."
+      },
+      {
+        "title": "Activate the optional difficulty modifier only with its conditions",
+        "body": "The shared Darkened Path recipe uses the rank-50 Spawn skull and requires every player to interact. Its three-main-quest charm condition and the character-specific defense requirement have separate linked walkthroughs.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-tortured-path/",
+        "tip": "Current mixed-rank, solo/team credit and interrupted-run handling remain unverified."
+      }
+    ],
+    "players": "Solo / co-op",
+    "difficulty": "Objective chapter / historical written reference",
+    "sources": [
+      {
+        "title": "r/CODZombies — stored Tortured Path map article",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/the-tortured-path/"
+      },
+      {
+        "title": "rCODZombiesBot and named players — original Tortured Path hunt",
+        "url": "https://www.reddit.com/r/CODZombies/comments/8tuv63/the_tortured_path_easter_egg_hunt_general_map/"
+      },
+      {
+        "title": "Beebat: recording reference",
+        "url": "https://www.youtube.com/watch?v=7NuPy-NbrBY"
+      }
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": "https://www.reddit.com/r/CODZombies/wiki/the-tortured-path/",
+    "sharedSource": false,
+    "sourceOmissions": [
+      "The saved objective-mode sources do not establish Geistschild/armour availability, acquisition, refill or pricing. The separate Survival-map armour instructions are not verified for this objective chapter."
+    ],
+    "relatedGuideIds": [
+      "wwii-across-the-depths-community-the-tortured-path-across-the-depths-pack-a-punch-ubersprengen",
+      "wwii-across-the-depths-community-the-tortured-path-across-the-depths-main-easter-egg-quest",
+      "wwii-across-the-depths-community-the-tortured-path-across-the-depths-objective-wave-variations",
+      "wwii-across-the-depths-community-the-tortured-path-across-the-depths-character-unlock-challenges",
+      "wwii-the-tortured-path-community-the-tortured-path-the-classic-ppsh-41-the-classic-ppsh-41",
+      "wwii-the-tortured-path-community-the-tortured-path-the-darkened-path-the-darkened-path",
+      "wwii-the-tortured-path-community-the-tortured-path-easter-egg-rewards-easter-egg-rewards",
+      "wwii-the-tortured-path-weapon-methods-and-upgrade-limits",
+      "wwii-the-tortured-path-achievement-reference"
+    ],
+    "images": [
+      {
+        "src": "./assets/tortured-path-depths-extras.svg",
+        "alt": "Across the Depths",
+        "caption": "Original reference diagram. Objective chapter reference. Separate Survival rules may differ.",
+        "credit": "Dead Drop",
+        "source": "https://www.reddit.com/r/CODZombies/wiki/the-tortured-path/",
+        "width": 420,
+        "height": 660
+      }
+    ]
+  },
+  {
+    "id": "wwii-beneath-the-ice-blitz-enemies-recording",
+    "mapId": "wwii-beneath-the-ice",
+    "title": "Beneath the Ice: Blitz, enemies, recording and chapter extras",
+    "category": "side",
+    "summary": "Find the named perk locations and the original recording hint, with the remaining locator limits visible.",
+    "reward": "A chapter setup/reference plus the supported partial recording and side-secret instructions.",
+    "requirements": [
+      "Call of Duty: WWII — The Tortured Path objective playlist or named objective chapter. The separate Survival editions have their own guides."
+    ],
+    "steps": [
+      {
+        "title": "Seven stored Blitz entries and locations",
+        "body": "Perk | Cost | Location | Description\nLebenblitz (Solo) | 500 Jolts | Spawn | While solo, Lebenblitz automatically revives the user, but is limited to 3 uses.\nLebenblitz (Co-op) | 1500 Jolts | Spawn | While cooperating with others, Lebenblitz increases how fast you revive allies.\nLaufenblitz | 2000 Jolts | Left of Spawn | Laufenblitz ensures your legs keep moving and never tire. Gain increased sprint speed and sprint indefinitely.\nFaustblitz | 2000 Jolts | Left of Pack-A-Punch | Faustblitz makes every strike your best. Your melee damage is increased.\nSchnellblitz | 3000 Jolts | Upstairs near Laufenblitz | With Schnellblitz, your weapon feels like an extension of you, as if you have used it your whole life. Gain increased reload speed.\nSchildblitz | 2000 Jolts | To the right of Faustblitz | Schildblitz will protect you when your gun cannot. A burst of damaging electricity comes forth when you reload.\nKugelblitz | 2000 Jolts | Very Top near the Rune Wall | With Kugelblitz, your weapons have new life, increasing their damage output.",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-tortured-path/",
+        "tip": "Literal source prices and effects are preserved, including separate solo/co-op Lebenblitz entries. Current price changes, perk caps and all reward-sharing exceptions are untested.",
+        "html": "<table><thead><tr><th>Perk</th><th>Cost</th><th>Location</th><th>Description</th></tr></thead><tbody><tr><td>Lebenblitz (Solo)</td><td>500 Jolts</td><td>Spawn</td><td>While solo, Lebenblitz automatically revives the user, but is limited to 3 uses.</td></tr><tr><td>Lebenblitz (Co-op)</td><td>1500 Jolts</td><td>Spawn</td><td>While cooperating with others, Lebenblitz increases how fast you revive allies.</td></tr><tr><td>Laufenblitz</td><td>2000 Jolts</td><td>Left of Spawn</td><td>Laufenblitz ensures your legs keep moving and never tire. Gain increased sprint speed and sprint indefinitely.</td></tr><tr><td>Faustblitz</td><td>2000 Jolts</td><td>Left of Pack-A-Punch</td><td>Faustblitz makes every strike your best. Your melee damage is increased.</td></tr><tr><td>Schnellblitz</td><td>3000 Jolts</td><td>Upstairs near Laufenblitz</td><td>With Schnellblitz, your weapon feels like an extension of you, as if you have used it your whole life. Gain increased reload speed.</td></tr><tr><td>Schildblitz</td><td>2000 Jolts</td><td>To the right of Faustblitz</td><td>Schildblitz will protect you when your gun cannot. A burst of damaging electricity comes forth when you reload.</td></tr><tr><td>Kugelblitz</td><td>2000 Jolts</td><td>Very Top near the Rune Wall</td><td>With Kugelblitz, your weapons have new life, increasing their damage output.</td></tr></tbody></table>"
+      },
+      {
+        "title": "Six recorded special-enemy descriptions",
+        "body": "Enemy Name | Special Abilities | Pronunciation\nPest | Pests will spawn on special waves and will chase you at alarming speeds. | -\nWüstling | The Wüstling has a powerful charge attack that can deal massive damage and knock over zombies in it's path. It's weak spot is the spine. | Woost-ling\nBomber | Bombers can explode when they get close to you. Their explosions can also kill zombies. You can shoot the bombs off the Bombers by shooting the 2nd zombie head on the back | -\nMeuchler | A zombie that can track you through fog, it will often prioritize picking off players that are alone. Their weak spot is their tongue. | Moy-shla\nGekocht (Sizzler) | A normal zombie is shot by a Geistbolt from a blimp and turned into a Sizzler. It can run faster than any player even with the help of Laufenblitz. | Geh-co-ckt\nGuardian | A creature lost for centuries, it will defend Thule with its last dying breath. It can behave like a black hole and pull in its enemies as well as regenerate health from blood within the Forge Room. | -",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-tortured-path/",
+        "tip": "The linked Picture column is omitted rather than replaced by guessed media. These are source descriptions, not a measured health, damage, spawn or resistance catalogue.",
+        "html": "<table><thead><tr><th>Enemy Name</th><th>Special Abilities</th><th>Pronunciation</th></tr></thead><tbody><tr><td>Pest</td><td>Pests will spawn on special waves and will chase you at alarming speeds.</td><td>-</td></tr><tr><td>Wüstling</td><td>The Wüstling has a powerful charge attack that can deal massive damage and knock over zombies in it&#x27;s path. It&#x27;s weak spot is the spine.</td><td>Woost-ling</td></tr><tr><td>Bomber</td><td>Bombers can explode when they get close to you. Their explosions can also kill zombies. You can shoot the bombs off the Bombers by shooting the 2nd zombie head on the back</td><td>-</td></tr><tr><td>Meuchler</td><td>A zombie that can track you through fog, it will often prioritize picking off players that are alone. Their weak spot is their tongue.</td><td>Moy-shla</td></tr><tr><td>Gekocht (Sizzler)</td><td>A normal zombie is shot by a Geistbolt from a blimp and turned into a Sizzler. It can run faster than any player even with the help of Laufenblitz.</td><td>Geh-co-ckt</td></tr><tr><td>Guardian</td><td>A creature lost for centuries, it will defend Thule with its last dying breath. It can behave like a black hole and pull in its enemies as well as regenerate health from blood within the Forge Room.</td><td>-</td></tr></tbody></table>"
+      },
+      {
+        "title": "Shoot down the Scaffolding recording",
+        "body": "The Beneath the Ice hunt gives a recording shot down from the Scaffolding.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/8tuv63/the_tortured_path_easter_egg_hunt_general_map/",
+        "tip": "Historical visual reference; pickup controls and co-op credit remain unverified.",
+        "images": [
+          {
+            "src": "./assets/tortured-path-ice-recording.webp",
+            "alt": "Fallen recording",
+            "caption": "Recording on the snow.",
+            "credit": "Beebat",
+            "source": "https://www.youtube.com/watch?v=7NuPy-NbrBY",
+            "width": 800,
+            "height": 800
+          }
+        ]
+      },
+      {
+        "title": "Account for the recording’s one-time claim limit",
+        "body": "The map article describes one secret audio recording per chapter and says each can be obtained only once per account. That account restriction is separate from the hunt’s partial physical pickup hints.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-tortured-path/",
+        "tip": "Exact platform persistence, replay, co-op credit, file/device correspondence and all playback controls are not independently established. No recording dialogue or lyrics are reproduced."
+      },
+      {
+        "title": "Use the chapter quest and the shared PPSh recipe",
+        "body": "Follow the linked chapter main quest for its Hilt, Pommel or Sword reward and the reported all-Blitz award. The same objective-mode article applies The Classic PPSh flare contribution to any of the three chapters.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-tortured-path/",
+        "tip": "The standalone Survival map is a separate edition. A shared setting does not transfer the full objective quest into Survival."
+      },
+      {
+        "title": "Activate the optional difficulty modifier only with its conditions",
+        "body": "The shared Darkened Path recipe uses the rank-50 Spawn skull and requires every player to interact. Its three-main-quest charm condition and the character-specific defense requirement have separate linked walkthroughs.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-tortured-path/",
+        "tip": "Current mixed-rank, solo/team credit and interrupted-run handling remain unverified."
+      },
+      {
+        "title": "Use vision for the partial Klaus hunt",
+        "body": "The original hunt describes breaking the central battery with three melee hits, entering its altered vision and listening for Klaus before finding and shooting him around Beneath the Ice. The achievement table names this objective Uber Lurker.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/8tuv63/the_tortured_path_easter_egg_hunt_general_map/",
+        "tip": "The OP says the vision is available every other round. A later remark cites an uninspected stream for a different reset rule and is not adopted as procedure. Klaus’s full coordinate list, exact visual target and current trigger/reset rules remain unresolved.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/wiki/the-tortured-path/"
+        ]
+      },
+      {
+        "title": "Keep the trap sunglasses and statue object as partial reports",
+        "body": "The hunt reports an egg-like object in one hanging statue’s mouth and says an unknown number of trap kills adds sunglasses to the trap-activation head. Neither entry gives a complete interaction route or a distinct reward.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/8tuv63/the_tortured_path_easter_egg_hunt_general_map/",
+        "tip": "The exact trap activator, kill threshold, statue view, timing and current persistence are not established. These remain labelled observations rather than fabricated completed side quests."
+      }
+    ],
+    "players": "Solo / co-op",
+    "difficulty": "Objective chapter / historical written reference",
+    "sources": [
+      {
+        "title": "r/CODZombies — stored Tortured Path map article",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/the-tortured-path/"
+      },
+      {
+        "title": "rCODZombiesBot and named players — original Tortured Path hunt",
+        "url": "https://www.reddit.com/r/CODZombies/comments/8tuv63/the_tortured_path_easter_egg_hunt_general_map/"
+      },
+      {
+        "title": "Beebat: recording reference",
+        "url": "https://www.youtube.com/watch?v=7NuPy-NbrBY"
+      }
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": "https://www.reddit.com/r/CODZombies/wiki/the-tortured-path/",
+    "sharedSource": false,
+    "sourceOmissions": [
+      "The saved objective-mode sources do not establish Geistschild/armour availability, acquisition, refill or pricing. The separate Survival-map armour instructions are not verified for this objective chapter."
+    ],
+    "relatedGuideIds": [
+      "wwii-beneath-the-ice-community-the-tortured-path-beneath-the-ice-pack-a-punch-ubersprengen",
+      "wwii-beneath-the-ice-community-the-tortured-path-beneath-the-ice-main-easter-egg-quest",
+      "wwii-beneath-the-ice-community-the-tortured-path-beneath-the-ice-objective-wave-variations",
+      "wwii-beneath-the-ice-community-the-tortured-path-beneath-the-ice-character-challenges",
+      "wwii-the-tortured-path-community-the-tortured-path-the-classic-ppsh-41-the-classic-ppsh-41",
+      "wwii-the-tortured-path-community-the-tortured-path-the-darkened-path-the-darkened-path",
+      "wwii-the-tortured-path-community-the-tortured-path-easter-egg-rewards-easter-egg-rewards",
+      "wwii-the-tortured-path-weapon-methods-and-upgrade-limits",
+      "wwii-the-tortured-path-achievement-reference"
+    ],
+    "images": [
+      {
+        "src": "./assets/tortured-path-ice-extras.svg",
+        "alt": "Beneath the Ice",
+        "caption": "Original reference diagram. Objective chapter reference. Separate Survival rules may differ.",
+        "credit": "Dead Drop",
+        "source": "https://www.reddit.com/r/CODZombies/wiki/the-tortured-path/",
+        "width": 420,
+        "height": 660
+      }
+    ]
+  },
+  {
+    "id": "wwii-the-tortured-path-achievement-reference",
+    "mapId": "wwii-the-tortured-path",
+    "title": "Ten Tortured Path achievements and their limits",
+    "category": "side",
+    "summary": "Keep every stored trophy row beside its relevant quest, counter or mode caveat.",
+    "reward": "A literal ten-entry objective checklist, distinct from the three character challenge sets.",
+    "requirements": [
+      "Call of Duty: WWII — The Tortured Path objective playlist or named objective chapter. The separate Survival editions have their own guides."
+    ],
+    "steps": [
+      {
+        "title": "Read the ten recorded trophy objectives",
+        "body": "The following rows preserve every name, description and rarity in the map article’s achievement table. The per-chapter character challenges are separate lists.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-tortured-path/",
+        "tip": "These source objectives do not certify every present platform counter, mode exception or shared unlock rule."
+      },
+      {
+        "title": "Ride of the Century",
+        "body": "Name | Description | Rarity\nRide of the Century | In The Tortured Path, complete 100 objective waves. | Silver",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-tortured-path/",
+        "tip": "The table counts completed objective waves; an exact account counter, reset rule and farming route are not supplied.",
+        "html": "<table><thead><tr><th>Name</th><th>Description</th><th>Rarity</th></tr></thead><tbody><tr><td>Ride of the Century</td><td>In The Tortured Path, complete 100 objective waves.</td><td>Silver</td></tr></tbody></table>"
+      },
+      {
+        "title": "I Have the Power",
+        "body": "Name | Description | Rarity\nI Have the Power | In The Tortured Path, assemble the Sword of Barbarossa. | Bronze",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-tortured-path/",
+        "tip": "This row names assembling the Sword. A later escape is a separate event; exact assembly-versus-pickup credit and platform tracking remain unverified.",
+        "html": "<table><thead><tr><th>Name</th><th>Description</th><th>Rarity</th></tr></thead><tbody><tr><td>I Have the Power</td><td>In The Tortured Path, assemble the Sword of Barbarossa.</td><td>Bronze</td></tr></tbody></table>"
+      },
+      {
+        "title": "I'll Be Home for Christmas",
+        "body": "Name | Description | Rarity\nI'll Be Home for Christmas | In The Tortured Path, successfully escape from Beneath the Ice. | Bronze",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-tortured-path/",
+        "tip": "Complete the live Beneath the Ice escape after the boss. This row does not state a separate main-Easter-egg requirement; exact current counter and team credit remain unverified.",
+        "html": "<table><thead><tr><th>Name</th><th>Description</th><th>Rarity</th></tr></thead><tbody><tr><td>I&#x27;ll Be Home for Christmas</td><td>In The Tortured Path, successfully escape from Beneath the Ice.</td><td>Bronze</td></tr></tbody></table>"
+      },
+      {
+        "title": "Over Engineered",
+        "body": "Name | Description | Rarity\nOver Engineered | In The Tortured Path, collect 25 Engineered Parts. | Bronze",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-tortured-path/",
+        "tip": "The source names twenty-five collected Engineered Parts but does not supply the full acquisition, equip or cross-mode persistence route.",
+        "html": "<table><thead><tr><th>Name</th><th>Description</th><th>Rarity</th></tr></thead><tbody><tr><td>Over Engineered</td><td>In The Tortured Path, collect 25 Engineered Parts.</td><td>Bronze</td></tr></tbody></table>"
+      },
+      {
+        "title": "Sea Sick",
+        "body": "Name | Description | Rarity\nSea Sick | In The Tortured Path, successfully escape from Across the Depth. | Bronze",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-tortured-path/",
+        "tip": "Complete the live Across the Depths escape after the boss. This row does not state a separate main-Easter-egg requirement; exact current counter and team credit remain unverified.",
+        "html": "<table><thead><tr><th>Name</th><th>Description</th><th>Rarity</th></tr></thead><tbody><tr><td>Sea Sick</td><td>In The Tortured Path, successfully escape from Across the Depth.</td><td>Bronze</td></tr></tbody></table>"
+      },
+      {
+        "title": "We've Only Just Begun",
+        "body": "Name | Description | Rarity\nWe've Only Just Begun | In The Tortured Path, successfully escape from Into the Storm. | Bronze",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-tortured-path/",
+        "tip": "Complete the live Into the Storm escape after the boss. This row does not state a separate main-Easter-egg requirement; exact current counter and team credit remain unverified.",
+        "html": "<table><thead><tr><th>Name</th><th>Description</th><th>Rarity</th></tr></thead><tbody><tr><td>We&#x27;ve Only Just Begun</td><td>In The Tortured Path, successfully escape from Into the Storm.</td><td>Bronze</td></tr></tbody></table>"
+      },
+      {
+        "title": "David, Meet Goliath",
+        "body": "Name | Description | Rarity\nDavid, Meet Goliath | In The Tortured Path, defeat the Guardian solo. | Bronze",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-tortured-path/",
+        "tip": "The objective explicitly requires defeating the Guardian solo. It does not establish every lobby setting or shared-character interaction.",
+        "html": "<table><thead><tr><th>Name</th><th>Description</th><th>Rarity</th></tr></thead><tbody><tr><td>David, Meet Goliath</td><td>In The Tortured Path, defeat the Guardian solo.</td><td>Bronze</td></tr></tbody></table>"
+      },
+      {
+        "title": "B.A.T. Elite",
+        "body": "Name | Description | Rarity\nB.A.T. Elite | In The Tortured Path, reach the max Bureau ranking. | Silver",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-tortured-path/",
+        "tip": "The written progression report gives rank 50 as the Bureau maximum. Current XP, prestige and cross-account behavior are not verified.",
+        "html": "<table><thead><tr><th>Name</th><th>Description</th><th>Rarity</th></tr></thead><tbody><tr><td>B.A.T. Elite</td><td>In The Tortured Path, reach the max Bureau ranking.</td><td>Silver</td></tr></tbody></table>",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/gwopy8/is_the_ww2_season_pass_worth_it/"
+        ]
+      },
+      {
+        "title": "Uber Lurker",
+        "body": "Name | Description | Rarity\nUber Lurker | In The Tortured Path, find and shoot Klaus. | Bronze",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-tortured-path/",
+        "tip": "Use the Beneath the Ice vision/Klaus notes; the full target coordinates and current repeat rule are still unresolved.",
+        "html": "<table><thead><tr><th>Name</th><th>Description</th><th>Rarity</th></tr></thead><tbody><tr><td>Uber Lurker</td><td>In The Tortured Path, find and shoot Klaus.</td><td>Bronze</td></tr></tbody></table>"
+      },
+      {
+        "title": "Extra Tortured Path",
+        "body": "Name | Description | Rarity\nExtra Tortured Path | In The Tortured Path, successfully escape from every map without using any Blitz. | Silver",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-tortured-path/",
+        "tip": "The text says escape every map without Blitz. Exact lobby continuity, automatic quest-perk awards and team credit for this trophy are not fully explained.",
+        "html": "<table><thead><tr><th>Name</th><th>Description</th><th>Rarity</th></tr></thead><tbody><tr><td>Extra Tortured Path</td><td>In The Tortured Path, successfully escape from every map without using any Blitz.</td><td>Silver</td></tr></tbody></table>"
+      }
+    ],
+    "players": "Solo / co-op",
+    "difficulty": "Objective chapter / historical written reference",
+    "sources": [
+      {
+        "title": "r/CODZombies — stored Tortured Path map article",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/the-tortured-path/"
+      },
+      {
+        "title": "RichOversteers — original progression and Bureau-rank report",
+        "url": "https://www.reddit.com/r/CODZombies/comments/gwopy8/is_the_ww2_season_pass_worth_it/"
+      }
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": "https://www.reddit.com/r/CODZombies/wiki/the-tortured-path/",
+    "sharedSource": false,
+    "sourceOmissions": [],
+    "relatedGuideIds": [
+      "wwii-the-tortured-path-community-the-tortured-path-into-the-storm-main-easter-egg-quest",
+      "wwii-the-tortured-path-community-the-tortured-path-across-the-depths-main-easter-egg-quest",
+      "wwii-the-tortured-path-community-the-tortured-path-beneath-the-ice-main-easter-egg-quest",
+      "wwii-the-tortured-path-community-the-tortured-path-into-the-storm-character-unlock-challenges",
+      "wwii-the-tortured-path-community-the-tortured-path-across-the-depths-character-unlock-challenges",
+      "wwii-the-tortured-path-community-the-tortured-path-beneath-the-ice-character-challenges",
+      "wwii-the-tortured-path-community-the-tortured-path-easter-egg-rewards-easter-egg-rewards",
+      "wwii-the-tortured-path-community-the-tortured-path-the-darkened-path-the-darkened-path",
+      "wwii-beneath-the-ice-blitz-enemies-recording",
+      "wwii-the-tortured-path-weapon-methods-and-upgrade-limits"
+    ],
+    "images": [
+      {
+        "src": "./assets/tortured-path-achievements.svg",
+        "alt": "Ten achievements",
+        "caption": "Original reference diagram. Historical descriptions; exact credit and current unlocks are untested.",
+        "credit": "Dead Drop",
+        "source": "https://www.reddit.com/r/CODZombies/wiki/the-tortured-path/",
+        "width": 420,
+        "height": 660
+      }
+    ]
   }
 ]
