@@ -10852,5 +10852,108 @@
     ],
     "id": "wwii-the-shadowed-throne-enemies-achievements",
     "mapId": "wwii-the-shadowed-throne"
+  },
+  {
+    "id": "wwii-the-final-reich-story-recorders",
+    "mapId": "wwii-the-final-reich",
+    "title": "Story recorders: pickups and Dossier",
+    "category": "side",
+    "difficulty": "Exploration",
+    "players": "Solo or co-op reports; individual pickups",
+    "summary": "Collect the story devices and check their audio and video files in the lobby archive.",
+    "requirements": [
+      "Open the routes into the village, Tower, Courtyard, Bunker and Emperor’s Chamber.",
+      "For co-op, have each collector approach the objects individually."
+    ],
+    "reward": "Story audio/video playback in the lobby archive; a pickup sound is reported.",
+    "steps": [
+      {
+        "title": "Recognize and collect a device",
+        "body": "Look for the small metal recorder with a red circular light described in the launch hunt. Face it at close range and hold your Interact action; a PlayStation launch report specifically uses Square. A button prompt may be absent. Players report a pickup sound. In co-op, have each player collect for themselves instead of assuming another player’s pickup credits the team.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/7abi63/the_final_reich_easter_egg_hunt_general_map/"
+      },
+      {
+        "title": "Locations",
+        "body": "2017 checklist.\nTower: rear-right barred window.\nPub: table beneath lamp.\nVillage Entrance: barrel right of Lebenblitz.\nToy shop: upstairs, right shelves.\nVillage Square: low box by truck/barrels.\nRiverside: statue’s snowy bench.\nCourtyard: barrels facing stairs.\nLaboratory: folding table beneath lamp, beside Armor.\nEmperor’s Chamber: rear-left wooden table.\nCommand Room: concrete left of stair-foot, opposite disposal vent.\nMorgue office: desk facing STG-44.\nMorgue passage: table left of descending stairs; approach through component-machine’s left corridor.\nSewers: from Bunker, enter upgrade room; left crate corner above green barrels.",
+        "original": true,
+        "researchSource": "https://gameranx.com/features/id/126828/article/call-of-duty-ww2-zombies-all-recorders-locations-secret-cutscenes-guide/",
+        "tip": "These are historical search spots, not a verified count of all current devices. Command Room bearings vary with approach; use the stair photo. Exact file assignments, hold duration, controller bindings and pickup persistence remain unverified."
+      },
+      {
+        "title": "Read the files",
+        "body": "Return to the Nazi Zombies lobby and open Soldier. Inside Dossier, select Recordings. Launch players identify the Dossier as the audio/video archive, and later collectors direct players to Soldier and Recordings. The exact submenu nesting still needs a native visual check.",
+        "original": true,
+        "researchSource": "https://gameranx.com/features/id/137234/article/ww2-zombies-darkest-shore-dlc-all-secret-audio-recordings-locations/"
+      },
+      {
+        "title": "Count entries separately from objects",
+        "body": "One collector reported owning Audio Files 1–22 and Video Files 1–4 while still missing Audio 23 and 24. That is 26 menu files, not proof of 26 physical devices. Keep a separate checklist of places visited. The exact file pair or unlock order for each pickup has not been established here.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/8drrg5/ww2_recordings_23_and_24_not_appearing/"
+      },
+      {
+        "title": "Check the later missing-file report",
+        "body": "For the reported Audio 23/24 problem, collectors point to the cannon mount inside The Darkest Shore’s Artillery Bunker. Thunder_Fudge says a recorder appeared there after a Resistance-era update, and later finders confirm the cannon location. This is a reported pickup in that DLC, outside the Final Reich location checklist.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/8drrg5/ww2_recordings_23_and_24_not_appearing/"
+      },
+      {
+        "title": "When a place is empty",
+        "body": "Launch players report finding only a few devices in one match; another saw a candidate only once across about twenty games. A later collector recovered a missing entry from a spawn barrel after The Darkest Shore released. Check your own archive and revisit uncollected places in another match. Those anecdotes do not establish a fixed per-match quota, spawn probability or reset ritual.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/7abi63/the_final_reich_easter_egg_hunt_general_map/"
+      }
+    ],
+    "sourceOmissions": [
+      "The thirteen written locations are historical, not a current complete device census.",
+      "Native menu nesting and retail pickups were not tested. Three original-article locator photos are included; the linked film did not establish additional positions."
+    ],
+    "relatedGuideIds": [
+      "wwii-the-final-reich-community-the-final-reich-map-features-opening-the-bunker",
+      "wwii-the-final-reich-community-the-final-reich-map-features-pack-a-punch-ubersprengen"
+    ],
+    "sources": [
+      {
+        "title": "Launch pickup reports",
+        "url": "https://www.reddit.com/r/CODZombies/comments/7abi63/the_final_reich_easter_egg_hunt_general_map/"
+      },
+      {
+        "title": "Locations",
+        "url": "https://gameranx.com/features/id/126828/article/call-of-duty-ww2-zombies-all-recorders-locations-secret-cutscenes-guide/"
+      },
+      {
+        "title": "Menu",
+        "url": "https://gameranx.com/features/id/137234/article/ww2-zombies-darkest-shore-dlc-all-secret-audio-recordings-locations/"
+      },
+      {
+        "title": "Missing-file tests and confirmed cannon location",
+        "url": "https://www.reddit.com/r/CODZombies/comments/8drrg5/ww2_recordings_23_and_24_not_appearing/"
+      },
+      {
+        "title": "Later collector’s landmarks and original-film lead",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1aqsvm6/metal_boxes_on_the_final_reich/"
+      },
+      {
+        "title": "Soldier-menu report",
+        "url": "https://www.reddit.com/r/WWII/comments/1fd0g8w/anyone_know_what_this_is/"
+      },
+      {
+        "title": "Solo pickup report",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1vdr88v/final_reich_item/"
+      }
+    ],
+    "checked": "2026-10-23",
+    "images": [
+      {
+        "src": "./assets/reich-recorder-office.webp",
+        "alt": "Office",
+        "caption": "Morgue.",
+        "credit": "Gameranx",
+        "source": "https://gameranx.com/features/id/126828/article/call-of-duty-ww2-zombies-all-recorders-locations-secret-cutscenes-guide/",
+        "width": 700,
+        "height": 350
+      }
+    ]
   }
 ]
