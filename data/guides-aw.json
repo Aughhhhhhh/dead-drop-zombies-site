@@ -83,80 +83,142 @@
     "category": "main",
     "difficulty": "Medium",
     "players": "1–4 players; solo supported",
-    "summary": "Open the sewer shrine, make and disinfect a burger, recharge Bubby, and use the biometric tablet to launch the Burger Town rocket. Random valve and meat locations are listed by area below.",
+    "summary": "Restore Bubby through the blood pan, four meats, battery, alligator arm and tablet sequence. The inherited valve and meat search lists stay visible with their source limits.",
     "requirements": [
       "Advanced Warfare: Ascendance / Infection",
       "Exo Suit from the Sewers",
       "Magnetron from the 3D Printer",
       "Credits for doors, the Insta-Gator trap, and decontamination"
     ],
-    "reward": "MEAT IS MURDER achievement / trophy. Bubby fights zombies for a round and then leaves four power-ups.",
+    "reward": "MEAT IS MURDER achievement / trophy; quest completion. Bubby reward behavior and timing retain the limits stated in the final chapter.",
     "steps": [
       {
         "title": "Get the Exo Suit and golden frying pan",
-        "body": "Open the Sewers, activate the local power, and collect an Exo Suit. Return to Hoard More / spawn. Look up through the damaged roof for the golden frying pan on the rafter. Exo boost from the highest crate and hold interact as you reach the pan. Open the sewer connections toward Burger Town, Value Voltage, and Atlas Command so you can search the whole pipe network."
+        "body": "Open the Sewers, activate the local power, and collect an Exo Suit. Return to Hoard More / spawn. Look up through the damaged roof for the golden frying pan on the rafter. Exo boost from the highest crate and hold interact as you reach the pan. Open the sewer connections toward Burger Town, Value Voltage, and Atlas Command so you can search the whole pipe network.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/30wwdi/infection_easter_egg_thread_spoilers/",
+        "tip": "The Exo Suit is an inherited Sewers prerequisite. The saved primary text does not give a complete door-by-door suit-rack route or door costs."
       },
       {
         "title": "Find and turn four active sewer valves",
         "body": "Look for orange handles attached to the pale sewer pipes; only four handles are active in a run. Hold interact at each until it turns and releases steam. Recheck the network after a successful turn if the next handle is not obvious. Search walls, ceilings, and partly submerged pipe ends. Four successful turns open the passage behind the waterfall near the ramp to Atlas Command.",
-        "tip": "A plain pipe end without an active handle is not a puzzle input. There is no universal four-location solution."
+        "tip": "A plain pipe end without an active handle is not a puzzle input. There is no universal four-location solution. The original quest says four valves in sequence. Replies disagree about whether taking the pan first is mandatory; taking it first follows the documented route without proving a permanent lockout.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/30wwdi/infection_easter_egg_thread_spoilers/"
       },
       {
         "title": "Valve search route — all 32 candidate pipe ends",
-        "body": "Check these groups of pipe ends:\n• Burger Town corridor: 2.\n• Exo Reload power room: 3 overhead, 1 below those overhead pipes, and 2 in the water; Exo Reload room itself: 2; right of its 2,000-credit door: 1.\n• Value Voltage corridor: 4.\n• Stairs down to Insta-Gator: 2; Insta-Gator room: 2; either side of the other generator: 2.\n• Decontamination room: 3; high left wall on its approach: 1; immediately before its entrance: 1; above the power box right of the entrance: 1; right of that box: 1.\n• Right of the gator's home: 1; either side of the ramp toward Atlas Command: 2; right of the waterfall: 1."
+        "body": "Check these groups of pipe ends:\n• Burger Town corridor: 2.\n• Exo Reload power room: 3 overhead, 1 below those overhead pipes, and 2 in the water; Exo Reload room itself: 2; right of its 2,000-credit door: 1.\n• Value Voltage corridor: 4.\n• Stairs down to Insta-Gator: 2; Insta-Gator room: 2; either side of the other generator: 2.\n• Decontamination room: 3; high left wall on its approach: 1; immediately before its entrance: 1; above the power box right of the entrance: 1; right of that box: 1.\n• Right of the gator's home: 1; either side of the ramp toward Atlas Command: 2; right of the waterfall: 1.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/30wwdi/infection_easter_egg_thread_spoilers/",
+        "tip": "The 32 label and detailed pipe-end list are inherited. The original quest author estimated 29 or 30, and no read primary written unit verifies a complete 32-location census. Recheck actual orange handles rather than treating the count as proof you searched everything."
       },
       {
         "title": "Fill the pan with blood",
-        "body": "Enter the opened waterfall passage and place the pan on the shrine altar. Kill zombies in the lower altar chamber, around its grates, so their blood fills the basin. Kills elsewhere do not advance this step. When the altar rises, retrieve the pan. Carry it to the kitchen stove in Burger Town and place it there."
+        "body": "Enter the opened waterfall passage and place the pan on the shrine altar. Kill zombies in the lower altar chamber, around its grates, so their blood fills the basin. Kills elsewhere do not advance this step. When the altar rises, retrieve the pan. Carry it to the kitchen stove in Burger Town and place it there.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/30wwdi/infection_easter_egg_thread_spoilers/",
+        "tip": "The original thread supports blood kills until the altar rises. The exact grate boundary and kill count remain unverified; watch the altar response before removing the pan."
       },
       {
         "title": "Collect four meat pieces, one per zone",
-        "body": "Search Atlas Command, Value Voltage, Sewers, and Burger Town for one piece of meat in each area. You can carry only one piece at a time: pick it up, return it to the pan, and then search for the next. Check elevated ledges as well as ground-level corners. The following four search lists cover the documented spawn positions."
+        "body": "Search Atlas Command, Value Voltage, Sewers, and Burger Town for one piece of meat in each area. You can carry only one piece at a time: pick it up, return it to the pan, and then search for the next. Check elevated ledges as well as ground-level corners. The following four search lists cover the documented spawn positions.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/1x166z8/exo_zombies_easter_egg_help/",
+        "tip": "OverTheReminds explicitly reports one meat in each of Atlas Command, Sewers, Burger Town and Value Voltage. The original solved thread says to deposit the pieces one by one."
       },
       {
         "title": "Meat search — Atlas Command",
-        "body": "Check the Command Center roof and interior; the pillar behind the fence by the spawn exit; the garage beside Exo Soldier; the right side of the porta-potty; beside the power generator; the far-right corner when leaving spawn; and atop the container near Exo Slam. Collect the one piece in this area and put it in the pan."
+        "body": "Check the Command Center roof and interior; the pillar behind the fence by the spawn exit; the garage beside Exo Soldier; the right side of the porta-potty; beside the power generator; the far-right corner when leaving spawn; and atop the container near Exo Slam. Collect the one piece in this area and put it in the pan.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/1x166z8/exo_zombies_easter_egg_help/",
+        "tip": "This detailed location list is inherited and was not independently corroborated by the read primary prose. It also mentions Exo Soldier near Atlas Command, whereas the archived perk table places that machine in Value Voltage; do not infer two machines from that wording."
       },
       {
         "title": "Meat search — Value Voltage",
-        "body": "Check the ambulance roof and nearby trash can; the car's rear beside the generator; the gas-station counter, right vending machine, drink fountain, and boxes near the Printer; boxes on the roof; the corner garage beside Exo Soldier; and the charging-area trash can. Return its piece to the pan."
+        "body": "Check the ambulance roof and nearby trash can; the car's rear beside the generator; the gas-station counter, right vending machine, drink fountain, and boxes near the Printer; boxes on the roof; the corner garage beside Exo Soldier; and the charging-area trash can. Return its piece to the pan.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/1x166z8/exo_zombies_easter_egg_help/",
+        "tip": "This detailed location list is inherited and was not independently corroborated by the read primary prose. The separate archived perk table locates Exo Soldier in Value Voltage. The image illustrates this candidate, not the complete spawn list.",
+        "images": [
+          {
+            "src": "./assets/infection-fountain-meat.webp",
+            "alt": "Fountain meat",
+            "caption": "Meat beside the drink fountain.",
+            "credit": "in2itScott",
+            "source": "https://www.youtube.com/watch?v=r5Nh9GMbGnQ&t=289s",
+            "width": 360,
+            "height": 360
+          }
+        ]
       },
       {
         "title": "Meat search — Sewers",
-        "body": "Check beside Tac-19; the mesh outside decontamination; the shopping cart near Insta-Gator; both tarps beside the Exo station; the opening before the Exo Reload drop; the mattress corner in the Burger Town corridor; and the wall opposite Explosive Drones on the Value Voltage route. Deposit the sewer piece."
+        "body": "Check beside Tac-19; the mesh outside decontamination; the shopping cart near Insta-Gator; both tarps beside the Exo station; the opening before the Exo Reload drop; the mattress corner in the Burger Town corridor; and the wall opposite Explosive Drones on the Value Voltage route. Deposit the sewer piece.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/1x166z8/exo_zombies_easter_egg_help/",
+        "tip": "This detailed location list is inherited and was not independently corroborated by the read primary prose. One sewer meat, not one at every candidate, is required."
       },
       {
         "title": "Meat search — Burger Town",
-        "body": "Check the corner above the sewer entry and its fence; garage in front of Bubby; restaurant roof; fridge left of the grill; drive-thru counter; carousel near Exo Health; table right of the grill; main counter; and table across the carousel wall. Deposit the fourth piece."
+        "body": "Check the corner above the sewer entry and its fence; garage in front of Bubby; restaurant roof; fridge left of the grill; drive-thru counter; carousel near Exo Health; table right of the grill; main counter; and table across the carousel wall. Deposit the fourth piece.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/34un5u/heres_an_infection_easter_egg_map_pointing_to_all/",
+        "tip": "This detailed location list is inherited and was not independently corroborated by the read primary prose. A primary map maker said most meat spots were verified, but TheCraffey replied that spots might still be missing; no full spawn census is certified."
       },
       {
         "title": "Cook the meat and add a bun",
-        "body": "Get the Magnetron from the 3D Printer. Fire its beam into the four meat pieces in the pan until you hear the cooking ding. Kill zombies wearing Burger Town uniforms until one drops a bun; walk over the bun to collect it, then interact with the cooked meat. If employees are scarce, watch for them during the next infected round. The completed burger is now ready to pick up."
+        "body": "Get the Magnetron from the 3D Printer. Fire its beam into the four meat pieces in the pan until you hear the cooking ding. Kill zombies wearing Burger Town uniforms until one drops a bun; walk over the bun to collect it, then interact with the cooked meat. If employees are scarce, watch for them during the next infected round. The completed burger is now ready to pick up.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/30wwdi/infection_easter_egg_thread_spoilers/",
+        "tip": "TheCraffey specifically names a Burger Town employee during an infection round for the bun. The cooking confirmation is the ding; a recommendation for the CEL-3 does not replace the required Magnetron here."
       },
       {
         "title": "Cleanse the burger and feed Bubby",
-        "body": "Picking up the burger immediately infects its carrier. Go straight to the decontamination pad in the sewer Pit and cleanse before the infection timer expires. This cleans both you and the burger. Return to Bubby, the mascot robot outside Burger Town, and interact to feed him. His dialogue now requests a battery."
+        "body": "Picking up the burger immediately infects its carrier. Go straight to the decontamination pad in the sewer Pit and cleanse before the infection timer expires. This cleans both you and the burger. Return to Bubby, the mascot robot outside Burger Town, and interact to feed him. His dialogue now requests a battery.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/30wwdi/infection_easter_egg_thread_spoilers/",
+        "tip": "CupPoster explicitly reports that picking up the burger infects its carrier. The original quest says to decontaminate before feeding Bubby; the exact current cleansing cost and timer are not established by that text."
       },
       {
         "title": "Release and collect the battery",
-        "body": "In Atlas Command, interact with the Bubby schematic screen inside the mobile Command Center where the Printer initially sits. Immediately sprint to the other mobile building containing the power generator and take the battery from its briefly opened compartment. If it closes before you arrive, reactivate the schematic and repeat. In co-op, station one player by the battery compartment while another uses the screen."
+        "body": "In Atlas Command, interact with the Bubby schematic screen inside the mobile Command Center where the Printer initially sits. Immediately sprint to the other mobile building containing the power generator and take the battery from its briefly opened compartment. If it closes before you arrive, reactivate the schematic and repeat. In co-op, station one player by the battery compartment while another uses the screen.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/30wwdi/infection_easter_egg_thread_spoilers/",
+        "tip": "The original quest confirms a short run from the Bubby diagram to the opened battery box. Exact compartment coordinates and the duration of its opening are inherited rather than newly timed."
       },
       {
         "title": "Charge the battery and obtain the key",
         "body": "Place the battery in the charging station at Value Voltage's gas pumps. Keep zombies away while it charges. If they knock it out, pick it up and insert it again to resume. Once it is fully charged and red, retrieve it and give it to Bubby. Pick up the key he offers.",
-        "tip": "A surviving last zombie is easier to control than a full wave while you defend the charger."
+        "tip": "A surviving last zombie is easier to control than a full wave while you defend the charger. OverTheReminds reports that interacting again restarts charging after a zombie destroys or dislodges the battery. The red-charge appearance and exact duration are inherited; use the completed charge state before removing it.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/1x166z8/exo_zombies_easter_egg_help/"
       },
       {
         "title": "Open the giant burger and harvest a fingerprint",
-        "body": "Climb the ladder into the giant burger above the restaurant, unlock its hatch with Bubby's key, and interact with the internal schematic screen to receive Access Denied. Return to the sewer Insta-Gator trap. Activate it and let it rise to snatch a zombie. While it is above water, shoot the alligator until it bursts; grab the floating, rotating zombie arm promptly. Killing the gator produces the arm without waiting for a lucky normal trap kill."
+        "body": "Climb the ladder into the giant burger above the restaurant, unlock its hatch with Bubby's key, and interact with the internal schematic screen to receive Access Denied. Return to the sewer Insta-Gator trap. Activate it and let it rise to snatch a zombie. While it is above water, shoot the alligator until it bursts; grab the floating, rotating zombie arm promptly. Killing the gator produces the arm without waiting for a lucky normal trap kill.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/1x166z8/exo_zombies_easter_egg_help/",
+        "tip": "The original solved thread describes a random arm drop from the Insta-Gator. OverTheReminds later reports that killing the crocodile yields the arm instead. This later correction supports the shooting method; no health, weapon, timing or guaranteed-current drop test was performed."
       },
       {
         "title": "Use the arm to recover the red tablet",
-        "body": "Carry the arm to the biometric scanner upstairs in Hoard More / spawn. Interact with the scanner to open the small safe and take the red tablet. Go back inside the giant burger and use the tablet at its schematic screen. You are ejected as explosive burgers deploy and the rocket launches. Move away from the bombs; their explosions damage players."
+        "body": "Carry the arm to the biometric scanner upstairs in Hoard More / spawn. Interact with the scanner to open the small safe and take the red tablet. Go back inside the giant burger and use the tablet at its schematic screen. You are ejected as explosive burgers deploy and the rocket launches. Move away from the bombs; their explosions damage players.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/30wwdi/infection_easter_egg_thread_spoilers/",
+        "tip": "TheCraffey calls this item a hard drive. The red/blue tablet terminology, exact colors and explosive-burger hazard are inherited details retained for continuity; they were not verified from new pixels."
       },
       {
         "title": "Return the final tablet to Bubby",
-        "body": "After the launch, climb back inside the giant burger. Retrieve the now-blue tablet below its schematic screen and give it to Bubby. This interaction completes the quest and grants the achievement / trophy. The match continues; Bubby temporarily roams and attacks zombies, then explodes after a full round and drops four power-ups."
+        "body": "After the launch, climb back inside the giant burger. Retrieve the now-blue tablet below its schematic screen and give it to Bubby. This interaction completes the quest and grants the achievement / trophy. The match continues; Bubby temporarily roams and attacks zombies, then explodes after a full round and drops four power-ups.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/30wwdi/infection_easter_egg_thread_spoilers/",
+        "tip": "The final diagram interaction and return to Bubby are supported by the solved thread. The exact one-round duration and four-power-up sequence in this inherited paragraph are not independently established by the complete primary units read here."
+      },
+      {
+        "title": "If the next valve is not obvious",
+        "body": "The original replies include players missing overhead valves and checking the wrong pipe. Search high as well as at water level, and distinguish the orange handle from a plain pipe end. The fourth handle being hard to find does not prove that solo needs fewer than four. The quest author later revised the rough candidate count, so the inherited 32-item heading is a search aid rather than a guaranteed total.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/30wwdi/infection_easter_egg_thread_spoilers/",
+        "tip": "The pan-first permanent-lockout assertion is disputed by TheCraffey in the same thread. No irreversible failure rule is established."
+      },
+      {
+        "title": "Recognize the reported Mk25 access checkpoint",
+        "body": "Keep Bubby’s key: the main route uses it to enter the giant burger. Smugstr separately reports that Infection’s higher weapon-upgrade access becomes available when the quest reaches entry into that burger. That report names Mk20 and Mk25, but does not identify the exact extra station, its input prompt or every weapon’s eligibility. Read the linked upgrade card before treating burger entry as a fully verified upgrade transaction.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/1i15zb2/what_you_think_about_if_maps_had_an_extra_tier_of/",
+        "tip": "This is a source-reported checkpoint, not proof that launching the rocket or returning the final tablet is the required unlock trigger."
+      },
+      {
+        "title": "Keep the survivor outro separate from this quest",
+        "body": "Returning the final quest item to Bubby completes the sequence described in the original solved thread. A different player’s written question asks how to track rescued survivors for Infection’s outro. Those are distinct documented targets. The recovered text does not give a verified rescue-count threshold, whether rescues accumulate across matches, or a reliable tracking fix; no 25-survivor requirement is inferred.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/1k06wbx/how_do_i_fix_this_its_for_advanced_warfare/",
+        "tip": "The screenshot and its generated alt text were not used as visual proof. The replies do not resolve the tracking problem."
       }
     ],
     "sources": [
@@ -183,9 +245,36 @@
       {
         "title": "r/CODZombies Infection setup and perk locations",
         "url": "https://www.reddit.com/r/CODZombies/wiki/infection/"
+      },
+      {
+        "title": "Smugstr: reported Infection Mk25 entry checkpoint",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1i15zb2/what_you_think_about_if_maps_had_an_extra_tier_of/"
+      },
+      {
+        "title": "quen_u897 / TheCraffey: map attribution and missing-meat dispute",
+        "url": "https://www.reddit.com/r/CODZombies/comments/34un5u/heres_an_infection_easter_egg_map_pointing_to_all/"
+      },
+      {
+        "title": "SurgicalDuke877: survivor-outro tracking question",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1k06wbx/how_do_i_fix_this_its_for_advanced_warfare/"
+      },
+      {
+        "title": "in2itScott: original meat reference",
+        "url": "https://www.youtube.com/watch?v=r5Nh9GMbGnQ&t=289s"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-24",
+    "relatedGuideIds": [
+      "aw-infection-community-infection-map-walkthrough-power",
+      "aw-infection-community-infection-map-walkthrough-upgrading-your-weapons",
+      "aw-infection-community-infection-special-weapons-wonder-weapon",
+      "aw-infection-community-infection-special-weapons-special-grenades",
+      "aw-infection-community-infection-game-features-printer",
+      "aw-infection-community-infection-easter-eggs-toccata-and-fugue-in-d-minor-music-easter-egg",
+      "aw-infection-exo-perks-reference",
+      "aw-infection-weapons-reference",
+      "aw-infection-survivors-toxic-zones"
+    ]
   },
   {
     "id": "aw-carrier-flotsam-jetsam",

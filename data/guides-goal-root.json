@@ -16460,5 +16460,237 @@
         "height": 660
       }
     ]
+  },
+  {
+    "id": "aw-infection-exo-perks-reference",
+    "mapId": "aw-infection",
+    "title": "Exo perks: five prices and machine locations",
+    "category": "side",
+    "difficulty": "Setup reference",
+    "players": "1–4 players; solo Exo Medic differs",
+    "summary": "Read the five literal archived perk rows, suit prerequisite and solo/co-op distinction.",
+    "requirements": [
+      "Open and power the area containing the machine.",
+      "Obtain an Exo Suit for suit-dependent perks."
+    ],
+    "reward": "The chosen Exo perk; the price/location cells remain attributed historical reference.",
+    "sourceQuote": "https://www.reddit.com/r/CODZombies/wiki/infection/",
+    "sharedSource": false,
+    "sourceOmissions": [
+      "The precise suit-rack route, current perk caps, repurchase rules and blackout restoration behavior are not established."
+    ],
+    "sources": [
+      {
+        "title": "r/CODZombies: archived Infection map guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/infection/"
+      },
+      {
+        "title": "Original Exo Zombies mechanics reply, author deleted",
+        "url": "https://www.reddit.com/r/CODZombies/comments/11ejwc8/finally_getting_into_trying_exo_zombies_anything/"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Five archived perk rows",
+        "body": "Perk | Cost | Location | Description\nExo Medic | $1500 | Hoard More | Revive yourself on solo or revives teammates twice as fast.\nExo Slam | $2000 | Atlas Command, in the north-east corner of the area | When mid-air, press your crouch button and you will slam onto the ground, damaging or killing zombies underneath you.\nExo Reload | $2000 | Sewers, next to the hole which leads to Burger Town | Reload faster.\nExo Health | $2500 | Burger Town, at the bottom-left hand corner of the area | You take more hits from the zombies before you down.\nExo Soldier | $1750 | Value Voltage, on the wall on the other side of the area when standing in the store | Shoot while sprinting and sliding. It also increases weapon swap speed and hip fire accuracy.",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/infection/",
+        "html": "<table><thead><tr><th>Perk</th><th>Cost</th><th>Location</th><th>Description</th></tr></thead><tbody><tr><td>Exo Medic</td><td>$1500</td><td>Hoard More</td><td>Revive yourself on solo or revives teammates twice as fast.</td></tr><tr><td>Exo Slam</td><td>$2000</td><td>Atlas Command, in the north-east corner of the area</td><td>When mid-air, press your crouch button and you will slam onto the ground, damaging or killing zombies underneath you.</td></tr><tr><td>Exo Reload</td><td>$2000</td><td>Sewers, next to the hole which leads to Burger Town</td><td>Reload faster.</td></tr><tr><td>Exo Health</td><td>$2500</td><td>Burger Town, at the bottom-left hand corner of the area</td><td>You take more hits from the zombies before you down.</td></tr><tr><td>Exo Soldier</td><td>$1750</td><td>Value Voltage, on the wall on the other side of the area when standing in the store</td><td>Shoot while sprinting and sliding. It also increases weapon swap speed and hip fire accuracy.</td></tr></tbody></table>",
+        "tip": "These source cells are retained literally, including the dollar notation. Prices and relative directions are not freshly retail-verified."
+      },
+      {
+        "title": "Get the suit before most perk purchases",
+        "body": "The original mechanics reply says Exo perks require an Exo Suit and names the solo revive perk as the exception. Get the suit before planning purchases at the other machines, and use the actual machine prompt to confirm eligibility. The inherited quest places the suit in Sewers but the saved primary wiki does not supply its exact rack or door path.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/11ejwc8/finally_getting_into_trying_exo_zombies_anything/",
+        "tip": "Do not read the power-station list as a precise Exo Suit location."
+      },
+      {
+        "title": "Apply Exo Medic to your player count",
+        "body": "The Exo Medic row distinguishes reviving yourself in solo from reviving teammates twice as fast in co-op. Buy it for the function that matches your match. The complete stored row does not specify a total self-revive cap, which perk slot disappears, or every down/bleed-out repurchase rule.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/infection/",
+        "tip": "An EMZ interruption and a survivor-failure blackout are separate reported events; no automatic refund or retained-perk behavior is inferred."
+      }
+    ],
+    "checked": "2026-10-24",
+    "relatedGuideIds": [
+      "aw-infection-meat-is-murder",
+      "aw-infection-community-infection-map-walkthrough-power",
+      "aw-infection-community-infection-map-walkthrough-upgrading-your-weapons",
+      "aw-infection-community-infection-special-weapons-wonder-weapon",
+      "aw-infection-community-infection-special-weapons-special-grenades",
+      "aw-infection-community-infection-game-features-printer",
+      "aw-infection-community-infection-easter-eggs-toccata-and-fugue-in-d-minor-music-easter-egg",
+      "aw-infection-weapons-reference",
+      "aw-infection-survivors-toxic-zones"
+    ],
+    "images": [
+      {
+        "src": "./assets/infection-perks.svg",
+        "alt": "Exo perks",
+        "caption": "Original reference diagram. Historical reference; exact suit-rack and repurchase rules remain open.",
+        "credit": "Dead Drop",
+        "source": "https://www.reddit.com/r/CODZombies/wiki/infection/",
+        "width": 420,
+        "height": 660
+      }
+    ]
+  },
+  {
+    "id": "aw-infection-weapons-reference",
+    "mapId": "aw-infection",
+    "title": "Archived Infection weapons: Printer and wall lists",
+    "category": "weapon",
+    "difficulty": "Weapon reference",
+    "players": "1–4 players",
+    "summary": "Keep the 14 Printer names and 7 wall names searchable without importing another map’s inventory.",
+    "requirements": [
+      "Use this as the stored Infection source list, not a current complete weapon census."
+    ],
+    "reward": "A finite attributed acquisition reference; no unlisted weapon or packed-name route is implied.",
+    "sourceQuote": "https://www.reddit.com/r/CODZombies/wiki/infection/",
+    "sharedSource": false,
+    "sourceOmissions": [
+      "The source gives no full wall coordinates/prices, starting-loadout list, drop probabilities, upgraded names, attachments or mark-by-mark statistics."
+    ],
+    "sources": [
+      {
+        "title": "r/CODZombies: archived Infection map guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/infection/"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Literal Printer and wall columns",
+        "body": "Printer Weapons | Wall Weapons\nAE4 | Bulldog\nAK12 | MK14\nBal-27 | MP11\nIMR | AMR9\nASM1 | ARX-160\nSAC3 | HBRa3\nSN6 | Tac-19\nAmeli | -\nEM1 | -\nPytaek | -\nLynx | -\nCEL-3 Cauterizer | -\nCrossbow | -\nMagnetron | -",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/infection/",
+        "html": "<table><thead><tr><th>Printer Weapons</th><th>Wall Weapons</th></tr></thead><tbody><tr><td>AE4</td><td>Bulldog</td></tr><tr><td>AK12</td><td>MK14</td></tr><tr><td>Bal-27</td><td>MP11</td></tr><tr><td>IMR</td><td>AMR9</td></tr><tr><td>ASM1</td><td>ARX-160</td></tr><tr><td>SAC3</td><td>HBRa3</td></tr><tr><td>SN6</td><td>Tac-19</td></tr><tr><td>Ameli</td><td>-</td></tr><tr><td>EM1</td><td>-</td></tr><tr><td>Pytaek</td><td>-</td></tr><tr><td>Lynx</td><td>-</td></tr><tr><td>CEL-3 Cauterizer</td><td>-</td></tr><tr><td>Crossbow</td><td>-</td></tr><tr><td>Magnetron</td><td>-</td></tr></tbody></table>",
+        "tip": "The columns are independent lists laid side by side. A weapon on the left is not an upgraded or paired version of the wall weapon on its right. Dashes retain the original empty cells."
+      },
+      {
+        "title": "Use the list without inventing missing locations",
+        "body": "The archive lists 14 names under Printer Weapons and 7 under Wall Weapons. It explicitly includes the Magnetron and CEL-3 in the Printer column, and identifies Bulldog, MK14, MP11, AMR9, ARX-160, HBRa3 and Tac-19 as wall names. It does not tell you every wall’s room or cost, and it does not prove the list is complete in every patch. Use the separate upgrade card for the two named upgrade-station areas and the qualified higher-mark report.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/infection/",
+        "tip": "No S12, multiplayer variant, another map’s new weapon, packed name or ammunition stat is added by inference."
+      }
+    ],
+    "checked": "2026-10-24",
+    "relatedGuideIds": [
+      "aw-infection-meat-is-murder",
+      "aw-infection-community-infection-map-walkthrough-power",
+      "aw-infection-community-infection-map-walkthrough-upgrading-your-weapons",
+      "aw-infection-community-infection-special-weapons-wonder-weapon",
+      "aw-infection-community-infection-special-weapons-special-grenades",
+      "aw-infection-community-infection-game-features-printer",
+      "aw-infection-community-infection-easter-eggs-toccata-and-fugue-in-d-minor-music-easter-egg",
+      "aw-infection-exo-perks-reference",
+      "aw-infection-survivors-toxic-zones"
+    ],
+    "images": [
+      {
+        "src": "./assets/infection-weapons.svg",
+        "alt": "Weapon reference",
+        "caption": "Original reference diagram. The archived list is not a complete current weapon or upgrade census.",
+        "credit": "Dead Drop",
+        "source": "https://www.reddit.com/r/CODZombies/wiki/infection/",
+        "width": 420,
+        "height": 660
+      }
+    ]
+  },
+  {
+    "id": "aw-infection-survivors-toxic-zones",
+    "mapId": "aw-infection",
+    "title": "Rescue survivors and deal with toxic zones",
+    "category": "side",
+    "difficulty": "Objective route",
+    "players": "1–4 players; exact solo/co-op scaling unverified",
+    "summary": "Escort a survivor to the Warbird, recognize a failed-rescue power cut and cleanse after infection.",
+    "requirements": [
+      "Keep your Exo Suit and local generators available.",
+      "Prepare a route to decontamination before becoming infected."
+    ],
+    "reward": "A successful survivor extraction or a cleansed player; exact upgrade rewards and outro thresholds remain unverified.",
+    "sources": [
+      {
+        "title": "Original Exo Zombies mechanics reply, author deleted",
+        "url": "https://www.reddit.com/r/CODZombies/comments/11ejwc8/finally_getting_into_trying_exo_zombies_anything/"
+      },
+      {
+        "title": "OverTheReminds: Infection arm, battery and meat corrections",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1x166z8/exo_zombies_easter_egg_help/"
+      },
+      {
+        "title": "Negan115BR: first-person Infection weapon and solo-survivor notes",
+        "url": "https://www.reddit.com/r/CODZombies/comments/14zh0km/what_are_yalls_thoughts_on_aw_exo_zombies/"
+      },
+      {
+        "title": "SurgicalDuke877: survivor-outro tracking question",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1k06wbx/how_do_i_fix_this_its_for_advanced_warfare/"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Make extraction the objective",
+        "body": "The original mechanics reply distinguishes Infection’s survivor rounds from ordinary survival: zombies continue spawning while you escort an NPC to a waiting Warbird. Once this event is active, locate the survivor and the extraction destination shown in your match, then move the survivor toward that destination. Clearing a normal finite wave is not the source’s completion condition.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/11ejwc8/finally_getting_into_trying_exo_zombies_anything/",
+        "tip": "The complete reply does not give every possible survivor spawn, pickup prompt, route, escort radius, Warbird pad or time limit."
+      },
+      {
+        "title": "Protect the survivor along the route",
+        "body": "Stay with the NPC and clear the zombies approaching it while progressing to the Warbird. OverTheReminds recommends impact grenades for escaping corners, while Negan115BR describes using the Magnetron to slow groups and reports finding solo survivor rescues manageable. Those are tactics to try, not a guaranteed damage setup or verified survivor-health formula.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/14zh0km/what_are_yalls_thoughts_on_aw_exo_zombies/",
+        "tip": "Do not transfer Carrier’s bomb squads, cloaks or defusal sequence into this escort event."
+      },
+      {
+        "title": "Recover after a failed extraction",
+        "body": "The original Infection-labelled reply reports a map power cut when the survivor is not extracted, including loss of suit operation. Recheck power and the prompts on equipment you need before returning to the quest. The saved text does not settle blackout duration, whether restoring one or all generators is necessary, or the exact success reward, so no fixed free-upgrade transaction is promised.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/11ejwc8/finally_getting_into_trying_exo_zombies_anything/",
+        "tip": "A historical community report supports the failure warning, not a current tested restoration sequence."
+      },
+      {
+        "title": "Leave toxic gas and use decontamination",
+        "body": "The same original reply says toxic rounds gas an area and entering that gas infects you. It also says infection from a zombie hit starts a timer and that the decontamination zone is marked on the HUD. Leave the dangerous area, follow that zone marker and cleanse before the timer expires. The Bubby quest’s burger deliberately causes another infection and also requires cleansing before you deliver it.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/11ejwc8/finally_getting_into_trying_exo_zombies_anything/",
+        "tip": "The inherited quest calls the local cleansing site the sewer Pit. This text does not establish every zone rotation, high-round lockdown pattern, cost or duration."
+      },
+      {
+        "title": "Treat the survivor outro counter as unresolved",
+        "body": "SurgicalDuke877 asks how to see their rescued-survivor count for Infection’s outro. That written question establishes a separate tracking target, but neither it nor its complete replies gives a verified threshold or a fix. Keep your successful extractions distinct from Bubby quest completion; do not assume that finishing one quest starts the other ending or that a particular count accumulates across sessions.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/1k06wbx/how_do_i_fix_this_its_for_advanced_warfare/",
+        "tip": "The linked image was not inspected, and the service comments are historical reports rather than a current leaderboard-status check."
+      }
+    ],
+    "checked": "2026-10-24",
+    "relatedGuideIds": [
+      "aw-infection-meat-is-murder",
+      "aw-infection-community-infection-map-walkthrough-power",
+      "aw-infection-community-infection-map-walkthrough-upgrading-your-weapons",
+      "aw-infection-community-infection-special-weapons-wonder-weapon",
+      "aw-infection-community-infection-special-weapons-special-grenades",
+      "aw-infection-community-infection-game-features-printer",
+      "aw-infection-community-infection-easter-eggs-toccata-and-fugue-in-d-minor-music-easter-egg",
+      "aw-infection-exo-perks-reference",
+      "aw-infection-weapons-reference"
+    ],
+    "images": [
+      {
+        "src": "./assets/infection-survivors.svg",
+        "alt": "Survivors and infection",
+        "caption": "Original reference diagram. Exact schedules, rescue rewards and outro thresholds remain unverified.",
+        "credit": "Dead Drop",
+        "source": "https://www.reddit.com/r/CODZombies/wiki/infection/",
+        "width": 420,
+        "height": 660
+      }
+    ]
   }
 ]

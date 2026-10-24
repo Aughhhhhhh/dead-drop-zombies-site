@@ -78910,5 +78910,420 @@
         ]
       }
     }
+  },
+  "infection-map-walkthrough-power": {
+    "mapOverrides": {
+      "aw-infection": {
+        "title": "Power stations: six independent switches",
+        "category": "side",
+        "difficulty": "Community route",
+        "players": "1–4 players; current platform rules not independently tested",
+        "summary": "Find the six archived local power switches and distinguish normal setup from a failed-rescue blackout.",
+        "requirements": [
+          "Advanced Warfare: Ascendance / Infection",
+          "Open the area containing the switch you need."
+        ],
+        "reward": "Local machines receive power; the archive reports 100 points per switch.",
+        "steps": [
+          {
+            "title": "Instructions & locations",
+            "body": "Each area has its own Power Station, which you need to activate to turn on the power. You will receive 100 points for activating each station. These are the locations: * Hoard More: Behind/to the left of players spawning point * Value Voltage: Inside the store. * Atlas Command: In the south-east corner of the area, in a building * Sewers: Near the hallway leading to Burger Town * The Pit: In the bottom right corner when facing the entryway to Atlas Command * Burger Town: In the storage room in the Burger Town building",
+            "html": "<p>Each area has its own Power Station, which you need to activate to turn on the power. You will receive 100 points for activating each station. These are the locations:</p>\n<ul>\n<li>Hoard More: Behind/to the left of players spawning point</li>\n<li>Value Voltage: Inside the store.</li>\n<li>Atlas Command: In the south-east corner of the area, in a building</li>\n<li>Sewers: Near the hallway leading to Burger Town</li>\n<li>The Pit: In the bottom right corner when facing the entryway to Atlas Command</li>\n<li>Burger Town: In the storage room in the Burger Town building</li>\n</ul>\n<hr>",
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/infection/",
+            "tip": "The directions belong to the archived guide. They are not a fresh screenshot or a complete route through every door."
+          },
+          {
+            "title": "Get the suit before suit-dependent perks",
+            "body": "The existing quest places the Exo Suit in the Sewers. Reach that area, activate the local power and take a suit using its on-screen prompt. The original general mechanics reply says a suit is required for Exo perks, with solo Exo Medic as its stated exception. The saved primary Infection section does not give the exact suit rack, door sequence or cumulative opening cost.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/11ejwc8/finally_getting_into_trying_exo_zombies_anything/",
+            "tip": "The suit’s broad Sewers location is inherited. Do not treat the listed Sewers and Pit power switches as a verified exact rack landmark."
+          },
+          {
+            "title": "Recognize a rescue-failure blackout",
+            "body": "A failed survivor extraction is reported to shut off map power. Check the local generator and any machine you need again after that event rather than assuming the original setup failed. The same historical reply says the suit stops working too; the exact affected systems, blackout duration and restoration rules were not independently tested.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/11ejwc8/finally_getting_into_trying_exo_zombies_anything/",
+            "tip": "This is separate from an EMZ temporarily disabling the suit during combat."
+          }
+        ],
+        "sourceOmissions": [
+          "The Exo Suit’s precise rack, door prices and current blackout/reset behavior remain unverified."
+        ],
+        "sources": [
+          {
+            "title": "r/CODZombies: archived Infection map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/infection/"
+          },
+          {
+            "title": "Original Exo Zombies mechanics reply, author deleted",
+            "url": "https://www.reddit.com/r/CODZombies/comments/11ejwc8/finally_getting_into_trying_exo_zombies_anything/"
+          }
+        ],
+        "checked": "2026-10-24",
+        "sourceQuote": "https://www.reddit.com/r/CODZombies/wiki/infection/",
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "aw-infection-meat-is-murder",
+          "aw-infection-community-infection-map-walkthrough-upgrading-your-weapons",
+          "aw-infection-community-infection-special-weapons-wonder-weapon",
+          "aw-infection-community-infection-special-weapons-special-grenades",
+          "aw-infection-community-infection-game-features-printer",
+          "aw-infection-community-infection-easter-eggs-toccata-and-fugue-in-d-minor-music-easter-egg",
+          "aw-infection-exo-perks-reference",
+          "aw-infection-weapons-reference",
+          "aw-infection-survivors-toxic-zones"
+        ]
+      }
+    }
+  },
+  "infection-map-walkthrough-upgrading-your-weapons": {
+    "mapOverrides": {
+      "aw-infection": {
+        "title": "Weapon upgrades: Mk20 and reported Mk25 access",
+        "category": "weapon",
+        "difficulty": "Community route",
+        "players": "1–4 players; current platform rules not independently tested",
+        "summary": "Use the two archived upgrade locations, budget for repeated upgrades and follow the reported burger-entry checkpoint with its missing details visible.",
+        "requirements": [
+          "Power the local upgrade station.",
+          "Carry the weapon you intend to upgrade.",
+          "For reported higher access, follow the Bubby quest through the giant-burger key."
+        ],
+        "reward": "Successive weapon marks; Mk25 access is a qualified community report.",
+        "steps": [
+          {
+            "title": "Instructions & locations",
+            "body": "The weapon upgrade system is different in Advanced Warfare's Exo Zombies than in Treyarch or Infinity Ward zombies. Instead of upgrading your weapon once (or twice) and then having a version that's a whole lot better than the original, Exo zombies has a gradual upgrade system. This implies that you can upgrade your weapon up to 20 times! Though the upgrades don't give such a drastic change as in the other zombie games, the weapons still become a bit stronger. So you're gonna have to upgrade your weapon often to stay on par with the zombies and being able to blow their brains out just as easily! The weapon upgrade stations have a few locations: * Value Voltage, inside the store. * In the storage room of Burger Town.",
+            "html": "<p>The weapon upgrade system is different in Advanced Warfare&#x27;s Exo Zombies than in Treyarch or Infinity Ward zombies. Instead of upgrading your weapon once (or twice) and then having a version that&#x27;s a whole lot better than the original, Exo zombies has a gradual upgrade system. This implies that you can upgrade your weapon up to 20 times! Though the upgrades don&#x27;t give such a drastic change as in the other zombie games, the weapons still become a bit stronger.\nSo you&#x27;re gonna have to upgrade your weapon often to stay on par with the zombies and being able to blow their brains out just as easily!\nThe weapon upgrade stations have a few locations:</p>\n<ul>\n<li>Value Voltage, inside the store.</li>\n<li>In the storage room of Burger Town.</li>\n</ul>\n<hr>",
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/infection/",
+            "tip": "The archive says up to 20 upgrades; the later reply calls the ordinary cap Mk20. This wording does not establish how many purchases a weapon that starts at Mk1 needs."
+          },
+          {
+            "title": "Use the weapon mark and purchase prompt",
+            "body": "The original mechanics reply describes repeated upgrades that add ammunition and attachments, and quotes 2,500 points per purchase. At the station, equip your chosen weapon, read its current mark and the displayed charge, then use the upgrade prompt. Check the returned weapon’s mark before buying another upgrade; the source does not give a full per-mark damage, attachment or ammo table.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/11ejwc8/finally_getting_into_trying_exo_zombies_anything/",
+            "tip": "The 2,500 figure is a historical anonymous-author report; current prices and every weapon’s behavior have not been retail-checked."
+          },
+          {
+            "title": "Reach the giant burger for the reported higher access",
+            "body": "Follow the Bubby quest until you have given him the charged battery and received his key. Use that key to enter the giant burger. Smugstr reports that this point permits the higher Mk25 system in Infection. The complete reply leaves the exact experimental-station position, input, price and required starting mark unresolved.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/1i15zb2/what_you_think_about_if_maps_had_an_extra_tier_of/",
+            "tip": "The ordinary station locations in the first chapter do not, by themselves, prove where the higher-mark transaction happens."
+          },
+          {
+            "title": "Keep weapon recommendations separate from upgrade rules",
+            "body": "For Infection, Negan115BR describes using an upgraded Magnetron while tapping its fire button. Try that as a personal tactic and check the returned weapon mark and ammunition after each upgrade. The report does not give a full damage, attachment or ammo table.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/14zh0km/what_are_yalls_thoughts_on_aw_exo_zombies/",
+            "tip": "The attachment-retention claim in the general reply has not been verified across weapons, maps or current versions, so this guide does not rely on it."
+          }
+        ],
+        "sourceOmissions": [
+          "The exact Mk25 station and transaction inputs, full per-mark statistics and current eligibility rules remain missing."
+        ],
+        "sources": [
+          {
+            "title": "r/CODZombies: archived Infection map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/infection/"
+          },
+          {
+            "title": "Original Exo Zombies mechanics reply, author deleted",
+            "url": "https://www.reddit.com/r/CODZombies/comments/11ejwc8/finally_getting_into_trying_exo_zombies_anything/"
+          },
+          {
+            "title": "Smugstr: reported Infection Mk25 entry checkpoint",
+            "url": "https://www.reddit.com/r/CODZombies/comments/1i15zb2/what_you_think_about_if_maps_had_an_extra_tier_of/"
+          },
+          {
+            "title": "TheCraffey: Infection quest and original replies",
+            "url": "https://www.reddit.com/r/CODZombies/comments/30wwdi/infection_easter_egg_thread_spoilers/"
+          },
+          {
+            "title": "Negan115BR: first-person Infection weapon and solo-survivor notes",
+            "url": "https://www.reddit.com/r/CODZombies/comments/14zh0km/what_are_yalls_thoughts_on_aw_exo_zombies/"
+          }
+        ],
+        "checked": "2026-10-24",
+        "sourceQuote": "https://www.reddit.com/r/CODZombies/wiki/infection/",
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "aw-infection-meat-is-murder",
+          "aw-infection-community-infection-map-walkthrough-power",
+          "aw-infection-community-infection-special-weapons-wonder-weapon",
+          "aw-infection-community-infection-special-weapons-special-grenades",
+          "aw-infection-community-infection-game-features-printer",
+          "aw-infection-community-infection-easter-eggs-toccata-and-fugue-in-d-minor-music-easter-egg",
+          "aw-infection-exo-perks-reference",
+          "aw-infection-weapons-reference",
+          "aw-infection-survivors-toxic-zones"
+        ]
+      }
+    }
+  },
+  "infection-special-weapons-wonder-weapon": {
+    "mapOverrides": {
+      "aw-infection": {
+        "title": "Magnetron and CEL-3 Cauterizer access",
+        "category": "weapon",
+        "difficulty": "Community route",
+        "players": "1–4 players; current platform rules not independently tested",
+        "summary": "Find the quest’s Magnetron through the Printer and distinguish it from the returning CEL-3 recommendation.",
+        "requirements": [
+          "Power and reach the active 3D Printer.",
+          "Budget for random weapon attempts; no guaranteed roll count is documented."
+        ],
+        "reward": "The archived Printer access and the Magnetron cooking input needed by the main quest.",
+        "steps": [
+          {
+            "title": "Instructions & locations",
+            "body": "The Magnetron is the wonder weapon for this map. It can be obtained from the 3D Printer. The CEL-3 Cauterizer also returns.",
+            "html": "<p>The Magnetron is the wonder weapon for this map. It can be obtained from the 3D Printer.</p>\n<p>The CEL-3 Cauterizer also returns.</p>\n<hr>",
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/infection/",
+            "tip": "The archive explicitly places the Magnetron in the Printer and says the CEL-3 returns. The archived weapons table also lists the CEL-3 in the Printer pool."
+          },
+          {
+            "title": "Keep the Magnetron until the burger is cooked",
+            "body": "After the blood pan is on Burger Town’s stove and the four meat pieces are deposited, fire the Magnetron into the pan until the cooking ding. The solved thread then calls for the employee-zombie bun and decontamination. A CEL-3 recommendation does not substitute for this Magnetron interaction.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/30wwdi/infection_easter_egg_thread_spoilers/",
+            "tip": "No specific Magnetron mark, ammo count or firing duration is established by this primary route."
+          },
+          {
+            "title": "Use the personal weapon tips with their limits",
+            "body": "OverTheReminds recommends the CEL-3 and impact grenades for general Exo Zombies survival. Negan115BR separately reports using an upgraded Magnetron to farm points and slow groups by tapping fire. Those are player tactics, not a newly verified special upgrade quest, a fixed damage chart or an infinite-damage claim.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/14zh0km/what_are_yalls_thoughts_on_aw_exo_zombies/",
+            "tip": "Only the Infection-specific Magnetron observation is adopted from that reply. Other-map weapons and equipment are not transferred here."
+          }
+        ],
+        "sourceOmissions": [
+          "No complete current special-upgrade branch or per-mark effect/stat table was recovered."
+        ],
+        "sources": [
+          {
+            "title": "r/CODZombies: archived Infection map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/infection/"
+          },
+          {
+            "title": "TheCraffey: Infection quest and original replies",
+            "url": "https://www.reddit.com/r/CODZombies/comments/30wwdi/infection_easter_egg_thread_spoilers/"
+          },
+          {
+            "title": "OverTheReminds: Infection arm, battery and meat corrections",
+            "url": "https://www.reddit.com/r/CODZombies/comments/1x166z8/exo_zombies_easter_egg_help/"
+          },
+          {
+            "title": "Negan115BR: first-person Infection weapon and solo-survivor notes",
+            "url": "https://www.reddit.com/r/CODZombies/comments/14zh0km/what_are_yalls_thoughts_on_aw_exo_zombies/"
+          }
+        ],
+        "checked": "2026-10-24",
+        "sourceQuote": "https://www.reddit.com/r/CODZombies/wiki/infection/",
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "aw-infection-meat-is-murder",
+          "aw-infection-community-infection-map-walkthrough-power",
+          "aw-infection-community-infection-map-walkthrough-upgrading-your-weapons",
+          "aw-infection-community-infection-special-weapons-special-grenades",
+          "aw-infection-community-infection-game-features-printer",
+          "aw-infection-community-infection-easter-eggs-toccata-and-fugue-in-d-minor-music-easter-egg",
+          "aw-infection-exo-perks-reference",
+          "aw-infection-weapons-reference",
+          "aw-infection-survivors-toxic-zones"
+        ]
+      }
+    }
+  },
+  "infection-special-weapons-special-grenades": {
+    "mapOverrides": {
+      "aw-infection": {
+        "title": "Special grenades: three archived acquisition rows",
+        "category": "weapon",
+        "difficulty": "Community route",
+        "players": "1–4 players; current platform rules not independently tested",
+        "summary": "Read the original Printer/wall distinctions for three tactical grenades, with the separate contact-grenade tip kept scoped.",
+        "requirements": [
+          "Use the Printer or the listed wall source for the grenade you need.",
+          "Check your available equipment prompt before replacing a tactical."
+        ],
+        "reward": "The three archived grenade entries and an attributed survival recommendation.",
+        "steps": [
+          {
+            "title": "Instructions & locations",
+            "body": "Grenade | 3D Printer | Wall buy | Effect --- | --- | --- | --- Distraction Drone | Yes | No | Will attract all zombies for 5 seconds Nano Swarm | Yes | No | Create a small dome in which zombies are slowed and killed over time Explosive Drone | No | Yes, Sewers | Shoot it at the ground and it will detonate when a zombie gets near",
+            "html": "<table>\n<thead>\n<tr>\n<th>Grenade</th>\n<th>3D Printer</th>\n<th>Wall buy</th>\n<th>Effect</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Distraction Drone</td>\n<td>Yes</td>\n<td>No</td>\n<td>Will attract all zombies for 5 seconds</td>\n</tr>\n<tr>\n<td>Nano Swarm</td>\n<td>Yes</td>\n<td>No</td>\n<td>Create a small dome in which zombies are slowed and killed over time</td>\n</tr>\n<tr>\n<td>Explosive Drone</td>\n<td>No</td>\n<td>Yes, Sewers</td>\n<td>Shoot it at the ground and it will detonate when a zombie gets near</td>\n</tr>\n</tbody>\n</table>\n<hr>",
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/infection/",
+            "tip": "The five-second Distraction Drone duration and effects are archived claims. This three-row table is not proof that every possible grenade is listed."
+          },
+          {
+            "title": "Keep contact grenades distinct from the tactical table",
+            "body": "OverTheReminds recommends impact grenades to escape tight corners. The original general mechanics reply calls contact grenades a wall buy across Exo Zombies and reports no self-damage when fired at the ground. The saved Infection table does not name their exact wall or price. Do not confuse that separate recommendation with the Explosive Drone’s listed sewer wall buy.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/1x166z8/exo_zombies_easter_egg_help/",
+            "tip": "The general no-self-damage report is not an independently tested guarantee for every explosive or equipment item."
+          }
+        ],
+        "sourceOmissions": [
+          "Exact contact-grenade wall coordinates/pricing and current grenade timings are unverified."
+        ],
+        "sources": [
+          {
+            "title": "r/CODZombies: archived Infection map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/infection/"
+          },
+          {
+            "title": "OverTheReminds: Infection arm, battery and meat corrections",
+            "url": "https://www.reddit.com/r/CODZombies/comments/1x166z8/exo_zombies_easter_egg_help/"
+          },
+          {
+            "title": "Original Exo Zombies mechanics reply, author deleted",
+            "url": "https://www.reddit.com/r/CODZombies/comments/11ejwc8/finally_getting_into_trying_exo_zombies_anything/"
+          }
+        ],
+        "checked": "2026-10-24",
+        "sourceQuote": "https://www.reddit.com/r/CODZombies/wiki/infection/",
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "aw-infection-meat-is-murder",
+          "aw-infection-community-infection-map-walkthrough-power",
+          "aw-infection-community-infection-map-walkthrough-upgrading-your-weapons",
+          "aw-infection-community-infection-special-weapons-wonder-weapon",
+          "aw-infection-community-infection-game-features-printer",
+          "aw-infection-community-infection-easter-eggs-toccata-and-fugue-in-d-minor-music-easter-egg",
+          "aw-infection-exo-perks-reference",
+          "aw-infection-weapons-reference",
+          "aw-infection-survivors-toxic-zones"
+        ]
+      }
+    }
+  },
+  "infection-game-features-printer": {
+    "mapOverrides": {
+      "aw-infection": {
+        "title": "3D Printer sites and quest-weapon searches",
+        "category": "side",
+        "difficulty": "Community route",
+        "players": "1–4 players; current platform rules not independently tested",
+        "summary": "Use the five named Printer areas and the archived weapon list while searching for the quest Magnetron.",
+        "requirements": [
+          "Open and power the area containing the Printer you can use."
+        ],
+        "reward": "Access to the source-listed Printer weapon pool; results remain random.",
+        "steps": [
+          {
+            "title": "Instructions & locations",
+            "body": "There is 1 Printer per each section of the map in Infection. * Hoard More * Atlas Command * Value Voltage * Sewers (Pit) * Burger Town",
+            "html": "<p>There is 1 Printer per each section of the map in Infection.</p>\n<ul>\n<li>Hoard More</li>\n<li>Atlas Command</li>\n<li>Value Voltage</li>\n<li>Sewers (Pit)</li>\n<li>Burger Town</li>\n</ul>\n<hr>",
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/infection/",
+            "tip": "These are archived Printer areas. The text does not establish the exact cabinets, how many are active simultaneously, a purchase price or a relocation rule."
+          },
+          {
+            "title": "Search for the quest tool rather than a fixed roll",
+            "body": "The Magnetron is explicitly available from the 3D Printer and is required for the pan-cooking step. Keep credits for attempts and use the separate archived weapon reference to identify listed Printer names. The primary material does not provide a guaranteed attempt count, a free-Magnetron side quest or timing manipulation for a selected weapon.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/infection/",
+            "tip": "The main quest’s original thread calls the Atlas Command site the initial box location. That does not make all five listed areas active at once."
+          }
+        ],
+        "sourceOmissions": [
+          "The Printer’s cost, relocation cycle and exact current cabinet positions remain unverified."
+        ],
+        "sources": [
+          {
+            "title": "r/CODZombies: archived Infection map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/infection/"
+          },
+          {
+            "title": "TheCraffey: Infection quest and original replies",
+            "url": "https://www.reddit.com/r/CODZombies/comments/30wwdi/infection_easter_egg_thread_spoilers/"
+          }
+        ],
+        "checked": "2026-10-24",
+        "sourceQuote": "https://www.reddit.com/r/CODZombies/wiki/infection/",
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "aw-infection-meat-is-murder",
+          "aw-infection-community-infection-map-walkthrough-power",
+          "aw-infection-community-infection-map-walkthrough-upgrading-your-weapons",
+          "aw-infection-community-infection-special-weapons-wonder-weapon",
+          "aw-infection-community-infection-special-weapons-special-grenades",
+          "aw-infection-community-infection-easter-eggs-toccata-and-fugue-in-d-minor-music-easter-egg",
+          "aw-infection-exo-perks-reference",
+          "aw-infection-weapons-reference",
+          "aw-infection-survivors-toxic-zones"
+        ]
+      }
+    }
+  },
+  "infection-easter-eggs-toccata-and-fugue-in-d-minor-music-easter-egg": {
+    "mapOverrides": {
+      "aw-infection": {
+        "title": "Toccata and Fugue in D Minor: three golden shells",
+        "category": "music",
+        "difficulty": "Community route",
+        "players": "1–4 players; current platform rules not independently tested",
+        "summary": "Activate the three archived golden rocket-shell objects in Value Voltage, Atlas Command and Burger Town.",
+        "requirements": [
+          "Open the areas containing the three shells.",
+          "The Burger Town target is on the roof, behind a grate."
+        ],
+        "reward": "The source-listed music Easter egg plays after the three activations.",
+        "steps": [
+          {
+            "title": "Instructions & locations",
+            "body": "This song can be activated by activating three golden rocket shells scattered around the map. The locations are: * In a shelf facing the Upgrade Station in the Value Voltage. * On the ground, to the right of the Exo Slam machine. * On the rooftop of the Burger Town, behind a grate.",
+            "html": "<p>This song can be activated by activating three golden rocket shells scattered around the map. The locations are:</p>\n<ul>\n<li>In a shelf facing the Upgrade Station in the Value Voltage.</li>\n<li>On the ground, to the right of the Exo Slam machine.</li>\n<li>On the rooftop of the Burger Town, behind a grate.</li>\n</ul>\n<hr>",
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/infection/",
+            "tip": "The archived wording is activate. It does not establish a required order, exact hold duration, confirmation sound or replay rule."
+          },
+          {
+            "title": "Value Voltage: shelf by the upgrade station",
+            "body": "Inside Value Voltage, find the shelf facing the weapon upgrade station. Locate the golden rocket shell there and activate that object. This is the shell location from the song route, not a random weapon Printer interaction.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/infection/",
+            "tip": "The exact shelf compartment and interaction distance still need a direct original view."
+          },
+          {
+            "title": "Atlas Command: beside Exo Slam",
+            "body": "At Exo Slam, look on the ground immediately to the right of the machine for the golden rocket shell and activate it. The perk table places Exo Slam in the north-east corner of Atlas Command, which identifies the area for this song target.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/infection/"
+          },
+          {
+            "title": "Burger Town: roof target behind the grate",
+            "body": "Reach Burger Town’s rooftop and locate the golden rocket shell behind the grate. Activate this final object as part of the three-shell route. The archive does not give a separate removal puzzle for the grate, a special weapon requirement or a repeat-song procedure.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/infection/",
+            "tip": "This rooftop shell belongs to the music route; Bubby’s main quest instead uses the giant burger and its key."
+          }
+        ],
+        "sourceOmissions": [
+          "Precise object views, button/hold behavior, confirmation cues, order and replay conditions remain unverified."
+        ],
+        "sources": [
+          {
+            "title": "r/CODZombies: archived Infection map guide",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/infection/"
+          }
+        ],
+        "checked": "2026-10-24",
+        "sourceQuote": "https://www.reddit.com/r/CODZombies/wiki/infection/",
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "aw-infection-meat-is-murder",
+          "aw-infection-community-infection-map-walkthrough-power",
+          "aw-infection-community-infection-map-walkthrough-upgrading-your-weapons",
+          "aw-infection-community-infection-special-weapons-wonder-weapon",
+          "aw-infection-community-infection-special-weapons-special-grenades",
+          "aw-infection-community-infection-game-features-printer",
+          "aw-infection-exo-perks-reference",
+          "aw-infection-weapons-reference",
+          "aw-infection-survivors-toxic-zones"
+        ]
+      }
+    }
   }
 }
