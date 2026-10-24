@@ -16883,5 +16883,312 @@
         "height": 660
       }
     ]
+  },
+  {
+    "id": "aw-outbreak-facility-route-and-exo-suits",
+    "mapId": "aw-outbreak",
+    "title": "Facility route and Exo Suit setup",
+    "category": "side",
+    "difficulty": "Written route / historical reports",
+    "players": "1–4 players; solo supported",
+    "summary": "Use both spawn routes, find the core facilities and reach the Exo Suit station.",
+    "requirements": [
+      "Advanced Warfare: Havoc — Outbreak (Exo Zombies)."
+    ],
+    "reward": "A source-backed setup route and the documented door/region landmarks.",
+    "steps": [
+      {
+        "title": "Choose either route out of Spawn",
+        "body": "The written layout names Spawn, Administration, Main Hub, Holding, Exo Testing and Morgue. Spawn has the MK14 and Bulldog wall buys at 500 credits each, Exo Medic, a generator and a Credit Machine. Open either 750-credit exit: the door near Exo Medic goes toward Administration; the one near the generator goes toward Main Hub.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/outbreak/",
+        "tip": "The original introduction says “7 areas” but names only these six. No seventh region or complete priced-door graph is invented here."
+      },
+      {
+        "title": "Reach the Morgue and Holding facilities",
+        "body": "Administration contains decontamination, a regular upgrade station, a trash chute and the 1,000-credit MP11 wall buy. Its door to Morgue is listed at 1,000 credits. Morgue contains Exo Reload, a Printer, Credit Machine, generator and 1,250-credit HBRa3. Main Hub supplies Exo Slam, its generator, a Printer and the 1,000-credit AMR9.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/outbreak/",
+        "tip": "These are the recorded region landmarks. They are not exact directions to every wall panel, power circuit or pickup."
+      },
+      {
+        "title": "Equip the Exo Suit in Exo Testing",
+        "body": "Reach Exo Testing through either Holding or Morgue. The generator is underneath the doorway leading to Morgue; the Exo Suit station is in this room. Turn on the local power and use the station’s live prompt to equip. The room also contains a Printer, Credit Machine, ARX-160 wall buy and Explosive Drone wall buy.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/outbreak/",
+        "tip": "The sources locate the station but do not supply a complete release-switch sequence or platform input binding. This is a setup landmark, not a claimed retail test of every activation input.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/2u0yhn/text_guide_solo_outbreak_easter_eggachievement/"
+        ]
+      },
+      {
+        "title": "Prepare the Holding-cell quest area",
+        "body": "The Exo Testing→Holding door is listed at 1,250 credits. On entering, the source places the 750-credit Contact Grenade wall buy to the right. Holding also contains Exo Health, Exo Soldier, an upgrade station, Printer, Credit Machine and the 1,500-credit TAC-19 wall buy. Return here with Exo Slam for Oz’s roof-slam puzzle.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/outbreak/",
+        "tip": "No complete Credit Machine collection method, use cap, full map economy or current door-price census is supplied by the article."
+      }
+    ],
+    "sources": [
+      {
+        "title": "r/CODZombies — Outbreak map article",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/outbreak/"
+      },
+      {
+        "title": "MikeSouthPaw — original solo Outbreak walkthrough",
+        "url": "https://www.reddit.com/r/CODZombies/comments/2u0yhn/text_guide_solo_outbreak_easter_eggachievement/"
+      }
+    ],
+    "checked": "2026-10-24",
+    "sourceQuote": null,
+    "sharedSource": false,
+    "sourceOmissions": [],
+    "relatedGuideIds": [
+      "aw-outbreak-community-outbreak-map-walkthrough-power",
+      "aw-outbreak-perk-costs-and-locations",
+      "aw-outbreak-weapon-access-reference",
+      "aw-outbreak-community-outbreak-game-features-printer",
+      "aw-outbreak-trash-chutes-and-incinerator-access",
+      "aw-outbreak-game-over-man"
+    ],
+    "images": [
+      {
+        "src": "./assets/outbreak-facility.svg",
+        "alt": "Facility and Exo Suits",
+        "caption": "Original reference diagram. Written area checklist, not a measured floor plan. Read the chapter landmarks and limits.",
+        "credit": "Dead Drop",
+        "source": "https://www.reddit.com/r/CODZombies/wiki/outbreak/",
+        "width": 420,
+        "height": 660
+      }
+    ]
+  },
+  {
+    "id": "aw-outbreak-trash-chutes-and-incinerator-access",
+    "mapId": "aw-outbreak",
+    "title": "Trash chutes and incinerator access",
+    "category": "side",
+    "difficulty": "Written route / historical reports",
+    "players": "1–4 players; solo supported",
+    "summary": "Locate both chutes and separate ordinary travel from Decker’s special entry method.",
+    "requirements": [
+      "Advanced Warfare: Havoc — Outbreak (Exo Zombies)."
+    ],
+    "reward": "Written chute landmarks and the supported solo incinerator-entry plan.",
+    "steps": [
+      {
+        "title": "Find the two ordinary trash-chute entrances",
+        "body": "Administration: take the leftmost corridor while facing the upgrade station. The dedicated Transport subsection says this chute leads to Exo Testing. Exo Testing: face the Exo Suit station and look behind the large glass container for the other chute; the same subsection says its ordinary destination is Spawn.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/outbreak/",
+        "tip": "The layout paragraph instead describes the Administration chute as going to Exo Holding. That destination conflict is unresolved in the written source; the two physical entrance landmarks are preserved without inventing a fixed corrected routing table."
+      },
+      {
+        "title": "Check the activation price before using a chute",
+        "body": "The Transport subsection lists a 500-credit starting activation price, increasing with repeat uses and resetting each round. Pay the live chute prompt and enter to travel.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/outbreak/",
+        "tip": "The layout separately labels a 100–2,500 range. The exact starting cost, price increments, discounts and current co-op charging rules are not reconciled by these units. Do not budget a fixed total from the conflicting figures."
+      },
+      {
+        "title": "Use the quest-specific incinerator entry separately",
+        "body": "For Decker’s story card, MikeSouthPaw’s solo method is to pay for an activation without entering, then activate again and enter. The wiki’s co-op instruction is for two simultaneous chute purchases. Once inside, shoot the floor to reveal the card and use the pickup input; repeat with a different floor section if necessary.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/2u0yhn/text_guide_solo_outbreak_easter_eggachievement/",
+        "tip": "The solo original guide says activate without entering, then activate again and enter. The wiki instead says wait for smoke; it gives no exact wait or timing window. For co-op it says two simultaneous chute purchases. The earlier site route puts the entire team across the two chutes; that full-party requirement is not independently settled by the primary text read here. The normal travel destinations above are not a guarantee that an ordinary single purchase sends you into the incinerator.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/wiki/outbreak/",
+          "https://www.reddit.com/r/CodAW/comments/30rycr/a_few_questions_about_exo_zombies_outbreak_easter/"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "r/CODZombies — Outbreak map article",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/outbreak/"
+      },
+      {
+        "title": "MikeSouthPaw — original solo Outbreak walkthrough",
+        "url": "https://www.reddit.com/r/CODZombies/comments/2u0yhn/text_guide_solo_outbreak_easter_eggachievement/"
+      },
+      {
+        "title": "RdJokr, CodeRed1234 and Hypobromite — co-op card discussion",
+        "url": "https://www.reddit.com/r/CodAW/comments/30rycr/a_few_questions_about_exo_zombies_outbreak_easter/"
+      }
+    ],
+    "checked": "2026-10-24",
+    "sourceQuote": null,
+    "sharedSource": false,
+    "sourceOmissions": [],
+    "relatedGuideIds": [
+      "aw-outbreak-facility-route-and-exo-suits",
+      "aw-outbreak-game-over-man",
+      "aw-outbreak-community-outbreak-easter-eggs-alternative-easter-egg-golden-trophy-in-descent"
+    ],
+    "images": [
+      {
+        "src": "./assets/outbreak-chutes.svg",
+        "alt": "Trash chutes",
+        "caption": "Original reference diagram. Entrance references from written reports. Exact timing and current routing remain untested.",
+        "credit": "Dead Drop",
+        "source": "https://www.reddit.com/r/CODZombies/wiki/outbreak/",
+        "width": 420,
+        "height": 660
+      }
+    ]
+  },
+  {
+    "id": "aw-outbreak-perk-costs-and-locations",
+    "mapId": "aw-outbreak",
+    "title": "All five written perk costs and locations",
+    "category": "side",
+    "difficulty": "Written route / historical reports",
+    "players": "1–4 players; solo supported",
+    "summary": "Read the original map article’s perk table, with its unsplit solo/co-op price limits.",
+    "requirements": [
+      "Advanced Warfare: Havoc — Outbreak (Exo Zombies)."
+    ],
+    "reward": "The five-row perk reference and Exo Slam quest requirement.",
+    "steps": [
+      {
+        "title": "Perk costs, landmarks and effects",
+        "body": "Perk | Cost | Location | Description\nExo Medic | $1500 | Spawn, close by the Decontamination Zone | Revive yourself on solo or revives teammates twice as fast.\nExo Slam | $2000 | In the Main Hub, on the wall near the door leading to the Administration | When mid-air, press your crouch button and you will slam onto the ground, damaging or killing zombies underneath you.\nExo Reload | $2000 | Close to the HBRa3 in the upper level of the Morgue | Reload faster.\nExo Health | $2500 | Holding area, in a room behind the holding cells room, next to a staircase | You take more hits from the zombies before you down.\nExo Soldier | $1750 | Holding area, in a room near the Exo Testing Room door | Shoot while sprinting and sliding. It also increases weapon swap speed and hip fire accuracy.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/outbreak/",
+        "tip": "The table is a literal historical transcription. It prices Exo Medic at $1500 while describing both solo and co-op behavior, but does not split those prices. Check the live prompt, especially in solo; no current perk cap, repurchase limit or every hit-count effect has been tested here.",
+        "html": "<table><thead><tr><th>Perk</th><th>Cost</th><th>Location</th><th>Description</th></tr></thead><tbody><tr><td>Exo Medic</td><td>$1500</td><td>Spawn, close by the Decontamination Zone</td><td>Revive yourself on solo or revives teammates twice as fast.</td></tr><tr><td>Exo Slam</td><td>$2000</td><td>In the Main Hub, on the wall near the door leading to the Administration</td><td>When mid-air, press your crouch button and you will slam onto the ground, damaging or killing zombies underneath you.</td></tr><tr><td>Exo Reload</td><td>$2000</td><td>Close to the HBRa3 in the upper level of the Morgue</td><td>Reload faster.</td></tr><tr><td>Exo Health</td><td>$2500</td><td>Holding area, in a room behind the holding cells room, next to a staircase</td><td>You take more hits from the zombies before you down.</td></tr><tr><td>Exo Soldier</td><td>$1750</td><td>Holding area, in a room near the Exo Testing Room door</td><td>Shoot while sprinting and sliding. It also increases weapon swap speed and hip fire accuracy.</td></tr></tbody></table>"
+      },
+      {
+        "title": "Buy Exo Slam before coordinating Oz’s card",
+        "body": "The main quest requires Exo Slam for the Holding-cell slam. In co-op the wiki explicitly requires all players to obtain it and slam together. The perk table places it in Main Hub on the wall near the Administration door and gives the airborne crouch input.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/outbreak/",
+        "tip": "The no-down alternate ending is a separate condition; possessing Exo Medic does not erase a down from that attempt.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CodAW/comments/30rycr/a_few_questions_about_exo_zombies_outbreak_easter/",
+          "https://www.reddit.com/r/CODZombies/comments/x6j6bg/after_a_long_time_coming_i_finally_did_the_gold/"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "r/CODZombies — Outbreak map article",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/outbreak/"
+      },
+      {
+        "title": "RdJokr, CodeRed1234 and Hypobromite — co-op card discussion",
+        "url": "https://www.reddit.com/r/CodAW/comments/30rycr/a_few_questions_about_exo_zombies_outbreak_easter/"
+      },
+      {
+        "title": "CamolbaPlays — completed gold Outbreak report",
+        "url": "https://www.reddit.com/r/CODZombies/comments/x6j6bg/after_a_long_time_coming_i_finally_did_the_gold/"
+      }
+    ],
+    "checked": "2026-10-24",
+    "sourceQuote": "https://www.reddit.com/r/CODZombies/wiki/outbreak/",
+    "sharedSource": false,
+    "sourceOmissions": [],
+    "relatedGuideIds": [
+      "aw-outbreak-community-outbreak-map-walkthrough-power",
+      "aw-outbreak-facility-route-and-exo-suits",
+      "aw-outbreak-game-over-man",
+      "aw-outbreak-community-outbreak-easter-eggs-alternative-easter-egg-golden-trophy-in-descent"
+    ],
+    "supplementNote": "The tables transcribe the credited Reddit reference. Explanatory paragraphs and field notes describe the written evidence and its limits.",
+    "images": [
+      {
+        "src": "./assets/outbreak-perks.svg",
+        "alt": "Five written perks",
+        "caption": "Original reference diagram. Historical written landmarks. Read the literal table and current-price qualifications.",
+        "credit": "Dead Drop",
+        "source": "https://www.reddit.com/r/CODZombies/wiki/outbreak/",
+        "width": 420,
+        "height": 660
+      }
+    ]
+  },
+  {
+    "id": "aw-outbreak-weapon-access-reference",
+    "mapId": "aw-outbreak",
+    "title": "Outbreak weapon access: Printer list and priced walls",
+    "category": "weapon",
+    "difficulty": "Written route / historical reports",
+    "players": "1–4 players; solo supported",
+    "summary": "Use the map-specific 16-name Printer reference and seven priced wall firearms from the original article.",
+    "requirements": [
+      "Advanced Warfare: Havoc — Outbreak (Exo Zombies)."
+    ],
+    "reward": "A finite written acquisition reference, without a claimed current complete weapon pool.",
+    "steps": [
+      {
+        "title": "Original Printer and wall-weapon lists",
+        "body": "Printer Weapons | Wall Weapons\nAE4 | Bulldog\nAK12 | MK14\nBal-27 | MP11\nIMR | AMR9\nASM1 | ARX-160\nSAC3 | HBRa3\nSN6 | Tac-19\nAmeli | -\nEM1 | -\nPytaek | -\nLynx | -\nCEL-3 Cauterizer | -\nCrossbow | -\nMAHEM | -\nPDW | -\nRW1 | -",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/outbreak/",
+        "tip": "The columns are independent lists placed side by side; a row does not pair one weapon with another acquisition method. Dashes are literal empty wall-column entries. This map-specific historical article lists 16 Printer names and seven wall names, but no current build/date, roll weights or complete later weapon additions. The source spells “Pytaek”; that spelling is retained in the literal table.",
+        "html": "<table><thead><tr><th>Printer Weapons</th><th>Wall Weapons</th></tr></thead><tbody><tr><td>AE4</td><td>Bulldog</td></tr><tr><td>AK12</td><td>MK14</td></tr><tr><td>Bal-27</td><td>MP11</td></tr><tr><td>IMR</td><td>AMR9</td></tr><tr><td>ASM1</td><td>ARX-160</td></tr><tr><td>SAC3</td><td>HBRa3</td></tr><tr><td>SN6</td><td>Tac-19</td></tr><tr><td>Ameli</td><td>-</td></tr><tr><td>EM1</td><td>-</td></tr><tr><td>Pytaek</td><td>-</td></tr><tr><td>Lynx</td><td>-</td></tr><tr><td>CEL-3 Cauterizer</td><td>-</td></tr><tr><td>Crossbow</td><td>-</td></tr><tr><td>MAHEM</td><td>-</td></tr><tr><td>PDW</td><td>-</td></tr><tr><td>RW1</td><td>-</td></tr></tbody></table>"
+      },
+      {
+        "title": "Seven priced wall firearms",
+        "body": "Weapon | Cost (credits) | Region | Written locator scope\nMK14 | 500 | Spawn | Region only\nBulldog | 500 | Spawn | Region only\nAMR9 | 1,000 | Main Hub | Region only\nMP11 | 1,000 | Administration | Region only\nHBRa3 | 1,250 | Morgue | Region only\nARX-160 | 1,250 | Exo Testing | Region only\nTAC-19 | 1,500 | Holding | Region only",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/outbreak/",
+        "tip": "All seven costs and regions come from the complete map-layout paragraph. Exact wall coordinates and ammunition prices are not supplied. This derived reference is separate from the literal paired-column source table; HBRa3/TAC-19 capitalization follows the source’s varying forms.",
+        "html": "<table><thead><tr><th>Weapon</th><th>Cost (credits)</th><th>Region</th><th>Written locator scope</th></tr></thead><tbody><tr><td>MK14</td><td>500</td><td>Spawn</td><td>Region only</td></tr><tr><td>Bulldog</td><td>500</td><td>Spawn</td><td>Region only</td></tr><tr><td>AMR9</td><td>1,000</td><td>Main Hub</td><td>Region only</td></tr><tr><td>MP11</td><td>1,000</td><td>Administration</td><td>Region only</td></tr><tr><td>HBRa3</td><td>1,250</td><td>Morgue</td><td>Region only</td></tr><tr><td>ARX-160</td><td>1,250</td><td>Exo Testing</td><td>Region only</td></tr><tr><td>TAC-19</td><td>1,500</td><td>Holding</td><td>Region only</td></tr></tbody></table>"
+      },
+      {
+        "title": "Use the source-backed special equipment routes",
+        "body": "The CEL-3 Cauterizer and EM1 are documented Printer acquisitions. For equipment, the article separately places an Explosive Drone wall buy in Exo Testing and the 750-credit Contact Grenade wall buy just inside Holding from Exo Testing. Distraction Drone and Nano Swarm are Printer items in the tactical table.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/outbreak/",
+        "tip": "No complete lethal/support inventory, every equipment price, starting-weapon choice or guaranteed random-roll method is established here.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/2u0yhn/text_guide_solo_outbreak_easter_eggachievement/"
+        ]
+      },
+      {
+        "title": "Understand the Mk-level upgrade labels",
+        "body": "Use the regular upgrade stations for gradual upgrades, then the story-unlocked Exo Testing station for the original guide’s Mk 20→Mk 25 conversion at 2,500 credits. Those are the level labels explicitly supplied by the evidence.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/2u0yhn/text_guide_solo_outbreak_easter_eggachievement/",
+        "tip": "The source set does not give a weapon-by-weapon packed-name, attachment, effect or statistics table, every intermediate Mk level, or a complete current Printer pool.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/wiki/outbreak/"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "r/CODZombies — Outbreak map article",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/outbreak/"
+      },
+      {
+        "title": "MikeSouthPaw — original solo Outbreak walkthrough",
+        "url": "https://www.reddit.com/r/CODZombies/comments/2u0yhn/text_guide_solo_outbreak_easter_eggachievement/"
+      }
+    ],
+    "checked": "2026-10-24",
+    "sourceQuote": "https://www.reddit.com/r/CODZombies/wiki/outbreak/",
+    "sharedSource": false,
+    "sourceOmissions": [],
+    "relatedGuideIds": [
+      "aw-outbreak-community-outbreak-game-features-printer",
+      "aw-outbreak-community-outbreak-map-walkthrough-upgrading-your-weapons",
+      "aw-outbreak-community-outbreak-special-weapons-wonder-weapon",
+      "aw-outbreak-community-outbreak-special-weapons-special-grenades",
+      "aw-outbreak-game-over-man"
+    ],
+    "supplementNote": "The tables transcribe the credited Reddit reference. Explanatory paragraphs and field notes describe the written evidence and its limits.",
+    "images": [
+      {
+        "src": "./assets/outbreak-weapons.svg",
+        "alt": "Weapon access reports",
+        "caption": "Original reference diagram. A finite historical inventory, not a complete current weapon pool or a wall-location map.",
+        "credit": "Dead Drop",
+        "source": "https://www.reddit.com/r/CODZombies/wiki/outbreak/",
+        "width": 420,
+        "height": 660
+      }
+    ]
   }
 ]

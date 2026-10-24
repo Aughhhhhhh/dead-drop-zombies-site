@@ -4,66 +4,131 @@
     "mapId": "aw-outbreak",
     "title": "Game Over, Man! — normal story ending",
     "category": "main",
-    "difficulty": "Medium",
+    "difficulty": "Written route / historical reports",
     "players": "1–4 players; solo supported",
-    "summary": "Collect all four survivors' cards, raise every player's security clearance, and call the Warbird. This is the Advanced Warfare Outbreak quest; the successful-rescue gold trophy uses additional restrictions.",
+    "summary": "Recover the four survivor cards, bring every player to clearance 49, register fingerprints and signal the Warbird.",
     "requirements": [
-      "Advanced Warfare: Havoc / Outbreak",
-      "Exo Suit; Exo Slam for every player",
-      "EM1 from the 3D Printer",
-      "An infected round and credits for the trash chutes and decontamination"
+      "Advanced Warfare: Havoc / Outbreak.",
+      "Exo Suit and Exo Slam for the Holding-cell puzzle; in co-op the wiki requires Exo Slam for all players.",
+      "EM1 from the 3D Printer, an infected/Host round, and credits for chute access, upgrading and decontamination.",
+      "All four survivor cards are required in solo as well as co-op. Read the visible co-op and locator limits before an attempt."
     ],
-    "reward": "Game Over, Man! achievement / trophy and access to the Mk 25 experimental upgrade station in this match.",
+    "reward": "Game Over, Man! achievement/trophy and the normal story ending, plus the original guide’s in-match experimental Mk 25 upgrade route.",
     "steps": [
       {
         "title": "Open the facility and equip the team",
-        "body": "Buy through Main Hub or Administration to reach Morgue, Holding, and Exo Testing. Turn on the local power generators and collect an Exo Suit from Exo Testing. Buy Exo Slam in Main Hub for everyone; Exo Health is useful for the infected round. Save a zombie while performing non-combat tasks. Even solo, you must retrieve all four named keycards.",
-        "tip": "If a card's named character is in the lobby, that character must collect it. If that character is absent, another player can collect it."
+        "body": "Open the facility through either the Main Hub or Administration route. Reach Exo Testing, turn on its local generator and equip an Exo Suit. Buy Exo Slam in Main Hub for every player before the Holding-cell puzzle; Exo Health can help during infection. Keep the four survivor-card puzzles separate from the later clearance-card drops. All four named cards are required even when playing solo.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/outbreak/",
+        "tip": "Hypobromite’s original reply and the archived wiki assign a card to its named survivor when that survivor is present; an absent survivor’s card can be collected by someone else. A later RdJokr1993 reply instead says any player can take any card. Neither report establishes every current build or mode; use the named survivor as the conservative collection plan.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/2u0yhn/text_guide_solo_outbreak_easter_eggachievement/",
+          "https://www.reddit.com/r/CodAW/comments/30rycr/a_few_questions_about_exo_zombies_outbreak_easter/",
+          "https://www.reddit.com/r/CODZombies/comments/14vi449/how_does_advanced_warfare_outbreak_3_player/"
+        ]
       },
       {
         "title": "Recover and install the Black Box",
-        "body": "Search the ground by the crashed Warbird in spawn, on the left side of its wreckage, and interact with the small Black Box. Carry it to the Morgue terminal opposite the stairs toward Exo Reload. Interact to install it and listen for Angie's response. The four card puzzles can now be completed in any order."
+        "body": "At spawn, search the ground left of the crashed Warbird for the Black Box and interact to take it. The original solo guide approaches the wreckage by walking straight from spawn to the wall, then right behind the wreckage. Carry the box to the Morgue computer opposite the stairs leading to Exo Reload and interact to install it. The wiki describes an Angie response after installation. Work through all four card puzzles below.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/2u0yhn/text_guide_solo_outbreak_easter_eggachievement/",
+        "tip": "The older site route allows the four puzzles in any order. The original solo post lists them in a different order and gives no required ordering; keep the Black Box installation first and finish all four before clearance farming.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/wiki/outbreak/"
+        ]
       },
       {
         "title": "Lilith's card — shoot the 3D Printer",
-        "body": "Roll the 3D Printer until you obtain the EM1. Aim its continuous beam into the Printer while buying another roll. The access card appears in place of the weapon; have Lilith collect it if she is present. Keep the EM1 for the incinerator search, where its sustained beam avoids repeated reloads."
+        "body": "Obtain the EM1 from the 3D Printer. While firing its continuous beam into the Printer, pay for another roll. The access card appears in place of a weapon. Have Lilith collect it when she is in the match under the archived named-survivor rule. Keep the EM1 for the incinerator floor search.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/2u0yhn/text_guide_solo_outbreak_easter_eggachievement/",
+        "tip": "Hypobromite’s original reply and the archived wiki assign a card to its named survivor when that survivor is present; an absent survivor’s card can be collected by someone else. A later RdJokr1993 reply instead says any player can take any card. Neither report establishes every current build or mode; use the named survivor as the conservative collection plan.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CodAW/comments/30rycr/a_few_questions_about_exo_zombies_outbreak_easter/",
+          "https://www.reddit.com/r/CODZombies/wiki/outbreak/",
+          "https://www.reddit.com/r/CODZombies/comments/14vi449/how_does_advanced_warfare_outbreak_3_player/"
+        ]
       },
       {
         "title": "Decker's card — enter the incinerator",
-        "body": "Solo: buy a trash chute, immediately back away without entering, wait for it to close, then buy it again and enter straight away. Co-op: split the entire team between the Administration and Exo Testing chutes, with at least one player at each. Buy and enter together on a countdown.\nInside the incinerator, shoot the floor across the room until a card springs upward from the correct spot, then interact to pick it up. Decker must collect his card if he is playing. The moving wall limits your search time; use the exit chutes before it crushes you. If you miss the pickup, repeat the entry and search another portion of the floor.",
-        "tip": "Fire the EM1 while repeatedly pressing interact as you sweep the floor. Do not waste the short visit searching shelves."
+        "body": "Solo: buy a trash-chute activation without entering, then buy it again and enter. In co-op, coordinate the Administration and Exo Testing chutes so the two purchases and entries happen together. The earlier site route splits the whole team between them; the primary wiki only explicitly specifies two players.\nInside the incinerator, sweep the floor with gunfire until the access card pops up, then interact to collect it. Hypobromite describes holding the EM1 beam on the floor while repeatedly using the pickup input. Have Decker collect his card if present under the archived ownership rule. If the card is missed, search a different floor section on the next visit.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/2u0yhn/text_guide_solo_outbreak_easter_eggachievement/",
+        "tip": "The solo original guide says activate without entering, then activate again and enter. The wiki instead says wait for smoke; it gives no exact wait or timing window. For co-op it says two simultaneous chute purchases. The earlier site route puts the entire team across the two chutes; that full-party requirement is not independently settled by the primary text read here. The earlier site route warns of a closing wall and tells players to use the exit chutes before being crushed; its precise deadline and exit controls are not specified in the primary written units.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CodAW/comments/30rycr/a_few_questions_about_exo_zombies_outbreak_easter/",
+          "https://www.reddit.com/r/CODZombies/wiki/outbreak/"
+        ]
       },
       {
         "title": "Oz's card — collapse the holding cell",
-        "body": "In Holding, shoot the metal obstruction beneath the middle cell until it disappears. With Exo Slam equipped, all players climb onto the outermost cell and slam its roof at the same time. That cell drops and a neighboring cell rises, exposing the card. Oz, if present, must grab it before the cell lowers. Repeat the coordinated slam if you miss the pickup."
+        "body": "In Holding, find the black pipe or lever beneath the stuck clear holding cell. Shoot it until it disappears. With Exo Slam equipped, get onto the outermost holding cell and slam its roof; in co-op all players must slam together. The cell drops and a neighboring cell rises, exposing the card. Have Oz collect it when present under the archived ownership rule. The earlier site route says to repeat the slam if the cell lowers before collection.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/2u0yhn/text_guide_solo_outbreak_easter_eggachievement/",
+        "tip": "Erock2’s group used a spoken countdown so the players were airborne together and slammed on the final count. No universal timing tolerance, required landing coordinates or exact raised-cell duration is given. Keep the pipe-removal and the roof slam as separate actions.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/wiki/outbreak/",
+          "https://www.reddit.com/r/CodAW/comments/30rycr/a_few_questions_about_exo_zombies_outbreak_easter/"
+        ]
       },
       {
         "title": "Kahn's card — use four infected keypads",
-        "body": "During an infected round, let an infected zombie infect you, then activate the four Administration keypads:\n• Kahn: security checkpoint door opposite Exo Medic.\n• Oz: beside the decontamination shower, across from the entrance door.\n• Decker: end of the red hallway around its right-hand corner, near the trash chute.\n• Lilith: upstairs balcony left of the MP11 wallbuy; Exo jump to it.\nSolo: use all four while your same infection is active. Co-op: each present character uses their assigned keypad while infected; also activate the absent characters' keypads when playing with fewer than four. Complete all four before anyone cleanses. A used keypad turns green; order is free. Once all are green, collect Kahn's card from the opened checkpoint window, then decontaminate before your infection countdown runs out.",
-        "tip": "Decontaminating between keypads resets this puzzle. Learn the four positions before becoming infected; the danger is your infection timer."
+        "body": "Wait for an infected/Host zombie round. Let an infected zombie infect you, then use the four small keypads in Administration while infected. Each successful activation turns a keypad green. The existing site’s position checklist is:\n• Kahn: security checkpoint door opposite Exo Medic.\n• Oz: beside the decontamination shower, across from the entrance door.\n• Decker: end of the red hallway around its right-hand corner, near the trash chute.\n• Lilith: upstairs balcony left of the MP11 wall buy; Exo jump to it.\nWhen all four are green, the slot in the checkpoint/visitor-desk window opens to reveal Kahn’s card. Collect it, then decontaminate before the infection countdown runs out. Solo requires all four keypads during the same infection in the earlier route.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/2u0yhn/text_guide_solo_outbreak_easter_eggachievement/",
+        "tip": "The four detailed bearings and character-to-keypad assignments in this checklist are inherited from the earlier site walkthrough; the complete original solo post confirms four green Administration keypads but does not independently map or assign them. The earlier co-op route says each present character must use their own keypad while infected, with absent characters’ keypads covered by the team, and cleansing before all four resets progress. These co-op/reset conditions remain unverified in the primary text read here; learn the positions before an attempt and watch the infection timer.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/wiki/outbreak/"
+        ]
       },
       {
         "title": "Raise every player's clearance to 49",
-        "body": "After the four survivor cards are collected, kill zombies and walk over the small access-card drops they leave. Each pickup raises the collecting player's HUD clearance number. Every current player must reach 49; one player's 49 does not cover the team. Keep collecting and distributing the drops until everyone's displayed number is ready."
+        "body": "Once all four named cards have been recovered, CodeRed1234’s co-op reply says to return to the Morgue computer to confirm their pickup before collecting the small clearance drops. Kill zombies and walk over the mini access cards left on the ground. Check each player’s HUD number and keep collecting until every current player reaches 49; one player’s 49 does not satisfy the wiki’s team requirement.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CodAW/comments/30rycr/a_few_questions_about_exo_zombies_outbreak_easter/",
+        "tip": "For the gold alternate ending, every collected clearance drop must come from a melee-killed zombie and nobody may go down. Read that separate route before collecting drops; ordinary completion has no such melee rule.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/2u0yhn/text_guide_solo_outbreak_easter_eggachievement/",
+          "https://www.reddit.com/r/CODZombies/wiki/outbreak/"
+        ]
       },
       {
         "title": "Register each survivor's fingerprints",
-        "body": "Interact with the Black Box terminal in the Morgue once everyone has clearance 49. Each player then uses the fingerprint reader assigned to their own character:\n• Lilith: upstairs Morgue, in the room between Exo Reload and Exo Testing.\n• Decker: halfway up the Exo Testing stairwell.\n• Oz: Holding, left of Exo Health.\n• Kahn: Administration, left of the door to Morgue, opposite the MP11 wallbuy.\nYour reader lights green and your clearance becomes 50. In solo, use only your own character's reader."
+        "body": "After everyone reaches clearance 49, return to the Black Box terminal in the Morgue and interact. Each player then uses the fingerprint reader designated for their own survivor. The earlier site’s reader checklist is:\n• Lilith: upstairs Morgue, in the room between Exo Reload and Exo Testing.\n• Decker: halfway up the Exo Testing stairwell.\n• Oz: Holding, left of Exo Health.\n• Kahn: Administration, left of the door to Morgue, opposite the MP11 wall buy.\nThe correct reader turns green; the wiki says the player’s clearance increases to 50.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/outbreak/",
+        "tip": "The original solo guide confirms one designated fingerprint reader per character and a green light on success; the wiki adds the increase to clearance 50. The four physical bearings are retained from the earlier site walkthrough and were not independently corroborated by the original text read here. In solo, use the reader for the character you are playing; do not confuse these readers with the infected Administration keypads.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/2u0yhn/text_guide_solo_outbreak_easter_eggachievement/"
+        ]
       },
       {
         "title": "Authorize the rescue and activate the Exo station",
-        "body": "Return to the Morgue terminal and interact again for the successful-authorization response. Bring every player to the Exo Suit station and interact with it simultaneously. Return to spawn and watch the Warbird ending to finish the normal quest. The match continues after this ending, and the experimental Exo Testing station can upgrade a Mk 20 weapon to Mk 25.",
-        "tip": "The normal ending does not grant the successful-rescue gold trophy. That alternate route has separate melee-card and no-down conditions."
+        "body": "The earlier site route returns to the Morgue terminal once more for authorization, then sends every player to interact with the Exo Suit station simultaneously. The wiki and original solo post confirm the final Exo station interaction and the ending at spawn, but do not independently specify that extra terminal visit. Go back to spawn to see the normal Warbird ending. The original solo post says quest completion unlocks the Exo Testing experimental station: place a Mk 20 weapon into it and pay 2,500 credits to obtain Mk 25.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/outbreak/",
+        "tip": "The normal route continues the match in the earlier walkthrough; the successful-rescue/gold route is described separately as ending the match. Historical replies do not establish a permanent account unlock, cutscene-menu behavior or every current-platform ending condition.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/2u0yhn/text_guide_solo_outbreak_easter_eggachievement/"
+        ]
       }
     ],
     "sources": [
       {
-        "title": "Community solo Outbreak walkthrough",
+        "title": "r/CODZombies — Outbreak map article",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/outbreak/"
+      },
+      {
+        "title": "MikeSouthPaw — original solo Outbreak walkthrough",
         "url": "https://www.reddit.com/r/CODZombies/comments/2u0yhn/text_guide_solo_outbreak_easter_eggachievement/"
       },
       {
-        "title": "r/CODZombies Outbreak map guide",
-        "url": "https://www.reddit.com/r/CODZombies/wiki/outbreak/"
+        "title": "RdJokr, CodeRed1234 and Hypobromite — co-op card discussion",
+        "url": "https://www.reddit.com/r/CodAW/comments/30rycr/a_few_questions_about_exo_zombies_outbreak_easter/"
+      },
+      {
+        "title": "TheBaconatorOnly599 — two- and three-player card discussion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/14vi449/how_does_advanced_warfare_outbreak_3_player/"
       },
       {
         "title": "MMMRKennedy: Outbreak card locations and co-op rules",
@@ -74,7 +139,19 @@
         "url": "https://www.trueachievements.com/a197583/game-over-man-achievement"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-24",
+    "sourceQuote": null,
+    "sharedSource": false,
+    "sourceOmissions": [],
+    "relatedGuideIds": [
+      "aw-outbreak-facility-route-and-exo-suits",
+      "aw-outbreak-community-outbreak-map-walkthrough-power",
+      "aw-outbreak-perk-costs-and-locations",
+      "aw-outbreak-community-outbreak-game-features-printer",
+      "aw-outbreak-trash-chutes-and-incinerator-access",
+      "aw-outbreak-community-outbreak-map-walkthrough-upgrading-your-weapons",
+      "aw-outbreak-community-outbreak-easter-eggs-alternative-easter-egg-golden-trophy-in-descent"
+    ]
   },
   {
     "id": "aw-infection-meat-is-murder",
