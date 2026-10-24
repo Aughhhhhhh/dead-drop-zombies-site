@@ -14355,5 +14355,435 @@
         "height": 660
       }
     ]
+  },
+  {
+    "id": "bo4-ancient-evil-standard-setup-perk-altars",
+    "mapId": "bo4-ancient-evil",
+    "checked": "2026-10-24",
+    "sourceQuote": null,
+    "sharedSource": false,
+    "sourceOmissions": [],
+    "title": "Standard setup and the four perk altars",
+    "category": "side",
+    "difficulty": "Standard; quest mode restrictions apply",
+    "players": "Solo or co-op",
+    "summary": "The opening route, four named perk areas and the distinction between Standard and Labours of Hercules.",
+    "requirements": [
+      "Choose Ancient Evil Standard for these setup and quest cards.",
+      "For the main quest, Eternal Flame and Exalted trials, use online Standard on Normal or higher with Custom Mutations off. Ordinary buildables and individual achievements have separate mode conditions; their full mode parity is not established.",
+      "Labours of Hercules is a separate Gauntlet mode with its own conditions. Its existing route is unchanged."
+    ],
+    "reward": "A practical order for the setup guides and a four-altar location reference.",
+    "steps": [
+      {
+        "title": "Choose the appropriate mode",
+        "body": "For the main quest and blue-flame/Exalted route, choose online Standard on Normal or higher and leave Custom Mutations off. Original Ancient Evil players report the flame step blocked in Custom Mutations or Casual. This restriction does not prove every ordinary buildable or achievement is disabled in those modes.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/135fr65/black_ops_4/",
+        "tip": "A separate first-person PC Casual/bots report supports Devoted Follower. Do not apply a generic “no Easter eggs” statement to every trophy or minor interaction."
+      },
+      {
+        "title": "Use the setup routes in order",
+        "body": "Complete the Sentinel Artifact ritual, collect the Golden Bridle and ride Pegasus. Open the eagle cages with your Specialist and survive at the Center of the World to unlock Pack-a-Punch. Build Apollo’s Will and Pegasus Strike as you search the upper and underworld areas.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+        "tip": "Exact door-by-door opening costs are not supplied by the stored primary guide."
+      },
+      {
+        "title": "Find the four perk altars",
+        "body": "The original hunt lists Ra in Gymnasium Bathhouse, Odin in River of Sorrow, Zeus at Spartan Monument and Danu at Offering of the Attalids. Use the altar name required by the quest rather than assume every player has the same perk assigned there.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/b5rg9w/ancient_evil_easter_egg_hunt_general_map/",
+        "tip": "The post supplies altar areas, not exact purchase prices, every loadout/perk option or a complete modifier chart."
+      },
+      {
+        "title": "Prepare the quest’s four Hand uses",
+        "body": "Build and Redeem Charon for the blood-pool statues, Hemera for Ra’s beam, Gaia for Danu’s symbols and Ouranos for the ballista. The Amphitheater stage uses the players’ Hand colors. The optional Exalted prerequisites are disputed and should not be substituted for these main-quest tasks.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+        "tip": "Solo hand swapping, exact co-op ownership and late-quest replacement bugs are not fully resolved by these written sources."
+      }
+    ],
+    "sources": [
+      {
+        "title": "r/CODZombies: Ancient Evil map reference",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/"
+      },
+      {
+        "title": "Ancient Evil Custom Mutations report and mode replies",
+        "url": "https://www.reddit.com/r/CODZombies/comments/135fr65/black_ops_4/"
+      },
+      {
+        "title": "u/rCODZombiesBot: original Ancient Evil hunt and credited replies",
+        "url": "https://www.reddit.com/r/CODZombies/comments/b5rg9w/ancient_evil_easter_egg_hunt_general_map/"
+      },
+      {
+        "title": "Original map-guide discussion: credited player tests and corrections",
+        "url": "https://www.reddit.com/r/CODZombies/comments/b8r9eu/ancient_evil_complete_map_guide/"
+      }
+    ],
+    "images": [
+      {
+        "src": "./assets/ancient-evil-starting-reference.svg",
+        "alt": "Sentinel and Pegasus",
+        "caption": "Original reference diagram. Use the linked setup routes; Standard and Gauntlet have separate conditions.",
+        "credit": "Dead Drop",
+        "source": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+        "width": 420,
+        "height": 660
+      }
+    ]
+  },
+  {
+    "id": "bo4-ancient-evil-weapons-and-pack-a-punch-reference",
+    "mapId": "bo4-ancient-evil",
+    "checked": "2026-10-24",
+    "sourceQuote": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+    "sharedSource": false,
+    "sourceOmissions": [],
+    "title": "Weapons: base upgrades and later acquisitions",
+    "category": "weapon",
+    "difficulty": "Historical map reference",
+    "players": "Solo or co-op; pool parity unverified",
+    "summary": "Compare 45 recorded base entries and 10 later acquisition rows, with source limits.",
+    "requirements": [
+      "Unlock Pack-a-Punch with the eagle route before using its ordinary weapon upgrades.",
+      "These are the source’s literal historical cells. They are not a complete current-build Mystery Box roll certification.",
+      "Escargot and RK 7 Garrison have blank wall locations; Koshka’s acquisition and wall-price cells conflict; Hitchcock M9 and Thunderstorm identities remain unverified."
+    ],
+    "reward": "A credited weapon and Pack-a-Punch-name lookup, with ambiguous cells left visible.",
+    "steps": [
+      {
+        "title": "Assault rifles",
+        "body": "Weapon Name | PaP Name | How To Acquire | Cost | Wall Location(s)\nICR-7 | Impertinent Deanimator | Wall Weapon | 1550 Points | Spartan Monument\nRampart 17 | Parapetrifier | Mystery Box | - | -\nVapr-XKG | Creeping Haze | Wall Weapon | 1550 Points | River of Sorrow\nKN-57 | Ruined Revenger | Wall Weapon | 1450 Points | Amphitheater\nMaddox RFB | Red Fiend Bull | Wall Weapon | 1400 Points | Stoa of the Athenians\nHitchcock M9 | Waking Nightmare | Mystery Box | - | -\nGrav | Gravestone | Mystery Box | - | -\nSwat RFT | Rift Breacher | Mystery Box | - | -",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+        "html": "<table>\n<tr>\n<th>Weapon Name</th>\n<th>PaP Name</th>\n<th>How To Acquire</th>\n<th>Cost</th>\n<th>Wall Location(s)</th>\n</tr>\n<tr>\n<td>ICR-7</td>\n<td>Impertinent Deanimator</td>\n<td>Wall Weapon</td>\n<td>1550 Points</td>\n<td>Spartan Monument</td>\n</tr>\n<tr>\n<td>Rampart 17</td>\n<td>Parapetrifier</td>\n<td>Mystery Box</td>\n<td>-</td>\n<td>-</td>\n</tr>\n<tr>\n<td>Vapr-XKG</td>\n<td>Creeping Haze</td>\n<td>Wall Weapon</td>\n<td>1550 Points</td>\n<td>River of Sorrow</td>\n</tr>\n<tr>\n<td>KN-57</td>\n<td>Ruined Revenger</td>\n<td>Wall Weapon</td>\n<td>1450 Points</td>\n<td>Amphitheater</td>\n</tr>\n<tr>\n<td>Maddox RFB</td>\n<td>Red Fiend Bull</td>\n<td>Wall Weapon</td>\n<td>1400 Points</td>\n<td>Stoa of the Athenians</td>\n</tr>\n<tr>\n<td>Hitchcock M9</td>\n<td>Waking Nightmare</td>\n<td>Mystery Box</td>\n<td>-</td>\n<td>-</td>\n</tr>\n<tr>\n<td>Grav</td>\n<td>Gravestone</td>\n<td>Mystery Box</td>\n<td>-</td>\n<td>-</td>\n</tr>\n<tr>\n<td>Swat RFT</td>\n<td>Rift Breacher</td>\n<td>Mystery Box</td>\n<td>-</td>\n<td>-</td>\n</tr>\n</table>"
+      },
+      {
+        "title": "Tactical rifles",
+        "body": "Weapon Name | PaP Name | How To Acquire | Cost | Wall Location(s)\nSwordFish | Australo-Packy-Cormus | Wall Weapon | 1200 Points | Upper Road\nAuger DMR | Dead Man’s Refracker | Wall Weapon | 1550 Points | Intersection of Treasuries\nABR 223 | BR-R-RAH | Mystery Box | - | -\nEssex Model 07 | Quartermaster’s Repeater | Wall Weapon | 500 Points | Apollo's Temple",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+        "html": "<table>\n<tr>\n<th>Weapon Name</th>\n<th>PaP Name</th>\n<th>How To Acquire</th>\n<th>Cost</th>\n<th>Wall Location(s)</th>\n</tr>\n<tr>\n<td>SwordFish</td>\n<td>Australo-Packy-Cormus</td>\n<td>Wall Weapon</td>\n<td>1200 Points</td>\n<td>Upper Road</td>\n</tr>\n<tr>\n<td>Auger DMR</td>\n<td>Dead Man’s Refracker</td>\n<td>Wall Weapon</td>\n<td>1550 Points</td>\n<td>Intersection of Treasuries</td>\n</tr>\n<tr>\n<td>ABR 223</td>\n<td>BR-R-RAH</td>\n<td>Mystery Box</td>\n<td>-</td>\n<td>-</td>\n</tr>\n<tr>\n<td>Essex Model 07</td>\n<td>Quartermaster’s Repeater</td>\n<td>Wall Weapon</td>\n<td>500 Points</td>\n<td>Apollo&#x27;s Temple</td>\n</tr>\n</table>"
+      },
+      {
+        "title": "Submachine guns",
+        "body": "Weapon Name | PaP Name | How To Acquire | Cost | Wall Location(s)\nMX9 | Nueve Muertes XX | Wall Weapon | 1250 Points | Offering of the Attalids\nCordite | Corpsemaker | Mystery Box | - | -\nSaug 9mm | Stellar 92 | Wall Weapon | 750 Points | Marketplace\nSpitfire | Sky Scorcher | Wall Weapon | 1250 Points | River of Sorrow\nGKS | Ghoul Keeper’s Subjugator | Wall Weapon | 1300 Points | Monument of Craterus\nEscargot | Pièce De Résistance | Wall Weapon | 1000 Points |\nMP-40 | The Afterburner | Mystery Box | - | -\nDaemon 3XB | Unseen Vhand | Mystery Box | - | -\nSwitchblade X9 | eXcise n1n3f0ld | Mystery Box | - | -",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+        "html": "<table>\n<tr>\n<th>Weapon Name</th>\n<th>PaP Name</th>\n<th>How To Acquire</th>\n<th>Cost</th>\n<th>Wall Location(s)</th>\n</tr>\n<tr>\n<td>MX9</td>\n<td>Nueve Muertes XX</td>\n<td>Wall Weapon</td>\n<td>1250 Points</td>\n<td>Offering of the Attalids</td>\n</tr>\n<tr>\n<td>Cordite</td>\n<td>Corpsemaker</td>\n<td>Mystery Box</td>\n<td>-</td>\n<td>-</td>\n</tr>\n<tr>\n<td>Saug 9mm</td>\n<td>Stellar 92</td>\n<td>Wall Weapon</td>\n<td>750 Points</td>\n<td>Marketplace</td>\n</tr>\n<tr>\n<td>Spitfire</td>\n<td>Sky Scorcher</td>\n<td>Wall Weapon</td>\n<td>1250 Points</td>\n<td>River of Sorrow</td>\n</tr>\n<tr>\n<td>GKS</td>\n<td>Ghoul Keeper’s Subjugator</td>\n<td>Wall Weapon</td>\n<td>1300 Points</td>\n<td>Monument of Craterus</td>\n</tr>\n<tr>\n<td>Escargot</td>\n<td>Pièce De Résistance</td>\n<td>Wall Weapon</td>\n<td>1000 Points</td>\n<td></td>\n</tr>\n<tr>\n<td>MP-40</td>\n<td>The Afterburner</td>\n<td>Mystery Box</td>\n<td>-</td>\n<td>-</td>\n</tr>\n<tr>\n<td>Daemon 3XB</td>\n<td>Unseen Vhand</td>\n<td>Mystery Box</td>\n<td>-</td>\n<td>-</td>\n</tr>\n<tr>\n<td>Switchblade X9</td>\n<td>eXcise n1n3f0ld</td>\n<td>Mystery Box</td>\n<td>-</td>\n<td>-</td>\n</tr>\n</table>"
+      },
+      {
+        "title": "Light machine guns",
+        "body": "Weapon Name | PaP Name | How To Acquire | Cost | Wall Location(s)\nTitan | Tartarus Veil | Wall Weapon | 3750 Points | Python Pass\nZweihänder | Sumabrandr | Mystery Box | - | -\nHades | Acheron Alliterator | Mystery Box | - | -\nVKM 750 | Cackling Kaftar | Mystery Box | - | -",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+        "html": "<table>\n<tr>\n<th>Weapon Name</th>\n<th>PaP Name</th>\n<th>How To Acquire</th>\n<th>Cost</th>\n<th>Wall Location(s)</th>\n</tr>\n<tr>\n<td>Titan</td>\n<td>Tartarus Veil</td>\n<td>Wall Weapon</td>\n<td>3750 Points</td>\n<td>Python Pass</td>\n</tr>\n<tr>\n<td>Zweihänder</td>\n<td>Sumabrandr</td>\n<td>Mystery Box</td>\n<td>-</td>\n<td>-</td>\n</tr>\n<tr>\n<td>Hades</td>\n<td>Acheron Alliterator</td>\n<td>Mystery Box</td>\n<td>-</td>\n<td>-</td>\n</tr>\n<tr>\n<td>VKM 750</td>\n<td>Cackling Kaftar</td>\n<td>Mystery Box</td>\n<td>-</td>\n<td>-</td>\n</tr>\n</table>"
+      },
+      {
+        "title": "Sniper rifles",
+        "body": "Weapon Name | PaP Name | How To Acquire | Cost | Wall Location(s)\nPaladin HB50 | Righteous Fury | Mystery Box | - | -\nKoshka | Bakeneko | Mystery Box | 4500 Points | Cliff Side\nSDM | IT-5 LYT | Mystery Box | - | -\nOutlaw | D3SOL8 Regulator | Mystery Box | - | -",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+        "html": "<table>\n<tr>\n<th>Weapon Name</th>\n<th>PaP Name</th>\n<th>How To Acquire</th>\n<th>Cost</th>\n<th>Wall Location(s)</th>\n</tr>\n<tr>\n<td>Paladin HB50</td>\n<td>Righteous Fury</td>\n<td>Mystery Box</td>\n<td>-</td>\n<td>-</td>\n</tr>\n<tr>\n<td>Koshka</td>\n<td>Bakeneko</td>\n<td>Mystery Box</td>\n<td>4500 Points</td>\n<td>Cliff Side</td>\n</tr>\n<tr>\n<td>SDM</td>\n<td>IT-5 LYT</td>\n<td>Mystery Box</td>\n<td>-</td>\n<td>-</td>\n</tr>\n<tr>\n<td>Outlaw</td>\n<td>D3SOL8 Regulator</td>\n<td>Mystery Box</td>\n<td>-</td>\n<td>-</td>\n</tr>\n</table>"
+      },
+      {
+        "title": "Secondaries",
+        "body": "Weapon Name | PaP Name | How To Acquire | Cost | Wall Location(s)\nStrife | Z Harmony | Wall Weapon | 500 Points | Apollo's Temple\nWelling | King And Country | Starting Weapon | - | -\nMozu | Belle of the Ball | Wall Weapon | 1300 Points | Intersection of Treasuries\nRK 7 Garrison | Rapskallion 3D | Wall Weapon | 1000 Points |\nMOG 12 | OMG Right Hook | Wall Weapon | 1000 Points | Temple Terrace\nM1897 Trebuchet | M9-TKG Home Wrecker | Wall Weapon | 1400 Points | Gymnasium Bathhouse\nSG12 | Breccius Rebornus | Mystery Box | - | -\nBowie Knife | - | Wall Weapon | 3000 Points | Amphitheater\nHellion Salvo | Zitro’s Orbital Arbalest | Mystery Box | - | -\nKAP 45 | IM-PAK-D | Mystery Box | - | -\nRampage | Surgical Havoc | Mystery Box | - | -",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+        "html": "<table>\n<tr>\n<th>Weapon Name</th>\n<th>PaP Name</th>\n<th>How To Acquire</th>\n<th>Cost</th>\n<th>Wall Location(s)</th>\n</tr>\n<tr>\n<td>Strife</td>\n<td>Z Harmony</td>\n<td>Wall Weapon</td>\n<td>500 Points</td>\n<td>Apollo&#x27;s Temple</td>\n</tr>\n<tr>\n<td>Welling</td>\n<td>King And Country</td>\n<td>Starting Weapon</td>\n<td>-</td>\n<td>-</td>\n</tr>\n<tr>\n<td>Mozu</td>\n<td>Belle of the Ball</td>\n<td>Wall Weapon</td>\n<td>1300 Points</td>\n<td>Intersection of Treasuries</td>\n</tr>\n<tr>\n<td>RK 7 Garrison</td>\n<td>Rapskallion 3D</td>\n<td>Wall Weapon</td>\n<td>1000 Points</td>\n<td></td>\n</tr>\n<tr>\n<td>MOG 12</td>\n<td>OMG Right Hook</td>\n<td>Wall Weapon</td>\n<td>1000 Points</td>\n<td>Temple Terrace</td>\n</tr>\n<tr>\n<td>M1897 Trebuchet</td>\n<td>M9-TKG Home Wrecker</td>\n<td>Wall Weapon</td>\n<td>1400 Points</td>\n<td>Gymnasium Bathhouse</td>\n</tr>\n<tr>\n<td>SG12</td>\n<td>Breccius Rebornus</td>\n<td>Mystery Box</td>\n<td>-</td>\n<td>-</td>\n</tr>\n<tr>\n<td>Bowie Knife</td>\n<td>-</td>\n<td>Wall Weapon</td>\n<td>3000 Points</td>\n<td>Amphitheater</td>\n</tr>\n<tr>\n<td>Hellion Salvo</td>\n<td>Zitro’s Orbital Arbalest</td>\n<td>Mystery Box</td>\n<td>-</td>\n<td>-</td>\n</tr>\n<tr>\n<td>KAP 45</td>\n<td>IM-PAK-D</td>\n<td>Mystery Box</td>\n<td>-</td>\n<td>-</td>\n</tr>\n<tr>\n<td>Rampage</td>\n<td>Surgical Havoc</td>\n<td>Mystery Box</td>\n<td>-</td>\n<td>-</td>\n</tr>\n</table>"
+      },
+      {
+        "title": "Special weapons",
+        "body": "Weapon Name | PaP Name | How To Acquire | Cost\nThunderstorm | - | Quest/Mystery Box | -\nHand of Charon | - | Quest | -\nHand of Ouranos | - | Quest | -\nHand of Hemera | - | Quest | -\nHand of Gaia | - | Quest | -",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+        "html": "<table>\n<tr>\n<th>Weapon Name</th>\n<th>PaP Name</th>\n<th>How To Acquire</th>\n<th>Cost</th>\n</tr>\n<tr>\n<td>Thunderstorm</td>\n<td>-</td>\n<td>Quest/Mystery Box</td>\n<td>-</td>\n</tr>\n<tr>\n<td>Hand of Charon</td>\n<td>-</td>\n<td>Quest</td>\n<td>-</td>\n</tr>\n<tr>\n<td>Hand of Ouranos</td>\n<td>-</td>\n<td>Quest</td>\n<td>-</td>\n</tr>\n<tr>\n<td>Hand of Hemera</td>\n<td>-</td>\n<td>Quest</td>\n<td>-</td>\n</tr>\n<tr>\n<td>Hand of Gaia</td>\n<td>-</td>\n<td>Quest</td>\n<td>-</td>\n</tr>\n</table>"
+      },
+      {
+        "title": "Read the disputed names and acquisition cells carefully",
+        "body": "The source calls one rifle Hitchcock M9 with Waking Nightmare as its Pack-a-Punch name; that item identity is not independently established. Koshka is labeled Mystery Box while the same row gives a 4500-point Cliff Side wall entry. Escargot and RK 7 Garrison have no wall area entered. Thunderstorm is listed as Quest/Mystery Box, but the source does not establish which equipment or weapon that label means.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+        "tip": "These literal rows remain for source transparency, with the uncertainties stated here. Do not use them as proven additional secret weapons or an exhaustive release-history list."
+      },
+      {
+        "title": "Later acquisition listings",
+        "body": "Weapon | AE\nPeacekepper | MB\nS6 Stingray | MB\nM16 | MB\nTigershark | MB\nVendetta | MB\nLocus | MB\nHavelina AA50 | MB\nBalistic Knife | MB\nArgus | MB\nReaver C86 | MB",
+        "html": "<table><thead><tr><th>Weapon</th><th>AE</th></tr></thead><tbody><tr><td>Peacekepper</td><td>MB</td></tr><tr><td>S6 Stingray</td><td>MB</td></tr><tr><td>M16</td><td>MB</td></tr><tr><td>Tigershark</td><td>MB</td></tr><tr><td>Vendetta</td><td>MB</td></tr><tr><td>Locus</td><td>MB</td></tr><tr><td>Havelina AA50</td><td>MB</td></tr><tr><td>Balistic Knife</td><td>MB</td></tr><tr><td>Argus</td><td>MB</td></tr><tr><td>Reaver C86</td><td>MB</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/cwzuuk/weapon_locations_table/",
+        "tip": "MB means Mystery Box in this later 2019 player table. Peacekepper and Balistic Knife retain the source spellings. These ten additional rows provide no packed names. The later table leaves Switchblade MX9’s AE cell empty; the separate base wiki lists Switchblade X9. Final-build availability and the complete current pool remain unchecked."
+      }
+    ],
+    "sources": [
+      {
+        "title": "r/CODZombies: Ancient Evil map reference",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/"
+      },
+      {
+        "title": "StreetRaging — later weapon acquisitions",
+        "url": "https://www.reddit.com/r/CODZombies/comments/cwzuuk/weapon_locations_table/"
+      }
+    ],
+    "images": [
+      {
+        "src": "./assets/ancient-evil-weapon-reference.svg",
+        "alt": "Weapon catalogue",
+        "caption": "Original reference diagram. Historical reference; current complete pools and later packed names remain open.",
+        "credit": "Dead Drop",
+        "source": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+        "width": 420,
+        "height": 660
+      }
+    ]
+  },
+  {
+    "id": "bo4-ancient-evil-enemy-and-power-up-reference",
+    "mapId": "bo4-ancient-evil",
+    "checked": "2026-10-24",
+    "sourceQuote": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+    "sharedSource": false,
+    "sourceOmissions": [],
+    "title": "Enemies and power-ups",
+    "category": "side",
+    "difficulty": "Historical combat reference",
+    "players": "Solo or co-op",
+    "summary": "The seven enemy descriptions and eight power-up rows, with the Spartoi headshot claim qualified.",
+    "requirements": [
+      "Use the literal source tables as a starting reference, not a complete enemy damage chart.",
+      "Apollo’s Will’s spears are recommended against a Gegenees’s head."
+    ],
+    "reward": "Enemy cues and the source’s power-up effects.",
+    "steps": [
+      {
+        "title": "Seven documented enemy descriptions",
+        "body": "Enemy Name | Special Abilities | Picture\nGegenees | The Gegenees can throw spears and shield blast players. It's easily defeated by throwing spears at its head. | Here (in the original source)\nSpartoi | Skeleton warriors that use shields and spears to heighten their defense and offense. They can only be killed by headshot, otherwise they will reform after being destroyed. | Here (in the original source)\nFire Catalyst | Walks slowly towards players. If a player gets too close to it it will explode. |\nPoison Catalyst | Does damage to players who walk near it. It turns other zombies in the nearby area also into Poison Catalysts. |\nElectric Catalyst | Charges up and can unleash a blinding scream that can impair a players vision. |\nWater Catalyst | Actively avoids players and can infect normal zombies and make them have more health. |\nBlightfather | The Blightfather can spit acid and lock wall buys with his acid. Can also grab onto players with its massive tongue. Its weak spot is the bulbs on its back. | Here (in the original source)",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+        "tip": "The source says Spartoi require headshots, while its Normal Gauntlet round 17 explicitly forbids headshot kills against Spartoi. Those statements cannot be one universal damage rule across modes. A complete Standard damage/finisher matrix remains unverified.",
+        "html": "<table>\n<tr>\n<th>Enemy Name</th>\n<th>Special Abilities</th>\n<th>Picture</th>\n</tr>\n<tr>\n<td>Gegenees</td>\n<td>The Gegenees can throw spears and shield blast players. It&#x27;s easily defeated by throwing spears at its head.</td>\n<td><a href=\"https://www.reddit.com/r/CODZombies/wiki/ancient-evil/\" target=\"_blank\" rel=\"noopener noreferrer\">Here (in the original source)</a></td>\n</tr>\n<tr>\n<td>Spartoi</td>\n<td>Skeleton warriors that use shields and spears to heighten their defense and offense. They can only be killed by headshot, otherwise they will reform after being destroyed.</td>\n<td><a href=\"https://www.reddit.com/r/CODZombies/wiki/ancient-evil/\" target=\"_blank\" rel=\"noopener noreferrer\">Here (in the original source)</a></td>\n</tr>\n<tr>\n<td>Fire Catalyst</td>\n<td>Walks slowly towards players. If a player gets too close to it it will explode.</td>\n<td></td>\n</tr>\n<tr>\n<td>Poison Catalyst</td>\n<td>Does damage to players who walk near it. It turns other zombies in the nearby area also into Poison Catalysts.</td>\n<td></td>\n</tr>\n<tr>\n<td>Electric Catalyst</td>\n<td>Charges up and can unleash a blinding scream that can impair a players vision.</td>\n<td></td>\n</tr>\n<tr>\n<td>Water Catalyst</td>\n<td>Actively avoids players and can infect normal zombies and make them have more health.</td>\n<td></td>\n</tr>\n<tr>\n<td>Blightfather</td>\n<td>The Blightfather can spit acid and lock wall buys with his acid. Can also grab onto players with its massive tongue. Its weak spot is the bulbs on its back.</td>\n<td><a href=\"https://www.reddit.com/r/CODZombies/wiki/ancient-evil/\" target=\"_blank\" rel=\"noopener noreferrer\">Here (in the original source)</a></td>\n</tr>\n</table>"
+      },
+      {
+        "title": "Eight documented power-ups",
+        "body": "Name | Description | Duration\nInsta-Kill | Allows all players to insta-kill all normal zombies. | 30 Seconds\nMax Ammo | Refills the ammo reserve of all held weapons for every player. | -\nDouble Points | Players receive double the amount of points for the duration of the power-up. | 30 Seconds\nNuke | Kills all normal zombies on the map at once. | -\nBonus Points | Gives each player in the match 500 Points | -\nFull Power | Gives the player that ran into it a full specialist weapon meter. | -\nCarpenter | Repairs all wooden barricades on the map as well as refills the meter on each player's shield | -\nBullet Boost | Gives your currently Pack-A-Punch'd weapon an Alternate Ammo Type (Weapon Damage is not affected). | -",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+        "tip": "Bullet Boost’s source cell explicitly says weapon damage is unaffected; do not substitute it for an ordinary Pack-a-Punch damage purchase.",
+        "html": "<table>\n<tr>\n<th>Name</th>\n<th>Description</th>\n<th>Duration</th>\n</tr>\n<tr>\n<td>Insta-Kill</td>\n<td>Allows all players to insta-kill all normal zombies.</td>\n<td>30 Seconds</td>\n</tr>\n<tr>\n<td>Max Ammo</td>\n<td>Refills the ammo reserve of all held weapons for every player.</td>\n<td>-</td>\n</tr>\n<tr>\n<td>Double Points</td>\n<td>Players receive double the amount of points for the duration of the power-up.</td>\n<td>30 Seconds</td>\n</tr>\n<tr>\n<td>Nuke</td>\n<td>Kills all normal zombies on the map at once.</td>\n<td>-</td>\n</tr>\n<tr>\n<td>Bonus Points</td>\n<td>Gives each player in the match 500 Points</td>\n<td>-</td>\n</tr>\n<tr>\n<td>Full Power</td>\n<td>Gives the player that ran into it a full specialist weapon meter.</td>\n<td>-</td>\n</tr>\n<tr>\n<td>Carpenter</td>\n<td>Repairs all wooden barricades on the map as well as refills the meter on each player&#x27;s shield</td>\n<td>-</td>\n</tr>\n<tr>\n<td>Bullet Boost</td>\n<td>Gives your currently Pack-A-Punch&#x27;d weapon an Alternate Ammo Type (Weapon Damage is not affected).</td>\n<td>-</td>\n</tr>\n</table>"
+      },
+      {
+        "title": "Two additional drop mentions remain incomplete",
+        "body": "u/xxginger_kidxx notes a shield repair/new-shield drop and an equipment-refill drop missing from the old power-up table. The reply gives no drop names, exact effects, spawn conditions or map-specific interaction steps.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/b8r9eu/ancient_evil_complete_map_guide/",
+        "tip": "These are credited reported omissions. They are not enough evidence to add a deterministic farm or exact pickup table."
+      }
+    ],
+    "sources": [
+      {
+        "title": "r/CODZombies: Ancient Evil map reference",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/"
+      },
+      {
+        "title": "Original map-guide discussion: credited player tests and corrections",
+        "url": "https://www.reddit.com/r/CODZombies/comments/b8r9eu/ancient_evil_complete_map_guide/"
+      }
+    ],
+    "images": [
+      {
+        "src": "./assets/ancient-evil-enemy-reference.svg",
+        "alt": "Enemies and power-ups",
+        "caption": "Original reference diagram. Use the separate Gauntlet guide for its mode-specific objectives.",
+        "credit": "Dead Drop",
+        "source": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+        "width": 420,
+        "height": 660
+      }
+    ]
+  },
+  {
+    "id": "bo4-ancient-evil-audio-scrolls-quotes-and-ciphers",
+    "mapId": "bo4-ancient-evil",
+    "checked": "2026-10-24",
+    "sourceQuote": null,
+    "sharedSource": false,
+    "sourceOmissions": [],
+    "title": "Audio scrolls, quote landmarks and ciphers",
+    "category": "side",
+    "difficulty": "Lore interactions; locators incomplete",
+    "players": "Solo or co-op; shared credit unverified",
+    "summary": "The original bench-scroll reports, three named quote landmarks and four alchemical cipher entries.",
+    "requirements": [
+      "Use your configured Interact control for the documented Amphitheater scroll; the original report calls it Square.",
+      "Most lore landmarks lack exact written input or respawn conditions. They are marked individually below.",
+      "No lyrics or full fictional dialogue are included."
+    ],
+    "reward": "Reported audio interactions and a cipher index; no gameplay reward or full recording census is established.",
+    "steps": [
+      {
+        "title": "Amphitheater bench scroll",
+        "body": "At the Amphitheater entrance/front room, look immediately left for the bench beside a helmet. u/RyanLFG locates an audio scroll on that bench; u/Superrrdun reports pressing Square on the object to the right of the helmet, hearing a voice and finding the object gone afterward. Use your configured Interact input on that object.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/b5rg9w/ancient_evil_easter_egg_hunt_general_map/",
+        "tip": "These are complete launch-era firsthand reports. Exact co-op ownership, replay and whether the scroll returns after a round are not established."
+      },
+      {
+        "title": "Treasury bench scroll report",
+        "body": "u/Portmaw reports an audio scroll on a bench in the treasury area. The reply identifies its spoken subject but gives no tighter bench landmark or activation control, so search the bench as a partial locator rather than assume it is the Amphitheater scroll.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/b5rg9w/ancient_evil_easter_egg_hunt_general_map/",
+        "tip": "The exact bench, total number of distinct scrolls and whether this duplicates another reported pickup remain unresolved. No fictional speech is transcribed."
+      },
+      {
+        "title": "Three reported quote landmarks",
+        "body": "The original hunt lists a golden statue in Stoa of the Athenians, a wall painting in Apollo’s Temple and a headless statue near Upper Bridge as quote locations. It does not state the exact interaction input, viewing side, trigger condition or repeat behavior for those three landmarks.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/b5rg9w/ancient_evil_easter_egg_hunt_general_map/",
+        "tip": "These are named interaction leads, not fully verified activation instructions or separate reward quests."
+      },
+      {
+        "title": "The four alchemical cipher entries",
+        "body": "The stored wiki indexes AE_AlchemyIntro, AE_Alchemy1, AE_Alchemy2 and AE_Alchemy3 as alchemical-symbol text ciphers using a shared periodic/alchemical-symbol key. It credits u/Kalinine for entries 1 and 2 and u/coldstone_the_gamer for entry 3. The original hunt places two inscriptions at Gymnasium Bathhouse and Marketplace.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+        "tip": "The source does not map all four entry IDs to exact in-game surfaces or establish a gameplay reward. Original cipher images and symbol key remain unrequested, subject to all inherited host/work STOPs."
+      },
+      {
+        "title": "Cinematics and recording scope",
+        "body": "The wiki lists Ancient Evil’s intro, Dark Bruno sequence, outro and official trailer, and names the four Chaos characters Scarlett Rhodes, Diego Necalli, Bruno Delacroix and Stanton Shaw. The Dark Bruno sequence is tied to the main quest’s character-dependent door step.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+        "tip": "The four cinematic links and these partial recording locators do not establish that every audio scroll, character quote or lore object has been catalogued."
+      }
+    ],
+    "sources": [
+      {
+        "title": "r/CODZombies: Ancient Evil map reference",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/"
+      },
+      {
+        "title": "u/rCODZombiesBot: original Ancient Evil hunt and credited replies",
+        "url": "https://www.reddit.com/r/CODZombies/comments/b5rg9w/ancient_evil_easter_egg_hunt_general_map/"
+      }
+    ],
+    "images": [
+      {
+        "src": "./assets/ancient-evil-lore-reference.svg",
+        "alt": "Lore reference",
+        "caption": "Original reference diagram. Partial location notes; no complete recording census or invented glyph chart.",
+        "credit": "Dead Drop",
+        "source": "https://www.reddit.com/r/CODZombies/comments/b5rg9w/ancient_evil_easter_egg_hunt_general_map/",
+        "width": 420,
+        "height": 660
+      }
+    ]
+  },
+  {
+    "id": "bo4-ancient-evil-achievements-and-trophy-routes",
+    "mapId": "bo4-ancient-evil",
+    "checked": "2026-10-24",
+    "sourceQuote": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+    "sharedSource": false,
+    "sourceOmissions": [],
+    "title": "Ancient Evil achievements and trophy routes",
+    "category": "side",
+    "difficulty": "Achievement conditions vary",
+    "players": "Solo or co-op; individual credit varies",
+    "summary": "All ten rows in the stored achievement source, followed by practical conditions and known mode limits.",
+    "requirements": [
+      "Follow each trophy’s own condition. Main quest and Exalted mode restrictions do not automatically apply to every survival achievement.",
+      "Devoted Follower has a firsthand PC Casual/bots report; other full platform/mode parity is unverified.",
+      "Prepare the relevant Hand, Apollo’s Will or eagle route before attempting a weapon-specific counter."
+    ],
+    "reward": "The ten recorded Ancient Evil achievement/trophy objectives; no account unlock is promised.",
+    "steps": [
+      {
+        "title": "Ten literal achievement rows",
+        "body": "Name | Description | How to Obtain | Rarity\nGreek Tragedy | In Ancient Evil, finish what was started | Complete the Main Quest (in the original source) | Silver\nDevoted Follower | In Ancient Evil, survive the first 20 rounds without leaving the interior of the Temple of Apollo | Complete the first 20 rounds staying inside Apollo's Temple without leaving it. You can use bots and they can leave the Temple but make sure you do not. Use Wraith Fire grenades and a strong Specialist Weapon in order to make this easier. | Bronze\nA Worthy Tribute | In Ancient Evil, fully reignite the Eternal Flame by round 15 | Light the flame inside of Apollo's Temple blue before round 15. How to do so is stated earlier in this guide here (in the original source) . | Bronze\nMove Mountains | In Ancient Evil, impale 8 zombies with one charged attack from the Hand of Gaia | Train up a horde of zombies in a large area such as the Amphitheater. Then charge up the Redeemed/Exalted Hand of Gaia and fire it at the horde. | Bronze\nNo Obol | In Ancient Evil, drag 15 zombies to the underworld with one charged attack from the Hand of Charon | Train up a horde of zombies in a large area such as the Amphitheater. Then charge up the Redeemed/Exalted Hand of Charon and fire it at the ground near the horde. | Bronze\nToo Close to the Sun | In Ancient Evil, incinerate 20 zombies with one channel attack from the Hand of Hemera | Train up a horde of zombies in a large area such as the Amphitheater. Then charge up the Redeemed/Exalted Hand of Hemera and kill all of the zombies in the horde with the light beam. Make sure you do not stop firing the beam until all of the zombies in the horde are dead. | Bronze\nA Mighty Wind | In Ancient Evil, fling 20 zombies with one channel attack from the Hand of Ouranos | Train up a horde of zombies in a large area such as the Amphitheater. Then charge up the Redeemed/Exalted Hand of Ouranos and kill all of the zombies in the horde with the wind blast. Make sure you do not stop firing the wind blast until all of the zombies in the horde are dead. |\nFly Like an Eagle | In Ancient Evil, free the Eagles without switching weapons | After dropping the cage with the eagle in it in the Python Pass make sure the doors to the cage in the Cliff Side are open. Use the beam from the Scepter of Ra or shot of Viper & Dragon to shoot open one of the eagle cages and then quickly run over to the other cage and shoot that one open. Make sure this is done without losing your Specialist Weapon (Stamin-Up can be used to make this easier). | Bronze\nThe Best Offense is a Good Defense | In Ancient Evil, kill a Gegenees using only Apollo's Will | Kill a Gegenees by only using the spear of your Apollo's Will. This can be easily done by just throwing the spears at the Gegenee's head. | Bronze\nFour Old Gods | In Ancient Evil, complete all the Primordial God Trials | Obtain the Exalted version of all the God Hand Wonder Weapons (in the original source) . | Bronze",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+        "html": "<table>\n<tr>\n<th>Name</th>\n<th>Description</th>\n<th>How to Obtain</th>\n<th>Rarity</th>\n</tr>\n<tr>\n<td>Greek Tragedy</td>\n<td>In Ancient Evil, finish what was started</td>\n<td><a href=\"https://www.reddit.com/r/CODZombies/wiki/ancient-evil/\" target=\"_blank\" rel=\"noopener noreferrer\">Complete the Main Quest (in the original source)</a></td>\n<td>Silver</td>\n</tr>\n<tr>\n<td>Devoted Follower</td>\n<td>In Ancient Evil, survive the first 20 rounds without leaving the interior of the Temple of Apollo</td>\n<td>Complete the first 20 rounds staying inside Apollo&#x27;s Temple without leaving it. You can use bots and they can leave the Temple but make sure you do not. Use Wraith Fire grenades and a strong Specialist Weapon in order to make this easier.</td>\n<td>Bronze</td>\n</tr>\n<tr>\n<td>A Worthy Tribute</td>\n<td>In Ancient Evil, fully reignite the Eternal Flame by round 15</td>\n<td>Light the flame inside of Apollo&#x27;s Temple blue before round 15. How to do so is stated earlier in this guide <a href=\"https://www.reddit.com/r/CODZombies/wiki/ancient-evil/\" target=\"_blank\" rel=\"noopener noreferrer\">here (in the original source)</a> .</td>\n<td>Bronze</td>\n</tr>\n<tr>\n<td>Move Mountains</td>\n<td>In Ancient Evil, impale 8 zombies with one charged attack from the Hand of Gaia</td>\n<td>Train up a horde of zombies in a large area such as the Amphitheater. Then charge up the Redeemed/Exalted Hand of Gaia and fire it at the horde.</td>\n<td>Bronze</td>\n</tr>\n<tr>\n<td>No Obol</td>\n<td>In Ancient Evil, drag 15 zombies to the underworld with one charged attack from the Hand of Charon</td>\n<td>Train up a horde of zombies in a large area such as the Amphitheater. Then charge up the Redeemed/Exalted Hand of Charon and fire it at the ground near the horde.</td>\n<td>Bronze</td>\n</tr>\n<tr>\n<td>Too Close to the Sun</td>\n<td>In Ancient Evil, incinerate 20 zombies with one channel attack from the Hand of Hemera</td>\n<td>Train up a horde of zombies in a large area such as the Amphitheater. Then charge up the Redeemed/Exalted Hand of Hemera and kill all of the zombies in the horde with the light beam. Make sure you do not stop firing the beam until all of the zombies in the horde are dead.</td>\n<td>Bronze</td>\n</tr>\n<tr>\n<td>A Mighty Wind</td>\n<td>In Ancient Evil, fling 20 zombies with one channel attack from the Hand of Ouranos</td>\n<td>Train up a horde of zombies in a large area such as the Amphitheater. Then charge up the Redeemed/Exalted Hand of Ouranos and kill all of the zombies in the horde with the wind blast. Make sure you do not stop firing the wind blast until all of the zombies in the horde are dead.</td>\n<td></td>\n</tr>\n<tr>\n<td>Fly Like an Eagle</td>\n<td>In Ancient Evil, free the Eagles without switching weapons</td>\n<td>After dropping the cage with the eagle in it in the Python Pass make sure the doors to the cage in the Cliff Side are open. Use the beam from the Scepter of Ra or shot of Viper &amp; Dragon to shoot open one of the eagle cages and then quickly run over to the other cage and shoot that one open. Make sure this is done without losing your Specialist Weapon (Stamin-Up can be used to make this easier).</td>\n<td>Bronze</td>\n</tr>\n<tr>\n<td>The Best Offense is a Good Defense</td>\n<td>In Ancient Evil, kill a Gegenees using only Apollo&#x27;s Will</td>\n<td>Kill a Gegenees by only using the spear of your Apollo&#x27;s Will. This can be easily done by just throwing the spears at the Gegenee&#x27;s head.</td>\n<td>Bronze</td>\n</tr>\n<tr>\n<td>Four Old Gods</td>\n<td>In Ancient Evil, complete all the Primordial God Trials</td>\n<td>Obtain the <a href=\"https://www.reddit.com/r/CODZombies/wiki/ancient-evil/\" target=\"_blank\" rel=\"noopener noreferrer\">Exalted version of all the God Hand Wonder Weapons (in the original source)</a> .</td>\n<td>Bronze</td>\n</tr>\n</table>"
+      },
+      {
+        "title": "Greek Tragedy and Four Old Gods",
+        "body": "Greek Tragedy follows main quest completion. Four Old Gods asks for all Primordial God Trials; the source links it to the four Exalted Hand routes. Complete each Hand’s separate limited-ammo trial, not merely its Fallen initiation or Redeemed portal.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+        "tip": "The exact co-op sharing/credit rule for all four trials and a current-build replay remain unverified."
+      },
+      {
+        "title": "Devoted Follower: stay inside the Apollo area for twenty rounds",
+        "body": "Survive the first twenty rounds while keeping your own character in the Temple of Apollo area. u/plowang32 reports earning it on PC with bots on Casual even though bots opened doors; the player stayed within the HUD area label and did not move through the exit doorways.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/b8r9eu/ancient_evil_complete_map_guide/",
+        "tip": "The same report says the Strife wallbuy edge is usable while the area label remains Temple of Apollo. This is one stated PC test, not a guarantee that another platform’s boundary is identical."
+      },
+      {
+        "title": "A Worthy Tribute: finish the flame early",
+        "body": "Build the blue Eternal Flame for the timed Tribute achievement. Its row says by round 15, while the method says before round 15. Aim for an earlier round and use the visible blue fire rather than a disputed exact reward-point formula.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+        "tip": "Check the flame itself. The wiki says 9 tribute points per player and gives Common 0.5, Rare 1, Legendary 4, Epic 6, but its Hand chapters say two Epic rewards. u/Zemurii reports 12 Common rewards or one Epic plus four Common; u/Dark_matter-matters reports four trials with no reward above Legendary. These accounts do not establish one dependable solo/co-op formula."
+      },
+      {
+        "title": "Move Mountains and No Obol: one charged attack",
+        "body": "For Move Mountains, line up at least eight zombies and impale them with one charged Gaia attack. For No Obol, drag at least fifteen zombies into the underworld with one charged Charon attack. Each objective must be met by a single charged attack, not accumulated across separate shots.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/"
+      },
+      {
+        "title": "Too Close to the Sun and A Mighty Wind: do not interrupt the channel",
+        "body": "For Too Close to the Sun, incinerate at least twenty zombies in one continuous Hemera beam. For A Mighty Wind, fling at least twenty with one continuous Ouranos wind blast. Keep each channel active until its own required group is hit; releasing and starting again is a separate attack.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+        "tip": "The source does not establish shared co-op counters, exact safe ammo margins or every Hand-tier eligibility rule."
+      },
+      {
+        "title": "Fly Like an Eagle: free both without switching weapons",
+        "body": "Free both eagles without switching weapons. The source proposes Scepter of Ra’s beam or deploying Viper and Dragon, shooting one cage and reaching the other before the Specialist ends. Stamin-Up is an optional movement aid.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+        "tip": "The exact definition of a switch across equipment and Specialist cancel inputs is not fully enumerated; plan the route before triggering the Specialist."
+      },
+      {
+        "title": "The Best Offense is a Good Defense: Apollo’s Will only",
+        "body": "Defeat a Gegenees using only Apollo’s Will. The source recommends throwing spears at its head. Avoid dealing damage to that target with other weapons while attempting the condition.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+        "tip": "Whether teammate damage invalidates another player’s credit, and the exact shield throw count, remain unverified."
+      }
+    ],
+    "sources": [
+      {
+        "title": "r/CODZombies: Ancient Evil map reference",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/"
+      },
+      {
+        "title": "Original map-guide discussion: credited player tests and corrections",
+        "url": "https://www.reddit.com/r/CODZombies/comments/b8r9eu/ancient_evil_complete_map_guide/"
+      },
+      {
+        "title": "u/rCODZombiesBot: original Ancient Evil hunt and credited replies",
+        "url": "https://www.reddit.com/r/CODZombies/comments/b5rg9w/ancient_evil_easter_egg_hunt_general_map/"
+      },
+      {
+        "title": "Ancient Evil Custom Mutations report and mode replies",
+        "url": "https://www.reddit.com/r/CODZombies/comments/135fr65/black_ops_4/"
+      }
+    ],
+    "images": [
+      {
+        "src": "./assets/ancient-evil-achievement-reference.svg",
+        "alt": "Ten achievement goals",
+        "caption": "Original reference diagram. Read the source limits for mode, team credit, boundaries and timers.",
+        "credit": "Dead Drop",
+        "source": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+        "width": 420,
+        "height": 660
+      }
+    ]
   }
 ]

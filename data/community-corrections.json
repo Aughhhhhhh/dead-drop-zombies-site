@@ -71121,5 +71121,1345 @@
         ]
       }
     }
+  },
+  "ancient-evil-map-features-traps": {
+    "mapOverrides": {
+      "bo4-ancient-evil": {
+        "title": "Venom Trap and Boiling Pool",
+        "category": "side",
+        "difficulty": "Standard setup",
+        "players": "Solo or co-op",
+        "summary": "The two trap areas, their listed prices and the pool hazard.",
+        "requirements": [
+          "Open access to Python Pass or Gymnasium Bathhouse.",
+          "Keep 1000 points for the trap you intend to activate. Exact switch faces and cooldowns are not supplied."
+        ],
+        "reward": "A paid area trap; the Venom Trap also prepares the main quest’s green spear.",
+        "steps": [
+          {
+            "title": "Instructions & locations",
+            "body": "Ancient Evil has two documented traps. The Venom Trap is in Python Pass; the Boiling Pool is in Gymnasium Bathhouse. Each costs 1000 points in the source. Use the local trap control once you can reach it.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "The source does not give exact switch surfaces, active durations or cooldowns."
+          },
+          {
+            "title": "Venom Trap in Python Pass",
+            "body": "Activate the 1000-point Venom Trap to attack the horde with the snake titan’s venom. During the main quest, the already blue-lit Apollo’s Will spear is carried through this active trap until the tip becomes green.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "The green tip is a main-quest state. It is not evidence of an independently upgradeable shield tier."
+          },
+          {
+            "title": "Boiling Pool in Gymnasium Bathhouse",
+            "body": "Activate the 1000-point Boiling Pool to scald enemies in its water. Keep your own character out of the hot pool: the source explicitly says it boils players as well as the undead.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/"
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "r/CODZombies: Ancient Evil map reference",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/"
+          }
+        ],
+        "checked": "2026-10-24",
+        "sourceQuote": null,
+        "sharedSource": false
+      }
+    }
+  },
+  "ancient-evil-map-features-pegasus": {
+    "mapOverrides": {
+      "bo4-ancient-evil": {
+        "title": "Sentinel Artifact, Golden Bridle and Pegasus ride",
+        "category": "side",
+        "difficulty": "Standard setup",
+        "players": "Solo or co-op",
+        "summary": "Complete the Amphitheater ritual, collect the bridle and reach the underworld.",
+        "requirements": [
+          "Reach the Amphitheater and prepare to survive a ritual lockdown.",
+          "The Golden Bridle has two listed pedestal candidates. A Gegenees appears when it is collected."
+        ],
+        "reward": "A Pegasus ride from Spartan Monument to River of Sorrow.",
+        "steps": [
+          {
+            "title": "Activate the Sentinel Artifact in the Amphitheater, doing so will spawn skeletons…",
+            "body": "At the Amphitheater, interact with the Sentinel Artifact. Skeletons and a zombie horde appear. Survive until Pegasus arrives and kills the remaining enemies; that finishes the ritual.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "The source gives no fixed ritual timer or exact enemy quota."
+          },
+          {
+            "title": "Obtain the Golden Bridle which can be found at one the following locations",
+            "body": "Search the Golden Bridle’s two listed pedestal locations: Intersection of Treasuries and Stoa of the Athenians. Pick it up at the occupied pedestal. A Gegenees spawns on collection.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "The source’s two close-up photos are not available as written surface descriptions; check both named areas."
+          },
+          {
+            "title": "Navigate to the Spartan Monument and ride Pegasus to River of Sorrow",
+            "body": "Go to Spartan Monument and use the Pegasus ride to River of Sorrow. This opens the route into the Dark Side of Delphi used for the eagle cages, forge parts and Hand shrines.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "No boarding fee, exact co-op assembly rule or retry timing is established by the written source."
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "r/CODZombies: Ancient Evil map reference",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/"
+          }
+        ],
+        "checked": "2026-10-24",
+        "sourceQuote": null,
+        "sharedSource": false
+      }
+    }
+  },
+  "ancient-evil-map-features-pack-a-punch": {
+    "mapOverrides": {
+      "bo4-ancient-evil": {
+        "title": "Pack-a-Punch: free both eagles",
+        "category": "weapon",
+        "difficulty": "Standard setup",
+        "players": "Solo or co-op",
+        "summary": "Drop the Python Pass cage, open both cages with a Specialist and survive at the Center of the World.",
+        "requirements": [
+          "Complete the Sentinel Artifact, collect the Golden Bridle and ride Pegasus.",
+          "Keep your Specialist Weapon charged for both cage doors."
+        ],
+        "reward": "Pack-a-Punch opens at the Center of the World and fast-travel portals become available.",
+        "steps": [
+          {
+            "title": "Ride Pegasus to the Dark Side of Delphi and navigate to Python Pass",
+            "body": "Ride Pegasus to River of Sorrow on the Dark Side of Delphi, then move into Python Pass to find the first caged eagle.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/"
+          },
+          {
+            "title": "Locate an Eagle stuck within a cage, drop the cage by shooting it with a weapon,…",
+            "body": "Shoot the suspended eagle cage in Python Pass with a normal weapon to drop it. The source says a Gegenees spawns when the cage falls.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "Dropping the cage and opening its door are separate actions; save your Specialist for the door."
+          },
+          {
+            "title": "Navigate to Cliff Ruins, kill all Skeletons surrounding the other cage",
+            "body": "Go to the other eagle cage in Cliff Ruins and kill the skeletons surrounding it.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/"
+          },
+          {
+            "title": "Shoot/Melee the door of each cage using your Specialist Weapon, freeing the Eagles",
+            "body": "Use your active Specialist Weapon to shoot or melee the doors of both eagle cages. Free both eagles, including the one in the cage you dropped at Python Pass.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "The wiki permits Specialist shooting or melee; it does not establish that an ordinary gun can open the doors."
+          },
+          {
+            "title": "Navigate to the Center of the World, survive until the Eagles have opened…",
+            "body": "Move to the Center of the World and survive while the freed eagles open Pack-a-Punch. Wait for the machine to become usable; the original hunt also describes a portal back toward Temple Terrace.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/b5rg9w/ancient_evil_easter_egg_hunt_general_map/",
+            "tip": "The written map source does not give an exact lockdown timer, machine price or normal-gun repack price."
+          },
+          {
+            "title": "Plan the no-weapon-switch achievement first",
+            "body": "For Fly Like an Eagle, start the eagle route without switching weapons. The achievement source proposes using Scepter of Ra’s beam, or one Viper and Dragon deployment to shoot one cage then reach the other before the Specialist ends. Free both eagles under that condition.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "This is an optional achievement restriction. It is not required to open Pack-a-Punch normally."
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "r/CODZombies: Ancient Evil map reference",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/"
+          },
+          {
+            "title": "u/rCODZombiesBot: original Ancient Evil hunt and credited replies",
+            "url": "https://www.reddit.com/r/CODZombies/comments/b5rg9w/ancient_evil_easter_egg_hunt_general_map/"
+          }
+        ],
+        "checked": "2026-10-24",
+        "sourceQuote": null,
+        "sharedSource": false
+      }
+    }
+  },
+  "ancient-evil-map-features-mystery-box-locations": {
+    "mapOverrides": {
+      "bo4-ancient-evil": {
+        "title": "Mystery Box locations",
+        "category": "weapon",
+        "difficulty": "Standard reference",
+        "players": "Solo or co-op",
+        "summary": "The six box areas recorded by the map source.",
+        "requirements": [
+          "Use the area names on the game HUD to match the list.",
+          "The source does not supply an exact box pedestal in each area or a current-build complete box pool."
+        ],
+        "reward": "A checklist of the six documented box locations.",
+        "steps": [
+          {
+            "title": "Instructions & locations",
+            "body": "Check Offering of the Attalids, Spartan Monument, Castalian Spring, Gymnasium Bathhouse, Cliff Side and Python Pass. These are the six Mystery Box areas named in the source.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "This list is a location reference. It does not mean every box is active at once or guarantee a particular weapon roll."
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "r/CODZombies: Ancient Evil map reference",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/"
+          }
+        ],
+        "checked": "2026-10-24",
+        "sourceQuote": null,
+        "sharedSource": false
+      }
+    }
+  },
+  "ancient-evil-map-features-fast-travel": {
+    "mapOverrides": {
+      "bo4-ancient-evil": {
+        "title": "Fast travel after Pack-a-Punch",
+        "category": "side",
+        "difficulty": "Standard setup",
+        "players": "Solo or co-op",
+        "summary": "Five documented portal routes, each listed at 500 points.",
+        "requirements": [
+          "Open Pack-a-Punch before using this portal network.",
+          "Have 500 points for each listed use. Reverse routes are not established by this table."
+        ],
+        "reward": "Travel between the five recorded starting and ending areas.",
+        "steps": [
+          {
+            "title": "Instructions & locations",
+            "body": "Portal Location | Ending Location | Cost\nSpartan Monument | River of Sorrow | 500 Points\nAmphitheater | Cliff Side | 500 Points\nRiver of Sorrow | Market Place | 500 Points\nCenter of the World | Temple Terrace | 500 Points\nStoa of the Athenians | Python Pass | 500 Points",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "Market Place and Cliff Side retain the source’s spelling. Exact portal surfaces and simultaneous co-op charging rules remain unspecified.",
+            "html": "<table>\n<tr>\n<th>Portal Location</th>\n<th>Ending Location</th>\n<th>Cost</th>\n</tr>\n<tr>\n<td>Spartan Monument</td>\n<td>River of Sorrow</td>\n<td>500 Points</td>\n</tr>\n<tr>\n<td>Amphitheater</td>\n<td>Cliff Side</td>\n<td>500 Points</td>\n</tr>\n<tr>\n<td>River of Sorrow</td>\n<td>Market Place</td>\n<td>500 Points</td>\n</tr>\n<tr>\n<td>Center of the World</td>\n<td>Temple Terrace</td>\n<td>500 Points</td>\n</tr>\n<tr>\n<td>Stoa of the Athenians</td>\n<td>Python Pass</td>\n<td>500 Points</td>\n</tr>\n</table>"
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "r/CODZombies: Ancient Evil map reference",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/"
+          }
+        ],
+        "checked": "2026-10-24",
+        "sourceQuote": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+        "sharedSource": false
+      }
+    }
+  },
+  "ancient-evil-map-features-tributes": {
+    "mapOverrides": {
+      "bo4-ancient-evil": {
+        "title": "Oracle Tributes, rewards and the blue Eternal Flame",
+        "category": "side",
+        "difficulty": "Standard challenges",
+        "players": "Solo or co-op",
+        "summary": "Start challenges, build reward rarity and use the actual blue-flame cue while the published point counts remain disputed.",
+        "requirements": [
+          "Use the bowls in Apollo’s Temple or Cliff Side: Forge to pay points and begin a Tribute.",
+          "For the main quest, Eternal Flame and Exalted trials, use online Standard on Normal or higher with Custom Mutations off. Ordinary buildables and individual achievements have separate mode conditions; their full mode parity is not established.",
+          "Reward tiers and the historical point table are quoted below. They do not certify one flame formula for every player count."
+        ],
+        "reward": "Tribute items and, after enough successful rewards, the blue Eternal Flame used by the main quest and Exalted trials.",
+        "steps": [
+          {
+            "title": "Preparation & context",
+            "body": "Inside Apollo's Temple and the Cliff Side: Forge there are bowls that can be interacted with to give points and start a Tribute Challenge. Doing these challenges will build up a reward you can pick up, rewards can rank from Common to Epic rarity. By doing more and more challenges you can build your way up to an Epic Reward. List of possible Tribute Challenges:\nHold Position in a certain Location\nKill Zombies in a certain Location\nKill Zombies with Apollo's Will\nKill Zombies with Head Shots\nTake Damage and Recover Health\nKill Zombies with Special Weapons\nKill Zombies with God Hand Wonder Weapons\nDo not take Damage\nKill Zombies with Equipment\nList of Possible Tribute Awards:\nTier | Rewards\nCommon | Double Points, Self Revive, Insta-Kill, Bowie Knife\nRare | Fire Sale, Max Ammo, PAP'd Strife, PAP'd Escargot, RK 7 Garrison PAP'd\nLegendary | Max Ammo, Full Power, Bullet Boost, PAP'd Rampage, PAP'd Switchblade X9, PAP'd Grav\nEpic | Free Extra Perk, Self Revive, Pegasus Strike, PAP'd Swat RFT, PAP'd Daemon 3XB, PAP'd SDM",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "Possible objectives: hold a location; kill in a location; shield kills; headshots; take damage and recover; Specialist kills; Hand kills; take no damage; equipment kills. The reward table is a reported pool, not a guaranteed next item.",
+            "html": "<p>Inside Apollo&#x27;s Temple and the Cliff Side: Forge there are bowls that can be interacted with to give points and start a Tribute Challenge. Doing these challenges will build up a reward you can pick up, rewards can rank from Common to Epic rarity. By doing more and more challenges you can build your way up to an Epic Reward. List of possible Tribute Challenges:</p>\n<ul>\n<li>Hold Position in a certain Location</li>\n<li>Kill Zombies in a certain Location</li>\n<li>Kill Zombies with Apollo&#x27;s Will</li>\n<li>Kill Zombies with Head Shots</li>\n<li>Take Damage and Recover Health</li>\n<li>Kill Zombies with Special Weapons</li>\n<li>Kill Zombies with God Hand Wonder Weapons</li>\n<li>Do not take Damage</li>\n<li>Kill Zombies with Equipment</li>\n</ul>\n<p>List of Possible Tribute Awards:</p>\n<table>\n<thead>\n<tr>\n<th>Tier</th>\n<th>Rewards</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Common</td>\n<td>Double Points, Self Revive, Insta-Kill, Bowie Knife</td>\n</tr>\n<tr>\n<td>Rare</td>\n<td>Fire Sale, Max Ammo, PAP&#x27;d Strife, PAP&#x27;d Escargot, RK 7 Garrison PAP&#x27;d</td>\n</tr>\n<tr>\n<td>Legendary</td>\n<td>Max Ammo, Full Power, Bullet Boost, PAP&#x27;d Rampage, PAP&#x27;d Switchblade X9, PAP&#x27;d Grav</td>\n</tr>\n<tr>\n<td>Epic</td>\n<td>Free Extra Perk, Self Revive, Pegasus Strike, PAP&#x27;d Swat RFT, PAP&#x27;d Daemon 3XB, PAP&#x27;d SDM</td>\n</tr>\n</tbody>\n</table>"
+          },
+          {
+            "title": "Eternal Flame",
+            "body": "The Eternal Flame can be fully lit and turned blue at the reward redemption area in Apollo's Temple by obtaining 9 Tribute Points per player in your match:\nSolo - 9 Tribute Points\n2-Player - 18 Tribute Points\n3-Player - 27 Tribute Points\n4-Player - 36 Tribute Points\nDifferent Tiers of Rewards give different amounts of Tribute Points.\nTier | Rewards\nCommon | 0.5 Tribute Points\nRare | 1 Tribute Point\nLegendary | 4 Tribute Points\nEpic | 6 Tribute Points",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "Check the flame itself. The wiki says 9 tribute points per player and gives Common 0.5, Rare 1, Legendary 4, Epic 6, but its Hand chapters say two Epic rewards. u/Zemurii reports 12 Common rewards or one Epic plus four Common; u/Dark_matter-matters reports four trials with no reward above Legendary. These accounts do not establish one dependable solo/co-op formula.",
+            "html": "<p>The Eternal Flame can be fully lit and turned blue at the reward redemption area in Apollo&#x27;s Temple by obtaining 9 Tribute Points per player in your match:</p>\n<ul>\n<li>Solo - 9 Tribute Points</li>\n<li>2-Player - 18 Tribute Points</li>\n<li>3-Player - 27 Tribute Points</li>\n<li>4-Player - 36 Tribute Points</li>\n</ul>\n<p>Different Tiers of Rewards give different amounts of Tribute Points.</p>\n<table>\n<thead>\n<tr>\n<th>Tier</th>\n<th>Rewards</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Common</td>\n<td>0.5 Tribute Points</td>\n</tr>\n<tr>\n<td>Rare</td>\n<td>1 Tribute Point</td>\n</tr>\n<tr>\n<td>Legendary</td>\n<td>4 Tribute Points</td>\n</tr>\n<tr>\n<td>Epic</td>\n<td>6 Tribute Points</td>\n</tr>\n</tbody>\n</table>\n<hr>"
+          },
+          {
+            "title": "Ignite Apollo’s Will from the blue fire",
+            "body": "Equip Apollo’s Will and melee the blue Eternal Flame to ignite the spear tip. The main quest then uses it on three oil spills; the Exalted route throws it at the hissing pillar outside Apollo’s Temple.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "Two Epic rewards are not a dependable co-op guarantee. If the flame is not blue, continue Tributes rather than spend shield throws on an unlit spear."
+          },
+          {
+            "title": "Keep timed rewards and mode conditions separate",
+            "body": "A Worthy Tribute asks for a fully lit Eternal Flame by round 15. The source’s objective and prose differ between “by” and “before” round 15, so aim to finish earlier rather than rely on a boundary round. Ordinary Tribute rewards are not proof that Casual or Custom Mutations permit the flame quest.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "Mode replies report the main quest and many quest functions disabled on Casual, offline or with Custom Mutations; the source does not enumerate every side function."
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "r/CODZombies: Ancient Evil map reference",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/"
+          },
+          {
+            "title": "Original map-guide discussion: credited player tests and corrections",
+            "url": "https://www.reddit.com/r/CODZombies/comments/b8r9eu/ancient_evil_complete_map_guide/"
+          },
+          {
+            "title": "u/rCODZombiesBot: original Ancient Evil hunt and credited replies",
+            "url": "https://www.reddit.com/r/CODZombies/comments/b5rg9w/ancient_evil_easter_egg_hunt_general_map/"
+          },
+          {
+            "title": "Ancient Evil Custom Mutations report and mode replies",
+            "url": "https://www.reddit.com/r/CODZombies/comments/135fr65/black_ops_4/"
+          }
+        ],
+        "checked": "2026-10-24",
+        "sourceQuote": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+        "sharedSource": false
+      }
+    }
+  },
+  "ancient-evil-map-features-god-hand-wonder-weapons": {
+    "mapOverrides": {
+      "bo4-ancient-evil": {
+        "title": "Dormant Hands: the twenty Oracle hints",
+        "category": "weapon",
+        "difficulty": "Standard weapon setup",
+        "players": "Solo or co-op",
+        "summary": "Match the Oracle’s hint to a purple-glowing pickup, then choose one of the four Hand shrines.",
+        "requirements": [
+          "Listen for the Oracle’s Dormant Hand clue and search for the purple glow.",
+          "The four Hand cards give their separate Fallen, Redeemed and Exalted routes. Labours of Hercules is a separate mode."
+        ],
+        "reward": "A Dormant Hand for a Hand shrine.",
+        "steps": [
+          {
+            "title": "Instructions & locations",
+            "body": "Dormant Hands\nTo obtain a Dormant Hand you must melee any of the following locations which emit a purple glow. Oracle will often hint to the player where a Dormant Hand can be found. Glitch has created a video containing 20 Dormant Hand locations (in the original source) .\nHint | Location\nShieldbearer's Fountain | Vase in Stoa of the Athenians on a fountain (in the original source)\nShrine of Wind and Sky | Pile of Rocks to the left of the Ouranos shrine in the Center of the World (in the original source)\nGeneral's Column | Behind Pillar in Spartan Monument (in the original source)\nPurple Blossoms | Right of Auger DMR wallbuy (in the original source)\nFallen Statesman | Near Mystery Box location in Spartan Monument (in the original source)\nWhere the Arrow splits the Road | Near giant arrow in Intersection of Treasuries (in the original source)\nWhere sorrow flows beneath | Top of stairs at the River of Sorrow (in the original source)\nChaos of the Treasuries | Inside Chaos Crystal in the Intersection of Treasuries (in the original source)\nOn the broken bridge | Bridge between Cliff Side and Center of the World (in the original source)\nTop of the Center of the World | Near the fast travel portal in the Center of the World (in the original source)\nChaos of Venom | Near green fire for the Venom Trap in Python Pass (in the original source)\nWorkbench of Hephaestus | In the forge room on a table (in the original source)\nWheel of Water | Left of the fire in the forge room (in the original source)\nWhere the Serpent snared the eagle | Left of the cage in the Cliff Side (in the original source)\nSteps of Flesh and Bone | Near the Charon shrine (in the original source)\nWhere the mighty Titan points | To the left of the Titan wallbuy (in the original source)\nGolden Taurus | Near the Gaia shrine (in the original source)\nBeneath the watchful gaze of Zeus | Next to the Zeus Perk Statue (in the original source)\nBarque of Gold | Right of boat in the Stoa of Athenians (in the original source)\nWhere Sorrow washes over | Left of the Odin Perk Statue (in the original source)",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "The original source credits Glitch’s twenty-location film. Its media has not been inspected here; vague table landmarks remain visible instead of invented close-up directions.",
+            "html": "<p>Dormant Hands</p>\n<p>To obtain a Dormant Hand you must melee any of the following locations which emit a purple glow. Oracle will often hint to the player where a Dormant Hand can be found. <a href=\"https://www.reddit.com/r/CODZombies/wiki/ancient-evil/\" target=\"_blank\" rel=\"noopener noreferrer\">Glitch has created a video containing 20 Dormant Hand locations (in the original source)</a> .</p>\n<table>\n<thead>\n<tr>\n<th>Hint</th>\n<th>Location</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Shieldbearer&#x27;s Fountain</td>\n<td><a href=\"https://www.reddit.com/r/CODZombies/wiki/ancient-evil/\" target=\"_blank\" rel=\"noopener noreferrer\">Vase in Stoa of the Athenians on a fountain (in the original source)</a></td>\n</tr>\n<tr>\n<td>Shrine of Wind and Sky</td>\n<td><a href=\"https://www.reddit.com/r/CODZombies/wiki/ancient-evil/\" target=\"_blank\" rel=\"noopener noreferrer\">Pile of Rocks to the left of the Ouranos shrine in the Center of the World (in the original source)</a></td>\n</tr>\n<tr>\n<td>General&#x27;s Column</td>\n<td><a href=\"https://www.reddit.com/r/CODZombies/wiki/ancient-evil/\" target=\"_blank\" rel=\"noopener noreferrer\">Behind Pillar in Spartan Monument (in the original source)</a></td>\n</tr>\n<tr>\n<td>Purple Blossoms</td>\n<td><a href=\"https://www.reddit.com/r/CODZombies/wiki/ancient-evil/\" target=\"_blank\" rel=\"noopener noreferrer\">Right of Auger DMR wallbuy (in the original source)</a></td>\n</tr>\n<tr>\n<td>Fallen Statesman</td>\n<td><a href=\"https://www.reddit.com/r/CODZombies/wiki/ancient-evil/\" target=\"_blank\" rel=\"noopener noreferrer\">Near Mystery Box location in Spartan Monument (in the original source)</a></td>\n</tr>\n<tr>\n<td>Where the Arrow splits the Road</td>\n<td><a href=\"https://www.reddit.com/r/CODZombies/wiki/ancient-evil/\" target=\"_blank\" rel=\"noopener noreferrer\">Near giant arrow in Intersection of Treasuries (in the original source)</a></td>\n</tr>\n<tr>\n<td>Where sorrow flows beneath</td>\n<td><a href=\"https://www.reddit.com/r/CODZombies/wiki/ancient-evil/\" target=\"_blank\" rel=\"noopener noreferrer\">Top of stairs at the River of Sorrow (in the original source)</a></td>\n</tr>\n<tr>\n<td>Chaos of the Treasuries</td>\n<td><a href=\"https://www.reddit.com/r/CODZombies/wiki/ancient-evil/\" target=\"_blank\" rel=\"noopener noreferrer\">Inside Chaos Crystal in the Intersection of Treasuries (in the original source)</a></td>\n</tr>\n<tr>\n<td>On the broken bridge</td>\n<td><a href=\"https://www.reddit.com/r/CODZombies/wiki/ancient-evil/\" target=\"_blank\" rel=\"noopener noreferrer\">Bridge between Cliff Side and Center of the World (in the original source)</a></td>\n</tr>\n<tr>\n<td>Top of the Center of the World</td>\n<td><a href=\"https://www.reddit.com/r/CODZombies/wiki/ancient-evil/\" target=\"_blank\" rel=\"noopener noreferrer\">Near the fast travel portal in the Center of the World (in the original source)</a></td>\n</tr>\n<tr>\n<td>Chaos of Venom</td>\n<td><a href=\"https://www.reddit.com/r/CODZombies/wiki/ancient-evil/\" target=\"_blank\" rel=\"noopener noreferrer\">Near green fire for the Venom Trap in Python Pass (in the original source)</a></td>\n</tr>\n<tr>\n<td>Workbench of Hephaestus</td>\n<td><a href=\"https://www.reddit.com/r/CODZombies/wiki/ancient-evil/\" target=\"_blank\" rel=\"noopener noreferrer\">In the forge room on a table (in the original source)</a></td>\n</tr>\n<tr>\n<td>Wheel of Water</td>\n<td><a href=\"https://www.reddit.com/r/CODZombies/wiki/ancient-evil/\" target=\"_blank\" rel=\"noopener noreferrer\">Left of the fire in the forge room (in the original source)</a></td>\n</tr>\n<tr>\n<td>Where the Serpent snared the eagle</td>\n<td><a href=\"https://www.reddit.com/r/CODZombies/wiki/ancient-evil/\" target=\"_blank\" rel=\"noopener noreferrer\">Left of the cage in the Cliff Side (in the original source)</a></td>\n</tr>\n<tr>\n<td>Steps of Flesh and Bone</td>\n<td><a href=\"https://www.reddit.com/r/CODZombies/wiki/ancient-evil/\" target=\"_blank\" rel=\"noopener noreferrer\">Near the Charon shrine (in the original source)</a></td>\n</tr>\n<tr>\n<td>Where the mighty Titan points</td>\n<td><a href=\"https://www.reddit.com/r/CODZombies/wiki/ancient-evil/\" target=\"_blank\" rel=\"noopener noreferrer\">To the left of the Titan wallbuy (in the original source)</a></td>\n</tr>\n<tr>\n<td>Golden Taurus</td>\n<td><a href=\"https://www.reddit.com/r/CODZombies/wiki/ancient-evil/\" target=\"_blank\" rel=\"noopener noreferrer\">Near the Gaia shrine (in the original source)</a></td>\n</tr>\n<tr>\n<td>Beneath the watchful gaze of Zeus</td>\n<td><a href=\"https://www.reddit.com/r/CODZombies/wiki/ancient-evil/\" target=\"_blank\" rel=\"noopener noreferrer\">Next to the Zeus Perk Statue (in the original source)</a></td>\n</tr>\n<tr>\n<td>Barque of Gold</td>\n<td><a href=\"https://www.reddit.com/r/CODZombies/wiki/ancient-evil/\" target=\"_blank\" rel=\"noopener noreferrer\">Right of boat in the Stoa of Athenians (in the original source)</a></td>\n</tr>\n<tr>\n<td>Where Sorrow washes over</td>\n<td><a href=\"https://www.reddit.com/r/CODZombies/wiki/ancient-evil/\" target=\"_blank\" rel=\"noopener noreferrer\">Left of the Odin Perk Statue (in the original source)</a></td>\n</tr>\n</tbody>\n</table>"
+          },
+          {
+            "title": "Choose the shrine and color",
+            "body": "Place a Dormant Hand at Charon in Python Pass (red), Ouranos at the Center of the World (blue), Hemera at the Monument of Craterus (yellow), or Gaia at Spartan Monument (green). Interact with the chosen shrine and kill its color-glowing zombies inside the initiation circle to earn its Fallen Hand.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "The source does not state a universal initiation kill quota, all simultaneous ownership limits or replacement behavior after a lost Hand."
+          },
+          {
+            "title": "Understand the upgrade names",
+            "body": "Each Hand has a Fallen route, a Redeemed quest and an Exalted limited-ammo trial. The Four Old Gods achievement calls the final trials “Primordial God Trials”; the source links that objective to the four Exalted routes. It does not establish a fourth Hand tier called Primordial.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/"
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "r/CODZombies: Ancient Evil map reference",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/"
+          }
+        ],
+        "checked": "2026-10-24",
+        "sourceQuote": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+        "sharedSource": false
+      }
+    }
+  },
+  "ancient-evil-map-features-hand-of-charon": {
+    "mapOverrides": {
+      "bo4-ancient-evil": {
+        "title": "Hand of Charon: Fallen, Redeemed and Exalted",
+        "category": "weapon",
+        "difficulty": "Standard upgrade route",
+        "players": "Solo or co-op; minimum Hand prerequisite disputed",
+        "summary": "The Charon shrine, its Redeemed task and the Shadow’s Bank Exalted trial, with missing locators and source conflicts marked.",
+        "requirements": [
+          "For the main quest, Eternal Flame and Exalted trials, use online Standard on Normal or higher with Custom Mutations off. Ordinary buildables and individual achievements have separate mode conditions; their full mode parity is not established.",
+          "Collect a Dormant Hand and reach Python Pass. Open Pack-a-Punch for the Exalted portal.",
+          "Build Apollo’s Will, light the blue Eternal Flame, ignite the hissing pillar and fill all four colored shrine circles for the Exalted stage.",
+          "Older checklist titles are preserved for saved progress. Read their corrected bodies and field notes before acting."
+        ],
+        "reward": "Fallen, Redeemed and Exalted versions of the Hand of Charon.",
+        "steps": [
+          {
+            "title": "Preparation & context",
+            "body": "This card covers the Fallen, Redeemed and Exalted Hand of Charon. First collect a Dormant Hand using the related twenty-hint checklist, then use the red shrine in Python Pass. The shared hint table remains in that setup card instead of being repeated inside each Hand route.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "For the main quest, Eternal Flame and Exalted trials, use online Standard on Normal or higher with Custom Mutations off. Ordinary buildables and individual achievements have separate mode conditions; their full mode parity is not established."
+          },
+          {
+            "title": "Obtain a Dormant Hand",
+            "body": "Listen for the Oracle’s clue, find the corresponding purple-glowing Dormant Hand location and melee it to collect the pickup. The related Dormant Hands card preserves all twenty written hint/location pairs.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/"
+          },
+          {
+            "title": "Navigate to Python Pass, place a Dormant Hand on the Charon shrine",
+            "body": "Take the Dormant Hand to the Charon shrine in Python Pass and place it on the shrine.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/"
+          },
+          {
+            "title": "Activate the shrine to begin the Initiation of Charon",
+            "body": "Interact with the shrine to begin the Initiation of Charon. While confined inside the red circle, kill the zombies that glow red. Finish the initiation before collecting the weapon.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "Exact required kills and failure/reset conditions are not stated in the written source."
+          },
+          {
+            "title": "Obtain the Fallen Hand of Charon",
+            "body": "Collect the Fallen Hand of Charon from the completed shrine. Use this Fallen weapon for the Redeemed task that follows.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/"
+          },
+          {
+            "title": "Travel to the Pack a Punch area",
+            "body": "Open the underworld route and Pack-a-Punch area before attempting the river task. The Pegasus and eagle guides provide that setup.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/"
+          },
+          {
+            "title": "Go to the Odin area",
+            "body": "Go to the Odin perk altar in River of Sorrow. Work in the river immediately beside that altar.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/"
+          },
+          {
+            "title": "Kill zombies with the Fallen Hand of Charon in the river right beside Odin",
+            "body": "Kill zombies with the Fallen Hand of Charon in the river beside Odin until the river becomes interactable.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "No fixed soul count is given; use the river interaction cue."
+          },
+          {
+            "title": "Once you kill enough zombies you are able to interact with the river and \"Drink\"…",
+            "body": "Interact with the river to drink once the preceding kills have enabled it. Then search the underworld for the visible coin pickups.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "The source does not give a duration, complete coin-candidate map or a reliable true/false visual key."
+          },
+          {
+            "title": "Run around and collect Obol coins hidden and deposit in shrine",
+            "body": "Interact with the hidden coin candidates until you have collected three real Charon’s Obols; false coins also appear. Return to Charon’s shrine and deposit the three real Obols. A portal opens for the Redeemed trial.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "The stored wiki distinguishes the three real Obols from false coins but its coin illustrations do not provide written landmark locations. This remains a substantive locator gap."
+          },
+          {
+            "title": "Complete Charon’s Redeemed portal trial",
+            "body": "Enter the portal at Charon’s shrine to prove yourself. The original author’s written route specifically uses Charon’s charged shot to clear the zombies in this trial; finish it to return with the Redeemed Hand.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/cstr60/super_quick_guide_to_camping_ancient_evil_text/",
+            "tip": "The written sources do not establish the trial’s exact wave count, timer or complete failure/retry rules."
+          },
+          {
+            "title": "Obtain all 4 Redeemed God Hands",
+            "body": "For a conservative four-Hand run, obtain all four Redeemed Hands before beginning the Exalted setup. A shorter single-Hand route is also reported: keep your Redeemed Hand of Charon, light the pillar and charge all four shrine soul circles. The written prerequisite conflict is described below.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/b8r9eu/ancient_evil_complete_map_guide/",
+            "tip": "The old chapter title is retained for saved checklist progress. The wiki lists all four Redeemed Hands as a prerequisite, but u/DarkLeviathan8 reports personally completing a single-Hand route without the others, and u/RayPoopertonIII confirms it in his written route. For all four Exalted rewards you still complete all four individual trials. The minimal prerequisite is disputed; the main quest separately uses all four Hands."
+          },
+          {
+            "title": "Obtain at least 2 Epic rewards from Oracle's Tributes, causing the flame in the…",
+            "body": "Complete Tribute rewards until the Eternal Flame in Apollo’s Temple is visibly blue. Melee it with Apollo’s Will to ignite the spear tip. The historical “two Epic rewards” chapter title is retained for checklist progress; it is not a universal quota.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "Check the flame itself. The wiki says 9 tribute points per player and gives Common 0.5, Rare 1, Legendary 4, Epic 6, but its Hand chapters say two Epic rewards. u/Zemurii reports 12 Common rewards or one Epic plus four Common; u/Dark_matter-matters reports four trials with no reward above Legendary. These accounts do not establish one dependable solo/co-op formula."
+          },
+          {
+            "title": "Locate the pillar outside of the Temple of Apollo near the which emits a faint…",
+            "body": "Outside Apollo’s Temple, locate the pillar that gives a faint gas-leak hiss. Throw the lit Apollo’s Will spear above the pillar to ignite its fire bowl. This enables the shrine-soul stage.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "The old source’s landmark sentence is incomplete. The hissing pillar and visible flame are supported cues; a precise pillar face and throw angle still need a locator image."
+          },
+          {
+            "title": "Kill a Poison Catalyst zombie in the glowing red circle at the Charon Shrine in…",
+            "body": "Kill a Poison Catalyst inside the glowing red circle at the Charon shrine in Python Pass. Then kill normal zombies inside that circle until the shrine stops accepting souls.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "Match the Catalyst to the shrine. The written source does not give a fixed normal-zombie quota."
+          },
+          {
+            "title": "A red symbol will activate at the top of the Pack-a-Punch machine in the Center…",
+            "body": "Check for the red symbol above Pack-a-Punch at the Center of the World. Charge the other three shrine circles too: Poison/red at Charon; Water/blue at Ouranos; Electric/yellow at Hemera; Fire/green at Gaia. Once all four symbols are lit, interact with Pack-a-Punch while using the Redeemed Hand of Charon to accept its Shadow’s Bank challenge.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "The original author’s single-Hand route still charges all four shrines. A 2019 player reported late-main-quest lockouts; consider doing these optional trials before the Amphitheater Hand play, but that historical warning is not certified as a current rule."
+          },
+          {
+            "title": "Charon's Challenge requires the player to defeat Blightfathers with limited ammo",
+            "body": "In Shadow’s Bank, defeat Blightfathers using the limited ammunition provided. Complete the challenge to earn the Exalted Hand of Charon. The Four Old Gods achievement requires all four Exalted trials, not just this one.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "Exact ammunition, wave counts, failure penalties and retry conditions remain unspecified. Treat ammunition as limited rather than assume the infinite-ammo Redeemed rules."
+          },
+          {
+            "title": "Optional extra-ammo Pack-a-Punch report",
+            "body": "After the shrine setup and all four limited-ammo challenges, u/RayPoopertonIII’s written route says the Hand of Charon can optionally be Pack-a-Punched for extra ammo. It does not establish a new fourth weapon tier.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/cstr60/super_quick_guide_to_camping_ancient_evil_text/",
+            "tip": "The exact purchase price, numerical ammo increase, whether fewer completed trials suffice and current-build behavior remain unverified."
+          }
+        ],
+        "sourceOmissions": [
+          "These written sources do not establish every part surface, timer, ammo quota, co-op credit rule or current game-build behavior. Exact unresolved inputs are listed at their steps.",
+          "Check the flame itself. The wiki says 9 tribute points per player and gives Common 0.5, Rare 1, Legendary 4, Epic 6, but its Hand chapters say two Epic rewards. u/Zemurii reports 12 Common rewards or one Epic plus four Common; u/Dark_matter-matters reports four trials with no reward above Legendary. These accounts do not establish one dependable solo/co-op formula.",
+          "The old chapter title is retained for saved checklist progress. The wiki lists all four Redeemed Hands as a prerequisite, but u/DarkLeviathan8 reports personally completing a single-Hand route without the others, and u/RayPoopertonIII confirms it in his written route. For all four Exalted rewards you still complete all four individual trials. The minimal prerequisite is disputed; the main quest separately uses all four Hands."
+        ],
+        "sources": [
+          {
+            "title": "r/CODZombies: Ancient Evil map reference",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/"
+          },
+          {
+            "title": "u/RayPoopertonIII: written single-Hand Exalted route",
+            "url": "https://www.reddit.com/r/CODZombies/comments/cstr60/super_quick_guide_to_camping_ancient_evil_text/"
+          },
+          {
+            "title": "Original map-guide discussion: credited player tests and corrections",
+            "url": "https://www.reddit.com/r/CODZombies/comments/b8r9eu/ancient_evil_complete_map_guide/"
+          },
+          {
+            "title": "Ancient Evil Custom Mutations report and mode replies",
+            "url": "https://www.reddit.com/r/CODZombies/comments/135fr65/black_ops_4/"
+          },
+          {
+            "title": "u/rCODZombiesBot: original Ancient Evil hunt and credited replies",
+            "url": "https://www.reddit.com/r/CODZombies/comments/b5rg9w/ancient_evil_easter_egg_hunt_general_map/"
+          }
+        ],
+        "checked": "2026-10-24",
+        "sourceQuote": null,
+        "sharedSource": false
+      }
+    }
+  },
+  "ancient-evil-map-features-hand-of-ouranos": {
+    "mapOverrides": {
+      "bo4-ancient-evil": {
+        "title": "Hand of Ouranos: Fallen, Redeemed and Exalted",
+        "category": "weapon",
+        "difficulty": "Standard upgrade route",
+        "players": "Solo or co-op; minimum Hand prerequisite disputed",
+        "summary": "The Ouranos shrine, its Redeemed task and the Wind’s Crest Exalted trial, with missing locators and source conflicts marked.",
+        "requirements": [
+          "For the main quest, Eternal Flame and Exalted trials, use online Standard on Normal or higher with Custom Mutations off. Ordinary buildables and individual achievements have separate mode conditions; their full mode parity is not established.",
+          "Collect a Dormant Hand and reach Center of the World. Open Pack-a-Punch for the Exalted portal.",
+          "Build Apollo’s Will, light the blue Eternal Flame, ignite the hissing pillar and fill all four colored shrine circles for the Exalted stage.",
+          "Older checklist titles are preserved for saved progress. Read their corrected bodies and field notes before acting."
+        ],
+        "reward": "Fallen, Redeemed and Exalted versions of the Hand of Ouranos.",
+        "steps": [
+          {
+            "title": "Preparation & context",
+            "body": "This card covers the Fallen, Redeemed and Exalted Hand of Ouranos. First collect a Dormant Hand using the related twenty-hint checklist, then use the blue shrine in Center of the World. The shared hint table remains in that setup card instead of being repeated inside each Hand route.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "For the main quest, Eternal Flame and Exalted trials, use online Standard on Normal or higher with Custom Mutations off. Ordinary buildables and individual achievements have separate mode conditions; their full mode parity is not established."
+          },
+          {
+            "title": "Obtain a Dormant Hand",
+            "body": "Listen for the Oracle’s clue, find the corresponding purple-glowing Dormant Hand location and melee it to collect the pickup. The related Dormant Hands card preserves all twenty written hint/location pairs.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/"
+          },
+          {
+            "title": "Navigate to the Center of the World, place a Dormant Hand on the Ouranos shrine",
+            "body": "Take the Dormant Hand to the Ouranos shrine in Center of the World and place it on the shrine.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/"
+          },
+          {
+            "title": "Activate the shrine to begin the Initiation of Ouranos",
+            "body": "Interact with the shrine to begin the Initiation of Ouranos. While confined inside the blue circle, kill the zombies that glow blue. Finish the initiation before collecting the weapon.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "Exact required kills and failure/reset conditions are not stated in the written source."
+          },
+          {
+            "title": "Obtain the Fallen Hand of Ouranos",
+            "body": "Collect the Fallen Hand of Ouranos from the completed shrine. Use this Fallen weapon for the Redeemed task that follows.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/"
+          },
+          {
+            "title": "Locate 3 arrows, locations below",
+            "body": "Find the three arrow targets in Python Pass, Cliff Ruins and the Center of the World. Use the Fallen Hand of Ouranos to blast a zombie into an arrow; a feather rises. Shoot the airborne feather with the Hand to direct it toward the Ouranos shrine. Repeat for all three arrows.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/b5rg9w/ancient_evil_easter_egg_hunt_general_map/",
+            "tip": "u/TheFamas231’s report further describes targets near the box, left of Pack-a-Punch and in Python Pass, but it does not explicitly map every short landmark to an area. Do not invent the missing close-up surfaces. This paused frame illustrates the flying feather. The three exact arrow surfaces still need close-up references.",
+            "images": [
+              {
+                "src": "./assets/ancient-evil-ouranos-feather.webp",
+                "alt": "Ouranos feather",
+                "caption": "Center of the World: blue feather in flight.",
+                "credit": "BladeLMAO",
+                "source": "https://clips.twitch.tv/ChillyEnticingDogePeteZarollTie",
+                "width": 1200,
+                "height": 600
+              }
+            ]
+          },
+          {
+            "title": "A portal will open at the Ouranos shrine, enter the portal to prove yourself to…",
+            "body": "When all three feathers have reached the Ouranos shrine, enter the portal there. Survive its prove-yourself trial; completion returns you to the shrine with the Redeemed Hand of Ouranos.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/b5rg9w/ancient_evil_easter_egg_hunt_general_map/",
+            "tip": "Exact trial duration, quota and failure behavior are not established."
+          },
+          {
+            "title": "Obtain all 4 Redeemed God Hands",
+            "body": "For a conservative four-Hand run, obtain all four Redeemed Hands before beginning the Exalted setup. A shorter single-Hand route is also reported: keep your Redeemed Hand of Ouranos, light the pillar and charge all four shrine soul circles. The written prerequisite conflict is described below.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/b8r9eu/ancient_evil_complete_map_guide/",
+            "tip": "The old chapter title is retained for saved checklist progress. The wiki lists all four Redeemed Hands as a prerequisite, but u/DarkLeviathan8 reports personally completing a single-Hand route without the others, and u/RayPoopertonIII confirms it in his written route. For all four Exalted rewards you still complete all four individual trials. The minimal prerequisite is disputed; the main quest separately uses all four Hands."
+          },
+          {
+            "title": "Obtain at least 2 Epic rewards from Oracle's Tributes, causing the flame in the…",
+            "body": "Complete Tribute rewards until the Eternal Flame in Apollo’s Temple is visibly blue. Melee it with Apollo’s Will to ignite the spear tip. The historical “two Epic rewards” chapter title is retained for checklist progress; it is not a universal quota.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "Check the flame itself. The wiki says 9 tribute points per player and gives Common 0.5, Rare 1, Legendary 4, Epic 6, but its Hand chapters say two Epic rewards. u/Zemurii reports 12 Common rewards or one Epic plus four Common; u/Dark_matter-matters reports four trials with no reward above Legendary. These accounts do not establish one dependable solo/co-op formula."
+          },
+          {
+            "title": "Locate the pillar outside of the Temple of Apollo near the which emits a faint…",
+            "body": "Outside Apollo’s Temple, locate the pillar that gives a faint gas-leak hiss. Throw the lit Apollo’s Will spear above the pillar to ignite its fire bowl. This enables the shrine-soul stage.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "The old source’s landmark sentence is incomplete. The hissing pillar and visible flame are supported cues; a precise pillar face and throw angle still need a locator image."
+          },
+          {
+            "title": "Kill a Water Catalyst zombie in the glowing blue circle at the Ouranos Shrine in…",
+            "body": "Kill a Water Catalyst inside the glowing blue circle at the Ouranos shrine in Center of the World. Then kill normal zombies inside that circle until the shrine stops accepting souls.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "Match the Catalyst to the shrine. The written source does not give a fixed normal-zombie quota."
+          },
+          {
+            "title": "A blue symbol will activate at the top of the Pack-a-Punch machine in the Center…",
+            "body": "Check for the blue symbol above Pack-a-Punch at the Center of the World. Charge the other three shrine circles too: Poison/red at Charon; Water/blue at Ouranos; Electric/yellow at Hemera; Fire/green at Gaia. Once all four symbols are lit, interact with Pack-a-Punch while using the Redeemed Hand of Ouranos to accept its Wind’s Crest challenge.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "The original author’s single-Hand route still charges all four shrines. A 2019 player reported late-main-quest lockouts; consider doing these optional trials before the Amphitheater Hand play, but that historical warning is not certified as a current rule."
+          },
+          {
+            "title": "Ouranos' Challenge requires the player to defeat Skeletons with limited ammo",
+            "body": "In Wind’s Crest, defeat skeletons using the limited ammunition provided. Complete the challenge to earn the Exalted Hand of Ouranos. The Four Old Gods achievement requires all four Exalted trials, not just this one.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "Exact ammunition, wave counts, failure penalties and retry conditions remain unspecified. Treat ammunition as limited rather than assume the infinite-ammo Redeemed rules."
+          }
+        ],
+        "sourceOmissions": [
+          "These written sources do not establish every part surface, timer, ammo quota, co-op credit rule or current game-build behavior. Exact unresolved inputs are listed at their steps.",
+          "Check the flame itself. The wiki says 9 tribute points per player and gives Common 0.5, Rare 1, Legendary 4, Epic 6, but its Hand chapters say two Epic rewards. u/Zemurii reports 12 Common rewards or one Epic plus four Common; u/Dark_matter-matters reports four trials with no reward above Legendary. These accounts do not establish one dependable solo/co-op formula.",
+          "The old chapter title is retained for saved checklist progress. The wiki lists all four Redeemed Hands as a prerequisite, but u/DarkLeviathan8 reports personally completing a single-Hand route without the others, and u/RayPoopertonIII confirms it in his written route. For all four Exalted rewards you still complete all four individual trials. The minimal prerequisite is disputed; the main quest separately uses all four Hands."
+        ],
+        "sources": [
+          {
+            "title": "r/CODZombies: Ancient Evil map reference",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/"
+          },
+          {
+            "title": "u/rCODZombiesBot: original Ancient Evil hunt and credited replies",
+            "url": "https://www.reddit.com/r/CODZombies/comments/b5rg9w/ancient_evil_easter_egg_hunt_general_map/"
+          },
+          {
+            "title": "Original map-guide discussion: credited player tests and corrections",
+            "url": "https://www.reddit.com/r/CODZombies/comments/b8r9eu/ancient_evil_complete_map_guide/"
+          },
+          {
+            "title": "Ancient Evil Custom Mutations report and mode replies",
+            "url": "https://www.reddit.com/r/CODZombies/comments/135fr65/black_ops_4/"
+          },
+          {
+            "title": "u/RayPoopertonIII: written single-Hand Exalted route",
+            "url": "https://www.reddit.com/r/CODZombies/comments/cstr60/super_quick_guide_to_camping_ancient_evil_text/"
+          },
+          {
+            "title": "BladeLMAO footage",
+            "url": "https://clips.twitch.tv/ChillyEnticingDogePeteZarollTie"
+          }
+        ],
+        "checked": "2026-10-24",
+        "sourceQuote": null,
+        "sharedSource": false
+      }
+    }
+  },
+  "ancient-evil-map-features-hand-of-hemera": {
+    "mapOverrides": {
+      "bo4-ancient-evil": {
+        "title": "Hand of Hemera: Fallen, Redeemed and Exalted",
+        "category": "weapon",
+        "difficulty": "Standard upgrade route",
+        "players": "Solo or co-op; minimum Hand prerequisite disputed",
+        "summary": "The Hemera shrine, its Redeemed task and the Light’s Reflection Exalted trial, with missing locators and source conflicts marked.",
+        "requirements": [
+          "For the main quest, Eternal Flame and Exalted trials, use online Standard on Normal or higher with Custom Mutations off. Ordinary buildables and individual achievements have separate mode conditions; their full mode parity is not established.",
+          "Collect a Dormant Hand and reach Monument of Craterus. Open Pack-a-Punch for the Exalted portal.",
+          "Build Apollo’s Will, light the blue Eternal Flame, ignite the hissing pillar and fill all four colored shrine circles for the Exalted stage.",
+          "Older checklist titles are preserved for saved progress. Read their corrected bodies and field notes before acting."
+        ],
+        "reward": "Fallen, Redeemed and Exalted versions of the Hand of Hemera.",
+        "steps": [
+          {
+            "title": "Preparation & context",
+            "body": "This card covers the Fallen, Redeemed and Exalted Hand of Hemera. First collect a Dormant Hand using the related twenty-hint checklist, then use the yellow shrine in Monument of Craterus. The shared hint table remains in that setup card instead of being repeated inside each Hand route.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "For the main quest, Eternal Flame and Exalted trials, use online Standard on Normal or higher with Custom Mutations off. Ordinary buildables and individual achievements have separate mode conditions; their full mode parity is not established."
+          },
+          {
+            "title": "Obtain a Dormant Hand",
+            "body": "Listen for the Oracle’s clue, find the corresponding purple-glowing Dormant Hand location and melee it to collect the pickup. The related Dormant Hands card preserves all twenty written hint/location pairs.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/"
+          },
+          {
+            "title": "Navigate to the Monument of Craterus, place a Dormant Hand on the Hemera shrine",
+            "body": "Take the Dormant Hand to the Hemera shrine in Monument of Craterus and place it on the shrine.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/"
+          },
+          {
+            "title": "Activate the shrine to begin the Initiation of Hemera",
+            "body": "Interact with the shrine to begin the Initiation of Hemera. While confined inside the yellow circle, kill the zombies that glow yellow. Finish the initiation before collecting the weapon.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "Exact required kills and failure/reset conditions are not stated in the written source."
+          },
+          {
+            "title": "Obtain the Fallen Hand of Hemera",
+            "body": "Collect the Fallen Hand of Hemera from the completed shrine. Use this Fallen weapon for the Redeemed task that follows.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/"
+          },
+          {
+            "title": "Shoot 3 the mirrors around the map with a bullet based weapon to angle it…",
+            "body": "Find the mirrors in Gymnasium Bathhouse, Upper Road and Temple Terrace. Adjust a mirror with a bullet-firing gun, then shoot it with the Fallen Hand of Hemera. Its light ball must land in the nearby bowl. Repeat at each mirror.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "The original hunt labels the middle area Upper Bridge instead of Upper Road. No exact mirror angles, bullet counts or verified surface photos are supplied in the written evidence."
+          },
+          {
+            "title": "Melee the bowl with the light in it with the Fallen Hand of Hemera, you must then…",
+            "body": "With the Fallen Hand of Hemera equipped, melee a bowl containing a light ball. Run to the Monument of Craterus and melee Hemera’s shrine to transfer that ball. Do this for all three mirror bowls.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "If the carried light expires before the shrine melee, return and reacquire that ball. The source gives no exact countdown."
+          },
+          {
+            "title": "Once all 3 balls of light are on the Hemera shrine a portal will open, enter it…",
+            "body": "Once all three light balls are on Hemera’s shrine, enter its portal and complete the prove-yourself trial to obtain the Redeemed Hand of Hemera.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "No exact Redeemed-trial quota or reset condition is documented."
+          },
+          {
+            "title": "Obtain all 4 Redeemed God Hands",
+            "body": "For a conservative four-Hand run, obtain all four Redeemed Hands before beginning the Exalted setup. A shorter single-Hand route is also reported: keep your Redeemed Hand of Hemera, light the pillar and charge all four shrine soul circles. The written prerequisite conflict is described below.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/b8r9eu/ancient_evil_complete_map_guide/",
+            "tip": "The old chapter title is retained for saved checklist progress. The wiki lists all four Redeemed Hands as a prerequisite, but u/DarkLeviathan8 reports personally completing a single-Hand route without the others, and u/RayPoopertonIII confirms it in his written route. For all four Exalted rewards you still complete all four individual trials. The minimal prerequisite is disputed; the main quest separately uses all four Hands."
+          },
+          {
+            "title": "Obtain at least 2 Epic rewards from Oracle's Tributes, causing the flame in the…",
+            "body": "Complete Tribute rewards until the Eternal Flame in Apollo’s Temple is visibly blue. Melee it with Apollo’s Will to ignite the spear tip. The historical “two Epic rewards” chapter title is retained for checklist progress; it is not a universal quota.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "Check the flame itself. The wiki says 9 tribute points per player and gives Common 0.5, Rare 1, Legendary 4, Epic 6, but its Hand chapters say two Epic rewards. u/Zemurii reports 12 Common rewards or one Epic plus four Common; u/Dark_matter-matters reports four trials with no reward above Legendary. These accounts do not establish one dependable solo/co-op formula."
+          },
+          {
+            "title": "Locate the pillar outside of the Temple of Apollo near the which emits a faint…",
+            "body": "Outside Apollo’s Temple, locate the pillar that gives a faint gas-leak hiss. Throw the lit Apollo’s Will spear above the pillar to ignite its fire bowl. This enables the shrine-soul stage.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "The old source’s landmark sentence is incomplete. The hissing pillar and visible flame are supported cues; a precise pillar face and throw angle still need a locator image."
+          },
+          {
+            "title": "Kill an Electric Catalyst zombie in the glowing yellow circle at the Hemera…",
+            "body": "Kill an Electric Catalyst inside the glowing yellow circle at the Hemera shrine in Monument of Craterus. Then kill normal zombies inside that circle until the shrine stops accepting souls.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "Match the Catalyst to the shrine. The written source does not give a fixed normal-zombie quota."
+          },
+          {
+            "title": "A yellow symbol will activate at the top of the Pack-a-Punch machine in the…",
+            "body": "Check for the yellow symbol above Pack-a-Punch at the Center of the World. Charge the other three shrine circles too: Poison/red at Charon; Water/blue at Ouranos; Electric/yellow at Hemera; Fire/green at Gaia. Once all four symbols are lit, interact with Pack-a-Punch while using the Redeemed Hand of Hemera to accept its Light’s Reflection challenge.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "The original author’s single-Hand route still charges all four shrines. A 2019 player reported late-main-quest lockouts; consider doing these optional trials before the Amphitheater Hand play, but that historical warning is not certified as a current rule."
+          },
+          {
+            "title": "Hemera's Challenge requires the player to defeat Gegenees' with limited ammo",
+            "body": "In Light’s Reflection, defeat Gegenees using the limited ammunition provided. Complete the challenge to earn the Exalted Hand of Hemera. The Four Old Gods achievement requires all four Exalted trials, not just this one.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "Exact ammunition, wave counts, failure penalties and retry conditions remain unspecified. Treat ammunition as limited rather than assume the infinite-ammo Redeemed rules."
+          }
+        ],
+        "sourceOmissions": [
+          "These written sources do not establish every part surface, timer, ammo quota, co-op credit rule or current game-build behavior. Exact unresolved inputs are listed at their steps.",
+          "Check the flame itself. The wiki says 9 tribute points per player and gives Common 0.5, Rare 1, Legendary 4, Epic 6, but its Hand chapters say two Epic rewards. u/Zemurii reports 12 Common rewards or one Epic plus four Common; u/Dark_matter-matters reports four trials with no reward above Legendary. These accounts do not establish one dependable solo/co-op formula.",
+          "The old chapter title is retained for saved checklist progress. The wiki lists all four Redeemed Hands as a prerequisite, but u/DarkLeviathan8 reports personally completing a single-Hand route without the others, and u/RayPoopertonIII confirms it in his written route. For all four Exalted rewards you still complete all four individual trials. The minimal prerequisite is disputed; the main quest separately uses all four Hands."
+        ],
+        "sources": [
+          {
+            "title": "r/CODZombies: Ancient Evil map reference",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/"
+          },
+          {
+            "title": "Original map-guide discussion: credited player tests and corrections",
+            "url": "https://www.reddit.com/r/CODZombies/comments/b8r9eu/ancient_evil_complete_map_guide/"
+          },
+          {
+            "title": "Ancient Evil Custom Mutations report and mode replies",
+            "url": "https://www.reddit.com/r/CODZombies/comments/135fr65/black_ops_4/"
+          },
+          {
+            "title": "u/RayPoopertonIII: written single-Hand Exalted route",
+            "url": "https://www.reddit.com/r/CODZombies/comments/cstr60/super_quick_guide_to_camping_ancient_evil_text/"
+          },
+          {
+            "title": "u/rCODZombiesBot: original Ancient Evil hunt and credited replies",
+            "url": "https://www.reddit.com/r/CODZombies/comments/b5rg9w/ancient_evil_easter_egg_hunt_general_map/"
+          }
+        ],
+        "checked": "2026-10-24",
+        "sourceQuote": null,
+        "sharedSource": false
+      }
+    }
+  },
+  "ancient-evil-map-features-hand-of-gaia": {
+    "mapOverrides": {
+      "bo4-ancient-evil": {
+        "title": "Hand of Gaia: Fallen, Redeemed and Exalted",
+        "category": "weapon",
+        "difficulty": "Standard upgrade route",
+        "players": "Solo or co-op; minimum Hand prerequisite disputed",
+        "summary": "The Gaia shrine, its Redeemed task and the Earth’s Rest Exalted trial, with missing locators and source conflicts marked.",
+        "requirements": [
+          "For the main quest, Eternal Flame and Exalted trials, use online Standard on Normal or higher with Custom Mutations off. Ordinary buildables and individual achievements have separate mode conditions; their full mode parity is not established.",
+          "Collect a Dormant Hand and reach Spartan Monument. Open Pack-a-Punch for the Exalted portal.",
+          "Build Apollo’s Will, light the blue Eternal Flame, ignite the hissing pillar and fill all four colored shrine circles for the Exalted stage.",
+          "Older checklist titles are preserved for saved progress. Read their corrected bodies and field notes before acting."
+        ],
+        "reward": "Fallen, Redeemed and Exalted versions of the Hand of Gaia.",
+        "steps": [
+          {
+            "title": "Preparation & context",
+            "body": "This card covers the Fallen, Redeemed and Exalted Hand of Gaia. First collect a Dormant Hand using the related twenty-hint checklist, then use the green shrine in Spartan Monument. The shared hint table remains in that setup card instead of being repeated inside each Hand route.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "For the main quest, Eternal Flame and Exalted trials, use online Standard on Normal or higher with Custom Mutations off. Ordinary buildables and individual achievements have separate mode conditions; their full mode parity is not established."
+          },
+          {
+            "title": "Obtain a Dormant Hand",
+            "body": "Listen for the Oracle’s clue, find the corresponding purple-glowing Dormant Hand location and melee it to collect the pickup. The related Dormant Hands card preserves all twenty written hint/location pairs.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/"
+          },
+          {
+            "title": "Navigate to the Spartan Monument, place a Dormant Hand on the Gaia shrine",
+            "body": "Take the Dormant Hand to the Gaia shrine in Spartan Monument and place it on the shrine.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/"
+          },
+          {
+            "title": "Activate the shrine to begin the Initiation of Gaia",
+            "body": "Interact with the shrine to begin the Initiation of Gaia. While confined inside the green circle, kill the zombies that glow green. Finish the initiation before collecting the weapon.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "Exact required kills and failure/reset conditions are not stated in the written source."
+          },
+          {
+            "title": "Obtain the Fallen Hand of Gaia",
+            "body": "Collect the Fallen Hand of Gaia from the completed shrine. Use this Fallen weapon for the Redeemed task that follows.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/"
+          },
+          {
+            "title": "Locate and shoot 3 plants with red crystals, locations below",
+            "body": "Find the red-crystal plants in Temple Terrace, Stoa of the Athenians and Intersection of Treasuries. Shoot the crystals off each plant, collect the Seedling of Gaia and deposit it at Gaia’s shrine in Spartan Monument. Collect and deposit all three Seedlings.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "The stored prose does not specify a required shot cadence, exact three plant surfaces or a reliable failure timer. It is not a written proof of the often-described rapid-hit technique."
+          },
+          {
+            "title": "Once 3 Seedlings of Gaia have been placed at the Gaia shrine, a portal will open,…",
+            "body": "After the three Seedlings are deposited, enter the Gaia shrine’s portal. The original hunt says this Redeemed trial equips the Redeemed Hand with infinite ammo at Earth’s End. Survive until returned to the shrine.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/b5rg9w/ancient_evil_easter_egg_hunt_general_map/",
+            "tip": "Earth’s End is the Redeemed arena named by that post; Earth’s Rest below is the distinct Exalted challenge. No exact Redeemed wave quota is given."
+          },
+          {
+            "title": "Obtain all 4 Redeemed God Hands",
+            "body": "For a conservative four-Hand run, obtain all four Redeemed Hands before beginning the Exalted setup. A shorter single-Hand route is also reported: keep your Redeemed Hand of Gaia, light the pillar and charge all four shrine soul circles. The written prerequisite conflict is described below.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/b8r9eu/ancient_evil_complete_map_guide/",
+            "tip": "The old chapter title is retained for saved checklist progress. The wiki lists all four Redeemed Hands as a prerequisite, but u/DarkLeviathan8 reports personally completing a single-Hand route without the others, and u/RayPoopertonIII confirms it in his written route. For all four Exalted rewards you still complete all four individual trials. The minimal prerequisite is disputed; the main quest separately uses all four Hands."
+          },
+          {
+            "title": "Obtain at least 2 Epic rewards from Oracle's Tributes, causing the flame in the…",
+            "body": "Complete Tribute rewards until the Eternal Flame in Apollo’s Temple is visibly blue. Melee it with Apollo’s Will to ignite the spear tip. The historical “two Epic rewards” chapter title is retained for checklist progress; it is not a universal quota.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "Check the flame itself. The wiki says 9 tribute points per player and gives Common 0.5, Rare 1, Legendary 4, Epic 6, but its Hand chapters say two Epic rewards. u/Zemurii reports 12 Common rewards or one Epic plus four Common; u/Dark_matter-matters reports four trials with no reward above Legendary. These accounts do not establish one dependable solo/co-op formula."
+          },
+          {
+            "title": "Locate the pillar outside of the Temple of Apollo near the which emits a faint…",
+            "body": "Outside Apollo’s Temple, locate the pillar that gives a faint gas-leak hiss. Throw the lit Apollo’s Will spear above the pillar to ignite its fire bowl. This enables the shrine-soul stage.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "The old source’s landmark sentence is incomplete. The hissing pillar and visible flame are supported cues; a precise pillar face and throw angle still need a locator image."
+          },
+          {
+            "title": "Kill a Fire Catalyst zombie in the glowing green circle at the Gaia Shrine at the…",
+            "body": "Kill a Fire Catalyst inside the glowing green circle at the Gaia shrine in Spartan Monument. Then kill normal zombies inside that circle until the shrine stops accepting souls.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "Match the Catalyst to the shrine. The written source does not give a fixed normal-zombie quota."
+          },
+          {
+            "title": "A green symbol will activate at the top of the Pack-a-Punch machine in the Center…",
+            "body": "Check for the green symbol above Pack-a-Punch at the Center of the World. Charge the other three shrine circles too: Poison/red at Charon; Water/blue at Ouranos; Electric/yellow at Hemera; Fire/green at Gaia. Once all four symbols are lit, interact with Pack-a-Punch while using the Redeemed Hand of Gaia to accept its Earth’s Rest challenge.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "The original author’s single-Hand route still charges all four shrines. A 2019 player reported late-main-quest lockouts; consider doing these optional trials before the Amphitheater Hand play, but that historical warning is not certified as a current rule."
+          },
+          {
+            "title": "Gaia's Challenge requires the player to defeat Catalyst zombies with limited ammo",
+            "body": "In Earth’s Rest, defeat Catalyst zombies using the limited ammunition provided. Complete the challenge to earn the Exalted Hand of Gaia. The Four Old Gods achievement requires all four Exalted trials, not just this one.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "Exact ammunition, wave counts, failure penalties and retry conditions remain unspecified. Treat ammunition as limited rather than assume the infinite-ammo Redeemed rules."
+          }
+        ],
+        "sourceOmissions": [
+          "These written sources do not establish every part surface, timer, ammo quota, co-op credit rule or current game-build behavior. Exact unresolved inputs are listed at their steps.",
+          "Check the flame itself. The wiki says 9 tribute points per player and gives Common 0.5, Rare 1, Legendary 4, Epic 6, but its Hand chapters say two Epic rewards. u/Zemurii reports 12 Common rewards or one Epic plus four Common; u/Dark_matter-matters reports four trials with no reward above Legendary. These accounts do not establish one dependable solo/co-op formula.",
+          "The old chapter title is retained for saved checklist progress. The wiki lists all four Redeemed Hands as a prerequisite, but u/DarkLeviathan8 reports personally completing a single-Hand route without the others, and u/RayPoopertonIII confirms it in his written route. For all four Exalted rewards you still complete all four individual trials. The minimal prerequisite is disputed; the main quest separately uses all four Hands."
+        ],
+        "sources": [
+          {
+            "title": "r/CODZombies: Ancient Evil map reference",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/"
+          },
+          {
+            "title": "u/rCODZombiesBot: original Ancient Evil hunt and credited replies",
+            "url": "https://www.reddit.com/r/CODZombies/comments/b5rg9w/ancient_evil_easter_egg_hunt_general_map/"
+          },
+          {
+            "title": "Original map-guide discussion: credited player tests and corrections",
+            "url": "https://www.reddit.com/r/CODZombies/comments/b8r9eu/ancient_evil_complete_map_guide/"
+          },
+          {
+            "title": "Ancient Evil Custom Mutations report and mode replies",
+            "url": "https://www.reddit.com/r/CODZombies/comments/135fr65/black_ops_4/"
+          },
+          {
+            "title": "u/RayPoopertonIII: written single-Hand Exalted route",
+            "url": "https://www.reddit.com/r/CODZombies/comments/cstr60/super_quick_guide_to_camping_ancient_evil_text/"
+          }
+        ],
+        "checked": "2026-10-24",
+        "sourceQuote": null,
+        "sharedSource": false
+      }
+    }
+  },
+  "ancient-evil-map-features-apollo-s-will-shield": {
+    "mapOverrides": {
+      "bo4-ancient-evil": {
+        "title": "Apollo’s Will: build the shield and use its quest states",
+        "category": "weapon",
+        "difficulty": "Standard buildable",
+        "players": "Solo or co-op",
+        "summary": "Find the handle and spear, take the shield from a Gegenees and build at Marketplace.",
+        "requirements": [
+          "Open Upper Road, Stoa of the Athenians, Intersection of Treasuries and Marketplace.",
+          "A Gegenees supplies the shield component. Prepare to kill it."
+        ],
+        "reward": "Apollo’s Will, including its spear throw and the main quest’s blue/green fire states.",
+        "steps": [
+          {
+            "title": "Instructions & locations",
+            "body": "Collect three components: a handle near Upper Road; a spear from Stoa of the Athenians or Intersection of Treasuries; and the shield dropped by a killed Gegenees. Build Apollo’s Will at the table to the left of the Saug 9mm wallbuy in Marketplace.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "The old source has three handle photo candidates and three spear photo candidates, but no complete written close-up directions. Those six surfaces remain unresolved."
+          },
+          {
+            "title": "Search the three handle candidates near Upper Road",
+            "body": "Search the Upper Road area for the handle. The source enumerates Location 1, Location 2 and Location 3 only through photographs; it does not say which wall, column or ground surface each image shows.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "This is a real remaining locator gap, not a three-item collection requirement."
+          },
+          {
+            "title": "Search the spear candidates",
+            "body": "For the spear component, search the source’s one Stoa of the Athenians candidate and two Intersection of Treasuries candidates. Collect the component from its occupied spawn.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "Do not assume all three spear components are needed. The source presents alternative spawn locations."
+          },
+          {
+            "title": "Take the shield from a Gegenees",
+            "body": "Kill a Gegenees and collect the shield part it drops. The bridle pickup and dropped eagle cage are documented Gegenees spawns, so they can provide encounters while completing setup.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "A full drop-loss recovery rule and exact shielding behavior are not documented."
+          },
+          {
+            "title": "Build at the Marketplace table",
+            "body": "Return to the build table left of the Saug 9mm wallbuy in Marketplace, assemble Apollo’s Will and collect it. The enemy table recommends throwing its spears at a Gegenees’s head.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/"
+          },
+          {
+            "title": "Use blue and green fire only when their quest steps are ready",
+            "body": "After Tributes light the Eternal Flame blue, melee the flame with Apollo’s Will. Its lit spear ignites the main quest oil spills or the Exalted pillar. Later, take the blue-lit spear through Python Pass’s active Venom Trap until it turns green, then melee the quest ballista.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "Unfinished shield-upgrade rumors appear in the original discussion. No complete standalone shield upgrade is established; the quest fire states should not be marketed as one."
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "r/CODZombies: Ancient Evil map reference",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/"
+          },
+          {
+            "title": "Original map-guide discussion: credited player tests and corrections",
+            "url": "https://www.reddit.com/r/CODZombies/comments/b8r9eu/ancient_evil_complete_map_guide/"
+          }
+        ],
+        "checked": "2026-10-24",
+        "sourceQuote": null,
+        "sharedSource": false
+      }
+    }
+  },
+  "ancient-evil-map-features-pegasus-strike": {
+    "mapOverrides": {
+      "bo4-ancient-evil": {
+        "title": "Pegasus Strike: collect the three forge parts",
+        "category": "weapon",
+        "difficulty": "Standard buildable",
+        "players": "Solo or co-op",
+        "summary": "Collect an anvil, hammer and prongs on the Dark Side of Delphi, then assemble the Strike.",
+        "requirements": [
+          "Finish the Sentinel Artifact, obtain the Golden Bridle and ride Pegasus.",
+          "Search the three candidate spawns for each part; the written source gives areas but not all nine exact surfaces."
+        ],
+        "reward": "Pegasus Strike equipment; it also summons the main quest’s ballista at a specific later marker.",
+        "steps": [
+          {
+            "title": "Preparation & context",
+            "body": "The Pegasus Strike is built from an anvil, hammer and prongs. The wiki says it may appear in the Mystery Box after it has been obtained through this quest; it also lists the Strike among possible Epic Tribute rewards.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "A Tribute reward listing does not establish that every box/equipment unlock rule is identical after a reward-only acquisition."
+          },
+          {
+            "title": "Activate Pegasus",
+            "body": "Activate Pegasus through the Amphitheater ritual, collect the Golden Bridle, then ride from Spartan Monument to River of Sorrow.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/"
+          },
+          {
+            "title": "Obtain the Anvil part from the Cliff Ruins",
+            "body": "Search Cliff Ruins for the anvil. The source supplies three photograph candidates, all labeled Cliff Ruins.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "No written anvil surface descriptions are supplied; collecting three anvils is not required."
+          },
+          {
+            "title": "Obtain the Hammer part from Python Pass",
+            "body": "Search Python Pass for the hammer. The source supplies three photograph candidates in that area.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "A launch-era player describes a hammer near the right eagle cage, but its exact relation to all three current candidates is not established."
+          },
+          {
+            "title": "Obtain the Prongs part from River of Sorrow",
+            "body": "Search River of Sorrow for the prongs. The source lists three photograph candidates there.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "A launch-era player describes metal tongs in a window along the left route after the Pegasus landing. This is a partial landmark, not a verified nine-spawn written census."
+          },
+          {
+            "title": "Navigate to the forge room in the Cliff Ruins, build the Pegasus Strike at the…",
+            "body": "Take the three collected components to the forge room in Cliff Ruins and build Pegasus Strike at its forge station. Collect the finished equipment.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "The current wiki calls the build area Cliff Ruins. A launch-era reply calls it River of Sorrows; keep the forge-room/table landmark while its naming discrepancy remains visible."
+          },
+          {
+            "title": "Save equipment for the Ra defense or later ballista marker",
+            "body": "The original defense advice places a Pegasus Strike outside near the crystal that held the ankh, while the nearby pool trap is active. Later in the main quest, place the Strike specifically on the blue symbol at the top of the River of Sorrow stairs to summon the ballista.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/131zlqo/tips_for_ancient_evil_ee/",
+            "tip": "The Ra use is optional combat advice. A normal Strike placed elsewhere is not proof that the ballista step is complete."
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "r/CODZombies: Ancient Evil map reference",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/"
+          },
+          {
+            "title": "u/LiquidDiviniumModz: Ra defense positioning",
+            "url": "https://www.reddit.com/r/CODZombies/comments/131zlqo/tips_for_ancient_evil_ee/"
+          },
+          {
+            "title": "u/rCODZombiesBot: original Ancient Evil hunt and credited replies",
+            "url": "https://www.reddit.com/r/CODZombies/comments/b5rg9w/ancient_evil_easter_egg_hunt_general_map/"
+          }
+        ],
+        "checked": "2026-10-24",
+        "sourceQuote": null,
+        "sharedSource": false
+      }
+    }
+  },
+  "ancient-evil-easter-eggs-quests-main-quest": {
+    "mapOverrides": {
+      "bo4-ancient-evil": {
+        "title": "Ancient Evil main quest: Delphi to Pegasus and Perseus",
+        "category": "main",
+        "difficulty": "Online Standard, Normal or higher",
+        "players": "Solo or co-op",
+        "summary": "The oil, statues, gears, Ra beam, sundial, Hand play and boss route, with unresolved symbol and close-up inputs shown.",
+        "requirements": [
+          "For the main quest, Eternal Flame and Exalted trials, use online Standard on Normal or higher with Custom Mutations off. Ordinary buildables and individual achievements have separate mode conditions; their full mode parity is not established.",
+          "Open Pack-a-Punch; build Apollo’s Will and Pegasus Strike; obtain the four Redeemed Hands for the separate main-quest uses.",
+          "Use blue Eternal Flame as the Tribute completion cue; published reward-point totals conflict.",
+          "Solo Normal Scarlett is documented. Bruno or Shaw changes the door cutscene; a missing character is not a blanket four-player requirement.",
+          "The exact door symbol order and several close-up part/puzzle surfaces still require a verified visual key."
+        ],
+        "reward": "Main quest ending and Greek Tragedy achievement/trophy.",
+        "steps": [
+          {
+            "title": "Preparation & context",
+            "body": "Prepare your shield, upgraded Hands, Pegasus Strike, ammunition and survival perks before the quest’s longer fights. The wiki’s optional class is Chakrams of Vengeance; Timeslip, Stamin-Up, Dying Wish and Quick Revive; Strife; Wraith Fire. These are recommendations, not mandatory puzzle inputs.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "The sources are historical player accounts, not a current retail replay. Complete optional Exalted trials before the Amphitheater stage if you want to avoid the reported late-quest trial lockout."
+          },
+          {
+            "title": "Light the Eternal Flame in Apollo's Temple",
+            "body": "Complete Tribute challenges and redeem rewards until the fire in Apollo’s Temple is visibly blue. Equip Apollo’s Will and melee the blue Eternal Flame to light the spear tip.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "Check the flame itself. The wiki says 9 tribute points per player and gives Common 0.5, Rare 1, Legendary 4, Epic 6, but its Hand chapters say two Epic rewards. u/Zemurii reports 12 Common rewards or one Epic plus four Common; u/Dark_matter-matters reports four trials with no reward above Legendary. These accounts do not establish one dependable solo/co-op formula."
+          },
+          {
+            "title": "Locate 3 Oil Spills, set them ablaze with the Spear of Apollo's Will.",
+            "body": "Find the three oil spills in Upper Road, Intersection of Treasuries and Spartan Monument. With the blue-lit Apollo’s Will spear, melee each oil spill to set it ablaze.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "The three area names and lit-shield input are supported; exact oil-patch surfaces remain photo-only in the stored guide."
+          },
+          {
+            "title": "Obtain the Redeemed Hand of Charon and shoot a charged shot at the ground in…",
+            "body": "At Spartan Monument, fire a charged Redeemed Hand of Charon shot into the ground in front of the Zeus perk statue. Stand in the blood pool to see the statues with glowing eyes. Shoot those marked statues with single, uncharged Charon shots; destroy four correct statues.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "Use the blood-pool view rather than shoot every statue indiscriminately. Exact four statue viewpoints are not enumerated in the written source."
+          },
+          {
+            "title": "Using a weapon, locate and destroy 3 walls to reveal 3 rotating cog locations",
+            "body": "Shoot open three breakable walls to expose the first gear assemblies: two are in Intersection of Treasuries and one in Spartan Monument. Throw Apollo’s Will spears at the small cogs as they meet the large cogs so the mechanisms engage. The Stoa of the Athenians statues then rotate. Time a spear at the fourth gear in Stoa so the statues face inward toward the crystal.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "The target is a cog behind the crystal, not the crystal. Original players disagree about the best visible cog/side and fixed throw timing; read the separate gear note below rather than assume a universal 1.5-second rule."
+          },
+          {
+            "title": "Navigate to the Intersections of Treasuries, locate the ankh in the chaos crystal ",
+            "body": "In Intersection of Treasuries, have a Gegenees use its shield blast on the ankh trapped in the chaos crystal. Pick up the freed ankh and place it in Ra’s statue hand. Add the Redeemed Hand of Hemera to start Ra’s beam. Defend it from skeletons trying to block or deflect the beam; when the wall chamber opens, collect Ra’s Scepter and return it to the statue.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "You may first do Gaia’s Danu symbol stage below to spawn a Gegenees, use it to free the ankh, then kill it for the golden pole. That is an optional ordering improvement, not a missing second ankh."
+          },
+          {
+            "title": "Navigate to Offering of the Attalids, locate a symbol to the left of Statue of…",
+            "body": "At Offering of the Attalids, shoot the branch-covered symbol left of Danu’s statue with the Redeemed Hand of Gaia. Two more symbols appear near the top: hit both with one shot. A final group of three appears: hit all three in one shot. Kill the spawned Gegenees and collect its golden pole.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "You can use this Gegenees’s shield blast for the ankh before killing it. Exact symbol surfaces and sightlines remain unprovided as written close-ups."
+          },
+          {
+            "title": "Place the pole in sundial located in the Offering of the Attalids, causing a…",
+            "body": "Place the golden pole into the sundial at Offering of the Attalids; a yellow line appears. Kill an Electric Catalyst on the sundial to reveal its rotating rings. Interact when a blue symbol aligns under the lit slot. Repeat for the two inner rings, completing three aligned ring stops.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "A white flash signals failure. u/RealBlazeStorm says killing another Catalyst lets you retry; the source does not specify a complete timer/reset sequence."
+          },
+          {
+            "title": "All players must navigate to the building of the Amphitheater, locate the glowing…",
+            "body": "All players go to the Amphitheater building and stand on the floor circles matching their equipped Hand colors. During each play, move quickly to your glowing circle in the arena and kill the zombies matching your color. Use single or charged Hand attacks as their distance requires. Finish three rounds of five plays.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "Five failed plays in one attempt require progressing to the next zombie round and restarting this stage. Exact solo/co-op target allocation, per-play timers and damage-credit rules are not documented."
+          },
+          {
+            "title": "Locate the door to the right of the Spitefire wallbuy in the River of Sorrow",
+            "body": "At River of Sorrow, find the symbol door to the right of the Spitfire wallbuy. Shoot its symbols in the order shown by the intro cinematic. The source’s order key is visual and is still missing from this written candidate; do not guess a symbol sequence. After the door puzzle, Bruno or Shaw can trigger the cutscene; Solo Normal replies say Scarlett or Diego proceeds straight to the next step. Then place Pegasus Strike on the blue symbol at the top of the River of Sorrow stairs to summon a ballista below.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/g5sdgm/ancient_evil_easter_egg_help/",
+            "tip": "The old source misspells Spitfire as Spitefire. The absence of a door cutscene when playing Scarlett or Diego is not itself failure. The exact symbol order remains a substantive blocker."
+          },
+          {
+            "title": "Using the Redeemed Hand of Ouranos, fire the charged wind blast at the Ballista…",
+            "body": "Stand at the blue Pegasus Strike marker used to summon the ballista. Fire the Redeemed Hand of Ouranos’s charged wind blast at the ballista until it turns, loads and aims toward the Python.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "The source supplies neither a fixed number of wind shots nor an exact rotation timer."
+          },
+          {
+            "title": "Ignite the spear of Apollo's Will at the fire in Apollo's Temple, then run…",
+            "body": "Return to Apollo’s Temple and relight Apollo’s Will from the blue flame. Run through the active Venom Trap in Python Pass until the spear tip turns green. Go back to the ballista and melee it with that green-tipped spear. It fires and opens the boss portal at the Center of the World where the egg stood.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "Check the green tip before the ballista melee. This quest state is separate from ordinary trap damage and Exalted-shrine activation."
+          },
+          {
+            "title": "Pegasus & Perseus Boss Fight",
+            "body": "Enter the portal to Mount Olympus only after preparing for the boss. Shoot flying Pegasus until it lands, then damage the grounded boss with your Specialist Weapon. Repeat its damage windows. Once the Fountain and Forest arenas are overtaken by Chaos storms, move to Columns. Perseus absorbs Pegasus; shoot him when he lands at his lightning strike, then damage him while kneeling. On defeat he drops a key and the ending should follow shortly.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "The source recommends Spitfire with Wildfire Mod, Auger DMR and Hand of Charon, plus level-three Chakrams for high damage. These are optional choices. It also reports rapid Specialist recharge from Perseus’s flaming spears; damage and safe-position limits are unverified. No fixed phase count or extra key-collection input is established."
+          },
+          {
+            "title": "Gear target and timing: preserve the conflicting reports",
+            "body": "u/SuperCush says the fourth throw hits the cog inside the small building behind the crystal. u/LordeLucifer reports success aiming at the big cog from the left. u/teamblackzombies instead advises standing right of the crystal, aiming at the upper-left cog and leading the statue alignment. The written reports disagree; a verified close-up key is still needed.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/b8r9eu/ancient_evil_complete_map_guide/",
+            "tip": "This supports aiming behind the crystal, not a deterministic cog coordinate or fixed 1.5-second input. The first three breakable wall surfaces also remain photo-only."
+          },
+          {
+            "title": "Ra defense: watch both blocking lanes",
+            "body": "Optional advice from u/LiquidDiviniumModz: place Pegasus Strike outside near the ankh crystal and activate the pool trap; stand near the Mystery Box spawn between the two skeleton blocking approaches so you can watch both. Use your Specialist when needed. A Blightfather is reported during the defense; be ready to deal with it while keeping the beam clear.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/131zlqo/tips_for_ancient_evil_ee/",
+            "tip": "Hellion Salvo and refill elixirs are optional suggestions, not puzzle requirements. Conflicting exploit reports were saved as evidence but are not required by this route."
+          },
+          {
+            "title": "Pegasus phase: use the grounded Specialist window",
+            "body": "While Pegasus flies, shoot it to force a landing. During the grounded window, use your Specialist Weapon for boss damage. Repeat until the arena transition. Leave Fountain and Forest as the storms cover them and continue from Columns.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "Exact damage thresholds, number of landings, replenishment drops and all lethal-attack safe zones are not established by the written source."
+          },
+          {
+            "title": "Perseus phase: lightning landing, kneel and key",
+            "body": "After Perseus absorbs Pegasus, watch for his lightning strike and arrival at that spot. Shoot him to make him kneel, then use weapons or your Specialist during the vulnerable kneeling window. Repeat until he dies and drops the key; the source says the ending should follow shortly.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "The source gives no fixed kneeling duration, cycle count, extra key-collection input or full attack-avoidance matrix. This is a historical written route, not a current boss replay."
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "r/CODZombies: Ancient Evil map reference",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/"
+          },
+          {
+            "title": "Solo Normal door report: character and cutscene replies",
+            "url": "https://www.reddit.com/r/CODZombies/comments/g5sdgm/ancient_evil_easter_egg_help/"
+          },
+          {
+            "title": "Original map-guide discussion: credited player tests and corrections",
+            "url": "https://www.reddit.com/r/CODZombies/comments/b8r9eu/ancient_evil_complete_map_guide/"
+          },
+          {
+            "title": "u/LiquidDiviniumModz: Ra defense positioning",
+            "url": "https://www.reddit.com/r/CODZombies/comments/131zlqo/tips_for_ancient_evil_ee/"
+          },
+          {
+            "title": "u/rCODZombiesBot: original Ancient Evil hunt and credited replies",
+            "url": "https://www.reddit.com/r/CODZombies/comments/b5rg9w/ancient_evil_easter_egg_hunt_general_map/"
+          },
+          {
+            "title": "Ancient Evil Custom Mutations report and mode replies",
+            "url": "https://www.reddit.com/r/CODZombies/comments/135fr65/black_ops_4/"
+          }
+        ],
+        "checked": "2026-10-24",
+        "sourceQuote": null,
+        "sharedSource": false
+      }
+    }
+  },
+  "ancient-evil-easter-eggs-quests-stormbound-music-easter-egg": {
+    "mapOverrides": {
+      "bo4-ancient-evil": {
+        "title": "Stormbound: shoot the four glowing tokens",
+        "category": "music",
+        "difficulty": "Music secret",
+        "players": "Solo or co-op; sharing unverified",
+        "summary": "The four token areas for Stormbound, with both source descriptions where landmarks differ.",
+        "requirements": [
+          "Reach River of Sorrow, Marketplace, Spartan Monument and the Cliff Ruins forge.",
+          "Use a gun to shoot the glowing tokens. The written source does not establish a required order."
+        ],
+        "reward": "Stormbound by Kevin Sherwood and Clark S. Nova plays.",
+        "steps": [
+          {
+            "title": "Locate and shoot 4 glowing tokens in the following locations:",
+            "body": "Shoot four glowing tokens: River of Sorrow left of the Spitfire wallbuy; Marketplace left of the shield table; the side of a handrail in Spartan Monument; and the underside of a table in the Cliff Ruins forge. The original hunt instead describes the first two as left of a statue and right of a tipped desk.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "These differing short descriptions are retained as alternative landmarks, not silently treated as proven identical exact surfaces. Close-up token photos are still needed."
+          },
+          {
+            "title": "Once complete, Stormbound by Kevin Sherwood and Clark S",
+            "body": "After all four tokens are shot, Stormbound by Kevin Sherwood and Clark S. Nova begins playing.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/",
+            "tip": "The sources do not establish repeat activation, per-player participation requirements or full mode parity. No lyrics are reproduced."
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "r/CODZombies: Ancient Evil map reference",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/ancient-evil/"
+          },
+          {
+            "title": "u/rCODZombiesBot: original Ancient Evil hunt and credited replies",
+            "url": "https://www.reddit.com/r/CODZombies/comments/b5rg9w/ancient_evil_easter_egg_hunt_general_map/"
+          }
+        ],
+        "checked": "2026-10-24",
+        "sourceQuote": null,
+        "sharedSource": false
+      }
+    }
   }
 }
