@@ -7,7 +7,8 @@ import {
   parseRoute,
   externalUrl,
   expandCommunityGuides,
-} from "./core.js?v=20261016-editions";
+  pillarShots,
+} from "./core.js?v=20261023-pillars";
 
 const main = document.querySelector("main");
 const storageKey = "dead-drop-progress-v1";
@@ -70,6 +71,10 @@ function sourceLinks(sources) {
 
 function imageFor(map) {
   return media.maps[map.id] || media.games[map.game.id] || media.fallback;
+}
+
+function pillarSolver() {
+  return `<fieldset class="pillar-solver"><legend>Shots</legend><p>Rightward turns to front.</p><div class="pillar-inputs">${["A", "B", "C", "D"].map((block) => `<label>${block}<select data-pillar-block><option value="">—</option>${[0, 1, 2, 3].map((value) => `<option value="${value}">${value}</option>`).join("")}</select></label>`).join("")}</div><output aria-live="polite"></output></fieldset>`;
 }
 
 function guideImage(image) {
@@ -192,7 +197,7 @@ function reader(guide) {
         `<section id="step-${index + 1}" class="step ${completed.includes(step.title) ? "checked" : ""}"><div class="step-heading"><label class="step-check"><input type="checkbox" data-guide="${guide.id}" data-step="${e(step.title)}" ${completed.includes(step.title) ? "checked" : ""}><span class="step-index">${String(index + 1).padStart(2, "0")}</span><h2>${e(step.title)}</h2></label></div>${guide.sourceQuote && step.html ? `<blockquote class="community-quote" cite="${e(step.researchSource || guide.sourceQuote)}">${step.html}</blockquote>` : `<p class="step-body">${e(step.body)}</p>`}${step.researchSource || (!step.original && guide.sourceQuote) ? `<div class="sources-list">${sourceLinks([{title: "Step reference", url: step.researchSource || guide.sourceQuote}])}</div>` : ""}${step.tip ? `<div class="step-tip"><strong>Field note</strong>${e(step.tip)}</div>` : ""}${[...images.filter((image) => image.step === index + 1), ...(step.images || [])]
           .filter((image) => image.src)
           .map(guideImage)
-          .join("")}</section>`,
+          .join("")}${step.pillarSolver ? pillarSolver() : ""}</section>`,
     )
     .join(
       "",
@@ -398,6 +403,13 @@ main.addEventListener("input", (event) => {
 });
 
 main.addEventListener("change", (event) => {
+  if (event.target.matches("[data-pillar-block]")) {
+    const solver = event.target.closest(".pillar-solver");
+    const values = [...solver.querySelectorAll("select")].map((input) => input.value);
+    solver.querySelector("output").textContent = values.every((value) => value !== "")
+      ? pillarShots(values.map(Number)).map((shots, index) => `${"ABCD"[index]}: ${shots}`).join(" · ")
+      : "";
+  }
   if (event.target.id === "availability") {
     state.availability = event.target.value;
     state.limit = 12;

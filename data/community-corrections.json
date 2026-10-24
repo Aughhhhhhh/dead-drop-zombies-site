@@ -65346,5 +65346,1547 @@
         ]
       }
     }
+  },
+  "the-frozen-dawn-map-features-power": {
+    "title": "Power and opening routes",
+    "category": "side",
+    "difficulty": "Setup / reference",
+    "players": "Solo / co-op",
+    "summary": "The city’s utilities are already powered; unlock their routes and quest access separately.",
+    "requirements": [
+      "Call of Duty: WWII — The Frozen Dawn.",
+      "Jolts for the actual door and machine prompts."
+    ],
+    "reward": "Access to powered utilities without a global power-switch quest.",
+    "steps": [
+      {
+        "title": "Use the map’s automatic power",
+        "body": "The Frozen Dawn has no global power switch. Machines are powered automatically, so do not search for a Final Reich-style power sequence before using a reachable utility.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      },
+      {
+        "title": "Separate powered machines from locked access",
+        "body": "Open the routes offered by the actual door prompts. Pack-a-Punch still has its own Passage-stone and three-transport unlock, and each Raven weapon has a separate acquisition route. Automatic power does not finish those quests.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "The exact initial lost-city entrance interaction, door prices and a complete route map are not specified by the written source."
+      }
+    ],
+    "sourceOmissions": [
+      "Initial entrance inputs, door prices, complete route bearings and current machine prompts need direct verification."
+    ],
+    "sources": [
+      {
+        "title": "Primary map guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      }
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": null,
+    "sharedSource": false,
+    "supplementNote": "Practical instructions from the linked primary written sections. Missing physical keys and uncertain counts are identified below; no retail or image verification is claimed."
+  },
+  "the-frozen-dawn-map-features-traps": {
+    "title": "Passage spike trap",
+    "category": "side",
+    "difficulty": "Setup / reference",
+    "players": "Solo / co-op",
+    "summary": "Locate the listed trap and check its Jolts prompt before activating it.",
+    "requirements": [
+      "Call of Duty: WWII — The Frozen Dawn.",
+      "Passage access and the displayed activation cost."
+    ],
+    "reward": "A temporary spike trap that kills weaker zombies in its path.",
+    "steps": [
+      {
+        "title": "Find the Passage trap",
+        "body": "Go to the Passage and locate the spike trap’s control. The primary map guide lists this as the map’s one trap, with a historical cost of 1,000 Jolts.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      },
+      {
+        "title": "Activate when the path is useful",
+        "body": "Read the actual control prompt, pay if wanted and let the spikes hit zombies crossing the trap. Keep a clear escape route while it operates; do not assume it instantly kills every special enemy or every current high-round target.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "Current duration, cooldown, special-enemy damage, friendly contact and a complete current trap census remain untested."
+      }
+    ],
+    "sourceOmissions": [
+      "Exact control photo, cooldown, duration and current damage/eligibility are unverified."
+    ],
+    "sources": [
+      {
+        "title": "Primary map guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      }
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": null,
+    "sharedSource": false,
+    "supplementNote": "Practical instructions from the linked primary written sections. Missing physical keys and uncertain counts are identified below; no retail or image verification is claimed."
+  },
+  "the-frozen-dawn-map-features-armor": {
+    "title": "Armor: three listed stations",
+    "category": "side",
+    "difficulty": "Setup / reference",
+    "players": "Solo / co-op",
+    "summary": "Buy protection at Ice Caves, Overlook or Morgue and watch the remaining armor.",
+    "requirements": [
+      "Call of Duty: WWII — The Frozen Dawn.",
+      "Access to an armor station and its displayed Jolts cost."
+    ],
+    "reward": "Purchased armor protection until its remaining charges are depleted.",
+    "steps": [
+      {
+        "title": "Check the three station areas",
+        "body": "Find an armor station in the Ice Caves, on the Overlook or in the Morgue. Read the actual station prompt and your armor state before purchasing.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      },
+      {
+        "title": "Buy armor and monitor its meter",
+        "body": "The written starting price is 500 Jolts, with later rebuys becoming more expensive. The guide describes armor as preventing a down three times before depletion. Watch the actual armor meter; this is protection from damage, separate from Lebenblitz’s solo revival effect.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "The source’s wording is not a measured hit-by-hit damage model, nor a promise of three ordinary revives."
+      },
+      {
+        "title": "Return when protection is depleted",
+        "body": "When the meter is empty, return to a reachable armor station and check the new price before paying. Refill before a weapon trial or boss attempt when the actual prompt allows it.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "Exact price escalation, armor damage thresholds and trial/respawn interactions have not been tested."
+      }
+    ],
+    "sourceOmissions": [
+      "Current armor thresholds, price ladder, station close-ups and all trial interactions remain unverified."
+    ],
+    "sources": [
+      {
+        "title": "Primary map guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      }
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": null,
+    "sharedSource": false,
+    "supplementNote": "Practical instructions from the linked primary written sections. Missing physical keys and uncertain counts are identified below; no retail or image verification is claimed."
+  },
+  "the-frozen-dawn-map-features-pack-a-punch-ubersprengen": {
+    "title": "Ancient Ubersprengen: three transports",
+    "category": "weapon",
+    "difficulty": "Setup / reference",
+    "players": "Solo / co-op",
+    "summary": "Activate the Passage stone, visit Lost in Blood through each transport and raise the machine.",
+    "requirements": [
+      "Call of Duty: WWII — The Frozen Dawn.",
+      "Passage access and access to all three ordinary Thulian Transports.",
+      "Jolts for the actual transport, upgrade or ammunition prompt."
+    ],
+    "reward": "Ancient Ubersprengen access and ordinary firearm upgrades.",
+    "steps": [
+      {
+        "title": "Activate the Passage wall stone",
+        "body": "In the Passage, face the wall in front of its Thulian Transport and locate the activation stone. Interact with the stone before taking the transport to the machine route.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "The exact stone close-up and required state/prompt are image-dependent and have not been viewed."
+      },
+      {
+        "title": "Take a transport into Lost in Blood",
+        "body": "Use an available ordinary Thulian Transport after the machine route is active. In the Lost in Blood room, complete the interaction that raises the Ubersprengen from the blood. Check the machine’s changed height/state before leaving.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "The source does not spell out the raise control, automatic timing or exact transport price."
+      },
+      {
+        "title": "Repeat from the other two transports",
+        "body": "Return to the map and use each of the other ordinary transports, completing the Lost in Blood machine stage once per transport. The written route requires three visits from three transports, rather than three repeats from one chamber.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "A complete three-entrance locator list and exact return timing are still missing. The later dark-room and boss transports are separate quest uses."
+      },
+      {
+        "title": "Upgrade and retrieve a compatible gun",
+        "body": "When the machine is fully raised, equip the gun you want to upgrade and read its prompt. The shared WWII machine guide gives 5,000 Jolts for an ordinary non-special firearm upgrade. Wait for the upgraded gun and take it before moving on.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/",
+        "tip": "The price source describes The Final Reich’s shared machine rules; confirm the actual Frozen Dawn prompt. Raven melee weapons use their trials instead.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+        ]
+      },
+      {
+        "title": "Distinguish packed ammunition from an additional upgrade",
+        "body": "The shared WWII reference gives 4,000 Jolts for ammunition for an already-upgraded gun at the machine. Read the actual transaction label and collect the result. Do not apply BO3 alternate-ammo rules to this WWII machine.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/",
+        "tip": "Current ammo purchases, weapon-specific special effects and eligibility are not a retail census.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+        ]
+      }
+    ],
+    "sourceOmissions": [
+      "Exact stone/raise inputs, all three transport entrances, prices and current per-weapon behavior require direct checks."
+    ],
+    "sources": [
+      {
+        "title": "Frozen Dawn machine route",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      },
+      {
+        "title": "Shared WWII machine prices",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+      }
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": null,
+    "sharedSource": false,
+    "supplementNote": "Practical instructions from the linked primary written sections. Missing physical keys and uncertain counts are identified below; no retail or image verification is claimed."
+  },
+  "the-frozen-dawn-map-features-resupply-crate": {
+    "title": "Co-op Resupply Crate at Crash Site",
+    "category": "side",
+    "difficulty": "Setup / reference",
+    "players": "Co-op",
+    "summary": "After bleeding out and returning to play, check the crate for the lost loadout.",
+    "requirements": [
+      "Call of Duty: WWII — The Frozen Dawn.",
+      "A co-op match, a bleed-out/respawn and access to Crash Site."
+    ],
+    "reward": "The lost weapons/equipment offered by the Resupply Crate.",
+    "steps": [
+      {
+        "title": "Use the crate after returning from a bleed-out",
+        "body": "If you fully bleed out during co-op and later return to play, go to the Resupply Crate at Crash Site. A normal teammate revive before bleeding out is a different situation; inspect whether the crate actually offers a saved loadout.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      },
+      {
+        "title": "Read and buy the saved-loadout offer",
+        "body": "The primary guide lists a 500-Jolt price for recovering lost weapons and equipment. Read the actual offer, pay when appropriate and check the returned inventory.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "Exact crate bearing, availability window, Raven-weapon retention and partial-loadout edge cases are not established."
+      }
+    ],
+    "sourceOmissions": [
+      "Crate close-up, respawn timing, saved-item scope and all quest-weapon interactions remain unverified."
+    ],
+    "sources": [
+      {
+        "title": "Primary map guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      }
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": null,
+    "sharedSource": false,
+    "supplementNote": "Practical instructions from the linked primary written sections. Missing physical keys and uncertain counts are identified below; no retail or image verification is claimed."
+  },
+  "the-frozen-dawn-map-features-thulian-scythe": {
+    "title": "Thulian Scythe → Fang of An’heist",
+    "category": "weapon",
+    "difficulty": "Setup / reference",
+    "players": "Solo / co-op",
+    "summary": "Survive the forge, temper the weapon with a spine and wire, then complete Deathraven’s trial.",
+    "requirements": [
+      "Call of Duty: WWII — The Frozen Dawn.",
+      "Phylactery and Crash Site access.",
+      "A Corpse Eater for the spine and a working Thulian Transport."
+    ],
+    "reward": "Thulian Scythe and its Fang of An’heist upgrade.",
+    "steps": [
+      {
+        "title": "Start the Ancient Forge lockdown",
+        "body": "In the Phylactery, interact with the Ancient Forge activation point. The area locks for a survival event; stay alive until it releases and collect the Thulian Scythe at the forge.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "The written durations are about 26 seconds solo and 35 seconds in co-op. Exact current timings and the activation close-up are untested."
+      },
+      {
+        "title": "Extract a Corpse Eater spine",
+        "body": "With the Scythe equipped, melee a Corpse Eater while holding the configured interact control to obtain its spine. Inspect the pickup/quest response, then place the spine on the Phylactery altar.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "The source also calls the enemy a Corpse Feeder. Exact health threshold, final-hit requirement and pickup sharing need direct checks."
+      },
+      {
+        "title": "Bring the Crash Site wire",
+        "body": "Pick up the wire at Crash Site and return to the altar holding the spine. Place the wire on the spine, then place the Scythe onto that assembly.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "The source supplies the wire’s precise position only as an image; the broad Crash Site locator remains incomplete."
+      },
+      {
+        "title": "Ignite the forge with nearby kills",
+        "body": "Kill zombies close enough to the placed Scythe for the forge to collect them. The written target is 15 kills. Continue until the ignition notification appears rather than leaving on an unconfirmed count.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      },
+      {
+        "title": "Wait two full waves and retrieve the Scythe",
+        "body": "Progress two complete waves after ignition, then return to the altar and pick up the tempered Scythe. Use the actual quest response to check that it is ready.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "Partial-wave counting, co-op progress and current wait behavior remain untested."
+      },
+      {
+        "title": "Enter and finish the Deathraven Trial",
+        "body": "Use an ordinary Thulian Transport with the prepared Scythe. In the Deathraven Trial, acquire the trial weapon and kill the attacking zombies until the trial completes. Confirm the returned upgraded weapon is Fang of An’heist.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "Exact trial enemy composition, timeouts and health/armor restoration are not fully documented by the source."
+      },
+      {
+        "title": "Keep the cheat-death challenge separate",
+        "body": "The character-challenge table describes a cheat-death ability on the upgraded Scythe, used against the boss’s sun attack and later recharged before another lethal attack. That challenge is separate from merely acquiring the upgrade; its exact charge condition is unresolved here.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "No guaranteed instant boss kill, damage breakpoint or complete cheat-death recharge recipe is claimed."
+      }
+    ],
+    "sourceOmissions": [
+      "Wire/spine/altar photos, exact spine eligibility, trial internals, cheat-death charging and current timings remain incomplete."
+    ],
+    "sources": [
+      {
+        "title": "Primary map guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      }
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": null,
+    "sharedSource": false,
+    "supplementNote": "Practical instructions from the linked primary written sections. Missing physical keys and uncertain counts are identified below; no retail or image verification is claimed."
+  },
+  "the-frozen-dawn-map-features-thulian-hammer": {
+    "title": "Thulian Hammer → Fist of Tal’rek",
+    "category": "weapon",
+    "difficulty": "Setup / reference",
+    "players": "Solo / co-op",
+    "summary": "Charge the Overlook, chase the Hammer, relay its energy and solve the wall layouts.",
+    "requirements": [
+      "Call of Duty: WWII — The Frozen Dawn.",
+      "Crash Site, Overlook, Ice Caves, Morgue, Archives and Blood Altar access.",
+      "Read the pillar step’s A–D input instructions; each pillar uses its own observed state."
+    ],
+    "reward": "Thulian Hammer and its Fist of Tal’rek upgrade after the complete route.",
+    "steps": [
+      {
+        "title": "Move and charge the Crash Site battery",
+        "body": "Pick up the battery at Crash Site and carry it to the cauldron on the Overlook. Place it there, then kill zombies close to it until it glows purple.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "The exact battery/cauldron bearings and required soul count still need images or a direct check."
+      },
+      {
+        "title": "Stone: right of Schnellblitz",
+        "body": "Check to the right of Schnellblitz in the Thulian Archives and collect the stone there.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      },
+      {
+        "title": "Stone: Ice Caves pedestal",
+        "body": "Check in the Ice Caves to the right of a Raven-weapon pedestal and collect that stone.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      },
+      {
+        "title": "Stone: opposite Kugelblitz",
+        "body": "At the Blood Altar, check across from Kugelblitz, to the right of the large vase, for another stone.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      },
+      {
+        "title": "Stone: behind Morgue armor",
+        "body": "Check behind the Morgue armor machine and collect the fourth stone.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      },
+      {
+        "title": "Read the Overlook rune order",
+        "body": "Put the four stones into the slots directly across from the battery cauldron. When the blood flow stops, inspect the glowing runes behind the placed stones. Record their left-to-right order for your match.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      },
+      {
+        "title": "Feed the Overlook runes in that order",
+        "body": "Locate the corresponding runes around the Overlook. Kill a zombie at each rune in the order you recorded behind the stones. Confirm the Hammer appears and teleports away before moving to the pillar puzzle.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "Exact rune close-ups, collection radius and failed-order reset are not documented here."
+      },
+      {
+        "title": "Align the lightning pillars",
+        "body": "Find the four lightning pillars, each made of four blocks. Align the lightning-bolt images on all four pillars so they face the front. The original decoder author labels each pillar's blocks A, B, C and D from top to bottom and says they rotate to the right. For one pillar, count the remaining rightward quarter-turns each block needs to face front (0–3). Enter those counts below, then shoot each block the displayed number of times. An already aligned block has input 0, but it may still need shots because the blocks move together. Solve all four pillars separately.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/9bkftj/thulian_hammer_lightning_pillar_puzzle_decoder/",
+        "tip": "The calculation matches the original decoder sheet. Exact pillar landmarks and current game behavior remain unverified. Count turns still needed to reach the front, rather than entering a compass direction.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+          "https://docs.google.com/spreadsheets/d/1rXE9pHxN5y9GA6D-0UAbZbWrboDBRN-pd2sLuZnFzoA/edit?usp=sharing"
+        ],
+        "pillarSolver": true
+      },
+      {
+        "title": "Crawl after the moving Hammer",
+        "body": "After the pillars are accepted, find the Hammer and approach while crawling so it runs away along its route instead of teleporting away. Follow it until it reaches the Overlook and is struck by lightning, then pick it up.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "A complete Hammer spawn-route locator and exact approach distance remain unverified."
+      },
+      {
+        "title": "Relay the Crash Site charge to Ice Caves and Morgue",
+        "body": "Find the purple Crash Site rune and melee it with the Hammer to charge the head. Quickly reach and melee the Ice Caves rune, then repeat from that charged rune to the Morgue rune. The written window is nine seconds; if the charge expires, melee the currently charged rune to pick it up again.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "All three precise rune bearings, travel path and measured current window need a native reference."
+      },
+      {
+        "title": "Move the Morgue charge above the Phylactery doorway",
+        "body": "Recharge from the Morgue rune and quickly reach the Phylactery. Kill a zombie with the charged Hammer beneath the rune above the Morgue-to-Phylactery doorway so the energy transfers up to that rune.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      },
+      {
+        "title": "Recover the energy through a special enemy",
+        "body": "Lure a Wüstling or Corpse Eater beneath the charged doorway rune. Let the energy transfer to the enemy, then kill it to return the charge to the Hammer. Confirm the Hammer’s charged state before starting the wall.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "No weapon-swap shortcut or guaranteed next-wave charge recovery is adopted."
+      },
+      {
+        "title": "Open the three-stage wall puzzle",
+        "body": "Go to the puzzle wall between Phylactery and Blood Altar. Its goal is to turn the Raven tiles forward and purple across three completed stages. The original author’s numbered Sheet has two first-stage alternatives, followed by the second and third layouts below.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "How to activate a stalled wall and whether other current variants exist remain unverified.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/9blz9b/all_wall_contraption_solutions_for_hammer_upgrade/"
+        ]
+      },
+      {
+        "title": "Read the grid",
+        "body": "Use three rows: top, middle, bottom. Count six tiles from the left. Each pair below names a row and tile.",
+        "original": true,
+        "researchSource": "https://docs.google.com/spreadsheets/d/1VUhCUG2IJ6Vbdk00YhGAY4E9pioB_3hIEKz0TIRYcDY/edit?usp=sharing",
+        "tip": "Match the actual wall layout first. These are original text-cell reconstructions; game-wall orientation and pixels have not been inspected."
+      },
+      {
+        "title": "First short pattern",
+        "body": "Shoot (middle, second), then (top, second).",
+        "original": true,
+        "researchSource": "https://docs.google.com/spreadsheets/d/1VUhCUG2IJ6Vbdk00YhGAY4E9pioB_3hIEKz0TIRYcDY/edit?usp=sharing"
+      },
+      {
+        "title": "First alternate pattern",
+        "body": "Shoot (bottom, second), (top, second), (bottom, first), (bottom, third), then (middle, first).",
+        "original": true,
+        "researchSource": "https://docs.google.com/spreadsheets/d/1VUhCUG2IJ6Vbdk00YhGAY4E9pioB_3hIEKz0TIRYcDY/edit?usp=sharing"
+      },
+      {
+        "title": "Second pattern",
+        "body": "Shoot (bottom, fourth), (bottom, fifth), (bottom, third), then (top, second). Its skull is at (top, fourth).",
+        "original": true,
+        "researchSource": "https://docs.google.com/spreadsheets/d/1VUhCUG2IJ6Vbdk00YhGAY4E9pioB_3hIEKz0TIRYcDY/edit?usp=sharing"
+      },
+      {
+        "title": "Third pattern",
+        "body": "Shoot (middle, fifth), (middle, fourth), (bottom, sixth), (middle, sixth), (middle, second), (bottom, first), (top, second), (top, third), then (middle, first). Its skull is at (bottom, third).",
+        "original": true,
+        "researchSource": "https://docs.google.com/spreadsheets/d/1VUhCUG2IJ6Vbdk00YhGAY4E9pioB_3hIEKz0TIRYcDY/edit?usp=sharing"
+      },
+      {
+        "title": "Cross the lightning path from Overlook",
+        "body": "After all wall stages are accepted, return to the Overlook and look toward the pyramid for the transparent, distorted path revealed by lightning. Carefully follow that path without stepping off it until you are transported to the Stormraven Trial.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "The exact bends and safe footholds remain a physical-image gap."
+      },
+      {
+        "title": "Finish the Stormraven Trial",
+        "body": "Complete the trial and confirm that Fist of Tal’rek is available/equipped when you return. The written wiki identifies the destination and reward but does not explain every trial input or enemy wave.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "This trial’s full physical method remains incomplete; the main boss’s Hammer-throw shield mechanic is not silently substituted as a verified trial walkthrough."
+      }
+    ],
+    "sourceOmissions": [
+      "The calculator reproduces the original sheet; exact pillar locations, relay runes, path footholds and the complete Stormraven trial remain practical gaps. Wall cells are read; actual game orientation/current variant coverage is untested."
+    ],
+    "sources": [
+      {
+        "title": "Frozen Dawn Hammer route",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      },
+      {
+        "title": "Original pillar explanation",
+        "url": "https://www.reddit.com/r/CODZombies/comments/9bkftj/thulian_hammer_lightning_pillar_puzzle_decoder/"
+      },
+      {
+        "title": "Original wall post",
+        "url": "https://www.reddit.com/r/CODZombies/comments/9blz9b/all_wall_contraption_solutions_for_hammer_upgrade/"
+      },
+      {
+        "title": "TheDrShow wall key",
+        "url": "https://docs.google.com/spreadsheets/d/1VUhCUG2IJ6Vbdk00YhGAY4E9pioB_3hIEKz0TIRYcDY/edit?usp=sharing"
+      },
+      {
+        "title": "Decoder",
+        "url": "https://docs.google.com/spreadsheets/d/1rXE9pHxN5y9GA6D-0UAbZbWrboDBRN-pd2sLuZnFzoA/edit?usp=sharing"
+      }
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": null,
+    "sharedSource": false,
+    "supplementNote": "Practical instructions from the linked primary written sections. Missing physical keys and uncertain counts are identified below; no retail or image verification is claimed."
+  },
+  "the-frozen-dawn-map-features-thulian-shield": {
+    "title": "Thulian Shield → Roar of Sang’Ket",
+    "category": "weapon",
+    "difficulty": "Setup / reference",
+    "players": "Solo / co-op",
+    "summary": "Fill the pools, obtain the Shield, reproduce the blood patterns and enter Bloodraven’s ritual.",
+    "requirements": [
+      "Call of Duty: WWII — The Frozen Dawn.",
+      "Ice Caves, Overlook, Morgue, Crash Site and Blood Altar access.",
+      "Charged Corpse Eaters and a Bomber for the metal-door step."
+    ],
+    "reward": "Thulian Shield, then Roar of Sang’Ket after the full ritual.",
+    "steps": [
+      {
+        "title": "Repair the Overlook blood pool",
+        "body": "Pick up the Bloodraven Stone at the bottom of the Morgue and place it in the Overlook blood pool. Keep this pool distinct from the separate dark-room pressure pad behind it.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "The written order mentions the stone and Overlook fill after the other pool checks; exact interleaving/reset behavior is not measured."
+      },
+      {
+        "title": "Fill the Ice Caves, Morgue and Overlook pools",
+        "body": "Kill zombies standing within each of the three blood pools until it finishes collecting. Record the order in which your pools complete; the upgrade route uses that order later. Make sure the repaired Overlook pool also finishes.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "These are three ordinary blood pools, separate from the Blood Altar’s large central pool and the dark-room pressure pads. Exact soul counts remain unverified."
+      },
+      {
+        "title": "Defeat the Shield-carrying Wüstling",
+        "body": "After the pool stage completes, go to the Blood Altar and find the Wüstling carrying the Thulian Shield on its back. Kill it and take the dropped Shield.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      },
+      {
+        "title": "Make a Corpse Eater glow",
+        "body": "Allow a Corpse Eater to feed on other zombies until it is fully charged and glowing. Keep the Shield equipped so you can identify the next eligible blood pool’s red smoke. The golden-raven side quest also reports spawning charged Corpse Eaters when a raven is shot.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "Exact feeding count and the number of charged enemies needed by the current build are untested."
+      },
+      {
+        "title": "Reveal the three pool patterns in completion order",
+        "body": "Bring a fully charged Corpse Eater to the first eligible pool in your recorded completion order. When it is close enough, damage it so it explodes and reveals that pool’s pattern to the Shield holder. Repeat with the next eligible pools until you have all three patterns.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "The source describes smoke visible only to the Shield holder. Explosion position and damage eligibility need a direct reference."
+      },
+      {
+        "title": "Record and recheck similar patterns",
+        "body": "Keep the three pattern identities in their revealed order. A firsthand player says you can revisit the smaller pools to inspect them again and warns that very similar patterns are easy to confuse. Compare the actual markings rather than relying on a vague description.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/103t3v6/",
+        "tip": "That player’s uncertain claim about entering patterns out of order is not used to override the ordered written route.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+        ]
+      },
+      {
+        "title": "Open the Crash Site metal door with a Bomber",
+        "body": "Bring a Bomber to the metal door at Crash Site and detonate it close enough to remove the cover. Collect the radio and speaker revealed beneath/behind it.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "A recent player reports a round-eight Bomber gate. Exact door pixels, spawn exceptions and blast tolerance remain unverified.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/1u3o63h/"
+        ]
+      },
+      {
+        "title": "Install the radio and speaker at Blood Altar",
+        "body": "Take both pieces to the large Blood Altar pool and place them by the pool. Operate the radio using the configured interact control to cycle the displayed pattern.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      },
+      {
+        "title": "Match each pattern and confirm it with a kill",
+        "body": "Cycle to the first recorded small-pool pattern, then kill a zombie in the large Blood Altar pool. Repeat for the second and third patterns in the order they were revealed. Continue only when the blood rapidly flashes through symbols.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "Exact number of possible patterns, animation timing and failed-input reset are not established by the reports."
+      },
+      {
+        "title": "Get downed in the flashing blood with the Shield",
+        "body": "Once the rapid-flash completion state is present, enter the Blood Altar pool while holding the Shield and get downed there. The reported transition takes you to the Bloodraven ritual. Do not attempt the down before the completion state.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "The source does not establish perk/armor restoration, safe self-down method or every co-op transition condition."
+      },
+      {
+        "title": "Complete the ritual and collect the upgrade",
+        "body": "Finish the Bloodraven ritual and check for Roar of Sang’Ket. The main boss instructions refer to the Shield’s charged defensive ability and a sun-like ritual attack, but the primary text read here does not fully specify the ritual’s exact input sequence.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "This is a blocking trial-detail gap. No unviewed demonstration or guessed block count is presented as a complete ritual solution."
+      }
+    ],
+    "sourceOmissions": [
+      "Full Bloodraven trial inputs, blood-pattern photos, exact feeding/soul counts, door bearing and down/restore behavior remain unresolved."
+    ],
+    "sources": [
+      {
+        "title": "Frozen Dawn Shield route",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      },
+      {
+        "title": "Firsthand pattern-recheck report",
+        "url": "https://www.reddit.com/r/CODZombies/comments/103t3v6/"
+      },
+      {
+        "title": "Recent Bomber-gate report",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1u3o63h/"
+      }
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": null,
+    "sharedSource": false,
+    "supplementNote": "Practical instructions from the linked primary written sections. Missing physical keys and uncertain counts are identified below; no retail or image verification is claimed."
+  },
+  "the-frozen-dawn-map-features-thulian-flail": {
+    "title": "Thulian Flail → Talon of Lu’roth",
+    "category": "weapon",
+    "difficulty": "Setup / reference",
+    "players": "Solo / co-op",
+    "summary": "Open the cipher room, solve the mirrored Orrery, trace three constellations and cross the fire trial.",
+    "requirements": [
+      "Call of Duty: WWII — The Frozen Dawn.",
+      "Archives, Overlook, Passage, Morgue, Phylactery and Blood Altar access."
+    ],
+    "reward": "Thulian Flail and its Talon of Lu’roth upgrade.",
+    "steps": [
+      {
+        "title": "Collect two books from the four candidates",
+        "body": "Search right of the Overlook battery cauldron, on the Passage floor, in the Morgue above the drop into Phylactery, and near the Blood Altar pool. Collect the two available quest books; the four listed sites are candidates rather than a requirement to find four books.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      },
+      {
+        "title": "Place the books at the Archives pedestal",
+        "body": "At the Thulian Archives, locate the book already on a pedestal and place the two collected books with it. Check that the cipher room opens.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      },
+      {
+        "title": "Collect three cogs from the five candidates",
+        "body": "Search the cipher room; left of the Overlook staircase leading to Phylactery; the Gearworks–Passage doorway; the ground right of the Phylactery–Overlook doorway; and the Blood Altar. Take the three available cogs and install them in Gearworks.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      },
+      {
+        "title": "Power the Orrery with nearby kills",
+        "body": "Kill zombies near the Orrery in the Thulian Archives until it activates. The written target is 15 kills; check the active mechanism before assuming a partial count was enough.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      },
+      {
+        "title": "Match the mirrored cipher to the Orrery",
+        "body": "Read the colored-orb positions on the cipher-room wall. Use the Orrery’s controls to stop each orb in its corresponding position, remembering that the written source calls the cipher mirrored. A correct placement has a separate confirmation sound, different from the ordinary stopping sound.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "Exact mirror axis, viewing orientation, control-to-orb mapping and reset are not established by the written source. This remains a blocking physical-key gap; a fixed copied arrangement is not a solution for every match."
+      },
+      {
+        "title": "Collect the Flail when the puzzle is accepted",
+        "body": "After every orb is correctly placed and the mechanism completes, take the spawned Thulian Flail. The source suggests testing the fast red orb first and using its accepted position as a reference, but that is a player method rather than a guaranteed full solver.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      },
+      {
+        "title": "Teleport above the Orrery",
+        "body": "Use the Flail’s Moon Orb throw-and-teleport action to reach the room above the Orrery. Find the three Moonraven blood marks/pools in the corners of its L-shaped floor.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "Exact ability bindings, throw point and landing view require a direct reference."
+      },
+      {
+        "title": "Fill one Moonraven mark",
+        "body": "Use the Flail to kill three zombies close to one floor mark until its floating rune appears. Then leave to search for the corresponding constellation. You repeat this pool-and-constellation process three times, rather than filling all three blindly at once.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      },
+      {
+        "title": "Search the five written constellation areas",
+        "body": "Aim with the Flail to enter its special vision. Check left of the Blood Altar transport, above the Crash Site blood-pressure plate, near the Overlook Shield pool, through the wall hole behind Schildblitz, and above the Orrery. Find the active constellation using the visible stars.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "This is the source’s known-location list, not a current complete spawn census. Exact bearings and star diagrams are still missing."
+      },
+      {
+        "title": "Trace the stars and return for the next mark",
+        "body": "With Flail Vision active, move the reticle through the constellation’s stars until the game acknowledges the first message. Return above the Orrery, fill the next mark with nearby Flail kills and find/trace the next constellation. Repeat for the third message and the cosmos completion response.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "Exact tracing order, floor-mark order, timers and reset behavior remain unverified."
+      },
+      {
+        "title": "Enter the Moonraven Trial through the Orrery",
+        "body": "After all three messages are accepted, throw a Moon Orb into the Orrery and use its teleport action to enter the trial.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      },
+      {
+        "title": "Teleport over the trial’s fire walls",
+        "body": "Use the Flail’s teleport ability to get beyond the approaching fire walls and survive until the Moonraven Trial completes. Confirm that Talon of Lu’roth is equipped/available on return.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "The source gives the central fire-avoidance action but not every enemy wave, throw timing or return condition."
+      }
+    ],
+    "sourceOmissions": [
+      "Exact Orrery orientation/control mapping, constellation diagrams and mark order, ability bindings and trial timing remain incomplete."
+    ],
+    "sources": [
+      {
+        "title": "Primary map guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      }
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": null,
+    "sharedSource": false,
+    "supplementNote": "Practical instructions from the linked primary written sections. Missing physical keys and uncertain counts are identified below; no retail or image verification is claimed."
+  },
+  "the-frozen-dawn-game-features-character-unlock-challenges": {
+    "title": "Character challenges: fifteen written conditions",
+    "category": "side",
+    "difficulty": "Setup / reference",
+    "players": "Solo / co-op",
+    "summary": "Use the Shadowguard, Wayfarer and Death Bringer records without hiding their uncertain timers.",
+    "requirements": [
+      "Call of Duty: WWII — The Frozen Dawn.",
+      "Follow the relevant weapon, main-quest or side-quest route first.",
+      "Read the actual challenge notification; several historical conditions remain incomplete."
+    ],
+    "reward": "Reported character-challenge progress and the associated unlocks.",
+    "steps": [
+      {
+        "title": "Read the challenge record and its limits",
+        "body": "The following rows preserve the original challenge name, reported method, unlock text and riddle. The first five belong to Shadowguard / Shadow Hunter, the next five to Wayfarer / Wayward Rider, and the last five to Death Bringer / Desert Assassin. An uncertain number or unknown requirement remains uncertain.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      },
+      {
+        "title": "Forgotten by Death",
+        "body": "Forgotten by Death | Survive the Ancient Forge without taking damage | Laughed in the face of Death | Death Becomes",
+        "html": "<table><thead><tr><th>Challenge</th><th>Reported condition</th><th>Unlock text</th><th>Riddle</th></tr></thead><tbody><tr><td>Forgotten by Death</td><td>Survive the Ancient Forge without taking damage</td><td>Laughed in the face of Death</td><td>Death Becomes</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "Start the forge event with room to move and avoid all damage until it releases. The reported solo/co-op lockdown durations differ; no guaranteed invulnerability setup is supplied."
+      },
+      {
+        "title": "Corpse Dancer",
+        "body": "Corpse Dancer | Kill 8-15 zombies being killed by Corpse Eaters before they are killed by said Corpse Eater | Cut them down before they rise up | Waltz of starvation",
+        "html": "<table><thead><tr><th>Challenge</th><th>Reported condition</th><th>Unlock text</th><th>Riddle</th></tr></thead><tbody><tr><td>Corpse Dancer</td><td>Kill 8-15 zombies being killed by Corpse Eaters before they are killed by said Corpse Eater</td><td>Cut them down before they rise up</td><td>Waltz of starvation</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "Watch a Corpse Eater attacking other zombies and kill those victims before it finishes them. The source only gives an uncertain eight-to-fifteen range."
+      },
+      {
+        "title": "Ancient Banquet",
+        "body": "Ancient Banquet | Obtained by picking up the upgraded Scythe, other requirements not yet known | Cannibalize the Ancient Evil | Elder Blood",
+        "html": "<table><thead><tr><th>Challenge</th><th>Reported condition</th><th>Unlock text</th><th>Riddle</th></tr></thead><tbody><tr><td>Ancient Banquet</td><td>Obtained by picking up the upgraded Scythe, other requirements not yet known</td><td>Cannibalize the Ancient Evil</td><td>Elder Blood</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "The source explicitly leaves additional conditions unknown. Picking up the upgraded Scythe alone is not certified as the complete challenge."
+      },
+      {
+        "title": "King's Lament",
+        "body": "King's Lament | Complete the Main Easter Egg solo | No crown for the wicked | Crown's solace",
+        "html": "<table><thead><tr><th>Challenge</th><th>Reported condition</th><th>Unlock text</th><th>Riddle</th></tr></thead><tbody><tr><td>King's Lament</td><td>Complete the Main Easter Egg solo</td><td>No crown for the wicked</td><td>Crown's solace</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "Finish the full solo God-King quest, including the final shots after the cutscene. The guide does not equate a co-op clear with this solo condition."
+      },
+      {
+        "title": "Death's Sorrow",
+        "body": "Death's Sorrow | Get hit by the sun attack in the God-King boss fight losing the cheat death ability on the Scythe. Then recharge the Scythe and then later in the boss fight get hit by the fire, surviving it through the Scythe's ability | Survived when no one else could | Wreathed in death",
+        "html": "<table><thead><tr><th>Challenge</th><th>Reported condition</th><th>Unlock text</th><th>Riddle</th></tr></thead><tbody><tr><td>Death's Sorrow</td><td>Get hit by the sun attack in the God-King boss fight losing the cheat death ability on the Scythe. Then recharge the Scythe and then later in the boss fight get hit by the fire, surviving it through the Scythe's ability</td><td>Survived when no one else could</td><td>Wreathed in death</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "The source asks for Scythe cheat-death during the sun attack, a recharge, then survival through a later fire attack. Exact recharge and attack conditions remain unresolved."
+      },
+      {
+        "title": "Forsaken Gunslinger",
+        "body": "Forsaken Gunslinger | Obtain the Raven Claw pistol | You bit the hand that feeds | Dark Wings, Dark Path",
+        "html": "<table><thead><tr><th>Challenge</th><th>Reported condition</th><th>Unlock text</th><th>Riddle</th></tr></thead><tbody><tr><td>Forsaken Gunslinger</td><td>Obtain the Raven Claw pistol</td><td>You bit the hand that feeds</td><td>Dark Wings, Dark Path</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "Follow the four-raven pistol route. Exact permitted weapons and all thirty candidate raven positions are not established."
+      },
+      {
+        "title": "Forgotten Highway",
+        "body": "Forgotten Highway | Visit every location on the map in under 2-3 minutes (exact time not known) | Toured the depths with great speed | Leaps and bounds",
+        "html": "<table><thead><tr><th>Challenge</th><th>Reported condition</th><th>Unlock text</th><th>Riddle</th></tr></thead><tbody><tr><td>Forgotten Highway</td><td>Visit every location on the map in under 2-3 minutes (exact time not known)</td><td>Toured the depths with great speed</td><td>Leaps and bounds</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "The source calls the two-to-three-minute limit uncertain and does not supply a complete region checklist or timer start. This is a challenge lead rather than a reliable timed route."
+      },
+      {
+        "title": "Guided by the stars",
+        "body": "Guided by the stars | Observe the 3 Constellations for the Flail Upgrade in under 3 minutes (time not confirmed) | Spoke with the stars at the speed of light | Darkest sky",
+        "html": "<table><thead><tr><th>Challenge</th><th>Reported condition</th><th>Unlock text</th><th>Riddle</th></tr></thead><tbody><tr><td>Guided by the stars</td><td>Observe the 3 Constellations for the Flail Upgrade in under 3 minutes (time not confirmed)</td><td>Spoke with the stars at the speed of light</td><td>Darkest sky</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "The source gives an unconfirmed three-minute limit. Exact timer start, floor-mark order and all constellation drawings still need a current reference."
+      },
+      {
+        "title": "Dark Passenger",
+        "body": "Dark Passenger | Kill the Corpse Eater while possessing a zombie | To know your enemy is to find truth | Like sightless eyes",
+        "html": "<table><thead><tr><th>Challenge</th><th>Reported condition</th><th>Unlock text</th><th>Riddle</th></tr></thead><tbody><tr><td>Dark Passenger</td><td>Kill the Corpse Eater while possessing a zombie</td><td>To know your enemy is to find truth</td><td>Like sightless eyes</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "Use the possession side quest and kill its Corpse Eater while possessing the zombie. Do not assume merely being killed grants the same character condition."
+      },
+      {
+        "title": "Champion of Lost Artifacts",
+        "body": "Champion of Lost Artifacts | Complete every Raven Trial yourself in 1 game | Equipped to kill a god | Bureau's Pride",
+        "html": "<table><thead><tr><th>Challenge</th><th>Reported condition</th><th>Unlock text</th><th>Riddle</th></tr></thead><tbody><tr><td>Champion of Lost Artifacts</td><td>Complete every Raven Trial yourself in 1 game</td><td>Equipped to kill a god</td><td>Bureau's Pride</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "Personally complete all four Raven trials in one match. Co-op pickup sharing and whether a teammate’s trial credit counts are unverified."
+      },
+      {
+        "title": "Some things are best...",
+        "body": "Some things are best... | Reach round 15 without opening any doors | The Blood does not flow | Left forgotten",
+        "html": "<table><thead><tr><th>Challenge</th><th>Reported condition</th><th>Unlock text</th><th>Riddle</th></tr></thead><tbody><tr><td>Some things are best...</td><td>Reach round 15 without opening any doors</td><td>The Blood does not flow</td><td>Left forgotten</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "Stay in the starting area without purchasing/opening doors until the round-fifteen condition registers. Exact wave transition and special-case interactions are untested."
+      },
+      {
+        "title": "Bloodied Sacrifice",
+        "body": "Bloodied Sacrifice | Kill 10-15 zombies in the large pool in the Blood Altar by charging into them with the upgraded shield | Blood rains from the heavens, pools at your feet | Guarded Sacrifice",
+        "html": "<table><thead><tr><th>Challenge</th><th>Reported condition</th><th>Unlock text</th><th>Riddle</th></tr></thead><tbody><tr><td>Bloodied Sacrifice</td><td>Kill 10-15 zombies in the large pool in the Blood Altar by charging into them with the upgraded shield</td><td>Blood rains from the heavens, pools at your feet</td><td>Guarded Sacrifice</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "Use the upgraded Shield charge in the Blood Altar’s large pool. The historical ten-to-fifteen count is uncertain, and the exact launch/kill requirement is unverified."
+      },
+      {
+        "title": "Zombie Torero",
+        "body": "Zombie Torero | Bring the Wustling that carries the Thulian Shield near a Thulian Transport and have him charge into it. Once he has charged into it buy the transport and have the Wustling travel by itself. The button for unlocking the Ubersprengen should not be pressed. | Precision over force | Needless effort",
+        "html": "<table><thead><tr><th>Challenge</th><th>Reported condition</th><th>Unlock text</th><th>Riddle</th></tr></thead><tbody><tr><td>Zombie Torero</td><td>Bring the Wustling that carries the Thulian Shield near a Thulian Transport and have him charge into it. Once he has charged into it buy the transport and have the Wustling travel by itself. The button for unlocking the Ubersprengen should not be pressed.</td><td>Precision over force</td><td>Needless effort</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "Before activating the Ubersprengen route, lure the Shield-carrying Wüstling into a transport, let it charge into the chamber and buy the transport so it travels alone. Exact accepted chambers and reset conditions are unverified."
+      },
+      {
+        "title": "Stalwart Soldier",
+        "body": "Stalwart Soldier | Allow the shield to get hit by a zombie for 3-5 minutes without letting it break. The shield may have to be upgraded. | Nothing can shake you | Relentless",
+        "html": "<table><thead><tr><th>Challenge</th><th>Reported condition</th><th>Unlock text</th><th>Riddle</th></tr></thead><tbody><tr><td>Stalwart Soldier</td><td>Allow the shield to get hit by a zombie for 3-5 minutes without letting it break. The shield may have to be upgraded.</td><td>Nothing can shake you</td><td>Relentless</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "The source is uncertain about three-to-five minutes and whether an upgraded Shield is required. Do not advertise this as a measured hold time or let the Shield break deliberately."
+      },
+      {
+        "title": "Blood is Power",
+        "body": "Blood is Power | Obtain all 6 perks from the Dark Room | Descend into darkness and rise again, greater | Light in darkness",
+        "html": "<table><thead><tr><th>Challenge</th><th>Reported condition</th><th>Unlock text</th><th>Riddle</th></tr></thead><tbody><tr><td>Blood is Power</td><td>Obtain all 6 perks from the Dark Room</td><td>Descend into darkness and rise again, greater</td><td>Light in darkness</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "Complete the dark-room nail/hand-plate route and receive all six perks. Exact challenge notification and co-op sharing remain untested."
+      }
+    ],
+    "sourceOmissions": [
+      "Ancient Banquet’s extra conditions, timed-tour region census, star timer, shield counts/hold duration and exact unlock behavior remain unresolved."
+    ],
+    "sources": [
+      {
+        "title": "Primary map guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      }
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+    "sharedSource": false,
+    "supplementNote": "Practical instructions from the linked primary written sections. Missing physical keys and uncertain counts are identified below; no retail or image verification is claimed."
+  },
+  "the-frozen-dawn-easter-eggs-quests-main-easter-egg-quest": {
+    "title": "Kingfall: four Raven upgrades and the God-King",
+    "category": "main",
+    "difficulty": "Hard",
+    "players": "Solo / co-op",
+    "summary": "Prepare all four upgraded weapons, enter the Citadel and handle each boss attack before the final shots.",
+    "requirements": [
+      "Call of Duty: WWII — The Frozen Dawn.",
+      "All four Raven weapons fully upgraded and access to the Ice Caves pedestals.",
+      "A working Flail teleport action, Hammer throw and Shield defense; exact trial inputs remain qualified in their cards.",
+      "Armor, ammunition and a class setup you can use reliably."
+    ],
+    "reward": "The reported God-King defeat, ending and post-quest Citadel access.",
+    "steps": [
+      {
+        "title": "Choose a class and finish your supplies",
+        "body": "The original guide suggests 9mm SAP with sticky bombs and either Shellshock or Frontline. Its mod suggestions include Sustain Zone, Exploit Weakness, Defibrillate, Protector and Fully Loaded for Shellshock, or Vicious, Determination and Fully Loaded for Frontline. Choose only the compatible options your actual class menu permits; the list is not an instruction to equip every suggested mod simultaneously.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "These are optional historical suggestions, not a required paid-consumable setup or a guaranteed quick kill."
+      },
+      {
+        "title": "Complete the four upgrade routes",
+        "body": "Acquire Fang of An’heist, Fist of Tal’rek, Roar of Sang’Ket and Talon of Lu’roth. Follow their individual cards for each base weapon and trial. The Hammer card includes a checked pillar calculator. Orrery orientation and some trial inputs remain unresolved; follow the visible qualifications before starting the finale.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      },
+      {
+        "title": "Deposit the weapons at Ice Caves",
+        "body": "Place the four upgraded Raven weapons in their matching Ice Caves pedestals. Check the quest response after each placement and coordinate ownership in co-op. Prepare supplies before activating the elevator to the right of the pedestals.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "Exact post-deposit weapon retrieval, player-count input and the elevator’s full interaction conditions need a direct reference."
+      },
+      {
+        "title": "Enter the God-King’s Citadel",
+        "body": "Use the unlocked elevator/transport beside the weapon pedestals to enter the Citadel. The source recommends 9mm SAP, BAR or M1A1 Carbine as firearms; use a weapon with enough ammunition and keep the Raven abilities available for the mechanics.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      },
+      {
+        "title": "Break the three energy plates and punish the down",
+        "body": "Damage the God-King until he moves to the arena center and draws energy from the three red blood-pressure plates. Shoot the three active plates until he drops, then damage him while he is on the ground. Repeat this vulnerability response when it returns in later phases.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/cv5ny1/",
+        "tip": "The precise plate bearings, health thresholds and damage window remain unmeasured.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+        ]
+      },
+      {
+        "title": "Take cover during the sun or eclipse attack",
+        "body": "When the boss rises and begins the sun-like arena attack, hide behind a solid ice pillar until it finishes. The shared guide also mentions charged Shield defense, but ice cover is the written route that does not require an unverified charge sequence.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/cv5ny1/",
+        "tip": "Keep track of usable cover; the exact Shield input and charge requirement need a demonstrated reference.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+        ]
+      },
+      {
+        "title": "Handle purple-shielded zombies",
+        "body": "When he shields the attacking zombies, use the Hammer’s throwing ability to remove their protection if you need to clear them. Keep moving and continue damaging the boss; when he returns to the energy draw, shoot the three plates and use the next downed window.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/cv5ny1/",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+        ]
+      },
+      {
+        "title": "Cross the fire wall and interrupt the boss",
+        "body": "For the fire-wall attack, use the Flail’s teleport action to reach the other side of the advancing wall. Damage or melee the boss after crossing to stop that attack from reaching teammates. Continue the plate-and-damage cycle until the phase completes.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/cv5ny1/",
+        "tip": "The exact throw landing, ability binding and interrupt window are not measured; no guaranteed teleport timing is invented.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+        ]
+      },
+      {
+        "title": "Expect the combined co-op phase",
+        "body": "The written routes report four solo phases and an additional co-op phase that mixes the sun attack, shielded zombies and fire wall. Respond to the current cue with ice cover, Hammer throw or Flail teleport instead of assuming the boss has finished after the first fire phase.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/cv5ny1/",
+        "tip": "The wiki associates this extra phase with the historical Halloween update; no current patch/player-count replay was performed.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+        ]
+      },
+      {
+        "title": "Continue after the scripted fall and cutscene",
+        "body": "At the final transition, the boss pulls the team toward the throne and forces a collapse. Let the ending cutscene play. When control returns, shoot the God-King to finish him promptly; the scripted fall alone is not the final completion action.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/cv5ny1/",
+        "tip": "The exact final-shot time allowance and failure recovery remain unverified.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+        ]
+      },
+      {
+        "title": "Check the post-quest state",
+        "body": "After the confirmed defeat, the map guide reports free armor generation and continued Citadel access, with Thulian Transport travel between the Citadel and the main map. Inspect the actual quest/trophy and inventory state rather than assuming every possible post-quest buff.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "No infinite-ammo, all-perk or ability-recharge package is inferred from unrelated use reports."
+      }
+    ],
+    "sourceOmissions": [
+      "Blocking weapon-puzzle/trial keys, all boss landing/plate bearings, exact timers, current damage and ending/player-count behavior still need footage or retail checks."
+    ],
+    "sources": [
+      {
+        "title": "Frozen Dawn main quest",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      },
+      {
+        "title": "Original full boss-phase report",
+        "url": "https://www.reddit.com/r/CODZombies/comments/cv5ny1/"
+      }
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": null,
+    "sharedSource": false,
+    "supplementNote": "Practical instructions from the linked primary written sections. Missing physical keys and uncertain counts are identified below; no retail or image verification is claimed."
+  },
+  "the-frozen-dawn-easter-eggs-quests-raven-s-claw": {
+    "title": "Raven’s Claw: golden statue and four ravens",
+    "category": "weapon",
+    "difficulty": "Setup / reference",
+    "players": "Solo / co-op",
+    "summary": "Start at the Overlook statue, shoot four calling ravens and collect the special pistol.",
+    "requirements": [
+      "Call of Duty: WWII — The Frozen Dawn.",
+      "Overlook and Blood Altar access.",
+      "Keep an original starting pistol available; the read sources disagree about exact weapon eligibility."
+    ],
+    "reward": "Raven’s Claw and its reported upgraded friendly-raven effect.",
+    "steps": [
+      {
+        "title": "Release the Overlook golden raven",
+        "body": "Near the Shield blood pool on the Overlook, find the golden raven statue and hold interact until it flies away. This starts the raven hunt.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      },
+      {
+        "title": "Listen and search for the calling raven",
+        "body": "Search the map for the audible raven and shoot it with the appropriate pistol. The wiki says a pistol; a firsthand player insists on the starting weapon. Retaining an original starting pistol fits both descriptions, without proving that every pistol or every starting gun qualifies.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/15m5mx6/",
+        "tip": "The wiki lists thirty possible raven positions but does not write out their locators. That complete physical search list is still missing.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+        ]
+      },
+      {
+        "title": "Defeat the charged Corpse Eater and repeat",
+        "body": "After a raven is shot, defeat the charged Corpse Eater that spawns. Check for a new golden statue near the top of the Blood Altar, then continue the calling-raven hunt. Complete four raven shots and their enemy responses rather than counting unrelated birds.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      },
+      {
+        "title": "Collect the pistol between the four statues",
+        "body": "When four golden ravens are present at the Blood Altar, inspect the space between them for Raven’s Claw and take it. The firsthand account describes the reward near the Double Tap/Kugelblitz side.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/15m5mx6/"
+        ]
+      },
+      {
+        "title": "Upgrade and check its headshot effect",
+        "body": "Use the unlocked Ancient Ubersprengen and its actual prompt to upgrade the pistol. The written guide reports that a zombie headshot with the upgraded gun spawns a friendly raven that attacks other zombies. Its exact packed HUD name remains unknown in the weapon table.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "A reported special camo has not been viewed. Ammo returns, damage, repeat rules and every eligible headshot interaction remain untested.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/15m5mx6/"
+        ]
+      }
+    ],
+    "sourceOmissions": [
+      "All thirty raven positions, exact permitted weapons, packed name, timers, return/ammo behavior and pickup sharing remain incomplete."
+    ],
+    "sources": [
+      {
+        "title": "Frozen Dawn raven route",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      },
+      {
+        "title": "Firsthand starting-weapon report",
+        "url": "https://www.reddit.com/r/CODZombies/comments/15m5mx6/"
+      }
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": null,
+    "sharedSource": false,
+    "supplementNote": "Practical instructions from the linked primary written sections. Missing physical keys and uncertain counts are identified below; no retail or image verification is claimed."
+  },
+  "the-frozen-dawn-easter-eggs-quests-the-classic-ppsh-41": {
+    "title": "The Classic PPSh-41: red-eyed Morgue targets",
+    "category": "weapon",
+    "difficulty": "Setup / reference",
+    "players": "Solo / co-op",
+    "summary": "Pay at the right-hand container and shoot the red eyes while avoiding blue eyes.",
+    "requirements": [
+      "Call of Duty: WWII — The Frozen Dawn.",
+      "Morgue access, Jolts to drop and a firearm for the targets."
+    ],
+    "reward": "The Classic PPSh-41 reward and its reported later Box availability.",
+    "steps": [
+      {
+        "title": "Start at the right-hand open container",
+        "body": "In the Morgue, identify the open corpse container on the right side of the room and drop Jolts beside it. Check for the nearby heads’ eyes turning blue as the start response.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "The exact container facing and required dropped amount are not written in the source."
+      },
+      {
+        "title": "Shoot the red eyes as they appear",
+        "body": "Watch the other corpse containers for emerging red-eyed heads and shoot them quickly. Avoid shooting the blue-eyed heads. Keep checking the actual eye color rather than firing at every movement.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      },
+      {
+        "title": "Collect The Classic from the starting container",
+        "body": "After enough correct targets, return to the original right-hand container and take The Classic. The map guide says completing the challenge also makes it available in the Mystery Box.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "Exact target count, timer, error reset and co-op pickup sharing are unverified."
+      },
+      {
+        "title": "Keep its upgrade separate from the ordinary PPSh row",
+        "body": "If you want to upgrade The Classic, inspect the Ubersprengen prompt for that special gun. The ordinary PPSh-41 row lists Dedushka, but that row is not proof of The Classic’s own packed name or special effect.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "The separate code-analysis comment names a packed Classic asset but does not give its public HUD alias.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/1fcnk34/comment/lmh39b2/?force-legacy-sct=1"
+        ]
+      }
+    ],
+    "sourceOmissions": [
+      "Container bearings, payment amount, target count/reset and The Classic’s packed name/effects remain unresolved."
+    ],
+    "sources": [
+      {
+        "title": "Frozen Dawn red-eye route",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      },
+      {
+        "title": "Original Classic-asset discussion",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1fcnk34/comment/lmh39b2/?force-legacy-sct=1"
+      }
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": null,
+    "sharedSource": false,
+    "supplementNote": "Practical instructions from the linked primary written sections. Missing physical keys and uncertain counts are identified below; no retail or image verification is claimed."
+  },
+  "the-frozen-dawn-easter-eggs-quests-the-vintage-mg42": {
+    "title": "The Vintage MG42: blue-eyed Morgue targets",
+    "category": "weapon",
+    "difficulty": "Setup / reference",
+    "players": "Solo / co-op",
+    "summary": "Pay at the left-hand container and shoot blue eyes while avoiding red eyes.",
+    "requirements": [
+      "Call of Duty: WWII — The Frozen Dawn.",
+      "Morgue access, Jolts to drop and a firearm for the target event."
+    ],
+    "reward": "The Vintage MG42, with Freak Show as its table-listed packed name.",
+    "steps": [
+      {
+        "title": "Start at the left-hand open container",
+        "body": "In the Morgue, locate the open corpse container on the left side and drop Jolts near it. Confirm that nearby heads’ eyes turn red. This is the opposite start/target pairing from The Classic.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      },
+      {
+        "title": "Shoot the blue-eyed heads",
+        "body": "Watch the remaining containers for a blue-eyed head emerging and shoot it quickly. Avoid the red-eyed heads; copying The Classic’s red-target rule into this event would reverse the intended colors.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      },
+      {
+        "title": "Collect The Vintage",
+        "body": "After enough correct blue-eye targets, take The Vintage from the original left-hand container. The source reports that it then becomes available in the Mystery Box.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "Exact payment amount, target count, time limit, error recovery and sharing remain unverified."
+      },
+      {
+        "title": "Upgrade as Freak Show",
+        "body": "Take The Vintage to the unlocked Ancient Ubersprengen and read its actual prompt. The Frozen Dawn weapon table pairs The Vintage with Freak Show; this is a different row from the ordinary MG42 → Bone Saw.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "Exact packed fire rate, ammo and special effects are not established by the name table."
+      }
+    ],
+    "sourceOmissions": [
+      "Container photos, dropped payment, target timing/reset and current weapon behavior remain untested."
+    ],
+    "sources": [
+      {
+        "title": "Primary map guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      }
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": null,
+    "sharedSource": false,
+    "supplementNote": "Practical instructions from the linked primary written sections. Missing physical keys and uncertain counts are identified below; no retail or image verification is claimed."
+  },
+  "the-frozen-dawn-easter-eggs-quests-dark-room-perkaholic": {
+    "title": "Dark Room: three pads and four nails",
+    "category": "side",
+    "difficulty": "Setup / reference",
+    "players": "Solo / co-op",
+    "summary": "Charge the separate pressure pads, enter the dark chamber and complete its hand-plate ritual.",
+    "requirements": [
+      "Call of Duty: WWII — The Frozen Dawn.",
+      "Thulian Flail and access to Crash Site, Kugelblitz and the Overlook blood-pool area."
+    ],
+    "reward": "The reported reward of all six perks and return from the Dark Room.",
+    "steps": [
+      {
+        "title": "Charge the pad beside Kugelblitz",
+        "body": "Find the blood-pressure pad next to Kugelblitz at the Blood Altar. Fill it with nearby zombie kills until it glows with red energy. This is a pressure pad, separate from the Shield quest’s ordinary small blood pools.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      },
+      {
+        "title": "Charge the Crash Site pad",
+        "body": "Find the Crash Site blood-pressure pad and fill it until the red-energy state appears. The exact required kills and its camera bearing are not specified by the written source.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      },
+      {
+        "title": "Reach and charge the hidden Overlook pad",
+        "body": "Behind the Overlook Shield blood pit, near the M1941 wall buy, throw a Flail transportation orb into the otherwise inaccessible pad area and teleport to it. Fill that pressure pad until it glows red.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "A recent player reports newly spawned enemies in this confined area and that getting downed returns them to Overlook. Treat entry as a combat commitment, without assuming a safe exit or unlimited free farm.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/1u3o63h/"
+        ]
+      },
+      {
+        "title": "Use the newly opened transport near Schildblitz",
+        "body": "When all three pads are charged, check the Thulian Transport near Schildblitz. Use it for the Dark Room route; the source describes a chance of being sent there rather than a guaranteed first use.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "Exact cost, retry conditions, probability and route/power state are unresolved."
+      },
+      {
+        "title": "Collect all four nails in the darkness",
+        "body": "Inside the Dark Room, search its pedestals for three nails, then take the fourth from the skull of the skeleton in the middle. Check that every pickup registers before looking for the exit ritual.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      },
+      {
+        "title": "Place the nails and use the hand plate",
+        "body": "Find the taller pedestal bearing a metal hand plate. The source describes a Blood is Power prompt nearby. Place all four nails, then interact again to put your hand on the plate. Confirm the six-perk reward and return teleport.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "Exact nail positions, room timer, missing-pickup reset and co-op sharing remain unverified."
+      }
+    ],
+    "sourceOmissions": [
+      "Pad/nail/hand-plate photos, travel probabilities, combat exit, exact timer and co-op reward rules remain incomplete."
+    ],
+    "sources": [
+      {
+        "title": "Frozen Dawn Dark Room route",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      },
+      {
+        "title": "Recent hidden-pad combat report",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1u3o63h/"
+      }
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": null,
+    "sharedSource": false,
+    "supplementNote": "Practical instructions from the linked primary written sections. Missing physical keys and uncertain counts are identified below; no retail or image verification is claimed."
+  },
+  "the-frozen-dawn-easter-eggs-quests-zombie-posession": {
+    "title": "Zombie possession with the upgraded Flail",
+    "category": "side",
+    "difficulty": "Setup / reference",
+    "players": "Solo / co-op",
+    "summary": "Turn a zombie inside a normal transport, then resolve the Corpse Eater encounter.",
+    "requirements": [
+      "Call of Duty: WWII — The Frozen Dawn.",
+      "Upgraded Talon of Lu’roth.",
+      "A normal zombie, Bomber or Pest and an ordinary Thulian Transport.",
+      "Keep the Ubersprengen-route button inactive for the written possession route."
+    ],
+    "reward": "Reported 10,000 Jolts, a perk and potential character-challenge progress.",
+    "steps": [
+      {
+        "title": "Prepare the normal transport route",
+        "body": "Bring the upgraded Flail to an ordinary Thulian Transport. The source specifies doing this without the Pack-a-Punch button activated; avoid confusing this normal travel state with the Lost in Blood machine route.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "Exact toggle state, eligible chambers and how to restore a changed route are unverified."
+      },
+      {
+        "title": "Bring an eligible zombie into the chamber",
+        "body": "Get a regular zombie, Bomber or Pest into the transport with you. Activate the transport and use the Flail’s special control/turning orb on the zombie during the transition.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "Exact orb timing, binding, target health and Bomber safety require a direct reference."
+      },
+      {
+        "title": "Fight the Corpse Eater while possessing the zombie",
+        "body": "After exiting the other chamber as the possessed zombie, locate the spawned Corpse Eater. Use the reported interact attack to kill it, or let it kill the possessed zombie to end the encounter. Check the actual return and reward state.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      },
+      {
+        "title": "Distinguish rewards from the kill challenge",
+        "body": "The shared side-quest text reports 10,000 Jolts and a perk after the encounter. Its Dark Passenger challenge specifically says to kill the Corpse Eater while possessing a zombie, so do not assume the alternate death outcome satisfies that character condition.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "Exact reward sharing, possession limits and recovery from a failed transition remain unresolved."
+      }
+    ],
+    "sourceOmissions": [
+      "Transport/button state, input timing, precise possession attack, both outcome rewards and character-credit rules remain untested."
+    ],
+    "sources": [
+      {
+        "title": "Primary map guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      }
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": null,
+    "sharedSource": false,
+    "supplementNote": "Practical instructions from the linked primary written sections. Missing physical keys and uncertain counts are identified below; no retail or image verification is claimed."
+  },
+  "the-frozen-dawn-easter-eggs-quests-free-double-jolts-funderbuss": {
+    "title": "Colored equipment: Double Jolts and Funderbuss",
+    "category": "weapon",
+    "difficulty": "Setup / reference",
+    "players": "Solo / co-op",
+    "summary": "Forge the three matching colors, then finish the separate ten-target challenge.",
+    "requirements": [
+      "Call of Duty: WWII — The Frozen Dawn.",
+      "Phylactery forge access and completion of its lockdown.",
+      "Suitable equipment, a firearm for candles and access to Crash Site, Schildblitz and Overlook."
+    ],
+    "reward": "Temporary Double Jolts, then a packed Blunderbuss/Funderbuss after the extra target stage.",
+    "steps": [
+      {
+        "title": "Survive the Ancient Forge event",
+        "body": "Activate the Ancient Forge in the Phylactery and survive its lockdown. When the area releases, climb the forge stairs for the candle step.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      },
+      {
+        "title": "Shoot the four lit candles",
+        "body": "Shoot the four lit candles at the Ancient Forge. Check for the special colored Double Jolts power-up appearing around the forge.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "Exact candle positions and completion cue still need images."
+      },
+      {
+        "title": "Read the power-up color",
+        "body": "Inspect the special Double Jolts target and note whether it is green, cyan or magenta. It can repeatedly appear around the forge; the needed forged equipment must match that color.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      },
+      {
+        "title": "Catch and combine the orbiting equipment",
+        "body": "Throw a frag, sticky/Semtex, C4 or throwing knife into the Ancient Forge’s orbit. The source describes white, yellow, red and blue stages. Interact as the item passes to catch it and retain the current color, then use the orbit to combine the needed colors.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "The exact release/rethrow timing and safe pickup distance are not specified; keep clear of live explosive equipment."
+      },
+      {
+        "title": "Mix the required color",
+        "body": "Use the written combinations: yellow plus blue makes green; green plus blue makes cyan; red plus blue makes magenta. Match the current power-up target, then allow the forged equipment to orbit into it.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "Equipment behavior and colors are written evidence; no footage or actual item color has been inspected."
+      },
+      {
+        "title": "Hit the Crash Site color target",
+        "body": "Go to Crash Site and read the new Double Jolts target’s color. Return to the forge for equipment of that color, catch it and bring it to Crash Site, then throw it into that target.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      },
+      {
+        "title": "Hit the Schildblitz-side target",
+        "body": "Locate the next colored Double Jolts near Schildblitz in the Phylactery area. Forge/catch its matching color and return to throw the item into that target. Confirm the temporary Double Jolts reward.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      },
+      {
+        "title": "Continue beyond the power-up reward",
+        "body": "The free gun has an additional stage. The original script-analysis author first omitted it, then corrected that omission after being challenged; do not stop at Double Jolts and promise a spawned Wunderbuss.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/1fcnk34/comment/lmh39b2/?force-legacy-sct=1",
+        "tip": "The corrected weapon is a packed Blunderbuss, called Funderbuss. A Wunderbuss is a different weapon.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+          "https://www.reddit.com/r/CODZombies/comments/1fcnk34/"
+        ]
+      },
+      {
+        "title": "Start the Overlook target event",
+        "body": "Go to the Overlook armor-machine area and interact with the geistkraft effect described by the source. Check for the equipment targets around Overlook.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "The exact interaction point and each target bearing are image-dependent and remain unviewed."
+      },
+      {
+        "title": "Hit all ten equipment targets",
+        "body": "Throw equipment into each of the ten targets. The source gives a five-second window for a target, but does not make the timer/reset mechanics fully clear. Use the actual success response and continue through the full set.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "Exact target sequence, timer start and equipment eligibility are unverified. This is a practical physical/timing gap."
+      },
+      {
+        "title": "Wait the reported retry interval after failure",
+        "body": "If the target attempt fails, the shared guide says to progress five waves before retrying. Check the interaction again after that interval rather than repeatedly assuming an immediate restart.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "Current failed-attempt lockout and which stage resets are not measured."
+      },
+      {
+        "title": "Collect Funderbuss from Overlook",
+        "body": "After the full target stage completes, inspect the edge of the Overlook for the Funderbuss pickup and equip it. It is a Pack-a-Punched Blunderbuss reward, separate from the ordinary Mystery Box route.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "Exact pickup bearing, co-op sharing, ammo and current special effects remain untested.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/1fcnk34/comment/lmh39b2/?force-legacy-sct=1"
+        ]
+      }
+    ],
+    "sourceOmissions": [
+      "Orbit/catch controls, all ten target bearings, precise five-second timing, retry behavior and current reward sharing remain unresolved."
+    ],
+    "sources": [
+      {
+        "title": "Frozen Dawn full color/target route",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      },
+      {
+        "title": "Original frag/code analysis",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1fcnk34/"
+      },
+      {
+        "title": "Original missing-stage correction",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1fcnk34/comment/lmh39b2/?force-legacy-sct=1"
+      }
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": null,
+    "sharedSource": false,
+    "supplementNote": "Practical instructions from the linked primary written sections. Missing physical keys and uncertain counts are identified below; no retail or image verification is claimed."
+  },
+  "the-frozen-dawn-easter-eggs-quests-thulian-tower-deflect": {
+    "title": "Thulian towers: returned rockets",
+    "category": "side",
+    "difficulty": "Setup / reference",
+    "players": "Solo / co-op",
+    "summary": "Fire an eligible launcher at a nearby tower and watch where its return shot lands.",
+    "requirements": [
+      "Call of Duty: WWII — The Frozen Dawn.",
+      "Fliegerfaust from a Box offer, or an eligible Panzerschreck/M1 Bazooka consumable.",
+      "Overlook access and room to move away from the return target."
+    ],
+    "reward": "A reported deflected rocket that can kill zombies.",
+    "steps": [
+      {
+        "title": "Obtain a launcher through the stated route",
+        "body": "The map guide lists Fliegerfaust from the Mystery Box, or Panzerschreck/M1 Bazooka through a consumable. A consumable is an optional alternative, not a required purchase. Check that the actual launcher is equipped.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      },
+      {
+        "title": "Hit a close left or right tower from Overlook",
+        "body": "From the Overlook, aim at one of the nearest left/right Thulian towers and fire a rocket into it. The source reports that a hit makes that tower send a rocket back toward the player’s position when the original shot hit.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "The exact tower bearings, hitboxes and eligible projectile variants need a direct reference."
+      },
+      {
+        "title": "Move and observe the returned shot",
+        "body": "Move clear of that recorded position and let the returned rocket reach the area. It is reported to kill zombies. No additional permanent reward or new tower quest is established by the written route.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "Return delay, player damage, repeat limits and current high-round damage remain untested."
+      }
+    ],
+    "sourceOmissions": [
+      "Exact tower images, rocket eligibility, return timing and all damage/repeat behavior remain unverified."
+    ],
+    "sources": [
+      {
+        "title": "Primary map guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      }
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": null,
+    "sharedSource": false,
+    "supplementNote": "Practical instructions from the linked primary written sections. Missing physical keys and uncertain counts are identified below; no retail or image verification is claimed."
+  },
+  "the-frozen-dawn-easter-eggs-quests-grenade-hole": {
+    "title": "Archives grenade hole: frag return",
+    "category": "side",
+    "difficulty": "Setup / reference",
+    "players": "Solo / co-op",
+    "summary": "Throw a frag into a bright opening and move away from the returned grenades.",
+    "requirements": [
+      "Call of Duty: WWII — The Frozen Dawn.",
+      "A frag grenade and Thulian Archives access."
+    ],
+    "reward": "A reported burst of returned grenades; no permanent reward is established.",
+    "steps": [
+      {
+        "title": "Find either written bright opening",
+        "body": "In the Thulian Archives, look above the book pedestal or at the bright hole overlooking the Orrery. The source gives these as two views/openings for the interaction; exact aiming points still need images.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      },
+      {
+        "title": "Use a frag rather than a substitute item",
+        "body": "Throw a frag grenade into the opening. The original code-analysis report says this interaction specifically filters for the frag grenade and is separate from the colored-equipment forge logic.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/1fcnk34/",
+        "tip": "The source quotes the analyzed frag asset name; no current script or retail replay is independently inspected.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+        ]
+      },
+      {
+        "title": "Clear the landing area",
+        "body": "After a short delay, several grenades are reported to drop back toward the player with different remaining fuse times. Move away from the landing area instead of waiting to catch every returned grenade.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "Exact count, delay, damage and repeat conditions are untested. This is an interaction effect, not a proven upgrade or free-weapon route.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/1fcnk34/"
+        ]
+      }
+    ],
+    "sourceOmissions": [
+      "Both opening photos, eligible aim, grenade count/fuses and any further reward remain unresolved."
+    ],
+    "sources": [
+      {
+        "title": "Frozen Dawn hole locations",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      },
+      {
+        "title": "Original frag-only code report",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1fcnk34/"
+      }
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": null,
+    "sharedSource": false,
+    "supplementNote": "Practical instructions from the linked primary written sections. Missing physical keys and uncertain counts are identified below; no retail or image verification is claimed."
   }
 }

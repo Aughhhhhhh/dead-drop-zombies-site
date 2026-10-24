@@ -10,6 +10,7 @@ import {
   parseRoute,
   externalUrl,
   expandCommunityGuides,
+  pillarShots,
 } from "../core.js";
 
 const readJson = async (file) =>
@@ -41,6 +42,21 @@ const [catalog, classic, modern, extra, aw, community, completionClassic, comple
   );
 const maps = catalog.games.flatMap((game) => game.maps);
 const guides = [...classic, ...modern, ...extra, ...aw, ...completionClassic, ...completionModern, ...completionModes, ...superQuests, ...researched, ...auditClassic, ...auditModern, ...auditModes, ...expandCommunityGuides(community)];
+
+test("pillar decoder matches the worked example and covers every orientation", () => {
+  assert.deepEqual(pillarShots([3, 1, 1, 3]), [0, 3, 3, 0]);
+  assert.deepEqual(pillarShots([0, 0, 0, 0]), [0, 0, 0, 0]);
+  const results = new Set();
+  for (let state = 0; state < 256; state++) {
+    const turns = [0, 1, 2, 3].map((place) => Math.floor(state / 4 ** place) % 4);
+    const shots = pillarShots(turns);
+    assert.ok(shots.every((value) => Number.isInteger(value) && value >= 0 && value <= 3));
+    results.add(shots.join(","));
+  }
+  assert.equal(results.size, 256);
+  for (const invalid of [null, [], [0, 1, 2, 4], [0, 1, 2, 1.5], ["0", 1, 2, 3], Array(4)])
+    assert.throws(() => pillarShots(invalid), RangeError);
+});
 
 test("map-specific corrections preserve progress IDs and other editions", () => {
   const sourceSteps = [{ title: "Source route", body: "Original shared instructions" }];

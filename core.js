@@ -104,6 +104,15 @@ export function parseRoute(hash) {
   };
 }
 
+export function pillarShots(turns) {
+  if (!Array.isArray(turns) || turns.length !== 4 ||
+      !Array.from(turns).every((value) => Number.isInteger(value) && value >= 0 && value <= 3))
+    throw new RangeError("Each block needs a rotation count from 0 to 3");
+  const [a, b, c, d] = turns;
+  return [b + 2 * c + 3 * d, a + 2 * b + 2 * d,
+    2 * a + 2 * c + d, 3 * a + 2 * b + c].map((shots) => shots % 4);
+}
+
 export function externalUrl(value) {
   try {
     const url = new URL(value);

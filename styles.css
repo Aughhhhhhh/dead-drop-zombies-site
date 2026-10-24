@@ -1855,6 +1855,38 @@ input[type="search"]::-webkit-search-cancel-button {
   cursor: pointer;
   color: var(--green);
 }
+.pillar-solver {
+  margin: 24px 0;
+  padding: 20px;
+  border: 1px solid var(--line);
+}
+.pillar-solver legend {
+  font: 25px var(--heading);
+}
+.pillar-inputs {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 12px;
+}
+.pillar-inputs label {
+  display: grid;
+  gap: 6px;
+}
+.pillar-inputs select {
+  width: 100%;
+  min-height: 44px;
+  padding: 8px;
+  color: var(--text);
+  background: var(--panel);
+  border: 1px solid var(--line);
+  font: inherit;
+}
+.pillar-solver output {
+  display: block;
+  min-height: 1.8em;
+  margin-top: 16px;
+  font-weight: 700;
+}
 .art-label {
   position: absolute;
   bottom: 12px;

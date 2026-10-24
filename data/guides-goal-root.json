@@ -11147,5 +11147,777 @@
         "height": 600
       }
     ]
+  },
+  {
+    "id": "wwii-the-frozen-dawn-firearms",
+    "mapId": "wwii-the-frozen-dawn",
+    "title": "Frozen Dawn firearms: fifty-four historical rows",
+    "category": "weapon",
+    "difficulty": "Setup / reference",
+    "players": "Solo / co-op",
+    "summary": "Acquisition and packed names from the map’s weapon table, with the malformed Lee Enfield row explicit.",
+    "requirements": [
+      "Call of Duty: WWII — The Frozen Dawn.",
+      "Read current wall, Box and starting-loadout prompts.",
+      "Ancient Ubersprengen access for ordinary upgrades."
+    ],
+    "reward": "The acquired firearm and its table-reported packed version where the row is readable.",
+    "steps": [
+      {
+        "title": "Read the table as a historical reference",
+        "body": "The fifty-four rows below preserve the map guide’s ordinary firearm entries. The Vintage and Raven’s Claw are handled in their own quest cards; The Classic has its own Morgue route. Lee Enfield’s malformed original cells are preserved and flagged. No later/current complete Box pool is certified.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      },
+      {
+        "title": "Use a wall, loadout or Box route",
+        "body": "For a listed wall purchase, open the region and read the actual mount’s gun and price. A starting route depends on what your current loadout menu permits. The source also broadly says wall and starting weapons are available in the Box, whose written locations are Overlook, Phylactery and Passage.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "The blanket Box note is historical, not a promise of an unlocked current pool, specific offer or roll odds."
+      },
+      {
+        "title": "Upgrade and retrieve the gun",
+        "body": "Unlock the Ancient Ubersprengen through the Passage stone and three ordinary transports. Equip the wanted gun and use the actual upgrade prompt. The shared WWII source gives 5,000 Jolts for a non-special firearm upgrade; wait and take the returned gun.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/",
+        "tip": "This pricing is a shared WWII reference from The Final Reich, qualified by the actual Frozen Dawn prompt.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+        ]
+      },
+      {
+        "title": "Check packed ammunition and special effects separately",
+        "body": "The shared source gives 4,000 Jolts for ammunition for an already-packed gun at the machine. Packed names alone do not establish every special attack, attachment, damage value or ammunition purchase. Inspect the actual transaction and weapon behavior.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/",
+        "tip": "No BO3 alternate-ammo rules or current per-weapon special-effect matrix is inferred.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+        ]
+      },
+      {
+        "title": "M1941 → Emma-Gee",
+        "body": "M1941 | Emma-Gee | Wall Weapon | 1600 Jolts | Overlook",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>M1941</td><td>Emma-Gee</td><td>Wall Weapon</td><td>1600 Jolts</td><td>Overlook</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "Historical wall listing: Overlook, 1600 Jolts. Open that region and read the actual gun/price before paying.  Names and routes are historical written listings, not a current Box, ammo, attachment, kit or special-effect census."
+      },
+      {
+        "title": "M1 Garand → G.O.A.T.",
+        "body": "M1 Garand | G.O.A.T. | Wall Weapon & Starting Weapon | 1250 Jolts | Thulian Archives",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>M1 Garand</td><td>G.O.A.T.</td><td>Wall Weapon &amp; Starting Weapon</td><td>1250 Jolts</td><td>Thulian Archives</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "Historical wall listing: Thulian Archives, 1250 Jolts. Open that region and read the actual gun/price before paying. A selectable starting route is also listed. Names and routes are historical written listings, not a current Box, ammo, attachment, kit or special-effect census."
+      },
+      {
+        "title": "STG44 → STG770",
+        "body": "STG44 | STG770 | Mystery Box | - | -",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>STG44</td><td>STG770</td><td>Mystery Box</td><td>-</td><td>-</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "The table lists a Mystery Box route. Use the active Box and take the gun if it is offered; no number of random rolls is guaranteed. Names and routes are historical written listings, not a current Box, ammo, attachment, kit or special-effect census."
+      },
+      {
+        "title": "M1A1 Carbine → M2 Carbine",
+        "body": "M1A1 Carbine | M2 Carbine | Mystery Box | - | -",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>M1A1 Carbine</td><td>M2 Carbine</td><td>Mystery Box</td><td>-</td><td>-</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "The table lists a Mystery Box route. Use the active Box and take the gun if it is offered; no number of random rolls is guaranteed. Names and routes are historical written listings, not a current Box, ammo, attachment, kit or special-effect census."
+      },
+      {
+        "title": "FG 42 → Device 450",
+        "body": "FG 42 | Device 450 | Wall Weapon | 1600 Jolts | Phylcatery",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>FG 42</td><td>Device 450</td><td>Wall Weapon</td><td>1600 Jolts</td><td>Phylcatery</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "Historical wall listing: Phylcatery, 1600 Jolts. Open that region and read the actual gun/price before paying.  Names and routes are historical written listings, not a current Box, ammo, attachment, kit or special-effect census."
+      },
+      {
+        "title": "BAR → FU-BAR",
+        "body": "BAR | FU-BAR | Wall Weapon | 1500 Jolts | Overlook",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>BAR</td><td>FU-BAR</td><td>Wall Weapon</td><td>1500 Jolts</td><td>Overlook</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "Historical wall listing: Overlook, 1500 Jolts. Open that region and read the actual gun/price before paying.  Names and routes are historical written listings, not a current Box, ammo, attachment, kit or special-effect census."
+      },
+      {
+        "title": "SVT-40 → AVT-40",
+        "body": "SVT-40 | AVT-40 | Wall Weapon | 750 Jolts | Ice Caves",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>SVT-40</td><td>AVT-40</td><td>Wall Weapon</td><td>750 Jolts</td><td>Ice Caves</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "Historical wall listing: Ice Caves, 750 Jolts. Open that region and read the actual gun/price before paying.  Names and routes are historical written listings, not a current Box, ammo, attachment, kit or special-effect census."
+      },
+      {
+        "title": "Gewehr 43 → Barbarossa's Strike",
+        "body": "Gewehr 43 | Barbarossa's Strike | Mystery Box | - | -",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>Gewehr 43</td><td>Barbarossa's Strike</td><td>Mystery Box</td><td>-</td><td>-</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "The table lists a Mystery Box route. Use the active Box and take the gun if it is offered; no number of random rolls is guaranteed. Names and routes are historical written listings, not a current Box, ammo, attachment, kit or special-effect census."
+      },
+      {
+        "title": "Volkssturmgewehr → People's Storm",
+        "body": "Volkssturmgewehr | People's Storm | Mystery Box | - | -",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>Volkssturmgewehr</td><td>People's Storm</td><td>Mystery Box</td><td>-</td><td>-</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "The table lists a Mystery Box route. Use the active Box and take the gun if it is offered; no number of random rolls is guaranteed. Names and routes are historical written listings, not a current Box, ammo, attachment, kit or special-effect census."
+      },
+      {
+        "title": "Itra Burst → Hercules",
+        "body": "Itra Burst | Hercules | Mystery Box | - | -",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>Itra Burst</td><td>Hercules</td><td>Mystery Box</td><td>-</td><td>-</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "The table lists a Mystery Box route. Use the active Box and take the gun if it is offered; no number of random rolls is guaranteed. Names and routes are historical written listings, not a current Box, ammo, attachment, kit or special-effect census."
+      },
+      {
+        "title": "Type 5 → Go Ban",
+        "body": "Type 5 | Go Ban | Mystery Box | - | -",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>Type 5</td><td>Go Ban</td><td>Mystery Box</td><td>-</td><td>-</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "The table lists a Mystery Box route. Use the active Box and take the gun if it is offered; no number of random rolls is guaranteed. Names and routes are historical written listings, not a current Box, ammo, attachment, kit or special-effect census."
+      },
+      {
+        "title": "M2 Carbine → M2A2 Carbine",
+        "body": "M2 Carbine | M2A2 Carbine | Mystery Box | - | -",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>M2 Carbine</td><td>M2A2 Carbine</td><td>Mystery Box</td><td>-</td><td>-</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "The table lists a Mystery Box route. Use the active Box and take the gun if it is offered; no number of random rolls is guaranteed. Names and routes are historical written listings, not a current Box, ammo, attachment, kit or special-effect census."
+      },
+      {
+        "title": "AVS-36 → Complex Beat",
+        "body": "AVS-36 | Complex Beat | Mystery Box | - | -",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>AVS-36</td><td>Complex Beat</td><td>Mystery Box</td><td>-</td><td>-</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "The table lists a Mystery Box route. Use the active Box and take the gun if it is offered; no number of random rolls is guaranteed. Names and routes are historical written listings, not a current Box, ammo, attachment, kit or special-effect census."
+      },
+      {
+        "title": "Automaton → First Red Hero",
+        "body": "Automaton | First Red Hero | Mystery Box | - | -",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>Automaton</td><td>First Red Hero</td><td>Mystery Box</td><td>-</td><td>-</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "The table lists a Mystery Box route. Use the active Box and take the gun if it is offered; no number of random rolls is guaranteed. Names and routes are historical written listings, not a current Box, ammo, attachment, kit or special-effect census."
+      },
+      {
+        "title": "PPSh-41 → Dedushka",
+        "body": "PPSh-41 | Dedushka | Wall Weapon | 1000 Jolts | Blood Altar",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>PPSh-41</td><td>Dedushka</td><td>Wall Weapon</td><td>1000 Jolts</td><td>Blood Altar</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "Historical wall listing: Blood Altar, 1000 Jolts. Open that region and read the actual gun/price before paying.  Names and routes are historical written listings, not a current Box, ammo, attachment, kit or special-effect census."
+      },
+      {
+        "title": "Type 100 → Blood Type",
+        "body": "Type 100 | Blood Type | Wall Weapon | 750 Jolts | Ice Caves",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>Type 100</td><td>Blood Type</td><td>Wall Weapon</td><td>750 Jolts</td><td>Ice Caves</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "Historical wall listing: Ice Caves, 750 Jolts. Open that region and read the actual gun/price before paying.  Names and routes are historical written listings, not a current Box, ammo, attachment, kit or special-effect census."
+      },
+      {
+        "title": "Waffe 28 → Flapjack",
+        "body": "Waffe 28 | Flapjack | Wall Weapon | 1000 Jolts | Passage",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>Waffe 28</td><td>Flapjack</td><td>Wall Weapon</td><td>1000 Jolts</td><td>Passage</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "Historical wall listing: Passage, 1000 Jolts. Open that region and read the actual gun/price before paying.  Names and routes are historical written listings, not a current Box, ammo, attachment, kit or special-effect census."
+      },
+      {
+        "title": "Grease Gun → The Greaser",
+        "body": "Grease Gun | The Greaser | Wall Weapon | 1000 Jolts | Phylcatery",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>Grease Gun</td><td>The Greaser</td><td>Wall Weapon</td><td>1000 Jolts</td><td>Phylcatery</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "Historical wall listing: Phylcatery, 1000 Jolts. Open that region and read the actual gun/price before paying.  Names and routes are historical written listings, not a current Box, ammo, attachment, kit or special-effect census."
+      },
+      {
+        "title": "M1928 → Chicago Typewriter",
+        "body": "M1928 | Chicago Typewriter | Wall Weapon & Starting Weapon | 1000 Jolts | Morgue",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>M1928</td><td>Chicago Typewriter</td><td>Wall Weapon &amp; Starting Weapon</td><td>1000 Jolts</td><td>Morgue</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "Historical wall listing: Morgue, 1000 Jolts. Open that region and read the actual gun/price before paying. A selectable starting route is also listed. Names and routes are historical written listings, not a current Box, ammo, attachment, kit or special-effect census."
+      },
+      {
+        "title": "MP-40 → Hardly Werkeing",
+        "body": "MP-40 | Hardly Werkeing | Wall Weapon & Starting Weapon | 1000 Jolts | Morgue",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>MP-40</td><td>Hardly Werkeing</td><td>Wall Weapon &amp; Starting Weapon</td><td>1000 Jolts</td><td>Morgue</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "Historical wall listing: Morgue, 1000 Jolts. Open that region and read the actual gun/price before paying. A selectable starting route is also listed. Names and routes are historical written listings, not a current Box, ammo, attachment, kit or special-effect census."
+      },
+      {
+        "title": "Sten → La Resistance",
+        "body": "Sten | La Resistance | Mystery Box | - | -",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>Sten</td><td>La Resistance</td><td>Mystery Box</td><td>-</td><td>-</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "The table lists a Mystery Box route. Use the active Box and take the gun if it is offered; no number of random rolls is guaranteed. Names and routes are historical written listings, not a current Box, ammo, attachment, kit or special-effect census."
+      },
+      {
+        "title": "Orso → The Boot",
+        "body": "Orso | The Boot | Mystery Box | - | -",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>Orso</td><td>The Boot</td><td>Mystery Box</td><td>-</td><td>-</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "The table lists a Mystery Box route. Use the active Box and take the gun if it is offered; no number of random rolls is guaranteed. Names and routes are historical written listings, not a current Box, ammo, attachment, kit or special-effect census."
+      },
+      {
+        "title": "M-38 → Casket King",
+        "body": "M-38 | Casket King | Mystery Box | - | -",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>M-38</td><td>Casket King</td><td>Mystery Box</td><td>-</td><td>-</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "The table lists a Mystery Box route. Use the active Box and take the gun if it is offered; no number of random rolls is guaranteed. Names and routes are historical written listings, not a current Box, ammo, attachment, kit or special-effect census."
+      },
+      {
+        "title": "Sterling → The British 6",
+        "body": "Sterling | The British 6 | Mystery Box | - | -",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>Sterling</td><td>The British 6</td><td>Mystery Box</td><td>-</td><td>-</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "The table lists a Mystery Box route. Use the active Box and take the gun if it is offered; no number of random rolls is guaranteed. Names and routes are historical written listings, not a current Box, ammo, attachment, kit or special-effect census."
+      },
+      {
+        "title": "Nambu Type 2 → Tokyo Jam",
+        "body": "Nambu Type 2 | Tokyo Jam | Mystery Box | - | -",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>Nambu Type 2</td><td>Tokyo Jam</td><td>Mystery Box</td><td>-</td><td>-</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "The table lists a Mystery Box route. Use the active Box and take the gun if it is offered; no number of random rolls is guaranteed. Names and routes are historical written listings, not a current Box, ammo, attachment, kit or special-effect census."
+      },
+      {
+        "title": "ZK-383 → One-Eyed Mace",
+        "body": "ZK-383 | One-Eyed Mace | Mystery Box | - | -",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>ZK-383</td><td>One-Eyed Mace</td><td>Mystery Box</td><td>-</td><td>-</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "The table lists a Mystery Box route. Use the active Box and take the gun if it is offered; no number of random rolls is guaranteed. Names and routes are historical written listings, not a current Box, ammo, attachment, kit or special-effect census."
+      },
+      {
+        "title": "Ribeyrolles → Roland's Count",
+        "body": "Ribeyrolles | Roland's Count | Mystery Box | - | -",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>Ribeyrolles</td><td>Roland's Count</td><td>Mystery Box</td><td>-</td><td>-</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "The table lists a Mystery Box route. Use the active Box and take the gun if it is offered; no number of random rolls is guaranteed. Names and routes are historical written listings, not a current Box, ammo, attachment, kit or special-effect census."
+      },
+      {
+        "title": "Toggle Action → Lucky",
+        "body": "Toggle Action | Lucky | Mystery Box | - | -",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>Toggle Action</td><td>Lucky</td><td>Mystery Box</td><td>-</td><td>-</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "The table lists a Mystery Box route. Use the active Box and take the gun if it is offered; no number of random rolls is guaranteed. Names and routes are historical written listings, not a current Box, ammo, attachment, kit or special-effect census."
+      },
+      {
+        "title": "Combat Shotgun → Diplomatic Solution",
+        "body": "Combat Shotgun | Diplomatic Solution | Wall Weapon & Starting Weapon | 1000 Jolts | Thulian Archives",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>Combat Shotgun</td><td>Diplomatic Solution</td><td>Wall Weapon &amp; Starting Weapon</td><td>1000 Jolts</td><td>Thulian Archives</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "Historical wall listing: Thulian Archives, 1000 Jolts. Open that region and read the actual gun/price before paying. A selectable starting route is also listed. Names and routes are historical written listings, not a current Box, ammo, attachment, kit or special-effect census."
+      },
+      {
+        "title": "M30 Luftwaffe Drilling → Trips",
+        "body": "M30 Luftwaffe Drilling | Trips | Mystery Box & Starting Weapon | - | -",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>M30 Luftwaffe Drilling</td><td>Trips</td><td>Mystery Box &amp; Starting Weapon</td><td>-</td><td>-</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "The table lists a starting-loadout route. Check whether this gun is actually unlocked/selectable in your current loadout; a starting listing is not an instruction to buy a missing wall mount. Names and routes are historical written listings, not a current Box, ammo, attachment, kit or special-effect census."
+      },
+      {
+        "title": "Sawed-Off Shotgun → Last Model",
+        "body": "Sawed-Off Shotgun | Last Model | Wall Weapon & Starting Weapon | 500 Jolts | Crash Site",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>Sawed-Off Shotgun</td><td>Last Model</td><td>Wall Weapon &amp; Starting Weapon</td><td>500 Jolts</td><td>Crash Site</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "Historical wall listing: Crash Site, 500 Jolts. Open that region and read the actual gun/price before paying. A selectable starting route is also listed. Names and routes are historical written listings, not a current Box, ammo, attachment, kit or special-effect census."
+      },
+      {
+        "title": "Blunderbuss → Funderbuss",
+        "body": "Blunderbuss | Funderbuss | Mystery Box | - | -",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>Blunderbuss</td><td>Funderbuss</td><td>Mystery Box</td><td>-</td><td>-</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "The table lists a Mystery Box route. Use the active Box and take the gun if it is offered; no number of random rolls is guaranteed. Names and routes are historical written listings, not a current Box, ammo, attachment, kit or special-effect census."
+      },
+      {
+        "title": "Lewis → Belgian Rattlesnake",
+        "body": "Lewis | Belgian Rattlesnake | Mystery Box | - | -",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>Lewis</td><td>Belgian Rattlesnake</td><td>Mystery Box</td><td>-</td><td>-</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "The table lists a Mystery Box route. Use the active Box and take the gun if it is offered; no number of random rolls is guaranteed. Names and routes are historical written listings, not a current Box, ammo, attachment, kit or special-effect census."
+      },
+      {
+        "title": "MG 15 → Chatterbox",
+        "body": "MG 15 | Chatterbox | Mystery Box | - | -",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>MG 15</td><td>Chatterbox</td><td>Mystery Box</td><td>-</td><td>-</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "The table lists a Mystery Box route. Use the active Box and take the gun if it is offered; no number of random rolls is guaranteed. Names and routes are historical written listings, not a current Box, ammo, attachment, kit or special-effect census."
+      },
+      {
+        "title": "Bren → Ronnie",
+        "body": "Bren | Ronnie | Mystery Box | - | -",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>Bren</td><td>Ronnie</td><td>Mystery Box</td><td>-</td><td>-</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "The table lists a Mystery Box route. Use the active Box and take the gun if it is offered; no number of random rolls is guaranteed. Names and routes are historical written listings, not a current Box, ammo, attachment, kit or special-effect census."
+      },
+      {
+        "title": "MG 42 → Bone Saw",
+        "body": "MG 42 | Bone Saw | Mystery Box | - | -",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>MG 42</td><td>Bone Saw</td><td>Mystery Box</td><td>-</td><td>-</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "The table lists a Mystery Box route. Use the active Box and take the gun if it is offered; no number of random rolls is guaranteed. Names and routes are historical written listings, not a current Box, ammo, attachment, kit or special-effect census."
+      },
+      {
+        "title": "GPMG → Good Enough",
+        "body": "GPMG | Good Enough | Mystery Box | - | -",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>GPMG</td><td>Good Enough</td><td>Mystery Box</td><td>-</td><td>-</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "The table lists a Mystery Box route. Use the active Box and take the gun if it is offered; no number of random rolls is guaranteed. Names and routes are historical written listings, not a current Box, ammo, attachment, kit or special-effect census."
+      },
+      {
+        "title": "MG 81 → Spandau Serenade",
+        "body": "MG 81 | Spandau Serenade | Mystery Box | - | -",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>MG 81</td><td>Spandau Serenade</td><td>Mystery Box</td><td>-</td><td>-</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "The table lists a Mystery Box route. Use the active Box and take the gun if it is offered; no number of random rolls is guaranteed. Names and routes are historical written listings, not a current Box, ammo, attachment, kit or special-effect census."
+      },
+      {
+        "title": "Stinger → Hurt Box",
+        "body": "Stinger | Hurt Box | Mystery Box | - | -",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>Stinger</td><td>Hurt Box</td><td>Mystery Box</td><td>-</td><td>-</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "The table lists a Mystery Box route. Use the active Box and take the gun if it is offered; no number of random rolls is guaranteed. Names and routes are historical written listings, not a current Box, ammo, attachment, kit or special-effect census."
+      },
+      {
+        "title": "Lee Enfield: source row malformed",
+        "body": "Lee Enfield | SmileyWall Weapon | 1600 Jolts | Blood Altar | ",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>Lee Enfield</td><td>SmileyWall Weapon</td><td>1600 Jolts</td><td>Blood Altar</td><td></td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "This original row is malformed: SmileyWall Weapon is merged into one cell, and the later cells are shifted. It is preserved without silently repairing the alias, route, cost or location. Use a verified current prompt before relying on those fields. Names and routes are historical written listings, not a current Box, ammo, attachment, kit or special-effect census."
+      },
+      {
+        "title": "Karabin → White Death",
+        "body": "Karabin | White Death | Mystery Box | - | -",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>Karabin</td><td>White Death</td><td>Mystery Box</td><td>-</td><td>-</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "The table lists a Mystery Box route. Use the active Box and take the gun if it is offered; no number of random rolls is guaranteed. Names and routes are historical written listings, not a current Box, ammo, attachment, kit or special-effect census."
+      },
+      {
+        "title": "M1903 → Massachusetts",
+        "body": "M1903 | Massachusetts | Mystery Box | - | -",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>M1903</td><td>Massachusetts</td><td>Mystery Box</td><td>-</td><td>-</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "The table lists a Mystery Box route. Use the active Box and take the gun if it is offered; no number of random rolls is guaranteed. Names and routes are historical written listings, not a current Box, ammo, attachment, kit or special-effect census."
+      },
+      {
+        "title": "Kar98k → War Model",
+        "body": "Kar98k | War Model | Mystery Box | - | -",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>Kar98k</td><td>War Model</td><td>Mystery Box</td><td>-</td><td>-</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "The table lists a Mystery Box route. Use the active Box and take the gun if it is offered; no number of random rolls is guaranteed. Names and routes are historical written listings, not a current Box, ammo, attachment, kit or special-effect census."
+      },
+      {
+        "title": "Type 38 → Defaced Chrysanthemum",
+        "body": "Type 38 | Defaced Chrysanthemum | Mystery Box | - | -",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>Type 38</td><td>Defaced Chrysanthemum</td><td>Mystery Box</td><td>-</td><td>-</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "The table lists a Mystery Box route. Use the active Box and take the gun if it is offered; no number of random rolls is guaranteed. Names and routes are historical written listings, not a current Box, ammo, attachment, kit or special-effect census."
+      },
+      {
+        "title": "PTRS-41 → Tiger Gun",
+        "body": "PTRS-41 | Tiger Gun | Mystery Box | - | -",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>PTRS-41</td><td>Tiger Gun</td><td>Mystery Box</td><td>-</td><td>-</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "The table lists a Mystery Box route. Use the active Box and take the gun if it is offered; no number of random rolls is guaranteed. Names and routes are historical written listings, not a current Box, ammo, attachment, kit or special-effect census."
+      },
+      {
+        "title": "Lever Action → Trixie",
+        "body": "Lever Action | Trixie | Mystery Box | - | -",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>Lever Action</td><td>Trixie</td><td>Mystery Box</td><td>-</td><td>-</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "The table lists a Mystery Box route. Use the active Box and take the gun if it is offered; no number of random rolls is guaranteed. Names and routes are historical written listings, not a current Box, ammo, attachment, kit or special-effect census."
+      },
+      {
+        "title": "De Lisle → Subsonic Scream",
+        "body": "De Lisle | Subsonic Scream | Mystery Box | - | -",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>De Lisle</td><td>Subsonic Scream</td><td>Mystery Box</td><td>-</td><td>-</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "The table lists a Mystery Box route. Use the active Box and take the gun if it is offered; no number of random rolls is guaranteed. Names and routes are historical written listings, not a current Box, ammo, attachment, kit or special-effect census."
+      },
+      {
+        "title": "3-Line Rifle → Hot Borshch",
+        "body": "3-Line Rifle | Hot Borshch | Mystery Box | - | -",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>3-Line Rifle</td><td>Hot Borshch</td><td>Mystery Box</td><td>-</td><td>-</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "The table lists a Mystery Box route. Use the active Box and take the gun if it is offered; no number of random rolls is guaranteed. Names and routes are historical written listings, not a current Box, ammo, attachment, kit or special-effect census."
+      },
+      {
+        "title": "1911 → Bacon and Eggs",
+        "body": "1911 | Bacon and Eggs | Starting Weapon & Mystery Box | - | -",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>1911</td><td>Bacon and Eggs</td><td>Starting Weapon &amp; Mystery Box</td><td>-</td><td>-</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "The table lists a starting-loadout route. Check whether this gun is actually unlocked/selectable in your current loadout; a starting listing is not an instruction to buy a missing wall mount. Names and routes are historical written listings, not a current Box, ammo, attachment, kit or special-effect census."
+      },
+      {
+        "title": "P-08 → G.I.'s Souvenir",
+        "body": "P-08 | G.I.'s Souvenir | Starting Weapon | - | -",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>P-08</td><td>G.I.'s Souvenir</td><td>Starting Weapon</td><td>-</td><td>-</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "The table lists a starting-loadout route. Check whether this gun is actually unlocked/selectable in your current loadout; a starting listing is not an instruction to buy a missing wall mount. Names and routes are historical written listings, not a current Box, ammo, attachment, kit or special-effect census."
+      },
+      {
+        "title": "Machine Pistol → Red 9",
+        "body": "Machine Pistol | Red 9 | Starting Weapon & Wall Weapon | 500 Jolts | Crash Site",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>Machine Pistol</td><td>Red 9</td><td>Starting Weapon &amp; Wall Weapon</td><td>500 Jolts</td><td>Crash Site</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "Historical wall listing: Crash Site, 500 Jolts. Open that region and read the actual gun/price before paying. A selectable starting route is also listed. Names and routes are historical written listings, not a current Box, ammo, attachment, kit or special-effect census."
+      },
+      {
+        "title": "9mm SAP → Grey Ghost",
+        "body": "9mm SAP | Grey Ghost | Starting Weapon & Mystery Box | - | -",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>9mm SAP</td><td>Grey Ghost</td><td>Starting Weapon &amp; Mystery Box</td><td>-</td><td>-</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "The table lists a starting-loadout route. Check whether this gun is actually unlocked/selectable in your current loadout; a starting listing is not an instruction to buy a missing wall mount. Names and routes are historical written listings, not a current Box, ammo, attachment, kit or special-effect census."
+      },
+      {
+        "title": "Enfield No. 2 → Bulldog",
+        "body": "Enfield No. 2 | Bulldog | Starting Weapon & Mystery Box | - | -",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>Enfield No. 2</td><td>Bulldog</td><td>Starting Weapon &amp; Mystery Box</td><td>-</td><td>-</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "The table lists a starting-loadout route. Check whether this gun is actually unlocked/selectable in your current loadout; a starting listing is not an instruction to buy a missing wall mount. Names and routes are historical written listings, not a current Box, ammo, attachment, kit or special-effect census."
+      },
+      {
+        "title": "Reichsrevolver → Glücklicher Punk",
+        "body": "Reichsrevolver | Glücklicher Punk | Mystery Box | - | -",
+        "html": "<table><thead><tr><th>Weapon</th><th>PaP name</th><th>Acquisition</th><th>Cost</th><th>Wall location</th></tr></thead><tbody><tr><td>Reichsrevolver</td><td>Glücklicher Punk</td><td>Mystery Box</td><td>-</td><td>-</td></tr></tbody></table>",
+        "original": false,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "The table lists a Mystery Box route. Use the active Box and take the gun if it is offered; no number of random rolls is guaranteed. Names and routes are historical written listings, not a current Box, ammo, attachment, kit or special-effect census."
+      }
+    ],
+    "sourceOmissions": [
+      "Lee Enfield’s alias/route/cost/location cells require repair evidence. Current Box pool, loadout unlocks, ammo, attachments and weapon-specific packed effects remain unverified."
+    ],
+    "sources": [
+      {
+        "title": "Frozen Dawn historical weapon tables",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      },
+      {
+        "title": "Shared WWII machine prices",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/"
+      }
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+    "sharedSource": false,
+    "supplementNote": "Practical instructions from the linked primary written sections. Missing physical keys and uncertain counts are identified below; no retail or image verification is claimed.",
+    "images": [
+      {
+        "src": "./assets/dawn-firearm-upgrade.svg",
+        "alt": "Ordinary firearm acquisition and upgrade flow",
+        "caption": "Original reference diagram; prices use the qualified shared WWII reference.",
+        "credit": "Dead Drop",
+        "source": "https://www.reddit.com/r/CODZombies/wiki/the-final-reich/",
+        "width": 420,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": "wwii-the-frozen-dawn-perks",
+    "mapId": "wwii-the-frozen-dawn",
+    "title": "Six perks: prices, locations and solo revive",
+    "category": "side",
+    "difficulty": "Setup / reference",
+    "players": "Solo / co-op",
+    "summary": "Find each listed machine and distinguish ordinary purchases from the Dark Room’s six-perk reward.",
+    "requirements": [
+      "Call of Duty: WWII — The Frozen Dawn.",
+      "Jolts and access to the relevant machine."
+    ],
+    "reward": "The purchased perk, or all six through the separate Dark Room quest.",
+    "steps": [
+      {
+        "title": "Lebenblitz at Crash Site",
+        "body": "Find Lebenblitz at Crash Site. The written solo price is 500 Jolts with up to three automatic revivals; the co-op listing is 1,500 Jolts and faster teammate revives. Read the actual mode-specific prompt and remaining availability.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "A co-op purchase is not described as the same automatic solo revival effect. Current limits and loss/rebuy rules are untested."
+      },
+      {
+        "title": "Laufenblitz on Overlook",
+        "body": "At the Overlook, find Laufenblitz. The historical cost is 2,000 Jolts; the source describes faster movement and indefinite sprinting. Confirm the actual machine price before buying.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      },
+      {
+        "title": "Faustblitz in Morgue",
+        "body": "Find Faustblitz in the Morgue and check its prompt. The table lists 2,000 Jolts and increased melee damage. It does not establish every Raven-weapon damage breakpoint or trial interaction.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      },
+      {
+        "title": "Schnellblitz in Thulian Archives",
+        "body": "Find Schnellblitz in the Thulian Archives. Its listed price is 3,000 Jolts and its described benefit is faster reloads. The nearby Hammer stone is a separate pickup.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      },
+      {
+        "title": "Schildblitz between Overlook and Phylactery",
+        "body": "Find Schildblitz along the Overlook–Phylactery connection. The historical cost is 2,000 Jolts; the source describes damaging electricity when reloading. Its nearby Dark Room transport is a separate quest unlock.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      },
+      {
+        "title": "Kugelblitz at Blood Altar",
+        "body": "At the Blood Altar, find Kugelblitz. The written cost is 2,000 Jolts and its benefit is increased firearm damage. Keep the adjacent pressure-pad and ordinary blood-pool quests separate from this machine purchase.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      },
+      {
+        "title": "Use the Dark Room for the reported all-six reward",
+        "body": "Follow the three-pressure-pad and four-nail ritual to receive all six perks through the Dark Room. This is a separate side quest, not an ordinary machine offering or proof of every current perk-cap interaction.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "Current caps, loss/recovery, consumable interactions and co-op sharing still need retail checks."
+      }
+    ],
+    "sourceOmissions": [
+      "Exact machine photos, current prices/caps and reward-loss/consumable interactions remain untested."
+    ],
+    "sources": [
+      {
+        "title": "Primary map guide",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      }
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": null,
+    "sharedSource": false,
+    "supplementNote": "Practical instructions from the linked primary written sections. Missing physical keys and uncertain counts are identified below; no retail or image verification is claimed.",
+    "images": [
+      {
+        "src": "./assets/dawn-perk-locations.svg",
+        "alt": "Six perk areas and historical Jolt prices",
+        "caption": "Original area reference; this is not a machine locator photograph.",
+        "credit": "Dead Drop",
+        "source": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "width": 420,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": "wwii-the-frozen-dawn-equipment-powerups",
+    "mapId": "wwii-the-frozen-dawn",
+    "title": "Equipment and five listed power-ups",
+    "category": "weapon",
+    "difficulty": "Setup / reference",
+    "players": "Solo / co-op",
+    "summary": "Separate the launcher, decoy and starting shovel from pickups and the colored-equipment quest.",
+    "requirements": [
+      "Call of Duty: WWII — The Frozen Dawn.",
+      "Actual Box/loadout availability and access to the required quest area."
+    ],
+    "reward": "The equipped item or collected power-up effect.",
+    "steps": [
+      {
+        "title": "Fliegerfaust → Luftfaust",
+        "body": "The map’s special-weapon table lists Fliegerfaust from the Mystery Box and Luftfaust as its packed name. Take the Box offer, then use the unlocked Ubersprengen’s actual prompt if you want its upgrade. The tower-deflection card describes a separate launcher interaction.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "Current ammo, damage, reload and packed effects are not established by the name row."
+      },
+      {
+        "title": "Jack-in-the-Box and starting shovel",
+        "body": "The same table lists Jack-in-the-Box from the Mystery Box and a shovel as a starting weapon. Check your actual loadout/Box offer. Neither row supplies an upgrade quest; a theory about glowing Jack grenades is not proof of one.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "The original code-analysis discussion reports no established Jack upgrade from the inspected names.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/1fcnk34/comment/lmh39b2/?force-legacy-sct=1"
+        ]
+      },
+      {
+        "title": "Keep the two grenade secrets distinct",
+        "body": "The forge color quest accepts several written equipment types and leads to Double Jolts plus the additional Funderbuss target event. The Archives grenade hole is reported to accept frag grenades specifically. Follow the relevant card instead of assuming equipment that works in one also works in the other.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/1fcnk34/",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+        ]
+      },
+      {
+        "title": "Toten-Griff: Insta-Kill",
+        "body": "The source lists Toten-Griff as a thirty-second effect that lets players kill ordinary zombies instantly. Collect it when useful; it does not establish identical behavior against every special enemy or quest soul requirement.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      },
+      {
+        "title": "Taschen voll: Max Ammo",
+        "body": "Taschen voll refills the ammunition reserve of held weapons for the team according to the table. Check the actual reserves and equipment after collection; the text does not establish every special-item or magazine-refill rule.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      },
+      {
+        "title": "Elektromagnet: Double Jolts",
+        "body": "The ordinary Elektromagnet pickup is listed as thirty seconds of doubled Jolts. The forge’s colored Double Jolts target is part of a separate matching puzzle; merely seeing a colored target is not the same as collecting the ordinary buff.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      },
+      {
+        "title": "Vernichten: Nuke",
+        "body": "The table describes Vernichten as killing ordinary zombies across the map. Consider any live zombie or required special enemy you are holding for a quest before collecting it. Exact quest-credit and special-enemy effects are unverified.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      },
+      {
+        "title": "Überladen: Full Meter",
+        "body": "The Überladen pickup fills the player’s special-ability meter according to the source. Check your actual ability state after collecting it. No guaranteed boss damage, recharge timing or consumable inventory is inferred.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      }
+    ],
+    "sourceOmissions": [
+      "Current equipment/consumable inventory, Jack upgrade status, refill exceptions and every special-weapon effect remain unverified."
+    ],
+    "sources": [
+      {
+        "title": "Frozen Dawn special items and power-ups",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      },
+      {
+        "title": "Original grenade/Jack analysis",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1fcnk34/"
+      },
+      {
+        "title": "Original correction thread",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1fcnk34/comment/lmh39b2/?force-legacy-sct=1"
+      }
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": null,
+    "sharedSource": false,
+    "supplementNote": "Practical instructions from the linked primary written sections. Missing physical keys and uncertain counts are identified below; no retail or image verification is claimed.",
+    "images": [
+      {
+        "src": "./assets/dawn-powerup-effects.svg",
+        "alt": "Five historical power-up effects",
+        "caption": "Original effect reference; special-enemy and equipment exceptions remain qualified in the steps.",
+        "credit": "Dead Drop",
+        "source": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "width": 420,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": "wwii-the-frozen-dawn-special-enemies",
+    "mapId": "wwii-the-frozen-dawn",
+    "title": "Special enemies and their quest uses",
+    "category": "side",
+    "difficulty": "Setup / reference",
+    "players": "Solo / co-op",
+    "summary": "Recognize the four listed enemy types before using them in a weapon or possession route.",
+    "requirements": [
+      "Call of Duty: WWII — The Frozen Dawn.",
+      "Access to the relevant enemy/quest stage."
+    ],
+    "reward": "Safer identification of enemies needed for the map’s interactions.",
+    "steps": [
+      {
+        "title": "Pests",
+        "body": "The source describes fast pests appearing on special waves. A Pest is also one of the reported eligible targets for the possession transport route. Exact wave schedule, health and possession input still need direct checks.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      },
+      {
+        "title": "Wüstlings",
+        "body": "A Wüstling has a strong charge that can knock down zombies in its path; the source identifies its spine as a weak point. The Shield-carrying quest Wüstling is a specific spawn, and the lone-transport character challenge requires keeping it alive until that interaction.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "Do not substitute an ordinary Wüstling for a quest-specific state without checking the response."
+      },
+      {
+        "title": "Bombers",
+        "body": "Bombers explode near players and can kill other zombies. The source says shooting the second zombie head on the back can remove the bomb; keep the explosive available when you need the Crash Site metal-door blast for the Shield upgrade.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "Blast position, bomb-removal edge cases and the recent round-eight gate report are not retail-tested.",
+        "corroboratingSources": [
+          "https://www.reddit.com/r/CODZombies/comments/1u3o63h/"
+        ]
+      },
+      {
+        "title": "Corpse Eaters",
+        "body": "A Corpse Eater attacks other zombies and becomes stronger as it consumes them. Let one reach its visible glowing state when the Shield route requires a fully charged enemy; the Scythe spine route and the Hammer relay use different interactions with this enemy. Its speed makes holding it beside a precise pool risky.",
+        "original": true,
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "tip": "Exact feeding count, charge duration, spine eligibility and damage values are unverified."
+      }
+    ],
+    "sourceOmissions": [
+      "Current health/damage, wave schedules, precise charge states and a complete enemy-variant census remain unverified."
+    ],
+    "sources": [
+      {
+        "title": "Frozen Dawn enemy descriptions and quests",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/"
+      },
+      {
+        "title": "Recent Bomber-gate report",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1u3o63h/"
+      }
+    ],
+    "checked": "2026-10-23",
+    "sourceQuote": null,
+    "sharedSource": false,
+    "supplementNote": "Practical instructions from the linked primary written sections. Missing physical keys and uncertain counts are identified below; no retail or image verification is claimed.",
+    "images": [
+      {
+        "src": "./assets/dawn-enemy-quest-roles.svg",
+        "alt": "Four special-enemy quest roles",
+        "caption": "Original role diagram; use the written steps for the required enemy state.",
+        "credit": "Dead Drop",
+        "source": "https://www.reddit.com/r/CODZombies/wiki/the-frozen-dawn/",
+        "width": 420,
+        "height": 600
+      }
+    ]
   }
 ]
