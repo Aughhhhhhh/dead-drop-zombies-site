@@ -6,32 +6,42 @@
     "category": "music",
     "difficulty": "Easy",
     "players": "1–4 players; solo supported",
-    "summary": "Activate all three toy sharks for Carrier's music secret.",
+    "summary": "Find the three small shark props in the Hangar locker room, the Hangar–Gun Deck connector and Lift to activate Carrier’s song.",
     "requirements": [
-      "Open Hangar, Gun Deck, and Lift"
+      "Open access to Hangar, the connector toward Gun Deck and Lift.",
+      "An Exo Suit helps reach the Lift shark-tank railing.",
+      "Use your bound Interact button on the little toys, not on the live sharks used by other challenges."
     ],
-    "reward": "Plays Mars, the Bringer of War.",
+    "reward": "Carrier’s music secret, identified in the player report as Mars. The full title has not been independently checked in this pass.",
     "steps": [
       {
         "title": "Find the Hangar shark",
-        "body": "Interact with the toy on top of Captain DJ's locker beside Exo Medic."
+        "body": "Enter the Hangar locker room and find the Captain DJ sign. Look immediately above that sign for the little shark prop and use Interact on it. SomeFriend’s original discovery reply explicitly identifies this locker-room landmark. This is a small toy interaction; opening Captain DJ’s story locker with the eyeball is a separate task.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/3878ck/carrier_easter_egg_thread_spoilers/"
       },
       {
         "title": "Find the Gun Deck shark",
-        "body": "Check the corner shelf in the upper passage between Gun Deck and Hangar, and interact with its toy shark."
+        "body": "Use the room connecting Hangar to Gun Deck. Locate its corner shelves and inspect the bottom shelf of the left-most corner unit. Interact with the little shark there. The firsthand discovery describes a bottom shelf; the old guide’s upper-passage description was too vague and is not used as the locator.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/3878ck/carrier_easter_egg_thread_spoilers/"
       },
       {
         "title": "Find the Lift shark",
-        "body": "Exo jump onto the crane platform above Exo Reload's power wire. Interact with the third toy. Each activation plays a short musical cue; the song starts after all three."
+        "body": "In Lift, find the shark tank by the reload / speed perk landmark. Hop onto the tank and look toward the right-hand corner at the top railing, where the discovery reply places the last small shark. Use Interact on it. After all three toys have registered, listen for Carrier’s song. A later player’s music list independently calls Carrier’s track Mars.\nThe original locator uses the informal perk name “speed cola”; the exact label, per-toy cue and replay behavior have not been rechecked.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/3878ck/carrier_easter_egg_thread_spoilers/",
+        "tip": "The discovery reports locations rather than a button-by-button demonstration. The Interact input is retained from the existing route; this pass did not test activation cues or replayability."
       }
     ],
     "sources": [
       {
-        "title": "MMMRKennedy: Carrier secrets and pictured locations",
-        "url": "https://mmmrkennedy.com/games/AW/carrier/carrier_guide"
+        "title": "SomeFriend: firsthand locations of all three little sharks",
+        "url": "https://www.reddit.com/r/CODZombies/comments/3878ck/carrier_easter_egg_thread_spoilers/"
+      },
+      {
+        "title": "Ex_saiyan: Carrier’s track identified as Mars",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1hkhtee/what_is_this/"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-24"
   },
   {
     "id": "aw-carrier-gold-trophy",
@@ -40,38 +50,54 @@
     "category": "side",
     "difficulty": "Hard",
     "players": "1–4 players; solo supported",
-    "summary": "A separate reward from the ordinary Carrier main quest.",
+    "summary": "Carry a fish through a fast laser-course attempt and look for the Gold Reward confirmation. Historical reports disagree about drunk mode and the precise cutoff.",
     "requirements": [
-      "Complete the main guide's first tablet and fishing rod",
-      "A red fish from fishing; random catch",
-      "Open Cargo Deck → Lift → Moon Pool → Hangar"
+      "Set up the fishing rod and the laser course using the main guide; open Cargo Deck, Lift, Moon Pool and Hangar.",
+      "Keep a fish in the quest inventory for the successful attempt. These reports do not establish a required fish colour.",
+      "Aim below one minute and use the Gold Reward message as the success check. A rigid 55-second requirement is contradicted by a firsthand 59-second success.",
+      "No current platform, mode, co-op count or cross-map trophy-persistence test was performed in this research pass."
     ],
-    "reward": "Carrier gold trophy displayed in Descent's Reception.",
+    "reward": "The historical gold-trophy report says a Gold Reward message appears in Carrier and the trophy then appears in Descent. A particular display-room locator is not independently verified here.",
     "steps": [
       {
         "title": "Catch the red fish",
-        "body": "Fish with the completed Gun Deck rod until you obtain the red fish. Keep it carried."
+        "body": "With the completed Gun Deck rod, fish until you have a fish and check that it is still carried before starting the timed attempt. The original gold discussion and the later fish correction specify a fish without identifying a required colour.\nNite2359 reports a 40.1-second run without a fish that did not grant the medal. Keep the fish condition even when your time is fast; that unsuccessful attempt is stronger evidence than assuming that speed alone is enough.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/3g2vls/cod_advanced_warfare_how_to_get_the_gold_trophy/"
       },
       {
         "title": "Start the drunk maze",
-        "body": "Collect a disposal-machine bottle, then use the Cargo Deck keypad."
+        "body": "Return to the Cargo Deck keypad by the outside Exo Suit area and use Interact to start the course with the fish still in the inventory. Follow the safe gaps toward the Hangar teleporter as in the story guide. Recheck the carried item after any bottle pickup or other quest-item collection.\nDrunk mode is disputed for this optional award. The ordinary tablet route uses the disposal-machine bottle. The original gold thread includes both a report describing a drunk video and a firsthand reply saying the keypad also worked sober, with a 40.8-second run. A later successful player describes doing the drunk parkour step. Do not treat either drunk-only or sober-only activation as a settled universal rule.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/3g2vls/cod_advanced_warfare_how_to_get_the_gold_trophy/"
       },
       {
         "title": "Finish within one minute",
-        "body": "Get every player to the Hangar teleporter through the laser maze before one minute passes. If too slow, touch a laser to fail deliberately and retry using the keypad. The gold reward requires the fish during the successful attempt."
+        "body": "Move through the laser gaps, reach the destination teleporter and remain as close to it as possible until the course ends. Aim for less than one minute. MyNameIsKorn reports earning the gold at 59 seconds, and WiIIyBum_Bum later describes an under-one-minute successful route. This contradicts treating an early “under 55 seconds” claim as mandatory.\nLook for Gold Reward at the top of the screen. A tablet or a fast time alone is not proof of this separate award. If no reward appears, check the fish and retry from the starting keypad when another attempt is offered. The exact restart delay, co-op participation rules, current persistence into Descent and any edge case at exactly 60 seconds remain unverified.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/3g2vls/cod_advanced_warfare_how_to_get_the_gold_trophy/",
+        "tip": "The later successful trophy report and recent fish correction are linked in Sources. This is a historical practical route, not a retail-tested timing certificate."
       }
     ],
     "sources": [
       {
-        "title": "MMMRKennedy: Carrier secrets and pictured locations",
-        "url": "https://mmmrkennedy.com/games/AW/carrier/carrier_guide"
+        "title": "Original gold discussion: fish, 59-second success and drunk-mode disagreement",
+        "url": "https://www.reddit.com/r/CODZombies/comments/3g2vls/cod_advanced_warfare_how_to_get_the_gold_trophy/"
       },
       {
-        "title": "Community correction: the fish belongs to the laser trophy",
+        "title": "Later successful trophy report: under-one-minute course",
+        "url": "https://www.reddit.com/r/CODZombies/comments/xtgjjo/after_too_many_years_i_finally_went_back_and_did/"
+      },
+      {
+        "title": "Later player correction: fish is for the laser trophy",
         "url": "https://www.reddit.com/r/CODZombies/comments/1x166z8/exo_zombies_easter_egg_help/"
+      },
+      {
+        "title": "Original Carrier hunt: keypad and destination teleporter",
+        "url": "https://www.reddit.com/r/CODZombies/comments/3878ck/carrier_easter_egg_thread_spoilers/"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-24",
+    "relatedGuideIds": [
+      "aw-carrier-flotsam-jetsam"
+    ]
   },
   {
     "id": "aw-carrier-mad-hops",
@@ -1162,41 +1188,72 @@
   {
     "id": "aw-carrier-limbo-upgrades",
     "mapId": "aw-carrier",
-    "title": "LZ-52 Limbo — obtain it and upgrade to Mk 25",
+    "title": "Printer access and Mk upgrades",
     "category": "weapon",
     "difficulty": "Medium",
     "players": "1–4 players; solo supported",
-    "summary": "Carrier's laser weapon comes from the 3D Printer; the third story tablet unlocks its experimental upgrade route.",
+    "summary": "Limbo: Follow the ordinary Mk upgrades, find the regular station and read the limits on the inherited experimental route.",
     "requirements": [
-      "Supremacy DLC",
-      "Credits for 3D Printer rolls and upgrades"
+      "Advanced Warfare: Supremacy / Carrier.",
+      "Credits for repeated upgrades; keep a separate weapon for threats the laser handles poorly.",
+      "The normal Mk progression has independent player evidence. The exact Carrier experimental-station trigger and purchase behavior still need a fresh map-specific check."
     ],
-    "reward": "Limbo laser weapon, attachments and optional Mk 25 diamond version.",
+    "reward": "Ordinary Mk upgrades. The inherited Mk 25 / diamond route is preserved as a qualified legacy instruction, not newly certified.",
     "steps": [
       {
         "title": "Roll the 3D Printer",
-        "body": "Use an active 3D Printer for 1,000 credits per roll until it offers LZ-52 Limbo. Take the weapon before the offer disappears. Printer results are random."
+        "body": "Use a working printer and take LZ-52 Limbo when offered. The publisher identifies it among Carrier’s printer items.",
+        "researchSource": "https://www.callofduty.com/br/pt/blog/archives/pro-tips--exo-zombies-part-three-carrier",
+        "tip": "The old 1,000-credit roll price is not independently established by the sources read for this pass. Check the purchase prompt rather than using that old value as a verified current cost."
       },
       {
         "title": "Upgrade the weapon",
-        "body": "Use the normal Armory Upgrade Station for 2,500 credits per upgrade, progressing Mk 1 → Mk 2 and onward to Mk 20. Limbo receives Target Enhancer at Mk 4 and Quickdraw Grip at Mk 7. Aim its wide beam through groups; an unupgraded Limbo starts making crawlers after round 12."
+        "body": "Look for the regular Upgrade Station in Armory beside the grenade / Plinko board. UnknownGlorys independently reports finding the Carrier station next to that board. Spend credits there to advance the held weapon through its Mk upgrades.\nThe fully read Exo player primer lists 2,500 points per purchase, ordinary progression to Mk 20 and an Easter egg gate for Mk 25. It also says upgrades add ammunition and attachments. This is a general Exo report, not a complete Carrier attachment table. Read the displayed Mk and price before confirming each purchase; exact Limbo attachment thresholds and damage-by-round figures were not independently verified.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/twb292/im_curious_what_do_you_all_think_of_exo_zombies/",
+        "tip": "The primer is linked in Sources. The exact attachment unlock marks and a fixed round when this weapon starts making crawlers remain unverified."
       },
       {
         "title": "Unlock the experimental station",
-        "body": "Advance Flotsam & Jetsam through the third data tablet. Use the Gun Deck experimental station beside the fishing pole to upgrade a held Mk 20 weapon directly to Mk 25. It grants diamond camouflage; this is one final upgrade rather than five separate purchases."
+        "body": "Advance Flotsam & Jetsam through the third data tablet. Use the Gun Deck experimental station beside the fishing pole to upgrade a held Mk 20 weapon directly to Mk 25. It grants diamond camouflage; this is one final upgrade rather than five separate purchases.",
+        "tip": "The third-tablet trigger, station landmark, diamond reward and one-purchase behavior in this paragraph come from an older guide and have not been independently rechecked. A current player primer confirms only a quest gate for Mk 25; read the station’s actual prompt."
+      },
+      {
+        "title": "Keep a second answer to armored targets",
+        "body": "Use the laser against groups while keeping a different weapon available for armored enemies and the lever drones. In a firsthand reply, Negan115BR reports camping beyond round 40 with Limbo but finding it poor at piercing the teleporting Goliath, bomb-guard mechs and loot drones. Another player in the same exchange considers the weapon underwhelming. These are contrasting player experiences, not a verified damage chart or a promise of a particular high-round result.\nThe exchange mentions OHM and M1 Irons in a combined Carrier / Descent discussion. It is not a complete Carrier printer pool, wallbuy list or upgrade-name table, so those mentions are not converted into a map inventory here.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/2vd4is/best_weapons_in_exo_zombies/"
       }
     ],
     "sources": [
       {
-        "title": "LZ-52 Limbo: acquisition and attachments",
+        "title": "Publisher feature overview",
+        "url": "https://www.callofduty.com/br/pt/blog/archives/pro-tips--exo-zombies-part-three-carrier"
+      },
+      {
+        "title": "Exo player primer: 2,500-point upgrades and Mk limits",
+        "url": "https://www.reddit.com/r/CODZombies/comments/11ejwc8/finally_getting_into_trying_exo_zombies_anything/"
+      },
+      {
+        "title": "Carrier player: regular station beside the Plinko board",
+        "url": "https://www.reddit.com/r/CODZombies/comments/twb292/im_curious_what_do_you_all_think_of_exo_zombies/"
+      },
+      {
+        "title": "Firsthand Limbo use and disagreement; not a weapon inventory",
+        "url": "https://www.reddit.com/r/CODZombies/comments/2vd4is/best_weapons_in_exo_zombies/"
+      },
+      {
+        "title": "Inherited legacy reference: Limbo attachments; not reverified",
         "url": "https://callofduty.fandom.com/wiki/LZ-52_Limbo"
       },
       {
-        "title": "Upgrade Station: costs and Carrier unlock",
+        "title": "Inherited legacy reference: experimental station; not reverified",
         "url": "https://callofduty.fandom.com/wiki/Pack-a-Punch_Machine/Upgrade_Station"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-24",
+    "relatedGuideIds": [
+      "aw-carrier-flotsam-jetsam",
+      "aw-carrier-setup-and-special-rounds"
+    ]
   },
   {
     "id": "aw-descent-trident-upgrades",
@@ -2696,5 +2753,87 @@
       }
     ],
     "checked": "2026-10-13"
+  },
+  {
+    "id": "aw-carrier-setup-and-special-rounds",
+    "mapId": "aw-carrier",
+    "title": "Carrier setup — power, printers and bomb rounds",
+    "category": "side",
+    "difficulty": "Easy / reference",
+    "players": "Solo or co-op; exact special-round scaling unverified",
+    "summary": "Get an Exo Suit, find the recorded printer areas, prepare quest grenades and respond to Atlas bombs, gas, infection and EMZs.",
+    "requirements": [
+      "Advanced Warfare: Supremacy / Carrier.",
+      "Open room access and keep enough credits for equipment, upgrades and the active decontamination prompt.",
+      "Learn the HUD bomb and decontamination markers before a quest stage locks your attention.",
+      "This is a finite setup reference from the sources below; exact generator, perk, trap and wallbuy locator censuses remain incomplete."
+    ],
+    "reward": "Access and survival preparation for Carrier’s quests; no additional secret reward is claimed.",
+    "steps": [
+      {
+        "title": "Get an Exo Suit and local power",
+        "body": "Make collecting an Exo Suit an early priority. The player primer says it is required for perks other than the solo Exo Revive exception. Switch on the regional generators as you open the ship: a separate Exo player reply explicitly says power uses several generators rather than one map-wide switch.\nThe hidden generator reached through the lawnmower cave is a separate story-puzzle setup described in the main guide. Do not assume that turning on an ordinary room switch has completed that quest step. This reference does not supply a verified location for every regional generator or perk.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/11ejwc8/finally_getting_into_trying_exo_zombies_anything/"
+      },
+      {
+        "title": "Check the four recorded printer areas",
+        "body": "The Carrier wiki’s operative Printer section lists one printer with locations in these four areas:\nGun Deck.\nHangar.\nMoon Pool.\nArmory.\nCheck those areas for the active machine and read its current prompt. This is the wiki’s finite location list. Its weapon-pool rows are still placeholders, so this list does not certify a complete current weapon pool, each relocation condition or a fixed roll price. Use the related weapon guide for its upgrade details.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/wiki/carrier/"
+      },
+      {
+        "title": "Reserve Teleport and Contact Grenades",
+        "body": "Keep Teleport Grenades available for entering the lawnmower storage space and changing the grenade board’s dispenser. For the board’s actual icon inputs, use Contact Grenades timed to the displayed symbol. The original hunt records both jobs and the three required rows.\nThe hand that supplies rod items is at the Armory Weapon Disposal Machine near the HBRa3 and Contact Grenades. Do not confuse donating a gun to that machine with throwing a grenade into the separate icon board. Preserve a combat weapon before giving away spares.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/3878ck/carrier_easter_egg_thread_spoilers/"
+      },
+      {
+        "title": "Defuse the Atlas bombs",
+        "body": "Listen for the PA bomb warning and follow the location marker on the HUD. Reach that area, kill the Atlas troops guarding the device, and use the dropped cloak to make a safer opening for the defuse interaction. Clear enemies that can still interrupt you; do not treat the cloak as a guaranteed invulnerability window.\nThe player primer reports a power-up from the first successful defuse of that round. If a bomb explodes, the affected room fills with gas and further bombs can move to two other areas. Respond to each new HUD marker rather than waiting in the first room. The report describes three potential failures, not a fixed round-number schedule or a fully measured bomb timer.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/11ejwc8/finally_getting_into_trying_exo_zombies_anything/"
+      },
+      {
+        "title": "Leave gas and use active decontamination",
+        "body": "If an infection hit starts the infection countdown, follow the HUD decontamination marker and use an active station before the timer reaches zero. Keep a path to that station while attempting a tablet stage. A room filled with bomb gas is unsafe; leave it and check another route.\nThe Carrier defuse report specifically warns that a decontamination zone in a bombed room can be disabled. It also reports a heavy enemy after all three bombs are allowed to detonate. These are historical player observations; this pass has not measured the timing, gas duration, exact fee, damage immunity or the next-round enemy schedule in the current retail build.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/11ejwc8/finally_getting_into_trying_exo_zombies_anything/"
+      },
+      {
+        "title": "Keep an escape route when EMZs appear",
+        "body": "Give EMZs space before an Exo-dependent jump, escape or laser-course attempt. The player primer reports that their EMP effect can disable the suit after a hit or close boost, leaving its movement tools unavailable for a short time. If the suit is disabled, use ordinary movement and clear a path until it returns instead of repeatedly trying an Exo jump.\nThe primer estimates 10–15 seconds, while a later reply simply warns against double-jumping near EMZs. Treat the exact duration as an estimate. No current timer, damage formula or reliable method of canceling the effect was tested here.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/11ejwc8/finally_getting_into_trying_exo_zombies_anything/"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Exo player primer: suit, power, upgrades, infection and Carrier defuses",
+        "url": "https://www.reddit.com/r/CODZombies/comments/11ejwc8/finally_getting_into_trying_exo_zombies_anything/"
+      },
+      {
+        "title": "Carrier wiki: four recorded printer locations; other sections incomplete",
+        "url": "https://www.reddit.com/r/CODZombies/wiki/carrier/"
+      },
+      {
+        "title": "Original Carrier hunt: grenade equipment and disposal landmarks",
+        "url": "https://www.reddit.com/r/CODZombies/comments/3878ck/carrier_easter_egg_thread_spoilers/"
+      },
+      {
+        "title": "Later Exo advice: avoid boosting near EMZs",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1x166z8/exo_zombies_easter_egg_help/"
+      }
+    ],
+    "relatedGuideIds": [
+      "aw-carrier-flotsam-jetsam",
+      "aw-carrier-limbo-upgrades"
+    ],
+    "checked": "2026-10-24",
+    "images": [
+      {
+        "src": "./assets/carrier-setup.svg",
+        "alt": "Carrier setup and special rounds",
+        "caption": "Original reference diagram. Historical written reference; exact controls, prices and timing remain qualified in the guide.",
+        "credit": "Dead Drop",
+        "source": "https://www.reddit.com/r/CODZombies/comments/11ejwc8/finally_getting_into_trying_exo_zombies_anything/",
+        "width": 420,
+        "height": 660
+      }
+    ]
   }
 ]

@@ -8,8 +8,8 @@
     "Newly authored guides may have source research without a separate recorded full audit. Guide counts and passing software checks do not establish gameplay accuracy."
   ],
   "catalogEntries": 160,
-  "runtimeGuides": 1639,
-  "guidesWithRecordedSourceReview": 1300,
+  "runtimeGuides": 1640,
+  "guidesWithRecordedSourceReview": 1302,
   "guidesCertifiedFullyVerified": 0,
   "batches": [
     {
@@ -467,6 +467,10 @@
     {
       "batch": "aw-infection-main-side-quests-and-references",
       "rowsWithRecordedReview": 10
+    },
+    {
+      "batch": "aw-carrier-main-song-gold-upgrades-and-setup",
+      "rowsWithRecordedReview": 6
     }
   ],
   "guideReviews": [
@@ -494,6 +498,39 @@
             "https://www.reddit.com/r/CODZombies/comments/1x166z8/exo_zombies_easter_egg_help/",
             "https://www.reddit.com/r/CODZombies/comments/3878ck/carrier_easter_egg_thread_spoilers/"
           ]
+        },
+        {
+          "batch": "aw-carrier-main-song-gold-upgrades-and-setup",
+          "reportedStatus": "Complete proposed prose and metadata read; historical primary evidence with visible limits.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "All6 guide metadata and30 chapters read; author104 and independent110 read31 complete operative units. Root read the full reader and selected named primary units, not a second complete31-unit read.",
+            "All5 whole native/raw/effective/durable guards and23 old progress keys pass. All1634 other runtime guide values and25 other AW guides remain unchanged.",
+            "The unchanged Mad Hops guide retains two legacy chapters and its old checked date. All30 chapter titles and practical quest/upgrade instructions are preserved; one redundant setup sentence becomes navigation.",
+            "The original setup header avoids one added generic-art placement. All old artwork, source and current-gameplay limits persist."
+          ],
+          "unverified": [
+            "The written hunt describes the opening and generator, but gives no exact door-open duration or guaranteed throw angle. Wait for the opening instead of aiming at a closed door.",
+            "A later player reports that replacing a carried quest item can remove it. Keep a dependable combat gun, use spare guns for disposal, and leave C4 until the four-tablet route is ready.",
+            "This is the ordinary story-tablet route. The fish, fast time and Gold Reward check belong to the separate gold-trophy guide.",
+            "Do not assume a fast run awarded the gold trophy merely because this tablet appeared. The trophy has its own reported fish condition and on-screen reward message.",
+            "There is no verified fix here for a vanished shovel or a pad that will not accept parts. Check the carried item and the pad prompt before collecting more items.",
+            "The independent fish correction is in the guide’s sources. Current patch, platform and unusual inventory failures have not been retail-tested here.",
+            "Later players report item replacement and disposal frustration. Getting C4 early is not treated as a safe shortcut around the other carried quest items."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 12,
+            "explicitDirectReferences": 12
+          },
+          "requirementsAndRewardReviewed": true,
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/11ejwc8/finally_getting_into_trying_exo_zombies_anything/",
+            "https://www.reddit.com/r/CODZombies/comments/1h9d9zu/carrier_should_take_burger_towns_crown/",
+            "https://www.reddit.com/r/CODZombies/comments/1x166z8/exo_zombies_easter_egg_help/",
+            "https://www.reddit.com/r/CODZombies/comments/3878ck/carrier_easter_egg_thread_spoilers/",
+            "https://www.reddit.com/r/CodAW/comments/3car5y/completed_the_carrier_easter_egg_in_53_min_49_sec/"
+          ]
         }
       ]
     },
@@ -518,6 +555,69 @@
           "evidenceUrls": [
             "https://mmmrkennedy.com/games/AW/carrier/carrier_guide",
             "https://www.reddit.com/r/CODZombies/comments/3878ck/carrier_easter_egg_thread_spoilers/"
+          ]
+        },
+        {
+          "batch": "aw-carrier-main-song-gold-upgrades-and-setup",
+          "reportedStatus": "Complete proposed prose and metadata read; historical primary evidence with visible limits.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "All6 guide metadata and30 chapters read; author104 and independent110 read31 complete operative units. Root read the full reader and selected named primary units, not a second complete31-unit read.",
+            "All5 whole native/raw/effective/durable guards and23 old progress keys pass. All1634 other runtime guide values and25 other AW guides remain unchanged.",
+            "The unchanged Mad Hops guide retains two legacy chapters and its old checked date. All30 chapter titles and practical quest/upgrade instructions are preserved; one redundant setup sentence becomes navigation.",
+            "The original setup header avoids one added generic-art placement. All old artwork, source and current-gameplay limits persist."
+          ],
+          "unverified": [
+            "The later successful trophy report and recent fish correction are linked in Sources. This is a historical practical route, not a retail-tested timing certificate."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 3,
+            "explicitDirectReferences": 3
+          },
+          "requirementsAndRewardReviewed": true,
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/1x166z8/exo_zombies_easter_egg_help/",
+            "https://www.reddit.com/r/CODZombies/comments/3878ck/carrier_easter_egg_thread_spoilers/",
+            "https://www.reddit.com/r/CODZombies/comments/3g2vls/cod_advanced_warfare_how_to_get_the_gold_trophy/",
+            "https://www.reddit.com/r/CODZombies/comments/xtgjjo/after_too_many_years_i_finally_went_back_and_did/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aw-carrier-limbo-upgrades",
+      "mapId": "aw-carrier",
+      "reviews": [
+        {
+          "batch": "aw-carrier-main-song-gold-upgrades-and-setup",
+          "reportedStatus": "Complete proposed prose and metadata read; historical primary evidence with visible limits.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "All6 guide metadata and30 chapters read; author104 and independent110 read31 complete operative units. Root read the full reader and selected named primary units, not a second complete31-unit read.",
+            "All5 whole native/raw/effective/durable guards and23 old progress keys pass. All1634 other runtime guide values and25 other AW guides remain unchanged.",
+            "The unchanged Mad Hops guide retains two legacy chapters and its old checked date. All30 chapter titles and practical quest/upgrade instructions are preserved; one redundant setup sentence becomes navigation.",
+            "The original setup header avoids one added generic-art placement. All old artwork, source and current-gameplay limits persist.",
+            "Publisher supports printer access only."
+          ],
+          "unverified": [
+            "The old 1,000-credit roll price is not independently established by the sources read for this pass. Check the purchase prompt rather than using that old value as a verified current cost.",
+            "The primer is linked in Sources. The exact attachment unlock marks and a fixed round when this weapon starts making crawlers remain unverified.",
+            "The third-tablet trigger, station landmark, diamond reward and one-purchase behavior in this paragraph come from an older guide and have not been independently rechecked. A current player primer confirms only a quest gate for Mk 25; read the station’s actual prompt."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 4,
+            "explicitDirectReferences": 3
+          },
+          "requirementsAndRewardReviewed": true,
+          "evidenceUrls": [
+            "https://callofduty.fandom.com/wiki/LZ-52_Limbo",
+            "https://callofduty.fandom.com/wiki/Pack-a-Punch_Machine/Upgrade_Station",
+            "https://www.callofduty.com/br/pt/blog/archives/pro-tips--exo-zombies-part-three-carrier",
+            "https://www.reddit.com/r/CODZombies/comments/11ejwc8/finally_getting_into_trying_exo_zombies_anything/",
+            "https://www.reddit.com/r/CODZombies/comments/2vd4is/best_weapons_in_exo_zombies/",
+            "https://www.reddit.com/r/CODZombies/comments/twb292/im_curious_what_do_you_all_think_of_exo_zombies/"
           ]
         }
       ]
@@ -544,6 +644,27 @@
             "https://mmmrkennedy.com/games/AW/carrier/carrier_guide",
             "https://www.reddit.com/r/CODZombies/comments/3878ck/carrier_easter_egg_thread_spoilers/"
           ]
+        },
+        {
+          "batch": "aw-carrier-main-song-gold-upgrades-and-setup",
+          "reportedStatus": "Whole legacy object read and preserved; no fresh route verification.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "All6 guide metadata and30 chapters read; author104 and independent110 read31 complete operative units. Root read the full reader and selected named primary units, not a second complete31-unit read.",
+            "All5 whole native/raw/effective/durable guards and23 old progress keys pass. All1634 other runtime guide values and25 other AW guides remain unchanged.",
+            "The unchanged Mad Hops guide retains two legacy chapters and its old checked date. All30 chapter titles and practical quest/upgrade instructions are preserved; one redundant setup sentence becomes navigation.",
+            "The original setup header avoids one added generic-art placement. All old artwork, source and current-gameplay limits persist."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 2,
+            "explicitDirectReferences": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "evidenceUrls": [
+            "https://open.video/%40se7ensins/v/cod-aw-exo-zombies-mad-hops-achievementtrophy-guide",
+            "https://www.trueachievements.com/a201964/mad-hops-achievement"
+          ]
         }
       ]
     },
@@ -568,6 +689,59 @@
           "evidenceUrls": [
             "https://mmmrkennedy.com/games/AW/carrier/carrier_guide",
             "https://www.reddit.com/r/CODZombies/comments/3878ck/carrier_easter_egg_thread_spoilers/"
+          ]
+        },
+        {
+          "batch": "aw-carrier-main-song-gold-upgrades-and-setup",
+          "reportedStatus": "Complete proposed prose and metadata read; historical primary evidence with visible limits.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "All6 guide metadata and30 chapters read; author104 and independent110 read31 complete operative units. Root read the full reader and selected named primary units, not a second complete31-unit read.",
+            "All5 whole native/raw/effective/durable guards and23 old progress keys pass. All1634 other runtime guide values and25 other AW guides remain unchanged.",
+            "The unchanged Mad Hops guide retains two legacy chapters and its old checked date. All30 chapter titles and practical quest/upgrade instructions are preserved; one redundant setup sentence becomes navigation.",
+            "The original setup header avoids one added generic-art placement. All old artwork, source and current-gameplay limits persist."
+          ],
+          "unverified": [
+            "The discovery reports locations rather than a button-by-button demonstration. The Interact input is retained from the existing route; this pass did not test activation cues or replayability."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 3,
+            "explicitDirectReferences": 3
+          },
+          "requirementsAndRewardReviewed": true,
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/1hkhtee/what_is_this/",
+            "https://www.reddit.com/r/CODZombies/comments/3878ck/carrier_easter_egg_thread_spoilers/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aw-carrier-setup-and-special-rounds",
+      "mapId": "aw-carrier",
+      "reviews": [
+        {
+          "batch": "aw-carrier-main-song-gold-upgrades-and-setup",
+          "reportedStatus": "Complete proposed prose and metadata read; historical primary evidence with visible limits.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "All6 guide metadata and30 chapters read; author104 and independent110 read31 complete operative units. Root read the full reader and selected named primary units, not a second complete31-unit read.",
+            "All5 whole native/raw/effective/durable guards and23 old progress keys pass. All1634 other runtime guide values and25 other AW guides remain unchanged.",
+            "The unchanged Mad Hops guide retains two legacy chapters and its old checked date. All30 chapter titles and practical quest/upgrade instructions are preserved; one redundant setup sentence becomes navigation.",
+            "The original setup header avoids one added generic-art placement. All old artwork, source and current-gameplay limits persist."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 6,
+            "explicitDirectReferences": 6
+          },
+          "requirementsAndRewardReviewed": true,
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/11ejwc8/finally_getting_into_trying_exo_zombies_anything/",
+            "https://www.reddit.com/r/CODZombies/comments/1x166z8/exo_zombies_easter_egg_help/",
+            "https://www.reddit.com/r/CODZombies/comments/3878ck/carrier_easter_egg_thread_spoilers/",
+            "https://www.reddit.com/r/CODZombies/wiki/carrier/"
           ]
         }
       ]
@@ -89779,7 +89953,6 @@
     }
   ],
   "guidesWithoutRecordedAudit": [
-    "aw-carrier-limbo-upgrades",
     "aw-descent-trident-upgrades",
     "aw-outbreak-community-outbreak-easter-eggs-alternative-easter-egg-golden-trophy-in-descent",
     "aw-outbreak-community-outbreak-easter-eggs-main-easter-egg-game-over-man",
@@ -92614,17 +92787,23 @@
         "aw-infection"
       ],
       "note": "Infection now has expanded Bubby quest guidance, the inherited valve and meat search lists with visible limits, the later alligator-arm correction, higher-upgrade checkpoint notes, survivor and toxic-zone routes, three golden-shell song triggers, and searchable perk/weapon/grenade tables. The full current spawn census, exact Mk25 transaction, survivor-outro threshold, song inputs, timing and current reward rules remain incomplete or untested."
+    },
+    {
+      "mapIds": [
+        "aw-carrier"
+      ],
+      "note": "The main route, three-shark song, fish trophy, ordinary upgrades and special-round setup have written source reviews. Mad Hops remains an unchanged legacy route; the exact experimental-station trigger, Limbo attachment thresholds, full weapon / perk / trap / recording inventories and current trophy timing or mode exceptions still need independent checks. No new map-specific photos were adopted in this pass."
     }
   ],
   "dataHashFormat": "SHA-256 of UTF-8 JSON files with LF line endings, matching Git and GitHub Pages.",
   "dataSha256": {
-    "catalog.json": "33687ce199e159d9ab3ea4db2324ce786fec03d80e7f471a067b48d31ca80c64",
+    "catalog.json": "8682ec096b2e4b5aa5ad4b13c21392d83c4fbca390a17ea7219c4b6962246fc7",
     "community-corrections.json": "f6b61b8629f38fd88a92cf178fa7467c191eadc636e41007c5cbeebfc5356337",
-    "coverage-gaps.json": "9f721c35fd38055a601bdb00d18187264df4244363ec58380825970d68dc6fe6",
-    "guides-aw.json": "14b369d97acb821c06954c1cc3cc3ab648a6c3e32b6fe31ab810c54324628df2",
+    "coverage-gaps.json": "891d2d054feed22b5b540664ad124cb567907fe26487ffbb8f1f402dab4cf8c5",
+    "guides-aw.json": "b7e3dad73e2c66a97435265bc445eb3c353c0135c4b04b3b384d1f232fa8141a",
     "guides-classic.json": "edd0beb6ef41fc472cf366a296f90de0570e3f7efb0e26ae3d77311fcfbd0364",
     "guides-community.json": "00941a65d2630c6c9b0e211ad913c44f90421908019dcd3777ea18392d81f34f",
-    "guides-completion-classic.json": "ed538054e7aeb5575de95dc78a345deb25a4111b47049bbd73fd29de06905c7a",
+    "guides-completion-classic.json": "a08956ff5784d28acfcf36fcf8a2d68fffe130a13922f101e6a1bab40751c266",
     "guides-completion-modern.json": "5e0086c91529a858bf011cbb6ccfe4bc469b3743f49c9175aac4e0115f460748",
     "guides-completion-modes.json": "7661fccf1e3b1fe4466e8a1f7219706fa1851d6b609c826fa045207810ad3bc5",
     "guides-extra.json": "1a0d2becd7b6794b72c56efe75a0e3eedf399eeab19d63b74a16959089c08942",
@@ -92635,7 +92814,7 @@
     "guides-modern.json": "1082b5feea32d0f1a1650977f1d89b6b789a2b779dcb3e0c2eec9d5cbd9b3630",
     "guides-super-ee-doa4.json": "1d038197c8325f946290b8886d95fce8889291c193a5e8ec6f54124033a17a4a",
     "media-completion.json": "58882d44af4bbe2e09648819c06547084fc33caf994cace9122d512163c22366",
-    "media.json": "40e49c57bd8779595e3d8622c4a1734b979f2d4c9b73031bd094951c821cb5b1",
+    "media.json": "f8df6422a8c37ec1c6f2cb105b67c750a6315ac10166e35f841b104ca5dfdc3b",
     "reddit-sources.json": "fd7f1c5e946d258d708cc7355e5826a2a8fc02ef9ce071c9e40a4bced6de646a",
     "references.json": "777f48a6c96af27b3e8c11ab161bdf13e6015ebcb4f18d8d24bf81397fdafe06",
     "source-gaps.json": "14803ee0797b8ad30644ff156b1197ce1328fd65a8dd95b3ce04e95ddcf16518"
@@ -92782,9 +92961,10 @@
       "All25 Tag der Toten pages render150 chapters/step references and7 attributed tables on desktop and actual390x844 phones. Six new assets load. Chapter/reference targets, focus/menu behavior, Sources/return, Totem/Normal-Gauntlet navigation, saved/restored progress and25-card map gaps pass. All seven tables fit the323px content width. Evidence: output/batch46-browser-qa.json.",
       "All 27 Alpha Omega pages render 176 chapters and step references, with 31 attributed tables on desktop and actual390x844 phones. Six new assets load. Chapter and reference targets, focus and menus, Sources and return links, base Mark II and Normal Gauntlet navigation, saved and restored progress, and the 27-card map gaps pass. Six wider weapon tables scroll to the final column without page overflow. Evidence: output/batch47-browser-qa.json.",
       "All38 Tortured Path objective pages render228 chapters and direct references, with28 attributed tables on desktop and actual390x844 phones. Eight new assets load. Chapter and reference targets, focus and menus, Sources and return links, related chapter routes, saved and restored progress, and all four map rosters and gap notes pass. Wider tables scroll within the page. Evidence: output/batch48-browser-qa.json.",
-      "All10 Infection pages render47 chapters and direct references, with3 attributed tables on desktop and actual390x844 phones. Four new assets load. Chapter and reference targets, focus and menus, Sources and return links, related main and song navigation, saved and restored progress, and the10-card map gaps pass. Tables remain within the page. Evidence: output/batch49-browser-qa.json."
+      "All10 Infection pages render47 chapters and direct references, with3 attributed tables on desktop and actual390x844 phones. Four new assets load. Chapter and reference targets, focus and menus, Sources and return links, related main and song navigation, saved and restored progress, and the10-card map gaps pass. Tables remain within the page. Evidence: output/batch49-browser-qa.json.",
+      "All6 Carrier pages render30 chapters on desktop and actual390x844 phones. Their27 direct chapter references retain44px targets; three inherited chapters have no new reference. The original setup header loads. Chapter focus, menus, Sources and return links, related weapon and main routes, saved and restored progress, the6-card map gap and library search for Limbo pass. Evidence: output/batch50-browser-qa.json."
     ],
-    "currentBatchResponsiveLimit": "All10 Infection guides pass desktop and actual390x844 phone checks. Exact meat-location census, final-upgrade and rescue thresholds, reward persistence, full current inventories and retail verification remain incomplete. Three diagrams are original references. Image does not verify every spawn. Existing fallback-art accounting debt is retained. Evidence: output/batch49-browser-qa.json.",
-    "importerChecks": "Complete importer passed against an isolated changed-output fixture and its unchanged rerun:866 community topics, exact regenerated bytes, preserved five-chapter DE correction and no unnecessary rewrite. Evidence: output/batch19-import-check.json. Zetsubou’s29 imported revisions also survive full regeneration with their authored quotation flags,67 new image placements and all21 JSON values unchanged;3231 imported checklist sections. Evidence: output/batch20-semantic-diff.json. Final Zetsubou Skull correction and two new references preserve all21 JSON values after full regeneration. Evidence: output/batch21-final-import-check.json and output/batch21-semantic-diff.json. Gorod’s27 durable corrections preserve all21 JSON values after full regeneration, with3368 imported checklist sections. Evidence: output/batch22-final-import-check.json and output/batch22-semantic-diff.json. The41-chapter firearm addition and one-step Trials correction preserve all21 final JSON values, with3368 imported checklist sections. Evidence: output/batch23-final-import-check.json and output/batch23-semantic-diff.json. Revelations’32 durable authored corrections preserve all21 final JSON values after full regeneration, with3530 imported checklist sections. Evidence: output/batch24-final-import-check.json and output/batch24-semantic-diff.json. Revelations firearm addition preserves all21 final JSON values, with3530 imported checklist sections and all1527 existing runtime guides unchanged. Evidence: output/batch25-final-import-check.json and output/batch25-semantic-diff.json. The five-chapter Monty addition preserves all21 final JSON values and all1528 existing runtime guides. Evidence: output/batch26-final-import-check.json and output/batch26-semantic-diff.json. The 21 revisions and seven additions preserve all 21 final JSON values after full regeneration, with 3563 imported checklist sections and 1508 other runtime guides unchanged. Evidence: output/batch27-final-import-check.json and output/batch27-semantic-diff.json. The two scoped photo updates preserve all21 final JSON values and all1534 other runtime guides. Evidence: output/batch28-final-import-check.json and output/batch28-semantic-diff.json. The10 scoped Kino revisions and6 additions preserve all21 final JSON values,3563 imported sections and all1526 other runtime guides. Evidence: output/batch29-final-import-check.json and output/batch29-semantic-diff.json. The standalone Kino firearm reference preserves all21 final JSON values and all1542 existing runtime guides. Evidence: output/batch30-final-import-check.json and output/batch30-semantic-diff.json. Ascension’s12 scoped revisions and7 additions preserve all21 final JSON values,3563 imported sections and all1531 other runtime guides. Evidence: output/batch31-final-import-check.json and output/batch31-semantic-diff.json. Shangri’s four revisions/four additions and one Ascension metadata correction preserve all21 final JSON values,3563 imported sections and all1545 unrelated runtime guides. Evidence: output/batch32-final-import-check.json and output/batch32-semantic-diff.json. Moon’s14 scoped revisions and8 additions preserve all21 final JSON values,3563 imported sections and all1540 unrelated runtime guides. Evidence: output/batch33-final-import-check.json and output/batch33-semantic-diff.json. Origins18 scoped revisions and9 additions preserve all21 final JSON values,3563 imported sections and all1544 unrelated runtime guides. Evidence: output/batch34-final-import-check.json and output/batch34-semantic-diff.json. Beast19 scoped revisions and3 additions preserve all21 final JSON values,3563 imported sections and all1552 unrelated runtime guides. Two unsupported candidate upgrade categories were corrected to the existing weapon category before the final passing tests/import. Evidence: output/batch35-final-import-check.json, output/classic-batch62-beast-category-correction.json and output/batch35-semantic-diff.json. Final Reich13 scoped revisions and7 additions preserve all21 final JSON values,3563 imported sections and all1561 unrelated runtime guides. The original source-exclusion log stays intact because the app already distinguishes it from original walkthrough coverage. A transient initial file-write error was followed by a complete passing import. Evidence: output/batch36-final-import-check.json, output/classic-batch63-source-gap-reconciliation.json and output/batch36-semantic-diff.json. Darkest Shore14 scoped revisions and4 additions preserve all21 final JSON values,3563 imported sections and all1567 unrelated runtime guides. The source-exclusion log is preserved. Evidence: output/batch37-final-import-check.json and output/batch37-semantic-diff.json. Shadowed Throne16 scoped revisions and5 additions preserve all21 final JSON values,3563 imported sections and all1569 unrelated runtime guides. The source-exclusion log is preserved. Peer58 restores the head-only shot restriction for Down The Sights. Evidence: output/batch38-final-import-check.json and output/batch38-semantic-diff.json. The recorder addition preserves all1590 existing runtime guides and all21 final JSON values through the full importer. Evidence: output/batch39-final-import-check.json and output/batch39-semantic-diff.json. Two historical clover additions preserve all1591 existing runtime guides and all21 final JSON values through full import. Evidence: output/batch40-final-import-check.json and output/batch40-semantic-diff.json. Frozen Dawn19 scoped revisions and4 additions preserve1574 unrelated runtime guides and all21 final JSON values through full import, with3647 imported checklist sections. The original compact community-data format is retained. Evidence: output/batch41-final-import-check.json and output/batch41-semantic-diff.json. IX12 scoped revisions and7 additions preserve1585 unrelated runtime guide values, the separate Normal Gauntlet row and all21 final JSON values through the full importer. The original compact community-data format is retained. Evidence: output/batch42-final-import-check.json and output/batch42-semantic-diff.json. Classified19 scoped revisions and5 additions preserve1585 unrelated guide values, the separate30-round Normal Gauntlet and all21 final JSON values through full import. Original compact community-data bytes remain intact. Evidence: output/batch43-final-import-check.json and output/batch43-semantic-diff.json. Dead of the Night14 scoped revisions and7 additions preserve1595 existing guide values, the unchanged source Gauntlet and separate30-round Normal route, and all21 final JSON values through full import. Original compact community-data bytes remain intact. Evidence: output/batch44-final-import-check.json and output/batch44-semantic-diff.json. Ancient Evil15 scoped revisions and5 additions preserve1601 existing guide values, all93 old progress keys, the unchanged source Gauntlet and separate30-round Normal route, and all21 final JSON values through full import. Original compact community-data bytes remain intact. Evidence: output/batch45-final-import-check.json and output/batch45-semantic-diff.json. Tag der Toten20 scoped revisions and5 additions preserve1601 existing guide values, all24 old progress keys, the separate30-round Normal Gauntlet and all21 final JSON values through full import. Original compact community-data bytes remain intact. Evidence: output/batch46-final-import-check.json and output/batch46-semantic-diff.json. Alpha Omega22 scoped revisions and5 additions preserve1604 existing guide values, all55 old progress keys, the separate30-round Normal Gauntlet and all21 final JSON values through full import. Original compact community-data bytes remain intact. Evidence: output/batch47-final-import-check.json and output/batch47-semantic-diff.json. Tortured Path18 raw revisions/33 effective views and5 additions preserve1598 other guides, all99 old progress keys, all21 separate Survival guides and all21 final JSON values through full import. Original compact community-data bytes remain intact. Evidence: output/batch48-final-import-check.json and output/batch48-semantic-guards.json. Infection1 native revision,6 scoped community revisions and3 additions preserve1629 other guides, all22 old progress keys,20 other AW guides and all21 final JSON values through full import. Original compact community-data bytes remain intact. Evidence: output/batch49-final-import-check.json and output/batch49-semantic-guards.json."
+    "currentBatchResponsiveLimit": "All6 Carrier guides pass desktop and actual390x844 phone checks. Mad Hops, the experimental upgrade transaction, exact quest edge cases, trophy conflicts, full current inventories and retail verification remain incomplete. The single new image is an original written-reference diagram. No new gameplay photo is claimed. Existing source and fallback-art debt remains. Evidence: output/batch50-browser-qa.json.",
+    "importerChecks": "Complete importer passed against an isolated changed-output fixture and its unchanged rerun:866 community topics, exact regenerated bytes, preserved five-chapter DE correction and no unnecessary rewrite. Evidence: output/batch19-import-check.json. Zetsubou’s29 imported revisions also survive full regeneration with their authored quotation flags,67 new image placements and all21 JSON values unchanged;3231 imported checklist sections. Evidence: output/batch20-semantic-diff.json. Final Zetsubou Skull correction and two new references preserve all21 JSON values after full regeneration. Evidence: output/batch21-final-import-check.json and output/batch21-semantic-diff.json. Gorod’s27 durable corrections preserve all21 JSON values after full regeneration, with3368 imported checklist sections. Evidence: output/batch22-final-import-check.json and output/batch22-semantic-diff.json. The41-chapter firearm addition and one-step Trials correction preserve all21 final JSON values, with3368 imported checklist sections. Evidence: output/batch23-final-import-check.json and output/batch23-semantic-diff.json. Revelations’32 durable authored corrections preserve all21 final JSON values after full regeneration, with3530 imported checklist sections. Evidence: output/batch24-final-import-check.json and output/batch24-semantic-diff.json. Revelations firearm addition preserves all21 final JSON values, with3530 imported checklist sections and all1527 existing runtime guides unchanged. Evidence: output/batch25-final-import-check.json and output/batch25-semantic-diff.json. The five-chapter Monty addition preserves all21 final JSON values and all1528 existing runtime guides. Evidence: output/batch26-final-import-check.json and output/batch26-semantic-diff.json. The 21 revisions and seven additions preserve all 21 final JSON values after full regeneration, with 3563 imported checklist sections and 1508 other runtime guides unchanged. Evidence: output/batch27-final-import-check.json and output/batch27-semantic-diff.json. The two scoped photo updates preserve all21 final JSON values and all1534 other runtime guides. Evidence: output/batch28-final-import-check.json and output/batch28-semantic-diff.json. The10 scoped Kino revisions and6 additions preserve all21 final JSON values,3563 imported sections and all1526 other runtime guides. Evidence: output/batch29-final-import-check.json and output/batch29-semantic-diff.json. The standalone Kino firearm reference preserves all21 final JSON values and all1542 existing runtime guides. Evidence: output/batch30-final-import-check.json and output/batch30-semantic-diff.json. Ascension’s12 scoped revisions and7 additions preserve all21 final JSON values,3563 imported sections and all1531 other runtime guides. Evidence: output/batch31-final-import-check.json and output/batch31-semantic-diff.json. Shangri’s four revisions/four additions and one Ascension metadata correction preserve all21 final JSON values,3563 imported sections and all1545 unrelated runtime guides. Evidence: output/batch32-final-import-check.json and output/batch32-semantic-diff.json. Moon’s14 scoped revisions and8 additions preserve all21 final JSON values,3563 imported sections and all1540 unrelated runtime guides. Evidence: output/batch33-final-import-check.json and output/batch33-semantic-diff.json. Origins18 scoped revisions and9 additions preserve all21 final JSON values,3563 imported sections and all1544 unrelated runtime guides. Evidence: output/batch34-final-import-check.json and output/batch34-semantic-diff.json. Beast19 scoped revisions and3 additions preserve all21 final JSON values,3563 imported sections and all1552 unrelated runtime guides. Two unsupported candidate upgrade categories were corrected to the existing weapon category before the final passing tests/import. Evidence: output/batch35-final-import-check.json, output/classic-batch62-beast-category-correction.json and output/batch35-semantic-diff.json. Final Reich13 scoped revisions and7 additions preserve all21 final JSON values,3563 imported sections and all1561 unrelated runtime guides. The original source-exclusion log stays intact because the app already distinguishes it from original walkthrough coverage. A transient initial file-write error was followed by a complete passing import. Evidence: output/batch36-final-import-check.json, output/classic-batch63-source-gap-reconciliation.json and output/batch36-semantic-diff.json. Darkest Shore14 scoped revisions and4 additions preserve all21 final JSON values,3563 imported sections and all1567 unrelated runtime guides. The source-exclusion log is preserved. Evidence: output/batch37-final-import-check.json and output/batch37-semantic-diff.json. Shadowed Throne16 scoped revisions and5 additions preserve all21 final JSON values,3563 imported sections and all1569 unrelated runtime guides. The source-exclusion log is preserved. Peer58 restores the head-only shot restriction for Down The Sights. Evidence: output/batch38-final-import-check.json and output/batch38-semantic-diff.json. The recorder addition preserves all1590 existing runtime guides and all21 final JSON values through the full importer. Evidence: output/batch39-final-import-check.json and output/batch39-semantic-diff.json. Two historical clover additions preserve all1591 existing runtime guides and all21 final JSON values through full import. Evidence: output/batch40-final-import-check.json and output/batch40-semantic-diff.json. Frozen Dawn19 scoped revisions and4 additions preserve1574 unrelated runtime guides and all21 final JSON values through full import, with3647 imported checklist sections. The original compact community-data format is retained. Evidence: output/batch41-final-import-check.json and output/batch41-semantic-diff.json. IX12 scoped revisions and7 additions preserve1585 unrelated runtime guide values, the separate Normal Gauntlet row and all21 final JSON values through the full importer. The original compact community-data format is retained. Evidence: output/batch42-final-import-check.json and output/batch42-semantic-diff.json. Classified19 scoped revisions and5 additions preserve1585 unrelated guide values, the separate30-round Normal Gauntlet and all21 final JSON values through full import. Original compact community-data bytes remain intact. Evidence: output/batch43-final-import-check.json and output/batch43-semantic-diff.json. Dead of the Night14 scoped revisions and7 additions preserve1595 existing guide values, the unchanged source Gauntlet and separate30-round Normal route, and all21 final JSON values through full import. Original compact community-data bytes remain intact. Evidence: output/batch44-final-import-check.json and output/batch44-semantic-diff.json. Ancient Evil15 scoped revisions and5 additions preserve1601 existing guide values, all93 old progress keys, the unchanged source Gauntlet and separate30-round Normal route, and all21 final JSON values through full import. Original compact community-data bytes remain intact. Evidence: output/batch45-final-import-check.json and output/batch45-semantic-diff.json. Tag der Toten20 scoped revisions and5 additions preserve1601 existing guide values, all24 old progress keys, the separate30-round Normal Gauntlet and all21 final JSON values through full import. Original compact community-data bytes remain intact. Evidence: output/batch46-final-import-check.json and output/batch46-semantic-diff.json. Alpha Omega22 scoped revisions and5 additions preserve1604 existing guide values, all55 old progress keys, the separate30-round Normal Gauntlet and all21 final JSON values through full import. Original compact community-data bytes remain intact. Evidence: output/batch47-final-import-check.json and output/batch47-semantic-diff.json. Tortured Path18 raw revisions/33 effective views and5 additions preserve1598 other guides, all99 old progress keys, all21 separate Survival guides and all21 final JSON values through full import. Original compact community-data bytes remain intact. Evidence: output/batch48-final-import-check.json and output/batch48-semantic-guards.json. Infection1 native revision,6 scoped community revisions and3 additions preserve1629 other guides, all22 old progress keys,20 other AW guides and all21 final JSON values through full import. Original compact community-data bytes remain intact. Evidence: output/batch49-final-import-check.json and output/batch49-semantic-guards.json. Carrier4 native revisions and1 addition preserve the whole legacy Mad Hops object, all23 old progress keys,1634 other guides,25 other AW guides and all21 final JSON values through full import. Evidence: output/batch50-final-import-check.json and output/batch50-semantic-guards.json."
   }
 }

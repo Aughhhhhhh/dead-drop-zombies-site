@@ -283,83 +283,113 @@
     "category": "main",
     "difficulty": "Hard",
     "players": "1–4 players; solo supported",
-    "summary": "Power the disposal machines, collect four vault tablets through the grenade puzzle, laser maze, island dig, and Captain DJ's locker, then use C4 to finish. A fish is not required for this normal quest.",
+    "summary": "Collect the four vault tablets through the grenade board, laser course, island dig and shark-eye route, then use C4 to end the match. The fish trophy is a separate challenge.",
     "requirements": [
-      "Advanced Warfare: Supremacy / Carrier",
-      "Exo Suit and open routes through Cargo Deck, Lift, Moon Pool, Hangar, Bio Lab, Armory, and Gun Deck",
-      "Teleport Grenades and Contact Grenades",
-      "Several different disposable guns and credits for fishing / the shark cage"
+      "Advanced Warfare: Supremacy / Carrier; the original hunt describes solo play and a separate team reports completion with four players.",
+      "An Exo Suit, weapons you can spare, and open access between the Armory, Cargo Deck, Lift, Moon Pool, Hangar, Bio Lab and Gun Deck.",
+      "Teleport Grenades for the hidden generator and board setup; Contact Grenades for the actual icon puzzle.",
+      "Credits for fishing and the cage. The hunt lists fishing at 100 credits per cast and cage activation at 100 credits; check the current prompts.",
+      "Use your bound Interact button. Historical Xbox posts call it X; that is not a universal keyboard or controller binding.",
+      "Install or spend a carried quest item before collecting another whenever possible. Players report disappearing items; no reliable recovery is established."
     ],
-    "reward": "Flotsam & Jetsam achievement / trophy, the final cutscene, and a match-ending completion. The third tablet unlocks the Mk 25 station.",
+    "reward": "Flotsam & Jetsam achievement / trophy and the story outro. The final C4 interaction ends this match; finish optional tasks first.",
     "steps": [
       {
         "title": "Reach the hidden Chompy generator",
-        "body": "Buy Teleport Grenades from the Armory wall. Activate the Chompy lawnmower trap on Cargo Deck. Its storage door opens as the machine enters or leaves; throw a Teleport Grenade through that opening before it closes. Once inside, interact with the hidden power generator. You are returned to the map shortly afterward. The Weapon Disposal Machine and the special grenade puzzle machine in Armory are now powered."
+        "body": "Find the lawnmower trap, called Chompy in the existing route, and get Teleport Grenades from their wall purchase. Watch the trap’s storage opening as the mower leaves or returns. Throw a Teleport Grenade through the open entrance so that it carries you into the storage space. Inside, use Interact on the generator. The original hunt identifies the altered grenade-selling machine as the sign that this hidden power step worked.\nReturn to the Armory machines before spending guns or trying the icon puzzle. This hidden generator is a quest step; it does not replace switching on the map’s other regional generators.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/3878ck/carrier_easter_egg_thread_spoilers/",
+        "tip": "The written hunt describes the opening and generator, but gives no exact door-open duration or guaranteed throw angle. Wait for the opening instead of aiming at a closed door."
       },
       {
         "title": "Build the fishing rod without losing parts",
-        "body": "Give guns to the Weapon Disposal Machine beside the Armory HBRa3 wallbuy. Use different weapon types: a previously donated type does not advance the next reward. Every second qualifying gun produces an item, in order: bottle, reel, line, hook. Leave the bottle available for the maze.\nAs soon as you receive a rod part, attach it to the fishing rod tied to the Gun Deck railing near the spawn / Medbay route. Do this before earning the next part, which can replace an unplaced part. Once reel, line, and hook are installed, the rod works.",
-        "tip": "Donate cheap wall weapons before expensive or upgraded guns. Preserve a reliable weapon for the later special rounds."
+        "body": "Find the Weapon Disposal Machine in the Armory next to the HBRa3 and Contact Grenades. Hand it expendable guns and watch the hand’s item output. The completed hunt lists the progression as bottle, reel, line and hook. Take each rod part to the bare pole tied to a railing near the spawn / Medbay route on Gun Deck, and use Interact to attach it before earning another part. Once the reel, line and hook are attached, the fishing interaction is available.\nKeep the bottle step in mind for the laser course. Do not keep donating while an unattached rod part is being carried. The hunt’s early reply says two guns for a reel while its later OP says an item for each gun, so this guide does not promise a fixed number of donations or a verified weapon-type rule.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/3878ck/carrier_easter_egg_thread_spoilers/",
+        "tip": "A later player reports that replacing a carried quest item can remove it. Keep a dependable combat gun, use spare guns for disposal, and leave C4 until the four-tablet route is ready."
       },
       {
         "title": "Prepare tablet 1 — change the grenade dispenser",
-        "body": "Use a Teleport Grenade in the powered grenade machine. Its dispenser moves left and begins cycling between four icons. Buy Contact Grenades for the actual throws. The names in the next step describe the icon displayed when your Contact Grenade enters the machine, rather than a requirement to acquire each of those tactical items."
+        "body": "At the powered grenade board, put a Teleport Grenade into the machine. The dispenser shifts to the left and cycles among grenade icons. Switch to Contact Grenades for the puzzle throws. You are matching the displayed icon when a Contact Grenade enters the board; you are not being asked to obtain and throw every named drone or swarm.\nWatch a full icon cycle before starting. The required rows use Distraction Drone, Explosive Drone, Nano Swarm and Frag symbols.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/3878ck/carrier_easter_egg_thread_spoilers/"
       },
       {
         "title": "Tablet 1 — complete the three grenade rows",
-        "body": "Time your Contact Grenades to the following displayed icons, completing one row at a time:\nRow 1: Distraction Drone → Frag.\nRow 2: Explosive Drone → Distraction Drone → Explosive Drone → Frag.\nRow 3: Explosive Drone → Nano Swarm → Explosive Drone → Distraction Drone → Explosive Drone → Frag.\nEach finished row changes its red lights to green. A mistimed input means retrying that row. After all three rows are green, collect the tablet from the machine's right-hand slot. Deposit it at the Gun Deck vault: upstairs, immediately before the Armory doorway.",
-        "tip": "If the vault does not accept a tablet, wait until Oz finishes his current dialogue and interact again."
+        "body": "Use Contact Grenades while the dispenser shows these icons, in the recorded order:\nRow 1: Distraction Drone → Frag.\nRow 2: Explosive Drone → Distraction Drone → Explosive Drone → Frag.\nRow 3: Explosive Drone → Nano Swarm → Explosive Drone → Distraction Drone → Explosive Drone → Frag.\nEach completed row changes its red lights to green. Use those lights to judge progress rather than the number of grenades thrown. If a row has not registered, observe the board and repeat the required icons; the exact error-reset timing was not established by the written reports.\nWhen the machine supplies the first tablet, collect it and carry it to the vault above Gun Deck. Approach the Armory doorway from Gun Deck and look on your right before going through. Interact with the vault to deposit it; one light beside the vault changes from red to green.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/3878ck/carrier_easter_egg_thread_spoilers/"
       },
       {
         "title": "Tablet 2 — start the drunk laser maze",
-        "body": "Open the full path Cargo Deck → Lift → Moon Pool → Hangar before starting. Pick up the disposal machine's bottle to become drunk, then interact with the keypad at the Cargo Deck doorway near the outdoor Exo Suit area. A timer starts and lasers appear. Every player must follow the safe gaps through those four areas and arrive at the Hangar teleporter."
+        "body": "Open the connected route through Cargo Deck, Lift, Moon Pool and Hangar before starting. Use the bottle from weapon disposal to become drunk for the ordinary tablet route. Go to the large doorway by the outside Exo Suit pickup area on Cargo Deck and find its small keypad. Hold Interact on the keypad. A timer starts and floor lasers mark the challenge.\nFollow the safe gaps toward the Hangar teleporter. Keep the team coordinated in co-op rather than splitting into different stages. The source describes the route runner and destination but does not establish a universal all-player activation rule.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/3878ck/carrier_easter_egg_thread_spoilers/",
+        "tip": "This is the ordinary story-tablet route. The fish, fast time and Gold Reward check belong to the separate gold-trophy guide."
       },
       {
         "title": "Finish the maze and deposit tablet 2",
-        "body": "Keep clear of the laser lines and reach the teleporter. Wait close to its pad until the challenge completes and the lasers disappear. Take the tablet from the floor in front of the teleporter and return it to the Gun Deck vault. Touching a laser cancels the attempt; use the starting keypad to retry immediately rather than waiting for another round.",
-        "tip": "The optional gold trophy adds a red fish and a maze time under one minute. Those conditions are separate from obtaining this tablet."
+        "body": "Avoid the laser lines and move as close to the destination teleporter pad as the game allows. Stay there until the timer stops and the lasers disappear, which is the hunt’s completion check. Collect the second tablet supplied by the completed challenge and deposit it at the same Gun Deck vault. Check for the next green vault light.\nIf the course fails, return to the starting keypad and check whether it offers another attempt. The exact reset delay and co-op failure behavior have not been independently timed in this pass.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/3878ck/carrier_easter_egg_thread_spoilers/",
+        "tip": "Do not assume a fast run awarded the gold trophy merely because this tablet appeared. The trophy has its own reported fish condition and on-screen reward message."
       },
       {
         "title": "Tablet 3 — repair the Bio Lab teleporter",
-        "body": "Kill teleporting zombies and dogs and quickly walk over their small telefrag-piece drops. Carry one piece at a time to the inactive Bio Lab teleporter and interact to install it. Repeat until 20 pieces have been added and the pad works. Pieces left on the floor disappear quickly, so deposit one before hunting another. Teleporting enemies become more common as the rounds advance."
+        "body": "Kill teleporting zombies and look for the small parts they leave behind. Pick up one part, take it to the broken Bio Lab teleporter, and use Interact to install it. Then collect another and repeat until the pad works. One hunt participant explicitly reports that only one part can be carried at a time and that a two-player game took twenty; the completed OP says about twenty in solo. Treat these as historical observations, not a certified fixed count for every player setting.\nComplete the repair before fishing for the shovel when possible. A player reports that an earlier shovel disappeared from the inventory while more teleporting-zombie parts were collected.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/3878ck/carrier_easter_egg_thread_spoilers/",
+        "tip": "There is no verified fix here for a vanished shovel or a pad that will not accept parts. Check the carried item and the pad prompt before collecting more items."
       },
       {
         "title": "Fish a shovel and dig up tablet 3",
-        "body": "Use the completed Gun Deck rod; each fishing attempt costs 100 credits and the item is random. Keep fishing until you receive a shovel. Use the repaired Bio Lab teleporter to reach the small sandy island. Interact with the ground repeatedly, moving between dig spots, until a buried box appears. Take its tablet before the visit's timer returns you. If you run out of time, wait for the teleporter cooldown and try another visit. Deposit tablet 3 at the vault; the Gun Deck Mk 25 station unlocks."
+        "body": "Use the completed Gun Deck fishing rod. The original hunt lists a price of 100 credits per cast and records credits, a fish and a shovel among possible catches; this is a partial reported catch list, not a complete reward pool. Keep fishing until the shovel is carried.\nUse the repaired Bio Lab teleporter to reach the sandy island. With the shovel still in the inventory, hold Interact at patches of ground and move between spots until you uncover the box in its random position. Take the tablet from the box, return to the ship and deposit it at the Gun Deck vault.\nIf digging stops working, check whether the shovel is still shown. Multiple replies report lost-shovel / unable-to-dig failures. This pass has not verified a recovery, the exact island-visit timer or a guaranteed return cooldown.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/3878ck/carrier_easter_egg_thread_spoilers/"
       },
       {
         "title": "Tablet 4 — trigger Captain DJ's drone",
-        "body": "Find Captain DJ's locker among the Hangar crew lockers beside Exo Medic and interact with its eye scanner. This starts the relevant loot-drone spawns. Watch for the pair of flying treasure drones: destroy the empty one and collect the lever it drops. The drone carrying a power-up does not supply the lever. If you miss the pair, another appears after several rounds."
+        "body": "In the Hangar locker room, find Captain DJ’s locker and interact with its eye scanner before hunting the lever. A later reply specifically points out that the locker interaction was missing from the old hunt’s OP; that reply does not describe its testing method.\nWatch for the pair of flying UFO-like loot drones. Bring them down and walk over the dropped loot to collect the lever. The completed hunt says one drone drops it. The exact eligible drone appearance, initial spawn trigger and repeat interval are not settled by these written reports, so do not treat an empty-versus-power-up rule or a fixed number of rounds as guaranteed.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/3878ck/carrier_easter_egg_thread_spoilers/"
       },
       {
         "title": "Attract the shark and lower the cage",
-        "body": "Put the lever in the Moon Pool electrical box near the 3D Printer and POOL 07 marking. Kill zombies above the three square floor grates so their blood attracts the shark below. When it swims under the central cage opening, activate the box and jump onto the cage to enter as it lowers into the water. Keep credits ready for the activation."
+        "body": "Carry the lever to Moon Pool. Install it in the small grey wall box beside the POOL 07 marking. The hunt lists a 100-credit activation, but wait until you have attracted the shark and are ready to enter the cage.\nKill zombies over Moon Pool’s glass floor panels so that blood reaches the water. Watch below for the shark. Once it is present, activate the repaired box to lower the shark cage and get inside. The source does not supply a fixed kill count, blood-fill timer or an independently checked limit on cage attempts.",
+        "researchSource": "https://www.reddit.com/r/CODZombies/comments/3878ck/carrier_easter_egg_thread_spoilers/"
       },
       {
         "title": "Take the eyeball and unlock Captain DJ's locker",
-        "body": "Wait inside the lowered cage for the shark to attack, then interact with it to retrieve Captain DJ's eyeball. Return to the Hangar eye scanner with the eyeball, open the locker, and take the final tablet. Deposit it at the Gun Deck vault so all four lights are green.",
-        "tip": "Do not spend time fishing for a fish before this step. The eyeball can be collected without one."
+        "body": "Inside the lowered cage, look for the shark and hold Interact when it approaches to obtain the eyeball. A player who completed the quest with a four-person team independently describes holding the Xbox Interact button as the shark comes, then taking the eye to the captain’s locker.\nReturn to the Hangar eye scanner with the eye, use it to open the locker, and collect the fourth tablet. Deposit it at the Gun Deck vault and check that all four lights are green.\nThe launch hunt included a fish at this stage. A later Exo player correction says that a fish is unnecessary for the shark-eye step and belongs to the optional laser-course trophy instead; this route follows that correction.",
+        "researchSource": "https://www.reddit.com/r/CodAW/comments/3car5y/completed_the_carrier_easter_egg_in_53_min_49_sec/",
+        "tip": "The independent fish correction is in the guide’s sources. Current patch, platform and unusual inventory failures have not been retail-tested here."
       },
       {
         "title": "Use C4 to finish the story",
-        "body": "Continue handing qualifying guns to the Weapon Disposal Machine until it supplies a C4 packet. With all four tablets installed and the C4 carried, interact with the Gun Deck vault door. This detonates the final charge, grants the achievement / trophy, ends the match, and plays the outro. Finish any other in-match tasks before using the C4."
+        "body": "After all four tablets are deposited, return to the Weapon Disposal Machine and hand in spare guns until it supplies the C4 packet. Keep the C4 carried and take it directly to the Gun Deck vault. Use Interact on the vault with the charge. The completed hunt and a separate team-completion reply both describe this as the match-ending step that awards the achievement and plays the story outro.\nFinish any music, trophy attempt, extra upgrade or survival goal before placing the charge. Do not budget an exact number of guns for C4: the independently read reports do not establish a guaranteed donation count or a fully tested eligibility rule.",
+        "researchSource": "https://www.reddit.com/r/CodAW/comments/3car5y/completed_the_carrier_easter_egg_in_53_min_49_sec/",
+        "tip": "Later players report item replacement and disposal frustration. Getting C4 early is not treated as a safe shortcut around the other carried quest items."
       }
     ],
     "sources": [
       {
-        "title": "Community solved Carrier Easter egg thread and grenade sequence",
+        "title": "Original Carrier hunt: completed OP and firsthand replies",
         "url": "https://www.reddit.com/r/CODZombies/comments/3878ck/carrier_easter_egg_thread_spoilers/"
       },
       {
-        "title": "MMMRKennedy: Carrier machine, drone, and tablet mechanics",
-        "url": "https://mmmrkennedy.com/games/AW/carrier/carrier_guide"
+        "title": "Independent team completion: shark eye and C4 ending",
+        "url": "https://www.reddit.com/r/CodAW/comments/3car5y/completed_the_carrier_easter_egg_in_53_min_49_sec/"
       },
       {
-        "title": "Recent Exo Zombies corrections: Carrier fish is optional",
+        "title": "Later player correction: fish belongs to the laser trophy",
         "url": "https://www.reddit.com/r/CODZombies/comments/1x166z8/exo_zombies_easter_egg_help/"
+      },
+      {
+        "title": "Player report: carried quest items can be lost",
+        "url": "https://www.reddit.com/r/CODZombies/comments/1h9d9zu/carrier_should_take_burger_towns_crown/"
+      },
+      {
+        "title": "Exo player primer: regional power and suit preparation",
+        "url": "https://www.reddit.com/r/CODZombies/comments/11ejwc8/finally_getting_into_trying_exo_zombies_anything/"
       }
     ],
-    "checked": "2026-10-13"
+    "checked": "2026-10-24",
+    "relatedGuideIds": [
+      "aw-carrier-gold-trophy",
+      "aw-carrier-mars-song",
+      "aw-carrier-setup-and-special-rounds"
+    ]
   },
   {
     "id": "aw-descent-reunion",
