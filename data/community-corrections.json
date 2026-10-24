@@ -21379,7 +21379,95 @@
     ],
     "relatedGuideIds": [
       "bo4-alpha-omega-duck-and-cover-normal-30-rounds"
-    ]
+    ],
+    "mapOverrides": {
+      "bo4-alpha-omega": {
+        "title": "Telepads: nine part candidates and eight Standard endpoints",
+        "category": "side",
+        "difficulty": "Standard route / reference",
+        "players": "Solo / co-op",
+        "summary": "Build two pads and place them as a linked pair for travel and quest deliveries.",
+        "requirements": [
+          "Black Ops 4 — Alpha Omega."
+        ],
+        "reward": "Two placeable Telepads.",
+        "steps": [
+          {
+            "title": "Find the Transfusion Facility part",
+            "body": "Check the locker left of the front door, the cardboard boxes in the backyard, and below the operation chair. Collect the part at its active candidate.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          },
+          {
+            "title": "Find the Green House part",
+            "body": "Check downstairs in the kitchen below the barrier, upstairs on the window balcony, and downstairs in the front-left corner. Collect the Green House part.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          },
+          {
+            "title": "Find the Generators part",
+            "body": "Check the yellow rail across from the perk machine, the yellow buckets in the corner, and the blue barrels near the Beds tunnel. Collect the Generators part.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          },
+          {
+            "title": "Instructions & locations",
+            "body": "At Green House Upstairs or APD Control, craft and obtain the two Telepads. Place one pad at each of two allowed positions to link those endpoints.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "Exact pickup, replacement, co-op ownership and relocation behavior are not fully described."
+          },
+          {
+            "title": "Choose from the eight Standard positions",
+            "body": "The map article lists Power House, Green House Backyard, Yellow House Upstairs, Prisoner Holding, Solitary, Central Street, APD Control and Diner. Place the two pads at the pair needed for your route, then use a placed pad to travel between them.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "Normal Gauntlet also uses Beds and Generators. See the linked mode checklist and check the counter after each trip."
+          },
+          {
+            "title": "Reconfigure for the current quest objective",
+            "body": "The Standard server-core delivery uses a pad at Power House and one at Prisoner Holding. Mark II-Y instead needs the two positions selected by its live yellow orb. Read the relevant route before committing to a pair.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "An early hunt recommends a different delivery endpoint near Transfusion Facility; the later wiki and Nanikos guide use Prisoner Holding. The recorded route here follows the latter, without certifying an optimal timing shortcut.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/cbd9o8/alpha_omega_easter_egg_all_steps_detailed/",
+              "https://www.reddit.com/r/CODZombies/comments/cb2xti/alpha_omega_easter_egg_hunt_general_map_discussion/"
+            ]
+          }
+        ],
+        "sourceOmissions": [
+          "Gauntlet-specific co-op counters and retry behavior remain pending."
+        ],
+        "sources": [
+          {
+            "title": "r/CODZombies — archived Alpha Omega map article",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          },
+          {
+            "title": "Nanikos — original main-quest guide and named player replies",
+            "url": "https://www.reddit.com/r/CODZombies/comments/cbd9o8/alpha_omega_easter_egg_all_steps_detailed/"
+          },
+          {
+            "title": "rCODZombiesBot and named players — original Alpha Omega hunt",
+            "url": "https://www.reddit.com/r/CODZombies/comments/cb2xti/alpha_omega_easter_egg_hunt_general_map_discussion/"
+          },
+          {
+            "title": "MysteryHQ: solo round chapters",
+            "url": "https://www.youtube.com/watch?v=GfoESfBFpo0"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "supplementNote": "The Standard instructions are authored from the written sources. The existing Normal Gauntlet endpoint tip and its attribution are retained.",
+        "relatedGuideIds": [
+          "bo4-alpha-omega-community-alpha-omega-easter-eggs-quests-main-quest",
+          "bo4-alpha-omega-community-alpha-omega-map-features-ray-gun-mark-ii-y",
+          "bo4-alpha-omega-duck-and-cover-normal-30-rounds"
+        ]
+      }
+    }
   },
   "alpha-omega-map-features-ray-gun-mark-ii-frame": {
     "steps": [
@@ -21422,7 +21510,102 @@
     ],
     "relatedGuideIds": [
       "bo4-alpha-omega-duck-and-cover-normal-30-rounds"
-    ]
+    ],
+    "mapOverrides": {
+      "bo4-alpha-omega": {
+        "title": "Mark II Frames: charge four TVs in the live order",
+        "category": "weapon",
+        "difficulty": "Standard route / reference",
+        "players": "Solo / co-op",
+        "summary": "Record each revealed digit and open the four-Frame panel opposite Rushmore.",
+        "requirements": [
+          "Black Ops 4 — Alpha Omega.",
+          "These instructions use an online Standard match on Normal. Players report different Rushmore behavior in Casual/local play; other modes and current platform differences are not fully audited."
+        ],
+        "reward": "Four Ray Gun Mark II Frames for the experimental builds.",
+        "steps": [
+          {
+            "title": "Activate the Pack-a-Punch.",
+            "body": "Turn on power, finish the ventilation event and repair all four active vents to open Pack-a-Punch in Beds. The Standard Frame sequence begins after that setup.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          },
+          {
+            "title": "Progress to the next Round, navigate to Operations and interact with the computer…",
+            "body": "After opening Pack-a-Punch, advance a round and interact with Rushmore in Operations. Then begin the TV sequence below.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "Normal Duck and Cover: the Operations keypad can activate after charging the four TVs, without first talking to Rushmore. Enter the revealed numbers in order and take a Frame."
+          },
+          {
+            "title": "Locate and interact with each of the 4 TVs which display static and emit white…",
+            "body": "Check the table in Yellow House Backyard, the APD Control cart, the Diner divider and the TV near the yellow Site Entrance gate. These are the four Frame TVs, distinct from the Galvaknuckle-activated clock TV.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/cb2xti/alpha_omega_easter_egg_hunt_general_map_discussion/"
+            ]
+          },
+          {
+            "title": "Charge the available static TV and record its digit",
+            "body": "Interact with a static/noisy Frame TV that will activate, then kill zombies near it until its screen reveals a number. Write that digit down immediately with its position in your completion sequence.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "The locations stay fixed, but their activation order changes. If one will not activate, find the next active TV instead of forcing the list order.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/cb2xti/alpha_omega_easter_egg_hunt_general_map_discussion/"
+            ]
+          },
+          {
+            "title": "Complete the other three TVs",
+            "body": "Repeat activation and nearby kills for the remaining TVs, recording all four digits in the order they are revealed. Your sequence is the code; the four-location list above is not a universal order.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "No exact soul count, range, activation delay or universal reset rule is supplied."
+          },
+          {
+            "title": "Return to Operations and interact with Rushmore's number pad to enter the four…",
+            "body": "At the keypad beside Rushmore in Operations, enter the four recorded numbers in reveal order. The panel on the opposite wall opens to expose four Frames. Take a Frame for the experiment you plan to build.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "The older Normal Gauntlet note is retained above and in its separate checklist. Other Casual/local/keypad exceptions are reported, without a complete current-mode audit.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/cddzw4/alpha_omega_complete_map_guide/"
+            ]
+          }
+        ],
+        "sourceOmissions": [
+          "Standard dialogue prerequisites must not be imposed on the documented Normal Gauntlet TV/keypad route. Other mode-specific trigger exceptions remain pending."
+        ],
+        "sources": [
+          {
+            "title": "r/CODZombies — archived Alpha Omega map article",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          },
+          {
+            "title": "Alpha Omega players — original complete-map discussion replies",
+            "url": "https://www.reddit.com/r/CODZombies/comments/cddzw4/alpha_omega_complete_map_guide/"
+          },
+          {
+            "title": "rCODZombiesBot and named players — original Alpha Omega hunt",
+            "url": "https://www.reddit.com/r/CODZombies/comments/cb2xti/alpha_omega_easter_egg_hunt_general_map_discussion/"
+          },
+          {
+            "title": "Original 2019 menu credited to StarrBurrst; player trap/keypad notes",
+            "url": "https://www.reddit.com/r/CODZombies/comments/cmvdcu/duck_and_cover_alpha_omega_gauntlet_full/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "supplementNote": "The existing Normal Gauntlet tip and its attribution are retained separately from the rewritten Standard route.",
+        "relatedGuideIds": [
+          "bo4-alpha-omega-community-alpha-omega-map-features-pack-a-punch",
+          "bo4-alpha-omega-community-alpha-omega-map-features-assembly-kit",
+          "bo4-alpha-omega-duck-and-cover-normal-30-rounds"
+        ]
+      }
+    }
   },
   "moon-map-walkthrough-power": {
     "mapOverrides": {
@@ -74087,6 +74270,1821 @@
           "bo4-tag-der-toten-community-tag-der-toten-easter-eggs-quests-reflections-easter-egg-song",
           "bo4-tag-der-toten-community-tag-der-toten-easter-eggs-quests-margwa-jumpscare"
         ]
+      }
+    }
+  },
+  "alpha-omega-map-features-traps": {
+    "mapOverrides": {
+      "bo4-alpha-omega": {
+        "title": "Clock puzzle: trap unlocks and packed weapon lockers",
+        "category": "side",
+        "difficulty": "Standard route / reference",
+        "players": "Solo / co-op",
+        "summary": "Read the live TV times, set the house clocks and inspect the resulting trap or locker.",
+        "requirements": [
+          "Black Ops 4 — Alpha Omega.",
+          "These instructions use an online Standard match on Normal. Players report different Rushmore behavior in Casual/local play; other modes and current platform differences are not fully audited.",
+          "Pack-a-Punch and Galvaknuckles."
+        ],
+        "reward": "Reported trap and weapon-locker unlocks; listed trap activations cost 1,000 points.",
+        "steps": [
+          {
+            "title": "Preparation & context",
+            "body": "Type\tLocation\tCost\nElectric Trap | Lounge/Diner | 1000 Points\nFire Trap | Yellow House Downstairs | 1000 Points\nCeiling Fan Trap | Green House Downstairs | 1000 Points\nAcid Trap | Transfusion Facility | 1000 Points\nAPD Trap | APD Interrogation | 1000 Points",
+            "original": false,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "Only the Electric Trap is described as initially available. The other trap/locker unlocks use the clock route below. Current cooldown, duration and player safety are not established.",
+            "html": "<table><thead><tr><th>Type</th><th>Location</th><th>Cost</th></tr></thead><tbody><tr><td>Electric Trap</td><td>Lounge/Diner</td><td>1000 Points</td></tr><tr><td>Fire Trap</td><td>Yellow House Downstairs</td><td>1000 Points</td></tr><tr><td>Ceiling Fan Trap</td><td>Green House Downstairs</td><td>1000 Points</td></tr><tr><td>Acid Trap</td><td>Transfusion Facility</td><td>1000 Points</td></tr><tr><td>APD Trap</td><td>APD Interrogation</td><td>1000 Points</td></tr></tbody></table>"
+          },
+          {
+            "title": "Activate Pack-a-Punch",
+            "body": "Finish the Generators ventilation lockdown and repair the four smoking house vents. The trap recipe starts with Pack-a-Punch active before the Galvaknuckle TV step.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          },
+          {
+            "title": "Obtain the Galvaknuckles and kill a zombie using it near a static TV somewhere in…",
+            "body": "Open Pack-a-Punch and obtain Galvaknuckles. Find the white static clock TV in Beds, Diner or Lounge, kill a zombie near it with Galvaknuckles, then interact with it.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "The Frame TVs use a separate four-TV soul sequence. Do not confuse them with this Galvaknuckle clock TV.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/cbd9o8/alpha_omega_easter_egg_all_steps_detailed/"
+            ]
+          },
+          {
+            "title": "After activating with the TV, it should begin to read a list of codes following…",
+            "body": "Write down the five announced house letters and times in order. Use A Yellow House, B Green House, C Prisoner Holding, D Transfusion Facility, E Operations and F APD Interrogation.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "The letter key is fixed in the archived source; the times and unmentioned house must come from your own match.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/cbd9o8/alpha_omega_easter_egg_all_steps_detailed/"
+            ]
+          },
+          {
+            "title": "Set each announced clock to its recorded time",
+            "body": "In the announced order, set each house clock to its time. Interact advances fifteen minutes; melee advances one hour. A0115 is the source’s example for setting Yellow House to 1:15.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "The wiki says a wrong input requires returning to the TV next round. Nanikos recommends finishing in one round, while a later reply disputes persistence across rounds. A complete reset and timing rule is unresolved.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/cbd9o8/alpha_omega_easter_egg_all_steps_detailed/"
+            ]
+          },
+          {
+            "title": "Interact with the unmentioned house’s clock",
+            "body": "After the five announced times are set, go to the sixth house and interact with its clock. The article says it spins and activates that house’s trap. Operations and Prisoner Holding instead contain weapon lockers.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "The text does not fully explain the activation state of every other trap, forced selection of an unused house, or every repeat sequence. Inspect each current prompt instead of assuming one attempt certifies all four locked traps."
+          },
+          {
+            "title": "Check the Operations and Prisoner Holding lockers",
+            "body": "The archived article lists an upgraded regular Mark II and a random upgraded weapon as the non-trap rewards. Hated0ne reports the E/Operations time opening the packed Mark II case and the C/Prisoner Holding time opening a packed weapon case.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "The source’s general final-clock wording and these per-house reports do not establish every precise trigger timing. The base Mark II guide preserves that limit.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/cbd9o8/alpha_omega_easter_egg_all_steps_detailed/",
+              "https://www.reddit.com/r/CODZombies/comments/cddzw4/alpha_omega_complete_map_guide/"
+            ]
+          },
+          {
+            "title": "Carry the final time forward for the main quest",
+            "body": "For Standard story progression, read the time shown by the unmentioned sixth clock, convert it to four digits and enter it at Rushmore. Interact with him to continue the red-crawler task.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "The trap table does not replace the main quest’s final keypad confirmation. Exact present trap damage and all Gauntlet strike rules remain separate."
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "r/CODZombies — archived Alpha Omega map article",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          },
+          {
+            "title": "Nanikos — original main-quest guide and named player replies",
+            "url": "https://www.reddit.com/r/CODZombies/comments/cbd9o8/alpha_omega_easter_egg_all_steps_detailed/"
+          },
+          {
+            "title": "Alpha Omega players — original complete-map discussion replies",
+            "url": "https://www.reddit.com/r/CODZombies/comments/cddzw4/alpha_omega_complete_map_guide/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "bo4-alpha-omega-community-alpha-omega-map-features-pack-a-punch",
+          "bo4-alpha-omega-community-alpha-omega-easter-eggs-quests-main-quest",
+          "bo4-alpha-omega-base-mark-ii",
+          "bo4-alpha-omega-duck-and-cover-normal-30-rounds"
+        ],
+        "supplementNote": null
+      }
+    }
+  },
+  "alpha-omega-map-features-pack-a-punch": {
+    "mapOverrides": {
+      "bo4-alpha-omega": {
+        "title": "Pack-a-Punch: ventilation lockdown and four vents",
+        "category": "weapon",
+        "difficulty": "Standard route / reference",
+        "players": "Solo / co-op",
+        "summary": "Start the Generators event, repair the smoking houses and maintain access to Beds.",
+        "requirements": [
+          "Black Ops 4 — Alpha Omega."
+        ],
+        "reward": "Pack-a-Punch access in Beds, with vent repairs needed again later.",
+        "steps": [
+          {
+            "title": "Activate the power.",
+            "body": "Activate the switch in the Cul-de-sac Power House before starting the bunker ventilation event.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          },
+          {
+            "title": "Navigate to the Generators, activate the console to Enable Ventilation Systems",
+            "body": "Reach Generators in the bunker and interact with the console to enable the ventilation systems. Survive its lockdown before searching the surface vents.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "The written source does not specify a universal timer, enemy total, every player-presence check or a failed-lockdown reset."
+          },
+          {
+            "title": "Locate 4 houses above ground which are emitting nova gas",
+            "body": "Look above ground for four houses emitting Nova gas. At each, find its ventilation unit and hold the repair interaction until that vent is repaired. Protect the repairer from the zombies that attack during the action.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "Four active smoking houses are the selection rule. Exact vent surfaces, repair duration and a guaranteed safe solo lineup are not supplied by the text."
+          },
+          {
+            "title": "Once all 4 vents are repaired, the Pack-a-Punch machine will be available in Beds.",
+            "body": "After all four ventilation repairs are complete, return to Beds and use Pack-a-Punch. The weapon reference lists the historical packed names, including all four experimental Mark II variants.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "Current ordinary upgrade costs, repeat tiers, alternate-ammo odds and all weapon exceptions are not established by this route."
+          },
+          {
+            "title": "Repair a clogged vent when access closes",
+            "body": "If Pack-a-Punch stops working later, inspect the houses for renewed gas and repair the clogged ventilation unit. The map article says this reopens the machine; original player replies describe the same repair requirement.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "The source does not give a fixed number of uses or rounds before a clog. Use the visible vent state.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/cbd9o8/alpha_omega_easter_egg_all_steps_detailed/",
+              "https://www.reddit.com/r/CODZombies/comments/cddzw4/alpha_omega_complete_map_guide/"
+            ]
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "r/CODZombies — archived Alpha Omega map article",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          },
+          {
+            "title": "Nanikos — original main-quest guide and named player replies",
+            "url": "https://www.reddit.com/r/CODZombies/comments/cbd9o8/alpha_omega_easter_egg_all_steps_detailed/"
+          },
+          {
+            "title": "Alpha Omega players — original complete-map discussion replies",
+            "url": "https://www.reddit.com/r/CODZombies/comments/cddzw4/alpha_omega_complete_map_guide/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "bo4-alpha-omega-community-alpha-omega-map-features-power",
+          "bo4-alpha-omega-weapon-name-reference",
+          "bo4-alpha-omega-community-alpha-omega-map-features-ray-gun-mark-ii-frame"
+        ],
+        "supplementNote": null
+      }
+    }
+  },
+  "alpha-omega-map-features-power": {
+    "mapOverrides": {
+      "bo4-alpha-omega": {
+        "title": "Start Alpha Omega: power and Standard quest scope",
+        "category": "side",
+        "difficulty": "Standard route / reference",
+        "players": "Solo / co-op",
+        "summary": "Find the Power House lever and prepare the correct route before using Rushmore.",
+        "requirements": [
+          "Black Ops 4 — Alpha Omega."
+        ],
+        "reward": "Power for the bunker and the next ventilation step.",
+        "steps": [
+          {
+            "title": "Choose the Standard route",
+            "body": "Use an online Standard match on Normal for this walkthrough. Keep the separate Duck and Cover checklist open if you are playing that Gauntlet. A local-play report could not wake Rushmore, while Casual players describe different access to his dialogue and the experimental weapon keypad.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/cbd9o8/alpha_omega_easter_egg_all_steps_detailed/",
+            "tip": "These are historical player reports, not proof that every small side interaction is disabled outside Normal. Some experimental Mark II builds are reported on Casual.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/cddzw4/alpha_omega_complete_map_guide/"
+            ]
+          },
+          {
+            "title": "Instructions & locations",
+            "body": "Enter the Power House in the Cul-de-sac and interact with its power switch. Continue into the bunker to enable ventilation at Generators.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          },
+          {
+            "title": "Separate power, ventilation and Rushmore",
+            "body": "Turning on power is the first task. Finish the Generators lockdown and repair the four smoking vents to open Pack-a-Punch. For the Standard Frame and main-quest routes, advance a round after opening it and speak to Rushmore in Operations.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "The Gauntlet Frame companion retains a documented keypad exception. Do not impose this Standard dialogue sequence on that separate mode."
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "r/CODZombies — archived Alpha Omega map article",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          },
+          {
+            "title": "Nanikos — original main-quest guide and named player replies",
+            "url": "https://www.reddit.com/r/CODZombies/comments/cbd9o8/alpha_omega_easter_egg_all_steps_detailed/"
+          },
+          {
+            "title": "Alpha Omega players — original complete-map discussion replies",
+            "url": "https://www.reddit.com/r/CODZombies/comments/cddzw4/alpha_omega_complete_map_guide/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "bo4-alpha-omega-community-alpha-omega-map-features-pack-a-punch",
+          "bo4-alpha-omega-community-alpha-omega-map-features-ray-gun-mark-ii-frame",
+          "bo4-alpha-omega-community-alpha-omega-easter-eggs-quests-main-quest",
+          "bo4-alpha-omega-duck-and-cover-normal-30-rounds"
+        ],
+        "supplementNote": null
+      }
+    }
+  },
+  "alpha-omega-map-features-mystery-box-locations": {
+    "mapOverrides": {
+      "bo4-alpha-omega": {
+        "title": "Mystery Box: seven recorded locations",
+        "category": "side",
+        "difficulty": "Standard route / reference",
+        "players": "Solo / co-op",
+        "summary": "Check the current active Box and distinguish its rewards from the buildable Ray Guns.",
+        "requirements": [
+          "Black Ops 4 — Alpha Omega."
+        ],
+        "reward": "A historical location reference for the Box.",
+        "steps": [
+          {
+            "title": "Instructions & locations",
+            "body": "The map article lists Yellow House Backyard, Prisoner Holding, Cul-de-sac and Green House Backyard as Mystery Box locations. Find the currently active Box before paying. The other three listed sites are Transfusion Facility, Beds and APD Control.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "The text does not establish the starting site, exact stand surfaces, movement rule, odds or a complete current Box pool."
+          },
+          {
+            "title": "Use the specific weapon route",
+            "body": "The historical table lists the ordinary Ray Gun Mark II as a Box or quest weapon. The V, X, Y and Z experiments use the Assembly Kit, Frames and their colored canister quests. Their build instructions are separate from this Box location list.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "Original replies disagree about whether the regular Mark II needs its free case opened before it can appear in the Box. No unlock dependency or current chance is guaranteed here.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/cddzw4/alpha_omega_complete_map_guide/"
+            ]
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "r/CODZombies — archived Alpha Omega map article",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          },
+          {
+            "title": "Alpha Omega players — original complete-map discussion replies",
+            "url": "https://www.reddit.com/r/CODZombies/comments/cddzw4/alpha_omega_complete_map_guide/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "bo4-alpha-omega-base-mark-ii",
+          "bo4-alpha-omega-community-alpha-omega-map-features-assembly-kit",
+          "bo4-alpha-omega-community-alpha-omega-map-features-ray-gun-mark-ii-frame",
+          "bo4-alpha-omega-weapon-name-reference"
+        ],
+        "supplementNote": null
+      }
+    }
+  },
+  "alpha-omega-map-features-assembly-kit": {
+    "mapOverrides": {
+      "bo4-alpha-omega": {
+        "title": "Assembly Kit: nine part candidates and the Operations bench",
+        "category": "weapon",
+        "difficulty": "Standard route / reference",
+        "players": "Solo / co-op",
+        "summary": "Find the tubing, canister and container used by the four experimental Mark II builds.",
+        "requirements": [
+          "Black Ops 4 — Alpha Omega."
+        ],
+        "reward": "The shared Assembly Kit for the V, X, Y and Z routes.",
+        "steps": [
+          {
+            "title": "Find the Yellow House tubing",
+            "body": "Check Yellow House Downstairs on the kitchen table, Yellow House Upstairs on the lamp table, and the upstairs bookshelf. Collect the tubing at its active candidate.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          },
+          {
+            "title": "Find the Storage canister part",
+            "body": "Check the Storage shelf, the barrel near the Generators tunnel, and the barrel near the exit. Collect this shared kit component; the later colored ammo canisters belong to the individual weapon quests.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          },
+          {
+            "title": "Find the APD Control or Solitary container",
+            "body": "Check the APD Control cart near the Box, the terminal chair in APD Control, and the Solitary desk with the seated mannequin. Collect the container part.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          },
+          {
+            "title": "Instructions & locations",
+            "body": "Bring the three kit parts to the experimental Ray Gun build station upstairs in Operations. The map article reserves the Operations buildable table for this kit and sends all four final weapon crafts to that upper floor.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "LackingAGoodName reports that the placed kit stays for the match and that each Frame becomes part of a gun. The separate Ray Gun Bonanza objective asks for all four experiments in one match.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/cddzw4/alpha_omega_complete_map_guide/"
+            ]
+          },
+          {
+            "title": "Pair a Frame with one colored canister route",
+            "body": "Obtain a Frame through the four TVs, then follow the yellow Kill-a-Watt V, blue Cryofreeze X, orange Brain Rot Y or purple Fire Bomb Z recipe. The Frame panel contains four components; the assembled kit is shared.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "Exact co-op ownership, replacement and failed-craft recovery are not fully established. Players report that claiming an experiment can replace a held regular Mark II.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/cddzw4/alpha_omega_complete_map_guide/"
+            ]
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "r/CODZombies — archived Alpha Omega map article",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          },
+          {
+            "title": "Alpha Omega players — original complete-map discussion replies",
+            "url": "https://www.reddit.com/r/CODZombies/comments/cddzw4/alpha_omega_complete_map_guide/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "bo4-alpha-omega-community-alpha-omega-map-features-ray-gun-mark-ii-frame",
+          "bo4-alpha-omega-base-mark-ii",
+          "bo4-alpha-omega-community-alpha-omega-map-features-ray-gun-mark-ii-v",
+          "bo4-alpha-omega-community-alpha-omega-map-features-ray-gun-mark-ii-x",
+          "bo4-alpha-omega-community-alpha-omega-map-features-ray-gun-mark-ii-y",
+          "bo4-alpha-omega-community-alpha-omega-map-features-ray-gun-mark-ii-z"
+        ],
+        "supplementNote": null
+      }
+    }
+  },
+  "alpha-omega-map-features-ray-gun-mark-ii-v": {
+    "mapOverrides": {
+      "bo4-alpha-omega": {
+        "title": "Mark II-V: yellow canister, Kill-a-Watt and packed form",
+        "category": "weapon",
+        "difficulty": "Standard route / reference",
+        "players": "Solo / co-op",
+        "summary": "Complete the yellow experiment and its separate Pack-a-Punch upgrade.",
+        "requirements": [
+          "Black Ops 4 — Alpha Omega.",
+          "These instructions use an online Standard match on Normal. Players report different Rushmore behavior in Casual/local play; other modes and current platform differences are not fully audited.",
+          "Assembly Kit, a Frame, Pack-a-Punch and the alternate ammo type named by this route."
+        ],
+        "reward": "Ray Gun Mark II-V and its Porter's Mark II-V2 form.",
+        "steps": [
+          {
+            "title": "Preparation & context",
+            "body": "Build the shared Assembly Kit upstairs in Operations and take a Frame from the four-TV panel. Pack an ordinary gun until it has the Kill-a-Watt alternate ammo type, then use that gun for the electrical recipe.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "The source does not establish current reroll prices, odds or every eligible firearm."
+          },
+          {
+            "title": "Open the yellow-mist Generators panel",
+            "body": "In Generators, find the metal panel emitting yellow mist. Candidates are near the Beds entrance, near the Ventilation Console, and near the Tonic perk machine. Shoot the active panel with Kill-a-Watt and collect the yellow ammo canister.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          },
+          {
+            "title": "Start the sparking electrical pole",
+            "body": "Return to the surface and find a pole with yellow sparks at its top. Shoot those sparks with the Kill-a-Watt weapon until a yellow orb appears on that pole.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          },
+          {
+            "title": "Connect the next live poles",
+            "body": "Find the next yellow-sparking pole and shoot its top with the same weapon. Repeat as the electrical connections appear. The source lists Transfusion Facility Backyard twice, Cul-de-sac outside Prisoner Holding, Cul-de-sac by Transfusion Facility, and Site Entrance outside the APD house.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "The source describes the original pole plus four more. Its two Backyard labels do not distinguish the exact poles; follow the live sparks and links instead of treating the printed list as a fixed route.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/cb2xti/alpha_omega_easter_egg_hunt_general_map_discussion/"
+            ]
+          },
+          {
+            "title": "Charge the canister at the green generator",
+            "body": "At the green generator near Yellow House in the Cul-de-sac, interact to insert the yellow canister. Stay in the revealed yellow soul circle and kill zombies with the Kill-a-Watt gun until the circle disappears. Interact again to recover the charged canister.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "This follows the matching-ammo route in the wiki. NotThatGuy523 and GenguPingum report other attacks filling circles, including Wraith Fire and Specialist kills; a universal ammo-type requirement is unresolved.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/cddzw4/alpha_omega_complete_map_guide/",
+              "https://www.reddit.com/r/CODZombies/comments/cb2xti/alpha_omega_easter_egg_hunt_general_map_discussion/"
+            ]
+          },
+          {
+            "title": "Craft Mark II-V upstairs in Operations",
+            "body": "Bring the charged yellow canister to the Kit station upstairs in Operations and craft the Ray Gun Mark II-V with a Frame. The article describes recharging ammunition and an electrical arc after sustained fire at a group.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "Exact recharge delay, overheat behavior, damage and co-op replacement rules are not established."
+          },
+          {
+            "title": "Porter's Mark II-V2 Ray Gun",
+            "body": "Use Pack-a-Punch on Mark II-V to obtain Porter's Mark II-V2 Ray Gun. The article lists a 150-ammo capacity for this packed form.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "That capacity is a historical source value; current statistics were not tested. If the machine is unavailable, check for another clogged vent."
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "r/CODZombies — archived Alpha Omega map article",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          },
+          {
+            "title": "Alpha Omega players — original complete-map discussion replies",
+            "url": "https://www.reddit.com/r/CODZombies/comments/cddzw4/alpha_omega_complete_map_guide/"
+          },
+          {
+            "title": "rCODZombiesBot and named players — original Alpha Omega hunt",
+            "url": "https://www.reddit.com/r/CODZombies/comments/cb2xti/alpha_omega_easter_egg_hunt_general_map_discussion/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "bo4-alpha-omega-community-alpha-omega-map-features-assembly-kit",
+          "bo4-alpha-omega-community-alpha-omega-map-features-ray-gun-mark-ii-frame",
+          "bo4-alpha-omega-community-alpha-omega-map-features-pack-a-punch",
+          "bo4-alpha-omega-base-mark-ii"
+        ],
+        "supplementNote": null
+      }
+    }
+  },
+  "alpha-omega-map-features-ray-gun-mark-ii-x": {
+    "mapOverrides": {
+      "bo4-alpha-omega": {
+        "title": "Mark II-X: blue canister, Cryofreeze and packed form",
+        "category": "weapon",
+        "difficulty": "Standard route / reference",
+        "players": "Solo / co-op",
+        "summary": "Complete the blue experiment and its separate Pack-a-Punch upgrade.",
+        "requirements": [
+          "Black Ops 4 — Alpha Omega.",
+          "These instructions use an online Standard match on Normal. Players report different Rushmore behavior in Casual/local play; other modes and current platform differences are not fully audited.",
+          "Assembly Kit, a Frame, Pack-a-Punch and the alternate ammo type named by this route."
+        ],
+        "reward": "Ray Gun Mark II-X and its dual-wield Porter's Mark II-X2 form.",
+        "steps": [
+          {
+            "title": "Preparation & context",
+            "body": "Obtain the shared Assembly Kit, a Frame and a packed ordinary gun with the Cryofreeze alternate ammo type. Keep it for revealing the blue canister and freezing the marked enemies.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          },
+          {
+            "title": "Shoot the blue-mist cabinet or drawer",
+            "body": "Search APD Interrogation, Prisoner Holding and Operations for a cabinet or drawer emitting blue mist. Shoot the active one with the Cryofreeze gun and collect the blue ammo canister.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "The source gives these three rooms without complete furniture-facing coordinates. The hunt has a malformed combined Prisoner Holding/Operations link; the later stored wiki separates them. zhunterzhunter places the Operations candidate beside the film projector and the APD Interrogation candidate downstairs. Prisoner Holding has no further furniture landmark in that reply.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/cb2xti/alpha_omega_easter_egg_hunt_general_map_discussion/"
+            ]
+          },
+          {
+            "title": "Freeze, melee and collect three blue goo drops",
+            "body": "In the bunker, find zombies emitting blue mist. Shoot a marked zombie with Cryofreeze, wait until it is frozen, then melee it and collect the blue goo it drops. Repeat until you have collected three drops.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "Exact spawn cadence, freeze timing and lost-drop recovery remain unmeasured."
+          },
+          {
+            "title": "Charge the blue canister in APD Control",
+            "body": "Use the broken container near the wall map in APD Control to place the canister. Stay within the blue soul circle and kill zombies until it disappears, then interact to recover the charged canister.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "The original hunt specifies Cryofreeze for the circle; the stored wiki only says to kill inside it. Later firsthand replies report other attacks working. Matching Cryofreeze follows the original hunt recipe without certifying a universal restriction.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/cddzw4/alpha_omega_complete_map_guide/",
+              "https://www.reddit.com/r/CODZombies/comments/cb2xti/alpha_omega_easter_egg_hunt_general_map_discussion/"
+            ]
+          },
+          {
+            "title": "Craft the charged blue experiment in Operations",
+            "body": "Return to the Kit on the upper floor of Operations with the charged blue canister and a Frame. This is the blue Mark II-X route. The blue-route player reply also sends its charged part back to the Kit.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "The wiki and hunt both label this section’s final craft line Mark II-V, while the heading, blue recipe and next upgrade are X. That naming conflict is retained here; the blue component route is not treated as a yellow V recipe.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/cb2xti/alpha_omega_easter_egg_hunt_general_map_discussion/"
+            ]
+          },
+          {
+            "title": "Porter's Mark II-X2 Ray Gun",
+            "body": "Use Pack-a-Punch on the Mark II-X to obtain Porter's Mark II-X2 Ray Gun. The article describes the base X as fully automatic and the packed form as two dual-wield Ray Guns.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "Current ammo quantities, exact attack controls and ownership/replacement behavior are not fully documented."
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "r/CODZombies — archived Alpha Omega map article",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          },
+          {
+            "title": "Alpha Omega players — original complete-map discussion replies",
+            "url": "https://www.reddit.com/r/CODZombies/comments/cddzw4/alpha_omega_complete_map_guide/"
+          },
+          {
+            "title": "rCODZombiesBot and named players — original Alpha Omega hunt",
+            "url": "https://www.reddit.com/r/CODZombies/comments/cb2xti/alpha_omega_easter_egg_hunt_general_map_discussion/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "bo4-alpha-omega-community-alpha-omega-map-features-assembly-kit",
+          "bo4-alpha-omega-community-alpha-omega-map-features-ray-gun-mark-ii-frame",
+          "bo4-alpha-omega-community-alpha-omega-map-features-pack-a-punch",
+          "bo4-alpha-omega-base-mark-ii"
+        ],
+        "supplementNote": null
+      }
+    }
+  },
+  "alpha-omega-map-features-ray-gun-mark-ii-y": {
+    "mapOverrides": {
+      "bo4-alpha-omega": {
+        "title": "Mark II-Y: orange canister, Brain Rot and packed form",
+        "category": "weapon",
+        "difficulty": "Standard route / reference",
+        "players": "Solo / co-op",
+        "summary": "Complete the orange experiment and its separate Pack-a-Punch upgrade.",
+        "requirements": [
+          "Black Ops 4 — Alpha Omega.",
+          "These instructions use an online Standard match on Normal. Players report different Rushmore behavior in Casual/local play; other modes and current platform differences are not fully audited.",
+          "Assembly Kit, a Frame, Pack-a-Punch and the alternate ammo type named by this route."
+        ],
+        "reward": "Ray Gun Mark II-Y and its Porter's Mark II-Y2 form.",
+        "steps": [
+          {
+            "title": "Preparation & context",
+            "body": "Obtain the Assembly Kit, a Frame and a packed ordinary gun with Brain Rot. Build the two Telepads before starting the orb transfer so both endpoints can be used.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          },
+          {
+            "title": "Let a Brain Rot zombie dig the green-mist mound",
+            "body": "Find the active green-mist dirt pile near the Green House Backyard shed, the Central Street light pole, or the Yellow House back door. Turn a zombie friendly with Brain Rot beside the pile so it digs up the orange ammo canister. Collect the canister.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "The source calls the street Center Street here and Central Street elsewhere. The exact mound radius and a failed-dig reset remain unknown."
+          },
+          {
+            "title": "Fit the two pads to the orb’s two endpoints",
+            "body": "Find the yellow orb above a teleporter position. Place a Telepad there and shoot the orb to send it away. Find its other teleporter position and place the second pad. The original player describes the orb cycling between this pair.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/cb2xti/alpha_omega_easter_egg_hunt_general_map_discussion/",
+            "tip": "Use the pair shown by the live orb. Do not substitute a fixed pair of rooms.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+            ]
+          },
+          {
+            "title": "Shoot the orb and travel with it",
+            "body": "From the end that currently has the orb, shoot it and enter that same Telepad as it transfers. The player report describes taking the orb through the teleport, with a Rushmore confirmation when it works. The orb then leaves the loop for Storage.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/cb2xti/alpha_omega_easter_egg_hunt_general_map_discussion/",
+            "tip": "The exact timing window and reset after a missed transfer are not specified. This route follows the shot input described in the complete original reply and wiki.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+            ]
+          },
+          {
+            "title": "Charge and recover the Storage canister",
+            "body": "Follow the orb to Storage, then interact at its container to place the orange ammo canister and reveal the yellow soul circle. Stay inside and kill zombies until the circle vanishes. Interact again to recover the charged canister.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "The hunt names Brain Rot for the circle; the stored wiki does not impose an ammo type, and later players report other attacks working. Use the matching gun if following the hunt recipe; a universal rule is not verified.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/cddzw4/alpha_omega_complete_map_guide/",
+              "https://www.reddit.com/r/CODZombies/comments/cb2xti/alpha_omega_easter_egg_hunt_general_map_discussion/"
+            ]
+          },
+          {
+            "title": "Craft Mark II-Y upstairs in Operations",
+            "body": "Take the charged orange canister and a Frame to the upper-floor Operations Kit and craft Ray Gun Mark II-Y. Keep the separate packed-form step below in mind before relying on a charge attack.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          },
+          {
+            "title": "Porter's Mark II-Y2 Ray Gun",
+            "body": "Use Pack-a-Punch on Mark II-Y to obtain Porter's Mark II-Y2 Ray Gun. The archived wiki says the upgrade increases ammunition.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "The wiki describes a charge attack on base Y. Memeelordy instead reports that only the packed form charges and consumes the magazine. These firing-mode descriptions conflict; current charge controls, damage and ammo use remain untested.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/cddzw4/alpha_omega_complete_map_guide/"
+            ]
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "r/CODZombies — archived Alpha Omega map article",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          },
+          {
+            "title": "Alpha Omega players — original complete-map discussion replies",
+            "url": "https://www.reddit.com/r/CODZombies/comments/cddzw4/alpha_omega_complete_map_guide/"
+          },
+          {
+            "title": "rCODZombiesBot and named players — original Alpha Omega hunt",
+            "url": "https://www.reddit.com/r/CODZombies/comments/cb2xti/alpha_omega_easter_egg_hunt_general_map_discussion/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "bo4-alpha-omega-community-alpha-omega-map-features-assembly-kit",
+          "bo4-alpha-omega-community-alpha-omega-map-features-ray-gun-mark-ii-frame",
+          "bo4-alpha-omega-community-alpha-omega-map-features-pack-a-punch",
+          "bo4-alpha-omega-base-mark-ii",
+          "bo4-alpha-omega-community-alpha-omega-map-features-telepads"
+        ],
+        "supplementNote": null
+      }
+    }
+  },
+  "alpha-omega-map-features-ray-gun-mark-ii-z": {
+    "mapOverrides": {
+      "bo4-alpha-omega": {
+        "title": "Mark II-Z: purple canister, Fire Bomb and packed form",
+        "category": "weapon",
+        "difficulty": "Standard route / reference",
+        "players": "Solo / co-op",
+        "summary": "Complete the purple experiment and its separate Pack-a-Punch upgrade.",
+        "requirements": [
+          "Black Ops 4 — Alpha Omega.",
+          "These instructions use an online Standard match on Normal. Players report different Rushmore behavior in Casual/local play; other modes and current platform differences are not fully audited.",
+          "Assembly Kit, a Frame, Pack-a-Punch and the alternate ammo type named by this route."
+        ],
+        "reward": "Ray Gun Mark II-Z and its Porter's Mark II-Z2 form.",
+        "steps": [
+          {
+            "title": "Preparation & context",
+            "body": "Obtain the shared Assembly Kit, a Frame and a packed ordinary gun with the Fire Bomb alternate ammo type. Bring Wraith Fire, a Frag or an Acid Bomb for the chimney step.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          },
+          {
+            "title": "Open the orange-mist cabinet",
+            "body": "Find the active orange-mist cabinet in the Green House downstairs kitchen, Yellow House downstairs kitchen, or Lounge near the pool table. Shoot it with the Fire Bomb gun and collect the purple ammo canister.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          },
+          {
+            "title": "Hit the purple-smoking chimney with equipment",
+            "body": "Locate the house whose chimney emits purple smoke. Throw Wraith Fire, a Frag or an Acid Bomb directly onto the chimney. On a successful hit, the smoke dissipates.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "The source promises a location list but supplies only one linked chimney picture. It does not give a complete set of house candidates or exact throw lineups. An early reply uses a shot instead; equipment is the retained wiki route.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/cb2xti/alpha_omega_easter_egg_hunt_general_map_discussion/"
+            ]
+          },
+          {
+            "title": "Charge the purple canister in that fireplace",
+            "body": "Enter the house that had the smoking chimney. Place the canister into its now-purple fireplace to reveal the soul circle. Stay inside and kill zombies with the Fire Bomb gun until the circle disappears; interact again to collect the charged canister.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "The matching-ammo instruction is in the wiki. Later players report Wraith Fire and Specialist kills filling soul circles, so a universal Fire Bomb-only requirement is not certified.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/cddzw4/alpha_omega_complete_map_guide/"
+            ]
+          },
+          {
+            "title": "Craft Mark II-Z at the Operations Kit",
+            "body": "Bring the charged purple canister and a Frame to the Kit upstairs in Operations and craft Ray Gun Mark II-Z. The article describes a shotgun-style weapon.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "The wiki calls base Z fully automatic, while Memeelordy reports a semi-automatic base form with a delay between shots. Those historical descriptions conflict; no current fire-rate or input claim is added.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/cddzw4/alpha_omega_complete_map_guide/"
+            ]
+          },
+          {
+            "title": "Porter's Mark II-Z2 Ray Gun",
+            "body": "Use Pack-a-Punch on Mark II-Z to obtain Porter's Mark II-Z2 Ray Gun. The article describes more ammunition for the packed form.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "The complete capacity, damage, pellet behavior and present firing-mode change are not supplied by the written sources."
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "r/CODZombies — archived Alpha Omega map article",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          },
+          {
+            "title": "Alpha Omega players — original complete-map discussion replies",
+            "url": "https://www.reddit.com/r/CODZombies/comments/cddzw4/alpha_omega_complete_map_guide/"
+          },
+          {
+            "title": "rCODZombiesBot and named players — original Alpha Omega hunt",
+            "url": "https://www.reddit.com/r/CODZombies/comments/cb2xti/alpha_omega_easter_egg_hunt_general_map_discussion/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "bo4-alpha-omega-community-alpha-omega-map-features-assembly-kit",
+          "bo4-alpha-omega-community-alpha-omega-map-features-ray-gun-mark-ii-frame",
+          "bo4-alpha-omega-community-alpha-omega-map-features-pack-a-punch",
+          "bo4-alpha-omega-base-mark-ii"
+        ],
+        "supplementNote": null
+      }
+    }
+  },
+  "alpha-omega-map-features-riot-shield": {
+    "mapOverrides": {
+      "bo4-alpha-omega": {
+        "title": "Riot Shield: nine part candidates and two general benches",
+        "category": "weapon",
+        "difficulty": "Standard route / reference",
+        "players": "Solo / co-op",
+        "summary": "Find one part in each region, then craft at a general buildable table.",
+        "requirements": [
+          "Black Ops 4 — Alpha Omega."
+        ],
+        "reward": "The Riot Shield.",
+        "steps": [
+          {
+            "title": "Search the Cul-de-sac part group",
+            "body": "Check the rear driver-side bus tire, the front driver-side tire of the green car, and below the couch in the debris near the truck. Collect the part present in this group.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "EmpatheticPirate reports that the original couch candidate link points to the wrong picture. The text locator is retained, but that old image is not treated as verified.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/cddzw4/alpha_omega_complete_map_guide/"
+            ]
+          },
+          {
+            "title": "Search the Operations part group",
+            "body": "Check the garage filing cabinet, the desk with green monitors on the ground floor, and the upstairs filing cabinet. Collect the Operations shield part.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          },
+          {
+            "title": "Search the Beds part group",
+            "body": "Check the cardboard boxes on a shelf, the dresser near the barrier, and the chair near the toppled shelf. Collect the Beds shield part.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          },
+          {
+            "title": "Instructions & locations",
+            "body": "Take the three parts to a general buildable table in Green House Upstairs or APD Control and craft the Riot Shield. The Operations table is reserved by the article for the Ray Gun Assembly Kit.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "Exact shield durability, repair price, replacement ownership and all input bindings are not established by these listings."
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "r/CODZombies — archived Alpha Omega map article",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          },
+          {
+            "title": "Alpha Omega players — original complete-map discussion replies",
+            "url": "https://www.reddit.com/r/CODZombies/comments/cddzw4/alpha_omega_complete_map_guide/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "bo4-alpha-omega-community-alpha-omega-map-features-pack-a-punch",
+          "bo4-alpha-omega-community-alpha-omega-map-features-telepads",
+          "bo4-alpha-omega-community-alpha-omega-map-features-assembly-kit"
+        ],
+        "supplementNote": null
+      }
+    }
+  },
+  "alpha-omega-map-features-sergeant-a-d-a-m": {
+    "mapOverrides": {
+      "bo4-alpha-omega": {
+        "title": "Sergeant A.D.A.M.: four codes and the Storage activation",
+        "category": "side",
+        "difficulty": "Standard route / reference",
+        "players": "Solo / co-op",
+        "summary": "Retrieve the Toy Soldier, Sawyer, McCain and Pernell codes in Rushmore’s requested order.",
+        "requirements": [
+          "Black Ops 4 — Alpha Omega.",
+          "These instructions use an online Standard match on Normal. Players report different Rushmore behavior in Casual/local play; other modes and current platform differences are not fully audited."
+        ],
+        "reward": "A.D.A.M. support and the robot needed for the main quest canister.",
+        "steps": [
+          {
+            "title": "Navigate to Operations and interact with Rushmore.",
+            "body": "Open Pack-a-Punch, progress a round and interact with Rushmore in Operations. Follow the code requests for Operation Toy Soldier, Sawyer, Peter McCain and Pernell in that listed order.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "The article warns that slow code entry can fail. No exact interval or complete retry condition is supplied."
+          },
+          {
+            "title": "Locate the following codes in the listed order, as Rushmore commands",
+            "body": "Follow Rushmore’s order: Toy Soldier at the Operations desk, Sawyer in APD Interrogation, Peter McCain beneath the APD Control papers, then Pernell through the Solitary key and Yellow House upstairs drawer. The next chapters describe all candidates before the Storage activation.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "Enter the requested codes promptly; the archived source does not quantify the interval or all failure recovery.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/cbd9o8/alpha_omega_easter_egg_all_steps_detailed/"
+            ]
+          },
+          {
+            "title": "Operation Toy Soldier: check the Operations desk",
+            "body": "The original guides place this code on the desk to the left of the machine in Operations. The later map article records 7626 as its constant value. Enter it when Rushmore requests Toy Soldier.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/cbd9o8/alpha_omega_easter_egg_all_steps_detailed/",
+            "tip": "The physical desk report and archived fixed value are both recorded. Other personal codes below must be read from the current match.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+              "https://www.reddit.com/r/CODZombies/comments/cb2xti/alpha_omega_easter_egg_hunt_general_map_discussion/"
+            ]
+          },
+          {
+            "title": "Sawyer: search the three APD Interrogation positions",
+            "body": "Check the desk behind the TV, the computer/desk underneath the stairs, and the upstairs computer desk. RealBlazeStorm places the upstairs candidate to the right of the hole in the wall. Record the code you find.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "These are three candidates for one code, not three codes to enter. Exact monitor-facing pictures remain useful.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/cddzw4/alpha_omega_complete_map_guide/"
+            ]
+          },
+          {
+            "title": "Peter McCain: uncover the APD Control papers",
+            "body": "At APD Control, shoot or melee the stack of papers identified by the source to reveal Peter McCain’s code. Record it and enter it when requested.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "The written locator only identifies a stack of papers; its exact tabletop still needs the original picture.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/cbd9o8/alpha_omega_easter_egg_all_steps_detailed/"
+            ]
+          },
+          {
+            "title": "Pernell: take the key and open the Yellow House drawer",
+            "body": "Take the key from the key box in Solitary. Use it at the desk drawer upstairs in Yellow House to reveal Pernell’s code, then enter that code when Rushmore requests it.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "Exact key-box and drawer-facing references are not transcribed beyond those surfaces.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/cbd9o8/alpha_omega_easter_egg_all_steps_detailed/"
+            ]
+          },
+          {
+            "title": "Activate the robot in Storage",
+            "body": "After the requested code chain succeeds, go to Storage and activate A.D.A.M. The article says he follows for three rounds and costs 3,000 points to activate after the first activation. Use him for the Marlton canister when the main quest requests it.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "A co-op reply reports a closed robot door and failed main-quest progression. The suspected overlapping interactions are not a proven cause, and no guaranteed reset is supplied.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/cbd9o8/alpha_omega_easter_egg_all_steps_detailed/"
+            ]
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "r/CODZombies — archived Alpha Omega map article",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          },
+          {
+            "title": "Nanikos — original main-quest guide and named player replies",
+            "url": "https://www.reddit.com/r/CODZombies/comments/cbd9o8/alpha_omega_easter_egg_all_steps_detailed/"
+          },
+          {
+            "title": "Alpha Omega players — original complete-map discussion replies",
+            "url": "https://www.reddit.com/r/CODZombies/comments/cddzw4/alpha_omega_complete_map_guide/"
+          },
+          {
+            "title": "rCODZombiesBot and named players — original Alpha Omega hunt",
+            "url": "https://www.reddit.com/r/CODZombies/comments/cb2xti/alpha_omega_easter_egg_hunt_general_map_discussion/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "bo4-alpha-omega-community-alpha-omega-map-features-pack-a-punch",
+          "bo4-alpha-omega-community-alpha-omega-easter-eggs-quests-main-quest",
+          "bo4-alpha-omega-tedd-and-marlton"
+        ],
+        "supplementNote": null
+      }
+    }
+  },
+  "alpha-omega-game-features-perk-locations": {
+    "mapOverrides": {
+      "bo4-alpha-omega": {
+        "title": "Perk machines: Brew, Cola, Soda and Tonic",
+        "category": "side",
+        "difficulty": "Standard route / reference",
+        "players": "Solo / co-op",
+        "summary": "Use the four slot locations for the perks selected in your loadout.",
+        "requirements": [
+          "Black Ops 4 — Alpha Omega."
+        ],
+        "reward": "A four-location perk reference.",
+        "steps": [
+          {
+            "title": "Instructions & locations",
+            "body": "The archived map article places Brew on Central Street and Cola downstairs in Yellow House. Inspect the current machine prompt for the perk and price selected by your loadout. Find Soda in Diner and Tonic in Generators. BlueJimmyy’s original correction places Soda in Diner rather than an older Lounge label.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "The text does not certify a complete perk catalogue, modifier-slot behavior, loss on down, or every difficulty/mode exception.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/cddzw4/alpha_omega_complete_map_guide/"
+            ]
+          },
+          {
+            "title": "Use Rushmore discounts only within their stated scope",
+            "body": "After activating Rushmore, his code list includes Brew 2739, Soda 7632 and Cola 2652, each described as making that slot half price. The published table does not provide a Tonic discount code.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "Only one optional listed code can be accepted per round in the article. Replies also report repeat-use denial; current reuse rules are not fully audited."
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "r/CODZombies — archived Alpha Omega map article",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          },
+          {
+            "title": "Alpha Omega players — original complete-map discussion replies",
+            "url": "https://www.reddit.com/r/CODZombies/comments/cddzw4/alpha_omega_complete_map_guide/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "bo4-alpha-omega-community-alpha-omega-easter-eggs-quests-rushmore-secret-codes",
+          "bo4-alpha-omega-enemies-powerups-achievements"
+        ],
+        "supplementNote": null
+      }
+    }
+  },
+  "alpha-omega-easter-eggs-quests-main-quest": {
+    "mapOverrides": {
+      "bo4-alpha-omega": {
+        "title": "Main quest: Rushmore tasks, the APD and Avogadro",
+        "category": "main",
+        "difficulty": "Standard route / reference",
+        "players": "Solo / co-op",
+        "summary": "Complete the clocks, deliveries, paintings and mannequin repair before the four-canister boss.",
+        "requirements": [
+          "Black Ops 4 — Alpha Omega.",
+          "These instructions use an online Standard match on Normal. Players report different Rushmore behavior in Casual/local play; other modes and current platform differences are not fully audited.",
+          "Pack-a-Punch, Galvaknuckles, Brain Rot on an ordinary gun, Telepads and A.D.A.M. access.",
+          "Coordinate the all-player mannequin defenses, APD start and backup-canister rooms."
+        ],
+        "reward": "The Elemental Shard and quest ending; collecting it ends the match.",
+        "steps": [
+          {
+            "title": "Preparation & context",
+            "body": "Open Pack-a-Punch and plan for Galvaknuckles, a Brain Rot gun, two Telepads and access to A.D.A.M. The archived suggested loadout is Katana, Quick Revive, Stamin-Up, Dying Wish and Winter’s Wail in the modifier slot, with Strife and Wraith Fire.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "That class is an optional historical suggestion. Exact present damage, difficulty scaling, bot cooperation and inventory-loss recovery are not tested."
+          },
+          {
+            "title": "Activate the Pack-a-Punch and progress a round.",
+            "body": "Finish the Generators ventilation lockdown and the four vent repairs to open Pack-a-Punch, then progress to the next round before beginning Rushmore’s Standard tasks.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/cbd9o8/alpha_omega_easter_egg_all_steps_detailed/"
+            ]
+          },
+          {
+            "title": "Navigate to and activate Rushmore in the Operations",
+            "body": "Go to Operations and interact with Rushmore to begin the Standard story tasks. Return to this computer after each completed task when the following chapters request confirmation.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/cbd9o8/alpha_omega_easter_egg_all_steps_detailed/"
+            ]
+          },
+          {
+            "title": "Unlock A.D.A.M. before his delivery task",
+            "body": "Complete the four requested personal-code steps in the linked A.D.A.M. guide. That unlocks his Storage access for the later canister delivery. The standalone guide gives the Toy Soldier, Sawyer, McCain and Pernell code locations.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/cbd9o8/alpha_omega_easter_egg_all_steps_detailed/",
+            "tip": "A.D.A.M. has a reported three-round active period. Activate him for the requested delivery rather than assuming a robot summoned much earlier is still available.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+            ]
+          },
+          {
+            "title": "Activate the white static clock TV",
+            "body": "Find the white static TV in the bunker’s Beds, Diner or Lounge area. Kill a zombie near it with Galvaknuckles, then interact with the activated TV to hear the clock codes.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "Nanikos and players correct an older single-TV assumption. lamall reports two Beds positions: right of Pack-a-Punch, or left on the wall near the mannequin window. These are clock TVs, separate from the four Frame TVs.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/cbd9o8/alpha_omega_easter_egg_all_steps_detailed/"
+            ]
+          },
+          {
+            "title": "After activating the TV, it should begin to read a list of codes following the…",
+            "body": "Record every letter and four-digit time read by the TV. Use this house key: A Yellow House; B Green House; C Prisoner Holding; D Transfusion Facility; E Operations; F APD Interrogation. Keep the spoken order in your notes.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "Use this match’s values. Nanikos describes five announced houses and a sixth unmentioned house; a printed example is not a universal combination.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/cbd9o8/alpha_omega_easter_egg_all_steps_detailed/"
+            ]
+          },
+          {
+            "title": "Set the five announced clocks",
+            "body": "Visit the announced houses in the recorded order. Interact with each clock to advance it by fifteen minutes, or melee it to advance it by one hour, until it matches that house’s four-digit time. For example, a recorded A0115 means 1:15 in Yellow House.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "Finish in one round when following Nanikos’s recipe. Their post says a round change requires restarting at the TV; Dildozer1322 later disputes that persistence rule. A complete current reset/timing audit is missing.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/cbd9o8/alpha_omega_easter_egg_all_steps_detailed/"
+            ]
+          },
+          {
+            "title": "Read the unannounced sixth clock",
+            "body": "Go to the house whose letter was not announced and interact with its clock. It spins to a time. Convert that resulting time to four digits, preserving a leading zero: 6:15 becomes 0615. Enter it at Rushmore, then interact with him.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "Do not substitute the last spoken TV code for the sixth clock. Replies report ambiguous rejection-sounding dialogue and failures even after entry; use the next task appearing as confirmation rather than inventing a reset.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/cbd9o8/alpha_omega_easter_egg_all_steps_detailed/"
+            ]
+          },
+          {
+            "title": "Rushmore will now tell you to find a red Nova Six Crawler somewhere around the map",
+            "body": "Find the red Nova Six crawler and keep it alive while it follows you to Transfusion Facility. Guide it to the barrier by the stairs so it climbs through. After Rushmore confirms the delivery, return to Operations and interact with him.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "Nanikos says a dead crawler requires waiting a round for a replacement. Exact health, escort radius and every failed-delivery recovery remain unmeasured.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/cbd9o8/alpha_omega_easter_egg_all_steps_detailed/"
+            ]
+          },
+          {
+            "title": "Head to the Storage room and activate A.D.A.M",
+            "body": "Activate the unlocked robot in Storage and bring him to the bunker stairs connecting Green House Backyard and Diner. At the stair landing, find the metal blast door behind the barrels and interact while A.D.A.M. is nearby.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "The written source does not establish an exact robot distance or required number of knocks. Avoid treating a speculative multi-knock workaround as a proven requirement.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/cbd9o8/alpha_omega_easter_egg_all_steps_detailed/",
+              "https://www.reddit.com/r/CODZombies/comments/cb2xti/alpha_omega_easter_egg_hunt_general_map_discussion/"
+            ]
+          },
+          {
+            "title": "Return Marlton’s Element 115 canister",
+            "body": "Take the canister Marlton supplies. Bring it to the canister shelf in Transfusion Facility and interact with the empty position to place it. Return to Operations and speak to Rushmore.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "A complete shelf-facing photo and co-op pickup/ownership rules are still needed. A.D.A.M. door failures are reported without a verified universal fix.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/cbd9o8/alpha_omega_easter_egg_all_steps_detailed/"
+            ]
+          },
+          {
+            "title": "Place the server-delivery Telepads",
+            "body": "Before picking up the timed server core, place one Telepad beside it in the Power House and the other at Prisoner Holding. The linked Telepad guide lists the part candidates and available positions.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "An older hunt uses an endpoint near Transfusion Facility. The later wiki and Nanikos route use Prisoner Holding; no optimal route or exact time margin is certified.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/cbd9o8/alpha_omega_easter_egg_all_steps_detailed/",
+              "https://www.reddit.com/r/CODZombies/comments/cb2xti/alpha_omega_easter_egg_hunt_general_map_discussion/"
+            ]
+          },
+          {
+            "title": "Go to the Power House and get a Jolting Jack to fire an electric blast at this…",
+            "body": "In the Power House, get a Jolting Jack to fire its electrical blast at the server core near the Telepad position. Once the server is activated, interact to pick up the core and start the timed carry.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "Nanikos describes the server to the left of the Telepad. The exact aiming surface and delivery timer are not quantified.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/cbd9o8/alpha_omega_easter_egg_all_steps_detailed/"
+            ]
+          },
+          {
+            "title": "Teleport and deliver to Operations",
+            "body": "Use the Power House Telepad, then run from the Prisoner Holding endpoint to Operations. Insert the core into the server rack/slot beside the stairs before its timer expires. The sources suggest the Katana Specialist for movement speed.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "The wiki says a failed delivery can be retried by taking the core again from the Power House. Exact timer length, elixir interactions and disconnect recovery are not established.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/cbd9o8/alpha_omega_easter_egg_all_steps_detailed/"
+            ]
+          },
+          {
+            "title": "Around the Bunker there will be pictures on the walls with a green mist coming…",
+            "body": "Find green-mist paintings in Green House Upstairs, Lounge and Beds. Turn a nearby zombie with Brain Rot so it knocks each picture down, then record the four-digit code revealed behind it.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "An earlier hunt instead lists Diner and the Green House Backyard bunker stairwell. The later wiki and Nanikos agree on the three areas used here; exact current painting surfaces remain a photo/verification gap.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/cbd9o8/alpha_omega_easter_egg_all_steps_detailed/",
+              "https://www.reddit.com/r/CODZombies/comments/cb2xti/alpha_omega_easter_egg_hunt_general_map_discussion/"
+            ]
+          },
+          {
+            "title": "Enter the three painting codes promptly",
+            "body": "At Rushmore, enter the three recorded four-digit painting codes in quick succession, then interact with him. Continue when the power-outage task begins.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "The sources do not establish an exact entry interval or a reliable fixed ordering of these three paper codes. Nanikos’s reply is explicitly uncertain; no invented order is supplied.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/cbd9o8/alpha_omega_easter_egg_all_steps_detailed/"
+            ]
+          },
+          {
+            "title": "Power will now go out around the map",
+            "body": "During the power outage, set Diner Up, Beds Up, Generators Up, Solitary Down, Storage Down and Lounge Down. Check that all six indicator lights are green.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "This is the recorded orientation recipe, not a complete switch-coupling solver for every unexpected starting state. Exact switch surfaces still need physical references.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/cbd9o8/alpha_omega_easter_egg_all_steps_detailed/"
+            ]
+          },
+          {
+            "title": "Restore the Power House switch",
+            "body": "Once all six bunker indicators are green, return to the Power House and reactivate the main power switch. Then return to Operations and interact with Rushmore.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          },
+          {
+            "title": "Around the map there will be newly spawned in Mannequins",
+            "body": "Find a newly spawned mannequin glowing blue or sparking. Every player goes to its area before interacting to start the defense. Nanikos lists candidates behind Green House, Yellow House and a house they call the brown house, plus Prisoner Holding, Diner and Lounge.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "Those six reported candidates are not a complete coordinate census. The active target and sequence are determined by the match.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/cbd9o8/alpha_omega_easter_egg_all_steps_detailed/"
+            ]
+          },
+          {
+            "title": "Finish three defenses and collect every dropped part",
+            "body": "Survive the active mannequin defense until the target breaks, then collect its dropped part. Repeat for the next two active targets until you have two arms and a head.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "No universal defense timer, kill quota or lost-part recovery is supplied."
+          },
+          {
+            "title": "Repair the APD Interrogation mannequin",
+            "body": "Bring the two arms and head to the broken mannequin seated in the APD Interrogation chair. Interact to repair it and listen for Rushmore’s Elemental Orb task.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/cbd9o8/alpha_omega_easter_egg_all_steps_detailed/"
+            ]
+          },
+          {
+            "title": "Once the mannequin has been revived, Rushmore will then tell you to go find an…",
+            "body": "Nanikos reports an orb at the Green House kitchen window, the window left of Pack-a-Punch, or the upstairs Yellow House window beside the desk. Search for the live orb rather than assuming those are its only possible starts.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/comments/cbd9o8/alpha_omega_easter_egg_all_steps_detailed/",
+            "tip": "The original post calls these known locations and explicitly says there are multiple starts. A complete current spawn census is missing."
+          },
+          {
+            "title": "Escort the orb back to the repaired mannequin",
+            "body": "Stay close to the Elemental Orb as it travels around the map, and escort it to the repaired mannequin in APD Interrogation. Nanikos says a lost orb returns on a later round.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "The full path, distance threshold, exact failure cue and every retry condition are not supplied by the written sources.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/cbd9o8/alpha_omega_easter_egg_all_steps_detailed/"
+            ]
+          },
+          {
+            "title": "After you have fully prepared with your preferred loadout, head down to the…",
+            "body": "Finish your purchases and loadout preparation. Have every player interact with the computers in APD Control to begin the boss sequence.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "The source does not establish safe late entry, bot cooperation, disconnect recovery or a return to ordinary setup after this trigger."
+          },
+          {
+            "title": "Avogadro Boss Fight",
+            "body": "Kill mannequins around APD Control to charge the empty soul canister. When it is full, the APD opens and releases the Avogadro. After the nuke lands, leave APD Control for the bunker canister stage.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          },
+          {
+            "title": "Charge the four backup canisters with the team present",
+            "body": "Find the backup canisters in Beds, Storage, Diner and Lounge. For each, gather every player in that room, then have one player interact with its canister to allow it to fill. Kill enemies to charge it while avoiding the attacking Avogadro.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "The room list is not a required room order. Exact canister surfaces, kill totals, timers and scaling are not documented."
+          },
+          {
+            "title": "Leave a room when its electrical completion starts",
+            "body": "After a backup canister is filled, its completion audio and the room’s electricity signal success and block that area. Move to the next remaining canister. Finish all four before returning to APD Control.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "A player specifically warns to leave rather than attempting to pick up a completed backup canister. These are not the portable upgrade canisters.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/cbd9o8/alpha_omega_easter_egg_all_steps_detailed/"
+            ]
+          },
+          {
+            "title": "Drive the Avogadro back into the APD",
+            "body": "Return to APD Control after all four backup canisters are charged. Shoot the Avogadro to move it toward the APD entrance. When it reaches the front of the door, the device draws it inside.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "Exact weapons, positioning, damage values and attack tolerances are not certified. This written route gives a herding action rather than a fixed damage threshold."
+          },
+          {
+            "title": "Collect the Elemental Shard to finish",
+            "body": "Wait for the facility dialogue and APD door to finish, then collect the Elemental Shard. The quest cutscene plays and the game ends.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "r/CODZombies — archived Alpha Omega map article",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          },
+          {
+            "title": "Nanikos — original main-quest guide and named player replies",
+            "url": "https://www.reddit.com/r/CODZombies/comments/cbd9o8/alpha_omega_easter_egg_all_steps_detailed/"
+          },
+          {
+            "title": "rCODZombiesBot and named players — original Alpha Omega hunt",
+            "url": "https://www.reddit.com/r/CODZombies/comments/cb2xti/alpha_omega_easter_egg_hunt_general_map_discussion/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "bo4-alpha-omega-community-alpha-omega-map-features-pack-a-punch",
+          "bo4-alpha-omega-community-alpha-omega-map-features-sergeant-a-d-a-m",
+          "bo4-alpha-omega-community-alpha-omega-map-features-traps",
+          "bo4-alpha-omega-community-alpha-omega-map-features-telepads",
+          "bo4-alpha-omega-community-alpha-omega-map-features-riot-shield",
+          "bo4-alpha-omega-weapon-name-reference",
+          "bo4-alpha-omega-community-alpha-omega-easter-eggs-quests-rushmore-secret-codes"
+        ],
+        "supplementNote": null
+      }
+    }
+  },
+  "alpha-omega-easter-eggs-quests-i-am-the-well-music-easter-egg": {
+    "mapOverrides": {
+      "bo4-alpha-omega": {
+        "title": "I Am the Well: three mannequin heads or code 7664",
+        "category": "music",
+        "difficulty": "Standard route / reference",
+        "players": "Solo / co-op",
+        "summary": "Interact with the three song heads, or use the activated Rushmore keypad.",
+        "requirements": [
+          "Black Ops 4 — Alpha Omega."
+        ],
+        "reward": "I Am the Well by Kevin Sherwood and Clark S. Nova plays.",
+        "steps": [
+          {
+            "title": "Green House Upstairs: right of the bed",
+            "body": "Find the separate mannequin head on the right side of the upstairs Green House bed and interact with it for the song.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          },
+          {
+            "title": "Solitary: mattress opposite the M1927",
+            "body": "Find the head on the floor near the Solitary mattress, across from the M1927 wall buy. Interact with this song head.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          },
+          {
+            "title": "Lounge: chair beside the pool table",
+            "body": "Find the song head on the chair next to the Lounge pool table and interact with it. Completing all three head interactions starts the song.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "The text does not require a head order. Exact hit/interaction feedback, replay and per-player credit remain unverified."
+          },
+          {
+            "title": "Alternative: enter Song 7664 at Rushmore",
+            "body": "After activating Rushmore, enter 7664 at his keypad to trigger the secret song through the listed Song code. This is an alternative written activation route.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "The optional code list has a one-code-per-round limit and reported reuse restrictions. No lyrics are reproduced."
+          },
+          {
+            "title": "Instructions & locations",
+            "body": "Complete the three mannequin-head interactions or the alternate Song keypad entry, then listen for I Am the Well. Use either documented activation route; replay and per-player sharing are not fully established.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "r/CODZombies — archived Alpha Omega map article",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          },
+          {
+            "title": "rCODZombiesBot and named players — original Alpha Omega hunt",
+            "url": "https://www.reddit.com/r/CODZombies/comments/cb2xti/alpha_omega_easter_egg_hunt_general_map_discussion/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "bo4-alpha-omega-community-alpha-omega-easter-eggs-quests-rushmore-secret-codes"
+        ],
+        "supplementNote": null
+      }
+    }
+  },
+  "alpha-omega-easter-eggs-quests-pernell-avogadro-jump-scare": {
+    "mapOverrides": {
+      "bo4-alpha-omega": {
+        "title": "Pernell/Avogadro scare: scoped desert target",
+        "category": "side",
+        "difficulty": "Standard route / reference",
+        "players": "Solo / co-op",
+        "summary": "Use the Green House Backyard balcony and the source’s distant zombie target.",
+        "requirements": [
+          "Black Ops 4 — Alpha Omega."
+        ],
+        "reward": "The reported scoped jump scare.",
+        "steps": [
+          {
+            "title": "Obtain a scoped Sniper Rifle and go to the balcony in the Green House Backyard.",
+            "body": "Obtain a scoped sniper rifle and stand on the balcony in Green House Backyard. The archived procedure uses this view toward the desert.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          },
+          {
+            "title": "Aim down the scope of the Sniper at the zombie located in this area in the desert .",
+            "body": "Aim down the sniper scope at the specific zombie in the desert shown by the source’s linked picture. The written recipe stops at this scoped target action.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "The actual desert aiming point is supplied only as an uninspected image. A precise text coordinate, required zoom and dwell time are not recovered; an arbitrary distant zombie is not a verified substitute."
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "r/CODZombies — archived Alpha Omega map article",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "bo4-alpha-omega-weapon-name-reference"
+        ],
+        "supplementNote": null
+      }
+    }
+  },
+  "alpha-omega-easter-eggs-quests-mannequin-jump-scare": {
+    "mapOverrides": {
+      "bo4-alpha-omega": {
+        "title": "Mannequin scare: Galvaknuckle heads and the Beds target",
+        "category": "side",
+        "difficulty": "Standard route / reference",
+        "players": "Solo / co-op",
+        "summary": "Use the specific melee tool, then look at the backwards-headed mannequin beside Pack-a-Punch.",
+        "requirements": [
+          "Black Ops 4 — Alpha Omega."
+        ],
+        "reward": "The mannequin-face jump scare.",
+        "steps": [
+          {
+            "title": "Buy Galvaknuckles for this head-removal route",
+            "body": "The historical weapon table lists Galvaknuckles for 5,000 points at the red truck in the Cul-de-sac. Obtain them before beginning this particular mannequin scare.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          },
+          {
+            "title": "Melee the head off of every mannequin around the map using Galvaknuckles (If you…",
+            "body": "Use Galvaknuckles to melee the head off every mannequin around the map. The map article explicitly requires this tool for the scare. Listen for the completion audio cue.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "A complete coordinate/count inventory of all mannequins is not supplied. Gunshots belong to the separate perk-round procedure, while ordinary melee is described for the love-story route."
+          },
+          {
+            "title": "Head down to the Beds area and directly right of the Pack-a-Punch machine there…",
+            "body": "Go to Beds and look directly at the newly spawned female mannequin immediately right of Pack-a-Punch, whose head initially faces backwards. Its head turns and the full-screen scare triggers.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "The exact view cone, timing and co-op trigger sharing are unverified. A player reports activating this scare while expecting the love-story reward; the shared head-removal triggers are not fully disentangled.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/cddzw4/alpha_omega_complete_map_guide/"
+            ]
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "r/CODZombies — archived Alpha Omega map article",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          },
+          {
+            "title": "Alpha Omega players — original complete-map discussion replies",
+            "url": "https://www.reddit.com/r/CODZombies/comments/cddzw4/alpha_omega_complete_map_guide/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "bo4-alpha-omega-community-alpha-omega-easter-eggs-quests-free-self-revive-love-story",
+          "bo4-alpha-omega-community-alpha-omega-easter-eggs-quests-extra-perk",
+          "bo4-alpha-omega-weapon-name-reference"
+        ],
+        "supplementNote": null
+      }
+    }
+  },
+  "alpha-omega-easter-eggs-quests-rushmore-secret-codes": {
+    "mapOverrides": {
+      "bo4-alpha-omega": {
+        "title": "Rushmore keypad: all 39 archived codes and their limits",
+        "category": "side",
+        "difficulty": "Standard route / reference",
+        "players": "Solo / co-op",
+        "summary": "Read the exact digits, recorded effects and unresolved reuse rules in four short tables.",
+        "requirements": [
+          "Black Ops 4 — Alpha Omega.",
+          "These instructions use an online Standard match on Normal. Players report different Rushmore behavior in Casual/local play; other modes and current platform differences are not fully audited.",
+          "Activate Rushmore in Standard before using this optional-code list."
+        ],
+        "reward": "The documented optional effects, song and lore-code interactions.",
+        "steps": [
+          {
+            "title": "Activate the Standard keypad first",
+            "body": "After opening Pack-a-Punch, advance a round and interact with Rushmore in Operations. Use the keypad beside him for the optional codes in the following tables.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "This Standard setup does not override the separate Normal Gauntlet Frame-keypad exception."
+          },
+          {
+            "title": "Respect the optional-code limit and live feedback",
+            "body": "The archived article allows one optional listed code per round; codes needed for the main quest are exempt from that per-round limit. Enter each number exactly, including leading zeros on backstory entries.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "Simonsays_getgrimey reports Easy being denied after its first use, and a reply says codes are once per game. The wiki’s per-round limit does not establish universal reuse. No repeated-code schedule is guaranteed.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/cddzw4/alpha_omega_complete_map_guide/"
+            ]
+          },
+          {
+            "title": "Codes: slows, discounts, pickups and Love",
+            "body": "Word\tNumbers\tDescription\nEasy | 3279 | Takes zombies speed down to slowest speed for 5 minutes\nBrew | 2739 | Brew perk is now 50% cheaper\nSoda | 7632 | Soda perk is now 50% cheaper\nCola | 2652 | Cola perk is now 50% cheaper\nPack | 7225 | Spawns a Bonfire Sale power-up\nTime | 8463 | Freezes zombies for 30 seconds\nBoom | 2666 | Spawns a live Grenade\nNuke | 6853 | Spawns a Nuke power-up\nDoor | 3667 | Makes one random door that isn't open cost 0 Points\nLove | 5683 | Professes your love to Rushmore",
+            "original": false,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "Literal source cells are retained. Timings and effects are historical reports; 0004 remains unknown in the source. Dialogue summaries are not fictional transcripts.",
+            "html": "<table><thead><tr><th>Word</th><th>Numbers</th><th>Description</th></tr></thead><tbody><tr><td>Easy</td><td>3279</td><td>Takes zombies speed down to slowest speed for 5 minutes</td></tr><tr><td>Brew</td><td>2739</td><td>Brew perk is now 50% cheaper</td></tr><tr><td>Soda</td><td>7632</td><td>Soda perk is now 50% cheaper</td></tr><tr><td>Cola</td><td>2652</td><td>Cola perk is now 50% cheaper</td></tr><tr><td>Pack</td><td>7225</td><td>Spawns a Bonfire Sale power-up</td></tr><tr><td>Time</td><td>8463</td><td>Freezes zombies for 30 seconds</td></tr><tr><td>Boom</td><td>2666</td><td>Spawns a live Grenade</td></tr><tr><td>Nuke</td><td>6853</td><td>Spawns a Nuke power-up</td></tr><tr><td>Door</td><td>3667</td><td>Makes one random door that isn&#x27;t open cost 0 Points</td></tr><tr><td>Love</td><td>5683</td><td>Professes your love to Rushmore</td></tr></tbody></table>"
+          },
+          {
+            "title": "Codes: dialogue, song, T.E.D.D. and the shed",
+            "body": "Word\tNumbers\tDescription\nQuiz | 1841 | Rushmore gives a Quiz that you cannot interact with\nJoke | 5653 | Rushmore tells a Russian joke\nSong | 7664 | Secret song plays\nTedd | 8333 | Activates T.E.D.D. in the Diner\nDuck | 3825 | When you melee zombies they make a duck sound\nGuns | 4867 | Disorderly Combat (Every player in the game given a new gun every 10 seconds for 5 minutes)\nBank | 2265 | Free 1000 points to all players\nRave | 7283 | Rave party starts in the Beds area\nVent | 8368 | Rushmore starts venting his frustration\nShed | 7433 | Opens shed door in the Yellow House Backyard for free",
+            "original": false,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "Literal source cells are retained. Timings and effects are historical reports; 0004 remains unknown in the source. Dialogue summaries are not fictional transcripts.",
+            "html": "<table><thead><tr><th>Word</th><th>Numbers</th><th>Description</th></tr></thead><tbody><tr><td>Quiz</td><td>1841</td><td>Rushmore gives a Quiz that you cannot interact with</td></tr><tr><td>Joke</td><td>5653</td><td>Rushmore tells a Russian joke</td></tr><tr><td>Song</td><td>7664</td><td>Secret song plays</td></tr><tr><td>Tedd</td><td>8333</td><td>Activates T.E.D.D. in the Diner</td></tr><tr><td>Duck</td><td>3825</td><td>When you melee zombies they make a duck sound</td></tr><tr><td>Guns</td><td>4867</td><td>Disorderly Combat (Every player in the game given a new gun every 10 seconds for 5 minutes)</td></tr><tr><td>Bank</td><td>2265</td><td>Free 1000 points to all players</td></tr><tr><td>Rave</td><td>7283</td><td>Rave party starts in the Beds area</td></tr><tr><td>Vent</td><td>8368</td><td>Rushmore starts venting his frustration</td></tr><tr><td>Shed</td><td>7433</td><td>Opens shed door in the Yellow House Backyard for free</td></tr></tbody></table>"
+          },
+          {
+            "title": "Codes: reactions, Specialist charge, warp and gravity",
+            "body": "Word\tNumbers\tDescription\nNoob | 6662 | Takes zombies speed down to slowest speed for 5 minutes\nLife | 5433 | A quote plays about only having 1 life\nPuke | 7853 | When you melee a zombies they will puke\nFall | 3255 | When you look at zombies they will fall down\nUgly | 8459 | Rushmore tells you you are beautiful\nHero | 4376 | Fills up your specialist charge meter\nYawn | 9296 | Rushmore talks about how you're bored\nWarp | 9277 | Teleports the player to a random location\nClub | 2582 | The Beds area will have a disco theme and club music will be playing in the area\nGrav | 4728 | Newtonian Negation (Zombies killed fall straight up, lasts for 25 minutes)",
+            "original": false,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "Literal source cells are retained. Timings and effects are historical reports; 0004 remains unknown in the source. Dialogue summaries are not fictional transcripts.",
+            "html": "<table><thead><tr><th>Word</th><th>Numbers</th><th>Description</th></tr></thead><tbody><tr><td>Noob</td><td>6662</td><td>Takes zombies speed down to slowest speed for 5 minutes</td></tr><tr><td>Life</td><td>5433</td><td>A quote plays about only having 1 life</td></tr><tr><td>Puke</td><td>7853</td><td>When you melee a zombies they will puke</td></tr><tr><td>Fall</td><td>3255</td><td>When you look at zombies they will fall down</td></tr><tr><td>Ugly</td><td>8459</td><td>Rushmore tells you you are beautiful</td></tr><tr><td>Hero</td><td>4376</td><td>Fills up your specialist charge meter</td></tr><tr><td>Yawn</td><td>9296</td><td>Rushmore talks about how you&#x27;re bored</td></tr><tr><td>Warp</td><td>9277</td><td>Teleports the player to a random location</td></tr><tr><td>Club</td><td>2582</td><td>The Beds area will have a disco theme and club music will be playing in the area</td></tr><tr><td>Grav</td><td>4728</td><td>Newtonian Negation (Zombies killed fall straight up, lasts for 25 minutes)</td></tr></tbody></table>"
+          },
+          {
+            "title": "Nine archived backstory entries",
+            "body": "Word\tNumbers\tDescription\n- | 0001 | Backstory\n- | 0002 | Backstory\n- | 0003 | Backstory\n- | 0004 | ???\n- | 1001 | Backstory\n- | 1002 | Backstory\n- | 1003 | Backstory\n- | 1004 | Backstory\n- | 1005 | Backstory",
+            "original": false,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "Literal source cells are retained. Timings and effects are historical reports; 0004 remains unknown in the source. Dialogue summaries are not fictional transcripts.",
+            "html": "<table><thead><tr><th>Word</th><th>Numbers</th><th>Description</th></tr></thead><tbody><tr><td>-</td><td>0001</td><td>Backstory</td></tr><tr><td>-</td><td>0002</td><td>Backstory</td></tr><tr><td>-</td><td>0003</td><td>Backstory</td></tr><tr><td>-</td><td>0004</td><td>???</td></tr><tr><td>-</td><td>1001</td><td>Backstory</td></tr><tr><td>-</td><td>1002</td><td>Backstory</td></tr><tr><td>-</td><td>1003</td><td>Backstory</td></tr><tr><td>-</td><td>1004</td><td>Backstory</td></tr><tr><td>-</td><td>1005</td><td>Backstory</td></tr></tbody></table>"
+          },
+          {
+            "title": "Handle the live-grenade code deliberately",
+            "body": "The table’s Boom code 2666 spawns a live grenade. A player who tried to spell AMMO received that grenade because the same keypad digits spell both words. The source does not provide a free-ammo reward for 2666.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "Song 7664 and T.E.D.D. 8333 have separate linked walkthroughs. The full quote or song lyrics are not reproduced.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/cddzw4/alpha_omega_complete_map_guide/"
+            ]
+          },
+          {
+            "title": "Instructions & locations",
+            "body": "Choose the desired effect from the source tables and enter its exact digits at the activated Rushmore keypad. Respect the optional-code limit and use the live success or denial feedback before planning another entry.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "The literal code effects above are historical reports. This does not establish unlimited reuses or a full current reward catalogue."
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "r/CODZombies — archived Alpha Omega map article",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          },
+          {
+            "title": "Alpha Omega players — original complete-map discussion replies",
+            "url": "https://www.reddit.com/r/CODZombies/comments/cddzw4/alpha_omega_complete_map_guide/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "bo4-alpha-omega-community-alpha-omega-easter-eggs-quests-i-am-the-well-music-easter-egg",
+          "bo4-alpha-omega-tedd-and-marlton",
+          "bo4-alpha-omega-recordings-and-lore-index",
+          "bo4-alpha-omega-community-alpha-omega-map-features-traps"
+        ],
+        "supplementNote": null
+      }
+    }
+  },
+  "alpha-omega-easter-eggs-quests-insanity-mode": {
+    "mapOverrides": {
+      "bo4-alpha-omega": {
+        "title": "Insanity Mode: sign 15, clock 1 and the Round 200 transfer",
+        "category": "side",
+        "difficulty": "Standard route / reference",
+        "players": "Solo / co-op",
+        "summary": "Escort the shed orb, break its TV with Bowie melee and gather every player at Rushmore.",
+        "requirements": [
+          "Black Ops 4 — Alpha Omega.",
+          "These instructions use an online Standard match on Normal. Players report different Rushmore behavior in Casual/local play; other modes and current platform differences are not fully audited.",
+          "Bowie Knife and every player ready for the one-minute confirmation."
+        ],
+        "reward": "A reported Round 200 challenge confined to the original Nuketown layout.",
+        "steps": [
+          {
+            "title": "Prepare before committing to the printed code",
+            "body": "Obtain a Bowie Knife for the later TV melee; the historical table lists it for 3,000 points in Generators. Finish your desired preparations before the final keypad entry and team interaction.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "The source describes a Round 200 transfer and confined layout. It does not establish a cancel, return or refund procedure."
+          },
+          {
+            "title": "When the Clock in the Cul-de-sac is on 1 and the Nuketown Sign population number…",
+            "body": "Watch the Cul-de-sac clock and Nuketown population sign. When the clock points to 1 and the sign reads 15, look for the purple orb in the Yellow House Backyard shed. Stand close while the sign still reads 15 to start it moving.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "These are the two in-world displays. The text does not supply a timer formula, population-management recipe or exact valid interval."
+          },
+          {
+            "title": "Escort the orb into the upstairs APD Interrogation TV",
+            "body": "Stay close to the purple orb as it moves through the map. It ends at the upstairs TV in APD Interrogation. If you stray too far, the article says the orb disappears and you must wait for the clock/sign condition again.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "A full checkpoint route and exact distance threshold are not supplied."
+          },
+          {
+            "title": "Bowie-melee the TV and read its printer",
+            "body": "Break the orb’s TV with Bowie Knife melee. Read the code printed by the printer to the left of that TV. Keep this match’s printed code for Rushmore.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "The code is a live reward from this TV; no universal replacement code is given."
+          },
+          {
+            "title": "Once you input the code you're given into Rushmore's keypad you have 1 minute for…",
+            "body": "Enter the printed code at Rushmore’s keypad. Within the following minute, every player must go to Rushmore and interact with him to begin Insanity Mode.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "Exact synchronization tolerance, failure recovery and bot/split-screen behavior are not established."
+          },
+          {
+            "title": "Play the restricted Round 200 challenge",
+            "body": "The source says the team is transferred to Round 200 in the Cul-de-sac, confined to the original Nuketown Zombies layout, with super-sprinting zombies and instrumental Easter Egg music.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "No complete track list, special reward beyond this mode, reversal method or current retail behavior is verified."
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "r/CODZombies — archived Alpha Omega map article",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "bo4-alpha-omega-community-alpha-omega-easter-eggs-quests-rushmore-secret-codes",
+          "bo4-alpha-omega-weapon-name-reference"
+        ],
+        "supplementNote": null
+      }
+    }
+  },
+  "alpha-omega-easter-eggs-quests-free-self-revive-love-story": {
+    "mapOverrides": {
+      "bo4-alpha-omega": {
+        "title": "Free Self-Revive: reunite and escort the mannequins",
+        "category": "side",
+        "difficulty": "Standard route / reference",
+        "players": "Solo / co-op",
+        "summary": "Use melee heads, lead the male to Generators and let the pair reach the Green House shed.",
+        "requirements": [
+          "Black Ops 4 — Alpha Omega.",
+          "These instructions use an online Standard match on Normal. Players report different Rushmore behavior in Casual/local play; other modes and current platform differences are not fully audited."
+        ],
+        "reward": "A reported free Self-Revive at the Green House Backyard shed door.",
+        "steps": [
+          {
+            "title": "Melee the head off of every mannequin around the map",
+            "body": "Melee the heads off all mannequins around the map and listen for the completion audio cue. This love-story procedure uses melee head removal; the perk-round recipe instead uses gunshots.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "The complete mannequin coordinates/count, eligible melee tools and overlap with the Galvaknuckle scare are unresolved. A player reports confusing the two routes.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/cddzw4/alpha_omega_complete_map_guide/"
+            ]
+          },
+          {
+            "title": "Behind the Nuketown sign in the Cul-de-sac there will be a male mannequin, when…",
+            "body": "Go behind the Nuketown population sign in the Cul-de-sac. The new male mannequin stays still while you look at it and runs toward you while you look away.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          },
+          {
+            "title": "Lead him to the headless female in Generators",
+            "body": "Move down to Generators with the male following, using the look-away movement behavior. Find the newly spawned headless female and bring the male to her.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "The exact female spawn surface, escort distance and lost-target recovery are not supplied."
+          },
+          {
+            "title": "Once the 2 mannequins are united, if you look away from the mannequins they will…",
+            "body": "Once the mannequins meet, look away so the pair can move. Follow them without staring at them as they run to the Green House Backyard shed and enter it.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          },
+          {
+            "title": "Collect the Self-Revive at the shed door",
+            "body": "After the pair enters, look for and collect the free Self-Revive waiting at the Green House Backyard shed door.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "The source does not establish team-wide sharing, repeat claims, existing-revive limits or what happens after a failed escort."
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "r/CODZombies — archived Alpha Omega map article",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          },
+          {
+            "title": "Alpha Omega players — original complete-map discussion replies",
+            "url": "https://www.reddit.com/r/CODZombies/comments/cddzw4/alpha_omega_complete_map_guide/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "bo4-alpha-omega-community-alpha-omega-easter-eggs-quests-mannequin-jump-scare",
+          "bo4-alpha-omega-community-alpha-omega-easter-eggs-quests-extra-perk"
+        ],
+        "supplementNote": null
+      }
+    }
+  },
+  "alpha-omega-easter-eggs-quests-extra-perk": {
+    "mapOverrides": {
+      "bo4-alpha-omega": {
+        "title": "Extra perk: shoot every head and clear the mannequin round",
+        "category": "side",
+        "difficulty": "Standard route / reference",
+        "players": "Solo / co-op",
+        "summary": "Trigger the special next round and collect its perk drop at the Nuketown sign.",
+        "requirements": [
+          "Black Ops 4 — Alpha Omega.",
+          "These instructions use an online Standard match on Normal. Players report different Rushmore behavior in Casual/local play; other modes and current platform differences are not fully audited."
+        ],
+        "reward": "A reported extra-perk power-up.",
+        "steps": [
+          {
+            "title": "Shoot the head off of every mannequin around the map",
+            "body": "Use gunfire to remove every mannequin head around the map. Listen for the completion sound before advancing the round. This is the shot-head procedure for the perk event.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "A complete coordinate and count checklist of the mannequin heads is not in the written sources. The melee routes have separate scare and Self-Revive outcomes.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/cb2xti/alpha_omega_easter_egg_hunt_general_map_discussion/"
+            ]
+          },
+          {
+            "title": "The next round will now start with the announcer saying \"Rip Flesh from Bone\" and…",
+            "body": "Advance after the head-removal confirmation. The next round replaces ordinary zombies with mannequins. The wiki describes high health, while the original hunt also warns that they move faster and are stronger.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "Exact health, speed, round scaling and ordinary round-start replacements are not measured.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/cb2xti/alpha_omega_easter_egg_hunt_general_map_discussion/"
+            ]
+          },
+          {
+            "title": "Once you kill all the mannequins a perk power-up will fall from the sky in front…",
+            "body": "Kill the entire mannequin round. Look in front of the Nuketown sign in the Cul-de-sac for the perk power-up delivered from the sky and collect it.",
+            "original": true,
+            "researchSource": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "tip": "The hunt’s summary says a fifth perk is awarded; the later wiki describes the physical drop. Exact team sharing, perk selection and replay conditions remain unverified.",
+            "corroboratingSources": [
+              "https://www.reddit.com/r/CODZombies/comments/cb2xti/alpha_omega_easter_egg_hunt_general_map_discussion/"
+            ]
+          }
+        ],
+        "sourceOmissions": [],
+        "sources": [
+          {
+            "title": "r/CODZombies — archived Alpha Omega map article",
+            "url": "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          },
+          {
+            "title": "rCODZombiesBot and named players — original Alpha Omega hunt",
+            "url": "https://www.reddit.com/r/CODZombies/comments/cb2xti/alpha_omega_easter_egg_hunt_general_map_discussion/"
+          }
+        ],
+        "checked": "2026-10-23",
+        "sourceQuote": null,
+        "sharedSource": false,
+        "relatedGuideIds": [
+          "bo4-alpha-omega-community-alpha-omega-easter-eggs-quests-mannequin-jump-scare",
+          "bo4-alpha-omega-community-alpha-omega-easter-eggs-quests-free-self-revive-love-story"
+        ],
+        "supplementNote": null
       }
     }
   }

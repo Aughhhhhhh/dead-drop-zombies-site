@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-23",
+  "asOf": "2026-10-24",
   "status": "Audit in progress; no exhaustive correctness certificate",
   "limitations": [
     "Reported source comparisons cover different fields and scopes; they are not interchangeable with a full-guide verification.",
@@ -8,8 +8,8 @@
     "Newly authored guides may have source research without a separate recorded full audit. Guide counts and passing software checks do not establish gameplay accuracy."
   ],
   "catalogEntries": 160,
-  "runtimeGuides": 1626,
-  "guidesWithRecordedSourceReview": 1228,
+  "runtimeGuides": 1631,
+  "guidesWithRecordedSourceReview": 1253,
   "guidesCertifiedFullyVerified": 0,
   "batches": [
     {
@@ -455,6 +455,10 @@
     {
       "batch": "bo4-tag-main-totems-songs-and-references",
       "rowsWithRecordedReview": 25
+    },
+    {
+      "batch": "bo4-alpha-omega-main-mark-ii-side-quests-and-references",
+      "rowsWithRecordedReview": 27
     }
   ],
   "guideReviews": [
@@ -36873,6 +36877,442 @@
       ]
     },
     {
+      "id": "bo4-alpha-omega-base-mark-ii",
+      "mapId": "bo4-alpha-omega",
+      "reviews": [
+        {
+          "batch": "bo4-alpha-omega-main-mark-ii-side-quests-and-references",
+          "reportedStatus": "Whole source-supported guide and parent overlay read; source limits remain. No retail or complete-map certification.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "All27 frozen guides/175 chapters, metadata, inventory and ten gaps read. Researcher86 and independent peer93 read all32 old original units and four stored sections; root separately read both new complete original replies. No fictional monologues adopted.",
+            "All22 raw/effective/durable guards pass. All55 existing progress keys and1604 other runtime guide values, including the separate30-round Normal Gauntlet, remain intact.",
+            "31 tables retain all143 source-supported data rows and457 data cells. Complete header text is now searchable. One qualified tape landmark chapter and a blue-cabinet furniture tip are added.",
+            "Five original headers avoid added official-art repetitions.",
+            "Desktop and actual390x844 phone checks pass for all27 pages/176 step references and31 tables. Six assets load. Chapter/reference targets, focus/menu, Sources/return, related base-Mark-II/Normal-Gauntlet links, saved/reloaded/restored progress and27-card map gaps pass.",
+            "Full importer preserves all21 JSON values,3647 imported sections and compact community-data bytes. Nine tests pass. No retail or all-secrets certification."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 5,
+            "explicitDirectReferences": 5,
+            "headerImages": 1,
+            "inlineImages": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/cbd9o8/alpha_omega_easter_egg_all_steps_detailed/",
+            "https://www.reddit.com/r/CODZombies/comments/cddzw4/alpha_omega_complete_map_guide/",
+            "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo4-alpha-omega-community-alpha-omega-easter-eggs-quests-extra-perk",
+      "mapId": "bo4-alpha-omega",
+      "reviews": [
+        {
+          "batch": "bo4-alpha-omega-main-mark-ii-side-quests-and-references",
+          "reportedStatus": "Whole source-supported guide and parent overlay read; source limits remain. No retail or complete-map certification.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "All27 frozen guides/175 chapters, metadata, inventory and ten gaps read. Researcher86 and independent peer93 read all32 old original units and four stored sections; root separately read both new complete original replies. No fictional monologues adopted.",
+            "All22 raw/effective/durable guards pass. All55 existing progress keys and1604 other runtime guide values, including the separate30-round Normal Gauntlet, remain intact.",
+            "31 tables retain all143 source-supported data rows and457 data cells. Complete header text is now searchable. One qualified tape landmark chapter and a blue-cabinet furniture tip are added.",
+            "Five original headers avoid added official-art repetitions.",
+            "Desktop and actual390x844 phone checks pass for all27 pages/176 step references and31 tables. Six assets load. Chapter/reference targets, focus/menu, Sources/return, related base-Mark-II/Normal-Gauntlet links, saved/reloaded/restored progress and27-card map gaps pass.",
+            "Full importer preserves all21 JSON values,3647 imported sections and compact community-data bytes. Nine tests pass. No retail or all-secrets certification."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 3,
+            "explicitDirectReferences": 3,
+            "headerImages": 0,
+            "inlineImages": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/cb2xti/alpha_omega_easter_egg_hunt_general_map_discussion/",
+            "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo4-alpha-omega-community-alpha-omega-easter-eggs-quests-free-self-revive-love-story",
+      "mapId": "bo4-alpha-omega",
+      "reviews": [
+        {
+          "batch": "bo4-alpha-omega-main-mark-ii-side-quests-and-references",
+          "reportedStatus": "Whole source-supported guide and parent overlay read; source limits remain. No retail or complete-map certification.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "All27 frozen guides/175 chapters, metadata, inventory and ten gaps read. Researcher86 and independent peer93 read all32 old original units and four stored sections; root separately read both new complete original replies. No fictional monologues adopted.",
+            "All22 raw/effective/durable guards pass. All55 existing progress keys and1604 other runtime guide values, including the separate30-round Normal Gauntlet, remain intact.",
+            "31 tables retain all143 source-supported data rows and457 data cells. Complete header text is now searchable. One qualified tape landmark chapter and a blue-cabinet furniture tip are added.",
+            "Five original headers avoid added official-art repetitions.",
+            "Desktop and actual390x844 phone checks pass for all27 pages/176 step references and31 tables. Six assets load. Chapter/reference targets, focus/menu, Sources/return, related base-Mark-II/Normal-Gauntlet links, saved/reloaded/restored progress and27-card map gaps pass.",
+            "Full importer preserves all21 JSON values,3647 imported sections and compact community-data bytes. Nine tests pass. No retail or all-secrets certification."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 5,
+            "explicitDirectReferences": 5,
+            "headerImages": 0,
+            "inlineImages": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/cddzw4/alpha_omega_complete_map_guide/",
+            "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo4-alpha-omega-community-alpha-omega-easter-eggs-quests-i-am-the-well-music-easter-egg",
+      "mapId": "bo4-alpha-omega",
+      "reviews": [
+        {
+          "batch": "bo4-alpha-omega-main-mark-ii-side-quests-and-references",
+          "reportedStatus": "Whole source-supported guide and parent overlay read; source limits remain. No retail or complete-map certification.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "All27 frozen guides/175 chapters, metadata, inventory and ten gaps read. Researcher86 and independent peer93 read all32 old original units and four stored sections; root separately read both new complete original replies. No fictional monologues adopted.",
+            "All22 raw/effective/durable guards pass. All55 existing progress keys and1604 other runtime guide values, including the separate30-round Normal Gauntlet, remain intact.",
+            "31 tables retain all143 source-supported data rows and457 data cells. Complete header text is now searchable. One qualified tape landmark chapter and a blue-cabinet furniture tip are added.",
+            "Five original headers avoid added official-art repetitions.",
+            "Desktop and actual390x844 phone checks pass for all27 pages/176 step references and31 tables. Six assets load. Chapter/reference targets, focus/menu, Sources/return, related base-Mark-II/Normal-Gauntlet links, saved/reloaded/restored progress and27-card map gaps pass.",
+            "Full importer preserves all21 JSON values,3647 imported sections and compact community-data bytes. Nine tests pass. No retail or all-secrets certification."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 5,
+            "explicitDirectReferences": 5,
+            "headerImages": 0,
+            "inlineImages": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/cb2xti/alpha_omega_easter_egg_hunt_general_map_discussion/",
+            "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo4-alpha-omega-community-alpha-omega-easter-eggs-quests-insanity-mode",
+      "mapId": "bo4-alpha-omega",
+      "reviews": [
+        {
+          "batch": "bo4-alpha-omega-main-mark-ii-side-quests-and-references",
+          "reportedStatus": "Whole source-supported guide and parent overlay read; source limits remain. No retail or complete-map certification.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "All27 frozen guides/175 chapters, metadata, inventory and ten gaps read. Researcher86 and independent peer93 read all32 old original units and four stored sections; root separately read both new complete original replies. No fictional monologues adopted.",
+            "All22 raw/effective/durable guards pass. All55 existing progress keys and1604 other runtime guide values, including the separate30-round Normal Gauntlet, remain intact.",
+            "31 tables retain all143 source-supported data rows and457 data cells. Complete header text is now searchable. One qualified tape landmark chapter and a blue-cabinet furniture tip are added.",
+            "Five original headers avoid added official-art repetitions.",
+            "Desktop and actual390x844 phone checks pass for all27 pages/176 step references and31 tables. Six assets load. Chapter/reference targets, focus/menu, Sources/return, related base-Mark-II/Normal-Gauntlet links, saved/reloaded/restored progress and27-card map gaps pass.",
+            "Full importer preserves all21 JSON values,3647 imported sections and compact community-data bytes. Nine tests pass. No retail or all-secrets certification."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 6,
+            "explicitDirectReferences": 6,
+            "headerImages": 0,
+            "inlineImages": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo4-alpha-omega-community-alpha-omega-easter-eggs-quests-main-quest",
+      "mapId": "bo4-alpha-omega",
+      "reviews": [
+        {
+          "batch": "bo4-alpha-omega-main-mark-ii-side-quests-and-references",
+          "reportedStatus": "Whole source-supported guide and parent overlay read; source limits remain. No retail or complete-map certification.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "All27 frozen guides/175 chapters, metadata, inventory and ten gaps read. Researcher86 and independent peer93 read all32 old original units and four stored sections; root separately read both new complete original replies. No fictional monologues adopted.",
+            "All22 raw/effective/durable guards pass. All55 existing progress keys and1604 other runtime guide values, including the separate30-round Normal Gauntlet, remain intact.",
+            "31 tables retain all143 source-supported data rows and457 data cells. Complete header text is now searchable. One qualified tape landmark chapter and a blue-cabinet furniture tip are added.",
+            "Five original headers avoid added official-art repetitions.",
+            "Desktop and actual390x844 phone checks pass for all27 pages/176 step references and31 tables. Six assets load. Chapter/reference targets, focus/menu, Sources/return, related base-Mark-II/Normal-Gauntlet links, saved/reloaded/restored progress and27-card map gaps pass.",
+            "Full importer preserves all21 JSON values,3647 imported sections and compact community-data bytes. Nine tests pass. No retail or all-secrets certification."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 29,
+            "explicitDirectReferences": 29,
+            "headerImages": 0,
+            "inlineImages": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/cb2xti/alpha_omega_easter_egg_hunt_general_map_discussion/",
+            "https://www.reddit.com/r/CODZombies/comments/cbd9o8/alpha_omega_easter_egg_all_steps_detailed/",
+            "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo4-alpha-omega-community-alpha-omega-easter-eggs-quests-mannequin-jump-scare",
+      "mapId": "bo4-alpha-omega",
+      "reviews": [
+        {
+          "batch": "bo4-alpha-omega-main-mark-ii-side-quests-and-references",
+          "reportedStatus": "Whole source-supported guide and parent overlay read; source limits remain. No retail or complete-map certification.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "All27 frozen guides/175 chapters, metadata, inventory and ten gaps read. Researcher86 and independent peer93 read all32 old original units and four stored sections; root separately read both new complete original replies. No fictional monologues adopted.",
+            "All22 raw/effective/durable guards pass. All55 existing progress keys and1604 other runtime guide values, including the separate30-round Normal Gauntlet, remain intact.",
+            "31 tables retain all143 source-supported data rows and457 data cells. Complete header text is now searchable. One qualified tape landmark chapter and a blue-cabinet furniture tip are added.",
+            "Five original headers avoid added official-art repetitions.",
+            "Desktop and actual390x844 phone checks pass for all27 pages/176 step references and31 tables. Six assets load. Chapter/reference targets, focus/menu, Sources/return, related base-Mark-II/Normal-Gauntlet links, saved/reloaded/restored progress and27-card map gaps pass.",
+            "Full importer preserves all21 JSON values,3647 imported sections and compact community-data bytes. Nine tests pass. No retail or all-secrets certification."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 3,
+            "explicitDirectReferences": 3,
+            "headerImages": 0,
+            "inlineImages": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/cddzw4/alpha_omega_complete_map_guide/",
+            "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo4-alpha-omega-community-alpha-omega-easter-eggs-quests-pernell-avogadro-jump-scare",
+      "mapId": "bo4-alpha-omega",
+      "reviews": [
+        {
+          "batch": "bo4-alpha-omega-main-mark-ii-side-quests-and-references",
+          "reportedStatus": "Whole source-supported guide and parent overlay read; source limits remain. No retail or complete-map certification.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "All27 frozen guides/175 chapters, metadata, inventory and ten gaps read. Researcher86 and independent peer93 read all32 old original units and four stored sections; root separately read both new complete original replies. No fictional monologues adopted.",
+            "All22 raw/effective/durable guards pass. All55 existing progress keys and1604 other runtime guide values, including the separate30-round Normal Gauntlet, remain intact.",
+            "31 tables retain all143 source-supported data rows and457 data cells. Complete header text is now searchable. One qualified tape landmark chapter and a blue-cabinet furniture tip are added.",
+            "Five original headers avoid added official-art repetitions.",
+            "Desktop and actual390x844 phone checks pass for all27 pages/176 step references and31 tables. Six assets load. Chapter/reference targets, focus/menu, Sources/return, related base-Mark-II/Normal-Gauntlet links, saved/reloaded/restored progress and27-card map gaps pass.",
+            "Full importer preserves all21 JSON values,3647 imported sections and compact community-data bytes. Nine tests pass. No retail or all-secrets certification."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 2,
+            "explicitDirectReferences": 2,
+            "headerImages": 0,
+            "inlineImages": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo4-alpha-omega-community-alpha-omega-easter-eggs-quests-rushmore-secret-codes",
+      "mapId": "bo4-alpha-omega",
+      "reviews": [
+        {
+          "batch": "bo4-alpha-omega-main-mark-ii-side-quests-and-references",
+          "reportedStatus": "Whole source-supported guide and parent overlay read; source limits remain. No retail or complete-map certification.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "All27 frozen guides/175 chapters, metadata, inventory and ten gaps read. Researcher86 and independent peer93 read all32 old original units and four stored sections; root separately read both new complete original replies. No fictional monologues adopted.",
+            "All22 raw/effective/durable guards pass. All55 existing progress keys and1604 other runtime guide values, including the separate30-round Normal Gauntlet, remain intact.",
+            "31 tables retain all143 source-supported data rows and457 data cells. Complete header text is now searchable. One qualified tape landmark chapter and a blue-cabinet furniture tip are added.",
+            "Five original headers avoid added official-art repetitions.",
+            "Desktop and actual390x844 phone checks pass for all27 pages/176 step references and31 tables. Six assets load. Chapter/reference targets, focus/menu, Sources/return, related base-Mark-II/Normal-Gauntlet links, saved/reloaded/restored progress and27-card map gaps pass.",
+            "Full importer preserves all21 JSON values,3647 imported sections and compact community-data bytes. Nine tests pass. No retail or all-secrets certification."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 8,
+            "explicitDirectReferences": 8,
+            "headerImages": 0,
+            "inlineImages": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/cddzw4/alpha_omega_complete_map_guide/",
+            "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo4-alpha-omega-community-alpha-omega-game-features-perk-locations",
+      "mapId": "bo4-alpha-omega",
+      "reviews": [
+        {
+          "batch": "bo4-alpha-omega-main-mark-ii-side-quests-and-references",
+          "reportedStatus": "Whole source-supported guide and parent overlay read; source limits remain. No retail or complete-map certification.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "All27 frozen guides/175 chapters, metadata, inventory and ten gaps read. Researcher86 and independent peer93 read all32 old original units and four stored sections; root separately read both new complete original replies. No fictional monologues adopted.",
+            "All22 raw/effective/durable guards pass. All55 existing progress keys and1604 other runtime guide values, including the separate30-round Normal Gauntlet, remain intact.",
+            "31 tables retain all143 source-supported data rows and457 data cells. Complete header text is now searchable. One qualified tape landmark chapter and a blue-cabinet furniture tip are added.",
+            "Five original headers avoid added official-art repetitions.",
+            "Desktop and actual390x844 phone checks pass for all27 pages/176 step references and31 tables. Six assets load. Chapter/reference targets, focus/menu, Sources/return, related base-Mark-II/Normal-Gauntlet links, saved/reloaded/restored progress and27-card map gaps pass.",
+            "Full importer preserves all21 JSON values,3647 imported sections and compact community-data bytes. Nine tests pass. No retail or all-secrets certification."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 2,
+            "explicitDirectReferences": 2,
+            "headerImages": 0,
+            "inlineImages": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/cddzw4/alpha_omega_complete_map_guide/",
+            "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo4-alpha-omega-community-alpha-omega-map-features-assembly-kit",
+      "mapId": "bo4-alpha-omega",
+      "reviews": [
+        {
+          "batch": "bo4-alpha-omega-main-mark-ii-side-quests-and-references",
+          "reportedStatus": "Whole source-supported guide and parent overlay read; source limits remain. No retail or complete-map certification.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "All27 frozen guides/175 chapters, metadata, inventory and ten gaps read. Researcher86 and independent peer93 read all32 old original units and four stored sections; root separately read both new complete original replies. No fictional monologues adopted.",
+            "All22 raw/effective/durable guards pass. All55 existing progress keys and1604 other runtime guide values, including the separate30-round Normal Gauntlet, remain intact.",
+            "31 tables retain all143 source-supported data rows and457 data cells. Complete header text is now searchable. One qualified tape landmark chapter and a blue-cabinet furniture tip are added.",
+            "Five original headers avoid added official-art repetitions.",
+            "Desktop and actual390x844 phone checks pass for all27 pages/176 step references and31 tables. Six assets load. Chapter/reference targets, focus/menu, Sources/return, related base-Mark-II/Normal-Gauntlet links, saved/reloaded/restored progress and27-card map gaps pass.",
+            "Full importer preserves all21 JSON values,3647 imported sections and compact community-data bytes. Nine tests pass. No retail or all-secrets certification."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 5,
+            "explicitDirectReferences": 5,
+            "headerImages": 0,
+            "inlineImages": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/cddzw4/alpha_omega_complete_map_guide/",
+            "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo4-alpha-omega-community-alpha-omega-map-features-mystery-box-locations",
+      "mapId": "bo4-alpha-omega",
+      "reviews": [
+        {
+          "batch": "bo4-alpha-omega-main-mark-ii-side-quests-and-references",
+          "reportedStatus": "Whole source-supported guide and parent overlay read; source limits remain. No retail or complete-map certification.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "All27 frozen guides/175 chapters, metadata, inventory and ten gaps read. Researcher86 and independent peer93 read all32 old original units and four stored sections; root separately read both new complete original replies. No fictional monologues adopted.",
+            "All22 raw/effective/durable guards pass. All55 existing progress keys and1604 other runtime guide values, including the separate30-round Normal Gauntlet, remain intact.",
+            "31 tables retain all143 source-supported data rows and457 data cells. Complete header text is now searchable. One qualified tape landmark chapter and a blue-cabinet furniture tip are added.",
+            "Five original headers avoid added official-art repetitions.",
+            "Desktop and actual390x844 phone checks pass for all27 pages/176 step references and31 tables. Six assets load. Chapter/reference targets, focus/menu, Sources/return, related base-Mark-II/Normal-Gauntlet links, saved/reloaded/restored progress and27-card map gaps pass.",
+            "Full importer preserves all21 JSON values,3647 imported sections and compact community-data bytes. Nine tests pass. No retail or all-secrets certification."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 2,
+            "explicitDirectReferences": 2,
+            "headerImages": 0,
+            "inlineImages": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/cddzw4/alpha_omega_complete_map_guide/",
+            "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo4-alpha-omega-community-alpha-omega-map-features-pack-a-punch",
+      "mapId": "bo4-alpha-omega",
+      "reviews": [
+        {
+          "batch": "bo4-alpha-omega-main-mark-ii-side-quests-and-references",
+          "reportedStatus": "Whole source-supported guide and parent overlay read; source limits remain. No retail or complete-map certification.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "All27 frozen guides/175 chapters, metadata, inventory and ten gaps read. Researcher86 and independent peer93 read all32 old original units and four stored sections; root separately read both new complete original replies. No fictional monologues adopted.",
+            "All22 raw/effective/durable guards pass. All55 existing progress keys and1604 other runtime guide values, including the separate30-round Normal Gauntlet, remain intact.",
+            "31 tables retain all143 source-supported data rows and457 data cells. Complete header text is now searchable. One qualified tape landmark chapter and a blue-cabinet furniture tip are added.",
+            "Five original headers avoid added official-art repetitions.",
+            "Desktop and actual390x844 phone checks pass for all27 pages/176 step references and31 tables. Six assets load. Chapter/reference targets, focus/menu, Sources/return, related base-Mark-II/Normal-Gauntlet links, saved/reloaded/restored progress and27-card map gaps pass.",
+            "Full importer preserves all21 JSON values,3647 imported sections and compact community-data bytes. Nine tests pass. No retail or all-secrets certification."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 5,
+            "explicitDirectReferences": 5,
+            "headerImages": 0,
+            "inlineImages": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/cbd9o8/alpha_omega_easter_egg_all_steps_detailed/",
+            "https://www.reddit.com/r/CODZombies/comments/cddzw4/alpha_omega_complete_map_guide/",
+            "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo4-alpha-omega-community-alpha-omega-map-features-power",
+      "mapId": "bo4-alpha-omega",
+      "reviews": [
+        {
+          "batch": "bo4-alpha-omega-main-mark-ii-side-quests-and-references",
+          "reportedStatus": "Whole source-supported guide and parent overlay read; source limits remain. No retail or complete-map certification.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "All27 frozen guides/175 chapters, metadata, inventory and ten gaps read. Researcher86 and independent peer93 read all32 old original units and four stored sections; root separately read both new complete original replies. No fictional monologues adopted.",
+            "All22 raw/effective/durable guards pass. All55 existing progress keys and1604 other runtime guide values, including the separate30-round Normal Gauntlet, remain intact.",
+            "31 tables retain all143 source-supported data rows and457 data cells. Complete header text is now searchable. One qualified tape landmark chapter and a blue-cabinet furniture tip are added.",
+            "Five original headers avoid added official-art repetitions.",
+            "Desktop and actual390x844 phone checks pass for all27 pages/176 step references and31 tables. Six assets load. Chapter/reference targets, focus/menu, Sources/return, related base-Mark-II/Normal-Gauntlet links, saved/reloaded/restored progress and27-card map gaps pass.",
+            "Full importer preserves all21 JSON values,3647 imported sections and compact community-data bytes. Nine tests pass. No retail or all-secrets certification."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 3,
+            "explicitDirectReferences": 3,
+            "headerImages": 0,
+            "inlineImages": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/cbd9o8/alpha_omega_easter_egg_all_steps_detailed/",
+            "https://www.reddit.com/r/CODZombies/comments/cddzw4/alpha_omega_complete_map_guide/",
+            "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          ]
+        }
+      ]
+    },
+    {
       "id": "bo4-alpha-omega-community-alpha-omega-map-features-ray-gun-mark-ii-frame",
       "mapId": "bo4-alpha-omega",
       "reviews": [
@@ -36893,6 +37333,228 @@
           ],
           "evidenceUrls": [
             "https://www.reddit.com/r/CODZombies/comments/cmvdcu/duck_and_cover_alpha_omega_gauntlet_full/",
+            "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          ]
+        },
+        {
+          "batch": "bo4-alpha-omega-main-mark-ii-side-quests-and-references",
+          "reportedStatus": "Whole source-supported guide and parent overlay read; source limits remain. No retail or complete-map certification.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "All27 frozen guides/175 chapters, metadata, inventory and ten gaps read. Researcher86 and independent peer93 read all32 old original units and four stored sections; root separately read both new complete original replies. No fictional monologues adopted.",
+            "All22 raw/effective/durable guards pass. All55 existing progress keys and1604 other runtime guide values, including the separate30-round Normal Gauntlet, remain intact.",
+            "31 tables retain all143 source-supported data rows and457 data cells. Complete header text is now searchable. One qualified tape landmark chapter and a blue-cabinet furniture tip are added.",
+            "Five original headers avoid added official-art repetitions.",
+            "Desktop and actual390x844 phone checks pass for all27 pages/176 step references and31 tables. Six assets load. Chapter/reference targets, focus/menu, Sources/return, related base-Mark-II/Normal-Gauntlet links, saved/reloaded/restored progress and27-card map gaps pass.",
+            "Full importer preserves all21 JSON values,3647 imported sections and compact community-data bytes. Nine tests pass. No retail or all-secrets certification."
+          ],
+          "unverified": [
+            "Standard dialogue prerequisites must not be imposed on the documented Normal Gauntlet TV/keypad route. Other mode-specific trigger exceptions remain pending."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 6,
+            "explicitDirectReferences": 6,
+            "headerImages": 0,
+            "inlineImages": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/cb2xti/alpha_omega_easter_egg_hunt_general_map_discussion/",
+            "https://www.reddit.com/r/CODZombies/comments/cddzw4/alpha_omega_complete_map_guide/",
+            "https://www.reddit.com/r/CODZombies/comments/cmvdcu/duck_and_cover_alpha_omega_gauntlet_full/",
+            "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo4-alpha-omega-community-alpha-omega-map-features-ray-gun-mark-ii-v",
+      "mapId": "bo4-alpha-omega",
+      "reviews": [
+        {
+          "batch": "bo4-alpha-omega-main-mark-ii-side-quests-and-references",
+          "reportedStatus": "Whole source-supported guide and parent overlay read; source limits remain. No retail or complete-map certification.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "All27 frozen guides/175 chapters, metadata, inventory and ten gaps read. Researcher86 and independent peer93 read all32 old original units and four stored sections; root separately read both new complete original replies. No fictional monologues adopted.",
+            "All22 raw/effective/durable guards pass. All55 existing progress keys and1604 other runtime guide values, including the separate30-round Normal Gauntlet, remain intact.",
+            "31 tables retain all143 source-supported data rows and457 data cells. Complete header text is now searchable. One qualified tape landmark chapter and a blue-cabinet furniture tip are added.",
+            "Five original headers avoid added official-art repetitions.",
+            "Desktop and actual390x844 phone checks pass for all27 pages/176 step references and31 tables. Six assets load. Chapter/reference targets, focus/menu, Sources/return, related base-Mark-II/Normal-Gauntlet links, saved/reloaded/restored progress and27-card map gaps pass.",
+            "Full importer preserves all21 JSON values,3647 imported sections and compact community-data bytes. Nine tests pass. No retail or all-secrets certification."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 7,
+            "explicitDirectReferences": 7,
+            "headerImages": 0,
+            "inlineImages": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/cb2xti/alpha_omega_easter_egg_hunt_general_map_discussion/",
+            "https://www.reddit.com/r/CODZombies/comments/cddzw4/alpha_omega_complete_map_guide/",
+            "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo4-alpha-omega-community-alpha-omega-map-features-ray-gun-mark-ii-x",
+      "mapId": "bo4-alpha-omega",
+      "reviews": [
+        {
+          "batch": "bo4-alpha-omega-main-mark-ii-side-quests-and-references",
+          "reportedStatus": "Whole source-supported guide and parent overlay read; source limits remain. No retail or complete-map certification.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "All27 frozen guides/175 chapters, metadata, inventory and ten gaps read. Researcher86 and independent peer93 read all32 old original units and four stored sections; root separately read both new complete original replies. No fictional monologues adopted.",
+            "All22 raw/effective/durable guards pass. All55 existing progress keys and1604 other runtime guide values, including the separate30-round Normal Gauntlet, remain intact.",
+            "31 tables retain all143 source-supported data rows and457 data cells. Complete header text is now searchable. One qualified tape landmark chapter and a blue-cabinet furniture tip are added.",
+            "Five original headers avoid added official-art repetitions.",
+            "Desktop and actual390x844 phone checks pass for all27 pages/176 step references and31 tables. Six assets load. Chapter/reference targets, focus/menu, Sources/return, related base-Mark-II/Normal-Gauntlet links, saved/reloaded/restored progress and27-card map gaps pass.",
+            "Full importer preserves all21 JSON values,3647 imported sections and compact community-data bytes. Nine tests pass. No retail or all-secrets certification."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 6,
+            "explicitDirectReferences": 6,
+            "headerImages": 0,
+            "inlineImages": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/cb2xti/alpha_omega_easter_egg_hunt_general_map_discussion/",
+            "https://www.reddit.com/r/CODZombies/comments/cddzw4/alpha_omega_complete_map_guide/",
+            "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo4-alpha-omega-community-alpha-omega-map-features-ray-gun-mark-ii-y",
+      "mapId": "bo4-alpha-omega",
+      "reviews": [
+        {
+          "batch": "bo4-alpha-omega-main-mark-ii-side-quests-and-references",
+          "reportedStatus": "Whole source-supported guide and parent overlay read; source limits remain. No retail or complete-map certification.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "All27 frozen guides/175 chapters, metadata, inventory and ten gaps read. Researcher86 and independent peer93 read all32 old original units and four stored sections; root separately read both new complete original replies. No fictional monologues adopted.",
+            "All22 raw/effective/durable guards pass. All55 existing progress keys and1604 other runtime guide values, including the separate30-round Normal Gauntlet, remain intact.",
+            "31 tables retain all143 source-supported data rows and457 data cells. Complete header text is now searchable. One qualified tape landmark chapter and a blue-cabinet furniture tip are added.",
+            "Five original headers avoid added official-art repetitions.",
+            "Desktop and actual390x844 phone checks pass for all27 pages/176 step references and31 tables. Six assets load. Chapter/reference targets, focus/menu, Sources/return, related base-Mark-II/Normal-Gauntlet links, saved/reloaded/restored progress and27-card map gaps pass.",
+            "Full importer preserves all21 JSON values,3647 imported sections and compact community-data bytes. Nine tests pass. No retail or all-secrets certification."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 7,
+            "explicitDirectReferences": 7,
+            "headerImages": 0,
+            "inlineImages": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/cb2xti/alpha_omega_easter_egg_hunt_general_map_discussion/",
+            "https://www.reddit.com/r/CODZombies/comments/cddzw4/alpha_omega_complete_map_guide/",
+            "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo4-alpha-omega-community-alpha-omega-map-features-ray-gun-mark-ii-z",
+      "mapId": "bo4-alpha-omega",
+      "reviews": [
+        {
+          "batch": "bo4-alpha-omega-main-mark-ii-side-quests-and-references",
+          "reportedStatus": "Whole source-supported guide and parent overlay read; source limits remain. No retail or complete-map certification.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "All27 frozen guides/175 chapters, metadata, inventory and ten gaps read. Researcher86 and independent peer93 read all32 old original units and four stored sections; root separately read both new complete original replies. No fictional monologues adopted.",
+            "All22 raw/effective/durable guards pass. All55 existing progress keys and1604 other runtime guide values, including the separate30-round Normal Gauntlet, remain intact.",
+            "31 tables retain all143 source-supported data rows and457 data cells. Complete header text is now searchable. One qualified tape landmark chapter and a blue-cabinet furniture tip are added.",
+            "Five original headers avoid added official-art repetitions.",
+            "Desktop and actual390x844 phone checks pass for all27 pages/176 step references and31 tables. Six assets load. Chapter/reference targets, focus/menu, Sources/return, related base-Mark-II/Normal-Gauntlet links, saved/reloaded/restored progress and27-card map gaps pass.",
+            "Full importer preserves all21 JSON values,3647 imported sections and compact community-data bytes. Nine tests pass. No retail or all-secrets certification."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 6,
+            "explicitDirectReferences": 6,
+            "headerImages": 0,
+            "inlineImages": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/cb2xti/alpha_omega_easter_egg_hunt_general_map_discussion/",
+            "https://www.reddit.com/r/CODZombies/comments/cddzw4/alpha_omega_complete_map_guide/",
+            "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo4-alpha-omega-community-alpha-omega-map-features-riot-shield",
+      "mapId": "bo4-alpha-omega",
+      "reviews": [
+        {
+          "batch": "bo4-alpha-omega-main-mark-ii-side-quests-and-references",
+          "reportedStatus": "Whole source-supported guide and parent overlay read; source limits remain. No retail or complete-map certification.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "All27 frozen guides/175 chapters, metadata, inventory and ten gaps read. Researcher86 and independent peer93 read all32 old original units and four stored sections; root separately read both new complete original replies. No fictional monologues adopted.",
+            "All22 raw/effective/durable guards pass. All55 existing progress keys and1604 other runtime guide values, including the separate30-round Normal Gauntlet, remain intact.",
+            "31 tables retain all143 source-supported data rows and457 data cells. Complete header text is now searchable. One qualified tape landmark chapter and a blue-cabinet furniture tip are added.",
+            "Five original headers avoid added official-art repetitions.",
+            "Desktop and actual390x844 phone checks pass for all27 pages/176 step references and31 tables. Six assets load. Chapter/reference targets, focus/menu, Sources/return, related base-Mark-II/Normal-Gauntlet links, saved/reloaded/restored progress and27-card map gaps pass.",
+            "Full importer preserves all21 JSON values,3647 imported sections and compact community-data bytes. Nine tests pass. No retail or all-secrets certification."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 4,
+            "explicitDirectReferences": 4,
+            "headerImages": 0,
+            "inlineImages": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/cddzw4/alpha_omega_complete_map_guide/",
+            "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo4-alpha-omega-community-alpha-omega-map-features-sergeant-a-d-a-m",
+      "mapId": "bo4-alpha-omega",
+      "reviews": [
+        {
+          "batch": "bo4-alpha-omega-main-mark-ii-side-quests-and-references",
+          "reportedStatus": "Whole source-supported guide and parent overlay read; source limits remain. No retail or complete-map certification.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "All27 frozen guides/175 chapters, metadata, inventory and ten gaps read. Researcher86 and independent peer93 read all32 old original units and four stored sections; root separately read both new complete original replies. No fictional monologues adopted.",
+            "All22 raw/effective/durable guards pass. All55 existing progress keys and1604 other runtime guide values, including the separate30-round Normal Gauntlet, remain intact.",
+            "31 tables retain all143 source-supported data rows and457 data cells. Complete header text is now searchable. One qualified tape landmark chapter and a blue-cabinet furniture tip are added.",
+            "Five original headers avoid added official-art repetitions.",
+            "Desktop and actual390x844 phone checks pass for all27 pages/176 step references and31 tables. Six assets load. Chapter/reference targets, focus/menu, Sources/return, related base-Mark-II/Normal-Gauntlet links, saved/reloaded/restored progress and27-card map gaps pass.",
+            "Full importer preserves all21 JSON values,3647 imported sections and compact community-data bytes. Nine tests pass. No retail or all-secrets certification."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 7,
+            "explicitDirectReferences": 7,
+            "headerImages": 0,
+            "inlineImages": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/cb2xti/alpha_omega_easter_egg_hunt_general_map_discussion/",
+            "https://www.reddit.com/r/CODZombies/comments/cbd9o8/alpha_omega_easter_egg_all_steps_detailed/",
+            "https://www.reddit.com/r/CODZombies/comments/cddzw4/alpha_omega_complete_map_guide/",
             "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
           ]
         }
@@ -36920,6 +37582,68 @@
           "evidenceUrls": [
             "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
             "https://www.youtube.com/watch?v=GfoESfBFpo0"
+          ]
+        },
+        {
+          "batch": "bo4-alpha-omega-main-mark-ii-side-quests-and-references",
+          "reportedStatus": "Whole source-supported guide and parent overlay read; source limits remain. No retail or complete-map certification.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "All27 frozen guides/175 chapters, metadata, inventory and ten gaps read. Researcher86 and independent peer93 read all32 old original units and four stored sections; root separately read both new complete original replies. No fictional monologues adopted.",
+            "All22 raw/effective/durable guards pass. All55 existing progress keys and1604 other runtime guide values, including the separate30-round Normal Gauntlet, remain intact.",
+            "31 tables retain all143 source-supported data rows and457 data cells. Complete header text is now searchable. One qualified tape landmark chapter and a blue-cabinet furniture tip are added.",
+            "Five original headers avoid added official-art repetitions.",
+            "Desktop and actual390x844 phone checks pass for all27 pages/176 step references and31 tables. Six assets load. Chapter/reference targets, focus/menu, Sources/return, related base-Mark-II/Normal-Gauntlet links, saved/reloaded/restored progress and27-card map gaps pass.",
+            "Full importer preserves all21 JSON values,3647 imported sections and compact community-data bytes. Nine tests pass. No retail or all-secrets certification."
+          ],
+          "unverified": [
+            "Gauntlet-specific co-op counters and retry behavior remain pending."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 6,
+            "explicitDirectReferences": 6,
+            "headerImages": 0,
+            "inlineImages": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/cb2xti/alpha_omega_easter_egg_hunt_general_map_discussion/",
+            "https://www.reddit.com/r/CODZombies/comments/cbd9o8/alpha_omega_easter_egg_all_steps_detailed/",
+            "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
+            "https://www.youtube.com/watch?v=GfoESfBFpo0"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo4-alpha-omega-community-alpha-omega-map-features-traps",
+      "mapId": "bo4-alpha-omega",
+      "reviews": [
+        {
+          "batch": "bo4-alpha-omega-main-mark-ii-side-quests-and-references",
+          "reportedStatus": "Whole source-supported guide and parent overlay read; source limits remain. No retail or complete-map certification.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "All27 frozen guides/175 chapters, metadata, inventory and ten gaps read. Researcher86 and independent peer93 read all32 old original units and four stored sections; root separately read both new complete original replies. No fictional monologues adopted.",
+            "All22 raw/effective/durable guards pass. All55 existing progress keys and1604 other runtime guide values, including the separate30-round Normal Gauntlet, remain intact.",
+            "31 tables retain all143 source-supported data rows and457 data cells. Complete header text is now searchable. One qualified tape landmark chapter and a blue-cabinet furniture tip are added.",
+            "Five original headers avoid added official-art repetitions.",
+            "Desktop and actual390x844 phone checks pass for all27 pages/176 step references and31 tables. Six assets load. Chapter/reference targets, focus/menu, Sources/return, related base-Mark-II/Normal-Gauntlet links, saved/reloaded/restored progress and27-card map gaps pass.",
+            "Full importer preserves all21 JSON values,3647 imported sections and compact community-data bytes. Nine tests pass. No retail or all-secrets certification."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 8,
+            "explicitDirectReferences": 8,
+            "headerImages": 0,
+            "inlineImages": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/cbd9o8/alpha_omega_easter_egg_all_steps_detailed/",
+            "https://www.reddit.com/r/CODZombies/comments/cddzw4/alpha_omega_complete_map_guide/",
+            "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
           ]
         }
       ]
@@ -37443,6 +38167,133 @@
             "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/",
             "https://www.youtube.com/watch?v=9Ozd7LWMGfU",
             "https://www.youtube.com/watch?v=GfoESfBFpo0"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo4-alpha-omega-enemies-powerups-achievements",
+      "mapId": "bo4-alpha-omega",
+      "reviews": [
+        {
+          "batch": "bo4-alpha-omega-main-mark-ii-side-quests-and-references",
+          "reportedStatus": "Whole source-supported guide and parent overlay read; source limits remain. No retail or complete-map certification.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "All27 frozen guides/175 chapters, metadata, inventory and ten gaps read. Researcher86 and independent peer93 read all32 old original units and four stored sections; root separately read both new complete original replies. No fictional monologues adopted.",
+            "All22 raw/effective/durable guards pass. All55 existing progress keys and1604 other runtime guide values, including the separate30-round Normal Gauntlet, remain intact.",
+            "31 tables retain all143 source-supported data rows and457 data cells. Complete header text is now searchable. One qualified tape landmark chapter and a blue-cabinet furniture tip are added.",
+            "Five original headers avoid added official-art repetitions.",
+            "Desktop and actual390x844 phone checks pass for all27 pages/176 step references and31 tables. Six assets load. Chapter/reference targets, focus/menu, Sources/return, related base-Mark-II/Normal-Gauntlet links, saved/reloaded/restored progress and27-card map gaps pass.",
+            "Full importer preserves all21 JSON values,3647 imported sections and compact community-data bytes. Nine tests pass. No retail or all-secrets certification."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 12,
+            "explicitDirectReferences": 12,
+            "headerImages": 1,
+            "inlineImages": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo4-alpha-omega-recordings-and-lore-index",
+      "mapId": "bo4-alpha-omega",
+      "reviews": [
+        {
+          "batch": "bo4-alpha-omega-main-mark-ii-side-quests-and-references",
+          "reportedStatus": "Whole source-supported guide and parent overlay read; source limits remain. No retail or complete-map certification.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "All27 frozen guides/175 chapters, metadata, inventory and ten gaps read. Researcher86 and independent peer93 read all32 old original units and four stored sections; root separately read both new complete original replies. No fictional monologues adopted.",
+            "All22 raw/effective/durable guards pass. All55 existing progress keys and1604 other runtime guide values, including the separate30-round Normal Gauntlet, remain intact.",
+            "31 tables retain all143 source-supported data rows and457 data cells. Complete header text is now searchable. One qualified tape landmark chapter and a blue-cabinet furniture tip are added.",
+            "Five original headers avoid added official-art repetitions.",
+            "Desktop and actual390x844 phone checks pass for all27 pages/176 step references and31 tables. Six assets load. Chapter/reference targets, focus/menu, Sources/return, related base-Mark-II/Normal-Gauntlet links, saved/reloaded/restored progress and27-card map gaps pass.",
+            "Full importer preserves all21 JSON values,3647 imported sections and compact community-data bytes. Nine tests pass. No retail or all-secrets certification."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 9,
+            "explicitDirectReferences": 9,
+            "headerImages": 1,
+            "inlineImages": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/cb2xti/alpha_omega_easter_egg_hunt_general_map_discussion/",
+            "https://www.reddit.com/r/CODZombies/comments/cddzw4/alpha_omega_complete_map_guide/",
+            "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo4-alpha-omega-tedd-and-marlton",
+      "mapId": "bo4-alpha-omega",
+      "reviews": [
+        {
+          "batch": "bo4-alpha-omega-main-mark-ii-side-quests-and-references",
+          "reportedStatus": "Whole source-supported guide and parent overlay read; source limits remain. No retail or complete-map certification.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "All27 frozen guides/175 chapters, metadata, inventory and ten gaps read. Researcher86 and independent peer93 read all32 old original units and four stored sections; root separately read both new complete original replies. No fictional monologues adopted.",
+            "All22 raw/effective/durable guards pass. All55 existing progress keys and1604 other runtime guide values, including the separate30-round Normal Gauntlet, remain intact.",
+            "31 tables retain all143 source-supported data rows and457 data cells. Complete header text is now searchable. One qualified tape landmark chapter and a blue-cabinet furniture tip are added.",
+            "Five original headers avoid added official-art repetitions.",
+            "Desktop and actual390x844 phone checks pass for all27 pages/176 step references and31 tables. Six assets load. Chapter/reference targets, focus/menu, Sources/return, related base-Mark-II/Normal-Gauntlet links, saved/reloaded/restored progress and27-card map gaps pass.",
+            "Full importer preserves all21 JSON values,3647 imported sections and compact community-data bytes. Nine tests pass. No retail or all-secrets certification."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 4,
+            "explicitDirectReferences": 4,
+            "headerImages": 1,
+            "inlineImages": 1
+          },
+          "requirementsAndRewardReviewed": true,
+          "imageReview": "One paused frame illustrates the robot cabinet.",
+          "evidenceUrls": [
+            "https://clips.twitch.tv/LachrymoseBoredClintGivePLZ",
+            "https://www.reddit.com/r/CODZombies/comments/cb2xti/alpha_omega_easter_egg_hunt_general_map_discussion/",
+            "https://www.reddit.com/r/CODZombies/comments/cbd9o8/alpha_omega_easter_egg_all_steps_detailed/",
+            "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bo4-alpha-omega-weapon-name-reference",
+      "mapId": "bo4-alpha-omega",
+      "reviews": [
+        {
+          "batch": "bo4-alpha-omega-main-mark-ii-side-quests-and-references",
+          "reportedStatus": "Whole source-supported guide and parent overlay read; source limits remain. No retail or complete-map certification.",
+          "independentlyPlaytested": false,
+          "checks": [
+            "All27 frozen guides/175 chapters, metadata, inventory and ten gaps read. Researcher86 and independent peer93 read all32 old original units and four stored sections; root separately read both new complete original replies. No fictional monologues adopted.",
+            "All22 raw/effective/durable guards pass. All55 existing progress keys and1604 other runtime guide values, including the separate30-round Normal Gauntlet, remain intact.",
+            "31 tables retain all143 source-supported data rows and457 data cells. Complete header text is now searchable. One qualified tape landmark chapter and a blue-cabinet furniture tip are added.",
+            "Five original headers avoid added official-art repetitions.",
+            "Desktop and actual390x844 phone checks pass for all27 pages/176 step references and31 tables. Six assets load. Chapter/reference targets, focus/menu, Sources/return, related base-Mark-II/Normal-Gauntlet links, saved/reloaded/restored progress and27-card map gaps pass.",
+            "Full importer preserves all21 JSON values,3647 imported sections and compact community-data bytes. Nine tests pass. No retail or all-secrets certification."
+          ],
+          "wholeGuideTextRead": true,
+          "stepChecks": {
+            "chapters": 11,
+            "explicitDirectReferences": 11,
+            "headerImages": 1,
+            "inlineImages": 0
+          },
+          "requirementsAndRewardReviewed": true,
+          "evidenceUrls": [
+            "https://www.reddit.com/r/CODZombies/comments/cwzuuk/weapon_locations_table/",
+            "https://www.reddit.com/r/CODZombies/wiki/alpha-omega/"
           ]
         }
       ]
@@ -87534,26 +88385,6 @@
     "bo3-shadows-of-evil-community-shadows-of-evil-map-features-fumigator",
     "bo3-shadows-of-evil-community-shadows-of-evil-map-features-pods",
     "bo3-shadows-of-evil-community-shadows-of-evil-map-features-power",
-    "bo4-alpha-omega-community-alpha-omega-easter-eggs-quests-extra-perk",
-    "bo4-alpha-omega-community-alpha-omega-easter-eggs-quests-free-self-revive-love-story",
-    "bo4-alpha-omega-community-alpha-omega-easter-eggs-quests-i-am-the-well-music-easter-egg",
-    "bo4-alpha-omega-community-alpha-omega-easter-eggs-quests-insanity-mode",
-    "bo4-alpha-omega-community-alpha-omega-easter-eggs-quests-main-quest",
-    "bo4-alpha-omega-community-alpha-omega-easter-eggs-quests-mannequin-jump-scare",
-    "bo4-alpha-omega-community-alpha-omega-easter-eggs-quests-pernell-avogadro-jump-scare",
-    "bo4-alpha-omega-community-alpha-omega-easter-eggs-quests-rushmore-secret-codes",
-    "bo4-alpha-omega-community-alpha-omega-game-features-perk-locations",
-    "bo4-alpha-omega-community-alpha-omega-map-features-assembly-kit",
-    "bo4-alpha-omega-community-alpha-omega-map-features-mystery-box-locations",
-    "bo4-alpha-omega-community-alpha-omega-map-features-pack-a-punch",
-    "bo4-alpha-omega-community-alpha-omega-map-features-power",
-    "bo4-alpha-omega-community-alpha-omega-map-features-ray-gun-mark-ii-v",
-    "bo4-alpha-omega-community-alpha-omega-map-features-ray-gun-mark-ii-x",
-    "bo4-alpha-omega-community-alpha-omega-map-features-ray-gun-mark-ii-y",
-    "bo4-alpha-omega-community-alpha-omega-map-features-ray-gun-mark-ii-z",
-    "bo4-alpha-omega-community-alpha-omega-map-features-riot-shield",
-    "bo4-alpha-omega-community-alpha-omega-map-features-sergeant-a-d-a-m",
-    "bo4-alpha-omega-community-alpha-omega-map-features-traps",
     "bo4-voyage-of-despair-community-voyage-of-despair-map-features-gauntlet-challenges",
     "bo4-voyage-unsinkable-normal-30-rounds",
     "bo6-abomination-challenge-mo",
@@ -90343,16 +91174,22 @@
         "bo4-tag-der-toten"
       ],
       "note": "Tag der Toten has expanded Standard setup, special-weapon routes, all five totem chains, three songs, achievements and limited firearm/recording references, plus an island landing photo. The exact secret launch, complete recording locations and assignments, current weapon pool, exact puzzle surfaces and retail behavior remain unverified. An Ice Day in Hell remains a separate mode."
+    },
+    {
+      "mapIds": [
+        "bo4-alpha-omega"
+      ],
+      "note": "Alpha Omega has expanded Standard setup, the main quest, four experimental Mark II builds and their packed forms, mannequin side quests, song triggers, all 39 archived keypad codes and weapon/achievement references. Recording locations, the full mannequin census, clock persistence, conflicting upgrade restrictions and current mode behavior remain incomplete or untested. Duck and Cover remains a separate mode."
     }
   ],
   "dataHashFormat": "SHA-256 of UTF-8 JSON files with LF line endings, matching Git and GitHub Pages.",
   "dataSha256": {
     "catalog.json": "1d06d2aa4a42db59b97868073ddbab1d6a33b3ffb4167f2ebe71ceed09eddf2d",
-    "community-corrections.json": "af602f5e286302ffa70d68b22f715e9f0f3a7e38d2cd796e6a81e72c96713c41",
-    "coverage-gaps.json": "0c774756b4c79b911a46ca7b506c8e6b7ef4f0a6c7d77d9bb52084018d6c199f",
+    "community-corrections.json": "4f525c6a86e1d7f7cbb113d30de1f33e8f6cac5c3ae29cae0fb21ba47ecfae1c",
+    "coverage-gaps.json": "be1d23ee5524829b15542d2378f1a79c77fb9aba1fccd232a01f005d325378d3",
     "guides-aw.json": "b5a7e5fb7d83e776452f77060d0714c13f63ae8eeb6e367272c0d00a38cc3855",
     "guides-classic.json": "edd0beb6ef41fc472cf366a296f90de0570e3f7efb0e26ae3d77311fcfbd0364",
-    "guides-community.json": "4638dc97c43f4e3cc9d8f1d01e613de3ea7f814a22451d32be5847b5177392f9",
+    "guides-community.json": "304856769e36cc7a9c5173db30a288ad5b9969f7e7a7a6e873d2f9d7c37ee271",
     "guides-completion-classic.json": "ed538054e7aeb5575de95dc78a345deb25a4111b47049bbd73fd29de06905c7a",
     "guides-completion-modern.json": "5e0086c91529a858bf011cbb6ccfe4bc469b3743f49c9175aac4e0115f460748",
     "guides-completion-modes.json": "7661fccf1e3b1fe4466e8a1f7219706fa1851d6b609c826fa045207810ad3bc5",
@@ -90360,11 +91197,11 @@
     "guides-goal-classic.json": "5621ad45c8750da623b7c48c4fbbb023c358c9853375d50d29e2fedba3b176dd",
     "guides-goal-modern.json": "e2e88076d73c606934b7058c0c84ebeca2a6850f5b635af941f9ce46dafc43dc",
     "guides-goal-modes.json": "a063eeb0db74f9c40a3edecc71cd08853a01dc83c7a4c0f6ef88bde5e202a86c",
-    "guides-goal-root.json": "a6f59bf503f96daad5453ee45e0012b7d81fafed625efb3b630d5a4f6d2d2041",
+    "guides-goal-root.json": "a8e98995d61d71e5e14dfe7a82239b754af823e8d6756cf0eaa7d01d8fca74d4",
     "guides-modern.json": "1082b5feea32d0f1a1650977f1d89b6b789a2b779dcb3e0c2eec9d5cbd9b3630",
     "guides-super-ee-doa4.json": "1d038197c8325f946290b8886d95fce8889291c193a5e8ec6f54124033a17a4a",
     "media-completion.json": "58882d44af4bbe2e09648819c06547084fc33caf994cace9122d512163c22366",
-    "media.json": "8b5b0d682c7c0b4352fe60fdcd3ecd96729d9f0df18bca4aec37e249e0a8ebfe",
+    "media.json": "fb870aa3417ebe2d4622c94ab016a9ee6e02ea167aae6b94460b570af95442d5",
     "reddit-sources.json": "fd7f1c5e946d258d708cc7355e5826a2a8fc02ef9ce071c9e40a4bced6de646a",
     "references.json": "777f48a6c96af27b3e8c11ab161bdf13e6015ebcb4f18d8d24bf81397fdafe06",
     "source-gaps.json": "14803ee0797b8ad30644ff156b1197ce1328fd65a8dd95b3ce04e95ddcf16518"
@@ -90508,9 +91345,10 @@
       "All24 Classified Classic pages render173 chapters/step references and60 attributed weapon/power-up/trap tables on desktop and actual390x844 phones. Five original diagram headers and two native punch-card setup photos load. Chapter/reference targets, focus/menu behavior, Sources/return, song-to-song/Normal-Gauntlet navigation, saved/restored progress, three expandable gap notes and native table panning to the final column pass. Evidence: output/batch43-browser-qa.json.",
       "All22 Dead of the Night pages render182 chapters/step references and20 attributed weapon/enemy/power-up/achievement tables on desktop and actual390x844 phones. Seven original diagram headers, one native candelabra landmark and ten retained Savage Impaler photos load, including the full lazy-loaded candle gallery. Chapter/reference targets, focus/menu, Sources/return, upgrade/Normal-Gauntlet navigation, saved/restored progress, three map gaps and native table panning to the final column pass. Evidence: output/batch44-browser-qa.json.",
       "All21 Ancient Evil pages render141 chapters/step references and15 attributed tables on desktop and actual390x844 phones. Five original headers and one new inline image load. Chapter/reference targets, focus/menu, Sources/return, related Hand/Normal-Gauntlet navigation, saved/restored progress,21-card map gaps and native table panning to the final column pass. Evidence: output/batch45-browser-qa.json.",
-      "All25 Tag der Toten pages render150 chapters/step references and7 attributed tables on desktop and actual390x844 phones. Six new assets load. Chapter/reference targets, focus/menu behavior, Sources/return, Totem/Normal-Gauntlet navigation, saved/restored progress and25-card map gaps pass. All seven tables fit the323px content width. Evidence: output/batch46-browser-qa.json."
+      "All25 Tag der Toten pages render150 chapters/step references and7 attributed tables on desktop and actual390x844 phones. Six new assets load. Chapter/reference targets, focus/menu behavior, Sources/return, Totem/Normal-Gauntlet navigation, saved/restored progress and25-card map gaps pass. All seven tables fit the323px content width. Evidence: output/batch46-browser-qa.json.",
+      "All 27 Alpha Omega pages render 176 chapters and step references, with 31 attributed tables on desktop and actual390x844 phones. Six new assets load. Chapter and reference targets, focus and menus, Sources and return links, base Mark II and Normal Gauntlet navigation, saved and restored progress, and the 27-card map gaps pass. Six wider weapon tables scroll to the final column without page overflow. Evidence: output/batch47-browser-qa.json."
     ],
-    "currentBatchResponsiveLimit": "All25 Tag der Toten guides pass desktop and actual390x844 phone checks. Exact secret-launch behavior, complete physical recording locations/assignments, full current weapon pool, puzzle surfaces and retail verification remain incomplete. Five diagrams are original references; one image illustrates the island destination. Existing fallback-art accounting debt is retained. Evidence: output/batch46-browser-qa.json.",
-    "importerChecks": "Complete importer passed against an isolated changed-output fixture and its unchanged rerun:866 community topics, exact regenerated bytes, preserved five-chapter DE correction and no unnecessary rewrite. Evidence: output/batch19-import-check.json. Zetsubou’s29 imported revisions also survive full regeneration with their authored quotation flags,67 new image placements and all21 JSON values unchanged;3231 imported checklist sections. Evidence: output/batch20-semantic-diff.json. Final Zetsubou Skull correction and two new references preserve all21 JSON values after full regeneration. Evidence: output/batch21-final-import-check.json and output/batch21-semantic-diff.json. Gorod’s27 durable corrections preserve all21 JSON values after full regeneration, with3368 imported checklist sections. Evidence: output/batch22-final-import-check.json and output/batch22-semantic-diff.json. The41-chapter firearm addition and one-step Trials correction preserve all21 final JSON values, with3368 imported checklist sections. Evidence: output/batch23-final-import-check.json and output/batch23-semantic-diff.json. Revelations’32 durable authored corrections preserve all21 final JSON values after full regeneration, with3530 imported checklist sections. Evidence: output/batch24-final-import-check.json and output/batch24-semantic-diff.json. Revelations firearm addition preserves all21 final JSON values, with3530 imported checklist sections and all1527 existing runtime guides unchanged. Evidence: output/batch25-final-import-check.json and output/batch25-semantic-diff.json. The five-chapter Monty addition preserves all21 final JSON values and all1528 existing runtime guides. Evidence: output/batch26-final-import-check.json and output/batch26-semantic-diff.json. The 21 revisions and seven additions preserve all 21 final JSON values after full regeneration, with 3563 imported checklist sections and 1508 other runtime guides unchanged. Evidence: output/batch27-final-import-check.json and output/batch27-semantic-diff.json. The two scoped photo updates preserve all21 final JSON values and all1534 other runtime guides. Evidence: output/batch28-final-import-check.json and output/batch28-semantic-diff.json. The10 scoped Kino revisions and6 additions preserve all21 final JSON values,3563 imported sections and all1526 other runtime guides. Evidence: output/batch29-final-import-check.json and output/batch29-semantic-diff.json. The standalone Kino firearm reference preserves all21 final JSON values and all1542 existing runtime guides. Evidence: output/batch30-final-import-check.json and output/batch30-semantic-diff.json. Ascension’s12 scoped revisions and7 additions preserve all21 final JSON values,3563 imported sections and all1531 other runtime guides. Evidence: output/batch31-final-import-check.json and output/batch31-semantic-diff.json. Shangri’s four revisions/four additions and one Ascension metadata correction preserve all21 final JSON values,3563 imported sections and all1545 unrelated runtime guides. Evidence: output/batch32-final-import-check.json and output/batch32-semantic-diff.json. Moon’s14 scoped revisions and8 additions preserve all21 final JSON values,3563 imported sections and all1540 unrelated runtime guides. Evidence: output/batch33-final-import-check.json and output/batch33-semantic-diff.json. Origins18 scoped revisions and9 additions preserve all21 final JSON values,3563 imported sections and all1544 unrelated runtime guides. Evidence: output/batch34-final-import-check.json and output/batch34-semantic-diff.json. Beast19 scoped revisions and3 additions preserve all21 final JSON values,3563 imported sections and all1552 unrelated runtime guides. Two unsupported candidate upgrade categories were corrected to the existing weapon category before the final passing tests/import. Evidence: output/batch35-final-import-check.json, output/classic-batch62-beast-category-correction.json and output/batch35-semantic-diff.json. Final Reich13 scoped revisions and7 additions preserve all21 final JSON values,3563 imported sections and all1561 unrelated runtime guides. The original source-exclusion log stays intact because the app already distinguishes it from original walkthrough coverage. A transient initial file-write error was followed by a complete passing import. Evidence: output/batch36-final-import-check.json, output/classic-batch63-source-gap-reconciliation.json and output/batch36-semantic-diff.json. Darkest Shore14 scoped revisions and4 additions preserve all21 final JSON values,3563 imported sections and all1567 unrelated runtime guides. The source-exclusion log is preserved. Evidence: output/batch37-final-import-check.json and output/batch37-semantic-diff.json. Shadowed Throne16 scoped revisions and5 additions preserve all21 final JSON values,3563 imported sections and all1569 unrelated runtime guides. The source-exclusion log is preserved. Peer58 restores the head-only shot restriction for Down The Sights. Evidence: output/batch38-final-import-check.json and output/batch38-semantic-diff.json. The recorder addition preserves all1590 existing runtime guides and all21 final JSON values through the full importer. Evidence: output/batch39-final-import-check.json and output/batch39-semantic-diff.json. Two historical clover additions preserve all1591 existing runtime guides and all21 final JSON values through full import. Evidence: output/batch40-final-import-check.json and output/batch40-semantic-diff.json. Frozen Dawn19 scoped revisions and4 additions preserve1574 unrelated runtime guides and all21 final JSON values through full import, with3647 imported checklist sections. The original compact community-data format is retained. Evidence: output/batch41-final-import-check.json and output/batch41-semantic-diff.json. IX12 scoped revisions and7 additions preserve1585 unrelated runtime guide values, the separate Normal Gauntlet row and all21 final JSON values through the full importer. The original compact community-data format is retained. Evidence: output/batch42-final-import-check.json and output/batch42-semantic-diff.json. Classified19 scoped revisions and5 additions preserve1585 unrelated guide values, the separate30-round Normal Gauntlet and all21 final JSON values through full import. Original compact community-data bytes remain intact. Evidence: output/batch43-final-import-check.json and output/batch43-semantic-diff.json. Dead of the Night14 scoped revisions and7 additions preserve1595 existing guide values, the unchanged source Gauntlet and separate30-round Normal route, and all21 final JSON values through full import. Original compact community-data bytes remain intact. Evidence: output/batch44-final-import-check.json and output/batch44-semantic-diff.json. Ancient Evil15 scoped revisions and5 additions preserve1601 existing guide values, all93 old progress keys, the unchanged source Gauntlet and separate30-round Normal route, and all21 final JSON values through full import. Original compact community-data bytes remain intact. Evidence: output/batch45-final-import-check.json and output/batch45-semantic-diff.json. Tag der Toten20 scoped revisions and5 additions preserve1601 existing guide values, all24 old progress keys, the separate30-round Normal Gauntlet and all21 final JSON values through full import. Original compact community-data bytes remain intact. Evidence: output/batch46-final-import-check.json and output/batch46-semantic-diff.json."
+    "currentBatchResponsiveLimit": "All 27 Alpha Omega guides pass desktop and actual390x844 phone checks. The complete recording and mannequin census, clock persistence, disputed weapon restrictions, exact puzzle surfaces, current mode rules and retail verification remain incomplete. Five diagrams are original references. Cabinet frame does not verify gameplay. Existing fallback-art accounting debt is retained. Evidence: output/batch47-browser-qa.json.",
+    "importerChecks": "Complete importer passed against an isolated changed-output fixture and its unchanged rerun:866 community topics, exact regenerated bytes, preserved five-chapter DE correction and no unnecessary rewrite. Evidence: output/batch19-import-check.json. Zetsubou’s29 imported revisions also survive full regeneration with their authored quotation flags,67 new image placements and all21 JSON values unchanged;3231 imported checklist sections. Evidence: output/batch20-semantic-diff.json. Final Zetsubou Skull correction and two new references preserve all21 JSON values after full regeneration. Evidence: output/batch21-final-import-check.json and output/batch21-semantic-diff.json. Gorod’s27 durable corrections preserve all21 JSON values after full regeneration, with3368 imported checklist sections. Evidence: output/batch22-final-import-check.json and output/batch22-semantic-diff.json. The41-chapter firearm addition and one-step Trials correction preserve all21 final JSON values, with3368 imported checklist sections. Evidence: output/batch23-final-import-check.json and output/batch23-semantic-diff.json. Revelations’32 durable authored corrections preserve all21 final JSON values after full regeneration, with3530 imported checklist sections. Evidence: output/batch24-final-import-check.json and output/batch24-semantic-diff.json. Revelations firearm addition preserves all21 final JSON values, with3530 imported checklist sections and all1527 existing runtime guides unchanged. Evidence: output/batch25-final-import-check.json and output/batch25-semantic-diff.json. The five-chapter Monty addition preserves all21 final JSON values and all1528 existing runtime guides. Evidence: output/batch26-final-import-check.json and output/batch26-semantic-diff.json. The 21 revisions and seven additions preserve all 21 final JSON values after full regeneration, with 3563 imported checklist sections and 1508 other runtime guides unchanged. Evidence: output/batch27-final-import-check.json and output/batch27-semantic-diff.json. The two scoped photo updates preserve all21 final JSON values and all1534 other runtime guides. Evidence: output/batch28-final-import-check.json and output/batch28-semantic-diff.json. The10 scoped Kino revisions and6 additions preserve all21 final JSON values,3563 imported sections and all1526 other runtime guides. Evidence: output/batch29-final-import-check.json and output/batch29-semantic-diff.json. The standalone Kino firearm reference preserves all21 final JSON values and all1542 existing runtime guides. Evidence: output/batch30-final-import-check.json and output/batch30-semantic-diff.json. Ascension’s12 scoped revisions and7 additions preserve all21 final JSON values,3563 imported sections and all1531 other runtime guides. Evidence: output/batch31-final-import-check.json and output/batch31-semantic-diff.json. Shangri’s four revisions/four additions and one Ascension metadata correction preserve all21 final JSON values,3563 imported sections and all1545 unrelated runtime guides. Evidence: output/batch32-final-import-check.json and output/batch32-semantic-diff.json. Moon’s14 scoped revisions and8 additions preserve all21 final JSON values,3563 imported sections and all1540 unrelated runtime guides. Evidence: output/batch33-final-import-check.json and output/batch33-semantic-diff.json. Origins18 scoped revisions and9 additions preserve all21 final JSON values,3563 imported sections and all1544 unrelated runtime guides. Evidence: output/batch34-final-import-check.json and output/batch34-semantic-diff.json. Beast19 scoped revisions and3 additions preserve all21 final JSON values,3563 imported sections and all1552 unrelated runtime guides. Two unsupported candidate upgrade categories were corrected to the existing weapon category before the final passing tests/import. Evidence: output/batch35-final-import-check.json, output/classic-batch62-beast-category-correction.json and output/batch35-semantic-diff.json. Final Reich13 scoped revisions and7 additions preserve all21 final JSON values,3563 imported sections and all1561 unrelated runtime guides. The original source-exclusion log stays intact because the app already distinguishes it from original walkthrough coverage. A transient initial file-write error was followed by a complete passing import. Evidence: output/batch36-final-import-check.json, output/classic-batch63-source-gap-reconciliation.json and output/batch36-semantic-diff.json. Darkest Shore14 scoped revisions and4 additions preserve all21 final JSON values,3563 imported sections and all1567 unrelated runtime guides. The source-exclusion log is preserved. Evidence: output/batch37-final-import-check.json and output/batch37-semantic-diff.json. Shadowed Throne16 scoped revisions and5 additions preserve all21 final JSON values,3563 imported sections and all1569 unrelated runtime guides. The source-exclusion log is preserved. Peer58 restores the head-only shot restriction for Down The Sights. Evidence: output/batch38-final-import-check.json and output/batch38-semantic-diff.json. The recorder addition preserves all1590 existing runtime guides and all21 final JSON values through the full importer. Evidence: output/batch39-final-import-check.json and output/batch39-semantic-diff.json. Two historical clover additions preserve all1591 existing runtime guides and all21 final JSON values through full import. Evidence: output/batch40-final-import-check.json and output/batch40-semantic-diff.json. Frozen Dawn19 scoped revisions and4 additions preserve1574 unrelated runtime guides and all21 final JSON values through full import, with3647 imported checklist sections. The original compact community-data format is retained. Evidence: output/batch41-final-import-check.json and output/batch41-semantic-diff.json. IX12 scoped revisions and7 additions preserve1585 unrelated runtime guide values, the separate Normal Gauntlet row and all21 final JSON values through the full importer. The original compact community-data format is retained. Evidence: output/batch42-final-import-check.json and output/batch42-semantic-diff.json. Classified19 scoped revisions and5 additions preserve1585 unrelated guide values, the separate30-round Normal Gauntlet and all21 final JSON values through full import. Original compact community-data bytes remain intact. Evidence: output/batch43-final-import-check.json and output/batch43-semantic-diff.json. Dead of the Night14 scoped revisions and7 additions preserve1595 existing guide values, the unchanged source Gauntlet and separate30-round Normal route, and all21 final JSON values through full import. Original compact community-data bytes remain intact. Evidence: output/batch44-final-import-check.json and output/batch44-semantic-diff.json. Ancient Evil15 scoped revisions and5 additions preserve1601 existing guide values, all93 old progress keys, the unchanged source Gauntlet and separate30-round Normal route, and all21 final JSON values through full import. Original compact community-data bytes remain intact. Evidence: output/batch45-final-import-check.json and output/batch45-semantic-diff.json. Tag der Toten20 scoped revisions and5 additions preserve1601 existing guide values, all24 old progress keys, the separate30-round Normal Gauntlet and all21 final JSON values through full import. Original compact community-data bytes remain intact. Evidence: output/batch46-final-import-check.json and output/batch46-semantic-diff.json. Alpha Omega22 scoped revisions and5 additions preserve1604 existing guide values, all55 old progress keys, the separate30-round Normal Gauntlet and all21 final JSON values through full import. Original compact community-data bytes remain intact. Evidence: output/batch47-final-import-check.json and output/batch47-semantic-diff.json."
   }
 }
